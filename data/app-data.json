@@ -1,7 +1,22 @@
 {
-  "remarks": {},
+  "remarks": {
+    "SLE32D2010TC||WALAPANE": {
+      "remark": "Offered 20%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-07",
+      "commentTime": "10:50:20",
+      "lastUpdated": "2026-08-07T05:20:20.906Z"
+    }
+  },
   "showroomVisits": {},
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-07",
+      "time": "10:50:20",
+      "iso": "2026-08-07T05:20:20.907Z",
+      "action": "updated remark for SLE32D2010TC at WALAPANE: “Offered 20%”"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-07",
