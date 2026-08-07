@@ -1,13 +1,5 @@
 {
-  "remarks": {
-    "MB-SAFARI4S-RED||Automobie Pamunugama": {
-      "remark": "At warehouse",
-      "commentedBy": "Shanuka Herath",
-      "commentDate": "2026-08-07",
-      "commentTime": "19:33:38",
-      "lastUpdated": "2026-08-07T14:03:38.908Z"
-    }
-  },
+  "remarks": {},
   "showroomVisits": {
     "MEGA - SHANGRI-LA||MEGA COLOMBO METRO ZONE-": {
       "visited": "No",
@@ -19,6 +11,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-07",
+      "time": "19:33:56",
+      "iso": "2026-08-07T14:03:56.541Z",
+      "action": "updated remark for MB-SAFARI4S-RED at Automobie Pamunugama (cleared)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-07",
