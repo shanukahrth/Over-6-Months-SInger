@@ -40,7 +40,7 @@
       "updatedDate": "2026-08-10"
     },
     "KOLONNE||EMBILIPITIYA": {
-      "visited": "Yes",
+      "visited": "No",
       "visitDate": "",
       "team": "",
       "remark": "",
@@ -49,6 +49,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-10",
+      "time": "16:34:35",
+      "iso": "2026-08-10T11:04:35.113Z",
+      "action": "updated KOLONNE showroom (visited: No)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-10",
