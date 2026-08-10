@@ -29,5 +29,5 @@ window.OVER6_SHARED_GITHUB_CONFIG = {
   owner: "shanukahrth",              // GitHub username or org
   repo: "Over-6-Months-SInger",      // repository name, exactly as on GitHub
   branch: "main",                    // leave as "main" unless your repo uses a different default branch
-  token: "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"                          // paste your fine-grained PAT here (Contents: Read and write, this repo only)
+  token: "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"                          // paste your fine-grained PAT here (Contents: Read and write, this repo only)
 };
