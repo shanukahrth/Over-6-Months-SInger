@@ -20,13 +20,6 @@
       "commentDate": "2026-08-10",
       "commentTime": "15:05:37",
       "lastUpdated": "2026-08-10T09:35:37.749Z"
-    },
-    "SAS-24V-INV||MEGA-MAHARAGAMA": {
-      "remark": "Test",
-      "commentedBy": "Shanuka Herath",
-      "commentDate": "2026-08-10",
-      "commentTime": "16:32:47",
-      "lastUpdated": "2026-08-10T11:02:47.834Z"
     }
   },
   "showroomVisits": {
@@ -48,6 +41,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-10",
+      "time": "16:33:02",
+      "iso": "2026-08-10T11:03:02.585Z",
+      "action": "updated remark for SAS-24V-INV at MEGA-MAHARAGAMA (cleared)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-10",
