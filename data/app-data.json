@@ -34,13 +34,20 @@
     "MEGA-MILAGIRIYA||MEGA COLOMBO METRO ZONE-": {
       "visited": "Yes",
       "visitDate": "",
-      "team": "",
+      "team": "Test CE",
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-10"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-10",
+      "time": "15:17:55",
+      "iso": "2026-08-10T09:47:55.611Z",
+      "action": "updated MEGA-MILAGIRIYA showroom (team: Test CE)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-10",
