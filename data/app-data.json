@@ -41,7 +41,7 @@
       "updatedDate": "2026-08-11"
     },
     "DAMBULLA||DAMBULLA": {
-      "visited": "Yes",
+      "visited": "No",
       "visitDate": "2026-08-12",
       "team": "",
       "remark": "",
@@ -50,6 +50,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Esala Herath",
+      "date": "2026-08-11",
+      "time": "16:29:46",
+      "iso": "2026-08-11T10:59:46.198Z",
+      "action": "updated DAMBULLA showroom (visited: No)"
+    },
     {
       "user": "Esala Herath",
       "date": "2026-08-11",
