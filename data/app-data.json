@@ -33,11 +33,11 @@
       "updatedDate": "2026-08-11"
     },
     "MEGA - SHANGRI-LA||MEGA COLOMBO METRO ZONE-": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "",
       "team": "",
       "remark": "",
-      "updatedBy": "Shanuka Herath",
+      "updatedBy": "Isuru Hewawasam",
       "updatedDate": "2026-08-11"
     },
     "DAMBULLA||DAMBULLA": {
@@ -50,6 +50,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Isuru Hewawasam",
+      "date": "2026-08-11",
+      "time": "18:57:36",
+      "iso": "2026-08-11T13:27:36.989Z",
+      "action": "updated MEGA - SHANGRI-LA showroom (visited: Yes)"
+    },
     {
       "user": "Esala Herath",
       "date": "2026-08-11",
