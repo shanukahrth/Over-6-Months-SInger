@@ -1399,6 +1399,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:37:27",
       "lastUpdated": "2026-08-12T10:07:27.746Z"
+    },
+    "SMG-SM-A057F-4-128-B||MORATUWA - B": {
+      "remark": "Exchange",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:37:48",
+      "lastUpdated": "2026-08-12T10:07:48.263Z"
     }
   },
   "showroomVisits": {
@@ -1460,6 +1467,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:37:48",
+      "iso": "2026-08-12T10:07:48.264Z",
+      "action": "updated remark for SMG-SM-A057F-4-128-B at MORATUWA - B: “Exchange”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1801,13 +1815,6 @@
       "date": "2026-08-12",
       "time": "13:14:07",
       "iso": "2026-08-12T07:44:07.108Z",
-      "action": "updated remark for SKS-1089 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:14:02",
-      "iso": "2026-08-12T07:44:02.851Z",
       "action": "updated remark for SKS-1089 at KATUBEDDA: “Up to 50%”"
     }
   ]
