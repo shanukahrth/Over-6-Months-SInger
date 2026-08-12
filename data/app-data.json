@@ -643,6 +643,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:51:33",
       "lastUpdated": "2026-08-12T07:21:33.386Z"
+    },
+    "WF-QUEEN-311-GR-S||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:52:03",
+      "lastUpdated": "2026-08-12T07:22:03.595Z"
     }
   },
   "showroomVisits": {
@@ -696,6 +703,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:52:03",
+      "iso": "2026-08-12T07:22:03.596Z",
+      "action": "updated remark for WF-QUEEN-311-GR-S at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1038,13 +1052,6 @@
       "time": "10:59:35",
       "iso": "2026-08-12T05:29:35.163Z",
       "action": "updated remark for PH-BHC010-10 at RATHMALANA: “Sold”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:59:23",
-      "iso": "2026-08-12T05:29:23.465Z",
-      "action": "updated remark for PM-COMP-GSM at RATHMALANA: “Shop Use”"
     }
   ]
 }
