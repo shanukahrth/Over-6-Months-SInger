@@ -1504,6 +1504,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:42:43",
       "lastUpdated": "2026-08-12T10:12:43.481Z"
+    },
+    "BES-WP15-ECO||MORATUWA - B": {
+      "remark": "In shop. No discounts allocated",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:43:12",
+      "lastUpdated": "2026-08-12T10:13:12.877Z"
     }
   },
   "showroomVisits": {
@@ -1565,6 +1572,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:43:12",
+      "iso": "2026-08-12T10:13:12.878Z",
+      "action": "updated remark for BES-WP15-ECO at MORATUWA - B: “In shop. No discounts allocated”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1907,13 +1921,6 @@
       "time": "13:18:39",
       "iso": "2026-08-12T07:48:39.171Z",
       "action": "updated remark for LP-AP01 at KATUBEDDA: “Available in shop. no discount”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:18:16",
-      "iso": "2026-08-12T07:48:16.824Z",
-      "action": "updated remark for R-BWS-02 at KATUBEDDA: “Additional 30%”"
     }
   ]
 }
