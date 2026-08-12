@@ -916,6 +916,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:04:49",
       "lastUpdated": "2026-08-12T07:34:49.072Z"
+    },
+    "TF-FP24-SCR342||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:04:51",
+      "lastUpdated": "2026-08-12T07:34:51.310Z"
     }
   },
   "showroomVisits": {
@@ -969,6 +976,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:51",
+      "iso": "2026-08-12T07:34:51.310Z",
+      "action": "updated remark for TF-FP24-SCR342 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1311,13 +1325,6 @@
       "time": "12:51:06",
       "iso": "2026-08-12T07:21:06.352Z",
       "action": "updated remark for SLE55GENR at KATUBEDDA: “No discounts. Available at shop”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:50:41",
-      "iso": "2026-08-12T07:20:41.121Z",
-      "action": "updated remark for SRS-XV500 at KATUBEDDA: “Up to 30%”"
     }
   ]
 }
