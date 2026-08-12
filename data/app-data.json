@@ -888,6 +888,27 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:04:33",
       "lastUpdated": "2026-08-12T07:34:33.094Z"
+    },
+    "TF-SI-EXS1230||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:04:42",
+      "lastUpdated": "2026-08-12T07:34:42.070Z"
+    },
+    "TF-NIDFP24-170||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:04:43",
+      "lastUpdated": "2026-08-12T07:34:43.221Z"
+    },
+    "TF-SI-EXSP1231||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:04:44",
+      "lastUpdated": "2026-08-12T07:34:44.970Z"
     }
   },
   "showroomVisits": {
@@ -941,6 +962,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:44",
+      "iso": "2026-08-12T07:34:44.971Z",
+      "action": "updated remark for TF-SI-EXSP1231 at KATUBEDDA: “Up to 50%”"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:43",
+      "iso": "2026-08-12T07:34:43.221Z",
+      "action": "updated remark for TF-NIDFP24-170 at KATUBEDDA: “Up to 50%”"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:42",
+      "iso": "2026-08-12T07:34:42.070Z",
+      "action": "updated remark for TF-SI-EXS1230 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1269,27 +1311,6 @@
       "time": "12:50:01",
       "iso": "2026-08-12T07:20:01.281Z",
       "action": "updated remark for M-SRK09CRR-S at KATUBEDDA: “Up to 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:49:36",
-      "iso": "2026-08-12T07:19:36.387Z",
-      "action": "updated remark for B-BDFN26530B at KATUBEDDA: “No discounts. Available at shop”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:49:33",
-      "iso": "2026-08-12T07:19:33.820Z",
-      "action": "updated remark for H-RSQG018MFEOE at KATUBEDDA: “No discounts. Available at shop”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:49:23",
-      "iso": "2026-08-12T07:19:23.340Z",
-      "action": "updated remark for KD-50X75K at KATUBEDDA: “Up to 40%”"
     }
   ]
 }
