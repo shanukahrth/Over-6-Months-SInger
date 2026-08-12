@@ -216,6 +216,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:48:34",
       "lastUpdated": "2026-08-12T05:18:34.882Z"
+    },
+    "HFPA-GRAVITY-BLU||RATHMALANA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:48:46",
+      "lastUpdated": "2026-08-12T05:18:46.038Z"
     }
   },
   "showroomVisits": {
@@ -261,6 +268,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:48:46",
+      "iso": "2026-08-12T05:18:46.040Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at RATHMALANA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -603,13 +617,6 @@
       "time": "13:39:10",
       "iso": "2026-08-11T08:09:10.141Z",
       "action": "updated remark for SKY65SXF9850 at KURUNEGALA C (cleared)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-11",
-      "time": "13:39:00",
-      "iso": "2026-08-11T08:09:00.655Z",
-      "action": "updated remark for SKY65SXF9850 at KURUNEGALA C: “Test”"
     }
   ]
 }
