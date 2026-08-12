@@ -293,6 +293,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:55:20",
       "lastUpdated": "2026-08-12T05:25:20.110Z"
+    },
+    "SIN-RFC-1819||RATHMALANA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:55:22",
+      "lastUpdated": "2026-08-12T05:25:22.748Z"
     }
   },
   "showroomVisits": {
@@ -338,6 +345,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:55:22",
+      "iso": "2026-08-12T05:25:22.750Z",
+      "action": "updated remark for SIN-RFC-1819 at RATHMALANA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -680,13 +694,6 @@
       "time": "10:02:11",
       "iso": "2026-08-12T04:32:11.759Z",
       "action": "updated RATHMALANA showroom (visitDate: 2026-08-12)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:02:06",
-      "iso": "2026-08-12T04:32:06.867Z",
-      "action": "updated RATHMALANA showroom (visited: Yes)"
     }
   ]
 }
