@@ -1315,6 +1315,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:32:43",
       "lastUpdated": "2026-08-12T10:02:43.919Z"
+    },
+    "GEO-242D-SV||MORATUWA - B": {
+      "remark": "Up to 25%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:33:21",
+      "lastUpdated": "2026-08-12T10:03:21.842Z"
     }
   },
   "showroomVisits": {
@@ -1376,6 +1383,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:33:21",
+      "iso": "2026-08-12T10:03:21.844Z",
+      "action": "updated remark for GEO-242D-SV at MORATUWA - B: “Up to 25%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1717,13 +1731,6 @@
       "date": "2026-08-12",
       "time": "13:12:11",
       "iso": "2026-08-12T07:42:11.156Z",
-      "action": "updated remark for TF-NIFP28-042 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:12:08",
-      "iso": "2026-08-12T07:42:08.293Z",
       "action": "updated remark for TF-NIFP28-042 at KATUBEDDA: “Up to 50%”"
     }
   ]
