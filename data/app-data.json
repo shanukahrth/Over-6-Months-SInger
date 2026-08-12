@@ -489,6 +489,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:03:52",
       "lastUpdated": "2026-08-12T05:33:52.980Z"
+    },
+    "CTL-RL207||RATHMALANA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:04:07",
+      "lastUpdated": "2026-08-12T05:34:07.850Z"
     }
   },
   "showroomVisits": {
@@ -534,6 +541,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:04:07",
+      "iso": "2026-08-12T05:34:07.852Z",
+      "action": "updated remark for CTL-RL207 at RATHMALANA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -876,13 +890,6 @@
       "time": "10:48:19",
       "iso": "2026-08-12T05:18:19.831Z",
       "action": "updated remark for SLE40D4000 at RATHMALANA: “Up to 70%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:48:13",
-      "iso": "2026-08-12T05:18:13.272Z",
-      "action": "updated remark for SMGUA32N4010 at RATHMALANA: “Additional 28%”"
     }
   ]
 }
