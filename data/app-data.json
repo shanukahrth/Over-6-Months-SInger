@@ -1301,6 +1301,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:30:40",
       "lastUpdated": "2026-08-12T10:00:40.707Z"
+    },
+    "SMGUA43T5400||MORATUWA - B": {
+      "remark": "Up to 70%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:32:24",
+      "lastUpdated": "2026-08-12T10:02:24.664Z"
     }
   },
   "showroomVisits": {
@@ -1362,6 +1369,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:32:24",
+      "iso": "2026-08-12T10:02:24.666Z",
+      "action": "updated remark for SMGUA43T5400 at MORATUWA - B: “Up to 70%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1704,13 +1718,6 @@
       "time": "13:12:07",
       "iso": "2026-08-12T07:42:07.012Z",
       "action": "updated remark for TF-KD24-061 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:12:05",
-      "iso": "2026-08-12T07:42:05.403Z",
-      "action": "updated remark for TF-CM-APR737 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
