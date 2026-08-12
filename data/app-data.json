@@ -839,6 +839,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:01:04",
       "lastUpdated": "2026-08-12T07:31:04.064Z"
+    },
+    "TF-NIGP26-119||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:01:19",
+      "lastUpdated": "2026-08-12T07:31:19.919Z"
     }
   },
   "showroomVisits": {
@@ -892,6 +899,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:01:19",
+      "iso": "2026-08-12T07:31:19.920Z",
+      "action": "updated remark for TF-NIGP26-119 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1234,13 +1248,6 @@
       "time": "12:47:42",
       "iso": "2026-08-12T07:17:42.438Z",
       "action": "updated remark for MB-SAFARI4S-BLK at KATUBEDDA: “Available”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:47:40",
-      "iso": "2026-08-12T07:17:40.892Z",
-      "action": "updated remark for MB-SAFARI4S-BLK at KATUBEDDA: “Avaliable”"
     }
   ]
 }
