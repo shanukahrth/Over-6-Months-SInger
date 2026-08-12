@@ -1112,6 +1112,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:13:24",
       "lastUpdated": "2026-08-12T07:43:24.190Z"
+    },
+    "SIN-RFC-2012||KATUBEDDA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:13:48",
+      "lastUpdated": "2026-08-12T07:43:48.803Z"
     }
   },
   "showroomVisits": {
@@ -1165,6 +1172,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:13:48",
+      "iso": "2026-08-12T07:43:48.804Z",
+      "action": "updated remark for SIN-RFC-2012 at KATUBEDDA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1507,13 +1521,6 @@
       "time": "13:03:53",
       "iso": "2026-08-12T07:33:53.597Z",
       "action": "updated remark for MID-MJ-KM6001W at KATUBEDDA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:03:47",
-      "iso": "2026-08-12T07:33:47.044Z",
-      "action": "updated remark for NUBIA-OWS-CLIP-2025-GRY at KATUBEDDA: “Free Issue”"
     }
   ]
 }
