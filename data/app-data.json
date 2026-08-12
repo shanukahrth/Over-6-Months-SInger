@@ -167,6 +167,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:46:45",
       "lastUpdated": "2026-08-12T05:16:45.457Z"
+    },
+    "SIN-DEC-DCWL||RATHMALANA": {
+      "remark": "Sold",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:46:58",
+      "lastUpdated": "2026-08-12T05:16:58.675Z"
     }
   },
   "showroomVisits": {
@@ -212,6 +219,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:46:58",
+      "iso": "2026-08-12T05:16:58.677Z",
+      "action": "updated remark for SIN-DEC-DCWL at RATHMALANA: “Sold”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -554,13 +568,6 @@
       "time": "13:27:33",
       "iso": "2026-08-11T07:57:33.582Z",
       "action": "updated remark for AS-13G-I7-512GB-370-BLU at SHANUKA HERATH: “Slim Project”"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-11",
-      "time": "13:27:28",
-      "iso": "2026-08-11T07:57:28.671Z",
-      "action": "updated remark for DELL3511-I7-8GB512-SIL at SHANUKA HERATH: “SLIM Project”"
     }
   ]
 }
