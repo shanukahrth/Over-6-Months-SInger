@@ -776,6 +776,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:57:31",
       "lastUpdated": "2026-08-12T07:27:31.076Z"
+    },
+    "WF-SKY-211-MR-S||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:57:42",
+      "lastUpdated": "2026-08-12T07:27:42.663Z"
     }
   },
   "showroomVisits": {
@@ -829,6 +836,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:57:42",
+      "iso": "2026-08-12T07:27:42.664Z",
+      "action": "updated remark for WF-SKY-211-MR-S at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1171,13 +1185,6 @@
       "time": "11:05:06",
       "iso": "2026-08-12T05:35:06.236Z",
       "action": "updated remark for SIN-BY605 at RATHMALANA: “Additional 5%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:04:46",
-      "iso": "2026-08-12T05:34:46.455Z",
-      "action": "updated remark for NCPDG-MP160 at RATHMALANA: “Additional 40%”"
     }
   ]
 }
