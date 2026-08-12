@@ -734,6 +734,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:55:48",
       "lastUpdated": "2026-08-12T07:25:48.250Z"
+    },
+    "HON-X8C-8-512-BLK||KATUBEDDA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:55:52",
+      "lastUpdated": "2026-08-12T07:25:52.567Z"
     }
   },
   "showroomVisits": {
@@ -787,6 +794,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:55:52",
+      "iso": "2026-08-12T07:25:52.567Z",
+      "action": "updated remark for HON-X8C-8-512-BLK at KATUBEDDA: “Additional 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1129,13 +1143,6 @@
       "time": "11:03:10",
       "iso": "2026-08-12T05:33:10.783Z",
       "action": "updated remark for ENG-UE10054 at RATHMALANA: “Damaged. 70 %Discount”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:02:46",
-      "iso": "2026-08-12T05:32:46.644Z",
-      "action": "updated remark for STT-1BSS at RATHMALANA: “Up TO 40%”"
     }
   ]
 }
