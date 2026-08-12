@@ -1308,6 +1308,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:32:24",
       "lastUpdated": "2026-08-12T10:02:24.664Z"
+    },
+    "BES-CRS-51||MORATUWA - B": {
+      "remark": "Additional 20%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:32:43",
+      "lastUpdated": "2026-08-12T10:02:43.919Z"
     }
   },
   "showroomVisits": {
@@ -1369,6 +1376,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:32:43",
+      "iso": "2026-08-12T10:02:43.921Z",
+      "action": "updated remark for BES-CRS-51 at MORATUWA - B: “Additional 20%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1711,13 +1725,6 @@
       "time": "13:12:08",
       "iso": "2026-08-12T07:42:08.293Z",
       "action": "updated remark for TF-NIFP28-042 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:12:07",
-      "iso": "2026-08-12T07:42:07.012Z",
-      "action": "updated remark for TF-KD24-061 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
