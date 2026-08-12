@@ -944,6 +944,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:06:08",
       "lastUpdated": "2026-08-12T07:36:08.058Z"
+    },
+    "SIN-PSVX938N||KATUBEDDA": {
+      "remark": "Sold",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:06:11",
+      "lastUpdated": "2026-08-12T07:36:11.840Z"
     }
   },
   "showroomVisits": {
@@ -997,6 +1004,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:06:11",
+      "iso": "2026-08-12T07:36:11.841Z",
+      "action": "updated remark for SIN-PSVX938N at KATUBEDDA: “Sold”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1339,13 +1353,6 @@
       "time": "12:52:17",
       "iso": "2026-08-12T07:22:17.837Z",
       "action": "updated remark for HON-H200-12-512-BLK at KATUBEDDA: “Additional 15%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:52:09",
-      "iso": "2026-08-12T07:22:09.171Z",
-      "action": "updated remark for HON-H90-12-512-BLU at KATUBEDDA: “Additional 15 %”"
     }
   ]
 }
