@@ -1392,6 +1392,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:36:50",
       "lastUpdated": "2026-08-12T10:06:50.715Z"
+    },
+    "PN-TH-32M402N||MORATUWA - B": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:37:27",
+      "lastUpdated": "2026-08-12T10:07:27.746Z"
     }
   },
   "showroomVisits": {
@@ -1453,6 +1460,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:37:27",
+      "iso": "2026-08-12T10:07:27.748Z",
+      "action": "updated remark for PN-TH-32M402N at MORATUWA - B: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1795,13 +1809,6 @@
       "time": "13:14:02",
       "iso": "2026-08-12T07:44:02.851Z",
       "action": "updated remark for SKS-1089 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:13:56",
-      "iso": "2026-08-12T07:43:56.092Z",
-      "action": "updated remark for SIN-RFC-1819 at KATUBEDDA: “Additional 30%”"
     }
   ]
 }
