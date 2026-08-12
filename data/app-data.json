@@ -286,6 +286,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:54:58",
       "lastUpdated": "2026-08-12T05:24:58.287Z"
+    },
+    "SIN-DEC-FDC||RATHMALANA": {
+      "remark": "Sold",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:55:20",
+      "lastUpdated": "2026-08-12T05:25:20.110Z"
     }
   },
   "showroomVisits": {
@@ -331,6 +338,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:55:20",
+      "iso": "2026-08-12T05:25:20.113Z",
+      "action": "updated remark for SIN-DEC-FDC at RATHMALANA: “Sold”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -673,13 +687,6 @@
       "time": "10:02:06",
       "iso": "2026-08-12T04:32:06.867Z",
       "action": "updated RATHMALANA showroom (visited: Yes)"
-    },
-    {
-      "user": "Isuru Hewawasam",
-      "date": "2026-08-11",
-      "time": "18:57:41",
-      "iso": "2026-08-11T13:27:41.110Z",
-      "action": "updated MEGA - SHANGRI-LA showroom (visited: No)"
     }
   ]
 }
