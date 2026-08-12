@@ -1343,6 +1343,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:33:53",
       "lastUpdated": "2026-08-12T10:03:53.724Z"
+    },
+    "GEO-182S-BU1||MORATUWA - B": {
+      "remark": "Sold Out",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:35:08",
+      "lastUpdated": "2026-08-12T10:05:08.433Z"
     }
   },
   "showroomVisits": {
@@ -1404,6 +1411,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:35:08",
+      "iso": "2026-08-12T10:05:08.435Z",
+      "action": "updated remark for GEO-182S-BU1 at MORATUWA - B: “Sold Out”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1745,13 +1759,6 @@
       "date": "2026-08-12",
       "time": "13:12:20",
       "iso": "2026-08-12T07:42:20.189Z",
-      "action": "updated remark for TF-SP16-063 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:12:16",
-      "iso": "2026-08-12T07:42:16.750Z",
       "action": "updated remark for TF-SP16-063 at KATUBEDDA: “Up to 50%”"
     }
   ]
