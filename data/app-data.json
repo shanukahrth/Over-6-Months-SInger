@@ -671,6 +671,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:52:40",
       "lastUpdated": "2026-08-12T07:22:40.386Z"
+    },
+    "MHC-V13||KATUBEDDA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:52:55",
+      "lastUpdated": "2026-08-12T07:22:55.398Z"
     }
   },
   "showroomVisits": {
@@ -724,6 +731,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:52:55",
+      "iso": "2026-08-12T07:22:55.399Z",
+      "action": "updated remark for MHC-V13 at KATUBEDDA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1066,13 +1080,6 @@
       "time": "11:01:17",
       "iso": "2026-08-12T05:31:17.760Z",
       "action": "updated remark for TF-GS-SPKT302 at RATHMALANA: “Up to 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:01:13",
-      "iso": "2026-08-12T05:31:13.958Z",
-      "action": "updated remark for KA-TXG-DS11A at RATHMALANA: “Damaged. Up to 50%”"
     }
   ]
 }
