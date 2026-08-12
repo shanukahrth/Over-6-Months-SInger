@@ -692,6 +692,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:53:45",
       "lastUpdated": "2026-08-12T07:23:45.167Z"
+    },
+    "BES-CRS-51||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:54:05",
+      "lastUpdated": "2026-08-12T07:24:05.627Z"
     }
   },
   "showroomVisits": {
@@ -745,6 +752,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:54:05",
+      "iso": "2026-08-12T07:24:05.628Z",
+      "action": "updated remark for BES-CRS-51 at KATUBEDDA: “Up to 50%”"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:54:03",
+      "iso": "2026-08-12T07:24:03.987Z",
+      "action": "updated remark for BES-CRS-51 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1080,20 +1101,6 @@
       "time": "11:01:54",
       "iso": "2026-08-12T05:31:54.550Z",
       "action": "updated remark for HON-CH-EARBUDS-X7E at RATHMALANA: “Sold”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:01:51",
-      "iso": "2026-08-12T05:31:51.631Z",
-      "action": "updated remark for PH-BG1024 at RATHMALANA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:01:39",
-      "iso": "2026-08-12T05:31:39.025Z",
-      "action": "updated remark for DH-I-A22EP-IMOU at RATHMALANA: “Up to 70%”"
     }
   ]
 }
