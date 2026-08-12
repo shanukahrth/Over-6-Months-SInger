@@ -634,8 +634,8 @@
       "remark": "Additional 15%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "12:51:11",
-      "lastUpdated": "2026-08-12T07:21:11.176Z"
+      "commentTime": "12:55:08",
+      "lastUpdated": "2026-08-12T07:25:08.063Z"
     },
     "H-BD-1054HVOS||KATUBEDDA": {
       "remark": "Additional 10%",
@@ -773,6 +773,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:55:08",
+      "iso": "2026-08-12T07:25:08.063Z",
+      "action": "updated remark for HON-X9CSMART-12-256-BLK at KATUBEDDA: “Additional 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1115,13 +1122,6 @@
       "time": "11:02:35",
       "iso": "2026-08-12T05:32:35.178Z",
       "action": "updated remark for STT-1BSS at RATHMALANA: “uP TO 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:02:18",
-      "iso": "2026-08-12T05:32:18.108Z",
-      "action": "updated remark for TF-SI-ESS-242 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
