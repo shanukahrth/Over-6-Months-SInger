@@ -1049,6 +1049,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:11:01",
       "lastUpdated": "2026-08-12T07:41:01.158Z"
+    },
+    "WF-BRN-ST-RTK-S||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:11:14",
+      "lastUpdated": "2026-08-12T07:41:14.173Z"
     }
   },
   "showroomVisits": {
@@ -1102,6 +1109,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:11:14",
+      "iso": "2026-08-12T07:41:14.173Z",
+      "action": "updated remark for WF-BRN-ST-RTK-S at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1444,13 +1458,6 @@
       "time": "12:57:31",
       "iso": "2026-08-12T07:27:31.077Z",
       "action": "updated remark for CAN-I-GM2070 at KATUBEDDA: “No discounts. Available at shop”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:57:03",
-      "iso": "2026-08-12T07:27:03.101Z",
-      "action": "updated remark for B-CFB6433XH at KATUBEDDA: “Additional 20%”"
     }
   ]
 }
