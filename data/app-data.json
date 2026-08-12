@@ -706,6 +706,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:54:22",
       "lastUpdated": "2026-08-12T07:24:22.949Z"
+    },
+    "SMG-SM-A356E-128-B||KATUBEDDA": {
+      "remark": "No discounts. Available at shop",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:54:36",
+      "lastUpdated": "2026-08-12T07:24:36.970Z"
     }
   },
   "showroomVisits": {
@@ -759,6 +766,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:54:36",
+      "iso": "2026-08-12T07:24:36.970Z",
+      "action": "updated remark for SMG-SM-A356E-128-B at KATUBEDDA: “No discounts. Available at shop”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1101,13 +1115,6 @@
       "time": "11:02:11",
       "iso": "2026-08-12T05:32:11.337Z",
       "action": "updated remark for PH-BT1235 at RATHMALANA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:02:05",
-      "iso": "2026-08-12T05:32:05.101Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at RATHMALANA: “Sold”"
     }
   ]
 }
