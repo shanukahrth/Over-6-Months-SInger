@@ -629,6 +629,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:51:06",
       "lastUpdated": "2026-08-12T07:21:06.350Z"
+    },
+    "HON-X9CSMART-12-256-BLK||KATUBEDDA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:51:11",
+      "lastUpdated": "2026-08-12T07:21:11.176Z"
     }
   },
   "showroomVisits": {
@@ -682,6 +689,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:51:11",
+      "iso": "2026-08-12T07:21:11.176Z",
+      "action": "updated remark for HON-X9CSMART-12-256-BLK at KATUBEDDA: “Additional 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1024,13 +1038,6 @@
       "time": "10:58:48",
       "iso": "2026-08-12T05:28:48.431Z",
       "action": "updated remark for V-WCDMA-3G-433 at RATHMALANA: “Up to 5%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:58:28",
-      "iso": "2026-08-12T05:28:28.907Z",
-      "action": "updated remark for SIN-MRG-1008C at RATHMALANA: “Sold”"
     }
   ]
 }
