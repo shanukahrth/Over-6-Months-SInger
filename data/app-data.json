@@ -412,6 +412,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:01:13",
       "lastUpdated": "2026-08-12T05:31:13.956Z"
+    },
+    "DH-I-A22EP-IMOU||RATHMALANA": {
+      "remark": "70%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:01:25",
+      "lastUpdated": "2026-08-12T05:31:25.630Z"
     }
   },
   "showroomVisits": {
@@ -457,6 +464,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:01:25",
+      "iso": "2026-08-12T05:31:25.631Z",
+      "action": "updated remark for DH-I-A22EP-IMOU at RATHMALANA: “70%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -799,13 +813,6 @@
       "time": "10:45:07",
       "iso": "2026-08-12T05:15:07.663Z",
       "action": "updated remark for SLE43G890 at RATHMALANA: “Up to 60%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:44:53",
-      "iso": "2026-08-12T05:14:53.868Z",
-      "action": "updated remark for TCL43S5400 at RATHMALANA: “Up to 70%”"
     }
   ]
 }
