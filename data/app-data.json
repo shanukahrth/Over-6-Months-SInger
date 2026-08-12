@@ -570,13 +570,20 @@
     "KATUBEDDA||PANADURA": {
       "visited": "Yes",
       "visitDate": "2026-08-12",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-12"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:52:29",
+      "iso": "2026-08-12T06:22:29.476Z",
+      "action": "updated KATUBEDDA showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -919,13 +926,6 @@
       "time": "10:54:00",
       "iso": "2026-08-12T05:24:00.560Z",
       "action": "updated remark for SMG-A06-4-64-BLU at RATHMALANA: “Up to 15%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:53:26",
-      "iso": "2026-08-12T05:23:26.959Z",
-      "action": "updated remark for HYX-CL-STS-GM-HEADSET at RATHMALANA: “Additional 5%”"
     }
   ]
 }
