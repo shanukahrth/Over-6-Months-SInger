@@ -153,6 +153,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:46:06",
       "lastUpdated": "2026-08-12T05:16:06.362Z"
+    },
+    "WP-NSP-J-S||RATHMALANA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:46:24",
+      "lastUpdated": "2026-08-12T05:16:24.367Z"
     }
   },
   "showroomVisits": {
@@ -198,6 +205,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:46:24",
+      "iso": "2026-08-12T05:16:24.369Z",
+      "action": "updated remark for WP-NSP-J-S at RATHMALANA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -540,13 +554,6 @@
       "time": "22:58:53",
       "iso": "2026-08-10T17:28:53.030Z",
       "action": "updated BUDGET SHOP-K-GTOTA showroom (visited: No)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-10",
-      "time": "22:58:51",
-      "iso": "2026-08-10T17:28:51.745Z",
-      "action": "updated BUDGET SHOP-K-GTOTA showroom (visited: Yes)"
     }
   ]
 }
