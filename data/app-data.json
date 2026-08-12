@@ -279,6 +279,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:54:34",
       "lastUpdated": "2026-08-12T05:24:34.755Z"
+    },
+    "TF-GS-SPKT302||RATHMALANA": {
+      "remark": "Up to 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:54:58",
+      "lastUpdated": "2026-08-12T05:24:58.287Z"
     }
   },
   "showroomVisits": {
@@ -324,6 +331,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:54:58",
+      "iso": "2026-08-12T05:24:58.289Z",
+      "action": "updated remark for TF-GS-SPKT302 at RATHMALANA: “Up to 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -666,13 +680,6 @@
       "time": "18:57:41",
       "iso": "2026-08-11T13:27:41.110Z",
       "action": "updated MEGA - SHANGRI-LA showroom (visited: No)"
-    },
-    {
-      "user": "Isuru Hewawasam",
-      "date": "2026-08-11",
-      "time": "18:57:36",
-      "iso": "2026-08-11T13:27:36.989Z",
-      "action": "updated MEGA - SHANGRI-LA showroom (visited: Yes)"
     }
   ]
 }
