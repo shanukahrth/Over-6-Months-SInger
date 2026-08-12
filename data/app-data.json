@@ -748,6 +748,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:56:04",
       "lastUpdated": "2026-08-12T07:26:04.227Z"
+    },
+    "PN-MC-CG370GS47||KATUBEDDA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:56:24",
+      "lastUpdated": "2026-08-12T07:26:24.528Z"
     }
   },
   "showroomVisits": {
@@ -801,6 +808,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:56:24",
+      "iso": "2026-08-12T07:26:24.529Z",
+      "action": "updated remark for PN-MC-CG370GS47 at KATUBEDDA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1143,13 +1157,6 @@
       "time": "11:03:52",
       "iso": "2026-08-12T05:33:52.982Z",
       "action": "updated remark for UJB-LB6027 at RATHMALANA: “Additional 5%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:03:32",
-      "iso": "2026-08-12T05:33:32.762Z",
-      "action": "updated remark for HRW-KR110 at RATHMALANA: “Damaged”"
     }
   ]
 }
