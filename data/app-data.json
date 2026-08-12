@@ -727,6 +727,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:55:36",
       "lastUpdated": "2026-08-12T07:25:36.521Z"
+    },
+    "WFL-RIO-02-S||KATUBEDDA": {
+      "remark": "Up to 60%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:55:48",
+      "lastUpdated": "2026-08-12T07:25:48.250Z"
     }
   },
   "showroomVisits": {
@@ -780,6 +787,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:55:48",
+      "iso": "2026-08-12T07:25:48.252Z",
+      "action": "updated remark for WFL-RIO-02-S at KATUBEDDA: “Up to 60%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1122,13 +1136,6 @@
       "time": "11:02:46",
       "iso": "2026-08-12T05:32:46.644Z",
       "action": "updated remark for STT-1BSS at RATHMALANA: “Up TO 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:02:41",
-      "iso": "2026-08-12T05:32:41.138Z",
-      "action": "updated remark for TF-FP24-SCR342 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
