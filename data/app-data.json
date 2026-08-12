@@ -881,6 +881,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:04:06",
       "lastUpdated": "2026-08-12T07:34:06.666Z"
+    },
+    "TF-GS-SPKT302||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:04:33",
+      "lastUpdated": "2026-08-12T07:34:33.094Z"
     }
   },
   "showroomVisits": {
@@ -934,6 +941,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:33",
+      "iso": "2026-08-12T07:34:33.096Z",
+      "action": "updated remark for TF-GS-SPKT302 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1276,13 +1290,6 @@
       "time": "12:49:23",
       "iso": "2026-08-12T07:19:23.340Z",
       "action": "updated remark for KD-50X75K at KATUBEDDA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:49:01",
-      "iso": "2026-08-12T07:19:01.186Z",
-      "action": "updated remark for WF-BALTIC-01-S at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
