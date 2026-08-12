@@ -1511,6 +1511,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:43:12",
       "lastUpdated": "2026-08-12T10:13:12.877Z"
+    },
+    "LP-AP01||MORATUWA - B": {
+      "remark": "In shop. No discounts allocated",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:43:23",
+      "lastUpdated": "2026-08-12T10:13:23.433Z"
     }
   },
   "showroomVisits": {
@@ -1572,6 +1579,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:43:23",
+      "iso": "2026-08-12T10:13:23.435Z",
+      "action": "updated remark for LP-AP01 at MORATUWA - B: “In shop. No discounts allocated”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1914,13 +1928,6 @@
       "time": "13:18:45",
       "iso": "2026-08-12T07:48:45.527Z",
       "action": "updated remark for PF-CAFE-NEW-WF-S at KATUBEDDA: “Additional 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:18:39",
-      "iso": "2026-08-12T07:48:39.171Z",
-      "action": "updated remark for LP-AP01 at KATUBEDDA: “Available in shop. no discount”"
     }
   ]
 }
