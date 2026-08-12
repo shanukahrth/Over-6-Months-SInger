@@ -1364,6 +1364,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:35:45",
       "lastUpdated": "2026-08-12T10:05:45.459Z"
+    },
+    "SMG-SM-A057F-6-128-B||MORATUWA - B": {
+      "remark": "Exchange",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:36:12",
+      "lastUpdated": "2026-08-12T10:06:12.398Z"
     }
   },
   "showroomVisits": {
@@ -1425,6 +1432,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:36:12",
+      "iso": "2026-08-12T10:06:12.398Z",
+      "action": "updated remark for SMG-SM-A057F-6-128-B at MORATUWA - B: “Exchange”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1767,13 +1781,6 @@
       "time": "13:13:20",
       "iso": "2026-08-12T07:43:20.346Z",
       "action": "updated remark for WFL-SOC-V010-RD-S at KATUBEDDA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:13:11",
-      "iso": "2026-08-12T07:43:11.611Z",
-      "action": "updated remark for PN-NF-GW1WSK at KATUBEDDA: “Additional 30%”"
     }
   ]
 }
