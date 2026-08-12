@@ -993,6 +993,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:08:59",
       "lastUpdated": "2026-08-12T07:38:59.509Z"
+    },
+    "RIYLTA-MF12V53B||KATUBEDDA": {
+      "remark": "Not salable",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:09:06",
+      "lastUpdated": "2026-08-12T07:39:06.815Z"
     }
   },
   "showroomVisits": {
@@ -1046,6 +1053,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:09:06",
+      "iso": "2026-08-12T07:39:06.816Z",
+      "action": "updated remark for RIYLTA-MF12V53B at KATUBEDDA: “Not salable”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1388,13 +1402,6 @@
       "time": "12:54:36",
       "iso": "2026-08-12T07:24:36.970Z",
       "action": "updated remark for SMG-SM-A356E-128-B at KATUBEDDA: “No discounts. Available at shop”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:54:22",
-      "iso": "2026-08-12T07:24:22.950Z",
-      "action": "updated remark for HON-X9C-12-256-GRN at KATUBEDDA: “Additional 15%”"
     }
   ]
 }
