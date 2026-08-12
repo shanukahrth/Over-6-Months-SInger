@@ -391,6 +391,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:59:35",
       "lastUpdated": "2026-08-12T05:29:35.161Z"
+    },
+    "USHA-FS40-13B||RATHMALANA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:00:30",
+      "lastUpdated": "2026-08-12T05:30:30.217Z"
     }
   },
   "showroomVisits": {
@@ -436,6 +443,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:00:30",
+      "iso": "2026-08-12T05:30:30.218Z",
+      "action": "updated remark for USHA-FS40-13B at RATHMALANA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -778,13 +792,6 @@
       "time": "10:44:02",
       "iso": "2026-08-12T05:14:02.060Z",
       "action": "updated remark for WP-WFC105604RT-G at RATHMALANA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:43:45",
-      "iso": "2026-08-12T05:13:45.781Z",
-      "action": "updated remark for SMGRT28A3021GS at RATHMALANA: “MOP 135,000”"
     }
   ]
 }
