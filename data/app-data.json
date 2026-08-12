@@ -769,6 +769,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:57:03",
       "lastUpdated": "2026-08-12T07:27:03.098Z"
+    },
+    "CAN-I-GM2070||KATUBEDDA": {
+      "remark": "No discounts. Available at shop",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:57:31",
+      "lastUpdated": "2026-08-12T07:27:31.076Z"
     }
   },
   "showroomVisits": {
@@ -822,6 +829,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:57:31",
+      "iso": "2026-08-12T07:27:31.077Z",
+      "action": "updated remark for CAN-I-GM2070 at KATUBEDDA: “No discounts. Available at shop”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1164,13 +1178,6 @@
       "time": "11:04:46",
       "iso": "2026-08-12T05:34:46.455Z",
       "action": "updated remark for NCPDG-MP160 at RATHMALANA: “Additional 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:04:42",
-      "iso": "2026-08-12T05:34:42.160Z",
-      "action": "updated remark for USHA-EI1602 at RATHMALANA: “Up to 5%”"
     }
   ]
 }
