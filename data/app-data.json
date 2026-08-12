@@ -958,6 +958,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:07:35",
       "lastUpdated": "2026-08-12T07:37:35.956Z"
+    },
+    "DH-IPC-P5DP-5F-PV-28B-60B||KATUBEDDA": {
+      "remark": "Up to 70%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:07:41",
+      "lastUpdated": "2026-08-12T07:37:41.417Z"
     }
   },
   "showroomVisits": {
@@ -1011,6 +1018,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:07:41",
+      "iso": "2026-08-12T07:37:41.418Z",
+      "action": "updated remark for DH-IPC-P5DP-5F-PV-28B-60B at KATUBEDDA: “Up to 70%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1353,13 +1367,6 @@
       "time": "12:53:08",
       "iso": "2026-08-12T07:23:08.491Z",
       "action": "updated remark for WFL-SPM-72X72X8-S at KATUBEDDA: “Additional 20%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:52:55",
-      "iso": "2026-08-12T07:22:55.399Z",
-      "action": "updated remark for MHC-V13 at KATUBEDDA: “Up to 40%”"
     }
   ]
 }
