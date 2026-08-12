@@ -1126,6 +1126,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:13:56",
       "lastUpdated": "2026-08-12T07:43:56.091Z"
+    },
+    "SKS-1089||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:14:02",
+      "lastUpdated": "2026-08-12T07:44:02.849Z"
     }
   },
   "showroomVisits": {
@@ -1179,6 +1186,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:14:02",
+      "iso": "2026-08-12T07:44:02.851Z",
+      "action": "updated remark for SKS-1089 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1521,13 +1535,6 @@
       "time": "13:04:33",
       "iso": "2026-08-12T07:34:33.096Z",
       "action": "updated remark for TF-GS-SPKT302 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:04:06",
-      "iso": "2026-08-12T07:34:06.668Z",
-      "action": "updated remark for H-CVW1600 at KATUBEDDA: “Additional 15%”"
     }
   ]
 }
