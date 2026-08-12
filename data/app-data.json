@@ -456,11 +456,11 @@
       "lastUpdated": "2026-08-12T05:32:11.336Z"
     },
     "STT-1BSS||RATHMALANA": {
-      "remark": "uP TO 40%",
+      "remark": "Up TO 40%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "11:02:35",
-      "lastUpdated": "2026-08-12T05:32:35.177Z"
+      "commentTime": "11:02:46",
+      "lastUpdated": "2026-08-12T05:32:46.643Z"
     },
     "TF-FP24-SCR342||RATHMALANA": {
       "remark": "Additional 10%",
@@ -513,6 +513,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:02:46",
+      "iso": "2026-08-12T05:32:46.644Z",
+      "action": "updated remark for STT-1BSS at RATHMALANA: “Up TO 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -855,13 +862,6 @@
       "time": "10:47:06",
       "iso": "2026-08-12T05:17:06.049Z",
       "action": "updated remark for SIN-RFC-2058 at RATHMALANA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:46:58",
-      "iso": "2026-08-12T05:16:58.677Z",
-      "action": "updated remark for SIN-DEC-DCWL at RATHMALANA: “Sold”"
     }
   ]
 }
