@@ -272,6 +272,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:54:27",
       "lastUpdated": "2026-08-12T05:24:27.985Z"
+    },
+    "TF-AF32-577||RATHMALANA": {
+      "remark": "Additional 5%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:54:34",
+      "lastUpdated": "2026-08-12T05:24:34.755Z"
     }
   },
   "showroomVisits": {
@@ -317,6 +324,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:54:34",
+      "iso": "2026-08-12T05:24:34.757Z",
+      "action": "updated remark for TF-AF32-577 at RATHMALANA: “Additional 5%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -659,13 +673,6 @@
       "time": "18:57:36",
       "iso": "2026-08-11T13:27:36.989Z",
       "action": "updated MEGA - SHANGRI-LA showroom (visited: Yes)"
-    },
-    {
-      "user": "Esala Herath",
-      "date": "2026-08-11",
-      "time": "16:29:46",
-      "iso": "2026-08-11T10:59:46.198Z",
-      "action": "updated DAMBULLA showroom (visited: No)"
     }
   ]
 }
