@@ -1427,6 +1427,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:38:26",
       "lastUpdated": "2026-08-12T10:08:26.688Z"
+    },
+    "LG-002||MORATUWA - B": {
+      "remark": "In shop. No discounts allocated",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:39:03",
+      "lastUpdated": "2026-08-12T10:09:03.019Z"
     }
   },
   "showroomVisits": {
@@ -1488,6 +1495,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:39:03",
+      "iso": "2026-08-12T10:09:03.021Z",
+      "action": "updated remark for LG-002 at MORATUWA - B: “In shop. No discounts allocated”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1830,13 +1844,6 @@
       "time": "13:14:56",
       "iso": "2026-08-12T07:44:56.932Z",
       "action": "updated remark for SIN-RFC-2058 at KATUBEDDA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:14:43",
-      "iso": "2026-08-12T07:44:43.678Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KATUBEDDA: “No discounts. New model”"
     }
   ]
 }
