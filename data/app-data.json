@@ -1483,6 +1483,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:41:40",
       "lastUpdated": "2026-08-12T10:11:40.509Z"
+    },
+    "HON-WATCH-4||MORATUWA - B": {
+      "remark": "In shop. No discounts allocated. Abt to sell",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:42:08",
+      "lastUpdated": "2026-08-12T10:12:08.181Z"
     }
   },
   "showroomVisits": {
@@ -1544,6 +1551,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:42:08",
+      "iso": "2026-08-12T10:12:08.181Z",
+      "action": "updated remark for HON-WATCH-4 at MORATUWA - B: “In shop. No discounts allocated. Abt to sell”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1886,13 +1900,6 @@
       "time": "13:17:39",
       "iso": "2026-08-12T07:47:39.137Z",
       "action": "updated remark for NCPO-FP250 at KATUBEDDA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:17:26",
-      "iso": "2026-08-12T07:47:26.364Z",
-      "action": "updated remark for PF-MONDY-RED at KATUBEDDA: “Additional 40%”"
     }
   ]
 }
