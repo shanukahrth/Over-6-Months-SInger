@@ -1217,6 +1217,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:18:02",
       "lastUpdated": "2026-08-12T07:48:02.522Z"
+    },
+    "LP-AP01||KATUBEDDA": {
+      "remark": "Available in shop. no discount",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:18:39",
+      "lastUpdated": "2026-08-12T07:48:39.169Z"
     }
   },
   "showroomVisits": {
@@ -1270,6 +1277,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:18:39",
+      "iso": "2026-08-12T07:48:39.171Z",
+      "action": "updated remark for LP-AP01 at KATUBEDDA: “Available in shop. no discount”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1612,13 +1626,6 @@
       "time": "13:08:57",
       "iso": "2026-08-12T07:38:57.990Z",
       "action": "updated remark for USHA-AVTR56 at KATUBEDDA: “Available in shop. No discounts”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:08:44",
-      "iso": "2026-08-12T07:38:44.232Z",
-      "action": "updated remark for ALU-CL-7FT-S at KATUBEDDA: “Up to 30%”"
     }
   ]
 }
