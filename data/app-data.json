@@ -160,6 +160,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:46:24",
       "lastUpdated": "2026-08-12T05:16:24.367Z"
+    },
+    "SLE40D600A||RATHMALANA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:46:45",
+      "lastUpdated": "2026-08-12T05:16:45.457Z"
     }
   },
   "showroomVisits": {
@@ -205,6 +212,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:46:45",
+      "iso": "2026-08-12T05:16:45.458Z",
+      "action": "updated remark for SLE40D600A at RATHMALANA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -547,13 +561,6 @@
       "time": "13:27:28",
       "iso": "2026-08-11T07:57:28.671Z",
       "action": "updated remark for DELL3511-I7-8GB512-SIL at SHANUKA HERATH: “SLIM Project”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-10",
-      "time": "22:58:53",
-      "iso": "2026-08-10T17:28:53.030Z",
-      "action": "updated BUDGET SHOP-K-GTOTA showroom (visited: No)"
     }
   ]
 }
