@@ -615,6 +615,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:50:07",
       "lastUpdated": "2026-08-12T07:20:07.915Z"
+    },
+    "SRS-XV500||KATUBEDDA": {
+      "remark": "Up to 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:50:41",
+      "lastUpdated": "2026-08-12T07:20:41.121Z"
     }
   },
   "showroomVisits": {
@@ -668,6 +675,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:50:41",
+      "iso": "2026-08-12T07:20:41.121Z",
+      "action": "updated remark for SRS-XV500 at KATUBEDDA: “Up to 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1010,13 +1024,6 @@
       "time": "10:58:20",
       "iso": "2026-08-12T05:28:20.546Z",
       "action": "updated remark for USHA-AVTR56 at RATHMALANA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:58:15",
-      "iso": "2026-08-12T05:28:15.999Z",
-      "action": "updated remark for TF-SI-ESS-242 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
