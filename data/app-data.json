@@ -678,6 +678,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:52:55",
       "lastUpdated": "2026-08-12T07:22:55.398Z"
+    },
+    "WFL-SPM-72X72X8-S||KATUBEDDA": {
+      "remark": "Additional 20%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:53:08",
+      "lastUpdated": "2026-08-12T07:23:08.490Z"
     }
   },
   "showroomVisits": {
@@ -731,6 +738,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:53:08",
+      "iso": "2026-08-12T07:23:08.491Z",
+      "action": "updated remark for WFL-SPM-72X72X8-S at KATUBEDDA: “Additional 20%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1073,13 +1087,6 @@
       "time": "11:01:25",
       "iso": "2026-08-12T05:31:25.631Z",
       "action": "updated remark for DH-I-A22EP-IMOU at RATHMALANA: “70%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:01:17",
-      "iso": "2026-08-12T05:31:17.760Z",
-      "action": "updated remark for TF-GS-SPKT302 at RATHMALANA: “Up to 10%”"
     }
   ]
 }
