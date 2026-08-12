@@ -1476,6 +1476,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:41:16",
       "lastUpdated": "2026-08-12T10:11:16.502Z"
+    },
+    "H-CVW1600||MORATUWA - B": {
+      "remark": "Up to 15%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:41:40",
+      "lastUpdated": "2026-08-12T10:11:40.509Z"
     }
   },
   "showroomVisits": {
@@ -1537,6 +1544,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:41:40",
+      "iso": "2026-08-12T10:11:40.511Z",
+      "action": "updated remark for H-CVW1600 at MORATUWA - B: “Up to 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1879,13 +1893,6 @@
       "time": "13:17:26",
       "iso": "2026-08-12T07:47:26.364Z",
       "action": "updated remark for PF-MONDY-RED at KATUBEDDA: “Additional 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:17:09",
-      "iso": "2026-08-12T07:47:09.449Z",
-      "action": "updated remark for SIN-RFC-1819 at KATUBEDDA: “Additional 30%”"
     }
   ]
 }
