@@ -1245,6 +1245,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:20:00",
       "lastUpdated": "2026-08-12T07:50:00.245Z"
+    },
+    "KD-50X75K||MORATUWA - B": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:27:21",
+      "lastUpdated": "2026-08-12T09:57:21.426Z"
     }
   },
   "showroomVisits": {
@@ -1306,6 +1313,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:27:21",
+      "iso": "2026-08-12T09:57:21.430Z",
+      "action": "updated remark for KD-50X75K at MORATUWA - B: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1648,13 +1662,6 @@
       "time": "13:10:47",
       "iso": "2026-08-12T07:40:47.940Z",
       "action": "updated remark for PH-BHB864 at KATUBEDDA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:10:26",
-      "iso": "2026-08-12T07:40:26.167Z",
-      "action": "updated remark for WF-NAMAL-CT-S at KATUBEDDA: “Send to factory”"
     }
   ]
 }
