@@ -566,9 +566,31 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-12"
+    },
+    "KATUBEDDA||PANADURA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-12",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-12"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:52:24",
+      "iso": "2026-08-12T06:22:24.355Z",
+      "action": "updated KATUBEDDA showroom (visitDate: 2026-08-12)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:52:20",
+      "iso": "2026-08-12T06:22:20.969Z",
+      "action": "updated KATUBEDDA showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-12",
@@ -904,20 +926,6 @@
       "time": "10:53:26",
       "iso": "2026-08-12T05:23:26.959Z",
       "action": "updated remark for HYX-CL-STS-GM-HEADSET at RATHMALANA: “Additional 5%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:52:44",
-      "iso": "2026-08-12T05:22:44.679Z",
-      "action": "updated remark for SMW823AY7 at RATHMALANA: “Additional 5%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:50:33",
-      "iso": "2026-08-12T05:20:33.157Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at RATHMALANA: “Up to 40%”"
     }
   ]
 }
