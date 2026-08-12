@@ -832,6 +832,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:00:57",
       "lastUpdated": "2026-08-12T07:30:57.541Z"
+    },
+    "MID-DSK38EU5||KATUBEDDA": {
+      "remark": "Available in shop. No discounts",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:01:04",
+      "lastUpdated": "2026-08-12T07:31:04.064Z"
     }
   },
   "showroomVisits": {
@@ -885,6 +892,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:01:04",
+      "iso": "2026-08-12T07:31:04.064Z",
+      "action": "updated remark for MID-DSK38EU5 at KATUBEDDA: “Available in shop. No discounts”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1227,13 +1241,6 @@
       "time": "12:47:40",
       "iso": "2026-08-12T07:17:40.892Z",
       "action": "updated remark for MB-SAFARI4S-BLK at KATUBEDDA: “Avaliable”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:47:32",
-      "iso": "2026-08-12T07:17:32.272Z",
-      "action": "updated remark for PN-TH-65MX740N at KATUBEDDA: “Up to 40%”"
     }
   ]
 }
