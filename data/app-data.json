@@ -853,6 +853,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:02:27",
       "lastUpdated": "2026-08-12T07:32:27.008Z"
+    },
+    "WF-DOC-T011-BL-S||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:03:03",
+      "lastUpdated": "2026-08-12T07:33:03.832Z"
     }
   },
   "showroomVisits": {
@@ -906,6 +913,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:03:03",
+      "iso": "2026-08-12T07:33:03.835Z",
+      "action": "updated remark for WF-DOC-T011-BL-S at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1248,13 +1262,6 @@
       "time": "12:48:26",
       "iso": "2026-08-12T07:18:26.513Z",
       "action": "updated remark for H-HRSN9552DDXKH at KATUBEDDA: “No discounts. Available at shop”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:48:19",
-      "iso": "2026-08-12T07:18:19.921Z",
-      "action": "updated remark for H-HRSN9552DDXKH at KATUBEDDA: “No discounts. Avaliable at shop”"
     }
   ]
 }
