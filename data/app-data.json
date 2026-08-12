@@ -356,6 +356,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:58:20",
       "lastUpdated": "2026-08-12T05:28:20.544Z"
+    },
+    "SIN-MRG-1008C||RATHMALANA": {
+      "remark": "Sold",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:58:28",
+      "lastUpdated": "2026-08-12T05:28:28.906Z"
     }
   },
   "showroomVisits": {
@@ -401,6 +408,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:58:28",
+      "iso": "2026-08-12T05:28:28.907Z",
+      "action": "updated remark for SIN-MRG-1008C at RATHMALANA: “Sold”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -743,13 +757,6 @@
       "time": "10:42:50",
       "iso": "2026-08-12T05:12:50.251Z",
       "action": "updated remark for SRS-XV500 at RATHMALANA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:42:47",
-      "iso": "2026-08-12T05:12:47.018Z",
-      "action": "updated remark for AS-13G-I7-512GB-957-BLU at RATHMALANA: “Up to 50%”"
     }
   ]
 }
