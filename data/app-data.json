@@ -1000,6 +1000,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:09:06",
       "lastUpdated": "2026-08-12T07:39:06.815Z"
+    },
+    "WF100IC100||KATUBEDDA": {
+      "remark": "Additional 25%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:09:16",
+      "lastUpdated": "2026-08-12T07:39:16.747Z"
     }
   },
   "showroomVisits": {
@@ -1053,6 +1060,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:09:16",
+      "iso": "2026-08-12T07:39:16.748Z",
+      "action": "updated remark for WF100IC100 at KATUBEDDA: “Additional 25%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1395,13 +1409,6 @@
       "time": "12:55:04",
       "iso": "2026-08-12T07:25:04.180Z",
       "action": "updated remark for WF-PARIS-BL-S at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:54:36",
-      "iso": "2026-08-12T07:24:36.970Z",
-      "action": "updated remark for SMG-SM-A356E-128-B at KATUBEDDA: “No discounts. Available at shop”"
     }
   ]
 }
