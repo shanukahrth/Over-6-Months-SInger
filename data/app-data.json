@@ -713,6 +713,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:54:36",
       "lastUpdated": "2026-08-12T07:24:36.970Z"
+    },
+    "WF-PARIS-BL-S||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:55:04",
+      "lastUpdated": "2026-08-12T07:25:04.179Z"
     }
   },
   "showroomVisits": {
@@ -766,6 +773,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:55:04",
+      "iso": "2026-08-12T07:25:04.180Z",
+      "action": "updated remark for WF-PARIS-BL-S at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1108,13 +1122,6 @@
       "time": "11:02:18",
       "iso": "2026-08-12T05:32:18.108Z",
       "action": "updated remark for TF-SI-ESS-242 at RATHMALANA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:02:11",
-      "iso": "2026-08-12T05:32:11.337Z",
-      "action": "updated remark for PH-BT1235 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
