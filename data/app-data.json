@@ -657,6 +657,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:52:09",
       "lastUpdated": "2026-08-12T07:22:09.170Z"
+    },
+    "HON-H200-12-512-BLK||KATUBEDDA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:52:17",
+      "lastUpdated": "2026-08-12T07:22:17.836Z"
     }
   },
   "showroomVisits": {
@@ -710,6 +717,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:52:17",
+      "iso": "2026-08-12T07:22:17.837Z",
+      "action": "updated remark for HON-H200-12-512-BLK at KATUBEDDA: “Additional 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1052,13 +1066,6 @@
       "time": "11:00:54",
       "iso": "2026-08-12T05:30:54.207Z",
       "action": "updated remark for STT-2BGT at RATHMALANA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:00:30",
-      "iso": "2026-08-12T05:30:30.218Z",
-      "action": "updated remark for USHA-FS40-13B at RATHMALANA: “Up to 50%”"
     }
   ]
 }
