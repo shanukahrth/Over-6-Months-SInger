@@ -1105,6 +1105,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:13:20",
       "lastUpdated": "2026-08-12T07:43:20.345Z"
+    },
+    "RIYLTA-MF12V25||KATUBEDDA": {
+      "remark": "Not salable",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:13:24",
+      "lastUpdated": "2026-08-12T07:43:24.190Z"
     }
   },
   "showroomVisits": {
@@ -1158,6 +1165,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:13:24",
+      "iso": "2026-08-12T07:43:24.191Z",
+      "action": "updated remark for RIYLTA-MF12V25 at KATUBEDDA: “Not salable”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1500,13 +1514,6 @@
       "time": "13:03:47",
       "iso": "2026-08-12T07:33:47.044Z",
       "action": "updated remark for NUBIA-OWS-CLIP-2025-GRY at KATUBEDDA: “Free Issue”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:03:03",
-      "iso": "2026-08-12T07:33:03.835Z",
-      "action": "updated remark for WF-DOC-T011-BL-S at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
