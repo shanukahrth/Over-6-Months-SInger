@@ -979,6 +979,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:07:56",
       "lastUpdated": "2026-08-12T07:37:56.284Z"
+    },
+    "ALU-CL-7FT-S||KATUBEDDA": {
+      "remark": "Up to 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:08:44",
+      "lastUpdated": "2026-08-12T07:38:44.230Z"
     }
   },
   "showroomVisits": {
@@ -1032,6 +1039,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:08:44",
+      "iso": "2026-08-12T07:38:44.232Z",
+      "action": "updated remark for ALU-CL-7FT-S at KATUBEDDA: “Up to 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1374,13 +1388,6 @@
       "time": "12:54:03",
       "iso": "2026-08-12T07:24:03.987Z",
       "action": "updated remark for BES-CRS-51 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:53:45",
-      "iso": "2026-08-12T07:23:45.168Z",
-      "action": "updated remark for B-BMGB25332BG at KATUBEDDA: “Additional 20%”"
     }
   ]
 }
