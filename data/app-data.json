@@ -342,6 +342,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:57:54",
       "lastUpdated": "2026-08-12T05:27:54.227Z"
+    },
+    "TF-SI-ESS-242||RATHMALANA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:58:15",
+      "lastUpdated": "2026-08-12T05:28:15.998Z"
     }
   },
   "showroomVisits": {
@@ -387,6 +394,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:58:15",
+      "iso": "2026-08-12T05:28:15.999Z",
+      "action": "updated remark for TF-SI-ESS-242 at RATHMALANA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -729,13 +743,6 @@
       "time": "10:42:44",
       "iso": "2026-08-12T05:12:44.502Z",
       "action": "updated remark for DELL3530-I5-8GB512-BLK at RATHMALANA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:42:42",
-      "iso": "2026-08-12T05:12:42.083Z",
-      "action": "updated remark for DELL3530-I5-8GB512-SIL at RATHMALANA: “Up to 50%”"
     }
   ]
 }
