@@ -1490,6 +1490,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:42:08",
       "lastUpdated": "2026-08-12T10:12:08.181Z"
+    },
+    "NWD1300R||MORATUWA - B": {
+      "remark": "Not salable",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:42:23",
+      "lastUpdated": "2026-08-12T10:12:23.784Z"
     }
   },
   "showroomVisits": {
@@ -1551,6 +1558,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:42:23",
+      "iso": "2026-08-12T10:12:23.785Z",
+      "action": "updated remark for NWD1300R at MORATUWA - B: “Not salable”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1893,13 +1907,6 @@
       "time": "13:18:02",
       "iso": "2026-08-12T07:48:02.524Z",
       "action": "updated remark for ENG-WCP-117 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:17:39",
-      "iso": "2026-08-12T07:47:39.137Z",
-      "action": "updated remark for NCPO-FP250 at KATUBEDDA: “Additional 30%”"
     }
   ]
 }
