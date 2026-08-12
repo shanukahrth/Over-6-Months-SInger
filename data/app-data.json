@@ -517,6 +517,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:05:06",
       "lastUpdated": "2026-08-12T05:35:06.234Z"
+    },
+    "R-BWS-02||RATHMALANA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:05:14",
+      "lastUpdated": "2026-08-12T05:35:14.273Z"
     }
   },
   "showroomVisits": {
@@ -562,6 +569,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:05:14",
+      "iso": "2026-08-12T05:35:14.274Z",
+      "action": "updated remark for R-BWS-02 at RATHMALANA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -904,13 +918,6 @@
       "time": "10:49:56",
       "iso": "2026-08-12T05:19:56.942Z",
       "action": "updated remark for SIN-RFC-2012 at RATHMALANA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:49:18",
-      "iso": "2026-08-12T05:19:18.365Z",
-      "action": "updated remark for PN-F-407XNBAMKH at RATHMALANA: “Up to 50%”"
     }
   ]
 }
