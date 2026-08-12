@@ -328,6 +328,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:57:13",
       "lastUpdated": "2026-08-12T05:27:13.948Z"
+    },
+    "FAN-P-1605H||RATHMALANA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:57:26",
+      "lastUpdated": "2026-08-12T05:27:26.192Z"
     }
   },
   "showroomVisits": {
@@ -373,6 +380,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:57:26",
+      "iso": "2026-08-12T05:27:26.194Z",
+      "action": "updated remark for FAN-P-1605H at RATHMALANA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -715,13 +729,6 @@
       "time": "10:41:06",
       "iso": "2026-08-12T05:11:06.559Z",
       "action": "updated remark for DELL3530-I5-8GB512-SIL at RATHMALANA: “Up to 50% Dicount”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:41:01",
-      "iso": "2026-08-12T05:11:01.419Z",
-      "action": "updated remark for DELL3530-I5-8GB512-BLK at RATHMALANA: “Up to 50% Discount”"
     }
   ]
 }
