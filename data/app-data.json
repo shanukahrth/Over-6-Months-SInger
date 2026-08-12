@@ -552,6 +552,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:47:42",
       "lastUpdated": "2026-08-12T07:17:42.437Z"
+    },
+    "TCL85C655||KATUBEDDA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:47:59",
+      "lastUpdated": "2026-08-12T07:17:59.638Z"
     }
   },
   "showroomVisits": {
@@ -605,6 +612,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:47:59",
+      "iso": "2026-08-12T07:17:59.639Z",
+      "action": "updated remark for TCL85C655 at KATUBEDDA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -947,13 +961,6 @@
       "time": "10:56:17",
       "iso": "2026-08-12T05:26:17.844Z",
       "action": "updated remark for TF-AF32-577 at RATHMALANA: “Additional 5%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:55:22",
-      "iso": "2026-08-12T05:25:22.750Z",
-      "action": "updated remark for SIN-RFC-1819 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
