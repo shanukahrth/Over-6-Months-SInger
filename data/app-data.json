@@ -1040,8 +1040,8 @@
       "remark": "Additional 30%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "13:10:47",
-      "lastUpdated": "2026-08-12T07:40:47.939Z"
+      "commentTime": "13:10:56",
+      "lastUpdated": "2026-08-12T07:40:56.108Z"
     }
   },
   "showroomVisits": {
@@ -1095,6 +1095,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:10:56",
+      "iso": "2026-08-12T07:40:56.109Z",
+      "action": "updated remark for PH-BHB864 at KATUBEDDA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1437,13 +1444,6 @@
       "time": "12:56:38",
       "iso": "2026-08-12T07:26:38.900Z",
       "action": "updated remark for SLE40D600A at KATUBEDDA: “Up tp 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:56:24",
-      "iso": "2026-08-12T07:26:24.529Z",
-      "action": "updated remark for PN-MC-CG370GS47 at KATUBEDDA: “Up to 40%”"
     }
   ]
 }
