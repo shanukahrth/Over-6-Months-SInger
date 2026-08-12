@@ -867,6 +867,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:03:47",
       "lastUpdated": "2026-08-12T07:33:47.043Z"
+    },
+    "MID-MJ-KM6001W||KATUBEDDA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:03:53",
+      "lastUpdated": "2026-08-12T07:33:53.595Z"
     }
   },
   "showroomVisits": {
@@ -920,6 +927,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:03:53",
+      "iso": "2026-08-12T07:33:53.597Z",
+      "action": "updated remark for MID-MJ-KM6001W at KATUBEDDA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1262,13 +1276,6 @@
       "time": "12:48:55",
       "iso": "2026-08-12T07:18:55.859Z",
       "action": "updated remark for H-RMRG024MFEOE at KATUBEDDA: “No discounts. Available at shop”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:48:32",
-      "iso": "2026-08-12T07:18:32.319Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KATUBEDDA: “Available”"
     }
   ]
 }
