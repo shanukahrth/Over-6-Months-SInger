@@ -1355,8 +1355,8 @@
       "remark": "In shop. No discounts allocated",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "15:35:29",
-      "lastUpdated": "2026-08-12T10:05:29.281Z"
+      "commentTime": "15:39:36",
+      "lastUpdated": "2026-08-12T10:09:36.750Z"
     },
     "SLE40D600A||MORATUWA - B": {
       "remark": "Up to 50%",
@@ -1502,6 +1502,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:39:36",
+      "iso": "2026-08-12T10:09:36.751Z",
+      "action": "updated remark for SMW823AY7 at MORATUWA - B: “In shop. No discounts allocated”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1844,13 +1851,6 @@
       "time": "13:15:19",
       "iso": "2026-08-12T07:45:19.459Z",
       "action": "updated remark for CAN-C-746S-C at KATUBEDDA: “Not salable”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:15:15",
-      "iso": "2026-08-12T07:45:15.282Z",
-      "action": "updated remark for CAN-C-746S-C at KATUBEDDA: “Not salabale”"
     }
   ]
 }
