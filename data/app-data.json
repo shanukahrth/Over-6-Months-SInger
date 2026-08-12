@@ -986,6 +986,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:08:44",
       "lastUpdated": "2026-08-12T07:38:44.230Z"
+    },
+    "USHA-AVTR56||KATUBEDDA": {
+      "remark": "Available in shop. No discounts",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:08:59",
+      "lastUpdated": "2026-08-12T07:38:59.509Z"
     }
   },
   "showroomVisits": {
@@ -1039,6 +1046,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:08:59",
+      "iso": "2026-08-12T07:38:59.510Z",
+      "action": "updated remark for USHA-AVTR56 at KATUBEDDA: “Available in shop. No discounts”"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:08:57",
+      "iso": "2026-08-12T07:38:57.990Z",
+      "action": "updated remark for USHA-AVTR56 at KATUBEDDA: “Available in shop. No discounts”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1374,20 +1395,6 @@
       "time": "12:54:22",
       "iso": "2026-08-12T07:24:22.950Z",
       "action": "updated remark for HON-X9C-12-256-GRN at KATUBEDDA: “Additional 15%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:54:05",
-      "iso": "2026-08-12T07:24:05.628Z",
-      "action": "updated remark for BES-CRS-51 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:54:03",
-      "iso": "2026-08-12T07:24:03.987Z",
-      "action": "updated remark for BES-CRS-51 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
