@@ -790,6 +790,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:57:48",
       "lastUpdated": "2026-08-12T07:27:48.474Z"
+    },
+    "PN-TH-32M401N||KATUBEDDA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:58:25",
+      "lastUpdated": "2026-08-12T07:28:25.997Z"
     }
   },
   "showroomVisits": {
@@ -843,6 +850,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:58:25",
+      "iso": "2026-08-12T07:28:25.998Z",
+      "action": "updated remark for PN-TH-32M401N at KATUBEDDA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1185,13 +1199,6 @@
       "time": "11:51:05",
       "iso": "2026-08-12T06:21:05.123Z",
       "action": "updated ABANPOLA showroom (visited: No)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:05:14",
-      "iso": "2026-08-12T05:35:14.274Z",
-      "action": "updated remark for R-BWS-02 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
