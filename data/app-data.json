@@ -307,6 +307,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:56:40",
       "lastUpdated": "2026-08-12T05:26:40.535Z"
+    },
+    "FAN-P-SF1605HR||RATHMALANA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:56:43",
+      "lastUpdated": "2026-08-12T05:26:43.895Z"
     }
   },
   "showroomVisits": {
@@ -352,6 +359,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:56:43",
+      "iso": "2026-08-12T05:26:43.897Z",
+      "action": "updated remark for FAN-P-SF1605HR at RATHMALANA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -694,13 +708,6 @@
       "time": "10:40:28",
       "iso": "2026-08-12T05:10:28.778Z",
       "action": "updated remark for MB-SAFARI4S-BLK at RATHMALANA: “Sold Out”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:39:22",
-      "iso": "2026-08-12T05:09:22.685Z",
-      "action": "updated remark for TCL85C655 at RATHMALANA: “Up to 40% Discount”"
     }
   ]
 }
