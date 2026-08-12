@@ -475,6 +475,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:03:10",
       "lastUpdated": "2026-08-12T05:33:10.781Z"
+    },
+    "HRW-KR110||RATHMALANA": {
+      "remark": "Damaged",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:03:32",
+      "lastUpdated": "2026-08-12T05:33:32.761Z"
     }
   },
   "showroomVisits": {
@@ -520,6 +527,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:03:32",
+      "iso": "2026-08-12T05:33:32.762Z",
+      "action": "updated remark for HRW-KR110 at RATHMALANA: “Damaged”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -862,13 +876,6 @@
       "time": "10:47:47",
       "iso": "2026-08-12T05:17:47.813Z",
       "action": "updated remark for ULED32D60A at RATHMALANA: “MOP 24,999”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:47:16",
-      "iso": "2026-08-12T05:17:16.691Z",
-      "action": "updated remark for PN-TH-32M401N at RATHMALANA: “Additional 40%”"
     }
   ]
 }
