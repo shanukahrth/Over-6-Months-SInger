@@ -454,6 +454,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:02:11",
       "lastUpdated": "2026-08-12T05:32:11.336Z"
+    },
+    "STT-1BSS||RATHMALANA": {
+      "remark": "uP TO 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:02:35",
+      "lastUpdated": "2026-08-12T05:32:35.177Z"
     }
   },
   "showroomVisits": {
@@ -499,6 +506,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:02:35",
+      "iso": "2026-08-12T05:32:35.178Z",
+      "action": "updated remark for STT-1BSS at RATHMALANA: “uP TO 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -841,13 +855,6 @@
       "time": "10:46:45",
       "iso": "2026-08-12T05:16:45.458Z",
       "action": "updated remark for SLE40D600A at RATHMALANA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:46:24",
-      "iso": "2026-08-12T05:16:24.369Z",
-      "action": "updated remark for WP-NSP-J-S at RATHMALANA: “Up to 40%”"
     }
   ]
 }
