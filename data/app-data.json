@@ -641,8 +641,8 @@
       "remark": "Additional 10%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "12:51:29",
-      "lastUpdated": "2026-08-12T07:21:29.155Z"
+      "commentTime": "12:51:33",
+      "lastUpdated": "2026-08-12T07:21:33.386Z"
     }
   },
   "showroomVisits": {
@@ -696,6 +696,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:51:33",
+      "iso": "2026-08-12T07:21:33.386Z",
+      "action": "updated remark for H-BD-1054HVOS at KATUBEDDA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1038,13 +1045,6 @@
       "time": "10:59:23",
       "iso": "2026-08-12T05:29:23.465Z",
       "action": "updated remark for PM-COMP-GSM at RATHMALANA: “Shop Use”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:58:59",
-      "iso": "2026-08-12T05:28:59.552Z",
-      "action": "updated remark for MID-MF-TN40D2 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
