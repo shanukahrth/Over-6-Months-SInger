@@ -426,6 +426,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:01:33",
       "lastUpdated": "2026-08-12T05:31:33.574Z"
+    },
+    "PH-BG1024||RATHMALANA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:01:51",
+      "lastUpdated": "2026-08-12T05:31:51.630Z"
     }
   },
   "showroomVisits": {
@@ -471,6 +478,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:01:51",
+      "iso": "2026-08-12T05:31:51.631Z",
+      "action": "updated remark for PH-BG1024 at RATHMALANA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -813,13 +827,6 @@
       "time": "10:45:25",
       "iso": "2026-08-12T05:15:25.222Z",
       "action": "updated remark for HON-X8C-8-512-WHT at RATHMALANA: “Sold”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:45:21",
-      "iso": "2026-08-12T05:15:21.007Z",
-      "action": "updated remark for WF-PARIS-BR-S at RATHMALANA: “Upo to 50%”"
     }
   ]
 }
