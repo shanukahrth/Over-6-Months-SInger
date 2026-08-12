@@ -650,6 +650,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:52:03",
       "lastUpdated": "2026-08-12T07:22:03.595Z"
+    },
+    "HON-H90-12-512-BLU||KATUBEDDA": {
+      "remark": "Additional 15 %",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:52:09",
+      "lastUpdated": "2026-08-12T07:22:09.170Z"
     }
   },
   "showroomVisits": {
@@ -703,6 +710,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:52:09",
+      "iso": "2026-08-12T07:22:09.171Z",
+      "action": "updated remark for HON-H90-12-512-BLU at KATUBEDDA: “Additional 15 %”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1045,13 +1059,6 @@
       "time": "11:00:30",
       "iso": "2026-08-12T05:30:30.218Z",
       "action": "updated remark for USHA-FS40-13B at RATHMALANA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:59:35",
-      "iso": "2026-08-12T05:29:35.163Z",
-      "action": "updated remark for PH-BHC010-10 at RATHMALANA: “Sold”"
     }
   ]
 }
