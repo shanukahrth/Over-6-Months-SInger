@@ -461,6 +461,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:02:35",
       "lastUpdated": "2026-08-12T05:32:35.177Z"
+    },
+    "TF-FP24-SCR342||RATHMALANA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:02:41",
+      "lastUpdated": "2026-08-12T05:32:41.137Z"
     }
   },
   "showroomVisits": {
@@ -506,6 +513,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:02:41",
+      "iso": "2026-08-12T05:32:41.138Z",
+      "action": "updated remark for TF-FP24-SCR342 at RATHMALANA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -848,13 +862,6 @@
       "time": "10:46:58",
       "iso": "2026-08-12T05:16:58.677Z",
       "action": "updated remark for SIN-DEC-DCWL at RATHMALANA: “Sold”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:46:45",
-      "iso": "2026-08-12T05:16:45.458Z",
-      "action": "updated remark for SLE40D600A at RATHMALANA: “Up to 50%”"
     }
   ]
 }
