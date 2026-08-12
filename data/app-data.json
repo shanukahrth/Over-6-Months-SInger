@@ -384,6 +384,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:59:23",
       "lastUpdated": "2026-08-12T05:29:23.464Z"
+    },
+    "PH-BHC010-10||RATHMALANA": {
+      "remark": "Sold",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:59:35",
+      "lastUpdated": "2026-08-12T05:29:35.161Z"
     }
   },
   "showroomVisits": {
@@ -429,6 +436,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:59:35",
+      "iso": "2026-08-12T05:29:35.163Z",
+      "action": "updated remark for PH-BHC010-10 at RATHMALANA: “Sold”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -771,13 +785,6 @@
       "time": "10:43:45",
       "iso": "2026-08-12T05:13:45.781Z",
       "action": "updated remark for SMGRT28A3021GS at RATHMALANA: “MOP 135,000”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:43:29",
-      "iso": "2026-08-12T05:13:29.312Z",
-      "action": "updated remark for SMG-SM-A556E-256-B at RATHMALANA: “Sold”"
     }
   ]
 }
