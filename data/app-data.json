@@ -1287,6 +1287,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:29:19",
       "lastUpdated": "2026-08-12T09:59:19.530Z"
+    },
+    "B-FSGT62111DSL||MORATUWA - B": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:29:56",
+      "lastUpdated": "2026-08-12T09:59:56.698Z"
     }
   },
   "showroomVisits": {
@@ -1348,6 +1355,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:29:56",
+      "iso": "2026-08-12T09:59:56.700Z",
+      "action": "updated remark for B-FSGT62111DSL at MORATUWA - B: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1690,13 +1704,6 @@
       "time": "13:12:03",
       "iso": "2026-08-12T07:42:03.320Z",
       "action": "updated remark for TF-CM-APR737 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:12:02",
-      "iso": "2026-08-12T07:42:02.126Z",
-      "action": "updated remark for TF-TW26-064 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
