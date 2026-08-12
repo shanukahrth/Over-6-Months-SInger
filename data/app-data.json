@@ -258,6 +258,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:53:26",
       "lastUpdated": "2026-08-12T05:23:26.958Z"
+    },
+    "SMG-A06-4-64-BLU||RATHMALANA": {
+      "remark": "Up to 15%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:54:00",
+      "lastUpdated": "2026-08-12T05:24:00.559Z"
     }
   },
   "showroomVisits": {
@@ -303,6 +310,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:54:00",
+      "iso": "2026-08-12T05:24:00.560Z",
+      "action": "updated remark for SMG-A06-4-64-BLU at RATHMALANA: “Up to 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -645,13 +659,6 @@
       "time": "16:29:43",
       "iso": "2026-08-11T10:59:43.334Z",
       "action": "updated DAMBULLA showroom (team: cleared)"
-    },
-    {
-      "user": "Esala Herath",
-      "date": "2026-08-11",
-      "time": "16:29:24",
-      "iso": "2026-08-11T10:59:24.278Z",
-      "action": "updated DAMBULLA showroom (team: MKT EAST)"
     }
   ]
 }
