@@ -524,6 +524,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:05:14",
       "lastUpdated": "2026-08-12T05:35:14.273Z"
+    },
+    "HON-X9C-12-256-BLK||KATUBEDDA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:46:00",
+      "lastUpdated": "2026-08-12T07:16:00.578Z"
     }
   },
   "showroomVisits": {
@@ -577,6 +584,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:46:00",
+      "iso": "2026-08-12T07:16:00.588Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at KATUBEDDA: “Additional 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -919,13 +933,6 @@
       "time": "10:54:27",
       "iso": "2026-08-12T05:24:27.987Z",
       "action": "updated remark for MID-MJ-KM6001W at RATHMALANA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:54:00",
-      "iso": "2026-08-12T05:24:00.560Z",
-      "action": "updated remark for SMG-A06-4-64-BLU at RATHMALANA: “Up to 15%”"
     }
   ]
 }
