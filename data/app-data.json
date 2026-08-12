@@ -874,6 +874,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:03:53",
       "lastUpdated": "2026-08-12T07:33:53.595Z"
+    },
+    "H-CVW1600||KATUBEDDA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:04:06",
+      "lastUpdated": "2026-08-12T07:34:06.666Z"
     }
   },
   "showroomVisits": {
@@ -927,6 +934,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:06",
+      "iso": "2026-08-12T07:34:06.668Z",
+      "action": "updated remark for H-CVW1600 at KATUBEDDA: “Additional 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1269,13 +1283,6 @@
       "time": "12:49:01",
       "iso": "2026-08-12T07:19:01.186Z",
       "action": "updated remark for WF-BALTIC-01-S at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:48:55",
-      "iso": "2026-08-12T07:18:55.859Z",
-      "action": "updated remark for H-RMRG024MFEOE at KATUBEDDA: “No discounts. Available at shop”"
     }
   ]
 }
