@@ -699,6 +699,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:54:05",
       "lastUpdated": "2026-08-12T07:24:05.627Z"
+    },
+    "HON-X9C-12-256-GRN||KATUBEDDA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:54:22",
+      "lastUpdated": "2026-08-12T07:24:22.949Z"
     }
   },
   "showroomVisits": {
@@ -752,6 +759,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:54:22",
+      "iso": "2026-08-12T07:24:22.950Z",
+      "action": "updated remark for HON-X9C-12-256-GRN at KATUBEDDA: “Additional 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1094,13 +1108,6 @@
       "time": "11:02:05",
       "iso": "2026-08-12T05:32:05.101Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at RATHMALANA: “Sold”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:01:54",
-      "iso": "2026-08-12T05:31:54.550Z",
-      "action": "updated remark for HON-CH-EARBUDS-X7E at RATHMALANA: “Sold”"
     }
   ]
 }
