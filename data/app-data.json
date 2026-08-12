@@ -1322,6 +1322,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:33:21",
       "lastUpdated": "2026-08-12T10:03:21.842Z"
+    },
+    "GEO-SM-265NF||MORATUWA - B": {
+      "remark": "Exchange",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:33:24",
+      "lastUpdated": "2026-08-12T10:03:24.995Z"
     }
   },
   "showroomVisits": {
@@ -1383,6 +1390,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:33:24",
+      "iso": "2026-08-12T10:03:24.997Z",
+      "action": "updated remark for GEO-SM-265NF at MORATUWA - B: “Exchange”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1725,13 +1739,6 @@
       "time": "13:12:12",
       "iso": "2026-08-12T07:42:12.575Z",
       "action": "updated remark for TF-SI-ESS-242 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:12:11",
-      "iso": "2026-08-12T07:42:11.156Z",
-      "action": "updated remark for TF-NIFP28-042 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
