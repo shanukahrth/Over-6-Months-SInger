@@ -1471,11 +1471,11 @@
       "lastUpdated": "2026-08-12T10:11:07.082Z"
     },
     "MID-MJ-KM6001W||MORATUWA - B": {
-      "remark": "Additional 30%",
+      "remark": "In shop. No discounts allocated",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "15:41:13",
-      "lastUpdated": "2026-08-12T10:11:13.849Z"
+      "commentTime": "15:41:16",
+      "lastUpdated": "2026-08-12T10:11:16.502Z"
     }
   },
   "showroomVisits": {
@@ -1537,6 +1537,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:41:16",
+      "iso": "2026-08-12T10:11:16.504Z",
+      "action": "updated remark for MID-MJ-KM6001W at MORATUWA - B: “In shop. No discounts allocated”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1879,13 +1886,6 @@
       "time": "13:17:09",
       "iso": "2026-08-12T07:47:09.449Z",
       "action": "updated remark for SIN-RFC-1819 at KATUBEDDA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:16:53",
-      "iso": "2026-08-12T07:46:53.344Z",
-      "action": "updated remark for ENG-UE10054 at KATUBEDDA: “Not salable”"
     }
   ]
 }
