@@ -1140,6 +1140,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:14:12",
       "lastUpdated": "2026-08-12T07:44:12.365Z"
+    },
+    "PF-MONDY-BLUE||KATUBEDDA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:14:31",
+      "lastUpdated": "2026-08-12T07:44:31.747Z"
     }
   },
   "showroomVisits": {
@@ -1193,6 +1200,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:14:31",
+      "iso": "2026-08-12T07:44:31.748Z",
+      "action": "updated remark for PF-MONDY-BLUE at KATUBEDDA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1535,13 +1549,6 @@
       "time": "13:04:44",
       "iso": "2026-08-12T07:34:44.971Z",
       "action": "updated remark for TF-SI-EXSP1231 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:04:43",
-      "iso": "2026-08-12T07:34:43.221Z",
-      "action": "updated remark for TF-NIDFP24-170 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
