@@ -1295,9 +1295,31 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-12"
+    },
+    "MORATUWA - B||PANADURA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-12",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-12"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "14:52:11",
+      "iso": "2026-08-12T09:22:11.788Z",
+      "action": "updated MORATUWA - B showroom (visitDate: 2026-08-12)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "14:52:08",
+      "iso": "2026-08-12T09:22:08.365Z",
+      "action": "updated MORATUWA - B showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-12",
@@ -1633,20 +1655,6 @@
       "time": "13:10:22",
       "iso": "2026-08-12T07:40:22.543Z",
       "action": "updated remark for WF-NAMAL-CT-S at KATUBEDDA: “Send to factory”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:09:49",
-      "iso": "2026-08-12T07:39:49.246Z",
-      "action": "updated remark for SL-SF1607RC at KATUBEDDA: “Exchange”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:09:32",
-      "iso": "2026-08-12T07:39:32.419Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRN at KATUBEDDA: “Sold”"
     }
   ]
 }
