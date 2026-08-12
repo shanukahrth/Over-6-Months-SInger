@@ -1028,6 +1028,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:09:49",
       "lastUpdated": "2026-08-12T07:39:49.244Z"
+    },
+    "WF-NAMAL-CT-S||KATUBEDDA": {
+      "remark": "Send to factory",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:10:22",
+      "lastUpdated": "2026-08-12T07:40:22.542Z"
     }
   },
   "showroomVisits": {
@@ -1081,6 +1088,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:10:22",
+      "iso": "2026-08-12T07:40:22.543Z",
+      "action": "updated remark for WF-NAMAL-CT-S at KATUBEDDA: “Send to factory”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1423,13 +1437,6 @@
       "time": "12:55:52",
       "iso": "2026-08-12T07:25:52.567Z",
       "action": "updated remark for HON-X8C-8-512-BLK at KATUBEDDA: “Additional 15%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:55:48",
-      "iso": "2026-08-12T07:25:48.252Z",
-      "action": "updated remark for WFL-RIO-02-S at KATUBEDDA: “Up to 60%”"
     }
   ]
 }
