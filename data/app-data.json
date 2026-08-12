@@ -370,6 +370,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:58:48",
       "lastUpdated": "2026-08-12T05:28:48.428Z"
+    },
+    "MID-MF-TN40D2||RATHMALANA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:58:59",
+      "lastUpdated": "2026-08-12T05:28:59.551Z"
     }
   },
   "showroomVisits": {
@@ -415,6 +422,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:58:59",
+      "iso": "2026-08-12T05:28:59.552Z",
+      "action": "updated remark for MID-MF-TN40D2 at RATHMALANA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -757,13 +771,6 @@
       "time": "10:43:03",
       "iso": "2026-08-12T05:13:03.731Z",
       "action": "updated remark for SLE55GENR at RATHMALANA: “Sold”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:43:00",
-      "iso": "2026-08-12T05:13:00.535Z",
-      "action": "updated remark for TCL85C655 at RATHMALANA: “Up to 40%”"
     }
   ]
 }
