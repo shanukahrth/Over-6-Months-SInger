@@ -886,8 +886,8 @@
       "remark": "Up to 50%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "13:04:33",
-      "lastUpdated": "2026-08-12T07:34:33.094Z"
+      "commentTime": "13:04:54",
+      "lastUpdated": "2026-08-12T07:34:54.266Z"
     },
     "TF-SI-EXS1230||KATUBEDDA": {
       "remark": "Up to 50%",
@@ -976,6 +976,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:54",
+      "iso": "2026-08-12T07:34:54.267Z",
+      "action": "updated remark for TF-GS-SPKT302 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1318,13 +1325,6 @@
       "time": "12:51:11",
       "iso": "2026-08-12T07:21:11.176Z",
       "action": "updated remark for HON-X9CSMART-12-256-BLK at KATUBEDDA: “Additional 15%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:51:06",
-      "iso": "2026-08-12T07:21:06.352Z",
-      "action": "updated remark for SLE55GENR at KATUBEDDA: “No discounts. Available at shop”"
     }
   ]
 }
