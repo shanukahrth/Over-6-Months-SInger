@@ -1294,6 +1294,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:29:56",
       "lastUpdated": "2026-08-12T09:59:56.698Z"
+    },
+    "MHC-M60D||MORATUWA - B": {
+      "remark": "Up to 70%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:30:40",
+      "lastUpdated": "2026-08-12T10:00:40.707Z"
     }
   },
   "showroomVisits": {
@@ -1355,6 +1362,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:30:40",
+      "iso": "2026-08-12T10:00:40.711Z",
+      "action": "updated remark for MHC-M60D at MORATUWA - B: “Up to 70%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1696,13 +1710,6 @@
       "date": "2026-08-12",
       "time": "13:12:05",
       "iso": "2026-08-12T07:42:05.403Z",
-      "action": "updated remark for TF-CM-APR737 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:12:03",
-      "iso": "2026-08-12T07:42:03.320Z",
       "action": "updated remark for TF-CM-APR737 at KATUBEDDA: “Up to 50%”"
     }
   ]
