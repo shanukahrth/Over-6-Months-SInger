@@ -1133,6 +1133,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:14:07",
       "lastUpdated": "2026-08-12T07:44:07.108Z"
+    },
+    "RIYLTA-MF12V51A||KATUBEDDA": {
+      "remark": "Not salable",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:14:12",
+      "lastUpdated": "2026-08-12T07:44:12.365Z"
     }
   },
   "showroomVisits": {
@@ -1186,6 +1193,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:14:12",
+      "iso": "2026-08-12T07:44:12.366Z",
+      "action": "updated remark for RIYLTA-MF12V51A at KATUBEDDA: “Not salable”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1528,13 +1542,6 @@
       "time": "13:04:43",
       "iso": "2026-08-12T07:34:43.221Z",
       "action": "updated remark for TF-NIDFP24-170 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:04:42",
-      "iso": "2026-08-12T07:34:42.070Z",
-      "action": "updated remark for TF-SI-EXS1230 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
