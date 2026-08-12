@@ -1082,8 +1082,15 @@
       "remark": "Up to 50%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "13:12:12",
-      "lastUpdated": "2026-08-12T07:42:12.574Z"
+      "commentTime": "13:12:14",
+      "lastUpdated": "2026-08-12T07:42:14.848Z"
+    },
+    "TF-SP16-063||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:12:16",
+      "lastUpdated": "2026-08-12T07:42:16.749Z"
     }
   },
   "showroomVisits": {
@@ -1137,6 +1144,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:12:16",
+      "iso": "2026-08-12T07:42:16.750Z",
+      "action": "updated remark for TF-SP16-063 at KATUBEDDA: “Up to 50%”"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:12:14",
+      "iso": "2026-08-12T07:42:14.848Z",
+      "action": "updated remark for TF-SI-ESS-242 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1472,20 +1493,6 @@
       "time": "13:01:04",
       "iso": "2026-08-12T07:31:04.064Z",
       "action": "updated remark for MID-DSK38EU5 at KATUBEDDA: “Available in shop. No discounts”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:00:57",
-      "iso": "2026-08-12T07:30:57.543Z",
-      "action": "updated remark for SWH-SLIM228E at KATUBEDDA: “Available in shop. No discounts”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:59:25",
-      "iso": "2026-08-12T07:29:25.008Z",
-      "action": "updated remark for SMW823AY7 at KATUBEDDA: “Additional 30%”"
     }
   ]
 }
