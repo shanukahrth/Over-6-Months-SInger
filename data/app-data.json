@@ -1021,6 +1021,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:09:32",
       "lastUpdated": "2026-08-12T07:39:32.419Z"
+    },
+    "SL-SF1607RC||KATUBEDDA": {
+      "remark": "Exchange",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:09:49",
+      "lastUpdated": "2026-08-12T07:39:49.244Z"
     }
   },
   "showroomVisits": {
@@ -1074,6 +1081,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:09:49",
+      "iso": "2026-08-12T07:39:49.246Z",
+      "action": "updated remark for SL-SF1607RC at KATUBEDDA: “Exchange”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1416,13 +1430,6 @@
       "time": "12:55:48",
       "iso": "2026-08-12T07:25:48.252Z",
       "action": "updated remark for WFL-RIO-02-S at KATUBEDDA: “Up to 60%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:55:36",
-      "iso": "2026-08-12T07:25:36.523Z",
-      "action": "updated remark for PN-DH-3JL2WH at KATUBEDDA: “Additional 30%”"
     }
   ]
 }
