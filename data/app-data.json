@@ -321,6 +321,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:57:10",
       "lastUpdated": "2026-08-12T05:27:10.612Z"
+    },
+    "NG845K1||RATHMALANA": {
+      "remark": "Up to 60%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:57:13",
+      "lastUpdated": "2026-08-12T05:27:13.948Z"
     }
   },
   "showroomVisits": {
@@ -366,6 +373,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:57:13",
+      "iso": "2026-08-12T05:27:13.950Z",
+      "action": "updated remark for NG845K1 at RATHMALANA: “Up to 60%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -708,13 +722,6 @@
       "time": "10:41:01",
       "iso": "2026-08-12T05:11:01.419Z",
       "action": "updated remark for DELL3530-I5-8GB512-BLK at RATHMALANA: “Up to 50% Discount”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:40:41",
-      "iso": "2026-08-12T05:10:41.653Z",
-      "action": "updated remark for AS-13G-I7-512GB-957-BLU at RATHMALANA: “Up to 50% Discount”"
     }
   ]
 }
