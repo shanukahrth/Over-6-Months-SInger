@@ -1350,6 +1350,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:35:08",
       "lastUpdated": "2026-08-12T10:05:08.433Z"
+    },
+    "SMW823AY7||MORATUWA - B": {
+      "remark": "In shop. No discounts allocated",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:35:29",
+      "lastUpdated": "2026-08-12T10:05:29.281Z"
     }
   },
   "showroomVisits": {
@@ -1411,6 +1418,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:35:29",
+      "iso": "2026-08-12T10:05:29.282Z",
+      "action": "updated remark for SMW823AY7 at MORATUWA - B: “In shop. No discounts allocated”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1753,13 +1767,6 @@
       "time": "13:12:57",
       "iso": "2026-08-12T07:42:57.344Z",
       "action": "updated remark for TF-TW26-064 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:12:20",
-      "iso": "2026-08-12T07:42:20.189Z",
-      "action": "updated remark for TF-SP16-063 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
