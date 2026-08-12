@@ -1299,13 +1299,20 @@
     "MORATUWA - B||PANADURA": {
       "visited": "Yes",
       "visitDate": "2026-08-12",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-12"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "14:52:21",
+      "iso": "2026-08-12T09:22:21.372Z",
+      "action": "updated MORATUWA - B showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1647,13 +1654,6 @@
       "date": "2026-08-12",
       "time": "13:10:26",
       "iso": "2026-08-12T07:40:26.167Z",
-      "action": "updated remark for WF-NAMAL-CT-S at KATUBEDDA: “Send to factory”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:10:22",
-      "iso": "2026-08-12T07:40:22.543Z",
       "action": "updated remark for WF-NAMAL-CT-S at KATUBEDDA: “Send to factory”"
     }
   ]
