@@ -930,6 +930,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:05:24",
       "lastUpdated": "2026-08-12T07:35:24.763Z"
+    },
+    "LF-OFI-ST-001-SHW-S||KATUBEDDA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:05:43",
+      "lastUpdated": "2026-08-12T07:35:43.312Z"
     }
   },
   "showroomVisits": {
@@ -983,6 +990,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:05:43",
+      "iso": "2026-08-12T07:35:43.314Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at KATUBEDDA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1325,13 +1339,6 @@
       "time": "12:52:03",
       "iso": "2026-08-12T07:22:03.596Z",
       "action": "updated remark for WF-QUEEN-311-GR-S at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:51:33",
-      "iso": "2026-08-12T07:21:33.386Z",
-      "action": "updated remark for H-BD-1054HVOS at KATUBEDDA: “Additional 10%”"
     }
   ]
 }
