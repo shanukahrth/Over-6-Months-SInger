@@ -1371,6 +1371,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:36:12",
       "lastUpdated": "2026-08-12T10:06:12.398Z"
+    },
+    "SVX6002||MORATUWA - B": {
+      "remark": "Not Salable",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:36:25",
+      "lastUpdated": "2026-08-12T10:06:25.037Z"
     }
   },
   "showroomVisits": {
@@ -1432,6 +1439,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:36:25",
+      "iso": "2026-08-12T10:06:25.038Z",
+      "action": "updated remark for SVX6002 at MORATUWA - B: “Not Salable”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1774,13 +1788,6 @@
       "time": "13:13:24",
       "iso": "2026-08-12T07:43:24.191Z",
       "action": "updated remark for RIYLTA-MF12V25 at KATUBEDDA: “Not salable”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:13:20",
-      "iso": "2026-08-12T07:43:20.346Z",
-      "action": "updated remark for WFL-SOC-V010-RD-S at KATUBEDDA: “Up to 40%”"
     }
   ]
 }
