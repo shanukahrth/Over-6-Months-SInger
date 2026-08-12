@@ -414,11 +414,11 @@
       "lastUpdated": "2026-08-12T05:31:13.956Z"
     },
     "DH-I-A22EP-IMOU||RATHMALANA": {
-      "remark": "70%",
+      "remark": "Up to 70%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "11:01:25",
-      "lastUpdated": "2026-08-12T05:31:25.630Z"
+      "commentTime": "11:01:39",
+      "lastUpdated": "2026-08-12T05:31:39.024Z"
     },
     "DH-A-HFW1209CP-LED-36B||RATHMALANA": {
       "remark": "Up to 70%",
@@ -471,6 +471,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:01:39",
+      "iso": "2026-08-12T05:31:39.025Z",
+      "action": "updated remark for DH-I-A22EP-IMOU at RATHMALANA: “Up to 70%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -813,13 +820,6 @@
       "time": "10:45:21",
       "iso": "2026-08-12T05:15:21.007Z",
       "action": "updated remark for WF-PARIS-BR-S at RATHMALANA: “Upo to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:45:12",
-      "iso": "2026-08-12T05:15:12.722Z",
-      "action": "updated remark for SLE43G890 at RATHMALANA: “Up to 60%”"
     }
   ]
 }
