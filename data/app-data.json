@@ -580,6 +580,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:48:55",
       "lastUpdated": "2026-08-12T07:18:55.857Z"
+    },
+    "WF-BALTIC-01-S||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:49:01",
+      "lastUpdated": "2026-08-12T07:19:01.184Z"
     }
   },
   "showroomVisits": {
@@ -633,6 +640,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:49:01",
+      "iso": "2026-08-12T07:19:01.186Z",
+      "action": "updated remark for WF-BALTIC-01-S at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -975,13 +989,6 @@
       "time": "10:57:13",
       "iso": "2026-08-12T05:27:13.950Z",
       "action": "updated remark for NG845K1 at RATHMALANA: “Up to 60%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:57:10",
-      "iso": "2026-08-12T05:27:10.613Z",
-      "action": "updated remark for PN-MX-AC210 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
