@@ -1518,6 +1518,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:43:23",
       "lastUpdated": "2026-08-12T10:13:23.433Z"
+    },
+    "TF-AF32-577||MORATUWA - B": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:43:44",
+      "lastUpdated": "2026-08-12T10:13:44.751Z"
     }
   },
   "showroomVisits": {
@@ -1579,6 +1586,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:43:44",
+      "iso": "2026-08-12T10:13:44.752Z",
+      "action": "updated remark for TF-AF32-577 at MORATUWA - B: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1921,13 +1935,6 @@
       "time": "13:19:26",
       "iso": "2026-08-12T07:49:26.139Z",
       "action": "updated remark for DUM - SMGAR50F24D1J at KATUBEDDA: “Available in shop. no discount”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:18:45",
-      "iso": "2026-08-12T07:48:45.527Z",
-      "action": "updated remark for PF-CAFE-NEW-WF-S at KATUBEDDA: “Additional 40%”"
     }
   ]
 }
