@@ -1131,8 +1131,8 @@
       "remark": "Up to 50%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "13:14:02",
-      "lastUpdated": "2026-08-12T07:44:02.849Z"
+      "commentTime": "13:14:07",
+      "lastUpdated": "2026-08-12T07:44:07.108Z"
     }
   },
   "showroomVisits": {
@@ -1186,6 +1186,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:14:07",
+      "iso": "2026-08-12T07:44:07.108Z",
+      "action": "updated remark for SKS-1089 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1528,13 +1535,6 @@
       "time": "13:04:42",
       "iso": "2026-08-12T07:34:42.070Z",
       "action": "updated remark for TF-SI-EXS1230 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:04:33",
-      "iso": "2026-08-12T07:34:33.096Z",
-      "action": "updated remark for TF-GS-SPKT302 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
