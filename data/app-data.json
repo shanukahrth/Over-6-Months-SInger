@@ -1420,6 +1420,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:38:21",
       "lastUpdated": "2026-08-12T10:08:21.910Z"
+    },
+    "SMG-A06-6-128-BLK||MORATUWA - B": {
+      "remark": "Damage",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:38:26",
+      "lastUpdated": "2026-08-12T10:08:26.688Z"
     }
   },
   "showroomVisits": {
@@ -1481,6 +1488,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:38:26",
+      "iso": "2026-08-12T10:08:26.688Z",
+      "action": "updated remark for SMG-A06-6-128-BLK at MORATUWA - B: “Damage”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1823,13 +1837,6 @@
       "time": "13:14:43",
       "iso": "2026-08-12T07:44:43.678Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KATUBEDDA: “No discounts. New model”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:14:31",
-      "iso": "2026-08-12T07:44:31.748Z",
-      "action": "updated remark for PF-MONDY-BLUE at KATUBEDDA: “Up to 40%”"
     }
   ]
 }
