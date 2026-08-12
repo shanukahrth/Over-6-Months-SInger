@@ -956,8 +956,8 @@
       "remark": "Available in shop. No discounts",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "13:06:40",
-      "lastUpdated": "2026-08-12T07:36:40.988Z"
+      "commentTime": "13:07:35",
+      "lastUpdated": "2026-08-12T07:37:35.956Z"
     }
   },
   "showroomVisits": {
@@ -1011,6 +1011,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:07:35",
+      "iso": "2026-08-12T07:37:35.957Z",
+      "action": "updated remark for SIN-DEC-FDC at KATUBEDDA: “Available in shop. No discounts”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1353,13 +1360,6 @@
       "time": "12:52:55",
       "iso": "2026-08-12T07:22:55.399Z",
       "action": "updated remark for MHC-V13 at KATUBEDDA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:52:40",
-      "iso": "2026-08-12T07:22:40.388Z",
-      "action": "updated remark for BES-CRS-80 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
