@@ -536,12 +536,12 @@
       "updatedDate": "2026-08-10"
     },
     "ABANPOLA||NIKAWARATIYA": {
-      "visited": "Yes",
+      "visited": "No",
       "visitDate": "2026-08-11",
       "team": "Sabara Team MKT",
       "remark": "",
       "updatedBy": "Shanuka Herath",
-      "updatedDate": "2026-08-11"
+      "updatedDate": "2026-08-12"
     },
     "MEGA - SHANGRI-LA||MEGA COLOMBO METRO ZONE-": {
       "visited": "No",
@@ -569,6 +569,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-12",
+      "time": "11:51:05",
+      "iso": "2026-08-12T06:21:05.123Z",
+      "action": "updated ABANPOLA showroom (visited: No)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -911,13 +918,6 @@
       "time": "10:50:33",
       "iso": "2026-08-12T05:20:33.157Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at RATHMALANA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:49:56",
-      "iso": "2026-08-12T05:19:56.942Z",
-      "action": "updated remark for SIN-RFC-2012 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
