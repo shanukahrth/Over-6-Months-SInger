@@ -1173,8 +1173,8 @@
       "remark": "Additional 30%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "13:15:38",
-      "lastUpdated": "2026-08-12T07:45:38.048Z"
+      "commentTime": "13:18:16",
+      "lastUpdated": "2026-08-12T07:48:16.824Z"
     },
     "NCPDG-SP240||KATUBEDDA": {
       "remark": "Up to 70%Up to 50",
@@ -1270,6 +1270,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:18:16",
+      "iso": "2026-08-12T07:48:16.824Z",
+      "action": "updated remark for R-BWS-02 at KATUBEDDA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1612,13 +1619,6 @@
       "time": "13:08:44",
       "iso": "2026-08-12T07:38:44.232Z",
       "action": "updated remark for ALU-CL-7FT-S at KATUBEDDA: “Up to 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:07:56",
-      "iso": "2026-08-12T07:37:56.285Z",
-      "action": "updated remark for TCLED24D3100 at KATUBEDDA: “Shop Use”"
     }
   ]
 }
