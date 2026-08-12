@@ -1238,6 +1238,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:19:26",
       "lastUpdated": "2026-08-12T07:49:26.138Z"
+    },
+    "HU-SECURITY||KATUBEDDA": {
+      "remark": "No price",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:20:00",
+      "lastUpdated": "2026-08-12T07:50:00.245Z"
     }
   },
   "showroomVisits": {
@@ -1291,6 +1298,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:20:00",
+      "iso": "2026-08-12T07:50:00.245Z",
+      "action": "updated remark for HU-SECURITY at KATUBEDDA: “No price”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1633,13 +1647,6 @@
       "time": "13:09:16",
       "iso": "2026-08-12T07:39:16.748Z",
       "action": "updated remark for WF100IC100 at KATUBEDDA: “Additional 25%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:09:06",
-      "iso": "2026-08-12T07:39:06.816Z",
-      "action": "updated remark for RIYLTA-MF12V53B at KATUBEDDA: “Not salable”"
     }
   ]
 }
