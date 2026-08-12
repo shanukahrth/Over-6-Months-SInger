@@ -804,6 +804,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:58:57",
       "lastUpdated": "2026-08-12T07:28:57.671Z"
+    },
+    "PN-F-407XNBAMKH||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:59:03",
+      "lastUpdated": "2026-08-12T07:29:03.689Z"
     }
   },
   "showroomVisits": {
@@ -857,6 +864,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:59:03",
+      "iso": "2026-08-12T07:29:03.690Z",
+      "action": "updated remark for PN-F-407XNBAMKH at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1199,13 +1213,6 @@
       "time": "11:52:29",
       "iso": "2026-08-12T06:22:29.476Z",
       "action": "updated KATUBEDDA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:52:24",
-      "iso": "2026-08-12T06:22:24.355Z",
-      "action": "updated KATUBEDDA showroom (visitDate: 2026-08-12)"
     }
   ]
 }
