@@ -1098,6 +1098,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:13:11",
       "lastUpdated": "2026-08-12T07:43:11.610Z"
+    },
+    "WFL-SOC-V010-RD-S||KATUBEDDA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:13:20",
+      "lastUpdated": "2026-08-12T07:43:20.345Z"
     }
   },
   "showroomVisits": {
@@ -1151,6 +1158,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:13:20",
+      "iso": "2026-08-12T07:43:20.346Z",
+      "action": "updated remark for WFL-SOC-V010-RD-S at KATUBEDDA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1493,13 +1507,6 @@
       "time": "13:03:03",
       "iso": "2026-08-12T07:33:03.835Z",
       "action": "updated remark for WF-DOC-T011-BL-S at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:02:59",
-      "iso": "2026-08-12T07:32:59.678Z",
-      "action": "updated remark for PN-MC-CG370GS47 at KATUBEDDA: “Up to 40%”"
     }
   ]
 }
