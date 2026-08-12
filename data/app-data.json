@@ -1175,6 +1175,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:15:38",
       "lastUpdated": "2026-08-12T07:45:38.048Z"
+    },
+    "NCPDG-SP240||KATUBEDDA": {
+      "remark": "Up to 70%Up to 50",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:16:06",
+      "lastUpdated": "2026-08-12T07:46:06.424Z"
     }
   },
   "showroomVisits": {
@@ -1228,6 +1235,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:16:06",
+      "iso": "2026-08-12T07:46:06.425Z",
+      "action": "updated remark for NCPDG-SP240 at KATUBEDDA: “Up to 70%Up to 50”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1570,13 +1584,6 @@
       "time": "13:05:43",
       "iso": "2026-08-12T07:35:43.314Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at KATUBEDDA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:05:24",
-      "iso": "2026-08-12T07:35:24.764Z",
-      "action": "updated remark for RIYLTA-MF12V92A at KATUBEDDA: “Not salable”"
     }
   ]
 }
