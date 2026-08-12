@@ -300,6 +300,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:55:22",
       "lastUpdated": "2026-08-12T05:25:22.748Z"
+    },
+    "SIN-PSVX938N||RATHMALANA": {
+      "remark": "MOP 18 500",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:56:24",
+      "lastUpdated": "2026-08-12T05:26:24.580Z"
     }
   },
   "showroomVisits": {
@@ -345,6 +352,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:56:24",
+      "iso": "2026-08-12T05:26:24.582Z",
+      "action": "updated remark for SIN-PSVX938N at RATHMALANA: “MOP 18 500”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -687,13 +701,6 @@
       "time": "10:39:03",
       "iso": "2026-08-12T05:09:03.744Z",
       "action": "updated remark for SRS-XV500 at RATHMALANA: “Additional 30% Discount”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:02:21",
-      "iso": "2026-08-12T04:32:21.461Z",
-      "action": "updated RATHMALANA showroom (team: Colombo South MKT)"
     }
   ]
 }
