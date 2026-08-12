@@ -337,11 +337,11 @@
       "lastUpdated": "2026-08-12T05:27:32.349Z"
     },
     "HFPA-GRAVITY-BLC||RATHMALANA": {
-      "remark": "Up tp 40%",
+      "remark": "Up to 40%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "10:57:48",
-      "lastUpdated": "2026-08-12T05:27:48.694Z"
+      "commentTime": "10:57:54",
+      "lastUpdated": "2026-08-12T05:27:54.227Z"
     }
   },
   "showroomVisits": {
@@ -387,6 +387,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:57:54",
+      "iso": "2026-08-12T05:27:54.229Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at RATHMALANA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -729,13 +736,6 @@
       "time": "10:42:42",
       "iso": "2026-08-12T05:12:42.083Z",
       "action": "updated remark for DELL3530-I5-8GB512-SIL at RATHMALANA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:42:39",
-      "iso": "2026-08-12T05:12:39.374Z",
-      "action": "updated remark for B-RDNI315XIB300P at RATHMALANA: “Up to 60%”"
     }
   ]
 }
