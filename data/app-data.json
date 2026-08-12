@@ -503,6 +503,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:04:42",
       "lastUpdated": "2026-08-12T05:34:42.158Z"
+    },
+    "NCPDG-MP160||RATHMALANA": {
+      "remark": "Additional 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:04:46",
+      "lastUpdated": "2026-08-12T05:34:46.454Z"
     }
   },
   "showroomVisits": {
@@ -548,6 +555,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:04:46",
+      "iso": "2026-08-12T05:34:46.455Z",
+      "action": "updated remark for NCPDG-MP160 at RATHMALANA: “Additional 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -890,13 +904,6 @@
       "time": "10:48:46",
       "iso": "2026-08-12T05:18:46.040Z",
       "action": "updated remark for HFPA-GRAVITY-BLU at RATHMALANA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:48:34",
-      "iso": "2026-08-12T05:18:34.884Z",
-      "action": "updated remark for H-HMR-DG2312 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
