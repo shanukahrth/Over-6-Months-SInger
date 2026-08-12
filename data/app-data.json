@@ -363,6 +363,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:58:28",
       "lastUpdated": "2026-08-12T05:28:28.906Z"
+    },
+    "V-WCDMA-3G-433||RATHMALANA": {
+      "remark": "Up to 5%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:58:48",
+      "lastUpdated": "2026-08-12T05:28:48.428Z"
     }
   },
   "showroomVisits": {
@@ -408,6 +415,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:58:48",
+      "iso": "2026-08-12T05:28:48.431Z",
+      "action": "updated remark for V-WCDMA-3G-433 at RATHMALANA: “Up to 5%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -750,13 +764,6 @@
       "time": "10:43:00",
       "iso": "2026-08-12T05:13:00.535Z",
       "action": "updated remark for TCL85C655 at RATHMALANA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:42:50",
-      "iso": "2026-08-12T05:12:50.251Z",
-      "action": "updated remark for SRS-XV500 at RATHMALANA: “Additional 30%”"
     }
   ]
 }
