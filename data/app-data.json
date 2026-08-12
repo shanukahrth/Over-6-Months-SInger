@@ -1203,6 +1203,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:17:26",
       "lastUpdated": "2026-08-12T07:47:26.363Z"
+    },
+    "NCPO-FP250||KATUBEDDA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:17:39",
+      "lastUpdated": "2026-08-12T07:47:39.136Z"
     }
   },
   "showroomVisits": {
@@ -1256,6 +1263,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:17:39",
+      "iso": "2026-08-12T07:47:39.137Z",
+      "action": "updated remark for NCPO-FP250 at KATUBEDDA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1598,13 +1612,6 @@
       "time": "13:07:51",
       "iso": "2026-08-12T07:37:51.837Z",
       "action": "updated remark for HFPA-GRAVITY-BLU at KATUBEDDA: “MOP 24,000”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:07:41",
-      "iso": "2026-08-12T07:37:41.418Z",
-      "action": "updated remark for DH-IPC-P5DP-5F-PV-28B-60B at KATUBEDDA: “Up to 70%”"
     }
   ]
 }
