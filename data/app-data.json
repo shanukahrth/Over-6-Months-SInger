@@ -482,6 +482,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:03:32",
       "lastUpdated": "2026-08-12T05:33:32.761Z"
+    },
+    "UJB-LB6027||RATHMALANA": {
+      "remark": "Additional 5%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:03:52",
+      "lastUpdated": "2026-08-12T05:33:52.980Z"
     }
   },
   "showroomVisits": {
@@ -527,6 +534,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:03:52",
+      "iso": "2026-08-12T05:33:52.982Z",
+      "action": "updated remark for UJB-LB6027 at RATHMALANA: “Additional 5%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -869,13 +883,6 @@
       "time": "10:48:13",
       "iso": "2026-08-12T05:18:13.272Z",
       "action": "updated remark for SMGUA32N4010 at RATHMALANA: “Additional 28%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:47:47",
-      "iso": "2026-08-12T05:17:47.813Z",
-      "action": "updated remark for ULED32D60A at RATHMALANA: “MOP 24,999”"
     }
   ]
 }
