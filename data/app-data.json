@@ -447,6 +447,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:02:05",
       "lastUpdated": "2026-08-12T05:32:05.099Z"
+    },
+    "PH-BT1235||RATHMALANA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:02:11",
+      "lastUpdated": "2026-08-12T05:32:11.336Z"
     }
   },
   "showroomVisits": {
@@ -492,6 +499,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:02:11",
+      "iso": "2026-08-12T05:32:11.337Z",
+      "action": "updated remark for PH-BT1235 at RATHMALANA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -834,13 +848,6 @@
       "time": "10:46:06",
       "iso": "2026-08-12T05:16:06.365Z",
       "action": "updated remark for GEO-182S-SV at RATHMALANA: “Up to 25%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:45:44",
-      "iso": "2026-08-12T05:15:44.906Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-TT-DST at RATHMALANA: “Up to 15%”"
     }
   ]
 }
