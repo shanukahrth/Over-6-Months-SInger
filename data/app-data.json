@@ -664,6 +664,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:52:17",
       "lastUpdated": "2026-08-12T07:22:17.836Z"
+    },
+    "BES-CRS-80||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:52:40",
+      "lastUpdated": "2026-08-12T07:22:40.386Z"
     }
   },
   "showroomVisits": {
@@ -717,6 +724,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:52:40",
+      "iso": "2026-08-12T07:22:40.388Z",
+      "action": "updated remark for BES-CRS-80 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1059,13 +1073,6 @@
       "time": "11:01:13",
       "iso": "2026-08-12T05:31:13.958Z",
       "action": "updated remark for KA-TXG-DS11A at RATHMALANA: “Damaged. Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:00:54",
-      "iso": "2026-08-12T05:30:54.207Z",
-      "action": "updated remark for STT-2BGT at RATHMALANA: “Up to 50%”"
     }
   ]
 }
