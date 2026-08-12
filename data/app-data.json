@@ -538,6 +538,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:46:59",
       "lastUpdated": "2026-08-12T07:16:59.962Z"
+    },
+    "PN-TH-65MX740N||KATUBEDDA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:47:32",
+      "lastUpdated": "2026-08-12T07:17:32.270Z"
     }
   },
   "showroomVisits": {
@@ -591,6 +598,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:47:32",
+      "iso": "2026-08-12T07:17:32.272Z",
+      "action": "updated remark for PN-TH-65MX740N at KATUBEDDA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -933,13 +947,6 @@
       "time": "10:54:58",
       "iso": "2026-08-12T05:24:58.289Z",
       "action": "updated remark for TF-GS-SPKT302 at RATHMALANA: “Up to 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:54:34",
-      "iso": "2026-08-12T05:24:34.757Z",
-      "action": "updated remark for TF-AF32-577 at RATHMALANA: “Additional 5%”"
     }
   ]
 }
