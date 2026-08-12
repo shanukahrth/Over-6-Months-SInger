@@ -685,6 +685,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:53:08",
       "lastUpdated": "2026-08-12T07:23:08.490Z"
+    },
+    "B-BMGB25332BG||KATUBEDDA": {
+      "remark": "Additional 20%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:53:45",
+      "lastUpdated": "2026-08-12T07:23:45.167Z"
     }
   },
   "showroomVisits": {
@@ -738,6 +745,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:53:45",
+      "iso": "2026-08-12T07:23:45.168Z",
+      "action": "updated remark for B-BMGB25332BG at KATUBEDDA: “Additional 20%”"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:53:43",
+      "iso": "2026-08-12T07:23:43.448Z",
+      "action": "updated remark for B-BMGB25332BG at KATUBEDDA: “Additional 20%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1073,20 +1094,6 @@
       "time": "11:01:39",
       "iso": "2026-08-12T05:31:39.025Z",
       "action": "updated remark for DH-I-A22EP-IMOU at RATHMALANA: “Up to 70%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:01:33",
-      "iso": "2026-08-12T05:31:33.577Z",
-      "action": "updated remark for DH-A-HFW1209CP-LED-36B at RATHMALANA: “Up to 70%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:01:25",
-      "iso": "2026-08-12T05:31:25.631Z",
-      "action": "updated remark for DH-I-A22EP-IMOU at RATHMALANA: “70%”"
     }
   ]
 }
