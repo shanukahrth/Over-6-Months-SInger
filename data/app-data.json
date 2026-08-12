@@ -1245,13 +1245,6 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:20:00",
       "lastUpdated": "2026-08-12T07:50:00.245Z"
-    },
-    "MB-SAFARI4S-RED||GELIOYA": {
-      "remark": "10%",
-      "commentedBy": "Rashmi",
-      "commentDate": "2026-08-12",
-      "commentTime": "14:10:46",
-      "lastUpdated": "2026-08-12T08:40:46.266Z"
     }
   },
   "showroomVisits": {
@@ -1305,6 +1298,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-12",
+      "time": "14:11:16",
+      "iso": "2026-08-12T08:41:16.841Z",
+      "action": "updated remark for MB-SAFARI4S-RED at GELIOYA (cleared)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-12",
@@ -1647,13 +1647,6 @@
       "time": "13:09:32",
       "iso": "2026-08-12T07:39:32.419Z",
       "action": "updated remark for ZTE-A35E-2-32GB-GRN at KATUBEDDA: “Sold”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:09:21",
-      "iso": "2026-08-12T07:39:21.262Z",
-      "action": "updated remark for RIYLTA-MF12V4 at KATUBEDDA: “Not salabale”"
     }
   ]
 }
