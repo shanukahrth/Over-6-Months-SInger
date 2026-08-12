@@ -622,6 +622,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:50:41",
       "lastUpdated": "2026-08-12T07:20:41.121Z"
+    },
+    "SLE55GENR||KATUBEDDA": {
+      "remark": "No discounts. Available at shop",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:51:06",
+      "lastUpdated": "2026-08-12T07:21:06.350Z"
     }
   },
   "showroomVisits": {
@@ -675,6 +682,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:51:06",
+      "iso": "2026-08-12T07:21:06.352Z",
+      "action": "updated remark for SLE55GENR at KATUBEDDA: “No discounts. Available at shop”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1017,13 +1031,6 @@
       "time": "10:58:28",
       "iso": "2026-08-12T05:28:28.907Z",
       "action": "updated remark for SIN-MRG-1008C at RATHMALANA: “Sold”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:58:20",
-      "iso": "2026-08-12T05:28:20.546Z",
-      "action": "updated remark for USHA-AVTR56 at RATHMALANA: “Additional 10%”"
     }
   ]
 }
