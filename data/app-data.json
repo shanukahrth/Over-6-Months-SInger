@@ -195,6 +195,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:47:47",
       "lastUpdated": "2026-08-12T05:17:47.811Z"
+    },
+    "SMGUA32N4010||RATHMALANA": {
+      "remark": "Additional 28%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:48:13",
+      "lastUpdated": "2026-08-12T05:18:13.271Z"
     }
   },
   "showroomVisits": {
@@ -240,6 +247,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:48:13",
+      "iso": "2026-08-12T05:18:13.272Z",
+      "action": "updated remark for SMGUA32N4010 at RATHMALANA: “Additional 28%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -582,13 +596,6 @@
       "time": "13:34:35",
       "iso": "2026-08-11T08:04:35.495Z",
       "action": "updated MEGA - SHANGRI-LA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-11",
-      "time": "13:33:24",
-      "iso": "2026-08-11T08:03:24.968Z",
-      "action": "updated ABANPOLA showroom (team: Sabara Team MKT)"
     }
   ]
 }
