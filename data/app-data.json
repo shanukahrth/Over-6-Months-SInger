@@ -1252,6 +1252,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:27:21",
       "lastUpdated": "2026-08-12T09:57:21.426Z"
+    },
+    "HON-X9C-12-256-GRN||MORATUWA - B": {
+      "remark": "Additional 15%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:27:37",
+      "lastUpdated": "2026-08-12T09:57:37.607Z"
     }
   },
   "showroomVisits": {
@@ -1313,6 +1320,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:27:37",
+      "iso": "2026-08-12T09:57:37.608Z",
+      "action": "updated remark for HON-X9C-12-256-GRN at MORATUWA - B: “Additional 15%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1654,13 +1668,6 @@
       "date": "2026-08-12",
       "time": "13:10:56",
       "iso": "2026-08-12T07:40:56.109Z",
-      "action": "updated remark for PH-BHB864 at KATUBEDDA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:10:47",
-      "iso": "2026-08-12T07:40:47.940Z",
       "action": "updated remark for PH-BHB864 at KATUBEDDA: “Additional 30%”"
     }
   ]
