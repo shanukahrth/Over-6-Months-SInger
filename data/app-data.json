@@ -545,6 +545,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:47:32",
       "lastUpdated": "2026-08-12T07:17:32.270Z"
+    },
+    "MB-SAFARI4S-BLK||KATUBEDDA": {
+      "remark": "Available",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:47:42",
+      "lastUpdated": "2026-08-12T07:17:42.437Z"
     }
   },
   "showroomVisits": {
@@ -598,6 +605,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:47:42",
+      "iso": "2026-08-12T07:17:42.438Z",
+      "action": "updated remark for MB-SAFARI4S-BLK at KATUBEDDA: “Available”"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:47:40",
+      "iso": "2026-08-12T07:17:40.892Z",
+      "action": "updated remark for MB-SAFARI4S-BLK at KATUBEDDA: “Avaliable”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -933,20 +954,6 @@
       "time": "10:55:22",
       "iso": "2026-08-12T05:25:22.750Z",
       "action": "updated remark for SIN-RFC-1819 at RATHMALANA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:55:20",
-      "iso": "2026-08-12T05:25:20.113Z",
-      "action": "updated remark for SIN-DEC-FDC at RATHMALANA: “Sold”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:54:58",
-      "iso": "2026-08-12T05:24:58.289Z",
-      "action": "updated remark for TF-GS-SPKT302 at RATHMALANA: “Up to 10%”"
     }
   ]
 }
