@@ -783,6 +783,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "12:57:42",
       "lastUpdated": "2026-08-12T07:27:42.663Z"
+    },
+    "SLE32E930||KATUBEDDA": {
+      "remark": "Up to 70%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "12:57:48",
+      "lastUpdated": "2026-08-12T07:27:48.474Z"
     }
   },
   "showroomVisits": {
@@ -836,6 +843,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "12:57:48",
+      "iso": "2026-08-12T07:27:48.475Z",
+      "action": "updated remark for SLE32E930 at KATUBEDDA: “Up to 70%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1178,13 +1192,6 @@
       "time": "11:05:14",
       "iso": "2026-08-12T05:35:14.274Z",
       "action": "updated remark for R-BWS-02 at RATHMALANA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "11:05:06",
-      "iso": "2026-08-12T05:35:06.236Z",
-      "action": "updated remark for SIN-BY605 at RATHMALANA: “Additional 5%”"
     }
   ]
 }
