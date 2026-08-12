@@ -1189,6 +1189,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:16:11",
       "lastUpdated": "2026-08-12T07:46:11.282Z"
+    },
+    "ENG-UE10054||KATUBEDDA": {
+      "remark": "Not salable",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:16:53",
+      "lastUpdated": "2026-08-12T07:46:53.342Z"
     }
   },
   "showroomVisits": {
@@ -1242,6 +1249,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:16:53",
+      "iso": "2026-08-12T07:46:53.344Z",
+      "action": "updated remark for ENG-UE10054 at KATUBEDDA: “Not salable”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1584,13 +1598,6 @@
       "time": "13:06:40",
       "iso": "2026-08-12T07:36:40.989Z",
       "action": "updated remark for SIN-DEC-FDC at KATUBEDDA: “Available in shop. No discounts”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:06:11",
-      "iso": "2026-08-12T07:36:11.841Z",
-      "action": "updated remark for SIN-PSVX938N at KATUBEDDA: “Sold”"
     }
   ]
 }
