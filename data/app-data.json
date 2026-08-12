@@ -265,6 +265,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:54:00",
       "lastUpdated": "2026-08-12T05:24:00.559Z"
+    },
+    "MID-MJ-KM6001W||RATHMALANA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:54:27",
+      "lastUpdated": "2026-08-12T05:24:27.985Z"
     }
   },
   "showroomVisits": {
@@ -310,6 +317,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:54:27",
+      "iso": "2026-08-12T05:24:27.987Z",
+      "action": "updated remark for MID-MJ-KM6001W at RATHMALANA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -652,13 +666,6 @@
       "time": "16:29:46",
       "iso": "2026-08-11T10:59:46.198Z",
       "action": "updated DAMBULLA showroom (visited: No)"
-    },
-    {
-      "user": "Esala Herath",
-      "date": "2026-08-11",
-      "time": "16:29:43",
-      "iso": "2026-08-11T10:59:43.334Z",
-      "action": "updated DAMBULLA showroom (team: cleared)"
     }
   ]
 }
