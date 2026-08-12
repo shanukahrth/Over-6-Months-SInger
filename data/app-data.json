@@ -419,6 +419,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:01:25",
       "lastUpdated": "2026-08-12T05:31:25.630Z"
+    },
+    "DH-A-HFW1209CP-LED-36B||RATHMALANA": {
+      "remark": "Up to 70%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:01:33",
+      "lastUpdated": "2026-08-12T05:31:33.574Z"
     }
   },
   "showroomVisits": {
@@ -464,6 +471,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:01:33",
+      "iso": "2026-08-12T05:31:33.577Z",
+      "action": "updated remark for DH-A-HFW1209CP-LED-36B at RATHMALANA: “Up to 70%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -805,13 +819,6 @@
       "date": "2026-08-12",
       "time": "10:45:12",
       "iso": "2026-08-12T05:15:12.722Z",
-      "action": "updated remark for SLE43G890 at RATHMALANA: “Up to 60%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:45:07",
-      "iso": "2026-08-12T05:15:07.663Z",
       "action": "updated remark for SLE43G890 at RATHMALANA: “Up to 60%”"
     }
   ]
