@@ -893,8 +893,8 @@
       "remark": "Up to 50%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "13:04:42",
-      "lastUpdated": "2026-08-12T07:34:42.070Z"
+      "commentTime": "13:04:59",
+      "lastUpdated": "2026-08-12T07:34:59.308Z"
     },
     "TF-NIDFP24-170||KATUBEDDA": {
       "remark": "Up to 50%",
@@ -976,6 +976,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:59",
+      "iso": "2026-08-12T07:34:59.309Z",
+      "action": "updated remark for TF-SI-EXS1230 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1318,13 +1325,6 @@
       "time": "12:51:29",
       "iso": "2026-08-12T07:21:29.156Z",
       "action": "updated remark for H-BD-1054HVOS at KATUBEDDA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:51:11",
-      "iso": "2026-08-12T07:21:11.176Z",
-      "action": "updated remark for HON-X9CSMART-12-256-BLK at KATUBEDDA: “Additional 15%”"
     }
   ]
 }
