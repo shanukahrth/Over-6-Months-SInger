@@ -510,6 +510,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "11:04:46",
       "lastUpdated": "2026-08-12T05:34:46.454Z"
+    },
+    "SIN-BY605||RATHMALANA": {
+      "remark": "Additional 5%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "11:05:06",
+      "lastUpdated": "2026-08-12T05:35:06.234Z"
     }
   },
   "showroomVisits": {
@@ -555,6 +562,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "11:05:06",
+      "iso": "2026-08-12T05:35:06.236Z",
+      "action": "updated remark for SIN-BY605 at RATHMALANA: “Additional 5%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -897,13 +911,6 @@
       "time": "10:49:18",
       "iso": "2026-08-12T05:19:18.365Z",
       "action": "updated remark for PN-F-407XNBAMKH at RATHMALANA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "10:48:46",
-      "iso": "2026-08-12T05:18:46.040Z",
-      "action": "updated remark for HFPA-GRAVITY-BLU at RATHMALANA: “Up to 40%”"
     }
   ]
 }
