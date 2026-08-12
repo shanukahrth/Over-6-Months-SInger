@@ -1497,6 +1497,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:42:23",
       "lastUpdated": "2026-08-12T10:12:23.784Z"
+    },
+    "SLMC-18DSLHS||MORATUWA - B": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:42:43",
+      "lastUpdated": "2026-08-12T10:12:43.481Z"
     }
   },
   "showroomVisits": {
@@ -1558,6 +1565,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:42:43",
+      "iso": "2026-08-12T10:12:43.483Z",
+      "action": "updated remark for SLMC-18DSLHS at MORATUWA - B: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1900,13 +1914,6 @@
       "time": "13:18:16",
       "iso": "2026-08-12T07:48:16.824Z",
       "action": "updated remark for R-BWS-02 at KATUBEDDA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:18:02",
-      "iso": "2026-08-12T07:48:02.524Z",
-      "action": "updated remark for ENG-WCP-117 at KATUBEDDA: “Up to 50%”"
     }
   ]
 }
