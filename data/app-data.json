@@ -1196,6 +1196,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:16:53",
       "lastUpdated": "2026-08-12T07:46:53.342Z"
+    },
+    "PF-MONDY-RED||KATUBEDDA": {
+      "remark": "Additional 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:17:26",
+      "lastUpdated": "2026-08-12T07:47:26.363Z"
     }
   },
   "showroomVisits": {
@@ -1249,6 +1256,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:17:26",
+      "iso": "2026-08-12T07:47:26.364Z",
+      "action": "updated remark for PF-MONDY-RED at KATUBEDDA: “Additional 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1591,13 +1605,6 @@
       "time": "13:07:41",
       "iso": "2026-08-12T07:37:41.418Z",
       "action": "updated remark for DH-IPC-P5DP-5F-PV-28B-60B at KATUBEDDA: “Up to 70%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:07:35",
-      "iso": "2026-08-12T07:37:35.957Z",
-      "action": "updated remark for SIN-DEC-FDC at KATUBEDDA: “Available in shop. No discounts”"
     }
   ]
 }
