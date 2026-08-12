@@ -951,6 +951,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "13:06:11",
       "lastUpdated": "2026-08-12T07:36:11.840Z"
+    },
+    "SIN-DEC-FDC||KATUBEDDA": {
+      "remark": "Available in shop. No discounts",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:06:40",
+      "lastUpdated": "2026-08-12T07:36:40.988Z"
     }
   },
   "showroomVisits": {
@@ -1004,6 +1011,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:06:40",
+      "iso": "2026-08-12T07:36:40.989Z",
+      "action": "updated remark for SIN-DEC-FDC at KATUBEDDA: “Available in shop. No discounts”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1346,13 +1360,6 @@
       "time": "12:52:40",
       "iso": "2026-08-12T07:22:40.388Z",
       "action": "updated remark for BES-CRS-80 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:52:17",
-      "iso": "2026-08-12T07:22:17.837Z",
-      "action": "updated remark for HON-H200-12-512-BLK at KATUBEDDA: “Additional 15%”"
     }
   ]
 }
