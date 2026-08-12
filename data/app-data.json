@@ -1329,6 +1329,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "15:33:24",
       "lastUpdated": "2026-08-12T10:03:24.995Z"
+    },
+    "SL-ECO192-TG||MORATUWA - B": {
+      "remark": "Up to 25%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "15:33:38",
+      "lastUpdated": "2026-08-12T10:03:38.365Z"
     }
   },
   "showroomVisits": {
@@ -1390,6 +1397,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "15:33:38",
+      "iso": "2026-08-12T10:03:38.367Z",
+      "action": "updated remark for SL-ECO192-TG at MORATUWA - B: “Up to 25%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1731,13 +1745,6 @@
       "date": "2026-08-12",
       "time": "13:12:14",
       "iso": "2026-08-12T07:42:14.848Z",
-      "action": "updated remark for TF-SI-ESS-242 at KATUBEDDA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "13:12:12",
-      "iso": "2026-08-12T07:42:12.575Z",
       "action": "updated remark for TF-SI-ESS-242 at KATUBEDDA: “Up to 50%”"
     }
   ]
