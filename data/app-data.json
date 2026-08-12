@@ -188,6 +188,13 @@
       "commentDate": "2026-08-12",
       "commentTime": "10:47:16",
       "lastUpdated": "2026-08-12T05:17:16.689Z"
+    },
+    "ULED32D60A||RATHMALANA": {
+      "remark": "MOP 24,999",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "10:47:47",
+      "lastUpdated": "2026-08-12T05:17:47.811Z"
     }
   },
   "showroomVisits": {
@@ -233,6 +240,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "10:47:47",
+      "iso": "2026-08-12T05:17:47.813Z",
+      "action": "updated remark for ULED32D60A at RATHMALANA: “MOP 24,999”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -575,13 +589,6 @@
       "time": "13:33:24",
       "iso": "2026-08-11T08:03:24.968Z",
       "action": "updated ABANPOLA showroom (team: Sabara Team MKT)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-11",
-      "time": "13:33:08",
-      "iso": "2026-08-11T08:03:08.085Z",
-      "action": "updated ABANPOLA showroom (visitDate: 2026-08-11)"
     }
   ]
 }
