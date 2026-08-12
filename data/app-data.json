@@ -907,8 +907,15 @@
       "remark": "Up to 50%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-12",
-      "commentTime": "13:04:44",
-      "lastUpdated": "2026-08-12T07:34:44.970Z"
+      "commentTime": "13:04:47",
+      "lastUpdated": "2026-08-12T07:34:47.873Z"
+    },
+    "TF-KD24-061||KATUBEDDA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-12",
+      "commentTime": "13:04:49",
+      "lastUpdated": "2026-08-12T07:34:49.072Z"
     }
   },
   "showroomVisits": {
@@ -962,6 +969,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:49",
+      "iso": "2026-08-12T07:34:49.073Z",
+      "action": "updated remark for TF-KD24-061 at KATUBEDDA: “Up to 50%”"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-12",
+      "time": "13:04:47",
+      "iso": "2026-08-12T07:34:47.874Z",
+      "action": "updated remark for TF-SI-EXSP1231 at KATUBEDDA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1297,20 +1318,6 @@
       "time": "12:50:41",
       "iso": "2026-08-12T07:20:41.121Z",
       "action": "updated remark for SRS-XV500 at KATUBEDDA: “Up to 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:50:07",
-      "iso": "2026-08-12T07:20:07.916Z",
-      "action": "updated remark for M-SRK09CRR-S at KATUBEDDA: “Up to 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "12:50:01",
-      "iso": "2026-08-12T07:20:01.281Z",
-      "action": "updated remark for M-SRK09CRR-S at KATUBEDDA: “Up to 30%”"
     }
   ]
 }
