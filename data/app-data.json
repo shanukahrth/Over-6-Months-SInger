@@ -1602,6 +1602,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:18:01",
       "lastUpdated": "2026-08-13T05:48:01.332Z"
+    },
+    "TF-KD24-061||PILIYANDALA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:18:06",
+      "lastUpdated": "2026-08-13T05:48:06.778Z"
     }
   },
   "showroomVisits": {
@@ -1687,6 +1694,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:18:06",
+      "iso": "2026-08-13T05:48:06.780Z",
+      "action": "updated remark for TF-KD24-061 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2029,13 +2043,6 @@
       "time": "15:35:08",
       "iso": "2026-08-12T10:05:08.435Z",
       "action": "updated remark for GEO-182S-BU1 at MORATUWA - B: “Sold Out”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:33:53",
-      "iso": "2026-08-12T10:03:53.726Z",
-      "action": "updated remark for SLE43H4000 at MORATUWA - B: “Pannel Damage”"
     }
   ]
 }
