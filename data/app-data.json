@@ -2043,6 +2043,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:29:59",
       "lastUpdated": "2026-08-13T16:59:59.321Z"
+    },
+    "WFL-SPM-72X60X7-S||MAWANELLA - B": {
+      "remark": "Revert Repriced",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:30:14",
+      "lastUpdated": "2026-08-13T17:00:14.799Z"
     }
   },
   "showroomVisits": {
@@ -2176,6 +2183,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:30:14",
+      "iso": "2026-08-13T17:00:14.800Z",
+      "action": "updated remark for WFL-SPM-72X60X7-S at MAWANELLA - B: “Revert Repriced”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2518,13 +2532,6 @@
       "time": "11:53:41",
       "iso": "2026-08-13T06:23:41.826Z",
       "action": "updated MAWANELLA - B showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "11:53:39",
-      "iso": "2026-08-13T06:23:39.150Z",
-      "action": "updated MAWANELLA - B showroom (visitDate: 2026-08-13)"
     }
   ]
 }
