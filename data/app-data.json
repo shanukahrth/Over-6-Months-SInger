@@ -1728,6 +1728,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:31:21",
       "lastUpdated": "2026-08-13T06:01:21.321Z"
+    },
+    "SDV3605K||PILIYANDALA": {
+      "remark": "Up to 80%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:31:45",
+      "lastUpdated": "2026-08-13T06:01:45.071Z"
     }
   },
   "showroomVisits": {
@@ -1813,6 +1820,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:31:45",
+      "iso": "2026-08-13T06:01:45.072Z",
+      "action": "updated remark for SDV3605K at PILIYANDALA: “Up to 80%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2155,13 +2169,6 @@
       "time": "15:42:08",
       "iso": "2026-08-12T10:12:08.181Z",
       "action": "updated remark for HON-WATCH-4 at MORATUWA - B: “In shop. No discounts allocated. Abt to sell”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:41:40",
-      "iso": "2026-08-12T10:11:40.511Z",
-      "action": "updated remark for H-CVW1600 at MORATUWA - B: “Up to 15%”"
     }
   ]
 }
