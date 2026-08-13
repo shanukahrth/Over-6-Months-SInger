@@ -1770,6 +1770,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:37:44",
       "lastUpdated": "2026-08-13T06:07:44.263Z"
+    },
+    "PH-BT1235||PILIYANDALA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:38:10",
+      "lastUpdated": "2026-08-13T06:08:10.854Z"
     }
   },
   "showroomVisits": {
@@ -1855,6 +1862,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:38:10",
+      "iso": "2026-08-13T06:08:10.856Z",
+      "action": "updated remark for PH-BT1235 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2197,13 +2211,6 @@
       "time": "18:21:41",
       "iso": "2026-08-12T12:51:41.762Z",
       "action": "updated MEGA -PANADURA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "18:21:36",
-      "iso": "2026-08-12T12:51:36.304Z",
-      "action": "updated MEGA -PANADURA showroom (visitDate: 2026-08-12)"
     }
   ]
 }
