@@ -3163,6 +3163,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:07:55",
       "lastUpdated": "2026-08-13T17:37:55.958Z"
+    },
+    "MID-D15-20EVN1||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:08:20",
+      "lastUpdated": "2026-08-13T17:38:20.254Z"
     }
   },
   "showroomVisits": {
@@ -3296,6 +3303,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:08:20",
+      "iso": "2026-08-13T17:38:20.255Z",
+      "action": "updated remark for MID-D15-20EVN1 at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3638,13 +3652,6 @@
       "time": "22:59:22",
       "iso": "2026-08-13T17:29:22.078Z",
       "action": "updated remark for PN-MX-AC210 at MAWANELLA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:59:16",
-      "iso": "2026-08-13T17:29:16.278Z",
-      "action": "updated remark for TH-TC-351 at MAWANELLA: “60%”"
     }
   ]
 }
