@@ -2365,6 +2365,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:44:54",
       "lastUpdated": "2026-08-13T17:14:54.679Z"
+    },
+    "TCL20SE-4-64-AUGRN||MAWANELLA - B": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:45:17",
+      "lastUpdated": "2026-08-13T17:15:17.359Z"
     }
   },
   "showroomVisits": {
@@ -2498,6 +2505,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:45:17",
+      "iso": "2026-08-13T17:15:17.359Z",
+      "action": "updated remark for TCL20SE-4-64-AUGRN at MAWANELLA - B: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2840,13 +2854,6 @@
       "time": "22:31:16",
       "iso": "2026-08-13T17:01:16.064Z",
       "action": "updated remark for PF-MONDY-BLUE at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:31:07",
-      "iso": "2026-08-13T17:01:07.688Z",
-      "action": "updated remark for PF-MONDY-BLACK at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
