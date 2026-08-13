@@ -2029,6 +2029,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:29:43",
       "lastUpdated": "2026-08-13T16:59:43.218Z"
+    },
+    "WFI-TROY-CHR-S||MAWANELLA - B": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:29:55",
+      "lastUpdated": "2026-08-13T16:59:55.329Z"
     }
   },
   "showroomVisits": {
@@ -2162,6 +2169,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:29:55",
+      "iso": "2026-08-13T16:59:55.329Z",
+      "action": "updated remark for WFI-TROY-CHR-S at MAWANELLA - B: “40%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2504,13 +2518,6 @@
       "time": "11:53:28",
       "iso": "2026-08-13T06:23:28.636Z",
       "action": "updated MAWANELLA showroom (team: Team - Rashmi)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "11:53:20",
-      "iso": "2026-08-13T06:23:20.560Z",
-      "action": "updated MAWANELLA showroom (visited: Yes)"
     }
   ]
 }
