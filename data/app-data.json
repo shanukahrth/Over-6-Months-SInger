@@ -3184,6 +3184,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:09:11",
       "lastUpdated": "2026-08-13T17:39:11.422Z"
+    },
+    "UR591SW||KADUGANNAWA": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:09:21",
+      "lastUpdated": "2026-08-13T17:39:21.174Z"
     }
   },
   "showroomVisits": {
@@ -3317,6 +3324,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:09:21",
+      "iso": "2026-08-13T17:39:21.174Z",
+      "action": "updated remark for UR591SW at KADUGANNAWA: “Damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3659,13 +3673,6 @@
       "time": "23:00:55",
       "iso": "2026-08-13T17:30:55.431Z",
       "action": "updated remark for RIYLTA-MF12V4 at MAWANELLA: “Mail – Brand Manager (Settling Off)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:00:47",
-      "iso": "2026-08-13T17:30:47.367Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
