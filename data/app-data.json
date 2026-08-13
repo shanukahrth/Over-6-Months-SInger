@@ -2911,6 +2911,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:01:41",
       "lastUpdated": "2026-08-13T17:31:41.159Z"
+    },
+    "HON-X6B-6-128-GRN||MAWANELLA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:01:47",
+      "lastUpdated": "2026-08-13T17:31:47.263Z"
     }
   },
   "showroomVisits": {
@@ -3044,6 +3051,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:01:47",
+      "iso": "2026-08-13T17:31:47.263Z",
+      "action": "updated remark for HON-X6B-6-128-GRN at MAWANELLA: “40%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3386,13 +3400,6 @@
       "time": "22:52:00",
       "iso": "2026-08-13T17:22:00.670Z",
       "action": "updated remark for SVX6008 at MAWANELLA: “80% - Location Transfer (Damaged)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:51:54",
-      "iso": "2026-08-13T17:21:54.842Z",
-      "action": "updated remark for SVX6008 at MAWANELLA: “80% - Location Transfer”"
     }
   ]
 }
