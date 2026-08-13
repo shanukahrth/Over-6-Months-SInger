@@ -2792,6 +2792,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:58:42",
       "lastUpdated": "2026-08-13T17:28:42.001Z"
+    },
+    "TF-NIK26-045||MAWANELLA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:58:48",
+      "lastUpdated": "2026-08-13T17:28:48.214Z"
     }
   },
   "showroomVisits": {
@@ -2925,6 +2932,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:58:48",
+      "iso": "2026-08-13T17:28:48.215Z",
+      "action": "updated remark for TF-NIK26-045 at MAWANELLA: “Additional 30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3267,13 +3281,6 @@
       "time": "22:48:53",
       "iso": "2026-08-13T17:18:53.855Z",
       "action": "updated remark for SLE32E930 at MAWANELLA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:48:46",
-      "iso": "2026-08-13T17:18:46.871Z",
-      "action": "updated remark for SLE32E910 at MAWANELLA - B: “Revert Repriced”"
     }
   ]
 }
