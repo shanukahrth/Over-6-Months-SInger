@@ -3128,6 +3128,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:07:16",
       "lastUpdated": "2026-08-13T17:37:16.918Z"
+    },
+    "SLE40D600A||MAWANELLA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:07:24",
+      "lastUpdated": "2026-08-13T17:37:24.253Z"
     }
   },
   "showroomVisits": {
@@ -3261,6 +3268,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:07:24",
+      "iso": "2026-08-13T17:37:24.254Z",
+      "action": "updated remark for SLE40D600A at MAWANELLA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3603,13 +3617,6 @@
       "time": "22:58:51",
       "iso": "2026-08-13T17:28:51.569Z",
       "action": "updated remark for TF-SP16-063 at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:58:48",
-      "iso": "2026-08-13T17:28:48.215Z",
-      "action": "updated remark for TF-NIK26-045 at MAWANELLA: “Additional 30%”"
     }
   ]
 }
