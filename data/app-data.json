@@ -3149,6 +3149,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:07:35",
       "lastUpdated": "2026-08-13T17:37:35.990Z"
+    },
+    "ULED32D60A||MAWANELLA": {
+      "remark": "MOP - 24,999",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:07:49",
+      "lastUpdated": "2026-08-13T17:37:49.342Z"
     }
   },
   "showroomVisits": {
@@ -3282,6 +3289,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:07:49",
+      "iso": "2026-08-13T17:37:49.343Z",
+      "action": "updated remark for ULED32D60A at MAWANELLA: “MOP - 24,999”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3624,13 +3638,6 @@
       "time": "22:59:09",
       "iso": "2026-08-13T17:29:09.727Z",
       "action": "updated remark for TF-AF32-577 at MAWANELLA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:59:03",
-      "iso": "2026-08-13T17:29:03.559Z",
-      "action": "updated remark for MID-MJ-KM6001W at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
