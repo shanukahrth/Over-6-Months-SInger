@@ -2267,6 +2267,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:40:29",
       "lastUpdated": "2026-08-13T17:10:29.164Z"
+    },
+    "HON-PAD-X7-4-128||MAWANELLA - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:41:00",
+      "lastUpdated": "2026-08-13T17:11:00.783Z"
     }
   },
   "showroomVisits": {
@@ -2400,6 +2407,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:41:00",
+      "iso": "2026-08-13T17:11:00.784Z",
+      "action": "updated remark for HON-PAD-X7-4-128 at MAWANELLA - B: “Reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2742,13 +2756,6 @@
       "time": "22:27:44",
       "iso": "2026-08-13T16:57:44.753Z",
       "action": "updated remark for LF-LEO-120-SHW at MAWANELLA - B: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:27:37",
-      "iso": "2026-08-13T16:57:37.129Z",
-      "action": "updated remark for SL-SF1607RC at MAWANELLA - B: “50% - Part Missing”"
     }
   ]
 }
