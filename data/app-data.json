@@ -2841,6 +2841,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:59:22",
       "lastUpdated": "2026-08-13T17:29:22.078Z"
+    },
+    "UJB-LB6027||MAWANELLA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:59:27",
+      "lastUpdated": "2026-08-13T17:29:27.712Z"
     }
   },
   "showroomVisits": {
@@ -2974,6 +2981,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:59:27",
+      "iso": "2026-08-13T17:29:27.713Z",
+      "action": "updated remark for UJB-LB6027 at MAWANELLA: “40%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3316,13 +3330,6 @@
       "time": "22:50:08",
       "iso": "2026-08-13T17:20:08.999Z",
       "action": "updated remark for TCL43S5400 at MAWANELLA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:49:52",
-      "iso": "2026-08-13T17:19:52.511Z",
-      "action": "updated remark for SMGUA32T4400 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
