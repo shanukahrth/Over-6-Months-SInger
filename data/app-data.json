@@ -2351,6 +2351,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:44:16",
       "lastUpdated": "2026-08-13T17:14:16.239Z"
+    },
+    "HON-X9CSMART-12-256-BLK||MAWANELLA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:44:33",
+      "lastUpdated": "2026-08-13T17:14:33.338Z"
     }
   },
   "showroomVisits": {
@@ -2484,6 +2491,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:44:33",
+      "iso": "2026-08-13T17:14:33.338Z",
+      "action": "updated remark for HON-X9CSMART-12-256-BLK at MAWANELLA - B: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2826,13 +2840,6 @@
       "time": "22:31:04",
       "iso": "2026-08-13T17:01:04.001Z",
       "action": "updated remark for PF-ENVISION-BL-S at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:30:28",
-      "iso": "2026-08-13T17:00:28.312Z",
-      "action": "updated remark for PF-ENVISION-BL-S at MAWANELLA - B: “Salable”"
     }
   ]
 }
