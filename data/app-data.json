@@ -2050,6 +2050,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:30:14",
       "lastUpdated": "2026-08-13T17:00:14.799Z"
+    },
+    "PF-ENVISION-BL-S||MAWANELLA - B": {
+      "remark": "Salable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:30:24",
+      "lastUpdated": "2026-08-13T17:00:24.504Z"
     }
   },
   "showroomVisits": {
@@ -2183,6 +2190,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:30:24",
+      "iso": "2026-08-13T17:00:24.505Z",
+      "action": "updated remark for PF-ENVISION-BL-S at MAWANELLA - B: “Salable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2525,13 +2539,6 @@
       "time": "11:53:51",
       "iso": "2026-08-13T06:23:51.441Z",
       "action": "updated MAWANELLA - B showroom (team: Team - Central )"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "11:53:41",
-      "iso": "2026-08-13T06:23:41.826Z",
-      "action": "updated MAWANELLA - B showroom (visited: Yes)"
     }
   ]
 }
