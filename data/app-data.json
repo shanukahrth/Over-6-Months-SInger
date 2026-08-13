@@ -2092,6 +2092,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:32:11",
       "lastUpdated": "2026-08-13T17:02:11.488Z"
+    },
+    "SIN-MRG-1008C||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:32:17",
+      "lastUpdated": "2026-08-13T17:02:17.280Z"
     }
   },
   "showroomVisits": {
@@ -2225,6 +2232,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:32:17",
+      "iso": "2026-08-13T17:02:17.280Z",
+      "action": "updated remark for SIN-MRG-1008C at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2567,13 +2581,6 @@
       "time": "16:51:09",
       "iso": "2026-08-13T11:21:09.494Z",
       "action": "updated PILIMATHALAWA - B showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "16:51:06",
-      "iso": "2026-08-13T11:21:06.721Z",
-      "action": "updated PILIMATHALAWA - B showroom (visited: Yes)"
     }
   ]
 }
