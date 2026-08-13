@@ -1623,13 +1623,6 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:18:19",
       "lastUpdated": "2026-08-13T05:48:19.819Z"
-    },
-    "SMGUA32N4010||PILIYANDALA": {
-      "remark": "MOP 20,000",
-      "commentedBy": "Pabodha Rasanjalee",
-      "commentDate": "2026-08-13",
-      "commentTime": "11:19:24",
-      "lastUpdated": "2026-08-13T05:49:24.500Z"
     }
   },
   "showroomVisits": {
@@ -1715,6 +1708,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:19:35",
+      "iso": "2026-08-13T05:49:35.082Z",
+      "action": "updated remark for SMGUA32N4010 at PILIYANDALA (cleared)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2057,13 +2057,6 @@
       "time": "15:36:25",
       "iso": "2026-08-12T10:06:25.038Z",
       "action": "updated remark for SVX6002 at MORATUWA - B: “Not Salable”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:36:12",
-      "iso": "2026-08-12T10:06:12.398Z",
-      "action": "updated remark for SMG-SM-A057F-6-128-B at MORATUWA - B: “Exchange”"
     }
   ]
 }
