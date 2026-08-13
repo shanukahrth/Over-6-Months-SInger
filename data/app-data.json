@@ -2491,6 +2491,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:49:06",
       "lastUpdated": "2026-08-13T17:19:06.607Z"
+    },
+    "SLE55D5010TC||MAWANELLA - B": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:49:30",
+      "lastUpdated": "2026-08-13T17:19:30.198Z"
     }
   },
   "showroomVisits": {
@@ -2624,6 +2631,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:49:30",
+      "iso": "2026-08-13T17:19:30.199Z",
+      "action": "updated remark for SLE55D5010TC at MAWANELLA - B: “Damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2966,13 +2980,6 @@
       "time": "22:35:39",
       "iso": "2026-08-13T17:05:39.162Z",
       "action": "updated remark for SMW928AS3 at MAWANELLA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:34:59",
-      "iso": "2026-08-13T17:04:59.544Z",
-      "action": "updated remark for R-BWS-02 at MAWANELLA - B: “Reported”"
     }
   ]
 }
