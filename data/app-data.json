@@ -3233,6 +3233,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:10:06",
       "lastUpdated": "2026-08-13T17:40:06.781Z"
+    },
+    "LF-OX-BR-M-S||KADUGANNAWA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:10:11",
+      "lastUpdated": "2026-08-13T17:40:11.638Z"
     }
   },
   "showroomVisits": {
@@ -3366,6 +3373,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:10:11",
+      "iso": "2026-08-13T17:40:11.638Z",
+      "action": "updated remark for LF-OX-BR-M-S at KADUGANNAWA: “70%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3708,13 +3722,6 @@
       "time": "23:01:35",
       "iso": "2026-08-13T17:31:35.815Z",
       "action": "updated remark for HON-H90LITE-8-256-BLK at MAWANELLA: “75%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:21",
-      "iso": "2026-08-13T17:31:21.590Z",
-      "action": "updated remark for HU-SECURITY at MAWANELLA: “Shop use”"
     }
   ]
 }
