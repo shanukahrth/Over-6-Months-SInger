@@ -2085,6 +2085,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:31:59",
       "lastUpdated": "2026-08-13T17:01:59.432Z"
+    },
+    "SLE-55IFPD||MAWANELLA - B": {
+      "remark": "70% - Revert",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:32:11",
+      "lastUpdated": "2026-08-13T17:02:11.488Z"
     }
   },
   "showroomVisits": {
@@ -2218,6 +2225,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:32:11",
+      "iso": "2026-08-13T17:02:11.488Z",
+      "action": "updated remark for SLE-55IFPD at MAWANELLA - B: “70% - Revert”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2560,13 +2574,6 @@
       "time": "16:51:06",
       "iso": "2026-08-13T11:21:06.721Z",
       "action": "updated PILIMATHALAWA - B showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "16:51:04",
-      "iso": "2026-08-13T11:21:04.114Z",
-      "action": "updated PILIMATHALAWA showroom (team: Team - Central)"
     }
   ]
 }
