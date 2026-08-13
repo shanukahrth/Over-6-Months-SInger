@@ -2078,6 +2078,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:31:25",
       "lastUpdated": "2026-08-13T17:01:25.179Z"
+    },
+    "MCZJ8500C||MAWANELLA - B": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:31:59",
+      "lastUpdated": "2026-08-13T17:01:59.432Z"
     }
   },
   "showroomVisits": {
@@ -2211,6 +2218,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:31:59",
+      "iso": "2026-08-13T17:01:59.432Z",
+      "action": "updated remark for MCZJ8500C at MAWANELLA - B: “To be reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2553,13 +2567,6 @@
       "time": "16:51:04",
       "iso": "2026-08-13T11:21:04.114Z",
       "action": "updated PILIMATHALAWA showroom (team: Team - Central)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "16:50:54",
-      "iso": "2026-08-13T11:20:54.529Z",
-      "action": "updated PILIMATHALAWA showroom (visitDate: 2026-08-13)"
     }
   ]
 }
