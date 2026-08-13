@@ -2603,6 +2603,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:52:23",
       "lastUpdated": "2026-08-13T17:22:23.736Z"
+    },
+    "WF-CF-75X60-S||MAWANELLA": {
+      "remark": "Exchange - Location transfer",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:52:43",
+      "lastUpdated": "2026-08-13T17:22:43.305Z"
     }
   },
   "showroomVisits": {
@@ -2736,6 +2743,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:52:43",
+      "iso": "2026-08-13T17:22:43.306Z",
+      "action": "updated remark for WF-CF-75X60-S at MAWANELLA: “Exchange - Location transfer”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3078,13 +3092,6 @@
       "time": "22:42:14",
       "iso": "2026-08-13T17:12:14.690Z",
       "action": "updated remark for NUBIA-V70MAX-4-128GB-GRN at MAWANELLA - B: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:42:04",
-      "iso": "2026-08-13T17:12:04.391Z",
-      "action": "updated remark for NUBIA-NEO3-5G-8-256-YLW at MAWANELLA - B: “25%”"
     }
   ]
 }
