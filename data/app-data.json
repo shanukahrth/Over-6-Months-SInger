@@ -2750,6 +2750,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:57:09",
       "lastUpdated": "2026-08-13T17:27:09.038Z"
+    },
+    "BRP-TW30||MAWANELLA": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:57:13",
+      "lastUpdated": "2026-08-13T17:27:13.430Z"
     }
   },
   "showroomVisits": {
@@ -2883,6 +2890,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:57:13",
+      "iso": "2026-08-13T17:27:13.430Z",
+      "action": "updated remark for BRP-TW30 at MAWANELLA: “To be reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3225,13 +3239,6 @@
       "time": "22:47:59",
       "iso": "2026-08-13T17:17:59.111Z",
       "action": "updated remark for PN-TH-32M401N at MAWANELLA - B: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:47:49",
-      "iso": "2026-08-13T17:17:49.657Z",
-      "action": "updated remark for SIN-PR-K340 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
