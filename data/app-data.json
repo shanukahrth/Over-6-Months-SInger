@@ -3289,6 +3289,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:11:03",
       "lastUpdated": "2026-08-13T17:41:03.199Z"
+    },
+    "MID-MJ-KM6001W||KADUGANNAWA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:11:08",
+      "lastUpdated": "2026-08-13T17:41:08.549Z"
     }
   },
   "showroomVisits": {
@@ -3422,6 +3429,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:11:08",
+      "iso": "2026-08-13T17:41:08.550Z",
+      "action": "updated remark for MID-MJ-KM6001W at KADUGANNAWA: “30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3764,13 +3778,6 @@
       "time": "23:02:45",
       "iso": "2026-08-13T17:32:45.735Z",
       "action": "updated remark for ZTE-A35-2-64GB-BLK at MAWANELLA: “Damaged - Location transfer”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:02:42",
-      "iso": "2026-08-13T17:32:42.190Z",
-      "action": "updated remark for TCL30E-3-64-GRY at MAWANELLA: “Damaged - Location transfer”"
     }
   ]
 }
