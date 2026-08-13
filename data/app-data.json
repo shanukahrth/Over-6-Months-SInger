@@ -2148,6 +2148,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:33:09",
       "lastUpdated": "2026-08-13T17:03:09.248Z"
+    },
+    "KN-SMP01||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:33:14",
+      "lastUpdated": "2026-08-13T17:03:14.176Z"
     }
   },
   "showroomVisits": {
@@ -2281,6 +2288,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:33:14",
+      "iso": "2026-08-13T17:03:14.176Z",
+      "action": "updated remark for KN-SMP01 at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2623,13 +2637,6 @@
       "time": "22:16:22",
       "iso": "2026-08-13T16:46:22.542Z",
       "action": "updated remark for SASI24INFI at MAWANELLA - B: “Pending Exchanges”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:16:10",
-      "iso": "2026-08-13T16:46:10.429Z",
-      "action": "updated remark for SAS24TCNR at MAWANELLA - B: “50%”"
     }
   ]
 }
