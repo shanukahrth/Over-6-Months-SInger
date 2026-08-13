@@ -2344,6 +2344,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:44:04",
       "lastUpdated": "2026-08-13T17:14:04.831Z"
+    },
+    "HON-X9C-12-256-PPL||MAWANELLA - B": {
+      "remark": "50% - Fluctuation",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:44:16",
+      "lastUpdated": "2026-08-13T17:14:16.239Z"
     }
   },
   "showroomVisits": {
@@ -2477,6 +2484,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:44:16",
+      "iso": "2026-08-13T17:14:16.239Z",
+      "action": "updated remark for HON-X9C-12-256-PPL at MAWANELLA - B: “50% - Fluctuation”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2818,13 +2832,6 @@
       "date": "2026-08-13",
       "time": "22:30:28",
       "iso": "2026-08-13T17:00:28.312Z",
-      "action": "updated remark for PF-ENVISION-BL-S at MAWANELLA - B: “Salable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:30:24",
-      "iso": "2026-08-13T17:00:24.505Z",
       "action": "updated remark for PF-ENVISION-BL-S at MAWANELLA - B: “Salable”"
     }
   ]
