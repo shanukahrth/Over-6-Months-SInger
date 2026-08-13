@@ -3107,6 +3107,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:06:22",
       "lastUpdated": "2026-08-13T17:36:22.215Z"
+    },
+    "SLE32E810||MAWANELLA": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:06:54",
+      "lastUpdated": "2026-08-13T17:36:54.463Z"
     }
   },
   "showroomVisits": {
@@ -3240,6 +3247,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:06:54",
+      "iso": "2026-08-13T17:36:54.464Z",
+      "action": "updated remark for SLE32E810 at MAWANELLA: “Damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3582,13 +3596,6 @@
       "time": "22:58:18",
       "iso": "2026-08-13T17:28:18.155Z",
       "action": "updated remark for TF-NIDFP24-170 at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:58:09",
-      "iso": "2026-08-13T17:28:09.663Z",
-      "action": "updated remark for TF-KD24-061 at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
