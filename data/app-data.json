@@ -2687,6 +2687,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:55:31",
       "lastUpdated": "2026-08-13T17:25:31.512Z"
+    },
+    "PF-SUMO-ST-NKL-BU-S||MAWANELLA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:55:40",
+      "lastUpdated": "2026-08-13T17:25:40.617Z"
     }
   },
   "showroomVisits": {
@@ -2820,6 +2827,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:55:40",
+      "iso": "2026-08-13T17:25:40.618Z",
+      "action": "updated remark for PF-SUMO-ST-NKL-BU-S at MAWANELLA: “Additional 10%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3162,13 +3176,6 @@
       "time": "22:45:23",
       "iso": "2026-08-13T17:15:23.784Z",
       "action": "updated remark for ZTE-V50DESIGN-8-256GB-B at MAWANELLA - B: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:45:17",
-      "iso": "2026-08-13T17:15:17.359Z",
-      "action": "updated remark for TCL20SE-4-64-AUGRN at MAWANELLA - B: “80%”"
     }
   ]
 }
