@@ -3366,6 +3366,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:12:59",
       "lastUpdated": "2026-08-13T17:42:59.886Z"
+    },
+    "HON-H90-12-512-BLU||KADUGANNAWA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:13:05",
+      "lastUpdated": "2026-08-13T17:43:05.869Z"
     }
   },
   "showroomVisits": {
@@ -3499,6 +3506,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:13:05",
+      "iso": "2026-08-13T17:43:05.870Z",
+      "action": "updated remark for HON-H90-12-512-BLU at KADUGANNAWA: “Reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3841,13 +3855,6 @@
       "time": "23:04:49",
       "iso": "2026-08-13T17:34:49.903Z",
       "action": "updated remark for PM-OS-BAT at MAWANELLA: “Return to Microchip”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:04:45",
-      "iso": "2026-08-13T17:34:45.535Z",
-      "action": "updated remark for PM-COMP-4 at MAWANELLA: “Return to Microchip”"
     }
   ]
 }
