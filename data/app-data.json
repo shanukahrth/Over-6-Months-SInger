@@ -1938,9 +1938,24 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-13"
+    },
+    "KADUGANNAWA||KANDY": {
+      "visited": "No",
+      "visitDate": "2026-08-13",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-13"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "14:03:37",
+      "iso": "2026-08-13T08:33:37.886Z",
+      "action": "updated KADUGANNAWA showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2283,13 +2298,6 @@
       "time": "11:21:50",
       "iso": "2026-08-13T05:51:50.086Z",
       "action": "updated remark for SMW823AY7 at PILIYANDALA: “Addiitonal 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:19:35",
-      "iso": "2026-08-13T05:49:35.082Z",
-      "action": "updated remark for SMGUA32N4010 at PILIYANDALA (cleared)"
     }
   ]
 }
