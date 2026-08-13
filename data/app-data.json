@@ -3100,6 +3100,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:06:15",
       "lastUpdated": "2026-08-13T17:36:15.277Z"
+    },
+    "SLE32D5000||MAWANELLA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:06:22",
+      "lastUpdated": "2026-08-13T17:36:22.215Z"
     }
   },
   "showroomVisits": {
@@ -3233,6 +3240,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:06:22",
+      "iso": "2026-08-13T17:36:22.215Z",
+      "action": "updated remark for SLE32D5000 at MAWANELLA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3575,13 +3589,6 @@
       "time": "22:58:09",
       "iso": "2026-08-13T17:28:09.663Z",
       "action": "updated remark for TF-KD24-061 at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:58:06",
-      "iso": "2026-08-13T17:28:06.632Z",
-      "action": "updated remark for TF-FP24-SCR342 at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
