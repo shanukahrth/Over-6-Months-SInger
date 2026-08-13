@@ -2659,6 +2659,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:54:04",
       "lastUpdated": "2026-08-13T17:24:04.719Z"
+    },
+    "WFL-SPM-78X60X8-S||MAWANELLA": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:54:14",
+      "lastUpdated": "2026-08-13T17:24:14.638Z"
     }
   },
   "showroomVisits": {
@@ -2792,6 +2799,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:54:14",
+      "iso": "2026-08-13T17:24:14.639Z",
+      "action": "updated remark for WFL-SPM-78X60X8-S at MAWANELLA: “To be reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3134,13 +3148,6 @@
       "time": "22:44:33",
       "iso": "2026-08-13T17:14:33.338Z",
       "action": "updated remark for HON-X9CSMART-12-256-BLK at MAWANELLA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:44:16",
-      "iso": "2026-08-13T17:14:16.239Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at MAWANELLA - B: “50% - Fluctuation”"
     }
   ]
 }
