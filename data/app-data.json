@@ -3058,6 +3058,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:05:10",
       "lastUpdated": "2026-08-13T17:35:10.334Z"
+    },
+    "SIN-PR-K340||MAWANELLA": {
+      "remark": "Salable at existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:05:20",
+      "lastUpdated": "2026-08-13T17:35:20.558Z"
     }
   },
   "showroomVisits": {
@@ -3191,6 +3198,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:05:20",
+      "iso": "2026-08-13T17:35:20.559Z",
+      "action": "updated remark for SIN-PR-K340 at MAWANELLA: “Salable at existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3533,13 +3547,6 @@
       "time": "22:56:10",
       "iso": "2026-08-13T17:26:10.930Z",
       "action": "updated remark for SLE-55IFPD at MAWANELLA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:56:05",
-      "iso": "2026-08-13T17:26:05.256Z",
-      "action": "updated remark for MCZJ9513-G01 at MAWANELLA: “To be reported”"
     }
   ]
 }
