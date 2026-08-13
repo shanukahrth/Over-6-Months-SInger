@@ -1756,6 +1756,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:36:43",
       "lastUpdated": "2026-08-13T06:06:43.087Z"
+    },
+    "PF-ENVISION-BL-S||PILIYANDALA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:37:06",
+      "lastUpdated": "2026-08-13T06:07:06.723Z"
     }
   },
   "showroomVisits": {
@@ -1841,6 +1848,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:37:06",
+      "iso": "2026-08-13T06:07:06.724Z",
+      "action": "updated remark for PF-ENVISION-BL-S at PILIYANDALA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2183,13 +2197,6 @@
       "time": "15:43:23",
       "iso": "2026-08-12T10:13:23.435Z",
       "action": "updated remark for LP-AP01 at MORATUWA - B: “In shop. No discounts allocated”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:43:12",
-      "iso": "2026-08-12T10:13:12.878Z",
-      "action": "updated remark for BES-WP15-ECO at MORATUWA - B: “In shop. No discounts allocated”"
     }
   ]
 }
