@@ -3478,6 +3478,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:15:10",
       "lastUpdated": "2026-08-13T17:45:10.605Z"
+    },
+    "WP-JUN-E-S||KADUGANNAWA": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:17:07",
+      "lastUpdated": "2026-08-13T17:47:07.911Z"
     }
   },
   "showroomVisits": {
@@ -3611,6 +3618,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:17:07",
+      "iso": "2026-08-13T17:47:07.912Z",
+      "action": "updated remark for WP-JUN-E-S at KADUGANNAWA: “Damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3953,13 +3967,6 @@
       "time": "23:07:31",
       "iso": "2026-08-13T17:37:31.264Z",
       "action": "updated remark for SLE40E810C at MAWANELLA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:07:24",
-      "iso": "2026-08-13T17:37:24.254Z",
-      "action": "updated remark for SLE40D600A at MAWANELLA: “Exchange”"
     }
   ]
 }
