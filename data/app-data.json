@@ -1567,6 +1567,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:12:54",
       "lastUpdated": "2026-08-13T05:42:54.895Z"
+    },
+    "TCL55V6B||PILIYANDALA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:15:06",
+      "lastUpdated": "2026-08-13T05:45:06.761Z"
     }
   },
   "showroomVisits": {
@@ -1652,6 +1659,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:15:06",
+      "iso": "2026-08-13T05:45:06.763Z",
+      "action": "updated remark for TCL55V6B at PILIYANDALA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -1994,13 +2008,6 @@
       "time": "15:32:43",
       "iso": "2026-08-12T10:02:43.921Z",
       "action": "updated remark for BES-CRS-51 at MORATUWA - B: “Additional 20%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:32:24",
-      "iso": "2026-08-12T10:02:24.666Z",
-      "action": "updated remark for SMGUA43T5400 at MORATUWA - B: “Up to 70%”"
     }
   ]
 }
