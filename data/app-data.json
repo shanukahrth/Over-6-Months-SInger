@@ -3254,6 +3254,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:10:27",
       "lastUpdated": "2026-08-13T17:40:27.360Z"
+    },
+    "WFL-FLORAC-04-S||KADUGANNAWA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:10:35",
+      "lastUpdated": "2026-08-13T17:40:35.312Z"
     }
   },
   "showroomVisits": {
@@ -3387,6 +3394,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:10:35",
+      "iso": "2026-08-13T17:40:35.312Z",
+      "action": "updated remark for WFL-FLORAC-04-S at KADUGANNAWA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3729,13 +3743,6 @@
       "time": "23:01:53",
       "iso": "2026-08-13T17:31:53.063Z",
       "action": "updated remark for HON-X9C-12-256-GRN at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:47",
-      "iso": "2026-08-13T17:31:47.263Z",
-      "action": "updated remark for HON-X6B-6-128-GRN at MAWANELLA: “40%”"
     }
   ]
 }
