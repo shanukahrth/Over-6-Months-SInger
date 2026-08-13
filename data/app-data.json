@@ -1833,6 +1833,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:43:20",
       "lastUpdated": "2026-08-13T06:13:20.324Z"
+    },
+    "LF-MANEL-IC-BON-S||PILIYANDALA": {
+      "remark": "Return",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:45:05",
+      "lastUpdated": "2026-08-13T06:15:05.454Z"
     }
   },
   "showroomVisits": {
@@ -1918,6 +1925,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:45:05",
+      "iso": "2026-08-13T06:15:05.456Z",
+      "action": "updated remark for LF-MANEL-IC-BON-S at PILIYANDALA: “Return”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2260,13 +2274,6 @@
       "time": "11:17:53",
       "iso": "2026-08-13T05:47:53.482Z",
       "action": "updated remark for TF-CM-APR737 at PILIYANDALA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:17:39",
-      "iso": "2026-08-13T05:47:39.569Z",
-      "action": "updated remark for TF-AF32-577 at PILIYANDALA: “Additional 30%”"
     }
   ]
 }
