@@ -2582,6 +2582,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:52:00",
       "lastUpdated": "2026-08-13T17:22:00.670Z"
+    },
+    "SB-DTYPE||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:52:06",
+      "lastUpdated": "2026-08-13T17:22:06.231Z"
     }
   },
   "showroomVisits": {
@@ -2715,6 +2722,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:52:06",
+      "iso": "2026-08-13T17:22:06.231Z",
+      "action": "updated remark for SB-DTYPE at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3057,13 +3071,6 @@
       "time": "22:41:10",
       "iso": "2026-08-13T17:11:10.303Z",
       "action": "updated remark for HU-MATEPAD-SE11-GRY at MAWANELLA - B: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:41:00",
-      "iso": "2026-08-13T17:11:00.784Z",
-      "action": "updated remark for HON-PAD-X7-4-128 at MAWANELLA - B: “Reported”"
     }
   ]
 }
