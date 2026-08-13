@@ -2799,6 +2799,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:58:48",
       "lastUpdated": "2026-08-13T17:28:48.214Z"
+    },
+    "TF-SP16-063||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:58:51",
+      "lastUpdated": "2026-08-13T17:28:51.568Z"
     }
   },
   "showroomVisits": {
@@ -2932,6 +2939,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:58:51",
+      "iso": "2026-08-13T17:28:51.569Z",
+      "action": "updated remark for TF-SP16-063 at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3273,13 +3287,6 @@
       "date": "2026-08-13",
       "time": "22:48:56",
       "iso": "2026-08-13T17:18:56.815Z",
-      "action": "updated remark for SLE32E930 at MAWANELLA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:48:53",
-      "iso": "2026-08-13T17:18:53.855Z",
       "action": "updated remark for SLE32E930 at MAWANELLA - B: “60%”"
     }
   ]
