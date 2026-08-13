@@ -2862,6 +2862,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:00:55",
       "lastUpdated": "2026-08-13T17:30:55.431Z"
+    },
+    "RIYLTA-MF12V51A||MAWANELLA": {
+      "remark": "Mail – Brand Manager (Settling Off)",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:01:01",
+      "lastUpdated": "2026-08-13T17:31:01.086Z"
     }
   },
   "showroomVisits": {
@@ -2995,6 +3002,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:01:01",
+      "iso": "2026-08-13T17:31:01.086Z",
+      "action": "updated remark for RIYLTA-MF12V51A at MAWANELLA: “Mail – Brand Manager (Settling Off)”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3337,13 +3351,6 @@
       "time": "22:50:27",
       "iso": "2026-08-13T17:20:27.538Z",
       "action": "updated remark for SWM-FAR75 at MAWANELLA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:50:21",
-      "iso": "2026-08-13T17:20:21.063Z",
-      "action": "updated remark for SWM-FA70R at MAWANELLA - B: “30%”"
     }
   ]
 }
