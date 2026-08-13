@@ -3443,6 +3443,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:14:30",
       "lastUpdated": "2026-08-13T17:44:30.336Z"
+    },
+    "SLE32G690||KADUGANNAWA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:14:35",
+      "lastUpdated": "2026-08-13T17:44:35.464Z"
     }
   },
   "showroomVisits": {
@@ -3576,6 +3583,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:14:35",
+      "iso": "2026-08-13T17:44:35.464Z",
+      "action": "updated remark for SLE32G690 at KADUGANNAWA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3918,13 +3932,6 @@
       "time": "23:06:54",
       "iso": "2026-08-13T17:36:54.464Z",
       "action": "updated remark for SLE32E810 at MAWANELLA: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:06:22",
-      "iso": "2026-08-13T17:36:22.215Z",
-      "action": "updated remark for SLE32D5000 at MAWANELLA: “Exchange”"
     }
   ]
 }
