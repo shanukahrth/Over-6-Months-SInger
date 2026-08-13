@@ -2015,6 +2015,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:28:30",
       "lastUpdated": "2026-08-13T16:58:30.394Z"
+    },
+    "WF-DAYSTAR-02-S||MAWANELLA - B": {
+      "remark": "Revert Repriced",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:29:34",
+      "lastUpdated": "2026-08-13T16:59:34.308Z"
     }
   },
   "showroomVisits": {
@@ -2148,6 +2155,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:29:34",
+      "iso": "2026-08-13T16:59:34.309Z",
+      "action": "updated remark for WF-DAYSTAR-02-S at MAWANELLA - B: “Revert Repriced”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2490,13 +2504,6 @@
       "time": "11:53:17",
       "iso": "2026-08-13T06:23:17.961Z",
       "action": "updated MAWANELLA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:45:05",
-      "iso": "2026-08-13T06:15:05.456Z",
-      "action": "updated remark for LF-MANEL-IC-BON-S at PILIYANDALA: “Return”"
     }
   ]
 }
