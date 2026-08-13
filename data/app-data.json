@@ -3198,6 +3198,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:09:30",
       "lastUpdated": "2026-08-13T17:39:30.604Z"
+    },
+    "AS-I7-X513-256-11GEN-BLK||KADUGANNAWA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:09:42",
+      "lastUpdated": "2026-08-13T17:39:42.673Z"
     }
   },
   "showroomVisits": {
@@ -3331,6 +3338,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:09:42",
+      "iso": "2026-08-13T17:39:42.673Z",
+      "action": "updated remark for AS-I7-X513-256-11GEN-BLK at KADUGANNAWA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3673,13 +3687,6 @@
       "time": "23:01:10",
       "iso": "2026-08-13T17:31:10.519Z",
       "action": "updated remark for MB-SAFARI4S-RED at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:01",
-      "iso": "2026-08-13T17:31:01.086Z",
-      "action": "updated remark for RIYLTA-MF12V51A at MAWANELLA: “Mail – Brand Manager (Settling Off)”"
     }
   ]
 }
