@@ -1742,6 +1742,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:32:04",
       "lastUpdated": "2026-08-13T06:02:04.621Z"
+    },
+    "NCPO-FP280||PILIYANDALA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:32:22",
+      "lastUpdated": "2026-08-13T06:02:22.882Z"
     }
   },
   "showroomVisits": {
@@ -1827,6 +1834,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:32:22",
+      "iso": "2026-08-13T06:02:22.884Z",
+      "action": "updated remark for NCPO-FP280 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2169,13 +2183,6 @@
       "time": "15:42:43",
       "iso": "2026-08-12T10:12:43.483Z",
       "action": "updated remark for SLMC-18DSLHS at MORATUWA - B: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:42:23",
-      "iso": "2026-08-12T10:12:23.785Z",
-      "action": "updated remark for NWD1300R at MORATUWA - B: “Not salable”"
     }
   ]
 }
