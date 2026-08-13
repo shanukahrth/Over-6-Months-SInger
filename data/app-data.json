@@ -2939,6 +2939,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:02:08",
       "lastUpdated": "2026-08-13T17:32:08.318Z"
+    },
+    "TCL306-3-32-BLU||MAWANELLA": {
+      "remark": "Damaged - Location transfer",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:02:31",
+      "lastUpdated": "2026-08-13T17:32:31.695Z"
     }
   },
   "showroomVisits": {
@@ -3072,6 +3079,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:02:31",
+      "iso": "2026-08-13T17:32:31.695Z",
+      "action": "updated remark for TCL306-3-32-BLU at MAWANELLA: “Damaged - Location transfer”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3414,13 +3428,6 @@
       "time": "22:52:43",
       "iso": "2026-08-13T17:22:43.306Z",
       "action": "updated remark for WF-CF-75X60-S at MAWANELLA: “Exchange - Location transfer”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:52:23",
-      "iso": "2026-08-13T17:22:23.737Z",
-      "action": "updated remark for LF-SLIDCUP-CKT-S at MAWANELLA: “50% - Shop use”"
     }
   ]
 }
