@@ -2435,6 +2435,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:47:49",
       "lastUpdated": "2026-08-13T17:17:49.656Z"
+    },
+    "PN-TH-32M401N||MAWANELLA - B": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:47:59",
+      "lastUpdated": "2026-08-13T17:17:59.111Z"
     }
   },
   "showroomVisits": {
@@ -2568,6 +2575,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:47:59",
+      "iso": "2026-08-13T17:17:59.111Z",
+      "action": "updated remark for PN-TH-32M401N at MAWANELLA - B: “35%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2910,13 +2924,6 @@
       "time": "22:32:46",
       "iso": "2026-08-13T17:02:46.658Z",
       "action": "updated remark for BRP-TW30 at MAWANELLA - B: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:32:35",
-      "iso": "2026-08-13T17:02:35.353Z",
-      "action": "updated remark for BRC-COOKPAN28 at MAWANELLA - B: “60%”"
     }
   ]
 }
