@@ -1599,9 +1599,24 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-13"
+    },
+    "PILIYANDALA  B||PANADURA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-13"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:07:08",
+      "iso": "2026-08-13T05:37:08.097Z",
+      "action": "updated PILIYANDALA  B showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -1944,13 +1959,6 @@
       "time": "15:27:21",
       "iso": "2026-08-12T09:57:21.430Z",
       "action": "updated remark for KD-50X75K at MORATUWA - B: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "14:52:21",
-      "iso": "2026-08-12T09:22:21.372Z",
-      "action": "updated MORATUWA - B showroom (team: Colombo South MKT)"
     }
   ]
 }
