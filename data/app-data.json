@@ -2680,6 +2680,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:55:20",
       "lastUpdated": "2026-08-13T17:25:20.409Z"
+    },
+    "PF-FLEXI-NKL-MW-S||MAWANELLA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:55:31",
+      "lastUpdated": "2026-08-13T17:25:31.512Z"
     }
   },
   "showroomVisits": {
@@ -2813,6 +2820,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:55:31",
+      "iso": "2026-08-13T17:25:31.513Z",
+      "action": "updated remark for PF-FLEXI-NKL-MW-S at MAWANELLA: “Additional 10%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3155,13 +3169,6 @@
       "time": "22:45:17",
       "iso": "2026-08-13T17:15:17.359Z",
       "action": "updated remark for TCL20SE-4-64-AUGRN at MAWANELLA - B: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:44:54",
-      "iso": "2026-08-13T17:14:54.679Z",
-      "action": "updated remark for HON-X9CSMART-12-256-CYAN at MAWANELLA - B: “25%”"
     }
   ]
 }
