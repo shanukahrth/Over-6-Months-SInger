@@ -2540,6 +2540,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:50:33",
       "lastUpdated": "2026-08-13T17:20:33.823Z"
+    },
+    "MID-D30-20EVN1||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:50:36",
+      "lastUpdated": "2026-08-13T17:20:36.767Z"
     }
   },
   "showroomVisits": {
@@ -2673,6 +2680,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:50:36",
+      "iso": "2026-08-13T17:20:36.768Z",
+      "action": "updated remark for MID-D30-20EVN1 at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3015,13 +3029,6 @@
       "time": "22:40:05",
       "iso": "2026-08-13T17:10:05.224Z",
       "action": "updated remark for MB-SAFARI4S-RED at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:39:08",
-      "iso": "2026-08-13T17:09:08.754Z",
-      "action": "updated remark for SKY32TB1000 at MAWANELLA - B: “Damaged”"
     }
   ]
 }
