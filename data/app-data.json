@@ -1684,8 +1684,8 @@
       "remark": "Up to 50%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-13",
-      "commentTime": "11:27:12",
-      "lastUpdated": "2026-08-13T05:57:12.191Z"
+      "commentTime": "11:27:15",
+      "lastUpdated": "2026-08-13T05:57:15.354Z"
     }
   },
   "showroomVisits": {
@@ -1771,6 +1771,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:27:15",
+      "iso": "2026-08-13T05:57:15.355Z",
+      "action": "updated remark for SLE40D600A at PILIYANDALA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2113,13 +2120,6 @@
       "time": "15:39:36",
       "iso": "2026-08-12T10:09:36.751Z",
       "action": "updated remark for SMW823AY7 at MORATUWA - B: “In shop. No discounts allocated”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:39:15",
-      "iso": "2026-08-12T10:09:15.955Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at MORATUWA - B: “Up to 70%”"
     }
   ]
 }
