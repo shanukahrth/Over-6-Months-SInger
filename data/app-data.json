@@ -3065,6 +3065,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:05:20",
       "lastUpdated": "2026-08-13T17:35:20.558Z"
+    },
+    "KDL-43W660G||MAWANELLA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:05:25",
+      "lastUpdated": "2026-08-13T17:35:25.622Z"
     }
   },
   "showroomVisits": {
@@ -3198,6 +3205,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:05:25",
+      "iso": "2026-08-13T17:35:25.623Z",
+      "action": "updated remark for KDL-43W660G at MAWANELLA: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3540,13 +3554,6 @@
       "time": "22:56:15",
       "iso": "2026-08-13T17:26:15.431Z",
       "action": "updated remark for SIN-MRG-1008C at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:56:10",
-      "iso": "2026-08-13T17:26:10.930Z",
-      "action": "updated remark for SLE-55IFPD at MAWANELLA: “70%”"
     }
   ]
 }
