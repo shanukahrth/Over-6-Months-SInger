@@ -1532,6 +1532,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:10:38",
       "lastUpdated": "2026-08-13T05:40:38.454Z"
+    },
+    "H-HMR-DG2312||PILIYANDALA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:10:51",
+      "lastUpdated": "2026-08-13T05:40:51.936Z"
     }
   },
   "showroomVisits": {
@@ -1617,6 +1624,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:10:51",
+      "iso": "2026-08-13T05:40:51.938Z",
+      "action": "updated remark for H-HMR-DG2312 at PILIYANDALA: “Additional 10%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -1959,13 +1973,6 @@
       "time": "15:29:03",
       "iso": "2026-08-12T09:59:03.820Z",
       "action": "updated remark for DELL3530-I7-8GB512-SIL at MORATUWA - B: “In shop. No discounts allocated”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:28:07",
-      "iso": "2026-08-12T09:58:07.603Z",
-      "action": "updated remark for NUBIA-V70MAX-6-128GB-GRY at MORATUWA - B: “Sold”"
     }
   ]
 }
