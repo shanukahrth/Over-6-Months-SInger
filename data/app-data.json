@@ -2512,6 +2512,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:49:52",
       "lastUpdated": "2026-08-13T17:19:52.510Z"
+    },
+    "TCL43S5400||MAWANELLA - B": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:50:08",
+      "lastUpdated": "2026-08-13T17:20:08.999Z"
     }
   },
   "showroomVisits": {
@@ -2645,6 +2652,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:50:08",
+      "iso": "2026-08-13T17:20:08.999Z",
+      "action": "updated remark for TCL43S5400 at MAWANELLA - B: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2987,13 +3001,6 @@
       "time": "22:37:48",
       "iso": "2026-08-13T17:07:48.643Z",
       "action": "updated remark for U-HF-T9907 at MAWANELLA - B: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:37:39",
-      "iso": "2026-08-13T17:07:39.050Z",
-      "action": "updated remark for STT-100K at MAWANELLA - B: “70%”"
     }
   ]
 }
