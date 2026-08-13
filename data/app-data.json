@@ -2162,6 +2162,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:33:33",
       "lastUpdated": "2026-08-13T17:03:33.474Z"
+    },
+    "KN-MOM70||MAWANELLA - B": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:33:45",
+      "lastUpdated": "2026-08-13T17:03:45.475Z"
     }
   },
   "showroomVisits": {
@@ -2295,6 +2302,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:33:45",
+      "iso": "2026-08-13T17:03:45.476Z",
+      "action": "updated remark for KN-MOM70 at MAWANELLA - B: “To be reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2637,13 +2651,6 @@
       "time": "22:18:16",
       "iso": "2026-08-13T16:48:16.766Z",
       "action": "updated remark for MHC-V13 at MAWANELLA - B: “Damaged - Service Centre contacted”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:17:54",
-      "iso": "2026-08-13T16:47:54.436Z",
-      "action": "updated remark for WP-18KINV at MAWANELLA - B: “To be reported”"
     }
   ]
 }
