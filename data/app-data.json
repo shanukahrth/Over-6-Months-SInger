@@ -3464,6 +3464,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:14:50",
       "lastUpdated": "2026-08-13T17:44:50.465Z"
+    },
+    "SMGUA32T4400||KADUGANNAWA": {
+      "remark": "MOP - 35,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:15:03",
+      "lastUpdated": "2026-08-13T17:45:03.973Z"
     }
   },
   "showroomVisits": {
@@ -3597,6 +3604,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:15:03",
+      "iso": "2026-08-13T17:45:03.974Z",
+      "action": "updated remark for SMGUA32T4400 at KADUGANNAWA: “MOP - 35,000”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3939,13 +3953,6 @@
       "time": "23:07:16",
       "iso": "2026-08-13T17:37:16.918Z",
       "action": "updated remark for SLE32G690 at MAWANELLA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:07:08",
-      "iso": "2026-08-13T17:37:08.383Z",
-      "action": "updated remark for SLE32E910 at MAWANELLA: “50%”"
     }
   ]
 }
