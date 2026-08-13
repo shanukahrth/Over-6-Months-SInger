@@ -3408,6 +3408,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:13:58",
       "lastUpdated": "2026-08-13T17:43:58.494Z"
+    },
+    "KLV-32R326D||KADUGANNAWA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:14:03",
+      "lastUpdated": "2026-08-13T17:44:03.909Z"
     }
   },
   "showroomVisits": {
@@ -3541,6 +3548,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:14:03",
+      "iso": "2026-08-13T17:44:03.910Z",
+      "action": "updated remark for KLV-32R326D at KADUGANNAWA: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3883,13 +3897,6 @@
       "time": "23:05:44",
       "iso": "2026-08-13T17:35:44.423Z",
       "action": "updated remark for PN-TH-32P401N at MAWANELLA: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:05:25",
-      "iso": "2026-08-13T17:35:25.623Z",
-      "action": "updated remark for KDL-43W660G at MAWANELLA: “80%”"
     }
   ]
 }
