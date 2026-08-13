@@ -1861,6 +1861,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:16:10",
       "lastUpdated": "2026-08-13T16:46:10.428Z"
+    },
+    "SASI24INFI||MAWANELLA - B": {
+      "remark": "Pending Exchanges",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:16:22",
+      "lastUpdated": "2026-08-13T16:46:22.540Z"
     }
   },
   "showroomVisits": {
@@ -1994,6 +2001,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:16:22",
+      "iso": "2026-08-13T16:46:22.542Z",
+      "action": "updated remark for SASI24INFI at MAWANELLA - B: “Pending Exchanges”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2336,13 +2350,6 @@
       "time": "11:31:21",
       "iso": "2026-08-13T06:01:21.322Z",
       "action": "updated remark for SAS-GRI12VN at PILIYANDALA: “Up to 80%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:31:05",
-      "iso": "2026-08-13T06:01:05.655Z",
-      "action": "updated remark for SAS-12V-INV at PILIYANDALA: “Up to 80%”"
     }
   ]
 }
