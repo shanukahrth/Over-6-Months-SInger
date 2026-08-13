@@ -2442,6 +2442,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:47:59",
       "lastUpdated": "2026-08-13T17:17:59.111Z"
+    },
+    "PN-TH-75MX740N||MAWANELLA - B": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:48:16",
+      "lastUpdated": "2026-08-13T17:18:16.175Z"
     }
   },
   "showroomVisits": {
@@ -2575,6 +2582,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:48:16",
+      "iso": "2026-08-13T17:18:16.175Z",
+      "action": "updated remark for PN-TH-75MX740N at MAWANELLA - B: “30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2917,13 +2931,6 @@
       "time": "22:33:01",
       "iso": "2026-08-13T17:03:01.456Z",
       "action": "updated remark for NCPDG-OT250 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:32:46",
-      "iso": "2026-08-13T17:02:46.658Z",
-      "action": "updated remark for BRP-TW30 at MAWANELLA - B: “70%”"
     }
   ]
 }
