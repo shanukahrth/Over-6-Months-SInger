@@ -2645,6 +2645,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:53:37",
       "lastUpdated": "2026-08-13T17:23:37.529Z"
+    },
+    "WFL-SPM-75X60X7-S||MAWANELLA": {
+      "remark": "Exchange - Location Transfer",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:53:53",
+      "lastUpdated": "2026-08-13T17:23:53.898Z"
     }
   },
   "showroomVisits": {
@@ -2778,6 +2785,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:53:53",
+      "iso": "2026-08-13T17:23:53.899Z",
+      "action": "updated remark for WFL-SPM-75X60X7-S at MAWANELLA: “Exchange - Location Transfer”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3120,13 +3134,6 @@
       "time": "22:44:04",
       "iso": "2026-08-13T17:14:04.831Z",
       "action": "updated remark for HON-X9C-12-256-BLK at MAWANELLA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:43:48",
-      "iso": "2026-08-13T17:13:48.193Z",
-      "action": "updated remark for HON-X7C-8-256-GRN at MAWANELLA - B: “30%”"
     }
   ]
 }
