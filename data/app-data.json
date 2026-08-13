@@ -1714,6 +1714,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:30:13",
       "lastUpdated": "2026-08-13T06:00:13.818Z"
+    },
+    "SAS-12V-INV||PILIYANDALA": {
+      "remark": "Up to 80%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:31:05",
+      "lastUpdated": "2026-08-13T06:01:05.653Z"
     }
   },
   "showroomVisits": {
@@ -1799,6 +1806,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:31:05",
+      "iso": "2026-08-13T06:01:05.655Z",
+      "action": "updated remark for SAS-12V-INV at PILIYANDALA: “Up to 80%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2141,13 +2155,6 @@
       "time": "15:41:16",
       "iso": "2026-08-12T10:11:16.504Z",
       "action": "updated remark for MID-MJ-KM6001W at MORATUWA - B: “In shop. No discounts allocated”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:41:13",
-      "iso": "2026-08-12T10:11:13.850Z",
-      "action": "updated remark for MID-MJ-KM6001W at MORATUWA - B: “Additional 30%”"
     }
   ]
 }
