@@ -2482,8 +2482,8 @@
       "remark": "60%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-13",
-      "commentTime": "22:48:53",
-      "lastUpdated": "2026-08-13T17:18:53.855Z"
+      "commentTime": "22:48:56",
+      "lastUpdated": "2026-08-13T17:18:56.815Z"
     }
   },
   "showroomVisits": {
@@ -2617,6 +2617,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:48:56",
+      "iso": "2026-08-13T17:18:56.815Z",
+      "action": "updated remark for SLE32E930 at MAWANELLA - B: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2959,13 +2966,6 @@
       "time": "22:33:53",
       "iso": "2026-08-13T17:03:53.722Z",
       "action": "updated remark for MID-MK-17D19A2 at MAWANELLA - B: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:33:45",
-      "iso": "2026-08-13T17:03:45.476Z",
-      "action": "updated remark for KN-MOM70 at MAWANELLA - B: “To be reported”"
     }
   ]
 }
