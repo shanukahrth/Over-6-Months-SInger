@@ -1539,6 +1539,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:10:51",
       "lastUpdated": "2026-08-13T05:40:51.936Z"
+    },
+    "DH-KIT-8CH-4CAM||PILIYANDALA": {
+      "remark": "Up to 70%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:11:37",
+      "lastUpdated": "2026-08-13T05:41:37.089Z"
     }
   },
   "showroomVisits": {
@@ -1624,6 +1631,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:11:37",
+      "iso": "2026-08-13T05:41:37.090Z",
+      "action": "updated remark for DH-KIT-8CH-4CAM at PILIYANDALA: “Up to 70%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -1966,13 +1980,6 @@
       "time": "15:29:19",
       "iso": "2026-08-12T09:59:19.533Z",
       "action": "updated remark for SLE55GENR at MORATUWA - B: “In shop. No discounts allocated”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:29:03",
-      "iso": "2026-08-12T09:59:03.820Z",
-      "action": "updated remark for DELL3530-I7-8GB512-SIL at MORATUWA - B: “In shop. No discounts allocated”"
     }
   ]
 }
