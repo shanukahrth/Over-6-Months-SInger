@@ -3471,6 +3471,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:15:03",
       "lastUpdated": "2026-08-13T17:45:03.973Z"
+    },
+    "SLE32D1800||KADUGANNAWA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:15:10",
+      "lastUpdated": "2026-08-13T17:45:10.605Z"
     }
   },
   "showroomVisits": {
@@ -3604,6 +3611,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:15:10",
+      "iso": "2026-08-13T17:45:10.606Z",
+      "action": "updated remark for SLE32D1800 at KADUGANNAWA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3946,13 +3960,6 @@
       "time": "23:07:24",
       "iso": "2026-08-13T17:37:24.254Z",
       "action": "updated remark for SLE40D600A at MAWANELLA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:07:16",
-      "iso": "2026-08-13T17:37:16.918Z",
-      "action": "updated remark for SLE32G690 at MAWANELLA: “Exchange”"
     }
   ]
 }
