@@ -1940,7 +1940,7 @@
       "updatedDate": "2026-08-13"
     },
     "KADUGANNAWA||KANDY": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
@@ -1949,6 +1949,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "14:03:41",
+      "iso": "2026-08-13T08:33:41.142Z",
+      "action": "updated KADUGANNAWA showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2291,13 +2298,6 @@
       "time": "11:22:32",
       "iso": "2026-08-13T05:52:32.101Z",
       "action": "updated remark for SIN-K13 at PILIYANDALA: “Up to 80%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:21:50",
-      "iso": "2026-08-13T05:51:50.086Z",
-      "action": "updated remark for SMW823AY7 at PILIYANDALA: “Addiitonal 30%”"
     }
   ]
 }
