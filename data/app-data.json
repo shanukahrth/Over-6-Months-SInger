@@ -1594,7 +1594,7 @@
     },
     "ATTIDIYA||PANADURA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -1602,6 +1602,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "10:50:26",
+      "iso": "2026-08-13T05:20:26.720Z",
+      "action": "updated ATTIDIYA showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -1944,13 +1951,6 @@
       "time": "14:52:11",
       "iso": "2026-08-12T09:22:11.788Z",
       "action": "updated MORATUWA - B showroom (visitDate: 2026-08-12)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "14:52:08",
-      "iso": "2026-08-12T09:22:08.365Z",
-      "action": "updated MORATUWA - B showroom (visited: Yes)"
     }
   ]
 }
