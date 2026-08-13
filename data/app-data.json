@@ -1930,9 +1930,24 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-13"
+    },
+    "MAWANELLA - B||KANDY": {
+      "visited": "No",
+      "visitDate": "2026-08-13",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-13"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "11:53:39",
+      "iso": "2026-08-13T06:23:39.150Z",
+      "action": "updated MAWANELLA - B showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2275,13 +2290,6 @@
       "time": "11:18:11",
       "iso": "2026-08-13T05:48:11.615Z",
       "action": "updated remark for TF-NIDFP24-170 at PILIYANDALA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:18:06",
-      "iso": "2026-08-13T05:48:06.780Z",
-      "action": "updated remark for TF-KD24-061 at PILIYANDALA: “Additional 30%”"
     }
   ]
 }
