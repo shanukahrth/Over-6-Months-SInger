@@ -2379,6 +2379,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:45:23",
       "lastUpdated": "2026-08-13T17:15:23.784Z"
+    },
+    "CAN-L-LBP6030||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:47:09",
+      "lastUpdated": "2026-08-13T17:17:09.463Z"
     }
   },
   "showroomVisits": {
@@ -2512,6 +2519,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:47:09",
+      "iso": "2026-08-13T17:17:09.464Z",
+      "action": "updated remark for CAN-L-LBP6030 at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2854,13 +2868,6 @@
       "time": "22:31:59",
       "iso": "2026-08-13T17:01:59.432Z",
       "action": "updated remark for MCZJ8500C at MAWANELLA - B: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:31:25",
-      "iso": "2026-08-13T17:01:25.180Z",
-      "action": "updated remark for PF-STRG-BX-20L-S at MAWANELLA - B: “20%”"
     }
   ]
 }
