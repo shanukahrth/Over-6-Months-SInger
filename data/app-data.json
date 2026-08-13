@@ -1826,6 +1826,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:42:18",
       "lastUpdated": "2026-08-13T06:12:18.007Z"
+    },
+    "LF-MANEL-IC-BON-S||PILIYANDALA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:42:33",
+      "lastUpdated": "2026-08-13T06:12:33.552Z"
     }
   },
   "showroomVisits": {
@@ -1911,6 +1918,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:42:33",
+      "iso": "2026-08-13T06:12:33.553Z",
+      "action": "updated remark for LF-MANEL-IC-BON-S at PILIYANDALA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2253,13 +2267,6 @@
       "time": "11:11:37",
       "iso": "2026-08-13T05:41:37.090Z",
       "action": "updated remark for DH-KIT-8CH-4CAM at PILIYANDALA: “Up to 70%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:10:51",
-      "iso": "2026-08-13T05:40:51.938Z",
-      "action": "updated remark for H-HMR-DG2312 at PILIYANDALA: “Additional 10%”"
     }
   ]
 }
