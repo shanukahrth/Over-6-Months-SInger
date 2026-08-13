@@ -2785,6 +2785,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:58:19",
       "lastUpdated": "2026-08-13T17:28:19.305Z"
+    },
+    "TF-NIGP26-119||MAWANELLA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:58:42",
+      "lastUpdated": "2026-08-13T17:28:42.001Z"
     }
   },
   "showroomVisits": {
@@ -2918,6 +2925,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:58:42",
+      "iso": "2026-08-13T17:28:42.002Z",
+      "action": "updated remark for TF-NIGP26-119 at MAWANELLA: “Additional 30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3260,13 +3274,6 @@
       "time": "22:48:46",
       "iso": "2026-08-13T17:18:46.871Z",
       "action": "updated remark for SLE32E910 at MAWANELLA - B: “Revert Repriced”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:48:45",
-      "iso": "2026-08-13T17:18:45.848Z",
-      "action": "updated remark for SLE32E810 at MAWANELLA - B: “Revert Repriced”"
     }
   ]
 }
