@@ -1875,6 +1875,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:17:54",
       "lastUpdated": "2026-08-13T16:47:54.434Z"
+    },
+    "MHC-V13||MAWANELLA - B": {
+      "remark": "Damaged - Service Centre contacted",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:18:16",
+      "lastUpdated": "2026-08-13T16:48:16.765Z"
     }
   },
   "showroomVisits": {
@@ -2008,6 +2015,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:18:16",
+      "iso": "2026-08-13T16:48:16.766Z",
+      "action": "updated remark for MHC-V13 at MAWANELLA - B: “Damaged - Service Centre contacted”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2350,13 +2364,6 @@
       "time": "11:32:04",
       "iso": "2026-08-13T06:02:04.623Z",
       "action": "updated remark for NCPDG-KD240 at PILIYANDALA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:31:45",
-      "iso": "2026-08-13T06:01:45.072Z",
-      "action": "updated remark for SDV3605K at PILIYANDALA: “Up to 80%”"
     }
   ]
 }
