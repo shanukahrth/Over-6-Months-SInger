@@ -3394,6 +3394,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:13:34",
       "lastUpdated": "2026-08-13T17:43:34.449Z"
+    },
+    "SMGRT34B4542S8||KADUGANNAWA": {
+      "remark": "MOP - 160,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:13:43",
+      "lastUpdated": "2026-08-13T17:43:43.064Z"
     }
   },
   "showroomVisits": {
@@ -3527,6 +3534,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:13:43",
+      "iso": "2026-08-13T17:43:43.066Z",
+      "action": "updated remark for SMGRT34B4542S8 at KADUGANNAWA: “MOP - 160,000”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3869,13 +3883,6 @@
       "time": "23:05:20",
       "iso": "2026-08-13T17:35:20.559Z",
       "action": "updated remark for SIN-PR-K340 at MAWANELLA: “Salable at existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:05:10",
-      "iso": "2026-08-13T17:35:10.334Z",
-      "action": "updated remark for SM-MC3368 at MAWANELLA: “80%”"
     }
   ]
 }
