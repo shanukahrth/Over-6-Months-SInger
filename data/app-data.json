@@ -2827,6 +2827,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:59:09",
       "lastUpdated": "2026-08-13T17:29:09.726Z"
+    },
+    "TH-TC-351||MAWANELLA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:59:16",
+      "lastUpdated": "2026-08-13T17:29:16.278Z"
     }
   },
   "showroomVisits": {
@@ -2960,6 +2967,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:59:16",
+      "iso": "2026-08-13T17:29:16.278Z",
+      "action": "updated remark for TH-TC-351 at MAWANELLA: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3302,13 +3316,6 @@
       "time": "22:49:49",
       "iso": "2026-08-13T17:19:49.320Z",
       "action": "updated remark for SMGUA32N4010 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:49:30",
-      "iso": "2026-08-13T17:19:30.199Z",
-      "action": "updated remark for SLE55D5010TC at MAWANELLA - B: “Damaged”"
     }
   ]
 }
