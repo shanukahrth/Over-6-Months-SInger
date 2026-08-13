@@ -3268,6 +3268,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:10:50",
       "lastUpdated": "2026-08-13T17:40:50.432Z"
+    },
+    "NCPO-DC200||KADUGANNAWA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:10:54",
+      "lastUpdated": "2026-08-13T17:40:54.336Z"
     }
   },
   "showroomVisits": {
@@ -3401,6 +3408,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:10:54",
+      "iso": "2026-08-13T17:40:54.338Z",
+      "action": "updated remark for NCPO-DC200 at KADUGANNAWA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3743,13 +3757,6 @@
       "time": "23:02:08",
       "iso": "2026-08-13T17:32:08.318Z",
       "action": "updated remark for ZTE-A75-4GB-256GB-BLK at MAWANELLA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:59",
-      "iso": "2026-08-13T17:31:59.478Z",
-      "action": "updated remark for NUBIA-V60-8-256GB-BLK at MAWANELLA: “50%”"
     }
   ]
 }
