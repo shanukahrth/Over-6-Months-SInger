@@ -2421,6 +2421,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:47:28",
       "lastUpdated": "2026-08-13T17:17:28.375Z"
+    },
+    "MC8280||MAWANELLA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:47:46",
+      "lastUpdated": "2026-08-13T17:17:46.900Z"
     }
   },
   "showroomVisits": {
@@ -2554,6 +2561,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:47:46",
+      "iso": "2026-08-13T17:17:46.901Z",
+      "action": "updated remark for MC8280 at MAWANELLA - B: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2896,13 +2910,6 @@
       "time": "22:32:31",
       "iso": "2026-08-13T17:02:31.117Z",
       "action": "updated remark for BRP-COOKPAN28 at MAWANELLA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:32:28",
-      "iso": "2026-08-13T17:02:28.667Z",
-      "action": "updated remark for BRC-COOKPAN28 at MAWANELLA - B: “60%”"
     }
   ]
 }
