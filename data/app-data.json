@@ -3359,6 +3359,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:12:44",
       "lastUpdated": "2026-08-13T17:42:44.216Z"
+    },
+    "U-BS8816||KADUGANNAWA": {
+      "remark": "MOP - 1,000 (Damaged)",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:12:59",
+      "lastUpdated": "2026-08-13T17:42:59.886Z"
     }
   },
   "showroomVisits": {
@@ -3492,6 +3499,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:12:59",
+      "iso": "2026-08-13T17:42:59.886Z",
+      "action": "updated remark for U-BS8816 at KADUGANNAWA: “MOP - 1,000 (Damaged)”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3834,13 +3848,6 @@
       "time": "23:04:45",
       "iso": "2026-08-13T17:34:45.535Z",
       "action": "updated remark for PM-COMP-4 at MAWANELLA: “Return to Microchip”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:04:40",
-      "iso": "2026-08-13T17:34:40.159Z",
-      "action": "updated remark for NEXT-K9-85 at MAWANELLA: “Return to Microchip”"
     }
   ]
 }
