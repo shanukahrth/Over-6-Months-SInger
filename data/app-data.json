@@ -2806,6 +2806,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:58:51",
       "lastUpdated": "2026-08-13T17:28:51.568Z"
+    },
+    "KN-SMP01||MAWANELLA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:58:59",
+      "lastUpdated": "2026-08-13T17:28:59.334Z"
     }
   },
   "showroomVisits": {
@@ -2939,6 +2946,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:58:59",
+      "iso": "2026-08-13T17:28:59.335Z",
+      "action": "updated remark for KN-SMP01 at MAWANELLA: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3281,13 +3295,6 @@
       "time": "22:49:03",
       "iso": "2026-08-13T17:19:03.783Z",
       "action": "updated remark for SLE40D600A at MAWANELLA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:48:56",
-      "iso": "2026-08-13T17:18:56.815Z",
-      "action": "updated remark for SLE32E930 at MAWANELLA - B: “60%”"
     }
   ]
 }
