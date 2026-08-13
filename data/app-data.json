@@ -2246,6 +2246,20 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:40:05",
       "lastUpdated": "2026-08-13T17:10:05.223Z"
+    },
+    "SIN-RFC-1819||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:40:24",
+      "lastUpdated": "2026-08-13T17:10:24.571Z"
+    },
+    "SIN-RFC-2012||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:40:25",
+      "lastUpdated": "2026-08-13T17:10:25.680Z"
     }
   },
   "showroomVisits": {
@@ -2379,6 +2393,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:40:25",
+      "iso": "2026-08-13T17:10:25.681Z",
+      "action": "updated remark for SIN-RFC-2012 at MAWANELLA - B: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:40:24",
+      "iso": "2026-08-13T17:10:24.571Z",
+      "action": "updated remark for SIN-RFC-1819 at MAWANELLA - B: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:40:23",
+      "iso": "2026-08-13T17:10:23.171Z",
+      "action": "updated remark for SIN-RFC-1819 at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2707,27 +2742,6 @@
       "time": "22:27:19",
       "iso": "2026-08-13T16:57:19.145Z",
       "action": "updated remark for IFCG157NC at MAWANELLA - B: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:27:02",
-      "iso": "2026-08-13T16:57:02.880Z",
-      "action": "updated remark for DELL-NB-DC5G at MAWANELLA - B: “Damaged - Service Centre contacted”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:26:53",
-      "iso": "2026-08-13T16:56:53.392Z",
-      "action": "updated remark for DELL-3583-PQC-W10-BLK at MAWANELLA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:25:02",
-      "iso": "2026-08-13T16:55:02.164Z",
-      "action": "updated remark for AS-I3-WIN10-7G at MAWANELLA - B: “Damaged - Service Centre contacted”"
     }
   ]
 }
