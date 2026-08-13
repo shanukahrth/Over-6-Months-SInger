@@ -2652,6 +2652,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:53:53",
       "lastUpdated": "2026-08-13T17:23:53.898Z"
+    },
+    "WFL-SPM-75X72X7-S||MAWANELLA": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:54:04",
+      "lastUpdated": "2026-08-13T17:24:04.719Z"
     }
   },
   "showroomVisits": {
@@ -2785,6 +2792,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:54:04",
+      "iso": "2026-08-13T17:24:04.719Z",
+      "action": "updated remark for WFL-SPM-75X72X7-S at MAWANELLA: “To be reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3127,13 +3141,6 @@
       "time": "22:44:16",
       "iso": "2026-08-13T17:14:16.239Z",
       "action": "updated remark for HON-X9C-12-256-PPL at MAWANELLA - B: “50% - Fluctuation”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:44:04",
-      "iso": "2026-08-13T17:14:04.831Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at MAWANELLA - B: “50%”"
     }
   ]
 }
