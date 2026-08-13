@@ -2071,6 +2071,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:31:16",
       "lastUpdated": "2026-08-13T17:01:16.064Z"
+    },
+    "PF-STRG-BX-20L-S||MAWANELLA - B": {
+      "remark": "20%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:31:25",
+      "lastUpdated": "2026-08-13T17:01:25.179Z"
     }
   },
   "showroomVisits": {
@@ -2204,6 +2211,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:31:25",
+      "iso": "2026-08-13T17:01:25.180Z",
+      "action": "updated remark for PF-STRG-BX-20L-S at MAWANELLA - B: “20%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2546,13 +2560,6 @@
       "time": "16:50:54",
       "iso": "2026-08-13T11:20:54.529Z",
       "action": "updated PILIMATHALAWA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "16:50:51",
-      "iso": "2026-08-13T11:20:51.774Z",
-      "action": "updated PILIMATHALAWA showroom (visited: Yes)"
     }
   ]
 }
