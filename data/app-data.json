@@ -3247,6 +3247,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:10:20",
       "lastUpdated": "2026-08-13T17:40:20.082Z"
+    },
+    "WFL-NEL-SB||KADUGANNAWA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:10:27",
+      "lastUpdated": "2026-08-13T17:40:27.360Z"
     }
   },
   "showroomVisits": {
@@ -3380,6 +3387,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:10:27",
+      "iso": "2026-08-13T17:40:27.361Z",
+      "action": "updated remark for WFL-NEL-SB at KADUGANNAWA: “Reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3722,13 +3736,6 @@
       "time": "23:01:47",
       "iso": "2026-08-13T17:31:47.263Z",
       "action": "updated remark for HON-X6B-6-128-GRN at MAWANELLA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:41",
-      "iso": "2026-08-13T17:31:41.159Z",
-      "action": "updated remark for HON-PAD-X9-CV at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
