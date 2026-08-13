@@ -1962,9 +1962,24 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-13"
+    },
+    "PERADENIYA||KANDY": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-13"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:11:38",
+      "iso": "2026-08-13T16:41:38.913Z",
+      "action": "updated PERADENIYA showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2307,13 +2322,6 @@
       "time": "11:27:12",
       "iso": "2026-08-13T05:57:12.193Z",
       "action": "updated remark for SLE40D600A at PILIYANDALA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:26:45",
-      "iso": "2026-08-13T05:56:45.759Z",
-      "action": "updated remark for SLE-55IFPD at PILIYANDALA: “Up to 70&”"
     }
   ]
 }
