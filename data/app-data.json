@@ -2960,6 +2960,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:02:45",
       "lastUpdated": "2026-08-13T17:32:45.734Z"
+    },
+    "GEO-260NF||MAWANELLA": {
+      "remark": "Service",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:03:37",
+      "lastUpdated": "2026-08-13T17:33:37.183Z"
     }
   },
   "showroomVisits": {
@@ -3093,6 +3100,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:03:37",
+      "iso": "2026-08-13T17:33:37.183Z",
+      "action": "updated remark for GEO-260NF at MAWANELLA: “Service”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3435,13 +3449,6 @@
       "time": "22:53:08",
       "iso": "2026-08-13T17:23:08.950Z",
       "action": "updated remark for WFL-PLWKP-18X27 at MAWANELLA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:53:02",
-      "iso": "2026-08-13T17:23:02.271Z",
-      "action": "updated remark for WFL-NOBEL at MAWANELLA: “Exchange”"
     }
   ]
 }
