@@ -2694,6 +2694,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:55:40",
       "lastUpdated": "2026-08-13T17:25:40.617Z"
+    },
+    "PF-MONDY-RED||MAWANELLA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:55:46",
+      "lastUpdated": "2026-08-13T17:25:46.848Z"
     }
   },
   "showroomVisits": {
@@ -2827,6 +2834,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:55:46",
+      "iso": "2026-08-13T17:25:46.848Z",
+      "action": "updated remark for PF-MONDY-RED at MAWANELLA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3169,13 +3183,6 @@
       "time": "22:47:09",
       "iso": "2026-08-13T17:17:09.464Z",
       "action": "updated remark for CAN-L-LBP6030 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:45:23",
-      "iso": "2026-08-13T17:15:23.784Z",
-      "action": "updated remark for ZTE-V50DESIGN-8-256GB-B at MAWANELLA - B: “70%”"
     }
   ]
 }
