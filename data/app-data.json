@@ -3240,6 +3240,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:10:11",
       "lastUpdated": "2026-08-13T17:40:11.638Z"
+    },
+    "WF-JUPITER-05-S||KADUGANNAWA": {
+      "remark": "65%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:10:20",
+      "lastUpdated": "2026-08-13T17:40:20.082Z"
     }
   },
   "showroomVisits": {
@@ -3373,6 +3380,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:10:20",
+      "iso": "2026-08-13T17:40:20.082Z",
+      "action": "updated remark for WF-JUPITER-05-S at KADUGANNAWA: “65%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3715,13 +3729,6 @@
       "time": "23:01:41",
       "iso": "2026-08-13T17:31:41.159Z",
       "action": "updated remark for HON-PAD-X9-CV at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:35",
-      "iso": "2026-08-13T17:31:35.815Z",
-      "action": "updated remark for HON-H90LITE-8-256-BLK at MAWANELLA: “75%”"
     }
   ]
 }
