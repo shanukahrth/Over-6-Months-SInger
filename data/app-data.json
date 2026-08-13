@@ -1644,6 +1644,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:23:10",
       "lastUpdated": "2026-08-13T05:53:10.515Z"
+    },
+    "SIN-RFC-1819||PILIYANDALA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:23:57",
+      "lastUpdated": "2026-08-13T05:53:57.322Z"
     }
   },
   "showroomVisits": {
@@ -1729,6 +1736,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:23:57",
+      "iso": "2026-08-13T05:53:57.323Z",
+      "action": "updated remark for SIN-RFC-1819 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2071,13 +2085,6 @@
       "time": "15:37:48",
       "iso": "2026-08-12T10:07:48.264Z",
       "action": "updated remark for SMG-SM-A057F-4-128-B at MORATUWA - B: “Exchange”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:37:27",
-      "iso": "2026-08-12T10:07:27.748Z",
-      "action": "updated remark for PN-TH-32M402N at MORATUWA - B: “Up to 40%”"
     }
   ]
 }
