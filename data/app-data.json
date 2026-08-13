@@ -3072,6 +3072,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:05:25",
       "lastUpdated": "2026-08-13T17:35:25.622Z"
+    },
+    "PN-TH-32P401N||MAWANELLA": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:05:44",
+      "lastUpdated": "2026-08-13T17:35:44.422Z"
     }
   },
   "showroomVisits": {
@@ -3205,6 +3212,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:05:44",
+      "iso": "2026-08-13T17:35:44.423Z",
+      "action": "updated remark for PN-TH-32P401N at MAWANELLA: “Pending Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3547,13 +3561,6 @@
       "time": "22:56:33",
       "iso": "2026-08-13T17:26:33.674Z",
       "action": "updated remark for TF-GS-SPKT302 at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:56:15",
-      "iso": "2026-08-13T17:26:15.431Z",
-      "action": "updated remark for SIN-MRG-1008C at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
