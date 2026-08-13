@@ -2181,8 +2181,8 @@
       "remark": "Reported",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-13",
-      "commentTime": "22:34:55",
-      "lastUpdated": "2026-08-13T17:04:55.010Z"
+      "commentTime": "22:34:59",
+      "lastUpdated": "2026-08-13T17:04:59.543Z"
     }
   },
   "showroomVisits": {
@@ -2316,6 +2316,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:34:59",
+      "iso": "2026-08-13T17:04:59.544Z",
+      "action": "updated remark for R-BWS-02 at MAWANELLA - B: “Reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2658,13 +2665,6 @@
       "time": "22:21:31",
       "iso": "2026-08-13T16:51:31.254Z",
       "action": "updated remark for SPAS81BT at MAWANELLA - B: “Revert Repriced”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:21:19",
-      "iso": "2026-08-13T16:51:19.532Z",
-      "action": "updated remark for PN-SC-AKX320GSK at MAWANELLA - B: “Revert Repriced”"
     }
   ]
 }
