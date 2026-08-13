@@ -2176,6 +2176,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:33:53",
       "lastUpdated": "2026-08-13T17:03:53.722Z"
+    },
+    "R-BWS-02||MAWANELLA - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:34:55",
+      "lastUpdated": "2026-08-13T17:04:55.010Z"
     }
   },
   "showroomVisits": {
@@ -2309,6 +2316,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:34:55",
+      "iso": "2026-08-13T17:04:55.011Z",
+      "action": "updated remark for R-BWS-02 at MAWANELLA - B: “Reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2651,13 +2665,6 @@
       "time": "22:21:19",
       "iso": "2026-08-13T16:51:19.532Z",
       "action": "updated remark for PN-SC-AKX320GSK at MAWANELLA - B: “Revert Repriced”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:20:27",
-      "iso": "2026-08-13T16:50:27.230Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at MAWANELLA - B: “MOP - 30,000”"
     }
   ]
 }
