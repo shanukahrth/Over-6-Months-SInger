@@ -3296,6 +3296,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:11:08",
       "lastUpdated": "2026-08-13T17:41:08.549Z"
+    },
+    "SMW25GCQ6||KADUGANNAWA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:11:45",
+      "lastUpdated": "2026-08-13T17:41:45.065Z"
     }
   },
   "showroomVisits": {
@@ -3429,6 +3436,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:11:45",
+      "iso": "2026-08-13T17:41:45.066Z",
+      "action": "updated remark for SMW25GCQ6 at KADUGANNAWA: “Reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3771,13 +3785,6 @@
       "time": "23:03:37",
       "iso": "2026-08-13T17:33:37.183Z",
       "action": "updated remark for GEO-260NF at MAWANELLA: “Service”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:02:45",
-      "iso": "2026-08-13T17:32:45.735Z",
-      "action": "updated remark for ZTE-A35-2-64GB-BLK at MAWANELLA: “Damaged - Location transfer”"
     }
   ]
 }
