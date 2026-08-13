@@ -2155,6 +2155,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:33:14",
       "lastUpdated": "2026-08-13T17:03:14.176Z"
+    },
+    "MID-MF-TN40D2||MAWANELLA - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:33:33",
+      "lastUpdated": "2026-08-13T17:03:33.474Z"
     }
   },
   "showroomVisits": {
@@ -2288,6 +2295,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:33:33",
+      "iso": "2026-08-13T17:03:33.475Z",
+      "action": "updated remark for MID-MF-TN40D2 at MAWANELLA - B: “Reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2630,13 +2644,6 @@
       "time": "22:17:54",
       "iso": "2026-08-13T16:47:54.436Z",
       "action": "updated remark for WP-18KINV at MAWANELLA - B: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:16:22",
-      "iso": "2026-08-13T16:46:22.542Z",
-      "action": "updated remark for SASI24INFI at MAWANELLA - B: “Pending Exchanges”"
     }
   ]
 }
