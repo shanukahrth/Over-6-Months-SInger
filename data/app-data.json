@@ -3450,6 +3450,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:14:35",
       "lastUpdated": "2026-08-13T17:44:35.464Z"
+    },
+    "SLE40D4000||KADUGANNAWA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:14:43",
+      "lastUpdated": "2026-08-13T17:44:43.359Z"
     }
   },
   "showroomVisits": {
@@ -3583,6 +3590,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:14:43",
+      "iso": "2026-08-13T17:44:43.360Z",
+      "action": "updated remark for SLE40D4000 at KADUGANNAWA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3925,13 +3939,6 @@
       "time": "23:07:00",
       "iso": "2026-08-13T17:37:00.494Z",
       "action": "updated remark for SLE32E810 at MAWANELLA: “Panel damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:06:54",
-      "iso": "2026-08-13T17:36:54.464Z",
-      "action": "updated remark for SLE32E810 at MAWANELLA: “Damaged”"
     }
   ]
 }
