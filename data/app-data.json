@@ -3051,6 +3051,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:05:03",
       "lastUpdated": "2026-08-13T17:35:03.838Z"
+    },
+    "SM-MC3368||MAWANELLA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:05:10",
+      "lastUpdated": "2026-08-13T17:35:10.334Z"
     }
   },
   "showroomVisits": {
@@ -3184,6 +3191,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:05:10",
+      "iso": "2026-08-13T17:35:10.334Z",
+      "action": "updated remark for SM-MC3368 at MAWANELLA: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3526,13 +3540,6 @@
       "time": "22:56:05",
       "iso": "2026-08-13T17:26:05.256Z",
       "action": "updated remark for MCZJ9513-G01 at MAWANELLA: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:55:57",
-      "iso": "2026-08-13T17:25:57.626Z",
-      "action": "updated remark for PHHTS3531 at MAWANELLA: “80%”"
     }
   ]
 }
