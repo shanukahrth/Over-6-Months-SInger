@@ -2337,6 +2337,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:43:48",
       "lastUpdated": "2026-08-13T17:13:48.193Z"
+    },
+    "HON-X9C-12-256-BLK||MAWANELLA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:44:04",
+      "lastUpdated": "2026-08-13T17:14:04.831Z"
     }
   },
   "showroomVisits": {
@@ -2470,6 +2477,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:44:04",
+      "iso": "2026-08-13T17:14:04.831Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at MAWANELLA - B: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2812,13 +2826,6 @@
       "time": "22:30:24",
       "iso": "2026-08-13T17:00:24.505Z",
       "action": "updated remark for PF-ENVISION-BL-S at MAWANELLA - B: “Salable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:30:14",
-      "iso": "2026-08-13T17:00:14.800Z",
-      "action": "updated remark for WFL-SPM-72X60X7-S at MAWANELLA - B: “Revert Repriced”"
     }
   ]
 }
