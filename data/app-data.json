@@ -1602,7 +1602,7 @@
     },
     "PILIYANDALA  B||PANADURA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -1610,6 +1610,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:07:10",
+      "iso": "2026-08-13T05:37:10.764Z",
+      "action": "updated PILIYANDALA  B showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -1952,13 +1959,6 @@
       "time": "15:27:37",
       "iso": "2026-08-12T09:57:37.608Z",
       "action": "updated remark for HON-X9C-12-256-GRN at MORATUWA - B: “Additional 15%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:27:21",
-      "iso": "2026-08-12T09:57:21.430Z",
-      "action": "updated remark for KD-50X75K at MORATUWA - B: “Up to 40%”"
     }
   ]
 }
