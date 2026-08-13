@@ -2743,6 +2743,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:56:33",
       "lastUpdated": "2026-08-13T17:26:33.673Z"
+    },
+    "BRP-GTW30||MAWANELLA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:57:09",
+      "lastUpdated": "2026-08-13T17:27:09.038Z"
     }
   },
   "showroomVisits": {
@@ -2876,6 +2883,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:57:09",
+      "iso": "2026-08-13T17:27:09.039Z",
+      "action": "updated remark for BRP-GTW30 at MAWANELLA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3218,13 +3232,6 @@
       "time": "22:47:49",
       "iso": "2026-08-13T17:17:49.657Z",
       "action": "updated remark for SIN-PR-K340 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:47:46",
-      "iso": "2026-08-13T17:17:46.901Z",
-      "action": "updated remark for MC8280 at MAWANELLA - B: “50%”"
     }
   ]
 }
