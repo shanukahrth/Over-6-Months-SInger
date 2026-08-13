@@ -1581,6 +1581,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:17:39",
       "lastUpdated": "2026-08-13T05:47:39.568Z"
+    },
+    "TF-CM-APR737||PILIYANDALA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:17:53",
+      "lastUpdated": "2026-08-13T05:47:53.480Z"
     }
   },
   "showroomVisits": {
@@ -1666,6 +1673,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:17:53",
+      "iso": "2026-08-13T05:47:53.482Z",
+      "action": "updated remark for TF-CM-APR737 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2008,13 +2022,6 @@
       "time": "15:33:24",
       "iso": "2026-08-12T10:03:24.997Z",
       "action": "updated remark for GEO-SM-265NF at MORATUWA - B: “Exchange”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:33:21",
-      "iso": "2026-08-12T10:03:21.844Z",
-      "action": "updated remark for GEO-242D-SV at MORATUWA - B: “Up to 25%”"
     }
   ]
 }
