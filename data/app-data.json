@@ -2666,6 +2666,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:54:14",
       "lastUpdated": "2026-08-13T17:24:14.638Z"
+    },
+    "WF-DOC-T011-BU-S||MAWANELLA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:55:00",
+      "lastUpdated": "2026-08-13T17:25:00.887Z"
     }
   },
   "showroomVisits": {
@@ -2799,6 +2806,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:55:00",
+      "iso": "2026-08-13T17:25:00.888Z",
+      "action": "updated remark for WF-DOC-T011-BU-S at MAWANELLA: “Additional 10%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3141,13 +3155,6 @@
       "time": "22:44:51",
       "iso": "2026-08-13T17:14:51.697Z",
       "action": "updated remark for HON-X9CSMART-12-256-BLK at MAWANELLA - B: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:44:33",
-      "iso": "2026-08-13T17:14:33.338Z",
-      "action": "updated remark for HON-X9CSMART-12-256-BLK at MAWANELLA - B: “50%”"
     }
   ]
 }
