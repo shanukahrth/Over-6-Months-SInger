@@ -1833,6 +1833,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:42:33",
       "lastUpdated": "2026-08-13T06:12:33.552Z"
+    },
+    "LF-PODIUM-MWNT-S||PILIYANDALA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:42:47",
+      "lastUpdated": "2026-08-13T06:12:47.373Z"
     }
   },
   "showroomVisits": {
@@ -1918,6 +1925,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:42:47",
+      "iso": "2026-08-13T06:12:47.375Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at PILIYANDALA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2260,13 +2274,6 @@
       "time": "11:12:35",
       "iso": "2026-08-13T05:42:35.017Z",
       "action": "updated remark for SRS-XG500 at PILIYANDALA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:11:37",
-      "iso": "2026-08-13T05:41:37.090Z",
-      "action": "updated remark for DH-KIT-8CH-4CAM at PILIYANDALA: “Up to 70%”"
     }
   ]
 }
