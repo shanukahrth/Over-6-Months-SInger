@@ -3275,6 +3275,20 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:10:54",
       "lastUpdated": "2026-08-13T17:40:54.336Z"
+    },
+    "NCPO-FP250||KADUGANNAWA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:11:01",
+      "lastUpdated": "2026-08-13T17:41:01.277Z"
+    },
+    "NCPO-FP280||KADUGANNAWA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:11:03",
+      "lastUpdated": "2026-08-13T17:41:03.199Z"
     }
   },
   "showroomVisits": {
@@ -3408,6 +3422,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:11:03",
+      "iso": "2026-08-13T17:41:03.199Z",
+      "action": "updated remark for NCPO-FP280 at KADUGANNAWA: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:11:01",
+      "iso": "2026-08-13T17:41:01.278Z",
+      "action": "updated remark for NCPO-FP250 at KADUGANNAWA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3743,20 +3771,6 @@
       "time": "23:02:42",
       "iso": "2026-08-13T17:32:42.190Z",
       "action": "updated remark for TCL30E-3-64-GRY at MAWANELLA: “Damaged - Location transfer”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:02:31",
-      "iso": "2026-08-13T17:32:31.695Z",
-      "action": "updated remark for TCL306-3-32-BLU at MAWANELLA: “Damaged - Location transfer”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:02:08",
-      "iso": "2026-08-13T17:32:08.318Z",
-      "action": "updated remark for ZTE-A75-4GB-256GB-BLK at MAWANELLA: “70%”"
     }
   ]
 }
