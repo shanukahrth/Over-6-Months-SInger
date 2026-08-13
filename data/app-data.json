@@ -2589,6 +2589,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:52:06",
       "lastUpdated": "2026-08-13T17:22:06.231Z"
+    },
+    "UDV3618SY||MAWANELLA": {
+      "remark": "MOP - 3,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:52:14",
+      "lastUpdated": "2026-08-13T17:22:14.782Z"
     }
   },
   "showroomVisits": {
@@ -2722,6 +2729,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:52:14",
+      "iso": "2026-08-13T17:22:14.783Z",
+      "action": "updated remark for UDV3618SY at MAWANELLA: “MOP - 3,000”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3064,13 +3078,6 @@
       "time": "22:41:15",
       "iso": "2026-08-13T17:11:15.496Z",
       "action": "updated remark for HU-SECURITY at MAWANELLA - B: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:41:10",
-      "iso": "2026-08-13T17:11:10.303Z",
-      "action": "updated remark for HU-MATEPAD-SE11-GRY at MAWANELLA - B: “Shop use”"
     }
   ]
 }
