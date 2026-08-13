@@ -3023,6 +3023,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:04:40",
       "lastUpdated": "2026-08-13T17:34:40.159Z"
+    },
+    "PM-COMP-4||MAWANELLA": {
+      "remark": "Return to Microchip",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:04:45",
+      "lastUpdated": "2026-08-13T17:34:45.534Z"
     }
   },
   "showroomVisits": {
@@ -3156,6 +3163,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:04:45",
+      "iso": "2026-08-13T17:34:45.535Z",
+      "action": "updated remark for PM-COMP-4 at MAWANELLA: “Return to Microchip”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3498,13 +3512,6 @@
       "time": "22:55:40",
       "iso": "2026-08-13T17:25:40.618Z",
       "action": "updated remark for PF-SUMO-ST-NKL-BU-S at MAWANELLA: “Additional 10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:55:31",
-      "iso": "2026-08-13T17:25:31.513Z",
-      "action": "updated remark for PF-FLEXI-NKL-MW-S at MAWANELLA: “Additional 10%”"
     }
   ]
 }
