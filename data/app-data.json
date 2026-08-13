@@ -2393,6 +2393,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:47:15",
       "lastUpdated": "2026-08-13T17:17:15.375Z"
+    },
+    "SL-ECO192-TG||MAWANELLA - B": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:47:20",
+      "lastUpdated": "2026-08-13T17:17:20.231Z"
     }
   },
   "showroomVisits": {
@@ -2526,6 +2533,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:47:20",
+      "iso": "2026-08-13T17:17:20.231Z",
+      "action": "updated remark for SL-ECO192-TG at MAWANELLA - B: “30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2868,13 +2882,6 @@
       "time": "22:32:17",
       "iso": "2026-08-13T17:02:17.280Z",
       "action": "updated remark for SIN-MRG-1008C at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:32:11",
-      "iso": "2026-08-13T17:02:11.488Z",
-      "action": "updated remark for SLE-55IFPD at MAWANELLA - B: “70% - Revert”"
     }
   ]
 }
