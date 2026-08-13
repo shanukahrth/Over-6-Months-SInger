@@ -1896,6 +1896,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:21:19",
       "lastUpdated": "2026-08-13T16:51:19.531Z"
+    },
+    "SPAS81BT||MAWANELLA - B": {
+      "remark": "Revert Repriced",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:21:31",
+      "lastUpdated": "2026-08-13T16:51:31.253Z"
     }
   },
   "showroomVisits": {
@@ -2029,6 +2036,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:21:31",
+      "iso": "2026-08-13T16:51:31.254Z",
+      "action": "updated remark for SPAS81BT at MAWANELLA - B: “Revert Repriced”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2371,13 +2385,6 @@
       "time": "11:37:06",
       "iso": "2026-08-13T06:07:06.724Z",
       "action": "updated remark for PF-ENVISION-BL-S at PILIYANDALA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:36:43",
-      "iso": "2026-08-13T06:06:43.089Z",
-      "action": "updated remark for PCR-FP20-249 at PILIYANDALA: “Additional 10%”"
     }
   ]
 }
