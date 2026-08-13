@@ -1847,6 +1847,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:14:56",
       "lastUpdated": "2026-08-13T16:44:56.249Z"
+    },
+    "PN-CS-XU12XKYW-8||MAWANELLA - B": {
+      "remark": "Service Centre",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:15:15",
+      "lastUpdated": "2026-08-13T16:45:15.843Z"
     }
   },
   "showroomVisits": {
@@ -1980,6 +1987,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:15:15",
+      "iso": "2026-08-13T16:45:15.845Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at MAWANELLA - B: “Service Centre”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2322,13 +2336,6 @@
       "time": "11:29:26",
       "iso": "2026-08-13T05:59:26.156Z",
       "action": "updated remark for QT-T220AC at PILIYANDALA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:28:23",
-      "iso": "2026-08-13T05:58:23.357Z",
-      "action": "updated remark for PN-TH-32M402N at PILIYANDALA: “Up to 40%”"
     }
   ]
 }
