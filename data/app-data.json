@@ -1616,6 +1616,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:18:11",
       "lastUpdated": "2026-08-13T05:48:11.614Z"
+    },
+    "TF-NIFP28-042||PILIYANDALA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:18:19",
+      "lastUpdated": "2026-08-13T05:48:19.819Z"
     }
   },
   "showroomVisits": {
@@ -1701,6 +1708,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:18:19",
+      "iso": "2026-08-13T05:48:19.822Z",
+      "action": "updated remark for TF-NIFP28-042 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2043,13 +2057,6 @@
       "time": "15:35:45",
       "iso": "2026-08-12T10:05:45.460Z",
       "action": "updated remark for SLE40D600A at MORATUWA - B: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:35:29",
-      "iso": "2026-08-12T10:05:29.282Z",
-      "action": "updated remark for SMW823AY7 at MORATUWA - B: “In shop. No discounts allocated”"
     }
   ]
 }
