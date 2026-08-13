@@ -1707,6 +1707,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:29:53",
       "lastUpdated": "2026-08-13T05:59:53.302Z"
+    },
+    "RCS-04||PILIYANDALA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:30:13",
+      "lastUpdated": "2026-08-13T06:00:13.818Z"
     }
   },
   "showroomVisits": {
@@ -1792,6 +1799,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:30:13",
+      "iso": "2026-08-13T06:00:13.821Z",
+      "action": "updated remark for RCS-04 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2134,13 +2148,6 @@
       "time": "15:41:13",
       "iso": "2026-08-12T10:11:13.850Z",
       "action": "updated remark for MID-MJ-KM6001W at MORATUWA - B: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:41:07",
-      "iso": "2026-08-12T10:11:07.082Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRY at MORATUWA - B: “Sold”"
     }
   ]
 }
