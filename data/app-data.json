@@ -3436,6 +3436,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:14:23",
       "lastUpdated": "2026-08-13T17:44:23.431Z"
+    },
+    "SLE32F590||KADUGANNAWA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:14:30",
+      "lastUpdated": "2026-08-13T17:44:30.336Z"
     }
   },
   "showroomVisits": {
@@ -3569,6 +3576,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:14:30",
+      "iso": "2026-08-13T17:44:30.337Z",
+      "action": "updated remark for SLE32F590 at KADUGANNAWA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3911,13 +3925,6 @@
       "time": "23:06:22",
       "iso": "2026-08-13T17:36:22.215Z",
       "action": "updated remark for SLE32D5000 at MAWANELLA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:06:15",
-      "iso": "2026-08-13T17:36:15.278Z",
-      "action": "updated remark for SLE32D2010TC at MAWANELLA: “Exchange”"
     }
   ]
 }
