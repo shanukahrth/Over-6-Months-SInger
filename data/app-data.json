@@ -2904,6 +2904,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:01:35",
       "lastUpdated": "2026-08-13T17:31:35.815Z"
+    },
+    "HON-PAD-X9-CV||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:01:41",
+      "lastUpdated": "2026-08-13T17:31:41.159Z"
     }
   },
   "showroomVisits": {
@@ -3037,6 +3044,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:01:41",
+      "iso": "2026-08-13T17:31:41.159Z",
+      "action": "updated remark for HON-PAD-X9-CV at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3379,13 +3393,6 @@
       "time": "22:51:54",
       "iso": "2026-08-13T17:21:54.842Z",
       "action": "updated remark for SVX6008 at MAWANELLA: “80% - Location Transfer”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:51:39",
-      "iso": "2026-08-13T17:21:39.336Z",
-      "action": "updated remark for MHC-M40D at MAWANELLA: “70%”"
     }
   ]
 }
