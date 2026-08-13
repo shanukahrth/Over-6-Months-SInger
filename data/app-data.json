@@ -1798,6 +1798,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:39:01",
       "lastUpdated": "2026-08-13T06:09:01.909Z"
+    },
+    "PN-SC-BMAX10E-K||PILIYANDALA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:39:13",
+      "lastUpdated": "2026-08-13T06:09:13.992Z"
     }
   },
   "showroomVisits": {
@@ -1883,6 +1890,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:39:13",
+      "iso": "2026-08-13T06:09:13.995Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at PILIYANDALA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2225,13 +2239,6 @@
       "time": "11:07:08",
       "iso": "2026-08-13T05:37:08.097Z",
       "action": "updated PILIYANDALA  B showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "10:50:35",
-      "iso": "2026-08-13T05:20:35.776Z",
-      "action": "updated ATTIDIYA showroom (team: Colombo South MKT)"
     }
   ]
 }
