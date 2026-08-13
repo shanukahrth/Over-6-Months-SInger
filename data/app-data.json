@@ -3352,6 +3352,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:12:40",
       "lastUpdated": "2026-08-13T17:42:40.335Z"
+    },
+    "SIN-RFC-1819||KADUGANNAWA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:12:44",
+      "lastUpdated": "2026-08-13T17:42:44.216Z"
     }
   },
   "showroomVisits": {
@@ -3485,6 +3492,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:12:44",
+      "iso": "2026-08-13T17:42:44.217Z",
+      "action": "updated remark for SIN-RFC-1819 at KADUGANNAWA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3827,13 +3841,6 @@
       "time": "23:04:40",
       "iso": "2026-08-13T17:34:40.159Z",
       "action": "updated remark for NEXT-K9-85 at MAWANELLA: “Return to Microchip”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:04:36",
-      "iso": "2026-08-13T17:34:36.782Z",
-      "action": "updated remark for MCT-302N-4 at MAWANELLA: “Return to Microchip”"
     }
   ]
 }
