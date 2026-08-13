@@ -2577,11 +2577,11 @@
       "lastUpdated": "2026-08-13T17:21:39.335Z"
     },
     "SVX6008||MAWANELLA": {
-      "remark": "80% - Location Transfer",
+      "remark": "80% - Location Transfer (Damaged)",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-13",
-      "commentTime": "22:51:54",
-      "lastUpdated": "2026-08-13T17:21:54.841Z"
+      "commentTime": "22:52:00",
+      "lastUpdated": "2026-08-13T17:22:00.670Z"
     }
   },
   "showroomVisits": {
@@ -2715,6 +2715,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:52:00",
+      "iso": "2026-08-13T17:22:00.670Z",
+      "action": "updated remark for SVX6008 at MAWANELLA: “80% - Location Transfer (Damaged)”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3057,13 +3064,6 @@
       "time": "22:41:00",
       "iso": "2026-08-13T17:11:00.784Z",
       "action": "updated remark for HON-PAD-X7-4-128 at MAWANELLA - B: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:40:29",
-      "iso": "2026-08-13T17:10:29.164Z",
-      "action": "updated remark for SIN-RFC-2058 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
