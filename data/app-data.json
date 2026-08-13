@@ -2055,8 +2055,8 @@
       "remark": "Salable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-13",
-      "commentTime": "22:30:24",
-      "lastUpdated": "2026-08-13T17:00:24.504Z"
+      "commentTime": "22:30:28",
+      "lastUpdated": "2026-08-13T17:00:28.312Z"
     }
   },
   "showroomVisits": {
@@ -2190,6 +2190,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:30:28",
+      "iso": "2026-08-13T17:00:28.312Z",
+      "action": "updated remark for PF-ENVISION-BL-S at MAWANELLA - B: “Salable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2532,13 +2539,6 @@
       "time": "11:53:55",
       "iso": "2026-08-13T06:23:55.036Z",
       "action": "updated MAWANELLA showroom (team: Team - Central)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "11:53:51",
-      "iso": "2026-08-13T06:23:51.441Z",
-      "action": "updated MAWANELLA - B showroom (team: Team - Central )"
     }
   ]
 }
