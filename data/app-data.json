@@ -1546,6 +1546,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:11:37",
       "lastUpdated": "2026-08-13T05:41:37.089Z"
+    },
+    "SRS-XG500||PILIYANDALA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:12:35",
+      "lastUpdated": "2026-08-13T05:42:35.015Z"
     }
   },
   "showroomVisits": {
@@ -1631,6 +1638,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:12:35",
+      "iso": "2026-08-13T05:42:35.017Z",
+      "action": "updated remark for SRS-XG500 at PILIYANDALA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -1973,13 +1987,6 @@
       "time": "15:29:56",
       "iso": "2026-08-12T09:59:56.700Z",
       "action": "updated remark for B-FSGT62111DSL at MORATUWA - B: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:29:19",
-      "iso": "2026-08-12T09:59:19.533Z",
-      "action": "updated remark for SLE55GENR at MORATUWA - B: “In shop. No discounts allocated”"
     }
   ]
 }
