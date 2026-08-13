@@ -2974,6 +2974,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:03:44",
       "lastUpdated": "2026-08-13T17:33:44.518Z"
+    },
+    "DH-A-B1A21P-36B||MAWANELLA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:04:02",
+      "lastUpdated": "2026-08-13T17:34:02.694Z"
     }
   },
   "showroomVisits": {
@@ -3107,6 +3114,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:04:02",
+      "iso": "2026-08-13T17:34:02.695Z",
+      "action": "updated remark for DH-A-B1A21P-36B at MAWANELLA: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3449,13 +3463,6 @@
       "time": "22:53:37",
       "iso": "2026-08-13T17:23:37.530Z",
       "action": "updated remark for WFL-SPM-72X48X8-S at MAWANELLA: “Exchange - Location Transfer”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:53:20",
-      "iso": "2026-08-13T17:23:20.239Z",
-      "action": "updated remark for WFL-CRYSTAL-DT-S at MAWANELLA: “60%”"
     }
   ]
 }
