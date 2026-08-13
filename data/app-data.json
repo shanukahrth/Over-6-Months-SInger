@@ -2561,6 +2561,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:51:25",
       "lastUpdated": "2026-08-13T17:21:25.050Z"
+    },
+    "MAS-VU3BWJ||MAWANELLA": {
+      "remark": "70% - Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:51:32",
+      "lastUpdated": "2026-08-13T17:21:32.518Z"
     }
   },
   "showroomVisits": {
@@ -2694,6 +2701,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:51:32",
+      "iso": "2026-08-13T17:21:32.519Z",
+      "action": "updated remark for MAS-VU3BWJ at MAWANELLA: “70% - Shop use”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3036,13 +3050,6 @@
       "time": "22:40:25",
       "iso": "2026-08-13T17:10:25.681Z",
       "action": "updated remark for SIN-RFC-2012 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:40:24",
-      "iso": "2026-08-13T17:10:24.571Z",
-      "action": "updated remark for SIN-RFC-1819 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
