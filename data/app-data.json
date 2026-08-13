@@ -1674,11 +1674,11 @@
       "lastUpdated": "2026-08-13T05:55:08.587Z"
     },
     "SLE-55IFPD||PILIYANDALA": {
-      "remark": "uP TO 70&",
+      "remark": "Up to 70&",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-13",
-      "commentTime": "11:26:39",
-      "lastUpdated": "2026-08-13T05:56:39.129Z"
+      "commentTime": "11:26:45",
+      "lastUpdated": "2026-08-13T05:56:45.757Z"
     }
   },
   "showroomVisits": {
@@ -1764,6 +1764,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:26:45",
+      "iso": "2026-08-13T05:56:45.759Z",
+      "action": "updated remark for SLE-55IFPD at PILIYANDALA: “Up to 70&”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2106,13 +2113,6 @@
       "time": "15:39:10",
       "iso": "2026-08-12T10:09:10.466Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at MORATUWA - B: “Up to 70%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:39:03",
-      "iso": "2026-08-12T10:09:03.021Z",
-      "action": "updated remark for LG-002 at MORATUWA - B: “In shop. No discounts allocated”"
     }
   ]
 }
