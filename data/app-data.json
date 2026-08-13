@@ -1945,6 +1945,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:25:02",
       "lastUpdated": "2026-08-13T16:55:02.164Z"
+    },
+    "DELL-3583-PQC-W10-BLK||MAWANELLA - B": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:26:53",
+      "lastUpdated": "2026-08-13T16:56:53.392Z"
     }
   },
   "showroomVisits": {
@@ -2078,6 +2085,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:26:53",
+      "iso": "2026-08-13T16:56:53.392Z",
+      "action": "updated remark for DELL-3583-PQC-W10-BLK at MAWANELLA - B: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2420,13 +2434,6 @@
       "time": "11:40:09",
       "iso": "2026-08-13T06:10:09.843Z",
       "action": "updated remark for PN-TH-32M402N at PILIYANDALA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:39:54",
-      "iso": "2026-08-13T06:09:54.917Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at PILIYANDALA: “Up to 50%”"
     }
   ]
 }
