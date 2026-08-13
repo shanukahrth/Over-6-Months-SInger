@@ -1672,6 +1672,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:25:08",
       "lastUpdated": "2026-08-13T05:55:08.587Z"
+    },
+    "SLE-55IFPD||PILIYANDALA": {
+      "remark": "uP TO 70&",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:26:39",
+      "lastUpdated": "2026-08-13T05:56:39.129Z"
     }
   },
   "showroomVisits": {
@@ -1757,6 +1764,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:26:39",
+      "iso": "2026-08-13T05:56:39.131Z",
+      "action": "updated remark for SLE-55IFPD at PILIYANDALA: “uP TO 70&”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2099,13 +2113,6 @@
       "time": "15:39:03",
       "iso": "2026-08-12T10:09:03.021Z",
       "action": "updated remark for LG-002 at MORATUWA - B: “In shop. No discounts allocated”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:38:26",
-      "iso": "2026-08-12T10:08:26.688Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at MORATUWA - B: “Damage”"
     }
   ]
 }
