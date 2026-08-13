@@ -2890,6 +2890,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:01:17",
       "lastUpdated": "2026-08-13T17:31:17.934Z"
+    },
+    "HU-SECURITY||MAWANELLA": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:01:21",
+      "lastUpdated": "2026-08-13T17:31:21.590Z"
     }
   },
   "showroomVisits": {
@@ -3023,6 +3030,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:01:21",
+      "iso": "2026-08-13T17:31:21.590Z",
+      "action": "updated remark for HU-SECURITY at MAWANELLA: “Shop use”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3365,13 +3379,6 @@
       "time": "22:51:32",
       "iso": "2026-08-13T17:21:32.519Z",
       "action": "updated remark for MAS-VU3BWJ at MAWANELLA: “70% - Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:51:25",
-      "iso": "2026-08-13T17:21:25.051Z",
-      "action": "updated remark for SAS24TCNR at MAWANELLA: “To be reported”"
     }
   ]
 }
