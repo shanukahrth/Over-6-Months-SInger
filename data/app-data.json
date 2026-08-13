@@ -1946,9 +1946,24 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-13"
+    },
+    "PILIMATHALAWA||KANDY": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-13"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "16:50:51",
+      "iso": "2026-08-13T11:20:51.774Z",
+      "action": "updated PILIMATHALAWA showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2291,13 +2306,6 @@
       "time": "11:23:57",
       "iso": "2026-08-13T05:53:57.323Z",
       "action": "updated remark for SIN-RFC-1819 at PILIYANDALA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:23:10",
-      "iso": "2026-08-13T05:53:10.517Z",
-      "action": "updated remark for SIN-PR-K340 at PILIYANDALA: “Additional 15%”"
     }
   ]
 }
