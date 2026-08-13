@@ -2757,6 +2757,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:57:13",
       "lastUpdated": "2026-08-13T17:27:13.430Z"
+    },
+    "TF-FP24-SCR342||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:58:06",
+      "lastUpdated": "2026-08-13T17:28:06.631Z"
     }
   },
   "showroomVisits": {
@@ -2890,6 +2897,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:58:06",
+      "iso": "2026-08-13T17:28:06.632Z",
+      "action": "updated remark for TF-FP24-SCR342 at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3232,13 +3246,6 @@
       "time": "22:48:16",
       "iso": "2026-08-13T17:18:16.175Z",
       "action": "updated remark for PN-TH-75MX740N at MAWANELLA - B: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:47:59",
-      "iso": "2026-08-13T17:17:59.111Z",
-      "action": "updated remark for PN-TH-32M401N at MAWANELLA - B: “35%”"
     }
   ]
 }
