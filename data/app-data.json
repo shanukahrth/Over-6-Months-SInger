@@ -2477,6 +2477,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:48:46",
       "lastUpdated": "2026-08-13T17:18:46.871Z"
+    },
+    "SLE32E930||MAWANELLA - B": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:48:53",
+      "lastUpdated": "2026-08-13T17:18:53.855Z"
     }
   },
   "showroomVisits": {
@@ -2610,6 +2617,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:48:53",
+      "iso": "2026-08-13T17:18:53.855Z",
+      "action": "updated remark for SLE32E930 at MAWANELLA - B: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2952,13 +2966,6 @@
       "time": "22:33:45",
       "iso": "2026-08-13T17:03:45.476Z",
       "action": "updated remark for KN-MOM70 at MAWANELLA - B: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:33:33",
-      "iso": "2026-08-13T17:03:33.475Z",
-      "action": "updated remark for MID-MF-TN40D2 at MAWANELLA - B: “Reported”"
     }
   ]
 }
