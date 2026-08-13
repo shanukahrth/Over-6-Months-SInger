@@ -2876,6 +2876,20 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:01:10",
       "lastUpdated": "2026-08-13T17:31:10.519Z"
+    },
+    "SIN-RFC-1819||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:01:13",
+      "lastUpdated": "2026-08-13T17:31:13.478Z"
+    },
+    "SIN-RFC-2058||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:01:15",
+      "lastUpdated": "2026-08-13T17:31:15.486Z"
     }
   },
   "showroomVisits": {
@@ -3009,6 +3023,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:01:15",
+      "iso": "2026-08-13T17:31:15.487Z",
+      "action": "updated remark for SIN-RFC-2058 at MAWANELLA: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:01:13",
+      "iso": "2026-08-13T17:31:13.479Z",
+      "action": "updated remark for SIN-RFC-1819 at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3344,20 +3372,6 @@
       "time": "22:50:43",
       "iso": "2026-08-13T17:20:43.175Z",
       "action": "updated remark for WP-JUN-E-S at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:50:36",
-      "iso": "2026-08-13T17:20:36.768Z",
-      "action": "updated remark for MID-D30-20EVN1 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:50:33",
-      "iso": "2026-08-13T17:20:33.823Z",
-      "action": "updated remark for SL-WF-15 at MAWANELLA - B: “Damaged”"
     }
   ]
 }
