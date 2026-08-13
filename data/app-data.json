@@ -1849,11 +1849,11 @@
       "lastUpdated": "2026-08-13T16:44:56.249Z"
     },
     "PN-CS-XU12XKYW-8||MAWANELLA - B": {
-      "remark": "Damaged - Service Centre contacted",
+      "remark": "Active Product",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-13",
-      "commentTime": "22:15:30",
-      "lastUpdated": "2026-08-13T16:45:30.997Z"
+      "commentTime": "22:15:51",
+      "lastUpdated": "2026-08-13T16:45:51.524Z"
     }
   },
   "showroomVisits": {
@@ -1987,6 +1987,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:15:51",
+      "iso": "2026-08-13T16:45:51.525Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at MAWANELLA - B: “Active Product”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2329,13 +2336,6 @@
       "time": "11:30:13",
       "iso": "2026-08-13T06:00:13.821Z",
       "action": "updated remark for RCS-04 at PILIYANDALA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:29:53",
-      "iso": "2026-08-13T05:59:53.304Z",
-      "action": "updated remark for R-BWS-02 at PILIYANDALA: “Additional 30%”"
     }
   ]
 }
