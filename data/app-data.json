@@ -2400,6 +2400,27 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:47:20",
       "lastUpdated": "2026-08-13T17:17:20.231Z"
+    },
+    "AES-HAV-30S||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:47:24",
+      "lastUpdated": "2026-08-13T17:17:24.999Z"
+    },
+    "AES-HAV-615T||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:47:26",
+      "lastUpdated": "2026-08-13T17:17:26.295Z"
+    },
+    "AVERY-300KG||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:47:28",
+      "lastUpdated": "2026-08-13T17:17:28.375Z"
     }
   },
   "showroomVisits": {
@@ -2533,6 +2554,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:47:28",
+      "iso": "2026-08-13T17:17:28.375Z",
+      "action": "updated remark for AVERY-300KG at MAWANELLA - B: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:47:26",
+      "iso": "2026-08-13T17:17:26.296Z",
+      "action": "updated remark for AES-HAV-615T at MAWANELLA - B: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:47:24",
+      "iso": "2026-08-13T17:17:24.999Z",
+      "action": "updated remark for AES-HAV-30S at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2861,27 +2903,6 @@
       "time": "22:32:28",
       "iso": "2026-08-13T17:02:28.667Z",
       "action": "updated remark for BRC-COOKPAN28 at MAWANELLA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:32:23",
-      "iso": "2026-08-13T17:02:23.706Z",
-      "action": "updated remark for USI-ATC-302 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:32:21",
-      "iso": "2026-08-13T17:02:21.443Z",
-      "action": "updated remark for USI-ATC-302 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:32:17",
-      "iso": "2026-08-13T17:02:17.280Z",
-      "action": "updated remark for SIN-MRG-1008C at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
