@@ -2568,6 +2568,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:51:32",
       "lastUpdated": "2026-08-13T17:21:32.518Z"
+    },
+    "MHC-M40D||MAWANELLA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:51:39",
+      "lastUpdated": "2026-08-13T17:21:39.335Z"
     }
   },
   "showroomVisits": {
@@ -2701,6 +2708,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:51:39",
+      "iso": "2026-08-13T17:21:39.336Z",
+      "action": "updated remark for MHC-M40D at MAWANELLA: “70%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3043,13 +3057,6 @@
       "time": "22:40:27",
       "iso": "2026-08-13T17:10:27.961Z",
       "action": "updated remark for SIN-RFC-2058 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:40:25",
-      "iso": "2026-08-13T17:10:25.681Z",
-      "action": "updated remark for SIN-RFC-2012 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
