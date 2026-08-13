@@ -1926,7 +1926,7 @@
     "MAWANELLA||KANDY": {
       "visited": "Yes",
       "visitDate": "2026-08-13",
-      "team": "Team - Rashmi",
+      "team": "Team - Central",
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-13"
@@ -1941,6 +1941,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "11:53:55",
+      "iso": "2026-08-13T06:23:55.036Z",
+      "action": "updated MAWANELLA showroom (team: Team - Central)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2283,13 +2290,6 @@
       "time": "11:19:35",
       "iso": "2026-08-13T05:49:35.082Z",
       "action": "updated remark for SMGUA32N4010 at PILIYANDALA (cleared)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:19:24",
-      "iso": "2026-08-13T05:49:24.502Z",
-      "action": "updated remark for SMGUA32N4010 at PILIYANDALA: “MOP 20,000”"
     }
   ]
 }
