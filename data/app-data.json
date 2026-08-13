@@ -1821,11 +1821,11 @@
       "lastUpdated": "2026-08-13T06:11:55.407Z"
     },
     "LF-CT-S||PILIYANDALA": {
-      "remark": "Up to 50%",
+      "remark": "Up to 70%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-13",
-      "commentTime": "11:42:18",
-      "lastUpdated": "2026-08-13T06:12:18.007Z"
+      "commentTime": "11:44:42",
+      "lastUpdated": "2026-08-13T06:14:42.361Z"
     },
     "LF-PODIUM-MWNT-S||PILIYANDALA": {
       "remark": "Up to 50%",
@@ -1918,6 +1918,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:44:42",
+      "iso": "2026-08-13T06:14:42.363Z",
+      "action": "updated remark for LF-CT-S at PILIYANDALA: “Up to 70%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2260,13 +2267,6 @@
       "time": "11:17:39",
       "iso": "2026-08-13T05:47:39.569Z",
       "action": "updated remark for TF-AF32-577 at PILIYANDALA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:15:06",
-      "iso": "2026-08-13T05:45:06.763Z",
-      "action": "updated remark for TCL55V6B at PILIYANDALA: “Up to 50%”"
     }
   ]
 }
