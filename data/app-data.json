@@ -1973,6 +1973,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:27:26",
       "lastUpdated": "2026-08-13T16:57:26.562Z"
+    },
+    "SL-SF1607RC||MAWANELLA - B": {
+      "remark": "50% - Part Missing",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:27:37",
+      "lastUpdated": "2026-08-13T16:57:37.128Z"
     }
   },
   "showroomVisits": {
@@ -2106,6 +2113,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:27:37",
+      "iso": "2026-08-13T16:57:37.129Z",
+      "action": "updated remark for SL-SF1607RC at MAWANELLA - B: “50% - Part Missing”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2448,13 +2462,6 @@
       "time": "11:42:47",
       "iso": "2026-08-13T06:12:47.375Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at PILIYANDALA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:42:33",
-      "iso": "2026-08-13T06:12:33.553Z",
-      "action": "updated remark for LF-MANEL-IC-BON-S at PILIYANDALA: “Up to 50%”"
     }
   ]
 }
