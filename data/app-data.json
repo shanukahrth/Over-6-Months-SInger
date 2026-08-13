@@ -3044,6 +3044,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:04:53",
       "lastUpdated": "2026-08-13T17:34:53.279Z"
+    },
+    "MC8280||MAWANELLA": {
+      "remark": "Damaged - Location transfer",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:05:03",
+      "lastUpdated": "2026-08-13T17:35:03.838Z"
     }
   },
   "showroomVisits": {
@@ -3177,6 +3184,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:05:03",
+      "iso": "2026-08-13T17:35:03.839Z",
+      "action": "updated remark for MC8280 at MAWANELLA: “Damaged - Location transfer”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3519,13 +3533,6 @@
       "time": "22:55:57",
       "iso": "2026-08-13T17:25:57.626Z",
       "action": "updated remark for PHHTS3531 at MAWANELLA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:55:52",
-      "iso": "2026-08-13T17:25:52.672Z",
-      "action": "updated remark for WF-MILAN-BR-S at MAWANELLA: “60%”"
     }
   ]
 }
