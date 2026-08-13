@@ -3114,6 +3114,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:07:00",
       "lastUpdated": "2026-08-13T17:37:00.494Z"
+    },
+    "SLE32E910||MAWANELLA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:07:08",
+      "lastUpdated": "2026-08-13T17:37:08.383Z"
     }
   },
   "showroomVisits": {
@@ -3247,6 +3254,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:07:08",
+      "iso": "2026-08-13T17:37:08.383Z",
+      "action": "updated remark for SLE32E910 at MAWANELLA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3589,13 +3603,6 @@
       "time": "22:58:42",
       "iso": "2026-08-13T17:28:42.002Z",
       "action": "updated remark for TF-NIGP26-119 at MAWANELLA: “Additional 30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:58:19",
-      "iso": "2026-08-13T17:28:19.305Z",
-      "action": "updated remark for TF-NIFP28-042 at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
