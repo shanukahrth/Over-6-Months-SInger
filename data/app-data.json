@@ -3401,6 +3401,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:13:43",
       "lastUpdated": "2026-08-13T17:43:43.064Z"
+    },
+    "SIN-PR-K340||KADUGANNAWA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:13:58",
+      "lastUpdated": "2026-08-13T17:43:58.494Z"
     }
   },
   "showroomVisits": {
@@ -3534,6 +3541,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:13:58",
+      "iso": "2026-08-13T17:43:58.494Z",
+      "action": "updated remark for SIN-PR-K340 at KADUGANNAWA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3876,13 +3890,6 @@
       "time": "23:05:25",
       "iso": "2026-08-13T17:35:25.623Z",
       "action": "updated remark for KDL-43W660G at MAWANELLA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:05:20",
-      "iso": "2026-08-13T17:35:20.559Z",
-      "action": "updated remark for SIN-PR-K340 at MAWANELLA: “Salable at existing Price”"
     }
   ]
 }
