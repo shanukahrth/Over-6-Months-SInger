@@ -1591,9 +1591,24 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-12"
+    },
+    "ATTIDIYA||PANADURA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-13"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "10:50:23",
+      "iso": "2026-08-13T05:20:23.759Z",
+      "action": "updated ATTIDIYA showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-12",
@@ -1936,13 +1951,6 @@
       "time": "14:52:08",
       "iso": "2026-08-12T09:22:08.365Z",
       "action": "updated MORATUWA - B showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-12",
-      "time": "14:11:16",
-      "iso": "2026-08-12T08:41:16.841Z",
-      "action": "updated remark for MB-SAFARI4S-RED at GELIOYA (cleared)"
     }
   ]
 }
