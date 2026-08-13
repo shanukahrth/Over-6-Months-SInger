@@ -2897,6 +2897,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:01:21",
       "lastUpdated": "2026-08-13T17:31:21.590Z"
+    },
+    "HON-H90LITE-8-256-BLK||MAWANELLA": {
+      "remark": "75%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:01:35",
+      "lastUpdated": "2026-08-13T17:31:35.815Z"
     }
   },
   "showroomVisits": {
@@ -3030,6 +3037,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:01:35",
+      "iso": "2026-08-13T17:31:35.815Z",
+      "action": "updated remark for HON-H90LITE-8-256-BLK at MAWANELLA: “75%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3372,13 +3386,6 @@
       "time": "22:51:39",
       "iso": "2026-08-13T17:21:39.336Z",
       "action": "updated remark for MHC-M40D at MAWANELLA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:51:32",
-      "iso": "2026-08-13T17:21:32.519Z",
-      "action": "updated remark for MAS-VU3BWJ at MAWANELLA: “70% - Shop use”"
     }
   ]
 }
