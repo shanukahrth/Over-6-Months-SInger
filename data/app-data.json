@@ -1588,6 +1588,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:17:53",
       "lastUpdated": "2026-08-13T05:47:53.480Z"
+    },
+    "TF-FP24-SCR342||PILIYANDALA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:17:57",
+      "lastUpdated": "2026-08-13T05:47:57.157Z"
     }
   },
   "showroomVisits": {
@@ -1673,6 +1680,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:17:57",
+      "iso": "2026-08-13T05:47:57.159Z",
+      "action": "updated remark for TF-FP24-SCR342 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2015,13 +2029,6 @@
       "time": "15:33:38",
       "iso": "2026-08-12T10:03:38.367Z",
       "action": "updated remark for SL-ECO192-TG at MORATUWA - B: “Up to 25%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:33:24",
-      "iso": "2026-08-12T10:03:24.997Z",
-      "action": "updated remark for GEO-SM-265NF at MORATUWA - B: “Exchange”"
     }
   ]
 }
