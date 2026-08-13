@@ -2554,6 +2554,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:50:43",
       "lastUpdated": "2026-08-13T17:20:43.175Z"
+    },
+    "SAS24TCNR||MAWANELLA": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:51:25",
+      "lastUpdated": "2026-08-13T17:21:25.050Z"
     }
   },
   "showroomVisits": {
@@ -2687,6 +2694,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:51:25",
+      "iso": "2026-08-13T17:21:25.051Z",
+      "action": "updated remark for SAS24TCNR at MAWANELLA: “To be reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3028,13 +3042,6 @@
       "date": "2026-08-13",
       "time": "22:40:24",
       "iso": "2026-08-13T17:10:24.571Z",
-      "action": "updated remark for SIN-RFC-1819 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:40:23",
-      "iso": "2026-08-13T17:10:23.171Z",
       "action": "updated remark for SIN-RFC-1819 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
