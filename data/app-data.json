@@ -2575,6 +2575,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:51:39",
       "lastUpdated": "2026-08-13T17:21:39.335Z"
+    },
+    "SVX6008||MAWANELLA": {
+      "remark": "80% - Location Transfer",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:51:54",
+      "lastUpdated": "2026-08-13T17:21:54.841Z"
     }
   },
   "showroomVisits": {
@@ -2708,6 +2715,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:51:54",
+      "iso": "2026-08-13T17:21:54.842Z",
+      "action": "updated remark for SVX6008 at MAWANELLA: “80% - Location Transfer”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3049,13 +3063,6 @@
       "date": "2026-08-13",
       "time": "22:40:29",
       "iso": "2026-08-13T17:10:29.164Z",
-      "action": "updated remark for SIN-RFC-2058 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:40:27",
-      "iso": "2026-08-13T17:10:27.961Z",
       "action": "updated remark for SIN-RFC-2058 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
