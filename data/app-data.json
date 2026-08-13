@@ -2631,6 +2631,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:53:08",
       "lastUpdated": "2026-08-13T17:23:08.949Z"
+    },
+    "WFL-CRYSTAL-DT-S||MAWANELLA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:53:20",
+      "lastUpdated": "2026-08-13T17:23:20.239Z"
     }
   },
   "showroomVisits": {
@@ -2764,6 +2771,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:53:20",
+      "iso": "2026-08-13T17:23:20.239Z",
+      "action": "updated remark for WFL-CRYSTAL-DT-S at MAWANELLA: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3106,13 +3120,6 @@
       "time": "22:43:46",
       "iso": "2026-08-13T17:13:46.994Z",
       "action": "updated remark for HON-H90LITE-8-256-CYAN at MAWANELLA - B: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:42:46",
-      "iso": "2026-08-13T17:12:46.233Z",
-      "action": "updated remark for HON-H200SMART-8-256-WHT at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
