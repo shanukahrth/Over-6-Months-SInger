@@ -2701,6 +2701,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:55:46",
       "lastUpdated": "2026-08-13T17:25:46.848Z"
+    },
+    "WF-MILAN-BR-S||MAWANELLA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:55:52",
+      "lastUpdated": "2026-08-13T17:25:52.672Z"
     }
   },
   "showroomVisits": {
@@ -2834,6 +2841,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:55:52",
+      "iso": "2026-08-13T17:25:52.672Z",
+      "action": "updated remark for WF-MILAN-BR-S at MAWANELLA: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3176,13 +3190,6 @@
       "time": "22:47:15",
       "iso": "2026-08-13T17:17:15.375Z",
       "action": "updated remark for GEO-242D-SV at MAWANELLA - B: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:47:09",
-      "iso": "2026-08-13T17:17:09.464Z",
-      "action": "updated remark for CAN-L-LBP6030 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
