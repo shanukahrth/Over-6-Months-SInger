@@ -3219,6 +3219,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:09:53",
       "lastUpdated": "2026-08-13T17:39:53.346Z"
+    },
+    "FAN-P-MSF160||KADUGANNAWA": {
+      "remark": "Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:10:01",
+      "lastUpdated": "2026-08-13T17:40:01.645Z"
     }
   },
   "showroomVisits": {
@@ -3352,6 +3359,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:10:01",
+      "iso": "2026-08-13T17:40:01.646Z",
+      "action": "updated remark for FAN-P-MSF160 at KADUGANNAWA: “Damage”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3693,13 +3707,6 @@
       "date": "2026-08-13",
       "time": "23:01:17",
       "iso": "2026-08-13T17:31:17.934Z",
-      "action": "updated remark for SIN-RFC-2058 at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:15",
-      "iso": "2026-08-13T17:31:15.487Z",
       "action": "updated remark for SIN-RFC-2058 at MAWANELLA: “Salable at Existing Price”"
     }
   ]
