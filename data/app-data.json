@@ -2673,6 +2673,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:55:00",
       "lastUpdated": "2026-08-13T17:25:00.887Z"
+    },
+    "LF-ECO-SD-WNG-S||MAWANELLA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:55:20",
+      "lastUpdated": "2026-08-13T17:25:20.409Z"
     }
   },
   "showroomVisits": {
@@ -2806,6 +2813,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:55:20",
+      "iso": "2026-08-13T17:25:20.410Z",
+      "action": "updated remark for LF-ECO-SD-WNG-S at MAWANELLA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3148,13 +3162,6 @@
       "time": "22:44:54",
       "iso": "2026-08-13T17:14:54.679Z",
       "action": "updated remark for HON-X9CSMART-12-256-CYAN at MAWANELLA - B: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:44:51",
-      "iso": "2026-08-13T17:14:51.697Z",
-      "action": "updated remark for HON-X9CSMART-12-256-BLK at MAWANELLA - B: “25%”"
     }
   ]
 }
