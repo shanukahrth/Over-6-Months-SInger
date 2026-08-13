@@ -2729,6 +2729,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:56:10",
       "lastUpdated": "2026-08-13T17:26:10.928Z"
+    },
+    "SIN-MRG-1008C||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:56:15",
+      "lastUpdated": "2026-08-13T17:26:15.431Z"
     }
   },
   "showroomVisits": {
@@ -2862,6 +2869,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:56:15",
+      "iso": "2026-08-13T17:26:15.431Z",
+      "action": "updated remark for SIN-MRG-1008C at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3204,13 +3218,6 @@
       "time": "22:47:28",
       "iso": "2026-08-13T17:17:28.375Z",
       "action": "updated remark for AVERY-300KG at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:47:26",
-      "iso": "2026-08-13T17:17:26.296Z",
-      "action": "updated remark for AES-HAV-615T at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
