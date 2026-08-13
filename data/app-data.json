@@ -3009,6 +3009,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:04:30",
       "lastUpdated": "2026-08-13T17:34:30.599Z"
+    },
+    "MCT-302N-4||MAWANELLA": {
+      "remark": "Return to Microchip",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:04:36",
+      "lastUpdated": "2026-08-13T17:34:36.782Z"
     }
   },
   "showroomVisits": {
@@ -3142,6 +3149,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:04:36",
+      "iso": "2026-08-13T17:34:36.782Z",
+      "action": "updated remark for MCT-302N-4 at MAWANELLA: “Return to Microchip”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3484,13 +3498,6 @@
       "time": "22:55:20",
       "iso": "2026-08-13T17:25:20.410Z",
       "action": "updated remark for LF-ECO-SD-WNG-S at MAWANELLA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:55:00",
-      "iso": "2026-08-13T17:25:00.888Z",
-      "action": "updated remark for WF-DOC-T011-BU-S at MAWANELLA: “Additional 10%”"
     }
   ]
 }
