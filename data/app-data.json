@@ -2995,6 +2995,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:04:22",
       "lastUpdated": "2026-08-13T17:34:22.510Z"
+    },
+    "MCS-730-4||MAWANELLA": {
+      "remark": "Return to Microchip",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:04:26",
+      "lastUpdated": "2026-08-13T17:34:26.982Z"
     }
   },
   "showroomVisits": {
@@ -3128,6 +3135,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:04:26",
+      "iso": "2026-08-13T17:34:26.982Z",
+      "action": "updated remark for MCS-730-4 at MAWANELLA: “Return to Microchip”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3470,13 +3484,6 @@
       "time": "22:54:14",
       "iso": "2026-08-13T17:24:14.639Z",
       "action": "updated remark for WFL-SPM-78X60X8-S at MAWANELLA: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:54:04",
-      "iso": "2026-08-13T17:24:04.719Z",
-      "action": "updated remark for WFL-SPM-75X72X7-S at MAWANELLA: “To be reported”"
     }
   ]
 }
