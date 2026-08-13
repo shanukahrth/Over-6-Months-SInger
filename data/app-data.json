@@ -3310,6 +3310,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:12:11",
       "lastUpdated": "2026-08-13T17:42:11.702Z"
+    },
+    "GLRC-2201||KADUGANNAWA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:12:18",
+      "lastUpdated": "2026-08-13T17:42:18.265Z"
     }
   },
   "showroomVisits": {
@@ -3443,6 +3450,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:12:18",
+      "iso": "2026-08-13T17:42:18.266Z",
+      "action": "updated remark for GLRC-2201 at KADUGANNAWA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3785,13 +3799,6 @@
       "time": "23:04:02",
       "iso": "2026-08-13T17:34:02.695Z",
       "action": "updated remark for DH-A-B1A21P-36B at MAWANELLA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:03:44",
-      "iso": "2026-08-13T17:33:44.519Z",
-      "action": "updated remark for SL-ECO72 at MAWANELLA: “80%”"
     }
   ]
 }
