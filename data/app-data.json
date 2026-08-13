@@ -2456,6 +2456,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:48:25",
       "lastUpdated": "2026-08-13T17:18:25.738Z"
+    },
+    "SLE32D5000||MAWANELLA - B": {
+      "remark": "Revert Repriced",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:48:35",
+      "lastUpdated": "2026-08-13T17:18:35.935Z"
     }
   },
   "showroomVisits": {
@@ -2589,6 +2596,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:48:35",
+      "iso": "2026-08-13T17:18:35.935Z",
+      "action": "updated remark for SLE32D5000 at MAWANELLA - B: “Revert Repriced”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2931,13 +2945,6 @@
       "time": "22:33:09",
       "iso": "2026-08-13T17:03:09.248Z",
       "action": "updated remark for NCPO-DC200 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:33:04",
-      "iso": "2026-08-13T17:03:04.929Z",
-      "action": "updated remark for NCPDG-SET3 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
