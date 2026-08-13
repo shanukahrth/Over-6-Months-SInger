@@ -1560,6 +1560,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:12:51",
       "lastUpdated": "2026-08-13T05:42:51.988Z"
+    },
+    "SRS-XV500||PILIYANDALA": {
+      "remark": "Up to 40%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:12:54",
+      "lastUpdated": "2026-08-13T05:42:54.895Z"
     }
   },
   "showroomVisits": {
@@ -1645,6 +1652,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:12:54",
+      "iso": "2026-08-13T05:42:54.897Z",
+      "action": "updated remark for SRS-XV500 at PILIYANDALA: “Up to 40%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -1987,13 +2001,6 @@
       "time": "15:32:24",
       "iso": "2026-08-12T10:02:24.666Z",
       "action": "updated remark for SMGUA43T5400 at MORATUWA - B: “Up to 70%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:30:40",
-      "iso": "2026-08-12T10:00:40.711Z",
-      "action": "updated remark for MHC-M60D at MORATUWA - B: “Up to 70%”"
     }
   ]
 }
