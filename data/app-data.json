@@ -3373,6 +3373,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:13:05",
       "lastUpdated": "2026-08-13T17:43:05.869Z"
+    },
+    "HON-X5B-4-64-BLU||KADUGANNAWA": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:13:11",
+      "lastUpdated": "2026-08-13T17:43:11.685Z"
     }
   },
   "showroomVisits": {
@@ -3506,6 +3513,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:13:11",
+      "iso": "2026-08-13T17:43:11.685Z",
+      "action": "updated remark for HON-X5B-4-64-BLU at KADUGANNAWA: “Damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3848,13 +3862,6 @@
       "time": "23:04:53",
       "iso": "2026-08-13T17:34:53.280Z",
       "action": "updated remark for SA200 at MAWANELLA: “Return to Microchip”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:04:49",
-      "iso": "2026-08-13T17:34:49.903Z",
-      "action": "updated remark for PM-OS-BAT at MAWANELLA: “Return to Microchip”"
     }
   ]
 }
