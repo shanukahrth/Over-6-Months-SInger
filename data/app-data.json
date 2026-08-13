@@ -1784,6 +1784,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:38:26",
       "lastUpdated": "2026-08-13T06:08:26.648Z"
+    },
+    "PN-CS-XU12XKYW-8||PILIYANDALA": {
+      "remark": "Up to 60%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:38:43",
+      "lastUpdated": "2026-08-13T06:08:43.058Z"
     }
   },
   "showroomVisits": {
@@ -1869,6 +1876,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:38:43",
+      "iso": "2026-08-13T06:08:43.063Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at PILIYANDALA: “Up to 60%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2211,13 +2225,6 @@
       "time": "10:50:26",
       "iso": "2026-08-13T05:20:26.720Z",
       "action": "updated ATTIDIYA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "10:50:23",
-      "iso": "2026-08-13T05:20:23.759Z",
-      "action": "updated ATTIDIYA showroom (visited: Yes)"
     }
   ]
 }
