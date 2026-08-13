@@ -3030,6 +3030,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:04:45",
       "lastUpdated": "2026-08-13T17:34:45.534Z"
+    },
+    "PM-OS-BAT||MAWANELLA": {
+      "remark": "Return to Microchip",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:04:49",
+      "lastUpdated": "2026-08-13T17:34:49.902Z"
     }
   },
   "showroomVisits": {
@@ -3163,6 +3170,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:04:49",
+      "iso": "2026-08-13T17:34:49.903Z",
+      "action": "updated remark for PM-OS-BAT at MAWANELLA: “Return to Microchip”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3505,13 +3519,6 @@
       "time": "22:55:46",
       "iso": "2026-08-13T17:25:46.848Z",
       "action": "updated remark for PF-MONDY-RED at MAWANELLA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:55:40",
-      "iso": "2026-08-13T17:25:40.618Z",
-      "action": "updated remark for PF-SUMO-ST-NKL-BU-S at MAWANELLA: “Additional 10%”"
     }
   ]
 }
