@@ -1835,11 +1835,11 @@
       "lastUpdated": "2026-08-13T06:12:33.552Z"
     },
     "LF-PODIUM-MWNT-S||PILIYANDALA": {
-      "remark": "Up tp 50%",
+      "remark": "Up to 50%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-13",
-      "commentTime": "11:42:50",
-      "lastUpdated": "2026-08-13T06:12:50.458Z"
+      "commentTime": "11:43:20",
+      "lastUpdated": "2026-08-13T06:13:20.324Z"
     }
   },
   "showroomVisits": {
@@ -1925,6 +1925,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:43:20",
+      "iso": "2026-08-13T06:13:20.326Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at PILIYANDALA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2267,13 +2274,6 @@
       "time": "11:12:54",
       "iso": "2026-08-13T05:42:54.897Z",
       "action": "updated remark for SRS-XV500 at PILIYANDALA: “Up to 40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:12:51",
-      "iso": "2026-08-13T05:42:51.990Z",
-      "action": "updated remark for SRS-XV800 at PILIYANDALA: “Up to 40%”"
     }
   ]
 }
