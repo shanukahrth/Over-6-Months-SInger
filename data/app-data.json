@@ -1609,6 +1609,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:18:06",
       "lastUpdated": "2026-08-13T05:48:06.778Z"
+    },
+    "TF-NIDFP24-170||PILIYANDALA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:18:11",
+      "lastUpdated": "2026-08-13T05:48:11.614Z"
     }
   },
   "showroomVisits": {
@@ -1694,6 +1701,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:18:11",
+      "iso": "2026-08-13T05:48:11.615Z",
+      "action": "updated remark for TF-NIDFP24-170 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2036,13 +2050,6 @@
       "time": "15:35:29",
       "iso": "2026-08-12T10:05:29.282Z",
       "action": "updated remark for SMW823AY7 at MORATUWA - B: “In shop. No discounts allocated”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "15:35:08",
-      "iso": "2026-08-12T10:05:08.435Z",
-      "action": "updated remark for GEO-182S-BU1 at MORATUWA - B: “Sold Out”"
     }
   ]
 }
