@@ -3205,6 +3205,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:09:42",
       "lastUpdated": "2026-08-13T17:39:42.673Z"
+    },
+    "SDV3605K||KADUGANNAWA": {
+      "remark": "Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:09:49",
+      "lastUpdated": "2026-08-13T17:39:49.998Z"
     }
   },
   "showroomVisits": {
@@ -3338,6 +3345,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:09:49",
+      "iso": "2026-08-13T17:39:49.999Z",
+      "action": "updated remark for SDV3605K at KADUGANNAWA: “Damage”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3680,13 +3694,6 @@
       "time": "23:01:13",
       "iso": "2026-08-13T17:31:13.479Z",
       "action": "updated remark for SIN-RFC-1819 at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:10",
-      "iso": "2026-08-13T17:31:10.519Z",
-      "action": "updated remark for MB-SAFARI4S-RED at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
