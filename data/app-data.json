@@ -1966,6 +1966,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:27:19",
       "lastUpdated": "2026-08-13T16:57:19.144Z"
+    },
+    "FAN-P-SF1605HR||MAWANELLA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:27:26",
+      "lastUpdated": "2026-08-13T16:57:26.562Z"
     }
   },
   "showroomVisits": {
@@ -2099,6 +2106,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:27:26",
+      "iso": "2026-08-13T16:57:26.562Z",
+      "action": "updated remark for FAN-P-SF1605HR at MAWANELLA - B: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2441,13 +2455,6 @@
       "time": "11:42:33",
       "iso": "2026-08-13T06:12:33.553Z",
       "action": "updated remark for LF-MANEL-IC-BON-S at PILIYANDALA: “Up to 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:42:18",
-      "iso": "2026-08-13T06:12:18.009Z",
-      "action": "updated remark for LF-CT-S at PILIYANDALA: “Up to 50%”"
     }
   ]
 }
