@@ -3387,6 +3387,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:13:19",
       "lastUpdated": "2026-08-13T17:43:19.457Z"
+    },
+    "GEO-242D-SV||KADUGANNAWA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:13:34",
+      "lastUpdated": "2026-08-13T17:43:34.449Z"
     }
   },
   "showroomVisits": {
@@ -3520,6 +3527,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:13:34",
+      "iso": "2026-08-13T17:43:34.450Z",
+      "action": "updated remark for GEO-242D-SV at KADUGANNAWA: “25%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3862,13 +3876,6 @@
       "time": "23:05:10",
       "iso": "2026-08-13T17:35:10.334Z",
       "action": "updated remark for SM-MC3368 at MAWANELLA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:05:03",
-      "iso": "2026-08-13T17:35:03.839Z",
-      "action": "updated remark for MC8280 at MAWANELLA: “Damaged - Location transfer”"
     }
   ]
 }
