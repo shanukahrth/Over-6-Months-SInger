@@ -2953,6 +2953,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:02:42",
       "lastUpdated": "2026-08-13T17:32:42.190Z"
+    },
+    "ZTE-A35-2-64GB-BLK||MAWANELLA": {
+      "remark": "Damaged - Location transfer",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:02:45",
+      "lastUpdated": "2026-08-13T17:32:45.734Z"
     }
   },
   "showroomVisits": {
@@ -3086,6 +3093,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:02:45",
+      "iso": "2026-08-13T17:32:45.735Z",
+      "action": "updated remark for ZTE-A35-2-64GB-BLK at MAWANELLA: “Damaged - Location transfer”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3428,13 +3442,6 @@
       "time": "22:53:02",
       "iso": "2026-08-13T17:23:02.271Z",
       "action": "updated remark for WFL-NOBEL at MAWANELLA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:52:51",
-      "iso": "2026-08-13T17:22:51.393Z",
-      "action": "updated remark for LF-SLVY-BDQ-CLM-S at MAWANELLA: “60%”"
     }
   ]
 }
