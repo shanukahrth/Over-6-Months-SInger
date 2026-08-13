@@ -3142,6 +3142,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:07:31",
       "lastUpdated": "2026-08-13T17:37:31.264Z"
+    },
+    "SLE43F590||MAWANELLA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:07:35",
+      "lastUpdated": "2026-08-13T17:37:35.990Z"
     }
   },
   "showroomVisits": {
@@ -3275,6 +3282,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:07:35",
+      "iso": "2026-08-13T17:37:35.991Z",
+      "action": "updated remark for SLE43F590 at MAWANELLA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3617,13 +3631,6 @@
       "time": "22:59:03",
       "iso": "2026-08-13T17:29:03.559Z",
       "action": "updated remark for MID-MJ-KM6001W at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:58:59",
-      "iso": "2026-08-13T17:28:59.335Z",
-      "action": "updated remark for KN-SMP01 at MAWANELLA: “60%”"
     }
   ]
 }
