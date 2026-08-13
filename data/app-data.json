@@ -3380,6 +3380,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:13:11",
       "lastUpdated": "2026-08-13T17:43:11.685Z"
+    },
+    "R-RGS150-SV||KADUGANNAWA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:13:19",
+      "lastUpdated": "2026-08-13T17:43:19.457Z"
     }
   },
   "showroomVisits": {
@@ -3513,6 +3520,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:13:19",
+      "iso": "2026-08-13T17:43:19.458Z",
+      "action": "updated remark for R-RGS150-SV at KADUGANNAWA: “30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3855,13 +3869,6 @@
       "time": "23:05:03",
       "iso": "2026-08-13T17:35:03.839Z",
       "action": "updated remark for MC8280 at MAWANELLA: “Damaged - Location transfer”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:04:53",
-      "iso": "2026-08-13T17:34:53.280Z",
-      "action": "updated remark for SA200 at MAWANELLA: “Return to Microchip”"
     }
   ]
 }
