@@ -2715,6 +2715,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:55:57",
       "lastUpdated": "2026-08-13T17:25:57.624Z"
+    },
+    "MCZJ9513-G01||MAWANELLA": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:56:05",
+      "lastUpdated": "2026-08-13T17:26:05.255Z"
     }
   },
   "showroomVisits": {
@@ -2848,6 +2855,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:56:05",
+      "iso": "2026-08-13T17:26:05.256Z",
+      "action": "updated remark for MCZJ9513-G01 at MAWANELLA: “To be reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3190,13 +3204,6 @@
       "time": "22:47:24",
       "iso": "2026-08-13T17:17:24.999Z",
       "action": "updated remark for AES-HAV-30S at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:47:20",
-      "iso": "2026-08-13T17:17:20.231Z",
-      "action": "updated remark for SL-ECO192-TG at MAWANELLA - B: “30%”"
     }
   ]
 }
