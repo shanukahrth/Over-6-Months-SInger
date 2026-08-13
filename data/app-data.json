@@ -3317,6 +3317,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:12:18",
       "lastUpdated": "2026-08-13T17:42:18.265Z"
+    },
+    "SL-S203||KADUGANNAWA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:12:23",
+      "lastUpdated": "2026-08-13T17:42:23.630Z"
     }
   },
   "showroomVisits": {
@@ -3450,6 +3457,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:12:23",
+      "iso": "2026-08-13T17:42:23.631Z",
+      "action": "updated remark for SL-S203 at KADUGANNAWA: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3792,13 +3806,6 @@
       "time": "23:04:13",
       "iso": "2026-08-13T17:34:13.942Z",
       "action": "updated remark for HG-120 at MAWANELLA: “Return to Microchip”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:04:02",
-      "iso": "2026-08-13T17:34:02.695Z",
-      "action": "updated remark for DH-A-B1A21P-36B at MAWANELLA: “60%”"
     }
   ]
 }
