@@ -1949,7 +1949,7 @@
     },
     "PILIMATHALAWA||KANDY": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Rashmi",
@@ -1957,6 +1957,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "16:50:54",
+      "iso": "2026-08-13T11:20:54.529Z",
+      "action": "updated PILIMATHALAWA showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2299,13 +2306,6 @@
       "time": "11:24:01",
       "iso": "2026-08-13T05:54:01.387Z",
       "action": "updated remark for SIN-RFC-2058 at PILIYANDALA: “Additional 30%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:23:57",
-      "iso": "2026-08-13T05:53:57.323Z",
-      "action": "updated remark for SIN-RFC-1819 at PILIYANDALA: “Additional 30%”"
     }
   ]
 }
