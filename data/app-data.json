@@ -1889,6 +1889,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:20:27",
       "lastUpdated": "2026-08-13T16:50:27.228Z"
+    },
+    "PN-SC-AKX320GSK||MAWANELLA - B": {
+      "remark": "Revert Repriced",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:21:19",
+      "lastUpdated": "2026-08-13T16:51:19.531Z"
     }
   },
   "showroomVisits": {
@@ -2022,6 +2029,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:21:19",
+      "iso": "2026-08-13T16:51:19.532Z",
+      "action": "updated remark for PN-SC-AKX320GSK at MAWANELLA - B: “Revert Repriced”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2364,13 +2378,6 @@
       "time": "11:36:43",
       "iso": "2026-08-13T06:06:43.089Z",
       "action": "updated remark for PCR-FP20-249 at PILIYANDALA: “Additional 10%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:32:22",
-      "iso": "2026-08-13T06:02:22.884Z",
-      "action": "updated remark for NCPO-FP280 at PILIYANDALA: “Additional 30%”"
     }
   ]
 }
