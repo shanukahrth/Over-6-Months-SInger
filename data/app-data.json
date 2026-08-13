@@ -2204,6 +2204,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:37:39",
       "lastUpdated": "2026-08-13T17:07:39.049Z"
+    },
+    "U-HF-T9907||MAWANELLA - B": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:37:48",
+      "lastUpdated": "2026-08-13T17:07:48.642Z"
     }
   },
   "showroomVisits": {
@@ -2337,6 +2344,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:37:48",
+      "iso": "2026-08-13T17:07:48.643Z",
+      "action": "updated remark for U-HF-T9907 at MAWANELLA - B: “Damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2679,13 +2693,6 @@
       "time": "22:23:54",
       "iso": "2026-08-13T16:53:54.730Z",
       "action": "updated remark for SIN-DELTA-DC at MAWANELLA - B: “Revert Repriced”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:23:12",
-      "iso": "2026-08-13T16:53:12.473Z",
-      "action": "updated remark for SB-DTYPE at MAWANELLA - B: “To be reported”"
     }
   ]
 }
