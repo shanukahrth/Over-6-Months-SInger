@@ -2771,6 +2771,20 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:58:09",
       "lastUpdated": "2026-08-13T17:28:09.662Z"
+    },
+    "TF-NIDFP24-170||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:58:18",
+      "lastUpdated": "2026-08-13T17:28:18.154Z"
+    },
+    "TF-NIFP28-042||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:58:19",
+      "lastUpdated": "2026-08-13T17:28:19.305Z"
     }
   },
   "showroomVisits": {
@@ -2904,6 +2918,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:58:19",
+      "iso": "2026-08-13T17:28:19.305Z",
+      "action": "updated remark for TF-NIFP28-042 at MAWANELLA: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:58:18",
+      "iso": "2026-08-13T17:28:18.155Z",
+      "action": "updated remark for TF-NIDFP24-170 at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3239,20 +3267,6 @@
       "time": "22:48:45",
       "iso": "2026-08-13T17:18:45.848Z",
       "action": "updated remark for SLE32E810 at MAWANELLA - B: “Revert Repriced”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:48:35",
-      "iso": "2026-08-13T17:18:35.935Z",
-      "action": "updated remark for SLE32D5000 at MAWANELLA - B: “Revert Repriced”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:48:25",
-      "iso": "2026-08-13T17:18:25.738Z",
-      "action": "updated remark for SKY55Q6700G at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
