@@ -3002,6 +3002,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:04:26",
       "lastUpdated": "2026-08-13T17:34:26.982Z"
+    },
+    "MCT-234-4||MAWANELLA": {
+      "remark": "Return to Microchip",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:04:30",
+      "lastUpdated": "2026-08-13T17:34:30.599Z"
     }
   },
   "showroomVisits": {
@@ -3135,6 +3142,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:04:30",
+      "iso": "2026-08-13T17:34:30.599Z",
+      "action": "updated remark for MCT-234-4 at MAWANELLA: “Return to Microchip”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3477,13 +3491,6 @@
       "time": "22:55:00",
       "iso": "2026-08-13T17:25:00.888Z",
       "action": "updated remark for WF-DOC-T011-BU-S at MAWANELLA: “Additional 10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:54:14",
-      "iso": "2026-08-13T17:24:14.639Z",
-      "action": "updated remark for WFL-SPM-78X60X8-S at MAWANELLA: “To be reported”"
     }
   ]
 }
