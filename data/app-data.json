@@ -2386,6 +2386,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:47:09",
       "lastUpdated": "2026-08-13T17:17:09.463Z"
+    },
+    "GEO-242D-SV||MAWANELLA - B": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:47:15",
+      "lastUpdated": "2026-08-13T17:17:15.375Z"
     }
   },
   "showroomVisits": {
@@ -2519,6 +2526,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:47:15",
+      "iso": "2026-08-13T17:17:15.375Z",
+      "action": "updated remark for GEO-242D-SV at MAWANELLA - B: “25%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2861,13 +2875,6 @@
       "time": "22:32:11",
       "iso": "2026-08-13T17:02:11.488Z",
       "action": "updated remark for SLE-55IFPD at MAWANELLA - B: “70% - Revert”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:31:59",
-      "iso": "2026-08-13T17:01:59.432Z",
-      "action": "updated remark for MCZJ8500C at MAWANELLA - B: “To be reported”"
     }
   ]
 }
