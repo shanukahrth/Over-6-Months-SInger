@@ -3226,6 +3226,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:10:01",
       "lastUpdated": "2026-08-13T17:40:01.645Z"
+    },
+    "FAN-P-SF1605HR||KADUGANNAWA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:10:06",
+      "lastUpdated": "2026-08-13T17:40:06.781Z"
     }
   },
   "showroomVisits": {
@@ -3359,6 +3366,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:10:06",
+      "iso": "2026-08-13T17:40:06.782Z",
+      "action": "updated remark for FAN-P-SF1605HR at KADUGANNAWA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3701,13 +3715,6 @@
       "time": "23:01:21",
       "iso": "2026-08-13T17:31:21.590Z",
       "action": "updated remark for HU-SECURITY at MAWANELLA: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:17",
-      "iso": "2026-08-13T17:31:17.934Z",
-      "action": "updated remark for SIN-RFC-2058 at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
