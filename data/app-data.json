@@ -2428,6 +2428,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:47:46",
       "lastUpdated": "2026-08-13T17:17:46.900Z"
+    },
+    "SIN-PR-K340||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:47:49",
+      "lastUpdated": "2026-08-13T17:17:49.656Z"
     }
   },
   "showroomVisits": {
@@ -2561,6 +2568,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:47:49",
+      "iso": "2026-08-13T17:17:49.657Z",
+      "action": "updated remark for SIN-PR-K340 at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2903,13 +2917,6 @@
       "time": "22:32:35",
       "iso": "2026-08-13T17:02:35.353Z",
       "action": "updated remark for BRC-COOKPAN28 at MAWANELLA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:32:31",
-      "iso": "2026-08-13T17:02:31.117Z",
-      "action": "updated remark for BRP-COOKPAN28 at MAWANELLA - B: “60%”"
     }
   ]
 }
