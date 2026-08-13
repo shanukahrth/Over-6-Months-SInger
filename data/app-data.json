@@ -2141,6 +2141,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:33:04",
       "lastUpdated": "2026-08-13T17:03:04.929Z"
+    },
+    "NCPO-DC200||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:33:09",
+      "lastUpdated": "2026-08-13T17:03:09.248Z"
     }
   },
   "showroomVisits": {
@@ -2274,6 +2281,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:33:09",
+      "iso": "2026-08-13T17:03:09.248Z",
+      "action": "updated remark for NCPO-DC200 at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2616,13 +2630,6 @@
       "time": "22:16:10",
       "iso": "2026-08-13T16:46:10.429Z",
       "action": "updated remark for SAS24TCNR at MAWANELLA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:15:51",
-      "iso": "2026-08-13T16:45:51.525Z",
-      "action": "updated remark for PN-CS-XU12XKYW-8 at MAWANELLA - B: “Active Product”"
     }
   ]
 }
