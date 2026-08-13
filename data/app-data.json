@@ -2722,6 +2722,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:56:05",
       "lastUpdated": "2026-08-13T17:26:05.255Z"
+    },
+    "SLE-55IFPD||MAWANELLA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:56:10",
+      "lastUpdated": "2026-08-13T17:26:10.928Z"
     }
   },
   "showroomVisits": {
@@ -2855,6 +2862,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:56:10",
+      "iso": "2026-08-13T17:26:10.930Z",
+      "action": "updated remark for SLE-55IFPD at MAWANELLA: “70%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3197,13 +3211,6 @@
       "time": "22:47:26",
       "iso": "2026-08-13T17:17:26.296Z",
       "action": "updated remark for AES-HAV-615T at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:47:24",
-      "iso": "2026-08-13T17:17:24.999Z",
-      "action": "updated remark for AES-HAV-30S at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
