@@ -2869,6 +2869,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:01:01",
       "lastUpdated": "2026-08-13T17:31:01.086Z"
+    },
+    "MB-SAFARI4S-RED||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:01:10",
+      "lastUpdated": "2026-08-13T17:31:10.519Z"
     }
   },
   "showroomVisits": {
@@ -3002,6 +3009,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:01:10",
+      "iso": "2026-08-13T17:31:10.519Z",
+      "action": "updated remark for MB-SAFARI4S-RED at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3344,13 +3358,6 @@
       "time": "22:50:33",
       "iso": "2026-08-13T17:20:33.823Z",
       "action": "updated remark for SL-WF-15 at MAWANELLA - B: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:50:27",
-      "iso": "2026-08-13T17:20:27.538Z",
-      "action": "updated remark for SWM-FAR75 at MAWANELLA - B: “50%”"
     }
   ]
 }
