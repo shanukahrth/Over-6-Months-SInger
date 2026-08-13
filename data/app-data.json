@@ -3121,6 +3121,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:07:08",
       "lastUpdated": "2026-08-13T17:37:08.383Z"
+    },
+    "SLE32G690||MAWANELLA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:07:16",
+      "lastUpdated": "2026-08-13T17:37:16.918Z"
     }
   },
   "showroomVisits": {
@@ -3254,6 +3261,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:07:16",
+      "iso": "2026-08-13T17:37:16.918Z",
+      "action": "updated remark for SLE32G690 at MAWANELLA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3596,13 +3610,6 @@
       "time": "22:58:48",
       "iso": "2026-08-13T17:28:48.215Z",
       "action": "updated remark for TF-NIK26-045 at MAWANELLA: “Additional 30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:58:42",
-      "iso": "2026-08-13T17:28:42.002Z",
-      "action": "updated remark for TF-NIGP26-119 at MAWANELLA: “Additional 30%”"
     }
   ]
 }
