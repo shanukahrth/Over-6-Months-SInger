@@ -3324,6 +3324,27 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:12:23",
       "lastUpdated": "2026-08-13T17:42:23.630Z"
+    },
+    "RIYLTA-MF12V35A||KADUGANNAWA": {
+      "remark": "Mail – Brand Manager (Settling Off)",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:12:34",
+      "lastUpdated": "2026-08-13T17:42:34.426Z"
+    },
+    "RIYLTA-MF12V5||KADUGANNAWA": {
+      "remark": "Mail – Brand Manager (Settling Off)",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:12:35",
+      "lastUpdated": "2026-08-13T17:42:35.927Z"
+    },
+    "RIYLTA-MF12V51A||KADUGANNAWA": {
+      "remark": "Mail – Brand Manager (Settling Off)",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:12:37",
+      "lastUpdated": "2026-08-13T17:42:37.655Z"
     }
   },
   "showroomVisits": {
@@ -3457,6 +3478,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:12:37",
+      "iso": "2026-08-13T17:42:37.655Z",
+      "action": "updated remark for RIYLTA-MF12V51A at KADUGANNAWA: “Mail – Brand Manager (Settling Off)”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:12:35",
+      "iso": "2026-08-13T17:42:35.928Z",
+      "action": "updated remark for RIYLTA-MF12V5 at KADUGANNAWA: “Mail – Brand Manager (Settling Off)”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:12:34",
+      "iso": "2026-08-13T17:42:34.426Z",
+      "action": "updated remark for RIYLTA-MF12V35A at KADUGANNAWA: “Mail – Brand Manager (Settling Off)”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3785,27 +3827,6 @@
       "time": "23:04:30",
       "iso": "2026-08-13T17:34:30.599Z",
       "action": "updated remark for MCT-234-4 at MAWANELLA: “Return to Microchip”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:04:26",
-      "iso": "2026-08-13T17:34:26.982Z",
-      "action": "updated remark for MCS-730-4 at MAWANELLA: “Return to Microchip”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:04:22",
-      "iso": "2026-08-13T17:34:22.510Z",
-      "action": "updated remark for HG-SILVER-TW at MAWANELLA: “Return to Microchip”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:04:13",
-      "iso": "2026-08-13T17:34:13.942Z",
-      "action": "updated remark for HG-120 at MAWANELLA: “Return to Microchip”"
     }
   ]
 }
