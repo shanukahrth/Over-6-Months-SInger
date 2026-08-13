@@ -1980,6 +1980,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:27:37",
       "lastUpdated": "2026-08-13T16:57:37.128Z"
+    },
+    "LF-LEO-120-SHW||MAWANELLA - B": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:27:44",
+      "lastUpdated": "2026-08-13T16:57:44.752Z"
     }
   },
   "showroomVisits": {
@@ -2113,6 +2120,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:27:44",
+      "iso": "2026-08-13T16:57:44.753Z",
+      "action": "updated remark for LF-LEO-120-SHW at MAWANELLA - B: “To be reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2455,13 +2469,6 @@
       "time": "11:42:50",
       "iso": "2026-08-13T06:12:50.459Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at PILIYANDALA: “Up tp 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:42:47",
-      "iso": "2026-08-13T06:12:47.375Z",
-      "action": "updated remark for LF-PODIUM-MWNT-S at PILIYANDALA: “Up to 50%”"
     }
   ]
 }
