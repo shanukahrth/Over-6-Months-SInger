@@ -2111,8 +2111,8 @@
       "remark": "60%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-13",
-      "commentTime": "22:32:28",
-      "lastUpdated": "2026-08-13T17:02:28.666Z"
+      "commentTime": "22:32:35",
+      "lastUpdated": "2026-08-13T17:02:35.352Z"
     },
     "BRP-COOKPAN28||MAWANELLA - B": {
       "remark": "60%",
@@ -2253,6 +2253,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:32:35",
+      "iso": "2026-08-13T17:02:35.353Z",
+      "action": "updated remark for BRC-COOKPAN28 at MAWANELLA - B: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2595,13 +2602,6 @@
       "time": "22:14:56",
       "iso": "2026-08-13T16:44:56.250Z",
       "action": "updated remark for M-SRK13YXP-W7 at MAWANELLA - B: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:11:49",
-      "iso": "2026-08-13T16:41:49.043Z",
-      "action": "updated PERADENIYA showroom (team: Team - Central)"
     }
   ]
 }
