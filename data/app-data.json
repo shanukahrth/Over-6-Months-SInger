@@ -3212,6 +3212,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:09:49",
       "lastUpdated": "2026-08-13T17:39:49.998Z"
+    },
+    "UDV3618SY||KADUGANNAWA": {
+      "remark": "Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:09:53",
+      "lastUpdated": "2026-08-13T17:39:53.346Z"
     }
   },
   "showroomVisits": {
@@ -3345,6 +3352,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:09:53",
+      "iso": "2026-08-13T17:39:53.346Z",
+      "action": "updated remark for UDV3618SY at KADUGANNAWA: “Damage”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3687,13 +3701,6 @@
       "time": "23:01:15",
       "iso": "2026-08-13T17:31:15.487Z",
       "action": "updated remark for SIN-RFC-2058 at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:01:13",
-      "iso": "2026-08-13T17:31:13.479Z",
-      "action": "updated remark for SIN-RFC-1819 at MAWANELLA: “Salable at Existing Price”"
     }
   ]
 }
