@@ -2052,11 +2052,18 @@
       "lastUpdated": "2026-08-13T17:00:14.799Z"
     },
     "PF-ENVISION-BL-S||MAWANELLA - B": {
-      "remark": "Salable",
+      "remark": "Salable at Existing Price",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-13",
-      "commentTime": "22:30:28",
-      "lastUpdated": "2026-08-13T17:00:28.312Z"
+      "commentTime": "22:31:05",
+      "lastUpdated": "2026-08-13T17:01:05.776Z"
+    },
+    "PF-MONDY-BLACK||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:31:07",
+      "lastUpdated": "2026-08-13T17:01:07.688Z"
     }
   },
   "showroomVisits": {
@@ -2190,6 +2197,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:31:07",
+      "iso": "2026-08-13T17:01:07.688Z",
+      "action": "updated remark for PF-MONDY-BLACK at MAWANELLA - B: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:31:05",
+      "iso": "2026-08-13T17:01:05.777Z",
+      "action": "updated remark for PF-ENVISION-BL-S at MAWANELLA - B: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:31:04",
+      "iso": "2026-08-13T17:01:04.001Z",
+      "action": "updated remark for PF-ENVISION-BL-S at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2518,27 +2546,6 @@
       "time": "14:03:52",
       "iso": "2026-08-13T08:33:52.372Z",
       "action": "updated KADUGANNAWA showroom (team: Team - Central)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "14:03:41",
-      "iso": "2026-08-13T08:33:41.142Z",
-      "action": "updated KADUGANNAWA showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "14:03:37",
-      "iso": "2026-08-13T08:33:37.886Z",
-      "action": "updated KADUGANNAWA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "11:53:55",
-      "iso": "2026-08-13T06:23:55.036Z",
-      "action": "updated MAWANELLA showroom (team: Team - Central)"
     }
   ]
 }
