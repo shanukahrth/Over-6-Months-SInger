@@ -1768,8 +1768,8 @@
       "remark": "Additional 30%",
       "commentedBy": "Pabodha Rasanjalee",
       "commentDate": "2026-08-13",
-      "commentTime": "11:37:41",
-      "lastUpdated": "2026-08-13T06:07:41.634Z"
+      "commentTime": "11:37:44",
+      "lastUpdated": "2026-08-13T06:07:44.263Z"
     }
   },
   "showroomVisits": {
@@ -1855,6 +1855,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:37:44",
+      "iso": "2026-08-13T06:07:44.265Z",
+      "action": "updated remark for PH-BHB864 at PILIYANDALA: “Additional 30%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2197,13 +2204,6 @@
       "time": "18:21:36",
       "iso": "2026-08-12T12:51:36.304Z",
       "action": "updated MEGA -PANADURA showroom (visitDate: 2026-08-12)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-12",
-      "time": "18:21:33",
-      "iso": "2026-08-12T12:51:33.679Z",
-      "action": "updated MEGA -PANADURA showroom (visited: Yes)"
     }
   ]
 }
