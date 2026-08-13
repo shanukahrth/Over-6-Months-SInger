@@ -1926,11 +1926,11 @@
       "lastUpdated": "2026-08-13T16:53:54.730Z"
     },
     "SIN-DUO-W10||MAWANELLA - B": {
-      "remark": "PN-SC-AKX320GSK",
+      "remark": "Damaged - Service Centre contacted",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-13",
-      "commentTime": "22:24:20",
-      "lastUpdated": "2026-08-13T16:54:20.434Z"
+      "commentTime": "22:24:24",
+      "lastUpdated": "2026-08-13T16:54:24.521Z"
     }
   },
   "showroomVisits": {
@@ -2064,6 +2064,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:24:24",
+      "iso": "2026-08-13T16:54:24.521Z",
+      "action": "updated remark for SIN-DUO-W10 at MAWANELLA - B: “Damaged - Service Centre contacted”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2406,13 +2413,6 @@
       "time": "11:39:01",
       "iso": "2026-08-13T06:09:01.914Z",
       "action": "updated remark for PN-MIC-W-107 at PILIYANDALA: “Up to 70%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:38:43",
-      "iso": "2026-08-13T06:08:43.063Z",
-      "action": "updated remark for PN-CS-XU12XKYW-8 at PILIYANDALA: “Up to 60%”"
     }
   ]
 }
