@@ -2918,6 +2918,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:01:47",
       "lastUpdated": "2026-08-13T17:31:47.263Z"
+    },
+    "HON-X9C-12-256-GRN||MAWANELLA": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:01:53",
+      "lastUpdated": "2026-08-13T17:31:53.062Z"
     }
   },
   "showroomVisits": {
@@ -3051,6 +3058,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:01:53",
+      "iso": "2026-08-13T17:31:53.063Z",
+      "action": "updated remark for HON-X9C-12-256-GRN at MAWANELLA: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3393,13 +3407,6 @@
       "time": "22:52:06",
       "iso": "2026-08-13T17:22:06.231Z",
       "action": "updated remark for SB-DTYPE at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:52:00",
-      "iso": "2026-08-13T17:22:00.670Z",
-      "action": "updated remark for SVX6008 at MAWANELLA: “80% - Location Transfer (Damaged)”"
     }
   ]
 }
