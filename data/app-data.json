@@ -2617,6 +2617,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:52:51",
       "lastUpdated": "2026-08-13T17:22:51.392Z"
+    },
+    "WFL-NOBEL||MAWANELLA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:53:02",
+      "lastUpdated": "2026-08-13T17:23:02.271Z"
     }
   },
   "showroomVisits": {
@@ -2750,6 +2757,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:53:02",
+      "iso": "2026-08-13T17:23:02.271Z",
+      "action": "updated remark for WFL-NOBEL at MAWANELLA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3092,13 +3106,6 @@
       "time": "22:42:41",
       "iso": "2026-08-13T17:12:41.362Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at MAWANELLA - B: “40% - Display”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:42:23",
-      "iso": "2026-08-13T17:12:23.154Z",
-      "action": "updated remark for NUBIA-V70MAX-6-128GB-GRN at MAWANELLA - B: “Reported”"
     }
   ]
 }
