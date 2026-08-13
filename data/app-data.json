@@ -3177,6 +3177,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:08:54",
       "lastUpdated": "2026-08-13T17:38:54.902Z"
+    },
+    "SIN-PSVX938N||KADUGANNAWA": {
+      "remark": "MOP - 18,500 (Damaged)",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:09:11",
+      "lastUpdated": "2026-08-13T17:39:11.422Z"
     }
   },
   "showroomVisits": {
@@ -3310,6 +3317,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:09:11",
+      "iso": "2026-08-13T17:39:11.423Z",
+      "action": "updated remark for SIN-PSVX938N at KADUGANNAWA: “MOP - 18,500 (Damaged)”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3652,13 +3666,6 @@
       "time": "23:00:47",
       "iso": "2026-08-13T17:30:47.367Z",
       "action": "updated remark for WP-MAGICOOKPRO-25GE at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:59:27",
-      "iso": "2026-08-13T17:29:27.713Z",
-      "action": "updated remark for UJB-LB6027 at MAWANELLA: “40%”"
     }
   ]
 }
