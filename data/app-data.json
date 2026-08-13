@@ -3086,6 +3086,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:05:51",
       "lastUpdated": "2026-08-13T17:35:51.902Z"
+    },
+    "SLE24E810||MAWANELLA": {
+      "remark": "Panel damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:06:09",
+      "lastUpdated": "2026-08-13T17:36:09.198Z"
     }
   },
   "showroomVisits": {
@@ -3219,6 +3226,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:06:09",
+      "iso": "2026-08-13T17:36:09.199Z",
+      "action": "updated remark for SLE24E810 at MAWANELLA: “Panel damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3561,13 +3575,6 @@
       "time": "22:57:13",
       "iso": "2026-08-13T17:27:13.430Z",
       "action": "updated remark for BRP-TW30 at MAWANELLA: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:57:09",
-      "iso": "2026-08-13T17:27:09.039Z",
-      "action": "updated remark for BRP-GTW30 at MAWANELLA: “50%”"
     }
   ]
 }
