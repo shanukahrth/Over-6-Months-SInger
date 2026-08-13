@@ -2260,6 +2260,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:40:25",
       "lastUpdated": "2026-08-13T17:10:25.680Z"
+    },
+    "SIN-RFC-2058||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:40:29",
+      "lastUpdated": "2026-08-13T17:10:29.164Z"
     }
   },
   "showroomVisits": {
@@ -2393,6 +2400,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:40:29",
+      "iso": "2026-08-13T17:10:29.164Z",
+      "action": "updated remark for SIN-RFC-2058 at MAWANELLA - B: “Salable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:40:27",
+      "iso": "2026-08-13T17:10:27.961Z",
+      "action": "updated remark for SIN-RFC-2058 at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2728,20 +2749,6 @@
       "time": "22:27:37",
       "iso": "2026-08-13T16:57:37.129Z",
       "action": "updated remark for SL-SF1607RC at MAWANELLA - B: “50% - Part Missing”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:27:26",
-      "iso": "2026-08-13T16:57:26.562Z",
-      "action": "updated remark for FAN-P-SF1605HR at MAWANELLA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:27:19",
-      "iso": "2026-08-13T16:57:19.145Z",
-      "action": "updated remark for IFCG157NC at MAWANELLA - B: “Pending Exchange”"
     }
   ]
 }
