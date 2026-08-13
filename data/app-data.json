@@ -2708,6 +2708,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:55:52",
       "lastUpdated": "2026-08-13T17:25:52.672Z"
+    },
+    "PHHTS3531||MAWANELLA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:55:57",
+      "lastUpdated": "2026-08-13T17:25:57.624Z"
     }
   },
   "showroomVisits": {
@@ -2841,6 +2848,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:55:57",
+      "iso": "2026-08-13T17:25:57.626Z",
+      "action": "updated remark for PHHTS3531 at MAWANELLA: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3183,13 +3197,6 @@
       "time": "22:47:20",
       "iso": "2026-08-13T17:17:20.231Z",
       "action": "updated remark for SL-ECO192-TG at MAWANELLA - B: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:47:15",
-      "iso": "2026-08-13T17:17:15.375Z",
-      "action": "updated remark for GEO-242D-SV at MAWANELLA - B: “25%”"
     }
   ]
 }
