@@ -3303,6 +3303,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:11:45",
       "lastUpdated": "2026-08-13T17:41:45.065Z"
+    },
+    "PCP50||KADUGANNAWA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:12:11",
+      "lastUpdated": "2026-08-13T17:42:11.702Z"
     }
   },
   "showroomVisits": {
@@ -3436,6 +3443,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:12:11",
+      "iso": "2026-08-13T17:42:11.702Z",
+      "action": "updated remark for PCP50 at KADUGANNAWA: “Reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3778,13 +3792,6 @@
       "time": "23:03:44",
       "iso": "2026-08-13T17:33:44.519Z",
       "action": "updated remark for SL-ECO72 at MAWANELLA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:03:37",
-      "iso": "2026-08-13T17:33:37.183Z",
-      "action": "updated remark for GEO-260NF at MAWANELLA: “Service”"
     }
   ]
 }
