@@ -1805,6 +1805,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "11:39:13",
       "lastUpdated": "2026-08-13T06:09:13.992Z"
+    },
+    "PN-SC-BMAX5E-K||PILIYANDALA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-13",
+      "commentTime": "11:39:54",
+      "lastUpdated": "2026-08-13T06:09:54.914Z"
     }
   },
   "showroomVisits": {
@@ -1890,6 +1897,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-13",
+      "time": "11:39:54",
+      "iso": "2026-08-13T06:09:54.917Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at PILIYANDALA: “Up to 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-13",
@@ -2232,13 +2246,6 @@
       "time": "11:07:10",
       "iso": "2026-08-13T05:37:10.764Z",
       "action": "updated PILIYANDALA  B showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-13",
-      "time": "11:07:08",
-      "iso": "2026-08-13T05:37:08.097Z",
-      "action": "updated PILIYANDALA  B showroom (visited: Yes)"
     }
   ]
 }
