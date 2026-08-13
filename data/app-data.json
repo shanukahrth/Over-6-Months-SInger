@@ -2834,6 +2834,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:59:16",
       "lastUpdated": "2026-08-13T17:29:16.278Z"
+    },
+    "PN-MX-AC210||MAWANELLA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:59:22",
+      "lastUpdated": "2026-08-13T17:29:22.078Z"
     }
   },
   "showroomVisits": {
@@ -2967,6 +2974,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:59:22",
+      "iso": "2026-08-13T17:29:22.078Z",
+      "action": "updated remark for PN-MX-AC210 at MAWANELLA: “70%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3309,13 +3323,6 @@
       "time": "22:49:52",
       "iso": "2026-08-13T17:19:52.511Z",
       "action": "updated remark for SMGUA32T4400 at MAWANELLA - B: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:49:49",
-      "iso": "2026-08-13T17:19:49.320Z",
-      "action": "updated remark for SMGUA32N4010 at MAWANELLA - B: “Salable at Existing Price”"
     }
   ]
 }
