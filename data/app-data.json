@@ -2099,6 +2099,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:32:17",
       "lastUpdated": "2026-08-13T17:02:17.280Z"
+    },
+    "USI-ATC-302||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:32:21",
+      "lastUpdated": "2026-08-13T17:02:21.442Z"
     }
   },
   "showroomVisits": {
@@ -2232,6 +2239,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:32:21",
+      "iso": "2026-08-13T17:02:21.443Z",
+      "action": "updated remark for USI-ATC-302 at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2574,13 +2588,6 @@
       "time": "16:51:16",
       "iso": "2026-08-13T11:21:16.333Z",
       "action": "updated PILIMATHALAWA - B showroom (team: Team - Central)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "16:51:09",
-      "iso": "2026-08-13T11:21:09.494Z",
-      "action": "updated PILIMATHALAWA - B showroom (visitDate: 2026-08-13)"
     }
   ]
 }
