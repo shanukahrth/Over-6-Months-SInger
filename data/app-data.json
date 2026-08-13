@@ -3093,6 +3093,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:06:09",
       "lastUpdated": "2026-08-13T17:36:09.198Z"
+    },
+    "SLE32D2010TC||MAWANELLA": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:06:15",
+      "lastUpdated": "2026-08-13T17:36:15.277Z"
     }
   },
   "showroomVisits": {
@@ -3226,6 +3233,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:06:15",
+      "iso": "2026-08-13T17:36:15.278Z",
+      "action": "updated remark for SLE32D2010TC at MAWANELLA: “Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3568,13 +3582,6 @@
       "time": "22:58:06",
       "iso": "2026-08-13T17:28:06.632Z",
       "action": "updated remark for TF-FP24-SCR342 at MAWANELLA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:57:13",
-      "iso": "2026-08-13T17:27:13.430Z",
-      "action": "updated remark for BRP-TW30 at MAWANELLA: “To be reported”"
     }
   ]
 }
