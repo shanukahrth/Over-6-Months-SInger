@@ -2498,6 +2498,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "22:49:30",
       "lastUpdated": "2026-08-13T17:19:30.198Z"
+    },
+    "SMGUA32N4010||MAWANELLA - B": {
+      "remark": "Salable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "22:49:49",
+      "lastUpdated": "2026-08-13T17:19:49.319Z"
     }
   },
   "showroomVisits": {
@@ -2631,6 +2638,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "22:49:49",
+      "iso": "2026-08-13T17:19:49.320Z",
+      "action": "updated remark for SMGUA32N4010 at MAWANELLA - B: “Salable at Existing Price”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -2973,13 +2987,6 @@
       "time": "22:37:32",
       "iso": "2026-08-13T17:07:32.730Z",
       "action": "updated remark for SL-S203 at MAWANELLA - B: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:35:39",
-      "iso": "2026-08-13T17:05:39.162Z",
-      "action": "updated remark for SMW928AS3 at MAWANELLA - B: “60%”"
     }
   ]
 }
