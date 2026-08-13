@@ -2981,6 +2981,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:04:02",
       "lastUpdated": "2026-08-13T17:34:02.694Z"
+    },
+    "HG-120||MAWANELLA": {
+      "remark": "Return to Microchip",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-13",
+      "commentTime": "23:04:13",
+      "lastUpdated": "2026-08-13T17:34:13.942Z"
     }
   },
   "showroomVisits": {
@@ -3114,6 +3121,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-13",
+      "time": "23:04:13",
+      "iso": "2026-08-13T17:34:13.942Z",
+      "action": "updated remark for HG-120 at MAWANELLA: “Return to Microchip”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3456,13 +3470,6 @@
       "time": "22:53:53",
       "iso": "2026-08-13T17:23:53.899Z",
       "action": "updated remark for WFL-SPM-75X60X7-S at MAWANELLA: “Exchange - Location Transfer”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "22:53:37",
-      "iso": "2026-08-13T17:23:37.530Z",
-      "action": "updated remark for WFL-SPM-72X48X8-S at MAWANELLA: “Exchange - Location Transfer”"
     }
   ]
 }
