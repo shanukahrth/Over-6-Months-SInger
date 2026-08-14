@@ -3715,13 +3715,20 @@
     "PANADURA - B||PANADURA": {
       "visited": "Yes",
       "visitDate": "2026-08-12",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:33:17",
+      "iso": "2026-08-14T04:03:17.604Z",
+      "action": "updated PANADURA - B showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4064,13 +4071,6 @@
       "time": "23:14:03",
       "iso": "2026-08-13T17:44:03.910Z",
       "action": "updated remark for KLV-32R326D at KADUGANNAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:13:58",
-      "iso": "2026-08-13T17:43:58.494Z",
-      "action": "updated remark for SIN-PR-K340 at KADUGANNAWA: “Salable at Existing Price”"
     }
   ]
 }
