@@ -3627,13 +3627,20 @@
     "PELAWATTA-MATU||KALUTARA": {
       "visited": "Yes",
       "visitDate": "2026-08-13",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "08:43:13",
+      "iso": "2026-08-14T03:13:13.128Z",
+      "action": "updated PELAWATTA-MATU showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -3976,13 +3983,6 @@
       "time": "23:09:11",
       "iso": "2026-08-13T17:39:11.423Z",
       "action": "updated remark for SIN-PSVX938N at KADUGANNAWA: “MOP - 18,500 (Damaged)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:08:54",
-      "iso": "2026-08-13T17:38:54.902Z",
-      "action": "updated remark for SIN-BS30 at KADUGANNAWA: “MOP - 5,000”"
     }
   ]
 }
