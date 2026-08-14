@@ -3699,13 +3699,20 @@
     "MEGA -KATUBEDDA||MEGA SOUTH ZONE-": {
       "visited": "Yes",
       "visitDate": "2026-08-12",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:31:12",
+      "iso": "2026-08-14T04:01:12.188Z",
+      "action": "updated MEGA -KATUBEDDA showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4048,13 +4055,6 @@
       "time": "23:13:05",
       "iso": "2026-08-13T17:43:05.870Z",
       "action": "updated remark for HON-H90-12-512-BLU at KADUGANNAWA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:12:59",
-      "iso": "2026-08-13T17:42:59.886Z",
-      "action": "updated remark for U-BS8816 at KADUGANNAWA: “MOP - 1,000 (Damaged)”"
     }
   ]
 }
