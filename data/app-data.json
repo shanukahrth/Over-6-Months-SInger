@@ -3698,7 +3698,7 @@
     },
     "MEGA -KATUBEDDA||MEGA SOUTH ZONE-": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-12",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -3706,6 +3706,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:31:07",
+      "iso": "2026-08-14T04:01:07.003Z",
+      "action": "updated MEGA -KATUBEDDA showroom (visitDate: 2026-08-12)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4048,13 +4055,6 @@
       "time": "23:12:59",
       "iso": "2026-08-13T17:42:59.886Z",
       "action": "updated remark for U-BS8816 at KADUGANNAWA: “MOP - 1,000 (Damaged)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:12:44",
-      "iso": "2026-08-13T17:42:44.217Z",
-      "action": "updated remark for SIN-RFC-1819 at KADUGANNAWA: “Salable at Existing Price”"
     }
   ]
 }
