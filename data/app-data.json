@@ -3703,9 +3703,24 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
+    },
+    "MORATUWA||PANADURA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:32:33",
+      "iso": "2026-08-14T04:02:33.320Z",
+      "action": "updated MORATUWA showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4048,13 +4063,6 @@
       "time": "23:13:11",
       "iso": "2026-08-13T17:43:11.685Z",
       "action": "updated remark for HON-X5B-4-64-BLU at KADUGANNAWA: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:13:05",
-      "iso": "2026-08-13T17:43:05.870Z",
-      "action": "updated remark for HON-H90-12-512-BLU at KADUGANNAWA: “Reported”"
     }
   ]
 }
