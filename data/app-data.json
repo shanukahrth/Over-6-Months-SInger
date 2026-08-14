@@ -3679,9 +3679,24 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
+    },
+    "SHOMES-RATHMALANA||MEGA SOUTH ZONE-": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:18:50",
+      "iso": "2026-08-14T03:48:50.184Z",
+      "action": "updated SHOMES-RATHMALANA showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4024,13 +4039,6 @@
       "time": "23:12:18",
       "iso": "2026-08-13T17:42:18.266Z",
       "action": "updated remark for GLRC-2201 at KADUGANNAWA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:12:11",
-      "iso": "2026-08-13T17:42:11.702Z",
-      "action": "updated remark for PCP50 at KADUGANNAWA: “Reported”"
     }
   ]
 }
