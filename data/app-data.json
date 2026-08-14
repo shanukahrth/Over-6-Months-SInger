@@ -3675,13 +3675,20 @@
     "PILIYANDALA||PANADURA": {
       "visited": "Yes",
       "visitDate": "2026-08-13",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "08:52:59",
+      "iso": "2026-08-14T03:22:59.980Z",
+      "action": "updated PILIYANDALA showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4024,13 +4031,6 @@
       "time": "23:12:11",
       "iso": "2026-08-13T17:42:11.702Z",
       "action": "updated remark for PCP50 at KADUGANNAWA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:11:45",
-      "iso": "2026-08-13T17:41:45.066Z",
-      "action": "updated remark for SMW25GCQ6 at KADUGANNAWA: “Reported”"
     }
   ]
 }
