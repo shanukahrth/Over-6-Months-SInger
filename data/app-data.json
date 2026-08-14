@@ -3683,13 +3683,20 @@
     "SHOMES-RATHMALANA||MEGA SOUTH ZONE-": {
       "visited": "Yes",
       "visitDate": "2026-08-12",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:19:00",
+      "iso": "2026-08-14T03:49:00.733Z",
+      "action": "updated SHOMES-RATHMALANA showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4032,13 +4039,6 @@
       "time": "23:12:34",
       "iso": "2026-08-13T17:42:34.426Z",
       "action": "updated remark for RIYLTA-MF12V35A at KADUGANNAWA: “Mail – Brand Manager (Settling Off)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:12:23",
-      "iso": "2026-08-13T17:42:23.631Z",
-      "action": "updated remark for SL-S203 at KADUGANNAWA: “80%”"
     }
   ]
 }
