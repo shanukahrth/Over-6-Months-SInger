@@ -3687,9 +3687,24 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
+    },
+    "SHOMES-RATHNAPURA||RATHNAPURA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:30:28",
+      "iso": "2026-08-14T04:00:28.930Z",
+      "action": "updated SHOMES-RATHNAPURA showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4032,13 +4047,6 @@
       "time": "23:12:35",
       "iso": "2026-08-13T17:42:35.928Z",
       "action": "updated remark for RIYLTA-MF12V5 at KADUGANNAWA: “Mail – Brand Manager (Settling Off)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:12:34",
-      "iso": "2026-08-13T17:42:34.426Z",
-      "action": "updated remark for RIYLTA-MF12V35A at KADUGANNAWA: “Mail – Brand Manager (Settling Off)”"
     }
   ]
 }
