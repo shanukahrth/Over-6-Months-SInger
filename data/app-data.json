@@ -3667,13 +3667,20 @@
     "PITIGALA||AMBALANGODA": {
       "visited": "Yes",
       "visitDate": "2026-08-13",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "08:52:34",
+      "iso": "2026-08-14T03:22:34.785Z",
+      "action": "updated PITIGALA showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4016,13 +4023,6 @@
       "time": "23:11:03",
       "iso": "2026-08-13T17:41:03.199Z",
       "action": "updated remark for NCPO-FP280 at KADUGANNAWA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:11:01",
-      "iso": "2026-08-13T17:41:01.278Z",
-      "action": "updated remark for NCPO-FP250 at KADUGANNAWA: “Salable at Existing Price”"
     }
   ]
 }
