@@ -3707,13 +3707,20 @@
     "MORATUWA||PANADURA": {
       "visited": "Yes",
       "visitDate": "2026-08-12",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:32:43",
+      "iso": "2026-08-14T04:02:43.200Z",
+      "action": "updated MORATUWA showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4056,13 +4063,6 @@
       "time": "23:13:34",
       "iso": "2026-08-13T17:43:34.450Z",
       "action": "updated remark for GEO-242D-SV at KADUGANNAWA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:13:19",
-      "iso": "2026-08-13T17:43:19.458Z",
-      "action": "updated remark for R-RGS150-SV at KADUGANNAWA: “30%”"
     }
   ]
 }
