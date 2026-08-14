@@ -3615,9 +3615,38 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-13"
+    },
+    "KESBEWA||PANADURA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-13",
+      "team": "Colombo South MKT",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "08:42:42",
+      "iso": "2026-08-14T03:12:42.253Z",
+      "action": "updated KESBEWA showroom (team: Colombo South MKT)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "08:42:37",
+      "iso": "2026-08-14T03:12:37.058Z",
+      "action": "updated KESBEWA showroom (visitDate: 2026-08-13)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "08:42:34",
+      "iso": "2026-08-14T03:12:34.868Z",
+      "action": "updated KESBEWA showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-13",
@@ -3946,27 +3975,6 @@
       "time": "23:07:55",
       "iso": "2026-08-13T17:37:55.958Z",
       "action": "updated remark for WP-WDC11704RG-G at MAWANELLA: “24%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:07:49",
-      "iso": "2026-08-13T17:37:49.343Z",
-      "action": "updated remark for ULED32D60A at MAWANELLA: “MOP - 24,999”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:07:35",
-      "iso": "2026-08-13T17:37:35.991Z",
-      "action": "updated remark for SLE43F590 at MAWANELLA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:07:31",
-      "iso": "2026-08-13T17:37:31.264Z",
-      "action": "updated remark for SLE40E810C at MAWANELLA: “Exchange”"
     }
   ]
 }
