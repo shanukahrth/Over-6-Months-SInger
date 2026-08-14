@@ -3635,13 +3635,20 @@
     "MATHUGAMA||KALUTARA": {
       "visited": "Yes",
       "visitDate": "2026-08-13",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "08:44:21",
+      "iso": "2026-08-14T03:14:21.341Z",
+      "action": "updated MATHUGAMA showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -3984,13 +3991,6 @@
       "time": "23:09:42",
       "iso": "2026-08-13T17:39:42.673Z",
       "action": "updated remark for AS-I7-X513-256-11GEN-BLK at KADUGANNAWA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:09:30",
-      "iso": "2026-08-13T17:39:30.605Z",
-      "action": "updated remark for MSI-MOD15-B13M-I7-BLK at KADUGANNAWA: “60% - Damage”"
     }
   ]
 }
