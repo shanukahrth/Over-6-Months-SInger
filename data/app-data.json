@@ -3691,13 +3691,20 @@
     "SHOMES-RATHNAPURA||RATHNAPURA": {
       "visited": "Yes",
       "visitDate": "2026-08-12",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:30:40",
+      "iso": "2026-08-14T04:00:40.169Z",
+      "action": "updated SHOMES-RATHNAPURA showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4040,13 +4047,6 @@
       "time": "23:12:40",
       "iso": "2026-08-13T17:42:40.335Z",
       "action": "updated remark for RIYLTA-MF12V92A at KADUGANNAWA: “Mail – Brand Manager (Settling Off)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:12:37",
-      "iso": "2026-08-13T17:42:37.655Z",
-      "action": "updated remark for RIYLTA-MF12V51A at KADUGANNAWA: “Mail – Brand Manager (Settling Off)”"
     }
   ]
 }
