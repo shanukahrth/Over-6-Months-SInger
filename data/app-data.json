@@ -3711,9 +3711,24 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
+    },
+    "PANADURA - B||PANADURA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-14"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:33:06",
+      "iso": "2026-08-14T04:03:06.995Z",
+      "action": "updated PANADURA - B showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4056,13 +4071,6 @@
       "time": "23:13:43",
       "iso": "2026-08-13T17:43:43.066Z",
       "action": "updated remark for SMGRT34B4542S8 at KADUGANNAWA: “MOP - 160,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:13:34",
-      "iso": "2026-08-13T17:43:34.450Z",
-      "action": "updated remark for GEO-242D-SV at KADUGANNAWA: “25%”"
     }
   ]
 }
