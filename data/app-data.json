@@ -3706,7 +3706,7 @@
     },
     "MORATUWA||PANADURA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-12",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -3714,6 +3714,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:32:35",
+      "iso": "2026-08-14T04:02:35.969Z",
+      "action": "updated MORATUWA showroom (visitDate: 2026-08-12)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4056,13 +4063,6 @@
       "time": "23:13:19",
       "iso": "2026-08-13T17:43:19.458Z",
       "action": "updated remark for R-RGS150-SV at KADUGANNAWA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:13:11",
-      "iso": "2026-08-13T17:43:11.685Z",
-      "action": "updated remark for HON-X5B-4-64-BLU at KADUGANNAWA: “Damaged”"
     }
   ]
 }
