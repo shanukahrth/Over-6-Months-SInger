@@ -3714,7 +3714,7 @@
     },
     "PANADURA - B||PANADURA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-12",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -3722,6 +3722,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-14",
+      "time": "09:33:10",
+      "iso": "2026-08-14T04:03:10.052Z",
+      "action": "updated PANADURA - B showroom (visitDate: 2026-08-12)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4064,13 +4071,6 @@
       "time": "23:13:58",
       "iso": "2026-08-13T17:43:58.494Z",
       "action": "updated remark for SIN-PR-K340 at KADUGANNAWA: “Salable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:13:43",
-      "iso": "2026-08-13T17:43:43.066Z",
-      "action": "updated remark for SMGRT34B4542S8 at KADUGANNAWA: “MOP - 160,000”"
     }
   ]
 }
