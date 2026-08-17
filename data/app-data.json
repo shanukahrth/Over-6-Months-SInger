@@ -3485,6 +3485,13 @@
       "commentDate": "2026-08-13",
       "commentTime": "23:17:07",
       "lastUpdated": "2026-08-13T17:47:07.911Z"
+    },
+    "CAN-I-MG2570S||KURUNEGALA B": {
+      "remark": "80% discount",
+      "commentedBy": "MKT",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:04:49",
+      "lastUpdated": "2026-08-17T03:34:49.488Z"
     }
   },
   "showroomVisits": {
@@ -3722,6 +3729,13 @@
     }
   },
   "activity": [
+    {
+      "user": "MKT",
+      "date": "2026-08-17",
+      "time": "09:04:49",
+      "iso": "2026-08-17T03:34:49.492Z",
+      "action": "updated remark for CAN-I-MG2570S at KURUNEGALA B: “80% discount”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-14",
@@ -4064,13 +4078,6 @@
       "time": "23:14:06",
       "iso": "2026-08-13T17:44:06.343Z",
       "action": "updated remark for KLV-32R326E at KADUGANNAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:14:03",
-      "iso": "2026-08-13T17:44:03.910Z",
-      "action": "updated remark for KLV-32R326D at KADUGANNAWA: “80%”"
     }
   ]
 }
