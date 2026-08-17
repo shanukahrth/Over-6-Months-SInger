@@ -5830,6 +5830,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:02:56",
       "lastUpdated": "2026-08-17T10:32:56.373Z"
+    },
+    "USHA-EI1602||KANTALAI": {
+      "remark": "20% - Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:03:16",
+      "lastUpdated": "2026-08-17T10:33:16.605Z"
     }
   },
   "showroomVisits": {
@@ -6099,6 +6106,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "16:03:16",
+      "iso": "2026-08-17T10:33:16.607Z",
+      "action": "updated remark for USHA-EI1602 at KANTALAI: “20% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6441,13 +6455,6 @@
       "time": "13:41:45",
       "iso": "2026-08-17T08:11:45.246Z",
       "action": "updated remark for SIN-RFC-2058 at HABARANA: “10% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:41:44",
-      "iso": "2026-08-17T08:11:44.113Z",
-      "action": "updated remark for SIN-RFC-1819 at HABARANA: “10% discount”"
     }
   ]
 }
