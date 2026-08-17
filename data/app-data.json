@@ -7818,6 +7818,27 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:00:49",
       "lastUpdated": "2026-08-17T12:30:49.211Z"
+    },
+    "TCL65C655||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:52",
+      "lastUpdated": "2026-08-17T12:30:52.554Z"
+    },
+    "ULED32D5000||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:53",
+      "lastUpdated": "2026-08-17T12:30:53.870Z"
+    },
+    "ULED32D60A||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:55",
+      "lastUpdated": "2026-08-17T12:30:55.330Z"
     }
   },
   "showroomVisits": {
@@ -8087,6 +8108,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:55",
+      "iso": "2026-08-17T12:30:55.331Z",
+      "action": "updated remark for ULED32D60A at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:53",
+      "iso": "2026-08-17T12:30:53.871Z",
+      "action": "updated remark for ULED32D5000 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:52",
+      "iso": "2026-08-17T12:30:52.555Z",
+      "action": "updated remark for TCL65C655 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8415,27 +8457,6 @@
       "time": "17:57:25",
       "iso": "2026-08-17T12:27:25.739Z",
       "action": "updated remark for CAN-I-MX497 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:24",
-      "iso": "2026-08-17T12:27:24.146Z",
-      "action": "updated remark for CAN-I-GM2070 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:23",
-      "iso": "2026-08-17T12:27:23.118Z",
-      "action": "updated remark for CAN-I-MG2570S at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:21",
-      "iso": "2026-08-17T12:27:21.500Z",
-      "action": "updated remark for CAN-I-MG2570S at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
