@@ -8595,6 +8595,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:29:36",
       "lastUpdated": "2026-08-17T12:59:36.232Z"
+    },
+    "SLE32E810||PILIMATHALAWA - B": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:29:42",
+      "lastUpdated": "2026-08-17T12:59:42.877Z"
     }
   },
   "showroomVisits": {
@@ -8872,6 +8879,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:29:42",
+      "iso": "2026-08-17T12:59:42.878Z",
+      "action": "updated remark for SLE32E810 at PILIMATHALAWA - B: “Damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9214,13 +9228,6 @@
       "time": "18:23:00",
       "iso": "2026-08-17T12:53:00.911Z",
       "action": "updated remark for WF-JUPITER-05-S at PILIMATHALAWA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:22:56",
-      "iso": "2026-08-17T12:52:56.212Z",
-      "action": "updated remark for WF-DAYSTAR-02-S at PILIMATHALAWA - B: “70%”"
     }
   ]
 }
