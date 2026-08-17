@@ -9267,6 +9267,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:09:27",
       "lastUpdated": "2026-08-17T13:39:27.816Z"
+    },
+    "MID-MJ-KM6001W||MUTUR": {
+      "remark": "55% discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:09:58",
+      "lastUpdated": "2026-08-17T13:39:58.050Z"
     }
   },
   "showroomVisits": {
@@ -9592,6 +9599,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:09:58",
+      "iso": "2026-08-17T13:39:58.051Z",
+      "action": "updated remark for MID-MJ-KM6001W at MUTUR: “55% discount”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:09:56",
+      "iso": "2026-08-17T13:39:56.232Z",
+      "action": "updated remark for MID-MJ-KM6001W at MUTUR: “55% disocunt”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9927,20 +9948,6 @@
       "time": "18:31:43",
       "iso": "2026-08-17T13:01:43.305Z",
       "action": "updated remark for UDV3618SY at MUTUR: “Displayed - 70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:31:35",
-      "iso": "2026-08-17T13:01:35.783Z",
-      "action": "updated remark for UJB-LB6027 at MUTUR: “45% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:30:31",
-      "iso": "2026-08-17T13:00:31.149Z",
-      "action": "updated remark for SLE32E930 at MUTUR: “Damaged - 80% discount”"
     }
   ]
 }
