@@ -8469,6 +8469,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:27:16",
       "lastUpdated": "2026-08-17T12:57:16.598Z"
+    },
+    "SMGRT28A3021GS||PILIMATHALAWA - B": {
+      "remark": "MOP - 135,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:27:25",
+      "lastUpdated": "2026-08-17T12:57:25.393Z"
     }
   },
   "showroomVisits": {
@@ -8746,6 +8753,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:27:25",
+      "iso": "2026-08-17T12:57:25.395Z",
+      "action": "updated remark for SMGRT28A3021GS at PILIMATHALAWA - B: “MOP - 135,000”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9088,13 +9102,6 @@
       "time": "18:20:38",
       "iso": "2026-08-17T12:50:38.722Z",
       "action": "updated remark for AS-13G-I3-512GB-3851-SIL at PILIMATHALAWA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:20:15",
-      "iso": "2026-08-17T12:50:15.805Z",
-      "action": "updated remark for ACER-515-I3-8GB512-GRY at PILIMATHALAWA - B: “MOP - 43,000”"
     }
   ]
 }
