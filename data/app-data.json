@@ -6145,6 +6145,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:35:37",
       "lastUpdated": "2026-08-17T12:05:37.242Z"
+    },
+    "DH-I-A22EP-G-IMOU||SHOMES- MATALE": {
+      "remark": "Damage - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:35:39",
+      "lastUpdated": "2026-08-17T12:05:39.801Z"
     }
   },
   "showroomVisits": {
@@ -6414,6 +6421,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:35:39",
+      "iso": "2026-08-17T12:05:39.803Z",
+      "action": "updated remark for DH-I-A22EP-G-IMOU at SHOMES- MATALE: “Damage - 85%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6756,13 +6770,6 @@
       "time": "16:06:43",
       "iso": "2026-08-17T10:36:43.067Z",
       "action": "updated remark for CLOTHLINE-35PVC at KANTALAI: “20% - Unboxed unit”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "16:06:28",
-      "iso": "2026-08-17T10:36:28.181Z",
-      "action": "updated remark for R-BWS-02 at KANTALAI: “35% - displayed”"
     }
   ]
 }
