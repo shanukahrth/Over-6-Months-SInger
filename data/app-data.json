@@ -4213,6 +4213,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:19:17",
       "lastUpdated": "2026-08-17T04:49:17.963Z"
+    },
+    "GEO-242D||BUDGET SHOP-DAMBULLA": {
+      "remark": "80% Discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:33:17",
+      "lastUpdated": "2026-08-17T05:03:17.995Z"
     }
   },
   "showroomVisits": {
@@ -4450,6 +4457,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:33:17",
+      "iso": "2026-08-17T05:03:17.996Z",
+      "action": "updated remark for GEO-242D at BUDGET SHOP-DAMBULLA: “80% Discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4792,13 +4806,6 @@
       "time": "09:58:13",
       "iso": "2026-08-17T04:28:13.331Z",
       "action": "updated remark for STT-KGT200 at KURUNEGALA B: “Revert - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:57:53",
-      "iso": "2026-08-17T04:27:53.137Z",
-      "action": "updated remark for SW-ST14610WHTN at KURUNEGALA B: “Sold”"
     }
   ]
 }
