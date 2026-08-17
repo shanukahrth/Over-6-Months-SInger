@@ -6222,6 +6222,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:45:40",
       "lastUpdated": "2026-08-17T12:15:40.036Z"
+    },
+    "WC-RTC221||SHOMES- MATALE": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:46:12",
+      "lastUpdated": "2026-08-17T12:16:12.407Z"
     }
   },
   "showroomVisits": {
@@ -6491,6 +6498,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:46:12",
+      "iso": "2026-08-17T12:16:12.409Z",
+      "action": "updated remark for WC-RTC221 at SHOMES- MATALE: “Damaged - 70%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6833,13 +6847,6 @@
       "time": "16:22:13",
       "iso": "2026-08-17T10:52:13.070Z",
       "action": "updated remark for HON-X9B-12-256-ORG at MATALE: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "16:21:46",
-      "iso": "2026-08-17T10:51:46.581Z",
-      "action": "updated remark for HON-X8C-8-512-WHT at MATALE: “Damaged - 50%”"
     }
   ]
 }
