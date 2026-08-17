@@ -8448,6 +8448,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:26:50",
       "lastUpdated": "2026-08-17T12:56:50.499Z"
+    },
+    "HON-X8C-8-512-WHT||PILIMATHALAWA - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:26:59",
+      "lastUpdated": "2026-08-17T12:56:59.357Z"
     }
   },
   "showroomVisits": {
@@ -8725,6 +8732,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:26:59",
+      "iso": "2026-08-17T12:56:59.357Z",
+      "action": "updated remark for HON-X8C-8-512-WHT at PILIMATHALAWA - B: “Reported”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9067,13 +9081,6 @@
       "time": "18:19:40",
       "iso": "2026-08-17T12:49:40.423Z",
       "action": "updated remark for B-CWB6441XN at PILIMATHALAWA - B: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:19:31",
-      "iso": "2026-08-17T12:49:31.494Z",
-      "action": "updated remark for SVX6002 at PILIMATHALAWA - B: “Damaged - 80%”"
     }
   ]
 }
