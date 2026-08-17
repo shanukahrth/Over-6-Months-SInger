@@ -3730,6 +3730,20 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:42:19",
       "lastUpdated": "2026-08-17T04:12:19.316Z"
+    },
+    "HON-X9C-12-256-GRN||KURUNEGALA B": {
+      "remark": "Damaged - 50% (staff)",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:39:04",
+      "lastUpdated": "2026-08-17T04:09:04.033Z"
+    },
+    "NUBIA-AIR-8-256GB-ST-BLK||KURUNEGALA B": {
+      "remark": "Damaged - 50% (staff)",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:43:15",
+      "lastUpdated": "2026-08-17T04:13:15.028Z"
     }
   },
   "showroomVisits": {
@@ -3967,6 +3981,20 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:43:15",
+      "iso": "2026-08-17T04:13:15.028Z",
+      "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at KURUNEGALA B: “Damaged - 50% (staff)”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:39:04",
+      "iso": "2026-08-17T04:09:04.033Z",
+      "action": "updated remark for HON-X9C-12-256-GRN at KURUNEGALA B: “Damaged - 50% (staff)”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4302,20 +4330,6 @@
       "time": "09:33:17",
       "iso": "2026-08-14T04:03:17.604Z",
       "action": "updated PANADURA - B showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "09:33:10",
-      "iso": "2026-08-14T04:03:10.052Z",
-      "action": "updated PANADURA - B showroom (visitDate: 2026-08-12)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "09:33:06",
-      "iso": "2026-08-14T04:03:06.995Z",
-      "action": "updated PANADURA - B showroom (visited: Yes)"
     }
   ]
 }
