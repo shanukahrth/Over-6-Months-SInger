@@ -5228,7 +5228,7 @@
     },
     "TISSAMAHARAMA - B||HAMBANTOTA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-17",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -5236,6 +5236,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-17",
+      "time": "12:11:09",
+      "iso": "2026-08-17T06:41:09.467Z",
+      "action": "updated TISSAMAHARAMA - B showroom (visitDate: 2026-08-17)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -5578,13 +5585,6 @@
       "time": "11:33:16",
       "iso": "2026-08-17T06:03:16.885Z",
       "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90% - Battery dammaged”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:33:16",
-      "iso": "2026-08-17T06:03:16.290Z",
-      "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90% - Batatery dammaged”"
     }
   ]
 }
