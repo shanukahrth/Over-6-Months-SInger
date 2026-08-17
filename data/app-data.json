@@ -9351,6 +9351,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:23:16",
       "lastUpdated": "2026-08-17T13:53:16.962Z"
+    },
+    "GEO-182S-BU1||MUTUR": {
+      "remark": "35% - Display",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:23:28",
+      "lastUpdated": "2026-08-17T13:53:28.887Z"
     }
   },
   "showroomVisits": {
@@ -9676,6 +9683,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:23:28",
+      "iso": "2026-08-17T13:53:28.889Z",
+      "action": "updated remark for GEO-182S-BU1 at MUTUR: “35% - Display”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10018,13 +10032,6 @@
       "time": "18:47:05",
       "iso": "2026-08-17T13:17:05.954Z",
       "action": "updated remark for SLE32G690 at MUTUR: “Damaged - not sellable (K number is requested but not received yet)”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:46:28",
-      "iso": "2026-08-17T13:16:28.493Z",
-      "action": "updated remark for SLE32G690 at MUTUR: “Damaged - not sellable (K number received)”"
     }
   ]
 }
