@@ -4031,6 +4031,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:02:59",
       "lastUpdated": "2026-08-17T04:32:59.717Z"
+    },
+    "SLE43S400||KURUNEGALA B": {
+      "remark": "Exchange",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:03:48",
+      "lastUpdated": "2026-08-17T04:33:48.355Z"
     }
   },
   "showroomVisits": {
@@ -4268,6 +4275,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:03:48",
+      "iso": "2026-08-17T04:33:48.356Z",
+      "action": "updated remark for SLE43S400 at KURUNEGALA B: “Exchange”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4610,13 +4624,6 @@
       "time": "09:47:10",
       "iso": "2026-08-17T04:17:10.227Z",
       "action": "updated remark for WP-WDC11704RG-G at KURUNEGALA B: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:47:14",
-      "iso": "2026-08-17T04:17:14.409Z",
-      "action": "updated remark for SIN-PR-K340 at DAMBULLA: “one is not working”"
     }
   ]
 }
