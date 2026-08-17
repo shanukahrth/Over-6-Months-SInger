@@ -3716,6 +3716,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:41:35",
       "lastUpdated": "2026-08-17T04:11:35.675Z"
+    },
+    "ULED32D60A||DAMBULLA": {
+      "remark": "K number received - not collected yet",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:41:58",
+      "lastUpdated": "2026-08-17T04:11:58.397Z"
     }
   },
   "showroomVisits": {
@@ -3953,6 +3960,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:41:58",
+      "iso": "2026-08-17T04:11:58.398Z",
+      "action": "updated remark for ULED32D60A at DAMBULLA: “K number received - not collected yet”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4295,13 +4309,6 @@
       "time": "09:32:43",
       "iso": "2026-08-14T04:02:43.200Z",
       "action": "updated MORATUWA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "09:32:35",
-      "iso": "2026-08-14T04:02:35.969Z",
-      "action": "updated MORATUWA showroom (visitDate: 2026-08-12)"
     }
   ]
 }
