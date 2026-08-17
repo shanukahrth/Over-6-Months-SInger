@@ -8623,6 +8623,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:30:29",
       "lastUpdated": "2026-08-17T13:00:29.685Z"
+    },
+    "SLE40E710||PILIMATHALAWA - B": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:30:37",
+      "lastUpdated": "2026-08-17T13:00:37.222Z"
     }
   },
   "showroomVisits": {
@@ -8900,6 +8907,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:30:37",
+      "iso": "2026-08-17T13:00:37.223Z",
+      "action": "updated remark for SLE40E710 at PILIMATHALAWA - B: “Pending Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9242,13 +9256,6 @@
       "time": "18:24:31",
       "iso": "2026-08-17T12:54:31.032Z",
       "action": "updated remark for KN-MG510 at PILIMATHALAWA - B: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:24:04",
-      "iso": "2026-08-17T12:54:04.656Z",
-      "action": "updated remark for SIN-MRG-1008C at PILIMATHALAWA - B: “30%”"
     }
   ]
 }
