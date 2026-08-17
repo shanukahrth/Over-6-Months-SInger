@@ -4661,6 +4661,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:29:00",
       "lastUpdated": "2026-08-17T05:59:00.156Z"
+    },
+    "DELL3510-PNT-128-RCH-BLK||BUDGET SHOP-DAMBULLA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:29:45",
+      "lastUpdated": "2026-08-17T05:59:45.840Z"
     }
   },
   "showroomVisits": {
@@ -4906,6 +4913,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:29:45",
+      "iso": "2026-08-17T05:59:45.840Z",
+      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at BUDGET SHOP-DAMBULLA: “Damaged - 70%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5248,13 +5262,6 @@
       "time": "10:51:40",
       "iso": "2026-08-17T05:21:40.072Z",
       "action": "updated remark for HON-X6A-4-128-BLK at KURUNEGALA - D: “Discount - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:50:43",
-      "iso": "2026-08-17T05:20:43.438Z",
-      "action": "updated remark for AC-TEMP-Y7-18 at KURUNEGALA - D: “To Be Reported”"
     }
   ]
 }
