@@ -3555,6 +3555,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:27:28",
       "lastUpdated": "2026-08-17T03:57:28.126Z"
+    },
+    "H-RMRG024MFEOE||DAMBULLA": {
+      "remark": "Sellable condirion",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:28:12",
+      "lastUpdated": "2026-08-17T03:58:12.648Z"
     }
   },
   "showroomVisits": {
@@ -3792,6 +3799,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:28:12",
+      "iso": "2026-08-17T03:58:12.650Z",
+      "action": "updated remark for H-RMRG024MFEOE at DAMBULLA: “Sellable condirion”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4134,13 +4148,6 @@
       "time": "08:44:11",
       "iso": "2026-08-14T03:14:11.142Z",
       "action": "updated MATHUGAMA showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:43:13",
-      "iso": "2026-08-14T03:13:13.128Z",
-      "action": "updated PELAWATTA-MATU showroom (team: Colombo South MKT)"
     }
   ]
 }
