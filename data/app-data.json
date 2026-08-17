@@ -5641,6 +5641,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:45:02",
       "lastUpdated": "2026-08-17T08:15:02.296Z"
+    },
+    "LF-BUDGET-ST-AGO-S||HABARANA": {
+      "remark": "70% - Damaged",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:46:51",
+      "lastUpdated": "2026-08-17T08:16:51.516Z"
     }
   },
   "showroomVisits": {
@@ -5902,6 +5909,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:46:51",
+      "iso": "2026-08-17T08:16:51.517Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at HABARANA: “70% - Damaged”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6244,13 +6258,6 @@
       "time": "13:27:08",
       "iso": "2026-08-17T07:57:08.083Z",
       "action": "updated remark for SLE43G890 at HABARANA: “Revert - K number recieved”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:26:53",
-      "iso": "2026-08-17T07:56:53.521Z",
-      "action": "updated remark for BES-CRS-80 at HABARANA: “40% - displayed - can push the customer”"
     }
   ]
 }
