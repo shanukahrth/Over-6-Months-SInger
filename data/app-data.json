@@ -9409,11 +9409,11 @@
       "lastUpdated": "2026-08-17T14:00:29.731Z"
     },
     "SIN-PSVX938N||MUTUR": {
-      "remark": "Sold",
+      "remark": "Special price 15,000 - displayed",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "19:31:32",
-      "lastUpdated": "2026-08-17T14:01:32.138Z"
+      "commentTime": "19:31:49",
+      "lastUpdated": "2026-08-17T14:01:49.728Z"
     }
   },
   "showroomVisits": {
@@ -9739,6 +9739,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:31:49",
+      "iso": "2026-08-17T14:01:49.730Z",
+      "action": "updated remark for SIN-PSVX938N at MUTUR: “Special price 15,000 - displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10081,13 +10088,6 @@
       "time": "18:57:10",
       "iso": "2026-08-17T13:27:10.937Z",
       "action": "updated remark for TF-FP24-SCR342 at MUTUR: “20% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:56:02",
-      "iso": "2026-08-17T13:26:02.923Z",
-      "action": "updated remark for TF-FP24-SCR342 at MUTUR: “Sold to c”"
     }
   ]
 }
