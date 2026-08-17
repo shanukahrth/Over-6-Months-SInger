@@ -8854,6 +8854,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:45:09",
       "lastUpdated": "2026-08-17T13:15:09.528Z"
+    },
+    "SL-4MIXGR-N||HEMMATHAGAMA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:45:13",
+      "lastUpdated": "2026-08-17T13:15:13.313Z"
     }
   },
   "showroomVisits": {
@@ -9179,6 +9186,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:45:13",
+      "iso": "2026-08-17T13:15:13.314Z",
+      "action": "updated remark for SL-4MIXGR-N at HEMMATHAGAMA: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9521,13 +9535,6 @@
       "time": "18:37:09",
       "iso": "2026-08-17T13:07:09.566Z",
       "action": "updated KATUGASTOTA showroom (visitDate: 2026-08-14)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:37:06",
-      "iso": "2026-08-17T13:07:06.006Z",
-      "action": "updated KATUGASTOTA - B showroom (visited: Yes)"
     }
   ]
 }
