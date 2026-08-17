@@ -5741,11 +5741,11 @@
       "lastUpdated": "2026-08-17T10:19:34.573Z"
     },
     "SMW823AY7||KANTALAI": {
-      "remark": "45% discount for displayed unit",
+      "remark": "20%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "15:50:06",
-      "lastUpdated": "2026-08-17T10:20:06.258Z"
+      "commentTime": "15:50:37",
+      "lastUpdated": "2026-08-17T10:20:37.990Z"
     }
   },
   "showroomVisits": {
@@ -6015,6 +6015,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:50:37",
+      "iso": "2026-08-17T10:20:37.991Z",
+      "action": "updated remark for SMW823AY7 at KANTALAI: “20%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6357,13 +6364,6 @@
       "time": "13:39:49",
       "iso": "2026-08-17T08:09:49.683Z",
       "action": "updated remark for SMW823AY7 at CHENKALADY: “45% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:39:18",
-      "iso": "2026-08-17T08:09:18.981Z",
-      "action": "updated remark for GEO-182S-BU1 at CHENKALADY: “25% Discount”"
     }
   ]
 }
