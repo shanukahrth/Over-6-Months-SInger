@@ -3590,6 +3590,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:31:22",
       "lastUpdated": "2026-08-17T04:01:22.536Z"
+    },
+    "SMG-A36-5G-8-256-BLK||DAMBULLA": {
+      "remark": "Sellable condition - Sealed pack",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:31:37",
+      "lastUpdated": "2026-08-17T04:01:37.834Z"
     }
   },
   "showroomVisits": {
@@ -3827,6 +3834,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:31:37",
+      "iso": "2026-08-17T04:01:37.837Z",
+      "action": "updated remark for SMG-A36-5G-8-256-BLK at DAMBULLA: “Sellable condition - Sealed pack”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4169,13 +4183,6 @@
       "time": "08:51:39",
       "iso": "2026-08-14T03:21:39.193Z",
       "action": "updated BADURALIYA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:51:37",
-      "iso": "2026-08-14T03:21:37.244Z",
-      "action": "updated BADURALIYA showroom (visited: Yes)"
     }
   ]
 }
