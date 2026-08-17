@@ -9225,6 +9225,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:05:05",
       "lastUpdated": "2026-08-17T13:35:05.765Z"
+    },
+    "RIYLTA-MF12V4||MUTUR": {
+      "remark": "BM will send a memo to scrap",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:05:23",
+      "lastUpdated": "2026-08-17T13:35:23.267Z"
     }
   },
   "showroomVisits": {
@@ -9550,6 +9557,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:05:23",
+      "iso": "2026-08-17T13:35:23.268Z",
+      "action": "updated remark for RIYLTA-MF12V4 at MUTUR: “BM will send a memo to scrap”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9892,13 +9906,6 @@
       "time": "18:27:58",
       "iso": "2026-08-17T12:57:58.150Z",
       "action": "updated remark for WF-LEXUS-BDQ-S at MUTUR: “50% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:27:26",
-      "iso": "2026-08-17T12:57:26.715Z",
-      "action": "updated remark for WF-LILY-DRS at MUTUR: “Damaged - not sellable”"
     }
   ]
 }
