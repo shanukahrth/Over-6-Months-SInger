@@ -5872,6 +5872,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:07:48",
       "lastUpdated": "2026-08-17T10:37:48.569Z"
+    },
+    "DELL3511-I5-4G1TBMX-W11SL||MATALE": {
+      "remark": "Revert - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:07:57",
+      "lastUpdated": "2026-08-17T10:37:57.807Z"
     }
   },
   "showroomVisits": {
@@ -6141,6 +6148,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "16:07:57",
+      "iso": "2026-08-17T10:37:57.809Z",
+      "action": "updated remark for DELL3511-I5-4G1TBMX-W11SL at MATALE: “Revert - 70%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6482,13 +6496,6 @@
       "date": "2026-08-17",
       "time": "13:45:02",
       "iso": "2026-08-17T08:15:02.298Z",
-      "action": "updated remark for UJB-LB6027 at HABARANA: “45%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:44:59",
-      "iso": "2026-08-17T08:14:59.570Z",
       "action": "updated remark for UJB-LB6027 at HABARANA: “45%”"
     }
   ]
