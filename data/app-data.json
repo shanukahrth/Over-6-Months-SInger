@@ -4997,6 +4997,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "12:19:23",
       "lastUpdated": "2026-08-17T06:49:23.092Z"
+    },
+    "TCL20LPL-6-256-NSBLU||KURUNEGALA C": {
+      "remark": "Damage - 90% (Battery Issue)",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "12:20:04",
+      "lastUpdated": "2026-08-17T06:50:04.550Z"
     }
   },
   "showroomVisits": {
@@ -5250,6 +5257,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "12:20:04",
+      "iso": "2026-08-17T06:50:04.551Z",
+      "action": "updated remark for TCL20LPL-6-256-NSBLU at KURUNEGALA C: “Damage - 90% (Battery Issue)”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -5592,13 +5606,6 @@
       "time": "11:35:04",
       "iso": "2026-08-17T06:05:04.109Z",
       "action": "updated remark for SLE32E930 at BUDGET SHOP-DAMBULLA: “Revert”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:34:47",
-      "iso": "2026-08-17T06:04:47.095Z",
-      "action": "updated remark for TF-IT30-169 at BUDGET SHOP-DAMBULLA: “80% Discount”"
     }
   ]
 }
