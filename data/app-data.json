@@ -5601,11 +5601,11 @@
       "lastUpdated": "2026-08-17T08:13:30.325Z"
     },
     "SIN-RFC-1819||HABARANA": {
-      "remark": "10% discount",
+      "remark": "10%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "13:41:44",
-      "lastUpdated": "2026-08-17T08:11:44.111Z"
+      "commentTime": "13:44:50",
+      "lastUpdated": "2026-08-17T08:14:50.206Z"
     },
     "SIN-RFC-2058||HABARANA": {
       "remark": "10%",
@@ -5888,6 +5888,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:44:50",
+      "iso": "2026-08-17T08:14:50.208Z",
+      "action": "updated remark for SIN-RFC-1819 at HABARANA: “10%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6230,13 +6237,6 @@
       "time": "13:24:31",
       "iso": "2026-08-17T07:54:31.669Z",
       "action": "updated remark for HON-H90-12-512-GRN at HABARANA: “75%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:22:30",
-      "iso": "2026-08-17T07:52:30.577Z",
-      "action": "updated remark for H-BD-1054HVOS at HABARANA: “30% - Displayed”"
     }
   ]
 }
