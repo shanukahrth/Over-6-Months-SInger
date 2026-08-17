@@ -6068,6 +6068,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:25:10",
       "lastUpdated": "2026-08-17T11:55:10.389Z"
+    },
+    "LF-PODIUM-MWNT-S||KINNIYA": {
+      "remark": "transfer to the inventory",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:28:16",
+      "lastUpdated": "2026-08-17T11:58:16.692Z"
     }
   },
   "showroomVisits": {
@@ -6337,6 +6344,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "17:28:16",
+      "iso": "2026-08-17T11:58:16.693Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at KINNIYA: “transfer to the inventory”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6679,13 +6693,6 @@
       "time": "15:56:49",
       "iso": "2026-08-17T10:26:49.071Z",
       "action": "updated remark for RIYLTA-MF12V53B at KANTALAI: “50% - EOL”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:56:02",
-      "iso": "2026-08-17T10:26:02.805Z",
-      "action": "updated remark for R-BWS-02 at KANTALAI: “can sell for current price”"
     }
   ]
 }
