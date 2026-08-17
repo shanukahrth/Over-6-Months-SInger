@@ -4878,6 +4878,20 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:50:49",
       "lastUpdated": "2026-08-17T06:20:49.412Z"
+    },
+    "DELL-M-P2222H||BUDGET SHOP-DAMBULLA": {
+      "remark": "70% Discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:50:47",
+      "lastUpdated": "2026-08-17T06:20:47.849Z"
+    },
+    "PN-SC-UA30GS-K||BUDGET SHOP-DAMBULLA": {
+      "remark": "40% Discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:50:52",
+      "lastUpdated": "2026-08-17T06:20:52.603Z"
     }
   },
   "showroomVisits": {
@@ -5123,6 +5137,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:50:52",
+      "iso": "2026-08-17T06:20:52.604Z",
+      "action": "updated remark for PN-SC-UA30GS-K at BUDGET SHOP-DAMBULLA: “40% Discount”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:50:47",
+      "iso": "2026-08-17T06:20:47.850Z",
+      "action": "updated remark for DELL-M-P2222H at BUDGET SHOP-DAMBULLA: “70% Discount”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -5458,20 +5486,6 @@
       "time": "11:28:53",
       "iso": "2026-08-17T05:58:53.526Z",
       "action": "updated remark for HON-X9B-12-256-BLK at BUDGET SHOP-DAMBULLA: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:28:23",
-      "iso": "2026-08-17T05:58:23.618Z",
-      "action": "updated remark for ULED32D60A at BUDGET SHOP-DAMBULLA: “8 units can be sold, 8 damaged to be returned”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:27:07",
-      "iso": "2026-08-17T05:57:07.058Z",
-      "action": "updated remark for SLE43G890 at BUDGET SHOP-DAMBULLA: “Can sell for 60% discount”"
     }
   ]
 }
