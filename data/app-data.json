@@ -3501,11 +3501,11 @@
       "lastUpdated": "2026-08-17T03:55:46.122Z"
     },
     "HU-WATCHFIT4-BLK||KURUNEGALA B": {
-      "remark": "50% Discount",
+      "remark": "Discount - 50%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:24:56",
-      "lastUpdated": "2026-08-17T03:54:56.837Z"
+      "commentTime": "09:59:44",
+      "lastUpdated": "2026-08-17T04:29:44.170Z"
     },
     "SL-ECO55-SV||KURUNEGALA B": {
       "remark": "Damaged - 40%",
@@ -4255,6 +4255,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:59:44",
+      "iso": "2026-08-17T04:29:44.171Z",
+      "action": "updated remark for HU-WATCHFIT4-BLK at KURUNEGALA B: “Discount - 50%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
       "time": "09:59:19",
@@ -4596,13 +4603,6 @@
       "time": "09:45:21",
       "iso": "2026-08-17T04:15:21.820Z",
       "action": "updated remark for WF-ROM-DTO-S at DAMBULLA: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:45:03",
-      "iso": "2026-08-17T04:15:03.056Z",
-      "action": "updated remark for AES-HAV-30S at DAMBULLA: “10%”"
     }
   ]
 }
