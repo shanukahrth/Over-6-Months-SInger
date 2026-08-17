@@ -7286,6 +7286,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:54:29",
       "lastUpdated": "2026-08-17T12:24:29.690Z"
+    },
+    "TCL20L-4-128-ECBLK||BUDGET SHOP-K-GTOTA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:54:35",
+      "lastUpdated": "2026-08-17T12:24:35.037Z"
     }
   },
   "showroomVisits": {
@@ -7555,6 +7562,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "17:54:35",
+      "iso": "2026-08-17T12:24:35.037Z",
+      "action": "updated remark for TCL20L-4-128-ECBLK at BUDGET SHOP-K-GTOTA: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -7897,13 +7911,6 @@
       "time": "17:49:20",
       "iso": "2026-08-17T12:19:20.538Z",
       "action": "updated remark for STT-200K at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:49:19",
-      "iso": "2026-08-17T12:19:19.626Z",
-      "action": "updated remark for SL-TF2GCR at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
