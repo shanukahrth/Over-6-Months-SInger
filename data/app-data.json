@@ -8772,11 +8772,11 @@
       "lastUpdated": "2026-08-17T13:12:43.767Z"
     },
     "PN-NI-S530ASD||HEMMATHAGAMA": {
-      "remark": "27%",
+      "remark": "27% -System Discount only",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:42:49",
-      "lastUpdated": "2026-08-17T13:12:49.303Z"
+      "commentTime": "18:43:05",
+      "lastUpdated": "2026-08-17T13:13:05.057Z"
     }
   },
   "showroomVisits": {
@@ -9102,6 +9102,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:43:05",
+      "iso": "2026-08-17T13:13:05.058Z",
+      "action": "updated remark for PN-NI-S530ASD at HEMMATHAGAMA: “27% -System Discount only”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9444,13 +9451,6 @@
       "time": "18:30:19",
       "iso": "2026-08-17T13:00:19.635Z",
       "action": "updated remark for SLE32E930 at PILIMATHALAWA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:30:14",
-      "iso": "2026-08-17T13:00:14.106Z",
-      "action": "updated remark for CAN-I-MG2570S at PILIMATHALAWA - B: “Unsellable”"
     }
   ]
 }
