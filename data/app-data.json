@@ -3625,6 +3625,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:34:03",
       "lastUpdated": "2026-08-17T04:04:03.488Z"
+    },
+    "DELL5593-128-I5W10-SIL||KURUNEGALA B": {
+      "remark": "70% - Exchange",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:34:13",
+      "lastUpdated": "2026-08-17T04:04:13.902Z"
     }
   },
   "showroomVisits": {
@@ -3862,6 +3869,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:34:13",
+      "iso": "2026-08-17T04:04:13.903Z",
+      "action": "updated remark for DELL5593-128-I5W10-SIL at KURUNEGALA B: “70% - Exchange”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4204,13 +4218,6 @@
       "time": "08:52:27",
       "iso": "2026-08-14T03:22:27.779Z",
       "action": "updated PITIGALA showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:52:13",
-      "iso": "2026-08-14T03:22:13.226Z",
-      "action": "updated BATAPOLA-LITE showroom (team: Colombo South MKT)"
     }
   ]
 }
