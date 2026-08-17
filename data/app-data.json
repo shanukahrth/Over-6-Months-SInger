@@ -8651,6 +8651,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:31:55",
       "lastUpdated": "2026-08-17T13:01:55.016Z"
+    },
+    "TCLED32D65A||PILIMATHALAWA - B": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:32:07",
+      "lastUpdated": "2026-08-17T13:02:07.059Z"
     }
   },
   "showroomVisits": {
@@ -8928,6 +8935,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:32:07",
+      "iso": "2026-08-17T13:02:07.059Z",
+      "action": "updated remark for TCLED32D65A at PILIMATHALAWA - B: “Pending Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9270,13 +9284,6 @@
       "time": "18:24:58",
       "iso": "2026-08-17T12:54:58.480Z",
       "action": "updated remark for LP-AP01 at PILIMATHALAWA - B: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:24:53",
-      "iso": "2026-08-17T12:54:53.006Z",
-      "action": "updated remark for TH-TC-500 at PILIMATHALAWA - B: “55%”"
     }
   ]
 }
