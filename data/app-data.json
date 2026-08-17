@@ -4136,6 +4136,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:10:30",
       "lastUpdated": "2026-08-17T04:40:30.128Z"
+    },
+    "DH-I-C22EP-IMOU||DAMBULLA": {
+      "remark": "Sellable condition - Sealed pack",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:11:57",
+      "lastUpdated": "2026-08-17T04:41:57.965Z"
     }
   },
   "showroomVisits": {
@@ -4373,6 +4380,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:11:57",
+      "iso": "2026-08-17T04:41:57.987Z",
+      "action": "updated remark for DH-I-C22EP-IMOU at DAMBULLA: “Sellable condition - Sealed pack”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4715,13 +4729,6 @@
       "time": "09:52:45",
       "iso": "2026-08-17T04:22:45.650Z",
       "action": "updated remark for WF-TULIP-01-1S-S at KURUNEGALA B: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:52:35",
-      "iso": "2026-08-17T04:22:35.577Z",
-      "action": "updated remark for STO-EO30C at DAMBULLA: “80% Discount - displayed”"
     }
   ]
 }
