@@ -5132,11 +5132,11 @@
       "lastUpdated": "2026-08-17T07:39:49.193Z"
     },
     "MHC-V13||BUDGET SHOP-K-GTOTA": {
-      "remark": "80%",
+      "remark": "Unsellable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "13:10:01",
-      "lastUpdated": "2026-08-17T07:40:01.136Z"
+      "commentTime": "13:10:03",
+      "lastUpdated": "2026-08-17T07:40:03.446Z"
     }
   },
   "showroomVisits": {
@@ -5398,6 +5398,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "13:10:03",
+      "iso": "2026-08-17T07:40:03.447Z",
+      "action": "updated remark for MHC-V13 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -5740,13 +5747,6 @@
       "time": "11:49:35",
       "iso": "2026-08-17T06:19:35.599Z",
       "action": "updated remark for MSI-14G-I7-512-F1M-GRY at KURUNEGALA C: “Display - 15%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "11:48:40",
-      "iso": "2026-08-17T06:18:40.480Z",
-      "action": "updated remark for HU-MATEPAD-SE11-GRY at KURUNEGALA C: “Damaged - 80% (cannot sell)”"
     }
   ]
 }
