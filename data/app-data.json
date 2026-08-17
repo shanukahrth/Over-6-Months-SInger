@@ -9246,6 +9246,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:06:42",
       "lastUpdated": "2026-08-17T13:36:42.626Z"
+    },
+    "PF-SIGNA-BL-S||MUTUR": {
+      "remark": "20% - Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:07:17",
+      "lastUpdated": "2026-08-17T13:37:17.279Z"
     }
   },
   "showroomVisits": {
@@ -9571,6 +9578,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:07:17",
+      "iso": "2026-08-17T13:37:17.281Z",
+      "action": "updated remark for PF-SIGNA-BL-S at MUTUR: “20% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9913,13 +9927,6 @@
       "time": "18:29:51",
       "iso": "2026-08-17T12:59:51.641Z",
       "action": "updated remark for ULED32D60A at MUTUR: “Display issue - 80% disocunt”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:29:46",
-      "iso": "2026-08-17T12:59:46.325Z",
-      "action": "updated remark for ULED32D60A at MUTUR: “Display issue - 80%”"
     }
   ]
 }
