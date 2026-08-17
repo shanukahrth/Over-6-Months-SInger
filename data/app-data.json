@@ -8357,6 +8357,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:24:42",
       "lastUpdated": "2026-08-17T12:54:42.763Z"
+    },
+    "SL-PSM-8017||PILIMATHALAWA - B": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:24:47",
+      "lastUpdated": "2026-08-17T12:54:47.404Z"
     }
   },
   "showroomVisits": {
@@ -8634,6 +8641,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:24:47",
+      "iso": "2026-08-17T12:54:47.405Z",
+      "action": "updated remark for SL-PSM-8017 at PILIMATHALAWA - B: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8976,13 +8990,6 @@
       "time": "18:08:54",
       "iso": "2026-08-17T12:38:54.419Z",
       "action": "updated remark for SMG-A36-5G-8-256-BLK at GELIOYA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:08:40",
-      "iso": "2026-08-17T12:38:40.382Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at GELIOYA: “20%”"
     }
   ]
 }
