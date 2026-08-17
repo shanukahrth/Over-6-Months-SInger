@@ -8231,6 +8231,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:21:59",
       "lastUpdated": "2026-08-17T12:51:59.256Z"
+    },
+    "USHA-FS40-13B||PILIMATHALAWA - B": {
+      "remark": "Display unit damaged - 50% / Other - 10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:22:26",
+      "lastUpdated": "2026-08-17T12:52:26.439Z"
     }
   },
   "showroomVisits": {
@@ -8508,6 +8515,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:22:26",
+      "iso": "2026-08-17T12:52:26.440Z",
+      "action": "updated remark for USHA-FS40-13B at PILIMATHALAWA - B: “Display unit damaged - 50% / Other - 10%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8850,13 +8864,6 @@
       "time": "18:03:06",
       "iso": "2026-08-17T12:33:06.827Z",
       "action": "updated GELIOYA showroom (visitDate: 2026-08-14)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:03:03",
-      "iso": "2026-08-17T12:33:03.886Z",
-      "action": "updated GELIOYA showroom (visited: Yes)"
     }
   ]
 }
