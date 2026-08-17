@@ -4612,6 +4612,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:15:41",
       "lastUpdated": "2026-08-17T05:45:41.351Z"
+    },
+    "DELL3501-11G-I3W10-BLK||BUDGET SHOP-DAMBULLA": {
+      "remark": "Damaged - 70% discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:17:16",
+      "lastUpdated": "2026-08-17T05:47:16.941Z"
     }
   },
   "showroomVisits": {
@@ -4857,6 +4864,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:17:16",
+      "iso": "2026-08-17T05:47:16.941Z",
+      "action": "updated remark for DELL3501-11G-I3W10-BLK at BUDGET SHOP-DAMBULLA: “Damaged - 70% discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5199,13 +5213,6 @@
       "time": "10:49:52",
       "iso": "2026-08-17T05:19:52.327Z",
       "action": "updated remark for ACER-515-I3-8GB512-GRY at KURUNEGALA - D: “60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:49:46",
-      "iso": "2026-08-17T05:19:46.159Z",
-      "action": "updated remark for ACER-515-I3-8GB512-GRY at KURUNEGALA - D: “Damaged - 60%”"
     }
   ]
 }
