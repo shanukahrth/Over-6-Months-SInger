@@ -5620,6 +5620,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:43:47",
       "lastUpdated": "2026-08-17T08:13:47.308Z"
+    },
+    "PCP30||HABARANA": {
+      "remark": "70% - DISPLAYED",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:44:03",
+      "lastUpdated": "2026-08-17T08:14:03.623Z"
     }
   },
   "showroomVisits": {
@@ -5881,6 +5888,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:44:03",
+      "iso": "2026-08-17T08:14:03.624Z",
+      "action": "updated remark for PCP30 at HABARANA: “70% - DISPLAYED”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6223,13 +6237,6 @@
       "time": "13:23:58",
       "iso": "2026-08-17T07:53:58.931Z",
       "action": "updated remark for TF-GC715D28 at CHENKALADY: “90% Discount of”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:23:04",
-      "iso": "2026-08-17T07:53:04.596Z",
-      "action": "updated remark for TF-GC715D28 at CHENKALADY: “90% Discount”"
     }
   ]
 }
