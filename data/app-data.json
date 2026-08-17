@@ -8385,6 +8385,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:25:03",
       "lastUpdated": "2026-08-17T12:55:03.092Z"
+    },
+    "SL-PB-426||PILIMATHALAWA - B": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:25:08",
+      "lastUpdated": "2026-08-17T12:55:08.020Z"
     }
   },
   "showroomVisits": {
@@ -8662,6 +8669,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:25:08",
+      "iso": "2026-08-17T12:55:08.020Z",
+      "action": "updated remark for SL-PB-426 at PILIMATHALAWA - B: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9004,13 +9018,6 @@
       "time": "18:11:34",
       "iso": "2026-08-17T12:41:34.420Z",
       "action": "updated remark for SIN-PR-K340 at PABAHINNA-LITE (cleared)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:09:12",
-      "iso": "2026-08-17T12:39:12.653Z",
-      "action": "updated remark for BES-CRS-51 at GELIOYA: “10%”"
     }
   ]
 }
