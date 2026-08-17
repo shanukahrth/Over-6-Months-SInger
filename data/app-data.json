@@ -6147,11 +6147,11 @@
       "lastUpdated": "2026-08-17T12:05:49.863Z"
     },
     "DH-I-A22EP-G-IMOU||SHOMES- MATALE": {
-      "remark": "Damage - 85%",
+      "remark": "Damaged - 85%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-17",
-      "commentTime": "17:35:39",
-      "lastUpdated": "2026-08-17T12:05:39.801Z"
+      "commentTime": "17:35:52",
+      "lastUpdated": "2026-08-17T12:05:52.192Z"
     }
   },
   "showroomVisits": {
@@ -6421,6 +6421,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:35:52",
+      "iso": "2026-08-17T12:05:52.195Z",
+      "action": "updated remark for DH-I-A22EP-G-IMOU at SHOMES- MATALE: “Damaged - 85%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6763,13 +6770,6 @@
       "time": "16:07:57",
       "iso": "2026-08-17T10:37:57.809Z",
       "action": "updated remark for DELL3511-I5-4G1TBMX-W11SL at MATALE: “Revert - 70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "16:07:48",
-      "iso": "2026-08-17T10:37:48.570Z",
-      "action": "updated remark for WP-NSP-J-S at KANTALAI: “70%”"
     }
   ]
 }
