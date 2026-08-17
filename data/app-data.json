@@ -8028,6 +8028,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:05:38",
       "lastUpdated": "2026-08-17T12:35:38.261Z"
+    },
+    "WFI-LYON-CHR-S||GELIOYA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:05:47",
+      "lastUpdated": "2026-08-17T12:35:47.205Z"
     }
   },
   "showroomVisits": {
@@ -8305,6 +8312,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:05:47",
+      "iso": "2026-08-17T12:35:47.208Z",
+      "action": "updated remark for WFI-LYON-CHR-S at GELIOYA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8647,13 +8661,6 @@
       "time": "18:00:35",
       "iso": "2026-08-17T12:30:35.864Z",
       "action": "updated remark for TCL43S5400 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:00:34",
-      "iso": "2026-08-17T12:30:34.659Z",
-      "action": "updated remark for SMGUA32T4400 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
