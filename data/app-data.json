@@ -6110,6 +6110,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:32:05",
       "lastUpdated": "2026-08-17T12:02:05.839Z"
+    },
+    "MSI-MOD15-B13M-I7-BLK||SHOMES- MATALE": {
+      "remark": "Damage - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:32:43",
+      "lastUpdated": "2026-08-17T12:02:43.913Z"
     }
   },
   "showroomVisits": {
@@ -6379,6 +6386,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:32:43",
+      "iso": "2026-08-17T12:02:43.914Z",
+      "action": "updated remark for MSI-MOD15-B13M-I7-BLK at SHOMES- MATALE: “Damage - 60%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6721,13 +6735,6 @@
       "time": "16:02:56",
       "iso": "2026-08-17T10:32:56.375Z",
       "action": "updated remark for NCPO-DC200 at KANTALAI: “45% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "16:01:59",
-      "iso": "2026-08-17T10:31:59.816Z",
-      "action": "updated remark for UJB-LB6027 at KANTALAI: “45% - Displayed”"
     }
   ]
 }
