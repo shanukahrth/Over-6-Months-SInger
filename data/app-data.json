@@ -4152,11 +4152,11 @@
       "lastUpdated": "2026-08-17T04:43:42.435Z"
     },
     "CLOTHLINE-35PVC||DAMBULLA": {
-      "remark": "70% Discount - Old unit",
+      "remark": "70% Discount",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "10:14:46",
-      "lastUpdated": "2026-08-17T04:44:46.803Z"
+      "commentTime": "10:14:55",
+      "lastUpdated": "2026-08-17T04:44:55.827Z"
     }
   },
   "showroomVisits": {
@@ -4394,6 +4394,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:14:55",
+      "iso": "2026-08-17T04:44:55.828Z",
+      "action": "updated remark for CLOTHLINE-35PVC at DAMBULLA: “70% Discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4736,13 +4743,6 @@
       "time": "09:55:14",
       "iso": "2026-08-17T04:25:14.654Z",
       "action": "updated remark for TF-SI-ESS-242 at KURUNEGALA B: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:54:47",
-      "iso": "2026-08-17T04:24:47.275Z",
-      "action": "updated remark for USHA-FS40-13B at KURUNEGALA B: “Damaged - 50%”"
     }
   ]
 }
