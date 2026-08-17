@@ -3529,11 +3529,11 @@
       "lastUpdated": "2026-08-17T03:48:19.365Z"
     },
     "SLE55GENR||KURUNEGALA B": {
-      "remark": "Display - 40% (additional 10%)",
+      "remark": "Display - 40%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:19:19",
-      "lastUpdated": "2026-08-17T03:49:19.031Z"
+      "commentTime": "10:03:29",
+      "lastUpdated": "2026-08-17T04:33:29.095Z"
     },
     "USHA-FS40-13B||KURUNEGALA B": {
       "remark": "Damaged - 50%",
@@ -4271,6 +4271,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-17",
+      "time": "10:03:29",
+      "iso": "2026-08-17T04:33:29.097Z",
+      "action": "updated remark for SLE55GENR at KURUNEGALA B: “Display - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
       "time": "10:02:59",
       "iso": "2026-08-17T04:32:59.718Z",
       "action": "updated remark for SLMC-18DSLHS at KURUNEGALA B: “Can sell by the 31st of Aug”"
@@ -4610,13 +4617,6 @@
       "time": "09:47:14",
       "iso": "2026-08-17T04:17:14.409Z",
       "action": "updated remark for SIN-PR-K340 at DAMBULLA: “one is not working”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:46:53",
-      "iso": "2026-08-17T04:16:53.968Z",
-      "action": "updated remark for DH-I-F22FP-36B-IMOU at DAMBULLA: “Sellable condition”"
     }
   ]
 }
