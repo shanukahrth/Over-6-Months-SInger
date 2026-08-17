@@ -8182,6 +8182,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:21:02",
       "lastUpdated": "2026-08-17T12:51:02.084Z"
+    },
+    "SDV3605K||PILIMATHALAWA - B": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:21:07",
+      "lastUpdated": "2026-08-17T12:51:07.600Z"
     }
   },
   "showroomVisits": {
@@ -8459,6 +8466,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:21:07",
+      "iso": "2026-08-17T12:51:07.601Z",
+      "action": "updated remark for SDV3605K at PILIMATHALAWA - B: “MOP - 2,000”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8801,13 +8815,6 @@
       "time": "18:02:05",
       "iso": "2026-08-17T12:32:05.922Z",
       "action": "updated remark for HU-WATCHFITB39-G at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:02:04",
-      "iso": "2026-08-17T12:32:04.889Z",
-      "action": "updated remark for HU-WATCHFIT3-BLK at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
