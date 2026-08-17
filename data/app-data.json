@@ -8238,6 +8238,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:22:26",
       "lastUpdated": "2026-08-17T12:52:26.439Z"
+    },
+    "LF-LEO-LCUP-WNG-S||PILIMATHALAWA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:22:32",
+      "lastUpdated": "2026-08-17T12:52:32.455Z"
     }
   },
   "showroomVisits": {
@@ -8515,6 +8522,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:22:32",
+      "iso": "2026-08-17T12:52:32.456Z",
+      "action": "updated remark for LF-LEO-LCUP-WNG-S at PILIMATHALAWA - B: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8857,13 +8871,6 @@
       "time": "18:03:14",
       "iso": "2026-08-17T12:33:14.242Z",
       "action": "updated GELIOYA showroom (team: Team - Central)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:03:06",
-      "iso": "2026-08-17T12:33:06.827Z",
-      "action": "updated GELIOYA showroom (visitDate: 2026-08-14)"
     }
   ]
 }
