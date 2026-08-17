@@ -3494,11 +3494,11 @@
       "lastUpdated": "2026-08-17T03:51:13.561Z"
     },
     "CLOTHLINE-35PVC||KURUNEGALA B": {
-      "remark": "50% Discount",
-      "commentedBy": "MKT",
+      "remark": "60% Discount",
+      "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:06:01",
-      "lastUpdated": "2026-08-17T03:36:01.463Z"
+      "commentTime": "09:25:34",
+      "lastUpdated": "2026-08-17T03:55:34.315Z"
     },
     "HU-WATCHFIT4-BLK||KURUNEGALA B": {
       "remark": "50% Discount",
@@ -3778,6 +3778,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:25:34",
+      "iso": "2026-08-17T03:55:34.317Z",
+      "action": "updated remark for CLOTHLINE-35PVC at KURUNEGALA B: “60% Discount”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4120,13 +4127,6 @@
       "time": "08:42:42",
       "iso": "2026-08-14T03:12:42.253Z",
       "action": "updated KESBEWA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:42:37",
-      "iso": "2026-08-14T03:12:37.058Z",
-      "action": "updated KESBEWA showroom (visitDate: 2026-08-13)"
     }
   ]
 }
