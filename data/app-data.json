@@ -3534,6 +3534,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:19:19",
       "lastUpdated": "2026-08-17T03:49:19.031Z"
+    },
+    "USHA-FS40-13B||KURUNEGALA B": {
+      "remark": "50% - Damaged",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:23:30",
+      "lastUpdated": "2026-08-17T03:53:30.202Z"
     }
   },
   "showroomVisits": {
@@ -3771,6 +3778,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:23:30",
+      "iso": "2026-08-17T03:53:30.204Z",
+      "action": "updated remark for USHA-FS40-13B at KURUNEGALA B: “50% - Damaged”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4113,13 +4127,6 @@
       "time": "23:17:07",
       "iso": "2026-08-13T17:47:07.912Z",
       "action": "updated remark for WP-JUN-E-S at KADUGANNAWA: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:15:10",
-      "iso": "2026-08-13T17:45:10.606Z",
-      "action": "updated remark for SLE32D1800 at KADUGANNAWA: “Exchange”"
     }
   ]
 }
