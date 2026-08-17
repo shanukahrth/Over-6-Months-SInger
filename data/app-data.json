@@ -3872,11 +3872,11 @@
       "lastUpdated": "2026-08-17T04:21:43.539Z"
     },
     "WFI-MICHU-CHR-S||KURUNEGALA B": {
-      "remark": "Exhange",
+      "remark": "Exchange",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:52:13",
-      "lastUpdated": "2026-08-17T04:22:13.583Z"
+      "commentTime": "09:52:17",
+      "lastUpdated": "2026-08-17T04:22:17.755Z"
     }
   },
   "showroomVisits": {
@@ -4114,6 +4114,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:52:17",
+      "iso": "2026-08-17T04:22:17.756Z",
+      "action": "updated remark for WFI-MICHU-CHR-S at KURUNEGALA B: “Exchange”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4456,13 +4463,6 @@
       "time": "09:32:43",
       "iso": "2026-08-17T04:02:43.111Z",
       "action": "updated remark for HON-X9C-12-256-PPL at DAMBULLA: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:32:28",
-      "iso": "2026-08-17T04:02:28.870Z",
-      "action": "updated remark for AS-13G-I3-512GB-3851-SIL at KURUNEGALA B: “Display Issue - 50%”"
     }
   ]
 }
