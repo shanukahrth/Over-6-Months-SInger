@@ -5195,11 +5195,11 @@
       "lastUpdated": "2026-08-17T07:43:08.396Z"
     },
     "SVX6002||BUDGET SHOP-K-GTOTA": {
-      "remark": "85%",
+      "remark": "Unsellable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "13:13:27",
-      "lastUpdated": "2026-08-17T07:43:27.780Z"
+      "commentTime": "13:14:53",
+      "lastUpdated": "2026-08-17T07:44:53.855Z"
     },
     "SDM1120S||BUDGET SHOP-K-GTOTA": {
       "remark": "Unsellable",
@@ -5524,6 +5524,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "13:14:53",
+      "iso": "2026-08-17T07:44:53.856Z",
+      "action": "updated remark for SVX6002 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -5866,13 +5873,6 @@
       "time": "12:21:31",
       "iso": "2026-08-17T06:51:31.756Z",
       "action": "updated remark for SMG-A36-5G-12-256-BLK at KURUNEGALA C: “Display - 10%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "12:20:49",
-      "iso": "2026-08-17T06:50:49.051Z",
-      "action": "updated remark for SMG-A36-5G-8-128-BLK at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
