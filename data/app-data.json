@@ -5461,11 +5461,11 @@
       "lastUpdated": "2026-08-17T08:02:36.543Z"
     },
     "PN-TH-32M402N||HABARANA": {
-      "remark": "Penal damaged - factory fault - K number received",
+      "remark": "70% discount (Penal damaged - factory fault - K number received )",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "13:33:33",
-      "lastUpdated": "2026-08-17T08:03:33.636Z"
+      "commentTime": "13:34:41",
+      "lastUpdated": "2026-08-17T08:04:41.847Z"
     },
     "SIN-MH44SW||CHENKALADY": {
       "remark": "85% Discount",
@@ -5741,6 +5741,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:34:41",
+      "iso": "2026-08-17T08:04:41.849Z",
+      "action": "updated remark for PN-TH-32M402N at HABARANA: “70% discount (Penal damaged - factory fault - K number received )”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6083,13 +6090,6 @@
       "time": "13:13:51",
       "iso": "2026-08-17T07:43:51.566Z",
       "action": "updated remark for MB-SAFARI4S-RED at CHENKALADY: “Promotion already offered”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:13:41",
-      "iso": "2026-08-17T07:43:41.480Z",
-      "action": "updated remark for MB-SAFARI4S-RED at CHENKALADY: “Promotion already offerd”"
     }
   ]
 }
