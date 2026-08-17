@@ -5536,6 +5536,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:39:49",
       "lastUpdated": "2026-08-17T08:09:49.683Z"
+    },
+    "DH-I-F22FP-36B-IMOU||HABARANA": {
+      "remark": "80% - EOL",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:40:09",
+      "lastUpdated": "2026-08-17T08:10:09.551Z"
     }
   },
   "showroomVisits": {
@@ -5797,6 +5804,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:40:09",
+      "iso": "2026-08-17T08:10:09.552Z",
+      "action": "updated remark for DH-I-F22FP-36B-IMOU at HABARANA: “80% - EOL”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6139,13 +6153,6 @@
       "time": "13:15:30",
       "iso": "2026-08-17T07:45:30.251Z",
       "action": "updated remark for AS-13G-I3-256GB-248-BLU at CHENKALADY: “30% Discount offered”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:14:57",
-      "iso": "2026-08-17T07:44:57.614Z",
-      "action": "updated remark for SVX6008 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
