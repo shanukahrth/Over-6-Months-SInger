@@ -4556,6 +4556,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:09:24",
       "lastUpdated": "2026-08-17T05:39:24.637Z"
+    },
+    "SRS-XP500||BUDGET SHOP-DAMBULLA": {
+      "remark": "70% - Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:09:39",
+      "lastUpdated": "2026-08-17T05:39:39.772Z"
     }
   },
   "showroomVisits": {
@@ -4801,6 +4808,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:09:39",
+      "iso": "2026-08-17T05:39:39.774Z",
+      "action": "updated remark for SRS-XP500 at BUDGET SHOP-DAMBULLA: “70% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5143,13 +5157,6 @@
       "time": "10:45:38",
       "iso": "2026-08-17T05:15:38.093Z",
       "action": "updated remark for ACER-PJ-S1286H at KURUNEGALA - D: “Damaged - 40%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:44:51",
-      "iso": "2026-08-17T05:14:51.615Z",
-      "action": "updated remark for SL-INV-285G at BUDGET SHOP-DAMBULLA: “65% Discount”"
     }
   ]
 }
