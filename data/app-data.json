@@ -8602,6 +8602,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:30:06",
       "lastUpdated": "2026-08-17T13:00:06.052Z"
+    },
+    "SLE32E930||PILIMATHALAWA - B": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:30:19",
+      "lastUpdated": "2026-08-17T13:00:19.635Z"
     }
   },
   "showroomVisits": {
@@ -8879,6 +8886,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:30:19",
+      "iso": "2026-08-17T13:00:19.635Z",
+      "action": "updated remark for SLE32E930 at PILIMATHALAWA - B: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9221,13 +9235,6 @@
       "time": "18:23:56",
       "iso": "2026-08-17T12:53:56.442Z",
       "action": "updated remark for PF-MONDY-BLACK at PILIMATHALAWA - B: “Sellable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:23:46",
-      "iso": "2026-08-17T12:53:46.431Z",
-      "action": "updated remark for PF-ENVISION-BL-S at PILIMATHALAWA - B: “Sellable at Existing Price”"
     }
   ]
 }
