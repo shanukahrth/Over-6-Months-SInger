@@ -4262,6 +4262,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:41:06",
       "lastUpdated": "2026-08-17T05:11:06.941Z"
+    },
+    "PN-NR-BK468BQKX||BUDGET SHOP-DAMBULLA": {
+      "remark": "70% Discount - Dents on the door",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:41:12",
+      "lastUpdated": "2026-08-17T05:11:12.051Z"
     }
   },
   "showroomVisits": {
@@ -4499,6 +4506,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:41:12",
+      "iso": "2026-08-17T05:11:12.053Z",
+      "action": "updated remark for PN-NR-BK468BQKX at BUDGET SHOP-DAMBULLA: “70% Discount - Dents on the door”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4841,13 +4855,6 @@
       "time": "10:04:40",
       "iso": "2026-08-17T04:34:40.396Z",
       "action": "updated remark for SLE32D1800 at KURUNEGALA B: “Revert/ Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:04:38",
-      "iso": "2026-08-17T04:34:38.046Z",
-      "action": "updated remark for SLE32D2010TC at KURUNEGALA B: “Revert/ Damaged - 90%”"
     }
   ]
 }
