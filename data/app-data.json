@@ -4402,6 +4402,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:50:43",
       "lastUpdated": "2026-08-17T05:20:43.437Z"
+    },
+    "PN-SC-UA7GS-K||KURUNEGALA - D": {
+      "remark": "Display/Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:54:19",
+      "lastUpdated": "2026-08-17T05:24:19.014Z"
     }
   },
   "showroomVisits": {
@@ -4647,6 +4654,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:54:19",
+      "iso": "2026-08-17T05:24:19.016Z",
+      "action": "updated remark for PN-SC-UA7GS-K at KURUNEGALA - D: “Display/Damaged - 50%”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4989,13 +5003,6 @@
       "time": "10:18:14",
       "iso": "2026-08-17T04:48:14.358Z",
       "action": "updated remark for SB-DTYPE at DAMBULLA: “EOL - 80% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:17:26",
-      "iso": "2026-08-17T04:47:26.007Z",
-      "action": "updated remark for WC-RTC221 at DAMBULLA: “Damaged - 80% Discount”"
     }
   ]
 }
