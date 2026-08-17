@@ -6021,11 +6021,11 @@
       "lastUpdated": "2026-08-17T11:48:32.104Z"
     },
     "DPE-NUC-MINIPC-SSD120||KINNIYA": {
-      "remark": "to be transfered to shop inventory",
+      "remark": "to be transferred to shop inventory",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "17:19:15",
-      "lastUpdated": "2026-08-17T11:49:15.637Z"
+      "commentTime": "17:19:19",
+      "lastUpdated": "2026-08-17T11:49:19.373Z"
     }
   },
   "showroomVisits": {
@@ -6295,6 +6295,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "17:19:19",
+      "iso": "2026-08-17T11:49:19.373Z",
+      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at KINNIYA: “to be transferred to shop inventory”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6637,13 +6644,6 @@
       "time": "15:49:34",
       "iso": "2026-08-17T10:19:34.573Z",
       "action": "updated remark for SIN-NOTE-W10 at KANTALAI: “Revert - Damaged - not sellable”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:49:12",
-      "iso": "2026-08-17T10:19:12.619Z",
-      "action": "updated remark for HON-X7C-8-256-GRN at KANTALAI: “Sold”"
     }
   ]
 }
