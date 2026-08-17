@@ -9190,6 +9190,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:57:56",
       "lastUpdated": "2026-08-17T13:27:56.864Z"
+    },
+    "SIN-PR-K340||MUTUR": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:59:03",
+      "lastUpdated": "2026-08-17T13:29:03.916Z"
     }
   },
   "showroomVisits": {
@@ -9515,6 +9522,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "18:59:03",
+      "iso": "2026-08-17T13:29:03.917Z",
+      "action": "updated remark for SIN-PR-K340 at MUTUR: “30%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9857,13 +9871,6 @@
       "time": "18:22:00",
       "iso": "2026-08-17T12:52:00.340Z",
       "action": "updated remark for PN-TH-32M402N at MUTUR: “50% - displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:21:06",
-      "iso": "2026-08-17T12:51:06.226Z",
-      "action": "updated remark for PN-CS-XU12XKYW-8 at MUTUR: “Sold”"
     }
   ]
 }
