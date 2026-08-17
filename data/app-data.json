@@ -4584,6 +4584,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:12:05",
       "lastUpdated": "2026-08-17T05:42:05.839Z"
+    },
+    "DELL-LAT3400-I5W10PR||BUDGET SHOP-DAMBULLA": {
+      "remark": "70% - Damaged",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:13:28",
+      "lastUpdated": "2026-08-17T05:43:28.449Z"
     }
   },
   "showroomVisits": {
@@ -4829,6 +4836,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:13:28",
+      "iso": "2026-08-17T05:43:28.450Z",
+      "action": "updated remark for DELL-LAT3400-I5W10PR at BUDGET SHOP-DAMBULLA: “70% - Damaged”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5171,13 +5185,6 @@
       "time": "10:48:26",
       "iso": "2026-08-17T05:18:26.671Z",
       "action": "updated remark for WP-NEO258NF at BUDGET SHOP-DAMBULLA: “65% Discount”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:47:45",
-      "iso": "2026-08-17T05:17:45.998Z",
-      "action": "updated remark for U-B860 at KURUNEGALA - D: “Damaged - 50%”"
     }
   ]
 }
