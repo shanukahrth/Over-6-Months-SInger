@@ -8287,6 +8287,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:23:00",
       "lastUpdated": "2026-08-17T12:53:00.910Z"
+    },
+    "WFL-PLWFB-20X30||PILIMATHALAWA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:23:06",
+      "lastUpdated": "2026-08-17T12:53:06.495Z"
     }
   },
   "showroomVisits": {
@@ -8564,6 +8571,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:23:06",
+      "iso": "2026-08-17T12:53:06.496Z",
+      "action": "updated remark for WFL-PLWFB-20X30 at PILIMATHALAWA - B: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8906,13 +8920,6 @@
       "time": "18:04:54",
       "iso": "2026-08-17T12:34:54.991Z",
       "action": "updated remark for DPE-NUC-MINIPC-SSD120 at GELIOYA (cleared)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:04:50",
-      "iso": "2026-08-17T12:34:50.895Z",
-      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at GELIOYA: “10%”"
     }
   ]
 }
