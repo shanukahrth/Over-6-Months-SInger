@@ -4122,6 +4122,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:07:58",
       "lastUpdated": "2026-08-17T04:37:58.700Z"
+    },
+    "SIN-RFC-2058||DAMBULLA": {
+      "remark": "Sellable condition",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:08:22",
+      "lastUpdated": "2026-08-17T04:38:22.904Z"
     }
   },
   "showroomVisits": {
@@ -4359,6 +4366,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:08:22",
+      "iso": "2026-08-17T04:38:22.906Z",
+      "action": "updated remark for SIN-RFC-2058 at DAMBULLA: “Sellable condition”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4701,13 +4715,6 @@
       "time": "09:52:13",
       "iso": "2026-08-17T04:22:13.584Z",
       "action": "updated remark for WFI-MICHU-CHR-S at KURUNEGALA B: “Exhange”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:51:43",
-      "iso": "2026-08-17T04:21:43.540Z",
-      "action": "updated remark for WFL-SPM-72X60X7-S at KURUNEGALA B: “Additional - 15%”"
     }
   ]
 }
