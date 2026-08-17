@@ -5655,6 +5655,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:47:49",
       "lastUpdated": "2026-08-17T08:17:49.474Z"
+    },
+    "B-VCC6424E||RIDEEGAMA": {
+      "remark": "Display Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "14:42:07",
+      "lastUpdated": "2026-08-17T09:12:07.310Z"
     }
   },
   "showroomVisits": {
@@ -5924,6 +5931,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "14:42:07",
+      "iso": "2026-08-17T09:12:07.317Z",
+      "action": "updated remark for B-VCC6424E at RIDEEGAMA: “Display Damaged - 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-17",
@@ -6266,13 +6280,6 @@
       "time": "13:30:58",
       "iso": "2026-08-17T08:00:58.582Z",
       "action": "updated remark for SLE43G890 at CHENKALADY: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:29:37",
-      "iso": "2026-08-17T07:59:37.618Z",
-      "action": "updated remark for TF-GC715D28 at CHENKALADY: “90% discount”"
     }
   ]
 }
