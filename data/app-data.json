@@ -5634,6 +5634,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:44:48",
       "lastUpdated": "2026-08-17T08:14:48.530Z"
+    },
+    "UJB-LB6027||HABARANA": {
+      "remark": "45%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:45:02",
+      "lastUpdated": "2026-08-17T08:15:02.296Z"
     }
   },
   "showroomVisits": {
@@ -5895,6 +5902,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:45:02",
+      "iso": "2026-08-17T08:15:02.298Z",
+      "action": "updated remark for UJB-LB6027 at HABARANA: “45%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:44:59",
+      "iso": "2026-08-17T08:14:59.570Z",
+      "action": "updated remark for UJB-LB6027 at HABARANA: “45%”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6230,20 +6251,6 @@
       "time": "13:26:53",
       "iso": "2026-08-17T07:56:53.521Z",
       "action": "updated remark for BES-CRS-80 at HABARANA: “40% - displayed - can push the customer”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:26:29",
-      "iso": "2026-08-17T07:56:29.104Z",
-      "action": "updated remark for HON-X9B-12-256-ORG at CHENKALADY: “50% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:25:00",
-      "iso": "2026-08-17T07:55:00.278Z",
-      "action": "updated remark for WP-WFC105604RT-G at HABARANA: “35% - displayed”"
     }
   ]
 }
