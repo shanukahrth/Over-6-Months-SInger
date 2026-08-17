@@ -4129,6 +4129,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:08:22",
       "lastUpdated": "2026-08-17T04:38:22.904Z"
+    },
+    "LP-AP01||DAMBULLA": {
+      "remark": "S",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:09:30",
+      "lastUpdated": "2026-08-17T04:39:30.535Z"
     }
   },
   "showroomVisits": {
@@ -4366,6 +4373,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:09:30",
+      "iso": "2026-08-17T04:39:30.537Z",
+      "action": "updated remark for LP-AP01 at DAMBULLA: “S”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4708,13 +4722,6 @@
       "time": "09:52:17",
       "iso": "2026-08-17T04:22:17.756Z",
       "action": "updated remark for WFI-MICHU-CHR-S at KURUNEGALA B: “Exchange”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:52:13",
-      "iso": "2026-08-17T04:22:13.584Z",
-      "action": "updated remark for WFI-MICHU-CHR-S at KURUNEGALA B: “Exhange”"
     }
   ]
 }
