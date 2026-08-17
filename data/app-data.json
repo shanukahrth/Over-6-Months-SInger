@@ -5977,6 +5977,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:08:59",
       "lastUpdated": "2026-08-17T11:38:59.310Z"
+    },
+    "SMGRT28A3021GS||MATALE - B": {
+      "remark": "Revert - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:09:23",
+      "lastUpdated": "2026-08-17T11:39:23.668Z"
     }
   },
   "showroomVisits": {
@@ -6246,6 +6253,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:09:23",
+      "iso": "2026-08-17T11:39:23.670Z",
+      "action": "updated remark for SMGRT28A3021GS at MATALE - B: “Revert - 60%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6588,13 +6602,6 @@
       "time": "15:42:27",
       "iso": "2026-08-17T10:12:27.201Z",
       "action": "updated remark for SLE40D600A at KANTALAI: “revert - 60% discount , one is panel damaged,”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:41:25",
-      "iso": "2026-08-17T10:11:25.834Z",
-      "action": "updated remark for MB-SAFARI4S-BLU at KANTALAI: “Promotion already offered”"
     }
   ]
 }
