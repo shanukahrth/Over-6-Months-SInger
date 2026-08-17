@@ -3501,11 +3501,11 @@
       "lastUpdated": "2026-08-17T03:36:01.463Z"
     },
     "HU-WATCHFIT4-BLK||KURUNEGALA B": {
-      "remark": "60% Discount",
+      "remark": "50% Discount",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:24:48",
-      "lastUpdated": "2026-08-17T03:54:48.351Z"
+      "commentTime": "09:24:56",
+      "lastUpdated": "2026-08-17T03:54:56.837Z"
     },
     "SL-ECO55-SV||KURUNEGALA B": {
       "remark": "Damaged - 40%",
@@ -3778,6 +3778,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:24:56",
+      "iso": "2026-08-17T03:54:56.838Z",
+      "action": "updated remark for HU-WATCHFIT4-BLK at KURUNEGALA B: “50% Discount”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4120,13 +4127,6 @@
       "time": "08:42:37",
       "iso": "2026-08-14T03:12:37.058Z",
       "action": "updated KESBEWA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:42:34",
-      "iso": "2026-08-14T03:12:34.868Z",
-      "action": "updated KESBEWA showroom (visited: Yes)"
     }
   ]
 }
