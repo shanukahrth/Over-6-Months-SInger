@@ -3877,6 +3877,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:52:17",
       "lastUpdated": "2026-08-17T04:22:17.755Z"
+    },
+    "STO-EO30C||DAMBULLA": {
+      "remark": "80% Discount - displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:52:35",
+      "lastUpdated": "2026-08-17T04:22:35.576Z"
     }
   },
   "showroomVisits": {
@@ -4114,6 +4121,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:52:35",
+      "iso": "2026-08-17T04:22:35.577Z",
+      "action": "updated remark for STO-EO30C at DAMBULLA: “80% Discount - displayed”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4456,13 +4470,6 @@
       "time": "09:34:03",
       "iso": "2026-08-17T04:04:03.489Z",
       "action": "updated remark for SMG-A06-6-128-BLU at DAMBULLA: “1 sold, 40%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:32:43",
-      "iso": "2026-08-17T04:02:43.111Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at DAMBULLA: “Sold”"
     }
   ]
 }
