@@ -6208,6 +6208,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:44:35",
       "lastUpdated": "2026-08-17T12:14:35.942Z"
+    },
+    "TF-SI-ESS-242||SHOMES- MATALE": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:45:34",
+      "lastUpdated": "2026-08-17T12:15:34.220Z"
     }
   },
   "showroomVisits": {
@@ -6477,6 +6484,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:45:34",
+      "iso": "2026-08-17T12:15:34.223Z",
+      "action": "updated remark for TF-SI-ESS-242 at SHOMES- MATALE: “Damaged - 20%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6819,13 +6833,6 @@
       "time": "16:21:25",
       "iso": "2026-08-17T10:51:25.204Z",
       "action": "updated remark for HON-X7C-8-256-GRN at MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "16:21:11",
-      "iso": "2026-08-17T10:51:11.053Z",
-      "action": "updated remark for HON-X7B-8-256-GRN at MATALE: “Damaged - 50%”"
     }
   ]
 }
