@@ -7041,6 +7041,20 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:49:46",
       "lastUpdated": "2026-08-17T12:19:46.304Z"
+    },
+    "WFI-14190||SHOMES- MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:49:19",
+      "lastUpdated": "2026-08-17T12:19:19.382Z"
+    },
+    "WFI-MARCY-TBL-S||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:50:24",
+      "lastUpdated": "2026-08-17T12:20:24.330Z"
     }
   },
   "showroomVisits": {
@@ -7310,6 +7324,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:50:24",
+      "iso": "2026-08-17T12:20:24.333Z",
+      "action": "updated remark for WFI-MARCY-TBL-S at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:49:19",
+      "iso": "2026-08-17T12:19:19.385Z",
+      "action": "updated remark for WFI-14190 at SHOMES- MATALE: “Damaged - 85%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -7645,20 +7673,6 @@
       "time": "13:24:19",
       "iso": "2026-08-17T07:54:19.009Z",
       "action": "updated remark for KN-TTM021A at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:24:17",
-      "iso": "2026-08-17T07:54:17.780Z",
-      "action": "updated remark for KN-HM330 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:24:16",
-      "iso": "2026-08-17T07:54:16.592Z",
-      "action": "updated remark for KN-FDP303WH at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
