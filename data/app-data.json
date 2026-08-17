@@ -3604,6 +3604,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:32:24",
       "lastUpdated": "2026-08-17T04:02:24.701Z"
+    },
+    "AS-13G-I3-512GB-3851-SIL||KURUNEGALA B": {
+      "remark": "Display Issue - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:32:28",
+      "lastUpdated": "2026-08-17T04:02:28.870Z"
     }
   },
   "showroomVisits": {
@@ -3841,6 +3848,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:32:28",
+      "iso": "2026-08-17T04:02:28.870Z",
+      "action": "updated remark for AS-13G-I3-512GB-3851-SIL at KURUNEGALA B: “Display Issue - 50%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4183,13 +4197,6 @@
       "time": "08:52:02",
       "iso": "2026-08-14T03:22:02.786Z",
       "action": "updated BATAPOLA-LITE showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:51:49",
-      "iso": "2026-08-14T03:21:49.211Z",
-      "action": "updated BADURALIYA showroom (team: Colombo South MKT)"
     }
   ]
 }
