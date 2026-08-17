@@ -4948,6 +4948,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:56:50",
       "lastUpdated": "2026-08-17T06:26:50.914Z"
+    },
+    "HON-X8A-8-128-BLK||BUDGET SHOP-DAMBULLA": {
+      "remark": "Battery issue - 90%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:57:39",
+      "lastUpdated": "2026-08-17T06:27:39.501Z"
     }
   },
   "showroomVisits": {
@@ -5193,6 +5200,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:57:39",
+      "iso": "2026-08-17T06:27:39.502Z",
+      "action": "updated remark for HON-X8A-8-128-BLK at BUDGET SHOP-DAMBULLA: “Battery issue - 90%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5535,13 +5549,6 @@
       "time": "11:32:35",
       "iso": "2026-08-17T06:02:35.837Z",
       "action": "updated remark for WP-CHTW-200-S at BUDGET SHOP-DAMBULLA: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:32:05",
-      "iso": "2026-08-17T06:02:05.676Z",
-      "action": "updated remark for DELL-M-E2016HV at BUDGET SHOP-DAMBULLA: “80%”"
     }
   ]
 }
