@@ -8665,6 +8665,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:32:12",
       "lastUpdated": "2026-08-17T13:02:12.155Z"
+    },
+    "SWM-MET80GL||PILIMATHALAWA - B": {
+      "remark": "MOP - 40,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:32:22",
+      "lastUpdated": "2026-08-17T13:02:22.307Z"
     }
   },
   "showroomVisits": {
@@ -8942,6 +8949,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:32:22",
+      "iso": "2026-08-17T13:02:22.308Z",
+      "action": "updated remark for SWM-MET80GL at PILIMATHALAWA - B: “MOP - 40,000”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9284,13 +9298,6 @@
       "time": "18:25:08",
       "iso": "2026-08-17T12:55:08.020Z",
       "action": "updated remark for SL-PB-426 at PILIMATHALAWA - B: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:25:03",
-      "iso": "2026-08-17T12:55:03.093Z",
-      "action": "updated remark for KA-PB-426 at PILIMATHALAWA - B: “80%”"
     }
   ]
 }
