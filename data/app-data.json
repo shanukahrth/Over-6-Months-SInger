@@ -4148,8 +4148,8 @@
       "remark": "70% Discount",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "10:13:13",
-      "lastUpdated": "2026-08-17T04:43:13.260Z"
+      "commentTime": "10:13:42",
+      "lastUpdated": "2026-08-17T04:43:42.435Z"
     }
   },
   "showroomVisits": {
@@ -4387,6 +4387,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:13:42",
+      "iso": "2026-08-17T04:43:42.436Z",
+      "action": "updated remark for VT-EL31109CN at DAMBULLA: “70% Discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4729,13 +4736,6 @@
       "time": "09:54:43",
       "iso": "2026-08-17T04:24:43.679Z",
       "action": "updated remark for USHA-FS40-13B at KURUNEGALA B: “Damaged - 50”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:54:29",
-      "iso": "2026-08-17T04:24:29.278Z",
-      "action": "updated remark for UJB-LB6027 at KURUNEGALA B: “Exchange”"
     }
   ]
 }
