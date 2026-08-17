@@ -4185,6 +4185,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:17:26",
       "lastUpdated": "2026-08-17T04:47:26.004Z"
+    },
+    "SB-DTYPE||DAMBULLA": {
+      "remark": "EOL - 80% discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:18:14",
+      "lastUpdated": "2026-08-17T04:48:14.357Z"
     }
   },
   "showroomVisits": {
@@ -4422,6 +4429,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:18:14",
+      "iso": "2026-08-17T04:48:14.358Z",
+      "action": "updated remark for SB-DTYPE at DAMBULLA: “EOL - 80% discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4764,13 +4778,6 @@
       "time": "09:56:48",
       "iso": "2026-08-17T04:26:48.477Z",
       "action": "updated remark for SWM-FA70R at KURUNEGALA B: “Discolor/Display Issue - 60%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:56:42",
-      "iso": "2026-08-17T04:26:42.658Z",
-      "action": "updated remark for SIN-PSVX938 at DAMBULLA: “70% Discount”"
     }
   ]
 }
