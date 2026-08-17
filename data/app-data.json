@@ -8791,6 +8791,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:43:47",
       "lastUpdated": "2026-08-17T13:13:47.507Z"
+    },
+    "NCPO-FP200||HEMMATHAGAMA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:44:00",
+      "lastUpdated": "2026-08-17T13:14:00.584Z"
     }
   },
   "showroomVisits": {
@@ -9116,6 +9123,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:44:00",
+      "iso": "2026-08-17T13:14:00.586Z",
+      "action": "updated remark for NCPO-FP200 at HEMMATHAGAMA: “Additional 30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9458,13 +9472,6 @@
       "time": "18:30:37",
       "iso": "2026-08-17T13:00:37.223Z",
       "action": "updated remark for SLE40E710 at PILIMATHALAWA - B: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:30:29",
-      "iso": "2026-08-17T13:00:29.686Z",
-      "action": "updated remark for SLE40D600A at PILIMATHALAWA - B: “60%”"
     }
   ]
 }
