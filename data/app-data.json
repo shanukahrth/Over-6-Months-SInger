@@ -4416,6 +4416,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:55:19",
       "lastUpdated": "2026-08-17T05:25:19.156Z"
+    },
+    "HON-X9B-12-256-BLK||KURUNEGALA - D": {
+      "remark": "Display - can report by 31st of Aug",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:55:24",
+      "lastUpdated": "2026-08-17T05:25:24.471Z"
     }
   },
   "showroomVisits": {
@@ -4661,6 +4668,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:55:24",
+      "iso": "2026-08-17T05:25:24.472Z",
+      "action": "updated remark for HON-X9B-12-256-BLK at KURUNEGALA - D: “Display - can report by 31st of Aug”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5003,13 +5017,6 @@
       "time": "10:18:49",
       "iso": "2026-08-17T04:48:49.411Z",
       "action": "updated remark for HU-SECURITY at DAMBULLA: “Shop used - need to transfer”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:18:27",
-      "iso": "2026-08-17T04:48:27.749Z",
-      "action": "updated remark for WC-IK609 at DAMBULLA: “Damaged - 80% Discount”"
     }
   ]
 }
