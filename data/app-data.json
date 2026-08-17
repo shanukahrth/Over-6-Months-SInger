@@ -4234,6 +4234,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:36:28",
       "lastUpdated": "2026-08-17T05:06:28.427Z"
+    },
+    "HON-X5B-4-64-BLK||KURUNEGALA - D": {
+      "remark": "Damaged - 45%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:39:46",
+      "lastUpdated": "2026-08-17T05:09:46.181Z"
     }
   },
   "showroomVisits": {
@@ -4471,6 +4478,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:39:46",
+      "iso": "2026-08-17T05:09:46.181Z",
+      "action": "updated remark for HON-X5B-4-64-BLK at KURUNEGALA - D: “Damaged - 45%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4813,13 +4827,6 @@
       "time": "10:02:22",
       "iso": "2026-08-17T04:32:22.186Z",
       "action": "updated remark for SMGUA55DU7500 at KURUNEGALA B: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:00:20",
-      "iso": "2026-08-17T04:30:20.894Z",
-      "action": "updated remark for SMW823AY7 at KURUNEGALA B: “Display - (can sell this month)”"
     }
   ]
 }
