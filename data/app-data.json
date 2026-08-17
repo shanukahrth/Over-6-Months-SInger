@@ -8756,6 +8756,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:42:32",
       "lastUpdated": "2026-08-17T13:12:32.290Z"
+    },
+    "WFL-SOC-V010-RD-S||HEMMATHAGAMA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:42:40",
+      "lastUpdated": "2026-08-17T13:12:40.890Z"
     }
   },
   "showroomVisits": {
@@ -9081,6 +9088,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:42:40",
+      "iso": "2026-08-17T13:12:40.891Z",
+      "action": "updated remark for WFL-SOC-V010-RD-S at HEMMATHAGAMA: “Additional 10%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9423,13 +9437,6 @@
       "time": "18:29:55",
       "iso": "2026-08-17T12:59:55.168Z",
       "action": "updated remark for SLE24D1000 at PILIMATHALAWA - B: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:29:52",
-      "iso": "2026-08-17T12:59:52.917Z",
-      "action": "updated remark for SKY-32E2 at PILIMATHALAWA - B: “Unsellable”"
     }
   ]
 }
