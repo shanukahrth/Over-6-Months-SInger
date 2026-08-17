@@ -4712,11 +4712,11 @@
       "lastUpdated": "2026-08-17T06:02:35.835Z"
     },
     "TCLTB10-3-64-BLK||BUDGET SHOP-DAMBULLA": {
-      "remark": "80%",
+      "remark": "90%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "11:32:48",
-      "lastUpdated": "2026-08-17T06:02:48.096Z"
+      "commentTime": "11:33:04",
+      "lastUpdated": "2026-08-17T06:03:04.014Z"
     }
   },
   "showroomVisits": {
@@ -4962,6 +4962,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:33:04",
+      "iso": "2026-08-17T06:03:04.014Z",
+      "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5304,13 +5311,6 @@
       "time": "10:57:38",
       "iso": "2026-08-17T05:27:38.125Z",
       "action": "updated remark for NUBIA-NEO2-5G-8-256-GRY at KURUNEGALA - D: “Damaged - 50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:56:39",
-      "iso": "2026-08-17T05:26:39.807Z",
-      "action": "updated remark for PN-CS-SU24XKY-8 at BUDGET SHOP-DAMBULLA: “80% discount - Parts missing,”"
     }
   ]
 }
