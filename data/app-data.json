@@ -8807,25 +8807,25 @@
       "lastUpdated": "2026-08-17T13:14:37.910Z"
     },
     "SL-SST082||HEMMATHAGAMA": {
-      "remark": "30%",
+      "remark": "60%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:44:40",
-      "lastUpdated": "2026-08-17T13:14:40.020Z"
+      "commentTime": "18:44:46",
+      "lastUpdated": "2026-08-17T13:14:46.438Z"
     },
     "KA-LW-185A||HEMMATHAGAMA": {
-      "remark": "Additional 30%",
+      "remark": "60%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:44:07",
-      "lastUpdated": "2026-08-17T13:14:07.582Z"
+      "commentTime": "18:44:48",
+      "lastUpdated": "2026-08-17T13:14:48.457Z"
     },
     "KA-SDT26HW||HEMMATHAGAMA": {
-      "remark": "Additional 30%",
+      "remark": "40%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:44:09",
-      "lastUpdated": "2026-08-17T13:14:09.286Z"
+      "commentTime": "18:44:50",
+      "lastUpdated": "2026-08-17T13:14:50.485Z"
     },
     "KA-SST032BKI||HEMMATHAGAMA": {
       "remark": "Additional 30%",
@@ -9161,6 +9161,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-17",
+      "time": "18:44:50",
+      "iso": "2026-08-17T13:14:50.486Z",
+      "action": "updated remark for KA-SDT26HW at HEMMATHAGAMA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:44:48",
+      "iso": "2026-08-17T13:14:48.458Z",
+      "action": "updated remark for KA-LW-185A at HEMMATHAGAMA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:44:46",
+      "iso": "2026-08-17T13:14:46.441Z",
+      "action": "updated remark for SL-SST082 at HEMMATHAGAMA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
       "time": "18:44:40",
       "iso": "2026-08-17T13:14:40.021Z",
       "action": "updated remark for SL-SST082 at HEMMATHAGAMA: “30%”"
@@ -9486,27 +9507,6 @@
       "time": "18:32:43",
       "iso": "2026-08-17T13:02:43.521Z",
       "action": "updated remark for CLOTHLINE-35PVC at PILIMATHALAWA - B: “MOP - 500”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:32:39",
-      "iso": "2026-08-17T13:02:39.714Z",
-      "action": "updated remark for CLOTHLINE-35PVC at PILIMATHALAWA - B: “MOP - 500”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:32:33",
-      "iso": "2026-08-17T13:02:33.605Z",
-      "action": "updated remark for SWM-FA70R at PILIMATHALAWA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:32:31",
-      "iso": "2026-08-17T13:02:31.673Z",
-      "action": "updated remark for SWM-FA70R at PILIMATHALAWA - B: “50%”"
     }
   ]
 }
