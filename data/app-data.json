@@ -9010,13 +9010,20 @@
     "KANDY - B||KANDY": {
       "visited": "Yes",
       "visitDate": "2026-08-14",
-      "team": "",
+      "team": "Team - Central",
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:38:04",
+      "iso": "2026-08-17T13:08:04.409Z",
+      "action": "updated KANDY - B showroom (team: Team - Central)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9358,13 +9365,6 @@
       "date": "2026-08-17",
       "time": "18:28:01",
       "iso": "2026-08-17T12:58:01.678Z",
-      "action": "updated remark for BES-WP15-ECO at PILIMATHALAWA - B: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:27:59",
-      "iso": "2026-08-17T12:57:59.058Z",
       "action": "updated remark for BES-WP15-ECO at PILIMATHALAWA - B: “40%”"
     }
   ]
