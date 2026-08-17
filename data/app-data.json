@@ -5342,11 +5342,11 @@
       "lastUpdated": "2026-08-17T07:50:46.677Z"
     },
     "TF-GC715D28||CHENKALADY": {
-      "remark": "90% Discount of",
+      "remark": "90% discount",
       "commentedBy": "Gayan Sooriarachchi",
       "commentDate": "2026-08-17",
-      "commentTime": "13:23:58",
-      "lastUpdated": "2026-08-17T07:53:58.928Z"
+      "commentTime": "13:29:37",
+      "lastUpdated": "2026-08-17T07:59:37.617Z"
     },
     "BES-CRS-51||CHENKALADY": {
       "remark": "15 % Discount",
@@ -5678,6 +5678,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Gayan Sooriarachchi",
+      "date": "2026-08-17",
+      "time": "13:29:37",
+      "iso": "2026-08-17T07:59:37.618Z",
+      "action": "updated remark for TF-GC715D28 at CHENKALADY: “90% discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6020,13 +6027,6 @@
       "time": "13:12:42",
       "iso": "2026-08-17T07:42:42.604Z",
       "action": "updated remark for SPAS81BT at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:12:32",
-      "iso": "2026-08-17T07:42:32.743Z",
-      "action": "updated remark for SMGHW-K350 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
