@@ -3795,11 +3795,11 @@
       "lastUpdated": "2026-08-17T04:16:53.967Z"
     },
     "SIN-PR-K340||DAMBULLA": {
-      "remark": "one is not working - Brand Manager to comment",
+      "remark": "34% discount for displayed one",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "09:47:29",
-      "lastUpdated": "2026-08-17T04:17:29.175Z"
+      "commentTime": "09:48:15",
+      "lastUpdated": "2026-08-17T04:18:15.633Z"
     },
     "WP-WDC11704RG-G||KURUNEGALA B": {
       "remark": "Sold",
@@ -3814,6 +3814,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:47:42",
       "lastUpdated": "2026-08-17T04:17:42.117Z"
+    },
+    "SIN-PSVX938||DAMBULLA": {
+      "remark": "Revert",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:48:19",
+      "lastUpdated": "2026-08-17T04:18:19.064Z"
     }
   },
   "showroomVisits": {
@@ -4051,6 +4058,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:48:19",
+      "iso": "2026-08-17T04:18:19.067Z",
+      "action": "updated remark for SIN-PSVX938 at DAMBULLA: “Revert”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:48:15",
+      "iso": "2026-08-17T04:18:15.635Z",
+      "action": "updated remark for SIN-PR-K340 at DAMBULLA: “34% discount for displayed one”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4386,20 +4407,6 @@
       "time": "09:25:46",
       "iso": "2026-08-17T03:55:46.144Z",
       "action": "updated remark for CLOTHLINE-35PVC at KURUNEGALA B: “50% Discount”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:25:34",
-      "iso": "2026-08-17T03:55:34.317Z",
-      "action": "updated remark for CLOTHLINE-35PVC at KURUNEGALA B: “60% Discount”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:24:56",
-      "iso": "2026-08-17T03:54:56.838Z",
-      "action": "updated remark for HU-WATCHFIT4-BLK at KURUNEGALA B: “50% Discount”"
     }
   ]
 }
