@@ -5683,6 +5683,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "15:41:25",
       "lastUpdated": "2026-08-17T10:11:25.831Z"
+    },
+    "SLE40D600A||KANTALAI": {
+      "remark": "revert - 60% discount, one is panel damaged,",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "15:42:27",
+      "lastUpdated": "2026-08-17T10:12:27.738Z"
     }
   },
   "showroomVisits": {
@@ -5952,6 +5959,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:42:27",
+      "iso": "2026-08-17T10:12:27.739Z",
+      "action": "updated remark for SLE40D600A at KANTALAI: “revert - 60% discount, one is panel damaged,”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:42:27",
+      "iso": "2026-08-17T10:12:27.201Z",
+      "action": "updated remark for SLE40D600A at KANTALAI: “revert - 60% discount , one is panel damaged,”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6287,20 +6308,6 @@
       "time": "13:34:41",
       "iso": "2026-08-17T08:04:41.849Z",
       "action": "updated remark for PN-TH-32M402N at HABARANA: “70% discount (Penal damaged - factory fault - K number received )”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:33:57",
-      "iso": "2026-08-17T08:03:57.361Z",
-      "action": "updated remark for HON-X7C-8-256-BLK at HABARANA: “Sold”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:33:31",
-      "iso": "2026-08-17T08:03:31.302Z",
-      "action": "updated remark for SIN-MH44SW at CHENKALADY: “85% Discount”"
     }
   ]
 }
