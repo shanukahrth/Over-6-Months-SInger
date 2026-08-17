@@ -3536,11 +3536,11 @@
       "lastUpdated": "2026-08-17T03:49:19.031Z"
     },
     "USHA-FS40-13B||KURUNEGALA B": {
-      "remark": "50% - Damaged",
+      "remark": "Damaged - 50",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:23:30",
-      "lastUpdated": "2026-08-17T03:53:30.202Z"
+      "commentTime": "09:54:43",
+      "lastUpdated": "2026-08-17T04:24:43.678Z"
     },
     "WP-WDC11704RG-G||DAMBULLA": {
       "remark": "2 sealed pack - 24% Discount, Display - 44%",
@@ -4173,6 +4173,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-17",
+      "time": "09:54:43",
+      "iso": "2026-08-17T04:24:43.679Z",
+      "action": "updated remark for USHA-FS40-13B at KURUNEGALA B: “Damaged - 50”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
       "time": "09:54:29",
       "iso": "2026-08-17T04:24:29.278Z",
       "action": "updated remark for UJB-LB6027 at KURUNEGALA B: “Exchange”"
@@ -4512,13 +4519,6 @@
       "time": "09:38:46",
       "iso": "2026-08-17T04:08:46.955Z",
       "action": "updated remark for HON-H90LITE-8-256-CYAN at DAMBULLA: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:37:59",
-      "iso": "2026-08-17T04:07:59.949Z",
-      "action": "updated remark for BFS-150KG at DAMBULLA: “Battery dead - Brand manager to comment”"
     }
   ]
 }
