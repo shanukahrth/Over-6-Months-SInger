@@ -9393,6 +9393,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:27:22",
       "lastUpdated": "2026-08-17T13:57:22.282Z"
+    },
+    "BC-KNP-AG||MUTUR": {
+      "remark": "90% - Missing parts and EOL",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:27:44",
+      "lastUpdated": "2026-08-17T13:57:44.803Z"
     }
   },
   "showroomVisits": {
@@ -9718,6 +9725,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:27:44",
+      "iso": "2026-08-17T13:57:44.805Z",
+      "action": "updated remark for BC-KNP-AG at MUTUR: “90% - Missing parts and EOL”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10060,13 +10074,6 @@
       "time": "18:52:43",
       "iso": "2026-08-17T13:22:43.325Z",
       "action": "updated remark for SIN-PSVX938 at MUTUR: “80% Damaged - BM will service it and sell it to customer”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:51:49",
-      "iso": "2026-08-17T13:21:49.664Z",
-      "action": "updated remark for SIN-PSVX938N at MUTUR: “Special price - 15,000 - Displayed”"
     }
   ]
 }
