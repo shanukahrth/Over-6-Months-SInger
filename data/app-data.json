@@ -8301,6 +8301,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:23:19",
       "lastUpdated": "2026-08-17T12:53:19.931Z"
+    },
+    "WFL-SPM-72X72X8-S||PILIMATHALAWA - B": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:23:30",
+      "lastUpdated": "2026-08-17T12:53:30.769Z"
     }
   },
   "showroomVisits": {
@@ -8578,6 +8585,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:23:30",
+      "iso": "2026-08-17T12:53:30.770Z",
+      "action": "updated remark for WFL-SPM-72X72X8-S at PILIMATHALAWA - B: “Pending Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8920,13 +8934,6 @@
       "time": "18:05:38",
       "iso": "2026-08-17T12:35:38.262Z",
       "action": "updated remark for WFI-HELENA-TBL-S at GELIOYA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:05:03",
-      "iso": "2026-08-17T12:35:03.275Z",
-      "action": "updated remark for WFI-HELENA-CHR-S at GELIOYA: “Additional 10%”"
     }
   ]
 }
