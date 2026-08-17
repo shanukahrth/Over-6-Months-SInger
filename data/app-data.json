@@ -7811,6 +7811,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:00:45",
       "lastUpdated": "2026-08-17T12:30:45.368Z"
+    },
+    "TCL55V6B||BUDGET SHOP-K-GTOTA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:49",
+      "lastUpdated": "2026-08-17T12:30:49.211Z"
     }
   },
   "showroomVisits": {
@@ -8080,6 +8087,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:49",
+      "iso": "2026-08-17T12:30:49.212Z",
+      "action": "updated remark for TCL55V6B at BUDGET SHOP-K-GTOTA: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8422,13 +8436,6 @@
       "time": "17:57:21",
       "iso": "2026-08-17T12:27:21.500Z",
       "action": "updated remark for CAN-I-MG2570S at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:20",
-      "iso": "2026-08-17T12:27:20.586Z",
-      "action": "updated remark for CAN-I-E470 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
