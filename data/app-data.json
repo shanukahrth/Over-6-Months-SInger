@@ -5410,6 +5410,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:28:08",
       "lastUpdated": "2026-08-17T07:58:08.449Z"
+    },
+    "GEO-182S-BU1||HABARANA": {
+      "remark": "25%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:28:34",
+      "lastUpdated": "2026-08-17T07:58:34.244Z"
     }
   },
   "showroomVisits": {
@@ -5671,6 +5678,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:28:34",
+      "iso": "2026-08-17T07:58:34.246Z",
+      "action": "updated remark for GEO-182S-BU1 at HABARANA: “25%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6013,13 +6027,6 @@
       "time": "13:12:32",
       "iso": "2026-08-17T07:42:32.743Z",
       "action": "updated remark for SMGHW-K350 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:10:47",
-      "iso": "2026-08-17T07:40:47.632Z",
-      "action": "updated remark for SIN-W66PA28 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
