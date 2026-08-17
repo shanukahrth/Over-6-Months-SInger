@@ -5823,6 +5823,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:01:59",
       "lastUpdated": "2026-08-17T10:31:59.813Z"
+    },
+    "NCPO-DC200||KANTALAI": {
+      "remark": "45% - Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:02:56",
+      "lastUpdated": "2026-08-17T10:32:56.373Z"
     }
   },
   "showroomVisits": {
@@ -6092,6 +6099,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "16:02:56",
+      "iso": "2026-08-17T10:32:56.375Z",
+      "action": "updated remark for NCPO-DC200 at KANTALAI: “45% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6434,13 +6448,6 @@
       "time": "13:41:44",
       "iso": "2026-08-17T08:11:44.113Z",
       "action": "updated remark for SIN-RFC-1819 at HABARANA: “10% discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:43:30",
-      "iso": "2026-08-17T08:13:30.326Z",
-      "action": "updated remark for HON-X7C-8-256-GRN at CHENKALADY: “40% Discount”"
     }
   ]
 }
