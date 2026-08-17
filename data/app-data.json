@@ -5907,6 +5907,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:12:04",
       "lastUpdated": "2026-08-17T10:42:04.329Z"
+    },
+    "HON-X5PLUS-4-64-BLK||MATALE": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:15:22",
+      "lastUpdated": "2026-08-17T10:45:22.084Z"
     }
   },
   "showroomVisits": {
@@ -6176,6 +6183,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "16:15:22",
+      "iso": "2026-08-17T10:45:22.085Z",
+      "action": "updated remark for HON-X5PLUS-4-64-BLK at MATALE: “Damaged - 60%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6518,13 +6532,6 @@
       "time": "14:39:49",
       "iso": "2026-08-17T09:09:49.245Z",
       "action": "updated KATARAGAMA showroom (visitDate: 2026-08-17)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-17",
-      "time": "14:39:46",
-      "iso": "2026-08-17T09:09:46.595Z",
-      "action": "updated KATARAGAMA showroom (visited: Yes)"
     }
   ]
 }
