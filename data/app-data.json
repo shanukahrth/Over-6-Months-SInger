@@ -4311,6 +4311,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:44:36",
       "lastUpdated": "2026-08-17T05:14:36.113Z"
+    },
+    "SL-INV-285G||BUDGET SHOP-DAMBULLA": {
+      "remark": "65% Discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:44:51",
+      "lastUpdated": "2026-08-17T05:14:51.613Z"
     }
   },
   "showroomVisits": {
@@ -4556,6 +4563,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:44:51",
+      "iso": "2026-08-17T05:14:51.615Z",
+      "action": "updated remark for SL-INV-285G at BUDGET SHOP-DAMBULLA: “65% Discount”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:44:50",
+      "iso": "2026-08-17T05:14:50.037Z",
+      "action": "updated remark for SL-INV-285G at BUDGET SHOP-DAMBULLA: “65% Dsicount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4891,20 +4912,6 @@
       "time": "10:06:27",
       "iso": "2026-08-17T04:36:27.987Z",
       "action": "updated remark for TF-NIFP28-042 at DAMBULLA: “Sellable condition”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:06:24",
-      "iso": "2026-08-17T04:36:24.109Z",
-      "action": "updated remark for SIN-PSVX938N at KURUNEGALA B: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:06:19",
-      "iso": "2026-08-17T04:36:19.028Z",
-      "action": "updated remark for SIN-PSVX938 at KURUNEGALA B: “Display - 60%”"
     }
   ]
 }
