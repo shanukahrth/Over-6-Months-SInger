@@ -4178,6 +4178,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:16:59",
       "lastUpdated": "2026-08-17T04:46:59.794Z"
+    },
+    "WC-RTC221||DAMBULLA": {
+      "remark": "Damaged - 80% Discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:17:03",
+      "lastUpdated": "2026-08-17T04:47:03.696Z"
     }
   },
   "showroomVisits": {
@@ -4415,6 +4422,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:17:03",
+      "iso": "2026-08-17T04:47:03.697Z",
+      "action": "updated remark for WC-RTC221 at DAMBULLA: “Damaged - 80% Discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4757,13 +4771,6 @@
       "time": "09:56:06",
       "iso": "2026-08-17T04:26:06.779Z",
       "action": "updated remark for HU-BAND-6-GR at DAMBULLA: “80% - Unpacked unit”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:55:58",
-      "iso": "2026-08-17T04:25:58.524Z",
-      "action": "updated remark for CAN-I-MG2570S at KURUNEGALA B: “Discount - 80%”"
     }
   ]
 }
