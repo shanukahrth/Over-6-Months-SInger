@@ -6140,11 +6140,11 @@
       "lastUpdated": "2026-08-17T12:05:46.973Z"
     },
     "DH-IPC-F2CP-LED-0360B||SHOMES- MATALE": {
-      "remark": "Damage - 85%",
+      "remark": "Damaged - 85%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-17",
-      "commentTime": "17:35:37",
-      "lastUpdated": "2026-08-17T12:05:37.242Z"
+      "commentTime": "17:35:49",
+      "lastUpdated": "2026-08-17T12:05:49.863Z"
     },
     "DH-I-A22EP-G-IMOU||SHOMES- MATALE": {
       "remark": "Damage - 85%",
@@ -6421,6 +6421,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:35:49",
+      "iso": "2026-08-17T12:05:49.864Z",
+      "action": "updated remark for DH-IPC-F2CP-LED-0360B at SHOMES- MATALE: “Damaged - 85%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6763,13 +6770,6 @@
       "time": "16:07:48",
       "iso": "2026-08-17T10:37:48.570Z",
       "action": "updated remark for WP-NSP-J-S at KANTALAI: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "16:07:42",
-      "iso": "2026-08-17T10:37:42.349Z",
-      "action": "updated remark for WP-JUN-E-S at KANTALAI: “70%”"
     }
   ]
 }
