@@ -4229,11 +4229,11 @@
       "lastUpdated": "2026-08-17T05:03:32.409Z"
     },
     "PN-NR-BG272DALK||BUDGET SHOP-DAMBULLA": {
-      "remark": "50% Dsicount",
+      "remark": "50% Discount",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "10:34:27",
-      "lastUpdated": "2026-08-17T05:04:27.455Z"
+      "commentTime": "10:34:33",
+      "lastUpdated": "2026-08-17T05:04:33.874Z"
     }
   },
   "showroomVisits": {
@@ -4471,6 +4471,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:34:33",
+      "iso": "2026-08-17T05:04:33.875Z",
+      "action": "updated remark for PN-NR-BG272DALK at BUDGET SHOP-DAMBULLA: “50% Discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4813,13 +4820,6 @@
       "time": "09:59:19",
       "iso": "2026-08-17T04:29:19.978Z",
       "action": "updated remark for TF-SI-ESS-242 at DAMBULLA: “10% - Slow moving”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:58:16",
-      "iso": "2026-08-17T04:28:16.678Z",
-      "action": "updated remark for SMW823AY7 at DAMBULLA: “Sellable condition”"
     }
   ]
 }
