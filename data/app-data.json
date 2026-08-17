@@ -8263,13 +8263,20 @@
     "GELIOYA||KANDY": {
       "visited": "Yes",
       "visitDate": "2026-08-14",
-      "team": "",
+      "team": "Team - Central",
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:03:14",
+      "iso": "2026-08-17T12:33:14.242Z",
+      "action": "updated GELIOYA showroom (team: Team - Central)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8612,13 +8619,6 @@
       "time": "18:00:20",
       "iso": "2026-08-17T12:30:20.401Z",
       "action": "updated remark for PN-TH-43MS670N at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:00:19",
-      "iso": "2026-08-17T12:30:19.495Z",
-      "action": "updated remark for PN-TH-32MS670N at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
