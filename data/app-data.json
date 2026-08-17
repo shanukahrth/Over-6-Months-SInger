@@ -8742,6 +8742,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:42:12",
       "lastUpdated": "2026-08-17T13:12:12.055Z"
+    },
+    "WF-ROME-02-S||HEMMATHAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:42:29",
+      "lastUpdated": "2026-08-17T13:12:29.074Z"
     }
   },
   "showroomVisits": {
@@ -9067,6 +9074,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:42:29",
+      "iso": "2026-08-17T13:12:29.075Z",
+      "action": "updated remark for WF-ROME-02-S at HEMMATHAGAMA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9409,13 +9423,6 @@
       "time": "18:29:42",
       "iso": "2026-08-17T12:59:42.878Z",
       "action": "updated remark for SLE32E810 at PILIMATHALAWA - B: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:29:36",
-      "iso": "2026-08-17T12:59:36.233Z",
-      "action": "updated remark for SLE24D1000 at PILIMATHALAWA - B: “Defective”"
     }
   ]
 }
