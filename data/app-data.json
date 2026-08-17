@@ -3858,11 +3858,11 @@
       "lastUpdated": "2026-08-17T04:21:33.286Z"
     },
     "WFL-SPM-72X60X8-S||KURUNEGALA B": {
-      "remark": "Additionla - 15%",
+      "remark": "Additional - 15%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:51:32",
-      "lastUpdated": "2026-08-17T04:21:32.664Z"
+      "commentTime": "09:51:40",
+      "lastUpdated": "2026-08-17T04:21:40.967Z"
     }
   },
   "showroomVisits": {
@@ -4100,6 +4100,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:51:40",
+      "iso": "2026-08-17T04:21:40.969Z",
+      "action": "updated remark for WFL-SPM-72X60X8-S at KURUNEGALA B: “Additional - 15%”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4442,13 +4449,6 @@
       "time": "09:31:37",
       "iso": "2026-08-17T04:01:37.837Z",
       "action": "updated remark for SMG-A36-5G-8-256-BLK at DAMBULLA: “Sellable condition - Sealed pack”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:31:22",
-      "iso": "2026-08-17T04:01:22.538Z",
-      "action": "updated remark for BOSE-QCOMBUDS-SNSTN at DAMBULLA: “Sold”"
     }
   ]
 }
