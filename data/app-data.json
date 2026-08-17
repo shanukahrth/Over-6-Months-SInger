@@ -7134,11 +7134,11 @@
       "lastUpdated": "2026-08-17T12:22:17.014Z"
     },
     "HON-X8B-8-512-SIL||BUDGET SHOP-K-GTOTA": {
-      "remark": "Unsellable",
+      "remark": "70%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "17:52:18",
-      "lastUpdated": "2026-08-17T12:22:18.211Z"
+      "commentTime": "17:52:37",
+      "lastUpdated": "2026-08-17T12:22:37.583Z"
     },
     "HON-X9B-12-256-BLK||BUDGET SHOP-K-GTOTA": {
       "remark": "Unsellable",
@@ -7422,6 +7422,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "17:52:37",
+      "iso": "2026-08-17T12:22:37.583Z",
+      "action": "updated remark for HON-X8B-8-512-SIL at BUDGET SHOP-K-GTOTA: “70%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -7764,13 +7771,6 @@
       "time": "13:25:44",
       "iso": "2026-08-17T07:55:44.206Z",
       "action": "updated remark for SW-SK22150GRY at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:25:42",
-      "iso": "2026-08-17T07:55:42.720Z",
-      "action": "updated remark for SW-SK22150BLUN at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
