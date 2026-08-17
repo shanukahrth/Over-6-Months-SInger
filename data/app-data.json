@@ -4073,6 +4073,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:05:03",
       "lastUpdated": "2026-08-17T04:35:03.755Z"
+    },
+    "SIS277CU||KURUNEGALA B": {
+      "remark": "Exchange",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:05:22",
+      "lastUpdated": "2026-08-17T04:35:22.252Z"
     }
   },
   "showroomVisits": {
@@ -4310,6 +4317,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:05:22",
+      "iso": "2026-08-17T04:35:22.253Z",
+      "action": "updated remark for SIS277CU at KURUNEGALA B: “Exchange”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4652,13 +4666,6 @@
       "time": "09:49:44",
       "iso": "2026-08-17T04:19:44.876Z",
       "action": "updated remark for HON-X6B-6-128-GRN at KURUNEGALA B: “Battery Issue - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:49:08",
-      "iso": "2026-08-17T04:19:08.643Z",
-      "action": "updated remark for WFL-SPM-78X48X7-S at KURUNEGALA B: “Damaged - 95%”"
     }
   ]
 }
