@@ -4640,6 +4640,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:27:07",
       "lastUpdated": "2026-08-17T05:57:07.056Z"
+    },
+    "ULED32D60A||BUDGET SHOP-DAMBULLA": {
+      "remark": "8 units can be sold, 8 damaged to be returned",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:28:23",
+      "lastUpdated": "2026-08-17T05:58:23.616Z"
     }
   },
   "showroomVisits": {
@@ -4885,6 +4892,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:28:23",
+      "iso": "2026-08-17T05:58:23.618Z",
+      "action": "updated remark for ULED32D60A at BUDGET SHOP-DAMBULLA: “8 units can be sold, 8 damaged to be returned”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5227,13 +5241,6 @@
       "time": "10:50:41",
       "iso": "2026-08-17T05:20:41.008Z",
       "action": "updated remark for AC-TEMP-Y9-18 at KURUNEGALA - D: “To Be Reported”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:50:39",
-      "iso": "2026-08-17T05:20:39.879Z",
-      "action": "updated remark for AC-TEMP-Y5-17 at KURUNEGALA - D: “To Be Reported”"
     }
   ]
 }
