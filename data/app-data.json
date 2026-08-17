@@ -5767,6 +5767,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "15:52:55",
       "lastUpdated": "2026-08-17T10:22:55.406Z"
+    },
+    "SDV3605K||KANTALAI": {
+      "remark": "80% - damaged",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "15:54:30",
+      "lastUpdated": "2026-08-17T10:24:30.897Z"
     }
   },
   "showroomVisits": {
@@ -6036,6 +6043,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:54:30",
+      "iso": "2026-08-17T10:24:30.898Z",
+      "action": "updated remark for SDV3605K at KANTALAI: “80% - damaged”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6377,13 +6391,6 @@
       "date": "2026-08-17",
       "time": "13:40:36",
       "iso": "2026-08-17T08:10:36.595Z",
-      "action": "updated remark for SWM-FA70R at CHENKALADY: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:40:28",
-      "iso": "2026-08-17T08:10:28.545Z",
       "action": "updated remark for SWM-FA70R at CHENKALADY: “50% Discount”"
     }
   ]
