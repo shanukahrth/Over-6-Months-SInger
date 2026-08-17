@@ -9407,6 +9407,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:30:01",
       "lastUpdated": "2026-08-17T14:00:01.791Z"
+    },
+    "123453213||MUTUR": {
+      "remark": "50% - EOL",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:30:29",
+      "lastUpdated": "2026-08-17T14:00:29.731Z"
     }
   },
   "showroomVisits": {
@@ -9732,6 +9739,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:30:29",
+      "iso": "2026-08-17T14:00:29.732Z",
+      "action": "updated remark for 123453213 at MUTUR: “50% - EOL”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10074,13 +10088,6 @@
       "time": "18:54:22",
       "iso": "2026-08-17T13:24:22.614Z",
       "action": "updated remark for TF-FP24-SCR342 at MUTUR: “20% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:53:01",
-      "iso": "2026-08-17T13:23:01.619Z",
-      "action": "updated remark for SIN-PSVX938 at MUTUR: “80% Damaged (no Sound) - BM will service it and sell it to customer”"
     }
   ]
 }
