@@ -6082,6 +6082,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:28:30",
       "lastUpdated": "2026-08-17T11:58:30.521Z"
+    },
+    "EDU-HDMI||KINNIYA": {
+      "remark": "transfer",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:30:50",
+      "lastUpdated": "2026-08-17T12:00:50.537Z"
     }
   },
   "showroomVisits": {
@@ -6351,6 +6358,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "17:30:50",
+      "iso": "2026-08-17T12:00:50.540Z",
+      "action": "updated remark for EDU-HDMI at KINNIYA: “transfer”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6693,13 +6707,6 @@
       "time": "15:57:37",
       "iso": "2026-08-17T10:27:37.805Z",
       "action": "updated remark for KA-LW-185A at KANTALAI: “80% - dislayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:57:17",
-      "iso": "2026-08-17T10:27:17.678Z",
-      "action": "updated remark for PCP50 at KANTALAI: “75% - Displayed”"
     }
   ]
 }
