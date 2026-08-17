@@ -6126,11 +6126,11 @@
       "lastUpdated": "2026-08-17T12:03:03.817Z"
     },
     "DH-XVR1B16H||SHOMES- MATALE": {
-      "remark": "Damage - 85%",
+      "remark": "Damaged - 85%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-17",
-      "commentTime": "17:35:31",
-      "lastUpdated": "2026-08-17T12:05:31.992Z"
+      "commentTime": "17:35:42",
+      "lastUpdated": "2026-08-17T12:05:42.296Z"
     },
     "DH-A-HFW1239TLMP-LED-36B||SHOMES- MATALE": {
       "remark": "Damage - 85%",
@@ -6421,6 +6421,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:35:42",
+      "iso": "2026-08-17T12:05:42.297Z",
+      "action": "updated remark for DH-XVR1B16H at SHOMES- MATALE: “Damaged - 85%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6763,13 +6770,6 @@
       "time": "16:07:32",
       "iso": "2026-08-17T10:37:32.682Z",
       "action": "updated remark for SB-AAA at KANTALAI: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "16:06:43",
-      "iso": "2026-08-17T10:36:43.067Z",
-      "action": "updated remark for CLOTHLINE-35PVC at KANTALAI: “20% - Unboxed unit”"
     }
   ]
 }
