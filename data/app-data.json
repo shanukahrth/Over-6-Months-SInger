@@ -4528,6 +4528,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:05:18",
       "lastUpdated": "2026-08-17T05:35:18.683Z"
+    },
+    "SASI12INFI||BUDGET SHOP-DAMBULLA": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:05:30",
+      "lastUpdated": "2026-08-17T05:35:30.505Z"
     }
   },
   "showroomVisits": {
@@ -4773,6 +4780,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:05:30",
+      "iso": "2026-08-17T05:35:30.506Z",
+      "action": "updated remark for SASI12INFI at BUDGET SHOP-DAMBULLA: “Sold”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5115,13 +5129,6 @@
       "time": "10:43:34",
       "iso": "2026-08-17T05:13:34.607Z",
       "action": "updated GALLE B showroom (visited: Yes)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:43:24",
-      "iso": "2026-08-17T05:13:24.147Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRY at KURUNEGALA - D: “Sold”"
     }
   ]
 }
