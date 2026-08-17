@@ -9400,6 +9400,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:27:44",
       "lastUpdated": "2026-08-17T13:57:44.803Z"
+    },
+    "B-RDNI295XIB100P||MUTUR": {
+      "remark": "60% - Small dent on the door",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:30:01",
+      "lastUpdated": "2026-08-17T14:00:01.791Z"
     }
   },
   "showroomVisits": {
@@ -9725,6 +9732,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:30:01",
+      "iso": "2026-08-17T14:00:01.793Z",
+      "action": "updated remark for B-RDNI295XIB100P at MUTUR: “60% - Small dent on the door”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10067,13 +10081,6 @@
       "time": "18:53:01",
       "iso": "2026-08-17T13:23:01.619Z",
       "action": "updated remark for SIN-PSVX938 at MUTUR: “80% Damaged (no Sound) - BM will service it and sell it to customer”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:52:43",
-      "iso": "2026-08-17T13:22:43.325Z",
-      "action": "updated remark for SIN-PSVX938 at MUTUR: “80% Damaged - BM will service it and sell it to customer”"
     }
   ]
 }
