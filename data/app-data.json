@@ -8329,6 +8329,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:23:59",
       "lastUpdated": "2026-08-17T12:53:59.883Z"
+    },
+    "SIN-MRG-1008C||PILIMATHALAWA - B": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:24:04",
+      "lastUpdated": "2026-08-17T12:54:04.655Z"
     }
   },
   "showroomVisits": {
@@ -8606,6 +8613,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:24:04",
+      "iso": "2026-08-17T12:54:04.656Z",
+      "action": "updated remark for SIN-MRG-1008C at PILIMATHALAWA - B: “30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8948,13 +8962,6 @@
       "time": "18:06:17",
       "iso": "2026-08-17T12:36:17.404Z",
       "action": "updated remark for WFI-LYON-TBL-S at GELIOYA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-17",
-      "time": "18:06:21",
-      "iso": "2026-08-17T12:36:21.031Z",
-      "action": "updated remark for HON-X7C-8-256-BLK at PABAHINNA-LITE (cleared)"
     }
   ]
 }
