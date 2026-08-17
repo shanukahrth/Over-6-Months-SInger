@@ -9288,6 +9288,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:12:21",
       "lastUpdated": "2026-08-17T13:42:21.435Z"
+    },
+    "LF-LEO-120-SHW||MUTUR": {
+      "remark": "Damaged - 80% BM will report it for office use",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:13:42",
+      "lastUpdated": "2026-08-17T13:43:42.816Z"
     }
   },
   "showroomVisits": {
@@ -9613,6 +9620,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:13:42",
+      "iso": "2026-08-17T13:43:42.818Z",
+      "action": "updated remark for LF-LEO-120-SHW at MUTUR: “Damaged - 80% BM will report it for office use”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9955,13 +9969,6 @@
       "time": "18:33:32",
       "iso": "2026-08-17T13:03:32.444Z",
       "action": "updated remark for TF-FP24-SCR342 at MUTUR: “20% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:33:27",
-      "iso": "2026-08-17T13:03:27.909Z",
-      "action": "updated remark for TF-SI-ESS-242 at MUTUR: “20% discount”"
     }
   ]
 }
