@@ -5956,6 +5956,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:22:13",
       "lastUpdated": "2026-08-17T10:52:13.069Z"
+    },
+    "HON-X9C-12-256-GRN||MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:22:21",
+      "lastUpdated": "2026-08-17T10:52:21.284Z"
     }
   },
   "showroomVisits": {
@@ -6225,6 +6232,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "16:22:21",
+      "iso": "2026-08-17T10:52:21.285Z",
+      "action": "updated remark for HON-X9C-12-256-GRN at MATALE: “Damaged - 30%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6567,13 +6581,6 @@
       "time": "15:41:19",
       "iso": "2026-08-17T10:11:19.876Z",
       "action": "updated remark for MB-SAFARI4S-RED at KANTALAI: “1 sold, Promotion already offered”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:40:45",
-      "iso": "2026-08-17T10:10:45.788Z",
-      "action": "updated remark for SHAKE-X10D at KANTALAI: “Revert - Power issue”"
     }
   ]
 }
