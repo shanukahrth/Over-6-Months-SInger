@@ -3620,11 +3620,11 @@
       "lastUpdated": "2026-08-17T04:02:43.110Z"
     },
     "SMG-A06-6-128-BLU||DAMBULLA": {
-      "remark": "1 sold, 40%",
+      "remark": "1 sold, other one",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "09:34:03",
-      "lastUpdated": "2026-08-17T04:04:03.488Z"
+      "commentTime": "09:34:30",
+      "lastUpdated": "2026-08-17T04:04:30.698Z"
     },
     "DELL5593-128-I5W10-SIL||KURUNEGALA B": {
       "remark": "70% - Exchange",
@@ -3869,6 +3869,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:34:30",
+      "iso": "2026-08-17T04:04:30.698Z",
+      "action": "updated remark for SMG-A06-6-128-BLU at DAMBULLA: “1 sold, other one”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4211,13 +4218,6 @@
       "time": "08:52:29",
       "iso": "2026-08-14T03:22:29.537Z",
       "action": "updated PITIGALA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:52:27",
-      "iso": "2026-08-14T03:22:27.779Z",
-      "action": "updated PITIGALA showroom (visited: Yes)"
     }
   ]
 }
