@@ -8021,6 +8021,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:05:03",
       "lastUpdated": "2026-08-17T12:35:03.275Z"
+    },
+    "WFI-HELENA-TBL-S||GELIOYA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:05:38",
+      "lastUpdated": "2026-08-17T12:35:38.261Z"
     }
   },
   "showroomVisits": {
@@ -8298,6 +8305,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:05:38",
+      "iso": "2026-08-17T12:35:38.262Z",
+      "action": "updated remark for WFI-HELENA-TBL-S at GELIOYA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8640,13 +8654,6 @@
       "time": "18:00:34",
       "iso": "2026-08-17T12:30:34.659Z",
       "action": "updated remark for SMGUA32T4400 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:00:29",
-      "iso": "2026-08-17T12:30:29.882Z",
-      "action": "updated remark for SMGUA32N4010 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
