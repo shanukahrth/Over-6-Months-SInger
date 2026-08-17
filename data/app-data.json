@@ -6012,6 +6012,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:17:06",
       "lastUpdated": "2026-08-17T11:47:06.226Z"
+    },
+    "TF-SI-EXS1230||KINNIYA": {
+      "remark": "20% discount for sealed pack, 30% discount for displayed unit",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:18:32",
+      "lastUpdated": "2026-08-17T11:48:32.104Z"
     }
   },
   "showroomVisits": {
@@ -6281,6 +6288,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "17:18:32",
+      "iso": "2026-08-17T11:48:32.105Z",
+      "action": "updated remark for TF-SI-EXS1230 at KINNIYA: “20% discount for sealed pack, 30% discount for displayed unit”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6623,13 +6637,6 @@
       "time": "15:48:12",
       "iso": "2026-08-17T10:18:12.270Z",
       "action": "updated remark for SXLC7371K at KANTALAI: “80% - Bad condition”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:47:36",
-      "iso": "2026-08-17T10:17:36.513Z",
-      "action": "updated remark for SMGUA32N4010 at KANTALAI: “Revert - 50% discount sellable condition”"
     }
   ]
 }
