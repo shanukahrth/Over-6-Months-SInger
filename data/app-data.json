@@ -3583,6 +3583,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:30:30",
       "lastUpdated": "2026-08-17T04:00:30.315Z"
+    },
+    "BOSE-QCOMBUDS-SNSTN||DAMBULLA": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:31:22",
+      "lastUpdated": "2026-08-17T04:01:22.536Z"
     }
   },
   "showroomVisits": {
@@ -3820,6 +3827,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:31:22",
+      "iso": "2026-08-17T04:01:22.538Z",
+      "action": "updated remark for BOSE-QCOMBUDS-SNSTN at DAMBULLA: “Sold”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4162,13 +4176,6 @@
       "time": "08:51:37",
       "iso": "2026-08-14T03:21:37.244Z",
       "action": "updated BADURALIYA showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:51:23",
-      "iso": "2026-08-14T03:21:23.741Z",
-      "action": "updated AGALAWATTA showroom (team: Colombo South MKT)"
     }
   ]
 }
