@@ -4005,11 +4005,11 @@
       "lastUpdated": "2026-08-17T04:28:32.097Z"
     },
     "SMW823AY7||KURUNEGALA B": {
-      "remark": "Display - (Can sell this month)",
+      "remark": "Display - (can sell this month)",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:58:53",
-      "lastUpdated": "2026-08-17T04:28:53.275Z"
+      "commentTime": "10:00:20",
+      "lastUpdated": "2026-08-17T04:30:20.893Z"
     },
     "TF-SI-ESS-242||DAMBULLA": {
       "remark": "10% - Slow moving",
@@ -4254,6 +4254,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:00:20",
+      "iso": "2026-08-17T04:30:20.894Z",
+      "action": "updated remark for SMW823AY7 at KURUNEGALA B: “Display - (can sell this month)”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4596,13 +4603,6 @@
       "time": "09:45:38",
       "iso": "2026-08-17T04:15:38.572Z",
       "action": "updated remark for SMW823AY7 at DAMBULLA: “Normal - sellable condition”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:45:21",
-      "iso": "2026-08-17T04:15:21.820Z",
-      "action": "updated remark for WF-ROM-DTO-S at DAMBULLA: “Sold”"
     }
   ]
 }
