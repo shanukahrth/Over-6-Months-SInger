@@ -8800,18 +8800,18 @@
       "lastUpdated": "2026-08-17T13:14:34.462Z"
     },
     "NCPO-FP250||HEMMATHAGAMA": {
-      "remark": "Additional 30%",
+      "remark": "30%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:44:03",
-      "lastUpdated": "2026-08-17T13:14:03.253Z"
+      "commentTime": "18:44:37",
+      "lastUpdated": "2026-08-17T13:14:37.910Z"
     },
     "SL-SST082||HEMMATHAGAMA": {
-      "remark": "Additional 30%",
+      "remark": "30%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:44:05",
-      "lastUpdated": "2026-08-17T13:14:05.828Z"
+      "commentTime": "18:44:40",
+      "lastUpdated": "2026-08-17T13:14:40.020Z"
     },
     "KA-LW-185A||HEMMATHAGAMA": {
       "remark": "Additional 30%",
@@ -9161,6 +9161,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-17",
+      "time": "18:44:40",
+      "iso": "2026-08-17T13:14:40.021Z",
+      "action": "updated remark for SL-SST082 at HEMMATHAGAMA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:44:37",
+      "iso": "2026-08-17T13:14:37.911Z",
+      "action": "updated remark for NCPO-FP250 at HEMMATHAGAMA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
       "time": "18:44:34",
       "iso": "2026-08-17T13:14:34.465Z",
       "action": "updated remark for NCPO-FP200 at HEMMATHAGAMA: “30%”"
@@ -9493,20 +9507,6 @@
       "time": "18:32:31",
       "iso": "2026-08-17T13:02:31.673Z",
       "action": "updated remark for SWM-FA70R at PILIMATHALAWA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:32:26",
-      "iso": "2026-08-17T13:02:26.894Z",
-      "action": "updated remark for SL-RFA75 at PILIMATHALAWA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:32:22",
-      "iso": "2026-08-17T13:02:22.308Z",
-      "action": "updated remark for SWM-MET80GL at PILIMATHALAWA - B: “MOP - 40,000”"
     }
   ]
 }
