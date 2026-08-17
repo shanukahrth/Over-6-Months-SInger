@@ -8203,6 +8203,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:21:29",
       "lastUpdated": "2026-08-17T12:51:29.590Z"
+    },
+    "FAN-FS40-10DR||PILIMATHALAWA - B": {
+      "remark": "70% - Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:21:39",
+      "lastUpdated": "2026-08-17T12:51:39.352Z"
     }
   },
   "showroomVisits": {
@@ -8480,6 +8487,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:21:39",
+      "iso": "2026-08-17T12:51:39.353Z",
+      "action": "updated remark for FAN-FS40-10DR at PILIMATHALAWA - B: “70% - Damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8822,13 +8836,6 @@
       "time": "18:02:37",
       "iso": "2026-08-17T12:32:37.808Z",
       "action": "updated BUDGET SHOP-K-GTOTA showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:02:10",
-      "iso": "2026-08-17T12:32:10.256Z",
-      "action": "updated remark for WP-SS-SUB1-S at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
