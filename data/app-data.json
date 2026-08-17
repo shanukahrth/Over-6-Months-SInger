@@ -8658,6 +8658,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:32:07",
       "lastUpdated": "2026-08-17T13:02:07.059Z"
+    },
+    "ULED32D60A||PILIMATHALAWA - B": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:32:12",
+      "lastUpdated": "2026-08-17T13:02:12.155Z"
     }
   },
   "showroomVisits": {
@@ -8935,6 +8942,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:32:12",
+      "iso": "2026-08-17T13:02:12.156Z",
+      "action": "updated remark for ULED32D60A at PILIMATHALAWA - B: “Pending Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9277,13 +9291,6 @@
       "time": "18:25:03",
       "iso": "2026-08-17T12:55:03.093Z",
       "action": "updated remark for KA-PB-426 at PILIMATHALAWA - B: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:24:58",
-      "iso": "2026-08-17T12:54:58.480Z",
-      "action": "updated remark for LP-AP01 at PILIMATHALAWA - B: “Damaged”"
     }
   ]
 }
