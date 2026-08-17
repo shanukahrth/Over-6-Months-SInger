@@ -3676,11 +3676,11 @@
       "lastUpdated": "2026-08-17T04:09:12.310Z"
     },
     "SMW823AY7||DAMBULLA": {
-      "remark": "Normal - sellable condition",
+      "remark": "Sellable condition",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "09:45:38",
-      "lastUpdated": "2026-08-17T04:15:38.569Z"
+      "commentTime": "09:58:16",
+      "lastUpdated": "2026-08-17T04:28:16.676Z"
     },
     "SMGUA43DU7500||DUTY FREE": {
       "remark": "To clear in Aug",
@@ -4010,6 +4010,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:58:53",
       "lastUpdated": "2026-08-17T04:28:53.275Z"
+    },
+    "TF-SI-ESS-242||DAMBULLA": {
+      "remark": "10% - Slow moving",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:59:19",
+      "lastUpdated": "2026-08-17T04:29:19.976Z"
     }
   },
   "showroomVisits": {
@@ -4247,6 +4254,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:59:19",
+      "iso": "2026-08-17T04:29:19.978Z",
+      "action": "updated remark for TF-SI-ESS-242 at DAMBULLA: “10% - Slow moving”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:58:16",
+      "iso": "2026-08-17T04:28:16.678Z",
+      "action": "updated remark for SMW823AY7 at DAMBULLA: “Sellable condition”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4582,20 +4603,6 @@
       "time": "09:45:03",
       "iso": "2026-08-17T04:15:03.056Z",
       "action": "updated remark for AES-HAV-30S at DAMBULLA: “10%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:44:39",
-      "iso": "2026-08-17T04:14:39.015Z",
-      "action": "updated remark for ZTE-A31-LITE-GRY at KURUNEGALA B: “Battery Dead - 90%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:44:30",
-      "iso": "2026-08-17T04:14:30.779Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at DAMBULLA: “70% for demo unit”"
     }
   ]
 }
