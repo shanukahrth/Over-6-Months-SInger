@@ -8175,6 +8175,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:20:52",
       "lastUpdated": "2026-08-17T12:50:52.748Z"
+    },
+    "DVP-SR370||PILIMATHALAWA - B": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:21:02",
+      "lastUpdated": "2026-08-17T12:51:02.084Z"
     }
   },
   "showroomVisits": {
@@ -8452,6 +8459,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:21:02",
+      "iso": "2026-08-17T12:51:02.085Z",
+      "action": "updated remark for DVP-SR370 at PILIMATHALAWA - B: “MOP - 2,000”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8794,13 +8808,6 @@
       "time": "18:02:04",
       "iso": "2026-08-17T12:32:04.889Z",
       "action": "updated remark for HU-WATCHFIT3-BLK at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:02:04",
-      "iso": "2026-08-17T12:32:04.008Z",
-      "action": "updated remark for HU-WATCH-GT4-G at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
