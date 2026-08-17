@@ -9260,6 +9260,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:07:44",
       "lastUpdated": "2026-08-17T13:37:44.477Z"
+    },
+    "MXBY550D27||MUTUR": {
+      "remark": "Lid damaged - 70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:09:27",
+      "lastUpdated": "2026-08-17T13:39:27.816Z"
     }
   },
   "showroomVisits": {
@@ -9585,6 +9592,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:09:27",
+      "iso": "2026-08-17T13:39:27.818Z",
+      "action": "updated remark for MXBY550D27 at MUTUR: “Lid damaged - 70%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9927,13 +9941,6 @@
       "time": "18:30:31",
       "iso": "2026-08-17T13:00:31.149Z",
       "action": "updated remark for SLE32E930 at MUTUR: “Damaged - 80% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:30:25",
-      "iso": "2026-08-17T13:00:25.971Z",
-      "action": "updated remark for SLE32E930 at MUTUR: “Damaged - 80% dicosunt”"
     }
   ]
 }
