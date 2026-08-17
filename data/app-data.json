@@ -9218,6 +9218,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:04:41",
       "lastUpdated": "2026-08-17T13:34:41.112Z"
+    },
+    "RIYLTA-MF12V53B||MUTUR": {
+      "remark": "BM will send a memo to scrap",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:05:05",
+      "lastUpdated": "2026-08-17T13:35:05.765Z"
     }
   },
   "showroomVisits": {
@@ -9543,6 +9550,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:05:05",
+      "iso": "2026-08-17T13:35:05.765Z",
+      "action": "updated remark for RIYLTA-MF12V53B at MUTUR: “BM will send a memo to scrap”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9885,13 +9899,6 @@
       "time": "18:27:26",
       "iso": "2026-08-17T12:57:26.715Z",
       "action": "updated remark for WF-LILY-DRS at MUTUR: “Damaged - not sellable”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:25:39",
-      "iso": "2026-08-17T12:55:39.491Z",
-      "action": "updated remark for WF-OSLO-S at MUTUR: “50% Discount”"
     }
   ]
 }
