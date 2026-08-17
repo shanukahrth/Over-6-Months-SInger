@@ -4780,6 +4780,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:41:44",
       "lastUpdated": "2026-08-17T06:11:44.739Z"
+    },
+    "AS-14G-I5-8-512-B5850-SIL||KURUNEGALA C": {
+      "remark": "Display - 15%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:44:43",
+      "lastUpdated": "2026-08-17T06:14:43.829Z"
     }
   },
   "showroomVisits": {
@@ -5025,6 +5032,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "11:44:43",
+      "iso": "2026-08-17T06:14:43.829Z",
+      "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at KURUNEGALA C: “Display - 15%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5367,13 +5381,6 @@
       "time": "11:06:58",
       "iso": "2026-08-17T05:36:58.223Z",
       "action": "updated remark for DELL-5491-I7W10-SIL at BUDGET SHOP-DAMBULLA: “No power - 70% Dsicount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:05:30",
-      "iso": "2026-08-17T05:35:30.506Z",
-      "action": "updated remark for SASI12INFI at BUDGET SHOP-DAMBULLA: “Sold”"
     }
   ]
 }
