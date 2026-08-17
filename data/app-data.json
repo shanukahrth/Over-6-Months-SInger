@@ -6152,6 +6152,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:35:52",
       "lastUpdated": "2026-08-17T12:05:52.192Z"
+    },
+    "LF-CFGL1-BSC-S||SHOMES- MATALE": {
+      "remark": "Damage - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:37:17",
+      "lastUpdated": "2026-08-17T12:07:17.047Z"
     }
   },
   "showroomVisits": {
@@ -6421,6 +6428,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:37:17",
+      "iso": "2026-08-17T12:07:17.049Z",
+      "action": "updated remark for LF-CFGL1-BSC-S at SHOMES- MATALE: “Damage - 85%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6763,13 +6777,6 @@
       "time": "16:08:21",
       "iso": "2026-08-17T10:38:21.113Z",
       "action": "updated remark for DELL3530-I7-8GB512-BLK at MATALE: “Damage - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "16:07:57",
-      "iso": "2026-08-17T10:37:57.809Z",
-      "action": "updated remark for DELL3511-I5-4G1TBMX-W11SL at MATALE: “Revert - 70%”"
     }
   ]
 }
