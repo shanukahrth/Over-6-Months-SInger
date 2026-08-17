@@ -4229,11 +4229,11 @@
       "lastUpdated": "2026-08-17T05:03:32.409Z"
     },
     "PN-NR-BG272DALK||BUDGET SHOP-DAMBULLA": {
-      "remark": "50% Discount",
+      "remark": "60% Discount - Dent on the door",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "10:34:33",
-      "lastUpdated": "2026-08-17T05:04:33.874Z"
+      "commentTime": "10:35:25",
+      "lastUpdated": "2026-08-17T05:05:25.720Z"
     }
   },
   "showroomVisits": {
@@ -4471,6 +4471,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:35:25",
+      "iso": "2026-08-17T05:05:25.722Z",
+      "action": "updated remark for PN-NR-BG272DALK at BUDGET SHOP-DAMBULLA: “60% Discount - Dent on the door”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4813,13 +4820,6 @@
       "time": "09:59:44",
       "iso": "2026-08-17T04:29:44.171Z",
       "action": "updated remark for HU-WATCHFIT4-BLK at KURUNEGALA B: “Discount - 50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:59:19",
-      "iso": "2026-08-17T04:29:19.978Z",
-      "action": "updated remark for TF-SI-ESS-242 at DAMBULLA: “10% - Slow moving”"
     }
   ]
 }
