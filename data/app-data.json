@@ -5333,6 +5333,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:20:35",
       "lastUpdated": "2026-08-17T07:50:35.822Z"
+    },
+    "MHC-V13||CHENKALADY": {
+      "remark": "70% Discount offered",
+      "commentedBy": "Gayan Sooriarachchi",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:20:46",
+      "lastUpdated": "2026-08-17T07:50:46.677Z"
     }
   },
   "showroomVisits": {
@@ -5594,6 +5601,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Gayan Sooriarachchi",
+      "date": "2026-08-17",
+      "time": "13:20:46",
+      "iso": "2026-08-17T07:50:46.680Z",
+      "action": "updated remark for MHC-V13 at CHENKALADY: “70% Discount offered”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5936,13 +5950,6 @@
       "time": "12:49:24",
       "iso": "2026-08-17T07:19:24.425Z",
       "action": "updated TISSAMAHARAMA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-17",
-      "time": "12:49:19",
-      "iso": "2026-08-17T07:19:19.841Z",
-      "action": "updated TISSAMAHARAMA showroom (visitDate: 2026-08-17)"
     }
   ]
 }
