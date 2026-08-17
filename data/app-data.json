@@ -4248,6 +4248,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:40:15",
       "lastUpdated": "2026-08-17T05:10:15.754Z"
+    },
+    "HON-X6A-4-128-BLK||KURUNEGALA - D": {
+      "remark": "40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:40:24",
+      "lastUpdated": "2026-08-17T05:10:24.571Z"
     }
   },
   "showroomVisits": {
@@ -4485,6 +4492,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:40:24",
+      "iso": "2026-08-17T05:10:24.572Z",
+      "action": "updated remark for HON-X6A-4-128-BLK at KURUNEGALA - D: “40%”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4827,13 +4841,6 @@
       "time": "10:03:48",
       "iso": "2026-08-17T04:33:48.356Z",
       "action": "updated remark for SLE43S400 at KURUNEGALA B: “Exchange”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:03:29",
-      "iso": "2026-08-17T04:33:29.097Z",
-      "action": "updated remark for SLE55GENR at KURUNEGALA B: “Display - 40%”"
     }
   ]
 }
