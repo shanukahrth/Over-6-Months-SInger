@@ -8077,6 +8077,20 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:09:12",
       "lastUpdated": "2026-08-17T12:39:12.652Z"
+    },
+    "SIN-PR-K340||GELIOYA": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:11:47",
+      "lastUpdated": "2026-08-17T12:41:47.651Z"
+    },
+    "SLE32E930||GELIOYA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:11:51",
+      "lastUpdated": "2026-08-17T12:41:51.434Z"
     }
   },
   "showroomVisits": {
@@ -8354,6 +8368,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:11:51",
+      "iso": "2026-08-17T12:41:51.436Z",
+      "action": "updated remark for SLE32E930 at GELIOYA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:11:47",
+      "iso": "2026-08-17T12:41:47.653Z",
+      "action": "updated remark for SIN-PR-K340 at GELIOYA: “Sellable at Existing Price”"
+    },
     {
       "user": "Punesha",
       "date": "2026-08-17",
@@ -8689,20 +8717,6 @@
       "time": "18:01:29",
       "iso": "2026-08-17T12:31:29.816Z",
       "action": "updated remark for SLE40D600A at BUDGET SHOP-K-GTOTA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:01:21",
-      "iso": "2026-08-17T12:31:21.610Z",
-      "action": "updated remark for SLE32F590 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:01:20",
-      "iso": "2026-08-17T12:31:20.361Z",
-      "action": "updated remark for SLE32E930 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
