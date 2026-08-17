@@ -4600,11 +4600,11 @@
       "lastUpdated": "2026-08-17T05:44:24.857Z"
     },
     "B-CSG42110DSL||BUDGET SHOP-DAMBULLA": {
-      "remark": "80% - Discplayed",
+      "remark": "80% - Displayed",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "11:14:32",
-      "lastUpdated": "2026-08-17T05:44:32.778Z"
+      "commentTime": "11:14:36",
+      "lastUpdated": "2026-08-17T05:44:36.400Z"
     }
   },
   "showroomVisits": {
@@ -4850,6 +4850,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:14:36",
+      "iso": "2026-08-17T05:44:36.402Z",
+      "action": "updated remark for B-CSG42110DSL at BUDGET SHOP-DAMBULLA: “80% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5192,13 +5199,6 @@
       "time": "10:49:29",
       "iso": "2026-08-17T05:19:29.615Z",
       "action": "updated remark for ACER-PJ-S1286H at KURUNEGALA - D (cleared)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:49:29",
-      "iso": "2026-08-17T05:19:29.375Z",
-      "action": "updated remark for WP-WRN25LX at BUDGET SHOP-DAMBULLA: “Damaged - return to WH”"
     }
   ]
 }
