@@ -4920,6 +4920,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:55:30",
       "lastUpdated": "2026-08-17T06:25:30.365Z"
+    },
+    "WP-CHTW-100-S||BUDGET SHOP-DAMBULLA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:55:32",
+      "lastUpdated": "2026-08-17T06:25:32.728Z"
     }
   },
   "showroomVisits": {
@@ -5165,6 +5172,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:55:32",
+      "iso": "2026-08-17T06:25:32.730Z",
+      "action": "updated remark for WP-CHTW-100-S at BUDGET SHOP-DAMBULLA: “70%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5507,13 +5521,6 @@
       "time": "11:30:24",
       "iso": "2026-08-17T06:00:24.935Z",
       "action": "updated remark for SLE43G890 at BUDGET SHOP-DAMBULLA: “Revert”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:30:19",
-      "iso": "2026-08-17T06:00:19.104Z",
-      "action": "updated remark for SWM-FA70R at BUDGET SHOP-DAMBULLA: “Revert”"
     }
   ]
 }
