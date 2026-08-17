@@ -4768,11 +4768,11 @@
       "lastUpdated": "2026-08-17T06:10:50.874Z"
     },
     "TCL205G-6-128-PLBLU||BUDGET SHOP-DAMBULLA": {
-      "remark": "80%",
+      "remark": "90% - Battery issue",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "11:41:04",
-      "lastUpdated": "2026-08-17T06:11:04.753Z"
+      "commentTime": "11:41:40",
+      "lastUpdated": "2026-08-17T06:11:40.078Z"
     }
   },
   "showroomVisits": {
@@ -5018,6 +5018,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:41:40",
+      "iso": "2026-08-17T06:11:40.080Z",
+      "action": "updated remark for TCL205G-6-128-PLBLU at BUDGET SHOP-DAMBULLA: “90% - Battery issue”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5360,13 +5367,6 @@
       "time": "11:05:18",
       "iso": "2026-08-17T05:35:18.685Z",
       "action": "updated remark for SAS-GRI12VN at BUDGET SHOP-DAMBULLA: “PO to be received from Service Center”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:03:37",
-      "iso": "2026-08-17T05:33:37.055Z",
-      "action": "updated remark for SMG-SM-ZFLIP-B at BUDGET SHOP-DAMBULLA: “85% Discount - Unpacked”"
     }
   ]
 }
