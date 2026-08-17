@@ -4635,11 +4635,11 @@
       "lastUpdated": "2026-08-17T05:49:03.659Z"
     },
     "SLE43G890||BUDGET SHOP-DAMBULLA": {
-      "remark": "Can sell for 60% discount",
+      "remark": "Revert",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "11:27:07",
-      "lastUpdated": "2026-08-17T05:57:07.056Z"
+      "commentTime": "11:30:24",
+      "lastUpdated": "2026-08-17T06:00:24.934Z"
     },
     "ULED32D60A||BUDGET SHOP-DAMBULLA": {
       "remark": "8 units can be sold, 8 damaged to be returned",
@@ -4927,6 +4927,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:30:24",
+      "iso": "2026-08-17T06:00:24.935Z",
+      "action": "updated remark for SLE43G890 at BUDGET SHOP-DAMBULLA: “Revert”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5269,13 +5276,6 @@
       "time": "10:52:33",
       "iso": "2026-08-17T05:22:33.029Z",
       "action": "updated remark for HON-X7C-8-256-GRN at KURUNEGALA - D: “Display - 35%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:52:10",
-      "iso": "2026-08-17T05:22:10.677Z",
-      "action": "updated remark for HON-X6B-6-128-BLK at KURUNEGALA - D: “Damaged - 40%”"
     }
   ]
 }
