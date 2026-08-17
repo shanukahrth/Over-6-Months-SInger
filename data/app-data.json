@@ -5459,6 +5459,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:32:36",
       "lastUpdated": "2026-08-17T08:02:36.543Z"
+    },
+    "PN-TH-32M402N||HABARANA": {
+      "remark": "Penal damaged - factory fault - K number received",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:33:33",
+      "lastUpdated": "2026-08-17T08:03:33.636Z"
     }
   },
   "showroomVisits": {
@@ -5720,6 +5727,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:33:33",
+      "iso": "2026-08-17T08:03:33.637Z",
+      "action": "updated remark for PN-TH-32M402N at HABARANA: “Penal damaged - factory fault - K number received”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6062,13 +6076,6 @@
       "time": "13:13:41",
       "iso": "2026-08-17T07:43:41.060Z",
       "action": "updated remark for SDM1120S at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:13:27",
-      "iso": "2026-08-17T07:43:27.780Z",
-      "action": "updated remark for SVX6002 at BUDGET SHOP-K-GTOTA: “85%”"
     }
   ]
 }
