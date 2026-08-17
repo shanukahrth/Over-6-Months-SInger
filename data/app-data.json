@@ -5963,6 +5963,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:22:21",
       "lastUpdated": "2026-08-17T10:52:21.284Z"
+    },
+    "PN-SC-AKX910GSK||MATALE - B": {
+      "remark": "Revert Damage - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:07:39",
+      "lastUpdated": "2026-08-17T11:37:39.628Z"
     }
   },
   "showroomVisits": {
@@ -6232,6 +6239,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:07:39",
+      "iso": "2026-08-17T11:37:39.634Z",
+      "action": "updated remark for PN-SC-AKX910GSK at MATALE - B: “Revert Damage - 70%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6574,13 +6588,6 @@
       "time": "15:41:22",
       "iso": "2026-08-17T10:11:22.574Z",
       "action": "updated remark for MB-SAFARI4S-BLU at KANTALAI: “Promotion already offered”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:41:19",
-      "iso": "2026-08-17T10:11:19.876Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KANTALAI: “1 sold, Promotion already offered”"
     }
   ]
 }
