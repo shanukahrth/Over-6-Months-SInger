@@ -8441,6 +8441,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:26:44",
       "lastUpdated": "2026-08-17T12:56:44.347Z"
+    },
+    "HON-X9C-12-256-PPL||PILIMATHALAWA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:26:50",
+      "lastUpdated": "2026-08-17T12:56:50.499Z"
     }
   },
   "showroomVisits": {
@@ -8718,6 +8725,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:26:50",
+      "iso": "2026-08-17T12:56:50.500Z",
+      "action": "updated remark for HON-X9C-12-256-PPL at PILIMATHALAWA - B: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9060,13 +9074,6 @@
       "time": "18:19:31",
       "iso": "2026-08-17T12:49:31.494Z",
       "action": "updated remark for SVX6002 at PILIMATHALAWA - B: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:19:27",
-      "iso": "2026-08-17T12:49:27.182Z",
-      "action": "updated remark for SIN-K13 at PILIMATHALAWA - B: “Damaged - 80%”"
     }
   ]
 }
