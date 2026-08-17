@@ -3527,6 +3527,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:18:19",
       "lastUpdated": "2026-08-17T03:48:19.365Z"
+    },
+    "SLE55GENR||KURUNEGALA B": {
+      "remark": "Display - 40% (additional 10%)",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:19:19",
+      "lastUpdated": "2026-08-17T03:49:19.031Z"
     }
   },
   "showroomVisits": {
@@ -3764,6 +3771,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:19:19",
+      "iso": "2026-08-17T03:49:19.033Z",
+      "action": "updated remark for SLE55GENR at KURUNEGALA B: “Display - 40% (additional 10%)”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4106,13 +4120,6 @@
       "time": "23:14:50",
       "iso": "2026-08-13T17:44:50.465Z",
       "action": "updated remark for SLE40D600A at KADUGANNAWA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:14:43",
-      "iso": "2026-08-13T17:44:43.360Z",
-      "action": "updated remark for SLE40D4000 at KADUGANNAWA: “Exchange”"
     }
   ]
 }
