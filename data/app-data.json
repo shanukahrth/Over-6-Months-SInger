@@ -5585,6 +5585,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:42:52",
       "lastUpdated": "2026-08-17T08:12:52.206Z"
+    },
+    "SLE32E930||CHENKALADY": {
+      "remark": "70%",
+      "commentedBy": "Gayan Sooriarachchi",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:42:58",
+      "lastUpdated": "2026-08-17T08:12:58.022Z"
     }
   },
   "showroomVisits": {
@@ -5846,6 +5853,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Gayan Sooriarachchi",
+      "date": "2026-08-17",
+      "time": "13:42:58",
+      "iso": "2026-08-17T08:12:58.024Z",
+      "action": "updated remark for SLE32E930 at CHENKALADY: “70%”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6188,13 +6202,6 @@
       "time": "13:20:15",
       "iso": "2026-08-17T07:50:15.386Z",
       "action": "updated remark for TCL65C655 at HABARANA: “50% Discount - Display”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:20:01",
-      "iso": "2026-08-17T07:50:01.847Z",
-      "action": "updated remark for ACER-515-I3-8GB512-GRY at CHENKALADY: “60% Discount offered”"
     }
   ]
 }
