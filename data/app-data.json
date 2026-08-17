@@ -5382,6 +5382,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:26:29",
       "lastUpdated": "2026-08-17T07:56:29.103Z"
+    },
+    "BES-CRS-80||HABARANA": {
+      "remark": "40% - displayed - can push the customer",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:26:53",
+      "lastUpdated": "2026-08-17T07:56:53.519Z"
     }
   },
   "showroomVisits": {
@@ -5643,6 +5650,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:26:53",
+      "iso": "2026-08-17T07:56:53.521Z",
+      "action": "updated remark for BES-CRS-80 at HABARANA: “40% - displayed - can push the customer”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -5985,13 +5999,6 @@
       "time": "13:10:01",
       "iso": "2026-08-17T07:40:01.137Z",
       "action": "updated remark for MHC-V13 at BUDGET SHOP-K-GTOTA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:09:49",
-      "iso": "2026-08-17T07:39:49.195Z",
-      "action": "updated remark for MHC-M60D at BUDGET SHOP-K-GTOTA: “80%”"
     }
   ]
 }
