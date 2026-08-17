@@ -5391,11 +5391,11 @@
       "lastUpdated": "2026-08-17T07:56:53.519Z"
     },
     "SLE43G890||HABARANA": {
-      "remark": "Revert - K number recieved",
+      "remark": "Revert - K number received",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "13:27:08",
-      "lastUpdated": "2026-08-17T07:57:08.080Z"
+      "commentTime": "13:27:12",
+      "lastUpdated": "2026-08-17T07:57:12.305Z"
     }
   },
   "showroomVisits": {
@@ -5657,6 +5657,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:27:12",
+      "iso": "2026-08-17T07:57:12.306Z",
+      "action": "updated remark for SLE43G890 at HABARANA: “Revert - K number received”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5999,13 +6006,6 @@
       "time": "13:10:22",
       "iso": "2026-08-17T07:40:22.783Z",
       "action": "updated remark for PN-SC-AKX320GSK at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:10:03",
-      "iso": "2026-08-17T07:40:03.447Z",
-      "action": "updated remark for MHC-V13 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
