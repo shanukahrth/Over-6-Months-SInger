@@ -9170,13 +9170,6 @@
       "commentTime": "18:50:21",
       "lastUpdated": "2026-08-17T13:20:21.473Z"
     },
-    "SIN-PSVX938N||MUTUR": {
-      "remark": "Sold",
-      "commentedBy": "Kaveesha De Silva",
-      "commentDate": "2026-08-17",
-      "commentTime": "18:58:55",
-      "lastUpdated": "2026-08-17T13:28:55.043Z"
-    },
     "SIN-PSVX938||MUTUR": {
       "remark": "80% Damaged (no Sound) - BM will service it and sell it to customer",
       "commentedBy": "Kaveesha De Silva",
@@ -9414,6 +9407,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:30:29",
       "lastUpdated": "2026-08-17T14:00:29.731Z"
+    },
+    "SIN-PSVX938N||MUTUR": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:31:32",
+      "lastUpdated": "2026-08-17T14:01:32.138Z"
     }
   },
   "showroomVisits": {
@@ -9739,6 +9739,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:31:32",
+      "iso": "2026-08-17T14:01:32.139Z",
+      "action": "updated remark for SIN-PSVX938N at MUTUR: “Sold”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:31:30",
+      "iso": "2026-08-17T14:01:30.155Z",
+      "action": "updated remark for SIN-PSVX938N at MUTUR (cleared)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10074,20 +10088,6 @@
       "time": "18:56:02",
       "iso": "2026-08-17T13:26:02.923Z",
       "action": "updated remark for TF-FP24-SCR342 at MUTUR: “Sold to c”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:55:45",
-      "iso": "2026-08-17T13:25:45.325Z",
-      "action": "updated remark for SWM-FA70R at MUTUR (cleared)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:55:33",
-      "iso": "2026-08-17T13:25:33.686Z",
-      "action": "updated remark for SWM-FA70R at MUTUR: “Sold”"
     }
   ]
 }
