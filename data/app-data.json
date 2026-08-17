@@ -8784,6 +8784,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:43:26",
       "lastUpdated": "2026-08-17T13:13:26.001Z"
+    },
+    "BRP-TW30||HEMMATHAGAMA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:43:47",
+      "lastUpdated": "2026-08-17T13:13:47.507Z"
     }
   },
   "showroomVisits": {
@@ -9109,6 +9116,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:43:47",
+      "iso": "2026-08-17T13:13:47.508Z",
+      "action": "updated remark for BRP-TW30 at HEMMATHAGAMA: “Additional 30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9451,13 +9465,6 @@
       "time": "18:30:29",
       "iso": "2026-08-17T13:00:29.686Z",
       "action": "updated remark for SLE40D600A at PILIMATHALAWA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:30:25",
-      "iso": "2026-08-17T13:00:25.245Z",
-      "action": "updated remark for SLE32G690 at PILIMATHALAWA - B: “Unsellable”"
     }
   ]
 }
