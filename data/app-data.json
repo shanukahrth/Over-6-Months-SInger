@@ -8378,6 +8378,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:24:58",
       "lastUpdated": "2026-08-17T12:54:58.479Z"
+    },
+    "KA-PB-426||PILIMATHALAWA - B": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:25:03",
+      "lastUpdated": "2026-08-17T12:55:03.092Z"
     }
   },
   "showroomVisits": {
@@ -8655,6 +8662,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:25:03",
+      "iso": "2026-08-17T12:55:03.093Z",
+      "action": "updated remark for KA-PB-426 at PILIMATHALAWA - B: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8997,13 +9011,6 @@
       "time": "18:09:12",
       "iso": "2026-08-17T12:39:12.653Z",
       "action": "updated remark for BES-CRS-51 at GELIOYA: “10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:09:10",
-      "iso": "2026-08-17T12:39:10.214Z",
-      "action": "updated remark for AES-HAV-30S at GELIOYA: “10%”"
     }
   ]
 }
