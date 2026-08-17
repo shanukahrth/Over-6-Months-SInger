@@ -9017,7 +9017,7 @@
     },
     "SHOMES- KANDY||KANDY": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-14",
       "team": "",
       "remark": "",
       "updatedBy": "Rashmi",
@@ -9025,6 +9025,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:38:18",
+      "iso": "2026-08-17T13:08:18.869Z",
+      "action": "updated SHOMES- KANDY showroom (visitDate: 2026-08-14)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9367,13 +9374,6 @@
       "time": "18:28:12",
       "iso": "2026-08-17T12:58:12.127Z",
       "action": "updated remark for BR-1 at PILIMATHALAWA - B: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:28:08",
-      "iso": "2026-08-17T12:58:08.752Z",
-      "action": "updated remark for CLIP-MCW at PILIMATHALAWA - B: “Shop use”"
     }
   ]
 }
