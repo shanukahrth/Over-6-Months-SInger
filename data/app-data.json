@@ -5776,11 +5776,11 @@
       "lastUpdated": "2026-08-17T10:24:30.897Z"
     },
     "R-BWS-02||KANTALAI": {
-      "remark": "can sell for current price",
+      "remark": "35% - displayed",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "15:56:02",
-      "lastUpdated": "2026-08-17T10:26:02.803Z"
+      "commentTime": "16:06:28",
+      "lastUpdated": "2026-08-17T10:36:28.180Z"
     },
     "RIYLTA-MF12V53B||KANTALAI": {
       "remark": "50% - EOL",
@@ -6113,6 +6113,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "16:06:28",
+      "iso": "2026-08-17T10:36:28.181Z",
+      "action": "updated remark for R-BWS-02 at KANTALAI: “35% - displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6455,13 +6462,6 @@
       "time": "13:44:03",
       "iso": "2026-08-17T08:14:03.624Z",
       "action": "updated remark for PCP30 at HABARANA: “70% - DISPLAYED”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:43:47",
-      "iso": "2026-08-17T08:13:47.310Z",
-      "action": "updated remark for SWP-SLCT-01 at HABARANA: “damaged and parts are missing - not sellable, 90% discount”"
     }
   ]
 }
