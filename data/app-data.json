@@ -5732,6 +5732,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "15:49:12",
       "lastUpdated": "2026-08-17T10:19:12.618Z"
+    },
+    "SIN-NOTE-W10||KANTALAI": {
+      "remark": "Revert - Damaged - not sellable",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "15:49:34",
+      "lastUpdated": "2026-08-17T10:19:34.573Z"
     }
   },
   "showroomVisits": {
@@ -6001,6 +6008,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:49:34",
+      "iso": "2026-08-17T10:19:34.573Z",
+      "action": "updated remark for SIN-NOTE-W10 at KANTALAI: “Revert - Damaged - not sellable”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6343,13 +6357,6 @@
       "time": "13:39:09",
       "iso": "2026-08-17T08:09:09.427Z",
       "action": "updated remark for WP-SP-SG-S at CHENKALADY: “60% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:38:22",
-      "iso": "2026-08-17T08:08:22.309Z",
-      "action": "updated remark for HON-H90LITE-8-256-CYAN at CHENKALADY: “80 % Discount”"
     }
   ]
 }
