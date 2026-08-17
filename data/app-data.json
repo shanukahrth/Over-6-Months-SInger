@@ -3681,6 +3681,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:39:47",
       "lastUpdated": "2026-08-17T04:09:47.145Z"
+    },
+    "SMGUA43DU7500||DUTY FREE": {
+      "remark": "To clear in Aug",
+      "commentedBy": "Shanuka Herath",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:39:54",
+      "lastUpdated": "2026-08-17T04:09:54.181Z"
     }
   },
   "showroomVisits": {
@@ -3918,6 +3925,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-17",
+      "time": "09:39:54",
+      "iso": "2026-08-17T04:09:54.182Z",
+      "action": "updated remark for SMGUA43DU7500 at DUTY FREE: “To clear in Aug”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4260,13 +4274,6 @@
       "time": "09:30:40",
       "iso": "2026-08-14T04:00:40.169Z",
       "action": "updated SHOMES-RATHNAPURA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "09:30:35",
-      "iso": "2026-08-14T04:00:35.000Z",
-      "action": "updated SHOMES-RATHNAPURA showroom (visitDate: 2026-08-12)"
     }
   ]
 }
