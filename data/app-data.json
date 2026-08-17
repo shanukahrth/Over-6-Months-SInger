@@ -8644,6 +8644,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:31:32",
       "lastUpdated": "2026-08-17T13:01:32.930Z"
+    },
+    "TCLED32D3000||PILIMATHALAWA - B": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:31:55",
+      "lastUpdated": "2026-08-17T13:01:55.016Z"
     }
   },
   "showroomVisits": {
@@ -8921,6 +8928,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:31:55",
+      "iso": "2026-08-17T13:01:55.017Z",
+      "action": "updated remark for TCLED32D3000 at PILIMATHALAWA - B: “Pending Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9263,13 +9277,6 @@
       "time": "18:24:53",
       "iso": "2026-08-17T12:54:53.006Z",
       "action": "updated remark for TH-TC-500 at PILIMATHALAWA - B: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:24:47",
-      "iso": "2026-08-17T12:54:47.405Z",
-      "action": "updated remark for SL-PSM-8017 at PILIMATHALAWA - B: “80%”"
     }
   ]
 }
