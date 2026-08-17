@@ -9274,6 +9274,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:09:58",
       "lastUpdated": "2026-08-17T13:39:58.050Z"
+    },
+    "LP-AP01||MUTUR": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:10:28",
+      "lastUpdated": "2026-08-17T13:40:28.746Z"
     }
   },
   "showroomVisits": {
@@ -9599,6 +9606,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:10:28",
+      "iso": "2026-08-17T13:40:28.748Z",
+      "action": "updated remark for LP-AP01 at MUTUR: “30%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9941,13 +9955,6 @@
       "time": "18:32:24",
       "iso": "2026-08-17T13:02:24.261Z",
       "action": "updated remark for UDV3618SY at MUTUR: “Displayed - 80%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:31:43",
-      "iso": "2026-08-17T13:01:43.305Z",
-      "action": "updated remark for UDV3618SY at MUTUR: “Displayed - 70%”"
     }
   ]
 }
