@@ -3627,11 +3627,11 @@
       "lastUpdated": "2026-08-17T04:07:33.751Z"
     },
     "DELL5593-128-I5W10-SIL||KURUNEGALA B": {
-      "remark": "70% - Exchange",
+      "remark": "Exchange - 70%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:34:13",
-      "lastUpdated": "2026-08-17T04:04:13.902Z"
+      "commentTime": "09:50:09",
+      "lastUpdated": "2026-08-17T04:20:09.417Z"
     },
     "HON-X6A-4-128-SKYBLU||KURUNEGALA B": {
       "remark": "Sold - 31st Report",
@@ -4068,6 +4068,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-17",
+      "time": "09:50:09",
+      "iso": "2026-08-17T04:20:09.418Z",
+      "action": "updated remark for DELL5593-128-I5W10-SIL at KURUNEGALA B: “Exchange - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
       "time": "09:49:44",
       "iso": "2026-08-17T04:19:44.876Z",
       "action": "updated remark for HON-X6B-6-128-GRN at KURUNEGALA B: “Battery Issue - 70%”"
@@ -4407,13 +4414,6 @@
       "time": "09:28:22",
       "iso": "2026-08-17T03:58:22.331Z",
       "action": "updated remark for H-RMRG024MFEOE at DAMBULLA: “Sellable condition - Sealed pack”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:28:12",
-      "iso": "2026-08-17T03:58:12.650Z",
-      "action": "updated remark for H-RMRG024MFEOE at DAMBULLA: “Sellable condirion”"
     }
   ]
 }
