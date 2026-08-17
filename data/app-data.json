@@ -3772,6 +3772,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:45:03",
       "lastUpdated": "2026-08-17T04:15:03.055Z"
+    },
+    "WF-ROM-DTO-S||DAMBULLA": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:45:21",
+      "lastUpdated": "2026-08-17T04:15:21.818Z"
     }
   },
   "showroomVisits": {
@@ -4009,6 +4016,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:45:21",
+      "iso": "2026-08-17T04:15:21.820Z",
+      "action": "updated remark for WF-ROM-DTO-S at DAMBULLA: “Sold”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4351,13 +4365,6 @@
       "time": "09:18:03",
       "iso": "2026-08-17T03:48:03.676Z",
       "action": "updated remark for SLE24B2520 at KURUNEGALA B: “90% Revert Damaged”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:16:14",
-      "iso": "2026-08-17T03:46:14.663Z",
-      "action": "updated remark for SL-ECO55-SV at KURUNEGALA B: “Damaged - 40%”"
     }
   ]
 }
