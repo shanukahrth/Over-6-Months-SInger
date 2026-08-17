@@ -3926,6 +3926,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:54:05",
       "lastUpdated": "2026-08-17T04:24:05.298Z"
+    },
+    "UJB-LB6027||KURUNEGALA B": {
+      "remark": "Exchange",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:54:29",
+      "lastUpdated": "2026-08-17T04:24:29.276Z"
     }
   },
   "showroomVisits": {
@@ -4163,6 +4170,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:54:29",
+      "iso": "2026-08-17T04:24:29.278Z",
+      "action": "updated remark for UJB-LB6027 at KURUNEGALA B: “Exchange”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4505,13 +4519,6 @@
       "time": "09:37:59",
       "iso": "2026-08-17T04:07:59.949Z",
       "action": "updated remark for BFS-150KG at DAMBULLA: “Battery dead - Brand manager to comment”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:37:35",
-      "iso": "2026-08-17T04:07:35.296Z",
-      "action": "updated remark for HON-X6B-6-128-GRN at KURUNEGALA B: “70% Battery Issue”"
     }
   ]
 }
