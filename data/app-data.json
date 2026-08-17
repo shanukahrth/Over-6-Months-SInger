@@ -9199,11 +9199,11 @@
       "lastUpdated": "2026-08-17T13:29:06.323Z"
     },
     "SIN-MRG-1008C||MUTUR": {
-      "remark": "Missing part -",
+      "remark": "Missing part - BM to comment",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "19:02:39",
-      "lastUpdated": "2026-08-17T13:32:39.927Z"
+      "commentTime": "19:03:05",
+      "lastUpdated": "2026-08-17T13:33:05.525Z"
     }
   },
   "showroomVisits": {
@@ -9529,6 +9529,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:03:05",
+      "iso": "2026-08-17T13:33:05.526Z",
+      "action": "updated remark for SIN-MRG-1008C at MUTUR: “Missing part - BM to comment”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9871,13 +9878,6 @@
       "time": "18:25:01",
       "iso": "2026-08-17T12:55:01.548Z",
       "action": "updated remark for WFL-CRYSTAL-78X72-S at MUTUR: “50% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:24:55",
-      "iso": "2026-08-17T12:54:55.512Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRN at MUTUR: “1 sold, 30% for displayed/unboxed”"
     }
   ]
 }
