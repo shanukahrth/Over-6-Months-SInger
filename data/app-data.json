@@ -5839,11 +5839,11 @@
       "lastUpdated": "2026-08-17T10:33:16.605Z"
     },
     "PF-ENVISION-BL-S||KANTALAI": {
-      "remark": "Damaged - not sellable",
+      "remark": "Damaged - not sellable - 90% discount",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "16:04:02",
-      "lastUpdated": "2026-08-17T10:34:02.778Z"
+      "commentTime": "16:04:16",
+      "lastUpdated": "2026-08-17T10:34:16.450Z"
     }
   },
   "showroomVisits": {
@@ -6113,6 +6113,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "16:04:16",
+      "iso": "2026-08-17T10:34:16.452Z",
+      "action": "updated remark for PF-ENVISION-BL-S at KANTALAI: “Damaged - not sellable - 90% discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6455,13 +6462,6 @@
       "time": "13:43:47",
       "iso": "2026-08-17T08:13:47.310Z",
       "action": "updated remark for SWP-SLCT-01 at HABARANA: “damaged and parts are missing - not sellable, 90% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:42:19",
-      "iso": "2026-08-17T08:12:19.953Z",
-      "action": "updated remark for SIN-RFC-2058 at HABARANA: “10%”"
     }
   ]
 }
