@@ -6180,6 +6180,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:41:08",
       "lastUpdated": "2026-08-17T12:11:08.471Z"
+    },
+    "LF-SLVY-W4B-CLM-S||SHOMES- MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:41:43",
+      "lastUpdated": "2026-08-17T12:11:43.862Z"
     }
   },
   "showroomVisits": {
@@ -6449,6 +6456,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:41:43",
+      "iso": "2026-08-17T12:11:43.864Z",
+      "action": "updated remark for LF-SLVY-W4B-CLM-S at SHOMES- MATALE: “Damaged - 50%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6791,13 +6805,6 @@
       "time": "16:15:22",
       "iso": "2026-08-17T10:45:22.085Z",
       "action": "updated remark for HON-X5PLUS-4-64-BLK at MATALE: “Damaged - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "16:12:04",
-      "iso": "2026-08-17T10:42:04.332Z",
-      "action": "updated remark for APS-300KG at MATALE: “Damaged - 50%”"
     }
   ]
 }
