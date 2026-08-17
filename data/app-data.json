@@ -4789,11 +4789,11 @@
       "lastUpdated": "2026-08-17T06:14:43.829Z"
     },
     "DELL3530-I3-8GB512-BLK||KURUNEGALA C": {
-      "remark": "Damaged - 25%",
-      "commentedBy": "SHENULI",
+      "remark": "Display/ Damaged - 25%",
+      "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-17",
-      "commentTime": "11:45:17",
-      "lastUpdated": "2026-08-17T06:15:17.611Z"
+      "commentTime": "12:27:08",
+      "lastUpdated": "2026-08-17T06:57:08.989Z"
     },
     "HON-H200SMART-8-256-GRN||KURUNEGALA C": {
       "remark": "Damaged/Display - 35%",
@@ -5288,6 +5288,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
+      "time": "12:27:08",
+      "iso": "2026-08-17T06:57:08.990Z",
+      "action": "updated remark for DELL3530-I3-8GB512-BLK at KURUNEGALA C: “Display/ Damaged - 25%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
       "time": "12:25:53",
       "iso": "2026-08-17T06:55:53.226Z",
       "action": "updated remark for HON-X7C-8-256-GRN at KURUNEGALA C: “Display/ Damage - 35%”"
@@ -5627,13 +5634,6 @@
       "time": "11:40:50",
       "iso": "2026-08-17T06:10:50.876Z",
       "action": "updated remark for SIN-BS30 at BUDGET SHOP-DAMBULLA: “Rs.8,500/- Special Price”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:40:44",
-      "iso": "2026-08-17T06:10:44.396Z",
-      "action": "updated remark for SIN-BS30 at BUDGET SHOP-DAMBULLA: “8500”"
     }
   ]
 }
