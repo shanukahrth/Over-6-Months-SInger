@@ -4927,6 +4927,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:55:32",
       "lastUpdated": "2026-08-17T06:25:32.728Z"
+    },
+    "PN-DH-3JP2WK||BUDGET SHOP-DAMBULLA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:56:00",
+      "lastUpdated": "2026-08-17T06:26:00.821Z"
     }
   },
   "showroomVisits": {
@@ -5172,6 +5179,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:56:00",
+      "iso": "2026-08-17T06:26:00.822Z",
+      "action": "updated remark for PN-DH-3JP2WK at BUDGET SHOP-DAMBULLA: “70%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5514,13 +5528,6 @@
       "time": "11:31:11",
       "iso": "2026-08-17T06:01:11.445Z",
       "action": "updated remark for SLE40D600A at BUDGET SHOP-DAMBULLA: “60%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:30:24",
-      "iso": "2026-08-17T06:00:24.935Z",
-      "action": "updated remark for SLE43G890 at BUDGET SHOP-DAMBULLA: “Revert”"
     }
   ]
 }
