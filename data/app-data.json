@@ -4976,6 +4976,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "12:09:09",
       "lastUpdated": "2026-08-17T06:39:09.526Z"
+    },
+    "WF-XB700||KURUNEGALA C": {
+      "remark": "Damage - 50% (Battery Issue)",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "12:09:52",
+      "lastUpdated": "2026-08-17T06:39:52.213Z"
     }
   },
   "showroomVisits": {
@@ -5229,6 +5236,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "12:09:52",
+      "iso": "2026-08-17T06:39:52.213Z",
+      "action": "updated remark for WF-XB700 at KURUNEGALA C: “Damage - 50% (Battery Issue)”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -5571,13 +5585,6 @@
       "time": "11:33:16",
       "iso": "2026-08-17T06:03:16.290Z",
       "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90% - Batatery dammaged”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:33:07",
-      "iso": "2026-08-17T06:03:07.752Z",
-      "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90%”"
     }
   ]
 }
