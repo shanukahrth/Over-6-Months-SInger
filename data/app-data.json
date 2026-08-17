@@ -8581,6 +8581,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:29:05",
       "lastUpdated": "2026-08-17T12:59:05.202Z"
+    },
+    "SKY-32E2||PILIMATHALAWA - B": {
+      "remark": "Defective",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:29:28",
+      "lastUpdated": "2026-08-17T12:59:28.126Z"
     }
   },
   "showroomVisits": {
@@ -8858,6 +8865,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:29:28",
+      "iso": "2026-08-17T12:59:28.127Z",
+      "action": "updated remark for SKY-32E2 at PILIMATHALAWA - B: “Defective”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9200,13 +9214,6 @@
       "time": "18:22:50",
       "iso": "2026-08-17T12:52:50.127Z",
       "action": "updated remark for LF-BUDGET-BDQ-CRW-S at PILIMATHALAWA - B: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:22:47",
-      "iso": "2026-08-17T12:52:47.872Z",
-      "action": "updated remark for LF-BUDGET-BDQ-AGO-S at PILIMATHALAWA - B: “70%”"
     }
   ]
 }
