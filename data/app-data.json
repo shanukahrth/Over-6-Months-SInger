@@ -5685,11 +5685,11 @@
       "lastUpdated": "2026-08-17T10:11:25.831Z"
     },
     "SLE40D600A||KANTALAI": {
-      "remark": "revert - 60% discount, one is panel damaged,",
+      "remark": "50% discount - displayed",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "15:42:27",
-      "lastUpdated": "2026-08-17T10:12:27.738Z"
+      "commentTime": "15:46:34",
+      "lastUpdated": "2026-08-17T10:16:34.528Z"
     },
     "HON-X9C-12-256-BLK||KANTALAI": {
       "remark": "transferred to Habarana for sale - Sold",
@@ -5980,6 +5980,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:46:34",
+      "iso": "2026-08-17T10:16:34.530Z",
+      "action": "updated remark for SLE40D600A at KANTALAI: “50% discount - displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6322,13 +6329,6 @@
       "time": "13:37:24",
       "iso": "2026-08-17T08:07:24.779Z",
       "action": "updated remark for STO-EO30C at HABARANA: “Sold”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:36:53",
-      "iso": "2026-08-17T08:06:53.553Z",
-      "action": "updated remark for SBI-60M19-T at CHENKALADY: “20% Discount”"
     }
   ]
 }
