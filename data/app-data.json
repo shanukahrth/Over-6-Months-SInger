@@ -7834,11 +7834,11 @@
       "lastUpdated": "2026-08-17T12:31:04.008Z"
     },
     "ULED32D60A||BUDGET SHOP-K-GTOTA": {
-      "remark": "Unsellable",
+      "remark": "MOP - 25,000",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:00:55",
-      "lastUpdated": "2026-08-17T12:30:55.330Z"
+      "commentTime": "18:01:13",
+      "lastUpdated": "2026-08-17T12:31:13.282Z"
     }
   },
   "showroomVisits": {
@@ -8108,6 +8108,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:01:13",
+      "iso": "2026-08-17T12:31:13.283Z",
+      "action": "updated remark for ULED32D60A at BUDGET SHOP-K-GTOTA: “MOP - 25,000”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8450,13 +8457,6 @@
       "time": "17:57:33",
       "iso": "2026-08-17T12:27:33.852Z",
       "action": "updated remark for GEO-260NF at BUDGET SHOP-K-GTOTA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:26",
-      "iso": "2026-08-17T12:27:26.739Z",
-      "action": "updated remark for ACER-PJ-S1386WHN at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
