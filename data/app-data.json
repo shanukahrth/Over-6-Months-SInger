@@ -9239,6 +9239,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:05:47",
       "lastUpdated": "2026-08-17T13:35:47.706Z"
+    },
+    "QT-SITUP||MUTUR": {
+      "remark": "Damaged (Not sellable) - 90% BM will report it",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:06:42",
+      "lastUpdated": "2026-08-17T13:36:42.626Z"
     }
   },
   "showroomVisits": {
@@ -9564,6 +9571,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:06:42",
+      "iso": "2026-08-17T13:36:42.626Z",
+      "action": "updated remark for QT-SITUP at MUTUR: “Damaged (Not sellable) - 90% BM will report it”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9906,13 +9920,6 @@
       "time": "18:29:46",
       "iso": "2026-08-17T12:59:46.325Z",
       "action": "updated remark for ULED32D60A at MUTUR: “Display issue - 80%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:28:51",
-      "iso": "2026-08-17T12:58:51.039Z",
-      "action": "updated remark for WF-CARLO-S at MUTUR: “50% Discount”"
     }
   ]
 }
