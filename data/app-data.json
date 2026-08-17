@@ -8336,6 +8336,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:24:04",
       "lastUpdated": "2026-08-17T12:54:04.655Z"
+    },
+    "KN-MG510||PILIMATHALAWA - B": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:24:31",
+      "lastUpdated": "2026-08-17T12:54:31.031Z"
     }
   },
   "showroomVisits": {
@@ -8613,6 +8620,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:24:31",
+      "iso": "2026-08-17T12:54:31.032Z",
+      "action": "updated remark for KN-MG510 at PILIMATHALAWA - B: “Pending Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8955,13 +8969,6 @@
       "time": "18:06:37",
       "iso": "2026-08-17T12:36:37.007Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at GELIOYA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:06:17",
-      "iso": "2026-08-17T12:36:17.404Z",
-      "action": "updated remark for WFI-LYON-TBL-S at GELIOYA: “50%”"
     }
   ]
 }
