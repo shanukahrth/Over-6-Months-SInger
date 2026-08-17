@@ -6124,6 +6124,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:33:03",
       "lastUpdated": "2026-08-17T12:03:03.817Z"
+    },
+    "DH-XVR1B16H||SHOMES- MATALE": {
+      "remark": "Damage - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:35:31",
+      "lastUpdated": "2026-08-17T12:05:31.992Z"
     }
   },
   "showroomVisits": {
@@ -6393,6 +6400,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:35:31",
+      "iso": "2026-08-17T12:05:31.995Z",
+      "action": "updated remark for DH-XVR1B16H at SHOMES- MATALE: “Damage - 85%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6735,13 +6749,6 @@
       "time": "16:04:02",
       "iso": "2026-08-17T10:34:02.780Z",
       "action": "updated remark for PF-ENVISION-BL-S at KANTALAI: “Damaged - not sellable”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "16:03:16",
-      "iso": "2026-08-17T10:33:16.607Z",
-      "action": "updated remark for USHA-EI1602 at KANTALAI: “20% - Displayed”"
     }
   ]
 }
