@@ -5195,11 +5195,11 @@
       "lastUpdated": "2026-08-17T07:43:08.396Z"
     },
     "SVX6002||BUDGET SHOP-K-GTOTA": {
-      "remark": "Unsellable",
+      "remark": "85%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "13:13:18",
-      "lastUpdated": "2026-08-17T07:43:18.929Z"
+      "commentTime": "13:13:27",
+      "lastUpdated": "2026-08-17T07:43:27.780Z"
     }
   },
   "showroomVisits": {
@@ -5461,6 +5461,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "13:13:27",
+      "iso": "2026-08-17T07:43:27.780Z",
+      "action": "updated remark for SVX6002 at BUDGET SHOP-K-GTOTA: “85%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -5803,13 +5810,6 @@
       "time": "11:56:50",
       "iso": "2026-08-17T06:26:50.916Z",
       "action": "updated remark for SLE39E5000TC at BUDGET SHOP-DAMBULLA: “Damaged - display not working”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:56:30",
-      "iso": "2026-08-17T06:26:30.183Z",
-      "action": "updated remark for TCLTB10S-3-32-GRY at BUDGET SHOP-DAMBULLA: “80%”"
     }
   ]
 }
