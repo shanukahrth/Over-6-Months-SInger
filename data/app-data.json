@@ -8252,6 +8252,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:22:37",
       "lastUpdated": "2026-08-17T12:52:37.414Z"
+    },
+    "WF-CF-75X48-S||PILIMATHALAWA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:22:42",
+      "lastUpdated": "2026-08-17T12:52:42.019Z"
     }
   },
   "showroomVisits": {
@@ -8529,6 +8536,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:22:42",
+      "iso": "2026-08-17T12:52:42.021Z",
+      "action": "updated remark for WF-CF-75X48-S at PILIMATHALAWA - B: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8871,13 +8885,6 @@
       "time": "18:03:29",
       "iso": "2026-08-17T12:33:29.210Z",
       "action": "updated GELIOYA showroom (remark: Discounts Given over the Phone)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:03:16",
-      "iso": "2026-08-17T12:33:16.715Z",
-      "action": "updated GELIOYA showroom (visited: No)"
     }
   ]
 }
