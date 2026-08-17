@@ -3758,6 +3758,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:44:30",
       "lastUpdated": "2026-08-17T04:14:30.778Z"
+    },
+    "ZTE-A31-LITE-GRY||KURUNEGALA B": {
+      "remark": "Battery Dead - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:44:39",
+      "lastUpdated": "2026-08-17T04:14:39.015Z"
     }
   },
   "showroomVisits": {
@@ -3995,6 +4002,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:44:39",
+      "iso": "2026-08-17T04:14:39.015Z",
+      "action": "updated remark for ZTE-A31-LITE-GRY at KURUNEGALA B: “Battery Dead - 90%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4337,13 +4351,6 @@
       "time": "09:08:43",
       "iso": "2026-08-17T03:38:43.660Z",
       "action": "updated remark for HU-WATCHFIT4-BLK at KURUNEGALA B: “50% Discount”"
-    },
-    {
-      "user": "MKT",
-      "date": "2026-08-17",
-      "time": "09:06:01",
-      "iso": "2026-08-17T03:36:01.466Z",
-      "action": "updated remark for CLOTHLINE-35PVC at KURUNEGALA B: “50% Discount”"
     }
   ]
 }
