@@ -5494,6 +5494,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:36:53",
       "lastUpdated": "2026-08-17T08:06:53.551Z"
+    },
+    "STO-EO30C||HABARANA": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:37:24",
+      "lastUpdated": "2026-08-17T08:07:24.778Z"
     }
   },
   "showroomVisits": {
@@ -5755,6 +5762,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:37:24",
+      "iso": "2026-08-17T08:07:24.779Z",
+      "action": "updated remark for STO-EO30C at HABARANA: “Sold”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6097,13 +6111,6 @@
       "time": "13:14:25",
       "iso": "2026-08-17T07:44:25.953Z",
       "action": "updated remark for SIN-MH44SW at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:14:18",
-      "iso": "2026-08-17T07:44:18.202Z",
-      "action": "updated remark for SIN-K13 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
