@@ -5319,6 +5319,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:20:01",
       "lastUpdated": "2026-08-17T07:50:01.846Z"
+    },
+    "TCL65C655||HABARANA": {
+      "remark": "50% Discount - Display",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:20:15",
+      "lastUpdated": "2026-08-17T07:50:15.383Z"
     }
   },
   "showroomVisits": {
@@ -5580,6 +5587,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:20:15",
+      "iso": "2026-08-17T07:50:15.386Z",
+      "action": "updated remark for TCL65C655 at HABARANA: “50% Discount - Display”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -5922,13 +5936,6 @@
       "time": "12:49:16",
       "iso": "2026-08-17T07:19:16.492Z",
       "action": "updated TISSAMAHARAMA showroom (visited: Yes)"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "12:31:07",
-      "iso": "2026-08-17T07:01:07.261Z",
-      "action": "updated remark for ZTE-V50DESIGN-4-256GB-B at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
