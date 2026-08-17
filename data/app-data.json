@@ -3795,11 +3795,11 @@
       "lastUpdated": "2026-08-17T04:16:53.967Z"
     },
     "SIN-PR-K340||DAMBULLA": {
-      "remark": "34% discount for displayed one",
+      "remark": "Damaged - not working",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "09:48:15",
-      "lastUpdated": "2026-08-17T04:18:15.633Z"
+      "commentTime": "09:57:04",
+      "lastUpdated": "2026-08-17T04:27:04.034Z"
     },
     "WP-WDC11704RG-G||KURUNEGALA B": {
       "remark": "Sold",
@@ -4213,6 +4213,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:57:04",
+      "iso": "2026-08-17T04:27:04.035Z",
+      "action": "updated remark for SIN-PR-K340 at DAMBULLA: “Damaged - not working”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-17",
       "time": "09:56:48",
@@ -4554,13 +4561,6 @@
       "time": "09:41:58",
       "iso": "2026-08-17T04:11:58.398Z",
       "action": "updated remark for ULED32D60A at DAMBULLA: “K number received - not collected yet”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:41:35",
-      "iso": "2026-08-17T04:11:35.677Z",
-      "action": "updated remark for PN-TH-32P401N at DAMBULLA: “Revert”"
     }
   ]
 }
