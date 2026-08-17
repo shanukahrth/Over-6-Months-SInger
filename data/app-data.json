@@ -5431,6 +5431,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:31:34",
       "lastUpdated": "2026-08-17T08:01:34.515Z"
+    },
+    "SLE55D5010TC||CHENKALADY": {
+      "remark": "60% Discount",
+      "commentedBy": "Gayan Sooriarachchi",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:32:01",
+      "lastUpdated": "2026-08-17T08:02:01.019Z"
     }
   },
   "showroomVisits": {
@@ -5692,6 +5699,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Gayan Sooriarachchi",
+      "date": "2026-08-17",
+      "time": "13:32:01",
+      "iso": "2026-08-17T08:02:01.021Z",
+      "action": "updated remark for SLE55D5010TC at CHENKALADY: “60% Discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6034,13 +6048,6 @@
       "time": "13:13:01",
       "iso": "2026-08-17T07:43:01.113Z",
       "action": "updated remark for SPMA9501 at BUDGET SHOP-K-GTOTA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:12:58",
-      "iso": "2026-08-17T07:42:58.720Z",
-      "action": "updated remark for SPMA9300 at BUDGET SHOP-K-GTOTA: “80%”"
     }
   ]
 }
