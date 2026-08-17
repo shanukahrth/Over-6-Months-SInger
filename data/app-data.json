@@ -3709,6 +3709,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:41:11",
       "lastUpdated": "2026-08-17T04:11:11.000Z"
+    },
+    "PN-TH-32P401N||DAMBULLA": {
+      "remark": "Revert",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:41:35",
+      "lastUpdated": "2026-08-17T04:11:35.675Z"
     }
   },
   "showroomVisits": {
@@ -3946,6 +3953,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:41:35",
+      "iso": "2026-08-17T04:11:35.677Z",
+      "action": "updated remark for PN-TH-32P401N at DAMBULLA: “Revert”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4288,13 +4302,6 @@
       "time": "09:32:35",
       "iso": "2026-08-14T04:02:35.969Z",
       "action": "updated MORATUWA showroom (visitDate: 2026-08-12)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "09:32:33",
-      "iso": "2026-08-14T04:02:33.320Z",
-      "action": "updated MORATUWA showroom (visited: Yes)"
     }
   ]
 }
