@@ -6133,11 +6133,11 @@
       "lastUpdated": "2026-08-17T12:05:42.296Z"
     },
     "DH-A-HFW1239TLMP-LED-36B||SHOMES- MATALE": {
-      "remark": "Damage - 85%",
+      "remark": "Damaged - 85%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-17",
-      "commentTime": "17:35:34",
-      "lastUpdated": "2026-08-17T12:05:34.378Z"
+      "commentTime": "17:35:46",
+      "lastUpdated": "2026-08-17T12:05:46.973Z"
     },
     "DH-IPC-F2CP-LED-0360B||SHOMES- MATALE": {
       "remark": "Damage - 85%",
@@ -6421,6 +6421,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:35:46",
+      "iso": "2026-08-17T12:05:46.975Z",
+      "action": "updated remark for DH-A-HFW1239TLMP-LED-36B at SHOMES- MATALE: “Damaged - 85%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6763,13 +6770,6 @@
       "time": "16:07:42",
       "iso": "2026-08-17T10:37:42.349Z",
       "action": "updated remark for WP-JUN-E-S at KANTALAI: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "16:07:32",
-      "iso": "2026-08-17T10:37:32.682Z",
-      "action": "updated remark for SB-AAA at KANTALAI: “50%”"
     }
   ]
 }
