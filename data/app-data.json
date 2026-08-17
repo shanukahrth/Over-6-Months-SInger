@@ -8777,6 +8777,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:43:05",
       "lastUpdated": "2026-08-17T13:13:05.057Z"
+    },
+    "BRP-CASERL16||HEMMATHAGAMA": {
+      "remark": "Additional 30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:43:26",
+      "lastUpdated": "2026-08-17T13:13:26.001Z"
     }
   },
   "showroomVisits": {
@@ -9102,6 +9109,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:43:26",
+      "iso": "2026-08-17T13:13:26.002Z",
+      "action": "updated remark for BRP-CASERL16 at HEMMATHAGAMA: “Additional 30%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9444,13 +9458,6 @@
       "time": "18:30:25",
       "iso": "2026-08-17T13:00:25.245Z",
       "action": "updated remark for SLE32G690 at PILIMATHALAWA - B: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:30:19",
-      "iso": "2026-08-17T13:00:19.635Z",
-      "action": "updated remark for SLE32E930 at PILIMATHALAWA - B: “60%”"
     }
   ]
 }
