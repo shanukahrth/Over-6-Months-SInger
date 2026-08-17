@@ -6229,6 +6229,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:46:12",
       "lastUpdated": "2026-08-17T12:16:12.407Z"
+    },
+    "WF-BALTIC-01-S||SHOMES- MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:46:35",
+      "lastUpdated": "2026-08-17T12:16:35.134Z"
     }
   },
   "showroomVisits": {
@@ -6498,6 +6505,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:46:35",
+      "iso": "2026-08-17T12:16:35.135Z",
+      "action": "updated remark for WF-BALTIC-01-S at SHOMES- MATALE: “Damaged - 50%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6840,13 +6854,6 @@
       "time": "16:22:21",
       "iso": "2026-08-17T10:52:21.285Z",
       "action": "updated remark for HON-X9C-12-256-GRN at MATALE: “Damaged - 30%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "16:22:13",
-      "iso": "2026-08-17T10:52:13.070Z",
-      "action": "updated remark for HON-X9B-12-256-ORG at MATALE: “Damaged - 70%”"
     }
   ]
 }
