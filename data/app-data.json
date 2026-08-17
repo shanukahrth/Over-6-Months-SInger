@@ -3506,6 +3506,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:08:43",
       "lastUpdated": "2026-08-17T03:38:43.658Z"
+    },
+    "SL-ECO55-SV||KURUNEGALA B": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:16:14",
+      "lastUpdated": "2026-08-17T03:46:14.660Z"
     }
   },
   "showroomVisits": {
@@ -3743,6 +3750,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:16:14",
+      "iso": "2026-08-17T03:46:14.663Z",
+      "action": "updated remark for SL-ECO55-SV at KURUNEGALA B: “Damaged - 40%”"
+    },
     {
       "user": "MKT",
       "date": "2026-08-17",
@@ -4085,13 +4099,6 @@
       "time": "23:14:30",
       "iso": "2026-08-13T17:44:30.337Z",
       "action": "updated remark for SLE32F590 at KADUGANNAWA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:14:23",
-      "iso": "2026-08-13T17:44:23.432Z",
-      "action": "updated remark for SLE32E930 at KADUGANNAWA: “60%”"
     }
   ]
 }
