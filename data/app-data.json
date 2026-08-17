@@ -6084,11 +6084,11 @@
       "lastUpdated": "2026-08-17T11:58:30.521Z"
     },
     "EDU-HDMI||KINNIYA": {
-      "remark": "transfer",
+      "remark": "transfer to the shop inv",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "17:30:50",
-      "lastUpdated": "2026-08-17T12:00:50.537Z"
+      "commentTime": "17:31:02",
+      "lastUpdated": "2026-08-17T12:01:02.626Z"
     },
     "SIN-QS-8306||KINNIYA": {
       "remark": "70% Disocunt",
@@ -6365,6 +6365,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "17:31:02",
+      "iso": "2026-08-17T12:01:02.627Z",
+      "action": "updated remark for EDU-HDMI at KINNIYA: “transfer to the shop inv”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6707,13 +6714,6 @@
       "time": "15:58:15",
       "iso": "2026-08-17T10:28:15.812Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KANTALAI: “sellable condition”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:57:38",
-      "iso": "2026-08-17T10:27:38.372Z",
-      "action": "updated remark for KA-LW-185A at KANTALAI: “80% - displayed”"
     }
   ]
 }
