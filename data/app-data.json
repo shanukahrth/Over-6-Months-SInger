@@ -8504,6 +8504,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:27:45",
       "lastUpdated": "2026-08-17T12:57:45.803Z"
+    },
+    "BES-WP15-ECO||PILIMATHALAWA - B": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:27:56",
+      "lastUpdated": "2026-08-17T12:57:56.320Z"
     }
   },
   "showroomVisits": {
@@ -8781,6 +8788,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:27:56",
+      "iso": "2026-08-17T12:57:56.321Z",
+      "action": "updated remark for BES-WP15-ECO at PILIMATHALAWA - B: “40%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9123,13 +9137,6 @@
       "time": "18:21:07",
       "iso": "2026-08-17T12:51:07.601Z",
       "action": "updated remark for SDV3605K at PILIMATHALAWA - B: “MOP - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:21:02",
-      "iso": "2026-08-17T12:51:02.085Z",
-      "action": "updated remark for DVP-SR370 at PILIMATHALAWA - B: “MOP - 2,000”"
     }
   ]
 }
