@@ -4038,6 +4038,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:03:48",
       "lastUpdated": "2026-08-17T04:33:48.355Z"
+    },
+    "SLE40D600A||KURUNEGALA B": {
+      "remark": "Revert / Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:04:09",
+      "lastUpdated": "2026-08-17T04:34:09.377Z"
     }
   },
   "showroomVisits": {
@@ -4275,6 +4282,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:04:09",
+      "iso": "2026-08-17T04:34:09.378Z",
+      "action": "updated remark for SLE40D600A at KURUNEGALA B: “Revert / Damaged - 90%”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4617,13 +4631,6 @@
       "time": "09:47:29",
       "iso": "2026-08-17T04:17:29.178Z",
       "action": "updated remark for SIN-PR-K340 at DAMBULLA: “one is not working - Brand Manager to comment”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:47:10",
-      "iso": "2026-08-17T04:17:10.227Z",
-      "action": "updated remark for WP-WDC11704RG-G at KURUNEGALA B: “Sold”"
     }
   ]
 }
