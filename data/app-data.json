@@ -5916,7 +5916,7 @@
     },
     "KATARAGAMA||HAMBANTOTA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-17",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -5924,6 +5924,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-17",
+      "time": "14:39:49",
+      "iso": "2026-08-17T09:09:49.245Z",
+      "action": "updated KATARAGAMA showroom (visitDate: 2026-08-17)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-17",
@@ -6266,13 +6273,6 @@
       "time": "13:28:34",
       "iso": "2026-08-17T07:58:34.246Z",
       "action": "updated remark for GEO-182S-BU1 at HABARANA: “25%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:28:08",
-      "iso": "2026-08-17T07:58:08.449Z",
-      "action": "updated remark for HON-X8C-8-512-GRN at HABARANA: “50% - Displayed”"
     }
   ]
 }
