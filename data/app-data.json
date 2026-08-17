@@ -8399,6 +8399,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:25:15",
       "lastUpdated": "2026-08-17T12:55:15.755Z"
+    },
+    "REK-YQ900||PILIMATHALAWA - B": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:25:37",
+      "lastUpdated": "2026-08-17T12:55:37.706Z"
     }
   },
   "showroomVisits": {
@@ -8676,6 +8683,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:25:37",
+      "iso": "2026-08-17T12:55:37.706Z",
+      "action": "updated remark for REK-YQ900 at PILIMATHALAWA - B: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9018,13 +9032,6 @@
       "time": "18:11:58",
       "iso": "2026-08-17T12:41:58.588Z",
       "action": "updated remark for SMGUA43T5400 at GELIOYA: “MOP - 100,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:11:51",
-      "iso": "2026-08-17T12:41:51.436Z",
-      "action": "updated remark for SLE32E930 at GELIOYA: “70%”"
     }
   ]
 }
