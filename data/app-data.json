@@ -3597,6 +3597,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:31:37",
       "lastUpdated": "2026-08-17T04:01:37.834Z"
+    },
+    "SLE32E930||DAMBULLA": {
+      "remark": "Revert - Up to 70% discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:32:24",
+      "lastUpdated": "2026-08-17T04:02:24.701Z"
     }
   },
   "showroomVisits": {
@@ -3834,6 +3841,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:32:24",
+      "iso": "2026-08-17T04:02:24.702Z",
+      "action": "updated remark for SLE32E930 at DAMBULLA: “Revert - Up to 70% discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4176,13 +4190,6 @@
       "time": "08:51:49",
       "iso": "2026-08-14T03:21:49.211Z",
       "action": "updated BADURALIYA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:51:39",
-      "iso": "2026-08-14T03:21:39.193Z",
-      "action": "updated BADURALIYA showroom (visitDate: 2026-08-13)"
     }
   ]
 }
