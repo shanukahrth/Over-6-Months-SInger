@@ -3641,11 +3641,11 @@
       "lastUpdated": "2026-08-17T04:06:55.284Z"
     },
     "HON-X6B-6-128-GRN||KURUNEGALA B": {
-      "remark": "70% Battery Issue",
+      "remark": "Battery Issue - 70%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:37:35",
-      "lastUpdated": "2026-08-17T04:07:35.296Z"
+      "commentTime": "09:49:44",
+      "lastUpdated": "2026-08-17T04:19:44.876Z"
     },
     "BFS-150KG||DAMBULLA": {
       "remark": "Battery dead - Brand manager to comment",
@@ -4068,6 +4068,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-17",
+      "time": "09:49:44",
+      "iso": "2026-08-17T04:19:44.876Z",
+      "action": "updated remark for HON-X6B-6-128-GRN at KURUNEGALA B: “Battery Issue - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
       "time": "09:49:08",
       "iso": "2026-08-17T04:19:08.643Z",
       "action": "updated remark for WFL-SPM-78X48X7-S at KURUNEGALA B: “Damaged - 95%”"
@@ -4407,13 +4414,6 @@
       "time": "09:28:12",
       "iso": "2026-08-17T03:58:12.650Z",
       "action": "updated remark for H-RMRG024MFEOE at DAMBULLA: “Sellable condirion”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:27:28",
-      "iso": "2026-08-17T03:57:28.128Z",
-      "action": "updated remark for MB-SAFARI4S-BLK at DAMBULLA: “Sold”"
     }
   ]
 }
