@@ -6173,6 +6173,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:40:47",
       "lastUpdated": "2026-08-17T12:10:47.456Z"
+    },
+    "LF-SLVY-W4B-CKT-S||SHOMES- MATALE": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:41:08",
+      "lastUpdated": "2026-08-17T12:11:08.471Z"
     }
   },
   "showroomVisits": {
@@ -6442,6 +6449,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:41:08",
+      "iso": "2026-08-17T12:11:08.473Z",
+      "action": "updated remark for LF-SLVY-W4B-CKT-S at SHOMES- MATALE: “Damaged - 70%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6784,13 +6798,6 @@
       "time": "16:12:04",
       "iso": "2026-08-17T10:42:04.332Z",
       "action": "updated remark for APS-300KG at MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "16:11:48",
-      "iso": "2026-08-17T10:41:48.351Z",
-      "action": "updated remark for AES-HAV-615T at MATALE: “10%”"
     }
   ]
 }
