@@ -9014,9 +9014,24 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
+    },
+    "SHOMES- KANDY||KANDY": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:38:13",
+      "iso": "2026-08-17T13:08:13.138Z",
+      "action": "updated SHOMES- KANDY showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9359,13 +9374,6 @@
       "time": "18:28:08",
       "iso": "2026-08-17T12:58:08.752Z",
       "action": "updated remark for CLIP-MCW at PILIMATHALAWA - B: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:28:01",
-      "iso": "2026-08-17T12:58:01.678Z",
-      "action": "updated remark for BES-WP15-ECO at PILIMATHALAWA - B: “40%”"
     }
   ]
 }
