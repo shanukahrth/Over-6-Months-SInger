@@ -9253,6 +9253,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:07:17",
       "lastUpdated": "2026-08-17T13:37:17.279Z"
+    },
+    "NETAC-128GB-NVME-SSD||MUTUR": {
+      "remark": "Price not showing in the system",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:07:44",
+      "lastUpdated": "2026-08-17T13:37:44.477Z"
     }
   },
   "showroomVisits": {
@@ -9578,6 +9585,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:07:44",
+      "iso": "2026-08-17T13:37:44.477Z",
+      "action": "updated remark for NETAC-128GB-NVME-SSD at MUTUR: “Price not showing in the system”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9920,13 +9934,6 @@
       "time": "18:30:25",
       "iso": "2026-08-17T13:00:25.971Z",
       "action": "updated remark for SLE32E930 at MUTUR: “Damaged - 80% dicosunt”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:29:51",
-      "iso": "2026-08-17T12:59:51.641Z",
-      "action": "updated remark for ULED32D60A at MUTUR: “Display issue - 80% disocunt”"
     }
   ]
 }
