@@ -4531,9 +4531,31 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-14"
+    },
+    "GALLE B||GALLE": {
+      "visited": "No",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-17",
+      "time": "10:43:37",
+      "iso": "2026-08-17T05:13:37.313Z",
+      "action": "updated GALLE B showroom (visited: No)"
+    },
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-17",
+      "time": "10:43:34",
+      "iso": "2026-08-17T05:13:34.607Z",
+      "action": "updated GALLE B showroom (visited: Yes)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4869,20 +4891,6 @@
       "time": "10:06:07",
       "iso": "2026-08-17T04:36:07.532Z",
       "action": "updated remark for VT-1047CN at DAMBULLA: “60% Discount - OEL product”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:05:41",
-      "iso": "2026-08-17T04:35:41.953Z",
-      "action": "updated remark for SIN-RFC-1819 at KURUNEGALA B: “Exchange”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:05:37",
-      "iso": "2026-08-17T04:35:37.963Z",
-      "action": "updated remark for SIN-RFC-1819 at KURUNEGALA B: “Exhange”"
     }
   ]
 }
