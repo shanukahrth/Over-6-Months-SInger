@@ -9374,11 +9374,11 @@
       "lastUpdated": "2026-08-17T13:55:55.362Z"
     },
     "BTS-10KG||MUTUR": {
-      "remark": "40% - liscence",
+      "remark": "40% - license expired",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "19:26:25",
-      "lastUpdated": "2026-08-17T13:56:25.750Z"
+      "commentTime": "19:26:29",
+      "lastUpdated": "2026-08-17T13:56:29.059Z"
     }
   },
   "showroomVisits": {
@@ -9704,6 +9704,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:26:29",
+      "iso": "2026-08-17T13:56:29.060Z",
+      "action": "updated remark for BTS-10KG at MUTUR: “40% - license expired”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10046,13 +10053,6 @@
       "time": "18:50:21",
       "iso": "2026-08-17T13:20:21.475Z",
       "action": "updated remark for SIN-W66PA28 at MUTUR: “90% - Damaged not sellable (BM will bill it)”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:50:15",
-      "iso": "2026-08-17T13:20:15.406Z",
-      "action": "updated remark for SIN-W66PA28 at MUTUR: “90% - Damaged (BM will bill it)”"
     }
   ]
 }
