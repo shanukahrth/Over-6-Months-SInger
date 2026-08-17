@@ -9204,6 +9204,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:03:05",
       "lastUpdated": "2026-08-17T13:33:05.525Z"
+    },
+    "SIH-2057M||MUTUR": {
+      "remark": "90% - BM will bill it",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:04:30",
+      "lastUpdated": "2026-08-17T13:34:30.782Z"
     }
   },
   "showroomVisits": {
@@ -9529,6 +9536,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:04:30",
+      "iso": "2026-08-17T13:34:30.783Z",
+      "action": "updated remark for SIH-2057M at MUTUR: “90% - BM will bill it”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9871,13 +9885,6 @@
       "time": "18:25:23",
       "iso": "2026-08-17T12:55:23.600Z",
       "action": "updated remark for WF-PARIS-BR-S at MUTUR: “50% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:25:01",
-      "iso": "2026-08-17T12:55:01.548Z",
-      "action": "updated remark for WFL-CRYSTAL-78X72-S at MUTUR: “50% discount”"
     }
   ]
 }
