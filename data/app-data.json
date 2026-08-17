@@ -9318,11 +9318,11 @@
       "lastUpdated": "2026-08-17T13:48:56.259Z"
     },
     "KA-LW-185A||MUTUR": {
-      "remark": "80% - Displayed",
+      "remark": "60%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "19:19:36",
-      "lastUpdated": "2026-08-17T13:49:36.400Z"
+      "commentTime": "19:33:09",
+      "lastUpdated": "2026-08-17T14:03:09.636Z"
     },
     "HON-X5B-4-64-BLK||MUTUR": {
       "remark": "Sold",
@@ -9742,6 +9742,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
+      "time": "19:33:09",
+      "iso": "2026-08-17T14:03:09.637Z",
+      "action": "updated remark for KA-LW-185A at MUTUR: “60%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
       "time": "19:32:56",
       "iso": "2026-08-17T14:02:56.305Z",
       "action": "updated remark for LP-AP01 at MUTUR: “30%”"
@@ -10081,13 +10088,6 @@
       "time": "18:58:55",
       "iso": "2026-08-17T13:28:55.044Z",
       "action": "updated remark for SIN-PSVX938N at MUTUR: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:57:56",
-      "iso": "2026-08-17T13:27:56.865Z",
-      "action": "updated remark for SWM-FA70R at MUTUR: “Sold to customer. unit not available in the system to report”"
     }
   ]
 }
