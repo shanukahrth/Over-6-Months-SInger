@@ -3667,6 +3667,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:38:49",
       "lastUpdated": "2026-08-17T04:08:49.202Z"
+    },
+    "HON-X8C-8-512-GRN||DAMBULLA": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:39:12",
+      "lastUpdated": "2026-08-17T04:09:12.310Z"
     }
   },
   "showroomVisits": {
@@ -3904,6 +3911,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:39:12",
+      "iso": "2026-08-17T04:09:12.311Z",
+      "action": "updated remark for HON-X8C-8-512-GRN at DAMBULLA: “Sold”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4246,13 +4260,6 @@
       "time": "09:30:28",
       "iso": "2026-08-14T04:00:28.930Z",
       "action": "updated SHOMES-RATHNAPURA showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "09:19:00",
-      "iso": "2026-08-14T03:49:00.733Z",
-      "action": "updated SHOMES-RATHMALANA showroom (team: Colombo South MKT)"
     }
   ]
 }
