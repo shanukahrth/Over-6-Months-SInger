@@ -5718,6 +5718,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "15:47:36",
       "lastUpdated": "2026-08-17T10:17:36.512Z"
+    },
+    "SXLC7371K||KANTALAI": {
+      "remark": "80% - Bad condition",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "15:48:12",
+      "lastUpdated": "2026-08-17T10:18:12.268Z"
     }
   },
   "showroomVisits": {
@@ -5987,6 +5994,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:48:12",
+      "iso": "2026-08-17T10:18:12.270Z",
+      "action": "updated remark for SXLC7371K at KANTALAI: “80% - Bad condition”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6329,13 +6343,6 @@
       "time": "13:37:58",
       "iso": "2026-08-17T08:07:58.331Z",
       "action": "updated remark for SW-ST19025BLK at HABARANA: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:37:35",
-      "iso": "2026-08-17T08:07:35.441Z",
-      "action": "updated remark for FAN-P-1605H at HABARANA: “50% - Displayed”"
     }
   ]
 }
