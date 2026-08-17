@@ -3513,6 +3513,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:16:14",
       "lastUpdated": "2026-08-17T03:46:14.660Z"
+    },
+    "SLE24B2520||KURUNEGALA B": {
+      "remark": "90% Revert Damaged",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:18:03",
+      "lastUpdated": "2026-08-17T03:48:03.675Z"
     }
   },
   "showroomVisits": {
@@ -3750,6 +3757,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:18:03",
+      "iso": "2026-08-17T03:48:03.676Z",
+      "action": "updated remark for SLE24B2520 at KURUNEGALA B: “90% Revert Damaged”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4092,13 +4106,6 @@
       "time": "23:14:35",
       "iso": "2026-08-13T17:44:35.464Z",
       "action": "updated remark for SLE32G690 at KADUGANNAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:14:30",
-      "iso": "2026-08-13T17:44:30.337Z",
-      "action": "updated remark for SLE32F590 at KADUGANNAWA: “Exchange”"
     }
   ]
 }
