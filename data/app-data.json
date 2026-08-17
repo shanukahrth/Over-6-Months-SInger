@@ -4145,11 +4145,11 @@
       "lastUpdated": "2026-08-17T04:42:35.974Z"
     },
     "VT-EL31109CN||DAMBULLA": {
-      "remark": "60% Discount - OEL",
+      "remark": "70% Discount - OEL",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "10:13:05",
-      "lastUpdated": "2026-08-17T04:43:05.278Z"
+      "commentTime": "10:13:08",
+      "lastUpdated": "2026-08-17T04:43:08.577Z"
     }
   },
   "showroomVisits": {
@@ -4387,6 +4387,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:13:08",
+      "iso": "2026-08-17T04:43:08.577Z",
+      "action": "updated remark for VT-EL31109CN at DAMBULLA: “70% Discount - OEL”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4729,13 +4736,6 @@
       "time": "09:54:05",
       "iso": "2026-08-17T04:24:05.299Z",
       "action": "updated remark for USI-ATC-302 at KURUNEGALA B: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:54:07",
-      "iso": "2026-08-17T04:24:07.501Z",
-      "action": "updated remark for TF-NIGP26-119 at DAMBULLA: “40% - Discount”"
     }
   ]
 }
