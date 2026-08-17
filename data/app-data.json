@@ -4325,6 +4325,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:45:38",
       "lastUpdated": "2026-08-17T05:15:38.092Z"
+    },
+    "SN-SMI-285||BUDGET SHOP-DAMBULLA": {
+      "remark": "65% Discount - for 2 Units - one unit has dents - 70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:47:45",
+      "lastUpdated": "2026-08-17T05:17:45.688Z"
     }
   },
   "showroomVisits": {
@@ -4570,6 +4577,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:47:45",
+      "iso": "2026-08-17T05:17:45.689Z",
+      "action": "updated remark for SN-SMI-285 at BUDGET SHOP-DAMBULLA: “65% Discount - for 2 Units - one unit has dents - 70%”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4912,13 +4926,6 @@
       "time": "10:08:22",
       "iso": "2026-08-17T04:38:22.906Z",
       "action": "updated remark for SIN-RFC-2058 at DAMBULLA: “Sellable condition”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:07:58",
-      "iso": "2026-08-17T04:37:58.702Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at DAMBULLA: “Active SKU, No Discounts applicable”"
     }
   ]
 }
