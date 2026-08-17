@@ -8245,6 +8245,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:22:32",
       "lastUpdated": "2026-08-17T12:52:32.455Z"
+    },
+    "LF-OF-MWS001-BCH-S||PILIMATHALAWA - B": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:22:37",
+      "lastUpdated": "2026-08-17T12:52:37.414Z"
     }
   },
   "showroomVisits": {
@@ -8522,6 +8529,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:22:37",
+      "iso": "2026-08-17T12:52:37.414Z",
+      "action": "updated remark for LF-OF-MWS001-BCH-S at PILIMATHALAWA - B: “70%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8864,13 +8878,6 @@
       "time": "18:03:16",
       "iso": "2026-08-17T12:33:16.715Z",
       "action": "updated GELIOYA showroom (visited: No)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:03:14",
-      "iso": "2026-08-17T12:33:14.242Z",
-      "action": "updated GELIOYA showroom (team: Team - Central)"
     }
   ]
 }
