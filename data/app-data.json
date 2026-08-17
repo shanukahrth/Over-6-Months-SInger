@@ -8014,13 +8014,6 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:04:46",
       "lastUpdated": "2026-08-17T12:34:46.417Z"
-    },
-    "DPE-NUC-MINIPC-SSD120||GELIOYA": {
-      "remark": "10%",
-      "commentedBy": "Rashmi",
-      "commentDate": "2026-08-17",
-      "commentTime": "18:04:50",
-      "lastUpdated": "2026-08-17T12:34:50.895Z"
     }
   },
   "showroomVisits": {
@@ -8298,6 +8291,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:04:54",
+      "iso": "2026-08-17T12:34:54.991Z",
+      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at GELIOYA (cleared)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8640,13 +8640,6 @@
       "time": "18:00:28",
       "iso": "2026-08-17T12:30:28.746Z",
       "action": "updated remark for SLE32E710 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:00:27",
-      "iso": "2026-08-17T12:30:27.773Z",
-      "action": "updated remark for SLE32D1800 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
