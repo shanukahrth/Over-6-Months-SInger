@@ -5704,6 +5704,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "15:43:57",
       "lastUpdated": "2026-08-17T10:13:57.392Z"
+    },
+    "PU-SP-174-S||KANTALAI": {
+      "remark": "need to be transferred",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "15:44:45",
+      "lastUpdated": "2026-08-17T10:14:45.812Z"
     }
   },
   "showroomVisits": {
@@ -5973,6 +5980,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:44:45",
+      "iso": "2026-08-17T10:14:45.815Z",
+      "action": "updated remark for PU-SP-174-S at KANTALAI: “need to be transferred”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6315,13 +6329,6 @@
       "time": "13:36:53",
       "iso": "2026-08-17T08:06:53.553Z",
       "action": "updated remark for SBI-60M19-T at CHENKALADY: “20% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:35:53",
-      "iso": "2026-08-17T08:05:53.419Z",
-      "action": "updated remark for SMW823AY7 at HABARANA: “20% Discount - sealed pack”"
     }
   ]
 }
