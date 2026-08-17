@@ -5587,11 +5587,11 @@
       "lastUpdated": "2026-08-17T08:12:52.206Z"
     },
     "SLE32E930||CHENKALADY": {
-      "remark": "70%",
+      "remark": "70% Discount",
       "commentedBy": "Gayan Sooriarachchi",
       "commentDate": "2026-08-17",
-      "commentTime": "13:42:58",
-      "lastUpdated": "2026-08-17T08:12:58.022Z"
+      "commentTime": "13:43:10",
+      "lastUpdated": "2026-08-17T08:13:10.846Z"
     },
     "HON-X7C-8-256-GRN||CHENKALADY": {
       "remark": "d",
@@ -5860,6 +5860,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Gayan Sooriarachchi",
+      "date": "2026-08-17",
+      "time": "13:43:10",
+      "iso": "2026-08-17T08:13:10.848Z",
+      "action": "updated remark for SLE32E930 at CHENKALADY: “70% Discount”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6202,13 +6209,6 @@
       "time": "13:20:46",
       "iso": "2026-08-17T07:50:46.680Z",
       "action": "updated remark for MHC-V13 at CHENKALADY: “70% Discount offered”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:20:35",
-      "iso": "2026-08-17T07:50:35.825Z",
-      "action": "updated remark for PN-CS-SU12XKY-8 at HABARANA: “70%”"
     }
   ]
 }
