@@ -7783,6 +7783,27 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:00:29",
       "lastUpdated": "2026-08-17T12:30:29.881Z"
+    },
+    "SMGUA32T4400||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:34",
+      "lastUpdated": "2026-08-17T12:30:34.658Z"
+    },
+    "TCL43S5400||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:35",
+      "lastUpdated": "2026-08-17T12:30:35.863Z"
+    },
+    "TCL55P615||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:37",
+      "lastUpdated": "2026-08-17T12:30:37.293Z"
     }
   },
   "showroomVisits": {
@@ -8052,6 +8073,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:37",
+      "iso": "2026-08-17T12:30:37.293Z",
+      "action": "updated remark for TCL55P615 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:35",
+      "iso": "2026-08-17T12:30:35.864Z",
+      "action": "updated remark for TCL43S5400 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:34",
+      "iso": "2026-08-17T12:30:34.659Z",
+      "action": "updated remark for SMGUA32T4400 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8380,27 +8422,6 @@
       "time": "17:57:19",
       "iso": "2026-08-17T12:27:19.700Z",
       "action": "updated remark for EPSON-I-L130 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:18",
-      "iso": "2026-08-17T12:27:18.657Z",
-      "action": "updated remark for FT-FPL-60001 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:17",
-      "iso": "2026-08-17T12:27:17.772Z",
-      "action": "updated remark for FT-FED-35001 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:16",
-      "iso": "2026-08-17T12:27:16.883Z",
-      "action": "updated remark for FT-FDH-13001 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
