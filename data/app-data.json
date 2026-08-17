@@ -8028,6 +8028,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:05:47",
       "lastUpdated": "2026-08-17T12:35:47.205Z"
+    },
+    "WFI-LYON-TBL-S||GELIOYA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:06:17",
+      "lastUpdated": "2026-08-17T12:36:17.403Z"
     }
   },
   "showroomVisits": {
@@ -8305,6 +8312,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:06:17",
+      "iso": "2026-08-17T12:36:17.404Z",
+      "action": "updated remark for WFI-LYON-TBL-S at GELIOYA: “50%”"
+    },
     {
       "user": "Punesha",
       "date": "2026-08-17",
@@ -8647,13 +8661,6 @@
       "time": "18:00:49",
       "iso": "2026-08-17T12:30:49.212Z",
       "action": "updated remark for TCL55V6B at BUDGET SHOP-K-GTOTA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:00:45",
-      "iso": "2026-08-17T12:30:45.368Z",
-      "action": "updated remark for TCL55P635 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
