@@ -9339,11 +9339,11 @@
       "lastUpdated": "2026-08-17T13:49:43.812Z"
     },
     "HFPA-GRAVITY-BLU||MUTUR": {
-      "remark": "Damaged (Logo is removed  - 20,000 special price",
+      "remark": "Damaged (Logo is removed )- 20,000 special price",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "19:22:41",
-      "lastUpdated": "2026-08-17T13:52:41.415Z"
+      "commentTime": "19:22:45",
+      "lastUpdated": "2026-08-17T13:52:45.688Z"
     }
   },
   "showroomVisits": {
@@ -9669,6 +9669,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:22:45",
+      "iso": "2026-08-17T13:52:45.690Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at MUTUR: “Damaged (Logo is removed )- 20,000 special price”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10011,13 +10018,6 @@
       "time": "18:45:40",
       "iso": "2026-08-17T13:15:40.169Z",
       "action": "updated remark for SLE32G690 at MUTUR: “Damaged - not sellable”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:42:55",
-      "iso": "2026-08-17T13:12:55.802Z",
-      "action": "updated remark for SLE40D600A at MUTUR: “Power issue - 60% offered TV will be serviced and given to a customer”"
     }
   ]
 }
