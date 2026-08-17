@@ -9006,9 +9006,24 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
+    },
+    "KANDY - B||KANDY": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:37:45",
+      "iso": "2026-08-17T13:07:45.791Z",
+      "action": "updated KANDY - B showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9351,13 +9366,6 @@
       "time": "18:27:41",
       "iso": "2026-08-17T12:57:41.423Z",
       "action": "updated remark for SN-SMI-305 at PILIMATHALAWA - B: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:27:36",
-      "iso": "2026-08-17T12:57:36.499Z",
-      "action": "updated remark for SN-SMI-285 at PILIMATHALAWA - B: “60%”"
     }
   ]
 }
