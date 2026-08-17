@@ -8990,9 +8990,24 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
+    },
+    "MEGA-KANDY||MEGA NORTH ZONE-": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:37:37",
+      "iso": "2026-08-17T13:07:37.457Z",
+      "action": "updated MEGA-KANDY showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9335,13 +9350,6 @@
       "time": "18:27:25",
       "iso": "2026-08-17T12:57:25.395Z",
       "action": "updated remark for SMGRT28A3021GS at PILIMATHALAWA - B: “MOP - 135,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:27:16",
-      "iso": "2026-08-17T12:57:16.598Z",
-      "action": "updated remark for CAN-I-MG2570S at PILIMATHALAWA - B: “Defective”"
     }
   ]
 }
