@@ -8590,11 +8590,11 @@
       "lastUpdated": "2026-08-17T12:59:52.916Z"
     },
     "SLE24D1000||PILIMATHALAWA - B": {
-      "remark": "Defective",
+      "remark": "Unsellable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:29:36",
-      "lastUpdated": "2026-08-17T12:59:36.232Z"
+      "commentTime": "18:29:55",
+      "lastUpdated": "2026-08-17T12:59:55.167Z"
     },
     "SLE32E810||PILIMATHALAWA - B": {
       "remark": "Damaged",
@@ -8879,6 +8879,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:29:55",
+      "iso": "2026-08-17T12:59:55.168Z",
+      "action": "updated remark for SLE24D1000 at PILIMATHALAWA - B: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9221,13 +9228,6 @@
       "time": "18:23:19",
       "iso": "2026-08-17T12:53:19.932Z",
       "action": "updated remark for WFL-SPM-75X60X8-S at PILIMATHALAWA - B: “MOP - 15,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:23:06",
-      "iso": "2026-08-17T12:53:06.496Z",
-      "action": "updated remark for WFL-PLWFB-20X30 at PILIMATHALAWA - B: “50%”"
     }
   ]
 }
