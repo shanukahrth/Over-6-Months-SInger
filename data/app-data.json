@@ -5893,6 +5893,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:11:45",
       "lastUpdated": "2026-08-17T10:41:45.172Z"
+    },
+    "AES-HAV-615T||MATALE": {
+      "remark": "10%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:11:48",
+      "lastUpdated": "2026-08-17T10:41:48.350Z"
     }
   },
   "showroomVisits": {
@@ -6162,6 +6169,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "16:11:48",
+      "iso": "2026-08-17T10:41:48.351Z",
+      "action": "updated remark for AES-HAV-615T at MATALE: “10%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6504,13 +6518,6 @@
       "time": "13:47:49",
       "iso": "2026-08-17T08:17:49.475Z",
       "action": "updated remark for SB-DTYPE at HABARANA: “90% discount - EOL Battries dead”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:47:17",
-      "iso": "2026-08-17T08:17:17.387Z",
-      "action": "updated remark for FAN-P-1605H at CHENKALADY: “40% Discount”"
     }
   ]
 }
