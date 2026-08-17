@@ -4206,6 +4206,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:18:49",
       "lastUpdated": "2026-08-17T04:48:49.410Z"
+    },
+    "DUM - SMGAR50F24D1J||DAMBULLA": {
+      "remark": "dummy",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:19:17",
+      "lastUpdated": "2026-08-17T04:49:17.963Z"
     }
   },
   "showroomVisits": {
@@ -4443,6 +4450,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:19:17",
+      "iso": "2026-08-17T04:49:17.964Z",
+      "action": "updated remark for DUM - SMGAR50F24D1J at DAMBULLA: “dummy”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4785,13 +4799,6 @@
       "time": "09:57:53",
       "iso": "2026-08-17T04:27:53.137Z",
       "action": "updated remark for SW-ST14610WHTN at KURUNEGALA B: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:57:28",
-      "iso": "2026-08-17T04:27:28.332Z",
-      "action": "updated remark for SWH-118E at KURUNEGALA B: “Display - (can sell this month)”"
     }
   ]
 }
