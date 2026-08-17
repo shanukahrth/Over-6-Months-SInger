@@ -8280,6 +8280,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:22:56",
       "lastUpdated": "2026-08-17T12:52:56.211Z"
+    },
+    "WF-JUPITER-05-S||PILIMATHALAWA - B": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:23:00",
+      "lastUpdated": "2026-08-17T12:53:00.910Z"
     }
   },
   "showroomVisits": {
@@ -8557,6 +8564,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:23:00",
+      "iso": "2026-08-17T12:53:00.911Z",
+      "action": "updated remark for WF-JUPITER-05-S at PILIMATHALAWA - B: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8899,13 +8913,6 @@
       "time": "18:04:50",
       "iso": "2026-08-17T12:34:50.895Z",
       "action": "updated remark for DPE-NUC-MINIPC-SSD120 at GELIOYA: “10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:04:46",
-      "iso": "2026-08-17T12:34:46.418Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at GELIOYA: “MOP - 30,000”"
     }
   ]
 }
