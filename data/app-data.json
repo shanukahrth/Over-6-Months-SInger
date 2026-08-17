@@ -4319,13 +4319,6 @@
       "commentTime": "10:44:51",
       "lastUpdated": "2026-08-17T05:14:51.613Z"
     },
-    "ACER-PJ-S1286H||KURUNEGALA - D": {
-      "remark": "Damaged - 40%",
-      "commentedBy": "SHENULI",
-      "commentDate": "2026-08-17",
-      "commentTime": "10:45:38",
-      "lastUpdated": "2026-08-17T05:15:38.092Z"
-    },
     "SN-SMI-285||BUDGET SHOP-DAMBULLA": {
       "remark": "65% Discount - for 2 Units - one unit has dents - 70%",
       "commentedBy": "Kaveesha De Silva",
@@ -4612,6 +4605,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:49:29",
+      "iso": "2026-08-17T05:19:29.615Z",
+      "action": "updated remark for ACER-PJ-S1286H at KURUNEGALA - D (cleared)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4954,13 +4954,6 @@
       "time": "10:13:01",
       "iso": "2026-08-17T04:43:01.918Z",
       "action": "updated remark for VT-EL31109CN at DAMBULLA: “60% Discount - OEL”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:12:35",
-      "iso": "2026-08-17T04:42:35.977Z",
-      "action": "updated remark for DH-I-C22EP-IMOU at DAMBULLA: “50% Discount - OEL product”"
     }
   ]
 }
