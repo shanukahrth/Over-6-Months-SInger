@@ -3618,6 +3618,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:32:43",
       "lastUpdated": "2026-08-17T04:02:43.110Z"
+    },
+    "SMG-A06-6-128-BLU||DAMBULLA": {
+      "remark": "1 sold, 40%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:34:03",
+      "lastUpdated": "2026-08-17T04:04:03.488Z"
     }
   },
   "showroomVisits": {
@@ -3855,6 +3862,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:34:03",
+      "iso": "2026-08-17T04:04:03.489Z",
+      "action": "updated remark for SMG-A06-6-128-BLU at DAMBULLA: “1 sold, 40%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4197,13 +4211,6 @@
       "time": "08:52:13",
       "iso": "2026-08-14T03:22:13.226Z",
       "action": "updated BATAPOLA-LITE showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:52:05",
-      "iso": "2026-08-14T03:22:05.210Z",
-      "action": "updated BATAPOLA-LITE showroom (visitDate: 2026-08-13)"
     }
   ]
 }
