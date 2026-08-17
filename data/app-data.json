@@ -9295,6 +9295,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:13:42",
       "lastUpdated": "2026-08-17T13:43:42.816Z"
+    },
+    "LF-CUBIC-TV-SHW-S||MUTUR": {
+      "remark": "50% - Obsolete",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:14:46",
+      "lastUpdated": "2026-08-17T13:44:46.364Z"
     }
   },
   "showroomVisits": {
@@ -9620,6 +9627,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:14:46",
+      "iso": "2026-08-17T13:44:46.365Z",
+      "action": "updated remark for LF-CUBIC-TV-SHW-S at MUTUR: “50% - Obsolete”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:14:45",
+      "iso": "2026-08-17T13:44:45.616Z",
+      "action": "updated remark for LF-CUBIC-TV-SHW-S at MUTUR: “50% - Obsellete”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9955,20 +9976,6 @@
       "time": "18:34:14",
       "iso": "2026-08-17T13:04:14.809Z",
       "action": "updated remark for TCLED24D3100 at MUTUR: “requested K number hasn't received”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:33:53",
-      "iso": "2026-08-17T13:03:53.896Z",
-      "action": "updated remark for TF-FP24-SCR342 at MUTUR: “20% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:33:32",
-      "iso": "2026-08-17T13:03:32.444Z",
-      "action": "updated remark for TF-FP24-SCR342 at MUTUR: “20% discount”"
     }
   ]
 }
