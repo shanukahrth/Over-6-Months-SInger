@@ -5795,6 +5795,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "15:57:17",
       "lastUpdated": "2026-08-17T10:27:17.676Z"
+    },
+    "KA-LW-185A||KANTALAI": {
+      "remark": "80% - displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "15:57:38",
+      "lastUpdated": "2026-08-17T10:27:38.371Z"
     }
   },
   "showroomVisits": {
@@ -6064,6 +6071,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:57:38",
+      "iso": "2026-08-17T10:27:38.372Z",
+      "action": "updated remark for KA-LW-185A at KANTALAI: “80% - displayed”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:57:37",
+      "iso": "2026-08-17T10:27:37.805Z",
+      "action": "updated remark for KA-LW-185A at KANTALAI: “80% - dislayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6399,20 +6420,6 @@
       "time": "13:42:52",
       "iso": "2026-08-17T08:12:52.207Z",
       "action": "updated remark for SMG-SM-X115-GRY at CHENKALADY: “37% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:42:15",
-      "iso": "2026-08-17T08:12:15.967Z",
-      "action": "updated remark for WP-CHTW-075-S at CHENKALADY: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:42:04",
-      "iso": "2026-08-17T08:12:04.766Z",
-      "action": "updated remark for WP-JUN-E-S at CHENKALADY: “50% Discount”"
     }
   ]
 }
