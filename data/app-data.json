@@ -6026,6 +6026,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:19:19",
       "lastUpdated": "2026-08-17T11:49:19.373Z"
+    },
+    "SIN-PR-K340||KINNIYA": {
+      "remark": "40% Discount - displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:20:24",
+      "lastUpdated": "2026-08-17T11:50:24.776Z"
     }
   },
   "showroomVisits": {
@@ -6295,6 +6302,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "17:20:24",
+      "iso": "2026-08-17T11:50:24.778Z",
+      "action": "updated remark for SIN-PR-K340 at KINNIYA: “40% Discount - displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6637,13 +6651,6 @@
       "time": "15:50:06",
       "iso": "2026-08-17T10:20:06.261Z",
       "action": "updated remark for SMW823AY7 at KANTALAI: “45% discount for displayed unit”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:49:34",
-      "iso": "2026-08-17T10:19:34.573Z",
-      "action": "updated remark for SIN-NOTE-W10 at KANTALAI: “Revert - Damaged - not sellable”"
     }
   ]
 }
