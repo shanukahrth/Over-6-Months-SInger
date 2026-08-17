@@ -3676,11 +3676,11 @@
       "lastUpdated": "2026-08-17T04:09:12.310Z"
     },
     "SMW823AY7||DAMBULLA": {
-      "remark": "Display unit - 45% discount",
+      "remark": "Normal - sellable condition",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "09:39:47",
-      "lastUpdated": "2026-08-17T04:09:47.145Z"
+      "commentTime": "09:45:38",
+      "lastUpdated": "2026-08-17T04:15:38.569Z"
     },
     "SMGUA43DU7500||DUTY FREE": {
       "remark": "To clear in Aug",
@@ -4016,6 +4016,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:45:38",
+      "iso": "2026-08-17T04:15:38.572Z",
+      "action": "updated remark for SMW823AY7 at DAMBULLA: “Normal - sellable condition”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4358,13 +4365,6 @@
       "time": "09:18:19",
       "iso": "2026-08-17T03:48:19.366Z",
       "action": "updated remark for SLE32D1800 at KURUNEGALA B: “90% Revert Damaged”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:18:03",
-      "iso": "2026-08-17T03:48:03.676Z",
-      "action": "updated remark for SLE24B2520 at KURUNEGALA B: “90% Revert Damaged”"
     }
   ]
 }
