@@ -5914,6 +5914,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:15:22",
       "lastUpdated": "2026-08-17T10:45:22.084Z"
+    },
+    "HON-X5B-4-64-BLU||MATALE": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:15:54",
+      "lastUpdated": "2026-08-17T10:45:54.902Z"
     }
   },
   "showroomVisits": {
@@ -6183,6 +6190,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "16:15:54",
+      "iso": "2026-08-17T10:45:54.902Z",
+      "action": "updated remark for HON-X5B-4-64-BLU at MATALE: “Damaged - 60%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6525,13 +6539,6 @@
       "time": "14:39:54",
       "iso": "2026-08-17T09:09:54.417Z",
       "action": "updated KATARAGAMA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-17",
-      "time": "14:39:49",
-      "iso": "2026-08-17T09:09:49.245Z",
-      "action": "updated KATARAGAMA showroom (visitDate: 2026-08-17)"
     }
   ]
 }
