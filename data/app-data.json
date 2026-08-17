@@ -7097,6 +7097,20 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:51:53",
       "lastUpdated": "2026-08-17T12:21:53.468Z"
+    },
+    "HON-X5-2-32-BLK||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:52:01",
+      "lastUpdated": "2026-08-17T12:22:01.774Z"
+    },
+    "HON-X5B-4-64-BLK||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:52:02",
+      "lastUpdated": "2026-08-17T12:22:02.971Z"
     }
   },
   "showroomVisits": {
@@ -7366,6 +7380,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "17:52:02",
+      "iso": "2026-08-17T12:22:02.971Z",
+      "action": "updated remark for HON-X5B-4-64-BLK at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "17:52:01",
+      "iso": "2026-08-17T12:22:01.774Z",
+      "action": "updated remark for HON-X5-2-32-BLK at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -7701,20 +7729,6 @@
       "time": "13:25:01",
       "iso": "2026-08-17T07:55:01.360Z",
       "action": "updated remark for MX-QA311127 at BUDGET SHOP-K-GTOTA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:24:51",
-      "iso": "2026-08-17T07:54:51.520Z",
-      "action": "updated remark for MID-MJ-KM6001W at BUDGET SHOP-K-GTOTA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:24:38",
-      "iso": "2026-08-17T07:54:38.377Z",
-      "action": "updated remark for MID-MJ-KM6001W at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
