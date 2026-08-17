@@ -5900,6 +5900,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:11:48",
       "lastUpdated": "2026-08-17T10:41:48.350Z"
+    },
+    "APS-300KG||MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:12:04",
+      "lastUpdated": "2026-08-17T10:42:04.329Z"
     }
   },
   "showroomVisits": {
@@ -6169,6 +6176,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "16:12:04",
+      "iso": "2026-08-17T10:42:04.332Z",
+      "action": "updated remark for APS-300KG at MATALE: “Damaged - 50%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6511,13 +6525,6 @@
       "time": "14:39:46",
       "iso": "2026-08-17T09:09:46.595Z",
       "action": "updated KATARAGAMA showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:47:49",
-      "iso": "2026-08-17T08:17:49.475Z",
-      "action": "updated remark for SB-DTYPE at HABARANA: “90% discount - EOL Battries dead”"
     }
   ]
 }
