@@ -4859,11 +4859,11 @@
       "lastUpdated": "2026-08-17T06:17:53.073Z"
     },
     "HU-MATEPAD-SE11-GRY||KURUNEGALA C": {
-      "remark": "Damaged - 80%",
+      "remark": "Damaged - 80% (cannot sell)",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "11:48:25",
-      "lastUpdated": "2026-08-17T06:18:25.654Z"
+      "commentTime": "11:48:40",
+      "lastUpdated": "2026-08-17T06:18:40.480Z"
     }
   },
   "showroomVisits": {
@@ -5109,6 +5109,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "11:48:40",
+      "iso": "2026-08-17T06:18:40.480Z",
+      "action": "updated remark for HU-MATEPAD-SE11-GRY at KURUNEGALA C: “Damaged - 80% (cannot sell)”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -5451,13 +5458,6 @@
       "time": "11:17:52",
       "iso": "2026-08-17T05:47:52.928Z",
       "action": "updated remark for PN-SC-AKX520E-K at BUDGET SHOP-DAMBULLA: “1 sold, other one has scratch marks - 70% disocunt”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:17:16",
-      "iso": "2026-08-17T05:47:16.941Z",
-      "action": "updated remark for DELL3501-11G-I3W10-BLK at BUDGET SHOP-DAMBULLA: “Damaged - 70% discount”"
     }
   ]
 }
