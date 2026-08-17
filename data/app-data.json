@@ -4983,6 +4983,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "12:09:52",
       "lastUpdated": "2026-08-17T06:39:52.213Z"
+    },
+    "U-B1||KURUNEGALA C": {
+      "remark": "Damage - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "12:18:39",
+      "lastUpdated": "2026-08-17T06:48:39.181Z"
     }
   },
   "showroomVisits": {
@@ -5236,6 +5243,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "12:18:39",
+      "iso": "2026-08-17T06:48:39.186Z",
+      "action": "updated remark for U-B1 at KURUNEGALA C: “Damage - 50%”"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-17",
@@ -5578,13 +5592,6 @@
       "time": "11:33:56",
       "iso": "2026-08-17T06:03:56.589Z",
       "action": "updated remark for SLMC-18DSLHS at BUDGET SHOP-DAMBULLA: “80% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:33:20",
-      "iso": "2026-08-17T06:03:20.980Z",
-      "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90% Battery Damaged”"
     }
   ]
 }
