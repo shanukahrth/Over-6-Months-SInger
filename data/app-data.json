@@ -5970,6 +5970,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:07:39",
       "lastUpdated": "2026-08-17T11:37:39.628Z"
+    },
+    "SIN-MRG-1008C||MATALE - B": {
+      "remark": "Damage - 20%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:08:59",
+      "lastUpdated": "2026-08-17T11:38:59.310Z"
     }
   },
   "showroomVisits": {
@@ -6239,6 +6246,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:08:59",
+      "iso": "2026-08-17T11:38:59.312Z",
+      "action": "updated remark for SIN-MRG-1008C at MATALE - B: “Damage - 20%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6580,13 +6594,6 @@
       "date": "2026-08-17",
       "time": "15:41:25",
       "iso": "2026-08-17T10:11:25.834Z",
-      "action": "updated remark for MB-SAFARI4S-BLU at KANTALAI: “Promotion already offered”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:41:22",
-      "iso": "2026-08-17T10:11:22.574Z",
       "action": "updated remark for MB-SAFARI4S-BLU at KANTALAI: “Promotion already offered”"
     }
   ]
