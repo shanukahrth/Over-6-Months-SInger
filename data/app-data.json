@@ -9311,11 +9311,11 @@
       "lastUpdated": "2026-08-17T13:46:08.086Z"
     },
     "KD-50X75K||MUTUR": {
-      "remark": "40% Displayed",
+      "remark": "40% - Displayed",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "19:16:32",
-      "lastUpdated": "2026-08-17T13:46:32.401Z"
+      "commentTime": "19:19:00",
+      "lastUpdated": "2026-08-17T13:49:00.519Z"
     },
     "KD-43X75K||MUTUR": {
       "remark": "40% - Displayed",
@@ -9648,6 +9648,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:19:00",
+      "iso": "2026-08-17T13:49:00.519Z",
+      "action": "updated remark for KD-50X75K at MUTUR: “40% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9990,13 +9997,6 @@
       "time": "18:39:17",
       "iso": "2026-08-17T13:09:17.447Z",
       "action": "updated remark for SWM-FA70R at MUTUR: “40% - shop staff will purchase”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:36:58",
-      "iso": "2026-08-17T13:06:58.154Z",
-      "action": "updated remark for SWM-FA70R at MUTUR: “Product is given to customer but unit is not in the system to update”"
     }
   ]
 }
