@@ -8070,6 +8070,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:08:57",
       "lastUpdated": "2026-08-17T12:38:57.029Z"
+    },
+    "AES-HAV-30S||GELIOYA": {
+      "remark": "10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:09:10",
+      "lastUpdated": "2026-08-17T12:39:10.213Z"
     }
   },
   "showroomVisits": {
@@ -8347,6 +8354,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:09:10",
+      "iso": "2026-08-17T12:39:10.214Z",
+      "action": "updated remark for AES-HAV-30S at GELIOYA: “10%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8689,13 +8703,6 @@
       "time": "18:01:16",
       "iso": "2026-08-17T12:31:16.977Z",
       "action": "updated remark for SLE32E910 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:01:13",
-      "iso": "2026-08-17T12:31:13.283Z",
-      "action": "updated remark for ULED32D60A at BUDGET SHOP-K-GTOTA: “MOP - 25,000”"
     }
   ]
 }
