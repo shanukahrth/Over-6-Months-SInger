@@ -4367,6 +4367,41 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:49:58",
       "lastUpdated": "2026-08-17T05:19:58.870Z"
+    },
+    "AC-TEMP-NOVA-2I||KURUNEGALA - D": {
+      "remark": "To Be Reported",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:50:38",
+      "lastUpdated": "2026-08-17T05:20:38.523Z"
+    },
+    "AC-TEMP-Y5-17||KURUNEGALA - D": {
+      "remark": "To Be Reported",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:50:39",
+      "lastUpdated": "2026-08-17T05:20:39.878Z"
+    },
+    "AC-TEMP-Y9-18||KURUNEGALA - D": {
+      "remark": "To Be Reported",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:50:41",
+      "lastUpdated": "2026-08-17T05:20:41.008Z"
+    },
+    "AC-TEMP-Y3-17||KURUNEGALA - D": {
+      "remark": "To Be Reported",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:50:42",
+      "lastUpdated": "2026-08-17T05:20:42.099Z"
+    },
+    "AC-TEMP-Y7-18||KURUNEGALA - D": {
+      "remark": "To Be Reported",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:50:43",
+      "lastUpdated": "2026-08-17T05:20:43.437Z"
     }
   },
   "showroomVisits": {
@@ -4612,6 +4647,41 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:50:43",
+      "iso": "2026-08-17T05:20:43.438Z",
+      "action": "updated remark for AC-TEMP-Y7-18 at KURUNEGALA - D: “To Be Reported”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:50:42",
+      "iso": "2026-08-17T05:20:42.099Z",
+      "action": "updated remark for AC-TEMP-Y3-17 at KURUNEGALA - D: “To Be Reported”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:50:41",
+      "iso": "2026-08-17T05:20:41.008Z",
+      "action": "updated remark for AC-TEMP-Y9-18 at KURUNEGALA - D: “To Be Reported”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:50:39",
+      "iso": "2026-08-17T05:20:39.879Z",
+      "action": "updated remark for AC-TEMP-Y5-17 at KURUNEGALA - D: “To Be Reported”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:50:38",
+      "iso": "2026-08-17T05:20:38.524Z",
+      "action": "updated remark for AC-TEMP-NOVA-2I at KURUNEGALA - D: “To Be Reported”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4926,41 +4996,6 @@
       "time": "10:16:11",
       "iso": "2026-08-17T04:46:11.259Z",
       "action": "updated remark for DH-A-B1A21P-6B at DAMBULLA: “80% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:15:21",
-      "iso": "2026-08-17T04:45:21.509Z",
-      "action": "updated remark for VT-1047CN at DAMBULLA: “70% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:14:55",
-      "iso": "2026-08-17T04:44:55.828Z",
-      "action": "updated remark for CLOTHLINE-35PVC at DAMBULLA: “70% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:14:46",
-      "iso": "2026-08-17T04:44:46.805Z",
-      "action": "updated remark for CLOTHLINE-35PVC at DAMBULLA: “70% Discount - Old unit”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:13:42",
-      "iso": "2026-08-17T04:43:42.436Z",
-      "action": "updated remark for VT-EL31109CN at DAMBULLA: “70% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:13:13",
-      "iso": "2026-08-17T04:43:13.260Z",
-      "action": "updated remark for VT-EL31109CN at DAMBULLA: “70% Discount”"
     }
   ]
 }
