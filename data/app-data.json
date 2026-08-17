@@ -8992,6 +8992,14 @@
       "updatedDate": "2026-08-17"
     },
     "MEGA-KANDY||MEGA NORTH ZONE-": {
+      "visited": "No",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-17"
+    },
+    "KANDY||KANDY": {
       "visited": "Yes",
       "visitDate": "",
       "team": "",
@@ -9001,6 +9009,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:37:43",
+      "iso": "2026-08-17T13:07:43.462Z",
+      "action": "updated KANDY showroom (visited: Yes)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:37:39",
+      "iso": "2026-08-17T13:07:39.766Z",
+      "action": "updated MEGA-KANDY showroom (visited: No)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9336,20 +9358,6 @@
       "time": "18:27:36",
       "iso": "2026-08-17T12:57:36.499Z",
       "action": "updated remark for SN-SMI-285 at PILIMATHALAWA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:27:31",
-      "iso": "2026-08-17T12:57:31.983Z",
-      "action": "updated remark for SMGRT30K3322S8 at PILIMATHALAWA - B: “MOP - 150,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:27:25",
-      "iso": "2026-08-17T12:57:25.395Z",
-      "action": "updated remark for SMGRT28A3021GS at PILIMATHALAWA - B: “MOP - 135,000”"
     }
   ]
 }
