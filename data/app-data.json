@@ -9309,6 +9309,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:16:08",
       "lastUpdated": "2026-08-17T13:46:08.086Z"
+    },
+    "KD-50X75K||MUTUR": {
+      "remark": "40% Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:16:32",
+      "lastUpdated": "2026-08-17T13:46:32.401Z"
     }
   },
   "showroomVisits": {
@@ -9634,6 +9641,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:16:32",
+      "iso": "2026-08-17T13:46:32.402Z",
+      "action": "updated remark for KD-50X75K at MUTUR: “40% Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9976,13 +9990,6 @@
       "time": "18:36:56",
       "iso": "2026-08-17T13:06:56.992Z",
       "action": "updated remark for SWM-FA70R at MUTUR: “Product is given to customer but unit is not in the system to update”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:35:21",
-      "iso": "2026-08-17T13:05:21.958Z",
-      "action": "updated remark for TCL43S5400 at MUTUR: “50% - Displayed”"
     }
   ]
 }
