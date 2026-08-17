@@ -8121,11 +8121,11 @@
       "lastUpdated": "2026-08-17T12:49:27.180Z"
     },
     "SVX6002||PILIMATHALAWA - B": {
-      "remark": "80%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:19:20",
-      "lastUpdated": "2026-08-17T12:49:20.295Z"
+      "commentTime": "18:19:31",
+      "lastUpdated": "2026-08-17T12:49:31.493Z"
     }
   },
   "showroomVisits": {
@@ -8403,6 +8403,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:19:31",
+      "iso": "2026-08-17T12:49:31.494Z",
+      "action": "updated remark for SVX6002 at PILIMATHALAWA - B: “Damaged - 80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8744,13 +8751,6 @@
       "date": "2026-08-17",
       "time": "18:01:46",
       "iso": "2026-08-17T12:31:46.094Z",
-      "action": "updated remark for SLE43G890 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:01:45",
-      "iso": "2026-08-17T12:31:45.058Z",
       "action": "updated remark for SLE43G890 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
