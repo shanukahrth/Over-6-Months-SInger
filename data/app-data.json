@@ -8483,6 +8483,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:27:31",
       "lastUpdated": "2026-08-17T12:57:31.982Z"
+    },
+    "SN-SMI-285||PILIMATHALAWA - B": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:27:36",
+      "lastUpdated": "2026-08-17T12:57:36.498Z"
     }
   },
   "showroomVisits": {
@@ -8760,6 +8767,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:27:36",
+      "iso": "2026-08-17T12:57:36.499Z",
+      "action": "updated remark for SN-SMI-285 at PILIMATHALAWA - B: “60%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9102,13 +9116,6 @@
       "time": "18:20:47",
       "iso": "2026-08-17T12:50:47.469Z",
       "action": "updated remark for DELL3530-I3-8GB512-SIL at PILIMATHALAWA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:20:42",
-      "iso": "2026-08-17T12:50:42.966Z",
-      "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at PILIMATHALAWA - B: “70%”"
     }
   ]
 }
