@@ -6054,6 +6054,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:21:55",
       "lastUpdated": "2026-08-17T11:51:55.647Z"
+    },
+    "LP-AP01||KINNIYA": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:22:46",
+      "lastUpdated": "2026-08-17T11:52:46.670Z"
     }
   },
   "showroomVisits": {
@@ -6323,6 +6330,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "17:22:46",
+      "iso": "2026-08-17T11:52:46.671Z",
+      "action": "updated remark for LP-AP01 at KINNIYA: “30%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6665,13 +6679,6 @@
       "time": "15:52:55",
       "iso": "2026-08-17T10:22:55.407Z",
       "action": "updated remark for FAN-WF1608R at KANTALAI: “30% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:52:08",
-      "iso": "2026-08-17T10:22:08.893Z",
-      "action": "updated remark for SLMC-18DSLHS at KANTALAI: “90% - damaged not sellable”"
     }
   ]
 }
