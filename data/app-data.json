@@ -9185,11 +9185,11 @@
       "lastUpdated": "2026-08-17T13:23:01.618Z"
     },
     "SWM-FA70R||MUTUR": {
-      "remark": "Sold to customer. unit not avaialble in the system to report",
+      "remark": "Sold to customer. unit not available in the system to report",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "18:57:50",
-      "lastUpdated": "2026-08-17T13:27:50.383Z"
+      "commentTime": "18:57:56",
+      "lastUpdated": "2026-08-17T13:27:56.864Z"
     }
   },
   "showroomVisits": {
@@ -9515,6 +9515,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "18:57:56",
+      "iso": "2026-08-17T13:27:56.865Z",
+      "action": "updated remark for SWM-FA70R at MUTUR: “Sold to customer. unit not available in the system to report”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9857,13 +9864,6 @@
       "time": "18:20:25",
       "iso": "2026-08-17T12:50:25.106Z",
       "action": "updated remark for PN-CS-U10XKH at MUTUR: “50% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:19:37",
-      "iso": "2026-08-17T12:49:37.613Z",
-      "action": "updated remark for PN-TH-32P401N at MUTUR: “Sold”"
     }
   ]
 }
