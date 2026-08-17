@@ -6019,6 +6019,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:18:32",
       "lastUpdated": "2026-08-17T11:48:32.104Z"
+    },
+    "DPE-NUC-MINIPC-SSD120||KINNIYA": {
+      "remark": "to be transfered to shop inventory",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:19:15",
+      "lastUpdated": "2026-08-17T11:49:15.637Z"
     }
   },
   "showroomVisits": {
@@ -6288,6 +6295,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "17:19:15",
+      "iso": "2026-08-17T11:49:15.637Z",
+      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at KINNIYA: “to be transfered to shop inventory”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6630,13 +6644,6 @@
       "time": "15:49:12",
       "iso": "2026-08-17T10:19:12.619Z",
       "action": "updated remark for HON-X7C-8-256-GRN at KANTALAI: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:48:12",
-      "iso": "2026-08-17T10:18:12.270Z",
-      "action": "updated remark for SXLC7371K at KANTALAI: “80% - Bad condition”"
     }
   ]
 }
