@@ -5935,6 +5935,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:21:11",
       "lastUpdated": "2026-08-17T10:51:11.052Z"
+    },
+    "HON-X7C-8-256-GRN||MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:21:25",
+      "lastUpdated": "2026-08-17T10:51:25.204Z"
     }
   },
   "showroomVisits": {
@@ -6204,6 +6211,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "16:21:25",
+      "iso": "2026-08-17T10:51:25.204Z",
+      "action": "updated remark for HON-X7C-8-256-GRN at MATALE: “Damaged - 50%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6546,13 +6560,6 @@
       "time": "15:39:48",
       "iso": "2026-08-17T10:09:48.459Z",
       "action": "updated remark for MB-SAFARI4S-RED at KANTALAI (cleared)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:39:41",
-      "iso": "2026-08-17T10:09:41.828Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KANTALAI: “Promotion already offered”"
     }
   ]
 }
