@@ -3536,11 +3536,11 @@
       "lastUpdated": "2026-08-17T03:49:19.031Z"
     },
     "USHA-FS40-13B||KURUNEGALA B": {
-      "remark": "Damaged - 50",
+      "remark": "Damaged - 50%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:54:43",
-      "lastUpdated": "2026-08-17T04:24:43.678Z"
+      "commentTime": "09:54:47",
+      "lastUpdated": "2026-08-17T04:24:47.274Z"
     },
     "WP-WDC11704RG-G||DAMBULLA": {
       "remark": "2 sealed pack - 24% Discount, Display - 44%",
@@ -4173,6 +4173,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-17",
+      "time": "09:54:47",
+      "iso": "2026-08-17T04:24:47.275Z",
+      "action": "updated remark for USHA-FS40-13B at KURUNEGALA B: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
       "time": "09:54:43",
       "iso": "2026-08-17T04:24:43.679Z",
       "action": "updated remark for USHA-FS40-13B at KURUNEGALA B: “Damaged - 50”"
@@ -4512,13 +4519,6 @@
       "time": "09:38:49",
       "iso": "2026-08-17T04:08:49.202Z",
       "action": "updated remark for HON-X8C-8-512-BLK at DAMBULLA: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:38:46",
-      "iso": "2026-08-17T04:08:46.955Z",
-      "action": "updated remark for HON-H90LITE-8-256-CYAN at DAMBULLA: “Sold”"
     }
   ]
 }
