@@ -4913,6 +4913,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:54:16",
       "lastUpdated": "2026-08-17T06:24:16.568Z"
+    },
+    "SMG-SM-A055F-64-G||BUDGET SHOP-DAMBULLA": {
+      "remark": "80% - Damaged",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:55:30",
+      "lastUpdated": "2026-08-17T06:25:30.365Z"
     }
   },
   "showroomVisits": {
@@ -5158,6 +5165,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:55:30",
+      "iso": "2026-08-17T06:25:30.365Z",
+      "action": "updated remark for SMG-SM-A055F-64-G at BUDGET SHOP-DAMBULLA: “80% - Damaged”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5500,13 +5514,6 @@
       "time": "11:30:19",
       "iso": "2026-08-17T06:00:19.104Z",
       "action": "updated remark for SWM-FA70R at BUDGET SHOP-DAMBULLA: “Revert”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:29:49",
-      "iso": "2026-08-17T05:59:49.270Z",
-      "action": "updated remark for SLE32E930 at BUDGET SHOP-DAMBULLA: “70%”"
     }
   ]
 }
