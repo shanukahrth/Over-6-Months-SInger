@@ -3578,11 +3578,11 @@
       "lastUpdated": "2026-08-17T03:59:25.676Z"
     },
     "SLE55GENR||DAMBULLA": {
-      "remark": "K number recieved",
+      "remark": "K number received - to be returned",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "09:30:00",
-      "lastUpdated": "2026-08-17T04:00:00.246Z"
+      "commentTime": "09:30:30",
+      "lastUpdated": "2026-08-17T04:00:30.315Z"
     }
   },
   "showroomVisits": {
@@ -3820,6 +3820,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:30:30",
+      "iso": "2026-08-17T04:00:30.316Z",
+      "action": "updated remark for SLE55GENR at DAMBULLA: “K number received - to be returned”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4162,13 +4169,6 @@
       "time": "08:51:23",
       "iso": "2026-08-14T03:21:23.741Z",
       "action": "updated AGALAWATTA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:51:18",
-      "iso": "2026-08-14T03:21:18.043Z",
-      "action": "updated AGALAWATTA showroom (visitDate: 2026-08-13)"
     }
   ]
 }
