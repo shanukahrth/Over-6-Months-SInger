@@ -4712,11 +4712,11 @@
       "lastUpdated": "2026-08-17T06:02:35.835Z"
     },
     "TCLTB10-3-64-BLK||BUDGET SHOP-DAMBULLA": {
-      "remark": "90%",
+      "remark": "90% - Battery dammaged",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "11:33:07",
-      "lastUpdated": "2026-08-17T06:03:07.752Z"
+      "commentTime": "11:33:16",
+      "lastUpdated": "2026-08-17T06:03:16.885Z"
     }
   },
   "showroomVisits": {
@@ -4962,6 +4962,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:33:16",
+      "iso": "2026-08-17T06:03:16.885Z",
+      "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90% - Battery dammaged”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:33:16",
+      "iso": "2026-08-17T06:03:16.290Z",
+      "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90% - Batatery dammaged”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5297,20 +5311,6 @@
       "time": "10:58:27",
       "iso": "2026-08-17T05:28:27.680Z",
       "action": "updated remark for AS-I7-X513-256-11GEN-BLK at BUDGET SHOP-DAMBULLA: “Damaged - not switching on - 70% Disocunt”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:58:18",
-      "iso": "2026-08-17T05:28:18.036Z",
-      "action": "updated remark for AS-I5-11G-256-X513-552-BK at BUDGET SHOP-DAMBULLA: “Damaged - Motherboard issue, 70% Discount”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:58:11",
-      "iso": "2026-08-17T05:28:11.862Z",
-      "action": "updated remark for NUBIA-V60-8-256GB-BLK at KURUNEGALA - D: “Can sell by 31st of Aug”"
     }
   ]
 }
