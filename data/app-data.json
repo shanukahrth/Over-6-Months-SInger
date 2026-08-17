@@ -5445,6 +5445,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:32:22",
       "lastUpdated": "2026-08-17T08:02:22.013Z"
+    },
+    "SW-ST19025BLK||HABARANA": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:32:34",
+      "lastUpdated": "2026-08-17T08:02:34.496Z"
     }
   },
   "showroomVisits": {
@@ -5706,6 +5713,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:32:34",
+      "iso": "2026-08-17T08:02:34.497Z",
+      "action": "updated remark for SW-ST19025BLK at HABARANA: “Sold”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6048,13 +6062,6 @@
       "time": "13:13:18",
       "iso": "2026-08-17T07:43:18.930Z",
       "action": "updated remark for SVX6002 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:13:08",
-      "iso": "2026-08-17T07:43:08.397Z",
-      "action": "updated remark for SPMA9502 at BUDGET SHOP-K-GTOTA: “80%”"
     }
   ]
 }
