@@ -8609,6 +8609,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:30:19",
       "lastUpdated": "2026-08-17T13:00:19.635Z"
+    },
+    "SLE32G690||PILIMATHALAWA - B": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:30:25",
+      "lastUpdated": "2026-08-17T13:00:25.244Z"
     }
   },
   "showroomVisits": {
@@ -8886,6 +8893,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:30:25",
+      "iso": "2026-08-17T13:00:25.245Z",
+      "action": "updated remark for SLE32G690 at PILIMATHALAWA - B: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9228,13 +9242,6 @@
       "time": "18:23:59",
       "iso": "2026-08-17T12:53:59.883Z",
       "action": "updated remark for PF-MONDY-RED at PILIMATHALAWA - B: “Sellable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:23:56",
-      "iso": "2026-08-17T12:53:56.442Z",
-      "action": "updated remark for PF-MONDY-BLACK at PILIMATHALAWA - B: “Sellable at Existing Price”"
     }
   ]
 }
