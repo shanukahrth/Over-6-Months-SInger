@@ -7680,11 +7680,11 @@
       "lastUpdated": "2026-08-17T12:29:10.927Z"
     },
     "SS-PS16-AG||BUDGET SHOP-K-GTOTA": {
-      "remark": "Unsellable",
+      "remark": "75%Unsellable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "17:58:52",
-      "lastUpdated": "2026-08-17T12:28:52.329Z"
+      "commentTime": "17:59:19",
+      "lastUpdated": "2026-08-17T12:29:19.404Z"
     },
     "H-LD43SY||BUDGET SHOP-K-GTOTA": {
       "remark": "Unsellable",
@@ -7968,6 +7968,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "17:59:19",
+      "iso": "2026-08-17T12:29:19.406Z",
+      "action": "updated remark for SS-PS16-AG at BUDGET SHOP-K-GTOTA: “75%Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8310,13 +8317,6 @@
       "time": "17:56:16",
       "iso": "2026-08-17T12:26:16.100Z",
       "action": "updated remark for ZTE-A55-4-64GB-BLK at BUDGET SHOP-K-GTOTA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:55:59",
-      "iso": "2026-08-17T12:25:59.282Z",
-      "action": "updated remark for ZTE-A52020-B at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
