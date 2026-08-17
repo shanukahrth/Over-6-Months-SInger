@@ -8413,6 +8413,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:25:57",
       "lastUpdated": "2026-08-17T12:55:57.101Z"
+    },
+    "SL-S203||PILIMATHALAWA - B": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:26:02",
+      "lastUpdated": "2026-08-17T12:56:02.902Z"
     }
   },
   "showroomVisits": {
@@ -8690,6 +8697,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:26:02",
+      "iso": "2026-08-17T12:56:02.902Z",
+      "action": "updated remark for SL-S203 at PILIMATHALAWA - B: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:26:00",
+      "iso": "2026-08-17T12:56:00.834Z",
+      "action": "updated remark for SL-S203 at PILIMATHALAWA - B: “80%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9025,20 +9046,6 @@
       "time": "18:12:51",
       "iso": "2026-08-17T12:42:51.644Z",
       "action": "updated remark for HFPA-GRAVITY-BLC at GELIOYA: “MOP - 24,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:12:44",
-      "iso": "2026-08-17T12:42:44.829Z",
-      "action": "updated remark for HFPA-GRAVITY-BLC at GELIOYA: “MOP - 24,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:12:38",
-      "iso": "2026-08-17T12:42:38.915Z",
-      "action": "updated remark for H-CV950F24CDSWR at GELIOYA: “Sellable at Existing Price”"
     }
   ]
 }
