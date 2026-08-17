@@ -9232,6 +9232,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:05:23",
       "lastUpdated": "2026-08-17T13:35:23.267Z"
+    },
+    "R-BWS-02||MUTUR": {
+      "remark": "35% - Display",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:05:47",
+      "lastUpdated": "2026-08-17T13:35:47.706Z"
     }
   },
   "showroomVisits": {
@@ -9557,6 +9564,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:05:47",
+      "iso": "2026-08-17T13:35:47.708Z",
+      "action": "updated remark for R-BWS-02 at MUTUR: “35% - Display”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9899,13 +9913,6 @@
       "time": "18:28:51",
       "iso": "2026-08-17T12:58:51.039Z",
       "action": "updated remark for WF-CARLO-S at MUTUR: “50% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:27:58",
-      "iso": "2026-08-17T12:57:58.150Z",
-      "action": "updated remark for WF-LEXUS-BDQ-S at MUTUR: “50% Discount”"
     }
   ]
 }
