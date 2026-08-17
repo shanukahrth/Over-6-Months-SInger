@@ -3933,6 +3933,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:54:29",
       "lastUpdated": "2026-08-17T04:24:29.276Z"
+    },
+    "TF-SI-ESS-242||KURUNEGALA B": {
+      "remark": "Sold",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:55:14",
+      "lastUpdated": "2026-08-17T04:25:14.652Z"
     }
   },
   "showroomVisits": {
@@ -4170,6 +4177,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:55:14",
+      "iso": "2026-08-17T04:25:14.654Z",
+      "action": "updated remark for TF-SI-ESS-242 at KURUNEGALA B: “Sold”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4512,13 +4526,6 @@
       "time": "09:39:12",
       "iso": "2026-08-17T04:09:12.311Z",
       "action": "updated remark for HON-X8C-8-512-GRN at DAMBULLA: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:38:49",
-      "iso": "2026-08-17T04:08:49.202Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at DAMBULLA: “Sold”"
     }
   ]
 }
