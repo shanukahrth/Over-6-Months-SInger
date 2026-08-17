@@ -3520,6 +3520,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:18:03",
       "lastUpdated": "2026-08-17T03:48:03.675Z"
+    },
+    "SLE32D1800||KURUNEGALA B": {
+      "remark": "90% Revert Damaged",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:18:19",
+      "lastUpdated": "2026-08-17T03:48:19.365Z"
     }
   },
   "showroomVisits": {
@@ -3757,6 +3764,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:18:19",
+      "iso": "2026-08-17T03:48:19.366Z",
+      "action": "updated remark for SLE32D1800 at KURUNEGALA B: “90% Revert Damaged”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4099,13 +4113,6 @@
       "time": "23:14:43",
       "iso": "2026-08-13T17:44:43.360Z",
       "action": "updated remark for SLE40D4000 at KADUGANNAWA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:14:35",
-      "iso": "2026-08-13T17:44:35.464Z",
-      "action": "updated remark for SLE32G690 at KADUGANNAWA: “50%”"
     }
   ]
 }
