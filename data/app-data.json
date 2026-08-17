@@ -8583,11 +8583,11 @@
       "lastUpdated": "2026-08-17T12:59:05.202Z"
     },
     "SKY-32E2||PILIMATHALAWA - B": {
-      "remark": "Defective",
+      "remark": "Unsellable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:29:28",
-      "lastUpdated": "2026-08-17T12:59:28.126Z"
+      "commentTime": "18:29:52",
+      "lastUpdated": "2026-08-17T12:59:52.916Z"
     },
     "SLE24D1000||PILIMATHALAWA - B": {
       "remark": "Defective",
@@ -8879,6 +8879,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:29:52",
+      "iso": "2026-08-17T12:59:52.917Z",
+      "action": "updated remark for SKY-32E2 at PILIMATHALAWA - B: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9221,13 +9228,6 @@
       "time": "18:23:06",
       "iso": "2026-08-17T12:53:06.496Z",
       "action": "updated remark for WFL-PLWFB-20X30 at PILIMATHALAWA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:23:00",
-      "iso": "2026-08-17T12:53:00.911Z",
-      "action": "updated remark for WF-JUPITER-05-S at PILIMATHALAWA - B: “60%”"
     }
   ]
 }
