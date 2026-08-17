@@ -7827,11 +7827,11 @@
       "lastUpdated": "2026-08-17T12:30:52.554Z"
     },
     "ULED32D5000||BUDGET SHOP-K-GTOTA": {
-      "remark": "Unsellable",
+      "remark": "70%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:00:53",
-      "lastUpdated": "2026-08-17T12:30:53.870Z"
+      "commentTime": "18:01:04",
+      "lastUpdated": "2026-08-17T12:31:04.008Z"
     },
     "ULED32D60A||BUDGET SHOP-K-GTOTA": {
       "remark": "Unsellable",
@@ -8108,6 +8108,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:01:04",
+      "iso": "2026-08-17T12:31:04.009Z",
+      "action": "updated remark for ULED32D5000 at BUDGET SHOP-K-GTOTA: “70%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8450,13 +8457,6 @@
       "time": "17:57:26",
       "iso": "2026-08-17T12:27:26.739Z",
       "action": "updated remark for ACER-PJ-S1386WHN at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:25",
-      "iso": "2026-08-17T12:27:25.739Z",
-      "action": "updated remark for CAN-I-MX497 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
