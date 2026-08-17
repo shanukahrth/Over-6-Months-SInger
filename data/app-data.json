@@ -3919,6 +3919,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:54:07",
       "lastUpdated": "2026-08-17T04:24:07.500Z"
+    },
+    "USI-ATC-302||KURUNEGALA B": {
+      "remark": "Sold",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:54:05",
+      "lastUpdated": "2026-08-17T04:24:05.298Z"
     }
   },
   "showroomVisits": {
@@ -4156,6 +4163,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:54:05",
+      "iso": "2026-08-17T04:24:05.299Z",
+      "action": "updated remark for USI-ATC-302 at KURUNEGALA B: “Sold”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4498,13 +4512,6 @@
       "time": "09:37:35",
       "iso": "2026-08-17T04:07:35.296Z",
       "action": "updated remark for HON-X6B-6-128-GRN at KURUNEGALA B: “70% Battery Issue”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:37:33",
-      "iso": "2026-08-17T04:07:33.751Z",
-      "action": "updated remark for SMG-A06-6-128-BLU at DAMBULLA: “1 sold, 70% for the demo unit”"
     }
   ]
 }
