@@ -9302,6 +9302,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:14:46",
       "lastUpdated": "2026-08-17T13:44:46.364Z"
+    },
+    "LF-COAST-TVS-SWW-S||MUTUR": {
+      "remark": "30% - Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:16:08",
+      "lastUpdated": "2026-08-17T13:46:08.086Z"
     }
   },
   "showroomVisits": {
@@ -9627,6 +9634,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:16:08",
+      "iso": "2026-08-17T13:46:08.088Z",
+      "action": "updated remark for LF-COAST-TVS-SWW-S at MUTUR: “30% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9969,13 +9983,6 @@
       "time": "18:35:21",
       "iso": "2026-08-17T13:05:21.958Z",
       "action": "updated remark for TCL43S5400 at MUTUR: “50% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:34:14",
-      "iso": "2026-08-17T13:04:14.809Z",
-      "action": "updated remark for TCLED24D3100 at MUTUR: “requested K number hasn't received”"
     }
   ]
 }
