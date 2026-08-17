@@ -5711,6 +5711,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "15:44:45",
       "lastUpdated": "2026-08-17T10:14:45.812Z"
+    },
+    "SMGUA32N4010||KANTALAI": {
+      "remark": "Revert - 50% discount sellable condition",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "15:47:36",
+      "lastUpdated": "2026-08-17T10:17:36.512Z"
     }
   },
   "showroomVisits": {
@@ -5980,6 +5987,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:47:36",
+      "iso": "2026-08-17T10:17:36.513Z",
+      "action": "updated remark for SMGUA32N4010 at KANTALAI: “Revert - 50% discount sellable condition”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6322,13 +6336,6 @@
       "time": "13:37:35",
       "iso": "2026-08-17T08:07:35.441Z",
       "action": "updated remark for FAN-P-1605H at HABARANA: “50% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:37:24",
-      "iso": "2026-08-17T08:07:24.779Z",
-      "action": "updated remark for STO-EO30C at HABARANA: “Sold”"
     }
   ]
 }
