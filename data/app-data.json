@@ -5321,13 +5321,20 @@
     "TISSAMAHARAMA||HAMBANTOTA": {
       "visited": "Yes",
       "visitDate": "2026-08-17",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-17",
+      "time": "12:49:24",
+      "iso": "2026-08-17T07:19:24.425Z",
+      "action": "updated TISSAMAHARAMA showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-17",
@@ -5670,13 +5677,6 @@
       "time": "11:46:41",
       "iso": "2026-08-17T06:16:41.593Z",
       "action": "updated remark for HON-X5PLUS-4-64-BLK at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "11:46:24",
-      "iso": "2026-08-17T06:16:24.503Z",
-      "action": "updated remark for HON-X5B-4-64-BLK at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
