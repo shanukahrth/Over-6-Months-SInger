@@ -8462,6 +8462,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:27:08",
       "lastUpdated": "2026-08-17T12:57:08.870Z"
+    },
+    "CAN-I-MG2570S||PILIMATHALAWA - B": {
+      "remark": "Defective",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:27:16",
+      "lastUpdated": "2026-08-17T12:57:16.598Z"
     }
   },
   "showroomVisits": {
@@ -8739,6 +8746,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:27:16",
+      "iso": "2026-08-17T12:57:16.598Z",
+      "action": "updated remark for CAN-I-MG2570S at PILIMATHALAWA - B: “Defective”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9081,13 +9095,6 @@
       "time": "18:20:15",
       "iso": "2026-08-17T12:50:15.805Z",
       "action": "updated remark for ACER-515-I3-8GB512-GRY at PILIMATHALAWA - B: “MOP - 43,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:20:02",
-      "iso": "2026-08-17T12:50:02.965Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at PILIMATHALAWA - B: “To be dropped”"
     }
   ]
 }
