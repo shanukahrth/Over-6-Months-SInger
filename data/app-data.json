@@ -3821,6 +3821,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:48:47",
       "lastUpdated": "2026-08-17T04:18:47.803Z"
+    },
+    "WFL-SPM-78X48X7-S||KURUNEGALA B": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:49:08",
+      "lastUpdated": "2026-08-17T04:19:08.640Z"
     }
   },
   "showroomVisits": {
@@ -4058,6 +4065,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:49:08",
+      "iso": "2026-08-17T04:19:08.643Z",
+      "action": "updated remark for WFL-SPM-78X48X7-S at KURUNEGALA B: “Damaged - 95%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4400,13 +4414,6 @@
       "time": "09:27:28",
       "iso": "2026-08-17T03:57:28.128Z",
       "action": "updated remark for MB-SAFARI4S-BLK at DAMBULLA: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:27:04",
-      "iso": "2026-08-17T03:57:04.182Z",
-      "action": "updated remark for WP-WDC11704RG-G at DAMBULLA: “2 sealed pack - 24% Discount, Display - 44%”"
     }
   ]
 }
