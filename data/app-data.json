@@ -3884,6 +3884,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:52:35",
       "lastUpdated": "2026-08-17T04:22:35.576Z"
+    },
+    "WF-TULIP-01-1S-S||KURUNEGALA B": {
+      "remark": "Sold",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:52:45",
+      "lastUpdated": "2026-08-17T04:22:45.648Z"
     }
   },
   "showroomVisits": {
@@ -4121,6 +4128,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:52:45",
+      "iso": "2026-08-17T04:22:45.650Z",
+      "action": "updated remark for WF-TULIP-01-1S-S at KURUNEGALA B: “Sold”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4463,13 +4477,6 @@
       "time": "09:34:13",
       "iso": "2026-08-17T04:04:13.903Z",
       "action": "updated remark for DELL5593-128-I5W10-SIL at KURUNEGALA B: “70% - Exchange”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:34:03",
-      "iso": "2026-08-17T04:04:03.489Z",
-      "action": "updated remark for SMG-A06-6-128-BLU at DAMBULLA: “1 sold, 40%”"
     }
   ]
 }
