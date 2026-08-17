@@ -5317,9 +5317,31 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-17"
+    },
+    "TISSAMAHARAMA||HAMBANTOTA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-17",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-17",
+      "time": "12:49:19",
+      "iso": "2026-08-17T07:19:19.841Z",
+      "action": "updated TISSAMAHARAMA showroom (visitDate: 2026-08-17)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-17",
+      "time": "12:49:16",
+      "iso": "2026-08-17T07:19:16.492Z",
+      "action": "updated TISSAMAHARAMA showroom (visited: Yes)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -5655,20 +5677,6 @@
       "time": "11:46:24",
       "iso": "2026-08-17T06:16:24.503Z",
       "action": "updated remark for HON-X5B-4-64-BLK at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "11:46:01",
-      "iso": "2026-08-17T06:16:01.166Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at KURUNEGALA C: “Damaged/Display - 35%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "11:45:17",
-      "iso": "2026-08-17T06:15:17.612Z",
-      "action": "updated remark for DELL3530-I3-8GB512-BLK at KURUNEGALA C: “Damaged - 25%”"
     }
   ]
 }
