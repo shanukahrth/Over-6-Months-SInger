@@ -4164,6 +4164,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:16:11",
       "lastUpdated": "2026-08-17T04:46:11.258Z"
+    },
+    "WC-RT3019||DAMBULLA": {
+      "remark": "Damaged - 80% Discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:16:35",
+      "lastUpdated": "2026-08-17T04:46:35.982Z"
     }
   },
   "showroomVisits": {
@@ -4401,6 +4408,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:16:35",
+      "iso": "2026-08-17T04:46:35.986Z",
+      "action": "updated remark for WC-RT3019 at DAMBULLA: “Damaged - 80% Discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4743,13 +4757,6 @@
       "time": "09:55:43",
       "iso": "2026-08-17T04:25:43.248Z",
       "action": "updated remark for TCL43S5400 at KURUNEGALA B: “Exchange”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:55:43",
-      "iso": "2026-08-17T04:25:43.024Z",
-      "action": "updated remark for DSC-W800 at DAMBULLA: “90% Discount - 10 years old”"
     }
   ]
 }
