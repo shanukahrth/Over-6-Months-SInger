@@ -5342,11 +5342,11 @@
       "lastUpdated": "2026-08-17T07:50:46.677Z"
     },
     "TF-GC715D28||CHENKALADY": {
-      "remark": "90% Discount offerd",
+      "remark": "90% Discount",
       "commentedBy": "Gayan Sooriarachchi",
       "commentDate": "2026-08-17",
-      "commentTime": "13:22:28",
-      "lastUpdated": "2026-08-17T07:52:28.184Z"
+      "commentTime": "13:23:04",
+      "lastUpdated": "2026-08-17T07:53:04.595Z"
     },
     "BES-CRS-51||CHENKALADY": {
       "remark": "15 % Discount",
@@ -5615,6 +5615,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Gayan Sooriarachchi",
+      "date": "2026-08-17",
+      "time": "13:23:04",
+      "iso": "2026-08-17T07:53:04.596Z",
+      "action": "updated remark for TF-GC715D28 at CHENKALADY: “90% Discount”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -5957,13 +5964,6 @@
       "time": "13:08:57",
       "iso": "2026-08-17T07:38:57.473Z",
       "action": "updated remark for WIS18KA3 at BUDGET SHOP-K-GTOTA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:08:49",
-      "iso": "2026-08-17T07:38:49.522Z",
-      "action": "updated remark for WIS18K-I5 at BUDGET SHOP-K-GTOTA: “70%”"
     }
   ]
 }
