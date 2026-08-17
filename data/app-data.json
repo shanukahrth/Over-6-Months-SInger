@@ -8978,7 +8978,7 @@
     "KATUGASTOTA||DIGANA": {
       "visited": "Yes",
       "visitDate": "2026-08-14",
-      "team": "",
+      "team": "Team - Central",
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
@@ -8993,6 +8993,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:37:19",
+      "iso": "2026-08-17T13:07:19.325Z",
+      "action": "updated KATUGASTOTA showroom (team: Team - Central)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9335,13 +9342,6 @@
       "time": "18:27:08",
       "iso": "2026-08-17T12:57:08.871Z",
       "action": "updated remark for CAN-I-E560 at PILIMATHALAWA - B: “Reverted”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:26:59",
-      "iso": "2026-08-17T12:56:59.357Z",
-      "action": "updated remark for HON-X8C-8-512-WHT at PILIMATHALAWA - B: “Reported”"
     }
   ]
 }
