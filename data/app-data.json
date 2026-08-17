@@ -6166,6 +6166,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:38:57",
       "lastUpdated": "2026-08-17T12:08:57.249Z"
+    },
+    "LF-SLVY-ST-CLM-S||SHOMES- MATALE": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:40:47",
+      "lastUpdated": "2026-08-17T12:10:47.456Z"
     }
   },
   "showroomVisits": {
@@ -6435,6 +6442,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:40:47",
+      "iso": "2026-08-17T12:10:47.459Z",
+      "action": "updated remark for LF-SLVY-ST-CLM-S at SHOMES- MATALE: “Damaged - 70%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6777,13 +6791,6 @@
       "time": "16:11:48",
       "iso": "2026-08-17T10:41:48.351Z",
       "action": "updated remark for AES-HAV-615T at MATALE: “10%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "16:11:45",
-      "iso": "2026-08-17T10:41:45.174Z",
-      "action": "updated remark for AES-HAV-30S at MATALE: “10%”"
     }
   ]
 }
