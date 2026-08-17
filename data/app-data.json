@@ -3891,6 +3891,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:52:45",
       "lastUpdated": "2026-08-17T04:22:45.648Z"
+    },
+    "WF-SKY-211-MR-S||KURUNEGALA B": {
+      "remark": "Sold",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:53:13",
+      "lastUpdated": "2026-08-17T04:23:13.486Z"
     }
   },
   "showroomVisits": {
@@ -4128,6 +4135,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:53:13",
+      "iso": "2026-08-17T04:23:13.487Z",
+      "action": "updated remark for WF-SKY-211-MR-S at KURUNEGALA B: “Sold”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4470,13 +4484,6 @@
       "time": "09:34:30",
       "iso": "2026-08-17T04:04:30.698Z",
       "action": "updated remark for SMG-A06-6-128-BLU at DAMBULLA: “1 sold, other one”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:34:13",
-      "iso": "2026-08-17T04:04:13.903Z",
-      "action": "updated remark for DELL5593-128-I5W10-SIL at KURUNEGALA B: “70% - Exchange”"
     }
   ]
 }
