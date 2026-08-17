@@ -5760,6 +5760,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "15:52:08",
       "lastUpdated": "2026-08-17T10:22:08.892Z"
+    },
+    "FAN-WF1608R||KANTALAI": {
+      "remark": "30% - Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "15:52:55",
+      "lastUpdated": "2026-08-17T10:22:55.406Z"
     }
   },
   "showroomVisits": {
@@ -6029,6 +6036,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "15:52:55",
+      "iso": "2026-08-17T10:22:55.407Z",
+      "action": "updated remark for FAN-WF1608R at KANTALAI: “30% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6371,13 +6385,6 @@
       "time": "13:40:28",
       "iso": "2026-08-17T08:10:28.545Z",
       "action": "updated remark for SWM-FA70R at CHENKALADY: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:40:15",
-      "iso": "2026-08-17T08:10:15.484Z",
-      "action": "updated remark for SWM-FA70R at CHENKALADY: “45% Discount”"
     }
   ]
 }
