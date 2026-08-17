@@ -5347,6 +5347,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:22:28",
       "lastUpdated": "2026-08-17T07:52:28.184Z"
+    },
+    "BES-CRS-51||CHENKALADY": {
+      "remark": "15 % Discount",
+      "commentedBy": "Gayan Sooriarachchi",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:23:00",
+      "lastUpdated": "2026-08-17T07:53:00.584Z"
     }
   },
   "showroomVisits": {
@@ -5608,6 +5615,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Gayan Sooriarachchi",
+      "date": "2026-08-17",
+      "time": "13:23:00",
+      "iso": "2026-08-17T07:53:00.587Z",
+      "action": "updated remark for BES-CRS-51 at CHENKALADY: “15 % Discount”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -5950,13 +5964,6 @@
       "time": "13:08:49",
       "iso": "2026-08-17T07:38:49.522Z",
       "action": "updated remark for WIS18K-I5 at BUDGET SHOP-K-GTOTA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "13:08:46",
-      "iso": "2026-08-17T07:38:46.449Z",
-      "action": "updated remark for SMGAR12AYAACWKNIG at BUDGET SHOP-K-GTOTA: “75%”"
     }
   ]
 }
