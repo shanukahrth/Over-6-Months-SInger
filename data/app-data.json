@@ -9330,6 +9330,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:19:36",
       "lastUpdated": "2026-08-17T13:49:36.400Z"
+    },
+    "HON-X5B-4-64-BLK||MUTUR": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:19:43",
+      "lastUpdated": "2026-08-17T13:49:43.812Z"
     }
   },
   "showroomVisits": {
@@ -9655,6 +9662,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:19:43",
+      "iso": "2026-08-17T13:49:43.813Z",
+      "action": "updated remark for HON-X5B-4-64-BLK at MUTUR: “Sold”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9997,13 +10011,6 @@
       "time": "18:41:00",
       "iso": "2026-08-17T13:11:00.411Z",
       "action": "updated remark for SLE43G890 at MUTUR: “Revert - Customer will repurchase it”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:40:21",
-      "iso": "2026-08-17T13:10:21.434Z",
-      "action": "updated remark for SMGUA32N4010 at MUTUR: “Sold”"
     }
   ]
 }
