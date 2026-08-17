@@ -4544,11 +4544,11 @@
       "lastUpdated": "2026-08-17T05:37:11.316Z"
     },
     "HU-MATEBOOKD15-I3-SIL||BUDGET SHOP-DAMBULLA": {
-      "remark": "Powet adapter",
+      "remark": "Power adapter missing - 70% discount",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "11:07:34",
-      "lastUpdated": "2026-08-17T05:37:34.502Z"
+      "commentTime": "11:08:17",
+      "lastUpdated": "2026-08-17T05:38:17.837Z"
     }
   },
   "showroomVisits": {
@@ -4794,6 +4794,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:08:17",
+      "iso": "2026-08-17T05:38:17.837Z",
+      "action": "updated remark for HU-MATEBOOKD15-I3-SIL at BUDGET SHOP-DAMBULLA: “Power adapter missing - 70% discount”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5136,13 +5143,6 @@
       "time": "10:44:50",
       "iso": "2026-08-17T05:14:50.037Z",
       "action": "updated remark for SL-INV-285G at BUDGET SHOP-DAMBULLA: “65% Dsicount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:44:36",
-      "iso": "2026-08-17T05:14:36.115Z",
-      "action": "updated remark for SL-INV-285H at BUDGET SHOP-DAMBULLA: “65% Discount”"
     }
   ]
 }
