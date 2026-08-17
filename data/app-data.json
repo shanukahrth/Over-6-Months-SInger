@@ -5921,6 +5921,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:15:54",
       "lastUpdated": "2026-08-17T10:45:54.902Z"
+    },
+    "SAS24TCNR||MATALE": {
+      "remark": "50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:20:12",
+      "lastUpdated": "2026-08-17T10:50:12.501Z"
     }
   },
   "showroomVisits": {
@@ -6190,6 +6197,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "16:20:12",
+      "iso": "2026-08-17T10:50:12.502Z",
+      "action": "updated remark for SAS24TCNR at MATALE: “50%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6532,13 +6546,6 @@
       "time": "14:42:07",
       "iso": "2026-08-17T09:12:07.317Z",
       "action": "updated remark for B-VCC6424E at RIDEEGAMA: “Display Damaged - 50%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-17",
-      "time": "14:39:54",
-      "iso": "2026-08-17T09:09:54.417Z",
-      "action": "updated KATARAGAMA showroom (team: Colombo South MKT)"
     }
   ]
 }
