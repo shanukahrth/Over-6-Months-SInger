@@ -3723,6 +3723,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:41:58",
       "lastUpdated": "2026-08-17T04:11:58.397Z"
+    },
+    "WF-CLASSIC-MH||DAMBULLA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:42:19",
+      "lastUpdated": "2026-08-17T04:12:19.316Z"
     }
   },
   "showroomVisits": {
@@ -3960,6 +3967,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:42:19",
+      "iso": "2026-08-17T04:12:19.318Z",
+      "action": "updated remark for WF-CLASSIC-MH at DAMBULLA: “50%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4302,13 +4316,6 @@
       "time": "09:33:06",
       "iso": "2026-08-14T04:03:06.995Z",
       "action": "updated PANADURA - B showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "09:32:43",
-      "iso": "2026-08-14T04:02:43.200Z",
-      "action": "updated MORATUWA showroom (team: Colombo South MKT)"
     }
   ]
 }
