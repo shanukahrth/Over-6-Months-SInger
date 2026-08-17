@@ -4257,11 +4257,11 @@
       "lastUpdated": "2026-08-17T05:10:24.571Z"
     },
     "PN-NR-BK418BQKX||BUDGET SHOP-DAMBULLA": {
-      "remark": "70% Discount - Dent on the door",
+      "remark": "70% Discount - Dents on the door",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "10:40:35",
-      "lastUpdated": "2026-08-17T05:10:35.179Z"
+      "commentTime": "10:41:06",
+      "lastUpdated": "2026-08-17T05:11:06.941Z"
     }
   },
   "showroomVisits": {
@@ -4499,6 +4499,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:41:06",
+      "iso": "2026-08-17T05:11:06.942Z",
+      "action": "updated remark for PN-NR-BK418BQKX at BUDGET SHOP-DAMBULLA: “70% Discount - Dents on the door”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4841,13 +4848,6 @@
       "time": "10:04:38",
       "iso": "2026-08-17T04:34:38.046Z",
       "action": "updated remark for SLE32D2010TC at KURUNEGALA B: “Revert/ Damaged - 90%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:04:39",
-      "iso": "2026-08-17T04:34:39.601Z",
-      "action": "updated remark for FAN-WF1608R at DAMBULLA: “Shop used - need to transfer”"
     }
   ]
 }
