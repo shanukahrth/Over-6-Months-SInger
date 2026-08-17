@@ -5229,13 +5229,20 @@
     "TISSAMAHARAMA - B||HAMBANTOTA": {
       "visited": "Yes",
       "visitDate": "2026-08-17",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-17",
+      "time": "12:11:15",
+      "iso": "2026-08-17T06:41:15.756Z",
+      "action": "updated TISSAMAHARAMA - B showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-17",
@@ -5578,13 +5585,6 @@
       "time": "11:33:20",
       "iso": "2026-08-17T06:03:20.980Z",
       "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90% Battery Damaged”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:33:16",
-      "iso": "2026-08-17T06:03:16.885Z",
-      "action": "updated remark for TCLTB10-3-64-BLK at BUDGET SHOP-DAMBULLA: “90% - Battery dammaged”"
     }
   ]
 }
