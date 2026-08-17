@@ -3870,6 +3870,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:51:43",
       "lastUpdated": "2026-08-17T04:21:43.539Z"
+    },
+    "WFI-MICHU-CHR-S||KURUNEGALA B": {
+      "remark": "Exhange",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:52:13",
+      "lastUpdated": "2026-08-17T04:22:13.583Z"
     }
   },
   "showroomVisits": {
@@ -4107,6 +4114,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:52:13",
+      "iso": "2026-08-17T04:22:13.584Z",
+      "action": "updated remark for WFI-MICHU-CHR-S at KURUNEGALA B: “Exhange”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4449,13 +4463,6 @@
       "time": "09:32:28",
       "iso": "2026-08-17T04:02:28.870Z",
       "action": "updated remark for AS-13G-I3-512GB-3851-SIL at KURUNEGALA B: “Display Issue - 50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:32:24",
-      "iso": "2026-08-17T04:02:24.702Z",
-      "action": "updated remark for SLE32E930 at DAMBULLA: “Revert - Up to 70% discount”"
     }
   ]
 }
