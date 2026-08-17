@@ -8974,9 +8974,39 @@
       "remark": "Discounts Given over the Phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
+    },
+    "KATUGASTOTA||DIGANA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-17"
+    },
+    "KATUGASTOTA - B||DIGANA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:37:06",
+      "iso": "2026-08-17T13:07:06.006Z",
+      "action": "updated KATUGASTOTA - B showroom (visited: Yes)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:37:04",
+      "iso": "2026-08-17T13:07:04.072Z",
+      "action": "updated KATUGASTOTA showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9312,20 +9342,6 @@
       "time": "18:26:44",
       "iso": "2026-08-17T12:56:44.348Z",
       "action": "updated remark for RIYLTA-MF12V53B at PILIMATHALAWA - B: “Mail – Brand Manager (Settling Off)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:26:42",
-      "iso": "2026-08-17T12:56:42.501Z",
-      "action": "updated remark for RIYLTA-MF12V51A at PILIMATHALAWA - B: “Mail – Brand Manager (Settling Off)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:26:41",
-      "iso": "2026-08-17T12:56:41.097Z",
-      "action": "updated remark for RIYLTA-MF12V4 at PILIMATHALAWA - B: “Mail – Brand Manager (Settling Off)”"
     }
   ]
 }
