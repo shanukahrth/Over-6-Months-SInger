@@ -8371,6 +8371,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:24:53",
       "lastUpdated": "2026-08-17T12:54:53.005Z"
+    },
+    "LP-AP01||PILIMATHALAWA - B": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:24:58",
+      "lastUpdated": "2026-08-17T12:54:58.479Z"
     }
   },
   "showroomVisits": {
@@ -8648,6 +8655,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:24:58",
+      "iso": "2026-08-17T12:54:58.480Z",
+      "action": "updated remark for LP-AP01 at PILIMATHALAWA - B: “Damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8990,13 +9004,6 @@
       "time": "18:09:10",
       "iso": "2026-08-17T12:39:10.214Z",
       "action": "updated remark for AES-HAV-30S at GELIOYA: “10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:08:57",
-      "iso": "2026-08-17T12:38:57.030Z",
-      "action": "updated remark for WP-WRN25LX at GELIOYA: “80%”"
     }
   ]
 }
