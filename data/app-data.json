@@ -5811,11 +5811,11 @@
       "lastUpdated": "2026-08-17T10:28:15.811Z"
     },
     "LP-AP01||KANTALAI": {
-      "remark": "30%",
+      "remark": "30% - slow moving",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "16:01:08",
-      "lastUpdated": "2026-08-17T10:31:08.155Z"
+      "commentTime": "16:01:20",
+      "lastUpdated": "2026-08-17T10:31:20.861Z"
     }
   },
   "showroomVisits": {
@@ -6085,6 +6085,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "16:01:20",
+      "iso": "2026-08-17T10:31:20.862Z",
+      "action": "updated remark for LP-AP01 at KANTALAI: “30% - slow moving”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6427,13 +6434,6 @@
       "time": "13:43:10",
       "iso": "2026-08-17T08:13:10.848Z",
       "action": "updated remark for SLE32E930 at CHENKALADY: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:43:00",
-      "iso": "2026-08-17T08:13:00.491Z",
-      "action": "updated remark for HON-X7C-8-256-GRN at CHENKALADY: “d”"
     }
   ]
 }
