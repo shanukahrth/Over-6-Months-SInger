@@ -4131,11 +4131,11 @@
       "lastUpdated": "2026-08-17T04:38:22.904Z"
     },
     "LP-AP01||DAMBULLA": {
-      "remark": "S",
+      "remark": "Sellable condition - Sealed pack",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "10:09:30",
-      "lastUpdated": "2026-08-17T04:39:30.535Z"
+      "commentTime": "10:10:30",
+      "lastUpdated": "2026-08-17T04:40:30.128Z"
     }
   },
   "showroomVisits": {
@@ -4373,6 +4373,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:10:30",
+      "iso": "2026-08-17T04:40:30.130Z",
+      "action": "updated remark for LP-AP01 at DAMBULLA: “Sellable condition - Sealed pack”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4715,13 +4722,6 @@
       "time": "09:52:35",
       "iso": "2026-08-17T04:22:35.577Z",
       "action": "updated remark for STO-EO30C at DAMBULLA: “80% Discount - displayed”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:52:17",
-      "iso": "2026-08-17T04:22:17.756Z",
-      "action": "updated remark for WFI-MICHU-CHR-S at KURUNEGALA B: “Exchange”"
     }
   ]
 }
