@@ -8259,9 +8259,24 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-17"
+    },
+    "GELIOYA||KANDY": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:03:03",
+      "iso": "2026-08-17T12:33:03.886Z",
+      "action": "updated GELIOYA showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8604,13 +8619,6 @@
       "time": "18:00:17",
       "iso": "2026-08-17T12:30:17.630Z",
       "action": "updated remark for PN-TH-32M402N at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:59:23",
-      "iso": "2026-08-17T12:29:23.372Z",
-      "action": "updated remark for KD-70X8300F at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
