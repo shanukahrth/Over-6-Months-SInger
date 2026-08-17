@@ -9281,6 +9281,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:10:37",
       "lastUpdated": "2026-08-17T13:40:37.784Z"
+    },
+    "LFLCDCHAMP-CHY-S||MUTUR": {
+      "remark": "Damaged and parts missing (screw)",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:12:21",
+      "lastUpdated": "2026-08-17T13:42:21.435Z"
     }
   },
   "showroomVisits": {
@@ -9606,6 +9613,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:12:21",
+      "iso": "2026-08-17T13:42:21.436Z",
+      "action": "updated remark for LFLCDCHAMP-CHY-S at MUTUR: “Damaged and parts missing (screw)”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9948,13 +9962,6 @@
       "time": "18:33:27",
       "iso": "2026-08-17T13:03:27.909Z",
       "action": "updated remark for TF-SI-ESS-242 at MUTUR: “20% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:32:32",
-      "iso": "2026-08-17T13:02:32.098Z",
-      "action": "updated remark for TF-SI-ESS-242 at MUTUR: “20% disocunt”"
     }
   ]
 }
