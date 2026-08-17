@@ -8877,11 +8877,11 @@
       "lastUpdated": "2026-08-17T13:15:18.282Z"
     },
     "MID-MG-GP45B||HEMMATHAGAMA": {
-      "remark": "30%",
+      "remark": "50%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:45:20",
-      "lastUpdated": "2026-08-17T13:15:20.116Z"
+      "commentTime": "18:45:26",
+      "lastUpdated": "2026-08-17T13:15:26.979Z"
     },
     "URC-60||HEMMATHAGAMA": {
       "remark": "40%",
@@ -8889,6 +8889,20 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:45:22",
       "lastUpdated": "2026-08-17T13:15:22.174Z"
+    },
+    "SL-S203||HEMMATHAGAMA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:45:29",
+      "lastUpdated": "2026-08-17T13:15:29.133Z"
+    },
+    "STT-200K||HEMMATHAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:45:31",
+      "lastUpdated": "2026-08-17T13:15:31.106Z"
     }
   },
   "showroomVisits": {
@@ -9217,6 +9231,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-17",
+      "time": "18:45:31",
+      "iso": "2026-08-17T13:15:31.107Z",
+      "action": "updated remark for STT-200K at HEMMATHAGAMA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:45:29",
+      "iso": "2026-08-17T13:15:29.134Z",
+      "action": "updated remark for SL-S203 at HEMMATHAGAMA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:45:26",
+      "iso": "2026-08-17T13:15:26.980Z",
+      "action": "updated remark for MID-MG-GP45B at HEMMATHAGAMA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
       "time": "18:45:22",
       "iso": "2026-08-17T13:15:22.174Z",
       "action": "updated remark for URC-60 at HEMMATHAGAMA: “40%”"
@@ -9542,27 +9577,6 @@
       "time": "18:37:45",
       "iso": "2026-08-17T13:07:45.791Z",
       "action": "updated KANDY - B showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:37:43",
-      "iso": "2026-08-17T13:07:43.462Z",
-      "action": "updated KANDY showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:37:39",
-      "iso": "2026-08-17T13:07:39.766Z",
-      "action": "updated MEGA-KANDY showroom (visited: No)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:37:37",
-      "iso": "2026-08-17T13:07:37.457Z",
-      "action": "updated MEGA-KANDY showroom (visited: Yes)"
     }
   ]
 }
