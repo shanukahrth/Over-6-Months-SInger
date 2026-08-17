@@ -3499,6 +3499,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:06:01",
       "lastUpdated": "2026-08-17T03:36:01.463Z"
+    },
+    "HU-WATCHFIT4-BLK||KURUNEGALA B": {
+      "remark": "50% Discount",
+      "commentedBy": "MKT",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:08:43",
+      "lastUpdated": "2026-08-17T03:38:43.658Z"
     }
   },
   "showroomVisits": {
@@ -3736,6 +3743,13 @@
     }
   },
   "activity": [
+    {
+      "user": "MKT",
+      "date": "2026-08-17",
+      "time": "09:08:43",
+      "iso": "2026-08-17T03:38:43.660Z",
+      "action": "updated remark for HU-WATCHFIT4-BLK at KURUNEGALA B: “50% Discount”"
+    },
     {
       "user": "MKT",
       "date": "2026-08-17",
@@ -4078,13 +4092,6 @@
       "time": "23:14:23",
       "iso": "2026-08-13T17:44:23.432Z",
       "action": "updated remark for SLE32E930 at KADUGANNAWA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:14:14",
-      "iso": "2026-08-13T17:44:14.293Z",
-      "action": "updated remark for SLE32E910 at KADUGANNAWA: “Exchange”"
     }
   ]
 }
