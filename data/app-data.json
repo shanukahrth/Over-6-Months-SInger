@@ -5025,6 +5025,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "12:21:46",
       "lastUpdated": "2026-08-17T06:51:46.718Z"
+    },
+    "HON-X7C-8-256-GRN||KURUNEGALA C": {
+      "remark": "Display/ Damage - 35%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "12:25:53",
+      "lastUpdated": "2026-08-17T06:55:53.225Z"
     }
   },
   "showroomVisits": {
@@ -5278,6 +5285,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "12:25:53",
+      "iso": "2026-08-17T06:55:53.226Z",
+      "action": "updated remark for HON-X7C-8-256-GRN at KURUNEGALA C: “Display/ Damage - 35%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -5620,13 +5634,6 @@
       "time": "11:40:44",
       "iso": "2026-08-17T06:10:44.396Z",
       "action": "updated remark for SIN-BS30 at BUDGET SHOP-DAMBULLA: “8500”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:40:08",
-      "iso": "2026-08-17T06:10:08.768Z",
-      "action": "updated remark for WFI-13723 at BUDGET SHOP-DAMBULLA: “80% Discount”"
     }
   ]
 }
