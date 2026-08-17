@@ -3751,6 +3751,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:43:55",
       "lastUpdated": "2026-08-17T04:13:55.693Z"
+    },
+    "SMG-A06-6-128-BLK||DAMBULLA": {
+      "remark": "70% for demo unit",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:44:30",
+      "lastUpdated": "2026-08-17T04:14:30.778Z"
     }
   },
   "showroomVisits": {
@@ -3988,6 +3995,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:44:30",
+      "iso": "2026-08-17T04:14:30.779Z",
+      "action": "updated remark for SMG-A06-6-128-BLK at DAMBULLA: “70% for demo unit”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4330,13 +4344,6 @@
       "time": "09:06:01",
       "iso": "2026-08-17T03:36:01.466Z",
       "action": "updated remark for CLOTHLINE-35PVC at KURUNEGALA B: “50% Discount”"
-    },
-    {
-      "user": "MKT",
-      "date": "2026-08-17",
-      "time": "09:04:49",
-      "iso": "2026-08-17T03:34:49.492Z",
-      "action": "updated remark for CAN-I-MG2570S at KURUNEGALA B: “80% discount”"
     }
   ]
 }
