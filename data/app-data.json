@@ -5913,9 +5913,24 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-17"
+    },
+    "KATARAGAMA||HAMBANTOTA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-17",
+      "time": "14:39:46",
+      "iso": "2026-08-17T09:09:46.595Z",
+      "action": "updated KATARAGAMA showroom (visited: Yes)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6258,13 +6273,6 @@
       "time": "13:28:08",
       "iso": "2026-08-17T07:58:08.449Z",
       "action": "updated remark for HON-X8C-8-512-GRN at HABARANA: “50% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:27:14",
-      "iso": "2026-08-17T07:57:14.631Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at HABARANA: “Sold”"
     }
   ]
 }
