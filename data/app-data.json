@@ -4514,6 +4514,20 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:04:20",
       "lastUpdated": "2026-08-17T05:34:20.739Z"
+    },
+    "SMG-SM-ZFLIP-B||BUDGET SHOP-DAMBULLA": {
+      "remark": "85% Discount - Unpacked",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:03:37",
+      "lastUpdated": "2026-08-17T05:33:37.053Z"
+    },
+    "SAS-GRI12VN||BUDGET SHOP-DAMBULLA": {
+      "remark": "PO to be received from Service Center",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:05:18",
+      "lastUpdated": "2026-08-17T05:35:18.683Z"
     }
   },
   "showroomVisits": {
@@ -4759,6 +4773,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:05:18",
+      "iso": "2026-08-17T05:35:18.685Z",
+      "action": "updated remark for SAS-GRI12VN at BUDGET SHOP-DAMBULLA: “PO to be received from Service Center”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:03:37",
+      "iso": "2026-08-17T05:33:37.055Z",
+      "action": "updated remark for SMG-SM-ZFLIP-B at BUDGET SHOP-DAMBULLA: “85% Discount - Unpacked”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -5094,20 +5122,6 @@
       "time": "10:43:24",
       "iso": "2026-08-17T05:13:24.147Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRY at KURUNEGALA - D: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:43:21",
-      "iso": "2026-08-17T05:13:21.726Z",
-      "action": "updated remark for NUBIA-NEO3-5G-8-256-YLW at KURUNEGALA - D: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:42:08",
-      "iso": "2026-08-17T05:12:08.062Z",
-      "action": "updated remark for MSI-MOD15-B13M-I7-BLK at KURUNEGALA - D: “Display - 20%”"
     }
   ]
 }
