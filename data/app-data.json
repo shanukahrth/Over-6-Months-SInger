@@ -4843,6 +4843,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:47:32",
       "lastUpdated": "2026-08-17T06:17:32.467Z"
+    },
+    "HON-X9B-12-256-SIL||KURUNEGALA C": {
+      "remark": "Display/Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:47:31",
+      "lastUpdated": "2026-08-17T06:17:31.687Z"
     }
   },
   "showroomVisits": {
@@ -5088,6 +5095,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "11:47:31",
+      "iso": "2026-08-17T06:17:31.687Z",
+      "action": "updated remark for HON-X9B-12-256-SIL at KURUNEGALA C: “Display/Damaged - 50%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5430,13 +5444,6 @@
       "time": "11:14:36",
       "iso": "2026-08-17T05:44:36.402Z",
       "action": "updated remark for B-CSG42110DSL at BUDGET SHOP-DAMBULLA: “80% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:14:32",
-      "iso": "2026-08-17T05:44:32.780Z",
-      "action": "updated remark for B-CSG42110DSL at BUDGET SHOP-DAMBULLA: “80% - Discplayed”"
     }
   ]
 }
