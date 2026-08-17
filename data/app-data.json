@@ -9358,6 +9358,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:23:28",
       "lastUpdated": "2026-08-17T13:53:28.887Z"
+    },
+    "FT-FRH-50001||MUTUR": {
+      "remark": "70% - EOL model",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:25:00",
+      "lastUpdated": "2026-08-17T13:55:00.723Z"
     }
   },
   "showroomVisits": {
@@ -9683,6 +9690,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:25:00",
+      "iso": "2026-08-17T13:55:00.724Z",
+      "action": "updated remark for FT-FRH-50001 at MUTUR: “70% - EOL model”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10025,13 +10039,6 @@
       "time": "18:47:32",
       "iso": "2026-08-17T13:17:32.431Z",
       "action": "updated remark for SL-SST082 at MUTUR: “80% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:47:05",
-      "iso": "2026-08-17T13:17:05.954Z",
-      "action": "updated remark for SLE32G690 at MUTUR: “Damaged - not sellable (K number is requested but not received yet)”"
     }
   ]
 }
