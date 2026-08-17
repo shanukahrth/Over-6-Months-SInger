@@ -5837,6 +5837,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "16:03:16",
       "lastUpdated": "2026-08-17T10:33:16.605Z"
+    },
+    "PF-ENVISION-BL-S||KANTALAI": {
+      "remark": "Damaged - not sellable",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "16:04:02",
+      "lastUpdated": "2026-08-17T10:34:02.778Z"
     }
   },
   "showroomVisits": {
@@ -6106,6 +6113,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "16:04:02",
+      "iso": "2026-08-17T10:34:02.780Z",
+      "action": "updated remark for PF-ENVISION-BL-S at KANTALAI: “Damaged - not sellable”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6448,13 +6462,6 @@
       "time": "13:42:19",
       "iso": "2026-08-17T08:12:19.953Z",
       "action": "updated remark for SIN-RFC-2058 at HABARANA: “10%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:41:45",
-      "iso": "2026-08-17T08:11:45.246Z",
-      "action": "updated remark for SIN-RFC-2058 at HABARANA: “10% discount”"
     }
   ]
 }
