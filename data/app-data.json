@@ -5228,6 +5228,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:14:12",
       "lastUpdated": "2026-08-17T07:44:12.408Z"
+    },
+    "SIN-K13||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:14:18",
+      "lastUpdated": "2026-08-17T07:44:18.202Z"
     }
   },
   "showroomVisits": {
@@ -5489,6 +5496,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "13:14:18",
+      "iso": "2026-08-17T07:44:18.202Z",
+      "action": "updated remark for SIN-K13 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -5831,13 +5845,6 @@
       "time": "12:11:09",
       "iso": "2026-08-17T06:41:09.467Z",
       "action": "updated TISSAMAHARAMA - B showroom (visitDate: 2026-08-17)"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "12:09:52",
-      "iso": "2026-08-17T06:39:52.213Z",
-      "action": "updated remark for WF-XB700 at KURUNEGALA C: “Damage - 50% (Battery Issue)”"
     }
   ]
 }
