@@ -5284,6 +5284,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:16:31",
       "lastUpdated": "2026-08-17T07:46:31.244Z"
+    },
+    "LF-OFI-HATAB-001-WO-S||CHENKALADY": {
+      "remark": "20% Discount Offered",
+      "commentedBy": "Gayan Sooriarachchi",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:18:40",
+      "lastUpdated": "2026-08-17T07:48:40.048Z"
     }
   },
   "showroomVisits": {
@@ -5545,6 +5552,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Gayan Sooriarachchi",
+      "date": "2026-08-17",
+      "time": "13:18:40",
+      "iso": "2026-08-17T07:48:40.050Z",
+      "action": "updated remark for LF-OFI-HATAB-001-WO-S at CHENKALADY: “20% Discount Offered”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -5887,13 +5901,6 @@
       "time": "12:27:08",
       "iso": "2026-08-17T06:57:08.990Z",
       "action": "updated remark for DELL3530-I3-8GB512-BLK at KURUNEGALA C: “Display/ Damaged - 25%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "12:25:53",
-      "iso": "2026-08-17T06:55:53.226Z",
-      "action": "updated remark for HON-X7C-8-256-GRN at KURUNEGALA C: “Display/ Damage - 35%”"
     }
   ]
 }
