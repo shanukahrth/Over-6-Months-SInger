@@ -8455,6 +8455,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:26:59",
       "lastUpdated": "2026-08-17T12:56:59.357Z"
+    },
+    "CAN-I-E560||PILIMATHALAWA - B": {
+      "remark": "Reverted",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:27:08",
+      "lastUpdated": "2026-08-17T12:57:08.870Z"
     }
   },
   "showroomVisits": {
@@ -8732,6 +8739,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:27:08",
+      "iso": "2026-08-17T12:57:08.871Z",
+      "action": "updated remark for CAN-I-E560 at PILIMATHALAWA - B: “Reverted”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9074,13 +9088,6 @@
       "time": "18:20:02",
       "iso": "2026-08-17T12:50:02.965Z",
       "action": "updated remark for NETAC-128GB-NVME-SSD at PILIMATHALAWA - B: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:19:40",
-      "iso": "2026-08-17T12:49:40.423Z",
-      "action": "updated remark for B-CWB6441XN at PILIMATHALAWA - B: “40%”"
     }
   ]
 }
