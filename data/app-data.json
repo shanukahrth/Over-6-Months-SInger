@@ -8105,6 +8105,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:12:38",
       "lastUpdated": "2026-08-17T12:42:38.914Z"
+    },
+    "HFPA-GRAVITY-BLC||GELIOYA": {
+      "remark": "MOP - 24,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:12:44",
+      "lastUpdated": "2026-08-17T12:42:44.829Z"
     }
   },
   "showroomVisits": {
@@ -8382,6 +8389,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:12:44",
+      "iso": "2026-08-17T12:42:44.829Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at GELIOYA: “MOP - 24,000”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8724,13 +8738,6 @@
       "time": "18:01:35",
       "iso": "2026-08-17T12:31:35.151Z",
       "action": "updated remark for SLE43D1800TC at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:01:33",
-      "iso": "2026-08-17T12:31:33.763Z",
-      "action": "updated remark for SLE40E710 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
