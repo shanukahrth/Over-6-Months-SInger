@@ -8210,6 +8210,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:21:39",
       "lastUpdated": "2026-08-17T12:51:39.352Z"
+    },
+    "FAN-P-1605H||PILIMATHALAWA - B": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:21:44",
+      "lastUpdated": "2026-08-17T12:51:44.341Z"
     }
   },
   "showroomVisits": {
@@ -8487,6 +8494,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:21:44",
+      "iso": "2026-08-17T12:51:44.342Z",
+      "action": "updated remark for FAN-P-1605H at PILIMATHALAWA - B: “40%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8829,13 +8843,6 @@
       "time": "18:02:41",
       "iso": "2026-08-17T12:32:41.649Z",
       "action": "updated BUDGET SHOP-K-GTOTA showroom (visitDate: 2026-08-14)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:02:37",
-      "iso": "2026-08-17T12:32:37.808Z",
-      "action": "updated BUDGET SHOP-K-GTOTA showroom (visited: Yes)"
     }
   ]
 }
