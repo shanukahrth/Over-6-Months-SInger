@@ -9325,11 +9325,11 @@
       "lastUpdated": "2026-08-17T13:48:56.259Z"
     },
     "KA-LW-185A||MUTUR": {
-      "remark": "60%",
+      "remark": "80% - Displayed",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "19:19:30",
-      "lastUpdated": "2026-08-17T13:49:30.159Z"
+      "commentTime": "19:19:36",
+      "lastUpdated": "2026-08-17T13:49:36.400Z"
     }
   },
   "showroomVisits": {
@@ -9655,6 +9655,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:19:36",
+      "iso": "2026-08-17T13:49:36.403Z",
+      "action": "updated remark for KA-LW-185A at MUTUR: “80% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9997,13 +10004,6 @@
       "time": "18:40:21",
       "iso": "2026-08-17T13:10:21.434Z",
       "action": "updated remark for SMGUA32N4010 at MUTUR: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:39:50",
-      "iso": "2026-08-17T13:09:50.239Z",
-      "action": "updated remark for SMW823AY7 at MUTUR: “45% - displayed”"
     }
   ]
 }
