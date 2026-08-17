@@ -7673,11 +7673,11 @@
       "lastUpdated": "2026-08-17T12:28:50.474Z"
     },
     "SINTEK-SS-MS-16||BUDGET SHOP-K-GTOTA": {
-      "remark": "Unsellable",
+      "remark": "75%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "17:58:51",
-      "lastUpdated": "2026-08-17T12:28:51.425Z"
+      "commentTime": "17:59:10",
+      "lastUpdated": "2026-08-17T12:29:10.927Z"
     },
     "SS-PS16-AG||BUDGET SHOP-K-GTOTA": {
       "remark": "Unsellable",
@@ -7968,6 +7968,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "17:59:10",
+      "iso": "2026-08-17T12:29:10.927Z",
+      "action": "updated remark for SINTEK-SS-MS-16 at BUDGET SHOP-K-GTOTA: “75%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8310,13 +8317,6 @@
       "time": "17:55:59",
       "iso": "2026-08-17T12:25:59.282Z",
       "action": "updated remark for ZTE-A52020-B at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:55:56",
-      "iso": "2026-08-17T12:25:56.020Z",
-      "action": "updated remark for ZTE-A51-GRY at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
