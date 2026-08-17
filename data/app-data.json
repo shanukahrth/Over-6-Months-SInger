@@ -9365,6 +9365,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:25:00",
       "lastUpdated": "2026-08-17T13:55:00.723Z"
+    },
+    "FAN-P-1605H||MUTUR": {
+      "remark": "60% - Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:25:55",
+      "lastUpdated": "2026-08-17T13:55:55.362Z"
     }
   },
   "showroomVisits": {
@@ -9690,6 +9697,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:25:55",
+      "iso": "2026-08-17T13:55:55.363Z",
+      "action": "updated remark for FAN-P-1605H at MUTUR: “60% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -10032,13 +10046,6 @@
       "time": "18:48:27",
       "iso": "2026-08-17T13:18:27.495Z",
       "action": "updated remark for SINTEK-ES-16 at MUTUR: “75% - Battery dead”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:47:32",
-      "iso": "2026-08-17T13:17:32.431Z",
-      "action": "updated remark for SL-SST082 at MUTUR: “80% - Displayed”"
     }
   ]
 }
