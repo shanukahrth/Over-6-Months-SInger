@@ -8763,6 +8763,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:42:40",
       "lastUpdated": "2026-08-17T13:12:40.890Z"
+    },
+    "WF-LEVON-03-S||HEMMATHAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:42:43",
+      "lastUpdated": "2026-08-17T13:12:43.767Z"
     }
   },
   "showroomVisits": {
@@ -9088,6 +9095,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:42:43",
+      "iso": "2026-08-17T13:12:43.769Z",
+      "action": "updated remark for WF-LEVON-03-S at HEMMATHAGAMA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9430,13 +9444,6 @@
       "time": "18:30:06",
       "iso": "2026-08-17T13:00:06.053Z",
       "action": "updated remark for SLE32E810 at PILIMATHALAWA - B: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:29:55",
-      "iso": "2026-08-17T12:59:55.168Z",
-      "action": "updated remark for SLE24D1000 at PILIMATHALAWA - B: “Unsellable”"
     }
   ]
 }
