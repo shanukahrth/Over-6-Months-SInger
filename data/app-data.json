@@ -8986,13 +8986,20 @@
     "KATUGASTOTA - B||DIGANA": {
       "visited": "Yes",
       "visitDate": "2026-08-14",
-      "team": "",
+      "team": "Team - Central",
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:37:30",
+      "iso": "2026-08-17T13:07:30.456Z",
+      "action": "updated KATUGASTOTA - B showroom (team: Team - Central)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9335,13 +9342,6 @@
       "time": "18:27:16",
       "iso": "2026-08-17T12:57:16.598Z",
       "action": "updated remark for CAN-I-MG2570S at PILIMATHALAWA - B: “Defective”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:27:08",
-      "iso": "2026-08-17T12:57:08.871Z",
-      "action": "updated remark for CAN-I-E560 at PILIMATHALAWA - B: “Reverted”"
     }
   ]
 }
