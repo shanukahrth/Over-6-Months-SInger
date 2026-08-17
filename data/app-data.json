@@ -8343,6 +8343,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:24:31",
       "lastUpdated": "2026-08-17T12:54:31.031Z"
+    },
+    "MID-MJ-KM6001W||PILIMATHALAWA - B": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:24:38",
+      "lastUpdated": "2026-08-17T12:54:38.431Z"
     }
   },
   "showroomVisits": {
@@ -8620,6 +8627,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:24:38",
+      "iso": "2026-08-17T12:54:38.434Z",
+      "action": "updated remark for MID-MJ-KM6001W at PILIMATHALAWA - B: “Pending Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8962,13 +8976,6 @@
       "time": "18:06:56",
       "iso": "2026-08-17T12:36:56.816Z",
       "action": "updated remark for KN-CH580 at GELIOYA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:06:37",
-      "iso": "2026-08-17T12:36:37.007Z",
-      "action": "updated remark for LF-PODIUM-MWNT-S at GELIOYA: “50%”"
     }
   ]
 }
