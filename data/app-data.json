@@ -3611,6 +3611,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:32:28",
       "lastUpdated": "2026-08-17T04:02:28.870Z"
+    },
+    "HON-X9C-12-256-PPL||DAMBULLA": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:32:43",
+      "lastUpdated": "2026-08-17T04:02:43.110Z"
     }
   },
   "showroomVisits": {
@@ -3848,6 +3855,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:32:43",
+      "iso": "2026-08-17T04:02:43.111Z",
+      "action": "updated remark for HON-X9C-12-256-PPL at DAMBULLA: “Sold”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4190,13 +4204,6 @@
       "time": "08:52:05",
       "iso": "2026-08-14T03:22:05.210Z",
       "action": "updated BATAPOLA-LITE showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-14",
-      "time": "08:52:02",
-      "iso": "2026-08-14T03:22:02.786Z",
-      "action": "updated BATAPOLA-LITE showroom (visited: Yes)"
     }
   ]
 }
