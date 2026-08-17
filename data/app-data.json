@@ -4199,6 +4199,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:18:27",
       "lastUpdated": "2026-08-17T04:48:27.747Z"
+    },
+    "HU-SECURITY||DAMBULLA": {
+      "remark": "Shop used - need to transfer",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:18:49",
+      "lastUpdated": "2026-08-17T04:48:49.410Z"
     }
   },
   "showroomVisits": {
@@ -4436,6 +4443,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:18:49",
+      "iso": "2026-08-17T04:48:49.411Z",
+      "action": "updated remark for HU-SECURITY at DAMBULLA: “Shop used - need to transfer”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4778,13 +4792,6 @@
       "time": "09:57:28",
       "iso": "2026-08-17T04:27:28.332Z",
       "action": "updated remark for SWH-118E at KURUNEGALA B: “Display - (can sell this month)”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:57:04",
-      "iso": "2026-08-17T04:27:04.035Z",
-      "action": "updated remark for SIN-PR-K340 at DAMBULLA: “Damaged - not working”"
     }
   ]
 }
