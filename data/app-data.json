@@ -7804,6 +7804,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:00:37",
       "lastUpdated": "2026-08-17T12:30:37.293Z"
+    },
+    "TCL55P635||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:45",
+      "lastUpdated": "2026-08-17T12:30:45.368Z"
     }
   },
   "showroomVisits": {
@@ -8073,6 +8080,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:45",
+      "iso": "2026-08-17T12:30:45.368Z",
+      "action": "updated remark for TCL55P635 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8415,13 +8429,6 @@
       "time": "17:57:20",
       "iso": "2026-08-17T12:27:20.586Z",
       "action": "updated remark for CAN-I-E470 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:19",
-      "iso": "2026-08-17T12:27:19.700Z",
-      "action": "updated remark for EPSON-I-L130 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
