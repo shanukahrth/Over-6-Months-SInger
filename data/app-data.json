@@ -3522,11 +3522,11 @@
       "lastUpdated": "2026-08-17T03:48:03.675Z"
     },
     "SLE32D1800||KURUNEGALA B": {
-      "remark": "90% Revert Damaged",
+      "remark": "Revert/ Damaged - 90%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:18:19",
-      "lastUpdated": "2026-08-17T03:48:19.365Z"
+      "commentTime": "10:04:40",
+      "lastUpdated": "2026-08-17T04:34:40.395Z"
     },
     "SLE55GENR||KURUNEGALA B": {
       "remark": "Display - 40%",
@@ -4052,6 +4052,20 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:04:39",
       "lastUpdated": "2026-08-17T04:34:39.598Z"
+    },
+    "SLE32D2010TC||KURUNEGALA B": {
+      "remark": "Revert/ Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:04:38",
+      "lastUpdated": "2026-08-17T04:34:38.044Z"
+    },
+    "SLE32E710||KURUNEGALA B": {
+      "remark": "Revert/ Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:04:42",
+      "lastUpdated": "2026-08-17T04:34:42.248Z"
     }
   },
   "showroomVisits": {
@@ -4289,6 +4303,27 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:04:42",
+      "iso": "2026-08-17T04:34:42.248Z",
+      "action": "updated remark for SLE32E710 at KURUNEGALA B: “Revert/ Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:04:40",
+      "iso": "2026-08-17T04:34:40.396Z",
+      "action": "updated remark for SLE32D1800 at KURUNEGALA B: “Revert/ Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:04:38",
+      "iso": "2026-08-17T04:34:38.046Z",
+      "action": "updated remark for SLE32D2010TC at KURUNEGALA B: “Revert/ Damaged - 90%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4617,27 +4652,6 @@
       "time": "09:48:47",
       "iso": "2026-08-17T04:18:47.805Z",
       "action": "updated remark for SIN-PSVX938 at DAMBULLA: “70% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:48:19",
-      "iso": "2026-08-17T04:18:19.067Z",
-      "action": "updated remark for SIN-PSVX938 at DAMBULLA: “Revert”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:48:15",
-      "iso": "2026-08-17T04:18:15.635Z",
-      "action": "updated remark for SIN-PR-K340 at DAMBULLA: “34% discount for displayed one”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:47:42",
-      "iso": "2026-08-17T04:17:42.118Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at KURUNEGALA B: “Sold -31st Report”"
     }
   ]
 }
