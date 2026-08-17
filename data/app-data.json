@@ -9197,6 +9197,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:59:06",
       "lastUpdated": "2026-08-17T13:29:06.323Z"
+    },
+    "SIN-MRG-1008C||MUTUR": {
+      "remark": "Missing part -",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:02:39",
+      "lastUpdated": "2026-08-17T13:32:39.927Z"
     }
   },
   "showroomVisits": {
@@ -9522,6 +9529,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:02:39",
+      "iso": "2026-08-17T13:32:39.931Z",
+      "action": "updated remark for SIN-MRG-1008C at MUTUR: “Missing part -”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9864,13 +9878,6 @@
       "time": "18:24:55",
       "iso": "2026-08-17T12:54:55.512Z",
       "action": "updated remark for ZTE-A35E-2-32GB-GRN at MUTUR: “1 sold, 30% for displayed/unboxed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:22:33",
-      "iso": "2026-08-17T12:52:33.158Z",
-      "action": "updated remark for PN-TH-32MS670N at MUTUR: “50% - Displayed”"
     }
   ]
 }
