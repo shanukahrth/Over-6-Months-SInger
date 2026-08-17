@@ -4411,11 +4411,11 @@
       "lastUpdated": "2026-08-17T05:24:19.014Z"
     },
     "AS-I7-X513-256-11GEN-BLK||BUDGET SHOP-DAMBULLA": {
-      "remark": "Damaged - not switching on",
+      "remark": "Damaged - not switching on - 70% Disocunt",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "10:55:19",
-      "lastUpdated": "2026-08-17T05:25:19.156Z"
+      "commentTime": "10:58:27",
+      "lastUpdated": "2026-08-17T05:28:27.679Z"
     },
     "HON-X9B-12-256-BLK||KURUNEGALA - D": {
       "remark": "Display - can report by 31st of Aug",
@@ -4703,6 +4703,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:58:27",
+      "iso": "2026-08-17T05:28:27.680Z",
+      "action": "updated remark for AS-I7-X513-256-11GEN-BLK at BUDGET SHOP-DAMBULLA: “Damaged - not switching on - 70% Disocunt”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5045,13 +5052,6 @@
       "time": "10:35:25",
       "iso": "2026-08-17T05:05:25.722Z",
       "action": "updated remark for PN-NR-BG272DALK at BUDGET SHOP-DAMBULLA: “60% Discount - Dent on the door”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "10:34:33",
-      "iso": "2026-08-17T05:04:33.875Z",
-      "action": "updated remark for PN-NR-BG272DALK at BUDGET SHOP-DAMBULLA: “50% Discount”"
     }
   ]
 }
