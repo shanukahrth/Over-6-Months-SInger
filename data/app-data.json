@@ -3492,6 +3492,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:04:49",
       "lastUpdated": "2026-08-17T03:34:49.488Z"
+    },
+    "CLOTHLINE-35PVC||KURUNEGALA B": {
+      "remark": "50% Discount",
+      "commentedBy": "MKT",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:06:01",
+      "lastUpdated": "2026-08-17T03:36:01.463Z"
     }
   },
   "showroomVisits": {
@@ -3729,6 +3736,13 @@
     }
   },
   "activity": [
+    {
+      "user": "MKT",
+      "date": "2026-08-17",
+      "time": "09:06:01",
+      "iso": "2026-08-17T03:36:01.466Z",
+      "action": "updated remark for CLOTHLINE-35PVC at KURUNEGALA B: “50% Discount”"
+    },
     {
       "user": "MKT",
       "date": "2026-08-17",
@@ -4071,13 +4085,6 @@
       "time": "23:14:14",
       "iso": "2026-08-13T17:44:14.293Z",
       "action": "updated remark for SLE32E910 at KADUGANNAWA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:14:06",
-      "iso": "2026-08-13T17:44:06.343Z",
-      "action": "updated remark for KLV-32R326E at KADUGANNAWA: “80%”"
     }
   ]
 }
