@@ -4269,6 +4269,20 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:41:12",
       "lastUpdated": "2026-08-17T05:11:12.051Z"
+    },
+    "HON-X7C-8-256-GRN||KURUNEGALA - D": {
+      "remark": "35%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:40:56",
+      "lastUpdated": "2026-08-17T05:10:56.047Z"
+    },
+    "MSI-MOD15-B13M-I7-BLK||KURUNEGALA - D": {
+      "remark": "Display - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:42:08",
+      "lastUpdated": "2026-08-17T05:12:08.062Z"
     }
   },
   "showroomVisits": {
@@ -4506,6 +4520,20 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:42:08",
+      "iso": "2026-08-17T05:12:08.062Z",
+      "action": "updated remark for MSI-MOD15-B13M-I7-BLK at KURUNEGALA - D: “Display - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:40:56",
+      "iso": "2026-08-17T05:10:56.048Z",
+      "action": "updated remark for HON-X7C-8-256-GRN at KURUNEGALA - D: “35%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4841,20 +4869,6 @@
       "time": "10:05:03",
       "iso": "2026-08-17T04:35:03.757Z",
       "action": "updated remark for TF-FP24-SCR342 at DAMBULLA: “Display - 35% - other one sellable condition”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:04:42",
-      "iso": "2026-08-17T04:34:42.248Z",
-      "action": "updated remark for SLE32E710 at KURUNEGALA B: “Revert/ Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:04:40",
-      "iso": "2026-08-17T04:34:40.396Z",
-      "action": "updated remark for SLE32D1800 at KURUNEGALA B: “Revert/ Damaged - 90%”"
     }
   ]
 }
