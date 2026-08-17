@@ -3793,6 +3793,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:46:53",
       "lastUpdated": "2026-08-17T04:16:53.967Z"
+    },
+    "SIN-PR-K340||DAMBULLA": {
+      "remark": "one is not working",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:47:14",
+      "lastUpdated": "2026-08-17T04:17:14.408Z"
     }
   },
   "showroomVisits": {
@@ -4030,6 +4037,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:47:14",
+      "iso": "2026-08-17T04:17:14.409Z",
+      "action": "updated remark for SIN-PR-K340 at DAMBULLA: “one is not working”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -4372,13 +4386,6 @@
       "time": "09:21:13",
       "iso": "2026-08-17T03:51:13.563Z",
       "action": "updated remark for CAN-I-MG2570S at KURUNEGALA B: “80% Discount”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:21:07",
-      "iso": "2026-08-17T03:51:07.287Z",
-      "action": "updated remark for CAN-I-MG2570S at KURUNEGALA B: “80% Dicount”"
     }
   ]
 }
