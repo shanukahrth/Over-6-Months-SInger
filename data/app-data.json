@@ -4773,6 +4773,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:41:40",
       "lastUpdated": "2026-08-17T06:11:40.078Z"
+    },
+    "WFI-13752||BUDGET SHOP-DAMBULLA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:41:44",
+      "lastUpdated": "2026-08-17T06:11:44.739Z"
     }
   },
   "showroomVisits": {
@@ -5018,6 +5025,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:41:44",
+      "iso": "2026-08-17T06:11:44.740Z",
+      "action": "updated remark for WFI-13752 at BUDGET SHOP-DAMBULLA: “80%”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5360,13 +5374,6 @@
       "time": "11:05:30",
       "iso": "2026-08-17T05:35:30.506Z",
       "action": "updated remark for SASI12INFI at BUDGET SHOP-DAMBULLA: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:05:18",
-      "iso": "2026-08-17T05:35:18.685Z",
-      "action": "updated remark for SAS-GRI12VN at BUDGET SHOP-DAMBULLA: “PO to be received from Service Center”"
     }
   ]
 }
