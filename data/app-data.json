@@ -8639,11 +8639,11 @@
       "lastUpdated": "2026-08-17T13:01:15.638Z"
     },
     "TCLED24D3100||PILIMATHALAWA - B": {
-      "remark": "Pending Exchange`",
+      "remark": "Pending Exchange",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-17",
-      "commentTime": "18:31:28",
-      "lastUpdated": "2026-08-17T13:01:28.004Z"
+      "commentTime": "18:31:32",
+      "lastUpdated": "2026-08-17T13:01:32.930Z"
     }
   },
   "showroomVisits": {
@@ -8921,6 +8921,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:31:32",
+      "iso": "2026-08-17T13:01:32.931Z",
+      "action": "updated remark for TCLED24D3100 at PILIMATHALAWA - B: “Pending Exchange”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9263,13 +9270,6 @@
       "time": "18:24:47",
       "iso": "2026-08-17T12:54:47.405Z",
       "action": "updated remark for SL-PSM-8017 at PILIMATHALAWA - B: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:24:42",
-      "iso": "2026-08-17T12:54:42.765Z",
-      "action": "updated remark for MX-ME740H27 at PILIMATHALAWA - B: “Sellable at Existing Price”"
     }
   ]
 }
