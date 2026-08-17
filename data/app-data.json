@@ -8539,6 +8539,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:28:19",
       "lastUpdated": "2026-08-17T12:58:19.175Z"
+    },
+    "PM-OS-BAT||PILIMATHALAWA - B": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:28:34",
+      "lastUpdated": "2026-08-17T12:58:34.952Z"
     }
   },
   "showroomVisits": {
@@ -8816,6 +8823,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:28:34",
+      "iso": "2026-08-17T12:58:34.953Z",
+      "action": "updated remark for PM-OS-BAT at PILIMATHALAWA - B: “Shop use”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9158,13 +9172,6 @@
       "time": "18:21:59",
       "iso": "2026-08-17T12:51:59.257Z",
       "action": "updated remark for FAN-P-SF1605HR at PILIMATHALAWA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:21:51",
-      "iso": "2026-08-17T12:51:51.926Z",
-      "action": "updated remark for FAN-P-SF1605HL at PILIMATHALAWA - B: “50%”"
     }
   ]
 }
