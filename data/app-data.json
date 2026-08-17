@@ -8840,6 +8840,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:45:00",
       "lastUpdated": "2026-08-17T13:15:00.210Z"
+    },
+    "LP-AP01||HEMMATHAGAMA": {
+      "remark": "20%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:45:05",
+      "lastUpdated": "2026-08-17T13:15:05.889Z"
     }
   },
   "showroomVisits": {
@@ -9165,6 +9172,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:45:05",
+      "iso": "2026-08-17T13:15:05.890Z",
+      "action": "updated remark for LP-AP01 at HEMMATHAGAMA: “20%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -9507,13 +9521,6 @@
       "time": "18:37:04",
       "iso": "2026-08-17T13:07:04.072Z",
       "action": "updated KATUGASTOTA showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:32:58",
-      "iso": "2026-08-17T13:02:58.882Z",
-      "action": "updated remark for WP-NSP-J-S at PILIMATHALAWA - B: “50%”"
     }
   ]
 }
