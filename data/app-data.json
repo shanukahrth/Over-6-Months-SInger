@@ -5545,11 +5545,11 @@
       "lastUpdated": "2026-08-17T08:10:09.551Z"
     },
     "SWM-FA70R||CHENKALADY": {
-      "remark": "45% Discount",
+      "remark": "50% Discount",
       "commentedBy": "Gayan Sooriarachchi",
       "commentDate": "2026-08-17",
-      "commentTime": "13:40:15",
-      "lastUpdated": "2026-08-17T08:10:15.482Z"
+      "commentTime": "13:40:28",
+      "lastUpdated": "2026-08-17T08:10:28.543Z"
     }
   },
   "showroomVisits": {
@@ -5811,6 +5811,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Gayan Sooriarachchi",
+      "date": "2026-08-17",
+      "time": "13:40:28",
+      "iso": "2026-08-17T08:10:28.545Z",
+      "action": "updated remark for SWM-FA70R at CHENKALADY: “50% Discount”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6153,13 +6160,6 @@
       "time": "13:16:31",
       "iso": "2026-08-17T07:46:31.246Z",
       "action": "updated remark for PN-CS-XU12XKYW-8 at CHENKALADY: “60% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:15:47",
-      "iso": "2026-08-17T07:45:47.954Z",
-      "action": "updated remark for PN-CS-XU12XKYW-8 at CHENKALADY: “60”"
     }
   ]
 }
