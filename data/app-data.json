@@ -5984,6 +5984,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:09:23",
       "lastUpdated": "2026-08-17T11:39:23.668Z"
+    },
+    "TF-K1330404||MATALE - B": {
+      "remark": "Damage - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:10:26",
+      "lastUpdated": "2026-08-17T11:40:26.520Z"
     }
   },
   "showroomVisits": {
@@ -6253,6 +6260,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:10:26",
+      "iso": "2026-08-17T11:40:26.522Z",
+      "action": "updated remark for TF-K1330404 at MATALE - B: “Damage - 90%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6595,13 +6609,6 @@
       "time": "15:42:27",
       "iso": "2026-08-17T10:12:27.739Z",
       "action": "updated remark for SLE40D600A at KANTALAI: “revert - 60% discount, one is panel damaged,”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:42:27",
-      "iso": "2026-08-17T10:12:27.201Z",
-      "action": "updated remark for SLE40D600A at KANTALAI: “revert - 60% discount , one is panel damaged,”"
     }
   ]
 }
