@@ -3795,11 +3795,11 @@
       "lastUpdated": "2026-08-17T04:16:53.967Z"
     },
     "SIN-PR-K340||DAMBULLA": {
-      "remark": "one is not working",
+      "remark": "one is not working - Brand Manager to comment",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "09:47:14",
-      "lastUpdated": "2026-08-17T04:17:14.408Z"
+      "commentTime": "09:47:29",
+      "lastUpdated": "2026-08-17T04:17:29.175Z"
     },
     "WP-WDC11704RG-G||KURUNEGALA B": {
       "remark": "Sold",
@@ -4044,6 +4044,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:47:29",
+      "iso": "2026-08-17T04:17:29.178Z",
+      "action": "updated remark for SIN-PR-K340 at DAMBULLA: “one is not working - Brand Manager to comment”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4386,13 +4393,6 @@
       "time": "09:24:48",
       "iso": "2026-08-17T03:54:48.352Z",
       "action": "updated remark for HU-WATCHFIT4-BLK at KURUNEGALA B: “60% Discount”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "09:23:30",
-      "iso": "2026-08-17T03:53:30.204Z",
-      "action": "updated remark for USHA-FS40-13B at KURUNEGALA B: “50% - Damaged”"
     }
   ]
 }
