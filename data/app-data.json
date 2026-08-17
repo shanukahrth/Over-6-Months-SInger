@@ -6047,6 +6047,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:21:38",
       "lastUpdated": "2026-08-17T11:51:38.705Z"
+    },
+    "TF-CM-APR737||KINNIYA": {
+      "remark": "50% - Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:21:55",
+      "lastUpdated": "2026-08-17T11:51:55.647Z"
     }
   },
   "showroomVisits": {
@@ -6316,6 +6323,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "17:21:55",
+      "iso": "2026-08-17T11:51:55.648Z",
+      "action": "updated remark for TF-CM-APR737 at KINNIYA: “50% - Displayed”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -6658,13 +6672,6 @@
       "time": "15:52:08",
       "iso": "2026-08-17T10:22:08.893Z",
       "action": "updated remark for SLMC-18DSLHS at KANTALAI: “90% - damaged not sellable”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "15:51:11",
-      "iso": "2026-08-17T10:21:11.535Z",
-      "action": "updated remark for SIN-PR-K340 at KANTALAI: “sellable condition - sealed pack”"
     }
   ]
 }
