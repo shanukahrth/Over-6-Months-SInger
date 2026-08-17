@@ -3487,11 +3487,11 @@
       "lastUpdated": "2026-08-13T17:47:07.911Z"
     },
     "CAN-I-MG2570S||KURUNEGALA B": {
-      "remark": "80% Dicount",
+      "remark": "80% Discount",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-17",
-      "commentTime": "09:21:07",
-      "lastUpdated": "2026-08-17T03:51:07.285Z"
+      "commentTime": "09:21:13",
+      "lastUpdated": "2026-08-17T03:51:13.561Z"
     },
     "CLOTHLINE-35PVC||KURUNEGALA B": {
       "remark": "50% Discount",
@@ -3771,6 +3771,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "09:21:13",
+      "iso": "2026-08-17T03:51:13.563Z",
+      "action": "updated remark for CAN-I-MG2570S at KURUNEGALA B: “80% Discount”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4113,13 +4120,6 @@
       "time": "23:15:10",
       "iso": "2026-08-13T17:45:10.606Z",
       "action": "updated remark for SLE32D1800 at KADUGANNAWA: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-13",
-      "time": "23:15:03",
-      "iso": "2026-08-13T17:45:03.974Z",
-      "action": "updated remark for SMGUA32T4400 at KADUGANNAWA: “MOP - 35,000”"
     }
   ]
 }
