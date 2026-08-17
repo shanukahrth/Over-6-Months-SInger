@@ -7762,6 +7762,27 @@
       "commentDate": "2026-08-17",
       "commentTime": "18:00:25",
       "lastUpdated": "2026-08-17T12:30:25.032Z"
+    },
+    "SLE32D1800||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:27",
+      "lastUpdated": "2026-08-17T12:30:27.772Z"
+    },
+    "SLE32E710||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:28",
+      "lastUpdated": "2026-08-17T12:30:28.744Z"
+    },
+    "SMGUA32N4010||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "18:00:29",
+      "lastUpdated": "2026-08-17T12:30:29.881Z"
     }
   },
   "showroomVisits": {
@@ -8031,6 +8052,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:29",
+      "iso": "2026-08-17T12:30:29.882Z",
+      "action": "updated remark for SMGUA32N4010 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:28",
+      "iso": "2026-08-17T12:30:28.746Z",
+      "action": "updated remark for SLE32E710 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:00:27",
+      "iso": "2026-08-17T12:30:27.773Z",
+      "action": "updated remark for SLE32D1800 at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8359,27 +8401,6 @@
       "time": "17:57:16",
       "iso": "2026-08-17T12:27:16.883Z",
       "action": "updated remark for FT-FDH-13001 at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:15",
-      "iso": "2026-08-17T12:27:15.471Z",
-      "action": "updated remark for FT-FCD-12L04-BS at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:13",
-      "iso": "2026-08-17T12:27:13.618Z",
-      "action": "updated remark for FT-FAG-10002-BS at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:57:12",
-      "iso": "2026-08-17T12:27:12.632Z",
-      "action": "updated remark for FT-FAC-20241 at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
