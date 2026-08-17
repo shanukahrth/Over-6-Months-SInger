@@ -9211,6 +9211,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "19:04:30",
       "lastUpdated": "2026-08-17T13:34:30.782Z"
+    },
+    "SDV3605K||MUTUR": {
+      "remark": "90% - BM will bill it",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "19:04:41",
+      "lastUpdated": "2026-08-17T13:34:41.112Z"
     }
   },
   "showroomVisits": {
@@ -9536,6 +9543,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "19:04:41",
+      "iso": "2026-08-17T13:34:41.113Z",
+      "action": "updated remark for SDV3605K at MUTUR: “90% - BM will bill it”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -9878,13 +9892,6 @@
       "time": "18:25:39",
       "iso": "2026-08-17T12:55:39.491Z",
       "action": "updated remark for WF-OSLO-S at MUTUR: “50% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:25:23",
-      "iso": "2026-08-17T12:55:23.600Z",
-      "action": "updated remark for WF-PARIS-BR-S at MUTUR: “50% Discount”"
     }
   ]
 }
