@@ -5599,6 +5599,27 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:43:30",
       "lastUpdated": "2026-08-17T08:13:30.325Z"
+    },
+    "SIN-RFC-1819||HABARANA": {
+      "remark": "10% discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:41:44",
+      "lastUpdated": "2026-08-17T08:11:44.111Z"
+    },
+    "SIN-RFC-2058||HABARANA": {
+      "remark": "10%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:42:19",
+      "lastUpdated": "2026-08-17T08:12:19.952Z"
+    },
+    "SWP-SLCT-01||HABARANA": {
+      "remark": "damaged and parts are missing - not sellable, 90% discount",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:43:47",
+      "lastUpdated": "2026-08-17T08:13:47.308Z"
     }
   },
   "showroomVisits": {
@@ -5860,6 +5881,34 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:43:47",
+      "iso": "2026-08-17T08:13:47.310Z",
+      "action": "updated remark for SWP-SLCT-01 at HABARANA: “damaged and parts are missing - not sellable, 90% discount”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:42:19",
+      "iso": "2026-08-17T08:12:19.953Z",
+      "action": "updated remark for SIN-RFC-2058 at HABARANA: “10%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:41:45",
+      "iso": "2026-08-17T08:11:45.246Z",
+      "action": "updated remark for SIN-RFC-2058 at HABARANA: “10% discount”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:41:44",
+      "iso": "2026-08-17T08:11:44.113Z",
+      "action": "updated remark for SIN-RFC-1819 at HABARANA: “10% discount”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6181,34 +6230,6 @@
       "time": "13:23:04",
       "iso": "2026-08-17T07:53:04.596Z",
       "action": "updated remark for TF-GC715D28 at CHENKALADY: “90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:23:00",
-      "iso": "2026-08-17T07:53:00.587Z",
-      "action": "updated remark for BES-CRS-51 at CHENKALADY: “15 % Discount”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:22:28",
-      "iso": "2026-08-17T07:52:28.185Z",
-      "action": "updated remark for TF-GC715D28 at CHENKALADY: “90% Discount offerd”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:21:47",
-      "iso": "2026-08-17T07:51:47.462Z",
-      "action": "updated remark for TF-GC715D28 at CHENKALADY: “90% Discoint”"
-    },
-    {
-      "user": "Gayan Sooriarachchi",
-      "date": "2026-08-17",
-      "time": "13:21:16",
-      "iso": "2026-08-17T07:51:16.168Z",
-      "action": "updated remark for TF-GC715D28 at CHENKALADY: “90% Discount offered”"
     }
   ]
 }
