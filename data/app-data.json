@@ -6103,6 +6103,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:31:42",
       "lastUpdated": "2026-08-17T12:01:42.033Z"
+    },
+    "HON-X9C-12-256-BLK||SHOMES- MATALE": {
+      "remark": "Damage - 15%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:32:05",
+      "lastUpdated": "2026-08-17T12:02:05.839Z"
     }
   },
   "showroomVisits": {
@@ -6372,6 +6379,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:32:05",
+      "iso": "2026-08-17T12:02:05.840Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at SHOMES- MATALE: “Damage - 15%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6714,13 +6728,6 @@
       "time": "16:01:59",
       "iso": "2026-08-17T10:31:59.816Z",
       "action": "updated remark for UJB-LB6027 at KANTALAI: “45% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "16:01:20",
-      "iso": "2026-08-17T10:31:20.862Z",
-      "action": "updated remark for LP-AP01 at KANTALAI: “30% - slow moving”"
     }
   ]
 }
