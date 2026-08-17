@@ -4761,11 +4761,11 @@
       "lastUpdated": "2026-08-17T06:10:08.766Z"
     },
     "SIN-BS30||BUDGET SHOP-DAMBULLA": {
-      "remark": "8500",
+      "remark": "Rs.8,500/- Special Price",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "11:40:44",
-      "lastUpdated": "2026-08-17T06:10:44.394Z"
+      "commentTime": "11:40:50",
+      "lastUpdated": "2026-08-17T06:10:50.874Z"
     }
   },
   "showroomVisits": {
@@ -5011,6 +5011,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:40:50",
+      "iso": "2026-08-17T06:10:50.876Z",
+      "action": "updated remark for SIN-BS30 at BUDGET SHOP-DAMBULLA: “Rs.8,500/- Special Price”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5353,13 +5360,6 @@
       "time": "11:04:20",
       "iso": "2026-08-17T05:34:20.741Z",
       "action": "updated remark for WP-WFC105604RT-G at KURUNEGALA - D: “Display - 20%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "11:03:31",
-      "iso": "2026-08-17T05:33:31.539Z",
-      "action": "updated remark for WF-OLIVIA-BG-S at KURUNEGALA - D: “Display - 10%”"
     }
   ]
 }
