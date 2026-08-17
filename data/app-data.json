@@ -9192,11 +9192,11 @@
       "lastUpdated": "2026-08-17T13:27:56.864Z"
     },
     "SIN-PR-K340||MUTUR": {
-      "remark": "30%",
+      "remark": "Sellable condition",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "18:59:06",
-      "lastUpdated": "2026-08-17T13:29:06.323Z"
+      "commentTime": "19:31:09",
+      "lastUpdated": "2026-08-17T14:01:09.086Z"
     },
     "SIN-MRG-1008C||MUTUR": {
       "remark": "Missing part - BM to comment",
@@ -9742,6 +9742,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
+      "time": "19:31:09",
+      "iso": "2026-08-17T14:01:09.087Z",
+      "action": "updated remark for SIN-PR-K340 at MUTUR: “Sellable condition”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
       "time": "19:30:29",
       "iso": "2026-08-17T14:00:29.732Z",
       "action": "updated remark for 123453213 at MUTUR: “50% - EOL”"
@@ -10081,13 +10088,6 @@
       "time": "18:55:33",
       "iso": "2026-08-17T13:25:33.686Z",
       "action": "updated remark for SWM-FA70R at MUTUR: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:54:22",
-      "iso": "2026-08-17T13:24:22.614Z",
-      "action": "updated remark for TF-FP24-SCR342 at MUTUR: “20% discount”"
     }
   ]
 }
