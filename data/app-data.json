@@ -5200,6 +5200,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:13:27",
       "lastUpdated": "2026-08-17T07:43:27.780Z"
+    },
+    "SDM1120S||BUDGET SHOP-K-GTOTA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:13:41",
+      "lastUpdated": "2026-08-17T07:43:41.059Z"
     }
   },
   "showroomVisits": {
@@ -5461,6 +5468,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "13:13:41",
+      "iso": "2026-08-17T07:43:41.060Z",
+      "action": "updated remark for SDM1120S at BUDGET SHOP-K-GTOTA: “Unsellable”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -5803,13 +5817,6 @@
       "time": "11:57:39",
       "iso": "2026-08-17T06:27:39.502Z",
       "action": "updated remark for HON-X8A-8-128-BLK at BUDGET SHOP-DAMBULLA: “Battery issue - 90%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:56:50",
-      "iso": "2026-08-17T06:26:50.916Z",
-      "action": "updated remark for SLE39E5000TC at BUDGET SHOP-DAMBULLA: “Damaged - display not working”"
     }
   ]
 }
