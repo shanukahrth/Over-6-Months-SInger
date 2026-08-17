@@ -8264,12 +8264,19 @@
       "visited": "No",
       "visitDate": "2026-08-14",
       "team": "Team - Central",
-      "remark": "",
+      "remark": "Discounts Given over the Phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:03:29",
+      "iso": "2026-08-17T12:33:29.210Z",
+      "action": "updated GELIOYA showroom (remark: Discounts Given over the Phone)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8612,13 +8619,6 @@
       "time": "18:00:22",
       "iso": "2026-08-17T12:30:22.267Z",
       "action": "updated remark for SKY-24E2A at BUDGET SHOP-K-GTOTA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "18:00:21",
-      "iso": "2026-08-17T12:30:21.279Z",
-      "action": "updated remark for PN-TH-55MX740N at BUDGET SHOP-K-GTOTA: “Unsellable”"
     }
   ]
 }
