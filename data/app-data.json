@@ -5648,6 +5648,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "13:46:51",
       "lastUpdated": "2026-08-17T08:16:51.516Z"
+    },
+    "SB-DTYPE||HABARANA": {
+      "remark": "90% discount - EOL Battries dead",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "13:47:49",
+      "lastUpdated": "2026-08-17T08:17:49.474Z"
     }
   },
   "showroomVisits": {
@@ -5909,6 +5916,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "13:47:49",
+      "iso": "2026-08-17T08:17:49.475Z",
+      "action": "updated remark for SB-DTYPE at HABARANA: “90% discount - EOL Battries dead”"
+    },
     {
       "user": "Gayan Sooriarachchi",
       "date": "2026-08-17",
@@ -6251,13 +6265,6 @@
       "time": "13:27:14",
       "iso": "2026-08-17T07:57:14.631Z",
       "action": "updated remark for HON-X8C-8-512-BLK at HABARANA: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "13:27:12",
-      "iso": "2026-08-17T07:57:12.306Z",
-      "action": "updated remark for SLE43G890 at HABARANA: “Revert - K number received”"
     }
   ]
 }
