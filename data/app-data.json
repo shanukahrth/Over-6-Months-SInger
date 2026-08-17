@@ -4229,11 +4229,11 @@
       "lastUpdated": "2026-08-17T05:03:32.409Z"
     },
     "PN-NR-BG272DALK||BUDGET SHOP-DAMBULLA": {
-      "remark": "70% Discount - Dent on the door",
+      "remark": "70% Discount - Dents on the door",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-17",
-      "commentTime": "10:36:28",
-      "lastUpdated": "2026-08-17T05:06:28.427Z"
+      "commentTime": "10:40:37",
+      "lastUpdated": "2026-08-17T05:10:37.970Z"
     },
     "HON-X5B-4-64-BLK||KURUNEGALA - D": {
       "remark": "Damaged - 45%",
@@ -4255,6 +4255,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:40:24",
       "lastUpdated": "2026-08-17T05:10:24.571Z"
+    },
+    "PN-NR-BK418BQKX||BUDGET SHOP-DAMBULLA": {
+      "remark": "70% Discount - Dent on the door",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:40:35",
+      "lastUpdated": "2026-08-17T05:10:35.179Z"
     }
   },
   "showroomVisits": {
@@ -4492,6 +4499,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:40:37",
+      "iso": "2026-08-17T05:10:37.972Z",
+      "action": "updated remark for PN-NR-BG272DALK at BUDGET SHOP-DAMBULLA: “70% Discount - Dents on the door”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "10:40:35",
+      "iso": "2026-08-17T05:10:35.181Z",
+      "action": "updated remark for PN-NR-BK418BQKX at BUDGET SHOP-DAMBULLA: “70% Discount - Dent on the door”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4827,20 +4848,6 @@
       "time": "10:04:39",
       "iso": "2026-08-17T04:34:39.601Z",
       "action": "updated remark for FAN-WF1608R at DAMBULLA: “Shop used - need to transfer”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:04:09",
-      "iso": "2026-08-17T04:34:09.378Z",
-      "action": "updated remark for SLE40D600A at KURUNEGALA B: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-17",
-      "time": "10:03:48",
-      "iso": "2026-08-17T04:33:48.356Z",
-      "action": "updated remark for SLE43S400 at KURUNEGALA B: “Exchange”"
     }
   ]
 }
