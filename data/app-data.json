@@ -4941,6 +4941,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "11:56:30",
       "lastUpdated": "2026-08-17T06:26:30.183Z"
+    },
+    "SLE39E5000TC||BUDGET SHOP-DAMBULLA": {
+      "remark": "Damaged - display not working",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "11:56:50",
+      "lastUpdated": "2026-08-17T06:26:50.914Z"
     }
   },
   "showroomVisits": {
@@ -5186,6 +5193,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "11:56:50",
+      "iso": "2026-08-17T06:26:50.916Z",
+      "action": "updated remark for SLE39E5000TC at BUDGET SHOP-DAMBULLA: “Damaged - display not working”"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-17",
@@ -5528,13 +5542,6 @@
       "time": "11:32:05",
       "iso": "2026-08-17T06:02:05.676Z",
       "action": "updated remark for DELL-M-E2016HV at BUDGET SHOP-DAMBULLA: “80%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "11:31:15",
-      "iso": "2026-08-17T06:01:15.074Z",
-      "action": "updated remark for ZTE-A31-LITE-GRY at BUDGET SHOP-DAMBULLA: “80%”"
     }
   ]
 }
