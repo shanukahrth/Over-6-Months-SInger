@@ -6201,6 +6201,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "17:43:43",
       "lastUpdated": "2026-08-17T12:13:43.280Z"
+    },
+    "SKY24W2A||SHOMES- MATALE": {
+      "remark": "Display - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-17",
+      "commentTime": "17:44:35",
+      "lastUpdated": "2026-08-17T12:14:35.942Z"
     }
   },
   "showroomVisits": {
@@ -6470,6 +6477,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-17",
+      "time": "17:44:35",
+      "iso": "2026-08-17T12:14:35.945Z",
+      "action": "updated remark for SKY24W2A at SHOMES- MATALE: “Display - 90%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-17",
@@ -6812,13 +6826,6 @@
       "time": "16:21:11",
       "iso": "2026-08-17T10:51:11.053Z",
       "action": "updated remark for HON-X7B-8-256-GRN at MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-17",
-      "time": "16:20:12",
-      "iso": "2026-08-17T10:50:12.502Z",
-      "action": "updated remark for SAS24TCNR at MATALE: “50%”"
     }
   ]
 }
