@@ -7997,12 +7997,12 @@
   },
   "showroomVisits": {
     "BUDGET SHOP-K-GTOTA||DIGANA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "",
       "team": "",
       "remark": "",
-      "updatedBy": "Shanuka",
-      "updatedDate": "2026-08-10"
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-17"
     },
     "ABANPOLA||NIKAWARATIYA": {
       "visited": "No",
@@ -8262,6 +8262,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-17",
+      "time": "18:02:37",
+      "iso": "2026-08-17T12:32:37.808Z",
+      "action": "updated BUDGET SHOP-K-GTOTA showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-17",
@@ -8604,13 +8611,6 @@
       "time": "17:59:19",
       "iso": "2026-08-17T12:29:19.406Z",
       "action": "updated remark for SS-PS16-AG at BUDGET SHOP-K-GTOTA: “75%Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-17",
-      "time": "17:59:10",
-      "iso": "2026-08-17T12:29:10.927Z",
-      "action": "updated remark for SINTEK-SS-MS-16 at BUDGET SHOP-K-GTOTA: “75%”"
     }
   ]
 }
