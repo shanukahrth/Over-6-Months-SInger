@@ -4101,6 +4101,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "10:06:19",
       "lastUpdated": "2026-08-17T04:36:19.027Z"
+    },
+    "SIN-PSVX938N||KURUNEGALA B": {
+      "remark": "Sold",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-17",
+      "commentTime": "10:06:24",
+      "lastUpdated": "2026-08-17T04:36:24.109Z"
     }
   },
   "showroomVisits": {
@@ -4338,6 +4345,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-17",
+      "time": "10:06:24",
+      "iso": "2026-08-17T04:36:24.109Z",
+      "action": "updated remark for SIN-PSVX938N at KURUNEGALA B: “Sold”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4680,13 +4694,6 @@
       "time": "09:51:32",
       "iso": "2026-08-17T04:21:32.666Z",
       "action": "updated remark for WFL-SPM-72X60X8-S at KURUNEGALA B: “Additionla - 15%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "09:51:33",
-      "iso": "2026-08-17T04:21:33.287Z",
-      "action": "updated remark for SIN-RFC-1819 at DAMBULLA: “15% discount”"
     }
   ]
 }
