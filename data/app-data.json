@@ -3765,6 +3765,13 @@
       "commentDate": "2026-08-17",
       "commentTime": "09:44:39",
       "lastUpdated": "2026-08-17T04:14:39.015Z"
+    },
+    "AES-HAV-30S||DAMBULLA": {
+      "remark": "10%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-17",
+      "commentTime": "09:45:03",
+      "lastUpdated": "2026-08-17T04:15:03.055Z"
     }
   },
   "showroomVisits": {
@@ -4002,6 +4009,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-17",
+      "time": "09:45:03",
+      "iso": "2026-08-17T04:15:03.056Z",
+      "action": "updated remark for AES-HAV-30S at DAMBULLA: “10%”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-17",
@@ -4344,13 +4358,6 @@
       "time": "09:16:14",
       "iso": "2026-08-17T03:46:14.663Z",
       "action": "updated remark for SL-ECO55-SV at KURUNEGALA B: “Damaged - 40%”"
-    },
-    {
-      "user": "MKT",
-      "date": "2026-08-17",
-      "time": "09:08:43",
-      "iso": "2026-08-17T03:38:43.660Z",
-      "action": "updated remark for HU-WATCHFIT4-BLK at KURUNEGALA B: “50% Discount”"
     }
   ]
 }
