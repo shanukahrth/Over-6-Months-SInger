@@ -14293,6 +14293,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:49:46",
       "lastUpdated": "2026-08-18T09:19:46.057Z"
+    },
+    "SMGAR50F24D1J||MAHO": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:50:06",
+      "lastUpdated": "2026-08-18T09:20:06.523Z"
+    },
+    "SMGAR50F19D1J||MAHO": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:50:08",
+      "lastUpdated": "2026-08-18T09:20:08.486Z"
     }
   },
   "showroomVisits": {
@@ -14659,6 +14673,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:50:08",
+      "iso": "2026-08-18T09:20:08.487Z",
+      "action": "updated remark for SMGAR50F19D1J at MAHO: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:50:06",
+      "iso": "2026-08-18T09:20:06.524Z",
+      "action": "updated remark for SMGAR50F24D1J at MAHO: “Damaged - 30%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "14:49:46",
@@ -14993,20 +15021,6 @@
       "time": "14:29:21",
       "iso": "2026-08-18T08:59:21.321Z",
       "action": "updated remark for ALU-SIG002WF001L at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:18",
-      "iso": "2026-08-18T08:59:18.507Z",
-      "action": "updated remark for ALU-SIG002WF003L at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:15",
-      "iso": "2026-08-18T08:59:15.102Z",
-      "action": "updated remark for ALU-RUNG-10FTX2-S at MAIN WAREHOUSE: “Special attention needed”"
     }
   ]
 }
