@@ -9815,7 +9815,7 @@
     "DAMBULLA||DAMBULLA": {
       "visited": "Yes",
       "visitDate": "2026-08-17",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-18"
@@ -10118,6 +10118,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:55:02",
+      "iso": "2026-08-18T04:25:02.248Z",
+      "action": "updated DAMBULLA showroom (team: Chamal and Kaveesha )"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
@@ -10460,13 +10467,6 @@
       "time": "09:36:26",
       "iso": "2026-08-18T04:06:26.886Z",
       "action": "updated remark for SIN-PR-K340 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:34:54",
-      "iso": "2026-08-18T04:04:54.630Z",
-      "action": "updated remark for PCP50 at NAULA: “Damaged - 70%”"
     }
   ]
 }
