@@ -13628,6 +13628,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:03:05",
       "lastUpdated": "2026-08-18T08:33:05.008Z"
+    },
+    "SLMC-18DSLHS||BALANGODA - B": {
+      "remark": "15000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:03:53",
+      "lastUpdated": "2026-08-18T08:33:53.670Z"
     }
   },
   "showroomVisits": {
@@ -13996,6 +14003,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:03:53",
+      "iso": "2026-08-18T08:33:53.675Z",
+      "action": "updated remark for SLMC-18DSLHS at BALANGODA - B: “15000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:03:05",
       "iso": "2026-08-18T08:33:05.012Z",
       "action": "updated remark for PCP30 at BALANGODA - B: “4000”"
@@ -14335,13 +14349,6 @@
       "time": "13:47:42",
       "iso": "2026-08-18T08:17:42.575Z",
       "action": "updated remark for LF-ECO-SD-WNG-S at BALANGODA - B: “60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:47:35",
-      "iso": "2026-08-18T08:17:35.651Z",
-      "action": "updated remark for WFI-HELENA-TBL-S at BALANGODA - B: “50%”"
     }
   ]
 }
