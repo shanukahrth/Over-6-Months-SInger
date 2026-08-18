@@ -15308,6 +15308,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:54:32",
       "lastUpdated": "2026-08-18T10:24:32.310Z"
+    },
+    "SL-ECO55-SV||HINGURAKGODA": {
+      "remark": "Gas leak - Service",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:57:50",
+      "lastUpdated": "2026-08-18T10:27:50.999Z"
     }
   },
   "showroomVisits": {
@@ -15676,6 +15683,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:57:51",
+      "iso": "2026-08-18T10:27:51.001Z",
+      "action": "updated remark for SL-ECO55-SV at HINGURAKGODA: “Gas leak - Service”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:54:32",
       "iso": "2026-08-18T10:24:32.311Z",
       "action": "updated remark for SL-ECO192-TG at HINGURAKGODA: “30% - Displayed”"
@@ -16015,13 +16029,6 @@
       "time": "15:40:24",
       "iso": "2026-08-18T10:10:24.600Z",
       "action": "updated remark for SLE32E930 at HINGURAKGODA: “80% Penal damage”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:40:01",
-      "iso": "2026-08-18T10:10:01.185Z",
-      "action": "updated remark for SLE32E930 at HINGURAKGODA: “70%, for penal damage units give 80%”"
     }
   ]
 }
