@@ -11962,6 +11962,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:08:13",
       "lastUpdated": "2026-08-18T06:38:13.795Z"
+    },
+    "PCP50||MELSIRIPURA": {
+      "remark": "Sold",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:09:53",
+      "lastUpdated": "2026-08-18T06:39:53.518Z"
     }
   },
   "showroomVisits": {
@@ -12328,6 +12335,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:09:53",
+      "iso": "2026-08-18T06:39:53.520Z",
+      "action": "updated remark for PCP50 at MELSIRIPURA: “Sold”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "12:08:13",
@@ -12669,13 +12683,6 @@
       "time": "11:55:17",
       "iso": "2026-08-18T06:25:17.625Z",
       "action": "updated remark for KA-TXG-DS11A at TRINCOMALEE: “80%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:55:03",
-      "iso": "2026-08-18T06:25:03.600Z",
-      "action": "updated remark for KA-SST032BKI at TRINCOMALEE: “80%”"
     }
   ]
 }
