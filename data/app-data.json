@@ -13474,6 +13474,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:54:41",
       "lastUpdated": "2026-08-18T08:24:41.906Z"
+    },
+    "LF-LEO-BRM-BCH||POLPITHIGAMA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:54:16",
+      "lastUpdated": "2026-08-18T08:24:16.846Z"
     }
   },
   "showroomVisits": {
@@ -13840,6 +13847,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "13:54:16",
+      "iso": "2026-08-18T08:24:16.847Z",
+      "action": "updated remark for LF-LEO-BRM-BCH at POLPITHIGAMA: “Damaged - 30%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "13:54:41",
@@ -14181,13 +14195,6 @@
       "time": "13:17:13",
       "iso": "2026-08-18T07:47:13.761Z",
       "action": "updated remark for CS-JANALIPA at BALANGODA: “1000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:16:06",
-      "iso": "2026-08-18T07:46:06.978Z",
-      "action": "updated remark for WP-SP-SG-S at BALANGODA: “Sellable”"
     }
   ]
 }
