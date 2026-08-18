@@ -10814,6 +10814,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:03:25",
       "lastUpdated": "2026-08-18T05:33:25.094Z"
+    },
+    "WF-DT-B-BU||GALEWELA": {
+      "remark": "Return to Warehouse",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:03:45",
+      "lastUpdated": "2026-08-18T05:33:45.841Z"
     }
   },
   "showroomVisits": {
@@ -11182,6 +11189,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "11:03:45",
+      "iso": "2026-08-18T05:33:45.843Z",
+      "action": "updated remark for WF-DT-B-BU at GALEWELA: “Return to Warehouse”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "11:03:25",
       "iso": "2026-08-18T05:33:25.096Z",
       "action": "updated remark for WF-DOC-M003-BU-S at GALEWELA: “Return to Warehouse”"
@@ -11521,13 +11535,6 @@
       "time": "10:52:52",
       "iso": "2026-08-18T05:22:52.551Z",
       "action": "updated remark for SMG-A06-4-64-BLU at TRINCOMALEE: “65% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:52:21",
-      "iso": "2026-08-18T05:22:21.295Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at TRINCOMALEE: “Can sell for current price”"
     }
   ]
 }
