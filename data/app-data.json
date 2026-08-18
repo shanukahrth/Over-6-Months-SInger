@@ -9540,6 +9540,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:34:54",
       "lastUpdated": "2026-08-18T04:04:54.627Z"
+    },
+    "SIN-PR-K340||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:36:26",
+      "lastUpdated": "2026-08-18T04:06:26.883Z"
     }
   },
   "showroomVisits": {
@@ -9865,6 +9872,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:36:26",
+      "iso": "2026-08-18T04:06:26.886Z",
+      "action": "updated remark for SIN-PR-K340 at NAULA: “Damaged - 40%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10207,13 +10221,6 @@
       "time": "19:16:08",
       "iso": "2026-08-17T13:46:08.088Z",
       "action": "updated remark for LF-COAST-TVS-SWW-S at MUTUR: “30% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:14:46",
-      "iso": "2026-08-17T13:44:46.365Z",
-      "action": "updated remark for LF-CUBIC-TV-SHW-S at MUTUR: “50% - Obsolete”"
     }
   ]
 }
