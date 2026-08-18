@@ -10905,6 +10905,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:05:22",
       "lastUpdated": "2026-08-18T05:35:22.391Z"
+    },
+    "SLE55GENR||TRINCOMALEE B": {
+      "remark": "85% - panel is damaged",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:00:33",
+      "lastUpdated": "2026-08-18T05:30:33.493Z"
+    },
+    "SLE43G890||TRINCOMALEE B": {
+      "remark": "85% for panel damage one & 70% for other unit , staff member will purchase",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:06:39",
+      "lastUpdated": "2026-08-18T05:36:39.282Z"
     }
   },
   "showroomVisits": {
@@ -11271,6 +11285,20 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:06:39",
+      "iso": "2026-08-18T05:36:39.285Z",
+      "action": "updated remark for SLE43G890 at TRINCOMALEE B: “85% for panel damage one & 70% for other unit , staff member will purchase”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:00:33",
+      "iso": "2026-08-18T05:30:33.495Z",
+      "action": "updated remark for SLE55GENR at TRINCOMALEE B: “85% - panel is damaged”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-18",
       "time": "11:05:22",
@@ -11605,20 +11633,6 @@
       "time": "10:56:49",
       "iso": "2026-08-18T05:26:49.873Z",
       "action": "updated remark for TCLED24D3100 at MAIN WAREHOUSE: “Discount shop transfer”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:56:10",
-      "iso": "2026-08-18T05:26:10.488Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at TRINCOMALEE: “Can sell for the current price”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:56:07",
-      "iso": "2026-08-18T05:26:07.567Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at TRINCOMALEE (cleared)"
     }
   ]
 }
