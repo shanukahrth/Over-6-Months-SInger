@@ -13525,11 +13525,11 @@
       "lastUpdated": "2026-08-18T08:27:34.273Z"
     },
     "BR-SR01||BALANGODA - B": {
-      "remark": "Sella",
+      "remark": "1000",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "13:58:00",
-      "lastUpdated": "2026-08-18T08:28:00.505Z"
+      "commentTime": "13:58:15",
+      "lastUpdated": "2026-08-18T08:28:15.338Z"
     }
   },
   "showroomVisits": {
@@ -13898,6 +13898,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:58:15",
+      "iso": "2026-08-18T08:28:15.343Z",
+      "action": "updated remark for BR-SR01 at BALANGODA - B: “1000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:58:00",
       "iso": "2026-08-18T08:28:00.509Z",
       "action": "updated remark for BR-SR01 at BALANGODA - B: “Sella”"
@@ -14237,13 +14244,6 @@
       "time": "13:40:50",
       "iso": "2026-08-18T08:10:50.881Z",
       "action": "updated remark for USHA-AVTR56 at BALANGODA - B: “20000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:40:09",
-      "iso": "2026-08-18T08:10:09.425Z",
-      "action": "updated remark for DELLC-VOS3420-I5DOS at BALANGODA - B: “Damaged”"
     }
   ]
 }
