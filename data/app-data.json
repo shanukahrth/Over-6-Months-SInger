@@ -14384,6 +14384,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:53:09",
       "lastUpdated": "2026-08-18T09:23:09.425Z"
+    },
+    "WF-JUPITER-05-S||MAHO": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:52:59",
+      "lastUpdated": "2026-08-18T09:22:59.785Z"
     }
   },
   "showroomVisits": {
@@ -14750,6 +14757,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:52:59",
+      "iso": "2026-08-18T09:22:59.787Z",
+      "action": "updated remark for WF-JUPITER-05-S at MAHO: “Damaged - 80%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "14:53:09",
@@ -15091,13 +15105,6 @@
       "time": "14:30:02",
       "iso": "2026-08-18T09:00:02.322Z",
       "action": "updated remark for ALU-FOR003WF002R at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:30:00",
-      "iso": "2026-08-18T09:00:00.529Z",
-      "action": "updated remark for ALU-FOR001WF003L at MAIN WAREHOUSE: “Special attention needed”"
     }
   ]
 }
