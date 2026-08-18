@@ -11052,6 +11052,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:18:02",
       "lastUpdated": "2026-08-18T05:48:02.299Z"
+    },
+    "DH-A-HFW1500TLP-36B||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:19:36",
+      "lastUpdated": "2026-08-18T05:49:36.919Z"
     }
   },
   "showroomVisits": {
@@ -11418,6 +11425,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:19:36",
+      "iso": "2026-08-18T05:49:36.921Z",
+      "action": "updated remark for DH-A-HFW1500TLP-36B at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:19:12",
@@ -11759,13 +11773,6 @@
       "time": "11:03:28",
       "iso": "2026-08-18T05:33:28.626Z",
       "action": "updated remark for ULED32D2070 at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:03:07",
-      "iso": "2026-08-18T05:33:07.441Z",
-      "action": "updated remark for SLE32D5000 at MAIN WAREHOUSE: “Transfer to shops”"
     }
   ]
 }
