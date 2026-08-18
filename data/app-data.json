@@ -15477,13 +15477,6 @@
       "commentTime": "16:15:34",
       "lastUpdated": "2026-08-18T10:45:34.499Z"
     },
-    "SKY32STD1000||DIYASENAPURA": {
-      "remark": "90% discount - damage unit",
-      "commentedBy": "Chamal Gunawardena",
-      "commentDate": "2026-08-18",
-      "commentTime": "16:16:17",
-      "lastUpdated": "2026-08-18T10:46:17.738Z"
-    },
     "SLE32E930||DIYASENAPURA": {
       "remark": "ongoing discount",
       "commentedBy": "Chamal Gunawardena",
@@ -15891,6 +15884,13 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "16:19:18",
+      "iso": "2026-08-18T10:49:18.458Z",
+      "action": "updated remark for SKY32STD1000 at DIYASENAPURA (cleared)"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "16:19:25",
@@ -16232,13 +16232,6 @@
       "time": "16:06:51",
       "iso": "2026-08-18T10:36:51.200Z",
       "action": "updated remark for SLE32E910 at HINGURAKGODA: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "16:06:47",
-      "iso": "2026-08-18T10:36:47.067Z",
-      "action": "updated remark for SLE32E810 at HINGURAKGODA: “70%”"
     }
   ]
 }
