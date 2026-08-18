@@ -13243,6 +13243,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:38:30",
       "lastUpdated": "2026-08-18T08:08:30.153Z"
+    },
+    "DELL3501-11G-I3W10-BLU||BALANGODA - B": {
+      "remark": "Damaged",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:39:31",
+      "lastUpdated": "2026-08-18T08:09:31.295Z"
     }
   },
   "showroomVisits": {
@@ -13611,6 +13618,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:39:31",
+      "iso": "2026-08-18T08:09:31.296Z",
+      "action": "updated remark for DELL3501-11G-I3W10-BLU at BALANGODA - B: “Damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:38:39",
       "iso": "2026-08-18T08:08:39.235Z",
       "action": "updated remark for SHAKE-X1D at BALANGODA - B: “30000”"
@@ -13950,13 +13964,6 @@
       "time": "12:53:39",
       "iso": "2026-08-18T07:23:39.546Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at BALANGODA: “Sold. PO out”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:53:03",
-      "iso": "2026-08-18T07:23:03.130Z",
-      "action": "updated remark for HON-H200-12-512-WHT at BALANGODA: “Sold. PO out”"
     }
   ]
 }
