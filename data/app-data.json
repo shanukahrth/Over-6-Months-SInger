@@ -11563,6 +11563,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:51:37",
       "lastUpdated": "2026-08-18T06:21:37.576Z"
+    },
+    "PN-MIC-W-107||TRINCOMALEE": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:51:42",
+      "lastUpdated": "2026-08-18T06:21:42.204Z"
+    },
+    "PN-SC-BMAX5E-K||TRINCOMALEE": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:51:46",
+      "lastUpdated": "2026-08-18T06:21:46.367Z"
     }
   },
   "showroomVisits": {
@@ -11931,6 +11945,20 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "11:51:46",
+      "iso": "2026-08-18T06:21:46.369Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at TRINCOMALEE: “50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:51:42",
+      "iso": "2026-08-18T06:21:42.206Z",
+      "action": "updated remark for PN-MIC-W-107 at TRINCOMALEE: “70%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "11:51:37",
       "iso": "2026-08-18T06:21:37.578Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at TRINCOMALEE: “Rs.30,000/- Special Price”"
@@ -12263,20 +12291,6 @@
       "time": "11:37:04",
       "iso": "2026-08-18T06:07:04.802Z",
       "action": "updated remark for TCL55V6B at TRINCOMALEE B: “70% discount - staff member will purchase”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:35:48",
-      "iso": "2026-08-18T06:05:48.428Z",
-      "action": "updated remark for PN-TH-32P401N at TRINCOMALEE B: “no additional discount”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:35:27",
-      "iso": "2026-08-18T06:05:27.595Z",
-      "action": "updated remark for CAN-TR-325BK at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
