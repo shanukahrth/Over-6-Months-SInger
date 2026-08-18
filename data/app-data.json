@@ -15418,8 +15418,8 @@
       "remark": "Scrap",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "16:04:32",
-      "lastUpdated": "2026-08-18T10:34:32.941Z"
+      "commentTime": "16:04:42",
+      "lastUpdated": "2026-08-18T10:34:42.845Z"
     },
     "RIYLTA-MF12V35A||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -15795,6 +15795,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "16:04:42",
+      "iso": "2026-08-18T10:34:42.854Z",
+      "action": "updated remark for RIYLTA-MF12V53B at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "16:04:39",
       "iso": "2026-08-18T10:34:39.980Z",
       "action": "updated remark for RIYLTA-MF12V35A at MAIN WAREHOUSE: “Scrap”"
@@ -16134,13 +16141,6 @@
       "time": "15:45:40",
       "iso": "2026-08-18T10:15:40.681Z",
       "action": "updated remark for ULED32D4000 at HINGURAKGODA: “70% EOL”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:45:31",
-      "iso": "2026-08-18T10:15:31.518Z",
-      "action": "updated remark for SLE55D1800TC at HINGURAKGODA: “Exchange needs to be performed”"
     }
   ]
 }
