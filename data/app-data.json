@@ -12627,6 +12627,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:37:04",
       "lastUpdated": "2026-08-18T07:07:04.594Z"
+    },
+    "PCR-FP20-249||BALANGODA": {
+      "remark": "1900",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:37:59",
+      "lastUpdated": "2026-08-18T07:07:59.463Z"
     }
   },
   "showroomVisits": {
@@ -12995,6 +13002,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:37:59",
+      "iso": "2026-08-18T07:07:59.468Z",
+      "action": "updated remark for PCR-FP20-249 at BALANGODA: “1900”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:37:04",
       "iso": "2026-08-18T07:07:04.599Z",
       "action": "updated remark for NCPO-FP280 at BALANGODA: “4000”"
@@ -13334,13 +13348,6 @@
       "time": "12:22:02",
       "iso": "2026-08-18T06:52:02.371Z",
       "action": "updated remark for WFI-ZENA at MELSIRIPURA: “Damaged - 70%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:21:49",
-      "iso": "2026-08-18T06:51:49.538Z",
-      "action": "updated remark for SIN-5000 at MAIN WAREHOUSE: “Defective, scrap”"
     }
   ]
 }
