@@ -9829,11 +9829,11 @@
       "lastUpdated": "2026-08-18T04:26:12.368Z"
     },
     "B-RDNI295XIB100P||MAIN WAREHOUSE": {
-      "remark": "Transfer to Godagama clearance Disc 70%",
+      "remark": "Transfer to Godagama shop",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "09:56:15",
-      "lastUpdated": "2026-08-18T04:26:15.376Z"
+      "commentTime": "10:02:37",
+      "lastUpdated": "2026-08-18T04:32:37.659Z"
     },
     "SN-SMI-285||MAIN WAREHOUSE": {
       "remark": "Transfer to Godagama clearance Disc 70%",
@@ -9911,6 +9911,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:02:17",
       "lastUpdated": "2026-08-18T04:32:17.034Z"
+    },
+    "B-RCNT375E20GB||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:02:34",
+      "lastUpdated": "2026-08-18T04:32:34.232Z"
     }
   },
   "showroomVisits": {
@@ -10279,6 +10286,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "10:02:37",
+      "iso": "2026-08-18T04:32:37.668Z",
+      "action": "updated remark for B-RDNI295XIB100P at MAIN WAREHOUSE: “Transfer to Godagama shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:02:34",
+      "iso": "2026-08-18T04:32:34.239Z",
+      "action": "updated remark for B-RCNT375E20GB at MAIN WAREHOUSE: “Transfer to Godagama shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "10:02:17",
       "iso": "2026-08-18T04:32:17.040Z",
       "action": "updated remark for GEO-266INV-TG at MAIN WAREHOUSE: “Transfer to Godagama shop”"
@@ -10611,20 +10632,6 @@
       "time": "09:48:12",
       "iso": "2026-08-18T04:18:12.814Z",
       "action": "updated remark for HON-PAD-X9-CV at RATTOTA: “Display Damaged - 20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:48:06",
-      "iso": "2026-08-18T04:18:06.397Z",
-      "action": "updated remark for HON-PAD-X9-128GB at RATTOTA: “Display Damaged- 20%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:47:50",
-      "iso": "2026-08-18T04:17:50.027Z",
-      "action": "updated remark for KV-FPA-5A at MAIN WAREHOUSE: “Discount to Rs. 300”"
     }
   ]
 }
