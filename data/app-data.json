@@ -11850,6 +11850,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:02:14",
       "lastUpdated": "2026-08-18T06:32:14.115Z"
+    },
+    "DH-I-A22EP-G-IMOU||MELSIRIPURA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:02:18",
+      "lastUpdated": "2026-08-18T06:32:18.951Z"
     }
   },
   "showroomVisits": {
@@ -12218,6 +12225,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "12:02:18",
+      "iso": "2026-08-18T06:32:18.953Z",
+      "action": "updated remark for DH-I-A22EP-G-IMOU at MELSIRIPURA: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "12:02:14",
       "iso": "2026-08-18T06:32:14.117Z",
       "action": "updated remark for DH-A-HFW1200CLP-IL-A-36B at MELSIRIPURA: “Damaged - 80%”"
@@ -12557,13 +12571,6 @@
       "time": "11:51:00",
       "iso": "2026-08-18T06:21:00.299Z",
       "action": "updated remark for SWM-FA70R at TRINCOMALEE: “55% - Discolored”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:50:59",
-      "iso": "2026-08-18T06:20:59.644Z",
-      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “55% - Discoloured”"
     }
   ]
 }
