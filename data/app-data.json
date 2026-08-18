@@ -9575,6 +9575,41 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:36:53",
       "lastUpdated": "2026-08-18T04:06:53.139Z"
+    },
+    "WL-089365200||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:36:55",
+      "lastUpdated": "2026-08-18T04:06:55.594Z"
+    },
+    "WL-0893121||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:36:58",
+      "lastUpdated": "2026-08-18T04:06:58.763Z"
+    },
+    "WL-0893222||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:01",
+      "lastUpdated": "2026-08-18T04:07:01.846Z"
+    },
+    "X1R-OB||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:07",
+      "lastUpdated": "2026-08-18T04:07:07.873Z"
+    },
+    "WL-0893764650||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:10",
+      "lastUpdated": "2026-08-18T04:07:10.183Z"
     }
   },
   "showroomVisits": {
@@ -9903,6 +9938,41 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "09:37:10",
+      "iso": "2026-08-18T04:07:10.186Z",
+      "action": "updated remark for WL-0893764650 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:37:07",
+      "iso": "2026-08-18T04:07:07.874Z",
+      "action": "updated remark for X1R-OB at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:37:01",
+      "iso": "2026-08-18T04:07:01.848Z",
+      "action": "updated remark for WL-0893222 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:36:58",
+      "iso": "2026-08-18T04:06:58.766Z",
+      "action": "updated remark for WL-0893121 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:36:55",
+      "iso": "2026-08-18T04:06:55.597Z",
+      "action": "updated remark for WL-089365200 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "09:36:53",
       "iso": "2026-08-18T04:06:53.141Z",
       "action": "updated remark for WL-0893106 at MAIN WAREHOUSE: “Scrap”"
@@ -10214,41 +10284,6 @@
       "time": "19:23:16",
       "iso": "2026-08-17T13:53:16.964Z",
       "action": "updated remark for GEO-182S-SV at MUTUR: “25%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:22:45",
-      "iso": "2026-08-17T13:52:45.690Z",
-      "action": "updated remark for HFPA-GRAVITY-BLU at MUTUR: “Damaged (Logo is removed )- 20,000 special price”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:22:41",
-      "iso": "2026-08-17T13:52:41.419Z",
-      "action": "updated remark for HFPA-GRAVITY-BLU at MUTUR: “Damaged (Logo is removed  - 20,000 special price”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:19:43",
-      "iso": "2026-08-17T13:49:43.813Z",
-      "action": "updated remark for HON-X5B-4-64-BLK at MUTUR: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:19:36",
-      "iso": "2026-08-17T13:49:36.403Z",
-      "action": "updated remark for KA-LW-185A at MUTUR: “80% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:19:30",
-      "iso": "2026-08-17T13:49:30.161Z",
-      "action": "updated remark for KA-LW-185A at MUTUR: “60%”"
     }
   ]
 }
