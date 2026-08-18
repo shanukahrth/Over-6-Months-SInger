@@ -15112,6 +15112,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:42:04",
       "lastUpdated": "2026-08-18T10:12:04.851Z"
+    },
+    "QT-KB8KG||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 1,000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:42:42",
+      "lastUpdated": "2026-08-18T10:12:42.257Z"
     }
   },
   "showroomVisits": {
@@ -15480,6 +15487,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "15:42:42",
+      "iso": "2026-08-18T10:12:42.259Z",
+      "action": "updated remark for QT-KB8KG at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "15:42:04",
       "iso": "2026-08-18T10:12:04.852Z",
       "action": "updated remark for QT-MEDIBALL-8KG at MAIN WAREHOUSE: “Discount to Rs. 3,500”"
@@ -15819,13 +15833,6 @@
       "time": "15:29:21",
       "iso": "2026-08-18T09:59:21.935Z",
       "action": "updated remark for SLE24D1000 at HINGURAKGODA: “Defective - Penal damage 90% offered”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:29:01",
-      "iso": "2026-08-18T09:59:01.602Z",
-      "action": "updated remark for SLE24D1000 at HINGURAKGODA: “Penal damage - 90% offered”"
     }
   ]
 }
