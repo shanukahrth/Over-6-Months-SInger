@@ -13215,6 +13215,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:36:37",
       "lastUpdated": "2026-08-18T08:06:37.965Z"
+    },
+    "SIN-MH51SW||BALANGODA - B": {
+      "remark": "20000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:37:16",
+      "lastUpdated": "2026-08-18T08:07:16.210Z"
     }
   },
   "showroomVisits": {
@@ -13583,6 +13590,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:37:16",
+      "iso": "2026-08-18T08:07:16.218Z",
+      "action": "updated remark for SIN-MH51SW at BALANGODA - B: “20000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:36:37",
       "iso": "2026-08-18T08:06:37.970Z",
       "action": "updated remark for SIN-PSVX938N at BALANGODA - B: “18500”"
@@ -13922,13 +13936,6 @@
       "time": "12:50:26",
       "iso": "2026-08-18T07:20:26.155Z",
       "action": "updated remark for RIYLTA-MF12V53B at BALANGODA: “Rtn”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:50:22",
-      "iso": "2026-08-18T07:20:22.876Z",
-      "action": "updated remark for RIYLTA-MF12V51A at BALANGODA: “Rtn”"
     }
   ]
 }
