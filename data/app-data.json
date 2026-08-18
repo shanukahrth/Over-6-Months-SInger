@@ -10837,11 +10837,11 @@
       "lastUpdated": "2026-08-18T05:32:34.393Z"
     },
     "SLE100A4F||MAIN WAREHOUSE": {
-      "remark": "Additional 50000",
+      "remark": "Additional 50000 offer",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "11:02:44",
-      "lastUpdated": "2026-08-18T05:32:44.867Z"
+      "commentTime": "16:10:16",
+      "lastUpdated": "2026-08-18T10:40:16.171Z"
     },
     "ULED32D2070||MAIN WAREHOUSE": {
       "remark": "Transfer to shops",
@@ -11327,11 +11327,11 @@
       "lastUpdated": "2026-08-18T06:04:53.961Z"
     },
     "CAN-TR-325BK||MAIN WAREHOUSE": {
-      "remark": "Scrap",
-      "commentedBy": "Lashini Gamage",
+      "remark": "Scrap to do",
+      "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "11:35:27",
-      "lastUpdated": "2026-08-18T06:05:27.592Z"
+      "commentTime": "16:08:58",
+      "lastUpdated": "2026-08-18T10:38:58.079Z"
     },
     "TCL55V6B||TRINCOMALEE B": {
       "remark": "70% discount - staff member will purchase",
@@ -15441,6 +15441,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:06:25",
       "lastUpdated": "2026-08-18T10:36:25.435Z"
+    },
+    "SIN-PR-K340||MAIN WAREHOUSE": {
+      "remark": "Carton dmgd",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:07:01",
+      "lastUpdated": "2026-08-18T10:37:01.547Z"
     }
   },
   "showroomVisits": {
@@ -15807,6 +15814,27 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:10:16",
+      "iso": "2026-08-18T10:40:16.178Z",
+      "action": "updated remark for SLE100A4F at MAIN WAREHOUSE: “Additional 50000 offer”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:08:58",
+      "iso": "2026-08-18T10:38:58.089Z",
+      "action": "updated remark for CAN-TR-325BK at MAIN WAREHOUSE: “Scrap to do”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:07:01",
+      "iso": "2026-08-18T10:37:01.560Z",
+      "action": "updated remark for SIN-PR-K340 at MAIN WAREHOUSE: “Carton dmgd”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "16:08:51",
@@ -16134,27 +16162,6 @@
       "time": "15:50:43",
       "iso": "2026-08-18T10:20:43.460Z",
       "action": "updated remark for MID-DSK38EU5 at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:49:50",
-      "iso": "2026-08-18T10:19:50.239Z",
-      "action": "updated remark for GEO-242D-SV at HINGURAKGODA: “25%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:49:46",
-      "iso": "2026-08-18T10:19:46.991Z",
-      "action": "updated remark for GEO-242D-SV at HINGURAKGODA: “35%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:49:45",
-      "iso": "2026-08-18T10:19:45.786Z",
-      "action": "updated remark for SL-ST550APR-MB at MAIN WAREHOUSE: “Transfer to shops”"
     }
   ]
 }
