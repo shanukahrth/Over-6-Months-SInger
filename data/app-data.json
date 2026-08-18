@@ -11437,6 +11437,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:43:18",
       "lastUpdated": "2026-08-18T06:13:18.785Z"
+    },
+    "SD-8GB||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:43:19",
+      "lastUpdated": "2026-08-18T06:13:19.133Z"
+    },
+    "SD-64GB||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:43:22",
+      "lastUpdated": "2026-08-18T06:13:22.549Z"
     }
   },
   "showroomVisits": {
@@ -11803,6 +11817,20 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:43:22",
+      "iso": "2026-08-18T06:13:22.550Z",
+      "action": "updated remark for SD-64GB at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:43:19",
+      "iso": "2026-08-18T06:13:19.134Z",
+      "action": "updated remark for SD-8GB at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:43:18",
@@ -12137,20 +12165,6 @@
       "time": "11:29:11",
       "iso": "2026-08-18T05:59:11.294Z",
       "action": "updated remark for CAN-B-790-Y at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:29:10",
-      "iso": "2026-08-18T05:59:10.458Z",
-      "action": "updated remark for CAN-B-790-Y at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:29:09",
-      "iso": "2026-08-18T05:59:09.637Z",
-      "action": "updated remark for CAN-B-790-M at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
