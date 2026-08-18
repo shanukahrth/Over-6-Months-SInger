@@ -10907,11 +10907,11 @@
       "lastUpdated": "2026-08-18T05:35:22.391Z"
     },
     "SLE55GENR||TRINCOMALEE B": {
-      "remark": "90% - panel is damaged",
+      "remark": "90% discount for damage unit & no discount for other unit",
       "commentedBy": "Chamal Gunawardena",
       "commentDate": "2026-08-18",
-      "commentTime": "11:18:38",
-      "lastUpdated": "2026-08-18T05:48:38.138Z"
+      "commentTime": "11:19:12",
+      "lastUpdated": "2026-08-18T05:49:12.507Z"
     },
     "SLE43G890||TRINCOMALEE B": {
       "remark": "85% for panel damage one & 70% for other unit , staff member will purchase",
@@ -11420,6 +11420,13 @@
     {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
+      "time": "11:19:12",
+      "iso": "2026-08-18T05:49:12.508Z",
+      "action": "updated remark for SLE55GENR at TRINCOMALEE B: “90% discount for damage unit & no discount for other unit”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
       "time": "11:18:38",
       "iso": "2026-08-18T05:48:38.145Z",
       "action": "updated remark for SLE55GENR at TRINCOMALEE B: “90% - panel is damaged”"
@@ -11759,13 +11766,6 @@
       "time": "11:03:07",
       "iso": "2026-08-18T05:33:07.441Z",
       "action": "updated remark for SLE32D5000 at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:02:44",
-      "iso": "2026-08-18T05:32:44.873Z",
-      "action": "updated remark for SLE100A4F at MAIN WAREHOUSE: “Additional 50000”"
     }
   ]
 }
