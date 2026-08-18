@@ -16729,6 +16729,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "18:24:12",
       "lastUpdated": "2026-08-18T12:54:12.408Z"
+    },
+    "SRS-HG1||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs.",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "18:26:41",
+      "lastUpdated": "2026-08-18T12:56:41.244Z"
     }
   },
   "showroomVisits": {
@@ -17097,6 +17104,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "18:26:41",
+      "iso": "2026-08-18T12:56:41.245Z",
+      "action": "updated remark for SRS-HG1 at MAIN WAREHOUSE: “Discount to Rs.”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "18:24:12",
       "iso": "2026-08-18T12:54:12.409Z",
       "action": "updated remark for DELL-GM-AW610M-DARKMOON at MAIN WAREHOUSE: “Discount to Rs. 8,000”"
@@ -17436,13 +17450,6 @@
       "time": "17:46:08",
       "iso": "2026-08-18T12:16:08.395Z",
       "action": "updated remark for SMG-A06-6-128-BLK at NIVITHIGALA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:46:03",
-      "iso": "2026-08-18T12:16:03.220Z",
-      "action": "updated remark for SMG-A06-4-64-BLK at NIVITHIGALA: “Sellable”"
     }
   ]
 }
