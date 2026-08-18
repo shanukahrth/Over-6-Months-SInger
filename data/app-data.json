@@ -12403,6 +12403,34 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:24:44",
       "lastUpdated": "2026-08-18T06:54:44.420Z"
+    },
+    "SL-SF1607RC||BALANGODA": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:24:52",
+      "lastUpdated": "2026-08-18T06:54:52.240Z"
+    },
+    "FAN-WF1608R||BALANGODA": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:24:46",
+      "lastUpdated": "2026-08-18T06:54:46.072Z"
+    },
+    "SIN-EP170||BALANGODA": {
+      "remark": "15000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:25:07",
+      "lastUpdated": "2026-08-18T06:55:07.744Z"
+    },
+    "WF-JUPITER-05-S||BALANGODA": {
+      "remark": "30000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:25:20",
+      "lastUpdated": "2026-08-18T06:55:20.987Z"
     }
   },
   "showroomVisits": {
@@ -12769,6 +12797,41 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:25:20",
+      "iso": "2026-08-18T06:55:20.992Z",
+      "action": "updated remark for WF-JUPITER-05-S at BALANGODA: “30000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:25:07",
+      "iso": "2026-08-18T06:55:07.750Z",
+      "action": "updated remark for SIN-EP170 at BALANGODA: “15000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:24:52",
+      "iso": "2026-08-18T06:54:52.244Z",
+      "action": "updated remark for SL-SF1607RC at BALANGODA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:24:46",
+      "iso": "2026-08-18T06:54:46.077Z",
+      "action": "updated remark for FAN-WF1608R at BALANGODA: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:24:29",
+      "iso": "2026-08-18T06:54:29.648Z",
+      "action": "updated remark for SL-SF1607RC at BALANGODA: “Sold”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:24:44",
@@ -13082,41 +13145,6 @@
       "time": "12:16:13",
       "iso": "2026-08-18T06:46:13.014Z",
       "action": "updated remark for SL-396GI at MAIN WAREHOUSE: “Physically available”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:15:35",
-      "iso": "2026-08-18T06:45:35.212Z",
-      "action": "updated remark for U-HRW-S11 at MAIN WAREHOUSE: “Defective, scrap”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:15:30",
-      "iso": "2026-08-18T06:45:30.732Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at BALANGODA: “25000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:14:05",
-      "iso": "2026-08-18T06:44:05.310Z",
-      "action": "updated remark for WF-XB700 at BALANGODA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:12:58",
-      "iso": "2026-08-18T06:42:58.798Z",
-      "action": "updated remark for MAS-VU3BWJ at BALANGODA: “1000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:12:31",
-      "iso": "2026-08-18T06:42:31.372Z",
-      "action": "updated remark for SASI24INFI at BALANGODA: “Cleared”"
     }
   ]
 }
