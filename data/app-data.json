@@ -13880,6 +13880,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:13:02",
       "lastUpdated": "2026-08-18T08:43:02.815Z"
+    },
+    "B-HII64200MT||MAIN WAREHOUSE": {
+      "remark": "Transfer to a branded clearance sale",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:13:55",
+      "lastUpdated": "2026-08-18T08:43:55.145Z"
     }
   },
   "showroomVisits": {
@@ -14246,6 +14253,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:13:55",
+      "iso": "2026-08-18T08:43:55.154Z",
+      "action": "updated remark for B-HII64200MT at MAIN WAREHOUSE: “Transfer to a branded clearance sale”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "14:13:02",
@@ -14587,13 +14601,6 @@
       "time": "14:01:30",
       "iso": "2026-08-18T08:31:30.869Z",
       "action": "updated remark for UJB-LB6027 at BALANGODA - B: “3500”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:01:05",
-      "iso": "2026-08-18T08:31:05.702Z",
-      "action": "updated remark for SL-PB-426 at BALANGODA - B: “6000”"
     }
   ]
 }
