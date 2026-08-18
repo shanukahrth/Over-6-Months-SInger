@@ -10170,6 +10170,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:38:58",
       "lastUpdated": "2026-08-18T05:08:58.897Z"
+    },
+    "PN-CS-XU12XKYW-8||TRINCOMALEE": {
+      "remark": "60% - carton damage",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:41:11",
+      "lastUpdated": "2026-08-18T05:11:11.248Z"
     }
   },
   "showroomVisits": {
@@ -10538,6 +10545,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:41:11",
+      "iso": "2026-08-18T05:11:11.249Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at TRINCOMALEE: “60% - carton damage”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:38:58",
       "iso": "2026-08-18T05:08:58.899Z",
       "action": "updated remark for H-RMRG024MFEOE at TRINCOMALEE: “Can sell for the current price”"
@@ -10877,13 +10891,6 @@
       "time": "10:14:55",
       "iso": "2026-08-18T04:44:55.692Z",
       "action": "updated remark for SLE32D1800 at TRINCOMALEE: “Reverts”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:14:36",
-      "iso": "2026-08-18T04:44:36.265Z",
-      "action": "updated remark for PN-TH-32P401N at TRINCOMALEE: “40%”"
     }
   ]
 }
