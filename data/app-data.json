@@ -14419,6 +14419,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:54:38",
       "lastUpdated": "2026-08-18T09:24:38.512Z"
+    },
+    "WP-DEEPWELL||MAIN WAREHOUSE": {
+      "remark": "Packing damage",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:54:43",
+      "lastUpdated": "2026-08-18T09:24:43.395Z"
     }
   },
   "showroomVisits": {
@@ -14787,6 +14794,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:54:43",
+      "iso": "2026-08-18T09:24:43.404Z",
+      "action": "updated remark for WP-DEEPWELL at MAIN WAREHOUSE: “Packing damage”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:54:40",
       "iso": "2026-08-18T09:24:40.357Z",
       "action": "updated remark for WP-2-S at MAIN WAREHOUSE: “Packing damage”"
@@ -15126,13 +15140,6 @@
       "time": "14:42:14",
       "iso": "2026-08-18T09:12:14.255Z",
       "action": "updated remark for H-BD-1054HVOS at MAIN WAREHOUSE: “No carton”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:40:06",
-      "iso": "2026-08-18T09:10:06.345Z",
-      "action": "updated remark for BES-CRS-51 at MAHO: “Damaged - 10%”"
     }
   ]
 }
