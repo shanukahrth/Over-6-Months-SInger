@@ -10716,6 +10716,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:58:37",
       "lastUpdated": "2026-08-18T05:28:37.563Z"
+    },
+    "ULED32D4100||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:59:20",
+      "lastUpdated": "2026-08-18T05:29:20.474Z"
     }
   },
   "showroomVisits": {
@@ -11082,6 +11089,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:59:20",
+      "iso": "2026-08-18T05:29:20.483Z",
+      "action": "updated remark for ULED32D4100 at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "10:58:37",
@@ -11423,13 +11437,6 @@
       "time": "10:49:31",
       "iso": "2026-08-18T05:19:31.287Z",
       "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at TRINCOMALEE: “Displayed - 15%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:46:01",
-      "iso": "2026-08-18T05:16:01.700Z",
-      "action": "updated remark for SMGAR50F19D1J at TRINCOMALEE: “30%”"
     }
   ]
 }
