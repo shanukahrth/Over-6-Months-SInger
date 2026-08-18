@@ -15511,6 +15511,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:17:40",
       "lastUpdated": "2026-08-18T10:47:40.686Z"
+    },
+    "DELL3530-I7-8GB512-SIL||NIKAWERATIYA": {
+      "remark": "Display/Damaged - 10%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:20:21",
+      "lastUpdated": "2026-08-18T10:50:21.085Z"
     }
   },
   "showroomVisits": {
@@ -15877,6 +15884,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "16:20:21",
+      "iso": "2026-08-18T10:50:21.086Z",
+      "action": "updated remark for DELL3530-I7-8GB512-SIL at NIKAWERATIYA: “Display/Damaged - 10%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "16:20:11",
@@ -16218,13 +16232,6 @@
       "time": "16:07:57",
       "iso": "2026-08-18T10:37:57.626Z",
       "action": "updated remark for SLE43G890 at HINGURAKGODA: “60% - Revert”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "16:07:36",
-      "iso": "2026-08-18T10:37:36.812Z",
-      "action": "updated remark for ULED32D4000 at HINGURAKGODA: “70% EOL”"
     }
   ]
 }
