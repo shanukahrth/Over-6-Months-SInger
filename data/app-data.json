@@ -12200,6 +12200,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:16:30",
       "lastUpdated": "2026-08-18T06:46:30.046Z"
+    },
+    "HU-WATCH3-BRW||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:17:12",
+      "lastUpdated": "2026-08-18T06:47:12.036Z"
     }
   },
   "showroomVisits": {
@@ -12566,6 +12573,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:17:12",
+      "iso": "2026-08-18T06:47:12.039Z",
+      "action": "updated remark for HU-WATCH3-BRW at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:16:30",
@@ -12907,13 +12921,6 @@
       "time": "12:04:21",
       "iso": "2026-08-18T06:34:21.815Z",
       "action": "updated remark for SDV3605K at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:04:19",
-      "iso": "2026-08-18T06:34:19.177Z",
-      "action": "updated remark for H-DVDPCKIT at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
