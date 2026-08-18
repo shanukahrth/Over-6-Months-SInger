@@ -10317,6 +10317,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:45:20",
       "lastUpdated": "2026-08-18T05:15:20.168Z"
+    },
+    "SASI48CC||MAIN WAREHOUSE": {
+      "remark": "Transfer to budget shop offer 80%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:33:15",
+      "lastUpdated": "2026-08-18T05:03:15.179Z"
+    },
+    "ULED32D60A||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:45:29",
+      "lastUpdated": "2026-08-18T05:15:29.348Z"
     }
   },
   "showroomVisits": {
@@ -10683,6 +10697,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:45:29",
+      "iso": "2026-08-18T05:15:29.356Z",
+      "action": "updated remark for ULED32D60A at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:33:15",
+      "iso": "2026-08-18T05:03:15.201Z",
+      "action": "updated remark for SASI48CC at MAIN WAREHOUSE: “Transfer to budget shop offer 80%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "10:45:20",
@@ -11017,20 +11045,6 @@
       "time": "10:23:48",
       "iso": "2026-08-18T04:53:48.449Z",
       "action": "updated remark for SMGUA32N4010 at TRINCOMALEE: “Can sell for current discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:23:46",
-      "iso": "2026-08-18T04:53:46.997Z",
-      "action": "updated remark for SLE75G6E at TRINCOMALEE: “Can sell for current discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "10:23:38",
-      "iso": "2026-08-18T04:53:38.259Z",
-      "action": "updated remark for MHC-V13 at PABAHINNA-LITE: “25000”"
     }
   ]
 }
