@@ -14396,8 +14396,8 @@
       "remark": "Packing damage",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "14:53:40",
-      "lastUpdated": "2026-08-18T09:23:40.318Z"
+      "commentTime": "14:54:40",
+      "lastUpdated": "2026-08-18T09:24:40.348Z"
     },
     "WF-OSLO-BL-S||MAHO": {
       "remark": "Damaged - 20%",
@@ -14417,8 +14417,8 @@
       "remark": "Packing damage",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "14:54:33",
-      "lastUpdated": "2026-08-18T09:24:33.164Z"
+      "commentTime": "14:54:38",
+      "lastUpdated": "2026-08-18T09:24:38.512Z"
     }
   },
   "showroomVisits": {
@@ -14787,6 +14787,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:54:40",
+      "iso": "2026-08-18T09:24:40.357Z",
+      "action": "updated remark for WP-2-S at MAIN WAREHOUSE: “Packing damage”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:54:38",
+      "iso": "2026-08-18T09:24:38.522Z",
+      "action": "updated remark for WP-SS-SUB1-S at MAIN WAREHOUSE: “Packing damage”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:54:33",
       "iso": "2026-08-18T09:24:33.174Z",
       "action": "updated remark for WP-SS-SUB1-S at MAIN WAREHOUSE: “Packing damage”"
@@ -15119,20 +15133,6 @@
       "time": "14:40:06",
       "iso": "2026-08-18T09:10:06.345Z",
       "action": "updated remark for BES-CRS-51 at MAHO: “Damaged - 10%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:39:50",
-      "iso": "2026-08-18T09:09:50.285Z",
-      "action": "updated remark for B-HIAG64223SXL at MAHO: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:39:33",
-      "iso": "2026-08-18T09:09:33.874Z",
-      "action": "updated remark for B-HIAG64223SXL at MAHO: “Damaged - 70%”"
     }
   ]
 }
