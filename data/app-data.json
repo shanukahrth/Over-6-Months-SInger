@@ -13306,6 +13306,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:46:56",
       "lastUpdated": "2026-08-18T08:16:56.085Z"
+    },
+    "PF-JAVA-CT-BL-S||BALANGODA - B": {
+      "remark": "60%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:47:00",
+      "lastUpdated": "2026-08-18T08:17:00.571Z"
     }
   },
   "showroomVisits": {
@@ -13674,6 +13681,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:47:00",
+      "iso": "2026-08-18T08:17:00.575Z",
+      "action": "updated remark for PF-JAVA-CT-BL-S at BALANGODA - B: “60%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:46:56",
       "iso": "2026-08-18T08:16:56.090Z",
       "action": "updated remark for PF-RTN-ARMLS-BR-S at BALANGODA - B: “60%”"
@@ -14013,13 +14027,6 @@
       "time": "12:59:22",
       "iso": "2026-08-18T07:29:22.274Z",
       "action": "updated remark for B-RDNI295XIB100P at BALANGODA: “135000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:59:04",
-      "iso": "2026-08-18T07:29:04.554Z",
-      "action": "updated remark for CAN-L-LBP235 at BALANGODA: “Sold”"
     }
   ]
 }
