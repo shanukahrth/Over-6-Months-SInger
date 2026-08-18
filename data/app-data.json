@@ -14839,6 +14839,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:21:02",
       "lastUpdated": "2026-08-18T09:51:02.927Z"
+    },
+    "MID-D15-20EVN1||BALANGODA C": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:21:18",
+      "lastUpdated": "2026-08-18T09:51:18.534Z"
     }
   },
   "showroomVisits": {
@@ -15207,6 +15214,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "15:21:18",
+      "iso": "2026-08-18T09:51:18.541Z",
+      "action": "updated remark for MID-D15-20EVN1 at BALANGODA C: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "15:21:02",
       "iso": "2026-08-18T09:51:02.932Z",
       "action": "updated remark for WB-F65 at BALANGODA C: “Sellable”"
@@ -15546,13 +15560,6 @@
       "time": "15:00:29",
       "iso": "2026-08-18T09:30:29.491Z",
       "action": "updated remark for NCPO-FP280 at BALANGODA C: “30%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "15:00:05",
-      "iso": "2026-08-18T09:30:05.872Z",
-      "action": "updated remark for SMG-WATCH3-45MM-B at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
