@@ -13565,6 +13565,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:00:03",
       "lastUpdated": "2026-08-18T08:30:03.114Z"
+    },
+    "PN-MX-AC210||BALANGODA - B": {
+      "remark": "10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:00:48",
+      "lastUpdated": "2026-08-18T08:30:48.545Z"
     }
   },
   "showroomVisits": {
@@ -13931,6 +13938,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:00:48",
+      "iso": "2026-08-18T08:30:48.550Z",
+      "action": "updated remark for PN-MX-AC210 at BALANGODA - B: “10%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "14:00:03",
@@ -14272,13 +14286,6 @@
       "time": "13:44:45",
       "iso": "2026-08-18T08:14:45.807Z",
       "action": "updated remark for USHA-FS40-13B at BALANGODA - B: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:43:27",
-      "iso": "2026-08-18T08:13:27.191Z",
-      "action": "updated remark for FAN-P-1605H at BALANGODA - B: “15000”"
     }
   ]
 }
