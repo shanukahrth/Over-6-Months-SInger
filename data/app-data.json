@@ -10032,11 +10032,11 @@
       "lastUpdated": "2026-08-18T04:51:49.137Z"
     },
     "SLE43G890||TRINCOMALEE": {
-      "remark": "Revert - 50%",
+      "remark": "Defective - 60%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "10:22:37",
-      "lastUpdated": "2026-08-18T04:52:37.479Z"
+      "commentTime": "10:22:58",
+      "lastUpdated": "2026-08-18T04:52:58.351Z"
     }
   },
   "showroomVisits": {
@@ -10405,6 +10405,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:22:58",
+      "iso": "2026-08-18T04:52:58.352Z",
+      "action": "updated remark for SLE43G890 at TRINCOMALEE: “Defective - 60%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:22:37",
       "iso": "2026-08-18T04:52:37.481Z",
       "action": "updated remark for SLE43G890 at TRINCOMALEE: “Revert - 50%”"
@@ -10744,13 +10751,6 @@
       "time": "09:56:30",
       "iso": "2026-08-18T04:26:30.449Z",
       "action": "updated remark for KV-FPAU5A at MAIN WAREHOUSE: “Discount to Rs.”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:55:53",
-      "iso": "2026-08-18T04:25:53.340Z",
-      "action": "updated remark for KV-FPA-5A at MAIN WAREHOUSE: “Discount to Rs. 250”"
     }
   ]
 }
