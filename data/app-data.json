@@ -12011,6 +12011,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:11:06",
       "lastUpdated": "2026-08-18T06:41:06.993Z"
+    },
+    "TL-WN727N||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:11:22",
+      "lastUpdated": "2026-08-18T06:41:22.995Z"
     }
   },
   "showroomVisits": {
@@ -12377,6 +12384,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:11:22",
+      "iso": "2026-08-18T06:41:22.997Z",
+      "action": "updated remark for TL-WN727N at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:11:06",
@@ -12718,13 +12732,6 @@
       "time": "11:57:18",
       "iso": "2026-08-18T06:27:18.054Z",
       "action": "updated remark for AS-K-12G-I5-512-225-BLK at MELSIRIPURA: “Damaged - 40%”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:56:59",
-      "iso": "2026-08-18T06:26:59.235Z",
-      "action": "updated remark for ACER-515-I3-8GB512-GRY at TRINCOMALEE B: “75% discount as revert long ago”"
     }
   ]
 }
