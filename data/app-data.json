@@ -11073,6 +11073,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:20:42",
       "lastUpdated": "2026-08-18T05:50:42.271Z"
+    },
+    "PB-AHD1160B||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:21:07",
+      "lastUpdated": "2026-08-18T05:51:07.217Z"
     }
   },
   "showroomVisits": {
@@ -11441,6 +11448,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:21:07",
+      "iso": "2026-08-18T05:51:07.221Z",
+      "action": "updated remark for PB-AHD1160B at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:20:42",
       "iso": "2026-08-18T05:50:42.273Z",
       "action": "updated remark for V-MC-303-PG2 at MAIN WAREHOUSE: “Scrap”"
@@ -11780,13 +11794,6 @@
       "time": "11:04:05",
       "iso": "2026-08-18T05:34:05.026Z",
       "action": "updated remark for WF-LEEDS-CT-S at GALEWELA: “Damaged - 75%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:04:35",
-      "iso": "2026-08-18T05:34:35.172Z",
-      "action": "updated remark for ULED43S500 at MAIN WAREHOUSE: “Transfer to shops”"
     }
   ]
 }
