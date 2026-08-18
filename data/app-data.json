@@ -11745,6 +11745,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:57:50",
       "lastUpdated": "2026-08-18T06:27:50.412Z"
+    },
+    "SMGAR50F19D1J||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:58:23",
+      "lastUpdated": "2026-08-18T06:28:23.314Z"
     }
   },
   "showroomVisits": {
@@ -12111,6 +12118,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:58:23",
+      "iso": "2026-08-18T06:28:23.321Z",
+      "action": "updated remark for SMGAR50F19D1J at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "11:57:50",
@@ -12452,13 +12466,6 @@
       "time": "11:46:00",
       "iso": "2026-08-18T06:16:00.114Z",
       "action": "updated remark for VT-EL31109CN at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:45:24",
-      "iso": "2026-08-18T06:15:24.950Z",
-      "action": "updated remark for SASI12INFI at MAIN WAREHOUSE: “Transfer to a shop”"
     }
   ]
 }
