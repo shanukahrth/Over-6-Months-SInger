@@ -13320,6 +13320,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:47:06",
       "lastUpdated": "2026-08-18T08:17:06.350Z"
+    },
+    "WFL-PLWKP-16X24||BALANGODA - B": {
+      "remark": "60%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:47:12",
+      "lastUpdated": "2026-08-18T08:17:12.905Z"
     }
   },
   "showroomVisits": {
@@ -13688,6 +13695,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:47:12",
+      "iso": "2026-08-18T08:17:12.910Z",
+      "action": "updated remark for WFL-PLWKP-16X24 at BALANGODA - B: “60%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:47:06",
       "iso": "2026-08-18T08:17:06.354Z",
       "action": "updated remark for WFL-PLWFB-16X24 at BALANGODA - B: “60%”"
@@ -14027,13 +14041,6 @@
       "time": "13:00:15",
       "iso": "2026-08-18T07:30:15.638Z",
       "action": "updated remark for AES-HAV-30S at BALANGODA: “Damaged”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:59:32",
-      "iso": "2026-08-18T07:29:32.601Z",
-      "action": "updated remark for PN-NR-BG271SSLK at BALANGODA: “130000”"
     }
   ]
 }
