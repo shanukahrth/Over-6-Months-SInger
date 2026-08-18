@@ -10123,9 +10123,24 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-18"
+    },
+    "KANTALAI||DAMBULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-18"
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:55:16",
+      "iso": "2026-08-18T04:25:16.400Z",
+      "action": "updated KANTALAI showroom (visited: Yes)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
@@ -10468,13 +10483,6 @@
       "time": "09:36:53",
       "iso": "2026-08-18T04:06:53.141Z",
       "action": "updated remark for WL-0893106 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:36:46",
-      "iso": "2026-08-18T04:06:46.081Z",
-      "action": "updated remark for X1R-EF at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
