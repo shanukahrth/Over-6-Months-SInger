@@ -14204,11 +14204,11 @@
       "lastUpdated": "2026-08-18T09:13:37.829Z"
     },
     "R-BWS-02||MAHO": {
-      "remark": "Damaged - 15%",
+      "remark": "Damaged - 50%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-18",
-      "commentTime": "14:43:57",
-      "lastUpdated": "2026-08-18T09:13:57.758Z"
+      "commentTime": "14:44:26",
+      "lastUpdated": "2026-08-18T09:14:26.520Z"
     }
   },
   "showroomVisits": {
@@ -14577,6 +14577,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "14:44:26",
+      "iso": "2026-08-18T09:14:26.522Z",
+      "action": "updated remark for R-BWS-02 at MAHO: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:44:25",
+      "iso": "2026-08-18T09:14:25.191Z",
+      "action": "updated remark for R-BWS-02 at MAHO: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "14:43:57",
       "iso": "2026-08-18T09:13:57.759Z",
       "action": "updated remark for R-BWS-02 at MAHO: “Damaged - 15%”"
@@ -14909,20 +14923,6 @@
       "time": "14:16:45",
       "iso": "2026-08-18T08:46:45.956Z",
       "action": "updated remark for SLE32G690 at BALANGODA - B: “Fluctuatiom”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:16:02",
-      "iso": "2026-08-18T08:46:02.280Z",
-      "action": "updated remark for SLE40E810C at BALANGODA - B: “35000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:15:47",
-      "iso": "2026-08-18T08:45:47.484Z",
-      "action": "updated remark for PN-TH-32M402N at BALANGODA - B: “50%”"
     }
   ]
 }
