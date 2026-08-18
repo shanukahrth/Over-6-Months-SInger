@@ -12648,6 +12648,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:37:58",
       "lastUpdated": "2026-08-18T07:07:58.023Z"
+    },
+    "TF-NIK26-045||BALANGODA": {
+      "remark": "12500",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:38:28",
+      "lastUpdated": "2026-08-18T07:08:28.880Z"
+    },
+    "TF-FP24-SCR342||BALANGODA": {
+      "remark": "5000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:38:46",
+      "lastUpdated": "2026-08-18T07:08:46.608Z"
     }
   },
   "showroomVisits": {
@@ -13014,6 +13028,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:38:46",
+      "iso": "2026-08-18T07:08:46.613Z",
+      "action": "updated remark for TF-FP24-SCR342 at BALANGODA: “5000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:38:28",
+      "iso": "2026-08-18T07:08:28.885Z",
+      "action": "updated remark for TF-NIK26-045 at BALANGODA: “12500”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "12:37:58",
@@ -13348,20 +13376,6 @@
       "time": "12:23:04",
       "iso": "2026-08-18T06:53:04.676Z",
       "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at BALANGODA: “Defect”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:23:00",
-      "iso": "2026-08-18T06:53:00.259Z",
-      "action": "updated remark for MSI-14G-I5-512GB-F1M-GRY at BALANGODA: “Defect”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:22:19",
-      "iso": "2026-08-18T06:52:19.527Z",
-      "action": "updated remark for SWM-FA70R at TRINCOMALEE B: “80% discount”"
     }
   ]
 }
