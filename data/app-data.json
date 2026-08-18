@@ -11151,13 +11151,6 @@
       "commentTime": "11:27:15",
       "lastUpdated": "2026-08-18T05:57:15.484Z"
     },
-    "PFI-BHP-050-P||MAIN WAREHOUSE": {
-      "remark": "Scrap",
-      "commentedBy": "Lashini Gamage",
-      "commentDate": "2026-08-18",
-      "commentTime": "11:27:46",
-      "lastUpdated": "2026-08-18T05:57:46.260Z"
-    },
     "CAN-B-790-C||MAIN WAREHOUSE": {
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
@@ -11178,6 +11171,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:27:58",
       "lastUpdated": "2026-08-18T05:57:58.788Z"
+    },
+    "EPSON-B-L3110-CYN||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:28:31",
+      "lastUpdated": "2026-08-18T05:58:31.724Z"
     }
   },
   "showroomVisits": {
@@ -11546,6 +11546,20 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:28:31",
+      "iso": "2026-08-18T05:58:31.726Z",
+      "action": "updated remark for EPSON-B-L3110-CYN at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:28:29",
+      "iso": "2026-08-18T05:58:29.560Z",
+      "action": "updated remark for PFI-BHP-050-P at MAIN WAREHOUSE (cleared)"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:27:58",
       "iso": "2026-08-18T05:57:58.791Z",
       "action": "updated remark for EPSON-B-L130-MGN at MAIN WAREHOUSE: “Scrap”"
@@ -11878,20 +11892,6 @@
       "time": "11:09:52",
       "iso": "2026-08-18T05:39:52.676Z",
       "action": "updated remark for CEL-CB-01M at MAIN WAREHOUSE: “Discount to Rs. 100”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:09:15",
-      "iso": "2026-08-18T05:39:15.942Z",
-      "action": "updated remark for SLE40D4000 at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:08:49",
-      "iso": "2026-08-18T05:38:49.164Z",
-      "action": "updated remark for SMGUA32T4400 at MAIN WAREHOUSE: “Damaged clearance”"
     }
   ]
 }
