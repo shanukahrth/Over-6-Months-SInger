@@ -10144,11 +10144,11 @@
       "lastUpdated": "2026-08-18T05:04:18.445Z"
     },
     "SLE32D5000||TRINCOMALEE B": {
-      "remark": "70% - revert",
+      "remark": "90% - panel is damaged",
       "commentedBy": "Chamal Gunawardena",
       "commentDate": "2026-08-18",
-      "commentTime": "10:35:11",
-      "lastUpdated": "2026-08-18T05:05:11.561Z"
+      "commentTime": "10:38:19",
+      "lastUpdated": "2026-08-18T05:08:19.003Z"
     },
     "SLE32E930||TRINCOMALEE B": {
       "remark": "70% - revert",
@@ -10524,6 +10524,13 @@
     {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
+      "time": "10:38:19",
+      "iso": "2026-08-18T05:08:19.007Z",
+      "action": "updated remark for SLE32D5000 at TRINCOMALEE B: “90% - panel is damaged”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
       "time": "10:35:59",
       "iso": "2026-08-18T05:05:59.687Z",
       "action": "updated remark for SLE32E930 at TRINCOMALEE B: “70% - revert”"
@@ -10863,13 +10870,6 @@
       "time": "10:13:03",
       "iso": "2026-08-18T04:43:03.060Z",
       "action": "updated remark for KD-65X75K at TRINCOMALEE: “45%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:10:18",
-      "iso": "2026-08-18T04:40:18.651Z",
-      "action": "updated remark for KD-55X7500H at TRINCOMALEE: “System exchange required - Branch manager to update”"
     }
   ]
 }
