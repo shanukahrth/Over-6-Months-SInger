@@ -14006,6 +14006,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:29:01",
       "lastUpdated": "2026-08-18T08:59:01.194Z"
+    },
+    "ALU-DPL-STN-6FT-S||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:03",
+      "lastUpdated": "2026-08-18T08:59:03.943Z"
+    },
+    "ALU-CL-5FT-S||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:05",
+      "lastUpdated": "2026-08-18T08:59:05.618Z"
     }
   },
   "showroomVisits": {
@@ -14374,6 +14388,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:29:05",
+      "iso": "2026-08-18T08:59:05.623Z",
+      "action": "updated remark for ALU-CL-5FT-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:03",
+      "iso": "2026-08-18T08:59:03.950Z",
+      "action": "updated remark for ALU-DPL-STN-6FT-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:29:01",
       "iso": "2026-08-18T08:59:01.201Z",
       "action": "updated remark for WFL-SWSTK-L-SRK-S at MAIN WAREHOUSE: “Special attention needed”"
@@ -14706,20 +14734,6 @@
       "time": "14:08:01",
       "iso": "2026-08-18T08:38:01.020Z",
       "action": "updated remark for SIN-RFC-1819 at BALANGODA - B: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:07:07",
-      "iso": "2026-08-18T08:37:07.782Z",
-      "action": "updated remark for PH-BHS675 at BALANGODA - B: “30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:07:40",
-      "iso": "2026-08-18T08:37:40.111Z",
-      "action": "updated remark for ULED32D5000 at POLPITHIGAMA: “Damaged - 50%”"
     }
   ]
 }
