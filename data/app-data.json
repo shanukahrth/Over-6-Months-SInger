@@ -16449,6 +16449,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:42:54",
       "lastUpdated": "2026-08-18T12:12:54.866Z"
+    },
+    "SIN-RFC-2058||NIVITHIGALA": {
+      "remark": "8000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:43:31",
+      "lastUpdated": "2026-08-18T12:13:31.586Z"
     }
   },
   "showroomVisits": {
@@ -16817,6 +16824,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "17:43:31",
+      "iso": "2026-08-18T12:13:31.591Z",
+      "action": "updated remark for SIN-RFC-2058 at NIVITHIGALA: “8000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "17:42:54",
       "iso": "2026-08-18T12:12:54.870Z",
       "action": "updated remark for STT-200K at NIVITHIGALA: “Flat 75%”"
@@ -17156,13 +17170,6 @@
       "time": "17:33:23",
       "iso": "2026-08-18T12:03:23.468Z",
       "action": "updated remark for TF-NIGP26-119 at NIVITHIGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:33:20",
-      "iso": "2026-08-18T12:03:20.904Z",
-      "action": "updated remark for TF-NIFP28-042 at NIVITHIGALA: “30%”"
     }
   ]
 }
