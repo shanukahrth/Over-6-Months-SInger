@@ -13131,6 +13131,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:12:10",
       "lastUpdated": "2026-08-18T07:42:10.535Z"
+    },
+    "SLE32D5000||BALANGODA": {
+      "remark": "19000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:12:30",
+      "lastUpdated": "2026-08-18T07:42:30.839Z"
     }
   },
   "showroomVisits": {
@@ -13499,6 +13506,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:12:30",
+      "iso": "2026-08-18T07:42:30.845Z",
+      "action": "updated remark for SLE32D5000 at BALANGODA: “19000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:12:10",
       "iso": "2026-08-18T07:42:10.541Z",
       "action": "updated remark for SLE42D2070TC at BALANGODA: “5000 report”"
@@ -13838,13 +13852,6 @@
       "time": "12:47:24",
       "iso": "2026-08-18T07:17:24.625Z",
       "action": "updated remark for WFL-SPM-78X60X7-S at TRINCOMALEE B: “50% discount”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:47:19",
-      "iso": "2026-08-18T07:17:19.607Z",
-      "action": "updated remark for LF-ORGN-DTO-WHT at TRINCOMALEE B: “50% discount”"
     }
   ]
 }
