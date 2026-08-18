@@ -11332,6 +11332,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:34:53",
       "lastUpdated": "2026-08-18T06:04:53.961Z"
+    },
+    "CAN-TR-325BK||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:35:27",
+      "lastUpdated": "2026-08-18T06:05:27.592Z"
     }
   },
   "showroomVisits": {
@@ -11698,6 +11705,20 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:35:27",
+      "iso": "2026-08-18T06:05:27.595Z",
+      "action": "updated remark for CAN-TR-325BK at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:35:25",
+      "iso": "2026-08-18T06:05:25.332Z",
+      "action": "updated remark for CAN-TR-325BK at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:34:53",
@@ -12032,20 +12053,6 @@
       "time": "11:25:40",
       "iso": "2026-08-18T05:55:40.743Z",
       "action": "updated remark for TFKW1290714 at MAIN WAREHOUSE: “Discount to Rs. 400”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:24:59",
-      "iso": "2026-08-18T05:54:59.300Z",
-      "action": "updated remark for TFKW2320414 at MAIN WAREHOUSE: “Discount to Rs. 1,250”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:23:44",
-      "iso": "2026-08-18T05:53:44.056Z",
-      "action": "updated remark for TFKW2320414 at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
     }
   ]
 }
