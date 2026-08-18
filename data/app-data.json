@@ -11031,6 +11031,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:16:37",
       "lastUpdated": "2026-08-18T05:46:37.039Z"
+    },
+    "HP-IC-682-BLACK||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:16:55",
+      "lastUpdated": "2026-08-18T05:46:55.667Z"
     }
   },
   "showroomVisits": {
@@ -11397,6 +11404,27 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:16:55",
+      "iso": "2026-08-18T05:46:55.669Z",
+      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:16:53",
+      "iso": "2026-08-18T05:46:53.127Z",
+      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:16:49",
+      "iso": "2026-08-18T05:46:49.774Z",
+      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:16:25",
@@ -11724,27 +11752,6 @@
       "time": "11:03:25",
       "iso": "2026-08-18T05:33:25.096Z",
       "action": "updated remark for WF-DOC-M003-BU-S at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:03:01",
-      "iso": "2026-08-18T05:33:01.296Z",
-      "action": "updated remark for USI-ATC-302 at GALEWELA: “Damaged - 30%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:02:45",
-      "iso": "2026-08-18T05:32:45.633Z",
-      "action": "updated remark for USI-ATC-302 at GALEWELA: “Damaged”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:02:27",
-      "iso": "2026-08-18T05:32:27.379Z",
-      "action": "updated remark for UPRO-12000 at GALEWELA: “Return to Warehouse”"
     }
   ]
 }
