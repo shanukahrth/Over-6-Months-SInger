@@ -10907,11 +10907,11 @@
       "lastUpdated": "2026-08-18T05:35:22.391Z"
     },
     "SLE55GENR||TRINCOMALEE B": {
-      "remark": "90% discount for damage unit & no discount for other unit",
+      "remark": "90% discount",
       "commentedBy": "Chamal Gunawardena",
       "commentDate": "2026-08-18",
-      "commentTime": "11:19:12",
-      "lastUpdated": "2026-08-18T05:49:12.507Z"
+      "commentTime": "11:23:25",
+      "lastUpdated": "2026-08-18T05:53:25.155Z"
     },
     "SLE43G890||TRINCOMALEE B": {
       "remark": "85% for panel damage one & 70% for other unit , staff member will purchase",
@@ -11469,6 +11469,13 @@
     {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
+      "time": "11:23:25",
+      "iso": "2026-08-18T05:53:25.158Z",
+      "action": "updated remark for SLE55GENR at TRINCOMALEE B: “90% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
       "time": "11:23:03",
       "iso": "2026-08-18T05:53:03.117Z",
       "action": "updated remark for PN-TH-32P401N at TRINCOMALEE B: “no additional discount”"
@@ -11808,13 +11815,6 @@
       "time": "11:04:58",
       "iso": "2026-08-18T05:34:58.306Z",
       "action": "updated remark for WF-PRESTON-2D-S at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:05:01",
-      "iso": "2026-08-18T05:35:01.123Z",
-      "action": "updated remark for GPO-PUSHB-WALL at MAIN WAREHOUSE: “Discount to Rs. 2000”"
     }
   ]
 }
