@@ -9939,6 +9939,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:14:11",
       "lastUpdated": "2026-08-18T04:44:11.387Z"
+    },
+    "PN-TH-32P401N||TRINCOMALEE": {
+      "remark": "40%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:14:36",
+      "lastUpdated": "2026-08-18T04:44:36.264Z"
     }
   },
   "showroomVisits": {
@@ -10307,6 +10314,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:14:36",
+      "iso": "2026-08-18T04:44:36.265Z",
+      "action": "updated remark for PN-TH-32P401N at TRINCOMALEE: “40%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:14:11",
       "iso": "2026-08-18T04:44:11.389Z",
       "action": "updated remark for PN-TH-32M402N at TRINCOMALEE: “80% - damaged”"
@@ -10646,13 +10660,6 @@
       "time": "09:51:05",
       "iso": "2026-08-18T04:21:05.568Z",
       "action": "updated remark for KV-FPA-13A at MAIN WAREHOUSE: “Discount to Rs. 200”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:50:58",
-      "iso": "2026-08-18T04:20:58.140Z",
-      "action": "updated remark for KV-FPAU13A at MAIN WAREHOUSE: “1000”"
     }
   ]
 }
