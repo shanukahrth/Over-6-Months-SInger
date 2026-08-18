@@ -10415,6 +10415,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:46:16",
       "lastUpdated": "2026-08-18T05:16:16.076Z"
+    },
+    "SLE40D600A||PABAHINNA-LITE": {
+      "remark": "Return",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:46:50",
+      "lastUpdated": "2026-08-18T05:16:50.476Z"
+    },
+    "SLE43G890||PABAHINNA-LITE": {
+      "remark": "69999",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:47:00",
+      "lastUpdated": "2026-08-18T05:17:00.790Z"
     }
   },
   "showroomVisits": {
@@ -10781,6 +10795,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "10:47:00",
+      "iso": "2026-08-18T05:17:00.796Z",
+      "action": "updated remark for SLE43G890 at PABAHINNA-LITE: “69999”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "10:46:50",
+      "iso": "2026-08-18T05:16:50.482Z",
+      "action": "updated remark for SLE40D600A at PABAHINNA-LITE: “Return”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "10:46:16",
@@ -11115,20 +11143,6 @@
       "time": "10:26:47",
       "iso": "2026-08-18T04:56:47.921Z",
       "action": "updated remark for SASMCD60CRN at MAIN WAREHOUSE: “Transfer to budget shop”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:29:53",
-      "iso": "2026-08-18T04:59:53.945Z",
-      "action": "updated remark for M-SRK24CS-S at TRINCOMALEE: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:28:13",
-      "iso": "2026-08-18T04:58:13.527Z",
-      "action": "updated remark for ULED32D60A at TRINCOMALEE: “Sell at Rs.24,999”"
     }
   ]
 }
