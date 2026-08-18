@@ -15700,6 +15700,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:52:41",
       "lastUpdated": "2026-08-18T11:22:41.137Z"
+    },
+    "WC-IK609||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 500",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:00:26",
+      "lastUpdated": "2026-08-18T11:30:26.353Z"
     }
   },
   "showroomVisits": {
@@ -16068,6 +16075,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "17:00:26",
+      "iso": "2026-08-18T11:30:26.356Z",
+      "action": "updated remark for WC-IK609 at MAIN WAREHOUSE: “Discount to Rs. 500”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "16:55:10",
       "iso": "2026-08-18T11:25:10.682Z",
       "action": "updated remark for HT-AX7 at MAIN WAREHOUSE: “Transfer to shops, Rs.150,000”"
@@ -16407,13 +16421,6 @@
       "time": "16:17:08",
       "iso": "2026-08-18T10:47:08.507Z",
       "action": "updated remark for CEL-A8-HSET at MAIN WAREHOUSE: “Scrap to”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "16:15:04",
-      "iso": "2026-08-18T10:45:04.438Z",
-      "action": "updated remark for IFPSTANDAU at MAIN WAREHOUSE: “Fluctuation with ifpstand-lp”"
     }
   ]
 }
