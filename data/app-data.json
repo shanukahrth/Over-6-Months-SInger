@@ -9519,6 +9519,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:34:17",
       "lastUpdated": "2026-08-18T04:04:17.429Z"
+    },
+    "PCP-COMB3875||NAULA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:34:47",
+      "lastUpdated": "2026-08-18T04:04:47.753Z"
     }
   },
   "showroomVisits": {
@@ -9844,6 +9851,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:34:47",
+      "iso": "2026-08-18T04:04:47.756Z",
+      "action": "updated remark for PCP-COMB3875 at NAULA: “Damaged - 70%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10186,13 +10200,6 @@
       "time": "19:13:42",
       "iso": "2026-08-17T13:43:42.818Z",
       "action": "updated remark for LF-LEO-120-SHW at MUTUR: “Damaged - 80% BM will report it for office use”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:12:21",
-      "iso": "2026-08-17T13:42:21.436Z",
-      "action": "updated remark for LFLCDCHAMP-CHY-S at MUTUR: “Damaged and parts missing (screw)”"
     }
   ]
 }
