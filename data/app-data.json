@@ -10331,6 +10331,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:45:29",
       "lastUpdated": "2026-08-18T05:15:29.348Z"
+    },
+    "SLE40D600A||TRINCOMALEE B": {
+      "remark": "90% - panel is damaged",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:42:25",
+      "lastUpdated": "2026-08-18T05:12:25.902Z"
+    },
+    "SLE43G690||TRINCOMALEE B": {
+      "remark": "90% - panel is damaged",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:45:15",
+      "lastUpdated": "2026-08-18T05:15:15.302Z"
     }
   },
   "showroomVisits": {
@@ -10697,6 +10711,20 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "10:45:15",
+      "iso": "2026-08-18T05:15:15.306Z",
+      "action": "updated remark for SLE43G690 at TRINCOMALEE B: “90% - panel is damaged”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "10:42:25",
+      "iso": "2026-08-18T05:12:25.905Z",
+      "action": "updated remark for SLE40D600A at TRINCOMALEE B: “90% - panel is damaged”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "10:45:29",
@@ -11031,20 +11059,6 @@
       "time": "10:24:16",
       "iso": "2026-08-18T04:54:16.026Z",
       "action": "updated remark for SMGUA55DU7500 at TRINCOMALEE: “Special price 200,000”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:23:58",
-      "iso": "2026-08-18T04:53:58.171Z",
-      "action": "updated remark for SMGUA32N4010 at TRINCOMALEE: “Can sell for current discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:23:48",
-      "iso": "2026-08-18T04:53:48.449Z",
-      "action": "updated remark for SMGUA32N4010 at TRINCOMALEE: “Can sell for current discount”"
     }
   ]
 }
