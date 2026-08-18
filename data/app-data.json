@@ -14195,6 +14195,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:42:32",
       "lastUpdated": "2026-08-18T09:12:32.592Z"
+    },
+    "LF-BUDGET-ST-CLM-S||MAHO": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:43:37",
+      "lastUpdated": "2026-08-18T09:13:37.829Z"
     }
   },
   "showroomVisits": {
@@ -14563,6 +14570,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "14:43:37",
+      "iso": "2026-08-18T09:13:37.830Z",
+      "action": "updated remark for LF-BUDGET-ST-CLM-S at MAHO: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "14:42:32",
       "iso": "2026-08-18T09:12:32.593Z",
       "action": "updated remark for H-CV950F24CDSWR at MAHO: “Damaged - 75%”"
@@ -14902,13 +14916,6 @@
       "time": "14:15:42",
       "iso": "2026-08-18T08:45:42.747Z",
       "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:15:35",
-      "iso": "2026-08-18T08:45:35.687Z",
-      "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide . Send to clearance sale”"
     }
   ]
 }
