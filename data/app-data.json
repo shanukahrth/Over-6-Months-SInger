@@ -12067,6 +12067,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:12:24",
       "lastUpdated": "2026-08-18T06:42:24.819Z"
+    },
+    "SL-157WS||MAIN WAREHOUSE": {
+      "remark": "Physically available",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:13:45",
+      "lastUpdated": "2026-08-18T06:43:45.960Z"
     }
   },
   "showroomVisits": {
@@ -12433,6 +12440,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:13:45",
+      "iso": "2026-08-18T06:43:45.968Z",
+      "action": "updated remark for SL-157WS at MAIN WAREHOUSE: “Physically available”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:12:24",
@@ -12774,13 +12788,6 @@
       "time": "11:59:57",
       "iso": "2026-08-18T06:29:57.841Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-ONG at MELSIRIPURA: “Damaged/Displayed - 35%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "11:59:56",
-      "iso": "2026-08-18T06:29:56.586Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at MELSIRIPURA: “Damaged/Displayed - 35%”"
     }
   ]
 }
