@@ -14183,11 +14183,11 @@
       "lastUpdated": "2026-08-18T09:10:06.344Z"
     },
     "H-BD-1054HVOS||MAIN WAREHOUSE": {
-      "remark": "No carton",
+      "remark": "Send to shops",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "14:42:14",
-      "lastUpdated": "2026-08-18T09:12:14.241Z"
+      "commentTime": "14:45:35",
+      "lastUpdated": "2026-08-18T09:15:35.660Z"
     },
     "H-CV950F24CDSWR||MAHO": {
       "remark": "Damaged - 75%",
@@ -14591,6 +14591,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:45:35",
+      "iso": "2026-08-18T09:15:35.667Z",
+      "action": "updated remark for H-BD-1054HVOS at MAIN WAREHOUSE: “Send to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:45:20",
       "iso": "2026-08-18T09:15:20.050Z",
       "action": "updated remark for SMGWA19CG6886 at MAIN WAREHOUSE: “Send to shops”"
@@ -14929,13 +14936,6 @@
       "date": "2026-08-18",
       "time": "14:17:34",
       "iso": "2026-08-18T08:47:34.429Z",
-      "action": "updated remark for B-CWB6441XN at MAIN WAREHOUSE: “Carton dmgd”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:17:17",
-      "iso": "2026-08-18T08:47:17.127Z",
       "action": "updated remark for B-CWB6441XN at MAIN WAREHOUSE: “Carton dmgd”"
     }
   ]
