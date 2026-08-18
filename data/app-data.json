@@ -16323,6 +16323,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:37:43",
       "lastUpdated": "2026-08-18T12:07:43.116Z"
+    },
+    "SL-INV-305G||WARIYAPOLA": {
+      "remark": "Sold",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:37:55",
+      "lastUpdated": "2026-08-18T12:07:55.378Z"
+    },
+    "SL-ECO251NF||WARIYAPOLA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:38:02",
+      "lastUpdated": "2026-08-18T12:08:02.947Z"
     }
   },
   "showroomVisits": {
@@ -16689,6 +16703,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "17:38:02",
+      "iso": "2026-08-18T12:08:02.951Z",
+      "action": "updated remark for SL-ECO251NF at WARIYAPOLA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "17:37:55",
+      "iso": "2026-08-18T12:07:55.381Z",
+      "action": "updated remark for SL-INV-305G at WARIYAPOLA: “Sold”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "17:37:43",
@@ -17023,20 +17051,6 @@
       "time": "17:30:00",
       "iso": "2026-08-18T12:00:00.532Z",
       "action": "updated remark for WFL-MONACO-12-S at NIVITHIGALA: “Flat 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "17:29:40",
-      "iso": "2026-08-18T11:59:40.243Z",
-      "action": "updated remark for HON-H90-12-512-BLU at WARIYAPOLA: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "17:29:03",
-      "iso": "2026-08-18T11:59:03.948Z",
-      "action": "updated remark for HON-PAD-X7-4-128 at WARIYAPOLA: “20%”"
     }
   ]
 }
