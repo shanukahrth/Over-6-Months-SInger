@@ -13236,6 +13236,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:38:16",
       "lastUpdated": "2026-08-18T08:08:16.195Z"
+    },
+    "HFPA-MUSICBOX-BLC||BALANGODA - B": {
+      "remark": "30000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:38:30",
+      "lastUpdated": "2026-08-18T08:08:30.153Z"
     }
   },
   "showroomVisits": {
@@ -13604,6 +13611,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:38:30",
+      "iso": "2026-08-18T08:08:30.157Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at BALANGODA - B: “30000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:38:16",
       "iso": "2026-08-18T08:08:16.200Z",
       "action": "updated remark for SIN-PSVX938 at BALANGODA - B: “15000”"
@@ -13943,13 +13957,6 @@
       "time": "12:52:11",
       "iso": "2026-08-18T07:22:11.289Z",
       "action": "updated remark for HU-SECURITY at BALANGODA: “Showroom use”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:52:05",
-      "iso": "2026-08-18T07:22:05.832Z",
-      "action": "updated remark for SIN-RFC-2058 at BALANGODA: “10%”"
     }
   ]
 }
