@@ -13098,11 +13098,11 @@
       "lastUpdated": "2026-08-18T07:33:43.112Z"
     },
     "PN-TH-32M402N||BALANGODA": {
-      "remark": "25000",
+      "remark": "39000",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "13:05:02",
-      "lastUpdated": "2026-08-18T07:35:02.008Z"
+      "commentTime": "13:05:15",
+      "lastUpdated": "2026-08-18T07:35:15.558Z"
     }
   },
   "showroomVisits": {
@@ -13471,6 +13471,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:05:15",
+      "iso": "2026-08-18T07:35:15.562Z",
+      "action": "updated remark for PN-TH-32M402N at BALANGODA: “39000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:05:02",
       "iso": "2026-08-18T07:35:02.020Z",
       "action": "updated remark for PN-TH-32M402N at BALANGODA: “25000”"
@@ -13810,13 +13817,6 @@
       "time": "12:45:26",
       "iso": "2026-08-18T07:15:26.751Z",
       "action": "updated remark for STO-EO45C at BALANGODA: “10000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:44:50",
-      "iso": "2026-08-18T07:14:50.631Z",
-      "action": "updated remark for TF-CM-APR737 at BALANGODA: “7000”"
     }
   ]
 }
