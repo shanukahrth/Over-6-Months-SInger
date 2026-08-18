@@ -14321,6 +14321,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:50:40",
       "lastUpdated": "2026-08-18T09:20:40.007Z"
+    },
+    "TF-FP24-SCR342||MAHO": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:51:12",
+      "lastUpdated": "2026-08-18T09:21:12.511Z"
     }
   },
   "showroomVisits": {
@@ -14689,6 +14696,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "14:51:12",
+      "iso": "2026-08-18T09:21:12.512Z",
+      "action": "updated remark for TF-FP24-SCR342 at MAHO: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:51:10",
+      "iso": "2026-08-18T09:21:10.457Z",
+      "action": "updated remark for TF-FP24-SCR342 at MAHO: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "14:50:40",
       "iso": "2026-08-18T09:20:40.008Z",
       "action": "updated remark for TF-CM-APR737 at MAHO: “Damaged - 60%”"
@@ -15021,20 +15042,6 @@
       "time": "14:29:37",
       "iso": "2026-08-18T08:59:37.265Z",
       "action": "updated remark for ALU-SIG002WF003R at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:35",
-      "iso": "2026-08-18T08:59:35.147Z",
-      "action": "updated remark for ALU-SIG002WF003R at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:30",
-      "iso": "2026-08-18T08:59:30.303Z",
-      "action": "updated remark for ALU-DPL-STN-4FT-S at MAIN WAREHOUSE: “Special attention needed”"
     }
   ]
 }
