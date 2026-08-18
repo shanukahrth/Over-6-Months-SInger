@@ -12088,6 +12088,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:13:51",
       "lastUpdated": "2026-08-18T06:43:51.554Z"
+    },
+    "HU-AP32-C||MAIN WAREHOUSE": {
+      "remark": "Defective, scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:14:23",
+      "lastUpdated": "2026-08-18T06:44:23.980Z"
     }
   },
   "showroomVisits": {
@@ -12456,6 +12463,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "12:14:23",
+      "iso": "2026-08-18T06:44:23.981Z",
+      "action": "updated remark for HU-AP32-C at MAIN WAREHOUSE: “Defective, scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "12:13:51",
       "iso": "2026-08-18T06:43:51.556Z",
       "action": "updated remark for HU-FREEBUD-4-WH at MAIN WAREHOUSE: “Scrap”"
@@ -12795,13 +12809,6 @@
       "time": "11:58:56",
       "iso": "2026-08-18T06:28:56.625Z",
       "action": "updated remark for TY-EMCO-100170 at MAIN WAREHOUSE: “Discount to Rs. 125”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:56:52",
-      "iso": "2026-08-18T06:26:52.826Z",
-      "action": "updated remark for VIC-25ML at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
