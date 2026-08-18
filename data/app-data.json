@@ -15072,11 +15072,11 @@
       "lastUpdated": "2026-08-18T10:08:22.640Z"
     },
     "SLE32E930||HINGURAKGODA": {
-      "remark": "70%",
+      "remark": "70%, for penal damage units give 80%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:39:16",
-      "lastUpdated": "2026-08-18T10:09:16.272Z"
+      "commentTime": "15:40:01",
+      "lastUpdated": "2026-08-18T10:10:01.184Z"
     },
     "IWH-2500WL||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 1,000",
@@ -15457,6 +15457,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:40:01",
+      "iso": "2026-08-18T10:10:01.185Z",
+      "action": "updated remark for SLE32E930 at HINGURAKGODA: “70%, for penal damage units give 80%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:39:54",
+      "iso": "2026-08-18T10:09:54.427Z",
+      "action": "updated remark for SLE32E930 at HINGURAKGODA: “70%, for penal damage units give 90%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "15:39:13",
@@ -15791,20 +15805,6 @@
       "time": "15:20:40",
       "iso": "2026-08-18T09:50:40.428Z",
       "action": "updated remark for SLE55GENR at BALANGODA C: “Defect”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:19:40",
-      "iso": "2026-08-18T09:49:40.404Z",
-      "action": "updated remark for PN-TH-55MX740N at BALANGODA C: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:18:43",
-      "iso": "2026-08-18T09:48:43.323Z",
-      "action": "updated remark for PN-TH-65MX740N at BALANGODA C: “10%”"
     }
   ]
 }
