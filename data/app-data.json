@@ -14109,8 +14109,8 @@
       "remark": "Special attention needed",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "14:29:50",
-      "lastUpdated": "2026-08-18T08:59:50.794Z"
+      "commentTime": "14:30:02",
+      "lastUpdated": "2026-08-18T09:00:02.315Z"
     },
     "ALU-DSL-8FT-S||MAIN WAREHOUSE": {
       "remark": "Special attention needed",
@@ -14132,6 +14132,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:29:57",
       "lastUpdated": "2026-08-18T08:59:57.792Z"
+    },
+    "ALU-FOR001WF003L||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:30:00",
+      "lastUpdated": "2026-08-18T09:00:00.519Z"
     }
   },
   "showroomVisits": {
@@ -14500,6 +14507,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:30:02",
+      "iso": "2026-08-18T09:00:02.322Z",
+      "action": "updated remark for ALU-FOR003WF002R at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:30:00",
+      "iso": "2026-08-18T09:00:00.529Z",
+      "action": "updated remark for ALU-FOR001WF003L at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:29:57",
       "iso": "2026-08-18T08:59:57.799Z",
       "action": "updated remark for ALU-FOR003WF001R at MAIN WAREHOUSE: “Special attention needed”"
@@ -14832,20 +14853,6 @@
       "time": "14:13:55",
       "iso": "2026-08-18T08:43:55.154Z",
       "action": "updated remark for B-HII64200MT at MAIN WAREHOUSE: “Transfer to a branded clearance sale”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:13:02",
-      "iso": "2026-08-18T08:43:02.820Z",
-      "action": "updated remark for MC8280 at BALANGODA - B: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:12:32",
-      "iso": "2026-08-18T08:42:32.651Z",
-      "action": "updated remark for DH-XVR1B08H-I at BALANGODA - B: “70%”"
     }
   ]
 }
