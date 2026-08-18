@@ -9687,6 +9687,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:41:22",
       "lastUpdated": "2026-08-18T04:11:22.493Z"
+    },
+    "RAVI-CPPB055RCP||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 250",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:41:30",
+      "lastUpdated": "2026-08-18T04:11:30.355Z"
     }
   },
   "showroomVisits": {
@@ -10012,6 +10019,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:41:30",
+      "iso": "2026-08-18T04:11:30.358Z",
+      "action": "updated remark for RAVI-CPPB055RCP at MAIN WAREHOUSE: “Discount to Rs. 250”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10354,13 +10368,6 @@
       "time": "19:31:32",
       "iso": "2026-08-17T14:01:32.139Z",
       "action": "updated remark for SIN-PSVX938N at MUTUR: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:31:30",
-      "iso": "2026-08-17T14:01:30.155Z",
-      "action": "updated remark for SIN-PSVX938N at MUTUR (cleared)"
     }
   ]
 }
