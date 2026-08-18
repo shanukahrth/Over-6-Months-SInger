@@ -12529,6 +12529,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:31:40",
       "lastUpdated": "2026-08-18T07:01:40.142Z"
+    },
+    "USHA-FS40-13B||TRINCOMALEE B": {
+      "remark": "30% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:31:23",
+      "lastUpdated": "2026-08-18T07:01:23.047Z"
     }
   },
   "showroomVisits": {
@@ -12895,6 +12902,13 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:31:23",
+      "iso": "2026-08-18T07:01:23.049Z",
+      "action": "updated remark for USHA-FS40-13B at TRINCOMALEE B: “30% discount”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:31:40",
@@ -13236,13 +13250,6 @@
       "time": "12:19:45",
       "iso": "2026-08-18T06:49:45.295Z",
       "action": "updated remark for FAN-FS40-10DR at MAIN WAREHOUSE: “Cannot sale due to slsi fail - scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:18:43",
-      "iso": "2026-08-18T06:48:43.465Z",
-      "action": "updated remark for NF755N2 at MAIN WAREHOUSE: “Cannot sale due to slsi fail - scrap”"
     }
   ]
 }
