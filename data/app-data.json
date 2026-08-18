@@ -16463,6 +16463,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:44:00",
       "lastUpdated": "2026-08-18T12:14:00.377Z"
+    },
+    "SIN-RFC-1819||NIVITHIGALA": {
+      "remark": "6000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:44:33",
+      "lastUpdated": "2026-08-18T12:14:33.273Z"
     }
   },
   "showroomVisits": {
@@ -16831,6 +16838,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "17:44:33",
+      "iso": "2026-08-18T12:14:33.282Z",
+      "action": "updated remark for SIN-RFC-1819 at NIVITHIGALA: “6000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "17:44:00",
       "iso": "2026-08-18T12:14:00.384Z",
       "action": "updated remark for PH-NT1120 at NIVITHIGALA: “70%”"
@@ -17170,13 +17184,6 @@
       "time": "17:33:29",
       "iso": "2026-08-18T12:03:29.142Z",
       "action": "updated remark for TF-NIK26-045 at NIVITHIGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:33:26",
-      "iso": "2026-08-18T12:03:26.877Z",
-      "action": "updated remark for TF-NIGP26-119 at NIVITHIGALA: “30%”"
     }
   ]
 }
