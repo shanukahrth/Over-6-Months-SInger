@@ -12074,6 +12074,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:13:45",
       "lastUpdated": "2026-08-18T06:43:45.960Z"
+    },
+    "HU-FREEBUD-4-SIL||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:13:30",
+      "lastUpdated": "2026-08-18T06:43:30.587Z"
     }
   },
   "showroomVisits": {
@@ -12440,6 +12447,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:13:30",
+      "iso": "2026-08-18T06:43:30.589Z",
+      "action": "updated remark for HU-FREEBUD-4-SIL at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "12:13:45",
@@ -12781,13 +12795,6 @@
       "time": "11:51:34",
       "iso": "2026-08-18T06:21:34.116Z",
       "action": "updated remark for SL-GSE-S001 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "11:59:57",
-      "iso": "2026-08-18T06:29:57.841Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-ONG at MELSIRIPURA: “Damaged/Displayed - 35%”"
     }
   ]
 }
