@@ -15119,6 +15119,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:42:42",
       "lastUpdated": "2026-08-18T10:12:42.257Z"
+    },
+    "SL-ST550APR-MB||MAIN WAREHOUSE": {
+      "remark": "Carton dmgd",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:43:14",
+      "lastUpdated": "2026-08-18T10:13:14.317Z"
     }
   },
   "showroomVisits": {
@@ -15485,6 +15492,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:43:14",
+      "iso": "2026-08-18T10:13:14.325Z",
+      "action": "updated remark for SL-ST550APR-MB at MAIN WAREHOUSE: “Carton dmgd”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "15:42:42",
@@ -15826,13 +15840,6 @@
       "time": "15:13:53",
       "iso": "2026-08-18T09:43:53.935Z",
       "action": "updated remark for G-STC3900N at MAIN WAREHOUSE: “Transfer to shop”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:29:21",
-      "iso": "2026-08-18T09:59:21.935Z",
-      "action": "updated remark for SLE24D1000 at HINGURAKGODA: “Defective - Penal damage 90% offered”"
     }
   ]
 }
