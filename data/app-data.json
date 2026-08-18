@@ -10861,8 +10861,8 @@
       "remark": "Transfer to shops",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "11:04:35",
-      "lastUpdated": "2026-08-18T05:34:35.165Z"
+      "commentTime": "11:07:18",
+      "lastUpdated": "2026-08-18T05:37:18.090Z"
     },
     "WF-LEEDS-CT-S||GALEWELA": {
       "remark": "Damaged - 75%",
@@ -10919,6 +10919,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:06:39",
       "lastUpdated": "2026-08-18T05:36:39.282Z"
+    },
+    "TCL65C655||MAIN WAREHOUSE": {
+      "remark": "Used in demo",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:07:27",
+      "lastUpdated": "2026-08-18T05:37:27.895Z"
     }
   },
   "showroomVisits": {
@@ -11285,6 +11292,27 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:07:27",
+      "iso": "2026-08-18T05:37:27.901Z",
+      "action": "updated remark for TCL65C655 at MAIN WAREHOUSE: “Used in demo”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:07:18",
+      "iso": "2026-08-18T05:37:18.124Z",
+      "action": "updated remark for ULED43S500 at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:05:54",
+      "iso": "2026-08-18T05:35:54.962Z",
+      "action": "updated remark for ULED43S500 at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:06:39",
@@ -11612,27 +11640,6 @@
       "time": "10:57:14",
       "iso": "2026-08-18T05:27:14.850Z",
       "action": "updated remark for SIS277CU at GALEWELA: “Damaged- 70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:56:56",
-      "iso": "2026-08-18T05:26:56.032Z",
-      "action": "updated remark for GEO-242D-SV at TRINCOMALEE: “25% - sealed pack”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:56:43",
-      "iso": "2026-08-18T05:26:43.689Z",
-      "action": "updated remark for HON-CH-WATCH-WHT at TRINCOMALEE: “Can sell for the current price”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:56:49",
-      "iso": "2026-08-18T05:26:49.873Z",
-      "action": "updated remark for TCLED24D3100 at MAIN WAREHOUSE: “Discount shop transfer”"
     }
   ]
 }
