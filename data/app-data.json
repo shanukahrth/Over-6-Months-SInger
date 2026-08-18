@@ -10429,6 +10429,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:47:00",
       "lastUpdated": "2026-08-18T05:17:00.790Z"
+    },
+    "PN-TH-32M402N||PABAHINNA-LITE": {
+      "remark": "39999",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:47:19",
+      "lastUpdated": "2026-08-18T05:17:19.190Z"
     }
   },
   "showroomVisits": {
@@ -10797,6 +10804,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "10:47:19",
+      "iso": "2026-08-18T05:17:19.197Z",
+      "action": "updated remark for PN-TH-32M402N at PABAHINNA-LITE: “39999”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "10:47:00",
       "iso": "2026-08-18T05:17:00.796Z",
       "action": "updated remark for SLE43G890 at PABAHINNA-LITE: “69999”"
@@ -11136,13 +11150,6 @@
       "time": "10:30:10",
       "iso": "2026-08-18T05:00:10.987Z",
       "action": "updated remark for M-FDF100VSVD at MAIN WAREHOUSE: “Part issue - cannot sell”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:26:47",
-      "iso": "2026-08-18T04:56:47.921Z",
-      "action": "updated remark for SASMCD60CRN at MAIN WAREHOUSE: “Transfer to budget shop”"
     }
   ]
 }
