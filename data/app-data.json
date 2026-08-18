@@ -13068,6 +13068,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:59:32",
       "lastUpdated": "2026-08-18T07:29:32.596Z"
+    },
+    "AES-HAV-30S||BALANGODA": {
+      "remark": "Damaged",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:00:15",
+      "lastUpdated": "2026-08-18T07:30:15.633Z"
     }
   },
   "showroomVisits": {
@@ -13436,6 +13443,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:00:15",
+      "iso": "2026-08-18T07:30:15.638Z",
+      "action": "updated remark for AES-HAV-30S at BALANGODA: “Damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:59:32",
       "iso": "2026-08-18T07:29:32.601Z",
       "action": "updated remark for PN-NR-BG271SSLK at BALANGODA: “130000”"
@@ -13775,13 +13789,6 @@
       "time": "12:43:17",
       "iso": "2026-08-18T07:13:17.765Z",
       "action": "updated remark for MID-MF-TN40D2 at BALANGODA: “Sold”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:42:50",
-      "iso": "2026-08-18T07:12:50.511Z",
-      "action": "updated remark for ZTE-A55-4-128GB-BLK at TRINCOMALEE B: “40% discount”"
     }
   ]
 }
