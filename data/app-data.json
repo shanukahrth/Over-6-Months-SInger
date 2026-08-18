@@ -9568,6 +9568,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:36:46",
       "lastUpdated": "2026-08-18T04:06:46.078Z"
+    },
+    "WL-0893106||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:36:53",
+      "lastUpdated": "2026-08-18T04:06:53.139Z"
     }
   },
   "showroomVisits": {
@@ -9893,6 +9900,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:36:53",
+      "iso": "2026-08-18T04:06:53.141Z",
+      "action": "updated remark for WL-0893106 at MAIN WAREHOUSE: “Scrap”"
+    },
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
@@ -10235,13 +10249,6 @@
       "time": "19:19:30",
       "iso": "2026-08-17T13:49:30.161Z",
       "action": "updated remark for KA-LW-185A at MUTUR: “60%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:19:00",
-      "iso": "2026-08-17T13:49:00.519Z",
-      "action": "updated remark for KD-50X75K at MUTUR: “40% - Displayed”"
     }
   ]
 }
