@@ -15093,11 +15093,11 @@
       "lastUpdated": "2026-08-18T10:09:13.136Z"
     },
     "SLE32G690||HINGURAKGODA": {
-      "remark": "80% - defective",
+      "remark": "Penal damage - 80%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:41:49",
-      "lastUpdated": "2026-08-18T10:11:49.477Z"
+      "commentTime": "15:42:04",
+      "lastUpdated": "2026-08-18T10:12:04.022Z"
     },
     "QT-MEDIBALL-4KG||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 2,500",
@@ -15473,6 +15473,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:42:04",
+      "iso": "2026-08-18T10:12:04.023Z",
+      "action": "updated remark for SLE32G690 at HINGURAKGODA: “Penal damage - 80%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:41:49",
       "iso": "2026-08-18T10:11:49.480Z",
       "action": "updated remark for SLE32G690 at HINGURAKGODA: “80% - defective”"
@@ -15812,13 +15819,6 @@
       "time": "15:27:34",
       "iso": "2026-08-18T09:57:34.055Z",
       "action": "updated remark for SLE24D1000 at HINGURAKGODA: “Penal damage -”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:26:38",
-      "iso": "2026-08-18T09:56:38.269Z",
-      "action": "updated remark for PN-TH-32M402N at HINGURAKGODA: “1 displayed - 50%, 40% to other 3 Units”"
     }
   ]
 }
