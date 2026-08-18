@@ -10095,11 +10095,11 @@
       "lastUpdated": "2026-08-18T04:56:48.024Z"
     },
     "TCLED32D65A||TRINCOMALEE": {
-      "remark": "50%",
+      "remark": "Revert - 50%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "10:26:43",
-      "lastUpdated": "2026-08-18T04:56:43.251Z"
+      "commentTime": "10:26:52",
+      "lastUpdated": "2026-08-18T04:56:52.233Z"
     }
   },
   "showroomVisits": {
@@ -10468,6 +10468,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:26:52",
+      "iso": "2026-08-18T04:56:52.235Z",
+      "action": "updated remark for TCLED32D65A at TRINCOMALEE: “Revert - 50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:26:48",
       "iso": "2026-08-18T04:56:48.025Z",
       "action": "updated remark for TCLED32D3000 at TRINCOMALEE: “Revert - 50%”"
@@ -10807,13 +10814,6 @@
       "time": "10:01:01",
       "iso": "2026-08-18T04:31:01.979Z",
       "action": "updated remark for SL-ECO72 at MAIN WAREHOUSE: “Transfer to Godagama shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:00:38",
-      "iso": "2026-08-18T04:30:38.179Z",
-      "action": "updated remark for SL-ECO192WR-TG at MAIN WAREHOUSE: “Transfer to Godagama shop”"
     }
   ]
 }
