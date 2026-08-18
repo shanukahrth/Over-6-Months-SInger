@@ -15714,6 +15714,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:01:48",
       "lastUpdated": "2026-08-18T11:31:48.281Z"
+    },
+    "EDU-ADAPTER||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:04:29",
+      "lastUpdated": "2026-08-18T11:34:29.776Z"
     }
   },
   "showroomVisits": {
@@ -16082,6 +16089,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "17:04:29",
+      "iso": "2026-08-18T11:34:29.776Z",
+      "action": "updated remark for EDU-ADAPTER at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "17:01:48",
       "iso": "2026-08-18T11:31:48.282Z",
       "action": "updated remark for WC-IK518 at MAIN WAREHOUSE: “Discount to Rs. 250”"
@@ -16421,13 +16435,6 @@
       "time": "16:17:00",
       "iso": "2026-08-18T10:47:00.596Z",
       "action": "updated remark for ULED32D60A at HINGURAKGODA: “Sell at Rs.24,999”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "16:16:54",
-      "iso": "2026-08-18T10:46:54.571Z",
-      "action": "updated remark for CLOTHLINE-10 at HINGURAKGODA: “will clear them”"
     }
   ]
 }
