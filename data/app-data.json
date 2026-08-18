@@ -10933,6 +10933,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:07:55",
       "lastUpdated": "2026-08-18T05:37:55.845Z"
+    },
+    "CEL-A4-HSET||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:08:22",
+      "lastUpdated": "2026-08-18T05:38:22.816Z"
     }
   },
   "showroomVisits": {
@@ -11299,6 +11306,27 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:08:22",
+      "iso": "2026-08-18T05:38:22.816Z",
+      "action": "updated remark for CEL-A4-HSET at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:08:17",
+      "iso": "2026-08-18T05:38:17.528Z",
+      "action": "updated remark for CEL-A4-HSET at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:08:15",
+      "iso": "2026-08-18T05:38:15.263Z",
+      "action": "updated remark for CEL-A4-HSET at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "11:07:55",
@@ -11626,27 +11654,6 @@
       "time": "10:58:14",
       "iso": "2026-08-18T05:28:14.541Z",
       "action": "updated remark for SLE43G690 at TRINCOMALEE B: “85% - panel is damaged”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "10:58:07",
-      "iso": "2026-08-18T05:28:07.917Z",
-      "action": "updated remark for SLE40D600A at TRINCOMALEE B: “85% - panel is damaged”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "10:58:04",
-      "iso": "2026-08-18T05:28:04.476Z",
-      "action": "updated remark for SLE32D5000 at TRINCOMALEE B: “85% - panel is damaged”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:57:38",
-      "iso": "2026-08-18T05:27:38.466Z",
-      "action": "updated remark for SKY55Q6700G at GALEWELA: “Damaged - 40%”"
     }
   ]
 }
