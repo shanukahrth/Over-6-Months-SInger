@@ -12179,6 +12179,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:16:44",
       "lastUpdated": "2026-08-18T06:46:44.632Z"
+    },
+    "SKY55Q6700G||MELSIRIPURA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:13:32",
+      "lastUpdated": "2026-08-18T06:43:32.673Z"
+    },
+    "SWM-FA70R||MELSIRIPURA": {
+      "remark": "Revert Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:16:14",
+      "lastUpdated": "2026-08-18T06:46:14.124Z"
+    },
+    "SWM-FLRMFG70||MELSIRIPURA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:16:30",
+      "lastUpdated": "2026-08-18T06:46:30.046Z"
     }
   },
   "showroomVisits": {
@@ -12545,6 +12566,27 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:16:30",
+      "iso": "2026-08-18T06:46:30.048Z",
+      "action": "updated remark for SWM-FLRMFG70 at MELSIRIPURA: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:16:14",
+      "iso": "2026-08-18T06:46:14.126Z",
+      "action": "updated remark for SWM-FA70R at MELSIRIPURA: “Revert Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:13:32",
+      "iso": "2026-08-18T06:43:32.674Z",
+      "action": "updated remark for SKY55Q6700G at MELSIRIPURA: “Damaged - 10%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "12:16:44",
@@ -12872,27 +12914,6 @@
       "time": "12:04:19",
       "iso": "2026-08-18T06:34:19.177Z",
       "action": "updated remark for H-DVDPCKIT at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:00:46",
-      "iso": "2026-08-18T06:30:46.170Z",
-      "action": "updated remark for TY-EMCO-101300 at MAIN WAREHOUSE: “Discount to Rs. 250”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:04:14",
-      "iso": "2026-08-18T06:34:14.548Z",
-      "action": "updated remark for H-HRSN9552DDXKH at MELSIRIPURA (cleared)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:04:11",
-      "iso": "2026-08-18T06:34:11.380Z",
-      "action": "updated remark for H-BD-1054HVOS at MELSIRIPURA: “Damaged - 20%”"
     }
   ]
 }
