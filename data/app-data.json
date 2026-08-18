@@ -11829,6 +11829,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:01:15",
       "lastUpdated": "2026-08-18T06:31:15.013Z"
+    },
+    "AES-HAV-30S||MELSIRIPURA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:01:21",
+      "lastUpdated": "2026-08-18T06:31:21.299Z"
+    },
+    "AES-HAV-615T||MELSIRIPURA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:01:23",
+      "lastUpdated": "2026-08-18T06:31:23.247Z"
     }
   },
   "showroomVisits": {
@@ -12195,6 +12209,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:01:23",
+      "iso": "2026-08-18T06:31:23.249Z",
+      "action": "updated remark for AES-HAV-615T at MELSIRIPURA: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:01:21",
+      "iso": "2026-08-18T06:31:21.301Z",
+      "action": "updated remark for AES-HAV-30S at MELSIRIPURA: “Damaged - 30%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "12:01:15",
@@ -12529,20 +12557,6 @@
       "time": "11:50:40",
       "iso": "2026-08-18T06:20:40.297Z",
       "action": "updated remark for SWM-FA70R at TRINCOMALEE: “60% - Damaged but working”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:50:35",
-      "iso": "2026-08-18T06:20:35.643Z",
-      "action": "updated remark for HFPA-GRAVITY-BLC at TRINCOMALEE B: “Rs.24,000/- Special Price”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:50:44",
-      "iso": "2026-08-18T06:20:44.895Z",
-      "action": "updated remark for SAS-18V-INV at MAIN WAREHOUSE: “Transfer to a shop”"
     }
   ]
 }
