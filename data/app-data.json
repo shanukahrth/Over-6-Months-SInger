@@ -14636,6 +14636,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:04:42",
       "lastUpdated": "2026-08-18T09:34:42.762Z"
+    },
+    "KN-SMP01||BALANGODA C": {
+      "remark": "4500",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:06:06",
+      "lastUpdated": "2026-08-18T09:36:06.896Z"
     }
   },
   "showroomVisits": {
@@ -15004,6 +15011,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "15:06:06",
+      "iso": "2026-08-18T09:36:06.908Z",
+      "action": "updated remark for KN-SMP01 at BALANGODA C: “4500”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "15:05:14",
       "iso": "2026-08-18T09:35:14.129Z",
       "action": "updated remark for NCPO-FP280 at BALANGODA C: “10%”"
@@ -15343,13 +15357,6 @@
       "time": "14:54:43",
       "iso": "2026-08-18T09:24:43.404Z",
       "action": "updated remark for WP-DEEPWELL at MAIN WAREHOUSE: “Packing damage”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:54:40",
-      "iso": "2026-08-18T09:24:40.357Z",
-      "action": "updated remark for WP-2-S at MAIN WAREHOUSE: “Packing damage”"
     }
   ]
 }
