@@ -13950,6 +13950,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:17:34",
       "lastUpdated": "2026-08-18T08:47:34.422Z"
+    },
+    "B-HIAG64223SXL||MAIN WAREHOUSE": {
+      "remark": "Carton dmgd",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:17:37",
+      "lastUpdated": "2026-08-18T08:47:37.976Z"
     }
   },
   "showroomVisits": {
@@ -14318,6 +14325,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:17:37",
+      "iso": "2026-08-18T08:47:37.982Z",
+      "action": "updated remark for B-HIAG64223SXL at MAIN WAREHOUSE: “Carton dmgd”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:17:34",
       "iso": "2026-08-18T08:47:34.429Z",
       "action": "updated remark for B-CWB6441XN at MAIN WAREHOUSE: “Carton dmgd”"
@@ -14657,13 +14671,6 @@
       "time": "14:04:28",
       "iso": "2026-08-18T08:34:28.820Z",
       "action": "updated remark for WP-JUN-E-S at POLPITHIGAMA: “Can sell by the 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:04:27",
-      "iso": "2026-08-18T08:34:27.312Z",
-      "action": "updated remark for WP-CHTW-050-S at POLPITHIGAMA: “Can sell by the 31st of Aug”"
     }
   ]
 }
