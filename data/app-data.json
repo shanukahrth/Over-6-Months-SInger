@@ -15364,6 +15364,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:02:03",
       "lastUpdated": "2026-08-18T10:32:03.957Z"
+    },
+    "REGNISCU-8||MAIN WAREHOUSE": {
+      "remark": "Carton dmgd, send to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:02:20",
+      "lastUpdated": "2026-08-18T10:32:20.918Z"
+    },
+    "MCZJ2539AC||MAIN WAREHOUSE": {
+      "remark": "Physically available",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:02:45",
+      "lastUpdated": "2026-08-18T10:32:45.940Z"
     }
   },
   "showroomVisits": {
@@ -15730,6 +15744,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:02:45",
+      "iso": "2026-08-18T10:32:45.959Z",
+      "action": "updated remark for MCZJ2539AC at MAIN WAREHOUSE: “Physically available”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:02:20",
+      "iso": "2026-08-18T10:32:20.931Z",
+      "action": "updated remark for REGNISCU-8 at MAIN WAREHOUSE: “Carton dmgd, send to a shop”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "16:02:03",
@@ -16064,20 +16092,6 @@
       "time": "15:42:49",
       "iso": "2026-08-18T10:12:49.854Z",
       "action": "updated remark for SLE40D4000 at HINGURAKGODA: “Exchange needs to be performed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:42:49",
-      "iso": "2026-08-18T10:12:49.180Z",
-      "action": "updated remark for SLE40D4000 at HINGURAKGODA: “Exhange needs to be performed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:43:14",
-      "iso": "2026-08-18T10:13:14.325Z",
-      "action": "updated remark for SL-ST550APR-MB at MAIN WAREHOUSE: “Carton dmgd”"
     }
   ]
 }
