@@ -14825,6 +14825,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:19:40",
       "lastUpdated": "2026-08-18T09:49:40.399Z"
+    },
+    "SLE55GENR||BALANGODA C": {
+      "remark": "Defect",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:20:40",
+      "lastUpdated": "2026-08-18T09:50:40.424Z"
     }
   },
   "showroomVisits": {
@@ -15193,6 +15200,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "15:20:40",
+      "iso": "2026-08-18T09:50:40.428Z",
+      "action": "updated remark for SLE55GENR at BALANGODA C: “Defect”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "15:19:40",
       "iso": "2026-08-18T09:49:40.404Z",
       "action": "updated remark for PN-TH-55MX740N at BALANGODA C: “10%”"
@@ -15531,13 +15545,6 @@
       "date": "2026-08-18",
       "time": "14:59:41",
       "iso": "2026-08-18T09:29:41.559Z",
-      "action": "updated remark for SMG-WATCH3-41MM-BRW at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "14:59:34",
-      "iso": "2026-08-18T09:29:34.626Z",
       "action": "updated remark for SMG-WATCH3-41MM-BRW at MAIN WAREHOUSE: “Scrap”"
     }
   ]
