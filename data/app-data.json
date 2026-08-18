@@ -12130,6 +12130,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:15:35",
       "lastUpdated": "2026-08-18T06:45:35.210Z"
+    },
+    "SL-396GI||MAIN WAREHOUSE": {
+      "remark": "Physically available",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:16:12",
+      "lastUpdated": "2026-08-18T06:46:12.978Z"
+    },
+    "SL-396GI-EH||MAIN WAREHOUSE": {
+      "remark": "Physically available",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:16:15",
+      "lastUpdated": "2026-08-18T06:46:15.870Z"
+    },
+    "SL-456GI||MAIN WAREHOUSE": {
+      "remark": "Physically available",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:16:19",
+      "lastUpdated": "2026-08-18T06:46:19.089Z"
     }
   },
   "showroomVisits": {
@@ -12496,6 +12517,27 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:16:19",
+      "iso": "2026-08-18T06:46:19.095Z",
+      "action": "updated remark for SL-456GI at MAIN WAREHOUSE: “Physically available”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:16:15",
+      "iso": "2026-08-18T06:46:15.876Z",
+      "action": "updated remark for SL-396GI-EH at MAIN WAREHOUSE: “Physically available”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:16:13",
+      "iso": "2026-08-18T06:46:13.014Z",
+      "action": "updated remark for SL-396GI at MAIN WAREHOUSE: “Physically available”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "12:15:35",
@@ -12823,27 +12865,6 @@
       "time": "12:02:18",
       "iso": "2026-08-18T06:32:18.953Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at MELSIRIPURA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:02:14",
-      "iso": "2026-08-18T06:32:14.117Z",
-      "action": "updated remark for DH-A-HFW1200CLP-IL-A-36B at MELSIRIPURA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:01:23",
-      "iso": "2026-08-18T06:31:23.249Z",
-      "action": "updated remark for AES-HAV-615T at MELSIRIPURA: “Damaged - 30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:01:21",
-      "iso": "2026-08-18T06:31:21.301Z",
-      "action": "updated remark for AES-HAV-30S at MELSIRIPURA: “Damaged - 30%”"
     }
   ]
 }
