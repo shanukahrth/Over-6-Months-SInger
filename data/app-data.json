@@ -13376,6 +13376,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:48:38",
       "lastUpdated": "2026-08-18T08:18:38.605Z"
+    },
+    "WF-PARIS-BR-S||BALANGODA - B": {
+      "remark": "30000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:48:42",
+      "lastUpdated": "2026-08-18T08:18:42.452Z"
     }
   },
   "showroomVisits": {
@@ -13744,6 +13751,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:48:42",
+      "iso": "2026-08-18T08:18:42.457Z",
+      "action": "updated remark for WF-PARIS-BR-S at BALANGODA - B: “30000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:48:38",
       "iso": "2026-08-18T08:18:38.609Z",
       "action": "updated remark for WF-PARIS-BL-S at BALANGODA - B: “30000”"
@@ -14083,13 +14097,6 @@
       "time": "13:05:58",
       "iso": "2026-08-18T07:35:58.143Z",
       "action": "updated remark for SMGUA32N4010 at BALANGODA: “25000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:05:42",
-      "iso": "2026-08-18T07:35:42.475Z",
-      "action": "updated remark for PN-TH-32M401N at BALANGODA: “39000”"
     }
   ]
 }
