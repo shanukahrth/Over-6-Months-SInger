@@ -16260,6 +16260,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:35:48",
       "lastUpdated": "2026-08-18T12:05:48.477Z"
+    },
+    "KA-TXG-DS11A||NIVITHIGALA": {
+      "remark": "Damaged",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:36:27",
+      "lastUpdated": "2026-08-18T12:06:27.454Z"
+    },
+    "SL-SST082||NIVITHIGALA": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:36:31",
+      "lastUpdated": "2026-08-18T12:06:31.449Z"
     }
   },
   "showroomVisits": {
@@ -16626,6 +16640,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "17:36:31",
+      "iso": "2026-08-18T12:06:31.457Z",
+      "action": "updated remark for SL-SST082 at NIVITHIGALA: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "17:36:27",
+      "iso": "2026-08-18T12:06:27.460Z",
+      "action": "updated remark for KA-TXG-DS11A at NIVITHIGALA: “Damaged”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-18",
       "time": "17:35:48",
@@ -16960,20 +16988,6 @@
       "time": "17:27:24",
       "iso": "2026-08-18T11:57:24.039Z",
       "action": "updated remark for LF-ORGN-DTO-WHT at NIVITHIGALA: “Flat 40%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:26:54",
-      "iso": "2026-08-18T11:56:54.023Z",
-      "action": "updated remark for WF-MAYFAIR-TBL-S at NIVITHIGALA: “Flat 60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:26:48",
-      "iso": "2026-08-18T11:56:48.487Z",
-      "action": "updated remark for WF-MAYFAIR-01-CHR-S at NIVITHIGALA: “Flat 60%”"
     }
   ]
 }
