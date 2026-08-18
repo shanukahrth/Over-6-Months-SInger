@@ -12095,6 +12095,34 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:14:23",
       "lastUpdated": "2026-08-18T06:44:23.980Z"
+    },
+    "SASI24INFI||BALANGODA": {
+      "remark": "Cleared",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:12:31",
+      "lastUpdated": "2026-08-18T06:42:31.366Z"
+    },
+    "MAS-VU3BWJ||BALANGODA": {
+      "remark": "1000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:12:58",
+      "lastUpdated": "2026-08-18T06:42:58.793Z"
+    },
+    "WF-XB700||BALANGODA": {
+      "remark": "80%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:14:05",
+      "lastUpdated": "2026-08-18T06:44:05.308Z"
+    },
+    "HFPA-MUSICBOX-BLC||BALANGODA": {
+      "remark": "25000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:15:30",
+      "lastUpdated": "2026-08-18T06:45:30.727Z"
     }
   },
   "showroomVisits": {
@@ -12461,6 +12489,34 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:15:30",
+      "iso": "2026-08-18T06:45:30.732Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at BALANGODA: “25000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:14:05",
+      "iso": "2026-08-18T06:44:05.310Z",
+      "action": "updated remark for WF-XB700 at BALANGODA: “80%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:12:58",
+      "iso": "2026-08-18T06:42:58.798Z",
+      "action": "updated remark for MAS-VU3BWJ at BALANGODA: “1000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:12:31",
+      "iso": "2026-08-18T06:42:31.372Z",
+      "action": "updated remark for SASI24INFI at BALANGODA: “Cleared”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "12:14:23",
@@ -12781,34 +12837,6 @@
       "time": "12:01:15",
       "iso": "2026-08-18T06:31:15.020Z",
       "action": "updated remark for H-RSQG018MFEOE at MAIN WAREHOUSE: “Indoor unit missing”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:00:38",
-      "iso": "2026-08-18T06:30:38.079Z",
-      "action": "updated remark for U-BS8816 at MELSIRIPURA: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:00:36",
-      "iso": "2026-08-18T06:30:36.341Z",
-      "action": "updated remark for U-BS8816 at MELSIRIPURA: “Damaged - 85%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:00:16",
-      "iso": "2026-08-18T06:30:16.833Z",
-      "action": "updated remark for TY-EMCO-1830 at MAIN WAREHOUSE: “Discount to Rs. 250”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:58:56",
-      "iso": "2026-08-18T06:28:56.625Z",
-      "action": "updated remark for TY-EMCO-100170 at MAIN WAREHOUSE: “Discount to Rs. 125”"
     }
   ]
 }
