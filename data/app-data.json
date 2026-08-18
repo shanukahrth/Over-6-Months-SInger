@@ -10863,6 +10863,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:04:35",
       "lastUpdated": "2026-08-18T05:34:35.165Z"
+    },
+    "WF-LEEDS-CT-S||GALEWELA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:04:06",
+      "lastUpdated": "2026-08-18T05:34:06.517Z"
+    },
+    "WF-PARIS-BR-S||GALEWELA": {
+      "remark": "Return to Warehouse",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:04:36",
+      "lastUpdated": "2026-08-18T05:34:36.185Z"
     }
   },
   "showroomVisits": {
@@ -11229,6 +11243,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "11:04:36",
+      "iso": "2026-08-18T05:34:36.186Z",
+      "action": "updated remark for WF-PARIS-BR-S at GALEWELA: “Return to Warehouse”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "11:04:06",
+      "iso": "2026-08-18T05:34:06.519Z",
+      "action": "updated remark for WF-LEEDS-CT-S at GALEWELA: “Damaged - 75%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "11:04:05",
+      "iso": "2026-08-18T05:34:05.026Z",
+      "action": "updated remark for WF-LEEDS-CT-S at GALEWELA: “Damaged - 75%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "11:04:35",
@@ -11556,27 +11591,6 @@
       "time": "10:55:42",
       "iso": "2026-08-18T05:25:42.365Z",
       "action": "updated remark for ULED32D5000 at MAIN WAREHOUSE: “Code difference. Price difference to approve commercial”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:53:40",
-      "iso": "2026-08-18T05:23:40.547Z",
-      "action": "updated remark for SLE32D5000 at MAIN WAREHOUSE: “Code difference. Price difference to approve commercial”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:54:40",
-      "iso": "2026-08-18T05:24:40.589Z",
-      "action": "updated remark for ZTE-A36-2-64GB-BLK at TRINCOMALEE: “30% - displayed”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:54:48",
-      "iso": "2026-08-18T05:24:48.955Z",
-      "action": "updated remark for R-BWS-02 at GALEWELA: “10%”"
     }
   ]
 }
