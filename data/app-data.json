@@ -16428,6 +16428,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:41:19",
       "lastUpdated": "2026-08-18T12:11:19.861Z"
+    },
+    "WF-BALTIC-01-S||WARIYAPOLA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:41:47",
+      "lastUpdated": "2026-08-18T12:11:47.889Z"
     }
   },
   "showroomVisits": {
@@ -16796,6 +16803,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "17:41:47",
+      "iso": "2026-08-18T12:11:47.890Z",
+      "action": "updated remark for WF-BALTIC-01-S at WARIYAPOLA: “Damaged - 75%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "17:41:19",
       "iso": "2026-08-18T12:11:19.863Z",
       "action": "updated remark for UR591SW at WARIYAPOLA: “Damaged - 70%”"
@@ -17134,13 +17148,6 @@
       "date": "2026-08-18",
       "time": "17:33:08",
       "iso": "2026-08-18T12:03:08.816Z",
-      "action": "updated remark for TF-KD24-061 at NIVITHIGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:33:02",
-      "iso": "2026-08-18T12:03:02.536Z",
       "action": "updated remark for TF-KD24-061 at NIVITHIGALA: “30%”"
     }
   ]
