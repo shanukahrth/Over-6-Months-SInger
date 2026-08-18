@@ -10127,13 +10127,20 @@
     "KANTALAI||DAMBULLA": {
       "visited": "Yes",
       "visitDate": "",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-18"
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:55:19",
+      "iso": "2026-08-18T04:25:19.108Z",
+      "action": "updated KANTALAI showroom (team: Chamal and Kaveesha )"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
@@ -10476,13 +10483,6 @@
       "time": "09:36:55",
       "iso": "2026-08-18T04:06:55.597Z",
       "action": "updated remark for WL-089365200 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:36:53",
-      "iso": "2026-08-18T04:06:53.141Z",
-      "action": "updated remark for WL-0893106 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
