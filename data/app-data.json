@@ -11941,6 +11941,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:05:30",
       "lastUpdated": "2026-08-18T06:35:30.769Z"
+    },
+    "LF-OX-BR-M-S||MELSIRIPURA": {
+      "remark": "Displayed/Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:06:09",
+      "lastUpdated": "2026-08-18T06:36:09.880Z"
     }
   },
   "showroomVisits": {
@@ -12309,6 +12316,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "12:06:09",
+      "iso": "2026-08-18T06:36:09.881Z",
+      "action": "updated remark for LF-OX-BR-M-S at MELSIRIPURA: “Displayed/Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "12:05:30",
       "iso": "2026-08-18T06:35:30.770Z",
       "action": "updated remark for HON-BUDS-X6 at MELSIRIPURA: “Free Issue”"
@@ -12648,13 +12662,6 @@
       "time": "11:53:17",
       "iso": "2026-08-18T06:23:17.247Z",
       "action": "updated remark for DELL3530-I5-8GB512-SIL at TRINCOMALEE: “Revert - 30%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:55:12",
-      "iso": "2026-08-18T06:25:12.581Z",
-      "action": "updated remark for SMGAR50F12D0J at MAIN WAREHOUSE: “Indoor unit not available”"
     }
   ]
 }
