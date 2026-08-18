@@ -14216,6 +14216,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:44:39",
       "lastUpdated": "2026-08-18T09:14:39.730Z"
+    },
+    "SMGWA19CG6886||MAIN WAREHOUSE": {
+      "remark": "Send to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:45:20",
+      "lastUpdated": "2026-08-18T09:15:20.020Z"
     }
   },
   "showroomVisits": {
@@ -14582,6 +14589,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:45:20",
+      "iso": "2026-08-18T09:15:20.050Z",
+      "action": "updated remark for SMGWA19CG6886 at MAIN WAREHOUSE: “Send to shops”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "14:44:39",
@@ -14923,13 +14937,6 @@
       "time": "14:17:17",
       "iso": "2026-08-18T08:47:17.127Z",
       "action": "updated remark for B-CWB6441XN at MAIN WAREHOUSE: “Carton dmgd”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:17:04",
-      "iso": "2026-08-18T08:47:04.674Z",
-      "action": "updated remark for TCLED32D65A at BALANGODA - B: “30000”"
     }
   ]
 }
