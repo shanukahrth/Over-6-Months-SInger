@@ -9442,6 +9442,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:26:03",
       "lastUpdated": "2026-08-18T03:56:03.190Z"
+    },
+    "ACER-PJ-X1226AH||NAULA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:26:47",
+      "lastUpdated": "2026-08-18T03:56:47.350Z"
     }
   },
   "showroomVisits": {
@@ -9767,6 +9774,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:26:47",
+      "iso": "2026-08-18T03:56:47.353Z",
+      "action": "updated remark for ACER-PJ-X1226AH at NAULA: “Damaged - 70%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10109,13 +10123,6 @@
       "time": "19:04:30",
       "iso": "2026-08-17T13:34:30.783Z",
       "action": "updated remark for SIH-2057M at MUTUR: “90% - BM will bill it”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:03:05",
-      "iso": "2026-08-17T13:33:05.526Z",
-      "action": "updated remark for SIN-MRG-1008C at MUTUR: “Missing part - BM to comment”"
     }
   ]
 }
