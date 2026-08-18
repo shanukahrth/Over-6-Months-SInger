@@ -13826,11 +13826,11 @@
       "lastUpdated": "2026-08-18T08:41:31.756Z"
     },
     "ENG-UE10054||BALANGODA - B": {
-      "remark": "Exchange",
+      "remark": "Rtn",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "14:11:39",
-      "lastUpdated": "2026-08-18T08:41:39.038Z"
+      "commentTime": "14:11:46",
+      "lastUpdated": "2026-08-18T08:41:46.452Z"
     }
   },
   "showroomVisits": {
@@ -14199,6 +14199,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:11:46",
+      "iso": "2026-08-18T08:41:46.457Z",
+      "action": "updated remark for ENG-UE10054 at BALANGODA - B: “Rtn”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:11:39",
       "iso": "2026-08-18T08:41:39.044Z",
       "action": "updated remark for ENG-UE10054 at BALANGODA - B: “Exchange”"
@@ -14538,13 +14545,6 @@
       "time": "13:58:34",
       "iso": "2026-08-18T08:28:34.005Z",
       "action": "updated remark for TF-CM-APR737 at BALANGODA - B: “8500”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "13:58:53",
-      "iso": "2026-08-18T08:28:53.227Z",
-      "action": "updated remark for SLE32E930 at POLPITHIGAMA: “Can sell by the 31st of Aug”"
     }
   ]
 }
