@@ -15336,6 +15336,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:00:07",
       "lastUpdated": "2026-08-18T10:30:07.746Z"
+    },
+    "SL-VAR-90P-C||MAIN WAREHOUSE": {
+      "remark": "Carton dmgd , transfer to a sale",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:01:04",
+      "lastUpdated": "2026-08-18T10:31:04.319Z"
     }
   },
   "showroomVisits": {
@@ -15704,6 +15711,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "16:01:04",
+      "iso": "2026-08-18T10:31:04.327Z",
+      "action": "updated remark for SL-VAR-90P-C at MAIN WAREHOUSE: “Carton dmgd , transfer to a sale”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "16:00:07",
       "iso": "2026-08-18T10:30:07.762Z",
       "action": "updated remark for SAIL180105 at MAIN WAREHOUSE: “Damaged clearance item”"
@@ -16043,13 +16057,6 @@
       "time": "15:42:04",
       "iso": "2026-08-18T10:12:04.023Z",
       "action": "updated remark for SLE32G690 at HINGURAKGODA: “Penal damage - 80%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:41:49",
-      "iso": "2026-08-18T10:11:49.480Z",
-      "action": "updated remark for SLE32G690 at HINGURAKGODA: “80% - defective”"
     }
   ]
 }
