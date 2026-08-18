@@ -10352,6 +10352,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:45:24",
       "lastUpdated": "2026-08-18T05:15:24.268Z"
+    },
+    "HON-X9C-12-256-PPL||GALEWELA": {
+      "remark": "Return to Warehouse",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:45:39",
+      "lastUpdated": "2026-08-18T05:15:39.723Z"
     }
   },
   "showroomVisits": {
@@ -10720,6 +10727,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "10:45:39",
+      "iso": "2026-08-18T05:15:39.723Z",
+      "action": "updated remark for HON-X9C-12-256-PPL at GALEWELA: “Return to Warehouse”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "10:45:24",
       "iso": "2026-08-18T05:15:24.271Z",
       "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at GALEWELA: “Return to Warehouse”"
@@ -11059,13 +11073,6 @@
       "time": "10:25:14",
       "iso": "2026-08-18T04:55:14.007Z",
       "action": "updated remark for TCL65C655 at TRINCOMALEE: “50% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:25:07",
-      "iso": "2026-08-18T04:55:07.895Z",
-      "action": "updated remark for TCL43S5400 at TRINCOMALEE: “Display damaged - 70%”"
     }
   ]
 }
