@@ -13663,6 +13663,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:04:37",
       "lastUpdated": "2026-08-18T08:34:37.514Z"
+    },
+    "RIYLTA-MF12V51A||BALANGODA - B": {
+      "remark": "Rtn",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:04:45",
+      "lastUpdated": "2026-08-18T08:34:45.365Z"
     }
   },
   "showroomVisits": {
@@ -14031,6 +14038,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:04:45",
+      "iso": "2026-08-18T08:34:45.369Z",
+      "action": "updated remark for RIYLTA-MF12V51A at BALANGODA - B: “Rtn”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:04:42",
       "iso": "2026-08-18T08:34:42.269Z",
       "action": "updated remark for SL-S203 at BALANGODA - B: “9000”"
@@ -14370,13 +14384,6 @@
       "time": "13:50:22",
       "iso": "2026-08-18T08:20:22.831Z",
       "action": "updated remark for LF-MONTN-WD-SHW-S at BALANGODA - B: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:49:09",
-      "iso": "2026-08-18T08:19:09.154Z",
-      "action": "updated remark for WFL-RIO-02-S at BALANGODA - B: “50000”"
     }
   ]
 }
