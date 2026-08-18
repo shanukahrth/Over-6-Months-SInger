@@ -11036,8 +11036,8 @@
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "11:29:14",
-      "lastUpdated": "2026-08-18T05:59:14.225Z"
+      "commentTime": "11:29:56",
+      "lastUpdated": "2026-08-18T05:59:56.863Z"
     },
     "CAN-C-745-B||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -11204,8 +11204,8 @@
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "11:28:39",
-      "lastUpdated": "2026-08-18T05:58:39.480Z"
+      "commentTime": "11:29:53",
+      "lastUpdated": "2026-08-18T05:59:53.520Z"
     },
     "CAN-I-MG2570S||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -11225,8 +11225,8 @@
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "11:29:15",
-      "lastUpdated": "2026-08-18T05:59:15.132Z"
+      "commentTime": "11:29:57",
+      "lastUpdated": "2026-08-18T05:59:57.650Z"
     },
     "CAN-B-790-M||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -11239,8 +11239,8 @@
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "11:29:11",
-      "lastUpdated": "2026-08-18T05:59:11.291Z"
+      "commentTime": "11:29:55",
+      "lastUpdated": "2026-08-18T05:59:55.252Z"
     }
   },
   "showroomVisits": {
@@ -11609,6 +11609,34 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:29:57",
+      "iso": "2026-08-18T05:59:57.652Z",
+      "action": "updated remark for HP-IB-GT52-YELLOW at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:29:56",
+      "iso": "2026-08-18T05:59:56.866Z",
+      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:29:55",
+      "iso": "2026-08-18T05:59:55.255Z",
+      "action": "updated remark for CAN-B-790-Y at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:29:53",
+      "iso": "2026-08-18T05:59:53.521Z",
+      "action": "updated remark for HP-IB-GT52-MAGENTA at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:29:49",
       "iso": "2026-08-18T05:59:49.125Z",
       "action": "updated remark for HP-IB-GT52-CYAN at MAIN WAREHOUSE: “Scrap”"
@@ -11927,34 +11955,6 @@
       "time": "11:17:46",
       "iso": "2026-08-18T05:47:46.482Z",
       "action": "updated remark for CAN-C-745-B at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:17:39",
-      "iso": "2026-08-18T05:47:39.140Z",
-      "action": "updated remark for CAN-C-745-B at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:16:55",
-      "iso": "2026-08-18T05:46:55.669Z",
-      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:16:53",
-      "iso": "2026-08-18T05:46:53.127Z",
-      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:16:49",
-      "iso": "2026-08-18T05:46:49.774Z",
-      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
