@@ -14601,6 +14601,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:00:05",
       "lastUpdated": "2026-08-18T09:30:05.870Z"
+    },
+    "NCPO-FP280||BALANGODA C": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:00:29",
+      "lastUpdated": "2026-08-18T09:30:29.470Z"
+    },
+    "SW-ST19025BLK||BALANGODA C": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:00:32",
+      "lastUpdated": "2026-08-18T09:30:32.346Z"
+    },
+    "MID-MJ-KM6001W||BALANGODA C": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:00:36",
+      "lastUpdated": "2026-08-18T09:30:36.022Z"
     }
   },
   "showroomVisits": {
@@ -14967,6 +14988,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "15:00:36",
+      "iso": "2026-08-18T09:30:36.026Z",
+      "action": "updated remark for MID-MJ-KM6001W at BALANGODA C: “30%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "15:00:32",
+      "iso": "2026-08-18T09:30:32.350Z",
+      "action": "updated remark for SW-ST19025BLK at BALANGODA C: “30%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "15:00:29",
+      "iso": "2026-08-18T09:30:29.491Z",
+      "action": "updated remark for NCPO-FP280 at BALANGODA C: “30%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "15:00:05",
@@ -15294,27 +15336,6 @@
       "time": "14:53:31",
       "iso": "2026-08-18T09:23:31.959Z",
       "action": "updated remark for WF-OSLO-BL-S at MAHO: “Damaged - 20%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:53:40",
-      "iso": "2026-08-18T09:23:40.324Z",
-      "action": "updated remark for WP-2-S at MAIN WAREHOUSE: “Packing damage”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:53:07",
-      "iso": "2026-08-18T09:23:07.872Z",
-      "action": "updated remark for WF-JUPITER-05-S at MAHO: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:52:59",
-      "iso": "2026-08-18T09:22:59.787Z",
-      "action": "updated remark for WF-JUPITER-05-S at MAHO: “Damaged - 80%”"
     }
   ]
 }
