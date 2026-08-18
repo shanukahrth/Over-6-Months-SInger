@@ -14083,6 +14083,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:29:41",
       "lastUpdated": "2026-08-18T08:59:41.006Z"
+    },
+    "ALU-FOR001WF002R||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:44",
+      "lastUpdated": "2026-08-18T08:59:44.231Z"
     }
   },
   "showroomVisits": {
@@ -14451,6 +14458,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:29:44",
+      "iso": "2026-08-18T08:59:44.237Z",
+      "action": "updated remark for ALU-FOR001WF002R at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:29:41",
       "iso": "2026-08-18T08:59:41.013Z",
       "action": "updated remark for ALU-CL-10FT-S at MAIN WAREHOUSE: “Special attention needed”"
@@ -14790,13 +14804,6 @@
       "time": "14:11:46",
       "iso": "2026-08-18T08:41:46.457Z",
       "action": "updated remark for ENG-UE10054 at BALANGODA - B: “Rtn”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:11:39",
-      "iso": "2026-08-18T08:41:39.044Z",
-      "action": "updated remark for ENG-UE10054 at BALANGODA - B: “Exchange”"
     }
   ]
 }
