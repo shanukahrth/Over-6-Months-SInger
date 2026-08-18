@@ -11752,6 +11752,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:58:23",
       "lastUpdated": "2026-08-18T06:28:23.314Z"
+    },
+    "H-RMRG024HFEOE||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:58:56",
+      "lastUpdated": "2026-08-18T06:28:56.174Z"
     }
   },
   "showroomVisits": {
@@ -12120,6 +12127,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:58:56",
+      "iso": "2026-08-18T06:28:56.186Z",
+      "action": "updated remark for H-RMRG024HFEOE at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:58:23",
       "iso": "2026-08-18T06:28:23.321Z",
       "action": "updated remark for SMGAR50F19D1J at MAIN WAREHOUSE: “Transfer to a shop”"
@@ -12458,13 +12472,6 @@
       "date": "2026-08-18",
       "time": "11:46:16",
       "iso": "2026-08-18T06:16:16.094Z",
-      "action": "updated remark for VT-EL31109CN at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:46:00",
-      "iso": "2026-08-18T06:16:00.114Z",
       "action": "updated remark for VT-EL31109CN at MAIN WAREHOUSE: “Scrap”"
     }
   ]
