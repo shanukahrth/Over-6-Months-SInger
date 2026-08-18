@@ -16612,11 +16612,11 @@
       "lastUpdated": "2026-08-18T12:21:22.410Z"
     },
     "SLE43G890||NIVITHIGALA": {
-      "remark": "60%",
+      "remark": "Damaged",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "17:51:30",
-      "lastUpdated": "2026-08-18T12:21:30.936Z"
+      "commentTime": "17:52:42",
+      "lastUpdated": "2026-08-18T12:22:42.110Z"
     },
     "K-OSPRINKLER||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 2,000",
@@ -17006,6 +17006,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "17:52:42",
+      "iso": "2026-08-18T12:22:42.117Z",
+      "action": "updated remark for SLE43G890 at NIVITHIGALA: “Damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "17:52:05",
       "iso": "2026-08-18T12:22:05.105Z",
       "action": "updated remark for SLE32E930 at NIVITHIGALA: “70%”"
@@ -17345,13 +17352,6 @@
       "time": "17:38:19",
       "iso": "2026-08-18T12:08:19.307Z",
       "action": "updated remark for KA-OPTIMA at NIVITHIGALA: “Rtn to WH”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "17:38:02",
-      "iso": "2026-08-18T12:08:02.951Z",
-      "action": "updated remark for SL-ECO251NF at WARIYAPOLA: “Damaged - 85%”"
     }
   ]
 }
