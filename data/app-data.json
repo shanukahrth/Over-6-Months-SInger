@@ -15051,11 +15051,11 @@
       "lastUpdated": "2026-08-18T10:06:53.294Z"
     },
     "TCLED32D3000||HINGURAKGODA": {
-      "remark": "50% - Revert",
+      "remark": "90% - EOL and defective need to send to service center",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:38:02",
-      "lastUpdated": "2026-08-18T10:08:02.055Z"
+      "commentTime": "15:38:46",
+      "lastUpdated": "2026-08-18T10:08:46.826Z"
     },
     "BES-CRS-51||NIKAWARATIYA - B": {
       "remark": "Display - 10%",
@@ -15436,6 +15436,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:38:46",
+      "iso": "2026-08-18T10:08:46.828Z",
+      "action": "updated remark for TCLED32D3000 at HINGURAKGODA: “90% - EOL and defective need to send to service center”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "15:38:22",
@@ -15777,13 +15784,6 @@
       "time": "15:17:12",
       "iso": "2026-08-18T09:47:12.698Z",
       "action": "updated remark for GEO-182S-BU1 at BALANGODA C: “Flat 25%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:16:44",
-      "iso": "2026-08-18T09:46:44.209Z",
-      "action": "updated remark for SL-ECO55-SV at BALANGODA C: “Sellable”"
     }
   ]
 }
