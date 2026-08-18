@@ -10142,6 +10142,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:34:18",
       "lastUpdated": "2026-08-18T05:04:18.445Z"
+    },
+    "SLE32D5000||TRINCOMALEE B": {
+      "remark": "70% - revert",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:35:11",
+      "lastUpdated": "2026-08-18T05:05:11.561Z"
     }
   },
   "showroomVisits": {
@@ -10510,6 +10517,13 @@
     {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
+      "time": "10:35:11",
+      "iso": "2026-08-18T05:05:11.563Z",
+      "action": "updated remark for SLE32D5000 at TRINCOMALEE B: “70% - revert”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
       "time": "10:34:18",
       "iso": "2026-08-18T05:04:18.453Z",
       "action": "updated remark for SLE32D2010TC at TRINCOMALEE B: “60% - not in working condition”"
@@ -10849,13 +10863,6 @@
       "time": "10:02:37",
       "iso": "2026-08-18T04:32:37.668Z",
       "action": "updated remark for B-RDNI295XIB100P at MAIN WAREHOUSE: “Transfer to Godagama shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:02:34",
-      "iso": "2026-08-18T04:32:34.239Z",
-      "action": "updated remark for B-RCNT375E20GB at MAIN WAREHOUSE: “Transfer to Godagama shop”"
     }
   ]
 }
