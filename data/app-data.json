@@ -12774,6 +12774,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:44:35",
       "lastUpdated": "2026-08-18T07:14:35.323Z"
+    },
+    "TF-CM-APR737||BALANGODA": {
+      "remark": "7000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:44:50",
+      "lastUpdated": "2026-08-18T07:14:50.627Z"
     }
   },
   "showroomVisits": {
@@ -13140,6 +13147,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:44:50",
+      "iso": "2026-08-18T07:14:50.631Z",
+      "action": "updated remark for TF-CM-APR737 at BALANGODA: “7000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:44:47",
+      "iso": "2026-08-18T07:14:47.352Z",
+      "action": "updated remark for TF-CM-APR737 at BALANGODA: “7000”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "12:44:35",
@@ -13474,20 +13495,6 @@
       "time": "12:30:17",
       "iso": "2026-08-18T07:00:17.465Z",
       "action": "updated remark for WF-PARIS-BR-S at BALANGODA: “85000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:30:05",
-      "iso": "2026-08-18T07:00:05.503Z",
-      "action": "updated remark for WF-PARIS-BL-S at BALANGODA: “85000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:29:17",
-      "iso": "2026-08-18T06:59:17.641Z",
-      "action": "updated remark for PF-ENVISION-BL-S at BALANGODA: “10%”"
     }
   ]
 }
