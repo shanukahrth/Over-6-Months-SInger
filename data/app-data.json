@@ -14265,6 +14265,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:48:04",
       "lastUpdated": "2026-08-18T09:18:04.172Z"
+    },
+    "SIN-PSVX938N||BALANGODA C": {
+      "remark": "18500",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:48:14",
+      "lastUpdated": "2026-08-18T09:18:14.867Z"
     }
   },
   "showroomVisits": {
@@ -14633,6 +14640,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:48:14",
+      "iso": "2026-08-18T09:18:14.874Z",
+      "action": "updated remark for SIN-PSVX938N at BALANGODA C: “18500”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:48:04",
       "iso": "2026-08-18T09:18:04.176Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at BALANGODA C: “29000”"
@@ -14972,13 +14986,6 @@
       "time": "14:29:01",
       "iso": "2026-08-18T08:59:01.201Z",
       "action": "updated remark for WFL-SWSTK-L-SRK-S at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:28:56",
-      "iso": "2026-08-18T08:58:56.004Z",
-      "action": "updated remark for ALU-DSL-7FT-S at MAIN WAREHOUSE: “Special attention needed”"
     }
   ]
 }
