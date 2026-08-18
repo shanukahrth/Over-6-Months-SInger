@@ -12158,6 +12158,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:16:26",
       "lastUpdated": "2026-08-18T06:46:26.945Z"
+    },
+    "SL-DF420Q-KT||MAIN WAREHOUSE": {
+      "remark": "Physically available",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:16:30",
+      "lastUpdated": "2026-08-18T06:46:30.319Z"
     }
   },
   "showroomVisits": {
@@ -12526,6 +12533,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "12:16:30",
+      "iso": "2026-08-18T06:46:30.325Z",
+      "action": "updated remark for SL-DF420Q-KT at MAIN WAREHOUSE: “Physically available”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "12:16:26",
       "iso": "2026-08-18T06:46:26.951Z",
       "action": "updated remark for SL-DF420Q-CCF at MAIN WAREHOUSE: “Physically available”"
@@ -12865,13 +12879,6 @@
       "time": "12:03:09",
       "iso": "2026-08-18T06:33:09.108Z",
       "action": "updated remark for FAN-P-1605H at MELSIRIPURA: “Revert - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:02:29",
-      "iso": "2026-08-18T06:32:29.071Z",
-      "action": "updated remark for DH-XVR1B08-I-V2 at MELSIRIPURA: “Damaged - 80%”"
     }
   ]
 }
