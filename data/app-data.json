@@ -15173,15 +15173,15 @@
       "remark": "70% EOL",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "16:07:36",
-      "lastUpdated": "2026-08-18T10:37:36.811Z"
+      "commentTime": "16:17:23",
+      "lastUpdated": "2026-08-18T10:47:23.905Z"
     },
     "ULED32D60A||HINGURAKGODA": {
       "remark": "Sell at Rs.24,999",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "16:07:23",
-      "lastUpdated": "2026-08-18T10:37:23.670Z"
+      "commentTime": "16:17:00",
+      "lastUpdated": "2026-08-18T10:47:00.595Z"
     },
     "PN-DH-3JP2WK||MAIN WAREHOUSE": {
       "remark": "Court need check",
@@ -15504,6 +15504,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:15:04",
       "lastUpdated": "2026-08-18T10:45:04.425Z"
+    },
+    "CLOTHLINE-10||HINGURAKGODA": {
+      "remark": "will clear them",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:16:54",
+      "lastUpdated": "2026-08-18T10:46:54.570Z"
     }
   },
   "showroomVisits": {
@@ -15870,6 +15877,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "16:17:23",
+      "iso": "2026-08-18T10:47:23.908Z",
+      "action": "updated remark for ULED32D4000 at HINGURAKGODA: “70% EOL”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "16:17:00",
+      "iso": "2026-08-18T10:47:00.596Z",
+      "action": "updated remark for ULED32D60A at HINGURAKGODA: “Sell at Rs.24,999”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "16:16:54",
+      "iso": "2026-08-18T10:46:54.571Z",
+      "action": "updated remark for CLOTHLINE-10 at HINGURAKGODA: “will clear them”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "16:17:08",
@@ -16196,27 +16224,6 @@
       "date": "2026-08-18",
       "time": "16:04:42",
       "iso": "2026-08-18T10:34:42.854Z",
-      "action": "updated remark for RIYLTA-MF12V53B at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "16:04:39",
-      "iso": "2026-08-18T10:34:39.980Z",
-      "action": "updated remark for RIYLTA-MF12V35A at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "16:04:37",
-      "iso": "2026-08-18T10:34:37.238Z",
-      "action": "updated remark for RIYLTA-MF12V51A at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "16:04:32",
-      "iso": "2026-08-18T10:34:32.949Z",
       "action": "updated remark for RIYLTA-MF12V53B at MAIN WAREHOUSE: “Scrap”"
     }
   ]
