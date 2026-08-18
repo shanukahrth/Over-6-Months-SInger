@@ -10100,6 +10100,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:26:52",
       "lastUpdated": "2026-08-18T04:56:52.233Z"
+    },
+    "ULED32D60A||TRINCOMALEE": {
+      "remark": "Sell at Rs.24,999",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:27:26",
+      "lastUpdated": "2026-08-18T04:57:26.749Z"
     }
   },
   "showroomVisits": {
@@ -10468,6 +10475,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:27:26",
+      "iso": "2026-08-18T04:57:26.751Z",
+      "action": "updated remark for ULED32D60A at TRINCOMALEE: “Sell at Rs.24,999”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:26:52",
       "iso": "2026-08-18T04:56:52.235Z",
       "action": "updated remark for TCLED32D65A at TRINCOMALEE: “Revert - 50%”"
@@ -10807,13 +10821,6 @@
       "time": "10:01:18",
       "iso": "2026-08-18T04:31:18.189Z",
       "action": "updated remark for SL-INV260WR at MAIN WAREHOUSE: “Transfer to Godagama shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:01:01",
-      "iso": "2026-08-18T04:31:01.979Z",
-      "action": "updated remark for SL-ECO72 at MAIN WAREHOUSE: “Transfer to Godagama shop”"
     }
   ]
 }
