@@ -16211,6 +16211,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:34:01",
       "lastUpdated": "2026-08-18T12:04:01.265Z"
+    },
+    "GEO-242D-SV||WARIYAPOLA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:34:13",
+      "lastUpdated": "2026-08-18T12:04:13.399Z"
     }
   },
   "showroomVisits": {
@@ -16579,6 +16586,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "17:34:13",
+      "iso": "2026-08-18T12:04:13.402Z",
+      "action": "updated remark for GEO-242D-SV at WARIYAPOLA: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "17:34:01",
       "iso": "2026-08-18T12:04:01.267Z",
       "action": "updated remark for GEO-182S-BU1 at WARIYAPOLA: “10%”"
@@ -16918,13 +16932,6 @@
       "time": "17:24:39",
       "iso": "2026-08-18T11:54:39.873Z",
       "action": "updated remark for WFI-OF-LOC25ES at NIVITHIGALA: “Flat 50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:24:25",
-      "iso": "2026-08-18T11:54:25.261Z",
-      "action": "updated remark for SIN-EP170 at NIVITHIGALA: “25000”"
     }
   ]
 }
