@@ -16274,6 +16274,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:36:31",
       "lastUpdated": "2026-08-18T12:06:31.449Z"
+    },
+    "LF-BUDGET-ST-AGO-S||WARIYAPOLA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:36:27",
+      "lastUpdated": "2026-08-18T12:06:27.311Z"
+    },
+    "LF-BUDGET-ST-CLM-S||WARIYAPOLA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:36:29",
+      "lastUpdated": "2026-08-18T12:06:29.188Z"
     }
   },
   "showroomVisits": {
@@ -16640,6 +16654,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "17:36:29",
+      "iso": "2026-08-18T12:06:29.189Z",
+      "action": "updated remark for LF-BUDGET-ST-CLM-S at WARIYAPOLA: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "17:36:27",
+      "iso": "2026-08-18T12:06:27.313Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at WARIYAPOLA: “Damaged - 50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "17:36:31",
@@ -16974,20 +17002,6 @@
       "time": "17:27:58",
       "iso": "2026-08-18T11:57:58.711Z",
       "action": "updated remark for LF-ORGN-BSC-WHT at NIVITHIGALA: “Flat 40%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:27:44",
-      "iso": "2026-08-18T11:57:44.082Z",
-      "action": "updated remark for LF-OFI-ST-001-SHW-S at NIVITHIGALA: “Flat 30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:27:24",
-      "iso": "2026-08-18T11:57:24.039Z",
-      "action": "updated remark for LF-ORGN-DTO-WHT at NIVITHIGALA: “Flat 40%”"
     }
   ]
 }
