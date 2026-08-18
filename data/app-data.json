@@ -15142,11 +15142,11 @@
       "lastUpdated": "2026-08-18T10:13:56.951Z"
     },
     "SLE42D2070TC||HINGURAKGODA": {
-      "remark": "Ex",
+      "remark": "Exchange needs to be performed",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:44:16",
-      "lastUpdated": "2026-08-18T10:14:16.291Z"
+      "commentTime": "15:44:39",
+      "lastUpdated": "2026-08-18T10:14:39.134Z"
     }
   },
   "showroomVisits": {
@@ -15515,6 +15515,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:44:39",
+      "iso": "2026-08-18T10:14:39.136Z",
+      "action": "updated remark for SLE42D2070TC at HINGURAKGODA: “Exchange needs to be performed”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:44:16",
       "iso": "2026-08-18T10:14:16.293Z",
       "action": "updated remark for SLE42D2070TC at HINGURAKGODA: “Ex”"
@@ -15854,13 +15861,6 @@
       "time": "15:30:41",
       "iso": "2026-08-18T10:00:41.263Z",
       "action": "updated remark for CUH-1106AB01 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:30:38",
-      "iso": "2026-08-18T10:00:38.499Z",
-      "action": "updated remark for PCAS-02006 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
