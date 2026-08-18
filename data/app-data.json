@@ -14426,6 +14426,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:54:43",
       "lastUpdated": "2026-08-18T09:24:43.395Z"
+    },
+    "WP-WDC11704RG-G||MAHO": {
+      "remark": "Additional - 15%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:54:52",
+      "lastUpdated": "2026-08-18T09:24:52.338Z"
     }
   },
   "showroomVisits": {
@@ -14792,6 +14799,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:54:52",
+      "iso": "2026-08-18T09:24:52.339Z",
+      "action": "updated remark for WP-WDC11704RG-G at MAHO: “Additional - 15%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:54:50",
+      "iso": "2026-08-18T09:24:50.070Z",
+      "action": "updated remark for WP-WDC11704RG-G at MAHO: “Additional - 15%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "14:54:43",
@@ -15126,20 +15147,6 @@
       "time": "14:43:37",
       "iso": "2026-08-18T09:13:37.830Z",
       "action": "updated remark for LF-BUDGET-ST-CLM-S at MAHO: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:42:32",
-      "iso": "2026-08-18T09:12:32.593Z",
-      "action": "updated remark for H-CV950F24CDSWR at MAHO: “Damaged - 75%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:42:14",
-      "iso": "2026-08-18T09:12:14.255Z",
-      "action": "updated remark for H-BD-1054HVOS at MAIN WAREHOUSE: “No carton”"
     }
   ]
 }
