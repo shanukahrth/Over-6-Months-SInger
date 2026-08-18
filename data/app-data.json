@@ -15464,11 +15464,11 @@
       "lastUpdated": "2026-08-18T10:43:42.240Z"
     },
     "WP-WFC105604RT-G||HINGURAKGODA": {
-      "remark": "30% - Disp",
+      "remark": "22.5%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "16:18:29",
-      "lastUpdated": "2026-08-18T10:48:29.612Z"
+      "commentTime": "16:19:21",
+      "lastUpdated": "2026-08-18T10:49:21.348Z"
     },
     "WP-SS-SUB1-S||HINGURAKGODA": {
       "remark": "40% - part missing",
@@ -15893,6 +15893,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "16:19:21",
+      "iso": "2026-08-18T10:49:21.350Z",
+      "action": "updated remark for WP-WFC105604RT-G at HINGURAKGODA: “22.5%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "16:18:57",
       "iso": "2026-08-18T10:48:57.090Z",
       "action": "updated remark for ULED32D4000 at HINGURAKGODA: “70% EOL”"
@@ -16232,13 +16239,6 @@
       "time": "16:06:44",
       "iso": "2026-08-18T10:36:44.694Z",
       "action": "updated remark for SLE24D1000 at HINGURAKGODA: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "16:06:25",
-      "iso": "2026-08-18T10:36:25.437Z",
-      "action": "updated remark for WP-NEO258NF at HINGURAKGODA: “Has been sent to service center 3 times and not fixed yet”"
     }
   ]
 }
