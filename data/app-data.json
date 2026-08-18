@@ -9890,6 +9890,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:01:26",
       "lastUpdated": "2026-08-18T04:31:26.571Z"
+    },
+    "PN-NR-BK468BQKX||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:01:49",
+      "lastUpdated": "2026-08-18T04:31:49.480Z"
     }
   },
   "showroomVisits": {
@@ -10258,6 +10265,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "10:01:49",
+      "iso": "2026-08-18T04:31:49.487Z",
+      "action": "updated remark for PN-NR-BK468BQKX at MAIN WAREHOUSE: “Transfer to Godagama shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "10:01:26",
       "iso": "2026-08-18T04:31:26.578Z",
       "action": "updated remark for PN-NR-BG342DALK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
@@ -10597,13 +10611,6 @@
       "time": "09:45:43",
       "iso": "2026-08-18T04:15:43.883Z",
       "action": "updated remark for RAVI-CPPB058RCP at MAIN WAREHOUSE: “Discount to Rs. 200”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:44:22",
-      "iso": "2026-08-18T04:14:22.699Z",
-      "action": "updated remark for WP-NEO258NF at MAIN WAREHOUSE: “Code difference physical and system count in out needed”"
     }
   ]
 }
