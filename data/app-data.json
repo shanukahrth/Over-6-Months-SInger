@@ -14239,11 +14239,11 @@
       "lastUpdated": "2026-08-18T09:15:37.468Z"
     },
     "SMGWA17CG6886||MAIN WAREHOUSE": {
-      "remark": "Send to shops",
+      "remark": "Send to shops , 2 physically available, count out with 19CG",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "14:46:22",
-      "lastUpdated": "2026-08-18T09:16:22.479Z"
+      "commentTime": "14:47:29",
+      "lastUpdated": "2026-08-18T09:17:29.309Z"
     },
     "SIN-PSVX938N||MAHO": {
       "remark": "Damaged - 40%",
@@ -14619,6 +14619,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:47:29",
+      "iso": "2026-08-18T09:17:29.327Z",
+      "action": "updated remark for SMGWA17CG6886 at MAIN WAREHOUSE: “Send to shops , 2 physically available, count out with 19CG”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:46:55",
       "iso": "2026-08-18T09:16:55.792Z",
       "action": "updated remark for SMGWA19CG6886 at MAIN WAREHOUSE: “Send to shops , fluctuation with 17CG6886”"
@@ -14958,13 +14965,6 @@
       "time": "14:22:15",
       "iso": "2026-08-18T08:52:15.466Z",
       "action": "updated remark for PH-BHS675 at BALANGODA - B: “60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:19:11",
-      "iso": "2026-08-18T08:49:11.516Z",
-      "action": "updated remark for SMGUA32N4010 at BALANGODA - B: “35000”"
     }
   ]
 }
