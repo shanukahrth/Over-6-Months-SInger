@@ -11038,6 +11038,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:16:55",
       "lastUpdated": "2026-08-18T05:46:55.667Z"
+    },
+    "CAN-C-745-B||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:17:39",
+      "lastUpdated": "2026-08-18T05:47:39.138Z"
     }
   },
   "showroomVisits": {
@@ -11406,6 +11413,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:17:39",
+      "iso": "2026-08-18T05:47:39.140Z",
+      "action": "updated remark for CAN-C-745-B at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:16:55",
       "iso": "2026-08-18T05:46:55.669Z",
       "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
@@ -11745,13 +11759,6 @@
       "time": "11:03:45",
       "iso": "2026-08-18T05:33:45.843Z",
       "action": "updated remark for WF-DT-B-BU at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:03:25",
-      "iso": "2026-08-18T05:33:25.096Z",
-      "action": "updated remark for WF-DOC-M003-BU-S at GALEWELA: “Return to Warehouse”"
     }
   ]
 }
