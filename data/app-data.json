@@ -15548,11 +15548,11 @@
       "lastUpdated": "2026-08-18T10:52:54.117Z"
     },
     "PN-SC-UX100GS-K||HINGURAKGODA": {
-      "remark": "40%",
+      "remark": "Transfer",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "16:21:42",
-      "lastUpdated": "2026-08-18T10:51:42.180Z"
+      "commentTime": "16:23:40",
+      "lastUpdated": "2026-08-18T10:53:40.050Z"
     },
     "SIN-MH44SW||HINGURAKGODA": {
       "remark": "85%",
@@ -15996,6 +15996,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "16:23:40",
+      "iso": "2026-08-18T10:53:40.053Z",
+      "action": "updated remark for PN-SC-UX100GS-K at HINGURAKGODA: “Transfer”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "16:23:10",
@@ -16337,13 +16344,6 @@
       "time": "16:01:59",
       "iso": "2026-08-18T10:31:59.705Z",
       "action": "updated remark for SKY32STD1000 at DIYASENAPURA: “90% discount - damage unit”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "16:01:36",
-      "iso": "2026-08-18T10:31:36.161Z",
-      "action": "updated remark for SKY32STD1000 at DIYASENAPURA: “90”"
     }
   ]
 }
