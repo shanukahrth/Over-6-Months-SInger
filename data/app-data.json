@@ -13012,6 +13012,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:56:30",
       "lastUpdated": "2026-08-18T07:26:30.842Z"
+    },
+    "SL-SF1607||MAIN WAREHOUSE": {
+      "remark": "Court",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:57:01",
+      "lastUpdated": "2026-08-18T07:27:01.704Z"
     }
   },
   "showroomVisits": {
@@ -13378,6 +13385,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:57:01",
+      "iso": "2026-08-18T07:27:01.712Z",
+      "action": "updated remark for SL-SF1607 at MAIN WAREHOUSE: “Court”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:56:30",
@@ -13718,13 +13732,6 @@
       "date": "2026-08-18",
       "time": "12:40:07",
       "iso": "2026-08-18T07:10:07.955Z",
-      "action": "updated remark for TF-TW26-064 at BALANGODA: “5000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:40:04",
-      "iso": "2026-08-18T07:10:04.297Z",
       "action": "updated remark for TF-TW26-064 at BALANGODA: “5000”"
     }
   ]
