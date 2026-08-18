@@ -9456,6 +9456,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:27:09",
       "lastUpdated": "2026-08-18T03:57:09.785Z"
+    },
+    "CLOTHLINE-35PVC||NAULA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:27:44",
+      "lastUpdated": "2026-08-18T03:57:44.391Z"
     }
   },
   "showroomVisits": {
@@ -9781,6 +9788,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:27:44",
+      "iso": "2026-08-18T03:57:44.393Z",
+      "action": "updated remark for CLOTHLINE-35PVC at NAULA: “Damaged - 70%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10123,13 +10137,6 @@
       "time": "19:05:05",
       "iso": "2026-08-17T13:35:05.765Z",
       "action": "updated remark for RIYLTA-MF12V53B at MUTUR: “BM will send a memo to scrap”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:04:41",
-      "iso": "2026-08-17T13:34:41.113Z",
-      "action": "updated remark for SDV3605K at MUTUR: “90% - BM will bill it”"
     }
   ]
 }
