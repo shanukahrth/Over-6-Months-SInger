@@ -13537,6 +13537,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:58:53",
       "lastUpdated": "2026-08-18T08:28:53.226Z"
+    },
+    "TF-CM-APR737||BALANGODA - B": {
+      "remark": "8500",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:58:45",
+      "lastUpdated": "2026-08-18T08:28:45.752Z"
+    },
+    "STO-EO30C||BALANGODA - B": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:58:56",
+      "lastUpdated": "2026-08-18T08:28:56.214Z"
+    },
+    "B-FSGT62111DSL||BALANGODA - B": {
+      "remark": "Damaged",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:59:57",
+      "lastUpdated": "2026-08-18T08:29:57.654Z"
     }
   },
   "showroomVisits": {
@@ -13903,6 +13924,34 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "13:59:57",
+      "iso": "2026-08-18T08:29:57.680Z",
+      "action": "updated remark for B-FSGT62111DSL at BALANGODA - B: “Damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "13:58:56",
+      "iso": "2026-08-18T08:28:56.219Z",
+      "action": "updated remark for STO-EO30C at BALANGODA - B: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "13:58:45",
+      "iso": "2026-08-18T08:28:45.757Z",
+      "action": "updated remark for TF-CM-APR737 at BALANGODA - B: “8500”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "13:58:34",
+      "iso": "2026-08-18T08:28:34.005Z",
+      "action": "updated remark for TF-CM-APR737 at BALANGODA - B: “8500”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "13:58:53",
@@ -14223,34 +14272,6 @@
       "time": "13:43:17",
       "iso": "2026-08-18T08:13:17.485Z",
       "action": "updated remark for FAN-P-1605H at BALANGODA - B: “1”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:43:05",
-      "iso": "2026-08-18T08:13:05.296Z",
-      "action": "updated remark for FAN-P-1605H at BALANGODA - B: “15000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:42:33",
-      "iso": "2026-08-18T08:12:33.400Z",
-      "action": "updated remark for FAN-P-1605H at BALANGODA - B: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:41:22",
-      "iso": "2026-08-18T08:11:22.308Z",
-      "action": "updated remark for FAN-P-SF1605HR at BALANGODA - B: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:41:15",
-      "iso": "2026-08-18T08:11:15.749Z",
-      "action": "updated remark for FAN-P-SF1605HR at BALANGODA - B: “Sellable”"
     }
   ]
 }
