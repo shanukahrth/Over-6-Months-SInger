@@ -15126,6 +15126,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:43:14",
       "lastUpdated": "2026-08-18T10:13:14.317Z"
+    },
+    "SLE40D4000||HINGURAKGODA": {
+      "remark": "Exchange needs to be performed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:42:49",
+      "lastUpdated": "2026-08-18T10:12:49.853Z"
+    },
+    "SLE40D600A||HINGURAKGODA": {
+      "remark": "50% Can sell (Parts missing)",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:43:56",
+      "lastUpdated": "2026-08-18T10:13:56.951Z"
     }
   },
   "showroomVisits": {
@@ -15492,6 +15506,41 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:43:56",
+      "iso": "2026-08-18T10:13:56.952Z",
+      "action": "updated remark for SLE40D600A at HINGURAKGODA: “50% Can sell (Parts missing)”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:43:53",
+      "iso": "2026-08-18T10:13:53.576Z",
+      "action": "updated remark for SLE40D600A at HINGURAKGODA: “50% Can sell (Parts missing )”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:43:51",
+      "iso": "2026-08-18T10:13:51.340Z",
+      "action": "updated remark for SLE40D600A at HINGURAKGODA: “50% Can sell ( Parts missing )”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:42:49",
+      "iso": "2026-08-18T10:12:49.854Z",
+      "action": "updated remark for SLE40D4000 at HINGURAKGODA: “Exchange needs to be performed”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:42:49",
+      "iso": "2026-08-18T10:12:49.180Z",
+      "action": "updated remark for SLE40D4000 at HINGURAKGODA: “Exhange needs to be performed”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "15:43:14",
@@ -15805,41 +15854,6 @@
       "time": "15:30:35",
       "iso": "2026-08-18T10:00:35.955Z",
       "action": "updated remark for CUH-2006AB01 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:30:29",
-      "iso": "2026-08-18T10:00:29.402Z",
-      "action": "updated remark for CUH-ZVR1H-CA at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:29:59",
-      "iso": "2026-08-18T09:59:59.008Z",
-      "action": "updated remark for PCAS-02004 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:29:09",
-      "iso": "2026-08-18T09:59:09.512Z",
-      "action": "updated remark for PCAS-02008 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:14:05",
-      "iso": "2026-08-18T09:44:05.826Z",
-      "action": "updated remark for G-STC1200N at MAIN WAREHOUSE: “Transfer to shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:13:53",
-      "iso": "2026-08-18T09:43:53.935Z",
-      "action": "updated remark for G-STC3900N at MAIN WAREHOUSE: “Transfer to shop”"
     }
   ]
 }
