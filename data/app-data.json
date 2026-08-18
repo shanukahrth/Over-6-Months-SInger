@@ -10802,11 +10802,11 @@
       "lastUpdated": "2026-08-18T05:32:27.377Z"
     },
     "USI-ATC-302||GALEWELA": {
-      "remark": "Damaged",
+      "remark": "Damaged - 30%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-18",
-      "commentTime": "11:02:45",
-      "lastUpdated": "2026-08-18T05:32:45.629Z"
+      "commentTime": "11:03:01",
+      "lastUpdated": "2026-08-18T05:33:01.290Z"
     }
   },
   "showroomVisits": {
@@ -11175,6 +11175,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "11:03:01",
+      "iso": "2026-08-18T05:33:01.296Z",
+      "action": "updated remark for USI-ATC-302 at GALEWELA: “Damaged - 30%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "11:02:45",
       "iso": "2026-08-18T05:32:45.633Z",
       "action": "updated remark for USI-ATC-302 at GALEWELA: “Damaged”"
@@ -11514,13 +11521,6 @@
       "time": "10:53:05",
       "iso": "2026-08-18T05:23:05.807Z",
       "action": "updated remark for MHC-V13 at GALEWELA: “Damaged - 80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:52:58",
-      "iso": "2026-08-18T05:22:58.832Z",
-      "action": "updated remark for MHC-V13 at GALEWELA: “Sold”"
     }
   ]
 }
