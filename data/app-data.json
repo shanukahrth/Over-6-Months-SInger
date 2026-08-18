@@ -13075,6 +13075,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:00:15",
       "lastUpdated": "2026-08-18T07:30:15.633Z"
+    },
+    "UPS-N650||BALANGODA": {
+      "remark": "10000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:00:33",
+      "lastUpdated": "2026-08-18T07:30:33.174Z"
     }
   },
   "showroomVisits": {
@@ -13443,6 +13450,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:00:33",
+      "iso": "2026-08-18T07:30:33.178Z",
+      "action": "updated remark for UPS-N650 at BALANGODA: “10000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:00:15",
       "iso": "2026-08-18T07:30:15.638Z",
       "action": "updated remark for AES-HAV-30S at BALANGODA: “Damaged”"
@@ -13782,13 +13796,6 @@
       "time": "12:43:56",
       "iso": "2026-08-18T07:13:56.272Z",
       "action": "updated remark for KA-LW-185A at BALANGODA: “3000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:43:17",
-      "iso": "2026-08-18T07:13:17.765Z",
-      "action": "updated remark for MID-MF-TN40D2 at BALANGODA: “Sold”"
     }
   ]
 }
