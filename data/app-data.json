@@ -16253,6 +16253,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:35:23",
       "lastUpdated": "2026-08-18T12:05:23.899Z"
+    },
+    "LF-BUDGET-DT-CRW-S||WARIYAPOLA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:35:48",
+      "lastUpdated": "2026-08-18T12:05:48.477Z"
     }
   },
   "showroomVisits": {
@@ -16621,6 +16628,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "17:35:48",
+      "iso": "2026-08-18T12:05:48.479Z",
+      "action": "updated remark for LF-BUDGET-DT-CRW-S at WARIYAPOLA: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "17:35:23",
       "iso": "2026-08-18T12:05:23.903Z",
       "action": "updated remark for HON-CH-WATCH-2I-WH at WARIYAPOLA: “Can sell by 31st of Aug”"
@@ -16960,13 +16974,6 @@
       "time": "17:26:48",
       "iso": "2026-08-18T11:56:48.487Z",
       "action": "updated remark for WF-MAYFAIR-01-CHR-S at NIVITHIGALA: “Flat 60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:26:00",
-      "iso": "2026-08-18T11:56:00.623Z",
-      "action": "updated remark for WF-CLASSIC-BL-S at NIVITHIGALA: “Flat 50%”"
     }
   ]
 }
