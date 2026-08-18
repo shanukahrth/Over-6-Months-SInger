@@ -16113,6 +16113,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:32:42",
       "lastUpdated": "2026-08-18T12:02:42.248Z"
+    },
+    "TF-FP24-SCR342||NIVITHIGALA": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:32:59",
+      "lastUpdated": "2026-08-18T12:02:59.825Z"
+    },
+    "TF-KD24-061||NIVITHIGALA": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:33:02",
+      "lastUpdated": "2026-08-18T12:03:02.529Z"
     }
   },
   "showroomVisits": {
@@ -16479,6 +16493,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "17:33:02",
+      "iso": "2026-08-18T12:03:02.536Z",
+      "action": "updated remark for TF-KD24-061 at NIVITHIGALA: “30%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "17:32:59",
+      "iso": "2026-08-18T12:02:59.835Z",
+      "action": "updated remark for TF-FP24-SCR342 at NIVITHIGALA: “30%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-18",
       "time": "17:32:42",
@@ -16813,20 +16841,6 @@
       "time": "17:09:38",
       "iso": "2026-08-18T11:39:38.919Z",
       "action": "updated remark for PH-EH-ND11-A685 at MAIN WAREHOUSE: “Discount 50%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "17:09:26",
-      "iso": "2026-08-18T11:39:26.262Z",
-      "action": "updated remark for SIN-QS-8306 at MAIN WAREHOUSE: “Discount 50%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "17:09:25",
-      "iso": "2026-08-18T11:39:25.409Z",
-      "action": "updated remark for SIN-RFC-1819 at MAIN WAREHOUSE: “Discount 50%”"
     }
   ]
 }
