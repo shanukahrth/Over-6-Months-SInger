@@ -10884,6 +10884,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:04:43",
       "lastUpdated": "2026-08-18T05:34:43.985Z"
+    },
+    "GPO-PUSHB-WALL||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 2000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:04:46",
+      "lastUpdated": "2026-08-18T05:34:46.155Z"
     }
   },
   "showroomVisits": {
@@ -11250,6 +11257,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:04:46",
+      "iso": "2026-08-18T05:34:46.155Z",
+      "action": "updated remark for GPO-PUSHB-WALL at MAIN WAREHOUSE: “Discount to Rs. 2000”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:04:43",
@@ -11591,13 +11605,6 @@
       "time": "10:55:51",
       "iso": "2026-08-18T05:25:51.908Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at TRINCOMALEE: “Can sell for the current price”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:55:25",
-      "iso": "2026-08-18T05:25:25.196Z",
-      "action": "updated remark for ZTE-A53-2GB-32GB-GRY at TRINCOMALEE: “Can sell for the current price”"
     }
   ]
 }
