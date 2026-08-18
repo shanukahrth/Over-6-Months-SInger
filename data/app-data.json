@@ -10191,6 +10191,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:42:21",
       "lastUpdated": "2026-08-18T05:12:21.850Z"
+    },
+    "EDU-ADAPTER||PABAHINNA-LITE": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:42:26",
+      "lastUpdated": "2026-08-18T05:12:26.427Z"
     }
   },
   "showroomVisits": {
@@ -10559,6 +10566,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "10:42:26",
+      "iso": "2026-08-18T05:12:26.429Z",
+      "action": "updated remark for EDU-ADAPTER at PABAHINNA-LITE: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "10:42:21",
       "iso": "2026-08-18T05:12:21.857Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at PABAHINNA-LITE: “30000”"
@@ -10898,13 +10912,6 @@
       "time": "10:16:07",
       "iso": "2026-08-18T04:46:07.558Z",
       "action": "updated remark for SLE32E710 at TRINCOMALEE: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:15:43",
-      "iso": "2026-08-18T04:45:43.278Z",
-      "action": "updated remark for SLE32D2010TC at TRINCOMALEE: “Revert - 70%”"
     }
   ]
 }
