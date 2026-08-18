@@ -16629,8 +16629,8 @@
       "remark": "Discount to Rs. 1,500",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "17:50:44",
-      "lastUpdated": "2026-08-18T12:20:44.785Z"
+      "commentTime": "17:54:04",
+      "lastUpdated": "2026-08-18T12:24:04.368Z"
     },
     "SLE32E930||NIVITHIGALA": {
       "remark": "80%",
@@ -16687,6 +16687,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:55:22",
       "lastUpdated": "2026-08-18T12:25:22.477Z"
+    },
+    "BR-J300||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:53:16",
+      "lastUpdated": "2026-08-18T12:23:16.677Z"
+    },
+    "DELL-KM5221W-COMBO-WL||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 3,000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:55:22",
+      "lastUpdated": "2026-08-18T12:25:22.845Z"
     }
   },
   "showroomVisits": {
@@ -17053,6 +17067,27 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "17:55:22",
+      "iso": "2026-08-18T12:25:22.845Z",
+      "action": "updated remark for DELL-KM5221W-COMBO-WL at MAIN WAREHOUSE: “Discount to Rs. 3,000”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "17:54:04",
+      "iso": "2026-08-18T12:24:04.371Z",
+      "action": "updated remark for K-RSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 1,500”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "17:53:16",
+      "iso": "2026-08-18T12:23:16.679Z",
+      "action": "updated remark for BR-J300 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "17:55:43",
@@ -17380,27 +17415,6 @@
       "time": "17:41:02",
       "iso": "2026-08-18T12:11:02.565Z",
       "action": "updated remark for ULED32D4000 at WARIYAPOLA: “Revert Damaged - 90%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:41:24",
-      "iso": "2026-08-18T12:11:24.648Z",
-      "action": "updated remark for STT-KGT200 at NIVITHIGALA: “Rtn to WH”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:41:09",
-      "iso": "2026-08-18T12:11:09.307Z",
-      "action": "updated remark for PCP30 at NIVITHIGALA: “2000”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "17:40:31",
-      "iso": "2026-08-18T12:10:31.705Z",
-      "action": "updated remark for UJB-LB6027 at WARIYAPOLA: “Can sell by 31st Aug”"
     }
   ]
 }
