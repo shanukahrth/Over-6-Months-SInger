@@ -9496,8 +9496,8 @@
       "remark": "Damaged - 40%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-18",
-      "commentTime": "09:32:14",
-      "lastUpdated": "2026-08-18T04:02:14.184Z"
+      "commentTime": "09:32:22",
+      "lastUpdated": "2026-08-18T04:02:22.072Z"
     }
   },
   "showroomVisits": {
@@ -9823,6 +9823,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:32:22",
+      "iso": "2026-08-18T04:02:22.074Z",
+      "action": "updated remark for NCPO-FP250 at NAULA: “Damaged - 40%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10165,13 +10172,6 @@
       "time": "19:09:27",
       "iso": "2026-08-17T13:39:27.818Z",
       "action": "updated remark for MXBY550D27 at MUTUR: “Lid damaged - 70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:07:44",
-      "iso": "2026-08-17T13:37:44.477Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at MUTUR: “Price not showing in the system”"
     }
   ]
 }
