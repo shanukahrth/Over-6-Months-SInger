@@ -15093,11 +15093,11 @@
       "lastUpdated": "2026-08-18T10:09:13.136Z"
     },
     "SLE32G690||HINGURAKGODA": {
-      "remark": "50%",
+      "remark": "80% - defective",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:40:48",
-      "lastUpdated": "2026-08-18T10:10:48.584Z"
+      "commentTime": "15:41:49",
+      "lastUpdated": "2026-08-18T10:11:49.477Z"
     },
     "QT-MEDIBALL-4KG||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 2,500",
@@ -15471,6 +15471,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:41:49",
+      "iso": "2026-08-18T10:11:49.480Z",
+      "action": "updated remark for SLE32G690 at HINGURAKGODA: “80% - defective”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "15:41:26",
@@ -15812,13 +15819,6 @@
       "time": "15:26:38",
       "iso": "2026-08-18T09:56:38.269Z",
       "action": "updated remark for PN-TH-32M402N at HINGURAKGODA: “1 displayed - 50%, 40% to other 3 Units”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "15:24:56",
-      "iso": "2026-08-18T09:54:56.052Z",
-      "action": "updated remark for SMG-SM-T561 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
