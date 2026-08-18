@@ -14862,11 +14862,11 @@
       "lastUpdated": "2026-08-18T09:56:38.266Z"
     },
     "SLE24D1000||HINGURAKGODA": {
-      "remark": "Penal damage - 90% offered",
+      "remark": "Defective - Penal damage 90% offered",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:29:01",
-      "lastUpdated": "2026-08-18T09:59:01.598Z"
+      "commentTime": "15:29:21",
+      "lastUpdated": "2026-08-18T09:59:21.932Z"
     }
   },
   "showroomVisits": {
@@ -15235,6 +15235,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:29:21",
+      "iso": "2026-08-18T09:59:21.935Z",
+      "action": "updated remark for SLE24D1000 at HINGURAKGODA: “Defective - Penal damage 90% offered”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:29:01",
       "iso": "2026-08-18T09:59:01.602Z",
       "action": "updated remark for SLE24D1000 at HINGURAKGODA: “Penal damage - 90% offered”"
@@ -15574,13 +15581,6 @@
       "time": "15:05:05",
       "iso": "2026-08-18T09:35:05.101Z",
       "action": "updated remark for NCPO-FP280 at BALANGODA C: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:04:42",
-      "iso": "2026-08-18T09:34:42.770Z",
-      "action": "updated remark for KA-LW-185A at BALANGODA C: “30%”"
     }
   ]
 }
