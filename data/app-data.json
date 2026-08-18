@@ -15189,6 +15189,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:46:32",
       "lastUpdated": "2026-08-18T10:16:32.769Z"
+    },
+    "QT-GB75MM||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 2,000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:45:36",
+      "lastUpdated": "2026-08-18T10:15:36.006Z"
+    },
+    "QT-MB1KG||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 1,000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:48:04",
+      "lastUpdated": "2026-08-18T10:18:04.182Z"
     }
   },
   "showroomVisits": {
@@ -15555,6 +15569,20 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "15:48:04",
+      "iso": "2026-08-18T10:18:04.185Z",
+      "action": "updated remark for QT-MB1KG at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "15:45:36",
+      "iso": "2026-08-18T10:15:36.008Z",
+      "action": "updated remark for QT-GB75MM at MAIN WAREHOUSE: “Discount to Rs. 2,000”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:46:37",
@@ -15889,20 +15917,6 @@
       "time": "15:33:19",
       "iso": "2026-08-18T10:03:19.667Z",
       "action": "updated remark for SLE32E910 at HINGURAKGODA: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:33:16",
-      "iso": "2026-08-18T10:03:16.343Z",
-      "action": "updated remark for SLE32E910 at HINGURAKGODA: “Exchange needs to be performed”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "15:32:57",
-      "iso": "2026-08-18T10:02:57.681Z",
-      "action": "updated remark for DELL3530-I5-8GB512-BLK at NIKAWARATIYA - B: “Revert Damaged - 70%”"
     }
   ]
 }
