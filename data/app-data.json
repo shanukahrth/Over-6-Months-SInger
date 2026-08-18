@@ -14846,6 +14846,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:21:18",
       "lastUpdated": "2026-08-18T09:51:18.534Z"
+    },
+    "SMG-SM-T561||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:24:56",
+      "lastUpdated": "2026-08-18T09:54:56.051Z"
     }
   },
   "showroomVisits": {
@@ -15212,6 +15219,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "15:24:56",
+      "iso": "2026-08-18T09:54:56.052Z",
+      "action": "updated remark for SMG-SM-T561 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "15:21:18",
@@ -15553,13 +15567,6 @@
       "time": "15:00:32",
       "iso": "2026-08-18T09:30:32.350Z",
       "action": "updated remark for SW-ST19025BLK at BALANGODA C: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:00:29",
-      "iso": "2026-08-18T09:30:29.491Z",
-      "action": "updated remark for NCPO-FP280 at BALANGODA C: “30%”"
     }
   ]
 }
