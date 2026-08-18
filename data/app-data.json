@@ -12585,6 +12585,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:34:58",
       "lastUpdated": "2026-08-18T07:04:58.407Z"
+    },
+    "TF-SI-ESS-242||BALANGODA": {
+      "remark": "5000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:35:35",
+      "lastUpdated": "2026-08-18T07:05:35.727Z"
     }
   },
   "showroomVisits": {
@@ -12953,6 +12960,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:35:35",
+      "iso": "2026-08-18T07:05:35.731Z",
+      "action": "updated remark for TF-SI-ESS-242 at BALANGODA: “5000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:34:58",
       "iso": "2026-08-18T07:04:58.432Z",
       "action": "updated remark for SIN-MRG-1008C at BALANGODA: “Sellable”"
@@ -13292,13 +13306,6 @@
       "time": "12:19:17",
       "iso": "2026-08-18T06:49:17.569Z",
       "action": "updated remark for UPU-MARVELLAUV at MELSIRIPURA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:19:15",
-      "iso": "2026-08-18T06:49:15.192Z",
-      "action": "updated remark for UPU-ULTIMA418 at MELSIRIPURA: “Damaged - 75%”"
     }
   ]
 }
