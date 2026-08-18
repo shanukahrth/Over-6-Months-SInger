@@ -11761,11 +11761,11 @@
       "lastUpdated": "2026-08-18T06:28:56.174Z"
     },
     "HON-X9C-12-256-BLK||MELSIRIPURA": {
-      "remark": "Unboxed - 15%",
+      "remark": "Damaged - 25%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-18",
-      "commentTime": "11:58:44",
-      "lastUpdated": "2026-08-18T06:28:44.499Z"
+      "commentTime": "11:59:15",
+      "lastUpdated": "2026-08-18T06:29:15.655Z"
     },
     "H-RMRG024MFEOE||MAIN WAREHOUSE": {
       "remark": "Transfer to a shop",
@@ -12139,6 +12139,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "11:59:15",
+      "iso": "2026-08-18T06:29:15.656Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at MELSIRIPURA: “Damaged - 25%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "11:59:26",
@@ -12480,13 +12487,6 @@
       "time": "11:48:09",
       "iso": "2026-08-18T06:18:09.002Z",
       "action": "updated remark for WIS24K-I5 at TRINCOMALEE B: “80% total discount”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:46:56",
-      "iso": "2026-08-18T06:16:56.706Z",
-      "action": "updated remark for UPRO-12000 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
