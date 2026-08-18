@@ -13390,6 +13390,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:49:09",
       "lastUpdated": "2026-08-18T08:19:09.149Z"
+    },
+    "LF-MONTN-WD-SHW-S||BALANGODA - B": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:50:22",
+      "lastUpdated": "2026-08-18T08:20:22.826Z"
     }
   },
   "showroomVisits": {
@@ -13758,6 +13765,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:50:22",
+      "iso": "2026-08-18T08:20:22.831Z",
+      "action": "updated remark for LF-MONTN-WD-SHW-S at BALANGODA - B: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:49:09",
       "iso": "2026-08-18T08:19:09.154Z",
       "action": "updated remark for WFL-RIO-02-S at BALANGODA - B: “50000”"
@@ -14097,13 +14111,6 @@
       "time": "13:07:28",
       "iso": "2026-08-18T07:37:28.318Z",
       "action": "updated remark for SLE40D600A at BALANGODA: “30000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:07:17",
-      "iso": "2026-08-18T07:37:17.316Z",
-      "action": "updated remark for SLE40D600A at BALANGODA: “Sellable”"
     }
   ]
 }
