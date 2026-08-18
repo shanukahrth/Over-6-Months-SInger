@@ -14244,6 +14244,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:46:22",
       "lastUpdated": "2026-08-18T09:16:22.479Z"
+    },
+    "SIN-PSVX938N||MAHO": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:46:17",
+      "lastUpdated": "2026-08-18T09:16:17.649Z"
     }
   },
   "showroomVisits": {
@@ -14610,6 +14617,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:46:17",
+      "iso": "2026-08-18T09:16:17.650Z",
+      "action": "updated remark for SIN-PSVX938N at MAHO: “Damaged - 40%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "14:46:22",
@@ -14951,13 +14965,6 @@
       "time": "14:18:39",
       "iso": "2026-08-18T08:48:39.555Z",
       "action": "updated remark for WP-JUN-E-S at BALANGODA - B: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:18:02",
-      "iso": "2026-08-18T08:48:02.191Z",
-      "action": "updated remark for SLE32E810 at BALANGODA - B: “20000”"
     }
   ]
 }
