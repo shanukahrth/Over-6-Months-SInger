@@ -10156,6 +10156,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:35:59",
       "lastUpdated": "2026-08-18T05:05:59.685Z"
+    },
+    "DUM-SMGAR50F12D0J||TRINCOMALEE": {
+      "remark": "Transfer to shop inventory",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:34:03",
+      "lastUpdated": "2026-08-18T05:04:03.176Z"
+    },
+    "H-RMRG024MFEOE||TRINCOMALEE": {
+      "remark": "Can sell for the current price",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:38:58",
+      "lastUpdated": "2026-08-18T05:08:58.897Z"
     }
   },
   "showroomVisits": {
@@ -10522,6 +10536,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "10:38:58",
+      "iso": "2026-08-18T05:08:58.899Z",
+      "action": "updated remark for H-RMRG024MFEOE at TRINCOMALEE: “Can sell for the current price”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "10:34:03",
+      "iso": "2026-08-18T05:04:03.178Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at TRINCOMALEE: “Transfer to shop inventory”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "10:38:19",
@@ -10856,20 +10884,6 @@
       "time": "10:14:36",
       "iso": "2026-08-18T04:44:36.265Z",
       "action": "updated remark for PN-TH-32P401N at TRINCOMALEE: “40%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:14:11",
-      "iso": "2026-08-18T04:44:11.389Z",
-      "action": "updated remark for PN-TH-32M402N at TRINCOMALEE: “80% - damaged”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:13:03",
-      "iso": "2026-08-18T04:43:03.060Z",
-      "action": "updated remark for KD-65X75K at TRINCOMALEE: “45%”"
     }
   ]
 }
