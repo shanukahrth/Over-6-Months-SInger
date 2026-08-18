@@ -10107,9 +10107,24 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-17"
+    },
+    "BUDGET SHOP-DAMBULLA||DAMBULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-18"
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:53:57",
+      "iso": "2026-08-18T04:23:57.195Z",
+      "action": "updated BUDGET SHOP-DAMBULLA showroom (visited: Yes)"
+    },
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
@@ -10452,13 +10467,6 @@
       "time": "09:34:15",
       "iso": "2026-08-18T04:04:15.893Z",
       "action": "updated remark for R-BWS-02 at NAULA: “Damaged - 20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:32:45",
-      "iso": "2026-08-18T04:02:45.190Z",
-      "action": "updated remark for NCPO-FP280 at NAULA: “Damaged - 40%”"
     }
   ]
 }
