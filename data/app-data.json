@@ -13229,6 +13229,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:37:48",
       "lastUpdated": "2026-08-18T08:07:48.753Z"
+    },
+    "SIN-PSVX938||BALANGODA - B": {
+      "remark": "15000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:38:16",
+      "lastUpdated": "2026-08-18T08:08:16.195Z"
     }
   },
   "showroomVisits": {
@@ -13597,6 +13604,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:38:16",
+      "iso": "2026-08-18T08:08:16.200Z",
+      "action": "updated remark for SIN-PSVX938 at BALANGODA - B: “15000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:37:48",
       "iso": "2026-08-18T08:07:48.759Z",
       "action": "updated remark for SIN-BS30 at BALANGODA - B: “8500”"
@@ -13936,13 +13950,6 @@
       "time": "12:52:05",
       "iso": "2026-08-18T07:22:05.832Z",
       "action": "updated remark for SIN-RFC-2058 at BALANGODA: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:51:12",
-      "iso": "2026-08-18T07:21:12.350Z",
-      "action": "updated remark for SIN-RFC-1819 at BALANGODA: “10%”"
     }
   ]
 }
