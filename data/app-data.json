@@ -15149,11 +15149,11 @@
       "lastUpdated": "2026-08-18T10:14:39.134Z"
     },
     "SLE43G890||HINGURAKGODA": {
-      "remark": "60% - Revert",
+      "remark": "50% - Display",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "16:07:57",
-      "lastUpdated": "2026-08-18T10:37:57.625Z"
+      "commentTime": "16:08:05",
+      "lastUpdated": "2026-08-18T10:38:05.315Z"
     },
     "R-BWS-02||NIKAWARATIYA - B": {
       "remark": "Display/Damaged - 10%",
@@ -15809,6 +15809,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "16:08:05",
+      "iso": "2026-08-18T10:38:05.317Z",
+      "action": "updated remark for SLE43G890 at HINGURAKGODA: “50% - Display”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "16:07:57",
       "iso": "2026-08-18T10:37:57.626Z",
       "action": "updated remark for SLE43G890 at HINGURAKGODA: “60% - Revert”"
@@ -16148,13 +16155,6 @@
       "time": "15:49:07",
       "iso": "2026-08-18T10:19:07.771Z",
       "action": "updated remark for GEO-182S-SV at HINGURAKGODA: “25%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:49:11",
-      "iso": "2026-08-18T10:19:11.922Z",
-      "action": "updated remark for SL-ST50APRMB-D at MAIN WAREHOUSE: “Dummy units”"
     }
   ]
 }
