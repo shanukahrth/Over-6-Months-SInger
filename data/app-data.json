@@ -9703,11 +9703,11 @@
       "lastUpdated": "2026-08-18T04:10:06.726Z"
     },
     "SMGRT28A3021GS||MAIN WAREHOUSE": {
-      "remark": "Packing damage",
+      "remark": "Packing damage transfer to shop",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "09:42:20",
-      "lastUpdated": "2026-08-18T04:12:20.606Z"
+      "commentTime": "09:42:42",
+      "lastUpdated": "2026-08-18T04:12:42.506Z"
     }
   },
   "showroomVisits": {
@@ -10033,6 +10033,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:42:42",
+      "iso": "2026-08-18T04:12:42.513Z",
+      "action": "updated remark for SMGRT28A3021GS at MAIN WAREHOUSE: “Packing damage transfer to shop”"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-18",
@@ -10375,13 +10382,6 @@
       "time": "19:32:38",
       "iso": "2026-08-17T14:02:38.434Z",
       "action": "updated remark for SWM-FA70R at MUTUR: “40% shop staff will purchase”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:31:59",
-      "iso": "2026-08-17T14:01:59.967Z",
-      "action": "updated remark for TF-FP24-SCR342 at MUTUR: “20% Discount”"
     }
   ]
 }
