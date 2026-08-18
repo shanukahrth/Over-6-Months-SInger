@@ -12662,6 +12662,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:38:46",
       "lastUpdated": "2026-08-18T07:08:46.608Z"
+    },
+    "TF-NIDFP24-170||BALANGODA": {
+      "remark": "9500",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:39:02",
+      "lastUpdated": "2026-08-18T07:09:02.162Z"
     }
   },
   "showroomVisits": {
@@ -13030,6 +13037,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:39:02",
+      "iso": "2026-08-18T07:09:02.167Z",
+      "action": "updated remark for TF-NIDFP24-170 at BALANGODA: “9500”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:38:46",
       "iso": "2026-08-18T07:08:46.613Z",
       "action": "updated remark for TF-FP24-SCR342 at BALANGODA: “5000”"
@@ -13369,13 +13383,6 @@
       "time": "12:23:11",
       "iso": "2026-08-18T06:53:11.616Z",
       "action": "updated remark for KV-CF-AIRMAX at MAIN WAREHOUSE: “Discount 60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:23:04",
-      "iso": "2026-08-18T06:53:04.676Z",
-      "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at BALANGODA: “Defect”"
     }
   ]
 }
