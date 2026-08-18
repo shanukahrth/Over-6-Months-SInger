@@ -13714,11 +13714,11 @@
       "lastUpdated": "2026-08-18T08:35:02.317Z"
     },
     "WF-PARIS-BL-S||POLPITHIGAMA": {
-      "remark": "Damaged - 20%",
+      "remark": "20%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-18",
-      "commentTime": "14:05:30",
-      "lastUpdated": "2026-08-18T08:35:30.073Z"
+      "commentTime": "14:05:48",
+      "lastUpdated": "2026-08-18T08:35:48.182Z"
     }
   },
   "showroomVisits": {
@@ -14087,6 +14087,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "14:05:48",
+      "iso": "2026-08-18T08:35:48.183Z",
+      "action": "updated remark for WF-PARIS-BL-S at POLPITHIGAMA: “20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "14:05:30",
       "iso": "2026-08-18T08:35:30.075Z",
       "action": "updated remark for WF-PARIS-BL-S at POLPITHIGAMA: “Damaged - 20%”"
@@ -14426,13 +14433,6 @@
       "time": "13:52:07",
       "iso": "2026-08-18T08:22:07.661Z",
       "action": "updated remark for GEO-182S-BU1 at POLPITHIGAMA: “Revert - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "13:51:49",
-      "iso": "2026-08-18T08:21:49.910Z",
-      "action": "updated remark for DH-6-CAMERA-PACK at POLPITHIGAMA: “Can sell this by the 31st of Aug”"
     }
   ]
 }
