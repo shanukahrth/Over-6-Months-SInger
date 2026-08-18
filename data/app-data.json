@@ -11101,6 +11101,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:23:03",
       "lastUpdated": "2026-08-18T05:53:03.115Z"
+    },
+    "TFKW2320414||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 1,000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:23:44",
+      "lastUpdated": "2026-08-18T05:53:44.053Z"
     }
   },
   "showroomVisits": {
@@ -11467,6 +11474,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:23:44",
+      "iso": "2026-08-18T05:53:44.056Z",
+      "action": "updated remark for TFKW2320414 at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:23:25",
@@ -11808,13 +11822,6 @@
       "time": "11:05:22",
       "iso": "2026-08-18T05:35:22.394Z",
       "action": "updated remark for WF-PRESTON-BSC-S at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:04:58",
-      "iso": "2026-08-18T05:34:58.306Z",
-      "action": "updated remark for WF-PRESTON-2D-S at GALEWELA: “Return to Warehouse”"
     }
   ]
 }
