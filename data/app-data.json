@@ -11297,6 +11297,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:33:51",
       "lastUpdated": "2026-08-18T06:03:51.161Z"
+    },
+    "CAN-TN-054-M||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:34:03",
+      "lastUpdated": "2026-08-18T06:04:03.883Z"
     }
   },
   "showroomVisits": {
@@ -11665,6 +11672,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:34:03",
+      "iso": "2026-08-18T06:04:03.885Z",
+      "action": "updated remark for CAN-TN-054-M at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:33:51",
       "iso": "2026-08-18T06:03:51.163Z",
       "action": "updated remark for CAN-TN-054-Y at MAIN WAREHOUSE: “Scrap”"
@@ -12004,13 +12018,6 @@
       "time": "11:22:22",
       "iso": "2026-08-18T05:52:22.206Z",
       "action": "updated remark for SLE86G6E at TRINCOMALEE B: “50% total discount on revert basis.”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:21:53",
-      "iso": "2026-08-18T05:51:53.458Z",
-      "action": "updated remark for WP-WRN25LX at TRINCOMALEE: “WH return - BM to send a mail to Ms. Noyali regarding this”"
     }
   ]
 }
