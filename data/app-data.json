@@ -13292,6 +13292,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:45:13",
       "lastUpdated": "2026-08-18T08:15:13.235Z"
+    },
+    "WF-CB-B-WH||BALANGODA - B": {
+      "remark": "60%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:45:44",
+      "lastUpdated": "2026-08-18T08:15:44.235Z"
     }
   },
   "showroomVisits": {
@@ -13660,6 +13667,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:45:44",
+      "iso": "2026-08-18T08:15:44.239Z",
+      "action": "updated remark for WF-CB-B-WH at BALANGODA - B: “60%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:45:13",
       "iso": "2026-08-18T08:15:13.240Z",
       "action": "updated remark for SIN-EP170 at BALANGODA - B: “25000”"
@@ -13999,13 +14013,6 @@
       "time": "12:58:31",
       "iso": "2026-08-18T07:28:31.711Z",
       "action": "updated remark for FT-FSD-036L01 at BALANGODA: “20%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:58:24",
-      "iso": "2026-08-18T07:28:24.518Z",
-      "action": "updated remark for FT-FRH-50001 at BALANGODA: “20%”"
     }
   ]
 }
