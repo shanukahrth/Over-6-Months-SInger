@@ -13889,11 +13889,11 @@
       "lastUpdated": "2026-08-18T08:43:55.145Z"
     },
     "SLE40D600A||BALANGODA - B": {
-      "remark": "45000",
+      "remark": "Showroom use",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "14:14:02",
-      "lastUpdated": "2026-08-18T08:44:02.492Z"
+      "commentTime": "14:14:34",
+      "lastUpdated": "2026-08-18T08:44:34.679Z"
     }
   },
   "showroomVisits": {
@@ -14262,6 +14262,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:14:34",
+      "iso": "2026-08-18T08:44:34.684Z",
+      "action": "updated remark for SLE40D600A at BALANGODA - B: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:14:02",
       "iso": "2026-08-18T08:44:02.498Z",
       "action": "updated remark for SLE40D600A at BALANGODA - B: “45000”"
@@ -14601,13 +14608,6 @@
       "time": "14:01:44",
       "iso": "2026-08-18T08:31:44.173Z",
       "action": "updated remark for R-BWS-02 at BALANGODA - B: “3000”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:00:57",
-      "iso": "2026-08-18T08:30:57.556Z",
-      "action": "updated remark for SMW928AS3 at POLPITHIGAMA: “Can sell by the 31st of Aug”"
     }
   ]
 }
