@@ -9703,11 +9703,11 @@
       "lastUpdated": "2026-08-18T04:10:06.726Z"
     },
     "SMGRT28A3021GS||MAIN WAREHOUSE": {
-      "remark": "Packing damage transfer to shop",
+      "remark": "Transfer to Godagama clearance Disc 40%",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "09:42:42",
-      "lastUpdated": "2026-08-18T04:12:42.506Z"
+      "commentTime": "09:57:21",
+      "lastUpdated": "2026-08-18T04:27:21.455Z"
     },
     "RAVI-CPPB053RCP||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 150",
@@ -9792,6 +9792,55 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:56:30",
       "lastUpdated": "2026-08-18T04:26:30.443Z"
+    },
+    "H-R-WB640V0PBX-MIR||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama clearance Disc 70%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:55:41",
+      "lastUpdated": "2026-08-18T04:25:41.930Z"
+    },
+    "B-RDNI270XIB100P||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama clearance Disc 70%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:55:45",
+      "lastUpdated": "2026-08-18T04:25:45.387Z"
+    },
+    "B-RDNI315XIB300P||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama clearance Disc 70%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:56:29",
+      "lastUpdated": "2026-08-18T04:26:29.230Z"
+    },
+    "PN-NR-BK418BQKX||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama clearance Disc 70%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:55:58",
+      "lastUpdated": "2026-08-18T04:25:58.199Z"
+    },
+    "H-R-VX420PB9||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama clearance Disc 70%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:56:12",
+      "lastUpdated": "2026-08-18T04:26:12.368Z"
+    },
+    "B-RDNI295XIB100P||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama clearance Disc 70%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:56:15",
+      "lastUpdated": "2026-08-18T04:26:15.376Z"
+    },
+    "SN-SMI-285||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama clearance Disc 70%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:56:39",
+      "lastUpdated": "2026-08-18T04:26:39.286Z"
     }
   },
   "showroomVisits": {
@@ -10158,6 +10207,69 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:57:21",
+      "iso": "2026-08-18T04:27:21.463Z",
+      "action": "updated remark for SMGRT28A3021GS at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 40%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:56:39",
+      "iso": "2026-08-18T04:26:39.293Z",
+      "action": "updated remark for SN-SMI-285 at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:56:29",
+      "iso": "2026-08-18T04:26:29.238Z",
+      "action": "updated remark for B-RDNI315XIB300P at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:56:15",
+      "iso": "2026-08-18T04:26:15.383Z",
+      "action": "updated remark for B-RDNI295XIB100P at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:56:12",
+      "iso": "2026-08-18T04:26:12.376Z",
+      "action": "updated remark for H-R-VX420PB9 at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:55:58",
+      "iso": "2026-08-18T04:25:58.205Z",
+      "action": "updated remark for PN-NR-BK418BQKX at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:55:53",
+      "iso": "2026-08-18T04:25:53.706Z",
+      "action": "updated remark for B-RDNI315XIB300P at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:55:45",
+      "iso": "2026-08-18T04:25:45.394Z",
+      "action": "updated remark for B-RDNI270XIB100P at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:55:41",
+      "iso": "2026-08-18T04:25:41.939Z",
+      "action": "updated remark for H-R-WB640V0PBX-MIR at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "09:56:30",
@@ -10443,69 +10555,6 @@
       "time": "09:40:06",
       "iso": "2026-08-18T04:10:06.747Z",
       "action": "updated remark for SL-INV260WR-TG at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:41:30",
-      "iso": "2026-08-18T04:11:30.358Z",
-      "action": "updated remark for RAVI-CPPB055RCP at MAIN WAREHOUSE: “Discount to Rs. 250”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:41:22",
-      "iso": "2026-08-18T04:11:22.495Z",
-      "action": "updated remark for TF-TW26-064 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:41:15",
-      "iso": "2026-08-18T04:11:15.966Z",
-      "action": "updated remark for TF-TW26-064 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:38:39",
-      "iso": "2026-08-18T04:08:39.340Z",
-      "action": "updated remark for RAVI-CPERL9 at MAIN WAREHOUSE: “Discount to Rs. 800”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:46",
-      "iso": "2026-08-18T04:07:46.803Z",
-      "action": "updated remark for WL-9500000316 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:35",
-      "iso": "2026-08-18T04:07:35.050Z",
-      "action": "updated remark for X1R-DSC at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:32",
-      "iso": "2026-08-18T04:07:32.471Z",
-      "action": "updated remark for X1R-ET at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:30",
-      "iso": "2026-08-18T04:07:30.021Z",
-      "action": "updated remark for WL-089026 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:27",
-      "iso": "2026-08-18T04:07:27.641Z",
-      "action": "updated remark for WL-9500000309 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
