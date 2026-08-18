@@ -13642,6 +13642,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:04:13",
       "lastUpdated": "2026-08-18T08:34:13.253Z"
+    },
+    "SL-S203||BALANGODA - B": {
+      "remark": "10000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:04:24",
+      "lastUpdated": "2026-08-18T08:34:24.950Z"
     }
   },
   "showroomVisits": {
@@ -14010,6 +14017,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:04:24",
+      "iso": "2026-08-18T08:34:24.954Z",
+      "action": "updated remark for SL-S203 at BALANGODA - B: “10000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:04:13",
       "iso": "2026-08-18T08:34:13.258Z",
       "action": "updated remark for MID-MG-GP45B at BALANGODA - B: “Sellable”"
@@ -14349,13 +14363,6 @@
       "time": "13:48:16",
       "iso": "2026-08-18T08:18:16.577Z",
       "action": "updated remark for PF-STRG-BX-20L-S at BALANGODA - B: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:48:13",
-      "iso": "2026-08-18T08:18:13.911Z",
-      "action": "updated remark for PF-ENVISION-BL-S at BALANGODA - B: “10%”"
     }
   ]
 }
