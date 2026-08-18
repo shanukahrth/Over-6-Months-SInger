@@ -12123,6 +12123,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:15:30",
       "lastUpdated": "2026-08-18T06:45:30.727Z"
+    },
+    "U-HRW-S11||MAIN WAREHOUSE": {
+      "remark": "Defective, scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:15:35",
+      "lastUpdated": "2026-08-18T06:45:35.210Z"
     }
   },
   "showroomVisits": {
@@ -12489,6 +12496,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:15:35",
+      "iso": "2026-08-18T06:45:35.212Z",
+      "action": "updated remark for U-HRW-S11 at MAIN WAREHOUSE: “Defective, scrap”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:15:30",
@@ -12830,13 +12844,6 @@
       "time": "12:01:21",
       "iso": "2026-08-18T06:31:21.301Z",
       "action": "updated remark for AES-HAV-30S at MELSIRIPURA: “Damaged - 30%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:01:15",
-      "iso": "2026-08-18T06:31:15.020Z",
-      "action": "updated remark for H-RSQG018MFEOE at MAIN WAREHOUSE: “Indoor unit missing”"
     }
   ]
 }
