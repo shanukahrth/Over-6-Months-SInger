@@ -11318,6 +11318,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:35:04",
       "lastUpdated": "2026-08-18T06:05:04.242Z"
+    },
+    "LF-BUDGET-ST-CLM-S||TRINCOMALEE": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:33:54",
+      "lastUpdated": "2026-08-18T06:03:54.816Z"
+    },
+    "LF-FLASH-2WD-S||TRINCOMALEE": {
+      "remark": "50% - Damaged, Parts missing",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:34:53",
+      "lastUpdated": "2026-08-18T06:04:53.961Z"
     }
   },
   "showroomVisits": {
@@ -11684,6 +11698,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:34:53",
+      "iso": "2026-08-18T06:04:53.963Z",
+      "action": "updated remark for LF-FLASH-2WD-S at TRINCOMALEE: “50% - Damaged, Parts missing”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:33:54",
+      "iso": "2026-08-18T06:03:54.817Z",
+      "action": "updated remark for LF-BUDGET-ST-CLM-S at TRINCOMALEE: “50%”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:34:46",
@@ -12018,20 +12046,6 @@
       "time": "11:23:44",
       "iso": "2026-08-18T05:53:44.056Z",
       "action": "updated remark for TFKW2320414 at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:23:25",
-      "iso": "2026-08-18T05:53:25.158Z",
-      "action": "updated remark for SLE55GENR at TRINCOMALEE B: “90% discount”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:23:03",
-      "iso": "2026-08-18T05:53:03.117Z",
-      "action": "updated remark for PN-TH-32P401N at TRINCOMALEE B: “no additional discount”"
     }
   ]
 }
