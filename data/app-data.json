@@ -11815,6 +11815,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:00:16",
       "lastUpdated": "2026-08-18T06:30:16.832Z"
+    },
+    "U-BS8816||MELSIRIPURA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:00:38",
+      "lastUpdated": "2026-08-18T06:30:38.079Z"
     }
   },
   "showroomVisits": {
@@ -12181,6 +12188,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:00:38",
+      "iso": "2026-08-18T06:30:38.079Z",
+      "action": "updated remark for U-BS8816 at MELSIRIPURA: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:00:36",
+      "iso": "2026-08-18T06:30:36.341Z",
+      "action": "updated remark for U-BS8816 at MELSIRIPURA: “Damaged - 85%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "12:00:16",
@@ -12515,20 +12536,6 @@
       "time": "11:50:04",
       "iso": "2026-08-18T06:20:04.596Z",
       "action": "updated remark for PN-CS-XU12XKYW-8 at MAIN WAREHOUSE: “Indoor outdoor mismatch with EU series”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:50:22",
-      "iso": "2026-08-18T06:20:22.249Z",
-      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “55% - Damaged but working”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:49:42",
-      "iso": "2026-08-18T06:19:42.920Z",
-      "action": "updated remark for DH-KIT-8CH-4CAM at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
