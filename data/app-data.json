@@ -14862,11 +14862,11 @@
       "lastUpdated": "2026-08-18T09:56:38.266Z"
     },
     "SLE24D1000||HINGURAKGODA": {
-      "remark": "Penal damage -",
+      "remark": "Defective - Penal damage",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:27:34",
-      "lastUpdated": "2026-08-18T09:57:34.053Z"
+      "commentTime": "15:27:42",
+      "lastUpdated": "2026-08-18T09:57:42.721Z"
     }
   },
   "showroomVisits": {
@@ -15235,6 +15235,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:27:42",
+      "iso": "2026-08-18T09:57:42.723Z",
+      "action": "updated remark for SLE24D1000 at HINGURAKGODA: “Defective - Penal damage”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:27:34",
       "iso": "2026-08-18T09:57:34.055Z",
       "action": "updated remark for SLE24D1000 at HINGURAKGODA: “Penal damage -”"
@@ -15574,13 +15581,6 @@
       "time": "15:03:19",
       "iso": "2026-08-18T09:33:19.189Z",
       "action": "updated remark for SL-SC310R6-RL at MAIN WAREHOUSE: “Transfer to clearance sale”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:02:08",
-      "iso": "2026-08-18T09:32:08.692Z",
-      "action": "updated remark for MID-MJ-KM6001W at BALANGODA C: “30%”"
     }
   ]
 }
