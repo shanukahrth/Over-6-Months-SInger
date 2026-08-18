@@ -10779,6 +10779,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:01:26",
       "lastUpdated": "2026-08-18T05:31:26.107Z"
+    },
+    "TF-SP16-063||GALEWELA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:01:36",
+      "lastUpdated": "2026-08-18T05:31:36.078Z"
     }
   },
   "showroomVisits": {
@@ -11145,6 +11152,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "11:01:36",
+      "iso": "2026-08-18T05:31:36.081Z",
+      "action": "updated remark for TF-SP16-063 at GALEWELA: “Damaged - 50%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:01:26",
@@ -11486,13 +11500,6 @@
       "time": "10:52:04",
       "iso": "2026-08-18T05:22:04.753Z",
       "action": "updated remark for HON-X7C-8-256-GRN at TRINCOMALEE: “40% - Displayed”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:51:52",
-      "iso": "2026-08-18T05:21:52.596Z",
-      "action": "updated remark for LF-BUDGET-ST-CRW-S at GALEWELA: “Return to Warehouse”"
     }
   ]
 }
