@@ -9449,6 +9449,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:26:47",
       "lastUpdated": "2026-08-18T03:56:47.350Z"
+    },
+    "BES-WP15-ECO||NAULA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:27:09",
+      "lastUpdated": "2026-08-18T03:57:09.785Z"
     }
   },
   "showroomVisits": {
@@ -9774,6 +9781,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:27:09",
+      "iso": "2026-08-18T03:57:09.788Z",
+      "action": "updated remark for BES-WP15-ECO at NAULA: “Damaged - 60%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10116,13 +10130,6 @@
       "time": "19:04:41",
       "iso": "2026-08-17T13:34:41.113Z",
       "action": "updated remark for SDV3605K at MUTUR: “90% - BM will bill it”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:04:30",
-      "iso": "2026-08-17T13:34:30.783Z",
-      "action": "updated remark for SIH-2057M at MUTUR: “90% - BM will bill it”"
     }
   ]
 }
