@@ -10233,6 +10233,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:42:58",
       "lastUpdated": "2026-08-18T05:12:58.938Z"
+    },
+    "NCPDG-SP240||PABAHINNA-LITE": {
+      "remark": "Additional 10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:43:16",
+      "lastUpdated": "2026-08-18T05:13:16.077Z"
     }
   },
   "showroomVisits": {
@@ -10601,6 +10608,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "10:43:16",
+      "iso": "2026-08-18T05:13:16.082Z",
+      "action": "updated remark for NCPDG-SP240 at PABAHINNA-LITE: “Additional 10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "10:42:58",
       "iso": "2026-08-18T05:12:58.944Z",
       "action": "updated remark for PF-STRG-BX-20L-S at PABAHINNA-LITE: “Additional 10%”"
@@ -10940,13 +10954,6 @@
       "time": "10:19:08",
       "iso": "2026-08-18T04:49:08.761Z",
       "action": "updated remark for SLE32E930 at TRINCOMALEE: “80% - Defective”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:17:52",
-      "iso": "2026-08-18T04:47:52.062Z",
-      "action": "updated remark for SLE32E930 at TRINCOMALEE: “80% - Damaged”"
     }
   ]
 }
