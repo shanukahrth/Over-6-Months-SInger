@@ -12781,6 +12781,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:44:50",
       "lastUpdated": "2026-08-18T07:14:50.627Z"
+    },
+    "STO-EO45C||BALANGODA": {
+      "remark": "10000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:45:26",
+      "lastUpdated": "2026-08-18T07:15:26.746Z"
     }
   },
   "showroomVisits": {
@@ -13149,6 +13156,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:45:26",
+      "iso": "2026-08-18T07:15:26.751Z",
+      "action": "updated remark for STO-EO45C at BALANGODA: “10000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:44:50",
       "iso": "2026-08-18T07:14:50.631Z",
       "action": "updated remark for TF-CM-APR737 at BALANGODA: “7000”"
@@ -13487,13 +13501,6 @@
       "date": "2026-08-18",
       "time": "12:30:36",
       "iso": "2026-08-18T07:00:36.872Z",
-      "action": "updated remark for WF-PARIS-BR-S at BALANGODA: “85000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:30:17",
-      "iso": "2026-08-18T07:00:17.465Z",
       "action": "updated remark for WF-PARIS-BR-S at BALANGODA: “85000”"
     }
   ]
