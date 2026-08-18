@@ -11731,6 +11731,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:56:59",
       "lastUpdated": "2026-08-18T06:26:59.234Z"
+    },
+    "DELLC-VOS3420-I5DOS||TRINCOMALEE B": {
+      "remark": "75% discount as revert long ago",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:57:32",
+      "lastUpdated": "2026-08-18T06:27:32.883Z"
     }
   },
   "showroomVisits": {
@@ -12097,6 +12104,13 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:57:32",
+      "iso": "2026-08-18T06:27:32.883Z",
+      "action": "updated remark for DELLC-VOS3420-I5DOS at TRINCOMALEE B: “75% discount as revert long ago”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "11:57:18",
@@ -12438,13 +12452,6 @@
       "time": "11:45:42",
       "iso": "2026-08-18T06:15:42.461Z",
       "action": "updated remark for TF-GS-SPKT302 at TRINCOMALEE: “15%”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:45:30",
-      "iso": "2026-08-18T06:15:30.061Z",
-      "action": "updated remark for SAS-12V-INV at TRINCOMALEE B: “80% total discount”"
     }
   ]
 }
