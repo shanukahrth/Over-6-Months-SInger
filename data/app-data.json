@@ -14867,6 +14867,34 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:29:21",
       "lastUpdated": "2026-08-18T09:59:21.932Z"
+    },
+    "G-STC3900N||MAIN WAREHOUSE": {
+      "remark": "Transfer to shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:13:53",
+      "lastUpdated": "2026-08-18T09:43:53.927Z"
+    },
+    "G-STC1200N||MAIN WAREHOUSE": {
+      "remark": "Transfer to shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:14:05",
+      "lastUpdated": "2026-08-18T09:44:05.817Z"
+    },
+    "PCAS-02008||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:29:09",
+      "lastUpdated": "2026-08-18T09:59:09.500Z"
+    },
+    "PCAS-02004||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:29:58",
+      "lastUpdated": "2026-08-18T09:59:58.996Z"
     }
   },
   "showroomVisits": {
@@ -15233,6 +15261,34 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:29:59",
+      "iso": "2026-08-18T09:59:59.008Z",
+      "action": "updated remark for PCAS-02004 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:29:09",
+      "iso": "2026-08-18T09:59:09.512Z",
+      "action": "updated remark for PCAS-02008 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:14:05",
+      "iso": "2026-08-18T09:44:05.826Z",
+      "action": "updated remark for G-STC1200N at MAIN WAREHOUSE: “Transfer to shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:13:53",
+      "iso": "2026-08-18T09:43:53.935Z",
+      "action": "updated remark for G-STC3900N at MAIN WAREHOUSE: “Transfer to shop”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:29:21",
@@ -15553,34 +15609,6 @@
       "time": "15:07:50",
       "iso": "2026-08-18T09:37:50.197Z",
       "action": "updated remark for IWH-1000WS at BALANGODA C: “800”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:06:37",
-      "iso": "2026-08-18T09:36:37.795Z",
-      "action": "updated remark for KN-SMP01 at BALANGODA C: “4500”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:06:06",
-      "iso": "2026-08-18T09:36:06.908Z",
-      "action": "updated remark for KN-SMP01 at BALANGODA C: “4500”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:05:14",
-      "iso": "2026-08-18T09:35:14.129Z",
-      "action": "updated remark for NCPO-FP280 at BALANGODA C: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:05:05",
-      "iso": "2026-08-18T09:35:05.101Z",
-      "action": "updated remark for NCPO-FP280 at BALANGODA C: “10%”"
     }
   ]
 }
