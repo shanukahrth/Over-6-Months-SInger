@@ -12382,6 +12382,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:23:04",
       "lastUpdated": "2026-08-18T06:53:04.675Z"
+    },
+    "KV-CF-AIRMAX||MAIN WAREHOUSE": {
+      "remark": "Discount 60%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:23:11",
+      "lastUpdated": "2026-08-18T06:53:11.607Z"
     }
   },
   "showroomVisits": {
@@ -12748,6 +12755,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:23:11",
+      "iso": "2026-08-18T06:53:11.616Z",
+      "action": "updated remark for KV-CF-AIRMAX at MAIN WAREHOUSE: “Discount 60%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:23:04",
@@ -13089,13 +13103,6 @@
       "time": "12:13:51",
       "iso": "2026-08-18T06:43:51.556Z",
       "action": "updated remark for HU-FREEBUD-4-WH at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:13:30",
-      "iso": "2026-08-18T06:43:30.589Z",
-      "action": "updated remark for HU-FREEBUD-4-SIL at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
