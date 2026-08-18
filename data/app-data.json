@@ -14421,11 +14421,11 @@
       "lastUpdated": "2026-08-18T09:24:38.512Z"
     },
     "WP-DEEPWELL||MAIN WAREHOUSE": {
-      "remark": "Packing damage",
-      "commentedBy": "Shanuka",
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "14:54:43",
-      "lastUpdated": "2026-08-18T09:24:43.395Z"
+      "commentTime": "15:52:33",
+      "lastUpdated": "2026-08-18T10:22:33.129Z"
     },
     "WP-WDC11704RG-G||MAHO": {
       "remark": "Long term Display - 20%",
@@ -15646,6 +15646,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "15:52:33",
+      "iso": "2026-08-18T10:22:33.132Z",
+      "action": "updated remark for WP-DEEPWELL at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:52:44",
@@ -15987,13 +15994,6 @@
       "time": "15:38:22",
       "iso": "2026-08-18T10:08:22.641Z",
       "action": "updated remark for BRC-CASERL20 at NIKAWARATIYA - B: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "15:37:44",
-      "iso": "2026-08-18T10:07:44.003Z",
-      "action": "updated remark for BES-CRS-51 at NIKAWARATIYA - B: “Display - 10%”"
     }
   ]
 }
