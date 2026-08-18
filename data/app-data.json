@@ -13299,6 +13299,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:45:44",
       "lastUpdated": "2026-08-18T08:15:44.235Z"
+    },
+    "PF-RTN-ARMLS-BR-S||BALANGODA - B": {
+      "remark": "60%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:46:56",
+      "lastUpdated": "2026-08-18T08:16:56.085Z"
     }
   },
   "showroomVisits": {
@@ -13667,6 +13674,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:46:56",
+      "iso": "2026-08-18T08:16:56.090Z",
+      "action": "updated remark for PF-RTN-ARMLS-BR-S at BALANGODA - B: “60%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:45:44",
       "iso": "2026-08-18T08:15:44.239Z",
       "action": "updated remark for WF-CB-B-WH at BALANGODA - B: “60%”"
@@ -14006,13 +14020,6 @@
       "time": "12:59:04",
       "iso": "2026-08-18T07:29:04.554Z",
       "action": "updated remark for CAN-L-LBP235 at BALANGODA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:58:31",
-      "iso": "2026-08-18T07:28:31.711Z",
-      "action": "updated remark for FT-FSD-036L01 at BALANGODA: “20%”"
     }
   ]
 }
