@@ -10301,8 +10301,15 @@
       "remark": "Additional 10%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "10:45:05",
-      "lastUpdated": "2026-08-18T05:15:05.439Z"
+      "commentTime": "10:45:08",
+      "lastUpdated": "2026-08-18T05:15:08.378Z"
+    },
+    "SIN-RFC-2058||PABAHINNA-LITE": {
+      "remark": "Additional 10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:45:15",
+      "lastUpdated": "2026-08-18T05:15:15.072Z"
     }
   },
   "showroomVisits": {
@@ -10671,6 +10678,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "10:45:15",
+      "iso": "2026-08-18T05:15:15.078Z",
+      "action": "updated remark for SIN-RFC-2058 at PABAHINNA-LITE: “Additional 10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "10:45:08",
+      "iso": "2026-08-18T05:15:08.384Z",
+      "action": "updated remark for SIN-RFC-1819 at PABAHINNA-LITE: “Additional 10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "10:45:05",
       "iso": "2026-08-18T05:15:05.444Z",
       "action": "updated remark for SIN-RFC-1819 at PABAHINNA-LITE: “Additional 10%”"
@@ -11003,20 +11024,6 @@
       "time": "10:23:16",
       "iso": "2026-08-18T04:53:16.630Z",
       "action": "updated remark for SLE55GENR at TRINCOMALEE: “Can sell for current discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:22:58",
-      "iso": "2026-08-18T04:52:58.352Z",
-      "action": "updated remark for SLE43G890 at TRINCOMALEE: “Defective - 60%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:22:37",
-      "iso": "2026-08-18T04:52:37.481Z",
-      "action": "updated remark for SLE43G890 at TRINCOMALEE: “Revert - 50%”"
     }
   ]
 }
