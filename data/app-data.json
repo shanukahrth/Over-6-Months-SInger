@@ -13089,6 +13089,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:00:54",
       "lastUpdated": "2026-08-18T07:30:54.503Z"
+    },
+    "SS-PS16-AG||BALANGODA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:03:29",
+      "lastUpdated": "2026-08-18T07:33:29.658Z"
     }
   },
   "showroomVisits": {
@@ -13457,6 +13464,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:03:29",
+      "iso": "2026-08-18T07:33:29.664Z",
+      "action": "updated remark for SS-PS16-AG at BALANGODA: “70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:00:54",
       "iso": "2026-08-18T07:30:54.507Z",
       "action": "updated remark for BES-CRS-51 at BALANGODA: “10%”"
@@ -13796,13 +13810,6 @@
       "time": "12:44:35",
       "iso": "2026-08-18T07:14:35.325Z",
       "action": "updated remark for SDV3605K at TRINCOMALEE B: “90% discount”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:44:33",
-      "iso": "2026-08-18T07:14:33.729Z",
-      "action": "updated remark for DVP-SR370 at TRINCOMALEE B: “90% discount”"
     }
   ]
 }
