@@ -9925,6 +9925,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:10:18",
       "lastUpdated": "2026-08-18T04:40:18.649Z"
+    },
+    "KD-65X75K||TRINCOMALEE": {
+      "remark": "45%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:13:03",
+      "lastUpdated": "2026-08-18T04:43:03.058Z"
     }
   },
   "showroomVisits": {
@@ -10293,6 +10300,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:13:03",
+      "iso": "2026-08-18T04:43:03.060Z",
+      "action": "updated remark for KD-65X75K at TRINCOMALEE: “45%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:10:18",
       "iso": "2026-08-18T04:40:18.651Z",
       "action": "updated remark for KD-55X7500H at TRINCOMALEE: “System exchange required - Branch manager to update”"
@@ -10632,13 +10646,6 @@
       "time": "09:51:16",
       "iso": "2026-08-18T04:21:16.355Z",
       "action": "updated remark for PN-NR-BG341SSLK at MAIN WAREHOUSE: “Nerd issue transfer to parts”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:51:07",
-      "iso": "2026-08-18T04:21:07.160Z",
-      "action": "updated remark for PN-NR-BG271SSLK at MAIN WAREHOUSE: “Nerd issue transfer to parts”"
     }
   ]
 }
