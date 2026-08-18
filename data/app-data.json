@@ -12942,6 +12942,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:52:05",
       "lastUpdated": "2026-08-18T07:22:05.827Z"
+    },
+    "HU-SECURITY||BALANGODA": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:52:11",
+      "lastUpdated": "2026-08-18T07:22:11.289Z"
     }
   },
   "showroomVisits": {
@@ -13310,6 +13317,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:52:11",
+      "iso": "2026-08-18T07:22:11.289Z",
+      "action": "updated remark for HU-SECURITY at BALANGODA: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:52:05",
       "iso": "2026-08-18T07:22:05.832Z",
       "action": "updated remark for SIN-RFC-2058 at BALANGODA: “10%”"
@@ -13649,13 +13663,6 @@
       "time": "12:37:58",
       "iso": "2026-08-18T07:07:58.025Z",
       "action": "updated remark for SIN-PR-K340 at TRINCOMALEE B: “40% discount”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:37:45",
-      "iso": "2026-08-18T07:07:45.257Z",
-      "action": "updated remark for MC8280 at TRINCOMALEE B: “40% discount”"
     }
   ]
 }
