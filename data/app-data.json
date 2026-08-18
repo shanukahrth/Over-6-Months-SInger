@@ -9638,6 +9638,41 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:37:25",
       "lastUpdated": "2026-08-18T04:07:25.250Z"
+    },
+    "WL-9500000309||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:27",
+      "lastUpdated": "2026-08-18T04:07:27.638Z"
+    },
+    "WL-089026||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:30",
+      "lastUpdated": "2026-08-18T04:07:30.019Z"
+    },
+    "X1R-ET||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:32",
+      "lastUpdated": "2026-08-18T04:07:32.469Z"
+    },
+    "X1R-DSC||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:35",
+      "lastUpdated": "2026-08-18T04:07:35.049Z"
+    },
+    "WL-9500000316||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:46",
+      "lastUpdated": "2026-08-18T04:07:46.800Z"
     }
   },
   "showroomVisits": {
@@ -9966,6 +10001,41 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "09:37:46",
+      "iso": "2026-08-18T04:07:46.803Z",
+      "action": "updated remark for WL-9500000316 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:37:35",
+      "iso": "2026-08-18T04:07:35.050Z",
+      "action": "updated remark for X1R-DSC at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:37:32",
+      "iso": "2026-08-18T04:07:32.471Z",
+      "action": "updated remark for X1R-ET at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:37:30",
+      "iso": "2026-08-18T04:07:30.021Z",
+      "action": "updated remark for WL-089026 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:37:27",
+      "iso": "2026-08-18T04:07:27.641Z",
+      "action": "updated remark for WL-9500000309 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "09:37:25",
       "iso": "2026-08-18T04:07:25.252Z",
       "action": "updated remark for X1R-DT at MAIN WAREHOUSE: “Scrap”"
@@ -10277,41 +10347,6 @@
       "time": "19:30:01",
       "iso": "2026-08-17T14:00:01.793Z",
       "action": "updated remark for B-RDNI295XIB100P at MUTUR: “60% - Small dent on the door”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:27:44",
-      "iso": "2026-08-17T13:57:44.805Z",
-      "action": "updated remark for BC-KNP-AG at MUTUR: “90% - Missing parts and EOL”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:27:22",
-      "iso": "2026-08-17T13:57:22.283Z",
-      "action": "updated remark for BES-CRS-51 at MUTUR: “15%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:26:40",
-      "iso": "2026-08-17T13:56:40.857Z",
-      "action": "updated remark for BFS-150KG at MUTUR: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:26:29",
-      "iso": "2026-08-17T13:56:29.060Z",
-      "action": "updated remark for BTS-10KG at MUTUR: “40% - license expired”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:26:25",
-      "iso": "2026-08-17T13:56:25.751Z",
-      "action": "updated remark for BTS-10KG at MUTUR: “40% - liscence”"
     }
   ]
 }
