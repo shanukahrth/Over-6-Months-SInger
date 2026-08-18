@@ -11241,6 +11241,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:29:55",
       "lastUpdated": "2026-08-18T05:59:55.252Z"
+    },
+    "QLI-CE278A-TONER||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:31:05",
+      "lastUpdated": "2026-08-18T06:01:05.489Z"
     }
   },
   "showroomVisits": {
@@ -11609,6 +11616,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:31:05",
+      "iso": "2026-08-18T06:01:05.492Z",
+      "action": "updated remark for QLI-CE278A-TONER at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:30:01",
       "iso": "2026-08-18T06:00:01.508Z",
       "action": "updated remark for EPSON-B-L130-MGN at MAIN WAREHOUSE: “Scrap”"
@@ -11948,13 +11962,6 @@
       "time": "11:18:18",
       "iso": "2026-08-18T05:48:18.043Z",
       "action": "updated remark for CAN-C-745-B at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:18:02",
-      "iso": "2026-08-18T05:48:02.301Z",
-      "action": "updated remark for CAN-C-745S-B at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
