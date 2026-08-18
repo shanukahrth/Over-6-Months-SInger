@@ -13957,6 +13957,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:17:37",
       "lastUpdated": "2026-08-18T08:47:37.976Z"
+    },
+    "SLE32E920||BALANGODA - B": {
+      "remark": "20000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:17:30",
+      "lastUpdated": "2026-08-18T08:47:30.407Z"
+    },
+    "SLE32E810||BALANGODA - B": {
+      "remark": "20000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:18:02",
+      "lastUpdated": "2026-08-18T08:48:02.185Z"
     }
   },
   "showroomVisits": {
@@ -14323,6 +14337,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:18:02",
+      "iso": "2026-08-18T08:48:02.191Z",
+      "action": "updated remark for SLE32E810 at BALANGODA - B: “20000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:17:30",
+      "iso": "2026-08-18T08:47:30.413Z",
+      "action": "updated remark for SLE32E920 at BALANGODA - B: “20000”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "14:17:37",
@@ -14657,20 +14685,6 @@
       "time": "14:05:02",
       "iso": "2026-08-18T08:35:02.318Z",
       "action": "updated remark for WFL-SPM-75X60X7-S at POLPITHIGAMA: “Can sell by the 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:05:00",
-      "iso": "2026-08-18T08:35:00.979Z",
-      "action": "updated remark for WFL-SPM-72X60X7-S at POLPITHIGAMA: “Can sell by the 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:04:28",
-      "iso": "2026-08-18T08:34:28.820Z",
-      "action": "updated remark for WP-JUN-E-S at POLPITHIGAMA: “Can sell by the 31st of Aug”"
     }
   ]
 }
