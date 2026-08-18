@@ -13656,6 +13656,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:04:34",
       "lastUpdated": "2026-08-18T08:34:34.034Z"
+    },
+    "RIYLTA-MF12V5||BALANGODA - B": {
+      "remark": "Rtn",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:04:37",
+      "lastUpdated": "2026-08-18T08:34:37.514Z"
     }
   },
   "showroomVisits": {
@@ -14024,6 +14031,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:04:37",
+      "iso": "2026-08-18T08:34:37.518Z",
+      "action": "updated remark for RIYLTA-MF12V5 at BALANGODA - B: “Rtn”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:04:34",
       "iso": "2026-08-18T08:34:34.040Z",
       "action": "updated remark for RIYLTA-MF12V4 at BALANGODA - B: “Rtn”"
@@ -14363,13 +14377,6 @@
       "time": "13:48:42",
       "iso": "2026-08-18T08:18:42.457Z",
       "action": "updated remark for WF-PARIS-BR-S at BALANGODA - B: “30000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:48:38",
-      "iso": "2026-08-18T08:18:38.609Z",
-      "action": "updated remark for WF-PARIS-BL-S at BALANGODA - B: “30000”"
     }
   ]
 }
