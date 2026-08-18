@@ -11099,8 +11099,8 @@
       "remark": "no additional discount",
       "commentedBy": "Chamal Gunawardena",
       "commentDate": "2026-08-18",
-      "commentTime": "11:23:03",
-      "lastUpdated": "2026-08-18T05:53:03.115Z"
+      "commentTime": "11:35:48",
+      "lastUpdated": "2026-08-18T06:05:48.427Z"
     },
     "TFKW2320414||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 1,250",
@@ -11705,6 +11705,13 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:35:48",
+      "iso": "2026-08-18T06:05:48.428Z",
+      "action": "updated remark for PN-TH-32P401N at TRINCOMALEE B: “no additional discount”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:35:27",
@@ -12046,13 +12053,6 @@
       "time": "11:25:52",
       "iso": "2026-08-18T05:55:52.032Z",
       "action": "updated remark for PN-TH-55MX740N at TRINCOMALEE B: “40% total discount”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:25:40",
-      "iso": "2026-08-18T05:55:40.743Z",
-      "action": "updated remark for TFKW1290714 at MAIN WAREHOUSE: “Discount to Rs. 400”"
     }
   ]
 }
