@@ -11008,8 +11008,15 @@
       "remark": "Demo tv",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "11:13:47",
-      "lastUpdated": "2026-08-18T05:43:47.810Z"
+      "commentTime": "11:14:37",
+      "lastUpdated": "2026-08-18T05:44:37.143Z"
+    },
+    "PN-TH-55MX740N||MAIN WAREHOUSE": {
+      "remark": "Carton damage",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:15:27",
+      "lastUpdated": "2026-08-18T05:45:27.035Z"
     }
   },
   "showroomVisits": {
@@ -11376,6 +11383,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:15:27",
+      "iso": "2026-08-18T05:45:27.042Z",
+      "action": "updated remark for PN-TH-55MX740N at MAIN WAREHOUSE: “Carton damage”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:14:37",
+      "iso": "2026-08-18T05:44:37.160Z",
+      "action": "updated remark for SKY65X8700G at MAIN WAREHOUSE: “Demo tv”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:13:59",
@@ -11710,20 +11731,6 @@
       "time": "11:01:26",
       "iso": "2026-08-18T05:31:26.108Z",
       "action": "updated remark for SMGRT30K3322S8 at TRINCOMALEE: “Sold”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:00:55",
-      "iso": "2026-08-18T05:30:55.975Z",
-      "action": "updated remark for SL-INV-285H at TRINCOMALEE: “50% - dents on the door”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:00:03",
-      "iso": "2026-08-18T05:30:03.087Z",
-      "action": "updated remark for SLE32G690 at GALEWELA: “Damaged - 85%”"
     }
   ]
 }
