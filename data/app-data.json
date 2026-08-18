@@ -10681,6 +10681,34 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:58:17",
       "lastUpdated": "2026-08-18T05:28:17.095Z"
+    },
+    "SLE40D4000||MAIN WAREHOUSE": {
+      "remark": "Arpico",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:57:31",
+      "lastUpdated": "2026-08-18T05:27:31.909Z"
+    },
+    "SLE32D5100||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:58:23",
+      "lastUpdated": "2026-08-18T05:28:23.900Z"
+    },
+    "PN-TH-32P401N||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:58:58",
+      "lastUpdated": "2026-08-18T05:28:58.740Z"
+    },
+    "ULED32D4000||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:59:01",
+      "lastUpdated": "2026-08-18T05:29:01.912Z"
     }
   },
   "showroomVisits": {
@@ -11047,6 +11075,34 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:59:01",
+      "iso": "2026-08-18T05:29:01.917Z",
+      "action": "updated remark for ULED32D4000 at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:58:58",
+      "iso": "2026-08-18T05:28:58.760Z",
+      "action": "updated remark for PN-TH-32P401N at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:58:23",
+      "iso": "2026-08-18T05:28:23.930Z",
+      "action": "updated remark for SLE32D5100 at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:57:31",
+      "iso": "2026-08-18T05:27:31.917Z",
+      "action": "updated remark for SLE40D4000 at MAIN WAREHOUSE: “Arpico”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "10:58:17",
@@ -11367,34 +11423,6 @@
       "time": "10:44:28",
       "iso": "2026-08-18T05:14:28.495Z",
       "action": "updated remark for SL-24VNF at TRINCOMALEE: “80% - Cartin damage and unboxed”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "10:47:55",
-      "iso": "2026-08-18T05:17:55.822Z",
-      "action": "updated remark for RAVI-ECSMOP at MAIN WAREHOUSE: “Discount to Rs. 200”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "10:47:43",
-      "iso": "2026-08-18T05:17:43.240Z",
-      "action": "updated remark for RAVI-ISCRUB at MAIN WAREHOUSE: “Discount to Rs. 125”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:47:07",
-      "iso": "2026-08-18T05:17:07.113Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "10:47:19",
-      "iso": "2026-08-18T05:17:19.197Z",
-      "action": "updated remark for PN-TH-32M402N at PABAHINNA-LITE: “39999”"
     }
   ]
 }
