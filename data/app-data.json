@@ -11598,6 +11598,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:52:20",
       "lastUpdated": "2026-08-18T06:22:20.628Z"
+    },
+    "SL-12VNF-SO||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:52:42",
+      "lastUpdated": "2026-08-18T06:22:42.041Z"
     }
   },
   "showroomVisits": {
@@ -11966,6 +11973,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:52:42",
+      "iso": "2026-08-18T06:22:42.049Z",
+      "action": "updated remark for SL-12VNF-SO at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:52:20",
       "iso": "2026-08-18T06:22:20.635Z",
       "action": "updated remark for SAS-GRI12VN at MAIN WAREHOUSE: “Transfer to a shop”"
@@ -12305,13 +12319,6 @@
       "time": "11:39:16",
       "iso": "2026-08-18T06:09:16.762Z",
       "action": "updated remark for LFLCDCHAMP-S at TRINCOMALEE: “50% - Damaged”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:38:54",
-      "iso": "2026-08-18T06:08:54.775Z",
-      "action": "updated remark for LF-GALANT-S at TRINCOMALEE: “50%”"
     }
   ]
 }
