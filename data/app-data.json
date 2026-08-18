@@ -14804,6 +14804,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:17:12",
       "lastUpdated": "2026-08-18T09:47:12.693Z"
+    },
+    "SIN-PR-K340||BALANGODA C": {
+      "remark": "29000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:18:13",
+      "lastUpdated": "2026-08-18T09:48:13.260Z"
     }
   },
   "showroomVisits": {
@@ -15172,6 +15179,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "15:18:13",
+      "iso": "2026-08-18T09:48:13.266Z",
+      "action": "updated remark for SIN-PR-K340 at BALANGODA C: “29000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "15:17:34",
       "iso": "2026-08-18T09:47:34.426Z",
       "action": "updated remark for GEO-242D-SV at BALANGODA C: “5%”"
@@ -15511,13 +15525,6 @@
       "time": "14:57:21",
       "iso": "2026-08-18T09:27:21.968Z",
       "action": "updated remark for TF-NIDFP24-170 at BALANGODA C: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:56:55",
-      "iso": "2026-08-18T09:26:55.947Z",
-      "action": "updated remark for USI-ATC-302 at BALANGODA C: “20%”"
     }
   ]
 }
