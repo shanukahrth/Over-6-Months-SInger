@@ -10674,6 +10674,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:57:38",
       "lastUpdated": "2026-08-18T05:27:38.464Z"
+    },
+    "WC-RT9920||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs.300",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:58:17",
+      "lastUpdated": "2026-08-18T05:28:17.095Z"
     }
   },
   "showroomVisits": {
@@ -11040,6 +11047,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "10:58:17",
+      "iso": "2026-08-18T05:28:17.099Z",
+      "action": "updated remark for WC-RT9920 at MAIN WAREHOUSE: “Discount to Rs.300”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "10:58:14",
@@ -11381,13 +11395,6 @@
       "time": "10:47:19",
       "iso": "2026-08-18T05:17:19.197Z",
       "action": "updated remark for PN-TH-32M402N at PABAHINNA-LITE: “39999”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "10:47:00",
-      "iso": "2026-08-18T05:17:00.796Z",
-      "action": "updated remark for SLE43G890 at PABAHINNA-LITE: “69999”"
     }
   ]
 }
