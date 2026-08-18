@@ -12753,6 +12753,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:43:17",
       "lastUpdated": "2026-08-18T07:13:17.761Z"
+    },
+    "KA-LW-185A||BALANGODA": {
+      "remark": "3000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:43:56",
+      "lastUpdated": "2026-08-18T07:13:56.267Z"
     }
   },
   "showroomVisits": {
@@ -13121,6 +13128,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:43:56",
+      "iso": "2026-08-18T07:13:56.272Z",
+      "action": "updated remark for KA-LW-185A at BALANGODA: “3000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:43:17",
       "iso": "2026-08-18T07:13:17.765Z",
       "action": "updated remark for MID-MF-TN40D2 at BALANGODA: “Sold”"
@@ -13460,13 +13474,6 @@
       "time": "12:28:46",
       "iso": "2026-08-18T06:58:46.382Z",
       "action": "updated remark for WF-BRN-ST-RTK-S at BALANGODA: “5000”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:29:43",
-      "iso": "2026-08-18T06:59:43.607Z",
-      "action": "updated remark for NVC990T at TRINCOMALEE B: “90% discount as product is not working”"
     }
   ]
 }
