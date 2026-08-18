@@ -11043,8 +11043,8 @@
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "11:17:46",
-      "lastUpdated": "2026-08-18T05:47:46.481Z"
+      "commentTime": "11:18:18",
+      "lastUpdated": "2026-08-18T05:48:18.041Z"
     },
     "CAN-C-745S-B||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -11420,6 +11420,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:18:18",
+      "iso": "2026-08-18T05:48:18.043Z",
+      "action": "updated remark for CAN-C-745-B at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:18:02",
       "iso": "2026-08-18T05:48:02.301Z",
       "action": "updated remark for CAN-C-745S-B at MAIN WAREHOUSE: “Scrap”"
@@ -11759,13 +11766,6 @@
       "time": "11:02:34",
       "iso": "2026-08-18T05:32:34.399Z",
       "action": "updated remark for SLE86G6E at MAIN WAREHOUSE: “Transfer to normal and sell”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:02:07",
-      "iso": "2026-08-18T05:32:07.260Z",
-      "action": "updated remark for SLE43G890 at MAIN WAREHOUSE: “Transfer to shops”"
     }
   ]
 }
