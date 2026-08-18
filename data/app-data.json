@@ -15548,11 +15548,11 @@
       "lastUpdated": "2026-08-18T10:52:54.117Z"
     },
     "PN-SC-UX100GS-K||HINGURAKGODA": {
-      "remark": "Transfer",
+      "remark": "ICD needs to remove the reserved location to report",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "16:23:40",
-      "lastUpdated": "2026-08-18T10:53:40.050Z"
+      "commentTime": "16:25:04",
+      "lastUpdated": "2026-08-18T10:55:04.138Z"
     },
     "SIN-MH44SW||HINGURAKGODA": {
       "remark": "85%",
@@ -16003,6 +16003,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "16:25:04",
+      "iso": "2026-08-18T10:55:04.139Z",
+      "action": "updated remark for PN-SC-UX100GS-K at HINGURAKGODA: “ICD needs to remove the reserved location to report”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "16:24:12",
@@ -16344,13 +16351,6 @@
       "time": "16:05:28",
       "iso": "2026-08-18T10:35:28.829Z",
       "action": "updated remark for SLE40D600A at DIYASENAPURA: “60% discount”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "16:03:11",
-      "iso": "2026-08-18T10:33:11.101Z",
-      "action": "updated remark for SLE32E930 at DIYASENAPURA: “90% discount - damage unit”"
     }
   ]
 }
