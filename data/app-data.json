@@ -10597,6 +10597,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:54:40",
       "lastUpdated": "2026-08-18T05:24:40.589Z"
+    },
+    "SLE32D5000||MAIN WAREHOUSE": {
+      "remark": "Code difference. Price difference to approve commercial",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:53:40",
+      "lastUpdated": "2026-08-18T05:23:40.538Z"
+    },
+    "ULED32D5000||MAIN WAREHOUSE": {
+      "remark": "Code difference. Price difference to approve commercial",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:55:42",
+      "lastUpdated": "2026-08-18T05:25:42.340Z"
     }
   },
   "showroomVisits": {
@@ -10963,6 +10977,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:55:42",
+      "iso": "2026-08-18T05:25:42.365Z",
+      "action": "updated remark for ULED32D5000 at MAIN WAREHOUSE: “Code difference. Price difference to approve commercial”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:53:40",
+      "iso": "2026-08-18T05:23:40.547Z",
+      "action": "updated remark for SLE32D5000 at MAIN WAREHOUSE: “Code difference. Price difference to approve commercial”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "10:54:40",
@@ -11297,20 +11325,6 @@
       "time": "10:42:25",
       "iso": "2026-08-18T05:12:25.905Z",
       "action": "updated remark for SLE40D600A at TRINCOMALEE B: “90% - panel is damaged”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:45:29",
-      "iso": "2026-08-18T05:15:29.356Z",
-      "action": "updated remark for ULED32D60A at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:33:15",
-      "iso": "2026-08-18T05:03:15.201Z",
-      "action": "updated remark for SASI48CC at MAIN WAREHOUSE: “Transfer to budget shop offer 80%”"
     }
   ]
 }
