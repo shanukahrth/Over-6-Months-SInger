@@ -10016,6 +10016,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:21:36",
       "lastUpdated": "2026-08-18T04:51:36.290Z"
+    },
+    "SLE43D1800TC||TRINCOMALEE": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:21:43",
+      "lastUpdated": "2026-08-18T04:51:43.739Z"
     }
   },
   "showroomVisits": {
@@ -10384,6 +10391,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:21:43",
+      "iso": "2026-08-18T04:51:43.741Z",
+      "action": "updated remark for SLE43D1800TC at TRINCOMALEE: “70%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:21:36",
       "iso": "2026-08-18T04:51:36.292Z",
       "action": "updated remark for SLE42D2070TC at TRINCOMALEE: “70%”"
@@ -10723,13 +10737,6 @@
       "time": "09:55:37",
       "iso": "2026-08-18T04:25:37.465Z",
       "action": "updated MUTUR showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "09:55:34",
-      "iso": "2026-08-18T04:25:34.960Z",
-      "action": "updated KINNIYA showroom (team: Chamal and Kaveesha )"
     }
   ]
 }
