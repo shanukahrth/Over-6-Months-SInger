@@ -16171,11 +16171,11 @@
       "lastUpdated": "2026-08-18T12:03:35.324Z"
     },
     "NCPO-FP200||NIVITHIGALA": {
-      "remark": "30%",
+      "remark": "Sold",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "17:33:38",
-      "lastUpdated": "2026-08-18T12:03:38.147Z"
+      "commentTime": "17:34:02",
+      "lastUpdated": "2026-08-18T12:04:02.871Z"
     },
     "NCPO-FP250||NIVITHIGALA": {
       "remark": "3000",
@@ -16570,6 +16570,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "17:34:02",
+      "iso": "2026-08-18T12:04:02.877Z",
+      "action": "updated remark for NCPO-FP200 at NIVITHIGALA: “Sold”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-18",
       "time": "17:33:40",
@@ -16911,13 +16918,6 @@
       "time": "17:22:40",
       "iso": "2026-08-18T11:52:40.083Z",
       "action": "updated remark for FAN-P-1605H at NIVITHIGALA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:22:22",
-      "iso": "2026-08-18T11:52:22.619Z",
-      "action": "updated remark for KDK-N56YG at NIVITHIGALA: “30000”"
     }
   ]
 }
