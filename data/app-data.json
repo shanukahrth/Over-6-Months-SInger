@@ -10800,6 +10800,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:02:27",
       "lastUpdated": "2026-08-18T05:32:27.377Z"
+    },
+    "USI-ATC-302||GALEWELA": {
+      "remark": "Damaged",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:02:45",
+      "lastUpdated": "2026-08-18T05:32:45.629Z"
     }
   },
   "showroomVisits": {
@@ -11168,6 +11175,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "11:02:45",
+      "iso": "2026-08-18T05:32:45.633Z",
+      "action": "updated remark for USI-ATC-302 at GALEWELA: “Damaged”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "11:02:27",
       "iso": "2026-08-18T05:32:27.379Z",
       "action": "updated remark for UPRO-12000 at GALEWELA: “Return to Warehouse”"
@@ -11507,13 +11521,6 @@
       "time": "10:52:58",
       "iso": "2026-08-18T05:22:58.832Z",
       "action": "updated remark for MHC-V13 at GALEWELA: “Sold”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:52:24",
-      "iso": "2026-08-18T05:22:24.999Z",
-      "action": "updated remark for MB-SAFARI4S-BLK at GALEWELA: “Can sell by 31st of Aug”"
     }
   ]
 }
