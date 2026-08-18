@@ -11283,6 +11283,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:32:44",
       "lastUpdated": "2026-08-18T06:02:44.907Z"
+    },
+    "CAN-TN-054-C||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:32:59",
+      "lastUpdated": "2026-08-18T06:02:59.489Z"
     }
   },
   "showroomVisits": {
@@ -11649,6 +11656,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:32:59",
+      "iso": "2026-08-18T06:02:59.492Z",
+      "action": "updated remark for CAN-TN-054-C at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:32:44",
@@ -11990,13 +12004,6 @@
       "time": "11:21:07",
       "iso": "2026-08-18T05:51:07.221Z",
       "action": "updated remark for PB-AHD1160B at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:20:42",
-      "iso": "2026-08-18T05:50:42.273Z",
-      "action": "updated remark for V-MC-303-PG2 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
