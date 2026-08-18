@@ -13460,6 +13460,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:54:33",
       "lastUpdated": "2026-08-18T08:24:33.898Z"
+    },
+    "BRC-CASERL20||BALANGODA - B": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:54:37",
+      "lastUpdated": "2026-08-18T08:24:37.283Z"
     }
   },
   "showroomVisits": {
@@ -13828,6 +13835,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:54:37",
+      "iso": "2026-08-18T08:24:37.288Z",
+      "action": "updated remark for BRC-CASERL20 at BALANGODA - B: “30%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:54:33",
       "iso": "2026-08-18T08:24:33.903Z",
       "action": "updated remark for NCPO-FP250 at BALANGODA - B: “30%”"
@@ -14167,13 +14181,6 @@
       "time": "13:15:56",
       "iso": "2026-08-18T07:45:56.148Z",
       "action": "updated remark for WP-SS-SUB1-S at BALANGODA: “35000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:15:39",
-      "iso": "2026-08-18T07:45:39.258Z",
-      "action": "updated remark for WP-WDC11704RG-G at BALANGODA: “169999”"
     }
   ]
 }
