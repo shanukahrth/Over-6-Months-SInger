@@ -15254,11 +15254,11 @@
       "lastUpdated": "2026-08-18T10:19:19.784Z"
     },
     "GEO-242D-SV||HINGURAKGODA": {
-      "remark": "25%",
+      "remark": "35% - Display",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:49:50",
-      "lastUpdated": "2026-08-18T10:19:50.238Z"
+      "commentTime": "15:51:01",
+      "lastUpdated": "2026-08-18T10:21:01.542Z"
     },
     "MID-DSK38EU5||MAIN WAREHOUSE": {
       "remark": "Transfer to shops",
@@ -15632,6 +15632,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:51:01",
+      "iso": "2026-08-18T10:21:01.543Z",
+      "action": "updated remark for GEO-242D-SV at HINGURAKGODA: “35% - Display”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "15:50:43",
@@ -15973,13 +15980,6 @@
       "time": "15:37:54",
       "iso": "2026-08-18T10:07:54.623Z",
       "action": "updated remark for TCLED32D3000 at HINGURAKGODA: “40% - Revert”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:36:53",
-      "iso": "2026-08-18T10:06:53.295Z",
-      "action": "updated remark for TCLED28B2500 at HINGURAKGODA: “90% - EOL and Penal damaged”"
     }
   ]
 }
