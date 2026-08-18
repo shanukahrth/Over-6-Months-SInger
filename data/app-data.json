@@ -10079,6 +10079,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:25:07",
       "lastUpdated": "2026-08-18T04:55:07.894Z"
+    },
+    "TCL65C655||TRINCOMALEE": {
+      "remark": "50% - Displayed",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:25:14",
+      "lastUpdated": "2026-08-18T04:55:14.004Z"
     }
   },
   "showroomVisits": {
@@ -10447,6 +10454,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:25:14",
+      "iso": "2026-08-18T04:55:14.007Z",
+      "action": "updated remark for TCL65C655 at TRINCOMALEE: “50% - Displayed”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:25:07",
       "iso": "2026-08-18T04:55:07.895Z",
       "action": "updated remark for TCL43S5400 at TRINCOMALEE: “Display damaged - 70%”"
@@ -10786,13 +10800,6 @@
       "time": "09:56:39",
       "iso": "2026-08-18T04:26:39.293Z",
       "action": "updated remark for SN-SMI-285 at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:56:29",
-      "iso": "2026-08-18T04:26:29.238Z",
-      "action": "updated remark for B-RDNI315XIB300P at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
     }
   ]
 }
