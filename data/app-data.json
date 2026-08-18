@@ -12368,6 +12368,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:22:19",
       "lastUpdated": "2026-08-18T06:52:19.526Z"
+    },
+    "MSI-14G-I5-512GB-F1M-GRY||BALANGODA": {
+      "remark": "Defect",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:23:00",
+      "lastUpdated": "2026-08-18T06:53:00.258Z"
+    },
+    "AS-14G-I5-8-512-B5850-SIL||BALANGODA": {
+      "remark": "Defect",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:23:04",
+      "lastUpdated": "2026-08-18T06:53:04.675Z"
     }
   },
   "showroomVisits": {
@@ -12734,6 +12748,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:23:04",
+      "iso": "2026-08-18T06:53:04.676Z",
+      "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at BALANGODA: “Defect”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:23:00",
+      "iso": "2026-08-18T06:53:00.259Z",
+      "action": "updated remark for MSI-14G-I5-512GB-F1M-GRY at BALANGODA: “Defect”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "12:22:19",
@@ -13068,20 +13096,6 @@
       "time": "12:13:30",
       "iso": "2026-08-18T06:43:30.589Z",
       "action": "updated remark for HU-FREEBUD-4-SIL at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:13:45",
-      "iso": "2026-08-18T06:43:45.968Z",
-      "action": "updated remark for SL-157WS at MAIN WAREHOUSE: “Physically available”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:12:24",
-      "iso": "2026-08-18T06:42:24.821Z",
-      "action": "updated remark for SIN-MRG-1008C at MELSIRIPURA: “Total Discount - 10%”"
     }
   ]
 }
