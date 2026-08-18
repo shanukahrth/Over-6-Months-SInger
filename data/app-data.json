@@ -14671,6 +14671,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:12:14",
       "lastUpdated": "2026-08-18T09:42:14.060Z"
+    },
+    "UJB-LB6027||BALANGODA C": {
+      "remark": "3500",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:12:30",
+      "lastUpdated": "2026-08-18T09:42:30.000Z"
+    },
+    "IWH-2500WL||BALANGODA C": {
+      "remark": "1000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:12:42",
+      "lastUpdated": "2026-08-18T09:42:42.679Z"
     }
   },
   "showroomVisits": {
@@ -15039,6 +15053,27 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "15:12:42",
+      "iso": "2026-08-18T09:42:42.683Z",
+      "action": "updated remark for IWH-2500WL at BALANGODA C: “1000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "15:12:38",
+      "iso": "2026-08-18T09:42:38.023Z",
+      "action": "updated remark for IWH-2500WL at BALANGODA C: “1000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "15:12:30",
+      "iso": "2026-08-18T09:42:30.005Z",
+      "action": "updated remark for UJB-LB6027 at BALANGODA C: “3500”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "15:12:14",
       "iso": "2026-08-18T09:42:14.079Z",
       "action": "updated remark for TF-GCA-1336 at BALANGODA C: “15%”"
@@ -15364,27 +15399,6 @@
       "time": "14:06:29",
       "iso": "2026-08-18T08:36:29.856Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at MAIN WAREHOUSE: “Display, scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "14:05:59",
-      "iso": "2026-08-18T08:35:59.855Z",
-      "action": "updated remark for DH-I-A22EP-G-IMOU at MAIN WAREHOUSE: “Display,”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "14:04:35",
-      "iso": "2026-08-18T08:34:35.298Z",
-      "action": "updated remark for DH-XVR1B16-I at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:29:55",
-      "iso": "2026-08-18T06:59:55.851Z",
-      "action": "updated remark for DELL-MS5120W-WL at MAIN WAREHOUSE: “Discount to Rs.2,000”"
     }
   ]
 }
