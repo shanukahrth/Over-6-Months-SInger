@@ -11430,6 +11430,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:42:12",
       "lastUpdated": "2026-08-18T06:12:12.412Z"
+    },
+    "M-SRK10YXP-W7||TRINCOMALEE B": {
+      "remark": "30% total discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:43:18",
+      "lastUpdated": "2026-08-18T06:13:18.785Z"
     }
   },
   "showroomVisits": {
@@ -11796,6 +11803,13 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:43:18",
+      "iso": "2026-08-18T06:13:18.786Z",
+      "action": "updated remark for M-SRK10YXP-W7 at TRINCOMALEE B: “30% total discount”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:42:12",
@@ -12137,13 +12151,6 @@
       "time": "11:29:09",
       "iso": "2026-08-18T05:59:09.637Z",
       "action": "updated remark for CAN-B-790-M at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:29:08",
-      "iso": "2026-08-18T05:59:08.796Z",
-      "action": "updated remark for HP-IB-GT52-YELLOW at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
