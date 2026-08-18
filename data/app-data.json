@@ -11922,11 +11922,11 @@
       "lastUpdated": "2026-08-18T06:34:38.357Z"
     },
     "HFPA-GRAVITY-BLU||MELSIRIPURA": {
-      "remark": "Damged - 60%",
+      "remark": "Damaged - 60%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-18",
-      "commentTime": "12:05:01",
-      "lastUpdated": "2026-08-18T06:35:01.275Z"
+      "commentTime": "12:05:05",
+      "lastUpdated": "2026-08-18T06:35:05.175Z"
     }
   },
   "showroomVisits": {
@@ -12295,6 +12295,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "12:05:05",
+      "iso": "2026-08-18T06:35:05.176Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at MELSIRIPURA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "12:05:01",
       "iso": "2026-08-18T06:35:01.277Z",
       "action": "updated remark for HFPA-GRAVITY-BLU at MELSIRIPURA: “Damged - 60%”"
@@ -12634,13 +12641,6 @@
       "time": "11:54:03",
       "iso": "2026-08-18T06:24:03.101Z",
       "action": "updated remark for SL-9VNF-SO at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:53:13",
-      "iso": "2026-08-18T06:23:13.900Z",
-      "action": "updated remark for SIN-PSVX938N at TRINCOMALEE B: “Rs.18,500/- Special Price”"
     }
   ]
 }
