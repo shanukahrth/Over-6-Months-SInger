@@ -14559,6 +14559,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:56:17",
       "lastUpdated": "2026-08-18T09:26:17.637Z"
+    },
+    "WF-QUEEN-311-BR-S||BALANGODA C": {
+      "remark": "20%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:53:11",
+      "lastUpdated": "2026-08-18T09:23:11.242Z"
+    },
+    "USI-ATC-302||BALANGODA C": {
+      "remark": "20%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:56:55",
+      "lastUpdated": "2026-08-18T09:26:55.927Z"
+    },
+    "TF-NIDFP24-170||BALANGODA C": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:57:21",
+      "lastUpdated": "2026-08-18T09:27:21.964Z"
     }
   },
   "showroomVisits": {
@@ -14925,6 +14946,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:57:21",
+      "iso": "2026-08-18T09:27:21.968Z",
+      "action": "updated remark for TF-NIDFP24-170 at BALANGODA C: “30%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:56:55",
+      "iso": "2026-08-18T09:26:55.947Z",
+      "action": "updated remark for USI-ATC-302 at BALANGODA C: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:53:11",
+      "iso": "2026-08-18T09:23:11.247Z",
+      "action": "updated remark for WF-QUEEN-311-BR-S at BALANGODA C: “20%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "14:56:17",
@@ -15252,27 +15294,6 @@
       "time": "14:52:31",
       "iso": "2026-08-18T09:22:31.271Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at BALANGODA C: “Showroom use”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:52:09",
-      "iso": "2026-08-18T09:22:09.455Z",
-      "action": "updated remark for LF-LOUVRE-BSC-R-S at BALANGODA C: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:50:53",
-      "iso": "2026-08-18T09:20:53.851Z",
-      "action": "updated remark for LF-CLARA-STU-SWW-S at BALANGODA C: “35000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:50:44",
-      "iso": "2026-08-18T09:20:44.161Z",
-      "action": "updated remark for LF-OFI-ST-001-SHW-S at BALANGODA C: “25000”"
     }
   ]
 }
