@@ -10177,6 +10177,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:41:11",
       "lastUpdated": "2026-08-18T05:11:11.248Z"
+    },
+    "HFPA-EVENT-BLC||PABAHINNA-LITE": {
+      "remark": "20000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:42:15",
+      "lastUpdated": "2026-08-18T05:12:15.018Z"
     }
   },
   "showroomVisits": {
@@ -10543,6 +10550,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "10:42:15",
+      "iso": "2026-08-18T05:12:15.034Z",
+      "action": "updated remark for HFPA-EVENT-BLC at PABAHINNA-LITE: “20000”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "10:41:11",
@@ -10884,13 +10898,6 @@
       "time": "10:15:38",
       "iso": "2026-08-18T04:45:38.777Z",
       "action": "updated remark for SLE32D1800 at TRINCOMALEE: “Reverts - 70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:14:55",
-      "iso": "2026-08-18T04:44:55.692Z",
-      "action": "updated remark for SLE32D1800 at TRINCOMALEE: “Reverts”"
     }
   ]
 }
