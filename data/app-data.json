@@ -13082,6 +13082,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:00:33",
       "lastUpdated": "2026-08-18T07:30:33.174Z"
+    },
+    "BES-CRS-51||BALANGODA": {
+      "remark": "10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:00:54",
+      "lastUpdated": "2026-08-18T07:30:54.503Z"
     }
   },
   "showroomVisits": {
@@ -13450,6 +13457,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:00:54",
+      "iso": "2026-08-18T07:30:54.507Z",
+      "action": "updated remark for BES-CRS-51 at BALANGODA: “10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:00:33",
       "iso": "2026-08-18T07:30:33.178Z",
       "action": "updated remark for UPS-N650 at BALANGODA: “10000”"
@@ -13789,13 +13803,6 @@
       "time": "12:44:33",
       "iso": "2026-08-18T07:14:33.729Z",
       "action": "updated remark for DVP-SR370 at TRINCOMALEE B: “90% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:43:56",
-      "iso": "2026-08-18T07:13:56.272Z",
-      "action": "updated remark for KA-LW-185A at BALANGODA: “3000”"
     }
   ]
 }
