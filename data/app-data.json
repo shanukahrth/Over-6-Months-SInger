@@ -15154,6 +15154,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:44:50",
       "lastUpdated": "2026-08-18T10:14:50.995Z"
+    },
+    "R-BWS-02||NIKAWARATIYA - B": {
+      "remark": "Display/Damaged - 10%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:44:58",
+      "lastUpdated": "2026-08-18T10:14:58.338Z"
     }
   },
   "showroomVisits": {
@@ -15520,6 +15527,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "15:44:58",
+      "iso": "2026-08-18T10:14:58.339Z",
+      "action": "updated remark for R-BWS-02 at NIKAWARATIYA - B: “Display/Damaged - 10%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:44:50",
@@ -15861,13 +15875,6 @@
       "time": "15:30:46",
       "iso": "2026-08-18T10:00:46.284Z",
       "action": "updated remark for PLAS-07012 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:30:43",
-      "iso": "2026-08-18T10:00:43.641Z",
-      "action": "updated remark for CUH-1206AB01 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
