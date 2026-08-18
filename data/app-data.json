@@ -11036,8 +11036,8 @@
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "11:16:55",
-      "lastUpdated": "2026-08-18T05:46:55.667Z"
+      "commentTime": "11:29:14",
+      "lastUpdated": "2026-08-18T05:59:14.225Z"
     },
     "CAN-C-745-B||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -11225,8 +11225,8 @@
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "11:29:08",
-      "lastUpdated": "2026-08-18T05:59:08.794Z"
+      "commentTime": "11:29:15",
+      "lastUpdated": "2026-08-18T05:59:15.132Z"
     },
     "CAN-B-790-M||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -11609,6 +11609,20 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:29:15",
+      "iso": "2026-08-18T05:59:15.135Z",
+      "action": "updated remark for HP-IB-GT52-YELLOW at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:29:14",
+      "iso": "2026-08-18T05:59:14.227Z",
+      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:29:11",
       "iso": "2026-08-18T05:59:11.294Z",
       "action": "updated remark for CAN-B-790-Y at MAIN WAREHOUSE: “Scrap”"
@@ -11941,20 +11955,6 @@
       "time": "11:16:37",
       "iso": "2026-08-18T05:46:37.045Z",
       "action": "updated remark for KD-50X75K at MAIN WAREHOUSE: “Transfer to shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:16:06",
-      "iso": "2026-08-18T05:46:06.511Z",
-      "action": "updated remark for KD-43X75K at MAIN WAREHOUSE: “Arpico”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:15:27",
-      "iso": "2026-08-18T05:45:27.042Z",
-      "action": "updated remark for PN-TH-55MX740N at MAIN WAREHOUSE: “Carton damage”"
     }
   ]
 }
