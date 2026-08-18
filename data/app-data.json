@@ -15077,6 +15077,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:39:16",
       "lastUpdated": "2026-08-18T10:09:16.272Z"
+    },
+    "IWH-2500WL||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 1,000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:32:14",
+      "lastUpdated": "2026-08-18T10:02:14.044Z"
+    },
+    "QT-ANKLEWEIGHT-1KG||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 1,000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:39:13",
+      "lastUpdated": "2026-08-18T10:09:13.136Z"
     }
   },
   "showroomVisits": {
@@ -15443,6 +15457,27 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "15:39:13",
+      "iso": "2026-08-18T10:09:13.137Z",
+      "action": "updated remark for QT-ANKLEWEIGHT-1KG at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "15:32:14",
+      "iso": "2026-08-18T10:02:14.046Z",
+      "action": "updated remark for IWH-2500WL at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "15:32:09",
+      "iso": "2026-08-18T10:02:09.185Z",
+      "action": "updated remark for IWH-2500WL at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:39:16",
@@ -15770,27 +15805,6 @@
       "time": "15:18:43",
       "iso": "2026-08-18T09:48:43.323Z",
       "action": "updated remark for PN-TH-65MX740N at BALANGODA C: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:18:13",
-      "iso": "2026-08-18T09:48:13.266Z",
-      "action": "updated remark for SIN-PR-K340 at BALANGODA C: “29000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:17:34",
-      "iso": "2026-08-18T09:47:34.426Z",
-      "action": "updated remark for GEO-242D-SV at BALANGODA C: “5%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:17:22",
-      "iso": "2026-08-18T09:47:22.254Z",
-      "action": "updated remark for GEO-242D-SV at BALANGODA C: “5%”"
     }
   ]
 }
