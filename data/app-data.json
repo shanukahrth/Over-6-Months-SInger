@@ -15385,6 +15385,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:02:01",
       "lastUpdated": "2026-08-18T10:32:01.451Z"
+    },
+    "RIYLTA-MF12V51A||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:04:18",
+      "lastUpdated": "2026-08-18T10:34:18.556Z"
+    },
+    "RIYLTA-MF12V92A||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:04:22",
+      "lastUpdated": "2026-08-18T10:34:22.348Z"
+    },
+    "RIYLTA-MF12V4||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:04:25",
+      "lastUpdated": "2026-08-18T10:34:25.297Z"
     }
   },
   "showroomVisits": {
@@ -15751,6 +15772,27 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:04:25",
+      "iso": "2026-08-18T10:34:25.303Z",
+      "action": "updated remark for RIYLTA-MF12V4 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:04:22",
+      "iso": "2026-08-18T10:34:22.353Z",
+      "action": "updated remark for RIYLTA-MF12V92A at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:04:18",
+      "iso": "2026-08-18T10:34:18.564Z",
+      "action": "updated remark for RIYLTA-MF12V51A at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "16:03:11",
@@ -16078,27 +16120,6 @@
       "time": "15:44:39",
       "iso": "2026-08-18T10:14:39.136Z",
       "action": "updated remark for SLE42D2070TC at HINGURAKGODA: “Exchange needs to be performed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:44:16",
-      "iso": "2026-08-18T10:14:16.293Z",
-      "action": "updated remark for SLE42D2070TC at HINGURAKGODA: “Ex”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:43:56",
-      "iso": "2026-08-18T10:13:56.952Z",
-      "action": "updated remark for SLE40D600A at HINGURAKGODA: “50% Can sell (Parts missing)”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:43:53",
-      "iso": "2026-08-18T10:13:53.576Z",
-      "action": "updated remark for SLE40D600A at HINGURAKGODA: “50% Can sell (Parts missing )”"
     }
   ]
 }
