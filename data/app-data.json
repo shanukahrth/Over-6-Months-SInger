@@ -16414,6 +16414,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:41:24",
       "lastUpdated": "2026-08-18T12:11:24.643Z"
+    },
+    "ULED32D4000||WARIYAPOLA": {
+      "remark": "Revert Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:41:02",
+      "lastUpdated": "2026-08-18T12:11:02.562Z"
+    },
+    "UR591SW||WARIYAPOLA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:41:19",
+      "lastUpdated": "2026-08-18T12:11:19.861Z"
     }
   },
   "showroomVisits": {
@@ -16780,6 +16794,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "17:41:19",
+      "iso": "2026-08-18T12:11:19.863Z",
+      "action": "updated remark for UR591SW at WARIYAPOLA: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "17:41:02",
+      "iso": "2026-08-18T12:11:02.565Z",
+      "action": "updated remark for ULED32D4000 at WARIYAPOLA: “Revert Damaged - 90%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "17:41:24",
@@ -17114,20 +17142,6 @@
       "time": "17:33:02",
       "iso": "2026-08-18T12:03:02.536Z",
       "action": "updated remark for TF-KD24-061 at NIVITHIGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:32:59",
-      "iso": "2026-08-18T12:02:59.835Z",
-      "action": "updated remark for TF-FP24-SCR342 at NIVITHIGALA: “30%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "17:32:42",
-      "iso": "2026-08-18T12:02:42.249Z",
-      "action": "updated remark for HON-X6B-6-128-GRN at WARIYAPOLA: “Can sell by 31st of Aug”"
     }
   ]
 }
