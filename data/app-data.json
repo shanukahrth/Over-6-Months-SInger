@@ -11619,6 +11619,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:53:17",
       "lastUpdated": "2026-08-18T06:23:17.297Z"
+    },
+    "PN-SC-BMAX5E-K||TRINCOMALEE B": {
+      "remark": "50% total discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:52:28",
+      "lastUpdated": "2026-08-18T06:22:28.795Z"
+    },
+    "SIN-PSVX938N||TRINCOMALEE B": {
+      "remark": "Rs.18,500/- Special Price",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:53:13",
+      "lastUpdated": "2026-08-18T06:23:13.898Z"
     }
   },
   "showroomVisits": {
@@ -11985,6 +11999,27 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:53:13",
+      "iso": "2026-08-18T06:23:13.900Z",
+      "action": "updated remark for SIN-PSVX938N at TRINCOMALEE B: “Rs.18,500/- Special Price”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:52:28",
+      "iso": "2026-08-18T06:22:28.796Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at TRINCOMALEE B: “50% total discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:52:19",
+      "iso": "2026-08-18T06:22:19.709Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at TRINCOMALEE B: “50% total discount”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "11:53:17",
@@ -12312,27 +12347,6 @@
       "time": "11:41:04",
       "iso": "2026-08-18T06:11:04.103Z",
       "action": "updated remark for WFL-PILWFB-16X24-S at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:40:35",
-      "iso": "2026-08-18T06:10:35.987Z",
-      "action": "updated remark for WF-LEXUS-BDQ-S at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:40:17",
-      "iso": "2026-08-18T06:10:17.106Z",
-      "action": "updated remark for PF-CAFE-WF-S at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:39:55",
-      "iso": "2026-08-18T06:09:55.390Z",
-      "action": "updated remark for PN-TH-55MX740N at TRINCOMALEE B (cleared)"
     }
   ]
 }
