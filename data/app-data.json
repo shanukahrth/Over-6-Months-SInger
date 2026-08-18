@@ -13266,11 +13266,11 @@
       "lastUpdated": "2026-08-18T08:10:50.877Z"
     },
     "FAN-P-SF1605HR||BALANGODA - B": {
-      "remark": "Sellable",
+      "remark": "10%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "13:41:22",
-      "lastUpdated": "2026-08-18T08:11:22.304Z"
+      "commentTime": "13:43:22",
+      "lastUpdated": "2026-08-18T08:13:22.212Z"
     },
     "FAN-P-1605H||BALANGODA - B": {
       "remark": "1",
@@ -13646,6 +13646,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:43:22",
+      "iso": "2026-08-18T08:13:22.216Z",
+      "action": "updated remark for FAN-P-SF1605HR at BALANGODA - B: “10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:43:17",
       "iso": "2026-08-18T08:13:17.485Z",
       "action": "updated remark for FAN-P-1605H at BALANGODA - B: “1”"
@@ -13985,13 +13992,6 @@
       "time": "12:56:30",
       "iso": "2026-08-18T07:26:30.843Z",
       "action": "updated remark for ZTE-A55-4-128GB-ORNG at BALANGODA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:56:16",
-      "iso": "2026-08-18T07:26:16.169Z",
-      "action": "updated remark for SMG-SM-A057F-6-128-B at BALANGODA: “Damaged”"
     }
   ]
 }
