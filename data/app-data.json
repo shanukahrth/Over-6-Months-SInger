@@ -9722,6 +9722,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:42:58",
       "lastUpdated": "2026-08-18T04:12:58.729Z"
+    },
+    "WP-NEO258NF||MAIN WAREHOUSE": {
+      "remark": "Code difference physical and system count in out needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:44:22",
+      "lastUpdated": "2026-08-18T04:14:22.687Z"
     }
   },
   "showroomVisits": {
@@ -10047,6 +10054,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:44:22",
+      "iso": "2026-08-18T04:14:22.699Z",
+      "action": "updated remark for WP-NEO258NF at MAIN WAREHOUSE: “Code difference physical and system count in out needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:43:49",
+      "iso": "2026-08-18T04:13:49.187Z",
+      "action": "updated remark for WP-NEO258NF at MAIN WAREHOUSE: “Code difference physical and system”"
+    },
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
@@ -10382,20 +10403,6 @@
       "time": "09:26:47",
       "iso": "2026-08-18T03:56:47.353Z",
       "action": "updated remark for ACER-PJ-X1226AH at NAULA: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:26:03",
-      "iso": "2026-08-18T03:56:03.190Z",
-      "action": "updated remark for TCL30E-3-64-GRY at NAULA: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:25:43",
-      "iso": "2026-08-18T03:55:43.730Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at NAULA: “Display - 10%”"
     }
   ]
 }
