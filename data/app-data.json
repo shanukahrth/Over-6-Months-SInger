@@ -13110,6 +13110,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:05:42",
       "lastUpdated": "2026-08-18T07:35:42.471Z"
+    },
+    "SMGUA32N4010||BALANGODA": {
+      "remark": "25000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:05:58",
+      "lastUpdated": "2026-08-18T07:35:58.137Z"
     }
   },
   "showroomVisits": {
@@ -13478,6 +13485,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:05:58",
+      "iso": "2026-08-18T07:35:58.143Z",
+      "action": "updated remark for SMGUA32N4010 at BALANGODA: “25000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:05:42",
       "iso": "2026-08-18T07:35:42.475Z",
       "action": "updated remark for PN-TH-32M401N at BALANGODA: “39000”"
@@ -13817,13 +13831,6 @@
       "time": "12:45:44",
       "iso": "2026-08-18T07:15:44.761Z",
       "action": "updated remark for LF-LEO-15023-WNG-S at TRINCOMALEE B: “50% discount”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:45:32",
-      "iso": "2026-08-18T07:15:32.818Z",
-      "action": "updated remark for LF-LEO-120-SHW at TRINCOMALEE B: “50% discount”"
     }
   ]
 }
