@@ -15427,6 +15427,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:04:39",
       "lastUpdated": "2026-08-18T10:34:39.971Z"
+    },
+    "RIYLTA-MF12V25||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:04:49",
+      "lastUpdated": "2026-08-18T10:34:49.262Z"
     }
   },
   "showroomVisits": {
@@ -15795,6 +15802,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "16:04:49",
+      "iso": "2026-08-18T10:34:49.272Z",
+      "action": "updated remark for RIYLTA-MF12V25 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "16:04:42",
       "iso": "2026-08-18T10:34:42.854Z",
       "action": "updated remark for RIYLTA-MF12V53B at MAIN WAREHOUSE: “Scrap”"
@@ -16133,13 +16147,6 @@
       "date": "2026-08-18",
       "time": "15:45:50",
       "iso": "2026-08-18T10:15:50.547Z",
-      "action": "updated remark for ULED32D4000 at HINGURAKGODA: “70% EOL”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:45:40",
-      "iso": "2026-08-18T10:15:40.681Z",
       "action": "updated remark for ULED32D4000 at HINGURAKGODA: “70% EOL”"
     }
   ]
