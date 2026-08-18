@@ -12592,6 +12592,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:35:35",
       "lastUpdated": "2026-08-18T07:05:35.727Z"
+    },
+    "USI-ATC-302||BALANGODA": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:35:57",
+      "lastUpdated": "2026-08-18T07:05:57.482Z"
     }
   },
   "showroomVisits": {
@@ -12960,6 +12967,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:35:57",
+      "iso": "2026-08-18T07:05:57.486Z",
+      "action": "updated remark for USI-ATC-302 at BALANGODA: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:35:35",
       "iso": "2026-08-18T07:05:35.731Z",
       "action": "updated remark for TF-SI-ESS-242 at BALANGODA: “5000”"
@@ -13299,13 +13313,6 @@
       "time": "12:19:35",
       "iso": "2026-08-18T06:49:35.672Z",
       "action": "updated remark for UR591SW at MELSIRIPURA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:19:17",
-      "iso": "2026-08-18T06:49:17.569Z",
-      "action": "updated remark for UPU-MARVELLAUV at MELSIRIPURA: “Damaged - 75%”"
     }
   ]
 }
