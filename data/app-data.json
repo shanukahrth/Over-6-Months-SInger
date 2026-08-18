@@ -10023,6 +10023,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:21:43",
       "lastUpdated": "2026-08-18T04:51:43.739Z"
+    },
+    "SLE43G690||TRINCOMALEE": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:21:49",
+      "lastUpdated": "2026-08-18T04:51:49.137Z"
     }
   },
   "showroomVisits": {
@@ -10391,6 +10398,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:21:49",
+      "iso": "2026-08-18T04:51:49.139Z",
+      "action": "updated remark for SLE43G690 at TRINCOMALEE: “70%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:21:43",
       "iso": "2026-08-18T04:51:43.741Z",
       "action": "updated remark for SLE43D1800TC at TRINCOMALEE: “70%”"
@@ -10730,13 +10744,6 @@
       "time": "09:55:40",
       "iso": "2026-08-18T04:25:40.159Z",
       "action": "updated MUTUR showroom (visitDate: 2026-08-17)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "09:55:37",
-      "iso": "2026-08-18T04:25:37.465Z",
-      "action": "updated MUTUR showroom (visited: Yes)"
     }
   ]
 }
