@@ -15266,6 +15266,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:50:43",
       "lastUpdated": "2026-08-18T10:20:43.444Z"
+    },
+    "WFI-OF-LOC25ES||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:52:22",
+      "lastUpdated": "2026-08-18T10:22:22.013Z"
     }
   },
   "showroomVisits": {
@@ -15632,6 +15639,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:52:22",
+      "iso": "2026-08-18T10:22:22.020Z",
+      "action": "updated remark for WFI-OF-LOC25ES at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:51:01",
@@ -15973,13 +15987,6 @@
       "time": "15:38:02",
       "iso": "2026-08-18T10:08:02.056Z",
       "action": "updated remark for TCLED32D3000 at HINGURAKGODA: “50% - Revert”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:37:54",
-      "iso": "2026-08-18T10:07:54.623Z",
-      "action": "updated remark for TCLED32D3000 at HINGURAKGODA: “40% - Revert”"
     }
   ]
 }
