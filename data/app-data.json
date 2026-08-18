@@ -10975,6 +10975,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:11:42",
       "lastUpdated": "2026-08-18T05:41:42.880Z"
+    },
+    "SLE65H1100||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:12:21",
+      "lastUpdated": "2026-08-18T05:42:21.212Z"
     }
   },
   "showroomVisits": {
@@ -11343,6 +11350,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:12:21",
+      "iso": "2026-08-18T05:42:21.220Z",
+      "action": "updated remark for SLE65H1100 at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:11:42",
       "iso": "2026-08-18T05:41:42.901Z",
       "action": "updated remark for SLE55D1800TC at MAIN WAREHOUSE: “Used shop returned to check”"
@@ -11682,13 +11696,6 @@
       "time": "10:59:13",
       "iso": "2026-08-18T05:29:13.118Z",
       "action": "updated remark for WC-XR1605 at MAIN WAREHOUSE: “Discount to Rs. 500”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:59:20",
-      "iso": "2026-08-18T05:29:20.483Z",
-      "action": "updated remark for ULED32D4100 at MAIN WAREHOUSE: “Transfer to shops”"
     }
   ]
 }
