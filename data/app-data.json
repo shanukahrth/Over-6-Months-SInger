@@ -13103,6 +13103,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:05:15",
       "lastUpdated": "2026-08-18T07:35:15.558Z"
+    },
+    "PN-TH-32M401N||BALANGODA": {
+      "remark": "39000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:05:42",
+      "lastUpdated": "2026-08-18T07:35:42.471Z"
     }
   },
   "showroomVisits": {
@@ -13471,6 +13478,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:05:42",
+      "iso": "2026-08-18T07:35:42.475Z",
+      "action": "updated remark for PN-TH-32M401N at BALANGODA: “39000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:05:15",
       "iso": "2026-08-18T07:35:15.562Z",
       "action": "updated remark for PN-TH-32M402N at BALANGODA: “39000”"
@@ -13810,13 +13824,6 @@
       "time": "12:45:32",
       "iso": "2026-08-18T07:15:32.818Z",
       "action": "updated remark for LF-LEO-120-SHW at TRINCOMALEE B: “50% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:45:26",
-      "iso": "2026-08-18T07:15:26.751Z",
-      "action": "updated remark for STO-EO45C at BALANGODA: “10000”"
     }
   ]
 }
