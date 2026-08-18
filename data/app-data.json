@@ -10326,11 +10326,11 @@
       "lastUpdated": "2026-08-18T05:03:15.179Z"
     },
     "ULED32D60A||MAIN WAREHOUSE": {
-      "remark": "Transfer to shops",
+      "remark": "Transfer to shops for sale clearance",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "10:45:29",
-      "lastUpdated": "2026-08-18T05:15:29.348Z"
+      "commentTime": "10:50:32",
+      "lastUpdated": "2026-08-18T05:20:32.667Z"
     },
     "SLE40D600A||TRINCOMALEE B": {
       "remark": "90% - panel is damaged",
@@ -10830,6 +10830,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:50:32",
+      "iso": "2026-08-18T05:20:32.674Z",
+      "action": "updated remark for ULED32D60A at MAIN WAREHOUSE: “Transfer to shops for sale clearance”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "10:49:47",
@@ -11171,13 +11178,6 @@
       "time": "10:38:58",
       "iso": "2026-08-18T05:08:58.899Z",
       "action": "updated remark for H-RMRG024MFEOE at TRINCOMALEE: “Can sell for the current price”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:34:03",
-      "iso": "2026-08-18T05:04:03.178Z",
-      "action": "updated remark for DUM-SMGAR50F12D0J at TRINCOMALEE: “Transfer to shop inventory”"
     }
   ]
 }
