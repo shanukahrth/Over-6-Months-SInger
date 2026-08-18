@@ -13273,11 +13273,11 @@
       "lastUpdated": "2026-08-18T08:13:22.212Z"
     },
     "FAN-P-1605H||BALANGODA - B": {
-      "remark": "1",
+      "remark": "15000",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "13:43:17",
-      "lastUpdated": "2026-08-18T08:13:17.480Z"
+      "commentTime": "13:43:27",
+      "lastUpdated": "2026-08-18T08:13:27.187Z"
     }
   },
   "showroomVisits": {
@@ -13646,6 +13646,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:43:27",
+      "iso": "2026-08-18T08:13:27.191Z",
+      "action": "updated remark for FAN-P-1605H at BALANGODA - B: “15000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:43:22",
       "iso": "2026-08-18T08:13:22.216Z",
       "action": "updated remark for FAN-P-SF1605HR at BALANGODA - B: “10%”"
@@ -13985,13 +13992,6 @@
       "time": "12:57:01",
       "iso": "2026-08-18T07:27:01.712Z",
       "action": "updated remark for SL-SF1607 at MAIN WAREHOUSE: “Court”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:56:30",
-      "iso": "2026-08-18T07:26:30.843Z",
-      "action": "updated remark for ZTE-A55-4-128GB-ORNG at BALANGODA: “Sellable”"
     }
   ]
 }
