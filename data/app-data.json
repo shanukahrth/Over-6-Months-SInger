@@ -12340,6 +12340,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:21:30",
       "lastUpdated": "2026-08-18T06:51:30.599Z"
+    },
+    "SIN-5000||MAIN WAREHOUSE": {
+      "remark": "Defective, scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:21:49",
+      "lastUpdated": "2026-08-18T06:51:49.536Z"
     }
   },
   "showroomVisits": {
@@ -12706,6 +12713,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:21:49",
+      "iso": "2026-08-18T06:51:49.538Z",
+      "action": "updated remark for SIN-5000 at MAIN WAREHOUSE: “Defective, scrap”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:21:30",
@@ -13047,13 +13061,6 @@
       "time": "12:11:41",
       "iso": "2026-08-18T06:41:41.635Z",
       "action": "updated remark for SIN-AIRPKO1B at MELSIRIPURA: “Damahed - 75%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:12:18",
-      "iso": "2026-08-18T06:42:18.012Z",
-      "action": "updated remark for AP-IPOD-2G at MAIN WAREHOUSE: “Defective, scrap”"
     }
   ]
 }
