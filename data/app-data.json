@@ -14405,6 +14405,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:53:31",
       "lastUpdated": "2026-08-18T09:23:31.957Z"
+    },
+    "WP-JUN-E-S||MAIN WAREHOUSE": {
+      "remark": "Packing damage",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:54:03",
+      "lastUpdated": "2026-08-18T09:24:03.576Z"
     }
   },
   "showroomVisits": {
@@ -14771,6 +14778,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:54:03",
+      "iso": "2026-08-18T09:24:03.583Z",
+      "action": "updated remark for WP-JUN-E-S at MAIN WAREHOUSE: “Packing damage”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "14:53:31",
@@ -15112,13 +15126,6 @@
       "time": "14:38:32",
       "iso": "2026-08-18T09:08:32.633Z",
       "action": "updated remark for NUBIA-V60DSGN-6-256GB-DB at MAHO: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:38:17",
-      "iso": "2026-08-18T09:08:17.721Z",
-      "action": "updated remark for DELL-3580-PQC-W10-SIL at MAHO: “Can sell by the 31st of Aug”"
     }
   ]
 }
