@@ -10128,6 +10128,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:30:10",
       "lastUpdated": "2026-08-18T05:00:10.967Z"
+    },
+    "SASI60CC||MAIN WAREHOUSE": {
+      "remark": "Transfer to budget shop offer 80%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:31:08",
+      "lastUpdated": "2026-08-18T05:01:08.601Z"
     }
   },
   "showroomVisits": {
@@ -10496,6 +10503,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "10:31:08",
+      "iso": "2026-08-18T05:01:08.608Z",
+      "action": "updated remark for SASI60CC at MAIN WAREHOUSE: “Transfer to budget shop offer 80%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "10:30:40",
       "iso": "2026-08-18T05:00:40.052Z",
       "action": "updated remark for SASMCD60CRN at MAIN WAREHOUSE: “Transfer to budget shop offer 80%”"
@@ -10835,13 +10849,6 @@
       "time": "10:02:17",
       "iso": "2026-08-18T04:32:17.040Z",
       "action": "updated remark for GEO-266INV-TG at MAIN WAREHOUSE: “Transfer to Godagama shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:02:13",
-      "iso": "2026-08-18T04:32:13.187Z",
-      "action": "updated remark for H-R-WXC740KSXK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
     }
   ]
 }
