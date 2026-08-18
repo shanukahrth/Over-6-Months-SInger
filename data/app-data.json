@@ -13523,6 +13523,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:57:34",
       "lastUpdated": "2026-08-18T08:27:34.273Z"
+    },
+    "BR-SR01||BALANGODA - B": {
+      "remark": "Sella",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:58:00",
+      "lastUpdated": "2026-08-18T08:28:00.505Z"
     }
   },
   "showroomVisits": {
@@ -13891,6 +13898,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:58:00",
+      "iso": "2026-08-18T08:28:00.509Z",
+      "action": "updated remark for BR-SR01 at BALANGODA - B: “Sella”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:57:34",
       "iso": "2026-08-18T08:27:34.278Z",
       "action": "updated remark for KA-KT-212F at BALANGODA - B: “Sellable”"
@@ -14230,13 +14244,6 @@
       "time": "13:40:09",
       "iso": "2026-08-18T08:10:09.425Z",
       "action": "updated remark for DELLC-VOS3420-I5DOS at BALANGODA - B: “Damaged”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:39:31",
-      "iso": "2026-08-18T08:09:31.296Z",
-      "action": "updated remark for DELL3501-11G-I3W10-BLU at BALANGODA - B: “Damaged”"
     }
   ]
 }
