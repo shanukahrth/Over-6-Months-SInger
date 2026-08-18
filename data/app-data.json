@@ -14594,6 +14594,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:59:41",
       "lastUpdated": "2026-08-18T09:29:41.558Z"
+    },
+    "SMG-WATCH3-45MM-B||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:00:05",
+      "lastUpdated": "2026-08-18T09:30:05.870Z"
     }
   },
   "showroomVisits": {
@@ -14962,6 +14969,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "15:00:05",
+      "iso": "2026-08-18T09:30:05.872Z",
+      "action": "updated remark for SMG-WATCH3-45MM-B at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "14:59:41",
       "iso": "2026-08-18T09:29:41.559Z",
       "action": "updated remark for SMG-WATCH3-41MM-BRW at MAIN WAREHOUSE: “Scrap”"
@@ -15301,13 +15315,6 @@
       "time": "14:52:59",
       "iso": "2026-08-18T09:22:59.787Z",
       "action": "updated remark for WF-JUPITER-05-S at MAHO: “Damaged - 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:53:09",
-      "iso": "2026-08-18T09:23:09.433Z",
-      "action": "updated remark for WP-DIESEL-SP170-S at MAIN WAREHOUSE: “Packing damage”"
     }
   ]
 }
