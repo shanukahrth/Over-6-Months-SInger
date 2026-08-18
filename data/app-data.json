@@ -12935,6 +12935,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:51:12",
       "lastUpdated": "2026-08-18T07:21:12.346Z"
+    },
+    "SIN-RFC-2058||BALANGODA": {
+      "remark": "10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:52:05",
+      "lastUpdated": "2026-08-18T07:22:05.827Z"
     }
   },
   "showroomVisits": {
@@ -13303,6 +13310,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:52:05",
+      "iso": "2026-08-18T07:22:05.832Z",
+      "action": "updated remark for SIN-RFC-2058 at BALANGODA: “10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:51:12",
       "iso": "2026-08-18T07:21:12.350Z",
       "action": "updated remark for SIN-RFC-1819 at BALANGODA: “10%”"
@@ -13642,13 +13656,6 @@
       "time": "12:37:45",
       "iso": "2026-08-18T07:07:45.257Z",
       "action": "updated remark for MC8280 at TRINCOMALEE B: “40% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:37:59",
-      "iso": "2026-08-18T07:07:59.468Z",
-      "action": "updated remark for PCR-FP20-249 at BALANGODA: “1900”"
     }
   ]
 }
