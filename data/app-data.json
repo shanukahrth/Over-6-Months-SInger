@@ -11591,6 +11591,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:51:53",
       "lastUpdated": "2026-08-18T06:21:53.187Z"
+    },
+    "SAS-GRI12VN||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:52:20",
+      "lastUpdated": "2026-08-18T06:22:20.628Z"
     }
   },
   "showroomVisits": {
@@ -11957,6 +11964,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:52:20",
+      "iso": "2026-08-18T06:22:20.635Z",
+      "action": "updated remark for SAS-GRI12VN at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:51:53",
@@ -12298,13 +12312,6 @@
       "time": "11:38:54",
       "iso": "2026-08-18T06:08:54.775Z",
       "action": "updated remark for LF-GALANT-S at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:38:29",
-      "iso": "2026-08-18T06:08:29.305Z",
-      "action": "updated remark for LF-FLOWER-BDQ-S at TRINCOMALEE: “50%”"
     }
   ]
 }
