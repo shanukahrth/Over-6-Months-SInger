@@ -11717,6 +11717,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:55:57",
       "lastUpdated": "2026-08-18T06:25:57.586Z"
+    },
+    "AS-K-12G-I5-512-225-BLK||MELSIRIPURA": {
+      "remark": "Damaged -",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:56:36",
+      "lastUpdated": "2026-08-18T06:26:36.226Z"
     }
   },
   "showroomVisits": {
@@ -12083,6 +12090,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "11:56:36",
+      "iso": "2026-08-18T06:26:36.227Z",
+      "action": "updated remark for AS-K-12G-I5-512-225-BLK at MELSIRIPURA: “Damaged -”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:55:57",
@@ -12424,13 +12438,6 @@
       "time": "11:44:15",
       "iso": "2026-08-18T06:14:15.428Z",
       "action": "updated remark for PN-CS-XU12XKYW-8 at TRINCOMALEE B: “60% total discount”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:43:22",
-      "iso": "2026-08-18T06:13:22.550Z",
-      "action": "updated remark for SD-64GB at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
