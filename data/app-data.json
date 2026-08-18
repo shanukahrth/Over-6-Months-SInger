@@ -15268,11 +15268,11 @@
       "lastUpdated": "2026-08-18T10:20:43.444Z"
     },
     "WFI-OF-LOC25ES||MAIN WAREHOUSE": {
-      "remark": "Transfer to shops",
+      "remark": "Transfer to shops 3 keys missing",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "15:52:22",
-      "lastUpdated": "2026-08-18T10:22:22.013Z"
+      "commentTime": "15:53:32",
+      "lastUpdated": "2026-08-18T10:23:32.270Z"
     },
     "R-RGS150-SV||HINGURAKGODA": {
       "remark": "40% - Has a dent on the door",
@@ -15280,6 +15280,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:53:09",
       "lastUpdated": "2026-08-18T10:23:09.422Z"
+    },
+    "WFI-OF-LOC30HA||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:53:36",
+      "lastUpdated": "2026-08-18T10:23:36.971Z"
     }
   },
   "showroomVisits": {
@@ -15646,6 +15653,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:53:36",
+      "iso": "2026-08-18T10:23:36.977Z",
+      "action": "updated remark for WFI-OF-LOC30HA at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:53:32",
+      "iso": "2026-08-18T10:23:32.292Z",
+      "action": "updated remark for WFI-OF-LOC25ES at MAIN WAREHOUSE: “Transfer to shops 3 keys missing”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:53:09",
@@ -15980,20 +16001,6 @@
       "time": "15:32:09",
       "iso": "2026-08-18T10:02:09.185Z",
       "action": "updated remark for IWH-2500WL at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:39:16",
-      "iso": "2026-08-18T10:09:16.273Z",
-      "action": "updated remark for SLE32E930 at HINGURAKGODA: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:38:46",
-      "iso": "2026-08-18T10:08:46.828Z",
-      "action": "updated remark for TCLED32D3000 at HINGURAKGODA: “90% - EOL and defective need to send to service center”"
     }
   ]
 }
