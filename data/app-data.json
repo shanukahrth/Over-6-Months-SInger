@@ -12522,6 +12522,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:30:47",
       "lastUpdated": "2026-08-18T07:00:47.024Z"
+    },
+    "WF-MILAN-MR-S||BALANGODA": {
+      "remark": "55000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:31:18",
+      "lastUpdated": "2026-08-18T07:01:18.397Z"
     }
   },
   "showroomVisits": {
@@ -12888,6 +12895,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:31:18",
+      "iso": "2026-08-18T07:01:18.401Z",
+      "action": "updated remark for WF-MILAN-MR-S at BALANGODA: “55000”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "12:30:47",
@@ -13229,13 +13243,6 @@
       "time": "12:18:19",
       "iso": "2026-08-18T06:48:19.131Z",
       "action": "updated remark for UR591SW at BALANGODA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:18:02",
-      "iso": "2026-08-18T06:48:02.794Z",
-      "action": "updated remark for UR591SW at BALANGODA: “5000”"
     }
   ]
 }
