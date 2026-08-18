@@ -9897,6 +9897,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:01:49",
       "lastUpdated": "2026-08-18T04:31:49.480Z"
+    },
+    "H-R-WXC740KSXK||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:02:13",
+      "lastUpdated": "2026-08-18T04:32:13.177Z"
+    },
+    "GEO-266INV-TG||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:02:17",
+      "lastUpdated": "2026-08-18T04:32:17.034Z"
     }
   },
   "showroomVisits": {
@@ -10265,6 +10279,27 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "10:02:17",
+      "iso": "2026-08-18T04:32:17.040Z",
+      "action": "updated remark for GEO-266INV-TG at MAIN WAREHOUSE: “Transfer to Godagama shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:02:13",
+      "iso": "2026-08-18T04:32:13.187Z",
+      "action": "updated remark for H-R-WXC740KSXK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:01:51",
+      "iso": "2026-08-18T04:31:51.935Z",
+      "action": "updated remark for H-R-WXC740KSXK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "10:01:49",
       "iso": "2026-08-18T04:31:49.487Z",
       "action": "updated remark for PN-NR-BK468BQKX at MAIN WAREHOUSE: “Transfer to Godagama shop”"
@@ -10590,27 +10625,6 @@
       "time": "09:47:50",
       "iso": "2026-08-18T04:17:50.027Z",
       "action": "updated remark for KV-FPA-5A at MAIN WAREHOUSE: “Discount to Rs. 300”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:46:11",
-      "iso": "2026-08-18T04:16:11.533Z",
-      "action": "updated remark for RAVI-CPPB055RCP at MAIN WAREHOUSE: “Discount to Rs. 200”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:45:49",
-      "iso": "2026-08-18T04:15:49.523Z",
-      "action": "updated remark for RAVI-TMPB054RZS at MAIN WAREHOUSE: “Discount to Rs. 200”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:45:43",
-      "iso": "2026-08-18T04:15:43.883Z",
-      "action": "updated remark for RAVI-CPPB058RCP at MAIN WAREHOUSE: “Discount to Rs. 200”"
     }
   ]
 }
