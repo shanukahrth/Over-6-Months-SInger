@@ -14041,6 +14041,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:29:18",
       "lastUpdated": "2026-08-18T08:59:18.498Z"
+    },
+    "ALU-SIG002WF001L||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:21",
+      "lastUpdated": "2026-08-18T08:59:21.312Z"
+    },
+    "ALU-CL-7FT-S||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:24",
+      "lastUpdated": "2026-08-18T08:59:24.579Z"
     }
   },
   "showroomVisits": {
@@ -14409,6 +14423,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:29:24",
+      "iso": "2026-08-18T08:59:24.588Z",
+      "action": "updated remark for ALU-CL-7FT-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:21",
+      "iso": "2026-08-18T08:59:21.321Z",
+      "action": "updated remark for ALU-SIG002WF001L at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:29:18",
       "iso": "2026-08-18T08:59:18.507Z",
       "action": "updated remark for ALU-SIG002WF003L at MAIN WAREHOUSE: “Special attention needed”"
@@ -14741,20 +14769,6 @@
       "time": "14:09:59",
       "iso": "2026-08-18T08:39:59.406Z",
       "action": "updated remark for HON-X9CSMART-12-256-CYAN at BALANGODA - B: “15%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:09:28",
-      "iso": "2026-08-18T08:39:28.745Z",
-      "action": "updated remark for HON-X9CSMART-12-256-BLK at BALANGODA - B: “15%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:08:54",
-      "iso": "2026-08-18T08:38:54.138Z",
-      "action": "updated remark for HU-SECURITY at BALANGODA - B: “Showroom use”"
     }
   ]
 }
