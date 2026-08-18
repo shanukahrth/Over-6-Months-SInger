@@ -9983,11 +9983,11 @@
       "lastUpdated": "2026-08-18T04:46:41.387Z"
     },
     "SLE32E930||TRINCOMALEE": {
-      "remark": "80% - Damaged",
+      "remark": "80% - Defective",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "10:17:52",
-      "lastUpdated": "2026-08-18T04:47:52.061Z"
+      "commentTime": "10:19:08",
+      "lastUpdated": "2026-08-18T04:49:08.760Z"
     }
   },
   "showroomVisits": {
@@ -10356,6 +10356,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:19:08",
+      "iso": "2026-08-18T04:49:08.761Z",
+      "action": "updated remark for SLE32E930 at TRINCOMALEE: “80% - Defective”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:17:52",
       "iso": "2026-08-18T04:47:52.062Z",
       "action": "updated remark for SLE32E930 at TRINCOMALEE: “80% - Damaged”"
@@ -10695,13 +10702,6 @@
       "time": "09:55:13",
       "iso": "2026-08-18T04:25:13.536Z",
       "action": "updated HABARANA showroom (team: Chamal and Kaveesha )"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "09:55:09",
-      "iso": "2026-08-18T04:25:09.549Z",
-      "action": "updated HABARANA showroom (visitDate: 2026-08-17)"
     }
   ]
 }
