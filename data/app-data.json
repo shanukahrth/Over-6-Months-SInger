@@ -9738,11 +9738,11 @@
       "lastUpdated": "2026-08-18T04:15:43.880Z"
     },
     "KV-FPA-5A||MAIN WAREHOUSE": {
-      "remark": "Discount to Rs. 300",
+      "remark": "Discount to Rs. 250",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "09:47:50",
-      "lastUpdated": "2026-08-18T04:17:50.024Z"
+      "commentTime": "09:55:53",
+      "lastUpdated": "2026-08-18T04:25:53.337Z"
     },
     "HON-PAD-X9-128GB||RATTOTA": {
       "remark": "Display Damaged- 20%",
@@ -9785,6 +9785,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:51:05",
       "lastUpdated": "2026-08-18T04:21:05.565Z"
+    },
+    "KV-FPAU5A||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs.",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:56:30",
+      "lastUpdated": "2026-08-18T04:26:30.443Z"
     }
   },
   "showroomVisits": {
@@ -10151,6 +10158,20 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:56:30",
+      "iso": "2026-08-18T04:26:30.449Z",
+      "action": "updated remark for KV-FPAU5A at MAIN WAREHOUSE: “Discount to Rs.”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:55:53",
+      "iso": "2026-08-18T04:25:53.340Z",
+      "action": "updated remark for KV-FPA-5A at MAIN WAREHOUSE: “Discount to Rs. 250”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "09:56:02",
@@ -10485,20 +10506,6 @@
       "time": "09:37:27",
       "iso": "2026-08-18T04:07:27.641Z",
       "action": "updated remark for WL-9500000309 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:25",
-      "iso": "2026-08-18T04:07:25.252Z",
-      "action": "updated remark for X1R-DT at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:17",
-      "iso": "2026-08-18T04:07:17.768Z",
-      "action": "updated remark for X1R-FSC at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
