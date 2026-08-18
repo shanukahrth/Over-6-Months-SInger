@@ -15390,8 +15390,8 @@
       "remark": "Scrap",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "16:04:18",
-      "lastUpdated": "2026-08-18T10:34:18.556Z"
+      "commentTime": "16:04:37",
+      "lastUpdated": "2026-08-18T10:34:37.232Z"
     },
     "RIYLTA-MF12V92A||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -15406,6 +15406,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:04:25",
       "lastUpdated": "2026-08-18T10:34:25.297Z"
+    },
+    "RIYLTA-MF12V5||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:04:29",
+      "lastUpdated": "2026-08-18T10:34:29.972Z"
+    },
+    "RIYLTA-MF12V53B||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:04:32",
+      "lastUpdated": "2026-08-18T10:34:32.941Z"
+    },
+    "RIYLTA-MF12V35A||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:04:39",
+      "lastUpdated": "2026-08-18T10:34:39.971Z"
     }
   },
   "showroomVisits": {
@@ -15774,6 +15795,34 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "16:04:39",
+      "iso": "2026-08-18T10:34:39.980Z",
+      "action": "updated remark for RIYLTA-MF12V35A at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:04:37",
+      "iso": "2026-08-18T10:34:37.238Z",
+      "action": "updated remark for RIYLTA-MF12V51A at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:04:32",
+      "iso": "2026-08-18T10:34:32.949Z",
+      "action": "updated remark for RIYLTA-MF12V53B at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "16:04:29",
+      "iso": "2026-08-18T10:34:29.980Z",
+      "action": "updated remark for RIYLTA-MF12V5 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "16:04:25",
       "iso": "2026-08-18T10:34:25.303Z",
       "action": "updated remark for RIYLTA-MF12V4 at MAIN WAREHOUSE: “Scrap”"
@@ -16092,34 +16141,6 @@
       "time": "15:45:31",
       "iso": "2026-08-18T10:15:31.518Z",
       "action": "updated remark for SLE55D1800TC at HINGURAKGODA: “Exchange needs to be performed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:45:18",
-      "iso": "2026-08-18T10:15:18.073Z",
-      "action": "updated remark for SLE43G890 at HINGURAKGODA: “60% - Revert”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "15:44:58",
-      "iso": "2026-08-18T10:14:58.339Z",
-      "action": "updated remark for R-BWS-02 at NIKAWARATIYA - B: “Display/Damaged - 10%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:44:50",
-      "iso": "2026-08-18T10:14:50.997Z",
-      "action": "updated remark for SLE43G890 at HINGURAKGODA: “50% Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:44:39",
-      "iso": "2026-08-18T10:14:39.136Z",
-      "action": "updated remark for SLE42D2070TC at HINGURAKGODA: “Exchange needs to be performed”"
     }
   ]
 }
