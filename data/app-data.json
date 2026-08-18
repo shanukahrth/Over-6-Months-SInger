@@ -12046,6 +12046,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:11:46",
       "lastUpdated": "2026-08-18T06:41:46.823Z"
+    },
+    "AP-IPOD-2G||MAIN WAREHOUSE": {
+      "remark": "Defective, scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:12:18",
+      "lastUpdated": "2026-08-18T06:42:18.010Z"
     }
   },
   "showroomVisits": {
@@ -12414,6 +12421,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "12:12:18",
+      "iso": "2026-08-18T06:42:18.012Z",
+      "action": "updated remark for AP-IPOD-2G at MAIN WAREHOUSE: “Defective, scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "12:11:46",
       "iso": "2026-08-18T06:41:46.824Z",
       "action": "updated remark for HU-DOCK3 at MAIN WAREHOUSE: “Defective, scrap”"
@@ -12753,13 +12767,6 @@
       "time": "11:59:21",
       "iso": "2026-08-18T06:29:21.354Z",
       "action": "updated remark for H-RMRG024MFEOE at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "11:58:44",
-      "iso": "2026-08-18T06:28:44.499Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at MELSIRIPURA: “Unboxed - 15%”"
     }
   ]
 }
