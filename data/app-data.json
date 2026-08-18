@@ -15217,6 +15217,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:48:36",
       "lastUpdated": "2026-08-18T10:18:36.788Z"
+    },
+    "GEO-182S-BU1||HINGURAKGODA": {
+      "remark": "compressor damaged - need to be sent to service center",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:48:49",
+      "lastUpdated": "2026-08-18T10:18:49.791Z"
     }
   },
   "showroomVisits": {
@@ -15583,6 +15590,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:48:49",
+      "iso": "2026-08-18T10:18:49.792Z",
+      "action": "updated remark for GEO-182S-BU1 at HINGURAKGODA: “compressor damaged - need to be sent to service center”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "15:48:36",
@@ -15924,13 +15938,6 @@
       "time": "15:34:30",
       "iso": "2026-08-18T10:04:30.782Z",
       "action": "updated remark for SMGUA32N4010 at HINGURAKGODA: “Display - 45%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:33:50",
-      "iso": "2026-08-18T10:03:50.451Z",
-      "action": "updated remark for SLE32E920 at HINGURAKGODA: “70% Can sell”"
     }
   ]
 }
