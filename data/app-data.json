@@ -12039,6 +12039,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:09:58",
       "lastUpdated": "2026-08-18T06:39:58.239Z"
+    },
+    "HU-DOCK3||MAIN WAREHOUSE": {
+      "remark": "Defective, scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:11:46",
+      "lastUpdated": "2026-08-18T06:41:46.823Z"
     }
   },
   "showroomVisits": {
@@ -12405,6 +12412,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:11:46",
+      "iso": "2026-08-18T06:41:46.824Z",
+      "action": "updated remark for HU-DOCK3 at MAIN WAREHOUSE: “Defective, scrap”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "12:11:56",
@@ -12746,13 +12760,6 @@
       "time": "11:58:44",
       "iso": "2026-08-18T06:28:44.499Z",
       "action": "updated remark for HON-X9C-12-256-BLK at MELSIRIPURA: “Unboxed - 15%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:58:56",
-      "iso": "2026-08-18T06:28:56.186Z",
-      "action": "updated remark for H-RMRG024HFEOE at MAIN WAREHOUSE: “Transfer to a shop”"
     }
   ]
 }
