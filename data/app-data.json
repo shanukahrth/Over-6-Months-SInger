@@ -13593,6 +13593,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:00:57",
       "lastUpdated": "2026-08-18T08:30:57.554Z"
+    },
+    "R-BWS-02||BALANGODA - B": {
+      "remark": "3000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:01:44",
+      "lastUpdated": "2026-08-18T08:31:44.168Z"
     }
   },
   "showroomVisits": {
@@ -13959,6 +13966,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:01:44",
+      "iso": "2026-08-18T08:31:44.173Z",
+      "action": "updated remark for R-BWS-02 at BALANGODA - B: “3000”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "14:00:57",
@@ -14300,13 +14314,6 @@
       "time": "13:46:56",
       "iso": "2026-08-18T08:16:56.090Z",
       "action": "updated remark for PF-RTN-ARMLS-BR-S at BALANGODA - B: “60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:45:44",
-      "iso": "2026-08-18T08:15:44.239Z",
-      "action": "updated remark for WF-CB-B-WH at BALANGODA - B: “60%”"
     }
   ]
 }
