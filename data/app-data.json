@@ -10254,6 +10254,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:43:45",
       "lastUpdated": "2026-08-18T05:13:45.279Z"
+    },
+    "MID-MJ-KM6001W||PABAHINNA-LITE": {
+      "remark": "With package",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:44:05",
+      "lastUpdated": "2026-08-18T05:14:05.481Z"
     }
   },
   "showroomVisits": {
@@ -10622,6 +10629,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "10:44:05",
+      "iso": "2026-08-18T05:14:05.489Z",
+      "action": "updated remark for MID-MJ-KM6001W at PABAHINNA-LITE: “With package”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "10:43:45",
       "iso": "2026-08-18T05:13:45.284Z",
       "action": "updated remark for BRP-TW30 at PABAHINNA-LITE: “Additional 10%”"
@@ -10961,13 +10975,6 @@
       "time": "10:20:42",
       "iso": "2026-08-18T04:50:42.032Z",
       "action": "updated remark for SLE32G690 at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:20:33",
-      "iso": "2026-08-18T04:50:33.925Z",
-      "action": "updated remark for SLE32E930 at TRINCOMALEE: “Revert - 70%”"
     }
   ]
 }
