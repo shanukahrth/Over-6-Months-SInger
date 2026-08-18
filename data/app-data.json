@@ -13775,6 +13775,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:08:25",
       "lastUpdated": "2026-08-18T08:38:25.816Z"
+    },
+    "HU-SECURITY||BALANGODA - B": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:08:54",
+      "lastUpdated": "2026-08-18T08:38:54.136Z"
     }
   },
   "showroomVisits": {
@@ -14143,6 +14150,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:08:54",
+      "iso": "2026-08-18T08:38:54.138Z",
+      "action": "updated remark for HU-SECURITY at BALANGODA - B: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:08:25",
       "iso": "2026-08-18T08:38:25.817Z",
       "action": "updated remark for HON-PAD-X7-CV at BALANGODA - B: “Sold”"
@@ -14482,13 +14496,6 @@
       "time": "13:56:18",
       "iso": "2026-08-18T08:26:18.653Z",
       "action": "updated remark for KA-LW-185A at BALANGODA - B: “3500”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:55:43",
-      "iso": "2026-08-18T08:25:43.615Z",
-      "action": "updated remark for MXLM1A0D27 at BALANGODA - B: “30%”"
     }
   ]
 }
