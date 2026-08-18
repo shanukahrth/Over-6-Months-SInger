@@ -13124,6 +13124,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:08:08",
       "lastUpdated": "2026-08-18T07:38:08.833Z"
+    },
+    "SLE42D2070TC||BALANGODA": {
+      "remark": "Defect",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:11:21",
+      "lastUpdated": "2026-08-18T07:41:21.215Z"
     }
   },
   "showroomVisits": {
@@ -13492,6 +13499,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:11:21",
+      "iso": "2026-08-18T07:41:21.222Z",
+      "action": "updated remark for SLE42D2070TC at BALANGODA: “Defect”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:08:08",
       "iso": "2026-08-18T07:38:08.840Z",
       "action": "updated remark for SLE40D600A at BALANGODA: “Sellable”"
@@ -13831,13 +13845,6 @@
       "time": "12:47:09",
       "iso": "2026-08-18T07:17:09.522Z",
       "action": "updated remark for WF-PRESTON-BSC-S at TRINCOMALEE B: “50% discount”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:47:02",
-      "iso": "2026-08-18T07:17:02.057Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at TRINCOMALEE B: “50% discount”"
     }
   ]
 }
