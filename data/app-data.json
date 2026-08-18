@@ -11775,11 +11775,18 @@
       "lastUpdated": "2026-08-18T06:29:26.170Z"
     },
     "NUBIA-V70DSGN-8-128GB-GRN||MELSIRIPURA": {
-      "remark": "Damged - 35%",
+      "remark": "Damaged/Displayed - 35%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-18",
-      "commentTime": "11:59:45",
-      "lastUpdated": "2026-08-18T06:29:45.890Z"
+      "commentTime": "11:59:56",
+      "lastUpdated": "2026-08-18T06:29:56.585Z"
+    },
+    "NUBIA-V70DSGN-8-128GB-ONG||MELSIRIPURA": {
+      "remark": "Damaged/Displayed - 35%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:59:57",
+      "lastUpdated": "2026-08-18T06:29:57.840Z"
     }
   },
   "showroomVisits": {
@@ -12148,6 +12155,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "11:59:57",
+      "iso": "2026-08-18T06:29:57.841Z",
+      "action": "updated remark for NUBIA-V70DSGN-8-128GB-ONG at MELSIRIPURA: “Damaged/Displayed - 35%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "11:59:56",
+      "iso": "2026-08-18T06:29:56.586Z",
+      "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at MELSIRIPURA: “Damaged/Displayed - 35%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "11:59:45",
       "iso": "2026-08-18T06:29:45.890Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at MELSIRIPURA: “Damged - 35%”"
@@ -12480,20 +12501,6 @@
       "time": "11:48:46",
       "iso": "2026-08-18T06:18:46.364Z",
       "action": "updated remark for PN-CS-SU12XKY-8 at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:48:39",
-      "iso": "2026-08-18T06:18:39.751Z",
-      "action": "updated remark for SAS24TCNR at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:46:37",
-      "iso": "2026-08-18T06:16:37.856Z",
-      "action": "updated remark for SASI12INFI at MAIN WAREHOUSE: “Transfer to a shop”"
     }
   ]
 }
