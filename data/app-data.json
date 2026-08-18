@@ -10115,9 +10115,24 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-18"
+    },
+    "HABARANA||DAMBULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-18"
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:55:05",
+      "iso": "2026-08-18T04:25:05.948Z",
+      "action": "updated HABARANA showroom (visited: Yes)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
@@ -10460,13 +10475,6 @@
       "time": "09:36:28",
       "iso": "2026-08-18T04:06:28.035Z",
       "action": "updated remark for X1R-PT at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:36:26",
-      "iso": "2026-08-18T04:06:26.886Z",
-      "action": "updated remark for SIN-PR-K340 at NAULA: “Damaged - 40%”"
     }
   ]
 }
