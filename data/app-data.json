@@ -10856,6 +10856,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:04:22",
       "lastUpdated": "2026-08-18T05:34:22.488Z"
+    },
+    "ULED43S500||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:04:35",
+      "lastUpdated": "2026-08-18T05:34:35.165Z"
     }
   },
   "showroomVisits": {
@@ -11224,6 +11231,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:04:35",
+      "iso": "2026-08-18T05:34:35.172Z",
+      "action": "updated remark for ULED43S500 at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:04:22",
       "iso": "2026-08-18T05:34:22.496Z",
       "action": "updated remark for ULED40D5000 at MAIN WAREHOUSE: “Transfer to shops”"
@@ -11562,13 +11576,6 @@
       "date": "2026-08-18",
       "time": "10:54:48",
       "iso": "2026-08-18T05:24:48.955Z",
-      "action": "updated remark for R-BWS-02 at GALEWELA: “10%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:54:41",
-      "iso": "2026-08-18T05:24:41.376Z",
       "action": "updated remark for R-BWS-02 at GALEWELA: “10%”"
     }
   ]
