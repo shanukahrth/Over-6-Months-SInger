@@ -10996,6 +10996,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:12:39",
       "lastUpdated": "2026-08-18T05:42:39.482Z"
+    },
+    "SKY65SXF9850||MAIN WAREHOUSE": {
+      "remark": "Demo tv",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:13:01",
+      "lastUpdated": "2026-08-18T05:43:01.096Z"
+    },
+    "SKY65X8700G||MAIN WAREHOUSE": {
+      "remark": "Demo tv",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:13:47",
+      "lastUpdated": "2026-08-18T05:43:47.810Z"
     }
   },
   "showroomVisits": {
@@ -11364,6 +11378,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:13:47",
+      "iso": "2026-08-18T05:43:47.838Z",
+      "action": "updated remark for SKY65X8700G at MAIN WAREHOUSE: “Demo tv”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:13:01",
+      "iso": "2026-08-18T05:43:01.113Z",
+      "action": "updated remark for SKY65SXF9850 at MAIN WAREHOUSE: “Demo tv”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:12:39",
       "iso": "2026-08-18T05:42:39.490Z",
       "action": "updated remark for SKY55Q6700G at MAIN WAREHOUSE: “Demo tv”"
@@ -11696,20 +11724,6 @@
       "time": "10:59:30",
       "iso": "2026-08-18T05:29:30.502Z",
       "action": "updated remark for SLE32D5000 at GALEWELA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:58:52",
-      "iso": "2026-08-18T05:28:52.639Z",
-      "action": "updated remark for SLE-55IFPD at GALEWELA: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:58:15",
-      "iso": "2026-08-18T05:28:15.436Z",
-      "action": "updated remark for SL-SWMFR72 at GALEWELA: “Damaged - 70%”"
     }
   ]
 }
