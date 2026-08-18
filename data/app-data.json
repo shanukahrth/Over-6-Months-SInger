@@ -14832,6 +14832,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:20:40",
       "lastUpdated": "2026-08-18T09:50:40.424Z"
+    },
+    "WB-F65||BALANGODA C": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:21:02",
+      "lastUpdated": "2026-08-18T09:51:02.927Z"
     }
   },
   "showroomVisits": {
@@ -15200,6 +15207,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "15:21:02",
+      "iso": "2026-08-18T09:51:02.932Z",
+      "action": "updated remark for WB-F65 at BALANGODA C: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "15:20:40",
       "iso": "2026-08-18T09:50:40.428Z",
       "action": "updated remark for SLE55GENR at BALANGODA C: “Defect”"
@@ -15539,13 +15553,6 @@
       "time": "15:00:05",
       "iso": "2026-08-18T09:30:05.872Z",
       "action": "updated remark for SMG-WATCH3-45MM-B at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "14:59:41",
-      "iso": "2026-08-18T09:29:41.559Z",
-      "action": "updated remark for SMG-WATCH3-41MM-BRW at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
