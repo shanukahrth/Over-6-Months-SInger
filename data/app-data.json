@@ -15609,6 +15609,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:22:37",
       "lastUpdated": "2026-08-18T10:52:37.387Z"
+    },
+    "APS-300KG||NIKAWERATIYA": {
+      "remark": "Display - 10%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:23:08",
+      "lastUpdated": "2026-08-18T10:53:08.304Z"
+    },
+    "AES-HAV-30S||NIKAWERATIYA": {
+      "remark": "Display - 10%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:23:09",
+      "lastUpdated": "2026-08-18T10:53:09.844Z"
     }
   },
   "showroomVisits": {
@@ -15975,6 +15989,27 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "16:23:09",
+      "iso": "2026-08-18T10:53:09.845Z",
+      "action": "updated remark for AES-HAV-30S at NIKAWERATIYA: “Display - 10%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "16:23:08",
+      "iso": "2026-08-18T10:53:08.306Z",
+      "action": "updated remark for APS-300KG at NIKAWERATIYA: “Display - 10%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "16:23:05",
+      "iso": "2026-08-18T10:53:05.369Z",
+      "action": "updated remark for APS-300KG at NIKAWERATIYA: “Dispaly - 10%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "16:22:54",
@@ -16302,27 +16337,6 @@
       "time": "16:15:34",
       "iso": "2026-08-18T10:45:34.501Z",
       "action": "updated remark for WP-SS-SUB1-S at HINGURAKGODA: “40% - part missing”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "16:13:49",
-      "iso": "2026-08-18T10:43:49.042Z",
-      "action": "updated remark for WP-WFC105604RT-G at HINGURAKGODA: “30% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "16:13:42",
-      "iso": "2026-08-18T10:43:42.242Z",
-      "action": "updated remark for WP-WDC11704RG-G at HINGURAKGODA: “30% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "16:13:38",
-      "iso": "2026-08-18T10:43:38.888Z",
-      "action": "updated remark for WP-WFC105604RT-G at HINGURAKGODA: “22.5% sellable”"
     }
   ]
 }
