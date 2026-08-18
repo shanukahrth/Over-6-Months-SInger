@@ -14862,11 +14862,11 @@
       "lastUpdated": "2026-08-18T09:56:38.266Z"
     },
     "SLE24D1000||HINGURAKGODA": {
-      "remark": "Defective - Penal damage 90% offered",
+      "remark": "70%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:29:21",
-      "lastUpdated": "2026-08-18T09:59:21.932Z"
+      "commentTime": "16:06:44",
+      "lastUpdated": "2026-08-18T10:36:44.693Z"
     },
     "G-STC3900N||MAIN WAREHOUSE": {
       "remark": "Transfer to shop",
@@ -15809,6 +15809,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "16:06:44",
+      "iso": "2026-08-18T10:36:44.694Z",
+      "action": "updated remark for SLE24D1000 at HINGURAKGODA: “70%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "16:06:25",
       "iso": "2026-08-18T10:36:25.437Z",
       "action": "updated remark for WP-NEO258NF at HINGURAKGODA: “Has been sent to service center 3 times and not fixed yet”"
@@ -16148,13 +16155,6 @@
       "time": "15:48:04",
       "iso": "2026-08-18T10:18:04.185Z",
       "action": "updated remark for QT-MB1KG at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "15:45:36",
-      "iso": "2026-08-18T10:15:36.008Z",
-      "action": "updated remark for QT-GB75MM at MAIN WAREHOUSE: “Discount to Rs. 2,000”"
     }
   ]
 }
