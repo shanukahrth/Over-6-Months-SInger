@@ -10793,6 +10793,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:02:05",
       "lastUpdated": "2026-08-18T05:32:05.729Z"
+    },
+    "UPRO-12000||GALEWELA": {
+      "remark": "Return to Warehouse",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:02:27",
+      "lastUpdated": "2026-08-18T05:32:27.377Z"
     }
   },
   "showroomVisits": {
@@ -11161,6 +11168,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "11:02:27",
+      "iso": "2026-08-18T05:32:27.379Z",
+      "action": "updated remark for UPRO-12000 at GALEWELA: “Return to Warehouse”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "11:02:05",
       "iso": "2026-08-18T05:32:05.732Z",
       "action": "updated remark for ULED32D60A at GALEWELA: “Damaged - 70%”"
@@ -11500,13 +11514,6 @@
       "time": "10:52:24",
       "iso": "2026-08-18T05:22:24.999Z",
       "action": "updated remark for MB-SAFARI4S-BLK at GALEWELA: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:52:14",
-      "iso": "2026-08-18T05:22:14.130Z",
-      "action": "updated remark for MB-SAFARI4S-RED at GALEWELA: “Can sell by 31st of Aug”"
     }
   ]
 }
