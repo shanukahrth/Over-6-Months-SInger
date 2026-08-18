@@ -14307,6 +14307,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:50:08",
       "lastUpdated": "2026-08-18T09:20:08.486Z"
+    },
+    "SW-SDW7040||MAIN WAREHOUSE": {
+      "remark": "Send to a brand sale",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:50:50",
+      "lastUpdated": "2026-08-18T09:20:50.974Z"
     }
   },
   "showroomVisits": {
@@ -14673,6 +14680,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:50:50",
+      "iso": "2026-08-18T09:20:50.983Z",
+      "action": "updated remark for SW-SDW7040 at MAIN WAREHOUSE: “Send to a brand sale”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "14:50:08",
@@ -15014,13 +15028,6 @@
       "time": "14:29:24",
       "iso": "2026-08-18T08:59:24.588Z",
       "action": "updated remark for ALU-CL-7FT-S at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:21",
-      "iso": "2026-08-18T08:59:21.321Z",
-      "action": "updated remark for ALU-SIG002WF001L at MAIN WAREHOUSE: “Special attention needed”"
     }
   ]
 }
