@@ -11017,6 +11017,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:15:27",
       "lastUpdated": "2026-08-18T05:45:27.035Z"
+    },
+    "KD-43X75K||MAIN WAREHOUSE": {
+      "remark": "Arpico",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:16:06",
+      "lastUpdated": "2026-08-18T05:46:06.503Z"
     }
   },
   "showroomVisits": {
@@ -11385,6 +11392,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:16:06",
+      "iso": "2026-08-18T05:46:06.511Z",
+      "action": "updated remark for KD-43X75K at MAIN WAREHOUSE: “Arpico”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:15:27",
       "iso": "2026-08-18T05:45:27.042Z",
       "action": "updated remark for PN-TH-55MX740N at MAIN WAREHOUSE: “Carton damage”"
@@ -11724,13 +11738,6 @@
       "time": "11:01:36",
       "iso": "2026-08-18T05:31:36.081Z",
       "action": "updated remark for TF-SP16-063 at GALEWELA: “Damaged - 50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:01:26",
-      "iso": "2026-08-18T05:31:26.108Z",
-      "action": "updated remark for SMGRT30K3322S8 at TRINCOMALEE: “Sold”"
     }
   ]
 }
