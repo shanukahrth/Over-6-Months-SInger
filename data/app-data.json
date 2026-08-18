@@ -12688,8 +12688,8 @@
       "remark": "6000",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "12:39:41",
-      "lastUpdated": "2026-08-18T07:09:41.678Z"
+      "commentTime": "12:39:59",
+      "lastUpdated": "2026-08-18T07:09:59.685Z"
     },
     "SIN-VBS-90PA||TRINCOMALEE B": {
       "remark": "90% discount product is not working",
@@ -12697,6 +12697,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:39:41",
       "lastUpdated": "2026-08-18T07:09:41.183Z"
+    },
+    "TF-TW26-064||BALANGODA": {
+      "remark": "5000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:40:07",
+      "lastUpdated": "2026-08-18T07:10:07.950Z"
     }
   },
   "showroomVisits": {
@@ -13063,6 +13070,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:40:07",
+      "iso": "2026-08-18T07:10:07.955Z",
+      "action": "updated remark for TF-TW26-064 at BALANGODA: “5000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:40:04",
+      "iso": "2026-08-18T07:10:04.297Z",
+      "action": "updated remark for TF-TW26-064 at BALANGODA: “5000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:39:59",
+      "iso": "2026-08-18T07:09:59.689Z",
+      "action": "updated remark for TF-SP16-063 at BALANGODA: “6000”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "12:39:41",
@@ -13390,27 +13418,6 @@
       "time": "12:25:29",
       "iso": "2026-08-18T06:55:29.889Z",
       "action": "updated remark for GCB8401F-N at TRINCOMALEE B: “80% discounts.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:25:20",
-      "iso": "2026-08-18T06:55:20.992Z",
-      "action": "updated remark for WF-JUPITER-05-S at BALANGODA: “30000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:25:07",
-      "iso": "2026-08-18T06:55:07.750Z",
-      "action": "updated remark for SIN-EP170 at BALANGODA: “15000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:24:52",
-      "iso": "2026-08-18T06:54:52.244Z",
-      "action": "updated remark for SL-SF1607RC at BALANGODA: “50%”"
     }
   ]
 }
