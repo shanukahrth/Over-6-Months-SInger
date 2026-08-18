@@ -11682,6 +11682,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:55:03",
       "lastUpdated": "2026-08-18T06:25:03.598Z"
+    },
+    "KA-TXG-DS11A||TRINCOMALEE": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:55:17",
+      "lastUpdated": "2026-08-18T06:25:17.623Z"
     }
   },
   "showroomVisits": {
@@ -12050,6 +12057,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "11:55:17",
+      "iso": "2026-08-18T06:25:17.625Z",
+      "action": "updated remark for KA-TXG-DS11A at TRINCOMALEE: “80%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "11:55:03",
       "iso": "2026-08-18T06:25:03.600Z",
       "action": "updated remark for KA-SST032BKI at TRINCOMALEE: “80%”"
@@ -12389,13 +12403,6 @@
       "time": "11:42:07",
       "iso": "2026-08-18T06:12:07.998Z",
       "action": "updated remark for PF-MONDY-BLUE at TRINCOMALEE: “10%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:42:05",
-      "iso": "2026-08-18T06:12:05.879Z",
-      "action": "updated remark for PF-MONDY-BLACK at TRINCOMALEE: “10%”"
     }
   ]
 }
