@@ -10072,6 +10072,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:24:16",
       "lastUpdated": "2026-08-18T04:54:16.024Z"
+    },
+    "TCL43S5400||TRINCOMALEE": {
+      "remark": "Display damaged - 70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:25:07",
+      "lastUpdated": "2026-08-18T04:55:07.894Z"
     }
   },
   "showroomVisits": {
@@ -10440,6 +10447,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:25:07",
+      "iso": "2026-08-18T04:55:07.895Z",
+      "action": "updated remark for TCL43S5400 at TRINCOMALEE: “Display damaged - 70%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:24:16",
       "iso": "2026-08-18T04:54:16.026Z",
       "action": "updated remark for SMGUA55DU7500 at TRINCOMALEE: “Special price 200,000”"
@@ -10779,13 +10793,6 @@
       "time": "09:56:29",
       "iso": "2026-08-18T04:26:29.238Z",
       "action": "updated remark for B-RDNI315XIB300P at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:56:15",
-      "iso": "2026-08-18T04:26:15.383Z",
-      "action": "updated remark for B-RDNI295XIB100P at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 70%”"
     }
   ]
 }
