@@ -14004,8 +14004,8 @@
       "remark": "Special attention needed",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "14:29:01",
-      "lastUpdated": "2026-08-18T08:59:01.194Z"
+      "commentTime": "14:29:39",
+      "lastUpdated": "2026-08-18T08:59:39.415Z"
     },
     "ALU-DPL-STN-6FT-S||MAIN WAREHOUSE": {
       "remark": "Special attention needed",
@@ -14069,6 +14069,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:29:30",
       "lastUpdated": "2026-08-18T08:59:30.298Z"
+    },
+    "ALU-SIG002WF003R||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:37",
+      "lastUpdated": "2026-08-18T08:59:37.258Z"
+    },
+    "ALU-CL-10FT-S||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:41",
+      "lastUpdated": "2026-08-18T08:59:41.006Z"
     }
   },
   "showroomVisits": {
@@ -14437,6 +14451,34 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:29:41",
+      "iso": "2026-08-18T08:59:41.013Z",
+      "action": "updated remark for ALU-CL-10FT-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:39",
+      "iso": "2026-08-18T08:59:39.423Z",
+      "action": "updated remark for WFL-SWSTK-L-SRK-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:37",
+      "iso": "2026-08-18T08:59:37.265Z",
+      "action": "updated remark for ALU-SIG002WF003R at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:35",
+      "iso": "2026-08-18T08:59:35.147Z",
+      "action": "updated remark for ALU-SIG002WF003R at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:29:30",
       "iso": "2026-08-18T08:59:30.303Z",
       "action": "updated remark for ALU-DPL-STN-4FT-S at MAIN WAREHOUSE: “Special attention needed”"
@@ -14755,34 +14797,6 @@
       "time": "14:11:39",
       "iso": "2026-08-18T08:41:39.044Z",
       "action": "updated remark for ENG-UE10054 at BALANGODA - B: “Exchange”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:11:31",
-      "iso": "2026-08-18T08:41:31.757Z",
-      "action": "updated remark for ZTE-A53-2GB-32GB-GRY at BALANGODA - B: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:11:03",
-      "iso": "2026-08-18T08:41:03.026Z",
-      "action": "updated remark for HON-X6B-6-128-GRN at BALANGODA - B: “15%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:10:46",
-      "iso": "2026-08-18T08:40:46.624Z",
-      "action": "updated remark for HON-X6B-6-128-GRN at BALANGODA - B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:10:41",
-      "iso": "2026-08-18T08:40:41.695Z",
-      "action": "updated remark for SMG-SM-A055F-64-B at BALANGODA - B: “15%”"
     }
   ]
 }
