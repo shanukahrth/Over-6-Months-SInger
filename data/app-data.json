@@ -11787,6 +11787,34 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:59:57",
       "lastUpdated": "2026-08-18T06:29:57.840Z"
+    },
+    "SL-GSE-S001||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:51:34",
+      "lastUpdated": "2026-08-18T06:21:34.113Z"
+    },
+    "VIC-25ML||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:56:52",
+      "lastUpdated": "2026-08-18T06:26:52.824Z"
+    },
+    "TY-EMCO-100170||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 125",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:58:56",
+      "lastUpdated": "2026-08-18T06:28:56.624Z"
+    },
+    "TY-EMCO-1830||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 250",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:00:16",
+      "lastUpdated": "2026-08-18T06:30:16.832Z"
     }
   },
   "showroomVisits": {
@@ -12153,6 +12181,34 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:00:16",
+      "iso": "2026-08-18T06:30:16.833Z",
+      "action": "updated remark for TY-EMCO-1830 at MAIN WAREHOUSE: “Discount to Rs. 250”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:58:56",
+      "iso": "2026-08-18T06:28:56.625Z",
+      "action": "updated remark for TY-EMCO-100170 at MAIN WAREHOUSE: “Discount to Rs. 125”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:56:52",
+      "iso": "2026-08-18T06:26:52.826Z",
+      "action": "updated remark for VIC-25ML at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:51:34",
+      "iso": "2026-08-18T06:21:34.116Z",
+      "action": "updated remark for SL-GSE-S001 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "11:59:57",
@@ -12473,34 +12529,6 @@
       "time": "11:49:42",
       "iso": "2026-08-18T06:19:42.920Z",
       "action": "updated remark for DH-KIT-8CH-4CAM at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:49:50",
-      "iso": "2026-08-18T06:19:50.126Z",
-      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “70% - Damaged not working - BM will repair it and sell”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:49:17",
-      "iso": "2026-08-18T06:19:17.585Z",
-      "action": "updated remark for SWM-FA70R at TRINCOMALEE (cleared)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:49:14",
-      "iso": "2026-08-18T06:19:14.712Z",
-      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “70”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:48:46",
-      "iso": "2026-08-18T06:18:46.364Z",
-      "action": "updated remark for PN-CS-SU12XKY-8 at MAIN WAREHOUSE: “Transfer to a shop”"
     }
   ]
 }
