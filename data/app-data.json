@@ -12354,6 +12354,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:22:02",
       "lastUpdated": "2026-08-18T06:52:02.370Z"
+    },
+    "WP-SS-SUB1-S||TRINCOMALEE B": {
+      "remark": "35% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:21:28",
+      "lastUpdated": "2026-08-18T06:51:28.455Z"
+    },
+    "SWM-FA70R||TRINCOMALEE B": {
+      "remark": "80% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:22:19",
+      "lastUpdated": "2026-08-18T06:52:19.526Z"
     }
   },
   "showroomVisits": {
@@ -12720,6 +12734,20 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:22:19",
+      "iso": "2026-08-18T06:52:19.527Z",
+      "action": "updated remark for SWM-FA70R at TRINCOMALEE B: “80% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:21:28",
+      "iso": "2026-08-18T06:51:28.458Z",
+      "action": "updated remark for WP-SS-SUB1-S at TRINCOMALEE B: “35% discount”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:22:02",
@@ -13054,20 +13082,6 @@
       "time": "12:12:24",
       "iso": "2026-08-18T06:42:24.821Z",
       "action": "updated remark for SIN-MRG-1008C at MELSIRIPURA: “Total Discount - 10%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:12:05",
-      "iso": "2026-08-18T06:42:05.597Z",
-      "action": "updated remark for SIN-MRG-1008C at MELSIRIPURA: “Damaged - 10%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:11:42",
-      "iso": "2026-08-18T06:41:42.942Z",
-      "action": "updated remark for SIN-AIRPKO1B at MELSIRIPURA: “Damaged - 75%”"
     }
   ]
 }
