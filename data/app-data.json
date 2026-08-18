@@ -15357,6 +15357,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:00:34",
       "lastUpdated": "2026-08-18T10:30:34.052Z"
+    },
+    "SL-ECO72||HINGURAKGODA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:02:03",
+      "lastUpdated": "2026-08-18T10:32:03.957Z"
     }
   },
   "showroomVisits": {
@@ -15725,6 +15732,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "16:02:03",
+      "iso": "2026-08-18T10:32:03.958Z",
+      "action": "updated remark for SL-ECO72 at HINGURAKGODA: “80%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "16:01:27",
       "iso": "2026-08-18T10:31:27.721Z",
       "action": "updated remark for SL-ECO55-SV at HINGURAKGODA: “Gas leak - need to fix the compressor”"
@@ -16064,13 +16078,6 @@
       "time": "15:43:14",
       "iso": "2026-08-18T10:13:14.325Z",
       "action": "updated remark for SL-ST550APR-MB at MAIN WAREHOUSE: “Carton dmgd”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "15:42:42",
-      "iso": "2026-08-18T10:12:42.259Z",
-      "action": "updated remark for QT-KB8KG at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
     }
   ]
 }
