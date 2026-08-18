@@ -10583,6 +10583,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:54:15",
       "lastUpdated": "2026-08-18T05:24:15.953Z"
+    },
+    "R-BWS-02||GALEWELA": {
+      "remark": "10%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:54:48",
+      "lastUpdated": "2026-08-18T05:24:48.953Z"
     }
   },
   "showroomVisits": {
@@ -10949,6 +10956,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:54:48",
+      "iso": "2026-08-18T05:24:48.955Z",
+      "action": "updated remark for R-BWS-02 at GALEWELA: “10%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:54:41",
+      "iso": "2026-08-18T05:24:41.376Z",
+      "action": "updated remark for R-BWS-02 at GALEWELA: “10%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "10:54:15",
@@ -11283,20 +11304,6 @@
       "time": "10:45:20",
       "iso": "2026-08-18T05:15:20.169Z",
       "action": "updated remark for HON-PAD-X8A-128GB at PABAHINNA-LITE: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "10:45:15",
-      "iso": "2026-08-18T05:15:15.078Z",
-      "action": "updated remark for SIN-RFC-2058 at PABAHINNA-LITE: “Additional 10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "10:45:08",
-      "iso": "2026-08-18T05:15:08.384Z",
-      "action": "updated remark for SIN-RFC-1819 at PABAHINNA-LITE: “Additional 10%”"
     }
   ]
 }
