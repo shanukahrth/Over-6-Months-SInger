@@ -14034,6 +14034,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:29:15",
       "lastUpdated": "2026-08-18T08:59:15.097Z"
+    },
+    "ALU-SIG002WF003L||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:18",
+      "lastUpdated": "2026-08-18T08:59:18.498Z"
     }
   },
   "showroomVisits": {
@@ -14402,6 +14409,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:29:18",
+      "iso": "2026-08-18T08:59:18.507Z",
+      "action": "updated remark for ALU-SIG002WF003L at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:29:15",
       "iso": "2026-08-18T08:59:15.102Z",
       "action": "updated remark for ALU-RUNG-10FTX2-S at MAIN WAREHOUSE: “Special attention needed”"
@@ -14741,13 +14755,6 @@
       "time": "14:08:54",
       "iso": "2026-08-18T08:38:54.138Z",
       "action": "updated remark for HU-SECURITY at BALANGODA - B: “Showroom use”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:08:25",
-      "iso": "2026-08-18T08:38:25.817Z",
-      "action": "updated remark for HON-PAD-X7-CV at BALANGODA - B: “Sold”"
     }
   ]
 }
