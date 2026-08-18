@@ -13411,6 +13411,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:51:08",
       "lastUpdated": "2026-08-18T08:21:08.906Z"
+    },
+    "TFFV1026MO||BALANGODA - B": {
+      "remark": "20%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:51:22",
+      "lastUpdated": "2026-08-18T08:21:22.593Z"
+    },
+    "TFFV4964MO||BALANGODA - B": {
+      "remark": "20%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:51:26",
+      "lastUpdated": "2026-08-18T08:21:26.092Z"
+    },
+    "KN-ISP100BL||BALANGODA - B": {
+      "remark": "20%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:51:35",
+      "lastUpdated": "2026-08-18T08:21:35.034Z"
     }
   },
   "showroomVisits": {
@@ -13777,6 +13798,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "13:51:35",
+      "iso": "2026-08-18T08:21:35.039Z",
+      "action": "updated remark for KN-ISP100BL at BALANGODA - B: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "13:51:26",
+      "iso": "2026-08-18T08:21:26.096Z",
+      "action": "updated remark for TFFV4964MO at BALANGODA - B: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "13:51:22",
+      "iso": "2026-08-18T08:21:22.598Z",
+      "action": "updated remark for TFFV1026MO at BALANGODA - B: “20%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "13:51:08",
@@ -14104,27 +14146,6 @@
       "time": "13:13:31",
       "iso": "2026-08-18T07:43:31.392Z",
       "action": "updated remark for B-WTV11512XS0 at BALANGODA: “89999”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:13:00",
-      "iso": "2026-08-18T07:43:00.394Z",
-      "action": "updated remark for TCL55C655 at BALANGODA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:12:30",
-      "iso": "2026-08-18T07:42:30.845Z",
-      "action": "updated remark for SLE32D5000 at BALANGODA: “19000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:12:10",
-      "iso": "2026-08-18T07:42:10.541Z",
-      "action": "updated remark for SLE42D2070TC at BALANGODA: “5000 report”"
     }
   ]
 }
