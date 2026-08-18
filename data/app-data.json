@@ -10345,6 +10345,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:45:15",
       "lastUpdated": "2026-08-18T05:15:15.302Z"
+    },
+    "DELL3502-PNTMSIL-W10-BLK||GALEWELA": {
+      "remark": "Return to Warehouse",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:45:24",
+      "lastUpdated": "2026-08-18T05:15:24.268Z"
     }
   },
   "showroomVisits": {
@@ -10711,6 +10718,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:45:24",
+      "iso": "2026-08-18T05:15:24.271Z",
+      "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at GALEWELA: “Return to Warehouse”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "10:45:15",
@@ -11052,13 +11066,6 @@
       "time": "10:25:07",
       "iso": "2026-08-18T04:55:07.895Z",
       "action": "updated remark for TCL43S5400 at TRINCOMALEE: “Display damaged - 70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:24:16",
-      "iso": "2026-08-18T04:54:16.026Z",
-      "action": "updated remark for SMGUA55DU7500 at TRINCOMALEE: “Special price 200,000”"
     }
   ]
 }
