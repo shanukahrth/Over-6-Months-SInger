@@ -16316,6 +16316,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:37:19",
       "lastUpdated": "2026-08-18T12:07:19.356Z"
+    },
+    "R-FGAP010||NIVITHIGALA": {
+      "remark": "Rtn to WH",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:37:43",
+      "lastUpdated": "2026-08-18T12:07:43.116Z"
     }
   },
   "showroomVisits": {
@@ -16682,6 +16689,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "17:37:43",
+      "iso": "2026-08-18T12:07:43.121Z",
+      "action": "updated remark for R-FGAP010 at NIVITHIGALA: “Rtn to WH”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-18",
       "time": "17:37:19",
@@ -17023,13 +17037,6 @@
       "time": "17:29:03",
       "iso": "2026-08-18T11:59:03.948Z",
       "action": "updated remark for HON-PAD-X7-4-128 at WARIYAPOLA: “20%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:29:12",
-      "iso": "2026-08-18T11:59:12.733Z",
-      "action": "updated remark for WF-PARIS-BL-S at NIVITHIGALA: “Sold”"
     }
   ]
 }
