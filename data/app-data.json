@@ -15224,6 +15224,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:48:49",
       "lastUpdated": "2026-08-18T10:18:49.791Z"
+    },
+    "SL-ST350NPW-D||MAIN WAREHOUSE": {
+      "remark": "Dummy units",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:49:05",
+      "lastUpdated": "2026-08-18T10:19:05.104Z"
+    },
+    "SL-ST50APRMB-D||MAIN WAREHOUSE": {
+      "remark": "Dummy units",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:49:11",
+      "lastUpdated": "2026-08-18T10:19:11.916Z"
     }
   },
   "showroomVisits": {
@@ -15590,6 +15604,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:49:11",
+      "iso": "2026-08-18T10:19:11.922Z",
+      "action": "updated remark for SL-ST50APRMB-D at MAIN WAREHOUSE: “Dummy units”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:49:05",
+      "iso": "2026-08-18T10:19:05.126Z",
+      "action": "updated remark for SL-ST350NPW-D at MAIN WAREHOUSE: “Dummy units”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:48:49",
@@ -15924,20 +15952,6 @@
       "time": "15:34:55",
       "iso": "2026-08-18T10:04:55.693Z",
       "action": "updated remark for HON-H400PRO-12-512-BLK at NIKAWARATIYA - B: “Display Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "15:34:51",
-      "iso": "2026-08-18T10:04:51.546Z",
-      "action": "updated remark for HON-H400PRO-12-512-BLK at NIKAWARATIYA - B: “Display - 50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:34:30",
-      "iso": "2026-08-18T10:04:30.782Z",
-      "action": "updated remark for SMGUA32N4010 at HINGURAKGODA: “Display - 45%”"
     }
   ]
 }
