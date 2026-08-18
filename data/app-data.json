@@ -12816,6 +12816,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:46:44",
       "lastUpdated": "2026-08-18T07:16:44.144Z"
+    },
+    "LF-BUDGET-ST-CLM-S||TRINCOMALEE B": {
+      "remark": "50% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:47:02",
+      "lastUpdated": "2026-08-18T07:17:02.056Z"
     }
   },
   "showroomVisits": {
@@ -13184,6 +13191,13 @@
     {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
+      "time": "12:47:02",
+      "iso": "2026-08-18T07:17:02.057Z",
+      "action": "updated remark for LF-BUDGET-ST-CLM-S at TRINCOMALEE B: “50% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
       "time": "12:46:44",
       "iso": "2026-08-18T07:16:44.146Z",
       "action": "updated remark for LF-BUDGET-BDQ-CLM-S at TRINCOMALEE B: “50% discount”"
@@ -13523,13 +13537,6 @@
       "time": "12:31:40",
       "iso": "2026-08-18T07:01:40.147Z",
       "action": "updated remark for WF-MILAN-MR-S at BALANGODA: “50000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:31:18",
-      "iso": "2026-08-18T07:01:18.401Z",
-      "action": "updated remark for WF-MILAN-MR-S at BALANGODA: “55000”"
     }
   ]
 }
