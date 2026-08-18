@@ -16036,6 +16036,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:30:00",
       "lastUpdated": "2026-08-18T12:00:00.526Z"
+    },
+    "WFL-RIO-02-S||NIVITHIGALA": {
+      "remark": "60000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:30:16",
+      "lastUpdated": "2026-08-18T12:00:16.076Z"
     }
   },
   "showroomVisits": {
@@ -16404,6 +16411,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "17:30:16",
+      "iso": "2026-08-18T12:00:16.081Z",
+      "action": "updated remark for WFL-RIO-02-S at NIVITHIGALA: “60000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "17:30:00",
       "iso": "2026-08-18T12:00:00.532Z",
       "action": "updated remark for WFL-MONACO-12-S at NIVITHIGALA: “Flat 60%”"
@@ -16743,13 +16757,6 @@
       "time": "17:09:10",
       "iso": "2026-08-18T11:39:10.864Z",
       "action": "updated remark for PH-BRE245 at MAIN WAREHOUSE: “Discount 50%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "17:09:09",
-      "iso": "2026-08-18T11:39:09.918Z",
-      "action": "updated remark for PH-BHH730 at MAIN WAREHOUSE: “Discount 50%”"
     }
   ]
 }
