@@ -13572,6 +13572,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:00:48",
       "lastUpdated": "2026-08-18T08:30:48.545Z"
+    },
+    "SL-PB-426||BALANGODA - B": {
+      "remark": "6000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:01:05",
+      "lastUpdated": "2026-08-18T08:31:05.696Z"
     }
   },
   "showroomVisits": {
@@ -13940,6 +13947,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:01:05",
+      "iso": "2026-08-18T08:31:05.702Z",
+      "action": "updated remark for SL-PB-426 at BALANGODA - B: “6000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:00:48",
       "iso": "2026-08-18T08:30:48.550Z",
       "action": "updated remark for PN-MX-AC210 at BALANGODA - B: “10%”"
@@ -14279,13 +14293,6 @@
       "time": "13:44:55",
       "iso": "2026-08-18T08:14:55.892Z",
       "action": "updated remark for FAN-P-SF1605HR at BALANGODA - B: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:44:45",
-      "iso": "2026-08-18T08:14:45.807Z",
-      "action": "updated remark for USHA-FS40-13B at BALANGODA - B: “10%”"
     }
   ]
 }
