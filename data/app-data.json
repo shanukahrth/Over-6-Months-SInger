@@ -11129,6 +11129,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:26:20",
       "lastUpdated": "2026-08-18T05:56:20.391Z"
+    },
+    "TF-SI-EXS1230||TRINCOMALEE": {
+      "remark": "20%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:27:08",
+      "lastUpdated": "2026-08-18T05:57:08.998Z"
+    },
+    "TF-GS-SPKT302||TRINCOMALEE": {
+      "remark": "15%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:27:15",
+      "lastUpdated": "2026-08-18T05:57:15.736Z"
     }
   },
   "showroomVisits": {
@@ -11495,6 +11509,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:27:15",
+      "iso": "2026-08-18T05:57:15.737Z",
+      "action": "updated remark for TF-GS-SPKT302 at TRINCOMALEE: “15%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:27:11",
+      "iso": "2026-08-18T05:57:11.340Z",
+      "action": "updated remark for TF-GS-SPKT302 at TRINCOMALEE: “15%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:27:08",
+      "iso": "2026-08-18T05:57:08.999Z",
+      "action": "updated remark for TF-SI-EXS1230 at TRINCOMALEE: “20%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "11:26:20",
@@ -11822,27 +11857,6 @@
       "time": "11:08:15",
       "iso": "2026-08-18T05:38:15.263Z",
       "action": "updated remark for CEL-A4-HSET at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:07:55",
-      "iso": "2026-08-18T05:37:55.851Z",
-      "action": "updated remark for SMGLH85QETELGC at MAIN WAREHOUSE: “Hotel TV”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:07:27",
-      "iso": "2026-08-18T05:37:27.901Z",
-      "action": "updated remark for TCL65C655 at MAIN WAREHOUSE: “Used in demo”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:07:18",
-      "iso": "2026-08-18T05:37:18.124Z",
-      "action": "updated remark for ULED43S500 at MAIN WAREHOUSE: “Transfer to shops”"
     }
   ]
 }
