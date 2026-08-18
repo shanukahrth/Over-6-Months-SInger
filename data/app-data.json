@@ -12249,6 +12249,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:18:19",
       "lastUpdated": "2026-08-18T06:48:19.127Z"
+    },
+    "NF755N2||MAIN WAREHOUSE": {
+      "remark": "Cannot sale due to slsi fail - scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:18:43",
+      "lastUpdated": "2026-08-18T06:48:43.458Z"
     }
   },
   "showroomVisits": {
@@ -12615,6 +12622,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:18:43",
+      "iso": "2026-08-18T06:48:43.465Z",
+      "action": "updated remark for NF755N2 at MAIN WAREHOUSE: “Cannot sale due to slsi fail - scrap”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:18:19",
@@ -12956,13 +12970,6 @@
       "time": "12:08:06",
       "iso": "2026-08-18T06:38:06.330Z",
       "action": "updated remark for GRIP-8305 at TRINCOMALEE B: “used for shop from long time 90% offered”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:07:29",
-      "iso": "2026-08-18T06:37:29.605Z",
-      "action": "updated remark for PN-F-407XNBAMKH at MELSIRIPURA: “Display/Damaged - 40%”"
     }
   ]
 }
