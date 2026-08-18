@@ -12450,8 +12450,22 @@
       "remark": "25% discount based on the condition",
       "commentedBy": "Chamal Gunawardena",
       "commentDate": "2026-08-18",
-      "commentTime": "12:28:48",
-      "lastUpdated": "2026-08-18T06:58:48.895Z"
+      "commentTime": "12:28:55",
+      "lastUpdated": "2026-08-18T06:58:55.112Z"
+    },
+    "PF-MONDY-RED||TRINCOMALEE B": {
+      "remark": "25% discount based on the condition",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:28:56",
+      "lastUpdated": "2026-08-18T06:58:56.471Z"
+    },
+    "PF-CAFE-NEW-RW-S||TRINCOMALEE B": {
+      "remark": "25% discount based on the condition",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:28:58",
+      "lastUpdated": "2026-08-18T06:58:58.255Z"
     }
   },
   "showroomVisits": {
@@ -12820,6 +12834,27 @@
     {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
+      "time": "12:28:58",
+      "iso": "2026-08-18T06:58:58.256Z",
+      "action": "updated remark for PF-CAFE-NEW-RW-S at TRINCOMALEE B: “25% discount based on the condition”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:28:56",
+      "iso": "2026-08-18T06:58:56.472Z",
+      "action": "updated remark for PF-MONDY-RED at TRINCOMALEE B: “25% discount based on the condition”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:28:55",
+      "iso": "2026-08-18T06:58:55.113Z",
+      "action": "updated remark for PF-MONDY-BLACK at TRINCOMALEE B: “25% discount based on the condition”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
       "time": "12:28:48",
       "iso": "2026-08-18T06:58:48.897Z",
       "action": "updated remark for PF-MONDY-BLACK at TRINCOMALEE B: “25% discount based on the condition”"
@@ -13145,27 +13180,6 @@
       "time": "12:16:44",
       "iso": "2026-08-18T06:46:44.641Z",
       "action": "updated remark for SCF-TD145ZCDL145S-948L at MAIN WAREHOUSE: “Physically available”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:16:33",
-      "iso": "2026-08-18T06:46:33.470Z",
-      "action": "updated remark for SL-DF720Q at MAIN WAREHOUSE: “Physically available”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:16:30",
-      "iso": "2026-08-18T06:46:30.325Z",
-      "action": "updated remark for SL-DF420Q-KT at MAIN WAREHOUSE: “Physically available”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:16:26",
-      "iso": "2026-08-18T06:46:26.951Z",
-      "action": "updated remark for SL-DF420Q-CCF at MAIN WAREHOUSE: “Physically available”"
     }
   ]
 }
