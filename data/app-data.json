@@ -11990,6 +11990,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:10:36",
       "lastUpdated": "2026-08-18T06:40:36.933Z"
+    },
+    "HU-FREEBUD-3I-B||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:10:40",
+      "lastUpdated": "2026-08-18T06:40:40.971Z"
     }
   },
   "showroomVisits": {
@@ -12356,6 +12363,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:10:40",
+      "iso": "2026-08-18T06:40:40.973Z",
+      "action": "updated remark for HU-FREEBUD-3I-B at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:10:36",
@@ -12697,13 +12711,6 @@
       "time": "11:55:57",
       "iso": "2026-08-18T06:25:57.588Z",
       "action": "updated remark for MID-MJ-KM6001W at TRINCOMALEE: “55%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:55:49",
-      "iso": "2026-08-18T06:25:49.720Z",
-      "action": "updated remark for BC-KNP-AG at TRINCOMALEE: “30%”"
     }
   ]
 }
