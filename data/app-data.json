@@ -14328,6 +14328,41 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:51:25",
       "lastUpdated": "2026-08-18T09:21:25.928Z"
+    },
+    "WFL-SPM-72X72X7-S||BALANGODA C": {
+      "remark": "85% flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:50:17",
+      "lastUpdated": "2026-08-18T09:20:17.883Z"
+    },
+    "LF-OFI-ST-001-SHW-S||BALANGODA C": {
+      "remark": "25000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:50:44",
+      "lastUpdated": "2026-08-18T09:20:44.156Z"
+    },
+    "LF-CLARA-STU-SWW-S||BALANGODA C": {
+      "remark": "35000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:50:53",
+      "lastUpdated": "2026-08-18T09:20:53.847Z"
+    },
+    "LF-LOUVRE-BSC-R-S||BALANGODA C": {
+      "remark": "10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:52:09",
+      "lastUpdated": "2026-08-18T09:22:09.449Z"
+    },
+    "LF-PODIUM-MWNT-S||BALANGODA C": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:52:31",
+      "lastUpdated": "2026-08-18T09:22:31.266Z"
     }
   },
   "showroomVisits": {
@@ -14694,6 +14729,41 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:52:31",
+      "iso": "2026-08-18T09:22:31.271Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at BALANGODA C: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:52:09",
+      "iso": "2026-08-18T09:22:09.455Z",
+      "action": "updated remark for LF-LOUVRE-BSC-R-S at BALANGODA C: “10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:50:53",
+      "iso": "2026-08-18T09:20:53.851Z",
+      "action": "updated remark for LF-CLARA-STU-SWW-S at BALANGODA C: “35000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:50:44",
+      "iso": "2026-08-18T09:20:44.161Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at BALANGODA C: “25000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:50:17",
+      "iso": "2026-08-18T09:20:17.887Z",
+      "action": "updated remark for WFL-SPM-72X72X7-S at BALANGODA C: “85% flat”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "14:51:25",
@@ -15007,41 +15077,6 @@
       "time": "14:29:54",
       "iso": "2026-08-18T08:59:54.021Z",
       "action": "updated remark for ALU-DSL-8FT-S at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:50",
-      "iso": "2026-08-18T08:59:50.799Z",
-      "action": "updated remark for ALU-FOR003WF002R at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:49",
-      "iso": "2026-08-18T08:59:49.311Z",
-      "action": "updated remark for ALU-FOR003WF001L at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:47",
-      "iso": "2026-08-18T08:59:47.128Z",
-      "action": "updated remark for ALU-FOR001WF003R at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:44",
-      "iso": "2026-08-18T08:59:44.237Z",
-      "action": "updated remark for ALU-FOR001WF002R at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:41",
-      "iso": "2026-08-18T08:59:41.013Z",
-      "action": "updated remark for ALU-CL-10FT-S at MAIN WAREHOUSE: “Special attention needed”"
     }
   ]
 }
