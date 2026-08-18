@@ -11647,6 +11647,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:54:45",
       "lastUpdated": "2026-08-18T06:24:45.459Z"
+    },
+    "SMGAR50F12D0J||MAIN WAREHOUSE": {
+      "remark": "Indoor unit not available",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:55:12",
+      "lastUpdated": "2026-08-18T06:25:12.575Z"
     }
   },
   "showroomVisits": {
@@ -12015,6 +12022,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:55:12",
+      "iso": "2026-08-18T06:25:12.581Z",
+      "action": "updated remark for SMGAR50F12D0J at MAIN WAREHOUSE: “Indoor unit not available”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:54:45",
       "iso": "2026-08-18T06:24:45.465Z",
       "action": "updated remark for WIS27K-A3GD at MAIN WAREHOUSE: “Transfer to a shop”"
@@ -12354,13 +12368,6 @@
       "time": "11:41:12",
       "iso": "2026-08-18T06:11:12.897Z",
       "action": "updated remark for PF-MONDY-BLACK at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:41:09",
-      "iso": "2026-08-18T06:11:09.413Z",
-      "action": "updated remark for LF-ORGN-BSC-WHT at TRINCOMALEE: “50%”"
     }
   ]
 }
