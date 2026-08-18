@@ -9512,6 +9512,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:32:45",
       "lastUpdated": "2026-08-18T04:02:45.188Z"
+    },
+    "R-BWS-02||NAULA": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:34:17",
+      "lastUpdated": "2026-08-18T04:04:17.429Z"
     }
   },
   "showroomVisits": {
@@ -9837,6 +9844,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:34:17",
+      "iso": "2026-08-18T04:04:17.431Z",
+      "action": "updated remark for R-BWS-02 at NAULA: “Damaged - 20%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:34:15",
+      "iso": "2026-08-18T04:04:15.893Z",
+      "action": "updated remark for R-BWS-02 at NAULA: “Damaged - 20%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10172,20 +10193,6 @@
       "time": "19:12:21",
       "iso": "2026-08-17T13:42:21.436Z",
       "action": "updated remark for LFLCDCHAMP-CHY-S at MUTUR: “Damaged and parts missing (screw)”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:10:37",
-      "iso": "2026-08-17T13:40:37.786Z",
-      "action": "updated remark for LP-AP01 at MUTUR: “30%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:10:28",
-      "iso": "2026-08-17T13:40:28.748Z",
-      "action": "updated remark for LP-AP01 at MUTUR: “30%”"
     }
   ]
 }
