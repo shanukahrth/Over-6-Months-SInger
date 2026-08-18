@@ -9813,12 +9813,12 @@
       "updatedDate": "2026-08-11"
     },
     "DAMBULLA||DAMBULLA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-12",
       "team": "",
       "remark": "",
-      "updatedBy": "Esala Herath",
-      "updatedDate": "2026-08-11"
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-18"
     },
     "RATHMALANA||PANADURA": {
       "visited": "Yes",
@@ -10118,6 +10118,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:54:43",
+      "iso": "2026-08-18T04:24:43.910Z",
+      "action": "updated DAMBULLA showroom (visited: Yes)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
@@ -10460,13 +10467,6 @@
       "time": "09:34:52",
       "iso": "2026-08-18T04:04:52.970Z",
       "action": "updated remark for PCP30 at NAULA: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:34:47",
-      "iso": "2026-08-18T04:04:47.756Z",
-      "action": "updated remark for PCP-COMB3875 at NAULA: “Damaged - 70%”"
     }
   ]
 }
