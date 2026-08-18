@@ -14183,11 +14183,11 @@
       "lastUpdated": "2026-08-18T09:10:06.344Z"
     },
     "H-BD-1054HVOS||MAIN WAREHOUSE": {
-      "remark": "Send to shops",
+      "remark": "Send to shops, serial number with dutrfree bond",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "14:45:35",
-      "lastUpdated": "2026-08-18T09:15:35.660Z"
+      "commentTime": "14:48:53",
+      "lastUpdated": "2026-08-18T09:18:53.892Z"
     },
     "H-CV950F24CDSWR||MAHO": {
       "remark": "Damaged - 75%",
@@ -14645,6 +14645,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:48:53",
+      "iso": "2026-08-18T09:18:53.898Z",
+      "action": "updated remark for H-BD-1054HVOS at MAIN WAREHOUSE: “Send to shops, serial number with dutrfree bond”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "14:48:30",
@@ -14986,13 +14993,6 @@
       "time": "14:29:05",
       "iso": "2026-08-18T08:59:05.623Z",
       "action": "updated remark for ALU-CL-5FT-S at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:03",
-      "iso": "2026-08-18T08:59:03.950Z",
-      "action": "updated remark for ALU-DPL-STN-6FT-S at MAIN WAREHOUSE: “Special attention needed”"
     }
   ]
 }
