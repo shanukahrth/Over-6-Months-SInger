@@ -16288,6 +16288,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:36:29",
       "lastUpdated": "2026-08-18T12:06:29.188Z"
+    },
+    "SIN-PSVX938N||WARIYAPOLA": {
+      "remark": "Revert Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:36:55",
+      "lastUpdated": "2026-08-18T12:06:55.929Z"
     }
   },
   "showroomVisits": {
@@ -16656,6 +16663,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "17:36:55",
+      "iso": "2026-08-18T12:06:55.931Z",
+      "action": "updated remark for SIN-PSVX938N at WARIYAPOLA: “Revert Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "17:36:29",
       "iso": "2026-08-18T12:06:29.189Z",
       "action": "updated remark for LF-BUDGET-ST-CLM-S at WARIYAPOLA: “Damaged - 50%”"
@@ -16995,13 +17009,6 @@
       "time": "17:27:44",
       "iso": "2026-08-18T11:57:44.731Z",
       "action": "updated remark for AS-13G-I3-512GB-3851-SIL at WARIYAPOLA: “Revert Damaged - 40%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:27:58",
-      "iso": "2026-08-18T11:57:58.711Z",
-      "action": "updated remark for LF-ORGN-BSC-WHT at NIVITHIGALA: “Flat 40%”"
     }
   ]
 }
