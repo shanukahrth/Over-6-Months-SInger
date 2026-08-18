@@ -13901,6 +13901,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:14:55",
       "lastUpdated": "2026-08-18T08:44:55.220Z"
+    },
+    "B-CFB9433XH||MAIN WAREHOUSE": {
+      "remark": "Unable to send to field oxide",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:15:07",
+      "lastUpdated": "2026-08-18T08:45:07.053Z"
+    },
+    "B-CFB9433X||MAIN WAREHOUSE": {
+      "remark": "Unable to send to field oxide",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:15:13",
+      "lastUpdated": "2026-08-18T08:45:13.580Z"
     }
   },
   "showroomVisits": {
@@ -14267,6 +14281,41 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:15:13",
+      "iso": "2026-08-18T08:45:13.585Z",
+      "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:15:09",
+      "iso": "2026-08-18T08:45:09.864Z",
+      "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:15:07",
+      "iso": "2026-08-18T08:45:07.064Z",
+      "action": "updated remark for B-CFB9433XH at MAIN WAREHOUSE: “Unable to send to field oxide”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:15:01",
+      "iso": "2026-08-18T08:45:01.327Z",
+      "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:14:45",
+      "iso": "2026-08-18T08:44:45.948Z",
+      "action": "updated remark for B-CFB9433XH at MAIN WAREHOUSE: “Unable to send to field oxide”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "14:14:55",
@@ -14580,41 +14629,6 @@
       "time": "14:04:07",
       "iso": "2026-08-18T08:34:07.777Z",
       "action": "updated remark for MID-MG-GP45B at BALANGODA - B: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:03:53",
-      "iso": "2026-08-18T08:33:53.675Z",
-      "action": "updated remark for SLMC-18DSLHS at BALANGODA - B: “15000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:03:05",
-      "iso": "2026-08-18T08:33:05.012Z",
-      "action": "updated remark for PCP30 at BALANGODA - B: “4000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:02:59",
-      "iso": "2026-08-18T08:32:59.953Z",
-      "action": "updated remark for PCP50 at BALANGODA - B: “5000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:02:43",
-      "iso": "2026-08-18T08:32:43.600Z",
-      "action": "updated remark for SMW823AY7 at BALANGODA - B: “35000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:02:37",
-      "iso": "2026-08-18T08:32:37.329Z",
-      "action": "updated remark for SMW823AY7 at BALANGODA - B: “Sellable”"
     }
   ]
 }
