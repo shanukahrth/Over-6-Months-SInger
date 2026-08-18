@@ -12830,6 +12830,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:47:09",
       "lastUpdated": "2026-08-18T07:17:09.519Z"
+    },
+    "LF-ORGN-DTO-WHT||TRINCOMALEE B": {
+      "remark": "50% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:47:19",
+      "lastUpdated": "2026-08-18T07:17:19.606Z"
     }
   },
   "showroomVisits": {
@@ -13198,6 +13205,13 @@
     {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
+      "time": "12:47:19",
+      "iso": "2026-08-18T07:17:19.607Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at TRINCOMALEE B: “50% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
       "time": "12:47:09",
       "iso": "2026-08-18T07:17:09.522Z",
       "action": "updated remark for WF-PRESTON-BSC-S at TRINCOMALEE B: “50% discount”"
@@ -13537,13 +13551,6 @@
       "time": "12:32:01",
       "iso": "2026-08-18T07:02:01.626Z",
       "action": "updated remark for WFL-SWSTK-SL-7FT at BALANGODA: “15000”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:31:23",
-      "iso": "2026-08-18T07:01:23.049Z",
-      "action": "updated remark for USHA-FS40-13B at TRINCOMALEE B: “30% discount”"
     }
   ]
 }
