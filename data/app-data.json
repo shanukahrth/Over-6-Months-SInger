@@ -13446,6 +13446,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:52:07",
       "lastUpdated": "2026-08-18T08:22:07.660Z"
+    },
+    "NCPDG-SET3||BALANGODA - B": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:54:14",
+      "lastUpdated": "2026-08-18T08:24:14.808Z"
     }
   },
   "showroomVisits": {
@@ -13812,6 +13819,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "13:54:14",
+      "iso": "2026-08-18T08:24:14.814Z",
+      "action": "updated remark for NCPDG-SET3 at BALANGODA - B: “30%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "13:52:07",
@@ -14153,13 +14167,6 @@
       "time": "13:14:59",
       "iso": "2026-08-18T07:44:59.328Z",
       "action": "updated remark for SWM-MET80GL at BALANGODA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:14:23",
-      "iso": "2026-08-18T07:44:23.709Z",
-      "action": "updated remark for SWM-FA70R at BALANGODA: “30000”"
     }
   ]
 }
