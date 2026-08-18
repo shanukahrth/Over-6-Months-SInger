@@ -11843,6 +11843,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:01:23",
       "lastUpdated": "2026-08-18T06:31:23.247Z"
+    },
+    "DH-A-HFW1200CLP-IL-A-36B||MELSIRIPURA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:02:14",
+      "lastUpdated": "2026-08-18T06:32:14.115Z"
     }
   },
   "showroomVisits": {
@@ -12211,6 +12218,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "12:02:14",
+      "iso": "2026-08-18T06:32:14.117Z",
+      "action": "updated remark for DH-A-HFW1200CLP-IL-A-36B at MELSIRIPURA: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "12:01:23",
       "iso": "2026-08-18T06:31:23.249Z",
       "action": "updated remark for AES-HAV-615T at MELSIRIPURA: “Damaged - 30%”"
@@ -12550,13 +12564,6 @@
       "time": "11:50:59",
       "iso": "2026-08-18T06:20:59.644Z",
       "action": "updated remark for SWM-FA70R at TRINCOMALEE: “55% - Discoloured”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:50:40",
-      "iso": "2026-08-18T06:20:40.297Z",
-      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “60% - Damaged but working”"
     }
   ]
 }
