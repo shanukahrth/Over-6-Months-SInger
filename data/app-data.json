@@ -11486,6 +11486,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:46:16",
       "lastUpdated": "2026-08-18T06:16:16.093Z"
+    },
+    "SAS24TCNR||TRINCOMALEE B": {
+      "remark": "50% total discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:46:33",
+      "lastUpdated": "2026-08-18T06:16:33.459Z"
     }
   },
   "showroomVisits": {
@@ -11852,6 +11859,13 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:46:33",
+      "iso": "2026-08-18T06:16:33.462Z",
+      "action": "updated remark for SAS24TCNR at TRINCOMALEE B: “50% total discount”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:46:16",
@@ -12193,13 +12207,6 @@
       "time": "11:29:57",
       "iso": "2026-08-18T05:59:57.652Z",
       "action": "updated remark for HP-IB-GT52-YELLOW at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:29:56",
-      "iso": "2026-08-18T05:59:56.866Z",
-      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
