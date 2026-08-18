@@ -10088,11 +10088,11 @@
       "lastUpdated": "2026-08-18T04:55:14.004Z"
     },
     "TCLED32D3000||TRINCOMALEE": {
-      "remark": "50%",
+      "remark": "Revert - 50%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "10:26:41",
-      "lastUpdated": "2026-08-18T04:56:41.325Z"
+      "commentTime": "10:26:48",
+      "lastUpdated": "2026-08-18T04:56:48.024Z"
     },
     "TCLED32D65A||TRINCOMALEE": {
       "remark": "50%",
@@ -10468,6 +10468,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:26:48",
+      "iso": "2026-08-18T04:56:48.025Z",
+      "action": "updated remark for TCLED32D3000 at TRINCOMALEE: “Revert - 50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:26:43",
       "iso": "2026-08-18T04:56:43.252Z",
       "action": "updated remark for TCLED32D65A at TRINCOMALEE: “50%”"
@@ -10807,13 +10814,6 @@
       "time": "10:00:38",
       "iso": "2026-08-18T04:30:38.179Z",
       "action": "updated remark for SL-ECO192WR-TG at MAIN WAREHOUSE: “Transfer to Godagama shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:59:40",
-      "iso": "2026-08-18T04:29:40.238Z",
-      "action": "updated remark for SL-ECO192WR-TG at MAIN WAREHOUSE: “Transfer to Godagama”"
     }
   ]
 }
