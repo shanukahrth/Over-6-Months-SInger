@@ -10879,11 +10879,11 @@
       "lastUpdated": "2026-08-18T05:34:36.185Z"
     },
     "WP-WRN25LX||TRINCOMALEE": {
-      "remark": "Damaged - 90%",
+      "remark": "WH return -",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "11:04:43",
-      "lastUpdated": "2026-08-18T05:34:43.985Z"
+      "commentTime": "11:16:25",
+      "lastUpdated": "2026-08-18T05:46:25.121Z"
     },
     "GPO-PUSHB-WALL||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 2000",
@@ -11397,6 +11397,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:16:25",
+      "iso": "2026-08-18T05:46:25.124Z",
+      "action": "updated remark for WP-WRN25LX at TRINCOMALEE: “WH return -”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "11:16:37",
@@ -11738,13 +11745,6 @@
       "time": "11:02:27",
       "iso": "2026-08-18T05:32:27.379Z",
       "action": "updated remark for UPRO-12000 at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:02:05",
-      "iso": "2026-08-18T05:32:05.732Z",
-      "action": "updated remark for ULED32D60A at GALEWELA: “Damaged - 70%”"
     }
   ]
 }
