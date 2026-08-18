@@ -10625,6 +10625,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:55:51",
       "lastUpdated": "2026-08-18T05:25:51.907Z"
+    },
+    "SLE32E920||MAIN WAREHOUSE": {
+      "remark": "Arpico",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:56:13",
+      "lastUpdated": "2026-08-18T05:26:13.521Z"
+    },
+    "SLE43G890||MAIN WAREHOUSE": {
+      "remark": "Arpico",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:56:18",
+      "lastUpdated": "2026-08-18T05:26:18.970Z"
     }
   },
   "showroomVisits": {
@@ -10991,6 +11005,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:56:18",
+      "iso": "2026-08-18T05:26:18.976Z",
+      "action": "updated remark for SLE43G890 at MAIN WAREHOUSE: “Arpico”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:56:13",
+      "iso": "2026-08-18T05:26:13.529Z",
+      "action": "updated remark for SLE32E920 at MAIN WAREHOUSE: “Arpico”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "10:55:51",
@@ -11325,20 +11353,6 @@
       "time": "10:45:46",
       "iso": "2026-08-18T05:15:46.709Z",
       "action": "updated remark for HON-X7C-8-256-BLK at PABAHINNA-LITE: “Display. Additional 15%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:45:39",
-      "iso": "2026-08-18T05:15:39.723Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:45:24",
-      "iso": "2026-08-18T05:15:24.271Z",
-      "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at GALEWELA: “Return to Warehouse”"
     }
   ]
 }
