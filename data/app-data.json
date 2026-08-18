@@ -12333,6 +12333,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:21:22",
       "lastUpdated": "2026-08-18T06:51:22.957Z"
+    },
+    "WFI-DELPHI-TBL-S||MELSIRIPURA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:21:30",
+      "lastUpdated": "2026-08-18T06:51:30.599Z"
     }
   },
   "showroomVisits": {
@@ -12701,6 +12708,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "12:21:30",
+      "iso": "2026-08-18T06:51:30.603Z",
+      "action": "updated remark for WFI-DELPHI-TBL-S at MELSIRIPURA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "12:21:22",
       "iso": "2026-08-18T06:51:22.959Z",
       "action": "updated remark for WFI-DELPHI-CHR-S at MELSIRIPURA: “Damaged - 50%”"
@@ -13040,13 +13054,6 @@
       "time": "12:12:18",
       "iso": "2026-08-18T06:42:18.012Z",
       "action": "updated remark for AP-IPOD-2G at MAIN WAREHOUSE: “Defective, scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:11:46",
-      "iso": "2026-08-18T06:41:46.824Z",
-      "action": "updated remark for HU-DOCK3 at MAIN WAREHOUSE: “Defective, scrap”"
     }
   ]
 }
