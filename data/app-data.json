@@ -16708,6 +16708,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "18:00:09",
       "lastUpdated": "2026-08-18T12:30:09.398Z"
+    },
+    "LP-AP01||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "18:14:02",
+      "lastUpdated": "2026-08-18T12:44:02.891Z"
     }
   },
   "showroomVisits": {
@@ -17076,6 +17083,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "18:14:02",
+      "iso": "2026-08-18T12:44:02.893Z",
+      "action": "updated remark for LP-AP01 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "18:10:34",
       "iso": "2026-08-18T12:40:34.845Z",
       "action": "updated remark for EDU-ADAPTER at MAIN WAREHOUSE: “Scrap”"
@@ -17415,13 +17429,6 @@
       "time": "17:45:11",
       "iso": "2026-08-18T12:15:11.645Z",
       "action": "updated remark for HU-SECURITY at NIVITHIGALA: “Showroom use”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:44:58",
-      "iso": "2026-08-18T12:14:58.427Z",
-      "action": "updated remark for VT-1047CN at NIVITHIGALA: “75%”"
     }
   ]
 }
