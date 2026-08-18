@@ -15252,6 +15252,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:49:19",
       "lastUpdated": "2026-08-18T10:19:19.784Z"
+    },
+    "GEO-242D-SV||HINGURAKGODA": {
+      "remark": "25%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:49:50",
+      "lastUpdated": "2026-08-18T10:19:50.238Z"
     }
   },
   "showroomVisits": {
@@ -15618,6 +15625,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:49:50",
+      "iso": "2026-08-18T10:19:50.239Z",
+      "action": "updated remark for GEO-242D-SV at HINGURAKGODA: “25%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:49:46",
+      "iso": "2026-08-18T10:19:46.991Z",
+      "action": "updated remark for GEO-242D-SV at HINGURAKGODA: “35%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "15:49:45",
@@ -15952,20 +15973,6 @@
       "time": "15:36:16",
       "iso": "2026-08-18T10:06:16.420Z",
       "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at NIKAWARATIYA - B: “Damaged Display - 50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:36:13",
-      "iso": "2026-08-18T10:06:13.836Z",
-      "action": "updated remark for TCLED24D3000 at HINGURAKGODA: “90% - EOL product”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:36:00",
-      "iso": "2026-08-18T10:06:00.788Z",
-      "action": "updated remark for SMGUA32T4400 at HINGURAKGODA: “Revert - 40%”"
     }
   ]
 }
