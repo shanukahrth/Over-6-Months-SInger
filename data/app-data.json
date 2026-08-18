@@ -13644,11 +13644,11 @@
       "lastUpdated": "2026-08-18T08:34:13.253Z"
     },
     "SL-S203||BALANGODA - B": {
-      "remark": "10000",
+      "remark": "9000",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "14:04:24",
-      "lastUpdated": "2026-08-18T08:34:24.950Z"
+      "commentTime": "14:04:42",
+      "lastUpdated": "2026-08-18T08:34:42.264Z"
     },
     "RIYLTA-MF12V4||BALANGODA - B": {
       "remark": "Rtn",
@@ -14031,6 +14031,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:04:42",
+      "iso": "2026-08-18T08:34:42.269Z",
+      "action": "updated remark for SL-S203 at BALANGODA - B: “9000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:04:37",
       "iso": "2026-08-18T08:34:37.518Z",
       "action": "updated remark for RIYLTA-MF12V5 at BALANGODA - B: “Rtn”"
@@ -14370,13 +14377,6 @@
       "time": "13:49:09",
       "iso": "2026-08-18T08:19:09.154Z",
       "action": "updated remark for WFL-RIO-02-S at BALANGODA - B: “50000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:48:42",
-      "iso": "2026-08-18T08:18:42.457Z",
-      "action": "updated remark for WF-PARIS-BR-S at BALANGODA - B: “30000”"
     }
   ]
 }
