@@ -15182,6 +15182,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:46:13",
       "lastUpdated": "2026-08-18T10:16:13.758Z"
+    },
+    "PN-DH-3JP2WK||MAIN WAREHOUSE": {
+      "remark": "Court need check",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:46:32",
+      "lastUpdated": "2026-08-18T10:16:32.769Z"
     }
   },
   "showroomVisits": {
@@ -15548,6 +15555,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:46:32",
+      "iso": "2026-08-18T10:16:32.788Z",
+      "action": "updated remark for PN-DH-3JP2WK at MAIN WAREHOUSE: “Court need check”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:46:13",
@@ -15889,13 +15903,6 @@
       "time": "15:32:37",
       "iso": "2026-08-18T10:02:37.229Z",
       "action": "updated remark for SLE32E810 at HINGURAKGODA: “70% Can sell”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:32:13",
-      "iso": "2026-08-18T10:02:13.858Z",
-      "action": "updated remark for SLE32E810 at HINGURAKGODA: “Penal damage - 90%”"
     }
   ]
 }
