@@ -9988,6 +9988,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:20:33",
       "lastUpdated": "2026-08-18T04:50:33.923Z"
+    },
+    "SLE32G690||TRINCOMALEE": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:20:42",
+      "lastUpdated": "2026-08-18T04:50:42.029Z"
     }
   },
   "showroomVisits": {
@@ -10356,6 +10363,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:20:42",
+      "iso": "2026-08-18T04:50:42.032Z",
+      "action": "updated remark for SLE32G690 at TRINCOMALEE: “50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:20:33",
       "iso": "2026-08-18T04:50:33.925Z",
       "action": "updated remark for SLE32E930 at TRINCOMALEE: “Revert - 70%”"
@@ -10695,13 +10709,6 @@
       "time": "09:55:22",
       "iso": "2026-08-18T04:25:22.295Z",
       "action": "updated KANTALAI showroom (visitDate: 2026-08-17)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "09:55:19",
-      "iso": "2026-08-18T04:25:19.108Z",
-      "action": "updated KANTALAI showroom (team: Chamal and Kaveesha )"
     }
   ]
 }
