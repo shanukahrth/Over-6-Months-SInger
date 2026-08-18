@@ -10118,7 +10118,7 @@
     },
     "HABARANA||DAMBULLA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-17",
       "team": "",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
@@ -10126,6 +10126,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:55:09",
+      "iso": "2026-08-18T04:25:09.549Z",
+      "action": "updated HABARANA showroom (visitDate: 2026-08-17)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
@@ -10468,13 +10475,6 @@
       "time": "09:36:34",
       "iso": "2026-08-18T04:06:34.059Z",
       "action": "updated remark for WL-0893012901 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:36:28",
-      "iso": "2026-08-18T04:06:28.035Z",
-      "action": "updated remark for X1R-PT at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
