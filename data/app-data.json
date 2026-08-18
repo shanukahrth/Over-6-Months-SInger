@@ -14937,6 +14937,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:30:46",
       "lastUpdated": "2026-08-18T10:00:46.275Z"
+    },
+    "PLAS-07010||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:30:48",
+      "lastUpdated": "2026-08-18T10:00:48.766Z"
     }
   },
   "showroomVisits": {
@@ -15305,6 +15312,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "15:30:48",
+      "iso": "2026-08-18T10:00:48.775Z",
+      "action": "updated remark for PLAS-07010 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "15:30:46",
       "iso": "2026-08-18T10:00:46.284Z",
       "action": "updated remark for PLAS-07012 at MAIN WAREHOUSE: “Scrap”"
@@ -15644,13 +15658,6 @@
       "time": "15:12:14",
       "iso": "2026-08-18T09:42:14.079Z",
       "action": "updated remark for TF-GCA-1336 at BALANGODA C: “15%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:10:51",
-      "iso": "2026-08-18T09:40:51.797Z",
-      "action": "updated remark for SW-SK22110GRYN at BALANGODA C: “10%”"
     }
   ]
 }
