@@ -11472,6 +11472,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:45:30",
       "lastUpdated": "2026-08-18T06:15:30.059Z"
+    },
+    "SASI12INFI||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:45:24",
+      "lastUpdated": "2026-08-18T06:15:24.917Z"
     }
   },
   "showroomVisits": {
@@ -11838,6 +11845,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:45:24",
+      "iso": "2026-08-18T06:15:24.950Z",
+      "action": "updated remark for SASI12INFI at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:45:42",
@@ -12179,13 +12193,6 @@
       "time": "11:29:53",
       "iso": "2026-08-18T05:59:53.521Z",
       "action": "updated remark for HP-IB-GT52-MAGENTA at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:29:49",
-      "iso": "2026-08-18T05:59:49.125Z",
-      "action": "updated remark for HP-IB-GT52-CYAN at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
