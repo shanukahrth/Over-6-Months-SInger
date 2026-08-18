@@ -9876,6 +9876,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:01:18",
       "lastUpdated": "2026-08-18T04:31:18.180Z"
+    },
+    "PN-NR-BG312DALK||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:01:22",
+      "lastUpdated": "2026-08-18T04:31:22.854Z"
+    },
+    "PN-NR-BG342DALK||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:01:26",
+      "lastUpdated": "2026-08-18T04:31:26.571Z"
     }
   },
   "showroomVisits": {
@@ -10244,6 +10258,27 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "10:01:26",
+      "iso": "2026-08-18T04:31:26.578Z",
+      "action": "updated remark for PN-NR-BG342DALK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:01:22",
+      "iso": "2026-08-18T04:31:22.860Z",
+      "action": "updated remark for PN-NR-BG312DALK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:01:20",
+      "iso": "2026-08-18T04:31:20.537Z",
+      "action": "updated remark for PN-NR-BG312DALK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "10:01:18",
       "iso": "2026-08-18T04:31:18.189Z",
       "action": "updated remark for SL-INV260WR at MAIN WAREHOUSE: “Transfer to Godagama shop”"
@@ -10569,27 +10604,6 @@
       "time": "09:44:22",
       "iso": "2026-08-18T04:14:22.699Z",
       "action": "updated remark for WP-NEO258NF at MAIN WAREHOUSE: “Code difference physical and system count in out needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:43:49",
-      "iso": "2026-08-18T04:13:49.187Z",
-      "action": "updated remark for WP-NEO258NF at MAIN WAREHOUSE: “Code difference physical and system”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:43:01",
-      "iso": "2026-08-18T04:13:01.165Z",
-      "action": "updated remark for RAVI-CPPB055RCP at MAIN WAREHOUSE: “Discount to Rs. 250”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:42:58",
-      "iso": "2026-08-18T04:12:58.732Z",
-      "action": "updated remark for RAVI-TMPB054RZS at MAIN WAREHOUSE: “Discount to rs. 200”"
     }
   ]
 }
