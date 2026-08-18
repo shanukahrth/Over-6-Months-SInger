@@ -11477,8 +11477,8 @@
       "remark": "Transfer to a shop",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "11:45:24",
-      "lastUpdated": "2026-08-18T06:15:24.917Z"
+      "commentTime": "11:46:37",
+      "lastUpdated": "2026-08-18T06:16:37.846Z"
     },
     "VT-EL31109CN||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -11507,6 +11507,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:48:09",
       "lastUpdated": "2026-08-18T06:18:09.001Z"
+    },
+    "SAS24TCNR||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:48:39",
+      "lastUpdated": "2026-08-18T06:18:39.745Z"
+    },
+    "PN-CS-SU12XKY-8||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:48:46",
+      "lastUpdated": "2026-08-18T06:18:46.355Z"
     }
   },
   "showroomVisits": {
@@ -11873,6 +11887,27 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:48:46",
+      "iso": "2026-08-18T06:18:46.364Z",
+      "action": "updated remark for PN-CS-SU12XKY-8 at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:48:39",
+      "iso": "2026-08-18T06:18:39.751Z",
+      "action": "updated remark for SAS24TCNR at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:46:37",
+      "iso": "2026-08-18T06:16:37.856Z",
+      "action": "updated remark for SASI12INFI at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:48:09",
@@ -12200,27 +12235,6 @@
       "time": "11:32:14",
       "iso": "2026-08-18T06:02:14.942Z",
       "action": "updated remark for LF-OF-MWS001-S at TRINCOMALEE: “50% - Damaged”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:31:43",
-      "iso": "2026-08-18T06:01:43.086Z",
-      "action": "updated remark for LF-LEO-12023-BCH at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:29:50",
-      "iso": "2026-08-18T05:59:50.240Z",
-      "action": "updated remark for PN-NI-S530ASD at TRINCOMALEE: “Revert - 35%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:29:41",
-      "iso": "2026-08-18T05:59:41.472Z",
-      "action": "updated remark for SIS277CU at TRINCOMALEE: “50% - no carton, damaged cap is not there”"
     }
   ]
 }
