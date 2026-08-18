@@ -9428,6 +9428,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:25:31",
       "lastUpdated": "2026-08-18T03:55:31.186Z"
+    },
+    "HON-X9C-12-256-BLK||NAULA": {
+      "remark": "Display - 10%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:25:43",
+      "lastUpdated": "2026-08-18T03:55:43.729Z"
     }
   },
   "showroomVisits": {
@@ -9753,6 +9760,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:25:43",
+      "iso": "2026-08-18T03:55:43.730Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at NAULA: “Display - 10%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10095,13 +10109,6 @@
       "time": "19:02:39",
       "iso": "2026-08-17T13:32:39.931Z",
       "action": "updated remark for SIN-MRG-1008C at MUTUR: “Missing part -”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "18:59:06",
-      "iso": "2026-08-17T13:29:06.324Z",
-      "action": "updated remark for SIN-PR-K340 at MUTUR: “30%”"
     }
   ]
 }
