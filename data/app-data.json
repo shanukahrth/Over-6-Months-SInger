@@ -11885,6 +11885,34 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:04:11",
       "lastUpdated": "2026-08-18T06:34:11.378Z"
+    },
+    "TY-EMCO-101300||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 250",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:00:46",
+      "lastUpdated": "2026-08-18T06:30:46.169Z"
+    },
+    "H-DVDPCKIT||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:04:19",
+      "lastUpdated": "2026-08-18T06:34:19.175Z"
+    },
+    "SDV3605K||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:04:21",
+      "lastUpdated": "2026-08-18T06:34:21.813Z"
+    },
+    "DVP-SR370||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:04:28",
+      "lastUpdated": "2026-08-18T06:34:28.171Z"
     }
   },
   "showroomVisits": {
@@ -12251,6 +12279,34 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:04:28",
+      "iso": "2026-08-18T06:34:28.174Z",
+      "action": "updated remark for DVP-SR370 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:04:21",
+      "iso": "2026-08-18T06:34:21.815Z",
+      "action": "updated remark for SDV3605K at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:04:19",
+      "iso": "2026-08-18T06:34:19.177Z",
+      "action": "updated remark for H-DVDPCKIT at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:00:46",
+      "iso": "2026-08-18T06:30:46.170Z",
+      "action": "updated remark for TY-EMCO-101300 at MAIN WAREHOUSE: “Discount to Rs. 250”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:04:14",
@@ -12571,34 +12627,6 @@
       "time": "11:52:19",
       "iso": "2026-08-18T06:22:19.709Z",
       "action": "updated remark for PN-SC-BMAX5E-K at TRINCOMALEE B: “50% total discount”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:53:17",
-      "iso": "2026-08-18T06:23:17.304Z",
-      "action": "updated remark for SL-9VNF at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:52:51",
-      "iso": "2026-08-18T06:22:51.606Z",
-      "action": "updated remark for SL-18VNF-SO at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:52:42",
-      "iso": "2026-08-18T06:22:42.049Z",
-      "action": "updated remark for SL-12VNF-SO at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:52:20",
-      "iso": "2026-08-18T06:22:20.635Z",
-      "action": "updated remark for SAS-GRI12VN at MAIN WAREHOUSE: “Transfer to a shop”"
     }
   ]
 }
