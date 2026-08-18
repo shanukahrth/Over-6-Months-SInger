@@ -14251,6 +14251,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:46:17",
       "lastUpdated": "2026-08-18T09:16:17.649Z"
+    },
+    "SRS-XV800||BALANGODA C": {
+      "remark": "Flat 50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:47:44",
+      "lastUpdated": "2026-08-18T09:17:44.363Z"
+    },
+    "HFPA-MUSICBOX-SLV||BALANGODA C": {
+      "remark": "29000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:48:04",
+      "lastUpdated": "2026-08-18T09:18:04.172Z"
     }
   },
   "showroomVisits": {
@@ -14617,6 +14631,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:48:04",
+      "iso": "2026-08-18T09:18:04.176Z",
+      "action": "updated remark for HFPA-MUSICBOX-SLV at BALANGODA C: “29000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:47:44",
+      "iso": "2026-08-18T09:17:44.369Z",
+      "action": "updated remark for SRS-XV800 at BALANGODA C: “Flat 50%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "14:47:29",
@@ -14951,20 +14979,6 @@
       "time": "14:28:56",
       "iso": "2026-08-18T08:58:56.004Z",
       "action": "updated remark for ALU-DSL-7FT-S at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:28:53",
-      "iso": "2026-08-18T08:58:53.344Z",
-      "action": "updated remark for ALU-DPL-STN-5FT-S at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:22:15",
-      "iso": "2026-08-18T08:52:15.466Z",
-      "action": "updated remark for PH-BHS675 at BALANGODA - B: “60%”"
     }
   ]
 }
