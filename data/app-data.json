@@ -11311,6 +11311,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:34:35",
       "lastUpdated": "2026-08-18T06:04:35.567Z"
+    },
+    "PN-SC-BMAX5E-K||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:35:04",
+      "lastUpdated": "2026-08-18T06:05:04.242Z"
     }
   },
   "showroomVisits": {
@@ -11679,6 +11686,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:35:04",
+      "iso": "2026-08-18T06:05:04.249Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:34:35",
       "iso": "2026-08-18T06:04:35.603Z",
       "action": "updated remark for HT-AX7 at MAIN WAREHOUSE: “Transfer to shops”"
@@ -12018,13 +12032,6 @@
       "time": "11:23:00",
       "iso": "2026-08-18T05:53:00.101Z",
       "action": "updated remark for PN-TH-32P401N at TRINCOMALEE B: “no additional discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:22:35",
-      "iso": "2026-08-18T05:52:35.195Z",
-      "action": "updated remark for BES-CRS-51 at TRINCOMALEE: “WH return - BM to send a mail to Ms. Noyali regarding this”"
     }
   ]
 }
