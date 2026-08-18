@@ -11290,6 +11290,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:32:59",
       "lastUpdated": "2026-08-18T06:02:59.489Z"
+    },
+    "CAN-TN-054-Y||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:33:51",
+      "lastUpdated": "2026-08-18T06:03:51.161Z"
     }
   },
   "showroomVisits": {
@@ -11658,6 +11665,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:33:51",
+      "iso": "2026-08-18T06:03:51.163Z",
+      "action": "updated remark for CAN-TN-054-Y at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:32:59",
       "iso": "2026-08-18T06:02:59.492Z",
       "action": "updated remark for CAN-TN-054-C at MAIN WAREHOUSE: “Scrap”"
@@ -11997,13 +12011,6 @@
       "time": "11:21:53",
       "iso": "2026-08-18T05:51:53.458Z",
       "action": "updated remark for WP-WRN25LX at TRINCOMALEE: “WH return - BM to send a mail to Ms. Noyali regarding this”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:21:07",
-      "iso": "2026-08-18T05:51:07.221Z",
-      "action": "updated remark for PB-AHD1160B at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
