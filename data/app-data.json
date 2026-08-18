@@ -9689,11 +9689,11 @@
       "lastUpdated": "2026-08-18T04:11:22.493Z"
     },
     "RAVI-CPPB055RCP||MAIN WAREHOUSE": {
-      "remark": "Discount to Rs. 250",
+      "remark": "Discount to Rs. 200",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "09:43:01",
-      "lastUpdated": "2026-08-18T04:13:01.163Z"
+      "commentTime": "09:46:11",
+      "lastUpdated": "2026-08-18T04:16:11.531Z"
     },
     "SL-INV260WR-TG||MAIN WAREHOUSE": {
       "remark": "Transfer to shops",
@@ -10064,6 +10064,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "09:46:11",
+      "iso": "2026-08-18T04:16:11.533Z",
+      "action": "updated remark for RAVI-CPPB055RCP at MAIN WAREHOUSE: “Discount to Rs. 200”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "09:45:49",
       "iso": "2026-08-18T04:15:49.523Z",
       "action": "updated remark for RAVI-TMPB054RZS at MAIN WAREHOUSE: “Discount to Rs. 200”"
@@ -10403,13 +10410,6 @@
       "time": "09:29:05",
       "iso": "2026-08-18T03:59:05.886Z",
       "action": "updated remark for H-CVW1600 at NAULA: “Damaged - 30%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:27:44",
-      "iso": "2026-08-18T03:57:44.393Z",
-      "action": "updated remark for CLOTHLINE-35PVC at NAULA: “Damaged - 70%”"
     }
   ]
 }
