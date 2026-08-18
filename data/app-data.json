@@ -10891,6 +10891,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:05:01",
       "lastUpdated": "2026-08-18T05:35:01.122Z"
+    },
+    "WF-PRESTON-2D-S||GALEWELA": {
+      "remark": "Return to Warehouse",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:04:58",
+      "lastUpdated": "2026-08-18T05:34:58.304Z"
+    },
+    "WF-PRESTON-BSC-S||GALEWELA": {
+      "remark": "Return to Warehouse",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:05:22",
+      "lastUpdated": "2026-08-18T05:35:22.391Z"
     }
   },
   "showroomVisits": {
@@ -11257,6 +11271,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "11:05:22",
+      "iso": "2026-08-18T05:35:22.394Z",
+      "action": "updated remark for WF-PRESTON-BSC-S at GALEWELA: “Return to Warehouse”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "11:04:58",
+      "iso": "2026-08-18T05:34:58.306Z",
+      "action": "updated remark for WF-PRESTON-2D-S at GALEWELA: “Return to Warehouse”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:05:01",
@@ -11591,20 +11619,6 @@
       "time": "10:56:07",
       "iso": "2026-08-18T05:26:07.567Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at TRINCOMALEE (cleared)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:56:18",
-      "iso": "2026-08-18T05:26:18.976Z",
-      "action": "updated remark for SLE43G890 at MAIN WAREHOUSE: “Arpico”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:56:13",
-      "iso": "2026-08-18T05:26:13.529Z",
-      "action": "updated remark for SLE32E920 at MAIN WAREHOUSE: “Arpico”"
     }
   ]
 }
