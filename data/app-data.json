@@ -11997,6 +11997,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:10:40",
       "lastUpdated": "2026-08-18T06:40:40.971Z"
+    },
+    "HU-FREEBUD-3I-W||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:11:05",
+      "lastUpdated": "2026-08-18T06:41:05.964Z"
     }
   },
   "showroomVisits": {
@@ -12365,6 +12372,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "12:11:05",
+      "iso": "2026-08-18T06:41:05.965Z",
+      "action": "updated remark for HU-FREEBUD-3I-W at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "12:10:40",
       "iso": "2026-08-18T06:40:40.973Z",
       "action": "updated remark for HU-FREEBUD-3I-B at MAIN WAREHOUSE: “Scrap”"
@@ -12704,13 +12718,6 @@
       "time": "11:56:36",
       "iso": "2026-08-18T06:26:36.227Z",
       "action": "updated remark for AS-K-12G-I5-512-225-BLK at MELSIRIPURA: “Damaged -”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:55:57",
-      "iso": "2026-08-18T06:25:57.588Z",
-      "action": "updated remark for MID-MJ-KM6001W at TRINCOMALEE: “55%”"
     }
   ]
 }
