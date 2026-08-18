@@ -12557,6 +12557,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:32:42",
       "lastUpdated": "2026-08-18T07:02:42.942Z"
+    },
+    "TF-SI-EXS1230||TRINCOMALEE B": {
+      "remark": "20% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:32:48",
+      "lastUpdated": "2026-08-18T07:02:48.970Z"
+    },
+    "TF-SI-EXSP1231||TRINCOMALEE B": {
+      "remark": "20% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:32:50",
+      "lastUpdated": "2026-08-18T07:02:50.719Z"
     }
   },
   "showroomVisits": {
@@ -12923,6 +12937,27 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:32:50",
+      "iso": "2026-08-18T07:02:50.720Z",
+      "action": "updated remark for TF-SI-EXSP1231 at TRINCOMALEE B: “20% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:32:48",
+      "iso": "2026-08-18T07:02:48.972Z",
+      "action": "updated remark for TF-SI-EXS1230 at TRINCOMALEE B: “20% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:32:47",
+      "iso": "2026-08-18T07:02:47.586Z",
+      "action": "updated remark for TF-SI-EXS1230 at TRINCOMALEE B: “20% discount”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:32:42",
@@ -13250,27 +13285,6 @@
       "time": "12:21:20",
       "iso": "2026-08-18T06:51:20.621Z",
       "action": "updated remark for SBI-60M19-T at BALANGODA: “34000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:21:16",
-      "iso": "2026-08-18T06:51:16.383Z",
-      "action": "updated remark for SBI-60M19-T at BALANGODA: “34000”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:20:52",
-      "iso": "2026-08-18T06:50:52.040Z",
-      "action": "updated remark for FAN-WF1608R at MAIN WAREHOUSE: “Physically available carton damage”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:20:36",
-      "iso": "2026-08-18T06:50:36.214Z",
-      "action": "updated remark for FAN-P-1605H at MAIN WAREHOUSE: “Physically available carton damage”"
     }
   ]
 }
