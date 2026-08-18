@@ -13747,6 +13747,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:07:40",
       "lastUpdated": "2026-08-18T08:37:40.110Z"
+    },
+    "PH-BHS675||BALANGODA - B": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:07:07",
+      "lastUpdated": "2026-08-18T08:37:07.745Z"
+    },
+    "SIN-RFC-1819||BALANGODA - B": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:08:01",
+      "lastUpdated": "2026-08-18T08:38:01.004Z"
+    },
+    "SIN-RFC-2012||BALANGODA - B": {
+      "remark": "10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:08:07",
+      "lastUpdated": "2026-08-18T08:38:07.721Z"
     }
   },
   "showroomVisits": {
@@ -14113,6 +14134,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:08:07",
+      "iso": "2026-08-18T08:38:07.725Z",
+      "action": "updated remark for SIN-RFC-2012 at BALANGODA - B: “10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:08:01",
+      "iso": "2026-08-18T08:38:01.020Z",
+      "action": "updated remark for SIN-RFC-1819 at BALANGODA - B: “30%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:07:07",
+      "iso": "2026-08-18T08:37:07.782Z",
+      "action": "updated remark for PH-BHS675 at BALANGODA - B: “30%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "14:07:40",
@@ -14440,27 +14482,6 @@
       "time": "13:55:19",
       "iso": "2026-08-18T08:25:19.017Z",
       "action": "updated remark for MID-MJ-KM6001W at BALANGODA - B: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:55:13",
-      "iso": "2026-08-18T08:25:13.907Z",
-      "action": "updated remark for MID-MJ-KM6001W at BALANGODA - B: “30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "13:54:16",
-      "iso": "2026-08-18T08:24:16.847Z",
-      "action": "updated remark for LF-LEO-BRM-BCH at POLPITHIGAMA: “Damaged - 30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:54:41",
-      "iso": "2026-08-18T08:24:41.910Z",
-      "action": "updated remark for BR-COOKPAN28 at BALANGODA - B: “30%”"
     }
   ]
 }
