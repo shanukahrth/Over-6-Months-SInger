@@ -14027,6 +14027,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:29:11",
       "lastUpdated": "2026-08-18T08:59:11.739Z"
+    },
+    "ALU-RUNG-10FTX2-S||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:15",
+      "lastUpdated": "2026-08-18T08:59:15.097Z"
     }
   },
   "showroomVisits": {
@@ -14395,6 +14402,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:29:15",
+      "iso": "2026-08-18T08:59:15.102Z",
+      "action": "updated remark for ALU-RUNG-10FTX2-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:29:11",
       "iso": "2026-08-18T08:59:11.745Z",
       "action": "updated remark for ALU-FOR003WF002L at MAIN WAREHOUSE: “Special attention needed”"
@@ -14734,13 +14748,6 @@
       "time": "14:08:25",
       "iso": "2026-08-18T08:38:25.817Z",
       "action": "updated remark for HON-PAD-X7-CV at BALANGODA - B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:08:07",
-      "iso": "2026-08-18T08:38:07.725Z",
-      "action": "updated remark for SIN-RFC-2012 at BALANGODA - B: “10%”"
     }
   ]
 }
