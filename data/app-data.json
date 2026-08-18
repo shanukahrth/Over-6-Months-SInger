@@ -13257,6 +13257,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:40:09",
       "lastUpdated": "2026-08-18T08:10:09.424Z"
+    },
+    "USHA-AVTR56||BALANGODA - B": {
+      "remark": "20000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:40:50",
+      "lastUpdated": "2026-08-18T08:10:50.877Z"
     }
   },
   "showroomVisits": {
@@ -13625,6 +13632,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:40:50",
+      "iso": "2026-08-18T08:10:50.881Z",
+      "action": "updated remark for USHA-AVTR56 at BALANGODA - B: “20000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:40:09",
       "iso": "2026-08-18T08:10:09.425Z",
       "action": "updated remark for DELLC-VOS3420-I5DOS at BALANGODA - B: “Damaged”"
@@ -13964,13 +13978,6 @@
       "time": "12:54:20",
       "iso": "2026-08-18T07:24:20.697Z",
       "action": "updated remark for HON-X5B-4-64-BLU at BALANGODA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:54:15",
-      "iso": "2026-08-18T07:24:15.274Z",
-      "action": "updated remark for HON-X7C-8-256-BLK at BALANGODA: “Sold. PO out”"
     }
   ]
 }
