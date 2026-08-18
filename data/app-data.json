@@ -9771,6 +9771,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:51:16",
       "lastUpdated": "2026-08-18T04:21:16.343Z"
+    },
+    "KV-FPAU13A||MAIN WAREHOUSE": {
+      "remark": "1000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:50:58",
+      "lastUpdated": "2026-08-18T04:20:58.138Z"
+    },
+    "KV-FPA-13A||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 200",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:51:05",
+      "lastUpdated": "2026-08-18T04:21:05.565Z"
     }
   },
   "showroomVisits": {
@@ -10096,6 +10110,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:51:05",
+      "iso": "2026-08-18T04:21:05.568Z",
+      "action": "updated remark for KV-FPA-13A at MAIN WAREHOUSE: “Discount to Rs. 200”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:50:58",
+      "iso": "2026-08-18T04:20:58.140Z",
+      "action": "updated remark for KV-FPAU13A at MAIN WAREHOUSE: “1000”"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-18",
@@ -10431,20 +10459,6 @@
       "time": "09:32:33",
       "iso": "2026-08-18T04:02:33.681Z",
       "action": "updated remark for NCPO-FP280 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:32:16",
-      "iso": "2026-08-18T04:02:16.784Z",
-      "action": "updated remark for HAVIT-MS851-MOUSE at MAIN WAREHOUSE: “Transfer to Digital media Sales and Office use DPD”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:32:22",
-      "iso": "2026-08-18T04:02:22.074Z",
-      "action": "updated remark for NCPO-FP250 at NAULA: “Damaged - 40%”"
     }
   ]
 }
