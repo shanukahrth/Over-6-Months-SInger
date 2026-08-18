@@ -12669,6 +12669,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:39:02",
       "lastUpdated": "2026-08-18T07:09:02.162Z"
+    },
+    "TF-KD24-061||BALANGODA": {
+      "remark": "9000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:39:13",
+      "lastUpdated": "2026-08-18T07:09:13.073Z"
     }
   },
   "showroomVisits": {
@@ -13037,6 +13044,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:39:13",
+      "iso": "2026-08-18T07:09:13.078Z",
+      "action": "updated remark for TF-KD24-061 at BALANGODA: “9000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:39:02",
       "iso": "2026-08-18T07:09:02.167Z",
       "action": "updated remark for TF-NIDFP24-170 at BALANGODA: “9500”"
@@ -13376,13 +13390,6 @@
       "time": "12:23:37",
       "iso": "2026-08-18T06:53:37.659Z",
       "action": "updated remark for DELL-MS5120W-WL at MAIN WAREHOUSE: “Discount to Rs.1,500”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:23:11",
-      "iso": "2026-08-18T06:53:11.616Z",
-      "action": "updated remark for KV-CF-AIRMAX at MAIN WAREHOUSE: “Discount 60%”"
     }
   ]
 }
