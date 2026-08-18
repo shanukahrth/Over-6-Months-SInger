@@ -14741,6 +14741,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:15:16",
       "lastUpdated": "2026-08-18T09:45:16.763Z"
+    },
+    "SMG-A17-8-128-GRY||BALANGODA C": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:15:23",
+      "lastUpdated": "2026-08-18T09:45:23.702Z"
+    },
+    "SMG-A36-5G-8-256-BLK||BALANGODA C": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:15:27",
+      "lastUpdated": "2026-08-18T09:45:27.098Z"
     }
   },
   "showroomVisits": {
@@ -15109,6 +15123,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "15:15:27",
+      "iso": "2026-08-18T09:45:27.099Z",
+      "action": "updated remark for SMG-A36-5G-8-256-BLK at BALANGODA C: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "15:15:23",
+      "iso": "2026-08-18T09:45:23.703Z",
+      "action": "updated remark for SMG-A17-8-128-GRY at BALANGODA C: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "15:15:16",
       "iso": "2026-08-18T09:45:16.764Z",
       "action": "updated remark for ZTE-A36-2-64GB-GLD at BALANGODA C: “Sellable”"
@@ -15441,20 +15469,6 @@
       "time": "14:44:37",
       "iso": "2026-08-18T09:14:37.549Z",
       "action": "updated remark for CP-GAC-TC1000L2 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "14:44:06",
-      "iso": "2026-08-18T09:14:06.856Z",
-      "action": "updated remark for CP-UAR-0801P1 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "14:26:43",
-      "iso": "2026-08-18T08:56:43.207Z",
-      "action": "updated remark for UPS-KSTAR-650V at MAIN WAREHOUSE: “Discount to Rs. 2,500”"
     }
   ]
 }
