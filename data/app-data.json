@@ -14209,6 +14209,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:44:26",
       "lastUpdated": "2026-08-18T09:14:26.520Z"
+    },
+    "SDV838HDVT||MAHO": {
+      "remark": "Dummy - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:44:39",
+      "lastUpdated": "2026-08-18T09:14:39.730Z"
     }
   },
   "showroomVisits": {
@@ -14577,6 +14584,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "14:44:39",
+      "iso": "2026-08-18T09:14:39.731Z",
+      "action": "updated remark for SDV838HDVT at MAHO: “Dummy - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "14:44:26",
       "iso": "2026-08-18T09:14:26.522Z",
       "action": "updated remark for R-BWS-02 at MAHO: “Damaged - 50%”"
@@ -14916,13 +14930,6 @@
       "time": "14:17:04",
       "iso": "2026-08-18T08:47:04.674Z",
       "action": "updated remark for TCLED32D65A at BALANGODA - B: “30000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:16:45",
-      "iso": "2026-08-18T08:46:45.956Z",
-      "action": "updated remark for SLE32G690 at BALANGODA - B: “Fluctuatiom”"
     }
   ]
 }
