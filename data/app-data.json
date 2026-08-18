@@ -10954,6 +10954,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:08:49",
       "lastUpdated": "2026-08-18T05:38:49.156Z"
+    },
+    "CEL-CB-01M||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 100",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:09:52",
+      "lastUpdated": "2026-08-18T05:39:52.674Z"
     }
   },
   "showroomVisits": {
@@ -11320,6 +11327,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:09:52",
+      "iso": "2026-08-18T05:39:52.676Z",
+      "action": "updated remark for CEL-CB-01M at MAIN WAREHOUSE: “Discount to Rs. 100”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "11:09:15",
@@ -11661,13 +11675,6 @@
       "time": "10:59:01",
       "iso": "2026-08-18T05:29:01.917Z",
       "action": "updated remark for ULED32D4000 at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:58:58",
-      "iso": "2026-08-18T05:28:58.760Z",
-      "action": "updated remark for PN-TH-32P401N at MAIN WAREHOUSE: “Transfer to shops”"
     }
   ]
 }
