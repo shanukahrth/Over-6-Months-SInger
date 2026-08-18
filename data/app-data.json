@@ -12676,6 +12676,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:39:18",
       "lastUpdated": "2026-08-18T07:09:18.705Z"
+    },
+    "TF-NIFP28-042||BALANGODA": {
+      "remark": "8500",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:39:36",
+      "lastUpdated": "2026-08-18T07:09:36.826Z"
+    },
+    "TF-SP16-063||BALANGODA": {
+      "remark": "6000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:39:41",
+      "lastUpdated": "2026-08-18T07:09:41.678Z"
     }
   },
   "showroomVisits": {
@@ -13044,6 +13058,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:39:41",
+      "iso": "2026-08-18T07:09:41.683Z",
+      "action": "updated remark for TF-SP16-063 at BALANGODA: “6000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:39:36",
+      "iso": "2026-08-18T07:09:36.830Z",
+      "action": "updated remark for TF-NIFP28-042 at BALANGODA: “8500”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:39:18",
       "iso": "2026-08-18T07:09:18.709Z",
       "action": "updated remark for TF-KD24-061 at BALANGODA: “9000”"
@@ -13376,20 +13404,6 @@
       "time": "12:24:46",
       "iso": "2026-08-18T06:54:46.077Z",
       "action": "updated remark for FAN-WF1608R at BALANGODA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:24:29",
-      "iso": "2026-08-18T06:54:29.648Z",
-      "action": "updated remark for SL-SF1607RC at BALANGODA: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:24:44",
-      "iso": "2026-08-18T06:54:44.422Z",
-      "action": "updated remark for DH-ST1000VX012 at MELSIRIPURA: “Damaged - 80%”"
     }
   ]
 }
