@@ -11087,6 +11087,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:22:22",
       "lastUpdated": "2026-08-18T05:52:22.203Z"
+    },
+    "BES-CRS-51||TRINCOMALEE": {
+      "remark": "WH return - BM to send a mail to Ms. Noyali regarding this",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:22:35",
+      "lastUpdated": "2026-08-18T05:52:35.193Z"
     }
   },
   "showroomVisits": {
@@ -11453,6 +11460,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:22:35",
+      "iso": "2026-08-18T05:52:35.195Z",
+      "action": "updated remark for BES-CRS-51 at TRINCOMALEE: “WH return - BM to send a mail to Ms. Noyali regarding this”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:22:22",
@@ -11794,13 +11808,6 @@
       "time": "11:04:43",
       "iso": "2026-08-18T05:34:43.989Z",
       "action": "updated remark for WP-WRN25LX at TRINCOMALEE: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:04:36",
-      "iso": "2026-08-18T05:34:36.186Z",
-      "action": "updated remark for WF-PARIS-BR-S at GALEWELA: “Return to Warehouse”"
     }
   ]
 }
