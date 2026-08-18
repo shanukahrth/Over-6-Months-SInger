@@ -12053,6 +12053,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:12:18",
       "lastUpdated": "2026-08-18T06:42:18.010Z"
+    },
+    "SIN-AIRPKO1B||MELSIRIPURA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:11:42",
+      "lastUpdated": "2026-08-18T06:41:42.941Z"
+    },
+    "SIN-MRG-1008C||MELSIRIPURA": {
+      "remark": "Total Discount - 10%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:12:24",
+      "lastUpdated": "2026-08-18T06:42:24.819Z"
     }
   },
   "showroomVisits": {
@@ -12419,6 +12433,34 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:12:24",
+      "iso": "2026-08-18T06:42:24.821Z",
+      "action": "updated remark for SIN-MRG-1008C at MELSIRIPURA: “Total Discount - 10%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:12:05",
+      "iso": "2026-08-18T06:42:05.597Z",
+      "action": "updated remark for SIN-MRG-1008C at MELSIRIPURA: “Damaged - 10%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:11:42",
+      "iso": "2026-08-18T06:41:42.942Z",
+      "action": "updated remark for SIN-AIRPKO1B at MELSIRIPURA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:11:41",
+      "iso": "2026-08-18T06:41:41.635Z",
+      "action": "updated remark for SIN-AIRPKO1B at MELSIRIPURA: “Damahed - 75%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "12:12:18",
@@ -12739,34 +12781,6 @@
       "time": "11:59:56",
       "iso": "2026-08-18T06:29:56.586Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at MELSIRIPURA: “Damaged/Displayed - 35%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "11:59:45",
-      "iso": "2026-08-18T06:29:45.890Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at MELSIRIPURA: “Damged - 35%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "11:59:15",
-      "iso": "2026-08-18T06:29:15.656Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at MELSIRIPURA: “Damaged - 25%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:59:26",
-      "iso": "2026-08-18T06:29:26.177Z",
-      "action": "updated remark for H-RMRG024MFEOE at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:59:21",
-      "iso": "2026-08-18T06:29:21.354Z",
-      "action": "updated remark for H-RMRG024MFEOE at MAIN WAREHOUSE: “Transfer to a shop”"
     }
   ]
 }
