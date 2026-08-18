@@ -11523,11 +11523,11 @@
       "lastUpdated": "2026-08-18T06:18:46.355Z"
     },
     "SWM-FA70R||TRINCOMALEE": {
-      "remark": "70% - Damaged not working - BM will repair it and sell",
+      "remark": "55% - Damaged but working",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "11:49:50",
-      "lastUpdated": "2026-08-18T06:19:50.125Z"
+      "commentTime": "11:50:22",
+      "lastUpdated": "2026-08-18T06:20:22.247Z"
     },
     "DH-KIT-8CH-4CAM||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -11901,6 +11901,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:50:22",
+      "iso": "2026-08-18T06:20:22.249Z",
+      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “55% - Damaged but working”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:49:42",
@@ -12242,13 +12249,6 @@
       "time": "11:34:03",
       "iso": "2026-08-18T06:04:03.885Z",
       "action": "updated remark for CAN-TN-054-M at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:33:51",
-      "iso": "2026-08-18T06:03:51.163Z",
-      "action": "updated remark for CAN-TN-054-Y at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
