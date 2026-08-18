@@ -9967,6 +9967,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:16:07",
       "lastUpdated": "2026-08-18T04:46:07.556Z"
+    },
+    "SLE32E810||TRINCOMALEE": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:16:18",
+      "lastUpdated": "2026-08-18T04:46:18.399Z"
     }
   },
   "showroomVisits": {
@@ -10335,6 +10342,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:16:18",
+      "iso": "2026-08-18T04:46:18.401Z",
+      "action": "updated remark for SLE32E810 at TRINCOMALEE: “70%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:16:07",
       "iso": "2026-08-18T04:46:07.558Z",
       "action": "updated remark for SLE32E710 at TRINCOMALEE: “70%”"
@@ -10674,13 +10688,6 @@
       "time": "09:54:43",
       "iso": "2026-08-18T04:24:43.910Z",
       "action": "updated DAMBULLA showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "09:54:32",
-      "iso": "2026-08-18T04:24:32.664Z",
-      "action": "updated BUDGET SHOP-DAMBULLA showroom (team: Chamal and Kaveesha )"
     }
   ]
 }
