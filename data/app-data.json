@@ -11969,6 +11969,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:09:53",
       "lastUpdated": "2026-08-18T06:39:53.518Z"
+    },
+    "HU-CM70-L||MAIN WAREHOUSE": {
+      "remark": "Defective, scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:08:00",
+      "lastUpdated": "2026-08-18T06:38:00.433Z"
+    },
+    "DELL-DVDRW||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:10:02",
+      "lastUpdated": "2026-08-18T06:40:02.595Z"
     }
   },
   "showroomVisits": {
@@ -12335,6 +12349,20 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:10:02",
+      "iso": "2026-08-18T06:40:02.595Z",
+      "action": "updated remark for DELL-DVDRW at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "12:08:00",
+      "iso": "2026-08-18T06:38:00.434Z",
+      "action": "updated remark for HU-CM70-L at MAIN WAREHOUSE: “Defective, scrap”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:09:53",
@@ -12669,20 +12697,6 @@
       "time": "11:55:44",
       "iso": "2026-08-18T06:25:44.549Z",
       "action": "updated remark for BTS-10KG at TRINCOMALEE: “40%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:55:22",
-      "iso": "2026-08-18T06:25:22.143Z",
-      "action": "updated remark for SL-PM-8017 at TRINCOMALEE: “80%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:55:17",
-      "iso": "2026-08-18T06:25:17.625Z",
-      "action": "updated remark for KA-TXG-DS11A at TRINCOMALEE: “80%”"
     }
   ]
 }
