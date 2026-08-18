@@ -13910,11 +13910,11 @@
       "lastUpdated": "2026-08-18T08:45:07.053Z"
     },
     "B-CFB9433X||MAIN WAREHOUSE": {
-      "remark": "Unable to send to field oxide",
+      "remark": "Unable to send to field oxide . Send to clearance sale",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "14:15:13",
-      "lastUpdated": "2026-08-18T08:45:13.580Z"
+      "commentTime": "14:15:35",
+      "lastUpdated": "2026-08-18T08:45:35.680Z"
     }
   },
   "showroomVisits": {
@@ -14283,6 +14283,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:15:35",
+      "iso": "2026-08-18T08:45:35.687Z",
+      "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide . Send to clearance sale”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:15:13",
       "iso": "2026-08-18T08:45:13.585Z",
       "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide”"
@@ -14621,13 +14628,6 @@
       "date": "2026-08-18",
       "time": "14:04:13",
       "iso": "2026-08-18T08:34:13.258Z",
-      "action": "updated remark for MID-MG-GP45B at BALANGODA - B: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:04:07",
-      "iso": "2026-08-18T08:34:07.777Z",
       "action": "updated remark for MID-MG-GP45B at BALANGODA - B: “Sellable”"
     }
   ]
