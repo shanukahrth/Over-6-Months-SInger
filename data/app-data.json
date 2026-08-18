@@ -14603,11 +14603,11 @@
       "lastUpdated": "2026-08-18T09:30:05.870Z"
     },
     "NCPO-FP280||BALANGODA C": {
-      "remark": "30%",
+      "remark": "10%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "15:00:29",
-      "lastUpdated": "2026-08-18T09:30:29.470Z"
+      "commentTime": "15:05:05",
+      "lastUpdated": "2026-08-18T09:35:05.095Z"
     },
     "SW-ST19025BLK||BALANGODA C": {
       "remark": "30%",
@@ -14629,6 +14629,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:03:19",
       "lastUpdated": "2026-08-18T09:33:19.176Z"
+    },
+    "KA-LW-185A||BALANGODA C": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:04:42",
+      "lastUpdated": "2026-08-18T09:34:42.762Z"
     }
   },
   "showroomVisits": {
@@ -14995,6 +15002,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "15:05:05",
+      "iso": "2026-08-18T09:35:05.101Z",
+      "action": "updated remark for NCPO-FP280 at BALANGODA C: “10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "15:04:42",
+      "iso": "2026-08-18T09:34:42.770Z",
+      "action": "updated remark for KA-LW-185A at BALANGODA C: “30%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "15:03:19",
@@ -15329,20 +15350,6 @@
       "time": "14:54:38",
       "iso": "2026-08-18T09:24:38.522Z",
       "action": "updated remark for WP-SS-SUB1-S at MAIN WAREHOUSE: “Packing damage”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:54:33",
-      "iso": "2026-08-18T09:24:33.174Z",
-      "action": "updated remark for WP-SS-SUB1-S at MAIN WAREHOUSE: “Packing damage”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:54:20",
-      "iso": "2026-08-18T09:24:20.597Z",
-      "action": "updated remark for WP-JUN-E-S at MAIN WAREHOUSE: “Packing damage”"
     }
   ]
 }
