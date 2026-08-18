@@ -14111,6 +14111,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:29:50",
       "lastUpdated": "2026-08-18T08:59:50.794Z"
+    },
+    "ALU-DSL-8FT-S||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:54",
+      "lastUpdated": "2026-08-18T08:59:54.014Z"
+    },
+    "ALU-FOR001WF001R||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:55",
+      "lastUpdated": "2026-08-18T08:59:55.935Z"
+    },
+    "ALU-FOR003WF001R||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:57",
+      "lastUpdated": "2026-08-18T08:59:57.792Z"
     }
   },
   "showroomVisits": {
@@ -14479,6 +14500,27 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:29:57",
+      "iso": "2026-08-18T08:59:57.799Z",
+      "action": "updated remark for ALU-FOR003WF001R at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:55",
+      "iso": "2026-08-18T08:59:55.941Z",
+      "action": "updated remark for ALU-FOR001WF001R at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:54",
+      "iso": "2026-08-18T08:59:54.021Z",
+      "action": "updated remark for ALU-DSL-8FT-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:29:50",
       "iso": "2026-08-18T08:59:50.799Z",
       "action": "updated remark for ALU-FOR003WF002R at MAIN WAREHOUSE: “Special attention needed”"
@@ -14804,27 +14846,6 @@
       "time": "14:12:32",
       "iso": "2026-08-18T08:42:32.651Z",
       "action": "updated remark for DH-XVR1B08H-I at BALANGODA - B: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:12:27",
-      "iso": "2026-08-18T08:42:27.041Z",
-      "action": "updated remark for DH-XVR1B04H-I at BALANGODA - B: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:12:23",
-      "iso": "2026-08-18T08:42:23.945Z",
-      "action": "updated remark for DH-A-HFW1500TLP-36B at BALANGODA - B: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:12:21",
-      "iso": "2026-08-18T08:42:21.083Z",
-      "action": "updated remark for DH-A-B1A51P-6B at BALANGODA - B: “70%”"
     }
   ]
 }
