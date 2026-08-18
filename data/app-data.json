@@ -11271,11 +11271,11 @@
       "lastUpdated": "2026-08-18T06:01:43.083Z"
     },
     "LF-OF-MWS001-S||TRINCOMALEE": {
-      "remark": "50% - Damaged",
+      "remark": "60% - Damaged",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "11:32:14",
-      "lastUpdated": "2026-08-18T06:02:14.940Z"
+      "commentTime": "11:32:26",
+      "lastUpdated": "2026-08-18T06:02:26.415Z"
     }
   },
   "showroomVisits": {
@@ -11644,6 +11644,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "11:32:26",
+      "iso": "2026-08-18T06:02:26.418Z",
+      "action": "updated remark for LF-OF-MWS001-S at TRINCOMALEE: “60% - Damaged”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "11:32:14",
       "iso": "2026-08-18T06:02:14.942Z",
       "action": "updated remark for LF-OF-MWS001-S at TRINCOMALEE: “50% - Damaged”"
@@ -11983,13 +11990,6 @@
       "time": "11:20:36",
       "iso": "2026-08-18T05:50:36.584Z",
       "action": "updated remark for V-MC-303-PG2 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:20:12",
-      "iso": "2026-08-18T05:50:12.496Z",
-      "action": "updated remark for V-MC-302E-PG2 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
