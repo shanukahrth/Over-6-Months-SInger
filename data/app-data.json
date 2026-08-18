@@ -13719,6 +13719,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:05:48",
       "lastUpdated": "2026-08-18T08:35:48.182Z"
+    },
+    "WF-NAMAL-CT-S||POLPITHIGAMA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:06:25",
+      "lastUpdated": "2026-08-18T08:36:25.276Z"
     }
   },
   "showroomVisits": {
@@ -14087,6 +14094,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "14:06:25",
+      "iso": "2026-08-18T08:36:25.277Z",
+      "action": "updated remark for WF-NAMAL-CT-S at POLPITHIGAMA: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "14:05:48",
       "iso": "2026-08-18T08:35:48.183Z",
       "action": "updated remark for WF-PARIS-BL-S at POLPITHIGAMA: “20%”"
@@ -14426,13 +14440,6 @@
       "time": "13:54:14",
       "iso": "2026-08-18T08:24:14.814Z",
       "action": "updated remark for NCPDG-SET3 at BALANGODA - B: “30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "13:52:07",
-      "iso": "2026-08-18T08:22:07.661Z",
-      "action": "updated remark for GEO-182S-BU1 at POLPITHIGAMA: “Revert - 60%”"
     }
   ]
 }
