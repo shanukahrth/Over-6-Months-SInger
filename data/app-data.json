@@ -12270,6 +12270,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:20:30",
       "lastUpdated": "2026-08-18T06:50:30.027Z"
+    },
+    "FAN-P-1605H||MAIN WAREHOUSE": {
+      "remark": "Physically available carton damage",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:20:36",
+      "lastUpdated": "2026-08-18T06:50:36.207Z"
     }
   },
   "showroomVisits": {
@@ -12636,6 +12643,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:20:36",
+      "iso": "2026-08-18T06:50:36.214Z",
+      "action": "updated remark for FAN-P-1605H at MAIN WAREHOUSE: “Physically available carton damage”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:20:30",
@@ -12977,13 +12991,6 @@
       "time": "12:10:02",
       "iso": "2026-08-18T06:40:02.595Z",
       "action": "updated remark for DELL-DVDRW at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:08:00",
-      "iso": "2026-08-18T06:38:00.434Z",
-      "action": "updated remark for HU-CM70-L at MAIN WAREHOUSE: “Defective, scrap”"
     }
   ]
 }
