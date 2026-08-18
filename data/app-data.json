@@ -10142,7 +10142,7 @@
     },
     "MUTUR||DAMBULLA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-17",
       "team": "",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
@@ -10150,6 +10150,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:55:40",
+      "iso": "2026-08-18T04:25:40.159Z",
+      "action": "updated MUTUR showroom (visitDate: 2026-08-17)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
@@ -10492,13 +10499,6 @@
       "time": "09:37:15",
       "iso": "2026-08-18T04:07:15.386Z",
       "action": "updated remark for WL-0893025310 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:13",
-      "iso": "2026-08-18T04:07:13.002Z",
-      "action": "updated remark for WL-0848270300 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
