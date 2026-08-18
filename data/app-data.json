@@ -15343,6 +15343,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:01:04",
       "lastUpdated": "2026-08-18T10:31:04.319Z"
+    },
+    "SW-SWKA3010||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 1,000",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:59:26",
+      "lastUpdated": "2026-08-18T10:29:26.872Z"
+    },
+    "BS001||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:00:34",
+      "lastUpdated": "2026-08-18T10:30:34.052Z"
     }
   },
   "showroomVisits": {
@@ -15709,6 +15723,20 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "16:00:34",
+      "iso": "2026-08-18T10:30:34.054Z",
+      "action": "updated remark for BS001 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "15:59:26",
+      "iso": "2026-08-18T10:29:26.874Z",
+      "action": "updated remark for SW-SWKA3010 at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "16:01:04",
@@ -16043,20 +16071,6 @@
       "time": "15:42:04",
       "iso": "2026-08-18T10:12:04.852Z",
       "action": "updated remark for QT-MEDIBALL-8KG at MAIN WAREHOUSE: “Discount to Rs. 3,500”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:42:12",
-      "iso": "2026-08-18T10:12:12.194Z",
-      "action": "updated remark for SLE32G690 at HINGURAKGODA: “80% - defective (Display issue)”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:42:04",
-      "iso": "2026-08-18T10:12:04.023Z",
-      "action": "updated remark for SLE32G690 at HINGURAKGODA: “Penal damage - 80%”"
     }
   ]
 }
