@@ -9694,6 +9694,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:41:30",
       "lastUpdated": "2026-08-18T04:11:30.355Z"
+    },
+    "SL-INV260WR-TG||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:40:06",
+      "lastUpdated": "2026-08-18T04:10:06.726Z"
+    },
+    "SMGRT28A3021GS||MAIN WAREHOUSE": {
+      "remark": "Packing damage",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:42:20",
+      "lastUpdated": "2026-08-18T04:12:20.606Z"
     }
   },
   "showroomVisits": {
@@ -10019,6 +10033,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:42:20",
+      "iso": "2026-08-18T04:12:20.625Z",
+      "action": "updated remark for SMGRT28A3021GS at MAIN WAREHOUSE: “Packing damage”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:40:06",
+      "iso": "2026-08-18T04:10:06.747Z",
+      "action": "updated remark for SL-INV260WR-TG at MAIN WAREHOUSE: “Transfer to shops”"
+    },
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
@@ -10354,20 +10382,6 @@
       "time": "19:31:59",
       "iso": "2026-08-17T14:01:59.967Z",
       "action": "updated remark for TF-FP24-SCR342 at MUTUR: “20% Discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:31:49",
-      "iso": "2026-08-17T14:01:49.730Z",
-      "action": "updated remark for SIN-PSVX938N at MUTUR: “Special price 15,000 - displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:31:32",
-      "iso": "2026-08-17T14:01:32.139Z",
-      "action": "updated remark for SIN-PSVX938N at MUTUR: “Sold”"
     }
   ]
 }
