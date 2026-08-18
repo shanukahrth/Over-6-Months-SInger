@@ -9848,6 +9848,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:58:08",
       "lastUpdated": "2026-08-18T04:28:08.246Z"
+    },
+    "SL-ECO192WR||MAIN WAREHOUSE": {
+      "remark": "Transfer to Godagama",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:59:01",
+      "lastUpdated": "2026-08-18T04:29:01.694Z"
     }
   },
   "showroomVisits": {
@@ -10216,6 +10223,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "09:59:01",
+      "iso": "2026-08-18T04:29:01.703Z",
+      "action": "updated remark for SL-ECO192WR at MAIN WAREHOUSE: “Transfer to Godagama”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "09:58:08",
       "iso": "2026-08-18T04:28:08.253Z",
       "action": "updated remark for SMGRT42B553ESL at MAIN WAREHOUSE: “Arpico legal case pending”"
@@ -10555,13 +10569,6 @@
       "time": "09:42:42",
       "iso": "2026-08-18T04:12:42.513Z",
       "action": "updated remark for SMGRT28A3021GS at MAIN WAREHOUSE: “Packing damage transfer to shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:42:20",
-      "iso": "2026-08-18T04:12:20.625Z",
-      "action": "updated remark for SMGRT28A3021GS at MAIN WAREHOUSE: “Packing damage”"
     }
   ]
 }
