@@ -11367,6 +11367,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:39:24",
       "lastUpdated": "2026-08-18T06:09:24.363Z"
+    },
+    "PF-CAFE-WF-S||TRINCOMALEE": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:40:17",
+      "lastUpdated": "2026-08-18T06:10:17.105Z"
     }
   },
   "showroomVisits": {
@@ -11733,6 +11740,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:40:17",
+      "iso": "2026-08-18T06:10:17.106Z",
+      "action": "updated remark for PF-CAFE-WF-S at TRINCOMALEE: “50%”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:39:55",
@@ -12074,13 +12088,6 @@
       "time": "11:27:51",
       "iso": "2026-08-18T05:57:51.936Z",
       "action": "updated remark for CAN-I-G1730 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:27:49",
-      "iso": "2026-08-18T05:57:49.472Z",
-      "action": "updated remark for CAN-B-790-C at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
