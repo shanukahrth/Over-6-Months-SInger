@@ -9689,11 +9689,11 @@
       "lastUpdated": "2026-08-18T04:11:22.493Z"
     },
     "RAVI-CPPB055RCP||MAIN WAREHOUSE": {
-      "remark": "Discount to Rs. 200",
+      "remark": "Discount to Rs. 250",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "09:42:38",
-      "lastUpdated": "2026-08-18T04:12:38.238Z"
+      "commentTime": "09:43:01",
+      "lastUpdated": "2026-08-18T04:13:01.163Z"
     },
     "SL-INV260WR-TG||MAIN WAREHOUSE": {
       "remark": "Transfer to shops",
@@ -9715,6 +9715,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:42:40",
       "lastUpdated": "2026-08-18T04:12:40.678Z"
+    },
+    "RAVI-TMPB054RZS||MAIN WAREHOUSE": {
+      "remark": "Discount to rs. 200",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:42:58",
+      "lastUpdated": "2026-08-18T04:12:58.729Z"
     }
   },
   "showroomVisits": {
@@ -10040,6 +10047,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:43:01",
+      "iso": "2026-08-18T04:13:01.165Z",
+      "action": "updated remark for RAVI-CPPB055RCP at MAIN WAREHOUSE: “Discount to Rs. 250”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:42:58",
+      "iso": "2026-08-18T04:12:58.732Z",
+      "action": "updated remark for RAVI-TMPB054RZS at MAIN WAREHOUSE: “Discount to rs. 200”"
+    },
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
@@ -10375,20 +10396,6 @@
       "time": "09:25:43",
       "iso": "2026-08-18T03:55:43.730Z",
       "action": "updated remark for HON-X9C-12-256-BLK at NAULA: “Display - 10%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:25:31",
-      "iso": "2026-08-18T03:55:31.187Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-TT-DST at NAULA: “Display - 10%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:24:46",
-      "iso": "2026-08-18T03:54:46.892Z",
-      "action": "updated remark for DELL-3580-PQC-W10 at NAULA: “Damaged - 90%”"
     }
   ]
 }
