@@ -14314,6 +14314,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:50:50",
       "lastUpdated": "2026-08-18T09:20:50.974Z"
+    },
+    "TF-CM-APR737||MAHO": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:50:40",
+      "lastUpdated": "2026-08-18T09:20:40.007Z"
     }
   },
   "showroomVisits": {
@@ -14680,6 +14687,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:50:40",
+      "iso": "2026-08-18T09:20:40.008Z",
+      "action": "updated remark for TF-CM-APR737 at MAHO: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:50:38",
+      "iso": "2026-08-18T09:20:38.503Z",
+      "action": "updated remark for TF-CM-APR737 at MAHO: “Damaged - 60%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "14:50:50",
@@ -15014,20 +15035,6 @@
       "time": "14:29:30",
       "iso": "2026-08-18T08:59:30.303Z",
       "action": "updated remark for ALU-DPL-STN-4FT-S at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:26",
-      "iso": "2026-08-18T08:59:26.958Z",
-      "action": "updated remark for WFL-SWSTK-S-SRK-S at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:24",
-      "iso": "2026-08-18T08:59:24.588Z",
-      "action": "updated remark for ALU-CL-7FT-S at MAIN WAREHOUSE: “Special attention needed”"
     }
   ]
 }
