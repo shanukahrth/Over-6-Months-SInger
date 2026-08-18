@@ -10282,6 +10282,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:44:35",
       "lastUpdated": "2026-08-18T05:14:35.931Z"
+    },
+    "PCP30||PABAHINNA-LITE": {
+      "remark": "Additional 10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:44:43",
+      "lastUpdated": "2026-08-18T05:14:43.779Z"
     }
   },
   "showroomVisits": {
@@ -10650,6 +10657,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "10:44:43",
+      "iso": "2026-08-18T05:14:43.784Z",
+      "action": "updated remark for PCP30 at PABAHINNA-LITE: “Additional 10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "10:44:35",
       "iso": "2026-08-18T05:14:35.936Z",
       "action": "updated remark for R-BWS-02 at PABAHINNA-LITE: “Additional 10%”"
@@ -10989,13 +11003,6 @@
       "time": "10:21:43",
       "iso": "2026-08-18T04:51:43.741Z",
       "action": "updated remark for SLE43D1800TC at TRINCOMALEE: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:21:36",
-      "iso": "2026-08-18T04:51:36.292Z",
-      "action": "updated remark for SLE42D2070TC at TRINCOMALEE: “70%”"
     }
   ]
 }
