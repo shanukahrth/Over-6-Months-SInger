@@ -12256,6 +12256,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:18:43",
       "lastUpdated": "2026-08-18T06:48:43.458Z"
+    },
+    "FAN-FS40-10DR||MAIN WAREHOUSE": {
+      "remark": "Cannot sale due to slsi fail - scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:19:45",
+      "lastUpdated": "2026-08-18T06:49:45.284Z"
     }
   },
   "showroomVisits": {
@@ -12624,6 +12631,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "12:19:45",
+      "iso": "2026-08-18T06:49:45.295Z",
+      "action": "updated remark for FAN-FS40-10DR at MAIN WAREHOUSE: “Cannot sale due to slsi fail - scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "12:18:43",
       "iso": "2026-08-18T06:48:43.465Z",
       "action": "updated remark for NF755N2 at MAIN WAREHOUSE: “Cannot sale due to slsi fail - scrap”"
@@ -12962,13 +12976,6 @@
       "date": "2026-08-18",
       "time": "12:08:13",
       "iso": "2026-08-18T06:38:13.797Z",
-      "action": "updated remark for GRIP-8305 at TRINCOMALEE B: “used for shop from long time 90% offered”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:08:06",
-      "iso": "2026-08-18T06:38:06.330Z",
       "action": "updated remark for GRIP-8305 at TRINCOMALEE B: “used for shop from long time 90% offered”"
     }
   ]
