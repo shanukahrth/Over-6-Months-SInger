@@ -14685,6 +14685,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:12:42",
       "lastUpdated": "2026-08-18T09:42:42.679Z"
+    },
+    "R-BWS-02||BALANGODA C": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:13:06",
+      "lastUpdated": "2026-08-18T09:43:06.204Z"
     }
   },
   "showroomVisits": {
@@ -15053,6 +15060,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "15:13:06",
+      "iso": "2026-08-18T09:43:06.209Z",
+      "action": "updated remark for R-BWS-02 at BALANGODA C: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "15:12:42",
       "iso": "2026-08-18T09:42:42.683Z",
       "action": "updated remark for IWH-2500WL at BALANGODA C: “1000”"
@@ -15392,13 +15406,6 @@
       "time": "14:06:57",
       "iso": "2026-08-18T08:36:57.076Z",
       "action": "updated remark for DH-A-B1A21P-6B at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "14:06:29",
-      "iso": "2026-08-18T08:36:29.856Z",
-      "action": "updated remark for DH-I-A22EP-G-IMOU at MAIN WAREHOUSE: “Display, scrap”"
     }
   ]
 }
