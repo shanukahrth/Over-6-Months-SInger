@@ -9470,6 +9470,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:29:05",
       "lastUpdated": "2026-08-18T03:59:05.885Z"
+    },
+    "NCPDG-OT250||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:31:32",
+      "lastUpdated": "2026-08-18T04:01:32.115Z"
     }
   },
   "showroomVisits": {
@@ -9795,6 +9802,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:31:32",
+      "iso": "2026-08-18T04:01:32.120Z",
+      "action": "updated remark for NCPDG-OT250 at NAULA: “Damaged - 40%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10137,13 +10151,6 @@
       "time": "19:05:47",
       "iso": "2026-08-17T13:35:47.708Z",
       "action": "updated remark for R-BWS-02 at MUTUR: “35% - Display”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:05:23",
-      "iso": "2026-08-17T13:35:23.268Z",
-      "action": "updated remark for RIYLTA-MF12V4 at MUTUR: “BM will send a memo to scrap”"
     }
   ]
 }
