@@ -11479,6 +11479,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:45:24",
       "lastUpdated": "2026-08-18T06:15:24.917Z"
+    },
+    "VT-EL31109CN||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:46:00",
+      "lastUpdated": "2026-08-18T06:16:00.113Z"
     }
   },
   "showroomVisits": {
@@ -11845,6 +11852,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:46:00",
+      "iso": "2026-08-18T06:16:00.114Z",
+      "action": "updated remark for VT-EL31109CN at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "11:45:24",
@@ -12186,13 +12200,6 @@
       "time": "11:29:55",
       "iso": "2026-08-18T05:59:55.255Z",
       "action": "updated remark for CAN-B-790-Y at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:29:53",
-      "iso": "2026-08-18T05:59:53.521Z",
-      "action": "updated remark for HP-IB-GT52-MAGENTA at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
