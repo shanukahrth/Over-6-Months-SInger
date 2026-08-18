@@ -11983,6 +11983,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:10:02",
       "lastUpdated": "2026-08-18T06:40:02.595Z"
+    },
+    "SDC-DV150F||MELSIRIPURA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:10:36",
+      "lastUpdated": "2026-08-18T06:40:36.933Z"
     }
   },
   "showroomVisits": {
@@ -12349,6 +12356,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:10:36",
+      "iso": "2026-08-18T06:40:36.935Z",
+      "action": "updated remark for SDC-DV150F at MELSIRIPURA: “Damaged - 80%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "12:10:02",
@@ -12690,13 +12704,6 @@
       "time": "11:55:49",
       "iso": "2026-08-18T06:25:49.720Z",
       "action": "updated remark for BC-KNP-AG at TRINCOMALEE: “30%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:55:44",
-      "iso": "2026-08-18T06:25:44.549Z",
-      "action": "updated remark for BTS-10KG at TRINCOMALEE: “40%”"
     }
   ]
 }
