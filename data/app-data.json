@@ -13273,11 +13273,11 @@
       "lastUpdated": "2026-08-18T08:11:22.304Z"
     },
     "FAN-P-1605H||BALANGODA - B": {
-      "remark": "15000",
+      "remark": "1",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "13:43:05",
-      "lastUpdated": "2026-08-18T08:13:05.290Z"
+      "commentTime": "13:43:17",
+      "lastUpdated": "2026-08-18T08:13:17.480Z"
     }
   },
   "showroomVisits": {
@@ -13646,6 +13646,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:43:17",
+      "iso": "2026-08-18T08:13:17.485Z",
+      "action": "updated remark for FAN-P-1605H at BALANGODA - B: “1”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:43:05",
       "iso": "2026-08-18T08:13:05.296Z",
       "action": "updated remark for FAN-P-1605H at BALANGODA - B: “15000”"
@@ -13985,13 +13992,6 @@
       "time": "12:56:16",
       "iso": "2026-08-18T07:26:16.169Z",
       "action": "updated remark for SMG-SM-A057F-6-128-B at BALANGODA: “Damaged”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:55:32",
-      "iso": "2026-08-18T07:25:32.954Z",
-      "action": "updated remark for NUBIA-V70MAX-4-128GB-GRN at BALANGODA: “Sold”"
     }
   ]
 }
