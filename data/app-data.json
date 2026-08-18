@@ -13922,6 +13922,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:15:47",
       "lastUpdated": "2026-08-18T08:45:47.476Z"
+    },
+    "SLE40E810C||BALANGODA - B": {
+      "remark": "35000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:16:02",
+      "lastUpdated": "2026-08-18T08:46:02.275Z"
     }
   },
   "showroomVisits": {
@@ -14290,6 +14297,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:16:02",
+      "iso": "2026-08-18T08:46:02.280Z",
+      "action": "updated remark for SLE40E810C at BALANGODA - B: “35000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:15:47",
       "iso": "2026-08-18T08:45:47.484Z",
       "action": "updated remark for PN-TH-32M402N at BALANGODA - B: “50%”"
@@ -14629,13 +14643,6 @@
       "time": "14:04:42",
       "iso": "2026-08-18T08:34:42.269Z",
       "action": "updated remark for SL-S203 at BALANGODA - B: “9000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:04:37",
-      "iso": "2026-08-18T08:34:37.518Z",
-      "action": "updated remark for RIYLTA-MF12V5 at BALANGODA - B: “Rtn”"
     }
   ]
 }
