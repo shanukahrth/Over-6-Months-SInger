@@ -15168,6 +15168,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:45:31",
       "lastUpdated": "2026-08-18T10:15:31.516Z"
+    },
+    "ULED32D4000||HINGURAKGODA": {
+      "remark": "70% EOL",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:45:40",
+      "lastUpdated": "2026-08-18T10:15:40.679Z"
     }
   },
   "showroomVisits": {
@@ -15536,6 +15543,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:45:40",
+      "iso": "2026-08-18T10:15:40.681Z",
+      "action": "updated remark for ULED32D4000 at HINGURAKGODA: “70% EOL”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:45:31",
       "iso": "2026-08-18T10:15:31.518Z",
       "action": "updated remark for SLE55D1800TC at HINGURAKGODA: “Exchange needs to be performed”"
@@ -15875,13 +15889,6 @@
       "time": "15:31:42",
       "iso": "2026-08-18T10:01:42.489Z",
       "action": "updated remark for SLE32E610 at HINGURAKGODA: “Penal damaged - 90%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:31:00",
-      "iso": "2026-08-18T10:01:00.454Z",
-      "action": "updated remark for SLE32D3010TC at HINGURAKGODA: “70% can sell”"
     }
   ]
 }
