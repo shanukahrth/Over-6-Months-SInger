@@ -14923,6 +14923,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:30:41",
       "lastUpdated": "2026-08-18T10:00:41.258Z"
+    },
+    "CUH-1206AB01||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:30:43",
+      "lastUpdated": "2026-08-18T10:00:43.635Z"
+    },
+    "PLAS-07012||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:30:46",
+      "lastUpdated": "2026-08-18T10:00:46.275Z"
     }
   },
   "showroomVisits": {
@@ -15291,6 +15305,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "15:30:46",
+      "iso": "2026-08-18T10:00:46.284Z",
+      "action": "updated remark for PLAS-07012 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:30:43",
+      "iso": "2026-08-18T10:00:43.641Z",
+      "action": "updated remark for CUH-1206AB01 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "15:30:41",
       "iso": "2026-08-18T10:00:41.263Z",
       "action": "updated remark for CUH-1106AB01 at MAIN WAREHOUSE: “Scrap”"
@@ -15623,20 +15651,6 @@
       "time": "15:10:51",
       "iso": "2026-08-18T09:40:51.797Z",
       "action": "updated remark for SW-SK22110GRYN at BALANGODA C: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:10:19",
-      "iso": "2026-08-18T09:40:19.329Z",
-      "action": "updated remark for SW-SK22110GRYN at BALANGODA C: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:09:38",
-      "iso": "2026-08-18T09:39:38.707Z",
-      "action": "updated remark for SW-SD10410GRY at BALANGODA C: “Flat 40%”"
     }
   ]
 }
