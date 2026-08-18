@@ -16309,6 +16309,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:37:20",
       "lastUpdated": "2026-08-18T12:07:20.000Z"
+    },
+    "SIN-RFC-2012||WARIYAPOLA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:37:19",
+      "lastUpdated": "2026-08-18T12:07:19.356Z"
     }
   },
   "showroomVisits": {
@@ -16675,6 +16682,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "17:37:19",
+      "iso": "2026-08-18T12:07:19.358Z",
+      "action": "updated remark for SIN-RFC-2012 at WARIYAPOLA: “Damaged - 50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "17:37:20",
@@ -17016,13 +17030,6 @@
       "time": "17:29:12",
       "iso": "2026-08-18T11:59:12.733Z",
       "action": "updated remark for WF-PARIS-BL-S at NIVITHIGALA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:28:46",
-      "iso": "2026-08-18T11:58:46.174Z",
-      "action": "updated remark for PF-FLAP-PY-S at NIVITHIGALA: “6000”"
     }
   ]
 }
