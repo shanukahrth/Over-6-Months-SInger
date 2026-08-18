@@ -11423,6 +11423,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:42:07",
       "lastUpdated": "2026-08-18T06:12:07.997Z"
+    },
+    "PF-MONDY-RED||TRINCOMALEE": {
+      "remark": "10%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:42:12",
+      "lastUpdated": "2026-08-18T06:12:12.412Z"
     }
   },
   "showroomVisits": {
@@ -11791,6 +11798,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "11:42:12",
+      "iso": "2026-08-18T06:12:12.414Z",
+      "action": "updated remark for PF-MONDY-RED at TRINCOMALEE: “10%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "11:42:07",
       "iso": "2026-08-18T06:12:07.998Z",
       "action": "updated remark for PF-MONDY-BLUE at TRINCOMALEE: “10%”"
@@ -12130,13 +12144,6 @@
       "time": "11:29:08",
       "iso": "2026-08-18T05:59:08.796Z",
       "action": "updated remark for HP-IB-GT52-YELLOW at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:28:46",
-      "iso": "2026-08-18T05:58:46.625Z",
-      "action": "updated remark for EPSON-B-L130-CYN at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
