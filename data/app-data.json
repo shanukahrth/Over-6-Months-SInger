@@ -15464,11 +15464,11 @@
       "lastUpdated": "2026-08-18T10:43:42.240Z"
     },
     "WP-WFC105604RT-G||HINGURAKGODA": {
-      "remark": "30% - Displayed",
+      "remark": "30% - Disp",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "16:13:49",
-      "lastUpdated": "2026-08-18T10:43:49.039Z"
+      "commentTime": "16:18:29",
+      "lastUpdated": "2026-08-18T10:48:29.612Z"
     },
     "WP-SS-SUB1-S||HINGURAKGODA": {
       "remark": "40% - part missing",
@@ -15891,6 +15891,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "16:18:29",
+      "iso": "2026-08-18T10:48:29.613Z",
+      "action": "updated remark for WP-WFC105604RT-G at HINGURAKGODA: “30% - Disp”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "16:17:40",
@@ -16232,13 +16239,6 @@
       "time": "16:04:55",
       "iso": "2026-08-18T10:34:55.970Z",
       "action": "updated remark for RIYLTA-MF12V25 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "16:04:51",
-      "iso": "2026-08-18T10:34:51.642Z",
-      "action": "updated remark for RIYLTA-MF12V4 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
