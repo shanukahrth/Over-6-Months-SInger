@@ -10982,6 +10982,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:12:21",
       "lastUpdated": "2026-08-18T05:42:21.212Z"
+    },
+    "SLE55H1100||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:12:35",
+      "lastUpdated": "2026-08-18T05:42:35.519Z"
     }
   },
   "showroomVisits": {
@@ -11350,6 +11357,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:12:35",
+      "iso": "2026-08-18T05:42:35.527Z",
+      "action": "updated remark for SLE55H1100 at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:12:21",
       "iso": "2026-08-18T05:42:21.220Z",
       "action": "updated remark for SLE65H1100 at MAIN WAREHOUSE: “Transfer to a shop”"
@@ -11689,13 +11703,6 @@
       "time": "10:57:58",
       "iso": "2026-08-18T05:27:58.207Z",
       "action": "updated remark for SL-PSM-8017 at GALEWELA: “Damaged - 65%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "10:59:13",
-      "iso": "2026-08-18T05:29:13.118Z",
-      "action": "updated remark for WC-XR1605 at MAIN WAREHOUSE: “Discount to Rs. 500”"
     }
   ]
 }
