@@ -11458,6 +11458,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:44:15",
       "lastUpdated": "2026-08-18T06:14:15.426Z"
+    },
+    "VT-1047CN||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:45:09",
+      "lastUpdated": "2026-08-18T06:15:09.207Z"
     }
   },
   "showroomVisits": {
@@ -11824,6 +11831,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:45:09",
+      "iso": "2026-08-18T06:15:09.207Z",
+      "action": "updated remark for VT-1047CN at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:44:15",
@@ -12165,13 +12179,6 @@
       "time": "11:29:15",
       "iso": "2026-08-18T05:59:15.135Z",
       "action": "updated remark for HP-IB-GT52-YELLOW at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:29:14",
-      "iso": "2026-08-18T05:59:14.227Z",
-      "action": "updated remark for HP-IC-682-BLACK at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
