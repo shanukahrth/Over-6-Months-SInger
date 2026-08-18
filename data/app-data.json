@@ -13985,6 +13985,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:19:11",
       "lastUpdated": "2026-08-18T08:49:11.511Z"
+    },
+    "ALU-DPL-STN-5FT-S||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:28:53",
+      "lastUpdated": "2026-08-18T08:58:53.323Z"
+    },
+    "ALU-DSL-7FT-S||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:28:55",
+      "lastUpdated": "2026-08-18T08:58:55.998Z"
+    },
+    "WFL-SWSTK-L-SRK-S||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:01",
+      "lastUpdated": "2026-08-18T08:59:01.194Z"
     }
   },
   "showroomVisits": {
@@ -14351,6 +14372,27 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:01",
+      "iso": "2026-08-18T08:59:01.201Z",
+      "action": "updated remark for WFL-SWSTK-L-SRK-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:28:56",
+      "iso": "2026-08-18T08:58:56.004Z",
+      "action": "updated remark for ALU-DSL-7FT-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:28:53",
+      "iso": "2026-08-18T08:58:53.344Z",
+      "action": "updated remark for ALU-DPL-STN-5FT-S at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "14:22:15",
@@ -14678,27 +14720,6 @@
       "time": "14:07:40",
       "iso": "2026-08-18T08:37:40.111Z",
       "action": "updated remark for ULED32D5000 at POLPITHIGAMA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:07:39",
-      "iso": "2026-08-18T08:37:39.135Z",
-      "action": "updated remark for ULED32D4000 at POLPITHIGAMA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:07:32",
-      "iso": "2026-08-18T08:37:32.670Z",
-      "action": "updated remark for ULED32D60A at POLPITHIGAMA: “Can sell by the 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:06:25",
-      "iso": "2026-08-18T08:36:25.277Z",
-      "action": "updated remark for WF-NAMAL-CT-S at POLPITHIGAMA: “Damaged - 85%”"
     }
   ]
 }
