@@ -13273,11 +13273,11 @@
       "lastUpdated": "2026-08-18T08:11:22.304Z"
     },
     "FAN-P-1605H||BALANGODA - B": {
-      "remark": "10%",
+      "remark": "15000",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "13:42:33",
-      "lastUpdated": "2026-08-18T08:12:33.394Z"
+      "commentTime": "13:43:05",
+      "lastUpdated": "2026-08-18T08:13:05.290Z"
     }
   },
   "showroomVisits": {
@@ -13646,6 +13646,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:43:05",
+      "iso": "2026-08-18T08:13:05.296Z",
+      "action": "updated remark for FAN-P-1605H at BALANGODA - B: “15000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:42:33",
       "iso": "2026-08-18T08:12:33.400Z",
       "action": "updated remark for FAN-P-1605H at BALANGODA - B: “10%”"
@@ -13985,13 +13992,6 @@
       "time": "12:55:32",
       "iso": "2026-08-18T07:25:32.954Z",
       "action": "updated remark for NUBIA-V70MAX-4-128GB-GRN at BALANGODA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:54:51",
-      "iso": "2026-08-18T07:24:51.251Z",
-      "action": "updated remark for HON-PAD-X9-CV at BALANGODA: “Cover”"
     }
   ]
 }
