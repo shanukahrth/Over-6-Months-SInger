@@ -15952,6 +15952,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:26:00",
       "lastUpdated": "2026-08-18T11:56:00.610Z"
+    },
+    "WF-MAYFAIR-01-CHR-S||NIVITHIGALA": {
+      "remark": "Flat 60%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:26:48",
+      "lastUpdated": "2026-08-18T11:56:48.472Z"
     }
   },
   "showroomVisits": {
@@ -16320,6 +16327,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "17:26:48",
+      "iso": "2026-08-18T11:56:48.487Z",
+      "action": "updated remark for WF-MAYFAIR-01-CHR-S at NIVITHIGALA: “Flat 60%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "17:26:00",
       "iso": "2026-08-18T11:56:00.623Z",
       "action": "updated remark for WF-CLASSIC-BL-S at NIVITHIGALA: “Flat 50%”"
@@ -16659,13 +16673,6 @@
       "time": "16:52:24",
       "iso": "2026-08-18T11:22:24.674Z",
       "action": "updated remark for AP-MJ1K2ZA at MAIN WAREHOUSE: “Discount to Rs. 3,000”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "16:50:31",
-      "iso": "2026-08-18T11:20:31.577Z",
-      "action": "updated remark for CMU-BC1 at MAIN WAREHOUSE: “Discount to Rs. 10,000”"
     }
   ]
 }
