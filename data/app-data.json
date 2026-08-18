@@ -11719,11 +11719,11 @@
       "lastUpdated": "2026-08-18T06:25:57.586Z"
     },
     "AS-K-12G-I5-512-225-BLK||MELSIRIPURA": {
-      "remark": "Damaged -",
+      "remark": "Damaged - 40%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-18",
-      "commentTime": "11:56:36",
-      "lastUpdated": "2026-08-18T06:26:36.226Z"
+      "commentTime": "11:57:18",
+      "lastUpdated": "2026-08-18T06:27:18.054Z"
     },
     "ACER-515-I3-8GB512-GRY||TRINCOMALEE B": {
       "remark": "75% discount as revert long ago",
@@ -12097,6 +12097,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "11:57:18",
+      "iso": "2026-08-18T06:27:18.054Z",
+      "action": "updated remark for AS-K-12G-I5-512-225-BLK at MELSIRIPURA: “Damaged - 40%”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:56:59",
@@ -12438,13 +12445,6 @@
       "time": "11:45:30",
       "iso": "2026-08-18T06:15:30.061Z",
       "action": "updated remark for SAS-12V-INV at TRINCOMALEE B: “80% total discount”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:45:09",
-      "iso": "2026-08-18T06:15:09.207Z",
-      "action": "updated remark for VT-1047CN at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
