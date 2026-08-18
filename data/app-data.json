@@ -10198,6 +10198,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:42:26",
       "lastUpdated": "2026-08-18T05:12:26.427Z"
+    },
+    "PN-CS-XU18XKYW-8||TRINCOMALEE": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:42:14",
+      "lastUpdated": "2026-08-18T05:12:14.145Z"
+    },
+    "SASI12INFI||TRINCOMALEE": {
+      "remark": "60%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:42:16",
+      "lastUpdated": "2026-08-18T05:12:16.422Z"
     }
   },
   "showroomVisits": {
@@ -10564,6 +10578,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "10:42:16",
+      "iso": "2026-08-18T05:12:16.425Z",
+      "action": "updated remark for SASI12INFI at TRINCOMALEE: “60%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "10:42:14",
+      "iso": "2026-08-18T05:12:14.146Z",
+      "action": "updated remark for PN-CS-XU18XKYW-8 at TRINCOMALEE: “Sold”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "10:42:26",
@@ -10898,20 +10926,6 @@
       "time": "10:16:41",
       "iso": "2026-08-18T04:46:41.388Z",
       "action": "updated remark for SLE32E910 at TRINCOMALEE: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:16:18",
-      "iso": "2026-08-18T04:46:18.401Z",
-      "action": "updated remark for SLE32E810 at TRINCOMALEE: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:16:07",
-      "iso": "2026-08-18T04:46:07.558Z",
-      "action": "updated remark for SLE32E710 at TRINCOMALEE: “70%”"
     }
   ]
 }
