@@ -11640,6 +11640,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:54:03",
       "lastUpdated": "2026-08-18T06:24:03.094Z"
+    },
+    "WIS27K-A3GD||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:54:45",
+      "lastUpdated": "2026-08-18T06:24:45.459Z"
     }
   },
   "showroomVisits": {
@@ -12008,6 +12015,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:54:45",
+      "iso": "2026-08-18T06:24:45.465Z",
+      "action": "updated remark for WIS27K-A3GD at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:54:03",
       "iso": "2026-08-18T06:24:03.101Z",
       "action": "updated remark for SL-9VNF-SO at MAIN WAREHOUSE: “Transfer to a shop”"
@@ -12347,13 +12361,6 @@
       "time": "11:41:09",
       "iso": "2026-08-18T06:11:09.413Z",
       "action": "updated remark for LF-ORGN-BSC-WHT at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:41:06",
-      "iso": "2026-08-18T06:11:06.902Z",
-      "action": "updated remark for WFL-NOC-T011-BL-S at TRINCOMALEE: “50%”"
     }
   ]
 }
