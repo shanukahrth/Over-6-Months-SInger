@@ -11220,6 +11220,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:28:46",
       "lastUpdated": "2026-08-18T05:58:46.623Z"
+    },
+    "HP-IB-GT52-YELLOW||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:29:08",
+      "lastUpdated": "2026-08-18T05:59:08.794Z"
+    },
+    "CAN-B-790-M||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:29:09",
+      "lastUpdated": "2026-08-18T05:59:09.635Z"
+    },
+    "CAN-B-790-Y||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:29:11",
+      "lastUpdated": "2026-08-18T05:59:11.291Z"
     }
   },
   "showroomVisits": {
@@ -11588,6 +11609,34 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:29:11",
+      "iso": "2026-08-18T05:59:11.294Z",
+      "action": "updated remark for CAN-B-790-Y at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:29:10",
+      "iso": "2026-08-18T05:59:10.458Z",
+      "action": "updated remark for CAN-B-790-Y at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:29:09",
+      "iso": "2026-08-18T05:59:09.637Z",
+      "action": "updated remark for CAN-B-790-M at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:29:08",
+      "iso": "2026-08-18T05:59:08.796Z",
+      "action": "updated remark for HP-IB-GT52-YELLOW at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:28:46",
       "iso": "2026-08-18T05:58:46.625Z",
       "action": "updated remark for EPSON-B-L130-CYN at MAIN WAREHOUSE: “Scrap”"
@@ -11906,34 +11955,6 @@
       "time": "11:15:27",
       "iso": "2026-08-18T05:45:27.042Z",
       "action": "updated remark for PN-TH-55MX740N at MAIN WAREHOUSE: “Carton damage”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:14:37",
-      "iso": "2026-08-18T05:44:37.160Z",
-      "action": "updated remark for SKY65X8700G at MAIN WAREHOUSE: “Demo tv”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:13:59",
-      "iso": "2026-08-18T05:43:59.286Z",
-      "action": "updated remark for CEL-A8-HSET at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:11:14",
-      "iso": "2026-08-18T05:41:14.286Z",
-      "action": "updated remark for CEL-CB-01M at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:13:47",
-      "iso": "2026-08-18T05:43:47.838Z",
-      "action": "updated remark for SKY65X8700G at MAIN WAREHOUSE: “Demo tv”"
     }
   ]
 }
