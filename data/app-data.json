@@ -13166,6 +13166,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:14:23",
       "lastUpdated": "2026-08-18T07:44:23.701Z"
+    },
+    "SWM-MET80GL||BALANGODA": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:14:59",
+      "lastUpdated": "2026-08-18T07:44:59.323Z"
     }
   },
   "showroomVisits": {
@@ -13534,6 +13541,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:14:59",
+      "iso": "2026-08-18T07:44:59.328Z",
+      "action": "updated remark for SWM-MET80GL at BALANGODA: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:14:23",
       "iso": "2026-08-18T07:44:23.709Z",
       "action": "updated remark for SWM-FA70R at BALANGODA: “30000”"
@@ -13873,13 +13887,6 @@
       "time": "12:48:05",
       "iso": "2026-08-18T07:18:05.396Z",
       "action": "updated remark for WP-MAGICOOKPRO-25GE at BALANGODA: “5%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:47:58",
-      "iso": "2026-08-18T07:17:58.414Z",
-      "action": "updated remark for SMW823AY7 at BALANGODA: “5%”"
     }
   ]
 }
