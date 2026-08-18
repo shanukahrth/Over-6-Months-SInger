@@ -15329,6 +15329,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:58:19",
       "lastUpdated": "2026-08-18T10:28:19.169Z"
+    },
+    "SAIL180105||MAIN WAREHOUSE": {
+      "remark": "Damaged clearance item",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:00:07",
+      "lastUpdated": "2026-08-18T10:30:07.746Z"
     }
   },
   "showroomVisits": {
@@ -15697,6 +15704,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "16:00:07",
+      "iso": "2026-08-18T10:30:07.762Z",
+      "action": "updated remark for SAIL180105 at MAIN WAREHOUSE: “Damaged clearance item”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "15:58:19",
       "iso": "2026-08-18T10:28:19.176Z",
       "action": "updated remark for WFL-SWSTK-FT-WH-S at MAIN WAREHOUSE: “Transfer to clearance sales”"
@@ -16036,13 +16050,6 @@
       "time": "15:41:49",
       "iso": "2026-08-18T10:11:49.480Z",
       "action": "updated remark for SLE32G690 at HINGURAKGODA: “80% - defective”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "15:41:26",
-      "iso": "2026-08-18T10:11:26.784Z",
-      "action": "updated remark for QT-MEDIBALL-4KG at MAIN WAREHOUSE: “Discount to Rs. 2,500”"
     }
   ]
 }
