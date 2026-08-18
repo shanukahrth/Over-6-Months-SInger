@@ -15287,6 +15287,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:53:36",
       "lastUpdated": "2026-08-18T10:23:36.971Z"
+    },
+    "WFI-OF-LOC50ES||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:53:42",
+      "lastUpdated": "2026-08-18T10:23:42.142Z"
     }
   },
   "showroomVisits": {
@@ -15655,6 +15662,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "15:53:42",
+      "iso": "2026-08-18T10:23:42.147Z",
+      "action": "updated remark for WFI-OF-LOC50ES at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "15:53:36",
       "iso": "2026-08-18T10:23:36.977Z",
       "action": "updated remark for WFI-OF-LOC30HA at MAIN WAREHOUSE: “Transfer to shops”"
@@ -15993,13 +16007,6 @@
       "date": "2026-08-18",
       "time": "15:32:14",
       "iso": "2026-08-18T10:02:14.046Z",
-      "action": "updated remark for IWH-2500WL at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "15:32:09",
-      "iso": "2026-08-18T10:02:09.185Z",
       "action": "updated remark for IWH-2500WL at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
     }
   ]
