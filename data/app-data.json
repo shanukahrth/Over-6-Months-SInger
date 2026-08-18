@@ -10723,6 +10723,41 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:59:20",
       "lastUpdated": "2026-08-18T05:29:20.474Z"
+    },
+    "SL-PSM-8017||GALEWELA": {
+      "remark": "Damaged - 65%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:57:58",
+      "lastUpdated": "2026-08-18T05:27:58.205Z"
+    },
+    "SL-SWMFR72||GALEWELA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:58:15",
+      "lastUpdated": "2026-08-18T05:28:15.433Z"
+    },
+    "SLE-55IFPD||GALEWELA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:58:52",
+      "lastUpdated": "2026-08-18T05:28:52.636Z"
+    },
+    "SLE32D5000||GALEWELA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:59:30",
+      "lastUpdated": "2026-08-18T05:29:30.499Z"
+    },
+    "SLE32E920||GALEWELA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:59:36",
+      "lastUpdated": "2026-08-18T05:29:36.410Z"
     }
   },
   "showroomVisits": {
@@ -11089,6 +11124,41 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:59:36",
+      "iso": "2026-08-18T05:29:36.411Z",
+      "action": "updated remark for SLE32E920 at GALEWELA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:59:30",
+      "iso": "2026-08-18T05:29:30.502Z",
+      "action": "updated remark for SLE32D5000 at GALEWELA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:58:52",
+      "iso": "2026-08-18T05:28:52.639Z",
+      "action": "updated remark for SLE-55IFPD at GALEWELA: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:58:15",
+      "iso": "2026-08-18T05:28:15.436Z",
+      "action": "updated remark for SL-SWMFR72 at GALEWELA: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:57:58",
+      "iso": "2026-08-18T05:27:58.207Z",
+      "action": "updated remark for SL-PSM-8017 at GALEWELA: “Damaged - 65%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "10:59:13",
@@ -11402,41 +11472,6 @@
       "time": "10:51:29",
       "iso": "2026-08-18T05:21:29.141Z",
       "action": "updated remark for HON-X5B-4-64-BLU at TRINCOMALEE: “Can sell for this price”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:51:20",
-      "iso": "2026-08-18T05:21:20.182Z",
-      "action": "updated remark for HON-X5B-4-64-BLK at TRINCOMALEE: “Displayed - 50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:50:42",
-      "iso": "2026-08-18T05:20:42.953Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at TRINCOMALEE: “Can sell for this price”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:50:29",
-      "iso": "2026-08-18T05:20:29.718Z",
-      "action": "updated remark for DAV-DZ650 at GALEWELA: “Revert Damaged - 70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:50:32",
-      "iso": "2026-08-18T05:20:32.674Z",
-      "action": "updated remark for ULED32D60A at MAIN WAREHOUSE: “Transfer to shops for sale clearance”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:49:47",
-      "iso": "2026-08-18T05:19:47.517Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at TRINCOMALEE: “displayed - 40%”"
     }
   ]
 }
