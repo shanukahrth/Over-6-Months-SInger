@@ -12291,6 +12291,48 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:21:20",
       "lastUpdated": "2026-08-18T06:51:20.616Z"
+    },
+    "UPS-KSTAR-650V||MELSIRIPURA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:18:27",
+      "lastUpdated": "2026-08-18T06:48:27.962Z"
+    },
+    "UPU-ULTIMA418||MELSIRIPURA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:19:15",
+      "lastUpdated": "2026-08-18T06:49:15.190Z"
+    },
+    "UPU-MARVELLAUV||MELSIRIPURA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:19:17",
+      "lastUpdated": "2026-08-18T06:49:17.568Z"
+    },
+    "UR591SW||MELSIRIPURA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:19:35",
+      "lastUpdated": "2026-08-18T06:49:35.670Z"
+    },
+    "WF-OSLO-S||MELSIRIPURA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:21:08",
+      "lastUpdated": "2026-08-18T06:51:08.161Z"
+    },
+    "WFI-DELPHI-CHR-S||MELSIRIPURA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:21:22",
+      "lastUpdated": "2026-08-18T06:51:22.957Z"
     }
   },
   "showroomVisits": {
@@ -12657,6 +12699,55 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:21:22",
+      "iso": "2026-08-18T06:51:22.959Z",
+      "action": "updated remark for WFI-DELPHI-CHR-S at MELSIRIPURA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:21:08",
+      "iso": "2026-08-18T06:51:08.163Z",
+      "action": "updated remark for WF-OSLO-S at MELSIRIPURA: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:19:35",
+      "iso": "2026-08-18T06:49:35.672Z",
+      "action": "updated remark for UR591SW at MELSIRIPURA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:19:17",
+      "iso": "2026-08-18T06:49:17.569Z",
+      "action": "updated remark for UPU-MARVELLAUV at MELSIRIPURA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:19:15",
+      "iso": "2026-08-18T06:49:15.192Z",
+      "action": "updated remark for UPU-ULTIMA418 at MELSIRIPURA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:19:09",
+      "iso": "2026-08-18T06:49:09.582Z",
+      "action": "updated remark for UPU-ULTIMA418 at MELSIRIPURA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:18:27",
+      "iso": "2026-08-18T06:48:27.964Z",
+      "action": "updated remark for UPS-KSTAR-650V at MELSIRIPURA: “Damaged - 80%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:21:20",
@@ -12956,55 +13047,6 @@
       "time": "12:11:46",
       "iso": "2026-08-18T06:41:46.824Z",
       "action": "updated remark for HU-DOCK3 at MAIN WAREHOUSE: “Defective, scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:11:56",
-      "iso": "2026-08-18T06:41:56.112Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at MAIN WAREHOUSE: “Available”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:09:58",
-      "iso": "2026-08-18T06:39:58.254Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at MAIN WAREHOUSE: “Physically available carton damage”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:08:34",
-      "iso": "2026-08-18T06:38:34.653Z",
-      "action": "updated remark for SIN-PSVX938 at MAIN WAREHOUSE: “Transferred to normal location”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "12:07:07",
-      "iso": "2026-08-18T06:37:07.855Z",
-      "action": "updated remark for SRS-XV800 at MAIN WAREHOUSE: “Available”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:11:22",
-      "iso": "2026-08-18T06:41:22.997Z",
-      "action": "updated remark for TL-WN727N at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:11:06",
-      "iso": "2026-08-18T06:41:06.995Z",
-      "action": "updated remark for SHT-PHT505L at MELSIRIPURA: “Display/Damaged - 80%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:11:05",
-      "iso": "2026-08-18T06:41:05.965Z",
-      "action": "updated remark for HU-FREEBUD-3I-W at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
