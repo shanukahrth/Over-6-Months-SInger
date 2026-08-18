@@ -10261,6 +10261,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:44:05",
       "lastUpdated": "2026-08-18T05:14:05.481Z"
+    },
+    "LP-AP01||PABAHINNA-LITE": {
+      "remark": "Additional 10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:44:17",
+      "lastUpdated": "2026-08-18T05:14:17.895Z"
     }
   },
   "showroomVisits": {
@@ -10629,6 +10636,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "10:44:17",
+      "iso": "2026-08-18T05:14:17.900Z",
+      "action": "updated remark for LP-AP01 at PABAHINNA-LITE: “Additional 10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "10:44:05",
       "iso": "2026-08-18T05:14:05.489Z",
       "action": "updated remark for MID-MJ-KM6001W at PABAHINNA-LITE: “With package”"
@@ -10968,13 +10982,6 @@
       "time": "10:21:01",
       "iso": "2026-08-18T04:51:01.630Z",
       "action": "updated remark for SLE40D600A at TRINCOMALEE: “80% - Damaged TV display”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:20:42",
-      "iso": "2026-08-18T04:50:42.032Z",
-      "action": "updated remark for SLE32G690 at TRINCOMALEE: “50%”"
     }
   ]
 }
