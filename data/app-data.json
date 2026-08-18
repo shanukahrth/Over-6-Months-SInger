@@ -12503,18 +12503,18 @@
       "lastUpdated": "2026-08-18T06:59:17.635Z"
     },
     "WF-PARIS-BL-S||BALANGODA": {
-      "remark": "85000",
+      "remark": "50%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "12:30:05",
-      "lastUpdated": "2026-08-18T07:00:05.499Z"
+      "commentTime": "12:30:49",
+      "lastUpdated": "2026-08-18T07:00:49.737Z"
     },
     "WF-PARIS-BR-S||BALANGODA": {
-      "remark": "85000",
+      "remark": "50%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "12:30:36",
-      "lastUpdated": "2026-08-18T07:00:36.867Z"
+      "commentTime": "12:30:44",
+      "lastUpdated": "2026-08-18T07:00:44.623Z"
     }
   },
   "showroomVisits": {
@@ -12883,6 +12883,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:30:49",
+      "iso": "2026-08-18T07:00:49.741Z",
+      "action": "updated remark for WF-PARIS-BL-S at BALANGODA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:30:44",
+      "iso": "2026-08-18T07:00:44.628Z",
+      "action": "updated remark for WF-PARIS-BR-S at BALANGODA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:30:36",
       "iso": "2026-08-18T07:00:36.872Z",
       "action": "updated remark for WF-PARIS-BR-S at BALANGODA: “85000”"
@@ -13215,20 +13229,6 @@
       "time": "12:17:44",
       "iso": "2026-08-18T06:47:44.333Z",
       "action": "updated remark for SRS-XP700 at BALANGODA: “150000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:16:35",
-      "iso": "2026-08-18T06:46:35.767Z",
-      "action": "updated remark for SIN-K13 at BALANGODA: “5000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:16:11",
-      "iso": "2026-08-18T06:46:11.731Z",
-      "action": "updated remark for PN-SC-UX100GS-K at BALANGODA: “30000”"
     }
   ]
 }
