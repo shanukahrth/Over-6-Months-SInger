@@ -10926,6 +10926,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:07:27",
       "lastUpdated": "2026-08-18T05:37:27.895Z"
+    },
+    "SMGLH85QETELGC||MAIN WAREHOUSE": {
+      "remark": "Hotel TV",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:07:55",
+      "lastUpdated": "2026-08-18T05:37:55.845Z"
     }
   },
   "showroomVisits": {
@@ -11294,6 +11301,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:07:55",
+      "iso": "2026-08-18T05:37:55.851Z",
+      "action": "updated remark for SMGLH85QETELGC at MAIN WAREHOUSE: “Hotel TV”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:07:27",
       "iso": "2026-08-18T05:37:27.901Z",
       "action": "updated remark for TCL65C655 at MAIN WAREHOUSE: “Used in demo”"
@@ -11633,13 +11647,6 @@
       "time": "10:57:38",
       "iso": "2026-08-18T05:27:38.466Z",
       "action": "updated remark for SKY55Q6700G at GALEWELA: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:57:14",
-      "iso": "2026-08-18T05:27:14.850Z",
-      "action": "updated remark for SIS277CU at GALEWELA: “Damaged- 70%”"
     }
   ]
 }
