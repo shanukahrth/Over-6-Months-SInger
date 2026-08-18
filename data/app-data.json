@@ -10485,6 +10485,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:51:42",
       "lastUpdated": "2026-08-18T05:21:42.240Z"
+    },
+    "LF-BUDGET-ST-CRW-S||GALEWELA": {
+      "remark": "Return to Warehouse",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:51:52",
+      "lastUpdated": "2026-08-18T05:21:52.593Z"
     }
   },
   "showroomVisits": {
@@ -10851,6 +10858,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:51:52",
+      "iso": "2026-08-18T05:21:52.596Z",
+      "action": "updated remark for LF-BUDGET-ST-CRW-S at GALEWELA: “Return to Warehouse”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "10:51:42",
@@ -11192,13 +11206,6 @@
       "time": "10:42:43",
       "iso": "2026-08-18T05:12:43.644Z",
       "action": "updated remark for SL-TF313 at PABAHINNA-LITE: “Damaged. No parts. 70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:42:16",
-      "iso": "2026-08-18T05:12:16.425Z",
-      "action": "updated remark for SASI12INFI at TRINCOMALEE: “60%”"
     }
   ]
 }
