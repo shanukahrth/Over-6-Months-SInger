@@ -9918,6 +9918,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:02:34",
       "lastUpdated": "2026-08-18T04:32:34.232Z"
+    },
+    "KD-55X7500H||TRINCOMALEE": {
+      "remark": "System exchange required - Branch manager to update",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:10:18",
+      "lastUpdated": "2026-08-18T04:40:18.649Z"
     }
   },
   "showroomVisits": {
@@ -10284,6 +10291,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "10:10:18",
+      "iso": "2026-08-18T04:40:18.651Z",
+      "action": "updated remark for KD-55X7500H at TRINCOMALEE: “System exchange required - Branch manager to update”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "10:02:37",
@@ -10625,13 +10639,6 @@
       "time": "09:51:07",
       "iso": "2026-08-18T04:21:07.160Z",
       "action": "updated remark for PN-NR-BG271SSLK at MAIN WAREHOUSE: “Nerd issue transfer to parts”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:48:12",
-      "iso": "2026-08-18T04:18:12.814Z",
-      "action": "updated remark for HON-PAD-X9-CV at RATTOTA: “Display Damaged - 20%”"
     }
   ]
 }
