@@ -11948,6 +11948,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:06:09",
       "lastUpdated": "2026-08-18T06:36:09.880Z"
+    },
+    "PN-F-407XNBAMKH||MELSIRIPURA": {
+      "remark": "Display/Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:07:29",
+      "lastUpdated": "2026-08-18T06:37:29.603Z"
     }
   },
   "showroomVisits": {
@@ -12316,6 +12323,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "12:07:29",
+      "iso": "2026-08-18T06:37:29.605Z",
+      "action": "updated remark for PN-F-407XNBAMKH at MELSIRIPURA: “Display/Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "12:06:09",
       "iso": "2026-08-18T06:36:09.881Z",
       "action": "updated remark for LF-OX-BR-M-S at MELSIRIPURA: “Displayed/Damaged - 75%”"
@@ -12655,13 +12669,6 @@
       "time": "11:54:50",
       "iso": "2026-08-18T06:24:50.725Z",
       "action": "updated remark for FAN-P-1605H at TRINCOMALEE: “70% - Damaged”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:53:17",
-      "iso": "2026-08-18T06:23:17.247Z",
-      "action": "updated remark for DELL3530-I5-8GB512-SIL at TRINCOMALEE: “Revert - 30%”"
     }
   ]
 }
