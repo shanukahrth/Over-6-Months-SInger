@@ -11171,6 +11171,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:27:51",
       "lastUpdated": "2026-08-18T05:57:51.934Z"
+    },
+    "EPSON-B-L130-MGN||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:27:58",
+      "lastUpdated": "2026-08-18T05:57:58.788Z"
     }
   },
   "showroomVisits": {
@@ -11539,6 +11546,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:27:58",
+      "iso": "2026-08-18T05:57:58.791Z",
+      "action": "updated remark for EPSON-B-L130-MGN at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:27:51",
       "iso": "2026-08-18T05:57:51.936Z",
       "action": "updated remark for CAN-I-G1730 at MAIN WAREHOUSE: “Scrap”"
@@ -11878,13 +11892,6 @@
       "time": "11:08:49",
       "iso": "2026-08-18T05:38:49.164Z",
       "action": "updated remark for SMGUA32T4400 at MAIN WAREHOUSE: “Damaged clearance”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:08:44",
-      "iso": "2026-08-18T05:38:44.570Z",
-      "action": "updated remark for CEL-A8-HSET at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
