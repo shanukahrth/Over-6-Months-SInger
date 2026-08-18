@@ -11766,6 +11766,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:58:44",
       "lastUpdated": "2026-08-18T06:28:44.499Z"
+    },
+    "H-RMRG024MFEOE||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:59:26",
+      "lastUpdated": "2026-08-18T06:29:26.170Z"
     }
   },
   "showroomVisits": {
@@ -12132,6 +12139,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:59:26",
+      "iso": "2026-08-18T06:29:26.177Z",
+      "action": "updated remark for H-RMRG024MFEOE at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:59:21",
+      "iso": "2026-08-18T06:29:21.354Z",
+      "action": "updated remark for H-RMRG024MFEOE at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "11:58:44",
@@ -12466,20 +12487,6 @@
       "time": "11:46:56",
       "iso": "2026-08-18T06:16:56.706Z",
       "action": "updated remark for UPRO-12000 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:46:38",
-      "iso": "2026-08-18T06:16:38.488Z",
-      "action": "updated remark for UPRO-12000 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:46:33",
-      "iso": "2026-08-18T06:16:33.462Z",
-      "action": "updated remark for SAS24TCNR at TRINCOMALEE B: “50% total discount”"
     }
   ]
 }
