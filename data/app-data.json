@@ -10683,11 +10683,11 @@
       "lastUpdated": "2026-08-18T05:28:17.095Z"
     },
     "SLE40D4000||MAIN WAREHOUSE": {
-      "remark": "Arpico",
+      "remark": "Transfer to a shop",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "10:57:31",
-      "lastUpdated": "2026-08-18T05:27:31.909Z"
+      "commentTime": "11:09:15",
+      "lastUpdated": "2026-08-18T05:39:15.934Z"
     },
     "SLE32D5100||MAIN WAREHOUSE": {
       "remark": "Transfer to shops",
@@ -10947,6 +10947,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:08:44",
       "lastUpdated": "2026-08-18T05:38:44.570Z"
+    },
+    "SMGUA32T4400||MAIN WAREHOUSE": {
+      "remark": "Damaged clearance",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:08:49",
+      "lastUpdated": "2026-08-18T05:38:49.156Z"
     }
   },
   "showroomVisits": {
@@ -11313,6 +11320,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:09:15",
+      "iso": "2026-08-18T05:39:15.942Z",
+      "action": "updated remark for SLE40D4000 at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:08:49",
+      "iso": "2026-08-18T05:38:49.164Z",
+      "action": "updated remark for SMGUA32T4400 at MAIN WAREHOUSE: “Damaged clearance”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:08:44",
@@ -11647,20 +11668,6 @@
       "time": "10:58:58",
       "iso": "2026-08-18T05:28:58.760Z",
       "action": "updated remark for PN-TH-32P401N at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:58:23",
-      "iso": "2026-08-18T05:28:23.930Z",
-      "action": "updated remark for SLE32D5100 at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:57:31",
-      "iso": "2026-08-18T05:27:31.917Z",
-      "action": "updated remark for SLE40D4000 at MAIN WAREHOUSE: “Arpico”"
     }
   ]
 }
