@@ -12998,6 +12998,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:55:32",
       "lastUpdated": "2026-08-18T07:25:32.953Z"
+    },
+    "SMG-SM-A057F-6-128-B||BALANGODA": {
+      "remark": "Damaged",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:56:16",
+      "lastUpdated": "2026-08-18T07:26:16.169Z"
     }
   },
   "showroomVisits": {
@@ -13366,6 +13373,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:56:16",
+      "iso": "2026-08-18T07:26:16.169Z",
+      "action": "updated remark for SMG-SM-A057F-6-128-B at BALANGODA: “Damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:55:32",
       "iso": "2026-08-18T07:25:32.954Z",
       "action": "updated remark for NUBIA-V70MAX-4-128GB-GRN at BALANGODA: “Sold”"
@@ -13705,13 +13719,6 @@
       "time": "12:39:59",
       "iso": "2026-08-18T07:09:59.689Z",
       "action": "updated remark for TF-SP16-063 at BALANGODA: “6000”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:39:41",
-      "iso": "2026-08-18T07:09:41.184Z",
-      "action": "updated remark for SIN-VBS-90PA at TRINCOMALEE B: “90% discount product is not working”"
     }
   ]
 }
