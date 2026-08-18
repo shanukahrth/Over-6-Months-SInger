@@ -15121,11 +15121,11 @@
       "lastUpdated": "2026-08-18T10:12:42.257Z"
     },
     "SL-ST550APR-MB||MAIN WAREHOUSE": {
-      "remark": "Carton dmgd",
+      "remark": "Transfer to shops",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "15:43:14",
-      "lastUpdated": "2026-08-18T10:13:14.317Z"
+      "commentTime": "15:49:45",
+      "lastUpdated": "2026-08-18T10:19:45.780Z"
     },
     "SLE40D4000||HINGURAKGODA": {
       "remark": "Exchange needs to be performed",
@@ -15618,6 +15618,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:49:45",
+      "iso": "2026-08-18T10:19:45.786Z",
+      "action": "updated remark for SL-ST550APR-MB at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:49:19",
@@ -15959,13 +15966,6 @@
       "time": "15:36:00",
       "iso": "2026-08-18T10:06:00.788Z",
       "action": "updated remark for SMGUA32T4400 at HINGURAKGODA: “Revert - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "15:35:41",
-      "iso": "2026-08-18T10:05:41.947Z",
-      "action": "updated remark for HON-X7C-8-256-BLK at NIKAWARATIYA - B: “Display Damaged - 50%”"
     }
   ]
 }
