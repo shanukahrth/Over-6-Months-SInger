@@ -12641,6 +12641,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:37:45",
       "lastUpdated": "2026-08-18T07:07:45.255Z"
+    },
+    "SIN-PR-K340||TRINCOMALEE B": {
+      "remark": "40% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:37:58",
+      "lastUpdated": "2026-08-18T07:07:58.023Z"
     }
   },
   "showroomVisits": {
@@ -13009,6 +13016,13 @@
     {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
+      "time": "12:37:58",
+      "iso": "2026-08-18T07:07:58.025Z",
+      "action": "updated remark for SIN-PR-K340 at TRINCOMALEE B: “40% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
       "time": "12:37:45",
       "iso": "2026-08-18T07:07:45.257Z",
       "action": "updated remark for MC8280 at TRINCOMALEE B: “40% discount”"
@@ -13348,13 +13362,6 @@
       "time": "12:22:19",
       "iso": "2026-08-18T06:52:19.527Z",
       "action": "updated remark for SWM-FA70R at TRINCOMALEE B: “80% discount”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:21:28",
-      "iso": "2026-08-18T06:51:28.458Z",
-      "action": "updated remark for WP-SS-SUB1-S at TRINCOMALEE B: “35% discount”"
     }
   ]
 }
