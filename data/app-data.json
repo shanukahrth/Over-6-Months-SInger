@@ -10394,6 +10394,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:46:33",
       "lastUpdated": "2026-08-18T05:16:33.833Z"
+    },
+    "AONE-A4PAPER-PACK||MAIN WAREHOUSE": {
+      "remark": "Inform Admin/Rasika, Transfer to warehouse",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:45:22",
+      "lastUpdated": "2026-08-18T05:15:22.082Z"
+    },
+    "RAVI-ECSMOP||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 150",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:46:13",
+      "lastUpdated": "2026-08-18T05:16:13.043Z"
+    },
+    "RAVI-ISCRUB||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 150",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:46:16",
+      "lastUpdated": "2026-08-18T05:16:16.076Z"
     }
   },
   "showroomVisits": {
@@ -10760,6 +10781,27 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "10:46:16",
+      "iso": "2026-08-18T05:16:16.079Z",
+      "action": "updated remark for RAVI-ISCRUB at MAIN WAREHOUSE: “Discount to Rs. 150”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "10:46:13",
+      "iso": "2026-08-18T05:16:13.046Z",
+      "action": "updated remark for RAVI-ECSMOP at MAIN WAREHOUSE: “Discount to Rs. 150”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "10:45:22",
+      "iso": "2026-08-18T05:15:22.085Z",
+      "action": "updated remark for AONE-A4PAPER-PACK at MAIN WAREHOUSE: “Inform Admin/Rasika, Transfer to warehouse”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "10:46:33",
@@ -11087,27 +11129,6 @@
       "time": "10:28:13",
       "iso": "2026-08-18T04:58:13.527Z",
       "action": "updated remark for ULED32D60A at TRINCOMALEE: “Sell at Rs.24,999”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:27:29",
-      "iso": "2026-08-18T04:57:29.760Z",
-      "action": "updated remark for ULED32D60A at TRINCOMALEE: “Sell at Rs.24,999”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:27:26",
-      "iso": "2026-08-18T04:57:26.751Z",
-      "action": "updated remark for ULED32D60A at TRINCOMALEE: “Sell at Rs.24,999”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:26:52",
-      "iso": "2026-08-18T04:56:52.235Z",
-      "action": "updated remark for TCLED32D65A at TRINCOMALEE: “Revert - 50%”"
     }
   ]
 }
