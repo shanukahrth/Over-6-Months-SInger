@@ -15149,11 +15149,11 @@
       "lastUpdated": "2026-08-18T10:14:39.134Z"
     },
     "SLE43G890||HINGURAKGODA": {
-      "remark": "50% Displayed",
+      "remark": "60% - Revert",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:44:50",
-      "lastUpdated": "2026-08-18T10:14:50.995Z"
+      "commentTime": "15:45:18",
+      "lastUpdated": "2026-08-18T10:15:18.071Z"
     },
     "R-BWS-02||NIKAWARATIYA - B": {
       "remark": "Display/Damaged - 10%",
@@ -15527,6 +15527,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "15:45:18",
+      "iso": "2026-08-18T10:15:18.073Z",
+      "action": "updated remark for SLE43G890 at HINGURAKGODA: “60% - Revert”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "15:44:58",
@@ -15868,13 +15875,6 @@
       "time": "15:30:48",
       "iso": "2026-08-18T10:00:48.775Z",
       "action": "updated remark for PLAS-07010 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "15:30:46",
-      "iso": "2026-08-18T10:00:46.284Z",
-      "action": "updated remark for PLAS-07012 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
