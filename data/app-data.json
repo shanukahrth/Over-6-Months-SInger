@@ -10134,7 +10134,7 @@
     },
     "KINNIYA||DAMBULLA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-17",
       "team": "",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
@@ -10142,6 +10142,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:55:32",
+      "iso": "2026-08-18T04:25:32.017Z",
+      "action": "updated KINNIYA showroom (visitDate: 2026-08-17)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
@@ -10484,13 +10491,6 @@
       "time": "09:37:07",
       "iso": "2026-08-18T04:07:07.874Z",
       "action": "updated remark for X1R-OB at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:01",
-      "iso": "2026-08-18T04:07:01.848Z",
-      "action": "updated remark for WL-0893222 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
