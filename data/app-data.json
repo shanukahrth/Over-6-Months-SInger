@@ -12788,6 +12788,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:45:26",
       "lastUpdated": "2026-08-18T07:15:26.746Z"
+    },
+    "LF-LEO-120-SHW||TRINCOMALEE B": {
+      "remark": "50% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:45:32",
+      "lastUpdated": "2026-08-18T07:15:32.815Z"
+    },
+    "LF-LEO-15023-WNG-S||TRINCOMALEE B": {
+      "remark": "50% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:45:44",
+      "lastUpdated": "2026-08-18T07:15:44.759Z"
     }
   },
   "showroomVisits": {
@@ -13154,6 +13168,20 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:45:44",
+      "iso": "2026-08-18T07:15:44.761Z",
+      "action": "updated remark for LF-LEO-15023-WNG-S at TRINCOMALEE B: “50% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:45:32",
+      "iso": "2026-08-18T07:15:32.818Z",
+      "action": "updated remark for LF-LEO-120-SHW at TRINCOMALEE B: “50% discount”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:45:26",
@@ -13488,20 +13516,6 @@
       "time": "12:30:49",
       "iso": "2026-08-18T07:00:49.741Z",
       "action": "updated remark for WF-PARIS-BL-S at BALANGODA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:30:44",
-      "iso": "2026-08-18T07:00:44.628Z",
-      "action": "updated remark for WF-PARIS-BR-S at BALANGODA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:30:36",
-      "iso": "2026-08-18T07:00:36.872Z",
-      "action": "updated remark for WF-PARIS-BR-S at BALANGODA: “85000”"
     }
   ]
 }
