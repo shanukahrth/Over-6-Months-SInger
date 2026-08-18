@@ -11703,6 +11703,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:55:44",
       "lastUpdated": "2026-08-18T06:25:44.547Z"
+    },
+    "BC-KNP-AG||TRINCOMALEE": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:55:49",
+      "lastUpdated": "2026-08-18T06:25:49.718Z"
     }
   },
   "showroomVisits": {
@@ -12071,6 +12078,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "11:55:49",
+      "iso": "2026-08-18T06:25:49.720Z",
+      "action": "updated remark for BC-KNP-AG at TRINCOMALEE: “30%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "11:55:44",
       "iso": "2026-08-18T06:25:44.549Z",
       "action": "updated remark for BTS-10KG at TRINCOMALEE: “40%”"
@@ -12410,13 +12424,6 @@
       "time": "11:43:19",
       "iso": "2026-08-18T06:13:19.134Z",
       "action": "updated remark for SD-8GB at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:43:18",
-      "iso": "2026-08-18T06:13:18.786Z",
-      "action": "updated remark for M-SRK10YXP-W7 at TRINCOMALEE B: “30% total discount”"
     }
   ]
 }
