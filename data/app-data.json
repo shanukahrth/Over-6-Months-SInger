@@ -15056,6 +15056,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:38:02",
       "lastUpdated": "2026-08-18T10:08:02.055Z"
+    },
+    "BES-CRS-51||NIKAWARATIYA - B": {
+      "remark": "Display - 10%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:37:44",
+      "lastUpdated": "2026-08-18T10:07:44.000Z"
+    },
+    "BRC-CASERL20||NIKAWARATIYA - B": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:38:22",
+      "lastUpdated": "2026-08-18T10:08:22.640Z"
     }
   },
   "showroomVisits": {
@@ -15422,6 +15436,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "15:38:22",
+      "iso": "2026-08-18T10:08:22.641Z",
+      "action": "updated remark for BRC-CASERL20 at NIKAWARATIYA - B: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "15:37:44",
+      "iso": "2026-08-18T10:07:44.003Z",
+      "action": "updated remark for BES-CRS-51 at NIKAWARATIYA - B: “Display - 10%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:38:02",
@@ -15756,20 +15784,6 @@
       "time": "15:16:44",
       "iso": "2026-08-18T09:46:44.209Z",
       "action": "updated remark for SL-ECO55-SV at BALANGODA C: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:16:39",
-      "iso": "2026-08-18T09:46:39.858Z",
-      "action": "updated remark for GEO-242D-SV at BALANGODA C: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:16:33",
-      "iso": "2026-08-18T09:46:33.155Z",
-      "action": "updated remark for GEO-242D-SV at BALANGODA C: “Sellable”"
     }
   ]
 }
