@@ -11157,6 +11157,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:27:46",
       "lastUpdated": "2026-08-18T05:57:46.260Z"
+    },
+    "CAN-B-790-C||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:27:49",
+      "lastUpdated": "2026-08-18T05:57:49.470Z"
+    },
+    "CAN-I-G1730||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:27:51",
+      "lastUpdated": "2026-08-18T05:57:51.934Z"
     }
   },
   "showroomVisits": {
@@ -11525,6 +11539,20 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:27:51",
+      "iso": "2026-08-18T05:57:51.936Z",
+      "action": "updated remark for CAN-I-G1730 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:27:49",
+      "iso": "2026-08-18T05:57:49.472Z",
+      "action": "updated remark for CAN-B-790-C at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:27:46",
       "iso": "2026-08-18T05:57:46.262Z",
       "action": "updated remark for PFI-BHP-050-P at MAIN WAREHOUSE: “Scrap”"
@@ -11857,20 +11885,6 @@
       "time": "11:08:44",
       "iso": "2026-08-18T05:38:44.570Z",
       "action": "updated remark for CEL-A8-HSET at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:08:36",
-      "iso": "2026-08-18T05:38:36.429Z",
-      "action": "updated remark for CEL-A8-HSET at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:08:22",
-      "iso": "2026-08-18T05:38:22.816Z",
-      "action": "updated remark for CEL-A4-HSET at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
