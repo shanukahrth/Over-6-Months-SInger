@@ -13943,6 +13943,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:17:04",
       "lastUpdated": "2026-08-18T08:47:04.669Z"
+    },
+    "B-CWB6441XN||MAIN WAREHOUSE": {
+      "remark": "Carton dmgd",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:17:17",
+      "lastUpdated": "2026-08-18T08:47:17.121Z"
     }
   },
   "showroomVisits": {
@@ -14309,6 +14316,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:17:17",
+      "iso": "2026-08-18T08:47:17.127Z",
+      "action": "updated remark for B-CWB6441XN at MAIN WAREHOUSE: “Carton dmgd”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "14:17:04",
@@ -14650,13 +14664,6 @@
       "time": "14:04:05",
       "iso": "2026-08-18T08:34:05.747Z",
       "action": "updated remark for WP-SS-SUB1-S at POLPITHIGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:04:49",
-      "iso": "2026-08-18T08:34:49.801Z",
-      "action": "updated remark for RIYLTA-MF12V92A at BALANGODA - B: “Rtn”"
     }
   ]
 }
