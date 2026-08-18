@@ -10907,11 +10907,11 @@
       "lastUpdated": "2026-08-18T05:35:22.391Z"
     },
     "SLE55GENR||TRINCOMALEE B": {
-      "remark": "85% - panel is damaged",
+      "remark": "90% - panel is damaged",
       "commentedBy": "Chamal Gunawardena",
       "commentDate": "2026-08-18",
-      "commentTime": "11:00:33",
-      "lastUpdated": "2026-08-18T05:30:33.493Z"
+      "commentTime": "11:18:38",
+      "lastUpdated": "2026-08-18T05:48:38.138Z"
     },
     "SLE43G890||TRINCOMALEE B": {
       "remark": "85% for panel damage one & 70% for other unit , staff member will purchase",
@@ -11418,6 +11418,13 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:18:38",
+      "iso": "2026-08-18T05:48:38.145Z",
+      "action": "updated remark for SLE55GENR at TRINCOMALEE B: “90% - panel is damaged”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:18:18",
@@ -11759,13 +11766,6 @@
       "time": "11:02:44",
       "iso": "2026-08-18T05:32:44.873Z",
       "action": "updated remark for SLE100A4F at MAIN WAREHOUSE: “Additional 50000”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:02:34",
-      "iso": "2026-08-18T05:32:34.399Z",
-      "action": "updated remark for SLE86G6E at MAIN WAREHOUSE: “Transfer to normal and sell”"
     }
   ]
 }
