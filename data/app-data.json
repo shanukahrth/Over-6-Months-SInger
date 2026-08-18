@@ -14181,6 +14181,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:40:06",
       "lastUpdated": "2026-08-18T09:10:06.344Z"
+    },
+    "H-BD-1054HVOS||MAIN WAREHOUSE": {
+      "remark": "No carton",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:42:14",
+      "lastUpdated": "2026-08-18T09:12:14.241Z"
     }
   },
   "showroomVisits": {
@@ -14547,6 +14554,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:42:14",
+      "iso": "2026-08-18T09:12:14.255Z",
+      "action": "updated remark for H-BD-1054HVOS at MAIN WAREHOUSE: “No carton”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "14:40:06",
@@ -14887,13 +14901,6 @@
       "date": "2026-08-18",
       "time": "14:15:13",
       "iso": "2026-08-18T08:45:13.585Z",
-      "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:15:09",
-      "iso": "2026-08-18T08:45:09.864Z",
       "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide”"
     }
   ]
