@@ -16071,6 +16071,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:31:31",
       "lastUpdated": "2026-08-18T12:01:31.174Z"
+    },
+    "TF-SI-ESS-242||NIVITHIGALA": {
+      "remark": "7900",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:31:45",
+      "lastUpdated": "2026-08-18T12:01:45.976Z"
     }
   },
   "showroomVisits": {
@@ -16439,6 +16446,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "17:31:45",
+      "iso": "2026-08-18T12:01:45.981Z",
+      "action": "updated remark for TF-SI-ESS-242 at NIVITHIGALA: “7900”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "17:31:31",
       "iso": "2026-08-18T12:01:31.183Z",
       "action": "updated remark for TFFV1734MO at NIVITHIGALA: “Sold”"
@@ -16778,13 +16792,6 @@
       "time": "17:09:16",
       "iso": "2026-08-18T11:39:16.516Z",
       "action": "updated remark for SIN-RFC-2012 at MAIN WAREHOUSE: “Discount 50%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "17:09:15",
-      "iso": "2026-08-18T11:39:15.051Z",
-      "action": "updated remark for PH-NT3650 at MAIN WAREHOUSE: “Discount 50%”"
     }
   ]
 }
