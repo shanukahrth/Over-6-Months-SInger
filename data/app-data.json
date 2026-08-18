@@ -15826,6 +15826,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:09:38",
       "lastUpdated": "2026-08-18T11:39:38.919Z"
+    },
+    "ETEL-K20MINIPC-SITS||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:12:54",
+      "lastUpdated": "2026-08-18T11:42:54.127Z"
     }
   },
   "showroomVisits": {
@@ -16194,6 +16201,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "17:12:54",
+      "iso": "2026-08-18T11:42:54.127Z",
+      "action": "updated remark for ETEL-K20MINIPC-SITS at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "17:09:38",
       "iso": "2026-08-18T11:39:38.919Z",
       "action": "updated remark for PH-EH-ND11-A685 at MAIN WAREHOUSE: “Discount 50%”"
@@ -16533,13 +16547,6 @@
       "time": "16:21:59",
       "iso": "2026-08-18T10:51:59.210Z",
       "action": "updated remark for NUBIA-V60DSGN-6-256GB-DB at NIKAWERATIYA: “Damaged - 40%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "16:21:52",
-      "iso": "2026-08-18T10:51:52.545Z",
-      "action": "updated remark for SIN-PSVX938 at HINGURAKGODA: “70%”"
     }
   ]
 }
