@@ -12151,6 +12151,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:16:23",
       "lastUpdated": "2026-08-18T06:46:23.452Z"
+    },
+    "SL-DF420Q-CCF||MAIN WAREHOUSE": {
+      "remark": "Physically available",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:16:26",
+      "lastUpdated": "2026-08-18T06:46:26.945Z"
     }
   },
   "showroomVisits": {
@@ -12519,6 +12526,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "12:16:26",
+      "iso": "2026-08-18T06:46:26.951Z",
+      "action": "updated remark for SL-DF420Q-CCF at MAIN WAREHOUSE: “Physically available”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "12:16:23",
       "iso": "2026-08-18T06:46:23.459Z",
       "action": "updated remark for SL-456GI at MAIN WAREHOUSE: “Physically available”"
@@ -12858,13 +12872,6 @@
       "time": "12:02:29",
       "iso": "2026-08-18T06:32:29.071Z",
       "action": "updated remark for DH-XVR1B08-I-V2 at MELSIRIPURA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:02:22",
-      "iso": "2026-08-18T06:32:22.967Z",
-      "action": "updated remark for DH-PFM930-59N-200 at MELSIRIPURA: “Damaged - 80%”"
     }
   ]
 }
