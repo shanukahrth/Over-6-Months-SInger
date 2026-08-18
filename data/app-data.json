@@ -13383,6 +13383,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:48:42",
       "lastUpdated": "2026-08-18T08:18:42.452Z"
+    },
+    "WFL-RIO-02-S||BALANGODA - B": {
+      "remark": "50000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:49:09",
+      "lastUpdated": "2026-08-18T08:19:09.149Z"
     }
   },
   "showroomVisits": {
@@ -13751,6 +13758,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:49:09",
+      "iso": "2026-08-18T08:19:09.154Z",
+      "action": "updated remark for WFL-RIO-02-S at BALANGODA - B: “50000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:48:42",
       "iso": "2026-08-18T08:18:42.457Z",
       "action": "updated remark for WF-PARIS-BR-S at BALANGODA - B: “30000”"
@@ -14090,13 +14104,6 @@
       "time": "13:07:17",
       "iso": "2026-08-18T07:37:17.316Z",
       "action": "updated remark for SLE40D600A at BALANGODA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:05:58",
-      "iso": "2026-08-18T07:35:58.143Z",
-      "action": "updated remark for SMGUA32N4010 at BALANGODA: “25000”"
     }
   ]
 }
