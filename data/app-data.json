@@ -11885,6 +11885,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:03:39",
       "lastUpdated": "2026-08-18T06:33:39.236Z"
+    },
+    "H-BD-1054HVOS||MELSIRIPURA": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:04:11",
+      "lastUpdated": "2026-08-18T06:34:11.378Z"
     }
   },
   "showroomVisits": {
@@ -12253,6 +12260,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "12:04:11",
+      "iso": "2026-08-18T06:34:11.380Z",
+      "action": "updated remark for H-BD-1054HVOS at MELSIRIPURA: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "12:03:39",
       "iso": "2026-08-18T06:33:39.238Z",
       "action": "updated remark for H-HRSN9552DDXKH at MELSIRIPURA: “Damaged/Displayed - 70%”"
@@ -12592,13 +12606,6 @@
       "time": "11:51:53",
       "iso": "2026-08-18T06:21:53.189Z",
       "action": "updated remark for PN-SC-BMAX10E-K at TRINCOMALEE B: “40% discount”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:51:54",
-      "iso": "2026-08-18T06:21:54.101Z",
-      "action": "updated remark for SIN-BS30 at TRINCOMALEE: “Rs.8,500/- Special Price”"
     }
   ]
 }
