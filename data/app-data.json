@@ -9680,6 +9680,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:38:39",
       "lastUpdated": "2026-08-18T04:08:39.338Z"
+    },
+    "TF-TW26-064||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:41:22",
+      "lastUpdated": "2026-08-18T04:11:22.493Z"
     }
   },
   "showroomVisits": {
@@ -10005,6 +10012,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:41:22",
+      "iso": "2026-08-18T04:11:22.495Z",
+      "action": "updated remark for TF-TW26-064 at NAULA: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:41:15",
+      "iso": "2026-08-18T04:11:15.966Z",
+      "action": "updated remark for TF-TW26-064 at NAULA: “Damaged - 40%”"
+    },
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
@@ -10340,20 +10361,6 @@
       "time": "19:31:30",
       "iso": "2026-08-17T14:01:30.155Z",
       "action": "updated remark for SIN-PSVX938N at MUTUR (cleared)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:31:09",
-      "iso": "2026-08-17T14:01:09.087Z",
-      "action": "updated remark for SIN-PR-K340 at MUTUR: “Sellable condition”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:30:29",
-      "iso": "2026-08-17T14:00:29.732Z",
-      "action": "updated remark for 123453213 at MUTUR: “50% - EOL”"
     }
   ]
 }
