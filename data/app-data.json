@@ -15028,6 +15028,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:36:00",
       "lastUpdated": "2026-08-18T10:06:00.787Z"
+    },
+    "TCLED24D3000||HINGURAKGODA": {
+      "remark": "90% - EOL product",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:36:13",
+      "lastUpdated": "2026-08-18T10:06:13.834Z"
     }
   },
   "showroomVisits": {
@@ -15396,6 +15403,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:36:13",
+      "iso": "2026-08-18T10:06:13.836Z",
+      "action": "updated remark for TCLED24D3000 at HINGURAKGODA: “90% - EOL product”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:36:00",
       "iso": "2026-08-18T10:06:00.788Z",
       "action": "updated remark for SMGUA32T4400 at HINGURAKGODA: “Revert - 40%”"
@@ -15735,13 +15749,6 @@
       "time": "15:15:32",
       "iso": "2026-08-18T09:45:32.856Z",
       "action": "updated remark for HON-X9CSMART-12-256-BLK at BALANGODA C: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:15:27",
-      "iso": "2026-08-18T09:45:27.099Z",
-      "action": "updated remark for SMG-A36-5G-8-256-BLK at BALANGODA C: “Sellable”"
     }
   ]
 }
