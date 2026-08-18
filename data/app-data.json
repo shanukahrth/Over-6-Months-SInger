@@ -9841,6 +9841,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:56:39",
       "lastUpdated": "2026-08-18T04:26:39.286Z"
+    },
+    "SMGRT42B553ESL||MAIN WAREHOUSE": {
+      "remark": "Arpico legal case pending",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:58:08",
+      "lastUpdated": "2026-08-18T04:28:08.246Z"
     }
   },
   "showroomVisits": {
@@ -10209,6 +10216,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "09:58:08",
+      "iso": "2026-08-18T04:28:08.253Z",
+      "action": "updated remark for SMGRT42B553ESL at MAIN WAREHOUSE: “Arpico legal case pending”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "09:57:21",
       "iso": "2026-08-18T04:27:21.463Z",
       "action": "updated remark for SMGRT28A3021GS at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 40%”"
@@ -10548,13 +10562,6 @@
       "time": "09:42:20",
       "iso": "2026-08-18T04:12:20.625Z",
       "action": "updated remark for SMGRT28A3021GS at MAIN WAREHOUSE: “Packing damage”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:40:06",
-      "iso": "2026-08-18T04:10:06.747Z",
-      "action": "updated remark for SL-INV260WR-TG at MAIN WAREHOUSE: “Transfer to shops”"
     }
   ]
 }
