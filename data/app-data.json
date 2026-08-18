@@ -13873,6 +13873,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:12:32",
       "lastUpdated": "2026-08-18T08:42:32.646Z"
+    },
+    "MC8280||BALANGODA - B": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:13:02",
+      "lastUpdated": "2026-08-18T08:43:02.815Z"
     }
   },
   "showroomVisits": {
@@ -14241,6 +14248,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:13:02",
+      "iso": "2026-08-18T08:43:02.820Z",
+      "action": "updated remark for MC8280 at BALANGODA - B: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:12:32",
       "iso": "2026-08-18T08:42:32.651Z",
       "action": "updated remark for DH-XVR1B08H-I at BALANGODA - B: “70%”"
@@ -14580,13 +14594,6 @@
       "time": "14:01:05",
       "iso": "2026-08-18T08:31:05.702Z",
       "action": "updated remark for SL-PB-426 at BALANGODA - B: “6000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:00:48",
-      "iso": "2026-08-18T08:30:48.550Z",
-      "action": "updated remark for PN-MX-AC210 at BALANGODA - B: “10%”"
     }
   ]
 }
