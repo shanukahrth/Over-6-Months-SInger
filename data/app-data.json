@@ -14965,6 +14965,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:31:54",
       "lastUpdated": "2026-08-18T10:01:54.394Z"
+    },
+    "SLE32E810||HINGURAKGODA": {
+      "remark": "Penal damage - 90%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:32:13",
+      "lastUpdated": "2026-08-18T10:02:13.856Z"
     }
   },
   "showroomVisits": {
@@ -15333,6 +15340,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:32:13",
+      "iso": "2026-08-18T10:02:13.858Z",
+      "action": "updated remark for SLE32E810 at HINGURAKGODA: “Penal damage - 90%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:31:54",
       "iso": "2026-08-18T10:01:54.396Z",
       "action": "updated remark for SLE32E710 at HINGURAKGODA: “Penal damage - 90%”"
@@ -15672,13 +15686,6 @@
       "time": "15:13:06",
       "iso": "2026-08-18T09:43:06.209Z",
       "action": "updated remark for R-BWS-02 at BALANGODA C: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:12:42",
-      "iso": "2026-08-18T09:42:42.683Z",
-      "action": "updated remark for IWH-2500WL at BALANGODA C: “1000”"
     }
   ]
 }
