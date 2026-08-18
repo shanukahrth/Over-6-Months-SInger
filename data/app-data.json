@@ -9689,11 +9689,11 @@
       "lastUpdated": "2026-08-18T04:11:22.493Z"
     },
     "RAVI-CPPB055RCP||MAIN WAREHOUSE": {
-      "remark": "Discount to Rs. 250",
+      "remark": "Discount to Rs. 200",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "09:41:30",
-      "lastUpdated": "2026-08-18T04:11:30.355Z"
+      "commentTime": "09:42:38",
+      "lastUpdated": "2026-08-18T04:12:38.238Z"
     },
     "SL-INV260WR-TG||MAIN WAREHOUSE": {
       "remark": "Transfer to shops",
@@ -9708,6 +9708,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:42:42",
       "lastUpdated": "2026-08-18T04:12:42.506Z"
+    },
+    "RAVI-CPPB053RCP||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 150",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:42:40",
+      "lastUpdated": "2026-08-18T04:12:40.678Z"
     }
   },
   "showroomVisits": {
@@ -10033,6 +10040,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:42:40",
+      "iso": "2026-08-18T04:12:40.682Z",
+      "action": "updated remark for RAVI-CPPB053RCP at MAIN WAREHOUSE: “Discount to Rs. 150”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:42:38",
+      "iso": "2026-08-18T04:12:38.240Z",
+      "action": "updated remark for RAVI-CPPB055RCP at MAIN WAREHOUSE: “Discount to Rs. 200”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:42:35",
+      "iso": "2026-08-18T04:12:35.333Z",
+      "action": "updated remark for RAVI-CPPB053RCP at MAIN WAREHOUSE: “Discountb to Rs. 150”"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-18",
@@ -10361,27 +10389,6 @@
       "time": "09:24:46",
       "iso": "2026-08-18T03:54:46.892Z",
       "action": "updated remark for DELL-3580-PQC-W10 at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:33:09",
-      "iso": "2026-08-17T14:03:09.637Z",
-      "action": "updated remark for KA-LW-185A at MUTUR: “60%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:32:56",
-      "iso": "2026-08-17T14:02:56.305Z",
-      "action": "updated remark for LP-AP01 at MUTUR: “30%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:32:38",
-      "iso": "2026-08-17T14:02:38.434Z",
-      "action": "updated remark for SWM-FA70R at MUTUR: “40% shop staff will purchase”"
     }
   ]
 }
