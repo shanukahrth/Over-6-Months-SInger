@@ -11116,13 +11116,6 @@
       "commentTime": "11:25:40",
       "lastUpdated": "2026-08-18T05:55:40.741Z"
     },
-    "PN-TH-55MX740N||TRINCOMALEE B": {
-      "remark": "40% total discount",
-      "commentedBy": "Chamal Gunawardena",
-      "commentDate": "2026-08-18",
-      "commentTime": "11:25:52",
-      "lastUpdated": "2026-08-18T05:55:52.028Z"
-    },
     "SW-SD10410GRY||MAIN WAREHOUSE": {
       "remark": "Transfer to a shop discounted price",
       "commentedBy": "Shanuka",
@@ -11740,6 +11733,13 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:39:55",
+      "iso": "2026-08-18T06:09:55.390Z",
+      "action": "updated remark for PN-TH-55MX740N at TRINCOMALEE B (cleared)"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:39:24",
@@ -12081,13 +12081,6 @@
       "time": "11:27:49",
       "iso": "2026-08-18T05:57:49.472Z",
       "action": "updated remark for CAN-B-790-C at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:27:46",
-      "iso": "2026-08-18T05:57:46.262Z",
-      "action": "updated remark for PFI-BHP-050-P at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
