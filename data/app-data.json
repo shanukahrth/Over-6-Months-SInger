@@ -14237,6 +14237,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:45:37",
       "lastUpdated": "2026-08-18T09:15:37.468Z"
+    },
+    "SMGWA17CG6886||MAIN WAREHOUSE": {
+      "remark": "Send to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:46:22",
+      "lastUpdated": "2026-08-18T09:16:22.479Z"
     }
   },
   "showroomVisits": {
@@ -14603,6 +14610,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:46:22",
+      "iso": "2026-08-18T09:16:22.494Z",
+      "action": "updated remark for SMGWA17CG6886 at MAIN WAREHOUSE: “Send to shops”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "14:45:37",
@@ -14944,13 +14958,6 @@
       "time": "14:18:02",
       "iso": "2026-08-18T08:48:02.191Z",
       "action": "updated remark for SLE32E810 at BALANGODA - B: “20000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:17:30",
-      "iso": "2026-08-18T08:47:30.413Z",
-      "action": "updated remark for SLE32E920 at BALANGODA - B: “20000”"
     }
   ]
 }
