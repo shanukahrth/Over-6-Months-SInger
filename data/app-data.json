@@ -11304,6 +11304,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:34:03",
       "lastUpdated": "2026-08-18T06:04:03.883Z"
+    },
+    "HT-AX7||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:34:35",
+      "lastUpdated": "2026-08-18T06:04:35.567Z"
     }
   },
   "showroomVisits": {
@@ -11670,6 +11677,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:34:35",
+      "iso": "2026-08-18T06:04:35.603Z",
+      "action": "updated remark for HT-AX7 at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:34:03",
@@ -12011,13 +12025,6 @@
       "time": "11:22:35",
       "iso": "2026-08-18T05:52:35.195Z",
       "action": "updated remark for BES-CRS-51 at TRINCOMALEE: “WH return - BM to send a mail to Ms. Noyali regarding this”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:22:22",
-      "iso": "2026-08-18T05:52:22.206Z",
-      "action": "updated remark for SLE86G6E at TRINCOMALEE B: “50% total discount on revert basis.”"
     }
   ]
 }
