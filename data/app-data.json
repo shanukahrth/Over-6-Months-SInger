@@ -15728,6 +15728,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:06:18",
       "lastUpdated": "2026-08-18T11:36:18.169Z"
+    },
+    "SIN-RFC-2012||MAIN WAREHOUSE": {
+      "remark": "Discount 50%",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:09:03",
+      "lastUpdated": "2026-08-18T11:39:03.368Z"
+    },
+    "PH-BRE710||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:09:05",
+      "lastUpdated": "2026-08-18T11:39:05.461Z"
     }
   },
   "showroomVisits": {
@@ -16096,6 +16110,20 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "17:09:05",
+      "iso": "2026-08-18T11:39:05.463Z",
+      "action": "updated remark for PH-BRE710 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "17:09:03",
+      "iso": "2026-08-18T11:39:03.371Z",
+      "action": "updated remark for SIN-RFC-2012 at MAIN WAREHOUSE: “Discount 50%”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "17:06:18",
       "iso": "2026-08-18T11:36:18.171Z",
       "action": "updated remark for NOR-MUG-6GL at MAIN WAREHOUSE: “Discount to Rs. 800”"
@@ -16428,20 +16456,6 @@
       "time": "16:18:29",
       "iso": "2026-08-18T10:48:29.613Z",
       "action": "updated remark for WP-WFC105604RT-G at HINGURAKGODA: “30% - Disp”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "16:17:40",
-      "iso": "2026-08-18T10:47:40.686Z",
-      "action": "updated remark for SD-32GB at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "16:17:14",
-      "iso": "2026-08-18T10:47:14.308Z",
-      "action": "updated remark for SD-16GB at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
