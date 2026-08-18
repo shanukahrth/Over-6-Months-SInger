@@ -11523,11 +11523,11 @@
       "lastUpdated": "2026-08-18T06:18:46.355Z"
     },
     "SWM-FA70R||TRINCOMALEE": {
-      "remark": "55% - Damaged but working",
+      "remark": "55% - Discolored",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "11:50:22",
-      "lastUpdated": "2026-08-18T06:20:22.247Z"
+      "commentTime": "11:51:00",
+      "lastUpdated": "2026-08-18T06:21:00.299Z"
     },
     "DH-KIT-8CH-4CAM||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -11922,6 +11922,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:51:00",
+      "iso": "2026-08-18T06:21:00.299Z",
+      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “55% - Discolored”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:50:59",
+      "iso": "2026-08-18T06:20:59.644Z",
+      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “55% - Discoloured”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:50:40",
+      "iso": "2026-08-18T06:20:40.297Z",
+      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “60% - Damaged but working”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:50:35",
@@ -12249,27 +12270,6 @@
       "time": "11:35:25",
       "iso": "2026-08-18T06:05:25.332Z",
       "action": "updated remark for CAN-TR-325BK at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:34:53",
-      "iso": "2026-08-18T06:04:53.963Z",
-      "action": "updated remark for LF-FLASH-2WD-S at TRINCOMALEE: “50% - Damaged, Parts missing”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:33:54",
-      "iso": "2026-08-18T06:03:54.817Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:34:46",
-      "iso": "2026-08-18T06:04:46.829Z",
-      "action": "updated remark for SLE55GENR at TRINCOMALEE B: “90% discount”"
     }
   ]
 }
