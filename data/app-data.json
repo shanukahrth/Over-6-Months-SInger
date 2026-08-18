@@ -12277,6 +12277,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:20:36",
       "lastUpdated": "2026-08-18T06:50:36.207Z"
+    },
+    "FAN-WF1608R||MAIN WAREHOUSE": {
+      "remark": "Physically available carton damage",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:20:52",
+      "lastUpdated": "2026-08-18T06:50:52.033Z"
     }
   },
   "showroomVisits": {
@@ -12645,6 +12652,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "12:20:52",
+      "iso": "2026-08-18T06:50:52.040Z",
+      "action": "updated remark for FAN-WF1608R at MAIN WAREHOUSE: “Physically available carton damage”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "12:20:36",
       "iso": "2026-08-18T06:50:36.214Z",
       "action": "updated remark for FAN-P-1605H at MAIN WAREHOUSE: “Physically available carton damage”"
@@ -12984,13 +12998,6 @@
       "time": "12:10:36",
       "iso": "2026-08-18T06:40:36.935Z",
       "action": "updated remark for SDC-DV150F at MELSIRIPURA: “Damaged - 80%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:10:02",
-      "iso": "2026-08-18T06:40:02.595Z",
-      "action": "updated remark for DELL-DVDRW at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
