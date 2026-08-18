@@ -13936,6 +13936,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:16:45",
       "lastUpdated": "2026-08-18T08:46:45.951Z"
+    },
+    "TCLED32D65A||BALANGODA - B": {
+      "remark": "30000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:17:04",
+      "lastUpdated": "2026-08-18T08:47:04.669Z"
     }
   },
   "showroomVisits": {
@@ -14304,6 +14311,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:17:04",
+      "iso": "2026-08-18T08:47:04.674Z",
+      "action": "updated remark for TCLED32D65A at BALANGODA - B: “30000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:16:45",
       "iso": "2026-08-18T08:46:45.956Z",
       "action": "updated remark for SLE32G690 at BALANGODA - B: “Fluctuatiom”"
@@ -14643,13 +14657,6 @@
       "time": "14:04:49",
       "iso": "2026-08-18T08:34:49.801Z",
       "action": "updated remark for RIYLTA-MF12V92A at BALANGODA - B: “Rtn”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:04:45",
-      "iso": "2026-08-18T08:34:45.369Z",
-      "action": "updated remark for RIYLTA-MF12V51A at BALANGODA - B: “Rtn”"
     }
   ]
 }
