@@ -14452,8 +14452,8 @@
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "14:07:03",
-      "lastUpdated": "2026-08-18T08:37:03.508Z"
+      "commentTime": "16:03:11",
+      "lastUpdated": "2026-08-18T10:33:11.509Z"
     },
     "DH-I-C22EP-IMOU||MAIN WAREHOUSE": {
       "remark": "Scrap",
@@ -15378,6 +15378,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "16:02:45",
       "lastUpdated": "2026-08-18T10:32:45.940Z"
+    },
+    "DH-I-F22FP-36B-IMOU||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "16:02:01",
+      "lastUpdated": "2026-08-18T10:32:01.451Z"
     }
   },
   "showroomVisits": {
@@ -15744,6 +15751,20 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "16:03:11",
+      "iso": "2026-08-18T10:33:11.511Z",
+      "action": "updated remark for DH-A-B1A21P-6B at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "16:02:01",
+      "iso": "2026-08-18T10:32:01.453Z",
+      "action": "updated remark for DH-I-F22FP-36B-IMOU at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "16:02:45",
@@ -16078,20 +16099,6 @@
       "time": "15:43:53",
       "iso": "2026-08-18T10:13:53.576Z",
       "action": "updated remark for SLE40D600A at HINGURAKGODA: “50% Can sell (Parts missing )”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:43:51",
-      "iso": "2026-08-18T10:13:51.340Z",
-      "action": "updated remark for SLE40D600A at HINGURAKGODA: “50% Can sell ( Parts missing )”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "15:42:49",
-      "iso": "2026-08-18T10:12:49.854Z",
-      "action": "updated remark for SLE40D4000 at HINGURAKGODA: “Exchange needs to be performed”"
     }
   ]
 }
