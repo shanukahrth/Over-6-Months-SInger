@@ -9561,6 +9561,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:36:34",
       "lastUpdated": "2026-08-18T04:06:34.057Z"
+    },
+    "X1R-EF||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:36:46",
+      "lastUpdated": "2026-08-18T04:06:46.078Z"
     }
   },
   "showroomVisits": {
@@ -9886,6 +9893,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:36:46",
+      "iso": "2026-08-18T04:06:46.081Z",
+      "action": "updated remark for X1R-EF at MAIN WAREHOUSE: “Scrap”"
+    },
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
@@ -10228,13 +10242,6 @@
       "time": "19:19:00",
       "iso": "2026-08-17T13:49:00.519Z",
       "action": "updated remark for KD-50X75K at MUTUR: “40% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:18:56",
-      "iso": "2026-08-17T13:48:56.260Z",
-      "action": "updated remark for KD-43X75K at MUTUR: “40% - Displayed”"
     }
   ]
 }
