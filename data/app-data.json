@@ -9547,6 +9547,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:36:26",
       "lastUpdated": "2026-08-18T04:06:26.883Z"
+    },
+    "X1R-PT||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:36:28",
+      "lastUpdated": "2026-08-18T04:06:28.031Z"
+    },
+    "WL-0893012901||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:36:34",
+      "lastUpdated": "2026-08-18T04:06:34.057Z"
     }
   },
   "showroomVisits": {
@@ -9872,6 +9886,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:36:34",
+      "iso": "2026-08-18T04:06:34.059Z",
+      "action": "updated remark for WL-0893012901 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:36:28",
+      "iso": "2026-08-18T04:06:28.035Z",
+      "action": "updated remark for X1R-PT at MAIN WAREHOUSE: “Scrap”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10207,20 +10235,6 @@
       "time": "19:18:56",
       "iso": "2026-08-17T13:48:56.260Z",
       "action": "updated remark for KD-43X75K at MUTUR: “40% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:16:32",
-      "iso": "2026-08-17T13:46:32.402Z",
-      "action": "updated remark for KD-50X75K at MUTUR: “40% Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:16:08",
-      "iso": "2026-08-17T13:46:08.088Z",
-      "action": "updated remark for LF-COAST-TVS-SWW-S at MUTUR: “30% - Displayed”"
     }
   ]
 }
