@@ -15049,6 +15049,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:36:53",
       "lastUpdated": "2026-08-18T10:06:53.294Z"
+    },
+    "TCLED32D3000||HINGURAKGODA": {
+      "remark": "40% - Revert",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:37:54",
+      "lastUpdated": "2026-08-18T10:07:54.620Z"
     }
   },
   "showroomVisits": {
@@ -15417,6 +15424,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:37:54",
+      "iso": "2026-08-18T10:07:54.623Z",
+      "action": "updated remark for TCLED32D3000 at HINGURAKGODA: “40% - Revert”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:36:53",
       "iso": "2026-08-18T10:06:53.295Z",
       "action": "updated remark for TCLED28B2500 at HINGURAKGODA: “90% - EOL and Penal damaged”"
@@ -15756,13 +15770,6 @@
       "time": "15:15:57",
       "iso": "2026-08-18T09:45:57.779Z",
       "action": "updated remark for CAN-L-LBP6030 at BALANGODA C: “20%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:15:50",
-      "iso": "2026-08-18T09:45:50.463Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at BALANGODA C: “Free issue”"
     }
   ]
 }
