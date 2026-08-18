@@ -14412,6 +14412,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:54:20",
       "lastUpdated": "2026-08-18T09:24:20.588Z"
+    },
+    "WP-SS-SUB1-S||MAIN WAREHOUSE": {
+      "remark": "Packing damage",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:54:33",
+      "lastUpdated": "2026-08-18T09:24:33.164Z"
     }
   },
   "showroomVisits": {
@@ -14780,6 +14787,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:54:33",
+      "iso": "2026-08-18T09:24:33.174Z",
+      "action": "updated remark for WP-SS-SUB1-S at MAIN WAREHOUSE: “Packing damage”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:54:20",
       "iso": "2026-08-18T09:24:20.597Z",
       "action": "updated remark for WP-JUN-E-S at MAIN WAREHOUSE: “Packing damage”"
@@ -15119,13 +15133,6 @@
       "time": "14:39:33",
       "iso": "2026-08-18T09:09:33.874Z",
       "action": "updated remark for B-HIAG64223SXL at MAHO: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "14:38:34",
-      "iso": "2026-08-18T09:08:34.078Z",
-      "action": "updated remark for NUBIA-V70MAX-4-128GB-GRN at MAHO: “Damaged - 40%”"
     }
   ]
 }
