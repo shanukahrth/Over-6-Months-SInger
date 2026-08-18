@@ -10212,6 +10212,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:42:16",
       "lastUpdated": "2026-08-18T05:12:16.422Z"
+    },
+    "SL-TF313||PABAHINNA-LITE": {
+      "remark": "Damaged. No parts. 70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:42:43",
+      "lastUpdated": "2026-08-18T05:12:43.639Z"
+    },
+    "LF-SLVY-DTO-CLM-S||PABAHINNA-LITE": {
+      "remark": "40000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:42:48",
+      "lastUpdated": "2026-08-18T05:12:48.997Z"
     }
   },
   "showroomVisits": {
@@ -10578,6 +10592,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "10:42:49",
+      "iso": "2026-08-18T05:12:49.004Z",
+      "action": "updated remark for LF-SLVY-DTO-CLM-S at PABAHINNA-LITE: “40000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "10:42:43",
+      "iso": "2026-08-18T05:12:43.644Z",
+      "action": "updated remark for SL-TF313 at PABAHINNA-LITE: “Damaged. No parts. 70%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "10:42:16",
@@ -10912,20 +10940,6 @@
       "time": "10:17:40",
       "iso": "2026-08-18T04:47:40.540Z",
       "action": "updated remark for SLE32E930 at TRINCOMALEE: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:17:31",
-      "iso": "2026-08-18T04:47:31.781Z",
-      "action": "updated remark for SLE32E930 at TRINCOMALEE: “70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:16:41",
-      "iso": "2026-08-18T04:46:41.388Z",
-      "action": "updated remark for SLE32E910 at TRINCOMALEE: “70%”"
     }
   ]
 }
