@@ -10515,11 +10515,11 @@
       "lastUpdated": "2026-08-18T05:22:24.997Z"
     },
     "MHC-V13||GALEWELA": {
-      "remark": "Sold",
+      "remark": "Damaged - 80%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-18",
-      "commentTime": "10:52:58",
-      "lastUpdated": "2026-08-18T05:22:58.831Z"
+      "commentTime": "10:53:05",
+      "lastUpdated": "2026-08-18T05:23:05.806Z"
     }
   },
   "showroomVisits": {
@@ -10888,6 +10888,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
+      "time": "10:53:05",
+      "iso": "2026-08-18T05:23:05.807Z",
+      "action": "updated remark for MHC-V13 at GALEWELA: “Damaged - 80%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
       "time": "10:52:58",
       "iso": "2026-08-18T05:22:58.832Z",
       "action": "updated remark for MHC-V13 at GALEWELA: “Sold”"
@@ -11227,13 +11234,6 @@
       "time": "10:43:45",
       "iso": "2026-08-18T05:13:45.284Z",
       "action": "updated remark for BRP-TW30 at PABAHINNA-LITE: “Additional 10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "10:43:30",
-      "iso": "2026-08-18T05:13:30.061Z",
-      "action": "updated remark for NCPO-OT275 at PABAHINNA-LITE: “Additional 10%”"
     }
   ]
 }
