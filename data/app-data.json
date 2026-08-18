@@ -14188,6 +14188,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:42:14",
       "lastUpdated": "2026-08-18T09:12:14.241Z"
+    },
+    "H-CV950F24CDSWR||MAHO": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:42:32",
+      "lastUpdated": "2026-08-18T09:12:32.592Z"
     }
   },
   "showroomVisits": {
@@ -14554,6 +14561,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:42:32",
+      "iso": "2026-08-18T09:12:32.593Z",
+      "action": "updated remark for H-CV950F24CDSWR at MAHO: “Damaged - 75%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "14:42:14",
@@ -14895,13 +14909,6 @@
       "time": "14:15:35",
       "iso": "2026-08-18T08:45:35.687Z",
       "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide . Send to clearance sale”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:15:13",
-      "iso": "2026-08-18T08:45:13.585Z",
-      "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide”"
     }
   ]
 }
