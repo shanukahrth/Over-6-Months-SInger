@@ -11521,6 +11521,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:48:46",
       "lastUpdated": "2026-08-18T06:18:46.355Z"
+    },
+    "SWM-FA70R||TRINCOMALEE": {
+      "remark": "70% - Damaged not working - BM will repair it and sell",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:49:50",
+      "lastUpdated": "2026-08-18T06:19:50.125Z"
     }
   },
   "showroomVisits": {
@@ -11889,6 +11896,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "11:49:50",
+      "iso": "2026-08-18T06:19:50.126Z",
+      "action": "updated remark for SWM-FA70R at TRINCOMALEE: “70% - Damaged not working - BM will repair it and sell”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "11:49:17",
       "iso": "2026-08-18T06:19:17.585Z",
       "action": "updated remark for SWM-FA70R at TRINCOMALEE (cleared)"
@@ -12228,13 +12242,6 @@
       "time": "11:32:59",
       "iso": "2026-08-18T06:02:59.492Z",
       "action": "updated remark for CAN-TN-054-C at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:32:44",
-      "iso": "2026-08-18T06:02:44.910Z",
-      "action": "updated remark for SMGUA32T4400 at TRINCOMALEE B: “90% discount as panel is damaged”"
     }
   ]
 }
