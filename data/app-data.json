@@ -16619,11 +16619,11 @@
       "lastUpdated": "2026-08-18T12:21:30.936Z"
     },
     "K-OSPRINKLER||MAIN WAREHOUSE": {
-      "remark": "Discount to Rs. 1,500",
+      "remark": "Discount to Rs. 2,000",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "17:50:39",
-      "lastUpdated": "2026-08-18T12:20:39.001Z"
+      "commentTime": "17:51:31",
+      "lastUpdated": "2026-08-18T12:21:31.677Z"
     },
     "K-RSPRINKLER||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 1,500",
@@ -16999,6 +16999,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "17:51:31",
+      "iso": "2026-08-18T12:21:31.678Z",
+      "action": "updated remark for K-OSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 2,000”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "17:50:44",
       "iso": "2026-08-18T12:20:44.787Z",
       "action": "updated remark for K-RSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 1,500”"
@@ -17338,13 +17345,6 @@
       "time": "17:37:55",
       "iso": "2026-08-18T12:07:55.381Z",
       "action": "updated remark for SL-INV-305G at WARIYAPOLA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:37:43",
-      "iso": "2026-08-18T12:07:43.121Z",
-      "action": "updated remark for R-FGAP010 at NIVITHIGALA: “Rtn to WH”"
     }
   ]
 }
