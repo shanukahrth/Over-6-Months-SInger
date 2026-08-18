@@ -14972,6 +14972,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:32:37",
       "lastUpdated": "2026-08-18T10:02:37.226Z"
+    },
+    "DELL3530-I5-8GB512-BLK||NIKAWARATIYA - B": {
+      "remark": "Revert Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:32:57",
+      "lastUpdated": "2026-08-18T10:02:57.681Z"
     }
   },
   "showroomVisits": {
@@ -15338,6 +15345,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "15:32:57",
+      "iso": "2026-08-18T10:02:57.681Z",
+      "action": "updated remark for DELL3530-I5-8GB512-BLK at NIKAWARATIYA - B: “Revert Damaged - 70%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "15:32:37",
@@ -15679,13 +15693,6 @@
       "time": "15:13:41",
       "iso": "2026-08-18T09:43:41.625Z",
       "action": "updated remark for SMW823AY7 at BALANGODA C: “35000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:13:33",
-      "iso": "2026-08-18T09:43:33.109Z",
-      "action": "updated remark for SMW928AS3 at BALANGODA C: “39000”"
     }
   ]
 }
