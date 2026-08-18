@@ -9510,8 +9510,8 @@
       "remark": "Damaged - 40%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-18",
-      "commentTime": "09:32:33",
-      "lastUpdated": "2026-08-18T04:02:33.679Z"
+      "commentTime": "09:32:45",
+      "lastUpdated": "2026-08-18T04:02:45.188Z"
     }
   },
   "showroomVisits": {
@@ -9837,6 +9837,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:32:45",
+      "iso": "2026-08-18T04:02:45.190Z",
+      "action": "updated remark for NCPO-FP280 at NAULA: “Damaged - 40%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10179,13 +10186,6 @@
       "time": "19:10:28",
       "iso": "2026-08-17T13:40:28.748Z",
       "action": "updated remark for LP-AP01 at MUTUR: “30%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:09:58",
-      "iso": "2026-08-17T13:39:58.051Z",
-      "action": "updated remark for MID-MJ-KM6001W at MUTUR: “55% discount”"
     }
   ]
 }
