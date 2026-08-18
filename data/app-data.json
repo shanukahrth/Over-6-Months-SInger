@@ -12221,6 +12221,34 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:17:50",
       "lastUpdated": "2026-08-18T06:47:50.382Z"
+    },
+    "PN-SC-UX100GS-K||BALANGODA": {
+      "remark": "30000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:16:11",
+      "lastUpdated": "2026-08-18T06:46:11.726Z"
+    },
+    "SIN-K13||BALANGODA": {
+      "remark": "5000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:16:35",
+      "lastUpdated": "2026-08-18T06:46:35.762Z"
+    },
+    "SRS-XP700||BALANGODA": {
+      "remark": "150000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:17:44",
+      "lastUpdated": "2026-08-18T06:47:44.328Z"
+    },
+    "UR591SW||BALANGODA": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:18:19",
+      "lastUpdated": "2026-08-18T06:48:19.127Z"
     }
   },
   "showroomVisits": {
@@ -12587,6 +12615,41 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:18:19",
+      "iso": "2026-08-18T06:48:19.131Z",
+      "action": "updated remark for UR591SW at BALANGODA: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:18:02",
+      "iso": "2026-08-18T06:48:02.794Z",
+      "action": "updated remark for UR591SW at BALANGODA: “5000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:17:44",
+      "iso": "2026-08-18T06:47:44.333Z",
+      "action": "updated remark for SRS-XP700 at BALANGODA: “150000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:16:35",
+      "iso": "2026-08-18T06:46:35.767Z",
+      "action": "updated remark for SIN-K13 at BALANGODA: “5000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:16:11",
+      "iso": "2026-08-18T06:46:11.731Z",
+      "action": "updated remark for PN-SC-UX100GS-K at BALANGODA: “30000”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "12:17:50",
@@ -12900,41 +12963,6 @@
       "time": "12:07:29",
       "iso": "2026-08-18T06:37:29.605Z",
       "action": "updated remark for PN-F-407XNBAMKH at MELSIRIPURA: “Display/Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:06:09",
-      "iso": "2026-08-18T06:36:09.881Z",
-      "action": "updated remark for LF-OX-BR-M-S at MELSIRIPURA: “Displayed/Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:05:30",
-      "iso": "2026-08-18T06:35:30.770Z",
-      "action": "updated remark for HON-BUDS-X6 at MELSIRIPURA: “Free Issue”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:05:10",
-      "iso": "2026-08-18T06:35:10.954Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at MELSIRIPURA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:05:05",
-      "iso": "2026-08-18T06:35:05.176Z",
-      "action": "updated remark for HFPA-GRAVITY-BLU at MELSIRIPURA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:05:01",
-      "iso": "2026-08-18T06:35:01.277Z",
-      "action": "updated remark for HFPA-GRAVITY-BLU at MELSIRIPURA: “Damged - 60%”"
     }
   ]
 }
