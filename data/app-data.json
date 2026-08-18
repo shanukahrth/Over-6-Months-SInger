@@ -10765,6 +10765,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:00:03",
       "lastUpdated": "2026-08-18T05:30:03.085Z"
+    },
+    "SL-INV-285H||TRINCOMALEE": {
+      "remark": "50% - dents on the door",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:00:55",
+      "lastUpdated": "2026-08-18T05:30:55.973Z"
     }
   },
   "showroomVisits": {
@@ -11131,6 +11138,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:00:55",
+      "iso": "2026-08-18T05:30:55.975Z",
+      "action": "updated remark for SL-INV-285H at TRINCOMALEE: “50% - dents on the door”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-18",
       "time": "11:00:03",
@@ -11472,13 +11486,6 @@
       "time": "10:51:42",
       "iso": "2026-08-18T05:21:42.240Z",
       "action": "updated remark for HON-X5B-4-64-BLU at TRINCOMALEE: “Can sell for current price”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:51:37",
-      "iso": "2026-08-18T05:21:37.166Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at TRINCOMALEE: “Can sell for Current price”"
     }
   ]
 }
