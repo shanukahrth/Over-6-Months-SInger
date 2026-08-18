@@ -14909,6 +14909,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:30:35",
       "lastUpdated": "2026-08-18T10:00:35.947Z"
+    },
+    "PCAS-02006||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:30:38",
+      "lastUpdated": "2026-08-18T10:00:38.492Z"
+    },
+    "CUH-1106AB01||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:30:41",
+      "lastUpdated": "2026-08-18T10:00:41.258Z"
     }
   },
   "showroomVisits": {
@@ -15277,6 +15291,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "15:30:41",
+      "iso": "2026-08-18T10:00:41.263Z",
+      "action": "updated remark for CUH-1106AB01 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:30:38",
+      "iso": "2026-08-18T10:00:38.499Z",
+      "action": "updated remark for PCAS-02006 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "15:30:35",
       "iso": "2026-08-18T10:00:35.955Z",
       "action": "updated remark for CUH-2006AB01 at MAIN WAREHOUSE: “Scrap”"
@@ -15609,20 +15637,6 @@
       "time": "15:09:38",
       "iso": "2026-08-18T09:39:38.707Z",
       "action": "updated remark for SW-SD10410GRY at BALANGODA C: “Flat 40%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:09:27",
-      "iso": "2026-08-18T09:39:27.912Z",
-      "action": "updated remark for SW-SD10410GRY at BALANGODA C: “Flat 40%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:08:37",
-      "iso": "2026-08-18T09:38:37.356Z",
-      "action": "updated remark for MID-MJ-KM6001W at BALANGODA C: “30%”"
     }
   ]
 }
