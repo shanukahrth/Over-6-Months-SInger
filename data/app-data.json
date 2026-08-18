@@ -15070,6 +15070,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:38:22",
       "lastUpdated": "2026-08-18T10:08:22.640Z"
+    },
+    "SLE32E930||HINGURAKGODA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:39:16",
+      "lastUpdated": "2026-08-18T10:09:16.272Z"
     }
   },
   "showroomVisits": {
@@ -15438,6 +15445,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:39:16",
+      "iso": "2026-08-18T10:09:16.273Z",
+      "action": "updated remark for SLE32E930 at HINGURAKGODA: “70%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:38:46",
       "iso": "2026-08-18T10:08:46.828Z",
       "action": "updated remark for TCLED32D3000 at HINGURAKGODA: “90% - EOL and defective need to send to service center”"
@@ -15777,13 +15791,6 @@
       "time": "15:17:22",
       "iso": "2026-08-18T09:47:22.254Z",
       "action": "updated remark for GEO-242D-SV at BALANGODA C: “5%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:17:12",
-      "iso": "2026-08-18T09:47:12.698Z",
-      "action": "updated remark for GEO-182S-BU1 at BALANGODA C: “Flat 25%”"
     }
   ]
 }
