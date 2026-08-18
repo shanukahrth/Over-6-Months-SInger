@@ -10879,11 +10879,11 @@
       "lastUpdated": "2026-08-18T05:34:36.185Z"
     },
     "WP-WRN25LX||TRINCOMALEE": {
-      "remark": "WH return -",
+      "remark": "WH return - BM to send a mail to Ms. Noyali regarding this",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "11:16:25",
-      "lastUpdated": "2026-08-18T05:46:25.121Z"
+      "commentTime": "11:21:53",
+      "lastUpdated": "2026-08-18T05:51:53.457Z"
     },
     "GPO-PUSHB-WALL||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 2000",
@@ -11446,6 +11446,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:21:53",
+      "iso": "2026-08-18T05:51:53.458Z",
+      "action": "updated remark for WP-WRN25LX at TRINCOMALEE: “WH return - BM to send a mail to Ms. Noyali regarding this”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:21:07",
@@ -11786,13 +11793,6 @@
       "date": "2026-08-18",
       "time": "11:04:06",
       "iso": "2026-08-18T05:34:06.519Z",
-      "action": "updated remark for WF-LEEDS-CT-S at GALEWELA: “Damaged - 75%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:04:05",
-      "iso": "2026-08-18T05:34:05.026Z",
       "action": "updated remark for WF-LEEDS-CT-S at GALEWELA: “Damaged - 75%”"
     }
   ]
