@@ -13061,6 +13061,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:59:22",
       "lastUpdated": "2026-08-18T07:29:22.269Z"
+    },
+    "PN-NR-BG271SSLK||BALANGODA": {
+      "remark": "130000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:59:32",
+      "lastUpdated": "2026-08-18T07:29:32.596Z"
     }
   },
   "showroomVisits": {
@@ -13429,6 +13436,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:59:32",
+      "iso": "2026-08-18T07:29:32.601Z",
+      "action": "updated remark for PN-NR-BG271SSLK at BALANGODA: “130000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:59:22",
       "iso": "2026-08-18T07:29:22.274Z",
       "action": "updated remark for B-RDNI295XIB100P at BALANGODA: “135000”"
@@ -13768,13 +13782,6 @@
       "time": "12:42:50",
       "iso": "2026-08-18T07:12:50.511Z",
       "action": "updated remark for ZTE-A55-4-128GB-BLK at TRINCOMALEE B: “40% discount”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "12:42:47",
-      "iso": "2026-08-18T07:12:47.839Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRY at TRINCOMALEE B: “40% discount”"
     }
   ]
 }
