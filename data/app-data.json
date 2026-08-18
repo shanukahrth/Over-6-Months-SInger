@@ -11388,6 +11388,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:41:04",
       "lastUpdated": "2026-08-18T06:11:04.102Z"
+    },
+    "WFL-NOC-T011-BL-S||TRINCOMALEE": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:41:06",
+      "lastUpdated": "2026-08-18T06:11:06.901Z"
+    },
+    "LF-ORGN-BSC-WHT||TRINCOMALEE": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:41:09",
+      "lastUpdated": "2026-08-18T06:11:09.411Z"
     }
   },
   "showroomVisits": {
@@ -11756,6 +11770,20 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "11:41:09",
+      "iso": "2026-08-18T06:11:09.413Z",
+      "action": "updated remark for LF-ORGN-BSC-WHT at TRINCOMALEE: “50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:41:06",
+      "iso": "2026-08-18T06:11:06.902Z",
+      "action": "updated remark for WFL-NOC-T011-BL-S at TRINCOMALEE: “50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "11:41:04",
       "iso": "2026-08-18T06:11:04.103Z",
       "action": "updated remark for WFL-PILWFB-16X24-S at TRINCOMALEE: “50%”"
@@ -12088,20 +12116,6 @@
       "time": "11:28:35",
       "iso": "2026-08-18T05:58:35.430Z",
       "action": "updated remark for EPSON-B-L3110-MGN at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:28:31",
-      "iso": "2026-08-18T05:58:31.726Z",
-      "action": "updated remark for EPSON-B-L3110-CYN at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:28:29",
-      "iso": "2026-08-18T05:58:29.560Z",
-      "action": "updated remark for PFI-BHP-050-P at MAIN WAREHOUSE (cleared)"
     }
   ]
 }
