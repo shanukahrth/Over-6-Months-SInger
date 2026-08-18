@@ -14279,6 +14279,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:48:30",
       "lastUpdated": "2026-08-18T09:18:30.222Z"
+    },
+    "DPE-NUC-MINIPC-SSD120||BALANGODA C": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:49:09",
+      "lastUpdated": "2026-08-18T09:19:09.164Z"
     }
   },
   "showroomVisits": {
@@ -14645,6 +14652,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "14:49:09",
+      "iso": "2026-08-18T09:19:09.165Z",
+      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at BALANGODA C: “Showroom use”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "14:48:53",
@@ -14986,13 +15000,6 @@
       "time": "14:29:11",
       "iso": "2026-08-18T08:59:11.745Z",
       "action": "updated remark for ALU-FOR003WF002L at MAIN WAREHOUSE: “Special attention needed”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:29:05",
-      "iso": "2026-08-18T08:59:05.623Z",
-      "action": "updated remark for ALU-CL-5FT-S at MAIN WAREHOUSE: “Special attention needed”"
     }
   ]
 }
