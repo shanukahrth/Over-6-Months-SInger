@@ -12571,6 +12571,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:33:00",
       "lastUpdated": "2026-08-18T07:03:00.017Z"
+    },
+    "KA-TXG-DS11A||TRINCOMALEE B": {
+      "remark": "80% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:34:24",
+      "lastUpdated": "2026-08-18T07:04:24.583Z"
     }
   },
   "showroomVisits": {
@@ -12939,6 +12946,13 @@
     {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
+      "time": "12:34:24",
+      "iso": "2026-08-18T07:04:24.585Z",
+      "action": "updated remark for KA-TXG-DS11A at TRINCOMALEE B: “80% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
       "time": "12:33:00",
       "iso": "2026-08-18T07:03:00.020Z",
       "action": "updated remark for TF-SI-EXSP1231 at TRINCOMALEE B: “20% discount”"
@@ -13278,13 +13292,6 @@
       "time": "12:19:09",
       "iso": "2026-08-18T06:49:09.582Z",
       "action": "updated remark for UPU-ULTIMA418 at MELSIRIPURA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:18:27",
-      "iso": "2026-08-18T06:48:27.964Z",
-      "action": "updated remark for UPS-KSTAR-650V at MELSIRIPURA: “Damaged - 80%”"
     }
   ]
 }
