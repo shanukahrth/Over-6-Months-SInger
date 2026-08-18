@@ -9757,6 +9757,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:48:12",
       "lastUpdated": "2026-08-18T04:18:12.814Z"
+    },
+    "PN-NR-BG271SSLK||MAIN WAREHOUSE": {
+      "remark": "Nerd issue transfer to parts",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:51:07",
+      "lastUpdated": "2026-08-18T04:21:07.149Z"
+    },
+    "PN-NR-BG341SSLK||MAIN WAREHOUSE": {
+      "remark": "Nerd issue transfer to parts",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:51:16",
+      "lastUpdated": "2026-08-18T04:21:16.343Z"
     }
   },
   "showroomVisits": {
@@ -10082,6 +10096,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:51:16",
+      "iso": "2026-08-18T04:21:16.355Z",
+      "action": "updated remark for PN-NR-BG341SSLK at MAIN WAREHOUSE: “Nerd issue transfer to parts”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "09:51:07",
+      "iso": "2026-08-18T04:21:07.160Z",
+      "action": "updated remark for PN-NR-BG271SSLK at MAIN WAREHOUSE: “Nerd issue transfer to parts”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10417,20 +10445,6 @@
       "time": "09:32:22",
       "iso": "2026-08-18T04:02:22.074Z",
       "action": "updated remark for NCPO-FP250 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:32:14",
-      "iso": "2026-08-18T04:02:14.186Z",
-      "action": "updated remark for NCPO-FP250 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:32:08",
-      "iso": "2026-08-18T04:02:08.025Z",
-      "action": "updated remark for NCPO-FP200 at NAULA: “Damaged - 40%”"
     }
   ]
 }
