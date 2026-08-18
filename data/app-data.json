@@ -14230,6 +14230,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:45:38",
       "lastUpdated": "2026-08-18T09:15:38.362Z"
+    },
+    "SIN-MRG-1008C||MAHO": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:45:37",
+      "lastUpdated": "2026-08-18T09:15:37.468Z"
     }
   },
   "showroomVisits": {
@@ -14596,6 +14603,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "14:45:37",
+      "iso": "2026-08-18T09:15:37.469Z",
+      "action": "updated remark for SIN-MRG-1008C at MAHO: “Damaged - 60%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "14:45:38",
@@ -14937,13 +14951,6 @@
       "time": "14:17:30",
       "iso": "2026-08-18T08:47:30.413Z",
       "action": "updated remark for SLE32E920 at BALANGODA - B: “20000”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:17:37",
-      "iso": "2026-08-18T08:47:37.982Z",
-      "action": "updated remark for B-HIAG64223SXL at MAIN WAREHOUSE: “Carton dmgd”"
     }
   ]
 }
