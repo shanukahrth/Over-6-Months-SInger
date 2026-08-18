@@ -10569,6 +10569,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:53:55",
       "lastUpdated": "2026-08-18T05:23:55.384Z"
+    },
+    "PF-ENVISION-BL-S||GALEWELA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:54:07",
+      "lastUpdated": "2026-08-18T05:24:07.932Z"
     }
   },
   "showroomVisits": {
@@ -10935,6 +10942,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "10:54:07",
+      "iso": "2026-08-18T05:24:07.934Z",
+      "action": "updated remark for PF-ENVISION-BL-S at GALEWELA: “Damaged - 40%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "10:53:55",
@@ -11276,13 +11290,6 @@
       "time": "10:45:05",
       "iso": "2026-08-18T05:15:05.444Z",
       "action": "updated remark for SIN-RFC-1819 at PABAHINNA-LITE: “Additional 10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "10:44:49",
-      "iso": "2026-08-18T05:14:49.376Z",
-      "action": "updated remark for STT-2BGT at PABAHINNA-LITE: “Additional 10%”"
     }
   ]
 }
