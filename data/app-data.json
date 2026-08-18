@@ -15310,11 +15310,11 @@
       "lastUpdated": "2026-08-18T10:24:32.310Z"
     },
     "SL-ECO55-SV||HINGURAKGODA": {
-      "remark": "Gas leak - Service",
+      "remark": "Gas leak - need to fix the compressor",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:57:50",
-      "lastUpdated": "2026-08-18T10:27:50.999Z"
+      "commentTime": "16:01:27",
+      "lastUpdated": "2026-08-18T10:31:27.720Z"
     },
     "WFL-SWSTK-FT-WF-S||MAIN WAREHOUSE": {
       "remark": "Transfer to clearance sales",
@@ -15723,6 +15723,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "16:01:27",
+      "iso": "2026-08-18T10:31:27.721Z",
+      "action": "updated remark for SL-ECO55-SV at HINGURAKGODA: “Gas leak - need to fix the compressor”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "16:00:34",
@@ -16064,13 +16071,6 @@
       "time": "15:42:42",
       "iso": "2026-08-18T10:12:42.259Z",
       "action": "updated remark for QT-KB8KG at MAIN WAREHOUSE: “Discount to Rs. 1,000”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "15:42:04",
-      "iso": "2026-08-18T10:12:04.852Z",
-      "action": "updated remark for QT-MEDIBALL-8KG at MAIN WAREHOUSE: “Discount to Rs. 3,500”"
     }
   ]
 }
