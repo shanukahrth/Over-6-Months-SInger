@@ -13334,6 +13334,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:47:32",
       "lastUpdated": "2026-08-18T08:17:32.088Z"
+    },
+    "WFI-HELENA-TBL-S||BALANGODA - B": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:47:35",
+      "lastUpdated": "2026-08-18T08:17:35.647Z"
     }
   },
   "showroomVisits": {
@@ -13702,6 +13709,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:47:35",
+      "iso": "2026-08-18T08:17:35.651Z",
+      "action": "updated remark for WFI-HELENA-TBL-S at BALANGODA - B: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:47:32",
       "iso": "2026-08-18T08:17:32.093Z",
       "action": "updated remark for WFI-HELENA-CHR-S at BALANGODA - B: “50%”"
@@ -14041,13 +14055,6 @@
       "time": "13:00:54",
       "iso": "2026-08-18T07:30:54.507Z",
       "action": "updated remark for BES-CRS-51 at BALANGODA: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:00:33",
-      "iso": "2026-08-18T07:30:33.178Z",
-      "action": "updated remark for UPS-N650 at BALANGODA: “10000”"
     }
   ]
 }
