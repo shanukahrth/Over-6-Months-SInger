@@ -12347,6 +12347,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:21:49",
       "lastUpdated": "2026-08-18T06:51:49.536Z"
+    },
+    "WFI-ZENA||MELSIRIPURA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:22:02",
+      "lastUpdated": "2026-08-18T06:52:02.370Z"
     }
   },
   "showroomVisits": {
@@ -12713,6 +12720,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:22:02",
+      "iso": "2026-08-18T06:52:02.371Z",
+      "action": "updated remark for WFI-ZENA at MELSIRIPURA: “Damaged - 70%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "12:21:49",
@@ -13054,13 +13068,6 @@
       "time": "12:11:42",
       "iso": "2026-08-18T06:41:42.942Z",
       "action": "updated remark for SIN-AIRPKO1B at MELSIRIPURA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:11:41",
-      "iso": "2026-08-18T06:41:41.635Z",
-      "action": "updated remark for SIN-AIRPKO1B at MELSIRIPURA: “Damahed - 75%”"
     }
   ]
 }
