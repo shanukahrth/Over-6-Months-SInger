@@ -15072,11 +15072,11 @@
       "lastUpdated": "2026-08-18T10:08:22.640Z"
     },
     "SLE32E930||HINGURAKGODA": {
-      "remark": "70%, for penal damage units give 80%",
+      "remark": "80% Penal damage",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "15:40:01",
-      "lastUpdated": "2026-08-18T10:10:01.184Z"
+      "commentTime": "15:40:24",
+      "lastUpdated": "2026-08-18T10:10:24.598Z"
     },
     "IWH-2500WL||MAIN WAREHOUSE": {
       "remark": "Discount to Rs. 1,000",
@@ -15459,6 +15459,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "15:40:24",
+      "iso": "2026-08-18T10:10:24.600Z",
+      "action": "updated remark for SLE32E930 at HINGURAKGODA: “80% Penal damage”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "15:40:01",
       "iso": "2026-08-18T10:10:01.185Z",
       "action": "updated remark for SLE32E930 at HINGURAKGODA: “70%, for penal damage units give 80%”"
@@ -15798,13 +15805,6 @@
       "time": "15:21:02",
       "iso": "2026-08-18T09:51:02.932Z",
       "action": "updated remark for WB-F65 at BALANGODA C: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "15:20:40",
-      "iso": "2026-08-18T09:50:40.428Z",
-      "action": "updated remark for SLE55GENR at BALANGODA C: “Defect”"
     }
   ]
 }
