@@ -16617,6 +16617,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:51:30",
       "lastUpdated": "2026-08-18T12:21:30.936Z"
+    },
+    "K-OSPRINKLER||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 1,500",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:50:39",
+      "lastUpdated": "2026-08-18T12:20:39.001Z"
+    },
+    "K-RSPRINKLER||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 1,500",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:50:44",
+      "lastUpdated": "2026-08-18T12:20:44.785Z"
     }
   },
   "showroomVisits": {
@@ -16983,6 +16997,27 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "17:50:44",
+      "iso": "2026-08-18T12:20:44.787Z",
+      "action": "updated remark for K-RSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 1,500”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "17:50:40",
+      "iso": "2026-08-18T12:20:40.035Z",
+      "action": "updated remark for K-RSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 1,500”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "17:50:39",
+      "iso": "2026-08-18T12:20:39.003Z",
+      "action": "updated remark for K-OSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 1,500”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "17:51:30",
@@ -17310,27 +17345,6 @@
       "time": "17:37:43",
       "iso": "2026-08-18T12:07:43.121Z",
       "action": "updated remark for R-FGAP010 at NIVITHIGALA: “Rtn to WH”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "17:37:19",
-      "iso": "2026-08-18T12:07:19.358Z",
-      "action": "updated remark for SIN-RFC-2012 at WARIYAPOLA: “Damaged - 50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:37:20",
-      "iso": "2026-08-18T12:07:20.007Z",
-      "action": "updated remark for TF-CM-APR737 at NIVITHIGALA: “7500”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:37:12",
-      "iso": "2026-08-18T12:07:12.118Z",
-      "action": "updated remark for MX-FG370827 at NIVITHIGALA: “Flat 50%”"
     }
   ]
 }
