@@ -12550,6 +12550,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:32:22",
       "lastUpdated": "2026-08-18T07:02:22.895Z"
+    },
+    "PN-DH-3JL2WH||BALANGODA": {
+      "remark": "30000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:32:42",
+      "lastUpdated": "2026-08-18T07:02:42.942Z"
     }
   },
   "showroomVisits": {
@@ -12918,6 +12925,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:32:42",
+      "iso": "2026-08-18T07:02:42.946Z",
+      "action": "updated remark for PN-DH-3JL2WH at BALANGODA: “30000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:32:22",
       "iso": "2026-08-18T07:02:22.901Z",
       "action": "updated remark for SMGHTJ5550 at BALANGODA: “2500”"
@@ -13257,13 +13271,6 @@
       "time": "12:20:36",
       "iso": "2026-08-18T06:50:36.214Z",
       "action": "updated remark for FAN-P-1605H at MAIN WAREHOUSE: “Physically available carton damage”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:20:30",
-      "iso": "2026-08-18T06:50:30.032Z",
-      "action": "updated remark for DIALOG-HSPA at BALANGODA: “Physically not available/ RP-1000”"
     }
   ]
 }
