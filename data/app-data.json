@@ -11535,6 +11535,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:49:42",
       "lastUpdated": "2026-08-18T06:19:42.918Z"
+    },
+    "PN-CS-XU12XKYW-8||MAIN WAREHOUSE": {
+      "remark": "Indoor outdoor mismatch with EU series",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:50:04",
+      "lastUpdated": "2026-08-18T06:20:04.589Z"
+    },
+    "SAS-18V-INV||MAIN WAREHOUSE": {
+      "remark": "Transfer to a shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:50:44",
+      "lastUpdated": "2026-08-18T06:20:44.866Z"
     }
   },
   "showroomVisits": {
@@ -11901,6 +11915,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:50:44",
+      "iso": "2026-08-18T06:20:44.895Z",
+      "action": "updated remark for SAS-18V-INV at MAIN WAREHOUSE: “Transfer to a shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:50:04",
+      "iso": "2026-08-18T06:20:04.596Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at MAIN WAREHOUSE: “Indoor outdoor mismatch with EU series”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:50:22",
@@ -12235,20 +12263,6 @@
       "time": "11:35:04",
       "iso": "2026-08-18T06:05:04.249Z",
       "action": "updated remark for PN-SC-BMAX5E-K at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:34:35",
-      "iso": "2026-08-18T06:04:35.603Z",
-      "action": "updated remark for HT-AX7 at MAIN WAREHOUSE: “Transfer to shops”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:34:03",
-      "iso": "2026-08-18T06:04:03.885Z",
-      "action": "updated remark for CAN-TN-054-M at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
