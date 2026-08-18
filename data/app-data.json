@@ -10088,11 +10088,18 @@
       "lastUpdated": "2026-08-18T04:55:14.004Z"
     },
     "TCLED32D3000||TRINCOMALEE": {
-      "remark": "40%",
+      "remark": "50%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "10:26:28",
-      "lastUpdated": "2026-08-18T04:56:28.694Z"
+      "commentTime": "10:26:41",
+      "lastUpdated": "2026-08-18T04:56:41.325Z"
+    },
+    "TCLED32D65A||TRINCOMALEE": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:26:43",
+      "lastUpdated": "2026-08-18T04:56:43.251Z"
     }
   },
   "showroomVisits": {
@@ -10461,6 +10468,27 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:26:43",
+      "iso": "2026-08-18T04:56:43.252Z",
+      "action": "updated remark for TCLED32D65A at TRINCOMALEE: “50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "10:26:41",
+      "iso": "2026-08-18T04:56:41.327Z",
+      "action": "updated remark for TCLED32D3000 at TRINCOMALEE: “50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "10:26:31",
+      "iso": "2026-08-18T04:56:31.050Z",
+      "action": "updated remark for TCLED32D65A at TRINCOMALEE: “40%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:26:28",
       "iso": "2026-08-18T04:56:28.696Z",
       "action": "updated remark for TCLED32D3000 at TRINCOMALEE: “40%”"
@@ -10786,27 +10814,6 @@
       "time": "09:59:40",
       "iso": "2026-08-18T04:29:40.238Z",
       "action": "updated remark for SL-ECO192WR-TG at MAIN WAREHOUSE: “Transfer to Godagama”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:59:01",
-      "iso": "2026-08-18T04:29:01.703Z",
-      "action": "updated remark for SL-ECO192WR at MAIN WAREHOUSE: “Transfer to Godagama”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:58:08",
-      "iso": "2026-08-18T04:28:08.253Z",
-      "action": "updated remark for SMGRT42B553ESL at MAIN WAREHOUSE: “Arpico legal case pending”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "09:57:21",
-      "iso": "2026-08-18T04:27:21.463Z",
-      "action": "updated remark for SMGRT28A3021GS at MAIN WAREHOUSE: “Transfer to Godagama clearance Disc 40%”"
     }
   ]
 }
