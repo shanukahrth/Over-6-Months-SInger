@@ -11710,6 +11710,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:55:49",
       "lastUpdated": "2026-08-18T06:25:49.718Z"
+    },
+    "MID-MJ-KM6001W||TRINCOMALEE": {
+      "remark": "55%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:55:57",
+      "lastUpdated": "2026-08-18T06:25:57.586Z"
     }
   },
   "showroomVisits": {
@@ -12078,6 +12085,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "11:55:57",
+      "iso": "2026-08-18T06:25:57.588Z",
+      "action": "updated remark for MID-MJ-KM6001W at TRINCOMALEE: “55%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "11:55:49",
       "iso": "2026-08-18T06:25:49.720Z",
       "action": "updated remark for BC-KNP-AG at TRINCOMALEE: “30%”"
@@ -12417,13 +12431,6 @@
       "time": "11:43:22",
       "iso": "2026-08-18T06:13:22.550Z",
       "action": "updated remark for SD-64GB at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:43:19",
-      "iso": "2026-08-18T06:13:19.134Z",
-      "action": "updated remark for SD-8GB at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
