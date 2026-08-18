@@ -14622,6 +14622,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "15:02:08",
       "lastUpdated": "2026-08-18T09:32:08.664Z"
+    },
+    "SL-SC310R6-RL||MAIN WAREHOUSE": {
+      "remark": "Transfer to clearance sale",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "15:03:19",
+      "lastUpdated": "2026-08-18T09:33:19.176Z"
     }
   },
   "showroomVisits": {
@@ -14988,6 +14995,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "15:03:19",
+      "iso": "2026-08-18T09:33:19.189Z",
+      "action": "updated remark for SL-SC310R6-RL at MAIN WAREHOUSE: “Transfer to clearance sale”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "15:02:08",
@@ -15328,13 +15342,6 @@
       "date": "2026-08-18",
       "time": "14:54:20",
       "iso": "2026-08-18T09:24:20.597Z",
-      "action": "updated remark for WP-JUN-E-S at MAIN WAREHOUSE: “Packing damage”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:54:03",
-      "iso": "2026-08-18T09:24:03.583Z",
       "action": "updated remark for WP-JUN-E-S at MAIN WAREHOUSE: “Packing damage”"
     }
   ]
