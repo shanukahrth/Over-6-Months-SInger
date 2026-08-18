@@ -10135,6 +10135,14 @@
     "KINNIYA||DAMBULLA": {
       "visited": "Yes",
       "visitDate": "2026-08-17",
+      "team": "Chamal and Kaveesha ",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-18"
+    },
+    "MUTUR||DAMBULLA": {
+      "visited": "Yes",
+      "visitDate": "",
       "team": "",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
@@ -10142,6 +10150,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:55:37",
+      "iso": "2026-08-18T04:25:37.465Z",
+      "action": "updated MUTUR showroom (visited: Yes)"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "09:55:34",
+      "iso": "2026-08-18T04:25:34.960Z",
+      "action": "updated KINNIYA showroom (team: Chamal and Kaveesha )"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
@@ -10477,20 +10499,6 @@
       "time": "09:37:13",
       "iso": "2026-08-18T04:07:13.002Z",
       "action": "updated remark for WL-0848270300 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:10",
-      "iso": "2026-08-18T04:07:10.186Z",
-      "action": "updated remark for WL-0893764650 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:37:07",
-      "iso": "2026-08-18T04:07:07.874Z",
-      "action": "updated remark for X1R-OB at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
