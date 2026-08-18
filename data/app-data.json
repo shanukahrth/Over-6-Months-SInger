@@ -10849,6 +10849,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:03:28",
       "lastUpdated": "2026-08-18T05:33:28.619Z"
+    },
+    "ULED40D5000||MAIN WAREHOUSE": {
+      "remark": "Transfer to shops",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:04:22",
+      "lastUpdated": "2026-08-18T05:34:22.488Z"
     }
   },
   "showroomVisits": {
@@ -11217,6 +11224,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:04:22",
+      "iso": "2026-08-18T05:34:22.496Z",
+      "action": "updated remark for ULED40D5000 at MAIN WAREHOUSE: “Transfer to shops”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:04:01",
       "iso": "2026-08-18T05:34:01.715Z",
       "action": "updated remark for ULED32D4000 at MAIN WAREHOUSE: “Transfer to shops”"
@@ -11556,13 +11570,6 @@
       "time": "10:54:41",
       "iso": "2026-08-18T05:24:41.376Z",
       "action": "updated remark for R-BWS-02 at GALEWELA: “10%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:54:15",
-      "iso": "2026-08-18T05:24:15.953Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRY at TRINCOMALEE: “30% - displayed”"
     }
   ]
 }
