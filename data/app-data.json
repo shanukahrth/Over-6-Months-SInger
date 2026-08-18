@@ -11094,6 +11094,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:22:35",
       "lastUpdated": "2026-08-18T05:52:35.193Z"
+    },
+    "PN-TH-32P401N||TRINCOMALEE B": {
+      "remark": "no additional discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:23:03",
+      "lastUpdated": "2026-08-18T05:53:03.115Z"
     }
   },
   "showroomVisits": {
@@ -11460,6 +11467,20 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:23:03",
+      "iso": "2026-08-18T05:53:03.117Z",
+      "action": "updated remark for PN-TH-32P401N at TRINCOMALEE B: “no additional discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "11:23:00",
+      "iso": "2026-08-18T05:53:00.101Z",
+      "action": "updated remark for PN-TH-32P401N at TRINCOMALEE B: “no additional discount”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "11:22:35",
@@ -11794,20 +11815,6 @@
       "time": "11:05:01",
       "iso": "2026-08-18T05:35:01.123Z",
       "action": "updated remark for GPO-PUSHB-WALL at MAIN WAREHOUSE: “Discount to Rs. 2000”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:04:46",
-      "iso": "2026-08-18T05:34:46.155Z",
-      "action": "updated remark for GPO-PUSHB-WALL at MAIN WAREHOUSE: “Discount to Rs. 2000”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:04:43",
-      "iso": "2026-08-18T05:34:43.989Z",
-      "action": "updated remark for WP-WRN25LX at TRINCOMALEE: “Damaged - 90%”"
     }
   ]
 }
