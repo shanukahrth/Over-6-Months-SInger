@@ -9484,6 +9484,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:31:44",
       "lastUpdated": "2026-08-18T04:01:44.155Z"
+    },
+    "NCPO-FP200||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:32:08",
+      "lastUpdated": "2026-08-18T04:02:08.021Z"
     }
   },
   "showroomVisits": {
@@ -9809,6 +9816,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:32:08",
+      "iso": "2026-08-18T04:02:08.025Z",
+      "action": "updated remark for NCPO-FP200 at NAULA: “Damaged - 40%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10151,13 +10165,6 @@
       "time": "19:07:17",
       "iso": "2026-08-17T13:37:17.281Z",
       "action": "updated remark for PF-SIGNA-BL-S at MUTUR: “20% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:06:42",
-      "iso": "2026-08-17T13:36:42.626Z",
-      "action": "updated remark for QT-SITUP at MUTUR: “Damaged (Not sellable) - 90% BM will report it”"
     }
   ]
 }
