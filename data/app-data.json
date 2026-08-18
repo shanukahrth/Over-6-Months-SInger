@@ -14139,6 +14139,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:30:00",
       "lastUpdated": "2026-08-18T09:00:00.519Z"
+    },
+    "ALU-SIG002WF001R||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:30:07",
+      "lastUpdated": "2026-08-18T09:00:07.192Z"
     }
   },
   "showroomVisits": {
@@ -14507,6 +14514,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:30:07",
+      "iso": "2026-08-18T09:00:07.197Z",
+      "action": "updated remark for ALU-SIG002WF001R at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:30:02",
       "iso": "2026-08-18T09:00:02.322Z",
       "action": "updated remark for ALU-FOR003WF002R at MAIN WAREHOUSE: “Special attention needed”"
@@ -14846,13 +14860,6 @@
       "time": "14:14:02",
       "iso": "2026-08-18T08:44:02.498Z",
       "action": "updated remark for SLE40D600A at BALANGODA - B: “45000”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:13:55",
-      "iso": "2026-08-18T08:43:55.154Z",
-      "action": "updated remark for B-HII64200MT at MAIN WAREHOUSE: “Transfer to a branded clearance sale”"
     }
   ]
 }
