@@ -9717,11 +9717,11 @@
       "lastUpdated": "2026-08-18T04:12:40.678Z"
     },
     "RAVI-TMPB054RZS||MAIN WAREHOUSE": {
-      "remark": "Discount to rs. 200",
+      "remark": "Discount to Rs. 200",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "09:42:58",
-      "lastUpdated": "2026-08-18T04:12:58.729Z"
+      "commentTime": "09:45:49",
+      "lastUpdated": "2026-08-18T04:15:49.520Z"
     },
     "WP-NEO258NF||MAIN WAREHOUSE": {
       "remark": "Code difference physical and system count in out needed",
@@ -9729,6 +9729,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:44:22",
       "lastUpdated": "2026-08-18T04:14:22.687Z"
+    },
+    "RAVI-CPPB058RCP||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 200",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:45:43",
+      "lastUpdated": "2026-08-18T04:15:43.880Z"
     }
   },
   "showroomVisits": {
@@ -10054,6 +10061,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:45:49",
+      "iso": "2026-08-18T04:15:49.523Z",
+      "action": "updated remark for RAVI-TMPB054RZS at MAIN WAREHOUSE: “Discount to Rs. 200”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:45:43",
+      "iso": "2026-08-18T04:15:43.883Z",
+      "action": "updated remark for RAVI-CPPB058RCP at MAIN WAREHOUSE: “Discount to Rs. 200”"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-18",
@@ -10389,20 +10410,6 @@
       "time": "09:27:44",
       "iso": "2026-08-18T03:57:44.393Z",
       "action": "updated remark for CLOTHLINE-35PVC at NAULA: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:27:09",
-      "iso": "2026-08-18T03:57:09.788Z",
-      "action": "updated remark for BES-WP15-ECO at NAULA: “Damaged - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "09:26:47",
-      "iso": "2026-08-18T03:56:47.353Z",
-      "action": "updated remark for ACER-PJ-X1226AH at NAULA: “Damaged - 70%”"
     }
   ]
 }
