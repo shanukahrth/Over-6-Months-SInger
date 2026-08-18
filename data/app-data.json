@@ -13621,6 +13621,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:02:59",
       "lastUpdated": "2026-08-18T08:32:59.948Z"
+    },
+    "PCP30||BALANGODA - B": {
+      "remark": "4000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:03:05",
+      "lastUpdated": "2026-08-18T08:33:05.008Z"
     }
   },
   "showroomVisits": {
@@ -13989,6 +13996,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "14:03:05",
+      "iso": "2026-08-18T08:33:05.012Z",
+      "action": "updated remark for PCP30 at BALANGODA - B: “4000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "14:02:59",
       "iso": "2026-08-18T08:32:59.953Z",
       "action": "updated remark for PCP50 at BALANGODA - B: “5000”"
@@ -14328,13 +14342,6 @@
       "time": "13:47:35",
       "iso": "2026-08-18T08:17:35.651Z",
       "action": "updated remark for WFI-HELENA-TBL-S at BALANGODA - B: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:47:32",
-      "iso": "2026-08-18T08:17:32.093Z",
-      "action": "updated remark for WFI-HELENA-CHR-S at BALANGODA - B: “50%”"
     }
   ]
 }
