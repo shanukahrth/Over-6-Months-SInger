@@ -11822,6 +11822,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:00:38",
       "lastUpdated": "2026-08-18T06:30:38.079Z"
+    },
+    "H-RSQG018MFEOE||MAIN WAREHOUSE": {
+      "remark": "Indoor unit missing",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:01:15",
+      "lastUpdated": "2026-08-18T06:31:15.013Z"
     }
   },
   "showroomVisits": {
@@ -12188,6 +12195,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:01:15",
+      "iso": "2026-08-18T06:31:15.020Z",
+      "action": "updated remark for H-RSQG018MFEOE at MAIN WAREHOUSE: “Indoor unit missing”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-18",
       "time": "12:00:38",
@@ -12529,13 +12543,6 @@
       "time": "11:50:44",
       "iso": "2026-08-18T06:20:44.895Z",
       "action": "updated remark for SAS-18V-INV at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:50:04",
-      "iso": "2026-08-18T06:20:04.596Z",
-      "action": "updated remark for PN-CS-XU12XKYW-8 at MAIN WAREHOUSE: “Indoor outdoor mismatch with EU series”"
     }
   ]
 }
