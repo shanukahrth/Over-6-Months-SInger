@@ -11346,6 +11346,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:37:04",
       "lastUpdated": "2026-08-18T06:07:04.801Z"
+    },
+    "MDR-AS410AP||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:37:31",
+      "lastUpdated": "2026-08-18T06:07:31.626Z"
     }
   },
   "showroomVisits": {
@@ -11712,6 +11719,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "11:37:31",
+      "iso": "2026-08-18T06:07:31.629Z",
+      "action": "updated remark for MDR-AS410AP at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "11:37:04",
@@ -12053,13 +12067,6 @@
       "time": "11:27:08",
       "iso": "2026-08-18T05:57:08.999Z",
       "action": "updated remark for TF-SI-EXS1230 at TRINCOMALEE: “20%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:26:20",
-      "iso": "2026-08-18T05:56:20.398Z",
-      "action": "updated remark for SW-SD10410GRY at MAIN WAREHOUSE: “Transfer to a shop discounted price”"
     }
   ]
 }
