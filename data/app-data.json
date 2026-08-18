@@ -12265,11 +12265,11 @@
       "lastUpdated": "2026-08-18T06:49:45.284Z"
     },
     "DIALOG-HSPA||BALANGODA": {
-      "remark": "Physically not available",
+      "remark": "Physically not available/ RP-1000",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "12:19:45",
-      "lastUpdated": "2026-08-18T06:49:45.759Z"
+      "commentTime": "12:20:30",
+      "lastUpdated": "2026-08-18T06:50:30.027Z"
     }
   },
   "showroomVisits": {
@@ -12638,6 +12638,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:20:30",
+      "iso": "2026-08-18T06:50:30.032Z",
+      "action": "updated remark for DIALOG-HSPA at BALANGODA: “Physically not available/ RP-1000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:19:45",
       "iso": "2026-08-18T06:49:45.765Z",
       "action": "updated remark for DIALOG-HSPA at BALANGODA: “Physically not available”"
@@ -12977,13 +12984,6 @@
       "time": "12:08:00",
       "iso": "2026-08-18T06:38:00.434Z",
       "action": "updated remark for HU-CM70-L at MAIN WAREHOUSE: “Defective, scrap”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:09:53",
-      "iso": "2026-08-18T06:39:53.520Z",
-      "action": "updated remark for PCP50 at MELSIRIPURA: “Sold”"
     }
   ]
 }
