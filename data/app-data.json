@@ -16183,6 +16183,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:33:44",
       "lastUpdated": "2026-08-18T12:03:44.039Z"
+    },
+    "BES-CRS-51||WARIYAPOLA": {
+      "remark": "10%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:33:12",
+      "lastUpdated": "2026-08-18T12:03:12.752Z"
+    },
+    "FAN-P-SF1605HL||WARIYAPOLA": {
+      "remark": "Revert Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:33:30",
+      "lastUpdated": "2026-08-18T12:03:30.457Z"
     }
   },
   "showroomVisits": {
@@ -16549,6 +16563,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "17:33:30",
+      "iso": "2026-08-18T12:03:30.459Z",
+      "action": "updated remark for FAN-P-SF1605HL at WARIYAPOLA: “Revert Damaged - 80%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "17:33:12",
+      "iso": "2026-08-18T12:03:12.755Z",
+      "action": "updated remark for BES-CRS-51 at WARIYAPOLA: “10%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "17:33:44",
@@ -16883,20 +16911,6 @@
       "time": "17:21:47",
       "iso": "2026-08-18T11:51:47.584Z",
       "action": "updated remark for FAN-VIERA-TEAK at NIVITHIGALA: “35000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:21:02",
-      "iso": "2026-08-18T11:51:02.195Z",
-      "action": "updated remark for SDV3605K at NIVITHIGALA: “Rtn to WH. Physically not available”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:19:46",
-      "iso": "2026-08-18T11:49:46.432Z",
-      "action": "updated remark for SDV3605K at NIVITHIGALA: “Rtn to WH”"
     }
   ]
 }
