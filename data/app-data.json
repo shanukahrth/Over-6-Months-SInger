@@ -15877,11 +15877,11 @@
       "lastUpdated": "2026-08-18T11:48:56.143Z"
     },
     "SDV3605K||NIVITHIGALA": {
-      "remark": "Rtn to WH",
+      "remark": "Rtn to WH. Physically not available",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-18",
-      "commentTime": "17:19:46",
-      "lastUpdated": "2026-08-18T11:49:46.420Z"
+      "commentTime": "17:21:02",
+      "lastUpdated": "2026-08-18T11:51:02.188Z"
     }
   },
   "showroomVisits": {
@@ -16250,6 +16250,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "17:21:02",
+      "iso": "2026-08-18T11:51:02.195Z",
+      "action": "updated remark for SDV3605K at NIVITHIGALA: “Rtn to WH. Physically not available”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "17:19:46",
       "iso": "2026-08-18T11:49:46.432Z",
       "action": "updated remark for SDV3605K at NIVITHIGALA: “Rtn to WH”"
@@ -16589,13 +16596,6 @@
       "time": "16:23:40",
       "iso": "2026-08-18T10:53:40.053Z",
       "action": "updated remark for PN-SC-UX100GS-K at HINGURAKGODA: “Transfer”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "16:23:10",
-      "iso": "2026-08-18T10:53:10.935Z",
-      "action": "updated remark for SEBS-9069 at NIKAWERATIYA: “Display - 10%”"
     }
   ]
 }
