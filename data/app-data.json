@@ -14167,6 +14167,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:38:34",
       "lastUpdated": "2026-08-18T09:08:34.078Z"
+    },
+    "B-HIAG64223SXL||MAHO": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:39:33",
+      "lastUpdated": "2026-08-18T09:09:33.872Z"
     }
   },
   "showroomVisits": {
@@ -14535,6 +14542,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "14:39:33",
+      "iso": "2026-08-18T09:09:33.874Z",
+      "action": "updated remark for B-HIAG64223SXL at MAHO: “Damaged - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "14:38:34",
       "iso": "2026-08-18T09:08:34.078Z",
       "action": "updated remark for NUBIA-V70MAX-4-128GB-GRN at MAHO: “Damaged - 40%”"
@@ -14874,13 +14888,6 @@
       "time": "14:15:01",
       "iso": "2026-08-18T08:45:01.327Z",
       "action": "updated remark for B-CFB9433X at MAIN WAREHOUSE: “Unable to send to field oxide”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "14:14:45",
-      "iso": "2026-08-18T08:44:45.948Z",
-      "action": "updated remark for B-CFB9433XH at MAIN WAREHOUSE: “Unable to send to field oxide”"
     }
   ]
 }
