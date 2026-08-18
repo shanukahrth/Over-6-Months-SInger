@@ -14090,6 +14090,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "14:29:44",
       "lastUpdated": "2026-08-18T08:59:44.231Z"
+    },
+    "ALU-FOR001WF003R||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:47",
+      "lastUpdated": "2026-08-18T08:59:47.117Z"
+    },
+    "ALU-FOR003WF001L||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:49",
+      "lastUpdated": "2026-08-18T08:59:49.303Z"
+    },
+    "ALU-FOR003WF002R||MAIN WAREHOUSE": {
+      "remark": "Special attention needed",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "14:29:50",
+      "lastUpdated": "2026-08-18T08:59:50.794Z"
     }
   },
   "showroomVisits": {
@@ -14458,6 +14479,27 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "14:29:50",
+      "iso": "2026-08-18T08:59:50.799Z",
+      "action": "updated remark for ALU-FOR003WF002R at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:49",
+      "iso": "2026-08-18T08:59:49.311Z",
+      "action": "updated remark for ALU-FOR003WF001L at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "14:29:47",
+      "iso": "2026-08-18T08:59:47.128Z",
+      "action": "updated remark for ALU-FOR001WF003R at MAIN WAREHOUSE: “Special attention needed”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "14:29:44",
       "iso": "2026-08-18T08:59:44.237Z",
       "action": "updated remark for ALU-FOR001WF002R at MAIN WAREHOUSE: “Special attention needed”"
@@ -14783,27 +14825,6 @@
       "time": "14:12:21",
       "iso": "2026-08-18T08:42:21.083Z",
       "action": "updated remark for DH-A-B1A51P-6B at BALANGODA - B: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:12:05",
-      "iso": "2026-08-18T08:42:05.555Z",
-      "action": "updated remark for BES-CRS-80 at BALANGODA - B: “15%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:11:59",
-      "iso": "2026-08-18T08:41:59.432Z",
-      "action": "updated remark for BES-CRS-51 at BALANGODA - B: “15%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "14:11:46",
-      "iso": "2026-08-18T08:41:46.457Z",
-      "action": "updated remark for ENG-UE10054 at BALANGODA - B: “Rtn”"
     }
   ]
 }
