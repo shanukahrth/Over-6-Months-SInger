@@ -13327,6 +13327,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:47:12",
       "lastUpdated": "2026-08-18T08:17:12.905Z"
+    },
+    "WFI-HELENA-CHR-S||BALANGODA - B": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:47:32",
+      "lastUpdated": "2026-08-18T08:17:32.088Z"
     }
   },
   "showroomVisits": {
@@ -13695,6 +13702,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "13:47:32",
+      "iso": "2026-08-18T08:17:32.093Z",
+      "action": "updated remark for WFI-HELENA-CHR-S at BALANGODA - B: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "13:47:12",
       "iso": "2026-08-18T08:17:12.910Z",
       "action": "updated remark for WFL-PLWKP-16X24 at BALANGODA - B: “60%”"
@@ -14034,13 +14048,6 @@
       "time": "13:00:33",
       "iso": "2026-08-18T07:30:33.178Z",
       "action": "updated remark for UPS-N650 at BALANGODA: “10000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:00:15",
-      "iso": "2026-08-18T07:30:15.638Z",
-      "action": "updated remark for AES-HAV-30S at BALANGODA: “Damaged”"
     }
   ]
 }
