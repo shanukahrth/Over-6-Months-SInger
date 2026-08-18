@@ -9946,6 +9946,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:14:36",
       "lastUpdated": "2026-08-18T04:44:36.264Z"
+    },
+    "SLE32D1800||TRINCOMALEE": {
+      "remark": "Reverts",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:14:55",
+      "lastUpdated": "2026-08-18T04:44:55.691Z"
     }
   },
   "showroomVisits": {
@@ -10314,6 +10321,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:14:55",
+      "iso": "2026-08-18T04:44:55.692Z",
+      "action": "updated remark for SLE32D1800 at TRINCOMALEE: “Reverts”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:14:36",
       "iso": "2026-08-18T04:44:36.265Z",
       "action": "updated remark for PN-TH-32P401N at TRINCOMALEE: “40%”"
@@ -10653,13 +10667,6 @@
       "time": "09:51:11",
       "iso": "2026-08-18T04:21:11.251Z",
       "action": "updated remark for KV-FPAU13A at MAIN WAREHOUSE: “Discount to Rs. 1000”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "09:51:05",
-      "iso": "2026-08-18T04:21:05.568Z",
-      "action": "updated remark for KV-FPA-13A at MAIN WAREHOUSE: “Discount to Rs. 200”"
     }
   ]
 }
