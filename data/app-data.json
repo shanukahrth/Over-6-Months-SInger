@@ -11024,6 +11024,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:16:06",
       "lastUpdated": "2026-08-18T05:46:06.503Z"
+    },
+    "KD-50X75K||MAIN WAREHOUSE": {
+      "remark": "Transfer to shop",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:16:37",
+      "lastUpdated": "2026-08-18T05:46:37.039Z"
     }
   },
   "showroomVisits": {
@@ -11392,6 +11399,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:16:37",
+      "iso": "2026-08-18T05:46:37.045Z",
+      "action": "updated remark for KD-50X75K at MAIN WAREHOUSE: “Transfer to shop”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:16:06",
       "iso": "2026-08-18T05:46:06.511Z",
       "action": "updated remark for KD-43X75K at MAIN WAREHOUSE: “Arpico”"
@@ -11731,13 +11745,6 @@
       "time": "11:02:05",
       "iso": "2026-08-18T05:32:05.732Z",
       "action": "updated remark for ULED32D60A at GALEWELA: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "11:01:36",
-      "iso": "2026-08-18T05:31:36.081Z",
-      "action": "updated remark for TF-SP16-063 at GALEWELA: “Damaged - 50%”"
     }
   ]
 }
