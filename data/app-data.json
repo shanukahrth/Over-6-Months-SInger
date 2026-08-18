@@ -16773,11 +16773,11 @@
       "lastUpdated": "2026-08-18T13:16:35.508Z"
     },
     "LOG-WMOUSE||MAIN WAREHOUSE": {
-      "remark": "Discount to Rs. 250",
+      "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "18:48:57",
-      "lastUpdated": "2026-08-18T13:18:57.792Z"
+      "commentTime": "18:49:34",
+      "lastUpdated": "2026-08-18T13:19:34.564Z"
     }
   },
   "showroomVisits": {
@@ -17146,6 +17146,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "18:49:34",
+      "iso": "2026-08-18T13:19:34.564Z",
+      "action": "updated remark for LOG-WMOUSE at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "18:48:57",
       "iso": "2026-08-18T13:18:57.792Z",
       "action": "updated remark for LOG-WMOUSE at MAIN WAREHOUSE: “Discount to Rs. 250”"
@@ -17485,13 +17492,6 @@
       "time": "17:50:18",
       "iso": "2026-08-18T12:20:18.418Z",
       "action": "updated remark for HG-122 at NIVITHIGALA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:49:56",
-      "iso": "2026-08-18T12:19:56.022Z",
-      "action": "updated remark for HG-SILVER-TW at NIVITHIGALA: “80%”"
     }
   ]
 }
