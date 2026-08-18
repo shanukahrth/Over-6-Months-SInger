@@ -12886,6 +12886,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:48:45",
       "lastUpdated": "2026-08-18T07:18:45.973Z"
+    },
+    "RIYLTA-MF12V25||BALANGODA": {
+      "remark": "Rtn",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:50:15",
+      "lastUpdated": "2026-08-18T07:20:15.523Z"
     }
   },
   "showroomVisits": {
@@ -13254,6 +13261,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "12:50:15",
+      "iso": "2026-08-18T07:20:15.528Z",
+      "action": "updated remark for RIYLTA-MF12V25 at BALANGODA: “Rtn”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "12:48:45",
       "iso": "2026-08-18T07:18:45.977Z",
       "action": "updated remark for SL-TF2GCR at BALANGODA: “3000”"
@@ -13593,13 +13607,6 @@
       "time": "12:35:35",
       "iso": "2026-08-18T07:05:35.731Z",
       "action": "updated remark for TF-SI-ESS-242 at BALANGODA: “5000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:34:58",
-      "iso": "2026-08-18T07:04:58.432Z",
-      "action": "updated remark for SIN-MRG-1008C at BALANGODA: “Sellable”"
     }
   ]
 }
