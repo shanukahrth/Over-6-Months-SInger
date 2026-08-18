@@ -11871,6 +11871,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:02:29",
       "lastUpdated": "2026-08-18T06:32:29.069Z"
+    },
+    "FAN-P-1605H||MELSIRIPURA": {
+      "remark": "Revert - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:03:09",
+      "lastUpdated": "2026-08-18T06:33:09.106Z"
     }
   },
   "showroomVisits": {
@@ -12239,6 +12246,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-18",
+      "time": "12:03:09",
+      "iso": "2026-08-18T06:33:09.108Z",
+      "action": "updated remark for FAN-P-1605H at MELSIRIPURA: “Revert - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
       "time": "12:02:29",
       "iso": "2026-08-18T06:32:29.071Z",
       "action": "updated remark for DH-XVR1B08-I-V2 at MELSIRIPURA: “Damaged - 80%”"
@@ -12578,13 +12592,6 @@
       "time": "11:51:46",
       "iso": "2026-08-18T06:21:46.369Z",
       "action": "updated remark for PN-SC-BMAX5E-K at TRINCOMALEE: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "11:51:42",
-      "iso": "2026-08-18T06:21:42.206Z",
-      "action": "updated remark for PN-MIC-W-107 at TRINCOMALEE: “70%”"
     }
   ]
 }
