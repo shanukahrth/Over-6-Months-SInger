@@ -9673,6 +9673,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:37:46",
       "lastUpdated": "2026-08-18T04:07:46.800Z"
+    },
+    "RAVI-CPERL9||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 800",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:38:39",
+      "lastUpdated": "2026-08-18T04:08:39.338Z"
     }
   },
   "showroomVisits": {
@@ -9998,6 +10005,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:38:39",
+      "iso": "2026-08-18T04:08:39.340Z",
+      "action": "updated remark for RAVI-CPERL9 at MAIN WAREHOUSE: “Discount to Rs. 800”"
+    },
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
@@ -10340,13 +10354,6 @@
       "time": "19:30:29",
       "iso": "2026-08-17T14:00:29.732Z",
       "action": "updated remark for 123453213 at MUTUR: “50% - EOL”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:30:01",
-      "iso": "2026-08-17T14:00:01.793Z",
-      "action": "updated remark for B-RDNI295XIB100P at MUTUR: “60% - Small dent on the door”"
     }
   ]
 }
