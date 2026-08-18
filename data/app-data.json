@@ -10184,6 +10184,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:42:15",
       "lastUpdated": "2026-08-18T05:12:15.018Z"
+    },
+    "HFPA-MUSICBOX-BLC||PABAHINNA-LITE": {
+      "remark": "30000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:42:21",
+      "lastUpdated": "2026-08-18T05:12:21.850Z"
     }
   },
   "showroomVisits": {
@@ -10552,6 +10559,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-18",
+      "time": "10:42:21",
+      "iso": "2026-08-18T05:12:21.857Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at PABAHINNA-LITE: “30000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
       "time": "10:42:15",
       "iso": "2026-08-18T05:12:15.034Z",
       "action": "updated remark for HFPA-EVENT-BLC at PABAHINNA-LITE: “20000”"
@@ -10891,13 +10905,6 @@
       "time": "10:15:43",
       "iso": "2026-08-18T04:45:43.278Z",
       "action": "updated remark for SLE32D2010TC at TRINCOMALEE: “Revert - 70%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "10:15:38",
-      "iso": "2026-08-18T04:45:38.777Z",
-      "action": "updated remark for SLE32D1800 at TRINCOMALEE: “Reverts - 70%”"
     }
   ]
 }
