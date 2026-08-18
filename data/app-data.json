@@ -11369,11 +11369,11 @@
       "lastUpdated": "2026-08-18T06:08:54.773Z"
     },
     "LFLCDCHAMP-S||TRINCOMALEE": {
-      "remark": "50% - Damaged",
+      "remark": "50%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "11:39:16",
-      "lastUpdated": "2026-08-18T06:09:16.759Z"
+      "commentTime": "11:39:24",
+      "lastUpdated": "2026-08-18T06:09:24.363Z"
     }
   },
   "showroomVisits": {
@@ -11742,6 +11742,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "11:39:24",
+      "iso": "2026-08-18T06:09:24.365Z",
+      "action": "updated remark for LFLCDCHAMP-S at TRINCOMALEE: “50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "11:39:16",
       "iso": "2026-08-18T06:09:16.762Z",
       "action": "updated remark for LFLCDCHAMP-S at TRINCOMALEE: “50% - Damaged”"
@@ -12081,13 +12088,6 @@
       "time": "11:27:46",
       "iso": "2026-08-18T05:57:46.262Z",
       "action": "updated remark for PFI-BHP-050-P at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:27:15",
-      "iso": "2026-08-18T05:57:15.487Z",
-      "action": "updated remark for TFBW1298214 at MAIN WAREHOUSE: “Discount to Rs. 500”"
     }
   ]
 }
