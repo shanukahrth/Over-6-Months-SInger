@@ -15721,6 +15721,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "17:04:37",
       "lastUpdated": "2026-08-18T11:34:37.172Z"
+    },
+    "NOR-MUG-6GL||MAIN WAREHOUSE": {
+      "remark": "Discount to Rs. 800",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "17:06:18",
+      "lastUpdated": "2026-08-18T11:36:18.169Z"
     }
   },
   "showroomVisits": {
@@ -16089,6 +16096,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "17:06:18",
+      "iso": "2026-08-18T11:36:18.171Z",
+      "action": "updated remark for NOR-MUG-6GL at MAIN WAREHOUSE: “Discount to Rs. 800”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "17:04:37",
       "iso": "2026-08-18T11:34:37.173Z",
       "action": "updated remark for EDU-ADAPTER at MAIN WAREHOUSE: “Scrap”"
@@ -16428,13 +16442,6 @@
       "time": "16:17:14",
       "iso": "2026-08-18T10:47:14.308Z",
       "action": "updated remark for SD-16GB at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "16:17:23",
-      "iso": "2026-08-18T10:47:23.908Z",
-      "action": "updated remark for ULED32D4000 at HINGURAKGODA: “70% EOL”"
     }
   ]
 }
