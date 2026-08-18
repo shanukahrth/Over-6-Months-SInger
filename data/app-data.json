@@ -9610,6 +9610,34 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:37:10",
       "lastUpdated": "2026-08-18T04:07:10.183Z"
+    },
+    "WL-0848270300||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:12",
+      "lastUpdated": "2026-08-18T04:07:12.999Z"
+    },
+    "WL-0893025310||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:15",
+      "lastUpdated": "2026-08-18T04:07:15.382Z"
+    },
+    "X1R-FSC||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:17",
+      "lastUpdated": "2026-08-18T04:07:17.766Z"
+    },
+    "X1R-DT||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:37:25",
+      "lastUpdated": "2026-08-18T04:07:25.250Z"
     }
   },
   "showroomVisits": {
@@ -9938,6 +9966,34 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "09:37:25",
+      "iso": "2026-08-18T04:07:25.252Z",
+      "action": "updated remark for X1R-DT at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:37:17",
+      "iso": "2026-08-18T04:07:17.768Z",
+      "action": "updated remark for X1R-FSC at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:37:15",
+      "iso": "2026-08-18T04:07:15.386Z",
+      "action": "updated remark for WL-0893025310 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "09:37:13",
+      "iso": "2026-08-18T04:07:13.002Z",
+      "action": "updated remark for WL-0848270300 at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "09:37:10",
       "iso": "2026-08-18T04:07:10.186Z",
       "action": "updated remark for WL-0893764650 at MAIN WAREHOUSE: “Scrap”"
@@ -10256,34 +10312,6 @@
       "time": "19:26:25",
       "iso": "2026-08-17T13:56:25.751Z",
       "action": "updated remark for BTS-10KG at MUTUR: “40% - liscence”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:25:55",
-      "iso": "2026-08-17T13:55:55.363Z",
-      "action": "updated remark for FAN-P-1605H at MUTUR: “60% - Displayed”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:25:00",
-      "iso": "2026-08-17T13:55:00.724Z",
-      "action": "updated remark for FT-FRH-50001 at MUTUR: “70% - EOL model”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:23:28",
-      "iso": "2026-08-17T13:53:28.889Z",
-      "action": "updated remark for GEO-182S-BU1 at MUTUR: “35% - Display”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:23:16",
-      "iso": "2026-08-17T13:53:16.964Z",
-      "action": "updated remark for GEO-182S-SV at MUTUR: “25%”"
     }
   ]
 }
