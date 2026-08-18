@@ -10032,11 +10032,11 @@
       "lastUpdated": "2026-08-18T04:51:49.137Z"
     },
     "SLE43G890||TRINCOMALEE": {
-      "remark": "Can sell for current discount",
+      "remark": "Revert - 50%",
       "commentedBy": "Kaveesha De Silva",
       "commentDate": "2026-08-18",
-      "commentTime": "10:22:27",
-      "lastUpdated": "2026-08-18T04:52:27.994Z"
+      "commentTime": "10:22:37",
+      "lastUpdated": "2026-08-18T04:52:37.479Z"
     }
   },
   "showroomVisits": {
@@ -10405,6 +10405,13 @@
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
+      "time": "10:22:37",
+      "iso": "2026-08-18T04:52:37.481Z",
+      "action": "updated remark for SLE43G890 at TRINCOMALEE: “Revert - 50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
       "time": "10:22:27",
       "iso": "2026-08-18T04:52:27.997Z",
       "action": "updated remark for SLE43G890 at TRINCOMALEE: “Can sell for current discount”"
@@ -10744,13 +10751,6 @@
       "time": "09:55:53",
       "iso": "2026-08-18T04:25:53.340Z",
       "action": "updated remark for KV-FPA-5A at MAIN WAREHOUSE: “Discount to Rs. 250”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-18",
-      "time": "09:56:02",
-      "iso": "2026-08-18T04:26:02.026Z",
-      "action": "updated MUTUR showroom (team: Chamal and Kaveesha )"
     }
   ]
 }
