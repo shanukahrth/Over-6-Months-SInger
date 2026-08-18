@@ -11306,11 +11306,11 @@
       "lastUpdated": "2026-08-18T06:04:35.567Z"
     },
     "PN-SC-BMAX5E-K||MAIN WAREHOUSE": {
-      "remark": "Transfer to shops",
+      "remark": "Available",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-18",
-      "commentTime": "11:35:04",
-      "lastUpdated": "2026-08-18T06:05:04.242Z"
+      "commentTime": "12:11:56",
+      "lastUpdated": "2026-08-18T06:41:56.105Z"
     },
     "LF-BUDGET-ST-CLM-S||TRINCOMALEE": {
       "remark": "50%",
@@ -12018,6 +12018,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:11:22",
       "lastUpdated": "2026-08-18T06:41:22.995Z"
+    },
+    "SRS-XV800||MAIN WAREHOUSE": {
+      "remark": "Available",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:07:07",
+      "lastUpdated": "2026-08-18T06:37:07.828Z"
+    },
+    "SIN-PSVX938||MAIN WAREHOUSE": {
+      "remark": "Transferred to normal location",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:08:34",
+      "lastUpdated": "2026-08-18T06:38:34.616Z"
+    },
+    "PN-SC-BMAX10E-K||MAIN WAREHOUSE": {
+      "remark": "Physically available carton damage",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:09:58",
+      "lastUpdated": "2026-08-18T06:39:58.239Z"
     }
   },
   "showroomVisits": {
@@ -12384,6 +12405,34 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:11:56",
+      "iso": "2026-08-18T06:41:56.112Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at MAIN WAREHOUSE: “Available”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:09:58",
+      "iso": "2026-08-18T06:39:58.254Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at MAIN WAREHOUSE: “Physically available carton damage”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:08:34",
+      "iso": "2026-08-18T06:38:34.653Z",
+      "action": "updated remark for SIN-PSVX938 at MAIN WAREHOUSE: “Transferred to normal location”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "12:07:07",
+      "iso": "2026-08-18T06:37:07.855Z",
+      "action": "updated remark for SRS-XV800 at MAIN WAREHOUSE: “Available”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "12:11:22",
@@ -12704,34 +12753,6 @@
       "time": "11:58:56",
       "iso": "2026-08-18T06:28:56.186Z",
       "action": "updated remark for H-RMRG024HFEOE at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "11:58:23",
-      "iso": "2026-08-18T06:28:23.321Z",
-      "action": "updated remark for SMGAR50F19D1J at MAIN WAREHOUSE: “Transfer to a shop”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "11:57:50",
-      "iso": "2026-08-18T06:27:50.413Z",
-      "action": "updated remark for DELL3520-I5-8GB512-SIL at MELSIRIPURA: “Revert Damaged - 60%”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:57:32",
-      "iso": "2026-08-18T06:27:32.883Z",
-      "action": "updated remark for DELLC-VOS3420-I5DOS at TRINCOMALEE B: “75% discount as revert long ago”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "11:57:18",
-      "iso": "2026-08-18T06:27:18.054Z",
-      "action": "updated remark for AS-K-12G-I5-512-225-BLK at MELSIRIPURA: “Damaged - 40%”"
     }
   ]
 }
