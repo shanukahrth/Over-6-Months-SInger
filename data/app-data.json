@@ -11248,6 +11248,27 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:31:05",
       "lastUpdated": "2026-08-18T06:01:05.489Z"
+    },
+    "SIS277CU||TRINCOMALEE": {
+      "remark": "50% - no carton, damaged cap is not there",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:29:41",
+      "lastUpdated": "2026-08-18T05:59:41.469Z"
+    },
+    "PN-NI-S530ASD||TRINCOMALEE": {
+      "remark": "Revert - 35%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:29:50",
+      "lastUpdated": "2026-08-18T05:59:50.239Z"
+    },
+    "LF-LEO-12023-BCH||TRINCOMALEE": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha De Silva",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:31:43",
+      "lastUpdated": "2026-08-18T06:01:43.083Z"
     }
   },
   "showroomVisits": {
@@ -11614,6 +11635,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:31:43",
+      "iso": "2026-08-18T06:01:43.086Z",
+      "action": "updated remark for LF-LEO-12023-BCH at TRINCOMALEE: “50%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:29:50",
+      "iso": "2026-08-18T05:59:50.240Z",
+      "action": "updated remark for PN-NI-S530ASD at TRINCOMALEE: “Revert - 35%”"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-18",
+      "time": "11:29:41",
+      "iso": "2026-08-18T05:59:41.472Z",
+      "action": "updated remark for SIS277CU at TRINCOMALEE: “50% - no carton, damaged cap is not there”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "11:31:05",
@@ -11941,27 +11983,6 @@
       "time": "11:19:36",
       "iso": "2026-08-18T05:49:36.921Z",
       "action": "updated remark for DH-A-HFW1500TLP-36B at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:19:12",
-      "iso": "2026-08-18T05:49:12.508Z",
-      "action": "updated remark for SLE55GENR at TRINCOMALEE B: “90% discount for damage unit & no discount for other unit”"
-    },
-    {
-      "user": "Chamal Gunawardena",
-      "date": "2026-08-18",
-      "time": "11:18:38",
-      "iso": "2026-08-18T05:48:38.145Z",
-      "action": "updated remark for SLE55GENR at TRINCOMALEE B: “90% - panel is damaged”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:18:18",
-      "iso": "2026-08-18T05:48:18.043Z",
-      "action": "updated remark for CAN-C-745-B at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
