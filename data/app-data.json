@@ -12613,6 +12613,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:36:53",
       "lastUpdated": "2026-08-18T07:06:53.550Z"
+    },
+    "RCS-04||BALANGODA": {
+      "remark": "1000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:36:35",
+      "lastUpdated": "2026-08-18T07:06:35.308Z"
+    },
+    "NCPO-FP280||BALANGODA": {
+      "remark": "4000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:37:04",
+      "lastUpdated": "2026-08-18T07:07:04.594Z"
     }
   },
   "showroomVisits": {
@@ -12979,6 +12993,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:37:04",
+      "iso": "2026-08-18T07:07:04.599Z",
+      "action": "updated remark for NCPO-FP280 at BALANGODA: “4000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-18",
+      "time": "12:36:35",
+      "iso": "2026-08-18T07:06:35.313Z",
+      "action": "updated remark for RCS-04 at BALANGODA: “1000”"
+    },
+    {
       "user": "Chamal Gunawardena",
       "date": "2026-08-18",
       "time": "12:36:53",
@@ -13313,20 +13341,6 @@
       "time": "12:21:49",
       "iso": "2026-08-18T06:51:49.538Z",
       "action": "updated remark for SIN-5000 at MAIN WAREHOUSE: “Defective, scrap”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:21:30",
-      "iso": "2026-08-18T06:51:30.603Z",
-      "action": "updated remark for WFI-DELPHI-TBL-S at MELSIRIPURA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-18",
-      "time": "12:21:22",
-      "iso": "2026-08-18T06:51:22.959Z",
-      "action": "updated remark for WFI-DELPHI-CHR-S at MELSIRIPURA: “Damaged - 50%”"
     }
   ]
 }
