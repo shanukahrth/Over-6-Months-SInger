@@ -10114,6 +10114,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "10:29:53",
       "lastUpdated": "2026-08-18T04:59:53.943Z"
+    },
+    "SASMCD60CRN||MAIN WAREHOUSE": {
+      "remark": "Transfer to budget shop offer 80%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:30:40",
+      "lastUpdated": "2026-08-18T05:00:40.044Z"
+    },
+    "M-FDF100VSVD||MAIN WAREHOUSE": {
+      "remark": "Part issue - cannot sell",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "10:30:10",
+      "lastUpdated": "2026-08-18T05:00:10.967Z"
     }
   },
   "showroomVisits": {
@@ -10480,6 +10494,27 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:30:40",
+      "iso": "2026-08-18T05:00:40.052Z",
+      "action": "updated remark for SASMCD60CRN at MAIN WAREHOUSE: “Transfer to budget shop offer 80%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:30:10",
+      "iso": "2026-08-18T05:00:10.987Z",
+      "action": "updated remark for M-FDF100VSVD at MAIN WAREHOUSE: “Part issue - cannot sell”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
+      "time": "10:26:47",
+      "iso": "2026-08-18T04:56:47.921Z",
+      "action": "updated remark for SASMCD60CRN at MAIN WAREHOUSE: “Transfer to budget shop”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-18",
       "time": "10:29:53",
@@ -10807,27 +10842,6 @@
       "time": "10:02:13",
       "iso": "2026-08-18T04:32:13.187Z",
       "action": "updated remark for H-R-WXC740KSXK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:01:51",
-      "iso": "2026-08-18T04:31:51.935Z",
-      "action": "updated remark for H-R-WXC740KSXK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:01:49",
-      "iso": "2026-08-18T04:31:49.487Z",
-      "action": "updated remark for PN-NR-BK468BQKX at MAIN WAREHOUSE: “Transfer to Godagama shop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:01:26",
-      "iso": "2026-08-18T04:31:26.578Z",
-      "action": "updated remark for PN-NR-BG342DALK at MAIN WAREHOUSE: “Transfer to Godagama shop”"
     }
   ]
 }
