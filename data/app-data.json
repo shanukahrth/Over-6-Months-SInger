@@ -12760,6 +12760,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:43:56",
       "lastUpdated": "2026-08-18T07:13:56.267Z"
+    },
+    "DVP-SR370||TRINCOMALEE B": {
+      "remark": "90% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:44:33",
+      "lastUpdated": "2026-08-18T07:14:33.727Z"
+    },
+    "SDV3605K||TRINCOMALEE B": {
+      "remark": "90% discount",
+      "commentedBy": "Chamal Gunawardena",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:44:35",
+      "lastUpdated": "2026-08-18T07:14:35.323Z"
     }
   },
   "showroomVisits": {
@@ -13126,6 +13140,20 @@
   },
   "activity": [
     {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:44:35",
+      "iso": "2026-08-18T07:14:35.325Z",
+      "action": "updated remark for SDV3605K at TRINCOMALEE B: “90% discount”"
+    },
+    {
+      "user": "Chamal Gunawardena",
+      "date": "2026-08-18",
+      "time": "12:44:33",
+      "iso": "2026-08-18T07:14:33.729Z",
+      "action": "updated remark for DVP-SR370 at TRINCOMALEE B: “90% discount”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "12:43:56",
@@ -13460,20 +13488,6 @@
       "time": "12:29:17",
       "iso": "2026-08-18T06:59:17.641Z",
       "action": "updated remark for PF-ENVISION-BL-S at BALANGODA: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:29:13",
-      "iso": "2026-08-18T06:59:13.640Z",
-      "action": "updated remark for PF-MONDY-BLUE at BALANGODA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "12:28:46",
-      "iso": "2026-08-18T06:58:46.382Z",
-      "action": "updated remark for WF-BRN-ST-RTK-S at BALANGODA: “5000”"
     }
   ]
 }
