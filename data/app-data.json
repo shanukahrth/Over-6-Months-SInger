@@ -10945,8 +10945,8 @@
       "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "11:08:44",
-      "lastUpdated": "2026-08-18T05:38:44.570Z"
+      "commentTime": "11:13:59",
+      "lastUpdated": "2026-08-18T05:43:59.285Z"
     },
     "SMGUA32T4400||MAIN WAREHOUSE": {
       "remark": "Damaged clearance",
@@ -10956,11 +10956,11 @@
       "lastUpdated": "2026-08-18T05:38:49.156Z"
     },
     "CEL-CB-01M||MAIN WAREHOUSE": {
-      "remark": "Discount to Rs. 100",
+      "remark": "Scrap",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "11:09:52",
-      "lastUpdated": "2026-08-18T05:39:52.674Z"
+      "commentTime": "11:11:14",
+      "lastUpdated": "2026-08-18T05:41:14.283Z"
     },
     "SLE50H1100||MAIN WAREHOUSE": {
       "remark": "Transfer to a shop",
@@ -11376,6 +11376,20 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:13:59",
+      "iso": "2026-08-18T05:43:59.286Z",
+      "action": "updated remark for CEL-A8-HSET at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "11:11:14",
+      "iso": "2026-08-18T05:41:14.286Z",
+      "action": "updated remark for CEL-CB-01M at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-18",
       "time": "11:13:47",
@@ -11710,20 +11724,6 @@
       "time": "11:00:03",
       "iso": "2026-08-18T05:30:03.087Z",
       "action": "updated remark for SLE32G690 at GALEWELA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:59:36",
-      "iso": "2026-08-18T05:29:36.411Z",
-      "action": "updated remark for SLE32E920 at GALEWELA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:59:30",
-      "iso": "2026-08-18T05:29:30.502Z",
-      "action": "updated remark for SLE32D5000 at GALEWELA: “Damaged - 85%”"
     }
   ]
 }
