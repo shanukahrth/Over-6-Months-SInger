@@ -10410,11 +10410,11 @@
       "lastUpdated": "2026-08-18T05:16:13.043Z"
     },
     "RAVI-ISCRUB||MAIN WAREHOUSE": {
-      "remark": "Discount to Rs. 150",
+      "remark": "Discount to Rs. 125",
       "commentedBy": "Lashini Gamage",
       "commentDate": "2026-08-18",
-      "commentTime": "10:46:16",
-      "lastUpdated": "2026-08-18T05:16:16.076Z"
+      "commentTime": "10:47:43",
+      "lastUpdated": "2026-08-18T05:17:43.237Z"
     },
     "SLE40D600A||PABAHINNA-LITE": {
       "remark": "Return",
@@ -10802,6 +10802,13 @@
   },
   "activity": [
     {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
+      "time": "10:47:43",
+      "iso": "2026-08-18T05:17:43.240Z",
+      "action": "updated remark for RAVI-ISCRUB at MAIN WAREHOUSE: “Discount to Rs. 125”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-18",
       "time": "10:47:07",
@@ -11143,13 +11150,6 @@
       "time": "10:31:08",
       "iso": "2026-08-18T05:01:08.608Z",
       "action": "updated remark for SASI60CC at MAIN WAREHOUSE: “Transfer to budget shop offer 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-18",
-      "time": "10:30:40",
-      "iso": "2026-08-18T05:00:40.052Z",
-      "action": "updated remark for SASMCD60CRN at MAIN WAREHOUSE: “Transfer to budget shop offer 80%”"
     }
   ]
 }
