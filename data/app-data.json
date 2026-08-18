@@ -11150,6 +11150,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:27:15",
       "lastUpdated": "2026-08-18T05:57:15.484Z"
+    },
+    "PFI-BHP-050-P||MAIN WAREHOUSE": {
+      "remark": "Scrap",
+      "commentedBy": "Lashini Gamage",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:27:46",
+      "lastUpdated": "2026-08-18T05:57:46.260Z"
     }
   },
   "showroomVisits": {
@@ -11518,6 +11525,13 @@
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
+      "time": "11:27:46",
+      "iso": "2026-08-18T05:57:46.262Z",
+      "action": "updated remark for PFI-BHP-050-P at MAIN WAREHOUSE: “Scrap”"
+    },
+    {
+      "user": "Lashini Gamage",
+      "date": "2026-08-18",
       "time": "11:27:15",
       "iso": "2026-08-18T05:57:15.487Z",
       "action": "updated remark for TFBW1298214 at MAIN WAREHOUSE: “Discount to Rs. 500”"
@@ -11856,13 +11870,6 @@
       "date": "2026-08-18",
       "time": "11:08:22",
       "iso": "2026-08-18T05:38:22.816Z",
-      "action": "updated remark for CEL-A4-HSET at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "11:08:17",
-      "iso": "2026-08-18T05:38:17.528Z",
       "action": "updated remark for CEL-A4-HSET at MAIN WAREHOUSE: “Scrap”"
     }
   ]
