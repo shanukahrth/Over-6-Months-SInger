@@ -12207,6 +12207,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "12:17:12",
       "lastUpdated": "2026-08-18T06:47:12.036Z"
+    },
+    "TF-FP24-SCR342||MELSIRIPURA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "12:17:23",
+      "lastUpdated": "2026-08-18T06:47:23.810Z"
     }
   },
   "showroomVisits": {
@@ -12573,6 +12580,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "12:17:23",
+      "iso": "2026-08-18T06:47:23.812Z",
+      "action": "updated remark for TF-FP24-SCR342 at MELSIRIPURA: “Damaged - 30%”"
+    },
+    {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
       "time": "12:17:12",
@@ -12914,13 +12928,6 @@
       "time": "12:04:28",
       "iso": "2026-08-18T06:34:28.174Z",
       "action": "updated remark for DVP-SR370 at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "12:04:21",
-      "iso": "2026-08-18T06:34:21.815Z",
-      "action": "updated remark for SDV3605K at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
