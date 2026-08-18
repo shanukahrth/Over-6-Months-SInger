@@ -13406,11 +13406,11 @@
       "lastUpdated": "2026-08-18T08:20:30.351Z"
     },
     "BC-KNP-AG||POLPITHIGAMA": {
-      "remark": "85",
+      "remark": "Damaged - 85%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-18",
-      "commentTime": "13:51:08",
-      "lastUpdated": "2026-08-18T08:21:08.906Z"
+      "commentTime": "13:55:17",
+      "lastUpdated": "2026-08-18T08:25:17.698Z"
     },
     "TFFV1026MO||BALANGODA - B": {
       "remark": "20%",
@@ -13502,6 +13502,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "13:56:18",
       "lastUpdated": "2026-08-18T08:26:18.648Z"
+    },
+    "R-BWS-02||POLPITHIGAMA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-18",
+      "commentTime": "13:56:10",
+      "lastUpdated": "2026-08-18T08:26:10.952Z"
     }
   },
   "showroomVisits": {
@@ -13868,6 +13875,27 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "13:56:10",
+      "iso": "2026-08-18T08:26:10.953Z",
+      "action": "updated remark for R-BWS-02 at POLPITHIGAMA: “Damaged - 10%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "13:56:09",
+      "iso": "2026-08-18T08:26:09.661Z",
+      "action": "updated remark for R-BWS-02 at POLPITHIGAMA: “Damaged - 10%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-18",
+      "time": "13:55:17",
+      "iso": "2026-08-18T08:25:17.699Z",
+      "action": "updated remark for BC-KNP-AG at POLPITHIGAMA: “Damaged - 85%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-18",
       "time": "13:56:18",
@@ -14195,27 +14223,6 @@
       "time": "13:38:30",
       "iso": "2026-08-18T08:08:30.157Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at BALANGODA - B: “30000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:38:16",
-      "iso": "2026-08-18T08:08:16.200Z",
-      "action": "updated remark for SIN-PSVX938 at BALANGODA - B: “15000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:37:48",
-      "iso": "2026-08-18T08:07:48.759Z",
-      "action": "updated remark for SIN-BS30 at BALANGODA - B: “8500”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "13:37:44",
-      "iso": "2026-08-18T08:07:44.814Z",
-      "action": "updated remark for SIN-BS30 at BALANGODA - B: “8500”"
     }
   ]
 }
