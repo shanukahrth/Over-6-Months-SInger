@@ -10989,6 +10989,13 @@
       "commentDate": "2026-08-18",
       "commentTime": "11:12:35",
       "lastUpdated": "2026-08-18T05:42:35.519Z"
+    },
+    "SKY55Q6700G||MAIN WAREHOUSE": {
+      "remark": "Demo tv",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-18",
+      "commentTime": "11:12:39",
+      "lastUpdated": "2026-08-18T05:42:39.482Z"
     }
   },
   "showroomVisits": {
@@ -11357,6 +11364,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-18",
+      "time": "11:12:39",
+      "iso": "2026-08-18T05:42:39.490Z",
+      "action": "updated remark for SKY55Q6700G at MAIN WAREHOUSE: “Demo tv”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-18",
       "time": "11:12:35",
       "iso": "2026-08-18T05:42:35.527Z",
       "action": "updated remark for SLE55H1100 at MAIN WAREHOUSE: “Transfer to a shop”"
@@ -11696,13 +11710,6 @@
       "time": "10:58:15",
       "iso": "2026-08-18T05:28:15.436Z",
       "action": "updated remark for SL-SWMFR72 at GALEWELA: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-18",
-      "time": "10:57:58",
-      "iso": "2026-08-18T05:27:58.207Z",
-      "action": "updated remark for SL-PSM-8017 at GALEWELA: “Damaged - 65%”"
     }
   ]
 }
