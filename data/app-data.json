@@ -9526,6 +9526,20 @@
       "commentDate": "2026-08-18",
       "commentTime": "09:34:47",
       "lastUpdated": "2026-08-18T04:04:47.753Z"
+    },
+    "PCP30||NAULA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:34:52",
+      "lastUpdated": "2026-08-18T04:04:52.968Z"
+    },
+    "PCP50||NAULA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-18",
+      "commentTime": "09:34:54",
+      "lastUpdated": "2026-08-18T04:04:54.627Z"
     }
   },
   "showroomVisits": {
@@ -9851,6 +9865,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:34:54",
+      "iso": "2026-08-18T04:04:54.630Z",
+      "action": "updated remark for PCP50 at NAULA: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-18",
+      "time": "09:34:52",
+      "iso": "2026-08-18T04:04:52.970Z",
+      "action": "updated remark for PCP30 at NAULA: “Damaged - 70%”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-18",
@@ -10186,20 +10214,6 @@
       "time": "19:14:46",
       "iso": "2026-08-17T13:44:46.365Z",
       "action": "updated remark for LF-CUBIC-TV-SHW-S at MUTUR: “50% - Obsolete”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:14:45",
-      "iso": "2026-08-17T13:44:45.616Z",
-      "action": "updated remark for LF-CUBIC-TV-SHW-S at MUTUR: “50% - Obsellete”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-17",
-      "time": "19:13:42",
-      "iso": "2026-08-17T13:43:42.818Z",
-      "action": "updated remark for LF-LEO-120-SHW at MUTUR: “Damaged - 80% BM will report it for office use”"
     }
   ]
 }
