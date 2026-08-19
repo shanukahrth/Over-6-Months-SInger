@@ -19914,6 +19914,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:57:09",
       "lastUpdated": "2026-08-19T09:27:09.041Z"
+    },
+    "AC-TEMP-Y5-17||PERADENIYA": {
+      "remark": "To be dropped",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:57:29",
+      "lastUpdated": "2026-08-19T09:27:29.363Z"
     }
   },
   "showroomVisits": {
@@ -20322,6 +20329,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "14:57:29",
+      "iso": "2026-08-19T09:27:29.363Z",
+      "action": "updated remark for AC-TEMP-Y5-17 at PERADENIYA: “To be dropped”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "14:57:09",
       "iso": "2026-08-19T09:27:09.042Z",
       "action": "updated remark for AC-TEMP-Y3-17 at PERADENIYA: “To be dropped”"
@@ -20661,13 +20675,6 @@
       "time": "14:39:44",
       "iso": "2026-08-19T09:09:44.920Z",
       "action": "updated remark for PN-CS-U10XKH at PERADENIYA (cleared)"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "14:39:32",
-      "iso": "2026-08-19T09:09:32.210Z",
-      "action": "updated remark for PN-CS-XU18XKYW-8 at PERADENIYA (cleared)"
     }
   ]
 }
