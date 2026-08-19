@@ -22377,9 +22377,24 @@
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
+    },
+    "SHOMES-BADULLA||BADULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:40:41",
+      "iso": "2026-08-19T11:10:41.874Z",
+      "action": "updated SHOMES-BADULLA showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22721,13 +22736,6 @@
       "date": "2026-08-19",
       "time": "16:19:42",
       "iso": "2026-08-19T10:49:42.437Z",
-      "action": "updated remark for B-CWB6441XN at WENNAPPUWA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:19:41",
-      "iso": "2026-08-19T10:49:41.382Z",
       "action": "updated remark for B-CWB6441XN at WENNAPPUWA: “Damaged - 80%”"
     }
   ]
