@@ -23106,6 +23106,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:57:37",
       "lastUpdated": "2026-08-19T12:27:37.151Z"
+    },
+    "SLMC-18DSLHS||DERANIYAGALA": {
+      "remark": "15000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:57:50",
+      "lastUpdated": "2026-08-19T12:27:50.970Z"
+    },
+    "SL-S203||DERANIYAGALA": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:57:55",
+      "lastUpdated": "2026-08-19T12:27:55.130Z"
     }
   },
   "showroomVisits": {
@@ -23752,6 +23766,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:57:55",
+      "iso": "2026-08-19T12:27:55.136Z",
+      "action": "updated remark for SL-S203 at DERANIYAGALA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:57:50",
+      "iso": "2026-08-19T12:27:50.976Z",
+      "action": "updated remark for SLMC-18DSLHS at DERANIYAGALA: “15000”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-08-19",
       "time": "17:57:37",
@@ -24086,20 +24114,6 @@
       "time": "17:45:50",
       "iso": "2026-08-19T12:15:50.641Z",
       "action": "updated remark for SPM-78X60 at DERANIYAGALA: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:45:38",
-      "iso": "2026-08-19T12:15:38.919Z",
-      "action": "updated remark for WF-MOSCOW-ST-S at DERANIYAGALA: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:45:31",
-      "iso": "2026-08-19T12:15:31.812Z",
-      "action": "updated remark for WFI-DELPHI-TBL-S at DERANIYAGALA: “50%”"
     }
   ]
 }
