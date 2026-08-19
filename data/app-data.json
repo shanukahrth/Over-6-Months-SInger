@@ -22525,6 +22525,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:32:09",
       "lastUpdated": "2026-08-19T12:02:09.193Z"
+    },
+    "SIN-BS30||DERANIYAGALA": {
+      "remark": "8500",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:32:14",
+      "lastUpdated": "2026-08-19T12:02:14.471Z"
     }
   },
   "showroomVisits": {
@@ -23173,6 +23180,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "17:32:14",
+      "iso": "2026-08-19T12:02:14.477Z",
+      "action": "updated remark for SIN-BS30 at DERANIYAGALA: “8500”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "17:32:09",
       "iso": "2026-08-19T12:02:09.200Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at DERANIYAGALA: “30000”"
@@ -23512,13 +23526,6 @@
       "time": "17:07:26",
       "iso": "2026-08-19T11:37:26.278Z",
       "action": "updated remark for SAS24TCNR at WENNAPPUWA: “Damaged -60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:06:54",
-      "iso": "2026-08-19T11:36:54.344Z",
-      "action": "updated remark for SAS-18V-INV at WENNAPPUWA: “SOLD - 01, Damaged 60%”"
     }
   ]
 }
