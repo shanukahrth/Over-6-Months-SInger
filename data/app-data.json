@@ -16885,11 +16885,11 @@
       "lastUpdated": "2026-08-19T04:21:00.600Z"
     },
     "R-BWS-02||CHENKALADY": {
-      "remark": "35% Discount",
+      "remark": "30% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-08-19",
-      "commentTime": "10:02:52",
-      "lastUpdated": "2026-08-19T04:32:52.488Z"
+      "commentTime": "11:23:08",
+      "lastUpdated": "2026-08-19T05:53:08.222Z"
     },
     "NCPDG-MP160||CHENKALADY": {
       "remark": "50% Discount",
@@ -18039,6 +18039,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "11:23:08",
+      "iso": "2026-08-19T05:53:08.223Z",
+      "action": "updated remark for R-BWS-02 at CHENKALADY: “30% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "11:22:50",
       "iso": "2026-08-19T05:52:50.514Z",
       "action": "updated remark for UJB-LB6027 at CHENKALADY: “40% Discount”"
@@ -18378,13 +18385,6 @@
       "time": "10:57:10",
       "iso": "2026-08-19T05:27:10.502Z",
       "action": "updated remark for BTS-10KG at KIRIELLA: “15%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:57:01",
-      "iso": "2026-08-19T05:27:01.531Z",
-      "action": "updated remark for BES-CRS-51 at KIRIELLA: “15%”"
     }
   ]
 }
