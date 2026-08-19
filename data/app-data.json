@@ -23309,6 +23309,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:01:21",
       "lastUpdated": "2026-08-19T12:31:21.992Z"
+    },
+    "KA-PB-426||KANDY - B": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:01:28",
+      "lastUpdated": "2026-08-19T12:31:28.797Z"
     }
   },
   "showroomVisits": {
@@ -23957,6 +23964,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:01:28",
+      "iso": "2026-08-19T12:31:28.798Z",
+      "action": "updated remark for KA-PB-426 at KANDY - B: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:01:21",
       "iso": "2026-08-19T12:31:21.994Z",
       "action": "updated remark for LP-AP01 at KANDY - B: “Reported”"
@@ -24296,13 +24310,6 @@
       "time": "17:53:28",
       "iso": "2026-08-19T12:23:28.565Z",
       "action": "updated remark for DELL-LAT3570-I5 at KANDY - B: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:53:22",
-      "iso": "2026-08-19T12:23:22.158Z",
-      "action": "updated remark for DELL-3593-I5W10-SIL at KANDY - B: “To be transferred to discount shop”"
     }
   ]
 }
