@@ -23542,11 +23542,11 @@
       "lastUpdated": "2026-08-19T12:40:20.745Z"
     },
     "SLE40D600A||DERANIYAGALA": {
-      "remark": "60%",
+      "remark": "50%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "18:06:58",
-      "lastUpdated": "2026-08-19T12:36:58.223Z"
+      "commentTime": "18:10:29",
+      "lastUpdated": "2026-08-19T12:40:29.130Z"
     },
     "HON-PADX8-POUCH||KANDY - B": {
       "remark": "To be dropped",
@@ -24433,6 +24433,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "18:10:29",
+      "iso": "2026-08-19T12:40:29.138Z",
+      "action": "updated remark for SLE40D600A at DERANIYAGALA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "18:10:20",
       "iso": "2026-08-19T12:40:20.753Z",
       "action": "updated remark for SLE32E930 at DERANIYAGALA: “70%”"
@@ -24772,13 +24779,6 @@
       "time": "18:04:31",
       "iso": "2026-08-19T12:34:31.316Z",
       "action": "updated remark for HON-X9B-12-256-SIL at KANDY - B: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:04:26",
-      "iso": "2026-08-19T12:34:26.689Z",
-      "action": "updated remark for HON-X7C-8-256-GRN at KANDY - B: “40%”"
     }
   ]
 }
