@@ -18416,6 +18416,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:00:28",
       "lastUpdated": "2026-08-19T07:30:28.615Z"
+    },
+    "H-RMRG024MFEOE||KANDY": {
+      "remark": "15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:21:38",
+      "lastUpdated": "2026-08-19T07:51:38.539Z"
     }
   },
   "showroomVisits": {
@@ -18822,6 +18829,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:21:38",
+      "iso": "2026-08-19T07:51:38.543Z",
+      "action": "updated remark for H-RMRG024MFEOE at KANDY: “15%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
       "time": "13:00:28",
@@ -19163,13 +19177,6 @@
       "time": "12:09:01",
       "iso": "2026-08-19T06:39:01.600Z",
       "action": "updated remark for GEO-SM-255D at HEMMATHAGAMA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "12:08:50",
-      "iso": "2026-08-19T06:38:50.594Z",
-      "action": "updated remark for GEO-SM-205D at HEMMATHAGAMA: “80%”"
     }
   ]
 }
