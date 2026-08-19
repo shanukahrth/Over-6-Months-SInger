@@ -25192,6 +25192,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:49:18",
       "lastUpdated": "2026-08-19T13:19:18.971Z"
+    },
+    "PF-MONDY-BLUE||PILIMATHALAWA": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:49:23",
+      "lastUpdated": "2026-08-19T13:19:23.616Z"
     }
   },
   "showroomVisits": {
@@ -25840,6 +25847,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:49:23",
+      "iso": "2026-08-19T13:19:23.617Z",
+      "action": "updated remark for PF-MONDY-BLUE at PILIMATHALAWA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:49:18",
       "iso": "2026-08-19T13:19:18.972Z",
       "action": "updated remark for PF-FLAP-MN-S at PILIMATHALAWA: “Sellable at existing price”"
@@ -26179,13 +26193,6 @@
       "time": "18:44:17",
       "iso": "2026-08-19T13:14:17.031Z",
       "action": "updated remark for SDV3605K at PILIMATHALAWA: “Pending location transfer”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:44:00",
-      "iso": "2026-08-19T13:14:00.748Z",
-      "action": "updated remark for SDV3605K at PILIMATHALAWA: “Damaged location transfer pending”"
     }
   ]
 }
