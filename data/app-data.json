@@ -17009,6 +17009,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:27:58",
       "lastUpdated": "2026-08-19T04:57:58.096Z"
+    },
+    "SIN-MH44SW||KIRIELLA": {
+      "remark": "Damaged",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:28:17",
+      "lastUpdated": "2026-08-19T04:58:17.145Z"
     }
   },
   "showroomVisits": {
@@ -17409,6 +17416,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:28:17",
+      "iso": "2026-08-19T04:58:17.151Z",
+      "action": "updated remark for SIN-MH44SW at KIRIELLA: “Damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:27:58",
       "iso": "2026-08-19T04:57:58.105Z",
       "action": "updated remark for PN-SC-AKX910GSK at KIRIELLA: “Damaged”"
@@ -17748,13 +17762,6 @@
       "time": "09:42:15",
       "iso": "2026-08-18T04:12:15.702Z",
       "action": "updated MATARA-A showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-18",
-      "time": "09:42:02",
-      "iso": "2026-08-18T04:12:02.046Z",
-      "action": "updated AMBALANTOTA showroom (team: Colomb South MKT)"
     }
   ]
 }
