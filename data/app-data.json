@@ -22389,13 +22389,20 @@
     "HAPUTHALE||BADULLA": {
       "visited": "Yes",
       "visitDate": "",
-      "team": "",
+      "team": "Team Furniture , Methmal",
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:41:11",
+      "iso": "2026-08-19T11:11:11.043Z",
+      "action": "updated HAPUTHALE showroom (team: Team Furniture , Methmal)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22738,13 +22745,6 @@
       "time": "16:21:54",
       "iso": "2026-08-19T10:51:54.921Z",
       "action": "updated remark for BES-WP15T at WENNAPPUWA: “Dama”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:21:31",
-      "iso": "2026-08-19T10:51:31.441Z",
-      "action": "updated remark for BES-WP15T at WENNAPPUWA (cleared)"
     }
   ]
 }
