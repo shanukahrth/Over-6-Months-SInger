@@ -22581,6 +22581,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:34:11",
       "lastUpdated": "2026-08-19T12:04:11.860Z"
+    },
+    "B-CWB6441XN||DERANIYAGALA": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:34:31",
+      "lastUpdated": "2026-08-19T12:04:31.203Z"
+    },
+    "BC-KNP-AG||DERANIYAGALA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:34:58",
+      "lastUpdated": "2026-08-19T12:04:58.320Z"
     }
   },
   "showroomVisits": {
@@ -23227,6 +23241,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:34:58",
+      "iso": "2026-08-19T12:04:58.327Z",
+      "action": "updated remark for BC-KNP-AG at DERANIYAGALA: “70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:34:31",
+      "iso": "2026-08-19T12:04:31.209Z",
+      "action": "updated remark for B-CWB6441XN at DERANIYAGALA: “50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-19",
       "time": "17:34:11",
@@ -23561,20 +23589,6 @@
       "time": "17:11:17",
       "iso": "2026-08-19T11:41:17.414Z",
       "action": "updated WELIGAMA showroom (visitDate: 2026-08-18)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-19",
-      "time": "17:11:14",
-      "iso": "2026-08-19T11:41:14.503Z",
-      "action": "updated WELIGAMA showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-19",
-      "time": "17:11:05",
-      "iso": "2026-08-19T11:41:05.148Z",
-      "action": "updated AHANGAMA showroom (team: Colombo South mkt)"
     }
   ]
 }
