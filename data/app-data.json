@@ -23253,6 +23253,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:59:46",
       "lastUpdated": "2026-08-19T12:29:46.626Z"
+    },
+    "SIN-MRG-1008C||KANDY - B": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:59:54",
+      "lastUpdated": "2026-08-19T12:29:54.919Z"
     }
   },
   "showroomVisits": {
@@ -23901,6 +23908,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "17:59:54",
+      "iso": "2026-08-19T12:29:54.922Z",
+      "action": "updated remark for SIN-MRG-1008C at KANDY - B: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "17:59:46",
       "iso": "2026-08-19T12:29:46.629Z",
       "action": "updated remark for SLE-65IFPDT at KANDY - B: “Pending exchange”"
@@ -24240,13 +24254,6 @@
       "time": "17:52:25",
       "iso": "2026-08-19T12:22:25.614Z",
       "action": "updated remark for PN-SC-TMAX5GSK at KANDY - B: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:52:19",
-      "iso": "2026-08-19T12:22:19.789Z",
-      "action": "updated remark for MHC-V13 at KANDY - B: “80%”"
     }
   ]
 }
