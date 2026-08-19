@@ -24947,6 +24947,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:44:36",
       "lastUpdated": "2026-08-19T13:14:36.244Z"
+    },
+    "KV-FPAU5A||PILIMATHALAWA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:44:40",
+      "lastUpdated": "2026-08-19T13:14:40.540Z"
+    },
+    "MB-LIMA-ELO7-BLK||PILIMATHALAWA": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:44:55",
+      "lastUpdated": "2026-08-19T13:14:55.233Z"
+    },
+    "MB-LIMA-ELO7-RED||PILIMATHALAWA": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:44:57",
+      "lastUpdated": "2026-08-19T13:14:57.817Z"
     }
   },
   "showroomVisits": {
@@ -25595,6 +25616,34 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:44:57",
+      "iso": "2026-08-19T13:14:57.818Z",
+      "action": "updated remark for MB-LIMA-ELO7-RED at PILIMATHALAWA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:44:55",
+      "iso": "2026-08-19T13:14:55.235Z",
+      "action": "updated remark for MB-LIMA-ELO7-BLK at PILIMATHALAWA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:44:40",
+      "iso": "2026-08-19T13:14:40.541Z",
+      "action": "updated remark for KV-FPAU5A at PILIMATHALAWA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:44:39",
+      "iso": "2026-08-19T13:14:39.103Z",
+      "action": "updated remark for KV-FPAU5A at PILIMATHALAWA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:44:36",
       "iso": "2026-08-19T13:14:36.245Z",
       "action": "updated remark for KV-FPAU13A at PILIMATHALAWA: “50%”"
@@ -25913,34 +25962,6 @@
       "time": "18:34:51",
       "iso": "2026-08-19T13:04:51.952Z",
       "action": "updated remark for SIN-PR-K340 at SHOMES- KANDY: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:34:44",
-      "iso": "2026-08-19T13:04:44.906Z",
-      "action": "updated remark for SIN-PR-K340 at SHOMES- KANDY: “Sold”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:34:40",
-      "iso": "2026-08-19T13:04:40.752Z",
-      "action": "updated remark for MC8280 at SHOMES- KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:34:36",
-      "iso": "2026-08-19T13:04:36.061Z",
-      "action": "updated remark for V-WCDMA-3G-433 at SHOMES- KANDY: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:34:32",
-      "iso": "2026-08-19T13:04:32.789Z",
-      "action": "updated remark for V-SR-740-PG2 at SHOMES- KANDY: “Shop use”"
     }
   ]
 }
