@@ -19676,6 +19676,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:46:14",
       "lastUpdated": "2026-08-19T09:16:14.108Z"
+    },
+    "SMG-A06-6-128-BLK||NATTANDIYA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:46:41",
+      "lastUpdated": "2026-08-19T09:16:41.474Z"
     }
   },
   "showroomVisits": {
@@ -20084,6 +20091,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-19",
+      "time": "14:46:41",
+      "iso": "2026-08-19T09:16:41.474Z",
+      "action": "updated remark for SMG-A06-6-128-BLK at NATTANDIYA: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
       "time": "14:46:14",
       "iso": "2026-08-19T09:16:14.108Z",
       "action": "updated remark for HON-X7C-8-256-BLK at NATTANDIYA: “Damaged - 40%”"
@@ -20423,13 +20437,6 @@
       "time": "14:16:34",
       "iso": "2026-08-19T08:46:34.802Z",
       "action": "updated remark for TF-NIDFP24-170 at BATTICALOA B: “35% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:16:18",
-      "iso": "2026-08-19T08:46:18.191Z",
-      "action": "updated remark for PF-STRG-BX-20L-S at BATTICALOA B: “20% Discount”"
     }
   ]
 }
