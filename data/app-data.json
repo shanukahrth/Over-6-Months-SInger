@@ -23589,6 +23589,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:07:43",
       "lastUpdated": "2026-08-19T12:37:43.836Z"
+    },
+    "PN-NR-BG271SSLK||KANDY - B": {
+      "remark": "Transfer",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:07:50",
+      "lastUpdated": "2026-08-19T12:37:50.027Z"
     }
   },
   "showroomVisits": {
@@ -24237,6 +24244,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:07:50",
+      "iso": "2026-08-19T12:37:50.029Z",
+      "action": "updated remark for PN-NR-BG271SSLK at KANDY - B: “Transfer”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:07:43",
       "iso": "2026-08-19T12:37:43.838Z",
       "action": "updated remark for GEO-242D-SV at KANDY - B: “25%”"
@@ -24576,13 +24590,6 @@
       "time": "18:00:41",
       "iso": "2026-08-19T12:30:41.036Z",
       "action": "updated remark for PCR-SP16-255 at KANDY - B: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:00:36",
-      "iso": "2026-08-19T12:30:36.483Z",
-      "action": "updated remark for NCPO-FP200 at KANDY - B: “30%”"
     }
   ]
 }
