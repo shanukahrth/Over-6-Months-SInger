@@ -23118,15 +23118,15 @@
       "remark": "50%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "17:58:00",
-      "lastUpdated": "2026-08-19T12:28:00.514Z"
+      "commentTime": "17:58:42",
+      "lastUpdated": "2026-08-19T12:28:42.174Z"
     },
     "STT-200K||DERANIYAGALA": {
-      "remark": "80%",
+      "remark": "Sellable",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "17:58:03",
-      "lastUpdated": "2026-08-19T12:28:03.766Z"
+      "commentTime": "17:58:18",
+      "lastUpdated": "2026-08-19T12:28:18.349Z"
     },
     "LF-MIKO-WD-SHW||KANDY - B": {
       "remark": "Unsellable",
@@ -23155,6 +23155,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:58:08",
       "lastUpdated": "2026-08-19T12:28:08.080Z"
+    },
+    "STT-KHT009||DERANIYAGALA": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:58:23",
+      "lastUpdated": "2026-08-19T12:28:23.047Z"
     }
   },
   "showroomVisits": {
@@ -23801,6 +23808,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:58:42",
+      "iso": "2026-08-19T12:28:42.180Z",
+      "action": "updated remark for SL-S203 at DERANIYAGALA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:58:23",
+      "iso": "2026-08-19T12:28:23.053Z",
+      "action": "updated remark for STT-KHT009 at DERANIYAGALA: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:58:18",
+      "iso": "2026-08-19T12:28:18.355Z",
+      "action": "updated remark for STT-200K at DERANIYAGALA: “Sellable”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-08-19",
       "time": "17:58:08",
@@ -24128,27 +24156,6 @@
       "time": "17:50:51",
       "iso": "2026-08-19T12:20:51.850Z",
       "action": "updated remark for PN-DH-3JL2WH at DERANIYAGALA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:49:59",
-      "iso": "2026-08-19T12:19:59.170Z",
-      "action": "updated remark for SL-ST350NP-W at DERANIYAGALA: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:49:50",
-      "iso": "2026-08-19T12:19:50.852Z",
-      "action": "updated remark for SL-ST350NP-W at DERANIYAGALA: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:48:30",
-      "iso": "2026-08-19T12:18:30.323Z",
-      "action": "updated remark for SL-VAR-90P-C at DERANIYAGALA: “Sold”"
     }
   ]
 }
