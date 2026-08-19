@@ -19412,11 +19412,11 @@
       "lastUpdated": "2026-08-19T08:42:11.931Z"
     },
     "MID-MJ-KM6001W||BATTICALOA B": {
-      "remark": "55 Discount",
+      "remark": "55% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-08-19",
-      "commentTime": "14:12:26",
-      "lastUpdated": "2026-08-19T08:42:26.790Z"
+      "commentTime": "14:12:37",
+      "lastUpdated": "2026-08-19T08:42:37.222Z"
     }
   },
   "showroomVisits": {
@@ -19825,6 +19825,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "14:12:37",
+      "iso": "2026-08-19T08:42:37.224Z",
+      "action": "updated remark for MID-MJ-KM6001W at BATTICALOA B: “55% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "14:12:26",
       "iso": "2026-08-19T08:42:26.791Z",
       "action": "updated remark for MID-MJ-KM6001W at BATTICALOA B: “55 Discount”"
@@ -20164,13 +20171,6 @@
       "time": "13:47:23",
       "iso": "2026-08-19T08:17:23.368Z",
       "action": "updated remark for SIN-PR-K340 at KANDY: “Sellable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:47:08",
-      "iso": "2026-08-19T08:17:08.614Z",
-      "action": "updated remark for V-WCDMA-3G-433 at KANDY: “Shop use”"
     }
   ]
 }
