@@ -22356,7 +22356,7 @@
     },
     "BADULLA||BADULLA": {
       "visited": "No",
-      "visitDate": "",
+      "visitDate": "2026-08-07",
       "team": "Team Furniture , Methmal",
       "remark": "",
       "updatedBy": "Shanuka Herath",
@@ -22364,6 +22364,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:40:01",
+      "iso": "2026-08-19T11:10:01.936Z",
+      "action": "updated BADULLA showroom (visitDate: 2026-08-07)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-19",
@@ -22705,13 +22712,6 @@
       "date": "2026-08-19",
       "time": "16:18:48",
       "iso": "2026-08-19T10:48:48.756Z",
-      "action": "updated remark for B-BMGB25332BG at WENNAPPUWA: “Can sell by the 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:18:39",
-      "iso": "2026-08-19T10:48:39.008Z",
       "action": "updated remark for B-BMGB25332BG at WENNAPPUWA: “Can sell by the 31st of Aug”"
     }
   ]
