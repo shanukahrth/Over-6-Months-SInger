@@ -17443,6 +17443,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:54:53",
       "lastUpdated": "2026-08-19T05:24:53.442Z"
+    },
+    "CAN-I-E560||KIRIELLA": {
+      "remark": "Damaged",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:56:02",
+      "lastUpdated": "2026-08-19T05:26:02.422Z"
     }
   },
   "showroomVisits": {
@@ -17843,6 +17850,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:56:02",
+      "iso": "2026-08-19T05:26:02.429Z",
+      "action": "updated remark for CAN-I-E560 at KIRIELLA: “Damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:55:57",
       "iso": "2026-08-19T05:25:57.671Z",
       "action": "updated remark for HON-X5BPLUS-4-128-BLK at KIRIELLA: “45%”"
@@ -18182,13 +18196,6 @@
       "time": "10:39:25",
       "iso": "2026-08-19T05:09:25.087Z",
       "action": "updated remark for WF-SP-9568-S at KIRIELLA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:38:59",
-      "iso": "2026-08-19T05:08:59.100Z",
-      "action": "updated remark for WF-ROM-DTO-S at KIRIELLA: “80%”"
     }
   ]
 }
