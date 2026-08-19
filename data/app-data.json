@@ -25318,6 +25318,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:51:25",
       "lastUpdated": "2026-08-19T13:21:25.587Z"
+    },
+    "KA-PRISMA-1.2||PILIMATHALAWA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:51:29",
+      "lastUpdated": "2026-08-19T13:21:29.454Z"
     }
   },
   "showroomVisits": {
@@ -25966,6 +25973,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:51:29",
+      "iso": "2026-08-19T13:21:29.455Z",
+      "action": "updated remark for KA-PRISMA-1.2 at PILIMATHALAWA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:51:25",
       "iso": "2026-08-19T13:21:25.588Z",
       "action": "updated remark for R-FGAP010 at PILIMATHALAWA: “Unsellable”"
@@ -26305,13 +26319,6 @@
       "time": "18:45:49",
       "iso": "2026-08-19T13:15:49.548Z",
       "action": "updated remark for LF-COD-S at PILIMATHALAWA: “70% - Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:45:42",
-      "iso": "2026-08-19T13:15:42.484Z",
-      "action": "updated remark for LF-BUDGET-BDQ-CRW-S at PILIMATHALAWA: “50%”"
     }
   ]
 }
