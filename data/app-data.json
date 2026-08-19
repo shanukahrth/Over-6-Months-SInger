@@ -23932,6 +23932,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:13:29",
       "lastUpdated": "2026-08-19T12:43:29.370Z"
+    },
+    "PN-CS-U10XKH||SHOMES- KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:16:16",
+      "lastUpdated": "2026-08-19T12:46:16.239Z"
+    },
+    "PN-CS-U13XKH||SHOMES- KANDY": {
+      "remark": "605",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:16:17",
+      "lastUpdated": "2026-08-19T12:46:17.712Z"
     }
   },
   "showroomVisits": {
@@ -24580,6 +24594,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:16:17",
+      "iso": "2026-08-19T12:46:17.713Z",
+      "action": "updated remark for PN-CS-U13XKH at SHOMES- KANDY: “605”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:16:16",
+      "iso": "2026-08-19T12:46:16.240Z",
+      "action": "updated remark for PN-CS-U10XKH at SHOMES- KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:13:29",
       "iso": "2026-08-19T12:43:29.372Z",
       "action": "updated remark for WP-1R-.75T at KANDY - B: “70%”"
@@ -24912,20 +24940,6 @@
       "time": "18:08:35",
       "iso": "2026-08-19T12:38:35.357Z",
       "action": "updated remark for HG-120 at KANDY - B: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:08:31",
-      "iso": "2026-08-19T12:38:31.955Z",
-      "action": "updated remark for DH-IPC-F2CP-LED-0360B at KANDY - B: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:08:29",
-      "iso": "2026-08-19T12:38:29.460Z",
-      "action": "updated remark for CLIP-MCW at KANDY - B: “Shop use”"
     }
   ]
 }
