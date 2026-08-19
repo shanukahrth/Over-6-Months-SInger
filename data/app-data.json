@@ -21293,6 +21293,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:40:32",
       "lastUpdated": "2026-08-19T10:10:32.457Z"
+    },
+    "SIS253CU||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:40:13",
+      "lastUpdated": "2026-08-19T10:10:13.144Z"
     }
   },
   "showroomVisits": {
@@ -21699,6 +21706,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:40:13",
+      "iso": "2026-08-19T10:10:13.146Z",
+      "action": "updated remark for SIS253CU at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "15:40:32",
@@ -22040,13 +22054,6 @@
       "time": "15:31:36",
       "iso": "2026-08-19T10:01:36.633Z",
       "action": "updated remark for WP-SP-SG-S at KALAWANCHIKUDY: “Revert 50% Discount”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:31:53",
-      "iso": "2026-08-19T10:01:53.072Z",
-      "action": "updated remark for SLE32F490 at NATTANDIYA: “Damaged - 90%”"
     }
   ]
 }
