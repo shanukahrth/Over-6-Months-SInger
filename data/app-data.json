@@ -19202,11 +19202,11 @@
       "lastUpdated": "2026-08-19T08:18:16.952Z"
     },
     "SLE32D1800||KANDY": {
-      "remark": "Damaged",
+      "remark": "60%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "13:48:24",
-      "lastUpdated": "2026-08-19T08:18:24.222Z"
+      "commentTime": "13:48:34",
+      "lastUpdated": "2026-08-19T08:18:34.106Z"
     }
   },
   "showroomVisits": {
@@ -19615,6 +19615,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:48:34",
+      "iso": "2026-08-19T08:18:34.108Z",
+      "action": "updated remark for SLE32D1800 at KANDY: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:48:24",
       "iso": "2026-08-19T08:18:24.224Z",
       "action": "updated remark for SLE32D1800 at KANDY: “Damaged”"
@@ -19954,13 +19961,6 @@
       "time": "13:43:28",
       "iso": "2026-08-19T08:13:28.855Z",
       "action": "updated remark for U-BS8816 at KANDY: “MOP - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:43:21",
-      "iso": "2026-08-19T08:13:21.578Z",
-      "action": "updated remark for SIN-RFC-2058 at KANDY: “Sellable at Existing Price”"
     }
   ]
 }
