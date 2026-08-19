@@ -24191,6 +24191,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:22:02",
       "lastUpdated": "2026-08-19T12:52:02.234Z"
+    },
+    "LF-BUDGET-ST-CLM-S||SHOMES- KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:22:07",
+      "lastUpdated": "2026-08-19T12:52:07.551Z"
     }
   },
   "showroomVisits": {
@@ -24839,6 +24846,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:22:07",
+      "iso": "2026-08-19T12:52:07.552Z",
+      "action": "updated remark for LF-BUDGET-ST-CLM-S at SHOMES- KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:22:02",
       "iso": "2026-08-19T12:52:02.235Z",
       "action": "updated remark for LF-BUDGET-ST-AGO-S at SHOMES- KANDY: “50%”"
@@ -25178,13 +25192,6 @@
       "time": "18:12:03",
       "iso": "2026-08-19T12:42:03.115Z",
       "action": "updated remark for ULED32D1810-U at KANDY - B: “Panel Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:11:54",
-      "iso": "2026-08-19T12:41:54.981Z",
-      "action": "updated remark for ULED24D1000 at KANDY - B: “Shop use”"
     }
   ]
 }
