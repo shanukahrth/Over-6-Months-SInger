@@ -22238,6 +22238,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:00:50",
       "lastUpdated": "2026-08-19T11:30:50.768Z"
+    },
+    "PN-SC-UA3GS-K||WENNAPPUWA": {
+      "remark": "Revert Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:01:26",
+      "lastUpdated": "2026-08-19T11:31:26.988Z"
     }
   },
   "showroomVisits": {
@@ -22862,6 +22869,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:01:26",
+      "iso": "2026-08-19T11:31:26.989Z",
+      "action": "updated remark for PN-SC-UA3GS-K at WENNAPPUWA: “Revert Damaged - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:00:50",
       "iso": "2026-08-19T11:30:50.769Z",
       "action": "updated remark for PN-SC-TMAX5GSK at WENNAPPUWA: “Damaged - 75%”"
@@ -23201,13 +23215,6 @@
       "time": "16:48:03",
       "iso": "2026-08-19T11:18:03.654Z",
       "action": "updated PELIYAGODA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:47:54",
-      "iso": "2026-08-19T11:17:54.821Z",
-      "action": "updated MINUWANGODA - B showroom (visitDate: 2026-08-13)"
     }
   ]
 }
