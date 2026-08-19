@@ -21930,6 +21930,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:36:36",
       "lastUpdated": "2026-08-19T11:06:36.529Z"
+    },
+    "KA-SST032BKI||WENNAPPUWA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:36:47",
+      "lastUpdated": "2026-08-19T11:06:47.142Z"
     }
   },
   "showroomVisits": {
@@ -22338,6 +22345,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:36:47",
+      "iso": "2026-08-19T11:06:47.142Z",
+      "action": "updated remark for KA-SST032BKI at WENNAPPUWA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:36:36",
       "iso": "2026-08-19T11:06:36.530Z",
       "action": "updated remark for KA-PRISMA-1.7 at WENNAPPUWA: “Damaged - 90%”"
@@ -22677,13 +22691,6 @@
       "time": "16:16:28",
       "iso": "2026-08-19T10:46:28.204Z",
       "action": "updated remark for AS-BM155T-I5W10 at WENNAPPUWA (cleared)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:16:26",
-      "iso": "2026-08-19T10:46:26.410Z",
-      "action": "updated remark for AS-CEL-X515-487-128SSD-SL at WENNAPPUWA: “Damaged/Revert - 80%”"
     }
   ]
 }
