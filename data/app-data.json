@@ -25558,11 +25558,11 @@
       "lastUpdated": "2026-08-19T13:25:46.913Z"
     },
     "ACER-PJ-S1286H||PILIMATHALAWA": {
-      "remark": "50%",
+      "remark": "50% - Damaged",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "18:55:53",
-      "lastUpdated": "2026-08-19T13:25:53.049Z"
+      "commentTime": "18:55:58",
+      "lastUpdated": "2026-08-19T13:25:58.882Z"
     }
   },
   "showroomVisits": {
@@ -26211,6 +26211,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:55:58",
+      "iso": "2026-08-19T13:25:58.884Z",
+      "action": "updated remark for ACER-PJ-S1286H at PILIMATHALAWA: “50% - Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:55:53",
       "iso": "2026-08-19T13:25:53.050Z",
       "action": "updated remark for ACER-PJ-S1286H at PILIMATHALAWA: “50%”"
@@ -26550,13 +26557,6 @@
       "time": "18:50:14",
       "iso": "2026-08-19T13:20:14.057Z",
       "action": "updated remark for SID-2432 at PILIMATHALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:50:08",
-      "iso": "2026-08-19T13:20:08.348Z",
-      "action": "updated remark for SLE-55IFPD-14 at PILIMATHALAWA: “60%”"
     }
   ]
 }
