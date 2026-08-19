@@ -23232,6 +23232,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:59:19",
       "lastUpdated": "2026-08-19T12:29:19.256Z"
+    },
+    "ALU-CL-4FT-S||KANDY - B": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:59:35",
+      "lastUpdated": "2026-08-19T12:29:35.836Z"
+    },
+    "ALU-DSL-7FT-S||KANDY - B": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:59:37",
+      "lastUpdated": "2026-08-19T12:29:37.232Z"
+    },
+    "SLE-65IFPDT||KANDY - B": {
+      "remark": "Pending exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:59:46",
+      "lastUpdated": "2026-08-19T12:29:46.626Z"
     }
   },
   "showroomVisits": {
@@ -23880,6 +23901,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "17:59:46",
+      "iso": "2026-08-19T12:29:46.629Z",
+      "action": "updated remark for SLE-65IFPDT at KANDY - B: “Pending exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:59:37",
+      "iso": "2026-08-19T12:29:37.234Z",
+      "action": "updated remark for ALU-DSL-7FT-S at KANDY - B: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:59:35",
+      "iso": "2026-08-19T12:29:35.837Z",
+      "action": "updated remark for ALU-CL-4FT-S at KANDY - B: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "17:59:19",
       "iso": "2026-08-19T12:29:19.259Z",
       "action": "updated remark for WF-MILAN-BR-S at KANDY - B: “50%”"
@@ -24205,27 +24247,6 @@
       "time": "17:52:19",
       "iso": "2026-08-19T12:22:19.789Z",
       "action": "updated remark for MHC-V13 at KANDY - B: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:52:11",
-      "iso": "2026-08-19T12:22:11.283Z",
-      "action": "updated remark for MHC-M40D at KANDY - B: “Defective”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:52:04",
-      "iso": "2026-08-19T12:22:04.986Z",
-      "action": "updated remark for MAS-VU3BWJ at KANDY - B: “Shop use”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:51:58",
-      "iso": "2026-08-19T12:21:58.662Z",
-      "action": "updated remark for TF-FP24-SCR342 at DERANIYAGALA: “30%”"
     }
   ]
 }
