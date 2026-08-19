@@ -25416,6 +25416,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:53:09",
       "lastUpdated": "2026-08-19T13:23:09.613Z"
+    },
+    "VT-1047CN||PILIMATHALAWA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:53:13",
+      "lastUpdated": "2026-08-19T13:23:13.487Z"
     }
   },
   "showroomVisits": {
@@ -26064,6 +26071,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:53:13",
+      "iso": "2026-08-19T13:23:13.487Z",
+      "action": "updated remark for VT-1047CN at PILIMATHALAWA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:53:09",
       "iso": "2026-08-19T13:23:09.614Z",
       "action": "updated remark for SIN-RFC-2012 at PILIMATHALAWA: “Sellable at existing price”"
@@ -26403,13 +26417,6 @@
       "time": "18:47:38",
       "iso": "2026-08-19T13:17:38.292Z",
       "action": "updated remark for WF-CLASSIC-MH at PILIMATHALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:47:29",
-      "iso": "2026-08-19T13:17:29.087Z",
-      "action": "updated remark for WF-CLASSIC-MH at PILIMATHALAWA: “Sellable at existing price”"
     }
   ]
 }
