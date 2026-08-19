@@ -25339,6 +25339,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:51:48",
       "lastUpdated": "2026-08-19T13:21:48.754Z"
+    },
+    "PCP30||PILIMATHALAWA": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:51:53",
+      "lastUpdated": "2026-08-19T13:21:53.171Z"
+    },
+    "PCP50||PILIMATHALAWA": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:51:55",
+      "lastUpdated": "2026-08-19T13:21:55.574Z"
     }
   },
   "showroomVisits": {
@@ -25987,6 +26001,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:51:55",
+      "iso": "2026-08-19T13:21:55.575Z",
+      "action": "updated remark for PCP50 at PILIMATHALAWA: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:51:53",
+      "iso": "2026-08-19T13:21:53.173Z",
+      "action": "updated remark for PCP30 at PILIMATHALAWA: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:51:48",
       "iso": "2026-08-19T13:21:48.756Z",
       "action": "updated remark for WP-MAGICOOKPRO-25GE at PILIMATHALAWA: “20%”"
@@ -26319,20 +26347,6 @@
       "time": "18:46:21",
       "iso": "2026-08-19T13:16:21.454Z",
       "action": "updated remark for WFL-GRIP-CT02-S at PILIMATHALAWA: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:46:12",
-      "iso": "2026-08-19T13:16:12.914Z",
-      "action": "updated remark for LF-ORGN-BSC-CLM-S at PILIMATHALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:46:08",
-      "iso": "2026-08-19T13:16:08.324Z",
-      "action": "updated remark for LF-HALDEN-BSC-BL-S at PILIMATHALAWA: “50%”"
     }
   ]
 }
