@@ -19837,6 +19837,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:54:43",
       "lastUpdated": "2026-08-19T09:24:43.017Z"
+    },
+    "LF-ECO-SD-SHW-S||NATTANDIYA": {
+      "remark": "Damaged & Obsolete - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:54:38",
+      "lastUpdated": "2026-08-19T09:24:38.939Z"
+    },
+    "LF-ECO-SD-WNG-S||NATTANDIYA": {
+      "remark": "Damaged & Obsolete - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:54:48",
+      "lastUpdated": "2026-08-19T09:24:48.724Z"
     }
   },
   "showroomVisits": {
@@ -20243,6 +20257,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:54:48",
+      "iso": "2026-08-19T09:24:48.729Z",
+      "action": "updated remark for LF-ECO-SD-WNG-S at NATTANDIYA: “Damaged & Obsolete - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:54:38",
+      "iso": "2026-08-19T09:24:38.940Z",
+      "action": "updated remark for LF-ECO-SD-SHW-S at NATTANDIYA: “Damaged & Obsolete - 50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "14:54:43",
@@ -20577,20 +20605,6 @@
       "time": "14:25:49",
       "iso": "2026-08-19T08:55:49.739Z",
       "action": "updated remark for TF-CM-APR737 at BATTICALOA B: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:25:33",
-      "iso": "2026-08-19T08:55:33.417Z",
-      "action": "updated remark for TF-CM-APR737 at BATTICALOA B: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:24:47",
-      "iso": "2026-08-19T08:54:47.342Z",
-      "action": "updated remark for KA-SKA3002 at BATTICALOA B: “90% Discount”"
     }
   ]
 }
