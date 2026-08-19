@@ -25668,6 +25668,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:57:12",
       "lastUpdated": "2026-08-19T13:27:12.732Z"
+    },
+    "DH-ST1000VX001||PILIMATHALAWA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:57:16",
+      "lastUpdated": "2026-08-19T13:27:16.820Z"
     }
   },
   "showroomVisits": {
@@ -26316,6 +26323,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:57:16",
+      "iso": "2026-08-19T13:27:16.822Z",
+      "action": "updated remark for DH-ST1000VX001 at PILIMATHALAWA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:57:12",
       "iso": "2026-08-19T13:27:12.734Z",
       "action": "updated remark for DH-PFM300 at PILIMATHALAWA: “70%”"
@@ -26655,13 +26669,6 @@
       "time": "18:51:53",
       "iso": "2026-08-19T13:21:53.173Z",
       "action": "updated remark for PCP30 at PILIMATHALAWA: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:51:48",
-      "iso": "2026-08-19T13:21:48.756Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at PILIMATHALAWA: “20%”"
     }
   ]
 }
