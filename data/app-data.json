@@ -20390,6 +20390,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:10:02",
       "lastUpdated": "2026-08-19T09:40:02.975Z"
+    },
+    "SB-AAA||PERADENIYA": {
+      "remark": "To be dropped",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:10:15",
+      "lastUpdated": "2026-08-19T09:40:15.455Z"
     }
   },
   "showroomVisits": {
@@ -20796,6 +20803,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "15:10:15",
+      "iso": "2026-08-19T09:40:15.456Z",
+      "action": "updated remark for SB-AAA at PERADENIYA: “To be dropped”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-19",
       "time": "15:10:02",
@@ -21137,13 +21151,6 @@
       "time": "15:02:45",
       "iso": "2026-08-19T09:32:45.532Z",
       "action": "updated remark for SAS24TCNR at NATTANDIYA: “50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:02:17",
-      "iso": "2026-08-19T09:32:17.545Z",
-      "action": "updated remark for RCW-1528 at NATTANDIYA: “Damaged - 85%”"
     }
   ]
 }
