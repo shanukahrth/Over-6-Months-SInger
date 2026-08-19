@@ -24436,6 +24436,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:28:06",
       "lastUpdated": "2026-08-19T12:58:06.903Z"
+    },
+    "WF-BERLIN-2WD-WW-S||SHOMES- KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:29:02",
+      "lastUpdated": "2026-08-19T12:59:02.092Z"
     }
   },
   "showroomVisits": {
@@ -25084,6 +25091,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:29:02",
+      "iso": "2026-08-19T12:59:02.095Z",
+      "action": "updated remark for WF-BERLIN-2WD-WW-S at SHOMES- KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:28:06",
       "iso": "2026-08-19T12:58:06.904Z",
       "action": "updated remark for LF-RUBY-3WD-SHW-S at SHOMES- KANDY: “Additional 25%”"
@@ -25423,13 +25437,6 @@
       "time": "18:20:39",
       "iso": "2026-08-19T12:50:39.033Z",
       "action": "updated remark for OF-SW22-S at SHOMES- KANDY: “Reverted & Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:20:37",
-      "iso": "2026-08-19T12:50:37.937Z",
-      "action": "updated remark for OF-SW120-S at SHOMES- KANDY: “Reverted & Unsellable”"
     }
   ]
 }
