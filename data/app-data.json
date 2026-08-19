@@ -18885,6 +18885,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:43:38",
       "lastUpdated": "2026-08-19T08:13:38.669Z"
+    },
+    "HON-H90-12-512-BLU||KANDY": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:43:44",
+      "lastUpdated": "2026-08-19T08:13:44.482Z"
     }
   },
   "showroomVisits": {
@@ -19293,6 +19300,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:43:44",
+      "iso": "2026-08-19T08:13:44.482Z",
+      "action": "updated remark for HON-H90-12-512-BLU at KANDY: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:43:38",
       "iso": "2026-08-19T08:13:38.669Z",
       "action": "updated remark for HU-SECURITY at KANDY: “Shop use”"
@@ -19632,13 +19646,6 @@
       "time": "13:25:28",
       "iso": "2026-08-19T07:55:28.575Z",
       "action": "updated remark for PN-F-409MNBHMKH at KANDY: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:25:24",
-      "iso": "2026-08-19T07:55:24.881Z",
-      "action": "updated remark for PN-F-407XNBAMKH at KANDY: “Sellable at existing price”"
     }
   ]
 }
