@@ -17004,11 +17004,11 @@
       "lastUpdated": "2026-08-19T04:56:49.777Z"
     },
     "PN-SC-AKX910GSK||KIRIELLA": {
-      "remark": "Damaged",
+      "remark": "Damaged.80%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "10:27:58",
-      "lastUpdated": "2026-08-19T04:57:58.096Z"
+      "commentTime": "10:28:56",
+      "lastUpdated": "2026-08-19T04:58:56.926Z"
     },
     "SIN-MH44SW||KIRIELLA": {
       "remark": "Damaged.90%",
@@ -17416,6 +17416,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:28:56",
+      "iso": "2026-08-19T04:58:56.931Z",
+      "action": "updated remark for PN-SC-AKX910GSK at KIRIELLA: “Damaged.80%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:28:42",
       "iso": "2026-08-19T04:58:42.315Z",
       "action": "updated remark for SIN-MH44SW at KIRIELLA: “Damaged.90%”"
@@ -17755,13 +17762,6 @@
       "time": "09:42:23",
       "iso": "2026-08-18T04:12:23.857Z",
       "action": "updated MATARA-A showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-18",
-      "time": "09:42:18",
-      "iso": "2026-08-18T04:12:18.202Z",
-      "action": "updated MATARA-A showroom (visitDate: 2026-08-18)"
     }
   ]
 }
