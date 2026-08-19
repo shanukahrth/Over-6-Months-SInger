@@ -22537,7 +22537,7 @@
     },
     "MINUWANGODA - B||PELIYAGODA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Shanuka Herath",
@@ -22585,6 +22585,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:47:54",
+      "iso": "2026-08-19T11:17:54.821Z",
+      "action": "updated MINUWANGODA - B showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22927,13 +22934,6 @@
       "time": "16:40:30",
       "iso": "2026-08-19T11:10:30.683Z",
       "action": "updated BADULLA - C showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:40:29",
-      "iso": "2026-08-19T11:10:29.362Z",
-      "action": "updated BADULLA B showroom (team: Team Furniture , Methmal)"
     }
   ]
 }
