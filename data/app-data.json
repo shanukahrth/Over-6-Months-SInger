@@ -25661,6 +25661,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:57:09",
       "lastUpdated": "2026-08-19T13:27:09.879Z"
+    },
+    "DH-PFM300||PILIMATHALAWA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:57:12",
+      "lastUpdated": "2026-08-19T13:27:12.732Z"
     }
   },
   "showroomVisits": {
@@ -26309,6 +26316,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:57:12",
+      "iso": "2026-08-19T13:27:12.734Z",
+      "action": "updated remark for DH-PFM300 at PILIMATHALAWA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:57:09",
       "iso": "2026-08-19T13:27:09.880Z",
       "action": "updated remark for DH-XVR1B04-I at PILIMATHALAWA: “70%”"
@@ -26648,13 +26662,6 @@
       "time": "18:51:48",
       "iso": "2026-08-19T13:21:48.756Z",
       "action": "updated remark for WP-MAGICOOKPRO-25GE at PILIMATHALAWA: “20%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:51:45",
-      "iso": "2026-08-19T13:21:45.003Z",
-      "action": "updated remark for SMW928AS3 at PILIMATHALAWA: “60%”"
     }
   ]
 }
