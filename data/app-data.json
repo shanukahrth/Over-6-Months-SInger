@@ -19627,6 +19627,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:25:49",
       "lastUpdated": "2026-08-19T08:55:49.738Z"
+    },
+    "WF-PRESTON-BSC-S||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:26:22",
+      "lastUpdated": "2026-08-19T08:56:22.241Z"
     }
   },
   "showroomVisits": {
@@ -20035,6 +20042,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "14:26:22",
+      "iso": "2026-08-19T08:56:22.244Z",
+      "action": "updated remark for WF-PRESTON-BSC-S at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "14:25:49",
       "iso": "2026-08-19T08:55:49.739Z",
       "action": "updated remark for TF-CM-APR737 at BATTICALOA B: “50% Discount”"
@@ -20374,13 +20388,6 @@
       "time": "13:59:40",
       "iso": "2026-08-19T08:29:40.260Z",
       "action": "updated remark for SMGAR50F12D0J at PERADENIYA: “Damaged - 80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "13:59:20",
-      "iso": "2026-08-19T08:29:20.356Z",
-      "action": "updated remark for SMGAR50F12D0J at PERADENIYA: “70%”"
     }
   ]
 }
