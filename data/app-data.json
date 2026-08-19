@@ -19207,6 +19207,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:48:34",
       "lastUpdated": "2026-08-19T08:18:34.106Z"
+    },
+    "SLE32E710||KANDY": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:48:43",
+      "lastUpdated": "2026-08-19T08:18:43.204Z"
     }
   },
   "showroomVisits": {
@@ -19615,6 +19622,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:48:43",
+      "iso": "2026-08-19T08:18:43.205Z",
+      "action": "updated remark for SLE32E710 at KANDY: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:48:34",
       "iso": "2026-08-19T08:18:34.108Z",
       "action": "updated remark for SLE32D1800 at KANDY: “60%”"
@@ -19954,13 +19968,6 @@
       "time": "13:43:33",
       "iso": "2026-08-19T08:13:33.230Z",
       "action": "updated remark for HU-MATEPAD-SE11-GRY at KANDY: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:43:28",
-      "iso": "2026-08-19T08:13:28.855Z",
-      "action": "updated remark for U-BS8816 at KANDY: “MOP - 2,000”"
     }
   ]
 }
