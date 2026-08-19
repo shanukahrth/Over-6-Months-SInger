@@ -18878,6 +18878,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:43:33",
       "lastUpdated": "2026-08-19T08:13:33.229Z"
+    },
+    "HU-SECURITY||KANDY": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:43:38",
+      "lastUpdated": "2026-08-19T08:13:38.669Z"
     }
   },
   "showroomVisits": {
@@ -19286,6 +19293,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:43:38",
+      "iso": "2026-08-19T08:13:38.669Z",
+      "action": "updated remark for HU-SECURITY at KANDY: “Shop use”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:43:33",
       "iso": "2026-08-19T08:13:33.230Z",
       "action": "updated remark for HU-MATEPAD-SE11-GRY at KANDY: “60%”"
@@ -19625,13 +19639,6 @@
       "time": "13:25:24",
       "iso": "2026-08-19T07:55:24.881Z",
       "action": "updated remark for PN-F-407XNBAMKH at KANDY: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:25:20",
-      "iso": "2026-08-19T07:55:20.195Z",
-      "action": "updated remark for KDK-N56YG at KANDY: “Sellable at existing price”"
     }
   ]
 }
