@@ -20327,6 +20327,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:08:43",
       "lastUpdated": "2026-08-19T09:38:43.599Z"
+    },
+    "SIN-EP170||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:08:45",
+      "lastUpdated": "2026-08-19T09:38:45.753Z"
     }
   },
   "showroomVisits": {
@@ -20733,6 +20740,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:08:45",
+      "iso": "2026-08-19T09:38:45.755Z",
+      "action": "updated remark for SIN-EP170 at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:08:38",
+      "iso": "2026-08-19T09:38:38.640Z",
+      "action": "updated remark for SIN-EP170 at NATTANDIYA: “Can sell this by 31st Aug”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "15:08:43",
@@ -21067,20 +21088,6 @@
       "time": "15:01:12",
       "iso": "2026-08-19T09:31:12.673Z",
       "action": "updated remark for PTT-200GT at NATTANDIYA: “Sold”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:01:08",
-      "iso": "2026-08-19T09:31:08.900Z",
-      "action": "updated remark for PTT-200GT at NATTANDIYA: “Sold”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:00:47",
-      "iso": "2026-08-19T09:30:47.935Z",
-      "action": "updated remark for PM-COMP-8 at NATTANDIYA: “Shop used”"
     }
   ]
 }
