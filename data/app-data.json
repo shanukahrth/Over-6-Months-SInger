@@ -22933,11 +22933,11 @@
       "lastUpdated": "2026-08-19T12:22:04.982Z"
     },
     "MHC-M40D||KANDY - B": {
-      "remark": "Defective",
+      "remark": "Unsellable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "17:52:11",
-      "lastUpdated": "2026-08-19T12:22:11.281Z"
+      "commentTime": "17:52:46",
+      "lastUpdated": "2026-08-19T12:22:46.558Z"
     },
     "MHC-V13||KANDY - B": {
       "remark": "80%",
@@ -23614,6 +23614,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "17:52:46",
+      "iso": "2026-08-19T12:22:46.559Z",
+      "action": "updated remark for MHC-M40D at KANDY - B: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "17:52:43",
       "iso": "2026-08-19T12:22:43.445Z",
       "action": "updated remark for SXLC7371K at KANDY - B: “Unsellable”"
@@ -23953,13 +23960,6 @@
       "time": "17:37:57",
       "iso": "2026-08-19T12:07:57.117Z",
       "action": "updated remark for WF-SKY-211-MR-S at WENNAPPUWA: “Damaged - 25%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:38:13",
-      "iso": "2026-08-19T12:08:13.281Z",
-      "action": "updated remark for DELL-3593-I3W10-SIL at DERANIYAGALA: “70%”"
     }
   ]
 }
