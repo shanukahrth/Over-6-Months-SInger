@@ -17366,6 +17366,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:52:14",
       "lastUpdated": "2026-08-19T05:22:14.025Z"
+    },
+    "RIYLTA-MF12V4||KIRIELLA": {
+      "remark": "Rtn",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:52:21",
+      "lastUpdated": "2026-08-19T05:22:21.988Z"
     }
   },
   "showroomVisits": {
@@ -17766,6 +17773,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:52:21",
+      "iso": "2026-08-19T05:22:21.994Z",
+      "action": "updated remark for RIYLTA-MF12V4 at KIRIELLA: “Rtn”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:52:14",
       "iso": "2026-08-19T05:22:14.031Z",
       "action": "updated remark for STT-KGT200 at KIRIELLA: “Parts missing.”"
@@ -18105,13 +18119,6 @@
       "time": "10:34:01",
       "iso": "2026-08-19T05:04:01.097Z",
       "action": "updated remark for FAN-P-SF1605HR at KIRIELLA: “12000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:33:28",
-      "iso": "2026-08-19T05:03:28.974Z",
-      "action": "updated remark for SIN-DEC-DCWL at KIRIELLA: “Sellable”"
     }
   ]
 }
