@@ -19221,6 +19221,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:48:47",
       "lastUpdated": "2026-08-19T08:18:47.704Z"
+    },
+    "SLE55GENR||KANDY": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:49:08",
+      "lastUpdated": "2026-08-19T08:19:08.613Z"
     }
   },
   "showroomVisits": {
@@ -19629,6 +19636,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:49:08",
+      "iso": "2026-08-19T08:19:08.617Z",
+      "action": "updated remark for SLE55GENR at KANDY: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:48:47",
       "iso": "2026-08-19T08:18:47.705Z",
       "action": "updated remark for SLE40D600A at KANDY: “50%”"
@@ -19968,13 +19982,6 @@
       "time": "13:43:44",
       "iso": "2026-08-19T08:13:44.482Z",
       "action": "updated remark for HON-H90-12-512-BLU at KANDY: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:43:38",
-      "iso": "2026-08-19T08:13:38.669Z",
-      "action": "updated remark for HU-SECURITY at KANDY: “Shop use”"
     }
   ]
 }
