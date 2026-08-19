@@ -23302,6 +23302,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:01:16",
       "lastUpdated": "2026-08-19T12:31:16.246Z"
+    },
+    "LP-AP01||KANDY - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:01:21",
+      "lastUpdated": "2026-08-19T12:31:21.992Z"
     }
   },
   "showroomVisits": {
@@ -23950,6 +23957,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:01:21",
+      "iso": "2026-08-19T12:31:21.994Z",
+      "action": "updated remark for LP-AP01 at KANDY - B: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:01:16",
       "iso": "2026-08-19T12:31:16.247Z",
       "action": "updated remark for ST038 at KANDY - B: “80%”"
@@ -24289,13 +24303,6 @@
       "time": "17:53:22",
       "iso": "2026-08-19T12:23:22.158Z",
       "action": "updated remark for DELL-3593-I5W10-SIL at KANDY - B: “To be transferred to discount shop”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:53:05",
-      "iso": "2026-08-19T12:23:05.362Z",
-      "action": "updated remark for AS-I3-WIN10-8G at KANDY - B: “68%”"
     }
   ]
 }
