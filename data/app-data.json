@@ -19753,6 +19753,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:51:06",
       "lastUpdated": "2026-08-19T09:21:06.185Z"
+    },
+    "CLIP-MCW||NATTANDIYA": {
+      "remark": "Shop Fix",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:50:48",
+      "lastUpdated": "2026-08-19T09:20:48.059Z"
+    },
+    "DVP-SR370||NATTANDIYA": {
+      "remark": "Sold",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:50:59",
+      "lastUpdated": "2026-08-19T09:20:59.595Z"
+    },
+    "FAN-P-SF1605HL||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:51:19",
+      "lastUpdated": "2026-08-19T09:21:19.989Z"
     }
   },
   "showroomVisits": {
@@ -20159,6 +20180,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:51:19",
+      "iso": "2026-08-19T09:21:19.992Z",
+      "action": "updated remark for FAN-P-SF1605HL at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:50:59",
+      "iso": "2026-08-19T09:20:59.596Z",
+      "action": "updated remark for DVP-SR370 at NATTANDIYA: “Sold”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:50:48",
+      "iso": "2026-08-19T09:20:48.061Z",
+      "action": "updated remark for CLIP-MCW at NATTANDIYA: “Shop Fix”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
       "time": "14:51:06",
@@ -20486,27 +20528,6 @@
       "time": "14:20:02",
       "iso": "2026-08-19T08:50:02.511Z",
       "action": "updated remark for SLE24D1000 at BATTICALOA B: “85% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:19:43",
-      "iso": "2026-08-19T08:49:43.478Z",
-      "action": "updated remark for ZTE-A31-LITE-GRY at BATTICALOA B: “90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:19:31",
-      "iso": "2026-08-19T08:49:31.043Z",
-      "action": "updated remark for PH-HP8316 at BATTICALOA B: “30% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:19:17",
-      "iso": "2026-08-19T08:49:17.323Z",
-      "action": "updated remark for SLE24E510A at BATTICALOA B: “85% Discount”"
     }
   ]
 }
