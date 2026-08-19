@@ -19900,6 +19900,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:56:32",
       "lastUpdated": "2026-08-19T09:26:32.328Z"
+    },
+    "AC-TEMP-NOVA-2I||PERADENIYA": {
+      "remark": "To be dropped",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:56:55",
+      "lastUpdated": "2026-08-19T09:26:55.307Z"
     }
   },
   "showroomVisits": {
@@ -20306,6 +20313,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "14:56:55",
+      "iso": "2026-08-19T09:26:55.308Z",
+      "action": "updated remark for AC-TEMP-NOVA-2I at PERADENIYA: “To be dropped”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-19",
       "time": "14:56:32",
@@ -20647,13 +20661,6 @@
       "time": "14:39:28",
       "iso": "2026-08-19T09:09:28.370Z",
       "action": "updated remark for SAS24TCNR at PERADENIYA (cleared)"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "14:39:24",
-      "iso": "2026-08-19T09:09:24.552Z",
-      "action": "updated remark for SL-9VNF at PERADENIYA (cleared)"
     }
   ]
 }
