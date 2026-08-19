@@ -21762,6 +21762,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:23:42",
       "lastUpdated": "2026-08-19T10:53:42.504Z"
+    },
+    "FAN-P-SF1605HR||WENNAPPUWA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:24:04",
+      "lastUpdated": "2026-08-19T10:54:04.622Z"
     }
   },
   "showroomVisits": {
@@ -22170,6 +22177,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:24:04",
+      "iso": "2026-08-19T10:54:04.623Z",
+      "action": "updated remark for FAN-P-SF1605HR at WENNAPPUWA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:23:42",
       "iso": "2026-08-19T10:53:42.506Z",
       "action": "updated remark for DUM - SMGAR50F24D1J at WENNAPPUWA: “Dummy”"
@@ -22509,13 +22523,6 @@
       "time": "15:56:05",
       "iso": "2026-08-19T10:26:05.082Z",
       "action": "updated remark for DELL-3582-PQC-W10 at PERADENIYA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "15:55:49",
-      "iso": "2026-08-19T10:25:49.652Z",
-      "action": "updated remark for AS-I3-11G-256-X513-1060-L at PERADENIYA: “70%”"
     }
   ]
 }
