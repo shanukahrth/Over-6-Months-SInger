@@ -19809,6 +19809,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:52:45",
       "lastUpdated": "2026-08-19T09:22:45.147Z"
+    },
+    "SIN-AIRPKO1B||PERADENIYA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:53:06",
+      "lastUpdated": "2026-08-19T09:23:06.186Z"
     }
   },
   "showroomVisits": {
@@ -20215,6 +20222,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "14:53:06",
+      "iso": "2026-08-19T09:23:06.188Z",
+      "action": "updated remark for SIN-AIRPKO1B at PERADENIYA: “Damaged - 80%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-19",
       "time": "14:52:45",
@@ -20556,13 +20570,6 @@
       "time": "14:21:46",
       "iso": "2026-08-19T08:51:46.333Z",
       "action": "updated remark for TF-SP16-063 at BATTICALOA B: “35% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:21:38",
-      "iso": "2026-08-19T08:51:38.312Z",
-      "action": "updated remark for LF-CT-S at BATTICALOA B: “50% Discount”"
     }
   ]
 }
