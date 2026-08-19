@@ -24226,6 +24226,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:22:35",
       "lastUpdated": "2026-08-19T12:52:35.327Z"
+    },
+    "PU-SINK||SHOMES- KANDY": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:22:39",
+      "lastUpdated": "2026-08-19T12:52:39.757Z"
     }
   },
   "showroomVisits": {
@@ -24874,6 +24881,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:22:39",
+      "iso": "2026-08-19T12:52:39.758Z",
+      "action": "updated remark for PU-SINK at SHOMES- KANDY: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:22:35",
       "iso": "2026-08-19T12:52:35.329Z",
       "action": "updated remark for LF-SLVY-DTO-CLM-S at SHOMES- KANDY: “50%”"
@@ -25213,13 +25227,6 @@
       "time": "18:13:05",
       "iso": "2026-08-19T12:43:05.304Z",
       "action": "updated remark for WP-WFC105604RT-G at KANDY - B: “23%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:12:59",
-      "iso": "2026-08-19T12:42:59.560Z",
-      "action": "updated remark for WP-WDC11704RG-G at KANDY - B: “Unsellable”"
     }
   ]
 }
