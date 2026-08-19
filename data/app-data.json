@@ -22000,6 +22000,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:46:36",
       "lastUpdated": "2026-08-19T11:16:36.988Z"
+    },
+    "LF-BUDGET-ST-AGO-S||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:46:40",
+      "lastUpdated": "2026-08-19T11:16:40.456Z"
     }
   },
   "showroomVisits": {
@@ -22464,6 +22471,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:46:40",
+      "iso": "2026-08-19T11:16:40.456Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:46:36",
       "iso": "2026-08-19T11:16:36.989Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at WENNAPPUWA: “Damaged - 50%”"
@@ -22803,13 +22817,6 @@
       "time": "16:29:28",
       "iso": "2026-08-19T10:59:28.533Z",
       "action": "updated remark for H-BD-1054HVOS at WENNAPPUWA: “Sold with 20%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:29:09",
-      "iso": "2026-08-19T10:59:09.960Z",
-      "action": "updated remark for H-RAPG012HFEOE at WENNAPPUWA (cleared)"
     }
   ]
 }
