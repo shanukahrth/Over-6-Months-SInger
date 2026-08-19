@@ -23491,6 +23491,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:04:26",
       "lastUpdated": "2026-08-19T12:34:26.688Z"
+    },
+    "HON-X9B-12-256-SIL||KANDY - B": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:04:31",
+      "lastUpdated": "2026-08-19T12:34:31.316Z"
     }
   },
   "showroomVisits": {
@@ -24139,6 +24146,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:04:31",
+      "iso": "2026-08-19T12:34:31.316Z",
+      "action": "updated remark for HON-X9B-12-256-SIL at KANDY - B: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:04:26",
       "iso": "2026-08-19T12:34:26.689Z",
       "action": "updated remark for HON-X7C-8-256-GRN at KANDY - B: “40%”"
@@ -24478,13 +24492,6 @@
       "time": "17:58:23",
       "iso": "2026-08-19T12:28:23.053Z",
       "action": "updated remark for STT-KHT009 at DERANIYAGALA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:58:18",
-      "iso": "2026-08-19T12:28:18.355Z",
-      "action": "updated remark for STT-200K at DERANIYAGALA: “Sellable”"
     }
   ]
 }
