@@ -24100,6 +24100,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:19:31",
       "lastUpdated": "2026-08-19T12:49:31.644Z"
+    },
+    "GRIP-8201-S||SHOMES- KANDY": {
+      "remark": "Pending location transfer",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:19:51",
+      "lastUpdated": "2026-08-19T12:49:51.613Z"
     }
   },
   "showroomVisits": {
@@ -24748,6 +24755,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:19:51",
+      "iso": "2026-08-19T12:49:51.614Z",
+      "action": "updated remark for GRIP-8201-S at SHOMES- KANDY: “Pending location transfer”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:19:31",
       "iso": "2026-08-19T12:49:31.647Z",
       "action": "updated remark for WG-FAN-BXS at SHOMES- KANDY: “70%”"
@@ -25087,13 +25101,6 @@
       "time": "18:10:29",
       "iso": "2026-08-19T12:40:29.138Z",
       "action": "updated remark for SLE40D600A at DERANIYAGALA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "18:10:20",
-      "iso": "2026-08-19T12:40:20.753Z",
-      "action": "updated remark for SLE32E930 at DERANIYAGALA: “70%”"
     }
   ]
 }
