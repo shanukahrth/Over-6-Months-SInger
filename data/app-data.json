@@ -20075,6 +20075,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:02:33",
       "lastUpdated": "2026-08-19T09:32:33.849Z"
+    },
+    "R-BWS-02||NATTANDIYA": {
+      "remark": "10%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:01:55",
+      "lastUpdated": "2026-08-19T09:31:55.884Z"
+    },
+    "RCW-1528||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:02:17",
+      "lastUpdated": "2026-08-19T09:32:17.543Z"
+    },
+    "SAS24TCNR||NATTANDIYA": {
+      "remark": "50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:02:45",
+      "lastUpdated": "2026-08-19T09:32:45.530Z"
     }
   },
   "showroomVisits": {
@@ -20481,6 +20502,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:02:45",
+      "iso": "2026-08-19T09:32:45.532Z",
+      "action": "updated remark for SAS24TCNR at NATTANDIYA: “50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:02:17",
+      "iso": "2026-08-19T09:32:17.545Z",
+      "action": "updated remark for RCW-1528 at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:01:55",
+      "iso": "2026-08-19T09:31:55.886Z",
+      "action": "updated remark for R-BWS-02 at NATTANDIYA: “10%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
       "time": "15:02:33",
@@ -20808,27 +20850,6 @@
       "time": "14:53:29",
       "iso": "2026-08-19T09:23:29.268Z",
       "action": "updated remark for H-CVW1600 at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:53:24",
-      "iso": "2026-08-19T09:23:24.369Z",
-      "action": "updated remark for H-CVW1600 at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "14:53:06",
-      "iso": "2026-08-19T09:23:06.188Z",
-      "action": "updated remark for SIN-AIRPKO1B at PERADENIYA: “Damaged - 80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:52:45",
-      "iso": "2026-08-19T09:22:45.148Z",
-      "action": "updated remark for H-BD-1054HVOS at NATTANDIYA: “Can sell this by 31st Aug”"
     }
   ]
 }
