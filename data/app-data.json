@@ -8779,11 +8779,11 @@
       "lastUpdated": "2026-08-17T13:13:05.057Z"
     },
     "BRP-CASERL16||HEMMATHAGAMA": {
-      "remark": "Additional 30%",
+      "remark": "50% - Damaged",
       "commentedBy": "Rashmi",
-      "commentDate": "2026-08-17",
-      "commentTime": "18:43:26",
-      "lastUpdated": "2026-08-17T13:13:26.001Z"
+      "commentDate": "2026-08-19",
+      "commentTime": "11:59:41",
+      "lastUpdated": "2026-08-19T06:29:41.871Z"
     },
     "BRP-TW30||HEMMATHAGAMA": {
       "remark": "50%",
@@ -18334,6 +18334,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "11:59:41",
+      "iso": "2026-08-19T06:29:41.873Z",
+      "action": "updated remark for BRP-CASERL16 at HEMMATHAGAMA: “50% - Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "11:59:13",
       "iso": "2026-08-19T06:29:13.515Z",
       "action": "updated remark for WF-LEVON-03-S at HEMMATHAGAMA: “70%”"
@@ -18673,13 +18680,6 @@
       "time": "11:26:50",
       "iso": "2026-08-19T05:56:50.533Z",
       "action": "updated remark for H-R-VX420PB9 at BATTICALOA B: “50% Discount (DAMAGED )”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "11:26:19",
-      "iso": "2026-08-19T05:56:19.976Z",
-      "action": "updated remark for H-R-VX420PB9 at BATTICALOA B: “50% Discount (Damage )”"
     }
   ]
 }
