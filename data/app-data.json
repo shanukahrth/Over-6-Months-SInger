@@ -25311,6 +25311,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:51:16",
       "lastUpdated": "2026-08-19T13:21:16.187Z"
+    },
+    "R-FGAP010||PILIMATHALAWA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:51:25",
+      "lastUpdated": "2026-08-19T13:21:25.587Z"
     }
   },
   "showroomVisits": {
@@ -25959,6 +25966,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:51:25",
+      "iso": "2026-08-19T13:21:25.588Z",
+      "action": "updated remark for R-FGAP010 at PILIMATHALAWA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:51:16",
       "iso": "2026-08-19T13:21:16.188Z",
       "action": "updated remark for TF-CM-APR737 at PILIMATHALAWA: “30%”"
@@ -26298,13 +26312,6 @@
       "time": "18:45:42",
       "iso": "2026-08-19T13:15:42.484Z",
       "action": "updated remark for LF-BUDGET-BDQ-CRW-S at PILIMATHALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:45:41",
-      "iso": "2026-08-19T13:15:41.151Z",
-      "action": "updated remark for LF-BUDGET-ST-CRW-S at PILIMATHALAWA: “50%”"
     }
   ]
 }
