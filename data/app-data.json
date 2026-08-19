@@ -17508,11 +17508,11 @@
       "lastUpdated": "2026-08-19T05:27:43.267Z"
     },
     "SLE40D600A||KIRIELLA": {
-      "remark": "40000",
+      "remark": "70%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "10:59:49",
-      "lastUpdated": "2026-08-19T05:29:49.185Z"
+      "commentTime": "11:07:35",
+      "lastUpdated": "2026-08-19T05:37:35.448Z"
     },
     "SKY55Q6700G||KIRIELLA": {
       "remark": "10%",
@@ -17976,6 +17976,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "11:07:35",
+      "iso": "2026-08-19T05:37:35.454Z",
+      "action": "updated remark for SLE40D600A at KIRIELLA: “70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "11:07:32",
       "iso": "2026-08-19T05:37:32.466Z",
       "action": "updated remark for SLE43G890 at KIRIELLA: “70%”"
@@ -18314,13 +18321,6 @@
       "date": "2026-08-19",
       "time": "10:50:20",
       "iso": "2026-08-19T05:20:20.114Z",
-      "action": "updated remark for R-BWS-02 at KIRIELLA: “3000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:50:16",
-      "iso": "2026-08-19T05:20:16.858Z",
       "action": "updated remark for R-BWS-02 at KIRIELLA: “3000”"
     }
   ]
