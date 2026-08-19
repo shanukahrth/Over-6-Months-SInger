@@ -22462,6 +22462,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:28:02",
       "lastUpdated": "2026-08-19T11:58:02.166Z"
+    },
+    "SMW823AY7||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:28:23",
+      "lastUpdated": "2026-08-19T11:58:23.332Z"
     }
   },
   "showroomVisits": {
@@ -23108,6 +23115,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "17:28:23",
+      "iso": "2026-08-19T11:58:23.333Z",
+      "action": "updated remark for SMW823AY7 at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "17:28:02",
@@ -23449,13 +23463,6 @@
       "time": "17:01:26",
       "iso": "2026-08-19T11:31:26.989Z",
       "action": "updated remark for PN-SC-UA3GS-K at WENNAPPUWA: “Revert Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:00:50",
-      "iso": "2026-08-19T11:30:50.769Z",
-      "action": "updated remark for PN-SC-TMAX5GSK at WENNAPPUWA: “Damaged - 75%”"
     }
   ]
 }
