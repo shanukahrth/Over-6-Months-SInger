@@ -18899,6 +18899,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:43:48",
       "lastUpdated": "2026-08-19T08:13:48.845Z"
+    },
+    "HON-X8C-8-512-BLK||KANDY": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:43:54",
+      "lastUpdated": "2026-08-19T08:13:54.887Z"
+    },
+    "HON-X8C-8-512-GRN||KANDY": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:43:56",
+      "lastUpdated": "2026-08-19T08:13:56.513Z"
     }
   },
   "showroomVisits": {
@@ -19307,6 +19321,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:43:56",
+      "iso": "2026-08-19T08:13:56.513Z",
+      "action": "updated remark for HON-X8C-8-512-GRN at KANDY: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:43:54",
+      "iso": "2026-08-19T08:13:54.887Z",
+      "action": "updated remark for HON-X8C-8-512-BLK at KANDY: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:43:48",
       "iso": "2026-08-19T08:13:48.845Z",
       "action": "updated remark for HON-X5B-4-64-BLK at KANDY: “35%”"
@@ -19639,20 +19667,6 @@
       "time": "13:25:45",
       "iso": "2026-08-19T07:55:45.304Z",
       "action": "updated remark for WF-CF-75X36-S at KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:25:40",
-      "iso": "2026-08-19T07:55:40.961Z",
-      "action": "updated remark for LF-LEO-HDBC-WNG-S at KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:25:35",
-      "iso": "2026-08-19T07:55:35.261Z",
-      "action": "updated remark for SIN-DEC-FDC at KANDY: “14%”"
     }
   ]
 }
