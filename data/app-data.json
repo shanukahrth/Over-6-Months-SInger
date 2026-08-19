@@ -23323,6 +23323,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:01:33",
       "lastUpdated": "2026-08-19T12:31:33.223Z"
+    },
+    "CM-VIR-GUARD||DERANIYAGALA": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:59:17",
+      "lastUpdated": "2026-08-19T12:29:17.328Z"
+    },
+    "CM-D1000||DERANIYAGALA": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:01:44",
+      "lastUpdated": "2026-08-19T12:31:44.668Z"
+    },
+    "SL-INV-285H||DERANIYAGALA": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:01:52",
+      "lastUpdated": "2026-08-19T12:31:52.118Z"
     }
   },
   "showroomVisits": {
@@ -23969,6 +23990,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "18:01:52",
+      "iso": "2026-08-19T12:31:52.125Z",
+      "action": "updated remark for SL-INV-285H at DERANIYAGALA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "18:01:44",
+      "iso": "2026-08-19T12:31:44.675Z",
+      "action": "updated remark for CM-D1000 at DERANIYAGALA: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:59:17",
+      "iso": "2026-08-19T12:29:17.334Z",
+      "action": "updated remark for CM-VIR-GUARD at DERANIYAGALA: “Showroom use”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-08-19",
       "time": "18:01:33",
@@ -24296,27 +24338,6 @@
       "time": "17:53:50",
       "iso": "2026-08-19T12:23:50.903Z",
       "action": "updated remark for DELL3530-I5-8GB512-BLK at KANDY - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:53:46",
-      "iso": "2026-08-19T12:23:46.826Z",
-      "action": "updated remark for DELL3530-I3-8GB512-BLK at KANDY - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:53:40",
-      "iso": "2026-08-19T12:23:40.439Z",
-      "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at KANDY - B: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:53:33",
-      "iso": "2026-08-19T12:23:33.948Z",
-      "action": "updated remark for DELL3501-11G-I3W10-BLK at KANDY - B: “80%”"
     }
   ]
 }
