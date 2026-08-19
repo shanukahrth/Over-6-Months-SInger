@@ -19571,6 +19571,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:20:57",
       "lastUpdated": "2026-08-19T08:50:57.436Z"
+    },
+    "WF-BERLIN-BSC-S||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:21:09",
+      "lastUpdated": "2026-08-19T08:51:09.537Z"
     }
   },
   "showroomVisits": {
@@ -19979,6 +19986,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "14:21:09",
+      "iso": "2026-08-19T08:51:09.539Z",
+      "action": "updated remark for WF-BERLIN-BSC-S at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "14:20:57",
       "iso": "2026-08-19T08:50:57.439Z",
       "action": "updated remark for SDV838HDVT at BATTICALOA B: “50% Discount”"
@@ -20318,13 +20332,6 @@
       "time": "13:51:14",
       "iso": "2026-08-19T08:21:14.546Z",
       "action": "updated remark for WP-NSP-J-S at KANDY: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:51:08",
-      "iso": "2026-08-19T08:21:08.866Z",
-      "action": "updated remark for WP-1-75N-S at KANDY: “60%”"
     }
   ]
 }
