@@ -24690,11 +24690,25 @@
       "lastUpdated": "2026-08-19T13:04:40.750Z"
     },
     "SIN-PR-K340||SHOMES- KANDY": {
-      "remark": "Sold",
+      "remark": "Reported",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "18:34:44",
-      "lastUpdated": "2026-08-19T13:04:44.904Z"
+      "commentTime": "18:34:51",
+      "lastUpdated": "2026-08-19T13:04:51.951Z"
+    },
+    "KD-55X7500H||SHOMES- KANDY": {
+      "remark": "PRF",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:34:57",
+      "lastUpdated": "2026-08-19T13:04:57.110Z"
+    },
+    "KDL-43W660G||SHOMES- KANDY": {
+      "remark": "PRF",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:35:02",
+      "lastUpdated": "2026-08-19T13:05:02.142Z"
     }
   },
   "showroomVisits": {
@@ -25343,6 +25357,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:35:02",
+      "iso": "2026-08-19T13:05:02.143Z",
+      "action": "updated remark for KDL-43W660G at SHOMES- KANDY: “PRF”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:34:57",
+      "iso": "2026-08-19T13:04:57.111Z",
+      "action": "updated remark for KD-55X7500H at SHOMES- KANDY: “PRF”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:34:51",
+      "iso": "2026-08-19T13:04:51.952Z",
+      "action": "updated remark for SIN-PR-K340 at SHOMES- KANDY: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:34:44",
       "iso": "2026-08-19T13:04:44.906Z",
       "action": "updated remark for SIN-PR-K340 at SHOMES- KANDY: “Sold”"
@@ -25668,27 +25703,6 @@
       "time": "18:26:32",
       "iso": "2026-08-19T12:56:32.398Z",
       "action": "updated remark for WFL-ACLRACK-S at SHOMES- KANDY: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:26:15",
-      "iso": "2026-08-19T12:56:15.904Z",
-      "action": "updated remark for WF-BERLIN-ST-WW-S at SHOMES- KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:26:13",
-      "iso": "2026-08-19T12:56:13.536Z",
-      "action": "updated remark for WF-BERLIN-BSC-WW-S at SHOMES- KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:26:07",
-      "iso": "2026-08-19T12:56:07.648Z",
-      "action": "updated remark for LF-MONT-BSC-SHW-S at SHOMES- KANDY: “50%”"
     }
   ]
 }
