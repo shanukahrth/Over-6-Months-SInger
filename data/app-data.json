@@ -24464,6 +24464,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:29:31",
       "lastUpdated": "2026-08-19T12:59:31.318Z"
+    },
+    "SIS277CU||SHOMES- KANDY": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:30:08",
+      "lastUpdated": "2026-08-19T13:00:08.203Z"
     }
   },
   "showroomVisits": {
@@ -25112,6 +25119,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:30:08",
+      "iso": "2026-08-19T13:00:08.205Z",
+      "action": "updated remark for SIS277CU at SHOMES- KANDY: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:29:31",
       "iso": "2026-08-19T12:59:31.320Z",
       "action": "updated remark for SIN-MRG-1008C at SHOMES- KANDY: “8.3%”"
@@ -25451,13 +25465,6 @@
       "time": "18:21:40",
       "iso": "2026-08-19T12:51:40.274Z",
       "action": "updated remark for LF-ORGN-W4A-CKT-S at SHOMES- KANDY: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:20:57",
-      "iso": "2026-08-19T12:50:57.732Z",
-      "action": "updated remark for WF-CF-75X60-S at SHOMES- KANDY: “50%”"
     }
   ]
 }
