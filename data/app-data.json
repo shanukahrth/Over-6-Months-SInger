@@ -23582,6 +23582,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:07:39",
       "lastUpdated": "2026-08-19T12:37:39.257Z"
+    },
+    "GEO-242D-SV||KANDY - B": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:07:43",
+      "lastUpdated": "2026-08-19T12:37:43.836Z"
     }
   },
   "showroomVisits": {
@@ -24230,6 +24237,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:07:43",
+      "iso": "2026-08-19T12:37:43.838Z",
+      "action": "updated remark for GEO-242D-SV at KANDY - B: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:07:39",
       "iso": "2026-08-19T12:37:39.259Z",
       "action": "updated remark for HP-DESKJET-2775 at KANDY - B: “Unsellable”"
@@ -24569,13 +24583,6 @@
       "time": "18:00:36",
       "iso": "2026-08-19T12:30:36.483Z",
       "action": "updated remark for NCPO-FP200 at KANDY - B: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:00:01",
-      "iso": "2026-08-19T12:30:01.585Z",
-      "action": "updated remark for TF-GS-SPKT302 at KANDY - B: “Reported”"
     }
   ]
 }
