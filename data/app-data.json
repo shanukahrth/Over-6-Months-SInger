@@ -23477,6 +23477,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:04:16",
       "lastUpdated": "2026-08-19T12:34:16.323Z"
+    },
+    "HON-H90-12-512-SIL||KANDY - B": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:04:21",
+      "lastUpdated": "2026-08-19T12:34:21.674Z"
     }
   },
   "showroomVisits": {
@@ -24125,6 +24132,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:04:21",
+      "iso": "2026-08-19T12:34:21.674Z",
+      "action": "updated remark for HON-H90-12-512-SIL at KANDY - B: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:04:16",
       "iso": "2026-08-19T12:34:16.323Z",
       "action": "updated remark for HON-X5PLUS-4-64-BLK at KANDY - B: “50%”"
@@ -24464,13 +24478,6 @@
       "time": "17:58:08",
       "iso": "2026-08-19T12:28:08.081Z",
       "action": "updated remark for WF-JUPITER-S at KANDY - B: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:58:06",
-      "iso": "2026-08-19T12:28:06.440Z",
-      "action": "updated remark for WF-JUPITER-05-S at KANDY - B: “70%”"
     }
   ]
 }
