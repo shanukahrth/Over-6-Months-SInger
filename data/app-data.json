@@ -22819,6 +22819,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:47:07",
       "lastUpdated": "2026-08-19T12:17:07.017Z"
+    },
+    "WFL-RIO-03-S||DERANIYAGALA": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:47:37",
+      "lastUpdated": "2026-08-19T12:17:37.993Z"
     }
   },
   "showroomVisits": {
@@ -23467,6 +23474,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "17:47:37",
+      "iso": "2026-08-19T12:17:37.999Z",
+      "action": "updated remark for WFL-RIO-03-S at DERANIYAGALA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "17:47:07",
       "iso": "2026-08-19T12:17:07.023Z",
       "action": "updated remark for WF-PARIS-BR-S at DERANIYAGALA: “80%”"
@@ -23806,13 +23820,6 @@
       "time": "17:31:00",
       "iso": "2026-08-19T12:01:00.996Z",
       "action": "updated remark for SIN-MH51SW at DERANIYAGALA: “15000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:30:28",
-      "iso": "2026-08-19T12:00:28.032Z",
-      "action": "updated remark for PN-SC-UA3GS-K at DERANIYAGALA: “40000”"
     }
   ]
 }
