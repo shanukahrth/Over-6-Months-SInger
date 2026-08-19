@@ -19095,6 +19095,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:46:47",
       "lastUpdated": "2026-08-19T08:16:47.280Z"
+    },
+    "DH-A-B1A51P-6B||KANDY": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:46:49",
+      "lastUpdated": "2026-08-19T08:16:49.663Z"
+    },
+    "DH-I-NVR2216-I2||KANDY": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:46:51",
+      "lastUpdated": "2026-08-19T08:16:51.682Z"
     }
   },
   "showroomVisits": {
@@ -19503,6 +19517,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:46:51",
+      "iso": "2026-08-19T08:16:51.682Z",
+      "action": "updated remark for DH-I-NVR2216-I2 at KANDY: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:46:49",
+      "iso": "2026-08-19T08:16:49.664Z",
+      "action": "updated remark for DH-A-B1A51P-6B at KANDY: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:46:47",
       "iso": "2026-08-19T08:16:47.282Z",
       "action": "updated remark for DH-A-B1A51P-36B at KANDY: “60%”"
@@ -19835,20 +19863,6 @@
       "time": "13:40:38",
       "iso": "2026-08-19T08:10:38.268Z",
       "action": "updated remark for SMW23GA9 at KANDY: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:30:33",
-      "iso": "2026-08-19T08:00:33.381Z",
-      "action": "updated remark for KA-PB-426 at KANDY: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:30:28",
-      "iso": "2026-08-19T08:00:28.987Z",
-      "action": "updated remark for KA-OPTIMA at KANDY: “60%”"
     }
   ]
 }
