@@ -21566,6 +21566,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:56:18",
       "lastUpdated": "2026-08-19T10:26:18.508Z"
+    },
+    "DELL3510-PNT-128-RCH-BLK||PERADENIYA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:57:08",
+      "lastUpdated": "2026-08-19T10:27:08.300Z"
     }
   },
   "showroomVisits": {
@@ -21974,6 +21981,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "15:57:08",
+      "iso": "2026-08-19T10:27:08.300Z",
+      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at PERADENIYA: “80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "15:56:18",
       "iso": "2026-08-19T10:26:18.508Z",
       "action": "updated remark for DELL-VOS3020-I5-8GB256-D at PERADENIYA: “60%”"
@@ -22313,13 +22327,6 @@
       "time": "15:40:13",
       "iso": "2026-08-19T10:10:13.146Z",
       "action": "updated remark for SIS253CU at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:40:32",
-      "iso": "2026-08-19T10:10:32.462Z",
-      "action": "updated remark for SWM-FA70R at EHELIYAGODA - B: “Not working”"
     }
   ]
 }
