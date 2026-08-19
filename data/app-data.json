@@ -19501,6 +19501,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:18:19",
       "lastUpdated": "2026-08-19T08:48:19.806Z"
+    },
+    "SLE32D2010TC||BATTICALOA B": {
+      "remark": "60",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:18:27",
+      "lastUpdated": "2026-08-19T08:48:27.199Z"
     }
   },
   "showroomVisits": {
@@ -19909,6 +19916,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "14:18:27",
+      "iso": "2026-08-19T08:48:27.201Z",
+      "action": "updated remark for SLE32D2010TC at BATTICALOA B: “60”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "14:18:19",
       "iso": "2026-08-19T08:48:19.809Z",
       "action": "updated remark for AES-HAV-615D at BATTICALOA B: “10% Discount”"
@@ -20248,13 +20262,6 @@
       "time": "13:49:27",
       "iso": "2026-08-19T08:19:27.988Z",
       "action": "updated remark for ULED43S550 at KANDY: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:49:18",
-      "iso": "2026-08-19T08:19:18.321Z",
-      "action": "updated remark for SLE55GENR at KANDY (cleared)"
     }
   ]
 }
