@@ -21818,20 +21818,6 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:28:22",
       "lastUpdated": "2026-08-19T10:58:22.342Z"
-    },
-    "H-RAPG012HFEOE||WENNAPPUWA": {
-      "remark": "Damaged - 20%",
-      "commentedBy": "SHENULI",
-      "commentDate": "2026-08-19",
-      "commentTime": "16:28:41",
-      "lastUpdated": "2026-08-19T10:58:41.155Z"
-    },
-    "H-RMRG024HFEOE||WENNAPPUWA": {
-      "remark": "Damaged - 20%",
-      "commentedBy": "SHENULI",
-      "commentDate": "2026-08-19",
-      "commentTime": "16:28:45",
-      "lastUpdated": "2026-08-19T10:58:45.606Z"
     }
   },
   "showroomVisits": {
@@ -22240,6 +22226,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:29:09",
+      "iso": "2026-08-19T10:59:09.960Z",
+      "action": "updated remark for H-RAPG012HFEOE at WENNAPPUWA (cleared)"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:29:08",
+      "iso": "2026-08-19T10:59:08.108Z",
+      "action": "updated remark for H-RMRG024HFEOE at WENNAPPUWA (cleared)"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:28:45",
       "iso": "2026-08-19T10:58:45.607Z",
       "action": "updated remark for H-RMRG024HFEOE at WENNAPPUWA: “Damaged - 20%”"
@@ -22572,20 +22572,6 @@
       "time": "16:06:43",
       "iso": "2026-08-19T10:36:43.067Z",
       "action": "updated remark for SDV3605K at PERADENIYA: “MOP- 1500/=”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "16:03:29",
-      "iso": "2026-08-19T10:33:29.294Z",
-      "action": "updated remark for SDV3605K at PERADENIYA: “MOP- 1500/=”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "16:02:14",
-      "iso": "2026-08-19T10:32:14.870Z",
-      "action": "updated remark for DVP-SR370 at PERADENIYA: “MOP- 1500/=”"
     }
   ]
 }
