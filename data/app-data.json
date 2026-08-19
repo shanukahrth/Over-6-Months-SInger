@@ -16876,13 +16876,6 @@
       "commentDate": "2026-08-19",
       "commentTime": "09:39:18",
       "lastUpdated": "2026-08-19T04:09:18.371Z"
-    },
-    "USI-ATC-302||CHENKALADY": {
-      "remark": "40% Discount",
-      "commentedBy": "Gayan Sooriyaarachchi",
-      "commentDate": "2026-08-19",
-      "commentTime": "09:39:40",
-      "lastUpdated": "2026-08-19T04:09:40.284Z"
     }
   },
   "showroomVisits": {
@@ -17283,6 +17276,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "09:40:11",
+      "iso": "2026-08-19T04:10:11.819Z",
+      "action": "updated remark for USI-ATC-302 at CHENKALADY (cleared)"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "09:39:40",
       "iso": "2026-08-19T04:09:40.285Z",
       "action": "updated remark for USI-ATC-302 at CHENKALADY: “40% Discount”"
@@ -17622,13 +17622,6 @@
       "time": "18:10:03",
       "iso": "2026-08-18T12:40:03.492Z",
       "action": "updated remark for ETEL-K20MINIPC-SITS at MAIN WAREHOUSE: “Showroom project”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "18:08:08",
-      "iso": "2026-08-18T12:38:08.116Z",
-      "action": "updated remark for EDU-ADAPTER at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
