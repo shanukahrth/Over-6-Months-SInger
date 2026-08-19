@@ -21287,13 +21287,6 @@
       "commentTime": "15:39:57",
       "lastUpdated": "2026-08-19T10:09:57.001Z"
     },
-    "SWM-FA70R||EHELIYAGODA - B": {
-      "remark": "Not working",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-19",
-      "commentTime": "15:40:32",
-      "lastUpdated": "2026-08-19T10:10:32.457Z"
-    },
     "SIS253CU||NATTANDIYA": {
       "remark": "Damaged - 85%",
       "commentedBy": "Mihini Perera",
@@ -21706,6 +21699,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:41:10",
+      "iso": "2026-08-19T10:11:10.802Z",
+      "action": "updated remark for SWM-FA70R at EHELIYAGODA - B (cleared)"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:41:04",
+      "iso": "2026-08-19T10:11:04.421Z",
+      "action": "updated remark for SWM-FA70R at EHELIYAGODA - B: “Transferred to budget shop”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-19",
       "time": "15:40:13",
@@ -22040,20 +22047,6 @@
       "time": "15:32:02",
       "iso": "2026-08-19T10:02:02.182Z",
       "action": "updated remark for SIN-MH51SW at KALAWANCHIKUDY: “80% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:31:50",
-      "iso": "2026-08-19T10:01:50.316Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-TT-DST at KALAWANCHIKUDY: “15% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:31:36",
-      "iso": "2026-08-19T10:01:36.633Z",
-      "action": "updated remark for WP-SP-SG-S at KALAWANCHIKUDY: “Revert 50% Discount”"
     }
   ]
 }
