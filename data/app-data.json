@@ -19816,6 +19816,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:53:06",
       "lastUpdated": "2026-08-19T09:23:06.186Z"
+    },
+    "H-CVW1600||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:53:29",
+      "lastUpdated": "2026-08-19T09:23:29.266Z"
     }
   },
   "showroomVisits": {
@@ -20222,6 +20229,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:53:29",
+      "iso": "2026-08-19T09:23:29.268Z",
+      "action": "updated remark for H-CVW1600 at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:53:24",
+      "iso": "2026-08-19T09:23:24.369Z",
+      "action": "updated remark for H-CVW1600 at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
       "time": "14:53:06",
@@ -20556,20 +20577,6 @@
       "time": "14:22:17",
       "iso": "2026-08-19T08:52:17.523Z",
       "action": "updated remark for GRIP-8573 at BATTICALOA B: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:22:01",
-      "iso": "2026-08-19T08:52:01.177Z",
-      "action": "updated remark for TF-NIGP26-119 at BATTICALOA B: “40% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:21:46",
-      "iso": "2026-08-19T08:51:46.333Z",
-      "action": "updated remark for TF-SP16-063 at BATTICALOA B: “35% Discount”"
     }
   ]
 }
