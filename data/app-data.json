@@ -19396,6 +19396,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:11:40",
       "lastUpdated": "2026-08-19T08:41:40.698Z"
+    },
+    "CAN-L-LBP235||BATTICALOA B": {
+      "remark": "20% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:12:00",
+      "lastUpdated": "2026-08-19T08:42:00.328Z"
     }
   },
   "showroomVisits": {
@@ -19802,6 +19809,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
+      "time": "14:12:00",
+      "iso": "2026-08-19T08:42:00.328Z",
+      "action": "updated remark for CAN-L-LBP235 at BATTICALOA B: “20% Discount”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
       "time": "14:11:48",
@@ -20143,13 +20157,6 @@
       "time": "13:47:06",
       "iso": "2026-08-19T08:17:06.142Z",
       "action": "updated remark for V-PMASTER-30 at KANDY: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:47:05",
-      "iso": "2026-08-19T08:17:05.015Z",
-      "action": "updated remark for V-MP-802-PG2 at KANDY: “Shop use”"
     }
   ]
 }
