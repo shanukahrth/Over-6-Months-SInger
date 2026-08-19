@@ -22633,12 +22633,19 @@
       "visited": "Yes",
       "visitDate": "",
       "team": "",
-      "remark": "",
+      "remark": "Fire has taken place",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:49:29",
+      "iso": "2026-08-19T11:19:29.252Z",
+      "action": "updated MIRIGAMA - B showroom (remark: Fire has taken place)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22981,13 +22988,6 @@
       "time": "16:41:24",
       "iso": "2026-08-19T11:11:24.261Z",
       "action": "updated DIYATHALAWA showroom (team: Team Furniture , Methmal)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:41:20",
-      "iso": "2026-08-19T11:11:20.645Z",
-      "action": "updated DIYATHALAWA showroom (visited: Yes)"
     }
   ]
 }
