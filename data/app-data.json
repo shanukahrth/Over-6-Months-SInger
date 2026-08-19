@@ -22028,6 +22028,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:47:27",
       "lastUpdated": "2026-08-19T11:17:27.760Z"
+    },
+    "MBS-SAF4S||WENNAPPUWA": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:48:15",
+      "lastUpdated": "2026-08-19T11:18:15.635Z"
     }
   },
   "showroomVisits": {
@@ -22586,6 +22593,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:48:15",
+      "iso": "2026-08-19T11:18:15.637Z",
+      "action": "updated remark for MBS-SAF4S at WENNAPPUWA: “Damaged - 95%”"
+    },
+    {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
       "time": "16:48:12",
@@ -22927,13 +22941,6 @@
       "time": "16:40:44",
       "iso": "2026-08-19T11:10:44.399Z",
       "action": "updated SHOMES-BADULLA showroom (team: Team Furniture , Methmal)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:40:41",
-      "iso": "2026-08-19T11:10:41.874Z",
-      "action": "updated SHOMES-BADULLA showroom (visited: Yes)"
     }
   ]
 }
