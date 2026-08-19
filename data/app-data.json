@@ -22560,6 +22560,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:32:56",
       "lastUpdated": "2026-08-19T12:02:56.128Z"
+    },
+    "DIALOG-HSPA||DERANIYAGALA": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:33:30",
+      "lastUpdated": "2026-08-19T12:03:30.816Z"
     }
   },
   "showroomVisits": {
@@ -23206,6 +23213,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:33:30",
+      "iso": "2026-08-19T12:03:30.824Z",
+      "action": "updated remark for DIALOG-HSPA at DERANIYAGALA: “Showroom use”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-19",
       "time": "17:32:56",
@@ -23547,13 +23561,6 @@
       "time": "17:10:56",
       "iso": "2026-08-19T11:40:56.446Z",
       "action": "updated AHANGAMA showroom (visitDate: 2026-08-19)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-19",
-      "time": "17:10:51",
-      "iso": "2026-08-19T11:40:51.259Z",
-      "action": "updated AHANGAMA showroom (visited: Yes)"
     }
   ]
 }
