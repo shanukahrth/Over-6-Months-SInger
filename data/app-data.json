@@ -22385,6 +22385,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:15:46",
       "lastUpdated": "2026-08-19T11:45:46.636Z"
+    },
+    "SIN-RFC-2012||WENNAPPUWA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:15:52",
+      "lastUpdated": "2026-08-19T11:45:52.063Z"
     }
   },
   "showroomVisits": {
@@ -23033,6 +23040,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:15:52",
+      "iso": "2026-08-19T11:45:52.064Z",
+      "action": "updated remark for SIN-RFC-2012 at WENNAPPUWA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:15:46",
       "iso": "2026-08-19T11:45:46.637Z",
       "action": "updated remark for SIN-RFC-1819 at WENNAPPUWA: “Damaged - 60%”"
@@ -23372,13 +23386,6 @@
       "time": "16:56:38",
       "iso": "2026-08-19T11:26:38.364Z",
       "action": "updated remark for PCD80-SS at WENNAPPUWA: “Damaged - 60%”"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:56:21",
-      "iso": "2026-08-19T11:26:21.211Z",
-      "action": "updated MEGA-MILAGIRIYA showroom (visited: No)"
     }
   ]
 }
