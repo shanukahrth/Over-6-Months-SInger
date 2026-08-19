@@ -25675,6 +25675,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:57:16",
       "lastUpdated": "2026-08-19T13:27:16.820Z"
+    },
+    "V-KF-234-PG2||PILIMATHALAWA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:57:23",
+      "lastUpdated": "2026-08-19T13:27:23.942Z"
     }
   },
   "showroomVisits": {
@@ -26323,6 +26330,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:57:23",
+      "iso": "2026-08-19T13:27:23.943Z",
+      "action": "updated remark for V-KF-234-PG2 at PILIMATHALAWA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:57:16",
       "iso": "2026-08-19T13:27:16.822Z",
       "action": "updated remark for DH-ST1000VX001 at PILIMATHALAWA: “70%”"
@@ -26662,13 +26676,6 @@
       "time": "18:51:55",
       "iso": "2026-08-19T13:21:55.575Z",
       "action": "updated remark for PCP50 at PILIMATHALAWA: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:51:53",
-      "iso": "2026-08-19T13:21:53.173Z",
-      "action": "updated remark for PCP30 at PILIMATHALAWA: “45%”"
     }
   ]
 }
