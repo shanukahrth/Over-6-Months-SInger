@@ -21645,11 +21645,11 @@
       "lastUpdated": "2026-08-19T10:38:09.380Z"
     },
     "FAN-WF1608R||PERADENIYA": {
-      "remark": "20%",
+      "remark": "20% - System discount only",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-19",
-      "commentTime": "16:08:23",
-      "lastUpdated": "2026-08-19T10:38:23.346Z"
+      "commentTime": "16:08:54",
+      "lastUpdated": "2026-08-19T10:38:54.869Z"
     },
     "USHA-FS40-13B||PERADENIYA": {
       "remark": "10%",
@@ -22065,6 +22065,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "16:08:54",
+      "iso": "2026-08-19T10:38:54.871Z",
+      "action": "updated remark for FAN-WF1608R at PERADENIYA: “20% - System discount only”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "16:08:37",
       "iso": "2026-08-19T10:38:37.271Z",
       "action": "updated remark for USHA-FS40-13B at PERADENIYA: “10%”"
@@ -22404,13 +22411,6 @@
       "time": "15:47:57",
       "iso": "2026-08-19T10:17:57.429Z",
       "action": "updated remark for PCP50 at KALAWANCHIKUDY: “75% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:47:44",
-      "iso": "2026-08-19T10:17:44.495Z",
-      "action": "updated remark for KV-4WTS10M at KALAWANCHIKUDY: “50% Discount”"
     }
   ]
 }
