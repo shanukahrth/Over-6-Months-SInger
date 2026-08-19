@@ -23085,6 +23085,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:56:46",
       "lastUpdated": "2026-08-19T12:26:46.395Z"
+    },
+    "WF-OF-CHR008-BL||KANDY - B": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:57:19",
+      "lastUpdated": "2026-08-19T12:27:19.011Z"
     }
   },
   "showroomVisits": {
@@ -23731,6 +23738,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:57:19",
+      "iso": "2026-08-19T12:27:19.014Z",
+      "action": "updated remark for WF-OF-CHR008-BL at KANDY - B: “Shop use”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "17:56:46",
@@ -24072,13 +24086,6 @@
       "time": "17:44:38",
       "iso": "2026-08-19T12:14:38.218Z",
       "action": "updated remark for LF-ORGN-BDQ-WHT at DERANIYAGALA: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:44:21",
-      "iso": "2026-08-19T12:14:21.428Z",
-      "action": "updated remark for WF-MAHO-TBL-S at DERANIYAGALA: “70%”"
     }
   ]
 }
