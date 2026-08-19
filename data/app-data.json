@@ -23288,6 +23288,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:01:01",
       "lastUpdated": "2026-08-19T12:31:01.078Z"
+    },
+    "MID-MJ-KM6001W||KANDY - B": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:01:10",
+      "lastUpdated": "2026-08-19T12:31:10.729Z"
     }
   },
   "showroomVisits": {
@@ -23936,6 +23943,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:01:10",
+      "iso": "2026-08-19T12:31:10.731Z",
+      "action": "updated remark for MID-MJ-KM6001W at KANDY - B: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:01:01",
       "iso": "2026-08-19T12:31:01.079Z",
       "action": "updated remark for TF-KD24-061 at KANDY - B: “30%”"
@@ -24275,13 +24289,6 @@
       "time": "17:52:58",
       "iso": "2026-08-19T12:22:58.797Z",
       "action": "updated remark for NETAC-128GB-NVME-SSD at KANDY - B: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:52:50",
-      "iso": "2026-08-19T12:22:50.714Z",
-      "action": "updated remark for B-CFB9433X at KANDY - B: “40%”"
     }
   ]
 }
