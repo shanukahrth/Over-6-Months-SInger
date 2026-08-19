@@ -22551,12 +22551,12 @@
       "updatedDate": "2026-08-14"
     },
     "GALLE B||GALLE": {
-      "visited": "No",
-      "visitDate": "",
+      "visited": "Yes",
+      "visitDate": "2026-08-18",
       "team": "",
       "remark": "",
-      "updatedBy": "Shanuka Herath",
-      "updatedDate": "2026-08-17"
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-19"
     },
     "TISSAMAHARAMA - B||HAMBANTOTA": {
       "visited": "Yes",
@@ -22937,6 +22937,20 @@
   },
   "activity": [
     {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-19",
+      "time": "17:10:27",
+      "iso": "2026-08-19T11:40:27.367Z",
+      "action": "updated GALLE B showroom (visitDate: 2026-08-18)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-19",
+      "time": "17:10:22",
+      "iso": "2026-08-19T11:40:22.423Z",
+      "action": "updated GALLE B showroom (visited: Yes)"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-19",
       "time": "17:07:26",
@@ -23271,20 +23285,6 @@
       "time": "16:49:29",
       "iso": "2026-08-19T11:19:29.002Z",
       "action": "updated remark for MC974-N-HO at WENNAPPUWA: “Can sell by the 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:48:59",
-      "iso": "2026-08-19T11:18:59.124Z",
-      "action": "updated remark for MC984-HO at WENNAPPUWA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:48:57",
-      "iso": "2026-08-19T11:18:57.979Z",
-      "action": "updated remark for MC984-HO at WENNAPPUWA: “Damaged - 80%”"
     }
   ]
 }
