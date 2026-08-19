@@ -17030,6 +17030,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:29:41",
       "lastUpdated": "2026-08-19T04:59:41.335Z"
+    },
+    "SIN-PSVX938N||KIRIELLA": {
+      "remark": "60%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:30:18",
+      "lastUpdated": "2026-08-19T05:00:18.601Z"
     }
   },
   "showroomVisits": {
@@ -17430,6 +17437,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:30:18",
+      "iso": "2026-08-19T05:00:18.609Z",
+      "action": "updated remark for SIN-PSVX938N at KIRIELLA: “60%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:29:41",
       "iso": "2026-08-19T04:59:41.342Z",
       "action": "updated remark for HFPA-MUSICBOX200-BLK at KIRIELLA: “19000”"
@@ -17769,13 +17783,6 @@
       "time": "08:36:54",
       "iso": "2026-08-19T03:06:54.510Z",
       "action": "updated MATARA-B showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-19",
-      "time": "08:36:49",
-      "iso": "2026-08-19T03:06:49.349Z",
-      "action": "updated MATARA-B showroom (visitDate: 2026-08-18)"
     }
   ]
 }
