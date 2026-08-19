@@ -17219,6 +17219,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:42:38",
       "lastUpdated": "2026-08-19T05:12:38.089Z"
+    },
+    "USI-ATC-302||KIRIELLA": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:42:42",
+      "lastUpdated": "2026-08-19T05:12:42.516Z"
     }
   },
   "showroomVisits": {
@@ -17619,6 +17626,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:42:42",
+      "iso": "2026-08-19T05:12:42.521Z",
+      "action": "updated remark for USI-ATC-302 at KIRIELLA: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:42:38",
       "iso": "2026-08-19T05:12:38.097Z",
       "action": "updated remark for SIN-MRG-1008C at KIRIELLA: “Sold”"
@@ -17958,13 +17972,6 @@
       "time": "10:23:35",
       "iso": "2026-08-19T04:53:35.125Z",
       "action": "updated remark for RIYLTA-MF12V51A at CHENKALADY: “75% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "10:23:22",
-      "iso": "2026-08-19T04:53:22.969Z",
-      "action": "updated remark for ALU-CL-7FT-S at CHENKALADY: “Rs.8900/-”"
     }
   ]
 }
