@@ -25752,6 +25752,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:58:26",
       "lastUpdated": "2026-08-19T13:28:26.972Z"
+    },
+    "SLE40E710||PILIMATHALAWA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:58:35",
+      "lastUpdated": "2026-08-19T13:28:35.276Z"
     }
   },
   "showroomVisits": {
@@ -26400,6 +26407,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:58:35",
+      "iso": "2026-08-19T13:28:35.277Z",
+      "action": "updated remark for SLE40E710 at PILIMATHALAWA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:58:26",
       "iso": "2026-08-19T13:28:26.973Z",
       "action": "updated remark for SLE40D600A at PILIMATHALAWA: “60%”"
@@ -26739,13 +26753,6 @@
       "time": "18:53:13",
       "iso": "2026-08-19T13:23:13.487Z",
       "action": "updated remark for VT-1047CN at PILIMATHALAWA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:53:09",
-      "iso": "2026-08-19T13:23:09.614Z",
-      "action": "updated remark for SIN-RFC-2012 at PILIMATHALAWA: “Sellable at existing price”"
     }
   ]
 }
