@@ -21601,6 +21601,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:00:31",
       "lastUpdated": "2026-08-19T10:30:31.140Z"
+    },
+    "SDM-WQP12J7623A||PERADENIYA": {
+      "remark": "15% - System discount only",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:01:39",
+      "lastUpdated": "2026-08-19T10:31:39.669Z"
     }
   },
   "showroomVisits": {
@@ -22009,6 +22016,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "16:01:39",
+      "iso": "2026-08-19T10:31:39.670Z",
+      "action": "updated remark for SDM-WQP12J7623A at PERADENIYA: “15% - System discount only”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "16:00:31",
       "iso": "2026-08-19T10:30:31.140Z",
       "action": "updated remark for MSI-MOD15-B13M-I7-BLK at PERADENIYA: “50%”"
@@ -22348,13 +22362,6 @@
       "time": "15:41:11",
       "iso": "2026-08-19T10:11:11.553Z",
       "action": "updated remark for KA-KT-212F at KALAWANCHIKUDY: “90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:41:03",
-      "iso": "2026-08-19T10:11:03.985Z",
-      "action": "updated remark for SL-PB-426 at KALAWANCHIKUDY: “90% Discount”"
     }
   ]
 }
