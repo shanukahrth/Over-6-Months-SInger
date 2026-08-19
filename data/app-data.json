@@ -19235,6 +19235,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:49:40",
       "lastUpdated": "2026-08-19T08:19:40.515Z"
+    },
+    "TCL55P635||KANDY": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:49:45",
+      "lastUpdated": "2026-08-19T08:19:45.838Z"
     }
   },
   "showroomVisits": {
@@ -19643,6 +19650,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:49:45",
+      "iso": "2026-08-19T08:19:45.840Z",
+      "action": "updated remark for TCL55P635 at KANDY: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:49:40",
       "iso": "2026-08-19T08:19:40.517Z",
       "action": "updated remark for SMGUA43T5400 at KANDY: “MOP - 100,000”"
@@ -19982,13 +19996,6 @@
       "time": "13:44:05",
       "iso": "2026-08-19T08:14:05.723Z",
       "action": "updated remark for HON-X9B-12-256-ORG at KANDY: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:43:56",
-      "iso": "2026-08-19T08:13:56.513Z",
-      "action": "updated remark for HON-X8C-8-512-GRN at KANDY: “30%”"
     }
   ]
 }
