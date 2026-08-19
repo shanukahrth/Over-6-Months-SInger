@@ -16890,6 +16890,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:02:52",
       "lastUpdated": "2026-08-19T04:32:52.488Z"
+    },
+    "NCPDG-MP160||CHENKALADY": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:03:09",
+      "lastUpdated": "2026-08-19T04:33:09.149Z"
     }
   },
   "showroomVisits": {
@@ -17290,6 +17297,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "10:03:09",
+      "iso": "2026-08-19T04:33:09.150Z",
+      "action": "updated remark for NCPDG-MP160 at CHENKALADY: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "10:02:52",
       "iso": "2026-08-19T04:32:52.490Z",
       "action": "updated remark for R-BWS-02 at CHENKALADY: “35% Discount”"
@@ -17629,13 +17643,6 @@
       "time": "18:10:34",
       "iso": "2026-08-18T12:40:34.845Z",
       "action": "updated remark for EDU-ADAPTER at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "18:10:30",
-      "iso": "2026-08-18T12:40:30.907Z",
-      "action": "updated remark for EDU-ADAPTER at MAIN WAREHOUSE: “scrap”"
     }
   ]
 }
