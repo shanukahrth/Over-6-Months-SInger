@@ -22401,9 +22401,24 @@
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
+    },
+    "SAMANTHURAI||BATTICALOA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:42:04",
+      "iso": "2026-08-19T11:12:04.332Z",
+      "action": "updated SAMANTHURAI showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22746,13 +22761,6 @@
       "time": "16:24:04",
       "iso": "2026-08-19T10:54:04.623Z",
       "action": "updated remark for FAN-P-SF1605HR at WENNAPPUWA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:23:42",
-      "iso": "2026-08-19T10:53:42.506Z",
-      "action": "updated remark for DUM - SMGAR50F24D1J at WENNAPPUWA: “Dummy”"
     }
   ]
 }
