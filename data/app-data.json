@@ -22294,6 +22294,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:05:25",
       "lastUpdated": "2026-08-19T11:35:25.495Z"
+    },
+    "RIYLTA-MF12V35A||WENNAPPUWA": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:06:27",
+      "lastUpdated": "2026-08-19T11:36:27.570Z"
     }
   },
   "showroomVisits": {
@@ -22918,6 +22925,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:06:27",
+      "iso": "2026-08-19T11:36:27.571Z",
+      "action": "updated remark for RIYLTA-MF12V35A at WENNAPPUWA: “Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:05:25",
       "iso": "2026-08-19T11:35:25.496Z",
       "action": "updated remark for R-NSG272NF at WENNAPPUWA: “Revert Damaged - 60%”"
@@ -23257,13 +23271,6 @@
       "time": "16:49:13",
       "iso": "2026-08-19T11:19:13.441Z",
       "action": "updated MIRIGAMA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:49:04",
-      "iso": "2026-08-19T11:19:04.340Z",
-      "action": "updated NITTAMBUWA showroom (visited: Yes)"
     }
   ]
 }
