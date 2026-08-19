@@ -25682,6 +25682,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:57:23",
       "lastUpdated": "2026-08-19T13:27:23.942Z"
+    },
+    "V-MC-303-PG2||PILIMATHALAWA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:57:28",
+      "lastUpdated": "2026-08-19T13:27:28.942Z"
     }
   },
   "showroomVisits": {
@@ -26330,6 +26337,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:57:28",
+      "iso": "2026-08-19T13:27:28.943Z",
+      "action": "updated remark for V-MC-303-PG2 at PILIMATHALAWA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:57:23",
       "iso": "2026-08-19T13:27:23.943Z",
       "action": "updated remark for V-KF-234-PG2 at PILIMATHALAWA: “Unsellable”"
@@ -26669,13 +26683,6 @@
       "time": "18:52:04",
       "iso": "2026-08-19T13:22:04.142Z",
       "action": "updated remark for SMC18DSL02 at PILIMATHALAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:51:55",
-      "iso": "2026-08-19T13:21:55.575Z",
-      "action": "updated remark for PCP50 at PILIMATHALAWA: “45%”"
     }
   ]
 }
