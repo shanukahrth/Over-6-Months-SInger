@@ -19265,11 +19265,11 @@
       "lastUpdated": "2026-08-19T08:20:37.331Z"
     },
     "H-RSQG018MFEOE||PERADENIYA": {
-      "remark": "Saleable existing Price",
+      "remark": "15% - System discount only",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-19",
-      "commentTime": "13:50:34",
-      "lastUpdated": "2026-08-19T08:20:34.154Z"
+      "commentTime": "13:54:48",
+      "lastUpdated": "2026-08-19T08:24:48.929Z"
     },
     "SWM-FA70R||KANDY": {
       "remark": "30%",
@@ -19718,6 +19718,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "13:54:48",
+      "iso": "2026-08-19T08:24:48.930Z",
+      "action": "updated remark for H-RSQG018MFEOE at PERADENIYA: “15% - System discount only”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-08-19",
       "time": "13:51:37",
@@ -20059,13 +20066,6 @@
       "time": "13:45:23",
       "iso": "2026-08-19T08:15:23.454Z",
       "action": "updated remark for GEO-260NF at KANDY: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:45:16",
-      "iso": "2026-08-19T08:15:16.112Z",
-      "action": "updated remark for GEO-242D-SV at KANDY: “25%”"
     }
   ]
 }
