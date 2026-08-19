@@ -22346,9 +22346,24 @@
       "remark": "Discounts given over the phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-08-19"
+    },
+    "BADULLA||BADULLA": {
+      "visited": "No",
+      "visitDate": "",
+      "team": "Team Furniture , Methmal",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:39:23",
+      "iso": "2026-08-19T11:09:23.362Z",
+      "action": "updated BADULLA showroom (team: Team Furniture , Methmal)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-19",
@@ -22691,13 +22706,6 @@
       "time": "16:17:39",
       "iso": "2026-08-19T10:47:39.686Z",
       "action": "updated remark for 123453222 at WENNAPPUWA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:17:38",
-      "iso": "2026-08-19T10:47:38.081Z",
-      "action": "updated remark for 123453223 at WENNAPPUWA: “Damaged - 80%”"
     }
   ]
 }
