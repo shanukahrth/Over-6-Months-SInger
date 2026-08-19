@@ -17730,6 +17730,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "11:41:32",
       "lastUpdated": "2026-08-19T06:11:32.463Z"
+    },
+    "SMG-A36-5G-12-256-BLK||BATTICALOA B": {
+      "remark": "25% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "11:41:58",
+      "lastUpdated": "2026-08-19T06:11:58.827Z"
     }
   },
   "showroomVisits": {
@@ -18130,6 +18137,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "11:41:58",
+      "iso": "2026-08-19T06:11:58.827Z",
+      "action": "updated remark for SMG-A36-5G-12-256-BLK at BATTICALOA B: “25% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "11:41:32",
       "iso": "2026-08-19T06:11:32.464Z",
       "action": "updated remark for LF-AMAZON-BDQ-S at BATTICALOA B: “50% Discount”"
@@ -18469,13 +18483,6 @@
       "time": "11:02:52",
       "iso": "2026-08-19T05:32:52.990Z",
       "action": "updated remark for SWM-FA70R at KIRIELLA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "11:02:44",
-      "iso": "2026-08-19T05:32:44.020Z",
-      "action": "updated remark for SWM-FA70R at KIRIELLA: “Revert”"
     }
   ]
 }
