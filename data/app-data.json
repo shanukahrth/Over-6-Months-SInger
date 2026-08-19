@@ -20145,6 +20145,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:04:42",
       "lastUpdated": "2026-08-19T09:34:42.400Z"
+    },
+    "GRIP-8205||EHELIYAGODA - B": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:04:56",
+      "lastUpdated": "2026-08-19T09:34:56.137Z"
     }
   },
   "showroomVisits": {
@@ -20553,6 +20560,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "15:04:56",
+      "iso": "2026-08-19T09:34:56.144Z",
+      "action": "updated remark for GRIP-8205 at EHELIYAGODA - B: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "15:04:42",
       "iso": "2026-08-19T09:34:42.407Z",
       "action": "updated remark for GRIP-3363-S at EHELIYAGODA - B: “Showroom use”"
@@ -20892,13 +20906,6 @@
       "time": "14:56:24",
       "iso": "2026-08-19T09:26:24.298Z",
       "action": "updated remark for UR591SW at EHELIYAGODA - B: “Defect 1000 offered will report”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:55:56",
-      "iso": "2026-08-19T09:25:56.116Z",
-      "action": "updated remark for KA-PB-426 at NATTANDIYA: “Damaged - 85%”"
     }
   ]
 }
