@@ -25605,6 +25605,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:56:31",
       "lastUpdated": "2026-08-19T13:26:31.228Z"
+    },
+    "BES-WP15-ECO||PILIMATHALAWA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:56:42",
+      "lastUpdated": "2026-08-19T13:26:42.829Z"
     }
   },
   "showroomVisits": {
@@ -26253,6 +26260,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:56:42",
+      "iso": "2026-08-19T13:26:42.831Z",
+      "action": "updated remark for BES-WP15-ECO at PILIMATHALAWA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:56:31",
       "iso": "2026-08-19T13:26:31.229Z",
       "action": "updated remark for WP-NEO258NF at PILIMATHALAWA: “Unsellable”"
@@ -26592,13 +26606,6 @@
       "time": "18:50:49",
       "iso": "2026-08-19T13:20:49.122Z",
       "action": "updated remark for TF-IT30-169 at PILIMATHALAWA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:50:44",
-      "iso": "2026-08-19T13:20:44.967Z",
-      "action": "updated remark for TF-FP24-SCR342 at PILIMATHALAWA (cleared)"
     }
   ]
 }
