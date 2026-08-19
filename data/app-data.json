@@ -24912,6 +24912,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:43:45",
       "lastUpdated": "2026-08-19T13:13:45.422Z"
+    },
+    "SDV3605K||PILIMATHALAWA": {
+      "remark": "Damaged location transfer pending",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:44:00",
+      "lastUpdated": "2026-08-19T13:14:00.747Z"
     }
   },
   "showroomVisits": {
@@ -25560,6 +25567,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:44:00",
+      "iso": "2026-08-19T13:14:00.748Z",
+      "action": "updated remark for SDV3605K at PILIMATHALAWA: “Damaged location transfer pending”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:43:45",
       "iso": "2026-08-19T13:13:45.422Z",
       "action": "updated remark for MSI-14G-I7-512-F1M-GRY at PILIMATHALAWA: “30%”"
@@ -25899,13 +25913,6 @@
       "time": "18:33:05",
       "iso": "2026-08-19T13:03:05.868Z",
       "action": "updated remark for HON-PADX8-POUCH at SHOMES- KANDY: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:32:58",
-      "iso": "2026-08-19T13:02:58.924Z",
-      "action": "updated remark for HON-BUDS-X6 at SHOMES- KANDY: “To be dropped”"
     }
   ]
 }
