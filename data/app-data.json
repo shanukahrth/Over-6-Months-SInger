@@ -22777,6 +22777,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:45:24",
       "lastUpdated": "2026-08-19T12:15:24.376Z"
+    },
+    "WFI-DELPHI-TBL-S||DERANIYAGALA": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:45:31",
+      "lastUpdated": "2026-08-19T12:15:31.806Z"
     }
   },
   "showroomVisits": {
@@ -23425,6 +23432,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "17:45:31",
+      "iso": "2026-08-19T12:15:31.812Z",
+      "action": "updated remark for WFI-DELPHI-TBL-S at DERANIYAGALA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "17:45:24",
       "iso": "2026-08-19T12:15:24.395Z",
       "action": "updated remark for WFI-DELPHI-CHR-S at DERANIYAGALA: “50%”"
@@ -23764,13 +23778,6 @@
       "time": "17:28:59",
       "iso": "2026-08-19T11:58:59.531Z",
       "action": "updated remark for MHC-M40D at DERANIYAGALA: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:28:53",
-      "iso": "2026-08-19T11:58:53.448Z",
-      "action": "updated remark for PN-SC-HTB490EBK at DERANIYAGALA: “50%”"
     }
   ]
 }
