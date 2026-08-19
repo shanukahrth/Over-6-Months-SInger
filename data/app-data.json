@@ -19249,6 +19249,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:50:03",
       "lastUpdated": "2026-08-19T08:20:03.829Z"
+    },
+    "B-WTV11512XS0||KANDY": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:50:21",
+      "lastUpdated": "2026-08-19T08:20:21.094Z"
     }
   },
   "showroomVisits": {
@@ -19657,6 +19664,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:50:21",
+      "iso": "2026-08-19T08:20:21.096Z",
+      "action": "updated remark for B-WTV11512XS0 at KANDY: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:50:03",
       "iso": "2026-08-19T08:20:03.830Z",
       "action": "updated remark for FMMT-PLOUGH at KANDY: “WH Return”"
@@ -19996,13 +20010,6 @@
       "time": "13:44:12",
       "iso": "2026-08-19T08:14:12.044Z",
       "action": "updated remark for HON-X9CSMART-12-256-BLK at KANDY: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:44:07",
-      "iso": "2026-08-19T08:14:07.209Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at KANDY: “15%”"
     }
   ]
 }
