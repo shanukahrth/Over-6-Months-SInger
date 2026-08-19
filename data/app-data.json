@@ -20734,13 +20734,6 @@
       "commentTime": "15:22:08",
       "lastUpdated": "2026-08-19T09:52:08.601Z"
     },
-    "SMG-A36-5G-12-256-BLK||EHELIYAGODA - B": {
-      "remark": "Sold",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-19",
-      "commentTime": "15:22:38",
-      "lastUpdated": "2026-08-19T09:52:38.384Z"
-    },
     "WF-LEXI-CT-BR-S||NATTANDIYA": {
       "remark": "Damaged - 85%",
       "commentedBy": "Mihini Perera",
@@ -20789,6 +20782,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:23:00",
       "lastUpdated": "2026-08-19T09:53:00.943Z"
+    },
+    "SMG-SM-A055F-6-128-B||EHELIYAGODA - B": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:23:35",
+      "lastUpdated": "2026-08-19T09:53:35.147Z"
+    },
+    "HON-X9C-12-256-BLK||EHELIYAGODA - B": {
+      "remark": "Flat 15%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:23:44",
+      "lastUpdated": "2026-08-19T09:53:44.902Z"
     }
   },
   "showroomVisits": {
@@ -21195,6 +21202,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:23:44",
+      "iso": "2026-08-19T09:53:44.903Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at EHELIYAGODA - B: “Flat 15%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:23:35",
+      "iso": "2026-08-19T09:53:35.148Z",
+      "action": "updated remark for SMG-SM-A055F-6-128-B at EHELIYAGODA - B: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:23:28",
+      "iso": "2026-08-19T09:53:28.116Z",
+      "action": "updated remark for SMG-A36-5G-12-256-BLK at EHELIYAGODA - B (cleared)"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-19",
       "time": "15:23:00",
@@ -21522,27 +21550,6 @@
       "time": "15:16:10",
       "iso": "2026-08-19T09:46:10.234Z",
       "action": "updated remark for SMW823AY7 at EHELIYAGODA - B: “Flat 50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:15:48",
-      "iso": "2026-08-19T09:45:48.430Z",
-      "action": "updated remark for SMW928AS3 at EHELIYAGODA - B: “Flat 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:15:02",
-      "iso": "2026-08-19T09:45:02.509Z",
-      "action": "updated remark for SMGUA32T4400 at NATTANDIYA: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:14:54",
-      "iso": "2026-08-19T09:44:54.870Z",
-      "action": "updated remark for SMGUA32T4400 at NATTANDIYA: “Can sell this by 31st Aug”"
     }
   ]
 }
