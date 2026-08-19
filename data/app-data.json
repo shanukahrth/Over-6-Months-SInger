@@ -23267,6 +23267,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:00:01",
       "lastUpdated": "2026-08-19T12:30:01.585Z"
+    },
+    "NCPO-FP200||KANDY - B": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:00:36",
+      "lastUpdated": "2026-08-19T12:30:36.481Z"
     }
   },
   "showroomVisits": {
@@ -23915,6 +23922,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:00:36",
+      "iso": "2026-08-19T12:30:36.483Z",
+      "action": "updated remark for NCPO-FP200 at KANDY - B: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:00:01",
       "iso": "2026-08-19T12:30:01.585Z",
       "action": "updated remark for TF-GS-SPKT302 at KANDY - B: “Reported”"
@@ -24254,13 +24268,6 @@
       "time": "17:52:43",
       "iso": "2026-08-19T12:22:43.445Z",
       "action": "updated remark for SXLC7371K at KANDY - B: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:52:32",
-      "iso": "2026-08-19T12:22:32.868Z",
-      "action": "updated remark for SVX6008 at KANDY - B: “Unsellable”"
     }
   ]
 }
