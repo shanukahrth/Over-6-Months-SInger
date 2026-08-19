@@ -21146,6 +21146,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:35:44",
       "lastUpdated": "2026-08-19T10:05:44.091Z"
+    },
+    "SIN-RFC-2058||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:36:00",
+      "lastUpdated": "2026-08-19T10:06:00.400Z"
     }
   },
   "showroomVisits": {
@@ -21554,6 +21561,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-19",
+      "time": "15:36:00",
+      "iso": "2026-08-19T10:06:00.402Z",
+      "action": "updated remark for SIN-RFC-2058 at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
       "time": "15:35:44",
       "iso": "2026-08-19T10:05:44.092Z",
       "action": "updated remark for SL-S203 at NATTANDIYA: “Damaged - 85%”"
@@ -21893,13 +21907,6 @@
       "time": "15:27:58",
       "iso": "2026-08-19T09:57:58.778Z",
       "action": "updated remark for UDV3618SY at NATTANDIYA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:27:54",
-      "iso": "2026-08-19T09:57:54.852Z",
-      "action": "updated remark for R-RGS150-SV at EHELIYAGODA - B: “Sold”"
     }
   ]
 }
