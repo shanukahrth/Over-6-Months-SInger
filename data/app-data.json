@@ -20124,6 +20124,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:03:34",
       "lastUpdated": "2026-08-19T09:33:34.128Z"
+    },
+    "LP-AP01||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:03:46",
+      "lastUpdated": "2026-08-19T09:33:46.185Z"
     }
   },
   "showroomVisits": {
@@ -20532,6 +20539,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "15:03:46",
+      "iso": "2026-08-19T09:33:46.187Z",
+      "action": "updated remark for LP-AP01 at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "15:03:34",
       "iso": "2026-08-19T09:33:34.129Z",
       "action": "updated remark for R-BWS-02 at BATTICALOA B: “30% Discount”"
@@ -20871,13 +20885,6 @@
       "time": "14:55:15",
       "iso": "2026-08-19T09:25:15.113Z",
       "action": "updated remark for LF-LEO-12022-WNG-S at NATTANDIYA: “Damaged & EOL - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:54:48",
-      "iso": "2026-08-19T09:24:48.729Z",
-      "action": "updated remark for LF-ECO-SD-WNG-S at NATTANDIYA: “Damaged & Obsolete - 50%”"
     }
   ]
 }
