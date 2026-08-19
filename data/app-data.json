@@ -21972,6 +21972,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:46:10",
       "lastUpdated": "2026-08-19T11:16:10.861Z"
+    },
+    "LF-LITE-2WD-CT-S||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:46:16",
+      "lastUpdated": "2026-08-19T11:16:16.437Z"
     }
   },
   "showroomVisits": {
@@ -22436,6 +22443,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:46:16",
+      "iso": "2026-08-19T11:16:16.438Z",
+      "action": "updated remark for LF-LITE-2WD-CT-S at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:46:10",
       "iso": "2026-08-19T11:16:10.862Z",
       "action": "updated remark for LF-LEWIS-CBT-S at WENNAPPUWA: “Damaged - 50%”"
@@ -22775,13 +22789,6 @@
       "time": "16:28:41",
       "iso": "2026-08-19T10:58:41.157Z",
       "action": "updated remark for H-RAPG012HFEOE at WENNAPPUWA: “Damaged - 20%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:28:22",
-      "iso": "2026-08-19T10:58:22.343Z",
-      "action": "updated remark for GRIP-GM125-S at WENNAPPUWA: “Revert Damaged - 90%”"
     }
   ]
 }
