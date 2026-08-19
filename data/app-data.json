@@ -22441,6 +22441,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:20:27",
       "lastUpdated": "2026-08-19T11:50:27.906Z"
+    },
+    "SRS-XP700||DERANIYAGALA": {
+      "remark": "Flat 30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:24:10",
+      "lastUpdated": "2026-08-19T11:54:10.380Z"
     }
   },
   "showroomVisits": {
@@ -23087,6 +23094,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:24:10",
+      "iso": "2026-08-19T11:54:10.386Z",
+      "action": "updated remark for SRS-XP700 at DERANIYAGALA: “Flat 30%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-19",
       "time": "17:20:27",
@@ -23428,13 +23442,6 @@
       "time": "17:00:16",
       "iso": "2026-08-19T11:30:16.403Z",
       "action": "updated remark for PN-SC-BMAX10E-K at WENNAPPUWA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:59:28",
-      "iso": "2026-08-19T11:29:28.584Z",
-      "action": "updated remark for PN-NF-GW1WSK at WENNAPPUWA: “Can sell by the 31st of Aug”"
     }
   ]
 }
