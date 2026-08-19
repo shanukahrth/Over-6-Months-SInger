@@ -21183,11 +21183,11 @@
       "lastUpdated": "2026-08-19T10:07:02.982Z"
     },
     "SLE32E930||EHELIYAGODA - B": {
-      "remark": "70%",
+      "remark": "Flat 70%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "15:32:13",
-      "lastUpdated": "2026-08-19T10:02:13.407Z"
+      "commentTime": "15:38:36",
+      "lastUpdated": "2026-08-19T10:08:36.649Z"
     },
     "TCL43S5400||EHELIYAGODA - B": {
       "remark": "Flat 70%",
@@ -21251,6 +21251,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:38:14",
       "lastUpdated": "2026-08-19T10:08:14.292Z"
+    },
+    "PN-TH-32M402N||EHELIYAGODA - B": {
+      "remark": "Flat 40%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:38:46",
+      "lastUpdated": "2026-08-19T10:08:46.367Z"
     }
   },
   "showroomVisits": {
@@ -21657,6 +21664,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:38:46",
+      "iso": "2026-08-19T10:08:46.373Z",
+      "action": "updated remark for PN-TH-32M402N at EHELIYAGODA - B: “Flat 40%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:38:36",
+      "iso": "2026-08-19T10:08:36.655Z",
+      "action": "updated remark for SLE32E930 at EHELIYAGODA - B: “Flat 70%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
       "time": "15:38:14",
@@ -21991,20 +22012,6 @@
       "time": "15:31:10",
       "iso": "2026-08-19T10:01:10.494Z",
       "action": "updated remark for HON-X9CSMART-12-256-CYAN at KALAWANCHIKUDY: “40% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:30:58",
-      "iso": "2026-08-19T10:00:58.894Z",
-      "action": "updated remark for FTC1467 at KALAWANCHIKUDY: “50 % Discount”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:30:56",
-      "iso": "2026-08-19T10:00:56.396Z",
-      "action": "updated remark for SL-ECO55-SV at NATTANDIYA: “10%”"
     }
   ]
 }
