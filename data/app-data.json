@@ -21946,11 +21946,11 @@
       "lastUpdated": "2026-08-19T11:07:21.845Z"
     },
     "KD-55X75K||WENNAPPUWA": {
-      "remark": "Damaged - 0%",
+      "remark": "Exchange",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-19",
-      "commentTime": "16:39:29",
-      "lastUpdated": "2026-08-19T11:09:29.352Z"
+      "commentTime": "16:44:19",
+      "lastUpdated": "2026-08-19T11:14:19.396Z"
     }
   },
   "showroomVisits": {
@@ -22415,6 +22415,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:44:19",
+      "iso": "2026-08-19T11:14:19.398Z",
+      "action": "updated remark for KD-55X75K at WENNAPPUWA: “Exchange”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:42:16",
       "iso": "2026-08-19T11:12:16.167Z",
       "action": "updated remark for HON-X7C-8-256-GRN at MATALE: “Damaged - 70%”"
@@ -22754,13 +22761,6 @@
       "time": "16:27:06",
       "iso": "2026-08-19T10:57:06.986Z",
       "action": "updated remark for GEO-242D-SV at WENNAPPUWA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:26:23",
-      "iso": "2026-08-19T10:56:23.688Z",
-      "action": "updated remark for GEO-182S-BU1 at WENNAPPUWA: “Display - 15%”"
     }
   ]
 }
