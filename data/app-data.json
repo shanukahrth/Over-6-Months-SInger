@@ -22406,6 +22406,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:16:58",
       "lastUpdated": "2026-08-19T11:46:58.850Z"
+    },
+    "DUM-SMGAR50F12D0J||DERANIYAGALA": {
+      "remark": "Dummy",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:17:22",
+      "lastUpdated": "2026-08-19T11:47:22.907Z"
     }
   },
   "showroomVisits": {
@@ -23054,6 +23061,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "17:17:22",
+      "iso": "2026-08-19T11:47:22.914Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at DERANIYAGALA: “Dummy”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "17:16:58",
       "iso": "2026-08-19T11:46:58.857Z",
       "action": "updated remark for H-RMRG024MFEOE at DERANIYAGALA: “Transferred”"
@@ -23393,13 +23407,6 @@
       "time": "16:58:12",
       "iso": "2026-08-19T11:28:12.702Z",
       "action": "updated remark for PF-SIGNA-BL-S at WENNAPPUWA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:58:04",
-      "iso": "2026-08-19T11:28:04.599Z",
-      "action": "updated remark for PF-GRID-1D-BG-S at WENNAPPUWA: “Damaged - 40%”"
     }
   ]
 }
