@@ -19921,6 +19921,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:57:29",
       "lastUpdated": "2026-08-19T09:27:29.363Z"
+    },
+    "AC-TEMP-Y7-18||PERADENIYA": {
+      "remark": "To be dropped",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:57:51",
+      "lastUpdated": "2026-08-19T09:27:51.160Z"
     }
   },
   "showroomVisits": {
@@ -20329,6 +20336,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "14:57:51",
+      "iso": "2026-08-19T09:27:51.160Z",
+      "action": "updated remark for AC-TEMP-Y7-18 at PERADENIYA: “To be dropped”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "14:57:29",
       "iso": "2026-08-19T09:27:29.363Z",
       "action": "updated remark for AC-TEMP-Y5-17 at PERADENIYA: “To be dropped”"
@@ -20668,13 +20682,6 @@
       "time": "14:42:22",
       "iso": "2026-08-19T09:12:22.834Z",
       "action": "updated remark for AS-13G-I3-512GB-3851-SIL at NATTANDIYA: “Damaged - 50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "14:39:44",
-      "iso": "2026-08-19T09:09:44.920Z",
-      "action": "updated remark for PN-CS-U10XKH at PERADENIYA (cleared)"
     }
   ]
 }
