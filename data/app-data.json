@@ -17450,6 +17450,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:56:02",
       "lastUpdated": "2026-08-19T05:26:02.422Z"
+    },
+    "GEO-242D-SV||KIRIELLA": {
+      "remark": "5%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:56:13",
+      "lastUpdated": "2026-08-19T05:26:13.012Z"
     }
   },
   "showroomVisits": {
@@ -17850,6 +17857,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:56:13",
+      "iso": "2026-08-19T05:26:13.018Z",
+      "action": "updated remark for GEO-242D-SV at KIRIELLA: “5%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:56:02",
       "iso": "2026-08-19T05:26:02.429Z",
       "action": "updated remark for CAN-I-E560 at KIRIELLA: “Damaged”"
@@ -18189,13 +18203,6 @@
       "time": "10:39:30",
       "iso": "2026-08-19T05:09:30.858Z",
       "action": "updated remark for WFL-SPM-72X72X8-S at KIRIELLA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:39:25",
-      "iso": "2026-08-19T05:09:25.087Z",
-      "action": "updated remark for WF-SP-9568-S at KIRIELLA: “80%”"
     }
   ]
 }
