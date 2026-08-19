@@ -19480,6 +19480,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:17:39",
       "lastUpdated": "2026-08-19T08:47:39.576Z"
+    },
+    "WFI-OF-LOC50ES||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:17:57",
+      "lastUpdated": "2026-08-19T08:47:57.915Z"
     }
   },
   "showroomVisits": {
@@ -19888,6 +19895,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "14:17:57",
+      "iso": "2026-08-19T08:47:57.917Z",
+      "action": "updated remark for WFI-OF-LOC50ES at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "14:17:39",
       "iso": "2026-08-19T08:47:39.578Z",
       "action": "updated remark for SIN-PSVX938N at BATTICALOA B: “Rs. 18500/-”"
@@ -20227,13 +20241,6 @@
       "time": "13:48:47",
       "iso": "2026-08-19T08:18:47.705Z",
       "action": "updated remark for SLE40D600A at KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:48:43",
-      "iso": "2026-08-19T08:18:43.205Z",
-      "action": "updated remark for SLE32E710 at KANDY: “70%”"
     }
   ]
 }
