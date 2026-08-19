@@ -25353,6 +25353,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:51:55",
       "lastUpdated": "2026-08-19T13:21:55.574Z"
+    },
+    "SMC18DSL02||PILIMATHALAWA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:52:04",
+      "lastUpdated": "2026-08-19T13:22:04.141Z"
     }
   },
   "showroomVisits": {
@@ -26001,6 +26008,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:52:04",
+      "iso": "2026-08-19T13:22:04.142Z",
+      "action": "updated remark for SMC18DSL02 at PILIMATHALAWA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:51:55",
       "iso": "2026-08-19T13:21:55.575Z",
       "action": "updated remark for PCP50 at PILIMATHALAWA: “45%”"
@@ -26340,13 +26354,6 @@
       "time": "18:46:29",
       "iso": "2026-08-19T13:16:29.429Z",
       "action": "updated remark for WF-CLASSIC-S at PILIMATHALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:46:21",
-      "iso": "2026-08-19T13:16:21.454Z",
-      "action": "updated remark for WFL-GRIP-CT02-S at PILIMATHALAWA: “To be dropped”"
     }
   ]
 }
