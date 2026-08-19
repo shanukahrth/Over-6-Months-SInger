@@ -24142,6 +24142,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:20:40",
       "lastUpdated": "2026-08-19T12:50:40.556Z"
+    },
+    "WF-CHAIR-B-BU||SHOMES- KANDY": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:20:46",
+      "lastUpdated": "2026-08-19T12:50:46.284Z"
     }
   },
   "showroomVisits": {
@@ -24790,6 +24797,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:20:46",
+      "iso": "2026-08-19T12:50:46.286Z",
+      "action": "updated remark for WF-CHAIR-B-BU at SHOMES- KANDY: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:20:40",
       "iso": "2026-08-19T12:50:40.559Z",
       "action": "updated remark for OF-SW22-S at SHOMES- KANDY: “Reverted & Unsellable”"
@@ -25129,13 +25143,6 @@
       "time": "18:10:36",
       "iso": "2026-08-19T12:40:36.102Z",
       "action": "updated remark for SLE20S1300 at KANDY - B: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:10:28",
-      "iso": "2026-08-19T12:40:28.649Z",
-      "action": "updated remark for PN-TH-32P401N at KANDY - B: “40%”"
     }
   ]
 }
