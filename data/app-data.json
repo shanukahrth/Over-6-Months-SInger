@@ -22245,6 +22245,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:01:26",
       "lastUpdated": "2026-08-19T11:31:26.988Z"
+    },
+    "PN-SC-UA7GS-K||WENNAPPUWA": {
+      "remark": "Display Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:02:46",
+      "lastUpdated": "2026-08-19T11:32:46.349Z"
     }
   },
   "showroomVisits": {
@@ -22869,6 +22876,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:02:46",
+      "iso": "2026-08-19T11:32:46.350Z",
+      "action": "updated remark for PN-SC-UA7GS-K at WENNAPPUWA: “Display Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:01:26",
       "iso": "2026-08-19T11:31:26.989Z",
       "action": "updated remark for PN-SC-UA3GS-K at WENNAPPUWA: “Revert Damaged - 70%”"
@@ -23208,13 +23222,6 @@
       "time": "16:48:07",
       "iso": "2026-08-19T11:18:07.439Z",
       "action": "updated RAGAMA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:48:03",
-      "iso": "2026-08-19T11:18:03.654Z",
-      "action": "updated PELIYAGODA showroom (visitDate: 2026-08-13)"
     }
   ]
 }
