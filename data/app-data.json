@@ -24814,6 +24814,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:41:19",
       "lastUpdated": "2026-08-19T13:11:19.272Z"
+    },
+    "HFPA-EVENT-BLC||PILIMATHALAWA": {
+      "remark": "MOP - 20,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:41:37",
+      "lastUpdated": "2026-08-19T13:11:37.881Z"
     }
   },
   "showroomVisits": {
@@ -25462,6 +25469,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:41:37",
+      "iso": "2026-08-19T13:11:37.882Z",
+      "action": "updated remark for HFPA-EVENT-BLC at PILIMATHALAWA: “MOP - 20,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:41:36",
+      "iso": "2026-08-19T13:11:36.741Z",
+      "action": "updated remark for HFPA-EVENT-BLC at PILIMATHALAWA: “MOP - 20,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:41:19",
       "iso": "2026-08-19T13:11:19.274Z",
       "action": "updated remark for SL-24VNF at PILIMATHALAWA: “80%”"
@@ -25794,20 +25815,6 @@
       "time": "18:30:36",
       "iso": "2026-08-19T13:00:36.555Z",
       "action": "updated remark for KA-OPTIMA at SHOMES- KANDY: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:30:16",
-      "iso": "2026-08-19T13:00:16.898Z",
-      "action": "updated remark for MID-MJ-KM6001W at SHOMES- KANDY: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:30:12",
-      "iso": "2026-08-19T13:00:12.937Z",
-      "action": "updated remark for KA-TXG-DS11A at SHOMES- KANDY: “80%”"
     }
   ]
 }
