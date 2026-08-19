@@ -17044,6 +17044,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:30:50",
       "lastUpdated": "2026-08-19T05:00:50.098Z"
+    },
+    "MID-MC-ID351||KIRIELLA": {
+      "remark": "35000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:31:11",
+      "lastUpdated": "2026-08-19T05:01:11.350Z"
     }
   },
   "showroomVisits": {
@@ -17444,6 +17451,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:31:11",
+      "iso": "2026-08-19T05:01:11.356Z",
+      "action": "updated remark for MID-MC-ID351 at KIRIELLA: “35000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:30:50",
       "iso": "2026-08-19T05:00:50.104Z",
       "action": "updated remark for B-CWB6441XN at KIRIELLA: “50%”"
@@ -17783,13 +17797,6 @@
       "time": "09:33:58",
       "iso": "2026-08-19T04:03:58.459Z",
       "action": "updated remark for AES-HAV-30S at CHENKALADY: “10% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "09:33:32",
-      "iso": "2026-08-19T04:03:32.770Z",
-      "action": "updated remark for WFL-SPM-72X48X8-S at CHENKALADY: “70% Discount”"
     }
   ]
 }
