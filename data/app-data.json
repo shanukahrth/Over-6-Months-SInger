@@ -19228,6 +19228,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:49:27",
       "lastUpdated": "2026-08-19T08:19:27.987Z"
+    },
+    "SMGUA43T5400||KANDY": {
+      "remark": "MOP - 100,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:49:40",
+      "lastUpdated": "2026-08-19T08:19:40.515Z"
     }
   },
   "showroomVisits": {
@@ -19636,6 +19643,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:49:40",
+      "iso": "2026-08-19T08:19:40.517Z",
+      "action": "updated remark for SMGUA43T5400 at KANDY: “MOP - 100,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:49:27",
       "iso": "2026-08-19T08:19:27.988Z",
       "action": "updated remark for ULED43S550 at KANDY: “60%”"
@@ -19975,13 +19989,6 @@
       "time": "13:43:56",
       "iso": "2026-08-19T08:13:56.513Z",
       "action": "updated remark for HON-X8C-8-512-GRN at KANDY: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:43:54",
-      "iso": "2026-08-19T08:13:54.887Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at KANDY: “30%”"
     }
   ]
 }
