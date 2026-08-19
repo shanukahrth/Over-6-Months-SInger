@@ -22301,6 +22301,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:06:27",
       "lastUpdated": "2026-08-19T11:36:27.570Z"
+    },
+    "SAS-18V-INV||WENNAPPUWA": {
+      "remark": "SOLD - 01, Damaged 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:06:54",
+      "lastUpdated": "2026-08-19T11:36:54.343Z"
     }
   },
   "showroomVisits": {
@@ -22925,6 +22932,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:06:54",
+      "iso": "2026-08-19T11:36:54.344Z",
+      "action": "updated remark for SAS-18V-INV at WENNAPPUWA: “SOLD - 01, Damaged 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "17:06:52",
+      "iso": "2026-08-19T11:36:52.960Z",
+      "action": "updated remark for SAS-18V-INV at WENNAPPUWA: “SOLD - 01, Damagewd 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:06:27",
       "iso": "2026-08-19T11:36:27.571Z",
       "action": "updated remark for RIYLTA-MF12V35A at WENNAPPUWA: “Damaged - 95%”"
@@ -23257,20 +23278,6 @@
       "time": "16:49:29",
       "iso": "2026-08-19T11:19:29.252Z",
       "action": "updated MIRIGAMA - B showroom (remark: Fire has taken place)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:49:20",
-      "iso": "2026-08-19T11:19:20.701Z",
-      "action": "updated MIRIGAMA - B showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:49:13",
-      "iso": "2026-08-19T11:19:13.441Z",
-      "action": "updated MIRIGAMA showroom (visited: Yes)"
     }
   ]
 }
