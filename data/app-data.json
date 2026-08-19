@@ -23358,6 +23358,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:01:59",
       "lastUpdated": "2026-08-19T12:31:59.769Z"
+    },
+    "GEO-242D||DERANIYAGALA": {
+      "remark": "80%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:02:29",
+      "lastUpdated": "2026-08-19T12:32:29.229Z"
+    },
+    "BES-CRS-51||DERANIYAGALA": {
+      "remark": "15%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:02:33",
+      "lastUpdated": "2026-08-19T12:32:33.392Z"
     }
   },
   "showroomVisits": {
@@ -24004,6 +24018,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "18:02:33",
+      "iso": "2026-08-19T12:32:33.398Z",
+      "action": "updated remark for BES-CRS-51 at DERANIYAGALA: “15%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "18:02:29",
+      "iso": "2026-08-19T12:32:29.235Z",
+      "action": "updated remark for GEO-242D at DERANIYAGALA: “80%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-08-19",
       "time": "18:01:59",
@@ -24338,20 +24366,6 @@
       "time": "17:55:09",
       "iso": "2026-08-19T12:25:09.680Z",
       "action": "updated remark for FAN-P-SF1605HR at KANDY - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:55:05",
-      "iso": "2026-08-19T12:25:05.552Z",
-      "action": "updated remark for MB-TLG-F71-WHT at KANDY - B: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:54:05",
-      "iso": "2026-08-19T12:24:05.332Z",
-      "action": "updated remark for SDV3605K at KANDY - B: “MOP - 2,000”"
     }
   ]
 }
