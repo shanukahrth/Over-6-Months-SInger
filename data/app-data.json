@@ -23687,6 +23687,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:09:02",
       "lastUpdated": "2026-08-19T12:39:02.667Z"
+    },
+    "SIN-PR-K340||KANDY - B": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:09:09",
+      "lastUpdated": "2026-08-19T12:39:09.276Z"
     }
   },
   "showroomVisits": {
@@ -24335,6 +24342,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:09:09",
+      "iso": "2026-08-19T12:39:09.277Z",
+      "action": "updated remark for SIN-PR-K340 at KANDY - B: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:09:02",
       "iso": "2026-08-19T12:39:02.668Z",
       "action": "updated remark for V-SR-740-PG2 at KANDY - B: “Shop use”"
@@ -24674,13 +24688,6 @@
       "time": "18:02:38",
       "iso": "2026-08-19T12:32:38.429Z",
       "action": "updated remark for BES-WP15-ECO at DERANIYAGALA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "18:02:33",
-      "iso": "2026-08-19T12:32:33.398Z",
-      "action": "updated remark for BES-CRS-51 at DERANIYAGALA: “15%”"
     }
   ]
 }
