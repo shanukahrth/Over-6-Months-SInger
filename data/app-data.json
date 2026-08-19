@@ -19151,6 +19151,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:47:08",
       "lastUpdated": "2026-08-19T08:17:08.612Z"
+    },
+    "SIN-PR-K340||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:47:23",
+      "lastUpdated": "2026-08-19T08:17:23.366Z"
     }
   },
   "showroomVisits": {
@@ -19559,6 +19566,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:47:23",
+      "iso": "2026-08-19T08:17:23.368Z",
+      "action": "updated remark for SIN-PR-K340 at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:47:08",
       "iso": "2026-08-19T08:17:08.614Z",
       "action": "updated remark for V-WCDMA-3G-433 at KANDY: “Shop use”"
@@ -19898,13 +19912,6 @@
       "time": "13:42:14",
       "iso": "2026-08-19T08:12:14.543Z",
       "action": "updated remark for RIYLTA-MF12V25 at KANDY: “Brand Manager - Mail”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:41:44",
-      "iso": "2026-08-19T08:11:44.637Z",
-      "action": "updated remark for SL-GSE-S001 at KANDY: “GM Parts”"
     }
   ]
 }
