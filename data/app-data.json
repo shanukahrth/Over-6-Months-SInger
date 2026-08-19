@@ -21160,6 +21160,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:36:26",
       "lastUpdated": "2026-08-19T10:06:26.444Z"
+    },
+    "STT-200K||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:36:52",
+      "lastUpdated": "2026-08-19T10:06:52.907Z"
     }
   },
   "showroomVisits": {
@@ -21568,6 +21575,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-19",
+      "time": "15:36:52",
+      "iso": "2026-08-19T10:06:52.909Z",
+      "action": "updated remark for STT-200K at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
       "time": "15:36:26",
       "iso": "2026-08-19T10:06:26.446Z",
       "action": "updated remark for NCPDG-SP240 at NATTANDIYA: “Kuliyapitiya Transfer”"
@@ -21907,13 +21921,6 @@
       "time": "15:28:40",
       "iso": "2026-08-19T09:58:40.126Z",
       "action": "updated remark for BES-WP15-ECO at EHELIYAGODA - B: “50% flat”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:28:33",
-      "iso": "2026-08-19T09:58:33.386Z",
-      "action": "updated remark for APS-300KG at EHELIYAGODA - B: “10% flat”"
     }
   ]
 }
