@@ -25052,6 +25052,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:46:12",
       "lastUpdated": "2026-08-19T13:16:12.911Z"
+    },
+    "WFL-GRIP-CT02-S||PILIMATHALAWA": {
+      "remark": "To be dropped",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:46:21",
+      "lastUpdated": "2026-08-19T13:16:21.452Z"
     }
   },
   "showroomVisits": {
@@ -25700,6 +25707,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:46:21",
+      "iso": "2026-08-19T13:16:21.454Z",
+      "action": "updated remark for WFL-GRIP-CT02-S at PILIMATHALAWA: “To be dropped”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:46:12",
       "iso": "2026-08-19T13:16:12.914Z",
       "action": "updated remark for LF-ORGN-BSC-CLM-S at PILIMATHALAWA: “50%”"
@@ -26039,13 +26053,6 @@
       "time": "18:36:42",
       "iso": "2026-08-19T13:06:42.048Z",
       "action": "updated remark for WP-WFC105604RT-G at SHOMES- KANDY: “12.5%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:36:28",
-      "iso": "2026-08-19T13:06:28.721Z",
-      "action": "updated remark for SWM-FA70R at SHOMES- KANDY: “50%”"
     }
   ]
 }
