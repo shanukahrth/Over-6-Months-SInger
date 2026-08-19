@@ -22175,6 +22175,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:57:46",
       "lastUpdated": "2026-08-19T11:27:46.706Z"
+    },
+    "PF-GRID-1D-BG-S||WENNAPPUWA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:58:04",
+      "lastUpdated": "2026-08-19T11:28:04.598Z"
     }
   },
   "showroomVisits": {
@@ -22799,6 +22806,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:58:04",
+      "iso": "2026-08-19T11:28:04.599Z",
+      "action": "updated remark for PF-GRID-1D-BG-S at WENNAPPUWA: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:57:46",
       "iso": "2026-08-19T11:27:46.707Z",
       "action": "updated remark for PF-FLAP-MN-S at WENNAPPUWA: “Can sell by the 31st of Aug”"
@@ -23138,13 +23152,6 @@
       "time": "16:46:37",
       "iso": "2026-08-19T11:16:37.147Z",
       "action": "updated WATTALA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:46:35",
-      "iso": "2026-08-19T11:16:35.282Z",
-      "action": "updated RAGAMA showroom (visited: Yes)"
     }
   ]
 }
