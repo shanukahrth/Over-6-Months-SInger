@@ -20992,6 +20992,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:31:36",
       "lastUpdated": "2026-08-19T10:01:36.958Z"
+    },
+    "SLE32E930||NATTANDIYA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:31:35",
+      "lastUpdated": "2026-08-19T10:01:35.674Z"
     }
   },
   "showroomVisits": {
@@ -21398,6 +21405,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:31:35",
+      "iso": "2026-08-19T10:01:35.676Z",
+      "action": "updated remark for SLE32E930 at NATTANDIYA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:31:21",
+      "iso": "2026-08-19T10:01:21.332Z",
+      "action": "updated remark for SLE32E930 at NATTANDIYA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:31:14",
+      "iso": "2026-08-19T10:01:14.316Z",
+      "action": "updated remark for SLE32E930 at NATTANDIYA: “Damaged - 90%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "15:31:36",
@@ -21725,27 +21753,6 @@
       "time": "15:20:11",
       "iso": "2026-08-19T09:50:11.799Z",
       "action": "updated remark for SL-24VNF at KALAWANCHIKUDY: “80% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:19:58",
-      "iso": "2026-08-19T09:49:58.028Z",
-      "action": "updated remark for MSI-14G-I7-512-F1M-GRY at KALAWANCHIKUDY: “Rs.280,000.00”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:19:51",
-      "iso": "2026-08-19T09:49:51.722Z",
-      "action": "updated remark for WF-DEVON-311-BR-S at NATTANDIYA: “Damaged - 30%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:19:36",
-      "iso": "2026-08-19T09:49:36.106Z",
-      "action": "updated remark for USHA-AVTR56 at NATTANDIYA: “Damaged - 85%”"
     }
   ]
 }
