@@ -20383,6 +20383,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:09:46",
       "lastUpdated": "2026-08-19T09:39:46.425Z"
+    },
+    "SIN-RFC-1819||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:10:02",
+      "lastUpdated": "2026-08-19T09:40:02.975Z"
     }
   },
   "showroomVisits": {
@@ -20791,6 +20798,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-19",
+      "time": "15:10:02",
+      "iso": "2026-08-19T09:40:02.976Z",
+      "action": "updated remark for SIN-RFC-1819 at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
       "time": "15:09:46",
       "iso": "2026-08-19T09:39:46.426Z",
       "action": "updated remark for SIN-PSVX938N at NATTANDIYA: “Sold”"
@@ -21130,13 +21144,6 @@
       "time": "15:02:17",
       "iso": "2026-08-19T09:32:17.545Z",
       "action": "updated remark for RCW-1528 at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:01:55",
-      "iso": "2026-08-19T09:31:55.886Z",
-      "action": "updated remark for R-BWS-02 at NATTANDIYA: “10%”"
     }
   ]
 }
