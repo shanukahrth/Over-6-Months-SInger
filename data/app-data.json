@@ -17352,6 +17352,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:51:03",
       "lastUpdated": "2026-08-19T05:21:03.588Z"
+    },
+    "PCP30||KIRIELLA": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:51:18",
+      "lastUpdated": "2026-08-19T05:21:18.787Z"
     }
   },
   "showroomVisits": {
@@ -17752,6 +17759,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:51:18",
+      "iso": "2026-08-19T05:21:18.793Z",
+      "action": "updated remark for PCP30 at KIRIELLA: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:51:03",
       "iso": "2026-08-19T05:21:03.594Z",
       "action": "updated remark for SMW928AS3 at KIRIELLA: “40000”"
@@ -18091,13 +18105,6 @@
       "time": "10:32:32",
       "iso": "2026-08-19T05:02:32.106Z",
       "action": "updated remark for FAN-VIERA-TEAK at KIRIELLA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:32:01",
-      "iso": "2026-08-19T05:02:01.069Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at KIRIELLA: “No price”"
     }
   ]
 }
