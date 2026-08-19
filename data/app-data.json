@@ -20740,6 +20740,41 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:22:38",
       "lastUpdated": "2026-08-19T09:52:38.384Z"
+    },
+    "WF-LEXI-CT-BR-S||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:20:30",
+      "lastUpdated": "2026-08-19T09:50:30.267Z"
+    },
+    "WF-SB-M||NATTANDIYA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:20:41",
+      "lastUpdated": "2026-08-19T09:50:41.697Z"
+    },
+    "WIS18K-I5||NATTANDIYA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:21:23",
+      "lastUpdated": "2026-08-19T09:51:23.299Z"
+    },
+    "WP-2-S||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:21:45",
+      "lastUpdated": "2026-08-19T09:51:45.444Z"
+    },
+    "WP-JUN-E-S||NATTANDIYA": {
+      "remark": "40% Damaged",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:22:18",
+      "lastUpdated": "2026-08-19T09:52:18.758Z"
     }
   },
   "showroomVisits": {
@@ -21146,6 +21181,41 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:22:18",
+      "iso": "2026-08-19T09:52:18.760Z",
+      "action": "updated remark for WP-JUN-E-S at NATTANDIYA: “40% Damaged”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:21:45",
+      "iso": "2026-08-19T09:51:45.446Z",
+      "action": "updated remark for WP-2-S at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:21:23",
+      "iso": "2026-08-19T09:51:23.301Z",
+      "action": "updated remark for WIS18K-I5 at NATTANDIYA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:20:41",
+      "iso": "2026-08-19T09:50:41.699Z",
+      "action": "updated remark for WF-SB-M at NATTANDIYA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:20:30",
+      "iso": "2026-08-19T09:50:30.269Z",
+      "action": "updated remark for WF-LEXI-CT-BR-S at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "15:22:38",
@@ -21459,41 +21529,6 @@
       "time": "15:14:49",
       "iso": "2026-08-19T09:44:49.989Z",
       "action": "updated remark for MID-BL1190 at EHELIYAGODA - B: “Flat 80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:14:44",
-      "iso": "2026-08-19T09:44:44.898Z",
-      "action": "updated remark for MID-BL1190 at EHELIYAGODA - B: “Flat 70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "15:14:14",
-      "iso": "2026-08-19T09:44:14.435Z",
-      "action": "updated remark for B-HIAG64223SXL at PERADENIYA: “Saleable exciting”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:14:10",
-      "iso": "2026-08-19T09:44:10.034Z",
-      "action": "updated remark for SL-PB-426 at EHELIYAGODA - B: “70% flat only for display”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "15:13:20",
-      "iso": "2026-08-19T09:43:20.163Z",
-      "action": "updated remark for B-BMGB25332BG at PERADENIYA: “Saleable excising price”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "15:13:05",
-      "iso": "2026-08-19T09:43:05.746Z",
-      "action": "updated remark for B-BMGB25332BG at PERADENIYA: “Saleable excisting”"
     }
   ]
 }
