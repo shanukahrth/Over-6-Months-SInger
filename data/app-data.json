@@ -22567,6 +22567,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:33:30",
       "lastUpdated": "2026-08-19T12:03:30.816Z"
+    },
+    "UJB-LB6027||WENNAPPUWA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:33:23",
+      "lastUpdated": "2026-08-19T12:03:23.822Z"
     }
   },
   "showroomVisits": {
@@ -23213,6 +23220,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "17:33:23",
+      "iso": "2026-08-19T12:03:23.823Z",
+      "action": "updated remark for UJB-LB6027 at WENNAPPUWA: “Damaged - 90%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "17:33:30",
@@ -23554,13 +23568,6 @@
       "time": "17:10:58",
       "iso": "2026-08-19T11:40:58.842Z",
       "action": "updated AHANGAMA showroom (visitDate: 2026-08-18)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-19",
-      "time": "17:10:56",
-      "iso": "2026-08-19T11:40:56.446Z",
-      "action": "updated AHANGAMA showroom (visitDate: 2026-08-19)"
     }
   ]
 }
