@@ -25766,6 +25766,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:59:00",
       "lastUpdated": "2026-08-19T13:29:00.746Z"
+    },
+    "SMGUA32N4010||PILIMATHALAWA": {
+      "remark": "MOP - 39,999",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:59:15",
+      "lastUpdated": "2026-08-19T13:29:15.805Z"
     }
   },
   "showroomVisits": {
@@ -26414,6 +26421,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:59:15",
+      "iso": "2026-08-19T13:29:15.807Z",
+      "action": "updated remark for SMGUA32N4010 at PILIMATHALAWA: “MOP - 39,999”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:59:00",
       "iso": "2026-08-19T13:29:00.747Z",
       "action": "updated remark for SLE55G22A at PILIMATHALAWA: “70% - Damaged”"
@@ -26753,13 +26767,6 @@
       "time": "18:53:55",
       "iso": "2026-08-19T13:23:55.149Z",
       "action": "updated remark for HON-X7B-8-256-GRN at PILIMATHALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:53:49",
-      "iso": "2026-08-19T13:23:49.385Z",
-      "action": "updated remark for HU-SECURITY at PILIMATHALAWA: “Shop use”"
     }
   ]
 }
