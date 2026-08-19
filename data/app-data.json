@@ -19599,6 +19599,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:22:01",
       "lastUpdated": "2026-08-19T08:52:01.176Z"
+    },
+    "GRIP-8573||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:22:17",
+      "lastUpdated": "2026-08-19T08:52:17.521Z"
     }
   },
   "showroomVisits": {
@@ -20007,6 +20014,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "14:22:17",
+      "iso": "2026-08-19T08:52:17.523Z",
+      "action": "updated remark for GRIP-8573 at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "14:22:01",
       "iso": "2026-08-19T08:52:01.177Z",
       "action": "updated remark for TF-NIGP26-119 at BATTICALOA B: “40% Discount”"
@@ -20346,13 +20360,6 @@
       "time": "13:57:48",
       "iso": "2026-08-19T08:27:48.208Z",
       "action": "updated remark for PN-CS-U18XKH at PERADENIYA: “60%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "13:57:07",
-      "iso": "2026-08-19T08:27:07.900Z",
-      "action": "updated remark for PN-CS-U10XKH at PERADENIYA: “50%”"
     }
   ]
 }
