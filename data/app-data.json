@@ -8905,11 +8905,11 @@
       "lastUpdated": "2026-08-19T06:31:59.889Z"
     },
     "STT-KGT200||HEMMATHAGAMA": {
-      "remark": "50%",
+      "remark": "80% - Damaged",
       "commentedBy": "Rashmi",
-      "commentDate": "2026-08-17",
-      "commentTime": "18:45:34",
-      "lastUpdated": "2026-08-17T13:15:34.090Z"
+      "commentDate": "2026-08-19",
+      "commentTime": "12:02:09",
+      "lastUpdated": "2026-08-19T06:32:09.708Z"
     },
     "STT-KHT009||HEMMATHAGAMA": {
       "remark": "60%",
@@ -18334,6 +18334,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "12:02:09",
+      "iso": "2026-08-19T06:32:09.709Z",
+      "action": "updated remark for STT-KGT200 at HEMMATHAGAMA: “80% - Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "12:01:59",
       "iso": "2026-08-19T06:31:59.890Z",
       "action": "updated remark for STT-200K at HEMMATHAGAMA: “80% - Damaged”"
@@ -18673,13 +18680,6 @@
       "time": "11:41:32",
       "iso": "2026-08-19T06:11:32.464Z",
       "action": "updated remark for LF-AMAZON-BDQ-S at BATTICALOA B: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "11:41:00",
-      "iso": "2026-08-19T06:11:00.917Z",
-      "action": "updated remark for SLE65H1100 at BATTICALOA B: “40% Discount”"
     }
   ]
 }
