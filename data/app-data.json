@@ -21741,6 +21741,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:21:58",
       "lastUpdated": "2026-08-19T10:51:58.804Z"
+    },
+    "CD001||WENNAPPUWA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:22:17",
+      "lastUpdated": "2026-08-19T10:52:17.843Z"
     }
   },
   "showroomVisits": {
@@ -22149,6 +22156,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:22:17",
+      "iso": "2026-08-19T10:52:17.844Z",
+      "action": "updated remark for CD001 at WENNAPPUWA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:21:58",
       "iso": "2026-08-19T10:51:58.805Z",
       "action": "updated remark for BES-WP15T at WENNAPPUWA: “Damaged - 60%”"
@@ -22488,13 +22502,6 @@
       "time": "15:54:40",
       "iso": "2026-08-19T10:24:40.938Z",
       "action": "updated remark for SB-AAA at SAMANTHURAI: “Location closed”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:54:36",
-      "iso": "2026-08-19T10:24:36.435Z",
-      "action": "updated remark for SB-AA at SAMANTHURAI: “Location closed”"
     }
   ]
 }
