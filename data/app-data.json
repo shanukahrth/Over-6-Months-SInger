@@ -22378,6 +22378,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:15:42",
       "lastUpdated": "2026-08-19T11:45:42.839Z"
+    },
+    "SIN-RFC-1819||WENNAPPUWA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:15:46",
+      "lastUpdated": "2026-08-19T11:45:46.636Z"
     }
   },
   "showroomVisits": {
@@ -23026,6 +23033,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:15:46",
+      "iso": "2026-08-19T11:45:46.637Z",
+      "action": "updated remark for SIN-RFC-1819 at WENNAPPUWA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:15:42",
       "iso": "2026-08-19T11:45:42.841Z",
       "action": "updated remark for SIN-QS-8306 at WENNAPPUWA: “Damaged - 60%”"
@@ -23365,13 +23379,6 @@
       "time": "16:56:21",
       "iso": "2026-08-19T11:26:21.211Z",
       "action": "updated MEGA-MILAGIRIYA showroom (visited: No)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:56:16",
-      "iso": "2026-08-19T11:26:16.505Z",
-      "action": "updated MEGA-MILAGIRIYA showroom (visited: Yes)"
     }
   ]
 }
