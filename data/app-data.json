@@ -17723,6 +17723,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "11:41:00",
       "lastUpdated": "2026-08-19T06:11:00.915Z"
+    },
+    "LF-AMAZON-BDQ-S||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "11:41:32",
+      "lastUpdated": "2026-08-19T06:11:32.463Z"
     }
   },
   "showroomVisits": {
@@ -18123,6 +18130,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "11:41:32",
+      "iso": "2026-08-19T06:11:32.464Z",
+      "action": "updated remark for LF-AMAZON-BDQ-S at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "11:41:00",
       "iso": "2026-08-19T06:11:00.917Z",
       "action": "updated remark for SLE65H1100 at BATTICALOA B: “40% Discount”"
@@ -18461,13 +18475,6 @@
       "date": "2026-08-19",
       "time": "11:02:44",
       "iso": "2026-08-19T05:32:44.020Z",
-      "action": "updated remark for SWM-FA70R at KIRIELLA: “Revert”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "11:02:40",
-      "iso": "2026-08-19T05:32:40.997Z",
       "action": "updated remark for SWM-FA70R at KIRIELLA: “Revert”"
     }
   ]
