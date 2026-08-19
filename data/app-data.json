@@ -18997,6 +18997,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:45:16",
       "lastUpdated": "2026-08-19T08:15:16.110Z"
+    },
+    "GEO-260NF||KANDY": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:45:23",
+      "lastUpdated": "2026-08-19T08:15:23.453Z"
+    },
+    "B-RDNI295XIB100P||KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:45:30",
+      "lastUpdated": "2026-08-19T08:15:30.129Z"
+    },
+    "B-RDNI315XIB300P||KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:45:34",
+      "lastUpdated": "2026-08-19T08:15:34.671Z"
     }
   },
   "showroomVisits": {
@@ -19405,6 +19426,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:45:34",
+      "iso": "2026-08-19T08:15:34.673Z",
+      "action": "updated remark for B-RDNI315XIB300P at KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:45:30",
+      "iso": "2026-08-19T08:15:30.130Z",
+      "action": "updated remark for B-RDNI295XIB100P at KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:45:23",
+      "iso": "2026-08-19T08:15:23.454Z",
+      "action": "updated remark for GEO-260NF at KANDY: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:45:16",
       "iso": "2026-08-19T08:15:16.112Z",
       "action": "updated remark for GEO-242D-SV at KANDY: “25%”"
@@ -19730,27 +19772,6 @@
       "time": "13:27:28",
       "iso": "2026-08-19T07:57:28.577Z",
       "action": "updated remark for SIS277CU at KANDY: “40% - Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:27:23",
-      "iso": "2026-08-19T07:57:23.663Z",
-      "action": "updated remark for TF-GS-SPKT302 at KANDY: “15%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:27:16",
-      "iso": "2026-08-19T07:57:16.307Z",
-      "action": "updated remark for SIS277CU at KANDY: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:27:11",
-      "iso": "2026-08-19T07:57:11.991Z",
-      "action": "updated remark for SLE-75IFPD at KANDY: “60%”"
     }
   ]
 }
