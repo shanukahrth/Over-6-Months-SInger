@@ -25773,6 +25773,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:59:15",
       "lastUpdated": "2026-08-19T13:29:15.805Z"
+    },
+    "SMGUA32T4400||PILIMATHALAWA": {
+      "remark": "MOP - 45,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:59:23",
+      "lastUpdated": "2026-08-19T13:29:23.415Z"
+    },
+    "WC-RT3019||PILIMATHALAWA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:59:34",
+      "lastUpdated": "2026-08-19T13:29:34.080Z"
+    },
+    "SWM-FA70R||PILIMATHALAWA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:59:39",
+      "lastUpdated": "2026-08-19T13:29:39.127Z"
     }
   },
   "showroomVisits": {
@@ -26421,6 +26442,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:59:39",
+      "iso": "2026-08-19T13:29:39.127Z",
+      "action": "updated remark for SWM-FA70R at PILIMATHALAWA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:59:34",
+      "iso": "2026-08-19T13:29:34.082Z",
+      "action": "updated remark for WC-RT3019 at PILIMATHALAWA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:59:23",
+      "iso": "2026-08-19T13:29:23.416Z",
+      "action": "updated remark for SMGUA32T4400 at PILIMATHALAWA: “MOP - 45,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:59:15",
       "iso": "2026-08-19T13:29:15.807Z",
       "action": "updated remark for SMGUA32N4010 at PILIMATHALAWA: “MOP - 39,999”"
@@ -26746,27 +26788,6 @@
       "time": "18:54:14",
       "iso": "2026-08-19T13:24:14.601Z",
       "action": "updated remark for HON-X5PLUS-4-64-BLK at PILIMATHALAWA: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:54:08",
-      "iso": "2026-08-19T13:24:08.761Z",
-      "action": "updated remark for HON-X5B-4-64-BLU at PILIMATHALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:54:00",
-      "iso": "2026-08-19T13:24:00.352Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at PILIMATHALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:53:55",
-      "iso": "2026-08-19T13:23:55.149Z",
-      "action": "updated remark for HON-X7B-8-256-GRN at PILIMATHALAWA: “40%”"
     }
   ]
 }
