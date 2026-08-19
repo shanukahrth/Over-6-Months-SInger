@@ -23834,6 +23834,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:11:09",
       "lastUpdated": "2026-08-19T12:41:09.784Z"
+    },
+    "SMGUA32N4010||KANDY - B": {
+      "remark": "MOP - 40,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:11:25",
+      "lastUpdated": "2026-08-19T12:41:25.479Z"
     }
   },
   "showroomVisits": {
@@ -24482,6 +24489,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:11:25",
+      "iso": "2026-08-19T12:41:25.480Z",
+      "action": "updated remark for SMGUA32N4010 at KANDY - B: “MOP - 40,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:11:09",
       "iso": "2026-08-19T12:41:09.785Z",
       "action": "updated remark for SMGUA32M4010 at KANDY - B: “Panel Damaged”"
@@ -24821,13 +24835,6 @@
       "time": "18:06:18",
       "iso": "2026-08-19T12:36:18.317Z",
       "action": "updated remark for SLE40D600A at DERANIYAGALA: “60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "18:06:09",
-      "iso": "2026-08-19T12:36:09.137Z",
-      "action": "updated remark for SLE32E930 at DERANIYAGALA: “70%”"
     }
   ]
 }
