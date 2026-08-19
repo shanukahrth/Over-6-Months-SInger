@@ -22665,6 +22665,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:39:12",
       "lastUpdated": "2026-08-19T12:09:12.408Z"
+    },
+    "WF-PRST-BDQ-W-S||WENNAPPUWA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:38:54",
+      "lastUpdated": "2026-08-19T12:08:54.827Z"
     }
   },
   "showroomVisits": {
@@ -23311,6 +23318,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "17:38:54",
+      "iso": "2026-08-19T12:08:54.828Z",
+      "action": "updated remark for WF-PRST-BDQ-W-S at WENNAPPUWA: “Damaged - 75%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "17:39:12",
@@ -23652,13 +23666,6 @@
       "time": "17:15:19",
       "iso": "2026-08-19T11:45:19.972Z",
       "action": "updated remark for SIN-MH51SW at WENNAPPUWA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:14:56",
-      "iso": "2026-08-19T11:44:56.843Z",
-      "action": "updated remark for SIN-EP170 at WENNAPPUWA: “Can sell by the 31st of Aug”"
     }
   ]
 }
