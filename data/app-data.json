@@ -20348,6 +20348,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:08:53",
       "lastUpdated": "2026-08-19T09:38:53.888Z"
+    },
+    "SPMA9502||PERADENIYA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:08:10",
+      "lastUpdated": "2026-08-19T09:38:10.233Z"
+    },
+    "SVX6002||PERADENIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:09:07",
+      "lastUpdated": "2026-08-19T09:39:07.593Z"
     }
   },
   "showroomVisits": {
@@ -20754,6 +20768,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "15:09:07",
+      "iso": "2026-08-19T09:39:07.594Z",
+      "action": "updated remark for SVX6002 at PERADENIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "15:08:10",
+      "iso": "2026-08-19T09:38:10.235Z",
+      "action": "updated remark for SPMA9502 at PERADENIYA: “80%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
       "time": "15:08:53",
@@ -21088,20 +21116,6 @@
       "time": "15:02:04",
       "iso": "2026-08-19T09:32:04.655Z",
       "action": "updated remark for KV-CF-AIRMAX at EHELIYAGODA - B: “Flat 40%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "15:01:39",
-      "iso": "2026-08-19T09:31:39.955Z",
-      "action": "updated remark for SIN-MH51SW at PERADENIYA: “80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:01:27",
-      "iso": "2026-08-19T09:31:27.063Z",
-      "action": "updated remark for PTT-200GT at NATTANDIYA: “Damaged - 85%”"
     }
   ]
 }
