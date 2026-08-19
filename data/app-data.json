@@ -21895,6 +21895,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:33:29",
       "lastUpdated": "2026-08-19T11:03:29.857Z"
+    },
+    "HW-LDR-112D||WENNAPPUWA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:33:55",
+      "lastUpdated": "2026-08-19T11:03:55.128Z"
     }
   },
   "showroomVisits": {
@@ -22303,6 +22310,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:33:55",
+      "iso": "2026-08-19T11:03:55.129Z",
+      "action": "updated remark for HW-LDR-112D at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:33:29",
       "iso": "2026-08-19T11:03:29.858Z",
       "action": "updated remark for HU-WATCHFIT3-BLK at WENNAPPUWA: “Damaged - 80%”"
@@ -22642,13 +22656,6 @@
       "time": "16:11:15",
       "iso": "2026-08-19T10:41:15.746Z",
       "action": "updated remark for LF-LEO-HDBC-WNG-S at PERADENIYA: “60%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "16:10:33",
-      "iso": "2026-08-19T10:40:33.768Z",
-      "action": "updated remark for LF-LEO-HDBC-WNG-S at PERADENIYA: “Damaged- 60%”"
     }
   ]
 }
