@@ -20999,6 +20999,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:31:35",
       "lastUpdated": "2026-08-19T10:01:35.674Z"
+    },
+    "SLE32F490||NATTANDIYA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:31:53",
+      "lastUpdated": "2026-08-19T10:01:53.071Z"
     }
   },
   "showroomVisits": {
@@ -21407,6 +21414,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-19",
+      "time": "15:31:53",
+      "iso": "2026-08-19T10:01:53.072Z",
+      "action": "updated remark for SLE32F490 at NATTANDIYA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
       "time": "15:31:35",
       "iso": "2026-08-19T10:01:35.676Z",
       "action": "updated remark for SLE32E930 at NATTANDIYA: “Damaged - 90%”"
@@ -21746,13 +21760,6 @@
       "time": "15:20:37",
       "iso": "2026-08-19T09:50:37.371Z",
       "action": "updated remark for SMGUA50CU7700 at KALAWANCHIKUDY: “REVERT”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:20:11",
-      "iso": "2026-08-19T09:50:11.799Z",
-      "action": "updated remark for SL-24VNF at KALAWANCHIKUDY: “80% Discount”"
     }
   ]
 }
