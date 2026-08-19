@@ -8737,11 +8737,11 @@
       "lastUpdated": "2026-08-17T13:11:54.688Z"
     },
     "LF-OPENSR-CKT-S||HEMMATHAGAMA": {
-      "remark": "50%",
+      "remark": "60%",
       "commentedBy": "Rashmi",
-      "commentDate": "2026-08-17",
-      "commentTime": "18:42:12",
-      "lastUpdated": "2026-08-17T13:12:12.055Z"
+      "commentDate": "2026-08-19",
+      "commentTime": "11:58:52",
+      "lastUpdated": "2026-08-19T06:28:52.801Z"
     },
     "WF-ROME-02-S||HEMMATHAGAMA": {
       "remark": "50%",
@@ -18334,6 +18334,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "11:58:52",
+      "iso": "2026-08-19T06:28:52.803Z",
+      "action": "updated remark for LF-OPENSR-CKT-S at HEMMATHAGAMA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "11:58:43",
       "iso": "2026-08-19T06:28:43.937Z",
       "action": "updated remark for SIN-DEC-DCWL at HEMMATHAGAMA: “50% - Damaged”"
@@ -18673,13 +18680,6 @@
       "time": "11:25:39",
       "iso": "2026-08-19T05:55:39.805Z",
       "action": "updated remark for PN-CS-U10XKH at BATTICALOA B: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "11:25:32",
-      "iso": "2026-08-19T05:55:32.744Z",
-      "action": "updated remark for PN-CS-SU18XKY-8 at BATTICALOA B: “85 % Discount”"
     }
   ]
 }
