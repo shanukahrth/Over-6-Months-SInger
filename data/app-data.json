@@ -16841,6 +16841,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "09:37:01",
       "lastUpdated": "2026-08-19T04:07:01.778Z"
+    },
+    "SLMC-18DSLHS||CHENKALADY": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "09:37:29",
+      "lastUpdated": "2026-08-19T04:07:29.099Z"
     }
   },
   "showroomVisits": {
@@ -17241,6 +17248,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "09:37:29",
+      "iso": "2026-08-19T04:07:29.100Z",
+      "action": "updated remark for SLMC-18DSLHS at CHENKALADY: “70% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "09:37:01",
       "iso": "2026-08-19T04:07:01.780Z",
       "action": "updated remark for TF-GCA-1336 at CHENKALADY: “35% Discount”"
@@ -17580,13 +17594,6 @@
       "time": "17:54:04",
       "iso": "2026-08-18T12:24:04.371Z",
       "action": "updated remark for K-RSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 1,500”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "17:53:16",
-      "iso": "2026-08-18T12:23:16.679Z",
-      "action": "updated remark for BR-J300 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
