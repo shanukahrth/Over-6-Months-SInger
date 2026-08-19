@@ -19334,13 +19334,6 @@
       "commentTime": "14:11:48",
       "lastUpdated": "2026-08-19T08:41:48.777Z"
     },
-    "SL-9VNF||PERADENIYA": {
-      "remark": "70%",
-      "commentedBy": "Kaveesha Sathsarani",
-      "commentDate": "2026-08-19",
-      "commentTime": "14:37:24",
-      "lastUpdated": "2026-08-19T09:07:24.767Z"
-    },
     "WFL-SPM-72X60X7-S||BATTICALOA B": {
       "remark": "70% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
@@ -20056,6 +20049,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "14:39:24",
+      "iso": "2026-08-19T09:09:24.552Z",
+      "action": "updated remark for SL-9VNF at PERADENIYA (cleared)"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "14:39:21",
       "iso": "2026-08-19T09:09:21.784Z",
       "action": "updated remark for SMGAR50F12D0J at PERADENIYA (cleared)"
@@ -20395,13 +20395,6 @@
       "time": "14:10:37",
       "iso": "2026-08-19T08:40:37.198Z",
       "action": "updated remark for MC974-N-HO at BATTICALOA B: “95% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:10:23",
-      "iso": "2026-08-19T08:40:23.062Z",
-      "action": "updated remark for WF-COD-B-S at BATTICALOA B: “50% Discount”"
     }
   ]
 }
