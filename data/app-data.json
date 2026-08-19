@@ -19081,6 +19081,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:46:39",
       "lastUpdated": "2026-08-19T08:16:39.821Z"
+    },
+    "BTS-10KG||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:46:45",
+      "lastUpdated": "2026-08-19T08:16:45.314Z"
+    },
+    "DH-A-B1A51P-36B||KANDY": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:46:47",
+      "lastUpdated": "2026-08-19T08:16:47.280Z"
     }
   },
   "showroomVisits": {
@@ -19489,6 +19503,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:46:47",
+      "iso": "2026-08-19T08:16:47.282Z",
+      "action": "updated remark for DH-A-B1A51P-36B at KANDY: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:46:45",
+      "iso": "2026-08-19T08:16:45.316Z",
+      "action": "updated remark for BTS-10KG at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:46:39",
       "iso": "2026-08-19T08:16:39.823Z",
       "action": "updated remark for AVERY-300KG at KANDY: “Sellable at Existing Price”"
@@ -19821,20 +19849,6 @@
       "time": "13:30:28",
       "iso": "2026-08-19T08:00:28.987Z",
       "action": "updated remark for KA-OPTIMA at KANDY: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:30:24",
-      "iso": "2026-08-19T08:00:24.813Z",
-      "action": "updated remark for B-FSST62111DX at KANDY: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:30:19",
-      "iso": "2026-08-19T08:00:19.133Z",
-      "action": "updated remark for TF-AF32-577 at KANDY: “30%”"
     }
   ]
 }
