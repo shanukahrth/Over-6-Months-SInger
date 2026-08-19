@@ -20285,6 +20285,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:07:38",
       "lastUpdated": "2026-08-19T09:37:38.024Z"
+    },
+    "PF-SUMO-ST-NKL-GN-S||EHELIYAGODA - B": {
+      "remark": "-",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:08:13",
+      "lastUpdated": "2026-08-19T09:38:13.518Z"
+    },
+    "PF-ENVISION-BL-S||EHELIYAGODA - B": {
+      "remark": "-",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:08:19",
+      "lastUpdated": "2026-08-19T09:38:19.327Z"
     }
   },
   "showroomVisits": {
@@ -20691,6 +20705,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:08:19",
+      "iso": "2026-08-19T09:38:19.333Z",
+      "action": "updated remark for PF-ENVISION-BL-S at EHELIYAGODA - B: “-”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:08:13",
+      "iso": "2026-08-19T09:38:13.534Z",
+      "action": "updated remark for PF-SUMO-ST-NKL-GN-S at EHELIYAGODA - B: “-”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
       "time": "15:07:38",
@@ -21025,20 +21053,6 @@
       "time": "15:00:45",
       "iso": "2026-08-19T09:30:45.428Z",
       "action": "updated remark for PN-SC-UX100GS-K at PERADENIYA: “Shop use - 50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:00:40",
-      "iso": "2026-08-19T09:30:40.044Z",
-      "action": "updated remark for SDV3605K at EHELIYAGODA - B: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "14:58:07",
-      "iso": "2026-08-19T09:28:07.994Z",
-      "action": "updated remark for DELL3530-I3-8GB512-SIL at EHELIYAGODA - B: “60% offered”"
     }
   ]
 }
