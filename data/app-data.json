@@ -17457,6 +17457,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:56:13",
       "lastUpdated": "2026-08-19T05:26:13.012Z"
+    },
+    "GEO-182S-SV||KIRIELLA": {
+      "remark": "25%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:56:19",
+      "lastUpdated": "2026-08-19T05:26:19.812Z"
     }
   },
   "showroomVisits": {
@@ -17857,6 +17864,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:56:19",
+      "iso": "2026-08-19T05:26:19.820Z",
+      "action": "updated remark for GEO-182S-SV at KIRIELLA: “25%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:56:13",
       "iso": "2026-08-19T05:26:13.018Z",
       "action": "updated remark for GEO-242D-SV at KIRIELLA: “5%”"
@@ -18196,13 +18210,6 @@
       "time": "10:39:47",
       "iso": "2026-08-19T05:09:47.400Z",
       "action": "updated remark for WF-SP-9568-S at KIRIELLA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:39:30",
-      "iso": "2026-08-19T05:09:30.858Z",
-      "action": "updated remark for WFL-SPM-72X72X8-S at KIRIELLA: “50%”"
     }
   ]
 }
