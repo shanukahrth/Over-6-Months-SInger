@@ -21477,11 +21477,18 @@
       "lastUpdated": "2026-08-19T10:23:53.674Z"
     },
     "SKY32STD1000||SAMANTHURAI": {
-      "remark": "l",
+      "remark": "Location closed",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-08-19",
-      "commentTime": "15:53:56",
-      "lastUpdated": "2026-08-19T10:23:56.690Z"
+      "commentTime": "15:54:07",
+      "lastUpdated": "2026-08-19T10:24:07.070Z"
+    },
+    "KLV-32R302E||SAMANTHURAI": {
+      "remark": "Location closed",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:54:10",
+      "lastUpdated": "2026-08-19T10:24:10.098Z"
     }
   },
   "showroomVisits": {
@@ -21890,6 +21897,20 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "15:54:10",
+      "iso": "2026-08-19T10:24:10.100Z",
+      "action": "updated remark for KLV-32R302E at SAMANTHURAI: “Location closed”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
+      "time": "15:54:07",
+      "iso": "2026-08-19T10:24:07.072Z",
+      "action": "updated remark for SKY32STD1000 at SAMANTHURAI: “Location closed”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "15:53:56",
       "iso": "2026-08-19T10:23:56.691Z",
       "action": "updated remark for SKY32STD1000 at SAMANTHURAI: “l”"
@@ -22222,20 +22243,6 @@
       "time": "15:37:20",
       "iso": "2026-08-19T10:07:20.786Z",
       "action": "updated remark for LP-AP01 at NATTANDIYA: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:37:03",
-      "iso": "2026-08-19T10:07:03.894Z",
-      "action": "updated remark for U-PAS61 at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:37:29",
-      "iso": "2026-08-19T10:07:29.524Z",
-      "action": "updated remark for SMGUA32T4400 at EHELIYAGODA - B: “RS.35,000 HDMI not supporting”"
     }
   ]
 }
