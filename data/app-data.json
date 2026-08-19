@@ -19328,11 +19328,11 @@
       "lastUpdated": "2026-08-19T08:35:35.787Z"
     },
     "SAS24TCNR||PERADENIYA": {
-      "remark": "MOP- 1,40,000/=",
+      "remark": "50%",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-19",
-      "commentTime": "13:59:00",
-      "lastUpdated": "2026-08-19T08:29:00.319Z"
+      "commentTime": "14:11:48",
+      "lastUpdated": "2026-08-19T08:41:48.777Z"
     },
     "SL-9VNF||PERADENIYA": {
       "remark": "80%",
@@ -19802,6 +19802,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "14:11:48",
+      "iso": "2026-08-19T08:41:48.784Z",
+      "action": "updated remark for SAS24TCNR at PERADENIYA: “50%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
       "time": "14:11:40",
@@ -20143,13 +20150,6 @@
       "time": "13:47:05",
       "iso": "2026-08-19T08:17:05.015Z",
       "action": "updated remark for V-MP-802-PG2 at KANDY: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:47:03",
-      "iso": "2026-08-19T08:17:03.866Z",
-      "action": "updated remark for V-MC-303-PG2 at KANDY: “Shop use”"
     }
   ]
 }
