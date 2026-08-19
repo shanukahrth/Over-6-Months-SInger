@@ -22574,6 +22574,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:33:23",
       "lastUpdated": "2026-08-19T12:03:23.822Z"
+    },
+    "TFPP6823875||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:34:11",
+      "lastUpdated": "2026-08-19T12:04:11.860Z"
     }
   },
   "showroomVisits": {
@@ -23222,6 +23229,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:34:11",
+      "iso": "2026-08-19T12:04:11.861Z",
+      "action": "updated remark for TFPP6823875 at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:33:23",
       "iso": "2026-08-19T12:03:23.823Z",
       "action": "updated remark for UJB-LB6027 at WENNAPPUWA: “Damaged - 90%”"
@@ -23561,13 +23575,6 @@
       "time": "17:11:05",
       "iso": "2026-08-19T11:41:05.148Z",
       "action": "updated AHANGAMA showroom (team: Colombo South mkt)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-19",
-      "time": "17:10:58",
-      "iso": "2026-08-19T11:40:58.842Z",
-      "action": "updated AHANGAMA showroom (visitDate: 2026-08-18)"
     }
   ]
 }
