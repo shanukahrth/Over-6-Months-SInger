@@ -19349,11 +19349,11 @@
       "lastUpdated": "2026-08-19T08:29:11.865Z"
     },
     "SMGAR50F12D0J||PERADENIYA": {
-      "remark": "70%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-19",
-      "commentTime": "13:59:20",
-      "lastUpdated": "2026-08-19T08:29:20.354Z"
+      "commentTime": "13:59:40",
+      "lastUpdated": "2026-08-19T08:29:40.258Z"
     }
   },
   "showroomVisits": {
@@ -19762,6 +19762,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "13:59:40",
+      "iso": "2026-08-19T08:29:40.260Z",
+      "action": "updated remark for SMGAR50F12D0J at PERADENIYA: “Damaged - 80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "13:59:20",
       "iso": "2026-08-19T08:29:20.356Z",
       "action": "updated remark for SMGAR50F12D0J at PERADENIYA: “70%”"
@@ -20101,13 +20108,6 @@
       "time": "13:46:28",
       "iso": "2026-08-19T08:16:28.586Z",
       "action": "updated remark for SMGRT34B4542S8 at KANDY: “MOP - 160,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:46:15",
-      "iso": "2026-08-19T08:16:15.235Z",
-      "action": "updated remark for SL-INV-305G at KANDY: “50%”"
     }
   ]
 }
