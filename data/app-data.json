@@ -19039,6 +19039,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:46:10",
       "lastUpdated": "2026-08-19T08:16:10.750Z"
+    },
+    "SL-INV-305G||KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:46:15",
+      "lastUpdated": "2026-08-19T08:16:15.234Z"
     }
   },
   "showroomVisits": {
@@ -19447,6 +19454,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:46:15",
+      "iso": "2026-08-19T08:16:15.235Z",
+      "action": "updated remark for SL-INV-305G at KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:46:10",
       "iso": "2026-08-19T08:16:10.752Z",
       "action": "updated remark for SL-ECO251NF at KANDY: “80%”"
@@ -19786,13 +19800,6 @@
       "time": "13:28:32",
       "iso": "2026-08-19T07:58:32.341Z",
       "action": "updated remark for TF-KD24-061 at KANDY: “15%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:28:28",
-      "iso": "2026-08-19T07:58:28.037Z",
-      "action": "updated remark for TF-IDFP24-170 at KANDY: “50%”"
     }
   ]
 }
