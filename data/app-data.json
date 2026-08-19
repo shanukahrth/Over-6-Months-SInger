@@ -22371,6 +22371,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:15:19",
       "lastUpdated": "2026-08-19T11:45:19.970Z"
+    },
+    "SIN-QS-8306||WENNAPPUWA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:15:42",
+      "lastUpdated": "2026-08-19T11:45:42.839Z"
     }
   },
   "showroomVisits": {
@@ -23019,6 +23026,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:15:42",
+      "iso": "2026-08-19T11:45:42.841Z",
+      "action": "updated remark for SIN-QS-8306 at WENNAPPUWA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:15:19",
       "iso": "2026-08-19T11:45:19.972Z",
       "action": "updated remark for SIN-MH51SW at WENNAPPUWA: “Damaged - 90%”"
@@ -23358,13 +23372,6 @@
       "time": "16:56:16",
       "iso": "2026-08-19T11:26:16.505Z",
       "action": "updated MEGA-MILAGIRIYA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:55:22",
-      "iso": "2026-08-19T11:25:22.275Z",
-      "action": "updated KIRINDIWELA - B showroom (visited: Yes)"
     }
   ]
 }
