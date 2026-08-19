@@ -21701,11 +21701,11 @@
       "lastUpdated": "2026-08-19T10:47:39.684Z"
     },
     "B-BMGB25332BG||WENNAPPUWA": {
-      "remark": "Sold",
+      "remark": "Damaged - 50%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-19",
-      "commentTime": "16:18:53",
-      "lastUpdated": "2026-08-19T10:48:53.838Z"
+      "commentTime": "16:18:59",
+      "lastUpdated": "2026-08-19T10:48:59.293Z"
     }
   },
   "showroomVisits": {
@@ -22114,6 +22114,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:18:59",
+      "iso": "2026-08-19T10:48:59.294Z",
+      "action": "updated remark for B-BMGB25332BG at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:18:53",
       "iso": "2026-08-19T10:48:53.840Z",
       "action": "updated remark for B-BMGB25332BG at WENNAPPUWA: “Sold”"
@@ -22453,13 +22460,6 @@
       "time": "15:53:50",
       "iso": "2026-08-19T10:23:50.971Z",
       "action": "updated remark for AS-13G-I7-512GB-370-BLU at PERADENIYA: “Damaged -50%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:53:21",
-      "iso": "2026-08-19T10:23:21.634Z",
-      "action": "updated remark for CM-D1000 at VAHARAI: “Location Closed”"
     }
   ]
 }
