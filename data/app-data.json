@@ -16960,6 +16960,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:24:12",
       "lastUpdated": "2026-08-19T04:54:12.221Z"
+    },
+    "PCP30-SS||CHENKALADY": {
+      "remark": "60% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:24:29",
+      "lastUpdated": "2026-08-19T04:54:29.306Z"
     }
   },
   "showroomVisits": {
@@ -17360,6 +17367,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "10:24:29",
+      "iso": "2026-08-19T04:54:29.309Z",
+      "action": "updated remark for PCP30-SS at CHENKALADY: “60% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "10:24:12",
       "iso": "2026-08-19T04:54:12.223Z",
       "action": "updated remark for ALU-DSL-8FT-S at CHENKALADY: “Rs. 7500/-”"
@@ -17699,13 +17713,6 @@
       "time": "18:48:57",
       "iso": "2026-08-18T13:18:57.792Z",
       "action": "updated remark for LOG-WMOUSE at MAIN WAREHOUSE: “Discount to Rs. 250”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "18:46:35",
-      "iso": "2026-08-18T13:16:35.509Z",
-      "action": "updated remark for BR-1 at MAIN WAREHOUSE: “Scrap”"
     }
   ]
 }
