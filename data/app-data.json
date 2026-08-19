@@ -21811,6 +21811,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:28:06",
       "lastUpdated": "2026-08-19T10:58:06.570Z"
+    },
+    "GRIP-GM125-S||WENNAPPUWA": {
+      "remark": "Revert Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:28:22",
+      "lastUpdated": "2026-08-19T10:58:22.342Z"
     }
   },
   "showroomVisits": {
@@ -22219,6 +22226,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:28:22",
+      "iso": "2026-08-19T10:58:22.343Z",
+      "action": "updated remark for GRIP-GM125-S at WENNAPPUWA: “Revert Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:28:06",
       "iso": "2026-08-19T10:58:06.572Z",
       "action": "updated remark for GRIP-3361 at WENNAPPUWA: “Damaged - 95%”"
@@ -22558,13 +22572,6 @@
       "time": "16:01:39",
       "iso": "2026-08-19T10:31:39.670Z",
       "action": "updated remark for SDM-WQP12J7623A at PERADENIYA: “15% - System discount only”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "16:00:31",
-      "iso": "2026-08-19T10:30:31.140Z",
-      "action": "updated remark for MSI-MOD15-B13M-I7-BLK at PERADENIYA: “50%”"
     }
   ]
 }
