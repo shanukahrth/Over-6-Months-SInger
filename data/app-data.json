@@ -24821,6 +24821,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:41:37",
       "lastUpdated": "2026-08-19T13:11:37.881Z"
+    },
+    "MHC-V13||PILIMATHALAWA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:41:43",
+      "lastUpdated": "2026-08-19T13:11:43.936Z"
     }
   },
   "showroomVisits": {
@@ -25469,6 +25476,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:41:43",
+      "iso": "2026-08-19T13:11:43.937Z",
+      "action": "updated remark for MHC-V13 at PILIMATHALAWA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:41:37",
       "iso": "2026-08-19T13:11:37.882Z",
       "action": "updated remark for HFPA-EVENT-BLC at PILIMATHALAWA: “MOP - 20,000”"
@@ -25808,13 +25822,6 @@
       "time": "18:30:43",
       "iso": "2026-08-19T13:00:43.402Z",
       "action": "updated remark for MID-BL1190 at SHOMES- KANDY: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:30:36",
-      "iso": "2026-08-19T13:00:36.555Z",
-      "action": "updated remark for KA-OPTIMA at SHOMES- KANDY: “80%”"
     }
   ]
 }
