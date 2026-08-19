@@ -21755,6 +21755,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:23:07",
       "lastUpdated": "2026-08-19T10:53:07.075Z"
+    },
+    "DUM - SMGAR50F24D1J||WENNAPPUWA": {
+      "remark": "Dummy",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:23:42",
+      "lastUpdated": "2026-08-19T10:53:42.504Z"
     }
   },
   "showroomVisits": {
@@ -22163,6 +22170,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:23:42",
+      "iso": "2026-08-19T10:53:42.506Z",
+      "action": "updated remark for DUM - SMGAR50F24D1J at WENNAPPUWA: “Dummy”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:23:07",
       "iso": "2026-08-19T10:53:07.077Z",
       "action": "updated remark for CLOTHLINE-35PVC at WENNAPPUWA: “Damaged - 50%”"
@@ -22502,13 +22516,6 @@
       "time": "15:55:49",
       "iso": "2026-08-19T10:25:49.652Z",
       "action": "updated remark for AS-I3-11G-256-X513-1060-L at PERADENIYA: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "15:54:24",
-      "iso": "2026-08-19T10:24:24.274Z",
-      "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at PERADENIYA: “60%”"
     }
   ]
 }
