@@ -21666,11 +21666,11 @@
       "lastUpdated": "2026-08-19T10:40:10.404Z"
     },
     "LF-LEO-HDBC-WNG-S||PERADENIYA": {
-      "remark": "Damaged- 60%",
+      "remark": "60%",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-19",
-      "commentTime": "16:10:33",
-      "lastUpdated": "2026-08-19T10:40:33.765Z"
+      "commentTime": "16:11:15",
+      "lastUpdated": "2026-08-19T10:41:15.746Z"
     }
   },
   "showroomVisits": {
@@ -22079,6 +22079,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "16:11:15",
+      "iso": "2026-08-19T10:41:15.746Z",
+      "action": "updated remark for LF-LEO-HDBC-WNG-S at PERADENIYA: “60%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "16:10:33",
       "iso": "2026-08-19T10:40:33.768Z",
       "action": "updated remark for LF-LEO-HDBC-WNG-S at PERADENIYA: “Damaged- 60%”"
@@ -22418,13 +22425,6 @@
       "time": "15:48:37",
       "iso": "2026-08-19T10:18:37.974Z",
       "action": "updated remark for BC-KNP-AG at PERADENIYA: “Damaged”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "15:48:11",
-      "iso": "2026-08-19T10:18:11.358Z",
-      "action": "updated remark for B-HIAG64223SXL at PERADENIYA: “Saleable existing price”"
     }
   ]
 }
