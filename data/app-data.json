@@ -22385,9 +22385,24 @@
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
+    },
+    "HAPUTHALE||BADULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:41:08",
+      "iso": "2026-08-19T11:11:08.232Z",
+      "action": "updated HAPUTHALE showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22730,13 +22745,6 @@
       "time": "16:21:31",
       "iso": "2026-08-19T10:51:31.441Z",
       "action": "updated remark for BES-WP15T at WENNAPPUWA (cleared)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:21:20",
-      "iso": "2026-08-19T10:51:20.526Z",
-      "action": "updated remark for BES-WP15T at WENNAPPUWA: “Sold”"
     }
   ]
 }
