@@ -21454,6 +21454,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:52:41",
       "lastUpdated": "2026-08-19T10:22:41.796Z"
+    },
+    "CM-D1000||VAHARAI": {
+      "remark": "Location Closed",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:53:21",
+      "lastUpdated": "2026-08-19T10:23:21.632Z"
     }
   },
   "showroomVisits": {
@@ -21860,6 +21867,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
+      "time": "15:53:21",
+      "iso": "2026-08-19T10:23:21.634Z",
+      "action": "updated remark for CM-D1000 at VAHARAI: “Location Closed”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
       "time": "15:52:41",
@@ -22201,13 +22215,6 @@
       "time": "15:32:32",
       "iso": "2026-08-19T10:02:32.224Z",
       "action": "updated remark for TCL43S5400 at EHELIYAGODA - B: “Flat 70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:32:13",
-      "iso": "2026-08-19T10:02:13.417Z",
-      "action": "updated remark for SLE32E930 at EHELIYAGODA - B: “70%”"
     }
   ]
 }
