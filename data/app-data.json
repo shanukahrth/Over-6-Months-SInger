@@ -21552,6 +21552,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:55:49",
       "lastUpdated": "2026-08-19T10:25:49.651Z"
+    },
+    "DELL-3582-PQC-W10||PERADENIYA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:56:05",
+      "lastUpdated": "2026-08-19T10:26:05.082Z"
     }
   },
   "showroomVisits": {
@@ -21960,6 +21967,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "15:56:05",
+      "iso": "2026-08-19T10:26:05.082Z",
+      "action": "updated remark for DELL-3582-PQC-W10 at PERADENIYA: “80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "15:55:49",
       "iso": "2026-08-19T10:25:49.652Z",
       "action": "updated remark for AS-I3-11G-256-X513-1060-L at PERADENIYA: “70%”"
@@ -22299,13 +22313,6 @@
       "time": "15:40:03",
       "iso": "2026-08-19T10:10:03.604Z",
       "action": "updated remark for SWM-FA70R at EHELIYAGODA - B: “Rs.30,000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:39:57",
-      "iso": "2026-08-19T10:09:57.009Z",
-      "action": "updated remark for H-CVW1600 at EHELIYAGODA - B: “Rs.30,000”"
     }
   ]
 }
