@@ -25444,6 +25444,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:54:00",
       "lastUpdated": "2026-08-19T13:24:00.352Z"
+    },
+    "HON-X5B-4-64-BLU||PILIMATHALAWA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:54:08",
+      "lastUpdated": "2026-08-19T13:24:08.761Z"
     }
   },
   "showroomVisits": {
@@ -26092,6 +26099,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:54:08",
+      "iso": "2026-08-19T13:24:08.761Z",
+      "action": "updated remark for HON-X5B-4-64-BLU at PILIMATHALAWA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:54:00",
       "iso": "2026-08-19T13:24:00.352Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at PILIMATHALAWA: “40%”"
@@ -26431,13 +26445,6 @@
       "time": "18:48:35",
       "iso": "2026-08-19T13:18:35.115Z",
       "action": "updated remark for WFL-SPM-75X48X8-S at PILIMATHALAWA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:48:25",
-      "iso": "2026-08-19T13:18:25.534Z",
-      "action": "updated remark for SPM-78X60 at PILIMATHALAWA: “10%”"
     }
   ]
 }
