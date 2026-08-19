@@ -22261,11 +22261,11 @@
       "lastUpdated": "2026-08-19T11:33:21.339Z"
     },
     "PN-TH-32M402N||WENNAPPUWA": {
-      "remark": "Damaged - 50%",
+      "remark": "Damaged - 60%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-19",
-      "commentTime": "17:03:27",
-      "lastUpdated": "2026-08-19T11:33:27.461Z"
+      "commentTime": "17:03:52",
+      "lastUpdated": "2026-08-19T11:33:52.835Z"
     }
   },
   "showroomVisits": {
@@ -22890,6 +22890,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:03:52",
+      "iso": "2026-08-19T11:33:52.836Z",
+      "action": "updated remark for PN-TH-32M402N at WENNAPPUWA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:03:27",
       "iso": "2026-08-19T11:33:27.462Z",
       "action": "updated remark for PN-TH-32M402N at WENNAPPUWA: “Damaged - 50%”"
@@ -23229,13 +23236,6 @@
       "time": "16:48:33",
       "iso": "2026-08-19T11:18:33.557Z",
       "action": "updated remark for MC8280 at WENNAPPUWA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:48:15",
-      "iso": "2026-08-19T11:18:15.637Z",
-      "action": "updated remark for MBS-SAF4S at WENNAPPUWA: “Damaged - 95%”"
     }
   ]
 }
