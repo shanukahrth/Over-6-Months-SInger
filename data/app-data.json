@@ -19258,11 +19258,11 @@
       "lastUpdated": "2026-08-19T08:20:21.094Z"
     },
     "SL-FLE047R||KANDY": {
-      "remark": "%",
+      "remark": "60%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "13:50:29",
-      "lastUpdated": "2026-08-19T08:20:29.787Z"
+      "commentTime": "13:50:37",
+      "lastUpdated": "2026-08-19T08:20:37.331Z"
     }
   },
   "showroomVisits": {
@@ -19671,6 +19671,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:50:37",
+      "iso": "2026-08-19T08:20:37.332Z",
+      "action": "updated remark for SL-FLE047R at KANDY: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:50:29",
       "iso": "2026-08-19T08:20:29.790Z",
       "action": "updated remark for SL-FLE047R at KANDY: “%”"
@@ -20010,13 +20017,6 @@
       "time": "13:44:19",
       "iso": "2026-08-19T08:14:19.467Z",
       "action": "updated remark for SMG-SM-A042F-128GB-B at KANDY: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:44:14",
-      "iso": "2026-08-19T08:14:14.310Z",
-      "action": "updated remark for HON-X9CSMART-12-256-CYAN at KANDY: “25%”"
     }
   ]
 }
