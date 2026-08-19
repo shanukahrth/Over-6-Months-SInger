@@ -22133,6 +22133,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:53:14",
       "lastUpdated": "2026-08-19T11:23:14.923Z"
+    },
+    "NCPDG-SET3||WENNAPPUWA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:55:17",
+      "lastUpdated": "2026-08-19T11:25:17.834Z"
+    },
+    "NCPO-DC200||WENNAPPUWA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:55:20",
+      "lastUpdated": "2026-08-19T11:25:20.017Z"
     }
   },
   "showroomVisits": {
@@ -22733,6 +22747,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:55:20",
+      "iso": "2026-08-19T11:25:20.018Z",
+      "action": "updated remark for NCPO-DC200 at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:55:17",
+      "iso": "2026-08-19T11:25:17.836Z",
+      "action": "updated remark for NCPDG-SET3 at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:53:14",
       "iso": "2026-08-19T11:23:14.924Z",
       "action": "updated remark for NAF022D at WENNAPPUWA: “Damaged - 85%”"
@@ -23065,20 +23093,6 @@
       "time": "16:47:09",
       "iso": "2026-08-19T11:17:09.053Z",
       "action": "updated remark for LG-001 at WENNAPPUWA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:46:53",
-      "iso": "2026-08-19T11:16:53.422Z",
-      "action": "updated remark for LFLCDCHAMP-CHY-S at WENNAPPUWA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:46:40",
-      "iso": "2026-08-19T11:16:40.456Z",
-      "action": "updated remark for LF-BUDGET-ST-AGO-S at WENNAPPUWA: “Damaged - 50%”"
     }
   ]
 }
