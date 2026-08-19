@@ -24478,6 +24478,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:30:12",
       "lastUpdated": "2026-08-19T13:00:12.934Z"
+    },
+    "MID-MJ-KM6001W||SHOMES- KANDY": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:30:16",
+      "lastUpdated": "2026-08-19T13:00:16.897Z"
     }
   },
   "showroomVisits": {
@@ -25126,6 +25133,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:30:16",
+      "iso": "2026-08-19T13:00:16.898Z",
+      "action": "updated remark for MID-MJ-KM6001W at SHOMES- KANDY: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:30:12",
       "iso": "2026-08-19T13:00:12.937Z",
       "action": "updated remark for KA-TXG-DS11A at SHOMES- KANDY: “80%”"
@@ -25465,13 +25479,6 @@
       "time": "18:21:50",
       "iso": "2026-08-19T12:51:50.550Z",
       "action": "updated remark for LF-3D-WD-AGO-S at SHOMES- KANDY: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:21:41",
-      "iso": "2026-08-19T12:51:41.676Z",
-      "action": "updated remark for LF-ORGN-W4A-CLM-S at SHOMES- KANDY: “50%”"
     }
   ]
 }
