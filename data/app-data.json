@@ -20264,6 +20264,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:07:21",
       "lastUpdated": "2026-08-19T09:37:21.057Z"
+    },
+    "SRS-XV500||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:07:06",
+      "lastUpdated": "2026-08-19T09:37:06.815Z"
     }
   },
   "showroomVisits": {
@@ -20670,6 +20677,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "15:07:06",
+      "iso": "2026-08-19T09:37:06.815Z",
+      "action": "updated remark for SRS-XV500 at PERADENIYA: “50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "15:07:21",
@@ -21010,13 +21024,6 @@
       "date": "2026-08-19",
       "time": "14:59:42",
       "iso": "2026-08-19T09:29:42.421Z",
-      "action": "updated remark for PF-MONDY-BLACK at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:59:37",
-      "iso": "2026-08-19T09:29:37.419Z",
       "action": "updated remark for PF-MONDY-BLACK at NATTANDIYA: “Damaged - 85%”"
     }
   ]
