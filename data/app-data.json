@@ -19186,6 +19186,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:47:54",
       "lastUpdated": "2026-08-19T08:17:54.207Z"
+    },
+    "SKY-32E500||KANDY": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:48:10",
+      "lastUpdated": "2026-08-19T08:18:10.188Z"
     }
   },
   "showroomVisits": {
@@ -19594,6 +19601,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:48:10",
+      "iso": "2026-08-19T08:18:10.190Z",
+      "action": "updated remark for SKY-32E500 at KANDY: “Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:47:54",
       "iso": "2026-08-19T08:17:54.208Z",
       "action": "updated remark for PN-TH-75MX740N at KANDY: “20%”"
@@ -19933,13 +19947,6 @@
       "time": "13:43:18",
       "iso": "2026-08-19T08:13:18.135Z",
       "action": "updated remark for SIN-RFC-1819 at KANDY: “Sellable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:43:11",
-      "iso": "2026-08-19T08:13:11.147Z",
-      "action": "updated remark for CM-VIR-GUARD at KANDY: “To be dropped”"
     }
   ]
 }
