@@ -21818,6 +21818,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:28:22",
       "lastUpdated": "2026-08-19T10:58:22.342Z"
+    },
+    "H-RAPG012HFEOE||WENNAPPUWA": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:28:41",
+      "lastUpdated": "2026-08-19T10:58:41.155Z"
     }
   },
   "showroomVisits": {
@@ -22226,6 +22233,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:28:41",
+      "iso": "2026-08-19T10:58:41.157Z",
+      "action": "updated remark for H-RAPG012HFEOE at WENNAPPUWA: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:28:22",
       "iso": "2026-08-19T10:58:22.343Z",
       "action": "updated remark for GRIP-GM125-S at WENNAPPUWA: “Revert Damaged - 90%”"
@@ -22565,13 +22579,6 @@
       "time": "16:01:58",
       "iso": "2026-08-19T10:31:58.101Z",
       "action": "updated remark for DVP-SR370 at PERADENIYA: “MOP- 1500/=”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "16:01:39",
-      "iso": "2026-08-19T10:31:39.670Z",
-      "action": "updated remark for SDM-WQP12J7623A at PERADENIYA: “15% - System discount only”"
     }
   ]
 }
