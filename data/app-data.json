@@ -19851,6 +19851,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:54:48",
       "lastUpdated": "2026-08-19T09:24:48.724Z"
+    },
+    "LF-LEO-12022-WNG-S||NATTANDIYA": {
+      "remark": "Damaged & EOL - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:55:15",
+      "lastUpdated": "2026-08-19T09:25:15.110Z"
     }
   },
   "showroomVisits": {
@@ -20259,6 +20266,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-19",
+      "time": "14:55:15",
+      "iso": "2026-08-19T09:25:15.113Z",
+      "action": "updated remark for LF-LEO-12022-WNG-S at NATTANDIYA: “Damaged & EOL - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
       "time": "14:54:48",
       "iso": "2026-08-19T09:24:48.729Z",
       "action": "updated remark for LF-ECO-SD-WNG-S at NATTANDIYA: “Damaged & Obsolete - 50%”"
@@ -20598,13 +20612,6 @@
       "time": "14:26:22",
       "iso": "2026-08-19T08:56:22.244Z",
       "action": "updated remark for WF-PRESTON-BSC-S at BATTICALOA B: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:25:49",
-      "iso": "2026-08-19T08:55:49.739Z",
-      "action": "updated remark for TF-CM-APR737 at BATTICALOA B: “50% Discount”"
     }
   ]
 }
