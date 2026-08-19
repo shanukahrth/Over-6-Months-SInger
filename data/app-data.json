@@ -22182,6 +22182,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:58:04",
       "lastUpdated": "2026-08-19T11:28:04.598Z"
+    },
+    "PF-SIGNA-BL-S||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:58:12",
+      "lastUpdated": "2026-08-19T11:28:12.701Z"
     }
   },
   "showroomVisits": {
@@ -22806,6 +22813,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:58:12",
+      "iso": "2026-08-19T11:28:12.702Z",
+      "action": "updated remark for PF-SIGNA-BL-S at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:58:04",
       "iso": "2026-08-19T11:28:04.599Z",
       "action": "updated remark for PF-GRID-1D-BG-S at WENNAPPUWA: “Damaged - 40%”"
@@ -23145,13 +23159,6 @@
       "time": "16:47:28",
       "iso": "2026-08-19T11:17:28.439Z",
       "action": "updated BOPITIYA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:46:37",
-      "iso": "2026-08-19T11:16:37.147Z",
-      "action": "updated WATTALA showroom (visited: Yes)"
     }
   ]
 }
