@@ -23666,6 +23666,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:08:45",
       "lastUpdated": "2026-08-19T12:38:45.980Z"
+    },
+    "UPS-KSTAR-650V||KANDY - B": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:08:52",
+      "lastUpdated": "2026-08-19T12:38:52.814Z"
     }
   },
   "showroomVisits": {
@@ -24314,6 +24321,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:08:52",
+      "iso": "2026-08-19T12:38:52.815Z",
+      "action": "updated remark for UPS-KSTAR-650V at KANDY - B: “Shop use”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:08:45",
       "iso": "2026-08-19T12:38:45.982Z",
       "action": "updated remark for NEXT-K9-85 at KANDY - B: “Shop use”"
@@ -24653,13 +24667,6 @@
       "time": "18:01:59",
       "iso": "2026-08-19T12:31:59.770Z",
       "action": "updated remark for KA-PRISMA-1.2 at KANDY - B: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:01:51",
-      "iso": "2026-08-19T12:31:51.912Z",
-      "action": "updated remark for UJB-LB6027 at KANDY - B: “Reported”"
     }
   ]
 }
