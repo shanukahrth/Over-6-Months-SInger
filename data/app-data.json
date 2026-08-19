@@ -24130,11 +24130,18 @@
       "lastUpdated": "2026-08-19T12:50:14.108Z"
     },
     "OF-SW120-S||SHOMES- KANDY": {
-      "remark": "Reverted",
+      "remark": "Reverted & Unsellable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "18:20:26",
-      "lastUpdated": "2026-08-19T12:50:26.152Z"
+      "commentTime": "18:20:37",
+      "lastUpdated": "2026-08-19T12:50:37.935Z"
+    },
+    "OF-SW22-S||SHOMES- KANDY": {
+      "remark": "Reverted & Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:20:40",
+      "lastUpdated": "2026-08-19T12:50:40.556Z"
     }
   },
   "showroomVisits": {
@@ -24783,6 +24790,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:20:40",
+      "iso": "2026-08-19T12:50:40.559Z",
+      "action": "updated remark for OF-SW22-S at SHOMES- KANDY: “Reverted & Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:20:39",
+      "iso": "2026-08-19T12:50:39.033Z",
+      "action": "updated remark for OF-SW22-S at SHOMES- KANDY: “Reverted & Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:20:37",
+      "iso": "2026-08-19T12:50:37.937Z",
+      "action": "updated remark for OF-SW120-S at SHOMES- KANDY: “Reverted & Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:20:26",
       "iso": "2026-08-19T12:50:26.154Z",
       "action": "updated remark for OF-SW120-S at SHOMES- KANDY: “Reverted”"
@@ -25108,27 +25136,6 @@
       "time": "18:10:28",
       "iso": "2026-08-19T12:40:28.649Z",
       "action": "updated remark for PN-TH-32P401N at KANDY - B: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:09:56",
-      "iso": "2026-08-19T12:39:56.328Z",
-      "action": "updated remark for SLE43G690 at KANDY - B: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:09:48",
-      "iso": "2026-08-19T12:39:48.504Z",
-      "action": "updated remark for SLE40D600A at KANDY - B: “Panel Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:09:43",
-      "iso": "2026-08-19T12:39:43.355Z",
-      "action": "updated remark for SLE40D600A at KANDY - B: “Panel Damaged”"
     }
   ]
 }
