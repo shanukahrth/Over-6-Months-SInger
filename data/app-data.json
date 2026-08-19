@@ -18969,6 +18969,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:44:56",
       "lastUpdated": "2026-08-19T08:14:56.477Z"
+    },
+    "CAN-B-790-B||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:45:00",
+      "lastUpdated": "2026-08-19T08:15:00.658Z"
+    },
+    "CAN-B-790-M||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:45:02",
+      "lastUpdated": "2026-08-19T08:15:02.257Z"
+    },
+    "CAN-C-57-C||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:45:03",
+      "lastUpdated": "2026-08-19T08:15:03.775Z"
     }
   },
   "showroomVisits": {
@@ -19377,6 +19398,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:45:03",
+      "iso": "2026-08-19T08:15:03.776Z",
+      "action": "updated remark for CAN-C-57-C at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:45:02",
+      "iso": "2026-08-19T08:15:02.258Z",
+      "action": "updated remark for CAN-B-790-M at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:45:00",
+      "iso": "2026-08-19T08:15:00.660Z",
+      "action": "updated remark for CAN-B-790-B at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:44:56",
       "iso": "2026-08-19T08:14:56.478Z",
       "action": "updated remark for U-HRW-S11 at KANDY: “Sellable at Existing Price”"
@@ -19702,27 +19744,6 @@
       "time": "13:27:07",
       "iso": "2026-08-19T07:57:07.638Z",
       "action": "updated remark for SLE-55IFPZB-15 at KANDY: “Confirmed sale”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:26:57",
-      "iso": "2026-08-19T07:56:57.656Z",
-      "action": "updated remark for SLE-55IFPD-14 at KANDY: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:26:47",
-      "iso": "2026-08-19T07:56:47.747Z",
-      "action": "updated remark for MCZJ9513-G02 at KANDY: “95%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:26:46",
-      "iso": "2026-08-19T07:56:46.145Z",
-      "action": "updated remark for MCZJ9513-G01 at KANDY: “95%”"
     }
   ]
 }
