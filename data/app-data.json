@@ -24786,6 +24786,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:36:42",
       "lastUpdated": "2026-08-19T13:06:42.046Z"
+    },
+    "MID-D30-20EVN1||SHOMES- KANDY": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:36:50",
+      "lastUpdated": "2026-08-19T13:06:50.023Z"
     }
   },
   "showroomVisits": {
@@ -25434,6 +25441,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:36:50",
+      "iso": "2026-08-19T13:06:50.025Z",
+      "action": "updated remark for MID-D30-20EVN1 at SHOMES- KANDY: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:36:42",
       "iso": "2026-08-19T13:06:42.048Z",
       "action": "updated remark for WP-WFC105604RT-G at SHOMES- KANDY: “12.5%”"
@@ -25773,13 +25787,6 @@
       "time": "18:29:18",
       "iso": "2026-08-19T12:59:18.310Z",
       "action": "updated remark for SWH-118EP at SHOMES- KANDY: “Pending exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:29:11",
-      "iso": "2026-08-19T12:59:11.304Z",
-      "action": "updated remark for SWH-118E at SHOMES- KANDY: “60% - Revert”"
     }
   ]
 }
