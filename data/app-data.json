@@ -19886,6 +19886,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:56:37",
       "lastUpdated": "2026-08-19T09:26:37.918Z"
+    },
+    "LF-OX-BR-L-AGO-S||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:56:19",
+      "lastUpdated": "2026-08-19T09:26:19.288Z"
+    },
+    "LF-OX-BR-M-WNT-S||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:56:32",
+      "lastUpdated": "2026-08-19T09:26:32.328Z"
     }
   },
   "showroomVisits": {
@@ -20292,6 +20306,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:56:32",
+      "iso": "2026-08-19T09:26:32.329Z",
+      "action": "updated remark for LF-OX-BR-M-WNT-S at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:56:19",
+      "iso": "2026-08-19T09:26:19.289Z",
+      "action": "updated remark for LF-OX-BR-L-AGO-S at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "14:56:37",
@@ -20626,20 +20654,6 @@
       "time": "14:39:24",
       "iso": "2026-08-19T09:09:24.552Z",
       "action": "updated remark for SL-9VNF at PERADENIYA (cleared)"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "14:39:21",
-      "iso": "2026-08-19T09:09:21.784Z",
-      "action": "updated remark for SMGAR50F12D0J at PERADENIYA (cleared)"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "14:38:42",
-      "iso": "2026-08-19T09:08:42.188Z",
-      "action": "updated remark for SMGAR50F12D0J at PERADENIYA: “MOP- 1,40,000/=”"
     }
   ]
 }
