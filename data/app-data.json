@@ -19341,13 +19341,6 @@
       "commentTime": "14:37:24",
       "lastUpdated": "2026-08-19T09:07:24.767Z"
     },
-    "SMGAR50F12D0J||PERADENIYA": {
-      "remark": "MOP- 1,40,000/=",
-      "commentedBy": "Kaveesha Sathsarani",
-      "commentDate": "2026-08-19",
-      "commentTime": "14:38:42",
-      "lastUpdated": "2026-08-19T09:08:42.187Z"
-    },
     "WFL-SPM-72X60X7-S||BATTICALOA B": {
       "remark": "70% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
@@ -20063,6 +20056,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "14:39:21",
+      "iso": "2026-08-19T09:09:21.784Z",
+      "action": "updated remark for SMGAR50F12D0J at PERADENIYA (cleared)"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "14:38:42",
       "iso": "2026-08-19T09:08:42.188Z",
       "action": "updated remark for SMGAR50F12D0J at PERADENIYA: “MOP- 1,40,000/=”"
@@ -20402,13 +20402,6 @@
       "time": "14:10:23",
       "iso": "2026-08-19T08:40:23.062Z",
       "action": "updated remark for WF-COD-B-S at BATTICALOA B: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:08:32",
-      "iso": "2026-08-19T08:38:32.093Z",
-      "action": "updated remark for NUBIA-V70-8-256GB-GLD at BATTICALOA B: “35% Discount”"
     }
   ]
 }
