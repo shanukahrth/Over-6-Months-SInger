@@ -23897,6 +23897,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:12:33",
       "lastUpdated": "2026-08-19T12:42:33.441Z"
+    },
+    "WC-RTC221||KANDY - B": {
+      "remark": "MOP - 1,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:12:42",
+      "lastUpdated": "2026-08-19T12:42:42.775Z"
     }
   },
   "showroomVisits": {
@@ -24545,6 +24552,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:12:42",
+      "iso": "2026-08-19T12:42:42.777Z",
+      "action": "updated remark for WC-RTC221 at KANDY - B: “MOP - 1,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:12:33",
       "iso": "2026-08-19T12:42:33.442Z",
       "action": "updated remark for NVC990T at KANDY - B: “60% - Damaged”"
@@ -24884,13 +24898,6 @@
       "time": "18:07:56",
       "iso": "2026-08-19T12:37:56.437Z",
       "action": "updated remark for SL-ECO192-TG at KANDY - B: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:07:50",
-      "iso": "2026-08-19T12:37:50.029Z",
-      "action": "updated remark for PN-NR-BG271SSLK at KANDY - B: “Transfer”"
     }
   ]
 }
