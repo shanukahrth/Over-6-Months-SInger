@@ -22380,14 +22380,28 @@
     },
     "SHOMES-BADULLA||BADULLA": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-07",
+      "team": "Team Furniture , Methmal",
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:40:46",
+      "iso": "2026-08-19T11:10:46.939Z",
+      "action": "updated SHOMES-BADULLA showroom (visitDate: 2026-08-07)"
+    },
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:40:44",
+      "iso": "2026-08-19T11:10:44.399Z",
+      "action": "updated SHOMES-BADULLA showroom (team: Team Furniture , Methmal)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22723,20 +22737,6 @@
       "time": "16:20:34",
       "iso": "2026-08-19T10:50:34.683Z",
       "action": "updated remark for B-RDNI295XIB100P at WENNAPPUWA: “Can sell by the 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:20:23",
-      "iso": "2026-08-19T10:50:23.737Z",
-      "action": "updated remark for B-RDNI295XIB100P at WENNAPPUWA: “Display Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:19:42",
-      "iso": "2026-08-19T10:49:42.437Z",
-      "action": "updated remark for B-CWB6441XN at WENNAPPUWA: “Damaged - 80%”"
     }
   ]
 }
