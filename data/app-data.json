@@ -22672,6 +22672,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:38:54",
       "lastUpdated": "2026-08-19T12:08:54.827Z"
+    },
+    "WG-GLCS-2801A||WENNAPPUWA": {
+      "remark": "Revert Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:40:53",
+      "lastUpdated": "2026-08-19T12:10:53.949Z"
     }
   },
   "showroomVisits": {
@@ -23320,6 +23327,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:40:53",
+      "iso": "2026-08-19T12:10:53.949Z",
+      "action": "updated remark for WG-GLCS-2801A at WENNAPPUWA: “Revert Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:38:54",
       "iso": "2026-08-19T12:08:54.828Z",
       "action": "updated remark for WF-PRST-BDQ-W-S at WENNAPPUWA: “Damaged - 75%”"
@@ -23659,13 +23673,6 @@
       "time": "17:15:42",
       "iso": "2026-08-19T11:45:42.841Z",
       "action": "updated remark for SIN-QS-8306 at WENNAPPUWA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:15:19",
-      "iso": "2026-08-19T11:45:19.972Z",
-      "action": "updated remark for SIN-MH51SW at WENNAPPUWA: “Damaged - 90%”"
     }
   ]
 }
