@@ -23883,6 +23883,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:12:15",
       "lastUpdated": "2026-08-19T12:42:15.258Z"
+    },
+    "NVC2302A1||KANDY - B": {
+      "remark": "60% - Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:12:23",
+      "lastUpdated": "2026-08-19T12:42:23.761Z"
     }
   },
   "showroomVisits": {
@@ -24531,6 +24538,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:12:23",
+      "iso": "2026-08-19T12:42:23.763Z",
+      "action": "updated remark for NVC2302A1 at KANDY - B: “60% - Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:12:15",
       "iso": "2026-08-19T12:42:15.260Z",
       "action": "updated remark for KN-HV190 at KANDY - B: “60% - Damaged”"
@@ -24870,13 +24884,6 @@
       "time": "18:07:43",
       "iso": "2026-08-19T12:37:43.838Z",
       "action": "updated remark for GEO-242D-SV at KANDY - B: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:07:39",
-      "iso": "2026-08-19T12:37:39.259Z",
-      "action": "updated remark for HP-DESKJET-2775 at KANDY - B: “Unsellable”"
     }
   ]
 }
