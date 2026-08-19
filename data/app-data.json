@@ -18913,6 +18913,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:43:56",
       "lastUpdated": "2026-08-19T08:13:56.513Z"
+    },
+    "HON-X9B-12-256-ORG||KANDY": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:44:05",
+      "lastUpdated": "2026-08-19T08:14:05.722Z"
+    },
+    "HON-X9C-12-256-PPL||KANDY": {
+      "remark": "15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:44:07",
+      "lastUpdated": "2026-08-19T08:14:07.208Z"
     }
   },
   "showroomVisits": {
@@ -19321,6 +19335,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:44:07",
+      "iso": "2026-08-19T08:14:07.209Z",
+      "action": "updated remark for HON-X9C-12-256-PPL at KANDY: “15%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:44:05",
+      "iso": "2026-08-19T08:14:05.723Z",
+      "action": "updated remark for HON-X9B-12-256-ORG at KANDY: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:43:56",
       "iso": "2026-08-19T08:13:56.513Z",
       "action": "updated remark for HON-X8C-8-512-GRN at KANDY: “30%”"
@@ -19653,20 +19681,6 @@
       "time": "13:25:56",
       "iso": "2026-08-19T07:55:56.481Z",
       "action": "updated remark for LF-PEARL-2WD-WHT-S at KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:25:50",
-      "iso": "2026-08-19T07:55:50.047Z",
-      "action": "updated remark for LF-BUDGET-BDQ-CLM-S at KANDY: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:25:45",
-      "iso": "2026-08-19T07:55:45.304Z",
-      "action": "updated remark for WF-CF-75X36-S at KANDY: “50%”"
     }
   ]
 }
