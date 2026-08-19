@@ -16918,6 +16918,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:22:31",
       "lastUpdated": "2026-08-19T04:52:31.572Z"
+    },
+    "OF-COM-T-SHW-S||CHENKALADY": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:22:43",
+      "lastUpdated": "2026-08-19T04:52:43.229Z"
     }
   },
   "showroomVisits": {
@@ -17318,6 +17325,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "10:22:43",
+      "iso": "2026-08-19T04:52:43.232Z",
+      "action": "updated remark for OF-COM-T-SHW-S at CHENKALADY: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "10:22:31",
       "iso": "2026-08-19T04:52:31.573Z",
       "action": "updated remark for SLE32E910 at CHENKALADY: “60% Discount”"
@@ -17657,13 +17671,6 @@
       "time": "18:38:54",
       "iso": "2026-08-18T13:08:54.710Z",
       "action": "updated remark for KG-HS4-AIO-CARDREADER at MAIN WAREHOUSE: “Discount to Rs. 5,000”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "18:32:57",
-      "iso": "2026-08-18T13:02:57.432Z",
-      "action": "updated remark for SKYH310C-I56400 at MAIN WAREHOUSE: “Discount to Rs. 10,000”"
     }
   ]
 }
