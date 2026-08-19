@@ -21839,6 +21839,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:30:16",
       "lastUpdated": "2026-08-19T11:00:16.528Z"
+    },
+    "H-RMRG024HFEOE||WENNAPPUWA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:30:23",
+      "lastUpdated": "2026-08-19T11:00:23.005Z"
+    },
+    "H-RSQG018HFEOE||WENNAPPUWA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:30:24",
+      "lastUpdated": "2026-08-19T11:00:24.295Z"
     }
   },
   "showroomVisits": {
@@ -22247,6 +22261,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:30:24",
+      "iso": "2026-08-19T11:00:24.296Z",
+      "action": "updated remark for H-RSQG018HFEOE at WENNAPPUWA: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:30:23",
+      "iso": "2026-08-19T11:00:23.006Z",
+      "action": "updated remark for H-RMRG024HFEOE at WENNAPPUWA: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:30:16",
       "iso": "2026-08-19T11:00:16.530Z",
       "action": "updated remark for H-RAPG012HFEOE at WENNAPPUWA: “Damaged - 30%”"
@@ -22579,20 +22607,6 @@
       "time": "16:08:23",
       "iso": "2026-08-19T10:38:23.347Z",
       "action": "updated remark for FAN-WF1608R at PERADENIYA: “20%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "16:08:09",
-      "iso": "2026-08-19T10:38:09.381Z",
-      "action": "updated remark for FAN-FS40-10DR at PERADENIYA: “Damaged- 70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "16:07:43",
-      "iso": "2026-08-19T10:37:43.317Z",
-      "action": "updated remark for FAN-C-CF560 at PERADENIYA: “70%”"
     }
   ]
 }
