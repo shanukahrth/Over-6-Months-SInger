@@ -17807,6 +17807,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "11:46:26",
       "lastUpdated": "2026-08-19T06:16:26.953Z"
+    },
+    "WF-PRESTON-2D-S||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "11:46:41",
+      "lastUpdated": "2026-08-19T06:16:41.246Z"
     }
   },
   "showroomVisits": {
@@ -18207,6 +18214,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "11:46:41",
+      "iso": "2026-08-19T06:16:41.250Z",
+      "action": "updated remark for WF-PRESTON-2D-S at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "11:46:26",
       "iso": "2026-08-19T06:16:26.955Z",
       "action": "updated remark for SWM-FAR75 at BATTICALOA B: “50% Discount”"
@@ -18546,13 +18560,6 @@
       "time": "11:08:45",
       "iso": "2026-08-19T05:38:45.881Z",
       "action": "updated remark for SWM-FA70R at KIRIELLA: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "11:08:36",
-      "iso": "2026-08-19T05:38:36.058Z",
-      "action": "updated remark for SLE40D600A at KIRIELLA: “70%”"
     }
   ]
 }
