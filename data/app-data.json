@@ -23127,6 +23127,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:58:03",
       "lastUpdated": "2026-08-19T12:28:03.766Z"
+    },
+    "LF-MIKO-WD-SHW||KANDY - B": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:57:48",
+      "lastUpdated": "2026-08-19T12:27:48.735Z"
+    },
+    "WF-NAMAL-CT-S||KANDY - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:57:57",
+      "lastUpdated": "2026-08-19T12:27:57.687Z"
     }
   },
   "showroomVisits": {
@@ -23773,6 +23787,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:57:57",
+      "iso": "2026-08-19T12:27:57.688Z",
+      "action": "updated remark for WF-NAMAL-CT-S at KANDY - B: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:57:48",
+      "iso": "2026-08-19T12:27:48.737Z",
+      "action": "updated remark for LF-MIKO-WD-SHW at KANDY - B: “Unsellable”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "17:58:03",
@@ -24107,20 +24135,6 @@
       "time": "17:47:37",
       "iso": "2026-08-19T12:17:37.999Z",
       "action": "updated remark for WFL-RIO-03-S at DERANIYAGALA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:47:07",
-      "iso": "2026-08-19T12:17:07.023Z",
-      "action": "updated remark for WF-PARIS-BR-S at DERANIYAGALA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:46:09",
-      "iso": "2026-08-19T12:16:09.969Z",
-      "action": "updated remark for PF-MONDY-RED at DERANIYAGALA: “50%”"
     }
   ]
 }
