@@ -19622,11 +19622,11 @@
       "lastUpdated": "2026-08-19T09:02:18.554Z"
     },
     "AS-13G-I3-512GB-3851-SIL||NATTANDIYA": {
-      "remark": "Damaged - 50%",
+      "remark": "Damaged - 60%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-19",
-      "commentTime": "14:42:22",
-      "lastUpdated": "2026-08-19T09:12:22.833Z"
+      "commentTime": "14:45:20",
+      "lastUpdated": "2026-08-19T09:15:20.504Z"
     },
     "DELL3502-PNTMSIL-W10-BLK||NATTANDIYA": {
       "remark": "Can sell this by 31st Aug",
@@ -19655,6 +19655,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:43:53",
       "lastUpdated": "2026-08-19T09:13:53.217Z"
+    },
+    "HON-H200SMART-8-256-GRN||NATTANDIYA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:45:37",
+      "lastUpdated": "2026-08-19T09:15:37.637Z"
     }
   },
   "showroomVisits": {
@@ -20061,6 +20068,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:45:37",
+      "iso": "2026-08-19T09:15:37.638Z",
+      "action": "updated remark for HON-H200SMART-8-256-GRN at NATTANDIYA: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:45:20",
+      "iso": "2026-08-19T09:15:20.505Z",
+      "action": "updated remark for AS-13G-I3-512GB-3851-SIL at NATTANDIYA: “Damaged - 60%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
       "time": "14:43:53",
@@ -20395,20 +20416,6 @@
       "time": "14:15:10",
       "iso": "2026-08-19T08:45:10.661Z",
       "action": "updated remark for WF-PERTH-CT-MH at BATTICALOA B: “10% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:14:42",
-      "iso": "2026-08-19T08:44:42.304Z",
-      "action": "updated remark for WF-OSLO-MH-S at BATTICALOA B: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:12:37",
-      "iso": "2026-08-19T08:42:37.224Z",
-      "action": "updated remark for MID-MJ-KM6001W at BATTICALOA B: “55% Discount”"
     }
   ]
 }
