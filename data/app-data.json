@@ -22700,6 +22700,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:41:40",
       "lastUpdated": "2026-08-19T12:11:40.133Z"
+    },
+    "WF-CF-75X75-S||DERANIYAGALA": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:42:07",
+      "lastUpdated": "2026-08-19T12:12:07.155Z"
+    },
+    "LF-CT-S||DERANIYAGALA": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:42:14",
+      "lastUpdated": "2026-08-19T12:12:14.971Z"
     }
   },
   "showroomVisits": {
@@ -23346,6 +23360,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:42:14",
+      "iso": "2026-08-19T12:12:14.976Z",
+      "action": "updated remark for LF-CT-S at DERANIYAGALA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:42:10",
+      "iso": "2026-08-19T12:12:10.896Z",
+      "action": "updated remark for LF-CT-S at DERANIYAGALA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:42:07",
+      "iso": "2026-08-19T12:12:07.161Z",
+      "action": "updated remark for WF-CF-75X75-S at DERANIYAGALA: “50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-19",
       "time": "17:41:40",
@@ -23673,27 +23708,6 @@
       "time": "17:17:12",
       "iso": "2026-08-19T11:47:12.033Z",
       "action": "updated remark for SIN-RFC-2058 at WENNAPPUWA: “Damaged - 60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:17:22",
-      "iso": "2026-08-19T11:47:22.914Z",
-      "action": "updated remark for DUM-SMGAR50F12D0J at DERANIYAGALA: “Dummy”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:16:58",
-      "iso": "2026-08-19T11:46:58.857Z",
-      "action": "updated remark for H-RMRG024MFEOE at DERANIYAGALA: “Transferred”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:16:51",
-      "iso": "2026-08-19T11:46:51.391Z",
-      "action": "updated remark for H-RMRG024HFEOE at DERANIYAGALA: “Flat 40%”"
     }
   ]
 }
