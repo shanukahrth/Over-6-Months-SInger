@@ -22420,6 +22420,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:17:12",
       "lastUpdated": "2026-08-19T11:47:12.031Z"
+    },
+    "SIN-W66PA28||WENNAPPUWA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:17:25",
+      "lastUpdated": "2026-08-19T11:47:25.219Z"
     }
   },
   "showroomVisits": {
@@ -23068,6 +23075,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:17:25",
+      "iso": "2026-08-19T11:47:25.220Z",
+      "action": "updated remark for SIN-W66PA28 at WENNAPPUWA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:17:12",
       "iso": "2026-08-19T11:47:12.033Z",
       "action": "updated remark for SIN-RFC-2058 at WENNAPPUWA: “Damaged - 60%”"
@@ -23407,13 +23421,6 @@
       "time": "16:58:33",
       "iso": "2026-08-19T11:28:33.528Z",
       "action": "updated remark for PN-CS-U18XKH at WENNAPPUWA: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:58:30",
-      "iso": "2026-08-19T11:28:30.675Z",
-      "action": "updated remark for PN-CS-SU12XKY-8 at WENNAPPUWA: “Sold”"
     }
   ]
 }
