@@ -23260,6 +23260,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:59:54",
       "lastUpdated": "2026-08-19T12:29:54.919Z"
+    },
+    "TF-GS-SPKT302||KANDY - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:00:01",
+      "lastUpdated": "2026-08-19T12:30:01.585Z"
     }
   },
   "showroomVisits": {
@@ -23908,6 +23915,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:00:01",
+      "iso": "2026-08-19T12:30:01.585Z",
+      "action": "updated remark for TF-GS-SPKT302 at KANDY - B: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "17:59:54",
       "iso": "2026-08-19T12:29:54.922Z",
       "action": "updated remark for SIN-MRG-1008C at KANDY - B: “Sellable at existing price”"
@@ -24247,13 +24261,6 @@
       "time": "17:52:32",
       "iso": "2026-08-19T12:22:32.868Z",
       "action": "updated remark for SVX6008 at KANDY - B: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:52:25",
-      "iso": "2026-08-19T12:22:25.614Z",
-      "action": "updated remark for PN-SC-TMAX5GSK at KANDY - B: “70%”"
     }
   ]
 }
