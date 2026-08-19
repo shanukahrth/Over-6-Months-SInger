@@ -25360,6 +25360,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:52:04",
       "lastUpdated": "2026-08-19T13:22:04.141Z"
+    },
+    "SLMC-18DSLHS||PILIMATHALAWA": {
+      "remark": "8%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:52:14",
+      "lastUpdated": "2026-08-19T13:22:14.538Z"
     }
   },
   "showroomVisits": {
@@ -26008,6 +26015,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:52:14",
+      "iso": "2026-08-19T13:22:14.540Z",
+      "action": "updated remark for SLMC-18DSLHS at PILIMATHALAWA: “8%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:52:04",
       "iso": "2026-08-19T13:22:04.142Z",
       "action": "updated remark for SMC18DSL02 at PILIMATHALAWA: “80%”"
@@ -26347,13 +26361,6 @@
       "time": "18:46:38",
       "iso": "2026-08-19T13:16:38.781Z",
       "action": "updated remark for WF-ELINA-FB-BL2-S at PILIMATHALAWA: “Pending exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:46:29",
-      "iso": "2026-08-19T13:16:29.429Z",
-      "action": "updated remark for WF-CLASSIC-S at PILIMATHALAWA: “50%”"
     }
   ]
 }
