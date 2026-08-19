@@ -18381,6 +18381,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "12:33:46",
       "lastUpdated": "2026-08-19T07:03:46.158Z"
+    },
+    "WP-1R-100-S||BATTICALOA B": {
+      "remark": "65% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "12:00:34",
+      "lastUpdated": "2026-08-19T06:30:34.811Z"
+    },
+    "LF-BUDGET-2WD-EC-S||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "12:58:11",
+      "lastUpdated": "2026-08-19T07:28:11.091Z"
     }
   },
   "showroomVisits": {
@@ -18787,6 +18801,20 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
+      "time": "12:58:11",
+      "iso": "2026-08-19T07:28:11.093Z",
+      "action": "updated remark for LF-BUDGET-2WD-EC-S at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
+      "time": "12:00:34",
+      "iso": "2026-08-19T06:30:34.821Z",
+      "action": "updated remark for WP-1R-100-S at BATTICALOA B: “65% Discount”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "12:33:46",
@@ -19121,20 +19149,6 @@
       "time": "12:08:35",
       "iso": "2026-08-19T06:38:35.588Z",
       "action": "updated remark for ZTE-A35-2-64GB-BLK at HEMMATHAGAMA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "12:08:32",
-      "iso": "2026-08-19T06:38:32.512Z",
-      "action": "updated remark for ZTE-A34-2-64GB-GRN at HEMMATHAGAMA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "12:08:24",
-      "iso": "2026-08-19T06:38:24.946Z",
-      "action": "updated remark for ZTE-A34-2-64GB-GRE at HEMMATHAGAMA: “80%”"
     }
   ]
 }
