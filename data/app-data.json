@@ -20448,11 +20448,11 @@
       "lastUpdated": "2026-08-19T09:43:00.033Z"
     },
     "B-BMGB25332BG||PERADENIYA": {
-      "remark": "Saleable excising price",
+      "remark": "Saleable existing price",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-19",
-      "commentTime": "15:13:20",
-      "lastUpdated": "2026-08-19T09:43:20.162Z"
+      "commentTime": "15:17:01",
+      "lastUpdated": "2026-08-19T09:47:01.778Z"
     },
     "SL-PB-426||EHELIYAGODA - B": {
       "remark": "70% flat only for display",
@@ -20929,6 +20929,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "15:17:01",
+      "iso": "2026-08-19T09:47:01.780Z",
+      "action": "updated remark for B-BMGB25332BG at PERADENIYA: “Saleable existing price”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "15:17:09",
@@ -21270,13 +21277,6 @@
       "time": "15:07:21",
       "iso": "2026-08-19T09:37:21.064Z",
       "action": "updated remark for WFL-NEL-SB at EHELIYAGODA - B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:07:04",
-      "iso": "2026-08-19T09:37:04.218Z",
-      "action": "updated remark for WFL-GRIP-CT02-S at EHELIYAGODA - B: “-”"
     }
   ]
 }
