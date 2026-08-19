@@ -23059,11 +23059,11 @@
       "lastUpdated": "2026-08-19T12:25:09.677Z"
     },
     "SIN-EP170||KANDY - B": {
-      "remark": "70%",
+      "remark": "70% - Damaged",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "17:55:14",
-      "lastUpdated": "2026-08-19T12:25:14.338Z"
+      "commentTime": "17:55:22",
+      "lastUpdated": "2026-08-19T12:25:22.197Z"
     }
   },
   "showroomVisits": {
@@ -23712,6 +23712,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "17:55:22",
+      "iso": "2026-08-19T12:25:22.199Z",
+      "action": "updated remark for SIN-EP170 at KANDY - B: “70% - Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "17:55:14",
       "iso": "2026-08-19T12:25:14.340Z",
       "action": "updated remark for SIN-EP170 at KANDY - B: “70%”"
@@ -24051,13 +24058,6 @@
       "time": "17:42:14",
       "iso": "2026-08-19T12:12:14.447Z",
       "action": "updated remark for WP-PVC at WENNAPPUWA: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:42:02",
-      "iso": "2026-08-19T12:12:02.536Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at WENNAPPUWA: “Damaged - 25%”"
     }
   ]
 }
