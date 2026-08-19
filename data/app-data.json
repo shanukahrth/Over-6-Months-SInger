@@ -21993,6 +21993,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:46:25",
       "lastUpdated": "2026-08-19T11:16:25.208Z"
+    },
+    "LF-PODIUM-MWNT-S||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:46:36",
+      "lastUpdated": "2026-08-19T11:16:36.988Z"
     }
   },
   "showroomVisits": {
@@ -22457,6 +22464,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:46:36",
+      "iso": "2026-08-19T11:16:36.989Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:46:25",
       "iso": "2026-08-19T11:16:25.209Z",
       "action": "updated remark for LF-ORGN-DTO-WHT at WENNAPPUWA: “Damaged - 50%”"
@@ -22796,13 +22810,6 @@
       "time": "16:29:09",
       "iso": "2026-08-19T10:59:09.960Z",
       "action": "updated remark for H-RAPG012HFEOE at WENNAPPUWA (cleared)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:29:08",
-      "iso": "2026-08-19T10:59:08.108Z",
-      "action": "updated remark for H-RMRG024HFEOE at WENNAPPUWA (cleared)"
     }
   ]
 }
