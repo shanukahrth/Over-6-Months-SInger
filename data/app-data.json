@@ -20957,6 +20957,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:30:40",
       "lastUpdated": "2026-08-19T10:00:40.584Z"
+    },
+    "SL-ECO55-SV||NATTANDIYA": {
+      "remark": "10%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:30:56",
+      "lastUpdated": "2026-08-19T10:00:56.394Z"
     }
   },
   "showroomVisits": {
@@ -21365,6 +21372,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-19",
+      "time": "15:30:56",
+      "iso": "2026-08-19T10:00:56.396Z",
+      "action": "updated remark for SL-ECO55-SV at NATTANDIYA: “10%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
       "time": "15:30:40",
       "iso": "2026-08-19T10:00:40.586Z",
       "action": "updated remark for SLE43G690 at NATTANDIYA: “Damaged - 40%”"
@@ -21704,13 +21718,6 @@
       "time": "15:19:32",
       "iso": "2026-08-19T09:49:32.128Z",
       "action": "updated remark for SL-TF2GCR at EHELIYAGODA - B: “Revert close”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:19:19",
-      "iso": "2026-08-19T09:49:19.797Z",
-      "action": "updated remark for URC-220 at NATTANDIYA: “Damaged - 85%”"
     }
   ]
 }
