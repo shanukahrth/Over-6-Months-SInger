@@ -21356,6 +21356,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:47:44",
       "lastUpdated": "2026-08-19T10:17:44.493Z"
+    },
+    "PCP50||KALAWANCHIKUDY": {
+      "remark": "75% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:47:57",
+      "lastUpdated": "2026-08-19T10:17:57.428Z"
     }
   },
   "showroomVisits": {
@@ -21764,6 +21771,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "15:47:57",
+      "iso": "2026-08-19T10:17:57.429Z",
+      "action": "updated remark for PCP50 at KALAWANCHIKUDY: “75% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "15:47:44",
       "iso": "2026-08-19T10:17:44.495Z",
       "action": "updated remark for KV-4WTS10M at KALAWANCHIKUDY: “50% Discount”"
@@ -22103,13 +22117,6 @@
       "time": "15:35:02",
       "iso": "2026-08-19T10:05:02.452Z",
       "action": "updated remark for SL-TF2GCR at KALAWANCHIKUDY: “90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:34:52",
-      "iso": "2026-08-19T10:04:52.404Z",
-      "action": "updated remark for SIN-VBS-90PA at KALAWANCHIKUDY: “Revert (Damage 90% Discount)”"
     }
   ]
 }
