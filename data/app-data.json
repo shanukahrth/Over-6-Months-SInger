@@ -5937,11 +5937,11 @@
       "lastUpdated": "2026-08-17T10:51:11.052Z"
     },
     "HON-X7C-8-256-GRN||MATALE": {
-      "remark": "Damaged - 50%",
-      "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "16:21:25",
-      "lastUpdated": "2026-08-17T10:51:25.204Z"
+      "remark": "Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:42:16",
+      "lastUpdated": "2026-08-19T11:12:16.166Z"
     },
     "HON-X8C-8-512-WHT||MATALE": {
       "remark": "Damaged - 50%",
@@ -22413,6 +22413,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:42:16",
+      "iso": "2026-08-19T11:12:16.167Z",
+      "action": "updated remark for HON-X7C-8-256-GRN at MATALE: “Damaged - 70%”"
+    },
+    {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
       "time": "16:42:09",
@@ -22754,13 +22761,6 @@
       "time": "16:26:23",
       "iso": "2026-08-19T10:56:23.688Z",
       "action": "updated remark for GEO-182S-BU1 at WENNAPPUWA: “Display - 15%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:24:26",
-      "iso": "2026-08-19T10:54:26.604Z",
-      "action": "updated remark for FAN-VIERA-TEAK at WENNAPPUWA: “Display Damaged - 20%”"
     }
   ]
 }
