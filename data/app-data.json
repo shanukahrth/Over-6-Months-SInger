@@ -22259,6 +22259,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:03:21",
       "lastUpdated": "2026-08-19T11:33:21.339Z"
+    },
+    "PN-TH-32M402N||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:03:27",
+      "lastUpdated": "2026-08-19T11:33:27.461Z"
     }
   },
   "showroomVisits": {
@@ -22883,6 +22890,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:03:27",
+      "iso": "2026-08-19T11:33:27.462Z",
+      "action": "updated remark for PN-TH-32M402N at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:03:21",
       "iso": "2026-08-19T11:33:21.340Z",
       "action": "updated remark for PN-TH-32MS670N at WENNAPPUWA: “Revert Damaged - 70%”"
@@ -23222,13 +23236,6 @@
       "time": "16:48:15",
       "iso": "2026-08-19T11:18:15.637Z",
       "action": "updated remark for MBS-SAF4S at WENNAPPUWA: “Damaged - 95%”"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:48:12",
-      "iso": "2026-08-19T11:18:12.054Z",
-      "action": "updated WATTALA showroom (visitDate: 2026-08-13)"
     }
   ]
 }
