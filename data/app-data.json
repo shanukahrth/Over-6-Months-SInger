@@ -23351,6 +23351,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:01:51",
       "lastUpdated": "2026-08-19T12:31:51.910Z"
+    },
+    "KA-PRISMA-1.2||KANDY - B": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:01:59",
+      "lastUpdated": "2026-08-19T12:31:59.769Z"
     }
   },
   "showroomVisits": {
@@ -23999,6 +24006,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:01:59",
+      "iso": "2026-08-19T12:31:59.770Z",
+      "action": "updated remark for KA-PRISMA-1.2 at KANDY - B: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:01:51",
       "iso": "2026-08-19T12:31:51.912Z",
       "action": "updated remark for UJB-LB6027 at KANDY - B: “Reported”"
@@ -24338,13 +24352,6 @@
       "time": "17:54:05",
       "iso": "2026-08-19T12:24:05.332Z",
       "action": "updated remark for SDV3605K at KANDY - B: “MOP - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:53:57",
-      "iso": "2026-08-19T12:23:57.772Z",
-      "action": "updated remark for MSI-MOD15-B13M-I3-BLK at KANDY - B: “60%”"
     }
   ]
 }
