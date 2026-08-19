@@ -19074,6 +19074,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:46:37",
       "lastUpdated": "2026-08-19T08:16:37.055Z"
+    },
+    "AVERY-300KG||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:46:39",
+      "lastUpdated": "2026-08-19T08:16:39.821Z"
     }
   },
   "showroomVisits": {
@@ -19482,6 +19489,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:46:39",
+      "iso": "2026-08-19T08:16:39.823Z",
+      "action": "updated remark for AVERY-300KG at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:46:37",
       "iso": "2026-08-19T08:16:37.056Z",
       "action": "updated remark for AES-HAV-615T at KANDY: “Sellable at Existing Price”"
@@ -19821,13 +19835,6 @@
       "time": "13:30:19",
       "iso": "2026-08-19T08:00:19.133Z",
       "action": "updated remark for TF-AF32-577 at KANDY: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:29:59",
-      "iso": "2026-08-19T07:59:59.476Z",
-      "action": "updated remark for KN-SMP01 at KANDY: “60%”"
     }
   ]
 }
