@@ -22161,6 +22161,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:55:54",
       "lastUpdated": "2026-08-19T11:25:54.719Z"
+    },
+    "PCD80-SS||WENNAPPUWA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:56:39",
+      "lastUpdated": "2026-08-19T11:26:39.685Z"
     }
   },
   "showroomVisits": {
@@ -22783,6 +22790,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:56:39",
+      "iso": "2026-08-19T11:26:39.686Z",
+      "action": "updated remark for PCD80-SS at WENNAPPUWA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:56:38",
+      "iso": "2026-08-19T11:26:38.364Z",
+      "action": "updated remark for PCD80-SS at WENNAPPUWA: “Damaged - 60%”"
+    },
+    {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
       "time": "16:56:21",
@@ -23117,20 +23138,6 @@
       "time": "16:46:33",
       "iso": "2026-08-19T11:16:33.253Z",
       "action": "updated PELIYAGODA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:46:31",
-      "iso": "2026-08-19T11:16:31.450Z",
-      "action": "updated MINUWANGODA - B showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:46:29",
-      "iso": "2026-08-19T11:16:29.704Z",
-      "action": "updated MINUWANGODA showroom (visited: Yes)"
     }
   ]
 }
