@@ -25101,6 +25101,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:47:03",
       "lastUpdated": "2026-08-19T13:17:03.916Z"
+    },
+    "WFI-CANTON-DRS||PILIMATHALAWA": {
+      "remark": "75%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:47:15",
+      "lastUpdated": "2026-08-19T13:17:15.472Z"
     }
   },
   "showroomVisits": {
@@ -25749,6 +25756,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:47:15",
+      "iso": "2026-08-19T13:17:15.474Z",
+      "action": "updated remark for WFI-CANTON-DRS at PILIMATHALAWA: “75%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:47:03",
       "iso": "2026-08-19T13:17:03.917Z",
       "action": "updated remark for WF-ORIENT-CHR-S at PILIMATHALAWA: “50%”"
@@ -26088,13 +26102,6 @@
       "time": "18:41:53",
       "iso": "2026-08-19T13:11:53.277Z",
       "action": "updated remark for SIN-BS30 at PILIMATHALAWA: “MOP - 8,500”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:41:43",
-      "iso": "2026-08-19T13:11:43.937Z",
-      "action": "updated remark for MHC-V13 at PILIMATHALAWA: “80%”"
     }
   ]
 }
