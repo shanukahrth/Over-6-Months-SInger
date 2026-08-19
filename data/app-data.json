@@ -19963,6 +19963,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:58:09",
       "lastUpdated": "2026-08-19T09:28:09.231Z"
+    },
+    "AC-TEMP-Y9-18||PERADENIYA": {
+      "remark": "To be dropped",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:58:18",
+      "lastUpdated": "2026-08-19T09:28:18.424Z"
     }
   },
   "showroomVisits": {
@@ -20369,6 +20376,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "14:58:18",
+      "iso": "2026-08-19T09:28:18.424Z",
+      "action": "updated remark for AC-TEMP-Y9-18 at PERADENIYA: “To be dropped”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-19",
       "time": "14:58:09",
@@ -20710,13 +20724,6 @@
       "time": "14:45:37",
       "iso": "2026-08-19T09:15:37.638Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at NATTANDIYA: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:45:20",
-      "iso": "2026-08-19T09:15:20.505Z",
-      "action": "updated remark for AS-13G-I3-512GB-3851-SIL at NATTANDIYA: “Damaged - 60%”"
     }
   ]
 }
