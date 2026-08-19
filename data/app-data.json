@@ -25150,6 +25150,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:48:35",
       "lastUpdated": "2026-08-19T13:18:35.113Z"
+    },
+    "WF-DOC-T009-BU-S||PILIMATHALAWA": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:48:49",
+      "lastUpdated": "2026-08-19T13:18:49.687Z"
+    },
+    "WFL-NOC-T011-BU-S||PILIMATHALAWA": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:48:52",
+      "lastUpdated": "2026-08-19T13:18:52.099Z"
     }
   },
   "showroomVisits": {
@@ -25798,6 +25812,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:48:52",
+      "iso": "2026-08-19T13:18:52.099Z",
+      "action": "updated remark for WFL-NOC-T011-BU-S at PILIMATHALAWA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:48:50",
+      "iso": "2026-08-19T13:18:50.918Z",
+      "action": "updated remark for WFL-NOC-T011-BU-S at PILIMATHALAWA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:48:49",
+      "iso": "2026-08-19T13:18:49.688Z",
+      "action": "updated remark for WF-DOC-T009-BU-S at PILIMATHALAWA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:48:35",
       "iso": "2026-08-19T13:18:35.115Z",
       "action": "updated remark for WFL-SPM-75X48X8-S at PILIMATHALAWA: “Reported”"
@@ -26123,27 +26158,6 @@
       "time": "18:43:30",
       "iso": "2026-08-19T13:13:30.152Z",
       "action": "updated remark for DELL3511-I3-4GB256-SIL at PILIMATHALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:43:24",
-      "iso": "2026-08-19T13:13:24.702Z",
-      "action": "updated remark for DELL-3582-PQC-W10 at PILIMATHALAWA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:43:17",
-      "iso": "2026-08-19T13:13:17.049Z",
-      "action": "updated remark for ACER-515-I3-8GB512-GRY at PILIMATHALAWA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:42:34",
-      "iso": "2026-08-19T13:12:34.774Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at PILIMATHALAWA: “To be dropped”"
     }
   ]
 }
