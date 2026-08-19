@@ -22561,7 +22561,7 @@
     },
     "WATTALA||PELIYAGODA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Shanuka Herath",
@@ -22585,6 +22585,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:48:12",
+      "iso": "2026-08-19T11:18:12.054Z",
+      "action": "updated WATTALA showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22927,13 +22934,6 @@
       "time": "16:40:41",
       "iso": "2026-08-19T11:10:41.874Z",
       "action": "updated SHOMES-BADULLA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:40:35",
-      "iso": "2026-08-19T11:10:35.923Z",
-      "action": "updated BADULLA B showroom (visited: Yes)"
     }
   ]
 }
