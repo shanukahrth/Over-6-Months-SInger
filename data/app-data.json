@@ -20915,6 +20915,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:29:38",
       "lastUpdated": "2026-08-19T09:59:38.370Z"
+    },
+    "BES-CRS-51||NATTANDIYA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:28:41",
+      "lastUpdated": "2026-08-19T09:58:41.555Z"
+    },
+    "SL-ECO192-TG||NATTANDIYA": {
+      "remark": "Can sell this by 31st Aug",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:29:23",
+      "lastUpdated": "2026-08-19T09:59:23.455Z"
     }
   },
   "showroomVisits": {
@@ -21321,6 +21335,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:29:23",
+      "iso": "2026-08-19T09:59:23.457Z",
+      "action": "updated remark for SL-ECO192-TG at NATTANDIYA: “Can sell this by 31st Aug”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:28:41",
+      "iso": "2026-08-19T09:58:41.558Z",
+      "action": "updated remark for BES-CRS-51 at NATTANDIYA: “Damaged - 50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "15:29:38",
@@ -21655,20 +21683,6 @@
       "time": "15:18:49",
       "iso": "2026-08-19T09:48:49.287Z",
       "action": "updated remark for SLMC-18DSLHS at EHELIYAGODA - B: “Not working”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:18:12",
-      "iso": "2026-08-19T09:48:12.977Z",
-      "action": "updated remark for WP-12KINV at KALAWANCHIKUDY: “2.4 Discount”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:18:03",
-      "iso": "2026-08-19T09:48:03.951Z",
-      "action": "updated remark for TF-SI-EXS1230 at NATTANDIYA: “Can sell this by 31st Aug”"
     }
   ]
 }
