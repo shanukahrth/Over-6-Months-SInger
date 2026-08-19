@@ -22755,9 +22755,61 @@
       "remark": "Fire has taken place",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
+    },
+    "KIRINDIWELA||NITTAMBUWA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
+    },
+    "KIRINDIWELA - B||NITTAMBUWA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
+    },
+    "MEGA-MILAGIRIYA||MEGA COLOMBO METRO ZONE-": {
+      "visited": "No",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:56:21",
+      "iso": "2026-08-19T11:26:21.211Z",
+      "action": "updated MEGA-MILAGIRIYA showroom (visited: No)"
+    },
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:56:16",
+      "iso": "2026-08-19T11:26:16.505Z",
+      "action": "updated MEGA-MILAGIRIYA showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:55:22",
+      "iso": "2026-08-19T11:25:22.275Z",
+      "action": "updated KIRINDIWELA - B showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:55:21",
+      "iso": "2026-08-19T11:25:21.172Z",
+      "action": "updated KIRINDIWELA showroom (visited: Yes)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-19",
@@ -23079,34 +23131,6 @@
       "time": "16:46:29",
       "iso": "2026-08-19T11:16:29.704Z",
       "action": "updated MINUWANGODA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:46:27",
-      "iso": "2026-08-19T11:16:27.908Z",
-      "action": "updated KIRIBATHGODA B showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:46:25",
-      "iso": "2026-08-19T11:16:25.806Z",
-      "action": "updated KIRIBATHGODA - C showroom (visited: No)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:46:21",
-      "iso": "2026-08-19T11:16:21.351Z",
-      "action": "updated KIRIBATHGODA - C showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:46:19",
-      "iso": "2026-08-19T11:16:19.538Z",
-      "action": "updated KANDANA showroom (visited: Yes)"
     }
   ]
 }
