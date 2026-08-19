@@ -21680,18 +21680,11 @@
       "lastUpdated": "2026-08-19T10:43:31.108Z"
     },
     "AS-CEL-X515-487-128SSD-SL||WENNAPPUWA": {
-      "remark": "Okay",
+      "remark": "Damaged/Revert - 80%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-19",
-      "commentTime": "16:15:29",
-      "lastUpdated": "2026-08-19T10:45:29.631Z"
-    },
-    "AS-BM155T-I5W10||WENNAPPUWA": {
-      "remark": "Damaged - 80%",
-      "commentedBy": "SHENULI",
-      "commentDate": "2026-08-19",
-      "commentTime": "16:16:13",
-      "lastUpdated": "2026-08-19T10:46:13.756Z"
+      "commentTime": "16:16:26",
+      "lastUpdated": "2026-08-19T10:46:26.410Z"
     }
   },
   "showroomVisits": {
@@ -22100,6 +22093,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:16:28",
+      "iso": "2026-08-19T10:46:28.204Z",
+      "action": "updated remark for AS-BM155T-I5W10 at WENNAPPUWA (cleared)"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:16:26",
+      "iso": "2026-08-19T10:46:26.410Z",
+      "action": "updated remark for AS-CEL-X515-487-128SSD-SL at WENNAPPUWA: “Damaged/Revert - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:16:13",
       "iso": "2026-08-19T10:46:13.757Z",
       "action": "updated remark for AS-BM155T-I5W10 at WENNAPPUWA: “Damaged - 80%”"
@@ -22432,20 +22439,6 @@
       "time": "15:49:47",
       "iso": "2026-08-19T10:19:47.785Z",
       "action": "updated remark for KA-PRISMA-1.7 at KALAWANCHIKUDY: “75 Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:49:27",
-      "iso": "2026-08-19T10:19:27.986Z",
-      "action": "updated remark for PF-ENVISION-BL-S at KALAWANCHIKUDY: “20% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:49:04",
-      "iso": "2026-08-19T10:19:04.086Z",
-      "action": "updated remark for UJB-LB6027 at KALAWANCHIKUDY: “45% Discount”"
     }
   ]
 }
