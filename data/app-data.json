@@ -24471,6 +24471,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:30:08",
       "lastUpdated": "2026-08-19T13:00:08.203Z"
+    },
+    "KA-TXG-DS11A||SHOMES- KANDY": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:30:12",
+      "lastUpdated": "2026-08-19T13:00:12.934Z"
     }
   },
   "showroomVisits": {
@@ -25119,6 +25126,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:30:12",
+      "iso": "2026-08-19T13:00:12.937Z",
+      "action": "updated remark for KA-TXG-DS11A at SHOMES- KANDY: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:30:08",
       "iso": "2026-08-19T13:00:08.205Z",
       "action": "updated remark for SIS277CU at SHOMES- KANDY: “40%”"
@@ -25458,13 +25472,6 @@
       "time": "18:21:41",
       "iso": "2026-08-19T12:51:41.676Z",
       "action": "updated remark for LF-ORGN-W4A-CLM-S at SHOMES- KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:21:40",
-      "iso": "2026-08-19T12:51:40.274Z",
-      "action": "updated remark for LF-ORGN-W4A-CKT-S at SHOMES- KANDY: “To be reported”"
     }
   ]
 }
