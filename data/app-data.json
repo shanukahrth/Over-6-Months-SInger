@@ -17597,6 +17597,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "11:19:28",
       "lastUpdated": "2026-08-19T05:49:28.911Z"
+    },
+    "PCP50||CHENKALADY": {
+      "remark": "60% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "11:19:58",
+      "lastUpdated": "2026-08-19T05:49:58.023Z"
     }
   },
   "showroomVisits": {
@@ -17997,6 +18004,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "11:19:58",
+      "iso": "2026-08-19T05:49:58.025Z",
+      "action": "updated remark for PCP50 at CHENKALADY: “60% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "11:19:28",
       "iso": "2026-08-19T05:49:28.913Z",
       "action": "updated remark for RIYLTA-MF12V5 at CHENKALADY: “75% Discount”"
@@ -18336,13 +18350,6 @@
       "time": "10:54:39",
       "iso": "2026-08-19T05:24:39.772Z",
       "action": "updated remark for HON-X5BPLUS-4-128-BLK at KIRIELLA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:54:15",
-      "iso": "2026-08-19T05:24:15.497Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-ONG at KIRIELLA: “Sellable”"
     }
   ]
 }
