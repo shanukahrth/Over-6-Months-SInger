@@ -20222,6 +20222,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:05:46",
       "lastUpdated": "2026-08-19T09:35:46.071Z"
+    },
+    "WF-COD-B-S||EHELIYAGODA - B": {
+      "remark": "Will report this month",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:05:44",
+      "lastUpdated": "2026-08-19T09:35:44.987Z"
+    },
+    "LF-ORGN-W4A-CKT-S||EHELIYAGODA - B": {
+      "remark": "Part missing",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:06:15",
+      "lastUpdated": "2026-08-19T09:36:15.065Z"
     }
   },
   "showroomVisits": {
@@ -20628,6 +20642,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:06:15",
+      "iso": "2026-08-19T09:36:15.071Z",
+      "action": "updated remark for LF-ORGN-W4A-CKT-S at EHELIYAGODA - B: “Part missing”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:05:44",
+      "iso": "2026-08-19T09:35:44.994Z",
+      "action": "updated remark for WF-COD-B-S at EHELIYAGODA - B: “Will report this month”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-19",
       "time": "15:05:46",
@@ -20962,20 +20990,6 @@
       "time": "14:58:09",
       "iso": "2026-08-19T09:28:09.232Z",
       "action": "updated remark for MCT-302N at NATTANDIYA: “Shop used”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:57:54",
-      "iso": "2026-08-19T09:27:54.168Z",
-      "action": "updated remark for MCT-234 at NATTANDIYA: “Shop used”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:57:24",
-      "iso": "2026-08-19T09:27:24.333Z",
-      "action": "updated remark for MCS-730-8 at NATTANDIYA: “Shop Used”"
     }
   ]
 }
