@@ -17557,11 +17557,11 @@
       "lastUpdated": "2026-08-19T05:32:33.255Z"
     },
     "SWM-FA70R||KIRIELLA": {
-      "remark": "70%",
+      "remark": "Sellable",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "11:08:45",
-      "lastUpdated": "2026-08-19T05:38:45.874Z"
+      "commentTime": "11:08:50",
+      "lastUpdated": "2026-08-19T05:38:50.268Z"
     },
     "SLE42D2070TC||KIRIELLA": {
       "remark": "70%",
@@ -17976,6 +17976,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "11:08:50",
+      "iso": "2026-08-19T05:38:50.275Z",
+      "action": "updated remark for SWM-FA70R at KIRIELLA: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "11:08:45",
       "iso": "2026-08-19T05:38:45.881Z",
       "action": "updated remark for SWM-FA70R at KIRIELLA: “70%”"
@@ -18315,13 +18322,6 @@
       "time": "10:52:47",
       "iso": "2026-08-19T05:22:47.720Z",
       "action": "updated remark for SIN-RFC-1819 at KIRIELLA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:52:44",
-      "iso": "2026-08-19T05:22:44.193Z",
-      "action": "updated remark for SIN-RFC-2058 at KIRIELLA: “Sellable”"
     }
   ]
 }
