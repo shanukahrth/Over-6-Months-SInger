@@ -22497,6 +22497,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:29:11",
       "lastUpdated": "2026-08-19T11:59:11.355Z"
+    },
+    "PN-SC-UA3GS-K||DERANIYAGALA": {
+      "remark": "40000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:30:28",
+      "lastUpdated": "2026-08-19T12:00:28.026Z"
     }
   },
   "showroomVisits": {
@@ -23143,6 +23150,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:30:28",
+      "iso": "2026-08-19T12:00:28.032Z",
+      "action": "updated remark for PN-SC-UA3GS-K at DERANIYAGALA: “40000”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-19",
       "time": "17:29:11",
@@ -23484,13 +23498,6 @@
       "time": "17:04:57",
       "iso": "2026-08-19T11:34:57.064Z",
       "action": "updated remark for R-BWS-02 at WENNAPPUWA: “10%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:04:33",
-      "iso": "2026-08-19T11:34:33.427Z",
-      "action": "updated remark for PWRMAX at WENNAPPUWA: “Damaged - 85%”"
     }
   ]
 }
