@@ -22315,6 +22315,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:07:26",
       "lastUpdated": "2026-08-19T11:37:26.277Z"
+    },
+    "SASI12INFI||WENNAPPUWA": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:12:10",
+      "lastUpdated": "2026-08-19T11:42:10.022Z"
     }
   },
   "showroomVisits": {
@@ -22953,6 +22960,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "17:12:10",
+      "iso": "2026-08-19T11:42:10.024Z",
+      "action": "updated remark for SASI12INFI at WENNAPPUWA: “Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "17:12:06",
+      "iso": "2026-08-19T11:42:06.000Z",
+      "action": "updated remark for SASI12INFI at WENNAPPUWA: “Damaged - 95”"
+    },
+    {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-19",
       "time": "17:11:22",
@@ -23287,20 +23308,6 @@
       "time": "16:52:42",
       "iso": "2026-08-19T11:22:42.814Z",
       "action": "updated remark for MX-JU585 at WENNAPPUWA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:52:37",
-      "iso": "2026-08-19T11:22:37.090Z",
-      "action": "updated remark for MX-AT712G31 at WENNAPPUWA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:52:13",
-      "iso": "2026-08-19T11:22:13.268Z",
-      "action": "updated remark for MID-MJ-KM6001W at WENNAPPUWA: “Damaged - 70%”"
     }
   ]
 }
