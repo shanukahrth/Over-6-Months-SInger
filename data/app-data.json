@@ -19417,6 +19417,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:12:37",
       "lastUpdated": "2026-08-19T08:42:37.222Z"
+    },
+    "WF-OSLO-MH-S||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:14:42",
+      "lastUpdated": "2026-08-19T08:44:42.303Z"
     }
   },
   "showroomVisits": {
@@ -19825,6 +19832,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "14:14:42",
+      "iso": "2026-08-19T08:44:42.304Z",
+      "action": "updated remark for WF-OSLO-MH-S at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "14:12:37",
       "iso": "2026-08-19T08:42:37.224Z",
       "action": "updated remark for MID-MJ-KM6001W at BATTICALOA B: “55% Discount”"
@@ -20164,13 +20178,6 @@
       "time": "13:47:32",
       "iso": "2026-08-19T08:17:32.723Z",
       "action": "updated remark for KD-43X75K at KANDY: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:47:23",
-      "iso": "2026-08-19T08:17:23.368Z",
-      "action": "updated remark for SIN-PR-K340 at KANDY: “Sellable at Existing Price”"
     }
   ]
 }
