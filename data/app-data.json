@@ -22224,6 +22224,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:59:28",
       "lastUpdated": "2026-08-19T11:29:28.583Z"
+    },
+    "PN-SC-BMAX10E-K||WENNAPPUWA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:00:16",
+      "lastUpdated": "2026-08-19T11:30:16.402Z"
     }
   },
   "showroomVisits": {
@@ -22848,6 +22855,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:00:16",
+      "iso": "2026-08-19T11:30:16.403Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at WENNAPPUWA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:59:28",
       "iso": "2026-08-19T11:29:28.584Z",
       "action": "updated remark for PN-NF-GW1WSK at WENNAPPUWA: “Can sell by the 31st of Aug”"
@@ -23187,13 +23201,6 @@
       "time": "16:47:47",
       "iso": "2026-08-19T11:17:47.772Z",
       "action": "updated KIRIBATHGODA B showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:47:44",
-      "iso": "2026-08-19T11:17:44.757Z",
-      "action": "updated KIRIBATHGODA - C showroom (visitDate: 2026-08-13)"
     }
   ]
 }
