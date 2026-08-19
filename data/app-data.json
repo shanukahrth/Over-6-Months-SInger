@@ -22546,6 +22546,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:32:55",
       "lastUpdated": "2026-08-19T12:02:55.493Z"
+    },
+    "BY-MONA-L||DERANIYAGALA": {
+      "remark": "10000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:33:16",
+      "lastUpdated": "2026-08-19T12:03:16.604Z"
     }
   },
   "showroomVisits": {
@@ -23194,6 +23201,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "17:33:16",
+      "iso": "2026-08-19T12:03:16.610Z",
+      "action": "updated remark for BY-MONA-L at DERANIYAGALA: “10000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "17:32:55",
       "iso": "2026-08-19T12:02:55.502Z",
       "action": "updated remark for SB-DTYPE at DERANIYAGALA: “50%”"
@@ -23533,13 +23547,6 @@
       "time": "17:10:36",
       "iso": "2026-08-19T11:40:36.774Z",
       "action": "updated GALLE B showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-19",
-      "time": "17:10:27",
-      "iso": "2026-08-19T11:40:27.367Z",
-      "action": "updated GALLE B showroom (visitDate: 2026-08-18)"
     }
   ]
 }
