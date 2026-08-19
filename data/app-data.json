@@ -21727,6 +21727,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:20:34",
       "lastUpdated": "2026-08-19T10:50:34.681Z"
+    },
+    "BES-CRS-51||WENNAPPUWA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:20:59",
+      "lastUpdated": "2026-08-19T10:50:59.093Z"
     }
   },
   "showroomVisits": {
@@ -22135,6 +22142,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:20:59",
+      "iso": "2026-08-19T10:50:59.094Z",
+      "action": "updated remark for BES-CRS-51 at WENNAPPUWA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:20:34",
       "iso": "2026-08-19T10:50:34.683Z",
       "action": "updated remark for B-RDNI295XIB100P at WENNAPPUWA: “Can sell by the 31st of Aug”"
@@ -22474,13 +22488,6 @@
       "time": "15:54:20",
       "iso": "2026-08-19T10:24:20.229Z",
       "action": "updated remark for SLE24D1000 at SAMANTHURAI: “Location closed”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:54:13",
-      "iso": "2026-08-19T10:24:13.400Z",
-      "action": "updated remark for SLE32D2010TC at SAMANTHURAI: “Location closed”"
     }
   ]
 }
