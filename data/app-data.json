@@ -25703,6 +25703,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:57:41",
       "lastUpdated": "2026-08-19T13:27:41.029Z"
+    },
+    "MC8280||PILIMATHALAWA": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:57:54",
+      "lastUpdated": "2026-08-19T13:27:54.085Z"
     }
   },
   "showroomVisits": {
@@ -26351,6 +26358,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:57:54",
+      "iso": "2026-08-19T13:27:54.086Z",
+      "action": "updated remark for MC8280 at PILIMATHALAWA: “To be reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:57:41",
       "iso": "2026-08-19T13:27:41.030Z",
       "action": "updated remark for UPS-KSTAR-650V at PILIMATHALAWA: “Unsellable”"
@@ -26690,13 +26704,6 @@
       "time": "18:52:24",
       "iso": "2026-08-19T13:22:24.525Z",
       "action": "updated remark for STT-200K at PILIMATHALAWA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:52:18",
-      "iso": "2026-08-19T13:22:18.841Z",
-      "action": "updated remark for SLMC-18DSLHS at PILIMATHALAWA: “80%”"
     }
   ]
 }
