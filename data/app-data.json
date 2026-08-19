@@ -23498,6 +23498,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:04:31",
       "lastUpdated": "2026-08-19T12:34:31.316Z"
+    },
+    "SMG-SM-A057F-4-128-B||KANDY - B": {
+      "remark": "Pending location transfer",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:04:58",
+      "lastUpdated": "2026-08-19T12:34:58.317Z"
     }
   },
   "showroomVisits": {
@@ -24146,6 +24153,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:04:58",
+      "iso": "2026-08-19T12:34:58.317Z",
+      "action": "updated remark for SMG-SM-A057F-4-128-B at KANDY - B: “Pending location transfer”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:04:31",
       "iso": "2026-08-19T12:34:31.316Z",
       "action": "updated remark for HON-X9B-12-256-SIL at KANDY - B: “40%”"
@@ -24485,13 +24499,6 @@
       "time": "17:58:42",
       "iso": "2026-08-19T12:28:42.180Z",
       "action": "updated remark for SL-S203 at DERANIYAGALA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:58:23",
-      "iso": "2026-08-19T12:28:23.053Z",
-      "action": "updated remark for STT-KHT009 at DERANIYAGALA: “Sellable”"
     }
   ]
 }
