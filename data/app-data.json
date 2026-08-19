@@ -22252,6 +22252,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:02:46",
       "lastUpdated": "2026-08-19T11:32:46.349Z"
+    },
+    "PN-TH-32MS670N||WENNAPPUWA": {
+      "remark": "Revert Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:03:21",
+      "lastUpdated": "2026-08-19T11:33:21.339Z"
     }
   },
   "showroomVisits": {
@@ -22876,6 +22883,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:03:21",
+      "iso": "2026-08-19T11:33:21.340Z",
+      "action": "updated remark for PN-TH-32MS670N at WENNAPPUWA: “Revert Damaged - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:02:46",
       "iso": "2026-08-19T11:32:46.350Z",
       "action": "updated remark for PN-SC-UA7GS-K at WENNAPPUWA: “Display Damaged - 40%”"
@@ -23215,13 +23229,6 @@
       "time": "16:48:12",
       "iso": "2026-08-19T11:18:12.054Z",
       "action": "updated WATTALA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:48:07",
-      "iso": "2026-08-19T11:18:07.439Z",
-      "action": "updated RAGAMA showroom (visitDate: 2026-08-13)"
     }
   ]
 }
