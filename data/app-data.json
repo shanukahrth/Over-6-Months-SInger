@@ -22393,9 +22393,24 @@
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
+    },
+    "DIYATHALAWA||BADULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:41:20",
+      "iso": "2026-08-19T11:11:20.645Z",
+      "action": "updated DIYATHALAWA showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22738,13 +22753,6 @@
       "time": "16:22:17",
       "iso": "2026-08-19T10:52:17.844Z",
       "action": "updated remark for CD001 at WENNAPPUWA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:21:58",
-      "iso": "2026-08-19T10:51:58.805Z",
-      "action": "updated remark for BES-WP15T at WENNAPPUWA: “Damaged - 60%”"
     }
   ]
 }
