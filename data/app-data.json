@@ -23169,6 +23169,55 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:59:00",
       "lastUpdated": "2026-08-19T12:29:00.766Z"
+    },
+    "WFL-MONACO||KANDY - B": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:58:14",
+      "lastUpdated": "2026-08-19T12:28:14.799Z"
+    },
+    "WF-KRY-BDQ-BG-S||KANDY - B": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:58:19",
+      "lastUpdated": "2026-08-19T12:28:19.734Z"
+    },
+    "WFL-ALP-HS-1KL-S||KANDY - B": {
+      "remark": "10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:58:28",
+      "lastUpdated": "2026-08-19T12:28:28.860Z"
+    },
+    "WFL-NEL-SB||KANDY - B": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:58:42",
+      "lastUpdated": "2026-08-19T12:28:42.384Z"
+    },
+    "WFI-HELENA-CHR-S||KANDY - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:58:48",
+      "lastUpdated": "2026-08-19T12:28:48.773Z"
+    },
+    "WFI-HELENA-TBL-S||KANDY - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:58:50",
+      "lastUpdated": "2026-08-19T12:28:50.327Z"
+    },
+    "WFI-SOC-M005-BU-S||KANDY - B": {
+      "remark": "20%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:58:56",
+      "lastUpdated": "2026-08-19T12:28:56.639Z"
     }
   },
   "showroomVisits": {
@@ -23815,6 +23864,55 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:58:56",
+      "iso": "2026-08-19T12:28:56.640Z",
+      "action": "updated remark for WFI-SOC-M005-BU-S at KANDY - B: “20%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:58:50",
+      "iso": "2026-08-19T12:28:50.328Z",
+      "action": "updated remark for WFI-HELENA-TBL-S at KANDY - B: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:58:48",
+      "iso": "2026-08-19T12:28:48.777Z",
+      "action": "updated remark for WFI-HELENA-CHR-S at KANDY - B: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:58:42",
+      "iso": "2026-08-19T12:28:42.387Z",
+      "action": "updated remark for WFL-NEL-SB at KANDY - B: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:58:28",
+      "iso": "2026-08-19T12:28:28.862Z",
+      "action": "updated remark for WFL-ALP-HS-1KL-S at KANDY - B: “10%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:58:19",
+      "iso": "2026-08-19T12:28:19.736Z",
+      "action": "updated remark for WF-KRY-BDQ-BG-S at KANDY - B: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "17:58:14",
+      "iso": "2026-08-19T12:28:14.800Z",
+      "action": "updated remark for WFL-MONACO at KANDY - B: “Unsellable”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "17:59:00",
@@ -24114,55 +24212,6 @@
       "time": "17:51:53",
       "iso": "2026-08-19T12:21:53.043Z",
       "action": "updated remark for TF-NIK26-045 at DERANIYAGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:51:49",
-      "iso": "2026-08-19T12:21:49.587Z",
-      "action": "updated remark for TF-NIGP26-119 at DERANIYAGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:51:47",
-      "iso": "2026-08-19T12:21:47.027Z",
-      "action": "updated remark for TF-NIFP28-042 at DERANIYAGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:51:44",
-      "iso": "2026-08-19T12:21:44.558Z",
-      "action": "updated remark for TF-NIDFP24-170 at DERANIYAGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:51:41",
-      "iso": "2026-08-19T12:21:41.549Z",
-      "action": "updated remark for TF-KD24-061 at DERANIYAGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:51:08",
-      "iso": "2026-08-19T12:21:08.731Z",
-      "action": "updated remark for RCS-04 at DERANIYAGALA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:51:00",
-      "iso": "2026-08-19T12:21:00.588Z",
-      "action": "updated remark for TF-GS-SPKT302 at DERANIYAGALA: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:50:55",
-      "iso": "2026-08-19T12:20:55.101Z",
-      "action": "updated remark for TF-SI-ESS-242 at DERANIYAGALA: “10%”"
     }
   ]
 }
