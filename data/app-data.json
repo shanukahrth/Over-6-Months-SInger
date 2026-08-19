@@ -20465,8 +20465,8 @@
       "remark": "Saleable existing price",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-19",
-      "commentTime": "15:17:16",
-      "lastUpdated": "2026-08-19T09:47:16.587Z"
+      "commentTime": "15:48:11",
+      "lastUpdated": "2026-08-19T10:18:11.356Z"
     },
     "MID-BL1190||EHELIYAGODA - B": {
       "remark": "Flat 80%",
@@ -21377,6 +21377,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:48:27",
       "lastUpdated": "2026-08-19T10:18:27.895Z"
+    },
+    "BC-KNP-AG||PERADENIYA": {
+      "remark": "Damaged",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:48:37",
+      "lastUpdated": "2026-08-19T10:18:37.971Z"
     }
   },
   "showroomVisits": {
@@ -21783,6 +21790,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "15:48:37",
+      "iso": "2026-08-19T10:18:37.974Z",
+      "action": "updated remark for BC-KNP-AG at PERADENIYA: “Damaged”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "15:48:11",
+      "iso": "2026-08-19T10:18:11.358Z",
+      "action": "updated remark for B-HIAG64223SXL at PERADENIYA: “Saleable existing price”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "15:23:59",
+      "iso": "2026-08-19T09:53:59.667Z",
+      "action": "updated remark for B-HIAG64223SXL at PERADENIYA (cleared)"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
       "time": "15:48:27",
@@ -22110,27 +22138,6 @@
       "time": "15:34:55",
       "iso": "2026-08-19T10:04:55.678Z",
       "action": "updated remark for SLE32E920 at NATTANDIYA: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:34:40",
-      "iso": "2026-08-19T10:04:40.722Z",
-      "action": "updated remark for SLE32E910 at NATTANDIYA: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:34:35",
-      "iso": "2026-08-19T10:04:35.639Z",
-      "action": "updated remark for SLE32E910 at NATTANDIYA: “Damaged - 90%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:35:31",
-      "iso": "2026-08-19T10:05:31.803Z",
-      "action": "updated remark for FAN-P-SF1605HL at KALAWANCHIKUDY: “60% Discount”"
     }
   ]
 }
