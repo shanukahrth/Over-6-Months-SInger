@@ -25290,6 +25290,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:50:49",
       "lastUpdated": "2026-08-19T13:20:49.120Z"
+    },
+    "PN-NF-GW1WSK||PILIMATHALAWA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:50:53",
+      "lastUpdated": "2026-08-19T13:20:53.007Z"
+    },
+    "KN-HFP72||PILIMATHALAWA": {
+      "remark": "To be transffered",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:51:02",
+      "lastUpdated": "2026-08-19T13:21:02.762Z"
+    },
+    "TF-CM-APR737||PILIMATHALAWA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:51:13",
+      "lastUpdated": "2026-08-19T13:21:13.520Z"
     }
   },
   "showroomVisits": {
@@ -25938,6 +25959,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:51:13",
+      "iso": "2026-08-19T13:21:13.522Z",
+      "action": "updated remark for TF-CM-APR737 at PILIMATHALAWA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:51:02",
+      "iso": "2026-08-19T13:21:02.763Z",
+      "action": "updated remark for KN-HFP72 at PILIMATHALAWA: “To be transffered”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:50:53",
+      "iso": "2026-08-19T13:20:53.009Z",
+      "action": "updated remark for PN-NF-GW1WSK at PILIMATHALAWA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:50:49",
       "iso": "2026-08-19T13:20:49.122Z",
       "action": "updated remark for TF-IT30-169 at PILIMATHALAWA: “70%”"
@@ -26263,27 +26305,6 @@
       "time": "18:45:35",
       "iso": "2026-08-19T13:15:35.635Z",
       "action": "updated remark for WF-COD-B-S at PILIMATHALAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:45:32",
-      "iso": "2026-08-19T13:15:32.324Z",
-      "action": "updated remark for WF-CB-B-S at PILIMATHALAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:45:22",
-      "iso": "2026-08-19T13:15:22.833Z",
-      "action": "updated remark for OF-SW18022-S at PILIMATHALAWA: “80% - Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:45:16",
-      "iso": "2026-08-19T13:15:16.112Z",
-      "action": "updated remark for SIN-K8317R-2 at PILIMATHALAWA: “80%”"
     }
   ]
 }
