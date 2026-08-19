@@ -22105,6 +22105,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:52:03",
       "lastUpdated": "2026-08-19T11:22:03.408Z"
+    },
+    "MID-MJ-KM6001W||WENNAPPUWA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:52:13",
+      "lastUpdated": "2026-08-19T11:22:13.267Z"
     }
   },
   "showroomVisits": {
@@ -22705,6 +22712,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:52:13",
+      "iso": "2026-08-19T11:22:13.268Z",
+      "action": "updated remark for MID-MJ-KM6001W at WENNAPPUWA: “Damaged - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:52:03",
       "iso": "2026-08-19T11:22:03.410Z",
       "action": "updated remark for MID-MF-TN40D2 at WENNAPPUWA: “Damaged - 85%”"
@@ -23044,13 +23058,6 @@
       "time": "16:46:20",
       "iso": "2026-08-19T11:16:20.728Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at WENNAPPUWA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:46:16",
-      "iso": "2026-08-19T11:16:16.438Z",
-      "action": "updated remark for LF-LITE-2WD-CT-S at WENNAPPUWA: “Damaged - 50%”"
     }
   ]
 }
