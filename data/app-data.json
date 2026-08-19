@@ -21986,6 +21986,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:46:20",
       "lastUpdated": "2026-08-19T11:16:20.727Z"
+    },
+    "LF-ORGN-DTO-WHT||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:46:25",
+      "lastUpdated": "2026-08-19T11:16:25.208Z"
     }
   },
   "showroomVisits": {
@@ -22450,6 +22457,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:46:25",
+      "iso": "2026-08-19T11:16:25.209Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:46:20",
       "iso": "2026-08-19T11:16:20.728Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at WENNAPPUWA: “Damaged - 50%”"
@@ -22789,13 +22803,6 @@
       "time": "16:29:08",
       "iso": "2026-08-19T10:59:08.108Z",
       "action": "updated remark for H-RMRG024HFEOE at WENNAPPUWA (cleared)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:28:45",
-      "iso": "2026-08-19T10:58:45.607Z",
-      "action": "updated remark for H-RMRG024HFEOE at WENNAPPUWA: “Damaged - 20%”"
     }
   ]
 }
