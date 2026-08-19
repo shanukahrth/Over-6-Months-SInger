@@ -17380,6 +17380,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:52:44",
       "lastUpdated": "2026-08-19T05:22:44.187Z"
+    },
+    "SIN-RFC-1819||KIRIELLA": {
+      "remark": "Sellable",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:52:47",
+      "lastUpdated": "2026-08-19T05:22:47.714Z"
     }
   },
   "showroomVisits": {
@@ -17780,6 +17787,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:52:47",
+      "iso": "2026-08-19T05:22:47.720Z",
+      "action": "updated remark for SIN-RFC-1819 at KIRIELLA: “Sellable”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:52:44",
       "iso": "2026-08-19T05:22:44.193Z",
       "action": "updated remark for SIN-RFC-2058 at KIRIELLA: “Sellable”"
@@ -18119,13 +18133,6 @@
       "time": "10:34:35",
       "iso": "2026-08-19T05:04:35.269Z",
       "action": "updated remark for QT-SITUP at KIRIELLA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:34:21",
-      "iso": "2026-08-19T05:04:21.166Z",
-      "action": "updated remark for PN-F-409MNBHMKH at KIRIELLA: “Sellable”"
     }
   ]
 }
