@@ -22973,6 +22973,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:52:50",
       "lastUpdated": "2026-08-19T12:22:50.712Z"
+    },
+    "NETAC-128GB-NVME-SSD||KANDY - B": {
+      "remark": "To be dropped",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:52:58",
+      "lastUpdated": "2026-08-19T12:22:58.796Z"
     }
   },
   "showroomVisits": {
@@ -23621,6 +23628,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "17:52:58",
+      "iso": "2026-08-19T12:22:58.797Z",
+      "action": "updated remark for NETAC-128GB-NVME-SSD at KANDY - B: “To be dropped”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "17:52:50",
       "iso": "2026-08-19T12:22:50.714Z",
       "action": "updated remark for B-CFB9433X at KANDY - B: “40%”"
@@ -23960,13 +23974,6 @@
       "time": "17:39:12",
       "iso": "2026-08-19T12:09:12.414Z",
       "action": "updated remark for FAN-P-SF1605HL at DERANIYAGALA: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:38:26",
-      "iso": "2026-08-19T12:08:26.051Z",
-      "action": "updated remark for UDV3618SY at DERANIYAGALA: “2000”"
     }
   ]
 }
