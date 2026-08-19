@@ -22553,6 +22553,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:33:16",
       "lastUpdated": "2026-08-19T12:03:16.604Z"
+    },
+    "UPS-KSTAR-650V||WENNAPPUWA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:32:56",
+      "lastUpdated": "2026-08-19T12:02:56.128Z"
     }
   },
   "showroomVisits": {
@@ -23199,6 +23206,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "17:32:56",
+      "iso": "2026-08-19T12:02:56.129Z",
+      "action": "updated remark for UPS-KSTAR-650V at WENNAPPUWA: “Damaged - 90%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "17:33:16",
@@ -23540,13 +23554,6 @@
       "time": "17:10:51",
       "iso": "2026-08-19T11:40:51.259Z",
       "action": "updated AHANGAMA showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-19",
-      "time": "17:10:36",
-      "iso": "2026-08-19T11:40:36.774Z",
-      "action": "updated GALLE B showroom (team: Colombo South MKT)"
     }
   ]
 }
