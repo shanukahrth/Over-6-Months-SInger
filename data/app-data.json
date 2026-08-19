@@ -17088,11 +17088,11 @@
       "lastUpdated": "2026-08-19T05:04:21.161Z"
     },
     "QT-SITUP||KIRIELLA": {
-      "remark": "80%",
+      "remark": "20000",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "10:34:35",
-      "lastUpdated": "2026-08-19T05:04:35.263Z"
+      "commentTime": "10:35:14",
+      "lastUpdated": "2026-08-19T05:05:14.725Z"
     }
   },
   "showroomVisits": {
@@ -17493,6 +17493,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:35:14",
+      "iso": "2026-08-19T05:05:14.731Z",
+      "action": "updated remark for QT-SITUP at KIRIELLA: “20000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:34:35",
       "iso": "2026-08-19T05:04:35.269Z",
       "action": "updated remark for QT-SITUP at KIRIELLA: “80%”"
@@ -17832,13 +17839,6 @@
       "time": "09:36:46",
       "iso": "2026-08-19T04:06:46.462Z",
       "action": "updated remark for LF-ECO-SD-SHW-S at CHENKALADY: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "09:36:24",
-      "iso": "2026-08-19T04:06:24.689Z",
-      "action": "updated remark for BES-WP15T at CHENKALADY: “15% Discount”"
     }
   ]
 }
