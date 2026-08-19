@@ -22936,7 +22936,7 @@
     },
     "AHANGAMA||GALLE": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-19",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -22944,6 +22944,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-19",
+      "time": "17:10:56",
+      "iso": "2026-08-19T11:40:56.446Z",
+      "action": "updated AHANGAMA showroom (visitDate: 2026-08-19)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-19",
@@ -23286,13 +23293,6 @@
       "time": "16:50:17",
       "iso": "2026-08-19T11:20:17.104Z",
       "action": "updated remark for MCZJ9513-G01 at WENNAPPUWA: “Can sell by the 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:50:10",
-      "iso": "2026-08-19T11:20:10.708Z",
-      "action": "updated remark for MCZJ757C at WENNAPPUWA: “Can sell by the 31st of Aug”"
     }
   ]
 }
