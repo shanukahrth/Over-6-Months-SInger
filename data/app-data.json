@@ -19214,6 +19214,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:48:43",
       "lastUpdated": "2026-08-19T08:18:43.204Z"
+    },
+    "SLE40D600A||KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:48:47",
+      "lastUpdated": "2026-08-19T08:18:47.704Z"
     }
   },
   "showroomVisits": {
@@ -19622,6 +19629,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:48:47",
+      "iso": "2026-08-19T08:18:47.705Z",
+      "action": "updated remark for SLE40D600A at KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:48:43",
       "iso": "2026-08-19T08:18:43.205Z",
       "action": "updated remark for SLE32E710 at KANDY: “70%”"
@@ -19961,13 +19975,6 @@
       "time": "13:43:38",
       "iso": "2026-08-19T08:13:38.669Z",
       "action": "updated remark for HU-SECURITY at KANDY: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:43:33",
-      "iso": "2026-08-19T08:13:33.230Z",
-      "action": "updated remark for HU-MATEPAD-SE11-GRY at KANDY: “60%”"
     }
   ]
 }
