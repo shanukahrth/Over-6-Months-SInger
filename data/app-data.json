@@ -18962,6 +18962,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:44:51",
       "lastUpdated": "2026-08-19T08:14:51.386Z"
+    },
+    "U-HRW-S11||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:44:56",
+      "lastUpdated": "2026-08-19T08:14:56.477Z"
     }
   },
   "showroomVisits": {
@@ -19370,6 +19377,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:44:56",
+      "iso": "2026-08-19T08:14:56.478Z",
+      "action": "updated remark for U-HRW-S11 at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:44:51",
       "iso": "2026-08-19T08:14:51.387Z",
       "action": "updated remark for HU-SE2-FREEBUD-WHT at KANDY: “To be dropped”"
@@ -19709,13 +19723,6 @@
       "time": "13:26:46",
       "iso": "2026-08-19T07:56:46.145Z",
       "action": "updated remark for MCZJ9513-G01 at KANDY: “95%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:26:37",
-      "iso": "2026-08-19T07:56:37.920Z",
-      "action": "updated remark for DAV-TZ140 at KANDY: “80%”"
     }
   ]
 }
