@@ -16911,6 +16911,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:04:23",
       "lastUpdated": "2026-08-19T04:34:23.566Z"
+    },
+    "SLE32E910||CHENKALADY": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:21:47",
+      "lastUpdated": "2026-08-19T04:51:47.821Z"
     }
   },
   "showroomVisits": {
@@ -17311,6 +17318,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "10:21:47",
+      "iso": "2026-08-19T04:51:47.822Z",
+      "action": "updated remark for SLE32E910 at CHENKALADY: “70% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "10:04:23",
       "iso": "2026-08-19T04:34:23.567Z",
       "action": "updated remark for UJB-LB6027 at CHENKALADY: “40% Discount”"
@@ -17650,13 +17664,6 @@
       "time": "18:29:45",
       "iso": "2026-08-18T12:59:45.282Z",
       "action": "updated remark for SRS-HG1 at MAIN WAREHOUSE: “Discount to Rs. 5,000”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "18:26:41",
-      "iso": "2026-08-18T12:56:41.245Z",
-      "action": "updated remark for SRS-HG1 at MAIN WAREHOUSE: “Discount to Rs.”"
     }
   ]
 }
