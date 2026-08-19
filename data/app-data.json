@@ -23225,6 +23225,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:59:14",
       "lastUpdated": "2026-08-19T12:29:14.276Z"
+    },
+    "WF-MILAN-BR-S||KANDY - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:59:19",
+      "lastUpdated": "2026-08-19T12:29:19.256Z"
     }
   },
   "showroomVisits": {
@@ -23873,6 +23880,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "17:59:19",
+      "iso": "2026-08-19T12:29:19.259Z",
+      "action": "updated remark for WF-MILAN-BR-S at KANDY - B: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "17:59:14",
       "iso": "2026-08-19T12:29:14.278Z",
       "action": "updated remark for PF-MONDY-BLACK at KANDY - B: “Additional 10%”"
@@ -24212,13 +24226,6 @@
       "time": "17:51:58",
       "iso": "2026-08-19T12:21:58.662Z",
       "action": "updated remark for TF-FP24-SCR342 at DERANIYAGALA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:51:55",
-      "iso": "2026-08-19T12:21:55.503Z",
-      "action": "updated remark for TF-SP16-063 at DERANIYAGALA: “30%”"
     }
   ]
 }
