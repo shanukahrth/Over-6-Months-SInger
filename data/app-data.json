@@ -22941,9 +22941,24 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-19"
+    },
+    "WELIGAMA||GALLE": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-19",
+      "time": "17:11:14",
+      "iso": "2026-08-19T11:41:14.503Z",
+      "action": "updated WELIGAMA showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-19",
@@ -23286,13 +23301,6 @@
       "time": "16:51:14",
       "iso": "2026-08-19T11:21:14.704Z",
       "action": "updated remark for MID-D15-20EVN1 at WENNAPPUWA: “Can sell by the 31st of Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:51:11",
-      "iso": "2026-08-19T11:21:11.436Z",
-      "action": "updated remark for MID-D30-20EVN1 at WENNAPPUWA: “Can sell by the 31st of Aug”"
     }
   ]
 }
