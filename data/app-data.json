@@ -16967,6 +16967,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:24:29",
       "lastUpdated": "2026-08-19T04:54:29.306Z"
+    },
+    "SLE32E710||CHENKALADY": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:24:42",
+      "lastUpdated": "2026-08-19T04:54:42.369Z"
     }
   },
   "showroomVisits": {
@@ -17367,6 +17374,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "10:24:42",
+      "iso": "2026-08-19T04:54:42.371Z",
+      "action": "updated remark for SLE32E710 at CHENKALADY: “70% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "10:24:29",
       "iso": "2026-08-19T04:54:29.309Z",
       "action": "updated remark for PCP30-SS at CHENKALADY: “60% Discount”"
@@ -17706,13 +17720,6 @@
       "time": "18:49:34",
       "iso": "2026-08-18T13:19:34.564Z",
       "action": "updated remark for LOG-WMOUSE at MAIN WAREHOUSE: “Scrap”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "18:48:57",
-      "iso": "2026-08-18T13:18:57.792Z",
-      "action": "updated remark for LOG-WMOUSE at MAIN WAREHOUSE: “Discount to Rs. 250”"
     }
   ]
 }
