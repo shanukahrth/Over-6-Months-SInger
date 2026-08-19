@@ -25115,6 +25115,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:47:23",
       "lastUpdated": "2026-08-19T13:17:23.724Z"
+    },
+    "WF-CLASSIC-MH||PILIMATHALAWA": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:47:29",
+      "lastUpdated": "2026-08-19T13:17:29.085Z"
     }
   },
   "showroomVisits": {
@@ -25763,6 +25770,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:47:29",
+      "iso": "2026-08-19T13:17:29.087Z",
+      "action": "updated remark for WF-CLASSIC-MH at PILIMATHALAWA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:47:23",
       "iso": "2026-08-19T13:17:23.725Z",
       "action": "updated remark for WF-SWISS-75X60-S at PILIMATHALAWA: “Sellable at existing price”"
@@ -26102,13 +26116,6 @@
       "time": "18:42:02",
       "iso": "2026-08-19T13:12:02.208Z",
       "action": "updated remark for SIN-PSVX938N at PILIMATHALAWA: “MOP - 18,500”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:41:55",
-      "iso": "2026-08-19T13:11:55.111Z",
-      "action": "updated remark for SIN-BS30 at PILIMATHALAWA: “MOP - 8,500”"
     }
   ]
 }
