@@ -17431,11 +17431,11 @@
       "lastUpdated": "2026-08-19T05:24:39.771Z"
     },
     "ENG-PUVPB01-WH||KIRIELLA": {
-      "remark": "Rtn",
+      "remark": "Rtn.90%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "10:54:42",
-      "lastUpdated": "2026-08-19T05:24:42.476Z"
+      "commentTime": "10:54:57",
+      "lastUpdated": "2026-08-19T05:24:57.011Z"
     },
     "ENG-UE10054||KIRIELLA": {
       "remark": "Rtn.90%",
@@ -17843,6 +17843,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:54:57",
+      "iso": "2026-08-19T05:24:57.016Z",
+      "action": "updated remark for ENG-PUVPB01-WH at KIRIELLA: “Rtn.90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:54:53",
       "iso": "2026-08-19T05:24:53.450Z",
       "action": "updated remark for ENG-UE10054 at KIRIELLA: “Rtn.90%”"
@@ -18182,13 +18189,6 @@
       "time": "10:38:54",
       "iso": "2026-08-19T05:08:54.698Z",
       "action": "updated remark for WFL-TUSKER-75X60-S at KIRIELLA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:38:34",
-      "iso": "2026-08-19T05:08:34.004Z",
-      "action": "updated remark for LF-LCD-TV-S at KIRIELLA: “80%”"
     }
   ]
 }
