@@ -24247,6 +24247,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:22:55",
       "lastUpdated": "2026-08-19T12:52:55.799Z"
+    },
+    "PU-SP-9054||SHOMES- KANDY": {
+      "remark": "Credit pending",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:23:04",
+      "lastUpdated": "2026-08-19T12:53:04.375Z"
     }
   },
   "showroomVisits": {
@@ -24895,6 +24902,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:23:04",
+      "iso": "2026-08-19T12:53:04.376Z",
+      "action": "updated remark for PU-SP-9054 at SHOMES- KANDY: “Credit pending”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:22:55",
       "iso": "2026-08-19T12:52:55.801Z",
       "action": "updated remark for PU-SK-1486-S at SHOMES- KANDY: “To be reported”"
@@ -25234,13 +25248,6 @@
       "time": "18:16:17",
       "iso": "2026-08-19T12:46:17.713Z",
       "action": "updated remark for PN-CS-U13XKH at SHOMES- KANDY: “605”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:16:16",
-      "iso": "2026-08-19T12:46:16.240Z",
-      "action": "updated remark for PN-CS-U10XKH at SHOMES- KANDY: “50%”"
     }
   ]
 }
