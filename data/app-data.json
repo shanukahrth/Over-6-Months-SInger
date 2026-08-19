@@ -21671,6 +21671,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:11:15",
       "lastUpdated": "2026-08-19T10:41:15.746Z"
+    },
+    "WF-STUDY-B-S||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:13:31",
+      "lastUpdated": "2026-08-19T10:43:31.108Z"
     }
   },
   "showroomVisits": {
@@ -22079,6 +22086,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "16:13:31",
+      "iso": "2026-08-19T10:43:31.109Z",
+      "action": "updated remark for WF-STUDY-B-S at PERADENIYA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "16:11:15",
       "iso": "2026-08-19T10:41:15.746Z",
       "action": "updated remark for LF-LEO-HDBC-WNG-S at PERADENIYA: “60%”"
@@ -22418,13 +22432,6 @@
       "time": "15:48:40",
       "iso": "2026-08-19T10:18:40.492Z",
       "action": "updated remark for MXDD101147 at KALAWANCHIKUDY: “30% Discount”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "15:48:37",
-      "iso": "2026-08-19T10:18:37.974Z",
-      "action": "updated remark for BC-KNP-AG at PERADENIYA: “Damaged”"
     }
   ]
 }
