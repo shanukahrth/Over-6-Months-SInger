@@ -23344,6 +23344,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:01:52",
       "lastUpdated": "2026-08-19T12:31:52.118Z"
+    },
+    "UJB-LB6027||KANDY - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:01:51",
+      "lastUpdated": "2026-08-19T12:31:51.910Z"
     }
   },
   "showroomVisits": {
@@ -23990,6 +23997,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:01:51",
+      "iso": "2026-08-19T12:31:51.912Z",
+      "action": "updated remark for UJB-LB6027 at KANDY - B: “Reported”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "18:01:52",
@@ -24331,13 +24345,6 @@
       "time": "17:53:57",
       "iso": "2026-08-19T12:23:57.772Z",
       "action": "updated remark for MSI-MOD15-B13M-I3-BLK at KANDY - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:53:50",
-      "iso": "2026-08-19T12:23:50.903Z",
-      "action": "updated remark for DELL3530-I5-8GB512-BLK at KANDY - B: “50%”"
     }
   ]
 }
