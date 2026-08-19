@@ -17226,6 +17226,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:42:42",
       "lastUpdated": "2026-08-19T05:12:42.516Z"
+    },
+    "TF-FP24-SCR342||KIRIELLA": {
+      "remark": "80%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:43:11",
+      "lastUpdated": "2026-08-19T05:13:11.888Z"
     }
   },
   "showroomVisits": {
@@ -17626,6 +17633,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:43:11",
+      "iso": "2026-08-19T05:13:11.894Z",
+      "action": "updated remark for TF-FP24-SCR342 at KIRIELLA: “80%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:42:42",
       "iso": "2026-08-19T05:12:42.521Z",
       "action": "updated remark for USI-ATC-302 at KIRIELLA: “Sellable”"
@@ -17965,13 +17979,6 @@
       "time": "10:23:54",
       "iso": "2026-08-19T04:53:54.255Z",
       "action": "updated remark for SISIL-RC150 at CHENKALADY: “90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "10:23:35",
-      "iso": "2026-08-19T04:53:35.125Z",
-      "action": "updated remark for RIYLTA-MF12V51A at CHENKALADY: “75% Discount”"
     }
   ]
 }
