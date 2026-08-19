@@ -23904,6 +23904,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:12:42",
       "lastUpdated": "2026-08-19T12:42:42.775Z"
+    },
+    "SWM-FA70R||KANDY - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:12:51",
+      "lastUpdated": "2026-08-19T12:42:51.624Z"
     }
   },
   "showroomVisits": {
@@ -24552,6 +24559,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:12:51",
+      "iso": "2026-08-19T12:42:51.626Z",
+      "action": "updated remark for SWM-FA70R at KANDY - B: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:12:42",
       "iso": "2026-08-19T12:42:42.777Z",
       "action": "updated remark for WC-RTC221 at KANDY - B: “MOP - 1,000”"
@@ -24891,13 +24905,6 @@
       "time": "18:08:14",
       "iso": "2026-08-19T12:38:14.021Z",
       "action": "updated remark for SMGRT28A3021GS at KANDY - B: “MOP - 135,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:07:56",
-      "iso": "2026-08-19T12:37:56.437Z",
-      "action": "updated remark for SL-ECO192-TG at KANDY - B: “25%”"
     }
   ]
 }
