@@ -19320,13 +19320,6 @@
       "commentTime": "13:57:07",
       "lastUpdated": "2026-08-19T08:27:07.899Z"
     },
-    "PN-CS-U18XKH||PERADENIYA": {
-      "remark": "60%",
-      "commentedBy": "Kaveesha Sathsarani",
-      "commentDate": "2026-08-19",
-      "commentTime": "13:57:48",
-      "lastUpdated": "2026-08-19T08:27:48.207Z"
-    },
     "PN-CS-XU18XKYW-8||PERADENIYA": {
       "remark": "50%",
       "commentedBy": "Kaveesha Sathsarani",
@@ -19762,6 +19755,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "14:05:22",
+      "iso": "2026-08-19T08:35:22.051Z",
+      "action": "updated remark for PN-CS-U18XKH at PERADENIYA (cleared)"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "13:59:40",
       "iso": "2026-08-19T08:29:40.260Z",
       "action": "updated remark for SMGAR50F12D0J at PERADENIYA: “Damaged - 80%”"
@@ -20101,13 +20101,6 @@
       "time": "13:46:33",
       "iso": "2026-08-19T08:16:33.622Z",
       "action": "updated remark for AES-HAV-30S at KANDY: “Sellable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:46:28",
-      "iso": "2026-08-19T08:16:28.586Z",
-      "action": "updated remark for SMGRT34B4542S8 at KANDY: “MOP - 160,000”"
     }
   ]
 }
