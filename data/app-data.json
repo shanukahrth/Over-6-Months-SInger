@@ -22035,6 +22035,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:48:15",
       "lastUpdated": "2026-08-19T11:18:15.635Z"
+    },
+    "MC8280||WENNAPPUWA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:48:35",
+      "lastUpdated": "2026-08-19T11:18:35.333Z"
     }
   },
   "showroomVisits": {
@@ -22595,6 +22602,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:48:35",
+      "iso": "2026-08-19T11:18:35.334Z",
+      "action": "updated remark for MC8280 at WENNAPPUWA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:48:33",
+      "iso": "2026-08-19T11:18:33.557Z",
+      "action": "updated remark for MC8280 at WENNAPPUWA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:48:15",
       "iso": "2026-08-19T11:18:15.637Z",
       "action": "updated remark for MBS-SAF4S at WENNAPPUWA: “Damaged - 95%”"
@@ -22927,20 +22948,6 @@
       "time": "16:40:50",
       "iso": "2026-08-19T11:10:50.738Z",
       "action": "updated BADULLA - C showroom (visitDate: 2026-08-07)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:40:46",
-      "iso": "2026-08-19T11:10:46.939Z",
-      "action": "updated SHOMES-BADULLA showroom (visitDate: 2026-08-07)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:40:44",
-      "iso": "2026-08-19T11:10:44.399Z",
-      "action": "updated SHOMES-BADULLA showroom (team: Team Furniture , Methmal)"
     }
   ]
 }
