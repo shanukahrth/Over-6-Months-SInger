@@ -22637,6 +22637,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:37:15",
       "lastUpdated": "2026-08-19T12:07:15.063Z"
+    },
+    "DELL-3593-I3W10-SIL||DERANIYAGALA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:38:13",
+      "lastUpdated": "2026-08-19T12:08:13.280Z"
     }
   },
   "showroomVisits": {
@@ -23283,6 +23290,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:38:13",
+      "iso": "2026-08-19T12:08:13.281Z",
+      "action": "updated remark for DELL-3593-I3W10-SIL at DERANIYAGALA: “70%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-19",
       "time": "17:37:15",
@@ -23624,13 +23638,6 @@
       "time": "17:14:07",
       "iso": "2026-08-19T11:44:07.214Z",
       "action": "updated remark for SDV3605K at WENNAPPUWA: “Revert Damaged - 95%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:13:26",
-      "iso": "2026-08-19T11:43:26.743Z",
-      "action": "updated remark for SB-DTYPE at WENNAPPUWA: “Can sell by the 31st of Aug”"
     }
   ]
 }
