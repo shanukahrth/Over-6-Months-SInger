@@ -23456,6 +23456,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:04:02",
       "lastUpdated": "2026-08-19T12:34:02.731Z"
+    },
+    "U-B1||KANDY - B": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:04:07",
+      "lastUpdated": "2026-08-19T12:34:07.988Z"
     }
   },
   "showroomVisits": {
@@ -24104,6 +24111,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:04:07",
+      "iso": "2026-08-19T12:34:07.988Z",
+      "action": "updated remark for U-B1 at KANDY - B: “Shop use”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:04:02",
       "iso": "2026-08-19T12:34:02.732Z",
       "action": "updated remark for SIN-RFC-2058 at KANDY - B: “Sellable at existing price”"
@@ -24443,13 +24457,6 @@
       "time": "17:57:48",
       "iso": "2026-08-19T12:27:48.737Z",
       "action": "updated remark for LF-MIKO-WD-SHW at KANDY - B: “Unsellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "17:58:03",
-      "iso": "2026-08-19T12:28:03.771Z",
-      "action": "updated remark for STT-200K at DERANIYAGALA: “80%”"
     }
   ]
 }
