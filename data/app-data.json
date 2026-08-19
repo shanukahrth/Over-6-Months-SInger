@@ -24914,11 +24914,11 @@
       "lastUpdated": "2026-08-19T13:13:45.422Z"
     },
     "SDV3605K||PILIMATHALAWA": {
-      "remark": "Damaged location transfer pending",
+      "remark": "Pending location transfer",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "18:44:00",
-      "lastUpdated": "2026-08-19T13:14:00.747Z"
+      "commentTime": "18:44:18",
+      "lastUpdated": "2026-08-19T13:14:18.039Z"
     }
   },
   "showroomVisits": {
@@ -25567,6 +25567,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:44:18",
+      "iso": "2026-08-19T13:14:18.040Z",
+      "action": "updated remark for SDV3605K at PILIMATHALAWA: “Pending location transfer”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:44:17",
+      "iso": "2026-08-19T13:14:17.031Z",
+      "action": "updated remark for SDV3605K at PILIMATHALAWA: “Pending location transfer”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:44:00",
       "iso": "2026-08-19T13:14:00.748Z",
       "action": "updated remark for SDV3605K at PILIMATHALAWA: “Damaged location transfer pending”"
@@ -25899,20 +25913,6 @@
       "time": "18:33:38",
       "iso": "2026-08-19T13:03:38.031Z",
       "action": "updated remark for SMGRT30K3322S8 at SHOMES- KANDY: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:33:13",
-      "iso": "2026-08-19T13:03:13.714Z",
-      "action": "updated remark for U-HRW-S11 at SHOMES- KANDY: “MOP - 1,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:33:05",
-      "iso": "2026-08-19T13:03:05.868Z",
-      "action": "updated remark for HON-PADX8-POUCH at SHOMES- KANDY: “To be dropped”"
     }
   ]
 }
