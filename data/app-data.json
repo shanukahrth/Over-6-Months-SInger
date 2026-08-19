@@ -17359,6 +17359,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:51:18",
       "lastUpdated": "2026-08-19T05:21:18.787Z"
+    },
+    "STT-KGT200||KIRIELLA": {
+      "remark": "Parts missing.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:52:14",
+      "lastUpdated": "2026-08-19T05:22:14.025Z"
     }
   },
   "showroomVisits": {
@@ -17759,6 +17766,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:52:14",
+      "iso": "2026-08-19T05:22:14.031Z",
+      "action": "updated remark for STT-KGT200 at KIRIELLA: “Parts missing.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:51:18",
       "iso": "2026-08-19T05:21:18.793Z",
       "action": "updated remark for PCP30 at KIRIELLA: “Sellable”"
@@ -18098,13 +18112,6 @@
       "time": "10:33:28",
       "iso": "2026-08-19T05:03:28.974Z",
       "action": "updated remark for SIN-DEC-DCWL at KIRIELLA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:32:32",
-      "iso": "2026-08-19T05:02:32.106Z",
-      "action": "updated remark for FAN-VIERA-TEAK at KIRIELLA: “Sellable”"
     }
   ]
 }
