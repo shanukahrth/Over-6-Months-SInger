@@ -17331,6 +17331,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:49:38",
       "lastUpdated": "2026-08-19T05:19:38.928Z"
+    },
+    "R-BWS-02||KIRIELLA": {
+      "remark": "3000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:50:16",
+      "lastUpdated": "2026-08-19T05:20:16.852Z"
     }
   },
   "showroomVisits": {
@@ -17731,6 +17738,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:50:16",
+      "iso": "2026-08-19T05:20:16.858Z",
+      "action": "updated remark for R-BWS-02 at KIRIELLA: “3000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:49:38",
       "iso": "2026-08-19T05:19:38.935Z",
       "action": "updated remark for IWH-2500WL at KIRIELLA: “1000”"
@@ -18070,13 +18084,6 @@
       "time": "10:30:18",
       "iso": "2026-08-19T05:00:18.609Z",
       "action": "updated remark for SIN-PSVX938N at KIRIELLA: “60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:29:41",
-      "iso": "2026-08-19T04:59:41.342Z",
-      "action": "updated remark for HFPA-MUSICBOX200-BLK at KIRIELLA: “19000”"
     }
   ]
 }
