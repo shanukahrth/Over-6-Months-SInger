@@ -22396,14 +22396,28 @@
     },
     "DIYATHALAWA||BADULLA": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-07",
+      "team": "Team Furniture , Methmal",
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:41:26",
+      "iso": "2026-08-19T11:11:26.226Z",
+      "action": "updated DIYATHALAWA showroom (visitDate: 2026-08-07)"
+    },
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:41:24",
+      "iso": "2026-08-19T11:11:24.261Z",
+      "action": "updated DIYATHALAWA showroom (team: Team Furniture , Methmal)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22739,20 +22753,6 @@
       "time": "16:23:42",
       "iso": "2026-08-19T10:53:42.506Z",
       "action": "updated remark for DUM - SMGAR50F24D1J at WENNAPPUWA: “Dummy”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:23:07",
-      "iso": "2026-08-19T10:53:07.077Z",
-      "action": "updated remark for CLOTHLINE-35PVC at WENNAPPUWA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:22:17",
-      "iso": "2026-08-19T10:52:17.844Z",
-      "action": "updated remark for CD001 at WENNAPPUWA: “Damaged - 60%”"
     }
   ]
 }
