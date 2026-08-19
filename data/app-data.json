@@ -23603,6 +23603,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:07:56",
       "lastUpdated": "2026-08-19T12:37:56.436Z"
+    },
+    "SMGRT28A3021GS||KANDY - B": {
+      "remark": "MOP - 135,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:08:14",
+      "lastUpdated": "2026-08-19T12:38:14.020Z"
     }
   },
   "showroomVisits": {
@@ -24251,6 +24258,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:08:14",
+      "iso": "2026-08-19T12:38:14.021Z",
+      "action": "updated remark for SMGRT28A3021GS at KANDY - B: “MOP - 135,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:07:56",
       "iso": "2026-08-19T12:37:56.437Z",
       "action": "updated remark for SL-ECO192-TG at KANDY - B: “25%”"
@@ -24590,13 +24604,6 @@
       "time": "18:01:10",
       "iso": "2026-08-19T12:31:10.731Z",
       "action": "updated remark for MID-MJ-KM6001W at KANDY - B: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:01:01",
-      "iso": "2026-08-19T12:31:01.079Z",
-      "action": "updated remark for TF-KD24-061 at KANDY - B: “30%”"
     }
   ]
 }
