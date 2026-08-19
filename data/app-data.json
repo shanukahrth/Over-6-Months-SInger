@@ -22154,6 +22154,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:55:30",
       "lastUpdated": "2026-08-19T11:25:30.481Z"
+    },
+    "OF-SW18022-S||WENNAPPUWA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:55:54",
+      "lastUpdated": "2026-08-19T11:25:54.719Z"
     }
   },
   "showroomVisits": {
@@ -22754,6 +22761,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:55:54",
+      "iso": "2026-08-19T11:25:54.720Z",
+      "action": "updated remark for OF-SW18022-S at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:55:30",
       "iso": "2026-08-19T11:25:30.482Z",
       "action": "updated remark for NCPO-FP250 at WENNAPPUWA: “Damaged - 60%”"
@@ -23093,13 +23107,6 @@
       "time": "16:46:19",
       "iso": "2026-08-19T11:16:19.538Z",
       "action": "updated KANDANA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:46:17",
-      "iso": "2026-08-19T11:16:17.846Z",
-      "action": "updated JA-ELA showroom (visited: Yes)"
     }
   ]
 }
