@@ -23568,6 +23568,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:07:20",
       "lastUpdated": "2026-08-19T12:37:20.877Z"
+    },
+    "CAN-I-GM2070||KANDY - B": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:07:27",
+      "lastUpdated": "2026-08-19T12:37:27.731Z"
     }
   },
   "showroomVisits": {
@@ -24216,6 +24223,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:07:27",
+      "iso": "2026-08-19T12:37:27.732Z",
+      "action": "updated remark for CAN-I-GM2070 at KANDY - B: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:07:20",
       "iso": "2026-08-19T12:37:20.879Z",
       "action": "updated remark for U-HRW-S11 at KANDY - B: “Sellable at existing price”"
@@ -24555,13 +24569,6 @@
       "time": "17:59:54",
       "iso": "2026-08-19T12:29:54.922Z",
       "action": "updated remark for SIN-MRG-1008C at KANDY - B: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:59:46",
-      "iso": "2026-08-19T12:29:46.629Z",
-      "action": "updated remark for SLE-65IFPDT at KANDY - B: “Pending exchange”"
     }
   ]
 }
