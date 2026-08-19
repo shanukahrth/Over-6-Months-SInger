@@ -22936,7 +22936,7 @@
     },
     "AHANGAMA||GALLE": {
       "visited": "Yes",
-      "visitDate": "2026-08-19",
+      "visitDate": "2026-08-18",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -22944,6 +22944,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-19",
+      "time": "17:10:58",
+      "iso": "2026-08-19T11:40:58.842Z",
+      "action": "updated AHANGAMA showroom (visitDate: 2026-08-18)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-19",
@@ -23286,13 +23293,6 @@
       "time": "16:50:33",
       "iso": "2026-08-19T11:20:33.412Z",
       "action": "updated remark for MHC-M60D at WENNAPPUWA: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:50:17",
-      "iso": "2026-08-19T11:20:17.104Z",
-      "action": "updated remark for MCZJ9513-G01 at WENNAPPUWA: “Can sell by the 31st of Aug”"
     }
   ]
 }
