@@ -17394,6 +17394,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:53:18",
       "lastUpdated": "2026-08-19T05:23:18.428Z"
+    },
+    "VIVO-Y36-8-128-G||KIRIELLA": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:53:34",
+      "lastUpdated": "2026-08-19T05:23:34.965Z"
     }
   },
   "showroomVisits": {
@@ -17794,6 +17801,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:53:34",
+      "iso": "2026-08-19T05:23:34.965Z",
+      "action": "updated remark for VIVO-Y36-8-128-G at KIRIELLA: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:53:18",
       "iso": "2026-08-19T05:23:18.434Z",
       "action": "updated remark for SIN-QS-8306 at KIRIELLA: “10%”"
@@ -18133,13 +18147,6 @@
       "time": "10:35:51",
       "iso": "2026-08-19T05:05:51.494Z",
       "action": "updated remark for WFL-CNSL-TBL-JNT-S at KIRIELLA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:35:14",
-      "iso": "2026-08-19T05:05:14.731Z",
-      "action": "updated remark for QT-SITUP at KIRIELLA: “20000”"
     }
   ]
 }
