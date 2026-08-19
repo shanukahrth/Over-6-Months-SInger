@@ -16876,6 +16876,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "09:39:18",
       "lastUpdated": "2026-08-19T04:09:18.371Z"
+    },
+    "LP-AP01||CHENKALADY": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "09:51:00",
+      "lastUpdated": "2026-08-19T04:21:00.600Z"
     }
   },
   "showroomVisits": {
@@ -17276,6 +17283,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "09:51:00",
+      "iso": "2026-08-19T04:21:00.601Z",
+      "action": "updated remark for LP-AP01 at CHENKALADY: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "09:40:11",
       "iso": "2026-08-19T04:10:11.819Z",
       "action": "updated remark for USI-ATC-302 at CHENKALADY (cleared)"
@@ -17614,13 +17628,6 @@
       "date": "2026-08-18",
       "time": "18:10:09",
       "iso": "2026-08-18T12:40:09.480Z",
-      "action": "updated remark for ETEL-K20MINIPC-SITS at MAIN WAREHOUSE: “Showroom project”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "18:10:03",
-      "iso": "2026-08-18T12:40:03.492Z",
       "action": "updated remark for ETEL-K20MINIPC-SITS at MAIN WAREHOUSE: “Showroom project”"
     }
   ]
