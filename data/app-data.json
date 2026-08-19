@@ -19025,6 +19025,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:45:57",
       "lastUpdated": "2026-08-19T08:15:57.950Z"
+    },
+    "PN-NR-BK418BQKX||KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:46:04",
+      "lastUpdated": "2026-08-19T08:16:04.161Z"
     }
   },
   "showroomVisits": {
@@ -19433,6 +19440,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:46:04",
+      "iso": "2026-08-19T08:16:04.163Z",
+      "action": "updated remark for PN-NR-BK418BQKX at KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:45:57",
       "iso": "2026-08-19T08:15:57.953Z",
       "action": "updated remark for H-HRSN9552DDXKH at KANDY: “20%”"
@@ -19772,13 +19786,6 @@
       "time": "13:27:57",
       "iso": "2026-08-19T07:57:57.373Z",
       "action": "updated remark for NCPDG-SET3 at KANDY: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:27:36",
-      "iso": "2026-08-19T07:57:36.339Z",
-      "action": "updated remark for TF-SI-ESS-242 at KANDY: “15%”"
     }
   ]
 }
