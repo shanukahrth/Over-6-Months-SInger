@@ -20117,6 +20117,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:03:23",
       "lastUpdated": "2026-08-19T09:33:23.560Z"
+    },
+    "R-BWS-02||BATTICALOA B": {
+      "remark": "30% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:03:34",
+      "lastUpdated": "2026-08-19T09:33:34.128Z"
     }
   },
   "showroomVisits": {
@@ -20525,6 +20532,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "15:03:34",
+      "iso": "2026-08-19T09:33:34.129Z",
+      "action": "updated remark for R-BWS-02 at BATTICALOA B: “30% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "15:03:23",
       "iso": "2026-08-19T09:33:23.562Z",
       "action": "updated remark for SIN-TL-0519 at BATTICALOA B: “30% Discount”"
@@ -20864,13 +20878,6 @@
       "time": "14:54:48",
       "iso": "2026-08-19T09:24:48.729Z",
       "action": "updated remark for LF-ECO-SD-WNG-S at NATTANDIYA: “Damaged & Obsolete - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:54:38",
-      "iso": "2026-08-19T09:24:38.940Z",
-      "action": "updated remark for LF-ECO-SD-SHW-S at NATTANDIYA: “Damaged & Obsolete - 50%”"
     }
   ]
 }
