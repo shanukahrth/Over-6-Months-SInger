@@ -25122,6 +25122,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:47:38",
       "lastUpdated": "2026-08-19T13:17:38.290Z"
+    },
+    "WFI-DELPHI-CHR-S||PILIMATHALAWA": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:47:48",
+      "lastUpdated": "2026-08-19T13:17:48.980Z"
     }
   },
   "showroomVisits": {
@@ -25770,6 +25777,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:47:48",
+      "iso": "2026-08-19T13:17:48.981Z",
+      "action": "updated remark for WFI-DELPHI-CHR-S at PILIMATHALAWA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:47:38",
       "iso": "2026-08-19T13:17:38.292Z",
       "action": "updated remark for WF-CLASSIC-MH at PILIMATHALAWA: “50%”"
@@ -26109,13 +26123,6 @@
       "time": "18:42:18",
       "iso": "2026-08-19T13:12:18.520Z",
       "action": "updated remark for SIN-W66PA28 at PILIMATHALAWA: “80% - Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:42:11",
-      "iso": "2026-08-19T13:12:11.077Z",
-      "action": "updated remark for SIN-W66PA28 at PILIMATHALAWA: “80%”"
     }
   ]
 }
