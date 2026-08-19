@@ -17625,6 +17625,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "11:21:54",
       "lastUpdated": "2026-08-19T05:51:54.281Z"
+    },
+    "PCP30||CHENKALADY": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "11:22:09",
+      "lastUpdated": "2026-08-19T05:52:09.673Z"
     }
   },
   "showroomVisits": {
@@ -18025,6 +18032,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "11:22:09",
+      "iso": "2026-08-19T05:52:09.676Z",
+      "action": "updated remark for PCP30 at CHENKALADY: “70% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "11:21:54",
       "iso": "2026-08-19T05:51:54.282Z",
       "action": "updated remark for URC-180 at CHENKALADY: “80% Discount”"
@@ -18364,13 +18378,6 @@
       "time": "10:56:13",
       "iso": "2026-08-19T05:26:13.018Z",
       "action": "updated remark for GEO-242D-SV at KIRIELLA: “5%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:56:02",
-      "iso": "2026-08-19T05:26:02.429Z",
-      "action": "updated remark for CAN-I-E560 at KIRIELLA: “Damaged”"
     }
   ]
 }
