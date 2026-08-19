@@ -25570,6 +25570,41 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:56:07",
       "lastUpdated": "2026-08-19T13:26:07.051Z"
+    },
+    "GEO-242D-SV||PILIMATHALAWA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:56:09",
+      "lastUpdated": "2026-08-19T13:26:09.370Z"
+    },
+    "SL-ECO55-SV||PILIMATHALAWA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:56:11",
+      "lastUpdated": "2026-08-19T13:26:11.144Z"
+    },
+    "SMGRT30K3322S8||PILIMATHALAWA": {
+      "remark": "MOP - 150,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:56:18",
+      "lastUpdated": "2026-08-19T13:26:18.515Z"
+    },
+    "SMGRT34B4542S8||PILIMATHALAWA": {
+      "remark": "MOP - 160,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:56:23",
+      "lastUpdated": "2026-08-19T13:26:23.325Z"
+    },
+    "WP-NEO258NF||PILIMATHALAWA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:56:31",
+      "lastUpdated": "2026-08-19T13:26:31.228Z"
     }
   },
   "showroomVisits": {
@@ -26218,6 +26253,41 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:56:31",
+      "iso": "2026-08-19T13:26:31.229Z",
+      "action": "updated remark for WP-NEO258NF at PILIMATHALAWA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:56:23",
+      "iso": "2026-08-19T13:26:23.326Z",
+      "action": "updated remark for SMGRT34B4542S8 at PILIMATHALAWA: “MOP - 160,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:56:18",
+      "iso": "2026-08-19T13:26:18.516Z",
+      "action": "updated remark for SMGRT30K3322S8 at PILIMATHALAWA: “MOP - 150,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:56:11",
+      "iso": "2026-08-19T13:26:11.146Z",
+      "action": "updated remark for SL-ECO55-SV at PILIMATHALAWA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:56:09",
+      "iso": "2026-08-19T13:26:09.372Z",
+      "action": "updated remark for GEO-242D-SV at PILIMATHALAWA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:56:07",
       "iso": "2026-08-19T13:26:07.053Z",
       "action": "updated remark for GEO-182S-SV at PILIMATHALAWA: “25%”"
@@ -26529,41 +26599,6 @@
       "time": "18:50:44",
       "iso": "2026-08-19T13:20:44.967Z",
       "action": "updated remark for TF-FP24-SCR342 at PILIMATHALAWA (cleared)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:50:42",
-      "iso": "2026-08-19T13:20:42.958Z",
-      "action": "updated remark for TF-IGP26-119 at PILIMATHALAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:50:30",
-      "iso": "2026-08-19T13:20:30.044Z",
-      "action": "updated remark for TF-FP24-SCR342 at PILIMATHALAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:50:25",
-      "iso": "2026-08-19T13:20:25.561Z",
-      "action": "updated remark for BRP-COOKPAN24 at PILIMATHALAWA: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:50:20",
-      "iso": "2026-08-19T13:20:20.994Z",
-      "action": "updated remark for USI-ATC-302 at PILIMATHALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:50:16",
-      "iso": "2026-08-19T13:20:16.360Z",
-      "action": "updated remark for SIS277CU at PILIMATHALAWA: “40%”"
     }
   ]
 }
