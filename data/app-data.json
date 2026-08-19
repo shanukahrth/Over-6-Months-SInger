@@ -18864,6 +18864,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:43:21",
       "lastUpdated": "2026-08-19T08:13:21.577Z"
+    },
+    "U-BS8816||KANDY": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:43:28",
+      "lastUpdated": "2026-08-19T08:13:28.855Z"
     }
   },
   "showroomVisits": {
@@ -19272,6 +19279,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:43:28",
+      "iso": "2026-08-19T08:13:28.855Z",
+      "action": "updated remark for U-BS8816 at KANDY: “MOP - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:43:21",
       "iso": "2026-08-19T08:13:21.578Z",
       "action": "updated remark for SIN-RFC-2058 at KANDY: “Sellable at Existing Price”"
@@ -19611,13 +19625,6 @@
       "time": "13:25:16",
       "iso": "2026-08-19T07:55:16.530Z",
       "action": "updated remark for FAN-WF1608R at KANDY: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:25:10",
-      "iso": "2026-08-19T07:55:10.974Z",
-      "action": "updated remark for FAN-VIERA-TEAK at KANDY: “Sellable at existing price”"
     }
   ]
 }
