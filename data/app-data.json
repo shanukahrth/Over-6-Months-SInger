@@ -22460,8 +22460,8 @@
       "remark": "50%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "17:28:02",
-      "lastUpdated": "2026-08-19T11:58:02.166Z"
+      "commentTime": "17:28:53",
+      "lastUpdated": "2026-08-19T11:58:53.442Z"
     },
     "SMW823AY7||WENNAPPUWA": {
       "remark": "Damaged - 50%",
@@ -22469,6 +22469,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:28:23",
       "lastUpdated": "2026-08-19T11:58:23.332Z"
+    },
+    "MHC-M40D||DERANIYAGALA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:28:59",
+      "lastUpdated": "2026-08-19T11:58:59.524Z"
     }
   },
   "showroomVisits": {
@@ -23115,6 +23122,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:28:59",
+      "iso": "2026-08-19T11:58:59.531Z",
+      "action": "updated remark for MHC-M40D at DERANIYAGALA: “70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:28:53",
+      "iso": "2026-08-19T11:58:53.448Z",
+      "action": "updated remark for PN-SC-HTB490EBK at DERANIYAGALA: “50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-19",
       "time": "17:28:23",
@@ -23449,20 +23470,6 @@
       "time": "17:03:21",
       "iso": "2026-08-19T11:33:21.340Z",
       "action": "updated remark for PN-TH-32MS670N at WENNAPPUWA: “Revert Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:02:46",
-      "iso": "2026-08-19T11:32:46.350Z",
-      "action": "updated remark for PN-SC-UA7GS-K at WENNAPPUWA: “Display Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:01:26",
-      "iso": "2026-08-19T11:31:26.989Z",
-      "action": "updated remark for PN-SC-UA3GS-K at WENNAPPUWA: “Revert Damaged - 70%”"
     }
   ]
 }
