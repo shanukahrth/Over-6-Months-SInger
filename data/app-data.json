@@ -24723,6 +24723,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:35:18",
       "lastUpdated": "2026-08-19T13:05:18.284Z"
+    },
+    "TCLED24D3100||SHOMES- KANDY": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:35:29",
+      "lastUpdated": "2026-08-19T13:05:29.018Z"
     }
   },
   "showroomVisits": {
@@ -25371,6 +25378,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:35:29",
+      "iso": "2026-08-19T13:05:29.020Z",
+      "action": "updated remark for TCLED24D3100 at SHOMES- KANDY: “To be reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:35:18",
       "iso": "2026-08-19T13:05:18.286Z",
       "action": "updated remark for TCL55P635 at SHOMES- KANDY: “PRF”"
@@ -25710,13 +25724,6 @@
       "time": "18:27:00",
       "iso": "2026-08-19T12:57:00.846Z",
       "action": "updated remark for WF-SKY-211-MR-S at SHOMES- KANDY: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:26:40",
-      "iso": "2026-08-19T12:56:40.767Z",
-      "action": "updated remark for PF-MONDY-BLUE at SHOMES- KANDY: “10%”"
     }
   ]
 }
