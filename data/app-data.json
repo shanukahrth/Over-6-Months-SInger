@@ -18208,9 +18208,38 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-19"
+    },
+    "HEMMATHAGAMA||KANDY": {
+      "visited": "Yes",
+      "visitDate": "2026-08-19",
+      "team": "Team - Central",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "11:46:58",
+      "iso": "2026-08-19T06:16:58.978Z",
+      "action": "updated HEMMATHAGAMA showroom (team: Team - Central)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "11:46:52",
+      "iso": "2026-08-19T06:16:52.728Z",
+      "action": "updated HEMMATHAGAMA showroom (visitDate: 2026-08-19)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "11:46:49",
+      "iso": "2026-08-19T06:16:49.939Z",
+      "action": "updated HEMMATHAGAMA showroom (visited: Yes)"
+    },
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
@@ -18538,27 +18567,6 @@
       "date": "2026-08-19",
       "time": "11:08:56",
       "iso": "2026-08-19T05:38:56.994Z",
-      "action": "updated remark for SWM-FA70R at KIRIELLA: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "11:08:53",
-      "iso": "2026-08-19T05:38:53.069Z",
-      "action": "updated remark for SLE43G890 at KIRIELLA: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "11:08:50",
-      "iso": "2026-08-19T05:38:50.275Z",
-      "action": "updated remark for SWM-FA70R at KIRIELLA: “Sellable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "11:08:45",
-      "iso": "2026-08-19T05:38:45.881Z",
       "action": "updated remark for SWM-FA70R at KIRIELLA: “70%”"
     }
   ]
