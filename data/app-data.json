@@ -25010,6 +25010,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:45:35",
       "lastUpdated": "2026-08-19T13:15:35.634Z"
+    },
+    "LF-BUDGET-ST-CRW-S||PILIMATHALAWA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:45:41",
+      "lastUpdated": "2026-08-19T13:15:41.150Z"
+    },
+    "LF-BUDGET-BDQ-CRW-S||PILIMATHALAWA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:45:42",
+      "lastUpdated": "2026-08-19T13:15:42.482Z"
     }
   },
   "showroomVisits": {
@@ -25658,6 +25672,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:45:42",
+      "iso": "2026-08-19T13:15:42.484Z",
+      "action": "updated remark for LF-BUDGET-BDQ-CRW-S at PILIMATHALAWA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:45:41",
+      "iso": "2026-08-19T13:15:41.151Z",
+      "action": "updated remark for LF-BUDGET-ST-CRW-S at PILIMATHALAWA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:45:35",
       "iso": "2026-08-19T13:15:35.635Z",
       "action": "updated remark for WF-COD-B-S at PILIMATHALAWA: “80%”"
@@ -25990,20 +26018,6 @@
       "time": "18:35:47",
       "iso": "2026-08-19T13:05:47.943Z",
       "action": "updated remark for SLE32E930 at SHOMES- KANDY: “57%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:35:38",
-      "iso": "2026-08-19T13:05:38.753Z",
-      "action": "updated remark for SLE32D5100 at SHOMES- KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:35:34",
-      "iso": "2026-08-19T13:05:34.661Z",
-      "action": "updated remark for SLE32D1800 at SHOMES- KANDY: “50%”"
     }
   ]
 }
