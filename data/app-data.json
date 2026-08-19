@@ -17011,11 +17011,11 @@
       "lastUpdated": "2026-08-19T04:57:58.096Z"
     },
     "SIN-MH44SW||KIRIELLA": {
-      "remark": "Damaged",
+      "remark": "Damaged.90%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "10:28:17",
-      "lastUpdated": "2026-08-19T04:58:17.145Z"
+      "commentTime": "10:28:42",
+      "lastUpdated": "2026-08-19T04:58:42.310Z"
     }
   },
   "showroomVisits": {
@@ -17416,6 +17416,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:28:42",
+      "iso": "2026-08-19T04:58:42.315Z",
+      "action": "updated remark for SIN-MH44SW at KIRIELLA: “Damaged.90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:28:17",
       "iso": "2026-08-19T04:58:17.151Z",
       "action": "updated remark for SIN-MH44SW at KIRIELLA: “Damaged”"
@@ -17755,13 +17762,6 @@
       "time": "09:42:18",
       "iso": "2026-08-18T04:12:18.202Z",
       "action": "updated MATARA-A showroom (visitDate: 2026-08-18)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-18",
-      "time": "09:42:15",
-      "iso": "2026-08-18T04:12:15.702Z",
-      "action": "updated MATARA-A showroom (visited: Yes)"
     }
   ]
 }
