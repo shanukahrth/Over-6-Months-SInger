@@ -20950,6 +20950,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:30:21",
       "lastUpdated": "2026-08-19T10:00:21.077Z"
+    },
+    "SLE43G690||NATTANDIYA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:30:40",
+      "lastUpdated": "2026-08-19T10:00:40.584Z"
     }
   },
   "showroomVisits": {
@@ -21356,6 +21363,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:30:40",
+      "iso": "2026-08-19T10:00:40.586Z",
+      "action": "updated remark for SLE43G690 at NATTANDIYA: “Damaged - 40%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
       "time": "15:30:21",
@@ -21697,13 +21711,6 @@
       "time": "15:19:19",
       "iso": "2026-08-19T09:49:19.797Z",
       "action": "updated remark for URC-220 at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:19:03",
-      "iso": "2026-08-19T09:49:03.343Z",
-      "action": "updated remark for UPU-ULTIMA418 at NATTANDIYA: “Damaged - 85%”"
     }
   ]
 }
