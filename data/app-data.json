@@ -24200,11 +24200,11 @@
       "lastUpdated": "2026-08-19T12:52:07.551Z"
     },
     "LF-ECO-BDS-SHW-S||SHOMES- KANDY": {
-      "remark": "505",
+      "remark": "50%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "18:22:13",
-      "lastUpdated": "2026-08-19T12:52:13.274Z"
+      "commentTime": "18:22:17",
+      "lastUpdated": "2026-08-19T12:52:17.061Z"
     }
   },
   "showroomVisits": {
@@ -24853,6 +24853,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:22:17",
+      "iso": "2026-08-19T12:52:17.063Z",
+      "action": "updated remark for LF-ECO-BDS-SHW-S at SHOMES- KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:22:13",
       "iso": "2026-08-19T12:52:13.275Z",
       "action": "updated remark for LF-ECO-BDS-SHW-S at SHOMES- KANDY: “505”"
@@ -25192,13 +25199,6 @@
       "time": "18:12:23",
       "iso": "2026-08-19T12:42:23.763Z",
       "action": "updated remark for NVC2302A1 at KANDY - B: “60% - Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:12:15",
-      "iso": "2026-08-19T12:42:15.260Z",
-      "action": "updated remark for KN-HV190 at KANDY - B: “60% - Damaged”"
     }
   ]
 }
