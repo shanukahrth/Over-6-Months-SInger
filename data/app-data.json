@@ -19649,13 +19649,6 @@
       "commentTime": "14:43:38",
       "lastUpdated": "2026-08-19T09:13:38.243Z"
     },
-    "PN-CS-U18XKH||PERADENIYA": {
-      "remark": "60%",
-      "commentedBy": "Kaveesha Sathsarani",
-      "commentDate": "2026-08-19",
-      "commentTime": "14:43:53",
-      "lastUpdated": "2026-08-19T09:13:53.217Z"
-    },
     "HON-H200SMART-8-256-GRN||NATTANDIYA": {
       "remark": "Damaged - 50%",
       "commentedBy": "Mihini Perera",
@@ -20096,6 +20089,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "14:48:30",
+      "iso": "2026-08-19T09:18:30.058Z",
+      "action": "updated remark for PN-CS-U18XKH at PERADENIYA (cleared)"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-19",
       "time": "14:48:16",
@@ -20437,13 +20437,6 @@
       "time": "14:17:04",
       "iso": "2026-08-19T08:47:04.451Z",
       "action": "updated remark for SLE40E710 at BATTICALOA B: “85% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:16:48",
-      "iso": "2026-08-19T08:46:48.142Z",
-      "action": "updated remark for HON-X5PLUS-4-64-BLK at BATTICALOA B: “65% Discount”"
     }
   ]
 }
