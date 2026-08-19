@@ -25514,6 +25514,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:55:01",
       "lastUpdated": "2026-08-19T13:25:01.165Z"
+    },
+    "SMG-A06-6-128-BLK||PILIMATHALAWA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:55:03",
+      "lastUpdated": "2026-08-19T13:25:03.659Z"
+    },
+    "ZTE-A34-2-64GB-GRN||PILIMATHALAWA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:55:07",
+      "lastUpdated": "2026-08-19T13:25:07.358Z"
     }
   },
   "showroomVisits": {
@@ -26162,6 +26176,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:55:07",
+      "iso": "2026-08-19T13:25:07.358Z",
+      "action": "updated remark for ZTE-A34-2-64GB-GRN at PILIMATHALAWA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "18:55:03",
+      "iso": "2026-08-19T13:25:03.659Z",
+      "action": "updated remark for SMG-A06-6-128-BLK at PILIMATHALAWA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:55:01",
       "iso": "2026-08-19T13:25:01.165Z",
       "action": "updated remark for SMG-A06-4-64-BLK at PILIMATHALAWA: “40%”"
@@ -26494,20 +26522,6 @@
       "time": "18:49:35",
       "iso": "2026-08-19T13:19:35.093Z",
       "action": "updated remark for WFL-RUSH-MR-S at PILIMATHALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:49:30",
-      "iso": "2026-08-19T13:19:30.915Z",
-      "action": "updated remark for WFL-FLORAC-03-S at PILIMATHALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:49:23",
-      "iso": "2026-08-19T13:19:23.617Z",
-      "action": "updated remark for PF-MONDY-BLUE at PILIMATHALAWA: “Sellable at existing price”"
     }
   ]
 }
