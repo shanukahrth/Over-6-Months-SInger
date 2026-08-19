@@ -19242,6 +19242,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:49:45",
       "lastUpdated": "2026-08-19T08:19:45.838Z"
+    },
+    "FMMT-PLOUGH||KANDY": {
+      "remark": "WH Return",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:50:03",
+      "lastUpdated": "2026-08-19T08:20:03.829Z"
     }
   },
   "showroomVisits": {
@@ -19650,6 +19657,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:50:03",
+      "iso": "2026-08-19T08:20:03.830Z",
+      "action": "updated remark for FMMT-PLOUGH at KANDY: “WH Return”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:49:45",
       "iso": "2026-08-19T08:19:45.840Z",
       "action": "updated remark for TCL55P635 at KANDY: “30%”"
@@ -19989,13 +20003,6 @@
       "time": "13:44:07",
       "iso": "2026-08-19T08:14:07.209Z",
       "action": "updated remark for HON-X9C-12-256-PPL at KANDY: “15%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:44:05",
-      "iso": "2026-08-19T08:14:05.723Z",
-      "action": "updated remark for HON-X9B-12-256-ORG at KANDY: “40%”"
     }
   ]
 }
