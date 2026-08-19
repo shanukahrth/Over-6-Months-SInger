@@ -18409,6 +18409,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:00:10",
       "lastUpdated": "2026-08-19T07:30:10.747Z"
+    },
+    "WF-LEEDS-CT-S||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:00:28",
+      "lastUpdated": "2026-08-19T07:30:28.615Z"
     }
   },
   "showroomVisits": {
@@ -18817,6 +18824,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "13:00:28",
+      "iso": "2026-08-19T07:30:28.616Z",
+      "action": "updated remark for WF-LEEDS-CT-S at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "13:00:10",
       "iso": "2026-08-19T07:30:10.749Z",
       "action": "updated remark for WP-MAGICOOKPRO-25GE at BATTICALOA B: “45% Discount”"
@@ -19156,13 +19170,6 @@
       "time": "12:08:50",
       "iso": "2026-08-19T06:38:50.594Z",
       "action": "updated remark for GEO-SM-205D at HEMMATHAGAMA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "12:08:46",
-      "iso": "2026-08-19T06:38:46.738Z",
-      "action": "updated remark for GEO-200D at HEMMATHAGAMA: “80%”"
     }
   ]
 }
