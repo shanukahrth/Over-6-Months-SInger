@@ -19046,6 +19046,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:46:15",
       "lastUpdated": "2026-08-19T08:16:15.234Z"
+    },
+    "SMGRT34B4542S8||KANDY": {
+      "remark": "MOP - 160,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:46:28",
+      "lastUpdated": "2026-08-19T08:16:28.585Z"
     }
   },
   "showroomVisits": {
@@ -19454,6 +19461,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:46:28",
+      "iso": "2026-08-19T08:16:28.586Z",
+      "action": "updated remark for SMGRT34B4542S8 at KANDY: “MOP - 160,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:46:15",
       "iso": "2026-08-19T08:16:15.235Z",
       "action": "updated remark for SL-INV-305G at KANDY: “50%”"
@@ -19793,13 +19807,6 @@
       "time": "13:28:36",
       "iso": "2026-08-19T07:58:36.955Z",
       "action": "updated remark for TF-NIDFP24-170 at KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:28:32",
-      "iso": "2026-08-19T07:58:32.341Z",
-      "action": "updated remark for TF-KD24-061 at KANDY: “15%”"
     }
   ]
 }
