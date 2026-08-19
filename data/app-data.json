@@ -22287,6 +22287,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:04:57",
       "lastUpdated": "2026-08-19T11:34:57.063Z"
+    },
+    "R-NSG272NF||WENNAPPUWA": {
+      "remark": "Revert Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:05:25",
+      "lastUpdated": "2026-08-19T11:35:25.495Z"
     }
   },
   "showroomVisits": {
@@ -22911,6 +22918,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:05:25",
+      "iso": "2026-08-19T11:35:25.496Z",
+      "action": "updated remark for R-NSG272NF at WENNAPPUWA: “Revert Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:04:57",
       "iso": "2026-08-19T11:34:57.064Z",
       "action": "updated remark for R-BWS-02 at WENNAPPUWA: “10%”"
@@ -23250,13 +23264,6 @@
       "time": "16:49:04",
       "iso": "2026-08-19T11:19:04.340Z",
       "action": "updated NITTAMBUWA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:48:52",
-      "iso": "2026-08-19T11:18:52.134Z",
-      "action": "updated WARAKAPOLA showroom (visited: Yes)"
     }
   ]
 }
