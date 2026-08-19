@@ -20397,6 +20397,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:10:15",
       "lastUpdated": "2026-08-19T09:40:15.455Z"
+    },
+    "SL-SF1607RC||NATTANDIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:11:19",
+      "lastUpdated": "2026-08-19T09:41:19.951Z"
     }
   },
   "showroomVisits": {
@@ -20803,6 +20810,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "15:11:19",
+      "iso": "2026-08-19T09:41:19.953Z",
+      "action": "updated remark for SL-SF1607RC at NATTANDIYA: “Damaged - 85%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
       "time": "15:10:15",
@@ -21144,13 +21158,6 @@
       "time": "15:03:06",
       "iso": "2026-08-19T09:33:06.764Z",
       "action": "updated remark for LF-BUDGET-ST-AGO-S at BATTICALOA B: “50% Discount”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:02:45",
-      "iso": "2026-08-19T09:32:45.532Z",
-      "action": "updated remark for SAS24TCNR at NATTANDIYA: “50%”"
     }
   ]
 }
