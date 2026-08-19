@@ -22371,7 +22371,7 @@
       "updatedDate": "2026-08-19"
     },
     "BADULLA B||BADULLA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "",
       "team": "Team Furniture , Methmal",
       "remark": "",
@@ -22380,6 +22380,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:40:35",
+      "iso": "2026-08-19T11:10:35.923Z",
+      "action": "updated BADULLA B showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22722,13 +22729,6 @@
       "time": "16:19:41",
       "iso": "2026-08-19T10:49:41.382Z",
       "action": "updated remark for B-CWB6441XN at WENNAPPUWA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:19:14",
-      "iso": "2026-08-19T10:49:14.840Z",
-      "action": "updated remark for B-CFB9433XH at WENNAPPUWA: “Damaged - 80%”"
     }
   ]
 }
