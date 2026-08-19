@@ -23876,6 +23876,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:12:03",
       "lastUpdated": "2026-08-19T12:42:03.115Z"
+    },
+    "KN-HV190||KANDY - B": {
+      "remark": "60% - Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:12:15",
+      "lastUpdated": "2026-08-19T12:42:15.258Z"
     }
   },
   "showroomVisits": {
@@ -24524,6 +24531,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:12:15",
+      "iso": "2026-08-19T12:42:15.260Z",
+      "action": "updated remark for KN-HV190 at KANDY - B: “60% - Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:12:03",
       "iso": "2026-08-19T12:42:03.115Z",
       "action": "updated remark for ULED32D1810-U at KANDY - B: “Panel Damaged”"
@@ -24863,13 +24877,6 @@
       "time": "18:07:39",
       "iso": "2026-08-19T12:37:39.259Z",
       "action": "updated remark for HP-DESKJET-2775 at KANDY - B: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:07:27",
-      "iso": "2026-08-19T12:37:27.732Z",
-      "action": "updated remark for CAN-I-GM2070 at KANDY - B: “Unsellable”"
     }
   ]
 }
