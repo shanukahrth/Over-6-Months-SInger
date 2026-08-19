@@ -21412,6 +21412,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:49:27",
       "lastUpdated": "2026-08-19T10:19:27.984Z"
+    },
+    "KA-PRISMA-1.7||KALAWANCHIKUDY": {
+      "remark": "75 Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:49:47",
+      "lastUpdated": "2026-08-19T10:19:47.784Z"
     }
   },
   "showroomVisits": {
@@ -21820,6 +21827,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "15:49:47",
+      "iso": "2026-08-19T10:19:47.785Z",
+      "action": "updated remark for KA-PRISMA-1.7 at KALAWANCHIKUDY: “75 Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "15:49:27",
       "iso": "2026-08-19T10:19:27.986Z",
       "action": "updated remark for PF-ENVISION-BL-S at KALAWANCHIKUDY: “20% Discount”"
@@ -22159,13 +22173,6 @@
       "time": "15:36:00",
       "iso": "2026-08-19T10:06:00.402Z",
       "action": "updated remark for SIN-RFC-2058 at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:35:44",
-      "iso": "2026-08-19T10:05:44.092Z",
-      "action": "updated remark for SL-S203 at NATTANDIYA: “Damaged - 85%”"
     }
   ]
 }
