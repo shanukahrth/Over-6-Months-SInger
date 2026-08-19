@@ -18173,11 +18173,18 @@
       "lastUpdated": "2026-08-19T06:43:59.043Z"
     },
     "UDV3618SY||KURUWITA": {
-      "remark": "Not working. 90% to report",
+      "remark": "90%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "12:14:38",
-      "lastUpdated": "2026-08-19T06:44:38.921Z"
+      "commentTime": "12:14:43",
+      "lastUpdated": "2026-08-19T06:44:43.181Z"
+    },
+    "SDV3605K||KURUWITA": {
+      "remark": "90%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "12:14:46",
+      "lastUpdated": "2026-08-19T06:44:46.410Z"
     }
   },
   "showroomVisits": {
@@ -18586,6 +18593,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "12:14:46",
+      "iso": "2026-08-19T06:44:46.415Z",
+      "action": "updated remark for SDV3605K at KURUWITA: “90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "12:14:43",
+      "iso": "2026-08-19T06:44:43.187Z",
+      "action": "updated remark for UDV3618SY at KURUWITA: “90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "12:14:38",
       "iso": "2026-08-19T06:44:38.931Z",
       "action": "updated remark for UDV3618SY at KURUWITA: “Not working. 90% to report”"
@@ -18918,20 +18939,6 @@
       "time": "12:00:04",
       "iso": "2026-08-19T06:30:04.233Z",
       "action": "updated remark for NCPO-FP250 at HEMMATHAGAMA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "11:59:58",
-      "iso": "2026-08-19T06:29:58.953Z",
-      "action": "updated remark for NCPO-FP200 at HEMMATHAGAMA: “50% - Display”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "11:59:41",
-      "iso": "2026-08-19T06:29:41.873Z",
-      "action": "updated remark for BRP-CASERL16 at HEMMATHAGAMA: “50% - Damaged”"
     }
   ]
 }
