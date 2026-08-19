@@ -22476,6 +22476,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:28:59",
       "lastUpdated": "2026-08-19T11:58:59.524Z"
+    },
+    "SN-SMI-285G||WENNAPPUWA": {
+      "remark": "Can",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:28:35",
+      "lastUpdated": "2026-08-19T11:58:35.869Z"
     }
   },
   "showroomVisits": {
@@ -23122,6 +23129,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "17:28:35",
+      "iso": "2026-08-19T11:58:35.871Z",
+      "action": "updated remark for SN-SMI-285G at WENNAPPUWA: “Can”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-19",
       "time": "17:28:59",
@@ -23463,13 +23477,6 @@
       "time": "17:03:27",
       "iso": "2026-08-19T11:33:27.462Z",
       "action": "updated remark for PN-TH-32M402N at WENNAPPUWA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:03:21",
-      "iso": "2026-08-19T11:33:21.340Z",
-      "action": "updated remark for PN-TH-32MS670N at WENNAPPUWA: “Revert Damaged - 70%”"
     }
   ]
 }
