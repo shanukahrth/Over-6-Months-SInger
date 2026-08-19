@@ -24268,6 +24268,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:23:38",
       "lastUpdated": "2026-08-19T12:53:38.174Z"
+    },
+    "WF-BERLIN-DTO-WW-S||SHOMES- KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:23:47",
+      "lastUpdated": "2026-08-19T12:53:47.440Z"
     }
   },
   "showroomVisits": {
@@ -24916,6 +24923,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:23:47",
+      "iso": "2026-08-19T12:53:47.441Z",
+      "action": "updated remark for WF-BERLIN-DTO-WW-S at SHOMES- KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:23:38",
       "iso": "2026-08-19T12:53:38.176Z",
       "action": "updated remark for WF-MOSCOW-ST-S at SHOMES- KANDY: “20%”"
@@ -25255,13 +25269,6 @@
       "time": "18:17:10",
       "iso": "2026-08-19T12:47:10.623Z",
       "action": "updated remark for SB-DTYPE at SHOMES- KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:17:04",
-      "iso": "2026-08-19T12:47:04.995Z",
-      "action": "updated remark for UR591SW at SHOMES- KANDY: “Reported”"
     }
   ]
 }
