@@ -21076,6 +21076,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:33:17",
       "lastUpdated": "2026-08-19T10:03:17.544Z"
+    },
+    "LP-AP01||KALAWANCHIKUDY": {
+      "remark": "Rivert (Not working 90% Discount)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:33:49",
+      "lastUpdated": "2026-08-19T10:03:49.074Z"
     }
   },
   "showroomVisits": {
@@ -21482,6 +21489,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
+      "time": "15:33:49",
+      "iso": "2026-08-19T10:03:49.076Z",
+      "action": "updated remark for LP-AP01 at KALAWANCHIKUDY: “Rivert (Not working 90% Discount)”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-19",
       "time": "15:33:17",
@@ -21823,13 +21837,6 @@
       "time": "15:22:18",
       "iso": "2026-08-19T09:52:18.760Z",
       "action": "updated remark for WP-JUN-E-S at NATTANDIYA: “40% Damaged”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:21:45",
-      "iso": "2026-08-19T09:51:45.446Z",
-      "action": "updated remark for WP-2-S at NATTANDIYA: “Damaged - 85%”"
     }
   ]
 }
