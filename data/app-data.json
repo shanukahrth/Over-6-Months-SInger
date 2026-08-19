@@ -24422,6 +24422,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:27:48",
       "lastUpdated": "2026-08-19T12:57:48.378Z"
+    },
+    "LF-MONTN-WD-SHW-S||SHOMES- KANDY": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:27:55",
+      "lastUpdated": "2026-08-19T12:57:55.064Z"
     }
   },
   "showroomVisits": {
@@ -25070,6 +25077,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:27:55",
+      "iso": "2026-08-19T12:57:55.065Z",
+      "action": "updated remark for LF-MONTN-WD-SHW-S at SHOMES- KANDY: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:27:48",
       "iso": "2026-08-19T12:57:48.379Z",
       "action": "updated remark for LF-EUSTON-TVS-WH-S at SHOMES- KANDY: “30%”"
@@ -25409,13 +25423,6 @@
       "time": "18:20:26",
       "iso": "2026-08-19T12:50:26.154Z",
       "action": "updated remark for OF-SW120-S at SHOMES- KANDY: “Reverted”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:20:14",
-      "iso": "2026-08-19T12:50:14.110Z",
-      "action": "updated remark for OF-BOOKCUP-CKT-S at SHOMES- KANDY: “70%”"
     }
   ]
 }
