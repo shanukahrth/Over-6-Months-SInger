@@ -23274,6 +23274,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:00:36",
       "lastUpdated": "2026-08-19T12:30:36.481Z"
+    },
+    "PCR-SP16-255||KANDY - B": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:00:41",
+      "lastUpdated": "2026-08-19T12:30:41.035Z"
     }
   },
   "showroomVisits": {
@@ -23922,6 +23929,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:00:41",
+      "iso": "2026-08-19T12:30:41.036Z",
+      "action": "updated remark for PCR-SP16-255 at KANDY - B: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:00:36",
       "iso": "2026-08-19T12:30:36.483Z",
       "action": "updated remark for NCPO-FP200 at KANDY - B: “30%”"
@@ -24261,13 +24275,6 @@
       "time": "17:52:46",
       "iso": "2026-08-19T12:22:46.559Z",
       "action": "updated remark for MHC-M40D at KANDY - B: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:52:43",
-      "iso": "2026-08-19T12:22:43.445Z",
-      "action": "updated remark for SXLC7371K at KANDY - B: “Unsellable”"
     }
   ]
 }
