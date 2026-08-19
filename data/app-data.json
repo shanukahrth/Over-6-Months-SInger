@@ -17429,6 +17429,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "10:54:39",
       "lastUpdated": "2026-08-19T05:24:39.771Z"
+    },
+    "ENG-PUVPB01-WH||KIRIELLA": {
+      "remark": "Rtn",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:54:42",
+      "lastUpdated": "2026-08-19T05:24:42.476Z"
+    },
+    "ENG-UE10054||KIRIELLA": {
+      "remark": "Rtn",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "10:54:45",
+      "lastUpdated": "2026-08-19T05:24:45.854Z"
     }
   },
   "showroomVisits": {
@@ -17829,6 +17843,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "10:54:45",
+      "iso": "2026-08-19T05:24:45.861Z",
+      "action": "updated remark for ENG-UE10054 at KIRIELLA: “Rtn”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "10:54:42",
+      "iso": "2026-08-19T05:24:42.482Z",
+      "action": "updated remark for ENG-PUVPB01-WH at KIRIELLA: “Rtn”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "10:54:39",
       "iso": "2026-08-19T05:24:39.772Z",
       "action": "updated remark for HON-X5BPLUS-4-128-BLK at KIRIELLA: “Sold”"
@@ -18161,20 +18189,6 @@
       "time": "10:38:26",
       "iso": "2026-08-19T05:08:26.607Z",
       "action": "updated remark for LF-ECO-BDS-SHW-S at KIRIELLA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:38:24",
-      "iso": "2026-08-19T05:08:24.070Z",
-      "action": "updated remark for LF-ECO-BDM-SHW at KIRIELLA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:38:21",
-      "iso": "2026-08-19T05:08:21.382Z",
-      "action": "updated remark for LF-DEO-CT-S at KIRIELLA: “80%”"
     }
   ]
 }
