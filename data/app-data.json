@@ -22742,6 +22742,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:42:14",
       "lastUpdated": "2026-08-19T12:12:14.445Z"
+    },
+    "LF-ORGN-BSC-CLM-S||DERANIYAGALA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:43:09",
+      "lastUpdated": "2026-08-19T12:13:09.243Z"
     }
   },
   "showroomVisits": {
@@ -23388,6 +23395,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "17:43:09",
+      "iso": "2026-08-19T12:13:09.251Z",
+      "action": "updated remark for LF-ORGN-BSC-CLM-S at DERANIYAGALA: “70%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-19",
       "time": "17:42:14",
@@ -23729,13 +23743,6 @@
       "time": "17:24:10",
       "iso": "2026-08-19T11:54:10.386Z",
       "action": "updated remark for SRS-XP700 at DERANIYAGALA: “Flat 30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:20:27",
-      "iso": "2026-08-19T11:50:27.908Z",
-      "action": "updated remark for SKY32TB1000 at WENNAPPUWA: “Revert Damaged - 90%”"
     }
   ]
 }
