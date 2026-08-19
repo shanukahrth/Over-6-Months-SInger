@@ -22042,6 +22042,20 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:48:35",
       "lastUpdated": "2026-08-19T11:18:35.333Z"
+    },
+    "MC984-HO||WENNAPPUWA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:48:59",
+      "lastUpdated": "2026-08-19T11:18:59.124Z"
+    },
+    "MC974-N-HO||WENNAPPUWA": {
+      "remark": "Can sell by the 31st of Aug",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:49:29",
+      "lastUpdated": "2026-08-19T11:19:29.000Z"
     }
   },
   "showroomVisits": {
@@ -22640,6 +22654,27 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:49:29",
+      "iso": "2026-08-19T11:19:29.002Z",
+      "action": "updated remark for MC974-N-HO at WENNAPPUWA: “Can sell by the 31st of Aug”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:48:59",
+      "iso": "2026-08-19T11:18:59.124Z",
+      "action": "updated remark for MC984-HO at WENNAPPUWA: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
+      "time": "16:48:57",
+      "iso": "2026-08-19T11:18:57.979Z",
+      "action": "updated remark for MC984-HO at WENNAPPUWA: “Damaged - 80%”"
+    },
+    {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
       "time": "16:49:29",
@@ -22967,27 +23002,6 @@
       "time": "16:42:09",
       "iso": "2026-08-19T11:12:09.993Z",
       "action": "updated SAMANTHURAI showroom (team: Shop Closed)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:42:04",
-      "iso": "2026-08-19T11:12:04.332Z",
-      "action": "updated SAMANTHURAI showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:41:26",
-      "iso": "2026-08-19T11:11:26.226Z",
-      "action": "updated DIYATHALAWA showroom (visitDate: 2026-08-07)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:41:24",
-      "iso": "2026-08-19T11:11:24.261Z",
-      "action": "updated DIYATHALAWA showroom (team: Team Furniture , Methmal)"
     }
   ]
 }
