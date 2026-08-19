@@ -19466,6 +19466,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:17:04",
       "lastUpdated": "2026-08-19T08:47:04.450Z"
+    },
+    "GRIP-8101-S||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:17:19",
+      "lastUpdated": "2026-08-19T08:47:19.860Z"
     }
   },
   "showroomVisits": {
@@ -19874,6 +19881,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "14:17:19",
+      "iso": "2026-08-19T08:47:19.861Z",
+      "action": "updated remark for GRIP-8101-S at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "14:17:04",
       "iso": "2026-08-19T08:47:04.451Z",
       "action": "updated remark for SLE40E710 at BATTICALOA B: “85% Discount”"
@@ -20213,13 +20227,6 @@
       "time": "13:48:34",
       "iso": "2026-08-19T08:18:34.108Z",
       "action": "updated remark for SLE32D1800 at KANDY: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:48:24",
-      "iso": "2026-08-19T08:18:24.224Z",
-      "action": "updated remark for SLE32D1800 at KANDY: “Damaged”"
     }
   ]
 }
