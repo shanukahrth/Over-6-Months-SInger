@@ -20140,11 +20140,11 @@
       "lastUpdated": "2026-08-19T09:33:45.923Z"
     },
     "GRIP-3363-S||EHELIYAGODA - B": {
-      "remark": "Showroom,",
+      "remark": "Showroom use",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-19",
-      "commentTime": "15:04:16",
-      "lastUpdated": "2026-08-19T09:34:16.846Z"
+      "commentTime": "15:04:42",
+      "lastUpdated": "2026-08-19T09:34:42.400Z"
     }
   },
   "showroomVisits": {
@@ -20553,6 +20553,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "15:04:42",
+      "iso": "2026-08-19T09:34:42.407Z",
+      "action": "updated remark for GRIP-3363-S at EHELIYAGODA - B: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "15:04:16",
       "iso": "2026-08-19T09:34:16.853Z",
       "action": "updated remark for GRIP-3363-S at EHELIYAGODA - B: “Showroom,”"
@@ -20892,13 +20899,6 @@
       "time": "14:55:56",
       "iso": "2026-08-19T09:25:56.116Z",
       "action": "updated remark for KA-PB-426 at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "14:55:47",
-      "iso": "2026-08-19T09:25:47.992Z",
-      "action": "updated remark for KA-MIXEE-N at NATTANDIYA: “Damaged - 85%”"
     }
   ]
 }
