@@ -25759,6 +25759,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:58:35",
       "lastUpdated": "2026-08-19T13:28:35.276Z"
+    },
+    "SLE55G22A||PILIMATHALAWA": {
+      "remark": "70% - Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:59:00",
+      "lastUpdated": "2026-08-19T13:29:00.746Z"
     }
   },
   "showroomVisits": {
@@ -26407,6 +26414,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:59:00",
+      "iso": "2026-08-19T13:29:00.747Z",
+      "action": "updated remark for SLE55G22A at PILIMATHALAWA: “70% - Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:58:35",
       "iso": "2026-08-19T13:28:35.277Z",
       "action": "updated remark for SLE40E710 at PILIMATHALAWA: “Unsellable”"
@@ -26746,13 +26760,6 @@
       "time": "18:53:49",
       "iso": "2026-08-19T13:23:49.385Z",
       "action": "updated remark for HU-SECURITY at PILIMATHALAWA: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:53:13",
-      "iso": "2026-08-19T13:23:13.487Z",
-      "action": "updated remark for VT-1047CN at PILIMATHALAWA: “70%”"
     }
   ]
 }
