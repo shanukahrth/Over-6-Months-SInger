@@ -22602,6 +22602,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:35:30",
       "lastUpdated": "2026-08-19T12:05:30.905Z"
+    },
+    "DELL-M-P2418HT||DERANIYAGALA": {
+      "remark": "80000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:35:55",
+      "lastUpdated": "2026-08-19T12:05:55.088Z"
     }
   },
   "showroomVisits": {
@@ -23250,6 +23257,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "17:35:55",
+      "iso": "2026-08-19T12:05:55.089Z",
+      "action": "updated remark for DELL-M-P2418HT at DERANIYAGALA: “80000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "17:35:30",
       "iso": "2026-08-19T12:05:30.911Z",
       "action": "updated remark for DT-BG328A at DERANIYAGALA: “70%”"
@@ -23589,13 +23603,6 @@
       "time": "17:12:10",
       "iso": "2026-08-19T11:42:10.024Z",
       "action": "updated remark for SASI12INFI at WENNAPPUWA: “Damaged - 95%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:12:06",
-      "iso": "2026-08-19T11:42:06.000Z",
-      "action": "updated remark for SASI12INFI at WENNAPPUWA: “Damaged - 95”"
     }
   ]
 }
