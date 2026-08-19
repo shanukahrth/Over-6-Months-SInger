@@ -18241,6 +18241,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "12:19:49",
       "lastUpdated": "2026-08-19T06:49:49.257Z"
+    },
+    "LF-OFI-ST-001-SHW-S||KURUWITA": {
+      "remark": "Additional 10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "12:19:58",
+      "lastUpdated": "2026-08-19T06:49:58.740Z"
     }
   },
   "showroomVisits": {
@@ -18649,6 +18656,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "12:19:58",
+      "iso": "2026-08-19T06:49:58.746Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at KURUWITA: “Additional 10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "12:19:49",
       "iso": "2026-08-19T06:49:49.263Z",
       "action": "updated remark for WFL-SPM-75X72X8-S at KURUWITA: “90% only for the revert model”"
@@ -18988,13 +19002,6 @@
       "time": "12:02:28",
       "iso": "2026-08-19T06:32:28.382Z",
       "action": "updated remark for SIN-RFC-2012 at HEMMATHAGAMA: “To be reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "12:02:18",
-      "iso": "2026-08-19T06:32:18.936Z",
-      "action": "updated remark for STT-KHT009 at HEMMATHAGAMA: “80% - Damaged”"
     }
   ]
 }
