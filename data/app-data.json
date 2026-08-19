@@ -23869,6 +23869,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:11:54",
       "lastUpdated": "2026-08-19T12:41:54.980Z"
+    },
+    "ULED32D1810-U||KANDY - B": {
+      "remark": "Panel Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:12:03",
+      "lastUpdated": "2026-08-19T12:42:03.115Z"
     }
   },
   "showroomVisits": {
@@ -24517,6 +24524,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:12:03",
+      "iso": "2026-08-19T12:42:03.115Z",
+      "action": "updated remark for ULED32D1810-U at KANDY - B: “Panel Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:11:54",
       "iso": "2026-08-19T12:41:54.981Z",
       "action": "updated remark for ULED24D1000 at KANDY - B: “Shop use”"
@@ -24856,13 +24870,6 @@
       "time": "18:07:27",
       "iso": "2026-08-19T12:37:27.732Z",
       "action": "updated remark for CAN-I-GM2070 at KANDY - B: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:07:20",
-      "iso": "2026-08-19T12:37:20.879Z",
-      "action": "updated remark for U-HRW-S11 at KANDY - B: “Sellable at existing price”"
     }
   ]
 }
