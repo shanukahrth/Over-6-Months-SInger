@@ -19284,6 +19284,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:50:51",
       "lastUpdated": "2026-08-19T08:20:51.696Z"
+    },
+    "WG-H-010-25L||KANDY": {
+      "remark": "85%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:50:58",
+      "lastUpdated": "2026-08-19T08:20:58.327Z"
     }
   },
   "showroomVisits": {
@@ -19692,6 +19699,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:50:58",
+      "iso": "2026-08-19T08:20:58.329Z",
+      "action": "updated remark for WG-H-010-25L at KANDY: “85%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:50:51",
       "iso": "2026-08-19T08:20:51.697Z",
       "action": "updated remark for HU-WATCHFIT3-PNK at KANDY: “25%”"
@@ -20031,13 +20045,6 @@
       "time": "13:45:00",
       "iso": "2026-08-19T08:15:00.660Z",
       "action": "updated remark for CAN-B-790-B at KANDY: “Sellable at Existing Price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:44:56",
-      "iso": "2026-08-19T08:14:56.478Z",
-      "action": "updated remark for U-HRW-S11 at KANDY: “Sellable at Existing Price”"
     }
   ]
 }
