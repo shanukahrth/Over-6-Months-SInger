@@ -17168,13 +17168,20 @@
     "MATARA-B||MATARA": {
       "visited": "Yes",
       "visitDate": "2026-08-18",
-      "team": "",
+      "team": "Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-19",
+      "time": "08:36:54",
+      "iso": "2026-08-19T03:06:54.510Z",
+      "action": "updated MATARA-B showroom (team: Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-19",
@@ -17517,13 +17524,6 @@
       "time": "17:53:17",
       "iso": "2026-08-18T12:23:17.619Z",
       "action": "updated remark for SLE32F490 at NIVITHIGALA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:52:42",
-      "iso": "2026-08-18T12:22:42.117Z",
-      "action": "updated remark for SLE43G890 at NIVITHIGALA: “Damaged”"
     }
   ]
 }
