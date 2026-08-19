@@ -19018,6 +19018,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:45:34",
       "lastUpdated": "2026-08-19T08:15:34.671Z"
+    },
+    "H-HRSN9552DDXKH||KANDY": {
+      "remark": "20%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:45:57",
+      "lastUpdated": "2026-08-19T08:15:57.950Z"
     }
   },
   "showroomVisits": {
@@ -19426,6 +19433,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:45:57",
+      "iso": "2026-08-19T08:15:57.953Z",
+      "action": "updated remark for H-HRSN9552DDXKH at KANDY: “20%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:45:34",
       "iso": "2026-08-19T08:15:34.673Z",
       "action": "updated remark for B-RDNI315XIB300P at KANDY: “50%”"
@@ -19765,13 +19779,6 @@
       "time": "13:27:36",
       "iso": "2026-08-19T07:57:36.339Z",
       "action": "updated remark for TF-SI-ESS-242 at KANDY: “15%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:27:28",
-      "iso": "2026-08-19T07:57:28.577Z",
-      "action": "updated remark for SIS277CU at KANDY: “40% - Damaged”"
     }
   ]
 }
