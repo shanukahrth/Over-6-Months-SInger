@@ -22308,6 +22308,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:06:54",
       "lastUpdated": "2026-08-19T11:36:54.343Z"
+    },
+    "SAS24TCNR||WENNAPPUWA": {
+      "remark": "Damaged -60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:07:26",
+      "lastUpdated": "2026-08-19T11:37:26.277Z"
     }
   },
   "showroomVisits": {
@@ -22932,6 +22939,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:07:26",
+      "iso": "2026-08-19T11:37:26.278Z",
+      "action": "updated remark for SAS24TCNR at WENNAPPUWA: “Damaged -60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:06:54",
       "iso": "2026-08-19T11:36:54.344Z",
       "action": "updated remark for SAS-18V-INV at WENNAPPUWA: “SOLD - 01, Damaged 60%”"
@@ -23271,13 +23285,6 @@
       "time": "16:48:57",
       "iso": "2026-08-19T11:18:57.979Z",
       "action": "updated remark for MC984-HO at WENNAPPUWA: “Damaged - 80%”"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:49:29",
-      "iso": "2026-08-19T11:19:29.252Z",
-      "action": "updated MIRIGAMA - B showroom (remark: Fire has taken place)"
     }
   ]
 }
