@@ -22343,6 +22343,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:14:07",
       "lastUpdated": "2026-08-19T11:44:07.212Z"
+    },
+    "SHT-PHT505L||WENNAPPUWA": {
+      "remark": "Revert Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:14:19",
+      "lastUpdated": "2026-08-19T11:44:19.365Z"
     }
   },
   "showroomVisits": {
@@ -22991,6 +22998,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:14:19",
+      "iso": "2026-08-19T11:44:19.366Z",
+      "action": "updated remark for SHT-PHT505L at WENNAPPUWA: “Revert Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:14:07",
       "iso": "2026-08-19T11:44:07.214Z",
       "action": "updated remark for SDV3605K at WENNAPPUWA: “Revert Damaged - 95%”"
@@ -23330,13 +23344,6 @@
       "time": "16:55:30",
       "iso": "2026-08-19T11:25:30.482Z",
       "action": "updated remark for NCPO-FP250 at WENNAPPUWA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:55:27",
-      "iso": "2026-08-19T11:25:27.839Z",
-      "action": "updated remark for NCPO-DC200 at WENNAPPUWA: “Damaged - 60%”"
     }
   ]
 }
