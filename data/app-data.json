@@ -21440,6 +21440,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:51:11",
       "lastUpdated": "2026-08-19T10:21:11.470Z"
+    },
+    "AS-VS-QC-1TB-037-SIL||PERADENIYA": {
+      "remark": "60%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:51:53",
+      "lastUpdated": "2026-08-19T10:21:53.862Z"
     }
   },
   "showroomVisits": {
@@ -21846,6 +21853,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
+      "time": "15:51:53",
+      "iso": "2026-08-19T10:21:53.863Z",
+      "action": "updated remark for AS-VS-QC-1TB-037-SIL at PERADENIYA: “60%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
       "time": "15:51:11",
@@ -22187,13 +22201,6 @@
       "time": "15:37:02",
       "iso": "2026-08-19T10:07:02.982Z",
       "action": "updated remark for ZTE-A35-2-64GB-GRN at KALAWANCHIKUDY: “95% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "15:36:50",
-      "iso": "2026-08-19T10:06:50.634Z",
-      "action": "updated remark for ZTE-A31-LITE-GRY at KALAWANCHIKUDY: “95% dISCOUNT”"
     }
   ]
 }
