@@ -24450,6 +24450,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:29:11",
       "lastUpdated": "2026-08-19T12:59:11.303Z"
+    },
+    "SWH-118EP||SHOMES- KANDY": {
+      "remark": "Pending exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:29:18",
+      "lastUpdated": "2026-08-19T12:59:18.308Z"
     }
   },
   "showroomVisits": {
@@ -25098,6 +25105,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:29:18",
+      "iso": "2026-08-19T12:59:18.310Z",
+      "action": "updated remark for SWH-118EP at SHOMES- KANDY: “Pending exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:29:11",
       "iso": "2026-08-19T12:59:11.304Z",
       "action": "updated remark for SWH-118E at SHOMES- KANDY: “60% - Revert”"
@@ -25437,13 +25451,6 @@
       "time": "18:20:46",
       "iso": "2026-08-19T12:50:46.286Z",
       "action": "updated remark for WF-CHAIR-B-BU at SHOMES- KANDY: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:20:40",
-      "iso": "2026-08-19T12:50:40.559Z",
-      "action": "updated remark for OF-SW22-S at SHOMES- KANDY: “Reverted & Unsellable”"
     }
   ]
 }
