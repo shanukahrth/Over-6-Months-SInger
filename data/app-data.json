@@ -22355,7 +22355,7 @@
       "updatedDate": "2026-08-19"
     },
     "BADULLA||BADULLA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-07",
       "team": "Team Furniture , Methmal",
       "remark": "",
@@ -22363,6 +22363,14 @@
       "updatedDate": "2026-08-19"
     },
     "BADULLA - C||BADULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "Team Furniture , Methmal",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
+    },
+    "BADULLA B||BADULLA": {
       "visited": "No",
       "visitDate": "",
       "team": "Team Furniture , Methmal",
@@ -22372,6 +22380,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:40:31",
+      "iso": "2026-08-19T11:10:31.927Z",
+      "action": "updated BADULLA showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:40:30",
+      "iso": "2026-08-19T11:10:30.683Z",
+      "action": "updated BADULLA - C showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:40:29",
+      "iso": "2026-08-19T11:10:29.362Z",
+      "action": "updated BADULLA B showroom (team: Team Furniture , Methmal)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22700,27 +22729,6 @@
       "time": "16:19:14",
       "iso": "2026-08-19T10:49:14.840Z",
       "action": "updated remark for B-CFB9433XH at WENNAPPUWA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:18:59",
-      "iso": "2026-08-19T10:48:59.294Z",
-      "action": "updated remark for B-BMGB25332BG at WENNAPPUWA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:18:53",
-      "iso": "2026-08-19T10:48:53.840Z",
-      "action": "updated remark for B-BMGB25332BG at WENNAPPUWA: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:18:50",
-      "iso": "2026-08-19T10:48:50.894Z",
-      "action": "updated remark for B-BMGB25332BG at WENNAPPUWA (cleared)"
     }
   ]
 }
