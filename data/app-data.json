@@ -19494,6 +19494,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:18:08",
       "lastUpdated": "2026-08-19T08:48:08.830Z"
+    },
+    "AES-HAV-615D||BATTICALOA B": {
+      "remark": "10% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:18:19",
+      "lastUpdated": "2026-08-19T08:48:19.806Z"
     }
   },
   "showroomVisits": {
@@ -19902,6 +19909,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "14:18:19",
+      "iso": "2026-08-19T08:48:19.809Z",
+      "action": "updated remark for AES-HAV-615D at BATTICALOA B: “10% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "14:18:08",
       "iso": "2026-08-19T08:48:08.831Z",
       "action": "updated remark for PN-MX-AC210 at BATTICALOA B: “70% Discount”"
@@ -20241,13 +20255,6 @@
       "time": "13:49:18",
       "iso": "2026-08-19T08:19:18.321Z",
       "action": "updated remark for SLE55GENR at KANDY (cleared)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:49:08",
-      "iso": "2026-08-19T08:19:08.617Z",
-      "action": "updated remark for SLE55GENR at KANDY: “Reported”"
     }
   ]
 }
