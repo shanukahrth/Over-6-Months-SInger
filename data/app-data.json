@@ -22405,13 +22405,20 @@
     "SAMANTHURAI||BATTICALOA": {
       "visited": "Yes",
       "visitDate": "",
-      "team": "",
+      "team": "Shop Closed",
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:42:09",
+      "iso": "2026-08-19T11:12:09.993Z",
+      "action": "updated SAMANTHURAI showroom (team: Shop Closed)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22754,13 +22761,6 @@
       "time": "16:24:26",
       "iso": "2026-08-19T10:54:26.604Z",
       "action": "updated remark for FAN-VIERA-TEAK at WENNAPPUWA: “Display Damaged - 20%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:24:04",
-      "iso": "2026-08-19T10:54:04.623Z",
-      "action": "updated remark for FAN-P-SF1605HR at WENNAPPUWA: “Damaged - 75%”"
     }
   ]
 }
