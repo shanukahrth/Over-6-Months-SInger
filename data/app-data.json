@@ -19620,6 +19620,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "14:32:18",
       "lastUpdated": "2026-08-19T09:02:18.554Z"
+    },
+    "AS-13G-I3-512GB-3851-SIL||NATTANDIYA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "14:42:22",
+      "lastUpdated": "2026-08-19T09:12:22.833Z"
     }
   },
   "showroomVisits": {
@@ -20026,6 +20033,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
+      "time": "14:42:22",
+      "iso": "2026-08-19T09:12:22.834Z",
+      "action": "updated remark for AS-13G-I3-512GB-3851-SIL at NATTANDIYA: “Damaged - 50%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
       "time": "14:39:44",
@@ -20367,13 +20381,6 @@
       "time": "14:11:48",
       "iso": "2026-08-19T08:41:48.784Z",
       "action": "updated remark for SAS24TCNR at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-19",
-      "time": "14:11:40",
-      "iso": "2026-08-19T08:41:40.700Z",
-      "action": "updated remark for SMW823AY7 at BATTICALOA B: “45% Discount”"
     }
   ]
 }
