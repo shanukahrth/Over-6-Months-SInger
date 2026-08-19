@@ -24128,6 +24128,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:20:14",
       "lastUpdated": "2026-08-19T12:50:14.108Z"
+    },
+    "OF-SW120-S||SHOMES- KANDY": {
+      "remark": "Reverted",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:20:26",
+      "lastUpdated": "2026-08-19T12:50:26.152Z"
     }
   },
   "showroomVisits": {
@@ -24776,6 +24783,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:20:26",
+      "iso": "2026-08-19T12:50:26.154Z",
+      "action": "updated remark for OF-SW120-S at SHOMES- KANDY: “Reverted”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:20:14",
       "iso": "2026-08-19T12:50:14.110Z",
       "action": "updated remark for OF-BOOKCUP-CKT-S at SHOMES- KANDY: “70%”"
@@ -25115,13 +25129,6 @@
       "time": "18:09:43",
       "iso": "2026-08-19T12:39:43.355Z",
       "action": "updated remark for SLE40D600A at KANDY - B: “Panel Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:09:32",
-      "iso": "2026-08-19T12:39:32.183Z",
-      "action": "updated remark for DH-IPC-F2CP-LED-0360B at KANDY - B: “70%”"
     }
   ]
 }
