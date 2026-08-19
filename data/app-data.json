@@ -17140,9 +17140,118 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-18"
+    },
+    "AMBALANTHOTA - B||HAMBANTOTA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-17",
+      "team": "Colombo South MKT",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-18"
+    },
+    "AMBALANTOTA||HAMBANTOTA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-17",
+      "team": "Colomb South MKT",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-18"
+    },
+    "MATARA-A||MATARA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-18",
+      "team": "Colombo South MKT",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-18"
+    },
+    "MATARA-B||MATARA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-18",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-19",
+      "time": "08:36:49",
+      "iso": "2026-08-19T03:06:49.349Z",
+      "action": "updated MATARA-B showroom (visitDate: 2026-08-18)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-19",
+      "time": "08:36:45",
+      "iso": "2026-08-19T03:06:45.817Z",
+      "action": "updated MATARA-B showroom (visited: Yes)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-18",
+      "time": "09:42:23",
+      "iso": "2026-08-18T04:12:23.857Z",
+      "action": "updated MATARA-A showroom (team: Colombo South MKT)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-18",
+      "time": "09:42:18",
+      "iso": "2026-08-18T04:12:18.202Z",
+      "action": "updated MATARA-A showroom (visitDate: 2026-08-18)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-18",
+      "time": "09:42:15",
+      "iso": "2026-08-18T04:12:15.702Z",
+      "action": "updated MATARA-A showroom (visited: Yes)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-18",
+      "time": "09:42:02",
+      "iso": "2026-08-18T04:12:02.046Z",
+      "action": "updated AMBALANTOTA showroom (team: Colomb South MKT)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-18",
+      "time": "09:41:56",
+      "iso": "2026-08-18T04:11:56.821Z",
+      "action": "updated AMBALANTHOTA - B showroom (team: Colombo South MKT)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-18",
+      "time": "09:41:52",
+      "iso": "2026-08-18T04:11:52.486Z",
+      "action": "updated AMBALANTOTA showroom (visitDate: 2026-08-17)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-18",
+      "time": "09:41:49",
+      "iso": "2026-08-18T04:11:49.859Z",
+      "action": "updated AMBALANTHOTA - B showroom (visitDate: 2026-08-17)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-18",
+      "time": "09:41:47",
+      "iso": "2026-08-18T04:11:47.206Z",
+      "action": "updated AMBALANTOTA showroom (visited: Yes)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-18",
+      "time": "09:41:45",
+      "iso": "2026-08-18T04:11:45.290Z",
+      "action": "updated AMBALANTHOTA - B showroom (visited: Yes)"
+    },
     {
       "user": "Lashini Gamage",
       "date": "2026-08-18",
@@ -17415,83 +17524,6 @@
       "time": "17:52:42",
       "iso": "2026-08-18T12:22:42.117Z",
       "action": "updated remark for SLE43G890 at NIVITHIGALA: “Damaged”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:52:05",
-      "iso": "2026-08-18T12:22:05.105Z",
-      "action": "updated remark for SLE32E930 at NIVITHIGALA: “70%”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "17:51:31",
-      "iso": "2026-08-18T12:21:31.678Z",
-      "action": "updated remark for K-OSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 2,000”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "17:50:44",
-      "iso": "2026-08-18T12:20:44.787Z",
-      "action": "updated remark for K-RSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 1,500”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "17:50:40",
-      "iso": "2026-08-18T12:20:40.035Z",
-      "action": "updated remark for K-RSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 1,500”"
-    },
-    {
-      "user": "Lashini Gamage",
-      "date": "2026-08-18",
-      "time": "17:50:39",
-      "iso": "2026-08-18T12:20:39.003Z",
-      "action": "updated remark for K-OSPRINKLER at MAIN WAREHOUSE: “Discount to Rs. 1,500”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:51:30",
-      "iso": "2026-08-18T12:21:30.941Z",
-      "action": "updated remark for SLE43G890 at NIVITHIGALA: “60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:51:22",
-      "iso": "2026-08-18T12:21:22.416Z",
-      "action": "updated remark for SLE40D600A at NIVITHIGALA: “60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:50:54",
-      "iso": "2026-08-18T12:20:54.995Z",
-      "action": "updated remark for SS-PS16-AG at NIVITHIGALA: “75%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:50:44",
-      "iso": "2026-08-18T12:20:44.454Z",
-      "action": "updated remark for SS-PS16-AG at NIVITHIGALA: “75%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:50:34",
-      "iso": "2026-08-18T12:20:34.858Z",
-      "action": "updated remark for DH-A-B1A21P-36B at NIVITHIGALA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-18",
-      "time": "17:50:18",
-      "iso": "2026-08-18T12:20:18.418Z",
-      "action": "updated remark for HG-122 at NIVITHIGALA: “80%”"
     }
   ]
 }
