@@ -21181,6 +21181,41 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:37:02",
       "lastUpdated": "2026-08-19T10:07:02.982Z"
+    },
+    "SLE32E930||EHELIYAGODA - B": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:32:13",
+      "lastUpdated": "2026-08-19T10:02:13.407Z"
+    },
+    "TCL43S5400||EHELIYAGODA - B": {
+      "remark": "Flat 70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:32:32",
+      "lastUpdated": "2026-08-19T10:02:32.218Z"
+    },
+    "SLE43G890||EHELIYAGODA - B": {
+      "remark": "Showroom use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:33:16",
+      "lastUpdated": "2026-08-19T10:03:16.772Z"
+    },
+    "SLE40D600A||EHELIYAGODA - B": {
+      "remark": "Defect",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:34:53",
+      "lastUpdated": "2026-08-19T10:04:53.726Z"
+    },
+    "SMGUA32T4400||EHELIYAGODA - B": {
+      "remark": "RS.35,000 HDMI not supporting",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:37:29",
+      "lastUpdated": "2026-08-19T10:07:29.516Z"
     }
   },
   "showroomVisits": {
@@ -21587,6 +21622,41 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:37:29",
+      "iso": "2026-08-19T10:07:29.524Z",
+      "action": "updated remark for SMGUA32T4400 at EHELIYAGODA - B: “RS.35,000 HDMI not supporting”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:34:53",
+      "iso": "2026-08-19T10:04:53.732Z",
+      "action": "updated remark for SLE40D600A at EHELIYAGODA - B: “Defect”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:33:16",
+      "iso": "2026-08-19T10:03:16.781Z",
+      "action": "updated remark for SLE43G890 at EHELIYAGODA - B: “Showroom use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:32:32",
+      "iso": "2026-08-19T10:02:32.224Z",
+      "action": "updated remark for TCL43S5400 at EHELIYAGODA - B: “Flat 70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "15:32:13",
+      "iso": "2026-08-19T10:02:13.417Z",
+      "action": "updated remark for SLE32E930 at EHELIYAGODA - B: “70%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
       "time": "15:37:02",
@@ -21900,41 +21970,6 @@
       "time": "15:29:23",
       "iso": "2026-08-19T09:59:23.457Z",
       "action": "updated remark for SL-ECO192-TG at NATTANDIYA: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:28:41",
-      "iso": "2026-08-19T09:58:41.558Z",
-      "action": "updated remark for BES-CRS-51 at NATTANDIYA: “Damaged - 50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:29:38",
-      "iso": "2026-08-19T09:59:38.377Z",
-      "action": "updated remark for DH-A-HDW1209TLQP-LED-28B at EHELIYAGODA - B: “Flat 70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:29:27",
-      "iso": "2026-08-19T09:59:27.609Z",
-      "action": "updated remark for HG-SILVER-TW at EHELIYAGODA - B: “Showroom use”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:29:17",
-      "iso": "2026-08-19T09:59:17.059Z",
-      "action": "updated remark for HG-122 at EHELIYAGODA - B: “Showroom use”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "15:29:12",
-      "iso": "2026-08-19T09:59:12.241Z",
-      "action": "updated remark for WS-300B at EHELIYAGODA - B: “Showroom use”"
     }
   ]
 }
