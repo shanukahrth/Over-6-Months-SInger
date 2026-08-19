@@ -18990,6 +18990,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:45:03",
       "lastUpdated": "2026-08-19T08:15:03.775Z"
+    },
+    "GEO-242D-SV||KANDY": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:45:16",
+      "lastUpdated": "2026-08-19T08:15:16.110Z"
     }
   },
   "showroomVisits": {
@@ -19398,6 +19405,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:45:16",
+      "iso": "2026-08-19T08:15:16.112Z",
+      "action": "updated remark for GEO-242D-SV at KANDY: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:45:03",
       "iso": "2026-08-19T08:15:03.776Z",
       "action": "updated remark for CAN-C-57-C at KANDY: “Sellable at Existing Price”"
@@ -19737,13 +19751,6 @@
       "time": "13:27:11",
       "iso": "2026-08-19T07:57:11.991Z",
       "action": "updated remark for SLE-75IFPD at KANDY: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:27:07",
-      "iso": "2026-08-19T07:57:07.638Z",
-      "action": "updated remark for SLE-55IFPZB-15 at KANDY: “Confirmed sale”"
     }
   ]
 }
