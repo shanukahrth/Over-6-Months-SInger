@@ -22483,6 +22483,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:28:35",
       "lastUpdated": "2026-08-19T11:58:35.869Z"
+    },
+    "TCLED32D2900||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:28:54",
+      "lastUpdated": "2026-08-19T11:58:54.603Z"
     }
   },
   "showroomVisits": {
@@ -23131,6 +23138,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "17:28:54",
+      "iso": "2026-08-19T11:58:54.603Z",
+      "action": "updated remark for TCLED32D2900 at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "17:28:35",
       "iso": "2026-08-19T11:58:35.871Z",
       "action": "updated remark for SN-SMI-285G at WENNAPPUWA: “Can”"
@@ -23470,13 +23484,6 @@
       "time": "17:03:52",
       "iso": "2026-08-19T11:33:52.836Z",
       "action": "updated remark for PN-TH-32M402N at WENNAPPUWA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:03:27",
-      "iso": "2026-08-19T11:33:27.462Z",
-      "action": "updated remark for PN-TH-32M402N at WENNAPPUWA: “Damaged - 50%”"
     }
   ]
 }
