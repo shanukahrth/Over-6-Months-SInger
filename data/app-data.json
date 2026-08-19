@@ -25234,6 +25234,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:50:00",
       "lastUpdated": "2026-08-19T13:20:00.053Z"
+    },
+    "SLE-55IFPD||PILIMATHALAWA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:50:04",
+      "lastUpdated": "2026-08-19T13:20:04.272Z"
     }
   },
   "showroomVisits": {
@@ -25882,6 +25889,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:50:04",
+      "iso": "2026-08-19T13:20:04.273Z",
+      "action": "updated remark for SLE-55IFPD at PILIMATHALAWA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:50:00",
       "iso": "2026-08-19T13:20:00.053Z",
       "action": "updated remark for SWH-SLIM228E at PILIMATHALAWA: “To be reported”"
@@ -26221,13 +26235,6 @@
       "time": "18:44:30",
       "iso": "2026-08-19T13:14:30.450Z",
       "action": "updated remark for KV-FPA-5A at PILIMATHALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:44:28",
-      "iso": "2026-08-19T13:14:28.909Z",
-      "action": "updated remark for KV-FPA-13A at PILIMATHALAWA: “50%”"
     }
   ]
 }
