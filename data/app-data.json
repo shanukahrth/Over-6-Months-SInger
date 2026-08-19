@@ -21958,6 +21958,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:44:52",
       "lastUpdated": "2026-08-19T11:14:52.707Z"
+    },
+    "LF-LEO-12022-WNG-S||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:46:05",
+      "lastUpdated": "2026-08-19T11:16:05.850Z"
     }
   },
   "showroomVisits": {
@@ -22422,6 +22429,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:46:05",
+      "iso": "2026-08-19T11:16:05.850Z",
+      "action": "updated remark for LF-LEO-12022-WNG-S at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:44:52",
       "iso": "2026-08-19T11:14:52.708Z",
       "action": "updated remark for KN-TMG70 at WENNAPPUWA: “Damaged - 85%”"
@@ -22761,13 +22775,6 @@
       "time": "16:28:06",
       "iso": "2026-08-19T10:58:06.572Z",
       "action": "updated remark for GRIP-3361 at WENNAPPUWA: “Damaged - 95%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:27:38",
-      "iso": "2026-08-19T10:57:38.644Z",
-      "action": "updated remark for GEO-SM-205D at WENNAPPUWA: “Damaged - 80%”"
     }
   ]
 }
