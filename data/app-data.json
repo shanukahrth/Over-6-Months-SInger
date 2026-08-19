@@ -22504,6 +22504,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:30:28",
       "lastUpdated": "2026-08-19T12:00:28.026Z"
+    },
+    "SIN-MH51SW||DERANIYAGALA": {
+      "remark": "15000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:31:00",
+      "lastUpdated": "2026-08-19T12:01:00.988Z"
     }
   },
   "showroomVisits": {
@@ -23152,6 +23159,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "17:31:00",
+      "iso": "2026-08-19T12:01:00.996Z",
+      "action": "updated remark for SIN-MH51SW at DERANIYAGALA: “15000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "17:30:28",
       "iso": "2026-08-19T12:00:28.032Z",
       "action": "updated remark for PN-SC-UA3GS-K at DERANIYAGALA: “40000”"
@@ -23491,13 +23505,6 @@
       "time": "17:05:25",
       "iso": "2026-08-19T11:35:25.496Z",
       "action": "updated remark for R-NSG272NF at WENNAPPUWA: “Revert Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:04:57",
-      "iso": "2026-08-19T11:34:57.064Z",
-      "action": "updated remark for R-BWS-02 at WENNAPPUWA: “10%”"
     }
   ]
 }
