@@ -17695,6 +17695,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "11:28:39",
       "lastUpdated": "2026-08-19T05:58:39.059Z"
+    },
+    "SL-INV-285G||BATTICALOA B": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "11:28:47",
+      "lastUpdated": "2026-08-19T05:58:47.778Z"
     }
   },
   "showroomVisits": {
@@ -18095,6 +18102,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "11:28:47",
+      "iso": "2026-08-19T05:58:47.780Z",
+      "action": "updated remark for SL-INV-285G at BATTICALOA B: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "11:28:39",
       "iso": "2026-08-19T05:58:39.061Z",
       "action": "updated remark for WP-WDC11704RG-G at BATTICALOA B: “24% Discount”"
@@ -18434,13 +18448,6 @@
       "time": "11:01:58",
       "iso": "2026-08-19T05:31:58.416Z",
       "action": "updated remark for SLE32E810 at KIRIELLA: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "11:01:41",
-      "iso": "2026-08-19T05:31:41.838Z",
-      "action": "updated remark for SLE43G890 at KIRIELLA: “Sellable”"
     }
   ]
 }
