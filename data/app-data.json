@@ -23757,6 +23757,34 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:09:42",
       "lastUpdated": "2026-08-19T12:39:42.835Z"
+    },
+    "SLE32D2010TC||DERANIYAGALA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:10:08",
+      "lastUpdated": "2026-08-19T12:40:08.733Z"
+    },
+    "SLE32D5000||DERANIYAGALA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:10:10",
+      "lastUpdated": "2026-08-19T12:40:10.433Z"
+    },
+    "SLE32E710||DERANIYAGALA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:10:12",
+      "lastUpdated": "2026-08-19T12:40:12.070Z"
+    },
+    "SLE32E920||DERANIYAGALA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:10:13",
+      "lastUpdated": "2026-08-19T12:40:13.858Z"
     }
   },
   "showroomVisits": {
@@ -24405,6 +24433,34 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "18:10:13",
+      "iso": "2026-08-19T12:40:13.863Z",
+      "action": "updated remark for SLE32E920 at DERANIYAGALA: “70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "18:10:12",
+      "iso": "2026-08-19T12:40:12.075Z",
+      "action": "updated remark for SLE32E710 at DERANIYAGALA: “70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "18:10:10",
+      "iso": "2026-08-19T12:40:10.438Z",
+      "action": "updated remark for SLE32D5000 at DERANIYAGALA: “70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
+      "time": "18:10:08",
+      "iso": "2026-08-19T12:40:08.739Z",
+      "action": "updated remark for SLE32D2010TC at DERANIYAGALA: “70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "18:09:42",
       "iso": "2026-08-19T12:39:42.841Z",
       "action": "updated remark for SS-PS16-AG at DERANIYAGALA: “75%”"
@@ -24723,34 +24779,6 @@
       "time": "18:04:11",
       "iso": "2026-08-19T12:34:11.724Z",
       "action": "updated remark for HU-SECURITY at KANDY - B: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:04:07",
-      "iso": "2026-08-19T12:34:07.988Z",
-      "action": "updated remark for U-B1 at KANDY - B: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:04:02",
-      "iso": "2026-08-19T12:34:02.732Z",
-      "action": "updated remark for SIN-RFC-2058 at KANDY - B: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:04:01",
-      "iso": "2026-08-19T12:34:01.807Z",
-      "action": "updated remark for SIN-RFC-2012 at KANDY - B: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:04:00",
-      "iso": "2026-08-19T12:34:00.470Z",
-      "action": "updated remark for SIN-RFC-1819 at KANDY - B: “Sellable at existing price”"
     }
   ]
 }
