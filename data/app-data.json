@@ -17639,6 +17639,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "11:22:23",
       "lastUpdated": "2026-08-19T05:52:23.675Z"
+    },
+    "WF-TULIP-01-S||BATTICALOA B": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-19",
+      "commentTime": "11:24:39",
+      "lastUpdated": "2026-08-19T05:54:39.645Z"
     }
   },
   "showroomVisits": {
@@ -18039,6 +18046,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-19",
+      "time": "11:24:39",
+      "iso": "2026-08-19T05:54:39.648Z",
+      "action": "updated remark for WF-TULIP-01-S at BATTICALOA B: “70% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-19",
       "time": "11:23:08",
       "iso": "2026-08-19T05:53:08.223Z",
       "action": "updated remark for R-BWS-02 at CHENKALADY: “30% Discount”"
@@ -18378,13 +18392,6 @@
       "time": "10:57:21",
       "iso": "2026-08-19T05:27:21.998Z",
       "action": "updated remark for AES-HAV-30S at KIRIELLA: “15%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-19",
-      "time": "10:57:10",
-      "iso": "2026-08-19T05:27:10.502Z",
-      "action": "updated remark for BTS-10KG at KIRIELLA: “15%”"
     }
   ]
 }
