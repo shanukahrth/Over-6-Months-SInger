@@ -24611,6 +24611,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:33:05",
       "lastUpdated": "2026-08-19T13:03:05.866Z"
+    },
+    "U-HRW-S11||SHOMES- KANDY": {
+      "remark": "MOP - 1,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:33:13",
+      "lastUpdated": "2026-08-19T13:03:13.713Z"
     }
   },
   "showroomVisits": {
@@ -25259,6 +25266,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:33:13",
+      "iso": "2026-08-19T13:03:13.714Z",
+      "action": "updated remark for U-HRW-S11 at SHOMES- KANDY: “MOP - 1,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:33:05",
       "iso": "2026-08-19T13:03:05.868Z",
       "action": "updated remark for HON-PADX8-POUCH at SHOMES- KANDY: “To be dropped”"
@@ -25598,13 +25612,6 @@
       "time": "18:23:47",
       "iso": "2026-08-19T12:53:47.441Z",
       "action": "updated remark for WF-BERLIN-DTO-WW-S at SHOMES- KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:23:38",
-      "iso": "2026-08-19T12:53:38.176Z",
-      "action": "updated remark for WF-MOSCOW-ST-S at SHOMES- KANDY: “20%”"
     }
   ]
 }
