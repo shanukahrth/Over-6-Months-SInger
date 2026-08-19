@@ -25423,6 +25423,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:53:13",
       "lastUpdated": "2026-08-19T13:23:13.487Z"
+    },
+    "HU-SECURITY||PILIMATHALAWA": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:53:49",
+      "lastUpdated": "2026-08-19T13:23:49.385Z"
     }
   },
   "showroomVisits": {
@@ -26071,6 +26078,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:53:49",
+      "iso": "2026-08-19T13:23:49.385Z",
+      "action": "updated remark for HU-SECURITY at PILIMATHALAWA: “Shop use”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:53:13",
       "iso": "2026-08-19T13:23:13.487Z",
       "action": "updated remark for VT-1047CN at PILIMATHALAWA: “70%”"
@@ -26410,13 +26424,6 @@
       "time": "18:47:48",
       "iso": "2026-08-19T13:17:48.981Z",
       "action": "updated remark for WFI-DELPHI-CHR-S at PILIMATHALAWA: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:47:38",
-      "iso": "2026-08-19T13:17:38.292Z",
-      "action": "updated remark for WF-CLASSIC-MH at PILIMATHALAWA: “50%”"
     }
   ]
 }
