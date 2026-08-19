@@ -20845,6 +20845,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:26:47",
       "lastUpdated": "2026-08-19T09:56:47.410Z"
+    },
+    "WF-DUNE-01-S||NATTANDIYA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:27:05",
+      "lastUpdated": "2026-08-19T09:57:05.211Z"
     }
   },
   "showroomVisits": {
@@ -21253,6 +21260,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-19",
+      "time": "15:27:05",
+      "iso": "2026-08-19T09:57:05.213Z",
+      "action": "updated remark for WF-DUNE-01-S at NATTANDIYA: “Damaged - 30%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-19",
       "time": "15:26:47",
       "iso": "2026-08-19T09:56:47.411Z",
       "action": "updated remark for WP-NEO258NF at NATTANDIYA: “Damaged - 40%”"
@@ -21592,13 +21606,6 @@
       "time": "15:17:07",
       "iso": "2026-08-19T09:47:07.289Z",
       "action": "updated remark for STT-KHT009 at NATTANDIYA: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:16:58",
-      "iso": "2026-08-19T09:46:58.751Z",
-      "action": "updated remark for STT-300S at NATTANDIYA: “Damaged - 90%”"
     }
   ]
 }
