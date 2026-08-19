@@ -22545,7 +22545,7 @@
     },
     "PELIYAGODA||PELIYAGODA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Shanuka Herath",
@@ -22585,6 +22585,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:48:03",
+      "iso": "2026-08-19T11:18:03.654Z",
+      "action": "updated PELIYAGODA showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22927,13 +22934,6 @@
       "time": "16:40:31",
       "iso": "2026-08-19T11:10:31.927Z",
       "action": "updated BADULLA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:40:30",
-      "iso": "2026-08-19T11:10:30.683Z",
-      "action": "updated BADULLA - C showroom (visited: Yes)"
     }
   ]
 }
