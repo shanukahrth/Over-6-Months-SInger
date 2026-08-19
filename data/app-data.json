@@ -24844,11 +24844,11 @@
       "lastUpdated": "2026-08-19T13:12:02.207Z"
     },
     "SIN-W66PA28||PILIMATHALAWA": {
-      "remark": "80%",
+      "remark": "80% - Damaged",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-19",
-      "commentTime": "18:42:11",
-      "lastUpdated": "2026-08-19T13:12:11.076Z"
+      "commentTime": "18:42:18",
+      "lastUpdated": "2026-08-19T13:12:18.519Z"
     }
   },
   "showroomVisits": {
@@ -25497,6 +25497,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:42:18",
+      "iso": "2026-08-19T13:12:18.520Z",
+      "action": "updated remark for SIN-W66PA28 at PILIMATHALAWA: “80% - Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:42:11",
       "iso": "2026-08-19T13:12:11.077Z",
       "action": "updated remark for SIN-W66PA28 at PILIMATHALAWA: “80%”"
@@ -25836,13 +25843,6 @@
       "time": "18:31:33",
       "iso": "2026-08-19T13:01:33.288Z",
       "action": "updated remark for RIYLTA-MF12V53B at SHOMES- KANDY: “Mail - Brand Manager”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:31:32",
-      "iso": "2026-08-19T13:01:32.572Z",
-      "action": "updated remark for RIYLTA-MF12V51A at SHOMES- KANDY: “Mail - Brand Manager”"
     }
   ]
 }
