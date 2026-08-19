@@ -23561,6 +23561,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "18:07:06",
       "lastUpdated": "2026-08-19T12:37:06.059Z"
+    },
+    "U-HRW-S11||KANDY - B": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "18:07:20",
+      "lastUpdated": "2026-08-19T12:37:20.877Z"
     }
   },
   "showroomVisits": {
@@ -24209,6 +24216,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "18:07:20",
+      "iso": "2026-08-19T12:37:20.879Z",
+      "action": "updated remark for U-HRW-S11 at KANDY - B: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "18:07:06",
       "iso": "2026-08-19T12:37:06.060Z",
       "action": "updated remark for HU-SE2-FREEBUD-WHT at KANDY - B: “MOP - 3,000 (Damaged)”"
@@ -24548,13 +24562,6 @@
       "time": "17:59:46",
       "iso": "2026-08-19T12:29:46.629Z",
       "action": "updated remark for SLE-65IFPDT at KANDY - B: “Pending exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "17:59:37",
-      "iso": "2026-08-19T12:29:37.234Z",
-      "action": "updated remark for ALU-DSL-7FT-S at KANDY - B: “Sellable at existing price”"
     }
   ]
 }
