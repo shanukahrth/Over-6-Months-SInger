@@ -22511,6 +22511,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:31:10",
       "lastUpdated": "2026-08-19T12:01:10.519Z"
+    },
+    "MHC-V50D||DERANIYAGALA": {
+      "remark": "70%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:31:59",
+      "lastUpdated": "2026-08-19T12:01:59.347Z"
     }
   },
   "showroomVisits": {
@@ -23159,6 +23166,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "17:31:59",
+      "iso": "2026-08-19T12:01:59.353Z",
+      "action": "updated remark for MHC-V50D at DERANIYAGALA: “70%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "17:31:10",
       "iso": "2026-08-19T12:01:10.525Z",
       "action": "updated remark for SIN-MH51SW at DERANIYAGALA: “15000”"
@@ -23498,13 +23512,6 @@
       "time": "17:06:52",
       "iso": "2026-08-19T11:36:52.960Z",
       "action": "updated remark for SAS-18V-INV at WENNAPPUWA: “SOLD - 01, Damagewd 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "17:06:27",
-      "iso": "2026-08-19T11:36:27.571Z",
-      "action": "updated remark for RIYLTA-MF12V35A at WENNAPPUWA: “Damaged - 95%”"
     }
   ]
 }
