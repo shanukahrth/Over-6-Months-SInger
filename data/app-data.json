@@ -18843,6 +18843,27 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:43:11",
       "lastUpdated": "2026-08-19T08:13:11.145Z"
+    },
+    "SIN-RFC-1819||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:43:18",
+      "lastUpdated": "2026-08-19T08:13:18.133Z"
+    },
+    "SIN-RFC-2012||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:43:20",
+      "lastUpdated": "2026-08-19T08:13:20.010Z"
+    },
+    "SIN-RFC-2058||KANDY": {
+      "remark": "Sellable at Existing Price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:43:21",
+      "lastUpdated": "2026-08-19T08:13:21.577Z"
     }
   },
   "showroomVisits": {
@@ -19251,6 +19272,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-19",
+      "time": "13:43:21",
+      "iso": "2026-08-19T08:13:21.578Z",
+      "action": "updated remark for SIN-RFC-2058 at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:43:20",
+      "iso": "2026-08-19T08:13:20.011Z",
+      "action": "updated remark for SIN-RFC-2012 at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
+      "time": "13:43:18",
+      "iso": "2026-08-19T08:13:18.135Z",
+      "action": "updated remark for SIN-RFC-1819 at KANDY: “Sellable at Existing Price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-19",
       "time": "13:43:11",
       "iso": "2026-08-19T08:13:11.147Z",
       "action": "updated remark for CM-VIR-GUARD at KANDY: “To be dropped”"
@@ -19576,27 +19618,6 @@
       "time": "13:25:10",
       "iso": "2026-08-19T07:55:10.974Z",
       "action": "updated remark for FAN-VIERA-TEAK at KANDY: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:25:06",
-      "iso": "2026-08-19T07:55:06.446Z",
-      "action": "updated remark for FAN-P-SF1605HL at KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:25:01",
-      "iso": "2026-08-19T07:55:01.312Z",
-      "action": "updated remark for FAN-C-NR at KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:24:54",
-      "iso": "2026-08-19T07:54:54.657Z",
-      "action": "updated remark for FAN-C-CF560 at KANDY: “60% - Damaged”"
     }
   ]
 }
