@@ -22112,6 +22112,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:52:13",
       "lastUpdated": "2026-08-19T11:22:13.267Z"
+    },
+    "MX-AT712G31||WENNAPPUWA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:52:37",
+      "lastUpdated": "2026-08-19T11:22:37.088Z"
     }
   },
   "showroomVisits": {
@@ -22712,6 +22719,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:52:37",
+      "iso": "2026-08-19T11:22:37.090Z",
+      "action": "updated remark for MX-AT712G31 at WENNAPPUWA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:52:13",
       "iso": "2026-08-19T11:22:13.268Z",
       "action": "updated remark for MID-MJ-KM6001W at WENNAPPUWA: “Damaged - 70%”"
@@ -23051,13 +23065,6 @@
       "time": "16:46:25",
       "iso": "2026-08-19T11:16:25.209Z",
       "action": "updated remark for LF-ORGN-DTO-WHT at WENNAPPUWA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:46:20",
-      "iso": "2026-08-19T11:16:20.728Z",
-      "action": "updated remark for LF-OFI-ST-001-SHW-S at WENNAPPUWA: “Damaged - 50%”"
     }
   ]
 }
