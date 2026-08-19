@@ -21804,6 +21804,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "16:27:38",
       "lastUpdated": "2026-08-19T10:57:38.641Z"
+    },
+    "GRIP-3361||WENNAPPUWA": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-19",
+      "commentTime": "16:28:06",
+      "lastUpdated": "2026-08-19T10:58:06.570Z"
     }
   },
   "showroomVisits": {
@@ -22212,6 +22219,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-19",
+      "time": "16:28:06",
+      "iso": "2026-08-19T10:58:06.572Z",
+      "action": "updated remark for GRIP-3361 at WENNAPPUWA: “Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-19",
       "time": "16:27:38",
       "iso": "2026-08-19T10:57:38.644Z",
       "action": "updated remark for GEO-SM-205D at WENNAPPUWA: “Damaged - 80%”"
@@ -22551,13 +22565,6 @@
       "time": "16:00:31",
       "iso": "2026-08-19T10:30:31.140Z",
       "action": "updated remark for MSI-MOD15-B13M-I7-BLK at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-19",
-      "time": "15:58:16",
-      "iso": "2026-08-19T10:28:16.625Z",
-      "action": "updated remark for DELL3530-I7-8GB512-BLK at PERADENIYA: “60%”"
     }
   ]
 }
