@@ -22620,9 +22620,24 @@
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
+    },
+    "MIRIGAMA||NITTAMBUWA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-19"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:49:13",
+      "iso": "2026-08-19T11:19:13.441Z",
+      "action": "updated MIRIGAMA showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22965,13 +22980,6 @@
       "time": "16:41:13",
       "iso": "2026-08-19T11:11:13.805Z",
       "action": "updated HAPUTHALE showroom (visitDate: 2026-08-07)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:41:11",
-      "iso": "2026-08-19T11:11:11.043Z",
-      "action": "updated HAPUTHALE showroom (team: Team Furniture , Methmal)"
     }
   ]
 }
