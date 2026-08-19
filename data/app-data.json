@@ -21426,6 +21426,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "15:50:19",
       "lastUpdated": "2026-08-19T10:20:19.209Z"
+    },
+    "DELL-VOS3888-I3DOS||PERADENIYA": {
+      "remark": "60%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "15:50:41",
+      "lastUpdated": "2026-08-19T10:20:41.271Z"
     }
   },
   "showroomVisits": {
@@ -21834,6 +21841,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "15:50:41",
+      "iso": "2026-08-19T10:20:41.272Z",
+      "action": "updated remark for DELL-VOS3888-I3DOS at PERADENIYA: “60%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "15:50:19",
       "iso": "2026-08-19T10:20:19.209Z",
       "action": "updated remark for NETAC-128GB-NVME-SSD at PERADENIYA: “To be dropped”"
@@ -22173,13 +22187,6 @@
       "time": "15:36:52",
       "iso": "2026-08-19T10:06:52.909Z",
       "action": "updated remark for STT-200K at NATTANDIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-19",
-      "time": "15:36:26",
-      "iso": "2026-08-19T10:06:26.446Z",
-      "action": "updated remark for NCPDG-SP240 at NATTANDIYA: “Kuliyapitiya Transfer”"
     }
   ]
 }
