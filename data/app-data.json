@@ -22944,7 +22944,7 @@
     },
     "WELIGAMA||GALLE": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-18",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -22952,6 +22952,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-19",
+      "time": "17:11:17",
+      "iso": "2026-08-19T11:41:17.414Z",
+      "action": "updated WELIGAMA showroom (visitDate: 2026-08-18)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-19",
@@ -23294,13 +23301,6 @@
       "time": "16:52:03",
       "iso": "2026-08-19T11:22:03.410Z",
       "action": "updated remark for MID-MF-TN40D2 at WENNAPPUWA: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-19",
-      "time": "16:51:14",
-      "iso": "2026-08-19T11:21:14.704Z",
-      "action": "updated remark for MID-D15-20EVN1 at WENNAPPUWA: “Can sell by the 31st of Aug”"
     }
   ]
 }
