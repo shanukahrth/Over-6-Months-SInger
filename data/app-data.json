@@ -22553,7 +22553,7 @@
     },
     "RAGAMA||PELIYAGODA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Shanuka Herath",
@@ -22585,6 +22585,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-19",
+      "time": "16:48:07",
+      "iso": "2026-08-19T11:18:07.439Z",
+      "action": "updated RAGAMA showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-19",
@@ -22927,13 +22934,6 @@
       "time": "16:40:35",
       "iso": "2026-08-19T11:10:35.923Z",
       "action": "updated BADULLA B showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-19",
-      "time": "16:40:31",
-      "iso": "2026-08-19T11:10:31.927Z",
-      "action": "updated BADULLA showroom (visited: Yes)"
     }
   ]
 }
