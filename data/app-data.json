@@ -22539,6 +22539,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "17:32:39",
       "lastUpdated": "2026-08-19T12:02:39.325Z"
+    },
+    "SB-DTYPE||DERANIYAGALA": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "17:32:55",
+      "lastUpdated": "2026-08-19T12:02:55.493Z"
     }
   },
   "showroomVisits": {
@@ -23187,6 +23194,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "17:32:55",
+      "iso": "2026-08-19T12:02:55.502Z",
+      "action": "updated remark for SB-DTYPE at DERANIYAGALA: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "17:32:39",
       "iso": "2026-08-19T12:02:39.331Z",
       "action": "updated remark for SIN-K13 at DERANIYAGALA: “80%”"
@@ -23526,13 +23540,6 @@
       "time": "17:10:27",
       "iso": "2026-08-19T11:40:27.367Z",
       "action": "updated GALLE B showroom (visitDate: 2026-08-18)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-19",
-      "time": "17:10:22",
-      "iso": "2026-08-19T11:40:22.423Z",
-      "action": "updated GALLE B showroom (visited: Yes)"
     }
   ]
 }
