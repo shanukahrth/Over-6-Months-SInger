@@ -18150,6 +18150,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "12:11:31",
       "lastUpdated": "2026-08-19T06:41:31.572Z"
+    },
+    "AS-13G-I3-512GB-3851-SIL||KURUWITA": {
+      "remark": "Software issue",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-19",
+      "commentTime": "12:13:07",
+      "lastUpdated": "2026-08-19T06:43:07.298Z"
     }
   },
   "showroomVisits": {
@@ -18558,6 +18565,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-19",
+      "time": "12:13:07",
+      "iso": "2026-08-19T06:43:07.300Z",
+      "action": "updated remark for AS-13G-I3-512GB-3851-SIL at KURUWITA: “Software issue”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-19",
       "time": "12:11:31",
       "iso": "2026-08-19T06:41:31.586Z",
       "action": "updated remark for BY-ST-26SS at KURUWITA: “30%”"
@@ -18897,13 +18911,6 @@
       "time": "11:58:52",
       "iso": "2026-08-19T06:28:52.803Z",
       "action": "updated remark for LF-OPENSR-CKT-S at HEMMATHAGAMA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "11:58:43",
-      "iso": "2026-08-19T06:28:43.937Z",
-      "action": "updated remark for SIN-DEC-DCWL at HEMMATHAGAMA: “50% - Damaged”"
     }
   ]
 }
