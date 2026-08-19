@@ -19333,6 +19333,13 @@
       "commentDate": "2026-08-19",
       "commentTime": "13:57:55",
       "lastUpdated": "2026-08-19T08:27:55.656Z"
+    },
+    "SAS24TCNR||PERADENIYA": {
+      "remark": "MOP- 1,40,000/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-19",
+      "commentTime": "13:59:00",
+      "lastUpdated": "2026-08-19T08:29:00.319Z"
     }
   },
   "showroomVisits": {
@@ -19741,6 +19748,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-19",
+      "time": "13:59:00",
+      "iso": "2026-08-19T08:29:00.320Z",
+      "action": "updated remark for SAS24TCNR at PERADENIYA: “MOP- 1,40,000/=”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-19",
       "time": "13:57:55",
       "iso": "2026-08-19T08:27:55.657Z",
       "action": "updated remark for PN-CS-XU18XKYW-8 at PERADENIYA: “50%”"
@@ -20080,13 +20094,6 @@
       "time": "13:46:04",
       "iso": "2026-08-19T08:16:04.163Z",
       "action": "updated remark for PN-NR-BK418BQKX at KANDY: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "13:45:57",
-      "iso": "2026-08-19T08:15:57.953Z",
-      "action": "updated remark for H-HRSN9552DDXKH at KANDY: “20%”"
     }
   ]
 }
