@@ -30351,6 +30351,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:02:01",
       "lastUpdated": "2026-08-20T06:32:01.806Z"
+    },
+    "LF-OX-BR-M-S||JA-ELA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:02:18",
+      "lastUpdated": "2026-08-20T06:32:18.969Z"
     }
   },
   "showroomVisits": {
@@ -31095,6 +31102,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "12:02:18",
+      "iso": "2026-08-20T06:32:18.970Z",
+      "action": "updated remark for LF-OX-BR-M-S at JA-ELA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "12:02:01",
       "iso": "2026-08-20T06:32:01.808Z",
       "action": "updated remark for TF-GS-SPKT302 at JA-ELA: “15%”"
@@ -31434,13 +31448,6 @@
       "time": "11:44:22",
       "iso": "2026-08-20T06:14:22.844Z",
       "action": "updated remark for SLE40D600A at KATUGASTOTA - B: “Damaged- 60%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:44:06",
-      "iso": "2026-08-20T06:14:06.010Z",
-      "action": "updated remark for SKY55Q6700G at KATUGASTOTA - B: “Flood effect”"
     }
   ]
 }
