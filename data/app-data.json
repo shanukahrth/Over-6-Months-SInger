@@ -29098,6 +29098,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:59:14",
       "lastUpdated": "2026-08-20T05:29:14.117Z"
+    },
+    "SN-SMI-285||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:59:19",
+      "lastUpdated": "2026-08-20T05:29:19.514Z"
+    },
+    "AES-HAV-30S||KATUGASTOTA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:59:43",
+      "lastUpdated": "2026-08-20T05:29:43.115Z"
+    },
+    "APS-300KG||KATUGASTOTA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:59:46",
+      "lastUpdated": "2026-08-20T05:29:46.130Z"
     }
   },
   "showroomVisits": {
@@ -29832,6 +29853,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:59:46",
+      "iso": "2026-08-20T05:29:46.131Z",
+      "action": "updated remark for APS-300KG at KATUGASTOTA: “Saleable existing price”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:59:43",
+      "iso": "2026-08-20T05:29:43.116Z",
+      "action": "updated remark for AES-HAV-30S at KATUGASTOTA: “Saleable existing price”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:59:19",
+      "iso": "2026-08-20T05:29:19.515Z",
+      "action": "updated remark for SN-SMI-285 at KATUGASTOTA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:59:14",
@@ -30159,27 +30201,6 @@
       "time": "10:52:29",
       "iso": "2026-08-20T05:22:29.695Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at VALAICHENAI: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:52:18",
-      "iso": "2026-08-20T05:22:18.762Z",
-      "action": "updated remark for PCP50 at VALAICHENAI: “75% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:52:02",
-      "iso": "2026-08-20T05:22:02.812Z",
-      "action": "updated remark for TF-SI-EXS1230 at VALAICHENAI: “15% Discount”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:52:07",
-      "iso": "2026-08-20T05:22:07.666Z",
-      "action": "updated remark for SMG-A36-5G-8-128-BLK at KATUGASTOTA: “25%”"
     }
   ]
 }
