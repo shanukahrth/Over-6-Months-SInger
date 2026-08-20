@@ -27894,6 +27894,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:22:26",
       "lastUpdated": "2026-08-20T04:52:26.962Z"
+    },
+    "WF-JUPITER-05-S||KATUGASTOTA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:22:42",
+      "lastUpdated": "2026-08-20T04:52:42.797Z"
     }
   },
   "showroomVisits": {
@@ -28628,6 +28635,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:22:42",
+      "iso": "2026-08-20T04:52:42.798Z",
+      "action": "updated remark for WF-JUPITER-05-S at KATUGASTOTA: “70%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "10:22:26",
@@ -28969,13 +28983,6 @@
       "time": "10:11:53",
       "iso": "2026-08-20T04:41:53.477Z",
       "action": "updated remark for B-CFB9433X at KATUGASTOTA: “36%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:11:32",
-      "iso": "2026-08-20T04:41:32.484Z",
-      "action": "updated remark for SPAS81BT at KATUGASTOTA: “Reverted”"
     }
   ]
 }
