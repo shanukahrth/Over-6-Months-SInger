@@ -30337,6 +30337,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:59:46",
       "lastUpdated": "2026-08-20T06:29:46.672Z"
+    },
+    "TF-IGP26-119||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:00:18",
+      "lastUpdated": "2026-08-20T06:30:18.682Z"
     }
   },
   "showroomVisits": {
@@ -31081,6 +31088,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "12:00:18",
+      "iso": "2026-08-20T06:30:18.683Z",
+      "action": "updated remark for TF-IGP26-119 at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:59:46",
       "iso": "2026-08-20T06:29:46.672Z",
       "action": "updated remark for ZTE-A35E-2-32GB-GRY at JA-ELA: “Unboxed - 15%”"
@@ -31420,13 +31434,6 @@
       "time": "11:43:04",
       "iso": "2026-08-20T06:13:04.698Z",
       "action": "updated remark for PM-COMP-8 at KATUGASTOTA - B: “Shop use”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:42:54",
-      "iso": "2026-08-20T06:12:54.437Z",
-      "action": "updated remark for NEXT-K9-85 at KATUGASTOTA - B: “Shop use”"
     }
   ]
 }
