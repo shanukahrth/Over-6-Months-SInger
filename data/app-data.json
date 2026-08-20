@@ -32177,7 +32177,7 @@
     "MATALE - B||MATALE": {
       "visited": "Yes",
       "visitDate": "2026-08-17",
-      "team": "Digital",
+      "team": "Wayamba Team",
       "remark": "",
       "updatedBy": "Mihini Perera",
       "updatedDate": "2026-08-20"
@@ -32192,6 +32192,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:28:36",
+      "iso": "2026-08-20T10:58:36.966Z",
+      "action": "updated MATALE - B showroom (team: Wayamba Team)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-20",
@@ -32534,13 +32541,6 @@
       "time": "13:56:04",
       "iso": "2026-08-20T08:26:04.147Z",
       "action": "updated remark for HU-SE2-FREEBUD-WHT at PELIYAGODA: “No discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:55:44",
-      "iso": "2026-08-20T08:25:44.142Z",
-      "action": "updated remark for HON-X9CSMART-12-256-BLK at PELIYAGODA: “15%-Display”"
     }
   ]
 }
