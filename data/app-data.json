@@ -30785,6 +30785,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:28:20",
       "lastUpdated": "2026-08-20T06:58:20.027Z"
+    },
+    "WF-DOC-H014-MR-S||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:28:23",
+      "lastUpdated": "2026-08-20T06:58:23.716Z"
     }
   },
   "showroomVisits": {
@@ -31527,6 +31534,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:28:23",
+      "iso": "2026-08-20T06:58:23.718Z",
+      "action": "updated remark for WF-DOC-H014-MR-S at BATTICALOA: “50% Discount”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "12:28:20",
@@ -31868,13 +31882,6 @@
       "time": "12:14:17",
       "iso": "2026-08-20T06:44:17.060Z",
       "action": "updated remark for KLV-40W652D at BATTICALOA: “50% Discount Ex BMs  stock”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:13:34",
-      "iso": "2026-08-20T06:43:34.448Z",
-      "action": "updated remark for KLV-40W652D at BATTICALOA: “50% Discount”"
     }
   ]
 }
