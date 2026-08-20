@@ -29504,6 +29504,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:19:01",
       "lastUpdated": "2026-08-20T05:49:01.858Z"
+    },
+    "WG-FAN-BXS||KATUGASTOTA - B": {
+      "remark": "Damaged- 80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:19:31",
+      "lastUpdated": "2026-08-20T05:49:31.009Z"
     }
   },
   "showroomVisits": {
@@ -30240,6 +30247,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:19:31",
+      "iso": "2026-08-20T05:49:31.009Z",
+      "action": "updated remark for WG-FAN-BXS at KATUGASTOTA - B: “Damaged- 80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:19:01",
       "iso": "2026-08-20T05:49:01.859Z",
       "action": "updated remark for SL-TF313 at KATUGASTOTA - B: “50%”"
@@ -30579,13 +30593,6 @@
       "time": "11:00:42",
       "iso": "2026-08-20T05:30:42.570Z",
       "action": "updated remark for SLE32E910 at JA-ELA: “exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:00:18",
-      "iso": "2026-08-20T05:30:18.527Z",
-      "action": "updated remark for WFI-MARCY-CHR-S at JA-ELA: “50%”"
     }
   ]
 }
