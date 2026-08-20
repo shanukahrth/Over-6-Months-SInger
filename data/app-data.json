@@ -32133,6 +32133,14 @@
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
+    },
+    "KURUNEGALA - D||KURUNEGALA": {
+      "visited": "No",
+      "visitDate": "2026-08-17",
+      "team": "Wayamba Team",
+      "remark": "",
+      "updatedBy": "Mihini Perera",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {
@@ -32144,6 +32152,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:26:31",
+      "iso": "2026-08-20T10:56:31.005Z",
+      "action": "updated KURUNEGALA - D showroom (team: Wayamba Team)"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:26:22",
+      "iso": "2026-08-20T10:56:22.122Z",
+      "action": "updated KURUNEGALA - D showroom (visitDate: 2026-08-17)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-20",
@@ -32479,20 +32501,6 @@
       "time": "13:46:11",
       "iso": "2026-08-20T08:16:11.724Z",
       "action": "updated remark for SLE40E810C at PELIYAGODA: “SHORTAGE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:41:43",
-      "iso": "2026-08-20T08:11:43.334Z",
-      "action": "updated remark for SLE32E910 at PELIYAGODA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:41:21",
-      "iso": "2026-08-20T08:11:21.980Z",
-      "action": "updated remark for SIN-NOTE-W10 at PELIYAGODA: “0%”"
     }
   ]
 }
