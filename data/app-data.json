@@ -27875,11 +27875,11 @@
       "lastUpdated": "2026-08-20T04:52:29.025Z"
     },
     "SRS-XV800||JA-ELA": {
-      "remark": "30%-Display",
+      "remark": "25%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-20",
-      "commentTime": "10:22:23",
-      "lastUpdated": "2026-08-20T04:52:23.091Z"
+      "commentTime": "10:23:02",
+      "lastUpdated": "2026-08-20T04:53:02.460Z"
     },
     "PN-SC-BMAX10E-K||WATTALA": {
       "remark": "40%",
@@ -27922,6 +27922,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:23:11",
       "lastUpdated": "2026-08-20T04:53:11.091Z"
+    },
+    "PN-CS-XU12XKYW-8||JA-ELA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:23:21",
+      "lastUpdated": "2026-08-20T04:53:21.464Z"
     }
   },
   "showroomVisits": {
@@ -28656,6 +28663,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:23:21",
+      "iso": "2026-08-20T04:53:21.467Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at JA-ELA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:23:02",
+      "iso": "2026-08-20T04:53:02.461Z",
+      "action": "updated remark for SRS-XV800 at JA-ELA: “25%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:23:11",
@@ -28990,20 +29011,6 @@
       "time": "10:13:04",
       "iso": "2026-08-20T04:43:04.413Z",
       "action": "updated remark for BC-KNP-AG at KATUGASTOTA: “40%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:12:55",
-      "iso": "2026-08-20T04:42:55.370Z",
-      "action": "updated remark for SBI-60M19-T at KATUGASTOTA: “20%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:12:43",
-      "iso": "2026-08-20T04:42:43.155Z",
-      "action": "updated remark for B-HII64200MT at KATUGASTOTA: “34%”"
     }
   ]
 }
