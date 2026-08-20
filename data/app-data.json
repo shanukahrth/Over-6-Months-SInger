@@ -29427,6 +29427,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:15:33",
       "lastUpdated": "2026-08-20T05:45:33.568Z"
+    },
+    "SAS-18V-INV||BATTICALOA": {
+      "remark": "80%",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:15:58",
+      "lastUpdated": "2026-08-20T05:45:58.049Z"
     }
   },
   "showroomVisits": {
@@ -30163,6 +30170,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "11:15:58",
+      "iso": "2026-08-20T05:45:58.051Z",
+      "action": "updated remark for SAS-18V-INV at BATTICALOA: “80%”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "11:15:33",
       "iso": "2026-08-20T05:45:33.569Z",
       "action": "updated remark for PN-CS-XU18XKYW-8 at BATTICALOA: “60% Discount”"
@@ -30502,13 +30516,6 @@
       "time": "10:59:19",
       "iso": "2026-08-20T05:29:19.515Z",
       "action": "updated remark for SN-SMI-285 at KATUGASTOTA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:59:14",
-      "iso": "2026-08-20T05:29:14.119Z",
-      "action": "updated remark for KN-MG510 at JA-ELA: “Discount already provided”"
     }
   ]
 }
