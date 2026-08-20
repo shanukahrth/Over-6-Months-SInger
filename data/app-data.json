@@ -26242,6 +26242,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:25:02",
       "lastUpdated": "2026-08-20T03:55:02.618Z"
+    },
+    "TF-FX100015||PERADENIYA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:25:15",
+      "lastUpdated": "2026-08-20T03:55:15.402Z"
     }
   },
   "showroomVisits": {
@@ -26978,6 +26985,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "09:25:15",
+      "iso": "2026-08-20T03:55:15.403Z",
+      "action": "updated remark for TF-FX100015 at PERADENIYA: “80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "09:25:02",
       "iso": "2026-08-20T03:55:02.620Z",
       "action": "updated remark for MID-MJ-KM6001W at PERADENIYA: “Saleable existing price”"
@@ -27317,13 +27331,6 @@
       "time": "09:04:26",
       "iso": "2026-08-20T03:34:26.564Z",
       "action": "updated remark for DELL3501-11G-I3W10-BLU at MATARA-A: “Report for 10,000”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-20",
-      "time": "09:04:01",
-      "iso": "2026-08-20T03:34:01.655Z",
-      "action": "updated remark for AS-14G-I7-512GB-7651-SIL at MATARA-A: “Sold out”"
     }
   ]
 }
