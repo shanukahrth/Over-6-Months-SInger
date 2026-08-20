@@ -29932,13 +29932,6 @@
       "commentTime": "11:38:06",
       "lastUpdated": "2026-08-20T06:08:06.874Z"
     },
-    "GEO-182S-SV||KATUGASTOTA - B": {
-      "remark": "Sold",
-      "commentedBy": "Kaveesha Sathsarani",
-      "commentDate": "2026-08-20",
-      "commentTime": "11:38:38",
-      "lastUpdated": "2026-08-20T06:08:38.506Z"
-    },
     "GEO-242D-SV||KATUGASTOTA - B": {
       "remark": "25%",
       "commentedBy": "Kaveesha Sathsarani",
@@ -30681,6 +30674,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:39:03",
+      "iso": "2026-08-20T06:09:03.748Z",
+      "action": "updated remark for GEO-182S-SV at KATUGASTOTA - B (cleared)"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:39:00",
       "iso": "2026-08-20T06:09:00.748Z",
       "action": "updated remark for GEO-242D-SV at KATUGASTOTA - B: “25%”"
@@ -31020,13 +31020,6 @@
       "time": "11:26:08",
       "iso": "2026-08-20T05:56:08.299Z",
       "action": "updated remark for SIS277CU at KATUGASTOTA - B: “40%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:25:51",
-      "iso": "2026-08-20T05:55:51.035Z",
-      "action": "updated remark for PN-DH-3JL2WH at KATUGASTOTA - B: “Flood effect”"
     }
   ]
 }
