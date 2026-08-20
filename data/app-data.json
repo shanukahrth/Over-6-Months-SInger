@@ -26507,9 +26507,39 @@
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-20"
+    },
+    "HOMAGAMA||MAHARAGAMA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-20"
+    },
+    "HOMAGAMA - B||MAHARAGAMA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-20"
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:27:29",
+      "iso": "2026-08-20T02:57:29.013Z",
+      "action": "updated HOMAGAMA - B showroom (visited: Yes)"
+    },
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:27:27",
+      "iso": "2026-08-20T02:57:27.364Z",
+      "action": "updated HOMAGAMA showroom (visited: Yes)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26845,20 +26875,6 @@
       "time": "18:56:23",
       "iso": "2026-08-19T13:26:23.326Z",
       "action": "updated remark for SMGRT34B4542S8 at PILIMATHALAWA: “MOP - 160,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:56:18",
-      "iso": "2026-08-19T13:26:18.516Z",
-      "action": "updated remark for SMGRT30K3322S8 at PILIMATHALAWA: “MOP - 150,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:56:11",
-      "iso": "2026-08-19T13:26:11.146Z",
-      "action": "updated remark for SL-ECO55-SV at PILIMATHALAWA: “25%”"
     }
   ]
 }
