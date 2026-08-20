@@ -29763,6 +29763,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:30:39",
       "lastUpdated": "2026-08-20T06:00:39.282Z"
+    },
+    "SISIL-RC150||KATUGASTOTA - B": {
+      "remark": "To be dropped",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:30:58",
+      "lastUpdated": "2026-08-20T06:00:58.531Z"
     }
   },
   "showroomVisits": {
@@ -30499,6 +30506,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:30:58",
+      "iso": "2026-08-20T06:00:58.532Z",
+      "action": "updated remark for SISIL-RC150 at KATUGASTOTA - B: “To be dropped”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:30:39",
       "iso": "2026-08-20T06:00:39.284Z",
       "action": "updated remark for PCP75-SS at KATUGASTOTA - B: “30%”"
@@ -30838,13 +30852,6 @@
       "time": "11:16:41",
       "iso": "2026-08-20T05:46:41.348Z",
       "action": "updated remark for SIN-PSVX938N at KATUGASTOTA - B: “MOP- 18,500/=”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "11:16:32",
-      "iso": "2026-08-20T05:46:32.257Z",
-      "action": "updated remark for WP-NSP-SG-S at BATTICALOA: “X - BM Stock -”"
     }
   ]
 }
