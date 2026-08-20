@@ -30092,6 +30092,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:44:53",
       "lastUpdated": "2026-08-20T06:14:53.946Z"
+    },
+    "SLE32E930||KATUGASTOTA - B": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:45:03",
+      "lastUpdated": "2026-08-20T06:15:03.571Z"
     }
   },
   "showroomVisits": {
@@ -30828,6 +30835,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:45:03",
+      "iso": "2026-08-20T06:15:03.573Z",
+      "action": "updated remark for SLE32E930 at KATUGASTOTA - B: “70%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:44:53",
       "iso": "2026-08-20T06:14:53.947Z",
       "action": "updated remark for SLE32D2010TC at KATUGASTOTA - B: “Damaged -70%”"
@@ -31167,13 +31181,6 @@
       "time": "11:33:15",
       "iso": "2026-08-20T06:03:15.052Z",
       "action": "updated remark for RIYLTA-MF12V51A at KATUGASTOTA - B: “Mail- Brand Manager (Setting off)”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:33:13",
-      "iso": "2026-08-20T06:03:13.171Z",
-      "action": "updated remark for RIYLTA-MF12V4 at KATUGASTOTA - B: “Mail- Brand Manager (Setting off)”"
     }
   ]
 }
