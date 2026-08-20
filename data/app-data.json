@@ -27859,6 +27859,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:21:52",
       "lastUpdated": "2026-08-20T04:51:52.404Z"
+    },
+    "WF-CAMELIA-DTO-S||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:22:14",
+      "lastUpdated": "2026-08-20T04:52:14.952Z"
     }
   },
   "showroomVisits": {
@@ -28593,6 +28600,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:22:14",
+      "iso": "2026-08-20T04:52:14.953Z",
+      "action": "updated remark for WF-CAMELIA-DTO-S at KATUGASTOTA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:21:52",
@@ -28934,13 +28948,6 @@
       "time": "10:10:30",
       "iso": "2026-08-20T04:40:30.031Z",
       "action": "updated remark for MHC-M40D at KATUGASTOTA: “Damaged- 70%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:09:54",
-      "iso": "2026-08-20T04:39:54.514Z",
-      "action": "updated remark for SL-ECO192-TG at VALAICHENAI: “25% Discount”"
     }
   ]
 }
