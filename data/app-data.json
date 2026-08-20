@@ -29154,6 +29154,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:00:51",
       "lastUpdated": "2026-08-20T05:30:51.387Z"
+    },
+    "MC984-HO||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:01:11",
+      "lastUpdated": "2026-08-20T05:31:11.009Z"
     }
   },
   "showroomVisits": {
@@ -29890,6 +29897,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:01:11",
+      "iso": "2026-08-20T05:31:11.011Z",
+      "action": "updated remark for MC984-HO at KATUGASTOTA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:00:51",
       "iso": "2026-08-20T05:30:51.388Z",
       "action": "updated remark for MC8280 at KATUGASTOTA: “50%”"
@@ -30229,13 +30243,6 @@
       "time": "10:52:32",
       "iso": "2026-08-20T05:22:32.379Z",
       "action": "updated remark for B-CFB9433XH at JA-ELA: “32000 discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:52:16",
-      "iso": "2026-08-20T05:22:16.370Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at JA-ELA: “Unboxed - 15%”"
     }
   ]
 }
