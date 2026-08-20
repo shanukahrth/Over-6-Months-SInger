@@ -30148,6 +30148,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:45:42",
       "lastUpdated": "2026-08-20T06:15:42.421Z"
+    },
+    "ULED32D60A||KATUGASTOTA - B": {
+      "remark": "MOP- 25,000/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:46:05",
+      "lastUpdated": "2026-08-20T06:16:05.346Z"
     }
   },
   "showroomVisits": {
@@ -30882,6 +30889,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "11:46:05",
+      "iso": "2026-08-20T06:16:05.348Z",
+      "action": "updated remark for ULED32D60A at KATUGASTOTA - B: “MOP- 25,000/=”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "11:45:42",
@@ -31223,13 +31237,6 @@
       "time": "11:35:34",
       "iso": "2026-08-20T06:05:34.043Z",
       "action": "updated remark for SMG-A36-5G-8-128-BLK at KATUGASTOTA - B: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:34:46",
-      "iso": "2026-08-20T06:04:46.130Z",
-      "action": "updated remark for SMG-A36-5G-12-256-BLK at KATUGASTOTA - B: “70%”"
     }
   ]
 }
