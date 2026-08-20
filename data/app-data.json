@@ -26403,6 +26403,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:29:45",
       "lastUpdated": "2026-08-20T03:59:45.347Z"
+    },
+    "TF-NIDFP24-170||JA ELA - B": {
+      "remark": "Already discount offered",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:30:24",
+      "lastUpdated": "2026-08-20T04:00:24.898Z"
     }
   },
   "showroomVisits": {
@@ -27137,6 +27144,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:30:24",
+      "iso": "2026-08-20T04:00:24.900Z",
+      "action": "updated remark for TF-NIDFP24-170 at JA ELA - B: “Already discount offered”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:29:45",
@@ -27478,13 +27492,6 @@
       "time": "09:17:51",
       "iso": "2026-08-20T03:47:51.179Z",
       "action": "updated remark for G-SP-900 at PERADENIYA: “Reverted”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "09:17:18",
-      "iso": "2026-08-20T03:47:18.158Z",
-      "action": "updated remark for LF-OX-BR-M-S at KIRIBATHGODA B: “50%”"
     }
   ]
 }
