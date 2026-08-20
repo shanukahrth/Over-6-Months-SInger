@@ -30897,6 +30897,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:31:42",
       "lastUpdated": "2026-08-20T07:01:42.849Z"
+    },
+    "BES-CRS-51||PELIYAGODA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:31:59",
+      "lastUpdated": "2026-08-20T07:01:59.224Z"
     }
   },
   "showroomVisits": {
@@ -31639,6 +31646,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "12:31:59",
+      "iso": "2026-08-20T07:01:59.225Z",
+      "action": "updated remark for BES-CRS-51 at PELIYAGODA: “10%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "12:31:42",
@@ -31980,13 +31994,6 @@
       "time": "12:20:59",
       "iso": "2026-08-20T06:50:59.300Z",
       "action": "updated remark for M-FDE71CNVX-S at PELIYAGODA: “25%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:21:12",
-      "iso": "2026-08-20T06:51:12.834Z",
-      "action": "updated remark for WP-CHTW-075-S at BATTICALOA: “70% Discount”"
     }
   ]
 }
