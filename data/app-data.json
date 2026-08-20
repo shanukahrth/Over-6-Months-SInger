@@ -26477,7 +26477,7 @@
       "updatedDate": "2026-08-20"
     },
     "KOTTAWA||MAHARAGAMA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-13",
       "team": "Metro team",
       "remark": "",
@@ -26485,7 +26485,7 @@
       "updatedDate": "2026-08-20"
     },
     "MEGA -KOTTAWA||MEGA SOUTH ZONE-": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-13",
       "team": "Metro Team",
       "remark": "",
@@ -26526,6 +26526,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:30:42",
+      "iso": "2026-08-20T03:00:42.477Z",
+      "action": "updated KOTTAWA showroom (visited: Yes)"
+    },
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:30:41",
+      "iso": "2026-08-20T03:00:41.061Z",
+      "action": "updated MEGA -KOTTAWA showroom (visited: Yes)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26861,20 +26875,6 @@
       "time": "18:57:31",
       "iso": "2026-08-19T13:27:31.748Z",
       "action": "updated remark for V-MP-802-PG2 at PILIMATHALAWA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:57:28",
-      "iso": "2026-08-19T13:27:28.943Z",
-      "action": "updated remark for V-MC-303-PG2 at PILIMATHALAWA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:57:23",
-      "iso": "2026-08-19T13:27:23.943Z",
-      "action": "updated remark for V-KF-234-PG2 at PILIMATHALAWA: “Unsellable”"
     }
   ]
 }
