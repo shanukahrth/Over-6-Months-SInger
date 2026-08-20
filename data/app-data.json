@@ -29266,6 +29266,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:05:21",
       "lastUpdated": "2026-08-20T05:35:21.296Z"
+    },
+    "SLE40E810C||KATUGASTOTA": {
+      "remark": "Damaged - Unsaleable",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:06:01",
+      "lastUpdated": "2026-08-20T05:36:01.649Z"
     }
   },
   "showroomVisits": {
@@ -30002,6 +30009,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:06:01",
+      "iso": "2026-08-20T05:36:01.650Z",
+      "action": "updated remark for SLE40E810C at KATUGASTOTA: “Damaged - Unsaleable”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:05:21",
       "iso": "2026-08-20T05:35:21.297Z",
       "action": "updated remark for SLE40D600A at KATUGASTOTA: “60%”"
@@ -30341,13 +30355,6 @@
       "time": "10:55:01",
       "iso": "2026-08-20T05:25:01.651Z",
       "action": "updated remark for GEO-182S at KATUGASTOTA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:54:33",
-      "iso": "2026-08-20T05:24:33.756Z",
-      "action": "updated remark for HON-BUDS-X6 at KATUGASTOTA: “15% - Budget shop transfer”"
     }
   ]
 }
