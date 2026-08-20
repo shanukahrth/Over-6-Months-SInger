@@ -28223,6 +28223,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:37:59",
       "lastUpdated": "2026-08-20T05:07:59.063Z"
+    },
+    "SWH-SLIM228E||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:37:55",
+      "lastUpdated": "2026-08-20T05:07:55.498Z"
+    },
+    "SED-2432A||KATUGASTOTA": {
+      "remark": "Damaged- 40%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:38:16",
+      "lastUpdated": "2026-08-20T05:08:16.602Z"
     }
   },
   "showroomVisits": {
@@ -28957,6 +28971,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:38:16",
+      "iso": "2026-08-20T05:08:16.603Z",
+      "action": "updated remark for SED-2432A at KATUGASTOTA: “Damaged- 40%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:37:55",
+      "iso": "2026-08-20T05:07:55.499Z",
+      "action": "updated remark for SWH-SLIM228E at KATUGASTOTA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:37:59",
@@ -29291,20 +29319,6 @@
       "time": "10:23:02",
       "iso": "2026-08-20T04:53:02.461Z",
       "action": "updated remark for SRS-XV800 at JA-ELA: “25%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:23:11",
-      "iso": "2026-08-20T04:53:11.093Z",
-      "action": "updated remark for WF-CLAYTON-TBL-S at KATUGASTOTA: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:23:01",
-      "iso": "2026-08-20T04:53:01.869Z",
-      "action": "updated remark for WF-CLAYTON-CHR-S at KATUGASTOTA: “70%”"
     }
   ]
 }
