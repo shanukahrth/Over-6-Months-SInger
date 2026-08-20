@@ -29343,6 +29343,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:11:54",
       "lastUpdated": "2026-08-20T05:41:54.721Z"
+    },
+    "MC8280||JA-ELA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:11:59",
+      "lastUpdated": "2026-08-20T05:41:59.776Z"
     }
   },
   "showroomVisits": {
@@ -30077,6 +30084,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:11:59",
+      "iso": "2026-08-20T05:41:59.778Z",
+      "action": "updated remark for MC8280 at JA-ELA: “50%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "11:11:54",
@@ -30418,13 +30432,6 @@
       "time": "10:57:23",
       "iso": "2026-08-20T05:27:23.939Z",
       "action": "updated remark for GEO-SM-255D at KATUGASTOTA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:57:11",
-      "iso": "2026-08-20T05:27:11.932Z",
-      "action": "updated remark for GEO-260NF at KATUGASTOTA: “80%”"
     }
   ]
 }
