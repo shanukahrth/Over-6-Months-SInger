@@ -27145,6 +27145,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:53:09",
       "lastUpdated": "2026-08-20T04:23:09.841Z"
+    },
+    "SLE50H4000||JA ELA - B": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:53:17",
+      "lastUpdated": "2026-08-20T04:23:17.281Z"
     }
   },
   "showroomVisits": {
@@ -27879,6 +27886,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:53:17",
+      "iso": "2026-08-20T04:23:17.283Z",
+      "action": "updated remark for SLE50H4000 at JA ELA - B: “60%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:53:09",
@@ -28220,13 +28234,6 @@
       "time": "09:44:20",
       "iso": "2026-08-20T04:14:20.721Z",
       "action": "updated remark for LF-13753-S at KIRIBATHGODA B: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "09:43:05",
-      "iso": "2026-08-20T04:13:05.140Z",
-      "action": "updated remark for WF-CF-75X48-S at KIRIBATHGODA B: “50%”"
     }
   ]
 }
