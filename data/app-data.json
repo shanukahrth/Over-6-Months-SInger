@@ -30372,6 +30372,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:02:49",
       "lastUpdated": "2026-08-20T06:32:49.903Z"
+    },
+    "SL-PB-426||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:03:19",
+      "lastUpdated": "2026-08-20T06:33:19.230Z"
     }
   },
   "showroomVisits": {
@@ -31116,6 +31123,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "12:03:19",
+      "iso": "2026-08-20T06:33:19.231Z",
+      "action": "updated remark for SL-PB-426 at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "12:02:49",
       "iso": "2026-08-20T06:32:49.904Z",
       "action": "updated remark for TF-SP16-063 at JA-ELA: “Discount already provided”"
@@ -31455,13 +31469,6 @@
       "time": "11:45:03",
       "iso": "2026-08-20T06:15:03.573Z",
       "action": "updated remark for SLE32E930 at KATUGASTOTA - B: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:44:53",
-      "iso": "2026-08-20T06:14:53.947Z",
-      "action": "updated remark for SLE32D2010TC at KATUGASTOTA - B: “Damaged -70%”"
     }
   ]
 }
