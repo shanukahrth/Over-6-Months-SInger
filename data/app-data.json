@@ -27530,6 +27530,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:09:43",
       "lastUpdated": "2026-08-20T04:39:43.636Z"
+    },
+    "AC-TEMP-NOVA-2I||KATUGASTOTA": {
+      "remark": "To be dropped",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:09:53",
+      "lastUpdated": "2026-08-20T04:39:53.081Z"
     }
   },
   "showroomVisits": {
@@ -28264,6 +28271,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:09:53",
+      "iso": "2026-08-20T04:39:53.082Z",
+      "action": "updated remark for AC-TEMP-NOVA-2I at KATUGASTOTA: “To be dropped”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:09:43",
@@ -28605,13 +28619,6 @@
       "time": "09:55:10",
       "iso": "2026-08-20T04:25:10.773Z",
       "action": "updated remark for PF-ENVISION-BL-S at KIRIBATHGODA B: “10%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:55:02",
-      "iso": "2026-08-20T04:25:02.387Z",
-      "action": "updated remark for ULED32D60A at PERADENIYA: “MOP- 25,000/=”"
     }
   ]
 }
