@@ -29308,6 +29308,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:07:53",
       "lastUpdated": "2026-08-20T05:37:53.345Z"
+    },
+    "TCLED32D3000||KATUGASTOTA": {
+      "remark": "Panel Damaged",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:08:13",
+      "lastUpdated": "2026-08-20T05:38:13.362Z"
     }
   },
   "showroomVisits": {
@@ -30044,6 +30051,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:08:13",
+      "iso": "2026-08-20T05:38:13.364Z",
+      "action": "updated remark for TCLED32D3000 at KATUGASTOTA: “Panel Damaged”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:07:53",
       "iso": "2026-08-20T05:37:53.345Z",
       "action": "updated remark for TCL65C655 at KATUGASTOTA: “Exchange”"
@@ -30383,13 +30397,6 @@
       "time": "10:55:35",
       "iso": "2026-08-20T05:25:35.291Z",
       "action": "updated remark for GEO-200D at KATUGASTOTA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:55:23",
-      "iso": "2026-08-20T05:25:23.644Z",
-      "action": "updated remark for GEO-182S-SV at KATUGASTOTA: “25%”"
     }
   ]
 }
