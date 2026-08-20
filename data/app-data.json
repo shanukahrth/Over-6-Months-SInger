@@ -29925,13 +29925,6 @@
       "commentTime": "11:37:38",
       "lastUpdated": "2026-08-20T06:07:38.569Z"
     },
-    "PN-NR-BG312DALK||KATUGASTOTA - B": {
-      "remark": "Exchange",
-      "commentedBy": "Kaveesha Sathsarani",
-      "commentDate": "2026-08-20",
-      "commentTime": "11:38:06",
-      "lastUpdated": "2026-08-20T06:08:06.874Z"
-    },
     "GEO-242D-SV||KATUGASTOTA - B": {
       "remark": "25%",
       "commentedBy": "Kaveesha Sathsarani",
@@ -30681,6 +30674,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:39:45",
+      "iso": "2026-08-20T06:09:45.251Z",
+      "action": "updated remark for PN-NR-BG312DALK at KATUGASTOTA - B (cleared)"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:39:14",
       "iso": "2026-08-20T06:09:14.073Z",
       "action": "updated remark for GEO-182S-SV at KATUGASTOTA - B: “Sold”"
@@ -31020,13 +31020,6 @@
       "time": "11:25:42",
       "iso": "2026-08-20T05:55:42.544Z",
       "action": "updated remark for PN-MC-CG370GS47 at JA-ELA: “30%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:26:27",
-      "iso": "2026-08-20T05:56:27.091Z",
-      "action": "updated remark for TF-GS-SPKT302 at KATUGASTOTA - B: “15%”"
     }
   ]
 }
