@@ -31035,7 +31035,7 @@
     },
     "MAHO||NIKAWARATIYA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "0002-08-18",
       "team": "",
       "remark": "",
       "updatedBy": "SHENULI",
@@ -31043,6 +31043,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "11:57:31",
+      "iso": "2026-08-20T06:27:31.095Z",
+      "action": "updated MAHO showroom (visitDate: 0002-08-18)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -31385,13 +31392,6 @@
       "time": "11:41:35",
       "iso": "2026-08-20T06:11:35.018Z",
       "action": "updated remark for SMGRT34B4542S8 at KATUGASTOTA - B: “Flood effect”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:41:19",
-      "iso": "2026-08-20T06:11:19.668Z",
-      "action": "updated remark for SMGRT28A3021GS at KATUGASTOTA - B: “Flood effect”"
     }
   ]
 }
