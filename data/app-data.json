@@ -29175,6 +29175,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:02:07",
       "lastUpdated": "2026-08-20T05:32:07.098Z"
+    },
+    "KLV-32R326E||KATUGASTOTA": {
+      "remark": "Panel Damaged",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:02:22",
+      "lastUpdated": "2026-08-20T05:32:22.274Z"
     }
   },
   "showroomVisits": {
@@ -29911,6 +29918,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:02:22",
+      "iso": "2026-08-20T05:32:22.275Z",
+      "action": "updated remark for KLV-32R326E at KATUGASTOTA: “Panel Damaged”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:02:07",
       "iso": "2026-08-20T05:32:07.100Z",
       "action": "updated remark for KLV-32R306C at KATUGASTOTA: “Panel Damaged”"
@@ -30250,13 +30264,6 @@
       "time": "10:53:20",
       "iso": "2026-08-20T05:23:20.203Z",
       "action": "updated remark for ZTE-A36-2-64GB-GRN at KATUGASTOTA: “30%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:53:11",
-      "iso": "2026-08-20T05:23:11.170Z",
-      "action": "updated remark for ZTE-A36-2-64GB-GLD at KATUGASTOTA: “30%”"
     }
   ]
 }
