@@ -29147,6 +29147,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:00:40",
       "lastUpdated": "2026-08-20T05:30:40.427Z"
+    },
+    "MC8280||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:00:51",
+      "lastUpdated": "2026-08-20T05:30:51.387Z"
     }
   },
   "showroomVisits": {
@@ -29883,6 +29890,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:00:51",
+      "iso": "2026-08-20T05:30:51.388Z",
+      "action": "updated remark for MC8280 at KATUGASTOTA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:00:40",
       "iso": "2026-08-20T05:30:40.428Z",
       "action": "updated remark for DH-I-F22FP-36B-IMOU at KATUGASTOTA: “70%”"
@@ -30222,13 +30236,6 @@
       "time": "10:52:16",
       "iso": "2026-08-20T05:22:16.370Z",
       "action": "updated remark for HON-X8C-8-512-BLK at JA-ELA: “Unboxed - 15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:51:56",
-      "iso": "2026-08-20T05:21:56.676Z",
-      "action": "updated remark for GEO-200D-BR at JA-ELA: “Obsolete - Offer flat 80%”"
     }
   ]
 }
