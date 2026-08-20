@@ -29294,6 +29294,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:07:30",
       "lastUpdated": "2026-08-20T05:37:30.792Z"
+    },
+    "SMGUA32N4010||KATUGASTOTA": {
+      "remark": "Damaged",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:07:41",
+      "lastUpdated": "2026-08-20T05:37:41.186Z"
     }
   },
   "showroomVisits": {
@@ -30030,6 +30037,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:07:41",
+      "iso": "2026-08-20T05:37:41.187Z",
+      "action": "updated remark for SMGUA32N4010 at KATUGASTOTA: “Damaged”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:07:30",
       "iso": "2026-08-20T05:37:30.793Z",
       "action": "updated remark for SMGUA32N4000 at KATUGASTOTA: “Damaged”"
@@ -30369,13 +30383,6 @@
       "time": "10:55:24",
       "iso": "2026-08-20T05:25:24.692Z",
       "action": "updated remark for SLE40D600A at JA-ELA: “50%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:55:19",
-      "iso": "2026-08-20T05:25:19.744Z",
-      "action": "updated remark for R-BWS-02 at VALAICHENAI: “70% Discount”"
     }
   ]
 }
