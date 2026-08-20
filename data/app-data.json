@@ -28034,6 +28034,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:30:33",
       "lastUpdated": "2026-08-20T05:00:33.284Z"
+    },
+    "SRS-XV500||JA-ELA": {
+      "remark": "30%-Display",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:30:47",
+      "lastUpdated": "2026-08-20T05:00:47.489Z"
     }
   },
   "showroomVisits": {
@@ -28768,6 +28775,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:30:47",
+      "iso": "2026-08-20T05:00:47.490Z",
+      "action": "updated remark for SRS-XV500 at JA-ELA: “30%-Display”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "10:30:33",
@@ -29109,13 +29123,6 @@
       "time": "10:17:32",
       "iso": "2026-08-20T04:47:32.330Z",
       "action": "updated remark for SKY75X8700G at JA-ELA: “additional 10%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:18:24",
-      "iso": "2026-08-20T04:48:24.032Z",
-      "action": "updated remark for LF-ORGN-W4A-CLM-S at KATUGASTOTA: “50%”"
     }
   ]
 }
