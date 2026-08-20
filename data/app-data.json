@@ -26455,13 +26455,20 @@
     "AVISSAWELLA - B||MAHARAGAMA": {
       "visited": "Yes",
       "visitDate": "2026-08-14",
-      "team": "",
+      "team": "Metro Team",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-20"
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:23:45",
+      "iso": "2026-08-20T02:53:45.121Z",
+      "action": "updated AVISSAWELLA - B showroom (team: Metro Team)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26804,13 +26811,6 @@
       "time": "18:54:59",
       "iso": "2026-08-19T13:24:59.322Z",
       "action": "updated remark for SMG-A06-4-128-BLK at PILIMATHALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:54:55",
-      "iso": "2026-08-19T13:24:55.279Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at PILIMATHALAWA: “50%”"
     }
   ]
 }
