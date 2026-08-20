@@ -26340,6 +26340,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:27:07",
       "lastUpdated": "2026-08-20T03:57:07.810Z"
+    },
+    "KA-PRISMA-1.2||PERADENIYA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:27:37",
+      "lastUpdated": "2026-08-20T03:57:37.120Z"
     }
   },
   "showroomVisits": {
@@ -27074,6 +27081,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:27:37",
+      "iso": "2026-08-20T03:57:37.121Z",
+      "action": "updated remark for KA-PRISMA-1.2 at PERADENIYA: “80%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:27:07",
@@ -27415,13 +27429,6 @@
       "time": "09:14:33",
       "iso": "2026-08-20T03:44:33.046Z",
       "action": "updated remark for SIN-EP170 at KIRIBATHGODA B: “Exchange”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:14:25",
-      "iso": "2026-08-20T03:44:25.012Z",
-      "action": "updated remark for WF-DOC-T009-BU-S at PERADENIYA: “Saleable existing price”"
     }
   ]
 }
