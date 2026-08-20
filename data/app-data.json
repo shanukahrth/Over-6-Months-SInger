@@ -27180,6 +27180,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:54:25",
       "lastUpdated": "2026-08-20T04:24:25.843Z"
+    },
+    "NVC990T||JA ELA - B": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:54:01",
+      "lastUpdated": "2026-08-20T04:24:01.616Z"
+    },
+    "SWM-FA70R||JA ELA - B": {
+      "remark": "50% revert",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:54:21",
+      "lastUpdated": "2026-08-20T04:24:21.832Z"
     }
   },
   "showroomVisits": {
@@ -27914,6 +27928,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:54:21",
+      "iso": "2026-08-20T04:24:21.835Z",
+      "action": "updated remark for SWM-FA70R at JA ELA - B: “50% revert”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:54:01",
+      "iso": "2026-08-20T04:24:01.619Z",
+      "action": "updated remark for NVC990T at JA ELA - B: “60%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:54:25",
@@ -28248,20 +28276,6 @@
       "time": "09:45:43",
       "iso": "2026-08-20T04:15:43.224Z",
       "action": "updated remark for SLE32D1800 at PERADENIYA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:45:26",
-      "iso": "2026-08-20T04:15:26.628Z",
-      "action": "updated remark for ALU-CPH001E-PHNE-STND at JA ELA - B: “0”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:45:28",
-      "iso": "2026-08-20T04:15:28.156Z",
-      "action": "updated remark for SKY24E2000 at PERADENIYA: “70%”"
     }
   ]
 }
