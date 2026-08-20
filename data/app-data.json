@@ -25983,6 +25983,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:10:13",
       "lastUpdated": "2026-08-20T03:40:13.660Z"
+    },
+    "SL-SF1616RC||KIRIBATHGODA B": {
+      "remark": "Exchnge-process",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:10:33",
+      "lastUpdated": "2026-08-20T03:40:33.580Z"
     }
   },
   "showroomVisits": {
@@ -26719,6 +26726,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-20",
+      "time": "09:10:33",
+      "iso": "2026-08-20T03:40:33.583Z",
+      "action": "updated remark for SL-SF1616RC at KIRIBATHGODA B: “Exchnge-process”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
       "time": "09:10:13",
       "iso": "2026-08-20T03:40:13.664Z",
       "action": "updated remark for SL-SF1607RC at KIRIBATHGODA B: “70%”"
@@ -27058,13 +27072,6 @@
       "time": "08:27:14",
       "iso": "2026-08-20T02:57:14.372Z",
       "action": "updated MORAGAHAHENA showroom (team: Metro team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:27:09",
-      "iso": "2026-08-20T02:57:09.518Z",
-      "action": "updated MORAGAHAHENA showroom (visitDate: 2026-08-14)"
     }
   ]
 }
