@@ -29261,11 +29261,11 @@
       "lastUpdated": "2026-08-20T05:34:53.313Z"
     },
     "SLE40D600A||KATUGASTOTA": {
-      "remark": "Panel Damaged",
+      "remark": "60%",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-20",
-      "commentTime": "11:05:13",
-      "lastUpdated": "2026-08-20T05:35:13.737Z"
+      "commentTime": "11:05:21",
+      "lastUpdated": "2026-08-20T05:35:21.296Z"
     }
   },
   "showroomVisits": {
@@ -30002,6 +30002,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:05:21",
+      "iso": "2026-08-20T05:35:21.297Z",
+      "action": "updated remark for SLE40D600A at KATUGASTOTA: “60%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:05:13",
       "iso": "2026-08-20T05:35:13.738Z",
       "action": "updated remark for SLE40D600A at KATUGASTOTA: “Panel Damaged”"
@@ -30341,13 +30348,6 @@
       "time": "10:54:33",
       "iso": "2026-08-20T05:24:33.756Z",
       "action": "updated remark for HON-BUDS-X6 at KATUGASTOTA: “15% - Budget shop transfer”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:54:44",
-      "iso": "2026-08-20T05:24:44.770Z",
-      "action": "updated remark for WFL-SPM-78X72X8-S at JA-ELA: “sold”"
     }
   ]
 }
