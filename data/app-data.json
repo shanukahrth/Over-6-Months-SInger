@@ -30477,6 +30477,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:13:24",
       "lastUpdated": "2026-08-20T06:43:24.720Z"
+    },
+    "KLV-40W652D||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:13:34",
+      "lastUpdated": "2026-08-20T06:43:34.446Z"
     }
   },
   "showroomVisits": {
@@ -31221,6 +31228,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:13:34",
+      "iso": "2026-08-20T06:43:34.448Z",
+      "action": "updated remark for KLV-40W652D at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:13:24",
       "iso": "2026-08-20T06:43:24.733Z",
       "action": "updated remark for BES-CRS-51 at BATTICALOA: “15% Discount”"
@@ -31560,13 +31574,6 @@
       "time": "11:47:59",
       "iso": "2026-08-20T06:17:59.308Z",
       "action": "updated remark for FAN-P-SF1605HR at JA-ELA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:47:42",
-      "iso": "2026-08-20T06:17:42.568Z",
-      "action": "updated remark for HU-MATEVIEW-SE at JA-ELA: “shop use -”"
     }
   ]
 }
