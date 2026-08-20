@@ -31044,6 +31044,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:49:13",
       "lastUpdated": "2026-08-20T07:19:13.628Z"
+    },
+    "URC-60||BATTICALOA": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:49:30",
+      "lastUpdated": "2026-08-20T07:19:30.342Z"
     }
   },
   "showroomVisits": {
@@ -31820,6 +31827,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:49:30",
+      "iso": "2026-08-20T07:19:30.343Z",
+      "action": "updated remark for URC-60 at BATTICALOA: “70% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:49:13",
       "iso": "2026-08-20T07:19:13.631Z",
       "action": "updated remark for NCPDG-SP240 at BATTICALOA: “35% Discount”"
@@ -32159,13 +32173,6 @@
       "time": "12:29:03",
       "iso": "2026-08-20T06:59:03.741Z",
       "action": "updated remark for SIN-BS30 at BATTICALOA: “Damage - 80% Discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "12:28:59",
-      "iso": "2026-08-20T06:58:59.134Z",
-      "action": "updated remark for HON-H200-12-512-BLK at PELIYAGODA: “sold”"
     }
   ]
 }
