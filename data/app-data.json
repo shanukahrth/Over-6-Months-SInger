@@ -27222,6 +27222,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:55:10",
       "lastUpdated": "2026-08-20T04:25:10.769Z"
+    },
+    "WF-BROOKLYN-BU-S||KIRIBATHGODA B": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:55:36",
+      "lastUpdated": "2026-08-20T04:25:36.690Z"
     }
   },
   "showroomVisits": {
@@ -27958,6 +27965,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-20",
+      "time": "09:55:36",
+      "iso": "2026-08-20T04:25:36.694Z",
+      "action": "updated remark for WF-BROOKLYN-BU-S at KIRIBATHGODA B: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
       "time": "09:55:10",
       "iso": "2026-08-20T04:25:10.773Z",
       "action": "updated remark for PF-ENVISION-BL-S at KIRIBATHGODA B: “10%”"
@@ -28297,13 +28311,6 @@
       "time": "09:46:11",
       "iso": "2026-08-20T04:16:11.504Z",
       "action": "updated remark for FT-FAC-20241 at JA ELA - B: “0”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "09:46:01",
-      "iso": "2026-08-20T04:16:01.291Z",
-      "action": "updated remark for LF-R90-2S-AGO-S at KIRIBATHGODA B: “50%”"
     }
   ]
 }
