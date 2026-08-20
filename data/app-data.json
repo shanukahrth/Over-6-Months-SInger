@@ -31184,6 +31184,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "13:51:39",
       "lastUpdated": "2026-08-20T08:21:39.416Z"
+    },
+    "FAN-P-1605H||PELIYAGODA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "13:52:08",
+      "lastUpdated": "2026-08-20T08:22:08.030Z"
     }
   },
   "showroomVisits": {
@@ -31960,6 +31967,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "13:52:08",
+      "iso": "2026-08-20T08:22:08.031Z",
+      "action": "updated remark for FAN-P-1605H at PELIYAGODA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "13:51:39",
       "iso": "2026-08-20T08:21:39.417Z",
       "action": "updated remark for DUM-SMGAR50F12D0J at PELIYAGODA: “Dummy”"
@@ -32299,13 +32313,6 @@
       "time": "11:04:19",
       "iso": "2026-08-20T05:34:19.713Z",
       "action": "updated MEGA - NUGEGODA B showroom (visitDate: 2026-08-20)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-20",
-      "time": "11:04:15",
-      "iso": "2026-08-20T05:34:15.672Z",
-      "action": "updated MEGA-NUGEGODA showroom (visited: Yes)"
     }
   ]
 }
