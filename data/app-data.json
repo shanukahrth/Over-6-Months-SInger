@@ -28111,6 +28111,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:34:25",
       "lastUpdated": "2026-08-20T05:04:25.611Z"
+    },
+    "PF-RTN-ARMLS-BL-S||WATTALA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:34:36",
+      "lastUpdated": "2026-08-20T05:04:36.652Z"
     }
   },
   "showroomVisits": {
@@ -28845,6 +28852,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:34:36",
+      "iso": "2026-08-20T05:04:36.653Z",
+      "action": "updated remark for PF-RTN-ARMLS-BL-S at WATTALA: “50%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:34:39",
@@ -29186,13 +29200,6 @@
       "time": "10:20:29",
       "iso": "2026-08-20T04:50:29.134Z",
       "action": "updated remark for LF-ECO-3WD-WNG-S at KATUGASTOTA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:20:25",
-      "iso": "2026-08-20T04:50:25.354Z",
-      "action": "updated remark for LF-BUDGET-ST-CRW-S at KATUGASTOTA: “50%”"
     }
   ]
 }
