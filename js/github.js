@@ -98,7 +98,7 @@ const GitHubService = (function () {
     return res.json();
   }
 
-  // Returns { sha, contentB64 } or { sha:null, contentB64:null } if file doesn't exist
+  // Returns { sha, contentB64, size } or { sha:null, contentB64:null } if file doesn't exist
   async function getFileRaw(path) {
     const cfg = getConfig();
     if (!cfg) throw new Error("GitHub is not configured yet.");
@@ -110,14 +110,35 @@ const GitHubService = (function () {
       throw new Error(`GitHub read failed for ${path} (HTTP ${res.status}). ${body}`.trim());
     }
     const json = await res.json();
-    return { sha: json.sha, contentB64: json.content };
+    return { sha: json.sha, contentB64: json.content, size: json.size };
   }
 
   async function getJson(path) {
-    const { sha, contentB64 } = await getFileRaw(path);
-    if (!contentB64) return { sha: null, data: null };
-    const text = b64DecodeToUnicodeString(contentB64);
-    return { sha, data: JSON.parse(text) };
+    const { sha, contentB64, size } = await getFileRaw(path);
+    // sha === null here specifically means a genuine 404 (file doesn't exist).
+    if (sha === null) return { sha: null, data: null };
+    let text;
+    if (contentB64) {
+      text = b64DecodeToUnicodeString(contentB64);
+    } else {
+      // The file EXISTS (we have a real sha) but GitHub's standard Contents
+      // API omits the "content" field for files over ~1MB. Fetch the raw
+      // bytes directly instead, which has a much higher size ceiling — do
+      // NOT treat this as "file doesn't exist" (that was the actual bug:
+      // it silently discarded a valid sha and made every save fail with
+      // '"sha" wasn\'t supplied' once this file grew past 1MB).
+      const cfg = getConfig();
+      const url = `${API}/repos/${cfg.owner}/${cfg.repo}/contents/${encodeURIComponent(path).replace(/%2F/g, "/")}?ref=${encodeURIComponent(cfg.branch)}&t=${Date.now()}`;
+      const res = await fetch(url, {
+        headers: { "Authorization": "Bearer " + cfg.token, "Accept": "application/vnd.github.raw" }
+      });
+      if (!res.ok) {
+        const body = await res.text().catch(() => "");
+        throw new Error(`GitHub raw read failed for ${path} (HTTP ${res.status}). ${body}`.trim());
+      }
+      text = await res.text();
+    }
+    return { sha, data: text ? JSON.parse(text) : null };
   }
 
   async function getBinary(path) {
