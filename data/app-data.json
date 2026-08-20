@@ -26046,6 +26046,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:16:24",
       "lastUpdated": "2026-08-20T03:46:24.937Z"
+    },
+    "LF-LEO-HCUP-WNG-S||KIRIBATHGODA B": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:16:21",
+      "lastUpdated": "2026-08-20T03:46:21.992Z"
     }
   },
   "showroomVisits": {
@@ -26780,6 +26787,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:16:21",
+      "iso": "2026-08-20T03:46:21.993Z",
+      "action": "updated remark for LF-LEO-HCUP-WNG-S at KIRIBATHGODA B: “50%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:16:24",
@@ -27121,13 +27135,6 @@
       "time": "08:28:25",
       "iso": "2026-08-20T02:58:25.869Z",
       "action": "updated HANWELLA showroom (visited: Yes)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:28:17",
-      "iso": "2026-08-20T02:58:17.733Z",
-      "action": "updated KOSGAMA showroom (team: Metro Team)"
     }
   ]
 }
