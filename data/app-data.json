@@ -30631,6 +30631,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:23:31",
       "lastUpdated": "2026-08-20T06:53:31.377Z"
+    },
+    "SLE43G790||BATTICALOA": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:23:33",
+      "lastUpdated": "2026-08-20T06:53:33.822Z"
+    },
+    "WF-CLASSIC-BR-S||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:23:44",
+      "lastUpdated": "2026-08-20T06:53:44.358Z"
     }
   },
   "showroomVisits": {
@@ -31373,6 +31387,20 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:23:44",
+      "iso": "2026-08-20T06:53:44.360Z",
+      "action": "updated remark for WF-CLASSIC-BR-S at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:23:33",
+      "iso": "2026-08-20T06:53:33.824Z",
+      "action": "updated remark for SLE43G790 at BATTICALOA: “70% Discount”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "12:23:31",
@@ -31707,20 +31735,6 @@
       "time": "12:02:49",
       "iso": "2026-08-20T06:32:49.904Z",
       "action": "updated remark for TF-SP16-063 at JA-ELA: “Discount already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "12:02:33",
-      "iso": "2026-08-20T06:32:33.222Z",
-      "action": "updated remark for BDV-E6100 at JA-ELA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "12:02:18",
-      "iso": "2026-08-20T06:32:18.970Z",
-      "action": "updated remark for LF-OX-BR-M-S at JA-ELA: “50%”"
     }
   ]
 }
