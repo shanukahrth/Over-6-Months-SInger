@@ -30246,6 +30246,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:48:42",
       "lastUpdated": "2026-08-20T06:18:42.207Z"
+    },
+    "SLE32D2010TC||JA-ELA": {
+      "remark": "exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:51:19",
+      "lastUpdated": "2026-08-20T06:21:19.743Z"
     }
   },
   "showroomVisits": {
@@ -30982,6 +30989,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "11:51:19",
+      "iso": "2026-08-20T06:21:19.744Z",
+      "action": "updated remark for SLE32D2010TC at JA-ELA: “exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:48:42",
       "iso": "2026-08-20T06:18:42.208Z",
       "action": "updated remark for SKY32STD1000 at JA-ELA: “exchange”"
@@ -31321,13 +31335,6 @@
       "time": "11:39:03",
       "iso": "2026-08-20T06:09:03.748Z",
       "action": "updated remark for GEO-182S-SV at KATUGASTOTA - B (cleared)"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:39:00",
-      "iso": "2026-08-20T06:09:00.748Z",
-      "action": "updated remark for GEO-242D-SV at KATUGASTOTA - B: “25%”"
     }
   ]
 }
