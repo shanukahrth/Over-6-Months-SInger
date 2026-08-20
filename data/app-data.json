@@ -26347,6 +26347,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:27:37",
       "lastUpdated": "2026-08-20T03:57:37.120Z"
+    },
+    "KA-PRISMA1.7SS||PERADENIYA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:28:27",
+      "lastUpdated": "2026-08-20T03:58:27.119Z"
+    },
+    "PCP50||PERADENIYA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:28:34",
+      "lastUpdated": "2026-08-20T03:58:34.269Z"
     }
   },
   "showroomVisits": {
@@ -27081,6 +27095,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:28:34",
+      "iso": "2026-08-20T03:58:34.270Z",
+      "action": "updated remark for PCP50 at PERADENIYA: “80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:28:27",
+      "iso": "2026-08-20T03:58:27.120Z",
+      "action": "updated remark for KA-PRISMA1.7SS at PERADENIYA: “80%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:27:59",
@@ -27415,20 +27443,6 @@
       "time": "09:16:21",
       "iso": "2026-08-20T03:46:21.993Z",
       "action": "updated remark for LF-LEO-HCUP-WNG-S at KIRIBATHGODA B: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:16:24",
-      "iso": "2026-08-20T03:46:24.938Z",
-      "action": "updated remark for WF-QUEEN-311-GR-S at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:14:48",
-      "iso": "2026-08-20T03:44:48.596Z",
-      "action": "updated remark for WF-BERLIN-ST-WW-S at PERADENIYA: “50%”"
     }
   ]
 }
