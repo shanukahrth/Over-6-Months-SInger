@@ -28629,6 +28629,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:48:45",
       "lastUpdated": "2026-08-20T05:18:45.598Z"
+    },
+    "SMGUA32N4010||JA-ELA": {
+      "remark": "panel damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:48:55",
+      "lastUpdated": "2026-08-20T05:18:55.340Z"
     }
   },
   "showroomVisits": {
@@ -29363,6 +29370,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:48:55",
+      "iso": "2026-08-20T05:18:55.341Z",
+      "action": "updated remark for SMGUA32N4010 at JA-ELA: “panel damage”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:48:45",
@@ -29704,13 +29718,6 @@
       "time": "10:41:18",
       "iso": "2026-08-20T05:11:18.707Z",
       "action": "updated remark for TF-IT30-169 at KATUGASTOTA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:41:02",
-      "iso": "2026-08-20T05:11:02.403Z",
-      "action": "updated remark for TF-IDFP24-170 at KATUGASTOTA: “50%”"
     }
   ]
 }
