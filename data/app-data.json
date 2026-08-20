@@ -27817,6 +27817,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:20:56",
       "lastUpdated": "2026-08-20T04:50:56.274Z"
+    },
+    "MB-TLG-F71-WHT||JA-ELA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:20:24",
+      "lastUpdated": "2026-08-20T04:50:24.475Z"
+    },
+    "KD-55X80J||JA-ELA": {
+      "remark": "exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:20:41",
+      "lastUpdated": "2026-08-20T04:50:41.691Z"
+    },
+    "KD-55X75K||JA-ELA": {
+      "remark": "45%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:21:03",
+      "lastUpdated": "2026-08-20T04:51:03.400Z"
     }
   },
   "showroomVisits": {
@@ -28551,6 +28572,27 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:21:03",
+      "iso": "2026-08-20T04:51:03.401Z",
+      "action": "updated remark for KD-55X75K at JA-ELA: “45%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:20:41",
+      "iso": "2026-08-20T04:50:41.692Z",
+      "action": "updated remark for KD-55X80J at JA-ELA: “exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:20:24",
+      "iso": "2026-08-20T04:50:24.476Z",
+      "action": "updated remark for MB-TLG-F71-WHT at JA-ELA: “-”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:20:56",
@@ -28878,27 +28920,6 @@
       "time": "10:09:37",
       "iso": "2026-08-20T04:39:37.131Z",
       "action": "updated remark for AVERY-150KG at VALAICHENAI: “15% Discount”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:09:43",
-      "iso": "2026-08-20T04:39:43.000Z",
-      "action": "updated remark for AC-TEMP-Y3-17 at KATUGASTOTA: “To be dropped”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:09:33",
-      "iso": "2026-08-20T04:39:33.765Z",
-      "action": "updated remark for AC-TEMP-Y5-17 at KATUGASTOTA: “To be dropped”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:08:56",
-      "iso": "2026-08-20T04:38:56.213Z",
-      "action": "updated remark for SMGAR50F12D0J at KATUGASTOTA: “30%”"
     }
   ]
 }
