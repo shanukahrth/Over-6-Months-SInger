@@ -30582,6 +30582,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:21:53",
       "lastUpdated": "2026-08-20T06:51:53.654Z"
+    },
+    "ZTE-A52020-B||BATTICALOA": {
+      "remark": "90% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:21:48",
+      "lastUpdated": "2026-08-20T06:51:48.859Z"
+    },
+    "SIN-DELTA-DC||BATTICALOA": {
+      "remark": "90% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:22:10",
+      "lastUpdated": "2026-08-20T06:52:10.804Z"
     }
   },
   "showroomVisits": {
@@ -31324,6 +31338,20 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:22:10",
+      "iso": "2026-08-20T06:52:10.805Z",
+      "action": "updated remark for SIN-DELTA-DC at BATTICALOA: “90% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:21:48",
+      "iso": "2026-08-20T06:51:48.859Z",
+      "action": "updated remark for ZTE-A52020-B at BATTICALOA: “90% Discount”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "12:21:53",
@@ -31658,20 +31686,6 @@
       "time": "12:00:18",
       "iso": "2026-08-20T06:30:18.683Z",
       "action": "updated remark for TF-IGP26-119 at JA-ELA: “Discount already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:59:46",
-      "iso": "2026-08-20T06:29:46.672Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRY at JA-ELA: “Unboxed - 15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:59:19",
-      "iso": "2026-08-20T06:29:19.838Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRN at JA-ELA: “Unboxed - 15%”"
     }
   ]
 }
