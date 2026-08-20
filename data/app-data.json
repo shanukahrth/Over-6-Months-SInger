@@ -29364,6 +29364,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:12:25",
       "lastUpdated": "2026-08-20T05:42:25.634Z"
+    },
+    "HFPA-MUSICBOX-BLC||KATUGASTOTA - B": {
+      "remark": "MOP- 30,000/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:12:44",
+      "lastUpdated": "2026-08-20T05:42:44.354Z"
+    },
+    "HFPA-MUSICBOX-SLV||KATUGASTOTA - B": {
+      "remark": "MOP- 30,000/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:12:47",
+      "lastUpdated": "2026-08-20T05:42:47.290Z"
     }
   },
   "showroomVisits": {
@@ -30098,6 +30112,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "11:12:47",
+      "iso": "2026-08-20T05:42:47.291Z",
+      "action": "updated remark for HFPA-MUSICBOX-SLV at KATUGASTOTA - B: “MOP- 30,000/=”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "11:12:44",
+      "iso": "2026-08-20T05:42:44.356Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at KATUGASTOTA - B: “MOP- 30,000/=”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "11:12:25",
@@ -30432,20 +30460,6 @@
       "time": "10:57:57",
       "iso": "2026-08-20T05:27:57.240Z",
       "action": "updated remark for TCLTB10-3-64-BLK at JA-ELA: “Damage - return to WH”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:58:00",
-      "iso": "2026-08-20T05:28:00.083Z",
-      "action": "updated remark for SL-ECO192-TG at KATUGASTOTA: “25%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:57:47",
-      "iso": "2026-08-20T05:27:47.449Z",
-      "action": "updated remark for GEO-SM-265NF at KATUGASTOTA: “Budget shop transfer”"
     }
   ]
 }
