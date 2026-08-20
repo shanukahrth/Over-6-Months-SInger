@@ -32053,10 +32053,25 @@
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
+    },
+    "CHILAW||CHILAW": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "SHENULI",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {},
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:10:38",
+      "iso": "2026-08-20T10:40:38.280Z",
+      "action": "updated CHILAW showroom (visited: Yes)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -32399,13 +32414,6 @@
       "time": "12:44:20",
       "iso": "2026-08-20T07:14:20.426Z",
       "action": "updated remark for SL-SF1607 at BATTICALOA: “60% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:44:03",
-      "iso": "2026-08-20T07:14:03.010Z",
-      "action": "updated remark for KV-4WTS7M at BATTICALOA: “50% Discount”"
     }
   ]
 }
