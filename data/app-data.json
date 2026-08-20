@@ -30526,6 +30526,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:18:27",
       "lastUpdated": "2026-08-20T06:48:27.141Z"
+    },
+    "KDL-43W660G||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:18:56",
+      "lastUpdated": "2026-08-20T06:48:56.730Z"
     }
   },
   "showroomVisits": {
@@ -31270,6 +31277,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:18:56",
+      "iso": "2026-08-20T06:48:56.732Z",
+      "action": "updated remark for KDL-43W660G at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:18:27",
       "iso": "2026-08-20T06:48:27.145Z",
       "action": "updated remark for SWM-FA70R at BATTICALOA: “Revert - 80% Discount”"
@@ -31609,13 +31623,6 @@
       "time": "11:57:16",
       "iso": "2026-08-20T06:27:16.791Z",
       "action": "updated MAHO showroom (visited: Yes)"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:57:05",
-      "iso": "2026-08-20T06:27:05.630Z",
-      "action": "updated remark for SIN-MRG-1008C at JA-ELA: “10%”"
     }
   ]
 }
