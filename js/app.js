@@ -342,6 +342,15 @@ window.Shared = (function () {
         errEl.classList.remove("hidden");
         return;
       }
+      if (role === "admin" && window.OVER6_ADMIN_PASSWORD) {
+        const enteredPassword = document.getElementById("login-admin-password").value;
+        if (enteredPassword !== window.OVER6_ADMIN_PASSWORD) {
+          document.getElementById("login-admin-password").focus();
+          errEl.textContent = "Incorrect admin password.";
+          errEl.classList.remove("hidden");
+          return;
+        }
+      }
 
       connectBtn.disabled = true;
       connectBtn.textContent = "Connecting…";
@@ -351,6 +360,7 @@ window.Shared = (function () {
         GitHubService.setConfig({ owner, repo, branch, token });
         setSession({ name, dept, role, loggedInAt: new Date().toISOString() });
         document.getElementById("login-token").value = "";
+        document.getElementById("login-admin-password").value = "";
         showScreen("appShell");
         await bootApp();
       } catch (e) {
@@ -374,11 +384,37 @@ window.Shared = (function () {
         const roleEl2 = document.getElementById("login-role-fallback");
         const role = roleEl2 ? roleEl2.value : "admin";
         if (!name) return;
+        if (role === "admin" && window.OVER6_ADMIN_PASSWORD) {
+          const pwField = document.getElementById("login-admin-password-fallback");
+          if (!pwField || pwField.value !== window.OVER6_ADMIN_PASSWORD) {
+            if (pwField) pwField.focus();
+            alert("Incorrect admin password.");
+            return;
+          }
+          pwField.value = "";
+        }
         setSession({ name, dept, role, loggedInAt: new Date().toISOString() });
         showScreen("appShell");
         await bootApp();
       });
     }
+
+    // Show the Admin Password field only when "Full Access (Admin)" is
+    // selected, and only if a password is actually configured — keeps the
+    // Sales Team flow completely unchanged.
+    function wireAdminPasswordVisibility(roleSelectId, fieldId) {
+      const roleSelect = document.getElementById(roleSelectId);
+      const field = document.getElementById(fieldId);
+      if (!roleSelect || !field) return;
+      const update = () => {
+        const needsPassword = roleSelect.value === "admin" && !!window.OVER6_ADMIN_PASSWORD;
+        field.classList.toggle("hidden", !needsPassword);
+      };
+      roleSelect.addEventListener("change", update);
+      update();
+    }
+    wireAdminPasswordVisibility("login-role", "adminPasswordField");
+    wireAdminPasswordVisibility("login-role-fallback", "adminPasswordFieldFallback");
   }
 
   function initAuthGate() {
@@ -518,13 +554,19 @@ window.Shared = (function () {
   }
 
   async function loadInventoryFromGitHub(showSpinner) {
-    if (showSpinner) setLoading(true, "Loading Inventory.xlsx from GitHub\u2026");
-    const { sha, buffer, path } = await GitHubService.getBinaryFromCandidates(["Inventory.xlsx", "data/Inventory.xlsx"]);
+    if (showSpinner) setLoading(true, "Loading inventory data from GitHub\u2026");
+    // Prefer a CSV master file if one exists (much smaller download, faster to
+    // parse) — falls back to the .xlsx workbook if no CSV is present, so
+    // nothing breaks for repos that keep using the original Excel file.
+    const { sha, buffer, path } = await GitHubService.getBinaryFromCandidates([
+      "Inventory.csv", "data/Inventory.csv",
+      "Inventory.xlsx", "data/Inventory.xlsx"
+    ]);
     state.inventorySha = sha;
     if (!buffer) {
       state.rawData = [];
-      throw new Error('Could not find "Inventory.xlsx" in your repository (checked the repo root and the "data/" folder). ' +
-        "Make sure the file exists, is spelled exactly like that, and that the branch you connected to is correct.");
+      throw new Error('Could not find "Inventory.csv" or "Inventory.xlsx" in your repository (checked the repo root and the "data/" folder). ' +
+        "Make sure one of these exists, is spelled exactly like that, and that the branch you connected to is correct.");
     }
     state.inventoryPath = path;
     const workbook = XLSX.read(buffer, { type: "array" });
@@ -1073,21 +1115,37 @@ window.Shared = (function () {
         const newRows = workbookToRows(workbook);
         if (!newRows.length) throw new Error("No usable rows found in the uploaded file.");
 
-        setLoading(true, "Backing up current Inventory.xlsx on GitHub\u2026");
+        // Target path is based on the UPLOADED file's own extension, kept in
+        // the same folder as whatever was previously loaded (root or data/).
+        // This avoids writing e.g. binary .xlsx bytes into a path GitHub/the
+        // app expects to be plain-text .csv (or vice versa) if you ever
+        // switch formats.
+        const uploadExt = /\.csv$/i.test(file.name) ? "csv" : "xlsx";
+        const prevPath = state.inventoryPath || "Inventory.xlsx";
+        const folder = prevPath.includes("/") ? prevPath.slice(0, prevPath.lastIndexOf("/") + 1) : "";
+        const invPath = `${folder}Inventory.${uploadExt}`;
+
+        setLoading(true, `Backing up current ${prevPath.split("/").pop()} on GitHub\u2026`);
         // Fetch the current file's raw base64 to copy it verbatim as a backup
         // (avoids re-encoding drift versus reading it through SheetJS).
-        const invPath = state.inventoryPath || "Inventory.xlsx";
-        const rawCurrent = await GitHubService.getFileRaw(invPath);
+        const rawCurrent = await GitHubService.getFileRaw(prevPath);
         if (rawCurrent.contentB64) {
           const stamp = new Date().toISOString().slice(0, 10) + "_" + Date.now();
-          const bk = await GitHubService.getFileRaw(`Backup/Inventory_Backup_${stamp}.xlsx`);
-          await GitHubService.putFile(`Backup/Inventory_Backup_${stamp}.xlsx`, rawCurrent.contentB64, `Backup before inventory upload \u2014 ${new Date().toISOString()}`, bk.sha);
+          const prevExt = prevPath.split(".").pop();
+          const bk = await GitHubService.getFileRaw(`Backup/Inventory_Backup_${stamp}.${prevExt}`);
+          await GitHubService.putFile(`Backup/Inventory_Backup_${stamp}.${prevExt}`, rawCurrent.contentB64, `Backup before inventory upload \u2014 ${new Date().toISOString()}`, bk.sha);
         }
 
-        setLoading(true, "Committing new Inventory.xlsx to GitHub\u2026");
+        setLoading(true, `Committing new ${invPath} to GitHub\u2026`);
         const buf = e.target.result;
-        const newSha = await GitHubService.putBinary(invPath, buf, `Upload new inventory export \u2014 ${new Date().toISOString()}`, rawCurrent.sha);
+        // If the target path differs from where the old file lived (a format
+        // switch, e.g. .xlsx -> .csv), there's no existing SHA to supply for
+        // THAT path — fetch it fresh so a stale/previous file at the new
+        // path (if any) doesn't cause a conflict.
+        const targetRaw = invPath === prevPath ? rawCurrent : await GitHubService.getFileRaw(invPath);
+        const newSha = await GitHubService.putBinary(invPath, buf, `Upload new inventory export \u2014 ${new Date().toISOString()}`, targetRaw.sha);
         state.inventorySha = newSha;
+        state.inventoryPath = invPath;
         state.rawData = newRows;
         state.lastLoadedAt = new Date();
         resetFiltersAndView();
