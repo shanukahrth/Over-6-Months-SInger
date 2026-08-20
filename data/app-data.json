@@ -26526,7 +26526,7 @@
     },
     "SHOMES- GODAGAMA||MAHARAGAMA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
@@ -26534,6 +26534,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:31:18",
+      "iso": "2026-08-20T03:01:18.197Z",
+      "action": "updated SHOMES- GODAGAMA showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26876,13 +26883,6 @@
       "time": "18:58:00",
       "iso": "2026-08-19T13:28:00.748Z",
       "action": "updated remark for SM-MC3368 at PILIMATHALAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:57:54",
-      "iso": "2026-08-19T13:27:54.086Z",
-      "action": "updated remark for MC8280 at PILIMATHALAWA: “To be reported”"
     }
   ]
 }
