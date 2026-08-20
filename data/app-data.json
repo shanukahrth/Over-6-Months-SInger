@@ -29007,6 +29007,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:55:49",
       "lastUpdated": "2026-08-20T05:25:49.097Z"
+    },
+    "GEO-242D-SV||KATUGASTOTA": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:56:12",
+      "lastUpdated": "2026-08-20T05:26:12.833Z"
     }
   },
   "showroomVisits": {
@@ -29743,6 +29750,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:56:12",
+      "iso": "2026-08-20T05:26:12.834Z",
+      "action": "updated remark for GEO-242D-SV at KATUGASTOTA: “30%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:55:49",
       "iso": "2026-08-20T05:25:49.097Z",
       "action": "updated remark for GEO-200D-BR at KATUGASTOTA: “Damaged- 80%”"
@@ -30082,13 +30096,6 @@
       "time": "10:50:28",
       "iso": "2026-08-20T05:20:28.961Z",
       "action": "updated remark for SIN-HD-2213 at KATUGASTOTA: “Saleable existing price”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:50:21",
-      "iso": "2026-08-20T05:20:21.548Z",
-      "action": "updated remark for PH-NT3650 at KATUGASTOTA: “Saleable existing price”"
     }
   ]
 }
