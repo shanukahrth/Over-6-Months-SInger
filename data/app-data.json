@@ -30855,6 +30855,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:30:00",
       "lastUpdated": "2026-08-20T07:00:00.224Z"
+    },
+    "AVERY-300KG||PELIYAGODA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:30:21",
+      "lastUpdated": "2026-08-20T07:00:21.880Z"
     }
   },
   "showroomVisits": {
@@ -31599,6 +31606,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "12:30:21",
+      "iso": "2026-08-20T07:00:21.881Z",
+      "action": "updated remark for AVERY-300KG at PELIYAGODA: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "12:30:00",
       "iso": "2026-08-20T07:00:00.225Z",
       "action": "updated remark for WP-NEO258NF at PELIYAGODA: “25%”"
@@ -31938,13 +31952,6 @@
       "time": "12:18:56",
       "iso": "2026-08-20T06:48:56.732Z",
       "action": "updated remark for KDL-43W660G at BATTICALOA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:18:27",
-      "iso": "2026-08-20T06:48:27.145Z",
-      "action": "updated remark for SWM-FA70R at BATTICALOA: “Revert - 80% Discount”"
     }
   ]
 }
