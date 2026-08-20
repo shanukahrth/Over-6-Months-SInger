@@ -30484,6 +30484,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:14:17",
       "lastUpdated": "2026-08-20T06:44:17.057Z"
+    },
+    "SLE43G890||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:14:42",
+      "lastUpdated": "2026-08-20T06:44:42.816Z"
     }
   },
   "showroomVisits": {
@@ -31228,6 +31235,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:14:42",
+      "iso": "2026-08-20T06:44:42.817Z",
+      "action": "updated remark for SLE43G890 at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:14:17",
       "iso": "2026-08-20T06:44:17.060Z",
       "action": "updated remark for KLV-40W652D at BATTICALOA: “50% Discount Ex BMs  stock”"
@@ -31567,13 +31581,6 @@
       "time": "11:48:42",
       "iso": "2026-08-20T06:18:42.208Z",
       "action": "updated remark for SKY32STD1000 at JA-ELA: “exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:48:26",
-      "iso": "2026-08-20T06:18:26.560Z",
-      "action": "updated remark for TF-FP24-SCR342 at JA-ELA: “Discount already provided”"
     }
   ]
 }
