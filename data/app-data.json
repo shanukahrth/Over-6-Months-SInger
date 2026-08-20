@@ -27152,6 +27152,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:53:17",
       "lastUpdated": "2026-08-20T04:23:17.281Z"
+    },
+    "TCLED24D3000||PERADENIYA": {
+      "remark": "MOP- 8000/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:53:43",
+      "lastUpdated": "2026-08-20T04:23:43.503Z"
     }
   },
   "showroomVisits": {
@@ -27886,6 +27893,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:53:43",
+      "iso": "2026-08-20T04:23:43.504Z",
+      "action": "updated remark for TCLED24D3000 at PERADENIYA: “MOP- 8000/=”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:53:17",
@@ -28227,13 +28241,6 @@
       "time": "09:44:39",
       "iso": "2026-08-20T04:14:39.149Z",
       "action": "updated remark for U-HRW-S11 at JA ELA - B: “Damage”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "09:44:20",
-      "iso": "2026-08-20T04:14:20.721Z",
-      "action": "updated remark for LF-13753-S at KIRIBATHGODA B: “50%”"
     }
   ]
 }
