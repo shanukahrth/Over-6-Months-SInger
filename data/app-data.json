@@ -27642,6 +27642,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:14:53",
       "lastUpdated": "2026-08-20T04:44:53.097Z"
+    },
+    "FAN-P-1605H||KATUGASTOTA": {
+      "remark": "40%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:15:16",
+      "lastUpdated": "2026-08-20T04:45:16.066Z"
     }
   },
   "showroomVisits": {
@@ -28378,6 +28385,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:15:16",
+      "iso": "2026-08-20T04:45:16.068Z",
+      "action": "updated remark for FAN-P-1605H at KATUGASTOTA: “40%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:14:53",
       "iso": "2026-08-20T04:44:53.097Z",
       "action": "updated remark for FAN-VIERA-TEAK-WL at KATUGASTOTA: “10%”"
@@ -28717,13 +28731,6 @@
       "time": "09:58:25",
       "iso": "2026-08-20T04:28:25.923Z",
       "action": "updated remark for MID-D30-20EVN1 at PERADENIYA: “Saleable existing price”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "09:57:59",
-      "iso": "2026-08-20T04:27:59.318Z",
-      "action": "updated remark for TF-GS-SPKT302 at KIRIBATHGODA B: “15%”"
     }
   ]
 }
