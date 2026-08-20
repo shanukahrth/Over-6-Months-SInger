@@ -26865,6 +26865,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:44:13",
       "lastUpdated": "2026-08-20T04:14:13.293Z"
+    },
+    "WF-CF-75X48-S||KIRIBATHGODA B": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:43:05",
+      "lastUpdated": "2026-08-20T04:13:05.134Z"
+    },
+    "LF-13753-S||KIRIBATHGODA B": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:44:20",
+      "lastUpdated": "2026-08-20T04:14:20.717Z"
     }
   },
   "showroomVisits": {
@@ -27599,6 +27613,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:44:20",
+      "iso": "2026-08-20T04:14:20.721Z",
+      "action": "updated remark for LF-13753-S at KIRIBATHGODA B: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:43:05",
+      "iso": "2026-08-20T04:13:05.140Z",
+      "action": "updated remark for WF-CF-75X48-S at KIRIBATHGODA B: “50%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:44:13",
@@ -27933,20 +27961,6 @@
       "time": "09:36:13",
       "iso": "2026-08-20T04:06:13.929Z",
       "action": "updated remark for HON-X5PLUS-4-64-BLK at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:35:52",
-      "iso": "2026-08-20T04:05:52.225Z",
-      "action": "updated remark for HON-X5B-4-64-BLU at PERADENIYA: “35%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:35:40",
-      "iso": "2026-08-20T04:05:40.041Z",
-      "action": "updated remark for HON-X5-2-32-BLU at PERADENIYA: “60%”"
     }
   ]
 }
