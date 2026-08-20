@@ -27866,6 +27866,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:22:14",
       "lastUpdated": "2026-08-20T04:52:14.952Z"
+    },
+    "WF-OSLO-S||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:22:29",
+      "lastUpdated": "2026-08-20T04:52:29.025Z"
     }
   },
   "showroomVisits": {
@@ -28602,6 +28609,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:22:29",
+      "iso": "2026-08-20T04:52:29.026Z",
+      "action": "updated remark for WF-OSLO-S at KATUGASTOTA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:22:14",
       "iso": "2026-08-20T04:52:14.953Z",
       "action": "updated remark for WF-CAMELIA-DTO-S at KATUGASTOTA: “50%”"
@@ -28941,13 +28955,6 @@
       "time": "10:10:53",
       "iso": "2026-08-20T04:40:53.298Z",
       "action": "updated remark for MHC-V21D at KATUGASTOTA: “Damaged- 70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:10:30",
-      "iso": "2026-08-20T04:40:30.031Z",
-      "action": "updated remark for MHC-M40D at KATUGASTOTA: “Damaged- 70%”"
     }
   ]
 }
