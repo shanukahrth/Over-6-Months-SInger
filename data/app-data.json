@@ -27369,6 +27369,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:00:12",
       "lastUpdated": "2026-08-20T04:30:12.173Z"
+    },
+    "TF-IT30-169||KIRIBATHGODA B": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:00:33",
+      "lastUpdated": "2026-08-20T04:30:33.139Z"
     }
   },
   "showroomVisits": {
@@ -28105,6 +28112,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-20",
+      "time": "10:00:33",
+      "iso": "2026-08-20T04:30:33.141Z",
+      "action": "updated remark for TF-IT30-169 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
       "time": "10:00:12",
       "iso": "2026-08-20T04:30:12.175Z",
       "action": "updated remark for TF-IGP26-119 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
@@ -28444,13 +28458,6 @@
       "time": "09:51:11",
       "iso": "2026-08-20T04:21:11.827Z",
       "action": "updated remark for TCL43S5400 at JA ELA - B: “sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:50:48",
-      "iso": "2026-08-20T04:20:48.775Z",
-      "action": "updated remark for MC984-HO at JA ELA - B: “40%”"
     }
   ]
 }
