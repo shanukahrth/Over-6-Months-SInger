@@ -27593,6 +27593,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:12:14",
       "lastUpdated": "2026-08-20T04:42:14.776Z"
+    },
+    "B-HII64200MT||KATUGASTOTA": {
+      "remark": "34%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:12:43",
+      "lastUpdated": "2026-08-20T04:42:43.154Z"
     }
   },
   "showroomVisits": {
@@ -28329,6 +28336,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:12:43",
+      "iso": "2026-08-20T04:42:43.155Z",
+      "action": "updated remark for B-HII64200MT at KATUGASTOTA: “34%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:12:14",
       "iso": "2026-08-20T04:42:14.777Z",
       "action": "updated remark for B-HIAG64223SXL at KATUGASTOTA: “19%”"
@@ -28668,13 +28682,6 @@
       "time": "09:56:56",
       "iso": "2026-08-20T04:26:56.263Z",
       "action": "updated remark for WFL-SWSTK-SL-7FT at KIRIBATHGODA B: “0”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:56:49",
-      "iso": "2026-08-20T04:26:49.685Z",
-      "action": "updated remark for SL-RFA75 at PERADENIYA: “50%”"
     }
   ]
 }
