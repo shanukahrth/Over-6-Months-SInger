@@ -28454,6 +28454,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:44:07",
       "lastUpdated": "2026-08-20T05:14:07.266Z"
+    },
+    "TF-SI-EXS1230||WATTALA": {
+      "remark": "15% - Additional",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:44:04",
+      "lastUpdated": "2026-08-20T05:14:04.081Z"
     }
   },
   "showroomVisits": {
@@ -29188,6 +29195,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:44:04",
+      "iso": "2026-08-20T05:14:04.083Z",
+      "action": "updated remark for TF-SI-EXS1230 at WATTALA: “15% - Additional”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:44:07",
@@ -29529,13 +29543,6 @@
       "time": "10:35:26",
       "iso": "2026-08-20T05:05:26.852Z",
       "action": "updated remark for PF-KID-CHR-GRN-S at WATTALA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:35:21",
-      "iso": "2026-08-20T05:05:21.344Z",
-      "action": "updated remark for PF-ENVISION-BL-S at KATUGASTOTA: “20%”"
     }
   ]
 }
