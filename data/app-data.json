@@ -29469,6 +29469,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:17:35",
       "lastUpdated": "2026-08-20T05:47:35.426Z"
+    },
+    "SDV3605K||KATUGASTOTA - B": {
+      "remark": "MOP-3000/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:17:49",
+      "lastUpdated": "2026-08-20T05:47:49.394Z"
     }
   },
   "showroomVisits": {
@@ -30205,6 +30212,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:17:49",
+      "iso": "2026-08-20T05:47:49.395Z",
+      "action": "updated remark for SDV3605K at KATUGASTOTA - B: “MOP-3000/=”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:17:35",
       "iso": "2026-08-20T05:47:35.426Z",
       "action": "updated remark for DELL3511-I3-8GB256-BLU at KATUGASTOTA - B: “60%”"
@@ -30544,13 +30558,6 @@
       "time": "11:01:11",
       "iso": "2026-08-20T05:31:11.011Z",
       "action": "updated remark for MC984-HO at KATUGASTOTA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:00:51",
-      "iso": "2026-08-20T05:30:51.388Z",
-      "action": "updated remark for MC8280 at KATUGASTOTA: “50%”"
     }
   ]
 }
