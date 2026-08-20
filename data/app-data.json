@@ -26467,9 +26467,24 @@
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-20"
+    },
+    "KOSGAMA||MAHARAGAMA": {
+      "visited": "No",
+      "visitDate": "2026-08-14",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-20"
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:24:42",
+      "iso": "2026-08-20T02:54:42.642Z",
+      "action": "updated KOSGAMA showroom (visitDate: 2026-08-14)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26812,13 +26827,6 @@
       "time": "18:55:07",
       "iso": "2026-08-19T13:25:07.358Z",
       "action": "updated remark for ZTE-A34-2-64GB-GRN at PILIMATHALAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:55:03",
-      "iso": "2026-08-19T13:25:03.659Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at PILIMATHALAWA: “40%”"
     }
   ]
 }
