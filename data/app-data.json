@@ -26004,6 +26004,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:12:51",
       "lastUpdated": "2026-08-20T03:42:51.412Z"
+    },
+    "SIN-DEC-FDC||KIRIBATHGODA B": {
+      "remark": "Maxmum discount systemized.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:14:01",
+      "lastUpdated": "2026-08-20T03:44:01.826Z"
     }
   },
   "showroomVisits": {
@@ -26738,6 +26745,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:14:01",
+      "iso": "2026-08-20T03:44:01.827Z",
+      "action": "updated remark for SIN-DEC-FDC at KIRIBATHGODA B: “Maxmum discount systemized.”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:13:55",
+      "iso": "2026-08-20T03:43:55.462Z",
+      "action": "updated remark for SIN-DEC-FDC at KIRIBATHGODA B: “Maxmum discount systemized.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:12:51",
@@ -27072,20 +27093,6 @@
       "time": "08:27:33",
       "iso": "2026-08-20T02:57:33.734Z",
       "action": "updated HOMAGAMA - B showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:27:31",
-      "iso": "2026-08-20T02:57:31.968Z",
-      "action": "updated HOMAGAMA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:27:29",
-      "iso": "2026-08-20T02:57:29.013Z",
-      "action": "updated HOMAGAMA - B showroom (visited: Yes)"
     }
   ]
 }
