@@ -27194,6 +27194,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:54:37",
       "lastUpdated": "2026-08-20T04:24:37.624Z"
+    },
+    "WFL-SPM-75X72X7-S||KIRIBATHGODA B": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:54:03",
+      "lastUpdated": "2026-08-20T04:24:03.519Z"
+    },
+    "WFI-SOC-H007-BU-S||KIRIBATHGODA B": {
+      "remark": "No discount",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:54:42",
+      "lastUpdated": "2026-08-20T04:24:42.602Z"
     }
   },
   "showroomVisits": {
@@ -27928,6 +27942,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:54:42",
+      "iso": "2026-08-20T04:24:42.606Z",
+      "action": "updated remark for WFI-SOC-H007-BU-S at KIRIBATHGODA B: “No discount”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:54:03",
+      "iso": "2026-08-20T04:24:03.522Z",
+      "action": "updated remark for WFL-SPM-75X72X7-S at KIRIBATHGODA B: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:54:37",
@@ -28262,20 +28290,6 @@
       "time": "09:44:58",
       "iso": "2026-08-20T04:14:58.647Z",
       "action": "updated remark for LF-BUDGET-DT-AGO-S at KIRIBATHGODA B: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:46:05",
-      "iso": "2026-08-20T04:16:05.692Z",
-      "action": "updated remark for SLE32E810 at PERADENIYA: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:45:55",
-      "iso": "2026-08-20T04:15:55.329Z",
-      "action": "updated remark for SLE32D1800 at PERADENIYA: “70%”"
     }
   ]
 }
