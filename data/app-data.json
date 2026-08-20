@@ -30547,6 +30547,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:20:42",
       "lastUpdated": "2026-08-20T06:50:42.783Z"
+    },
+    "SKY-40E3S||BATTICALOA": {
+      "remark": "90% Discount (Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:21:00",
+      "lastUpdated": "2026-08-20T06:51:00.955Z"
     }
   },
   "showroomVisits": {
@@ -31291,6 +31298,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:21:00",
+      "iso": "2026-08-20T06:51:00.957Z",
+      "action": "updated remark for SKY-40E3S at BATTICALOA: “90% Discount (Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:20:42",
       "iso": "2026-08-20T06:50:42.785Z",
       "action": "updated remark for WP-NSP-J-S at BATTICALOA: “90% Discount Damage”"
@@ -31630,13 +31644,6 @@
       "time": "11:58:00",
       "iso": "2026-08-20T06:28:00.399Z",
       "action": "updated remark for TF-SI-EXSP1231 at JA-ELA: “15%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-20",
-      "time": "11:57:59",
-      "iso": "2026-08-20T06:27:59.974Z",
-      "action": "updated MAHO showroom (visitDate: 0002-08-18)"
     }
   ]
 }
