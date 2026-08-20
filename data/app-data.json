@@ -26830,6 +26830,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:42:41",
       "lastUpdated": "2026-08-20T04:12:41.894Z"
+    },
+    "SIN-PR-K340||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:43:02",
+      "lastUpdated": "2026-08-20T04:13:02.120Z"
     }
   },
   "showroomVisits": {
@@ -27564,6 +27571,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:43:02",
+      "iso": "2026-08-20T04:13:02.122Z",
+      "action": "updated remark for SIN-PR-K340 at PERADENIYA: “Saleable existing price”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "09:42:41",
@@ -27905,13 +27919,6 @@
       "time": "09:33:50",
       "iso": "2026-08-20T04:03:50.601Z",
       "action": "updated remark for R-BWS-02 at JA ELA - B: “Already discount offered”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:33:49",
-      "iso": "2026-08-20T04:03:49.098Z",
-      "action": "updated remark for HU-SECURITY at PERADENIYA: “Shop use”"
     }
   ]
 }
