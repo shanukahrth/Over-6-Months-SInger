@@ -28328,6 +28328,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:40:43",
       "lastUpdated": "2026-08-20T05:10:43.458Z"
+    },
+    "TF-IDFP24-170||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:41:02",
+      "lastUpdated": "2026-08-20T05:11:02.402Z"
     }
   },
   "showroomVisits": {
@@ -29064,6 +29071,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:41:02",
+      "iso": "2026-08-20T05:11:02.403Z",
+      "action": "updated remark for TF-IDFP24-170 at KATUGASTOTA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:40:43",
       "iso": "2026-08-20T05:10:43.460Z",
       "action": "updated remark for PCR-FP28-264 at KATUGASTOTA: “50%”"
@@ -29403,13 +29417,6 @@
       "time": "10:30:23",
       "iso": "2026-08-20T05:00:23.818Z",
       "action": "updated remark for SN-SMI-285G at JA-ELA: “exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:29:53",
-      "iso": "2026-08-20T04:59:53.646Z",
-      "action": "updated remark for SMGAR50F12D0J at JA-ELA: “30%”"
     }
   ]
 }
