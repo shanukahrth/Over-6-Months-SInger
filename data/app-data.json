@@ -28874,6 +28874,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:53:17",
       "lastUpdated": "2026-08-20T05:23:17.177Z"
+    },
+    "SIN-RFC-2058||VALAICHENAI": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:53:10",
+      "lastUpdated": "2026-08-20T05:23:10.645Z"
+    },
+    "TF-SI-ESS-242||VALAICHENAI": {
+      "remark": "15% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:53:20",
+      "lastUpdated": "2026-08-20T05:23:20.723Z"
+    },
+    "SIN-RFC-2012||VALAICHENAI": {
+      "remark": "60% DIscount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:53:34",
+      "lastUpdated": "2026-08-20T05:23:34.167Z"
     }
   },
   "showroomVisits": {
@@ -29608,6 +29629,27 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "10:53:34",
+      "iso": "2026-08-20T05:23:34.170Z",
+      "action": "updated remark for SIN-RFC-2012 at VALAICHENAI: “60% DIscount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "10:53:20",
+      "iso": "2026-08-20T05:23:20.726Z",
+      "action": "updated remark for TF-SI-ESS-242 at VALAICHENAI: “15% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "10:53:10",
+      "iso": "2026-08-20T05:23:10.647Z",
+      "action": "updated remark for SIN-RFC-2058 at VALAICHENAI: “50% Discount”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:53:17",
@@ -29935,27 +29977,6 @@
       "time": "10:48:20",
       "iso": "2026-08-20T05:18:20.043Z",
       "action": "updated remark for PN-SC-BMAX10E-K at JA-ELA: “40%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:48:07",
-      "iso": "2026-08-20T05:18:07.928Z",
-      "action": "updated remark for MID-MJ-KM6001W at VALAICHENAI: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:48:02",
-      "iso": "2026-08-20T05:18:02.031Z",
-      "action": "updated remark for MID-MJ-KM6001W at VALAICHENAI: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:47:18",
-      "iso": "2026-08-20T05:17:18.950Z",
-      "action": "updated remark for SIN-PR-K340 at VALAICHENAI: “50% Discount”"
     }
   ]
 }
