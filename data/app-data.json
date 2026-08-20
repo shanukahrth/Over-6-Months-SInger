@@ -31049,7 +31049,7 @@
     },
     "MAHO||NIKAWARATIYA": {
       "visited": "Yes",
-      "visitDate": "0002-08-18",
+      "visitDate": "0026-08-18",
       "team": "Wayambe Team",
       "remark": "",
       "updatedBy": "SHENULI",
@@ -31057,6 +31057,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "11:58:27",
+      "iso": "2026-08-20T06:28:27.120Z",
+      "action": "updated MAHO showroom (visitDate: 0026-08-18)"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
@@ -31399,13 +31406,6 @@
       "time": "11:42:28",
       "iso": "2026-08-20T06:12:28.992Z",
       "action": "updated remark for MCS-730-8 at KATUGASTOTA - B: “Shop use”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:42:20",
-      "iso": "2026-08-20T06:12:20.859Z",
-      "action": "updated remark for CLIP-MCW at KATUGASTOTA - B: “Shop use”"
     }
   ]
 }
