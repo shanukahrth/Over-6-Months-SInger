@@ -32045,9 +32045,25 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-20"
+    },
+    "BINGIRIYA||CHILAW": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "SHENULI",
+      "updatedDate": "2026-08-20"
     }
   },
+  "soldMarks": {},
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:09:19",
+      "iso": "2026-08-20T10:39:19.160Z",
+      "action": "updated BINGIRIYA showroom (visited: Yes)"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
@@ -32390,13 +32406,6 @@
       "time": "12:43:51",
       "iso": "2026-08-20T07:13:51.863Z",
       "action": "updated remark for PCP50 at BATTICALOA: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:43:36",
-      "iso": "2026-08-20T07:13:36.631Z",
-      "action": "updated remark for LFLCDCHAMP-BLK-S at BATTICALOA: “50% Discount”"
     }
   ]
 }
