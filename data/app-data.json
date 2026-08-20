@@ -25822,6 +25822,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "08:53:40",
       "lastUpdated": "2026-08-20T03:23:40.509Z"
+    },
+    "LF-BUDGET-ST-AGO-S||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "08:54:02",
+      "lastUpdated": "2026-08-20T03:24:02.541Z"
     }
   },
   "showroomVisits": {
@@ -26558,6 +26565,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "08:54:02",
+      "iso": "2026-08-20T03:24:02.542Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at PERADENIYA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "08:53:40",
       "iso": "2026-08-20T03:23:40.510Z",
       "action": "updated remark for LF-BUDGET-BDQ-AGO-S at PERADENIYA: “70%”"
@@ -26897,13 +26911,6 @@
       "time": "18:58:26",
       "iso": "2026-08-19T13:28:26.973Z",
       "action": "updated remark for SLE40D600A at PILIMATHALAWA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:58:23",
-      "iso": "2026-08-19T13:28:23.471Z",
-      "action": "updated remark for SLE32E910 at PILIMATHALAWA: “70%”"
     }
   ]
 }
