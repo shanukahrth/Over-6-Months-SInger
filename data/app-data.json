@@ -30750,6 +30750,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:26:35",
       "lastUpdated": "2026-08-20T06:56:35.538Z"
+    },
+    "DH-I-F22FP-36B-IMOU||BATTICALOA": {
+      "remark": "50 DIiscount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:26:34",
+      "lastUpdated": "2026-08-20T06:56:34.421Z"
+    },
+    "SIN-PR-K340||BATTICALOA": {
+      "remark": "40% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:26:48",
+      "lastUpdated": "2026-08-20T06:56:48.484Z"
     }
   },
   "showroomVisits": {
@@ -31492,6 +31506,20 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:26:48",
+      "iso": "2026-08-20T06:56:48.485Z",
+      "action": "updated remark for SIN-PR-K340 at BATTICALOA: “40% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:26:34",
+      "iso": "2026-08-20T06:56:34.423Z",
+      "action": "updated remark for DH-I-F22FP-36B-IMOU at BATTICALOA: “50 DIiscount”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "12:26:35",
@@ -31826,20 +31854,6 @@
       "time": "12:12:18",
       "iso": "2026-08-20T06:42:18.198Z",
       "action": "updated remark for AVERY-150KG at BATTICALOA: “15% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:12:07",
-      "iso": "2026-08-20T06:42:07.810Z",
-      "action": "updated remark for SMG-SM-A356E-256-B at BATTICALOA: “Damage 50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:11:51",
-      "iso": "2026-08-20T06:41:51.519Z",
-      "action": "updated remark for MHC-V13 at BATTICALOA: “80% Discount”"
     }
   ]
 }
