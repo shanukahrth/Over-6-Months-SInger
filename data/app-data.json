@@ -30533,6 +30533,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:18:56",
       "lastUpdated": "2026-08-20T06:48:56.730Z"
+    },
+    "SLE40D600A||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:19:22",
+      "lastUpdated": "2026-08-20T06:49:22.510Z"
     }
   },
   "showroomVisits": {
@@ -31277,6 +31284,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:19:22",
+      "iso": "2026-08-20T06:49:22.512Z",
+      "action": "updated remark for SLE40D600A at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:18:56",
       "iso": "2026-08-20T06:48:56.732Z",
       "action": "updated remark for KDL-43W660G at BATTICALOA: “50% Discount”"
@@ -31616,13 +31630,6 @@
       "time": "11:57:31",
       "iso": "2026-08-20T06:27:31.095Z",
       "action": "updated MAHO showroom (visitDate: 0002-08-18)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-20",
-      "time": "11:57:16",
-      "iso": "2026-08-20T06:27:16.791Z",
-      "action": "updated MAHO showroom (visited: Yes)"
     }
   ]
 }
