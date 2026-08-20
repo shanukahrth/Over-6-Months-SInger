@@ -26319,6 +26319,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:26:49",
       "lastUpdated": "2026-08-20T03:56:49.998Z"
+    },
+    "PF-MONDY-RED||JA ELA - B": {
+      "remark": "15% additional - damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:26:11",
+      "lastUpdated": "2026-08-20T03:56:11.539Z"
+    },
+    "G-STC1200N||JA ELA - B": {
+      "remark": "60% Discontinue Product",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:26:37",
+      "lastUpdated": "2026-08-20T03:56:37.598Z"
+    },
+    "RCS-04||JA ELA - B": {
+      "remark": "Already discount offered",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:27:07",
+      "lastUpdated": "2026-08-20T03:57:07.810Z"
     }
   },
   "showroomVisits": {
@@ -27053,6 +27074,27 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:27:07",
+      "iso": "2026-08-20T03:57:07.811Z",
+      "action": "updated remark for RCS-04 at JA ELA - B: “Already discount offered”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:26:37",
+      "iso": "2026-08-20T03:56:37.599Z",
+      "action": "updated remark for G-STC1200N at JA ELA - B: “60% Discontinue Product”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:26:11",
+      "iso": "2026-08-20T03:56:11.540Z",
+      "action": "updated remark for PF-MONDY-RED at JA ELA - B: “15% additional - damage”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:26:50",
@@ -27380,27 +27422,6 @@
       "time": "09:14:25",
       "iso": "2026-08-20T03:44:25.012Z",
       "action": "updated remark for WF-DOC-T009-BU-S at PERADENIYA: “Saleable existing price”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:10:52",
-      "iso": "2026-08-20T03:40:52.478Z",
-      "action": "updated remark for WFL-SOC-V010-RD-S at PERADENIYA: “Saleable existing price”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "09:14:01",
-      "iso": "2026-08-20T03:44:01.827Z",
-      "action": "updated remark for SIN-DEC-FDC at KIRIBATHGODA B: “Maxmum discount systemized.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "09:13:55",
-      "iso": "2026-08-20T03:43:55.462Z",
-      "action": "updated remark for SIN-DEC-FDC at KIRIBATHGODA B: “Maxmum discount systemized.”"
     }
   ]
 }
