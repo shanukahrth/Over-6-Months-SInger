@@ -1214,7 +1214,16 @@ window.Shared = (function () {
       if (window.Showroom && !isSalesRole()) await window.Showroom.init();
     } catch (e) {
       console.error(e);
-      alert("Could not load data from GitHub.\n\n" + e.message);
+      const isNetworkFailure = /Failed to fetch|NetworkError|network/i.test(e.message || "") || e.name === "TypeError";
+      const msg = isNetworkFailure
+        ? "Could not load data from GitHub \u2014 the connection was interrupted while downloading Inventory.xlsx (a multi-MB file).\n\n" +
+          "This is usually a network issue, not a problem with your account or the data itself. Try:\n" +
+          "\u2022 Reloading the page (it already retried automatically a few times)\n" +
+          "\u2022 A different network or an Incognito/Private window\n" +
+          "\u2022 Waiting a minute and trying again\n\n" +
+          "Your data on GitHub is safe either way \u2014 this only affects loading it into the browser."
+        : "Could not load data from GitHub.\n\n" + e.message;
+      alert(msg);
     } finally {
       setLoading(false);
     }
