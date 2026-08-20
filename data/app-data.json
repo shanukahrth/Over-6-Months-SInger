@@ -27558,6 +27558,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:11:09",
       "lastUpdated": "2026-08-20T04:41:09.622Z"
+    },
+    "SIN-PSVX938N||KATUGASTOTA": {
+      "remark": "MOP- 18,500/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:11:23",
+      "lastUpdated": "2026-08-20T04:41:23.131Z"
     }
   },
   "showroomVisits": {
@@ -28292,6 +28299,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:11:23",
+      "iso": "2026-08-20T04:41:23.133Z",
+      "action": "updated remark for SIN-PSVX938N at KATUGASTOTA: “MOP- 18,500/=”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:11:09",
@@ -28633,13 +28647,6 @@
       "time": "09:56:03",
       "iso": "2026-08-20T04:26:03.979Z",
       "action": "updated remark for WFL-MONACO-08-S at KIRIBATHGODA B: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:56:02",
-      "iso": "2026-08-20T04:26:02.221Z",
-      "action": "updated remark for WC-IK518 at PERADENIYA: “70%”"
     }
   ]
 }
