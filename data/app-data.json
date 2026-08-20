@@ -28405,6 +28405,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:42:44",
       "lastUpdated": "2026-08-20T05:12:44.645Z"
+    },
+    "WF-PARIS-BL-S||WATTALA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:42:01",
+      "lastUpdated": "2026-08-20T05:12:01.649Z"
+    },
+    "SWH-118EP||WATTALA": {
+      "remark": "If damaged but still sellable - can go up to 60% , not in a sellable condition (completely damaged) 70% - need proof",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:42:37",
+      "lastUpdated": "2026-08-20T05:12:37.629Z"
     }
   },
   "showroomVisits": {
@@ -29139,6 +29153,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:42:37",
+      "iso": "2026-08-20T05:12:37.632Z",
+      "action": "updated remark for SWH-118EP at WATTALA: “If damaged but still sellable - can go up to 60% , not in a sellable condition (completely damaged) 70% - need proof”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:42:01",
+      "iso": "2026-08-20T05:12:01.651Z",
+      "action": "updated remark for WF-PARIS-BL-S at WATTALA: “50%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:42:44",
@@ -29473,20 +29501,6 @@
       "time": "10:34:25",
       "iso": "2026-08-20T05:04:25.612Z",
       "action": "updated remark for WP-WRN30LXAS at JA-ELA: “exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:34:05",
-      "iso": "2026-08-20T05:04:05.023Z",
-      "action": "updated remark for MC20U125C at JA-ELA: “Class used - Already discounted”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:33:58",
-      "iso": "2026-08-20T05:03:58.773Z",
-      "action": "updated remark for LF-ECO-3WD-SHW at WATTALA: “50%”"
     }
   ]
 }
