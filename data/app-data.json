@@ -32205,6 +32205,14 @@
       "remark": "",
       "updatedBy": "Mihini Perera",
       "updatedDate": "2026-08-20"
+    },
+    "MELSIRIPURA||MATALE": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Mihini Perera",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {
@@ -32216,6 +32224,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:29:51",
+      "iso": "2026-08-20T10:59:51.542Z",
+      "action": "updated MELSIRIPURA showroom (visited: Yes)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-20",
@@ -32558,13 +32573,6 @@
       "time": "14:01:59",
       "iso": "2026-08-20T08:31:59.722Z",
       "action": "updated remark for TF-TW26-064 at PELIYAGODA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:59:46",
-      "iso": "2026-08-20T08:29:46.603Z",
-      "action": "updated remark for TF-SP16-063 at PELIYAGODA: “Already given”"
     }
   ]
 }
