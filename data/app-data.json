@@ -30456,6 +30456,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:12:07",
       "lastUpdated": "2026-08-20T06:42:07.810Z"
+    },
+    "AVERY-150KG||BATTICALOA": {
+      "remark": "15% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:12:18",
+      "lastUpdated": "2026-08-20T06:42:18.196Z"
     }
   },
   "showroomVisits": {
@@ -31200,6 +31207,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:12:18",
+      "iso": "2026-08-20T06:42:18.198Z",
+      "action": "updated remark for AVERY-150KG at BATTICALOA: “15% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:12:07",
       "iso": "2026-08-20T06:42:07.810Z",
       "action": "updated remark for SMG-SM-A356E-256-B at BATTICALOA: “Damage 50% Discount”"
@@ -31539,13 +31553,6 @@
       "time": "11:46:58",
       "iso": "2026-08-20T06:16:58.393Z",
       "action": "updated remark for SW-SK14610GRYN at JA-ELA: “Discount already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:46:40",
-      "iso": "2026-08-20T06:16:40.223Z",
-      "action": "updated remark for ULED32D2070 at JA-ELA: “Exchange”"
     }
   ]
 }
