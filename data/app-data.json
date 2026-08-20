@@ -26543,6 +26543,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:35:02",
       "lastUpdated": "2026-08-20T04:05:02.405Z"
+    },
+    "HON-X5-2-32-BLU||PERADENIYA": {
+      "remark": "60%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:35:29",
+      "lastUpdated": "2026-08-20T04:05:29.721Z"
     }
   },
   "showroomVisits": {
@@ -27277,6 +27284,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:35:29",
+      "iso": "2026-08-20T04:05:29.721Z",
+      "action": "updated remark for HON-X5-2-32-BLU at PERADENIYA: “60%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:35:02",
@@ -27618,13 +27632,6 @@
       "time": "09:24:39",
       "iso": "2026-08-20T03:54:39.716Z",
       "action": "updated remark for WF-ORIENT-CHR-S at JA ELA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:24:13",
-      "iso": "2026-08-20T03:54:13.803Z",
-      "action": "updated remark for PU-SP-173-S at JA ELA - B: “50%”"
     }
   ]
 }
