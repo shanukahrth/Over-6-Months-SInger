@@ -27915,6 +27915,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:23:01",
       "lastUpdated": "2026-08-20T04:53:01.868Z"
+    },
+    "WF-CLAYTON-TBL-S||KATUGASTOTA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:23:11",
+      "lastUpdated": "2026-08-20T04:53:11.091Z"
     }
   },
   "showroomVisits": {
@@ -28651,6 +28658,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:23:11",
+      "iso": "2026-08-20T04:53:11.093Z",
+      "action": "updated remark for WF-CLAYTON-TBL-S at KATUGASTOTA: “70%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:23:01",
       "iso": "2026-08-20T04:53:01.869Z",
       "action": "updated remark for WF-CLAYTON-CHR-S at KATUGASTOTA: “70%”"
@@ -28990,13 +29004,6 @@
       "time": "10:12:43",
       "iso": "2026-08-20T04:42:43.155Z",
       "action": "updated remark for B-HII64200MT at KATUGASTOTA: “34%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:12:14",
-      "iso": "2026-08-20T04:42:14.777Z",
-      "action": "updated remark for B-HIAG64223SXL at KATUGASTOTA: “19%”"
     }
   ]
 }
