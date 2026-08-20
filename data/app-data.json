@@ -30078,6 +30078,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:44:22",
       "lastUpdated": "2026-08-20T06:14:22.842Z"
+    },
+    "SLE40E810C||KATUGASTOTA - B": {
+      "remark": "Exchange",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:44:36",
+      "lastUpdated": "2026-08-20T06:14:36.682Z"
     }
   },
   "showroomVisits": {
@@ -30814,6 +30821,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:44:36",
+      "iso": "2026-08-20T06:14:36.683Z",
+      "action": "updated remark for SLE40E810C at KATUGASTOTA - B: “Exchange”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:44:22",
       "iso": "2026-08-20T06:14:22.844Z",
       "action": "updated remark for SLE40D600A at KATUGASTOTA - B: “Damaged- 60%”"
@@ -31153,13 +31167,6 @@
       "time": "11:33:11",
       "iso": "2026-08-20T06:03:11.219Z",
       "action": "updated remark for RIYLTA-MF12V35A at KATUGASTOTA - B: “Mail- Brand Manager (Setting off)”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:32:35",
-      "iso": "2026-08-20T06:02:35.875Z",
-      "action": "updated remark for STT-KHT009 at KATUGASTOTA - B: “Flood effect”"
     }
   ]
 }
