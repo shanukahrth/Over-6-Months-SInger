@@ -29609,6 +29609,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:24:49",
       "lastUpdated": "2026-08-20T05:54:49.224Z"
+    },
+    "SLE32G690||JA-ELA": {
+      "remark": "exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:25:19",
+      "lastUpdated": "2026-08-20T05:55:19.224Z"
     }
   },
   "showroomVisits": {
@@ -30345,6 +30352,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "11:25:19",
+      "iso": "2026-08-20T05:55:19.224Z",
+      "action": "updated remark for SLE32G690 at JA-ELA: “exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:24:49",
       "iso": "2026-08-20T05:54:49.225Z",
       "action": "updated remark for NWD1900C at JA-ELA: “Damage - 70%”"
@@ -30684,13 +30698,6 @@
       "time": "11:07:30",
       "iso": "2026-08-20T05:37:30.793Z",
       "action": "updated remark for SMGUA32N4000 at KATUGASTOTA: “Damaged”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:07:16",
-      "iso": "2026-08-20T05:37:16.988Z",
-      "action": "updated remark for ULED32D2070 at KATUGASTOTA: “Damaged - Unsaleable”"
     }
   ]
 }
