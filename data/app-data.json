@@ -28986,6 +28986,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:55:24",
       "lastUpdated": "2026-08-20T05:25:24.690Z"
+    },
+    "GEO-182S-SV||KATUGASTOTA": {
+      "remark": "25%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:55:23",
+      "lastUpdated": "2026-08-20T05:25:23.643Z"
+    },
+    "GEO-200D||KATUGASTOTA": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:55:35",
+      "lastUpdated": "2026-08-20T05:25:35.290Z"
+    },
+    "GEO-200D-BR||KATUGASTOTA": {
+      "remark": "Damaged- 80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:55:49",
+      "lastUpdated": "2026-08-20T05:25:49.097Z"
     }
   },
   "showroomVisits": {
@@ -29720,6 +29741,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:55:49",
+      "iso": "2026-08-20T05:25:49.097Z",
+      "action": "updated remark for GEO-200D-BR at KATUGASTOTA: “Damaged- 80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:55:35",
+      "iso": "2026-08-20T05:25:35.291Z",
+      "action": "updated remark for GEO-200D at KATUGASTOTA: “80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:55:23",
+      "iso": "2026-08-20T05:25:23.644Z",
+      "action": "updated remark for GEO-182S-SV at KATUGASTOTA: “25%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:55:24",
@@ -30047,27 +30089,6 @@
       "time": "10:50:21",
       "iso": "2026-08-20T05:20:21.548Z",
       "action": "updated remark for PH-NT3650 at KATUGASTOTA: “Saleable existing price”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:50:18",
-      "iso": "2026-08-20T05:20:18.627Z",
-      "action": "updated remark for PH-BHH730 at KATUGASTOTA: “Saleable existing price”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:50:11",
-      "iso": "2026-08-20T05:20:11.961Z",
-      "action": "updated remark for PH-BHH730 at KATUGASTOTA: “Sa”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:49:58",
-      "iso": "2026-08-20T05:19:58.499Z",
-      "action": "updated remark for SIN-RFC-2058 at KATUGASTOTA: “Saleable existing price”"
     }
   ]
 }
