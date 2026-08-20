@@ -28279,6 +28279,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:39:29",
       "lastUpdated": "2026-08-20T05:09:29.090Z"
+    },
+    "NCPDG-FP240||KATUGASTOTA": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:39:32",
+      "lastUpdated": "2026-08-20T05:09:32.799Z"
+    },
+    "NCPO-DC200||KATUGASTOTA": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:39:40",
+      "lastUpdated": "2026-08-20T05:09:40.671Z"
     }
   },
   "showroomVisits": {
@@ -29013,6 +29027,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:39:40",
+      "iso": "2026-08-20T05:09:40.672Z",
+      "action": "updated remark for NCPO-DC200 at KATUGASTOTA: “30%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:39:32",
+      "iso": "2026-08-20T05:09:32.800Z",
+      "action": "updated remark for NCPDG-FP240 at KATUGASTOTA: “30%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:39:29",
@@ -29347,20 +29375,6 @@
       "time": "10:25:18",
       "iso": "2026-08-20T04:55:18.385Z",
       "action": "updated remark for SL-INV-305H at JA-ELA: “Obsolete - Offer flat 50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:24:57",
-      "iso": "2026-08-20T04:54:57.549Z",
-      "action": "updated remark for TCL55C655 at JA-ELA: “40%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:24:55",
-      "iso": "2026-08-20T04:54:55.651Z",
-      "action": "updated remark for WFL-SPM-72X60X8-S at KATUGASTOTA: “Exchange”"
     }
   ]
 }
