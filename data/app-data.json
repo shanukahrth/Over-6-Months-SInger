@@ -30400,6 +30400,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:04:19",
       "lastUpdated": "2026-08-20T06:34:19.933Z"
+    },
+    "MID-MG-GP45B||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:04:39",
+      "lastUpdated": "2026-08-20T06:34:39.992Z"
     }
   },
   "showroomVisits": {
@@ -31144,6 +31151,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "12:04:39",
+      "iso": "2026-08-20T06:34:39.993Z",
+      "action": "updated remark for MID-MG-GP45B at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "12:04:19",
       "iso": "2026-08-20T06:34:19.934Z",
       "action": "updated remark for TF-CM-APR737 at JA-ELA: “Discount already provided”"
@@ -31483,13 +31497,6 @@
       "time": "11:44:24",
       "iso": "2026-08-20T06:14:24.635Z",
       "action": "updated remark for WFL-DIANA-CHR-S at JA-ELA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:45:48",
-      "iso": "2026-08-20T06:15:48.554Z",
-      "action": "updated remark for TCLED40D65A at KATUGASTOTA - B: “Exchange”"
     }
   ]
 }
