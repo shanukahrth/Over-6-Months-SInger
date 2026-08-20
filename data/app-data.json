@@ -27033,6 +27033,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:49:23",
       "lastUpdated": "2026-08-20T04:19:23.242Z"
+    },
+    "FT-FSD-036L01||JA ELA - B": {
+      "remark": "0",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:49:59",
+      "lastUpdated": "2026-08-20T04:19:59.304Z"
     }
   },
   "showroomVisits": {
@@ -27769,6 +27776,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "09:49:59",
+      "iso": "2026-08-20T04:19:59.307Z",
+      "action": "updated remark for FT-FSD-036L01 at JA ELA - B: “0”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "09:49:23",
       "iso": "2026-08-20T04:19:23.244Z",
       "action": "updated remark for FT-FRH-50001 at JA ELA - B: “0”"
@@ -28108,13 +28122,6 @@
       "time": "09:41:55",
       "iso": "2026-08-20T04:11:55.092Z",
       "action": "updated remark for V-MC-303-PG2 at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:41:42",
-      "iso": "2026-08-20T04:11:42.617Z",
-      "action": "updated remark for DH-ST6000VX001 at PERADENIYA: “50%”"
     }
   ]
 }
