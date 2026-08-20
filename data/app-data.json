@@ -25941,6 +25941,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:04:32",
       "lastUpdated": "2026-08-20T03:34:32.605Z"
+    },
+    "SRS-XV500||KIRIBATHGODA B": {
+      "remark": "Damaged  and to be Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:03:55",
+      "lastUpdated": "2026-08-20T03:33:55.847Z"
+    },
+    "SIN-MH44SW||KIRIBATHGODA B": {
+      "remark": "Exchange",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:04:37",
+      "lastUpdated": "2026-08-20T03:34:37.645Z"
     }
   },
   "showroomVisits": {
@@ -26675,6 +26689,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:04:37",
+      "iso": "2026-08-20T03:34:37.648Z",
+      "action": "updated remark for SIN-MH44SW at KIRIBATHGODA B: “Exchange”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:03:55",
+      "iso": "2026-08-20T03:33:55.850Z",
+      "action": "updated remark for SRS-XV500 at KIRIBATHGODA B: “Damaged  and to be Return to WH”"
+    },
+    {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-20",
       "time": "09:04:32",
@@ -27009,20 +27037,6 @@
       "time": "08:26:00",
       "iso": "2026-08-20T02:56:00.513Z",
       "action": "updated MEGA -KOTTAWA showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:25:17",
-      "iso": "2026-08-20T02:55:17.681Z",
-      "action": "updated KOTTAWA showroom (team: Metro team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:25:11",
-      "iso": "2026-08-20T02:55:11.555Z",
-      "action": "updated KOTTAWA showroom (visitDate: 2026-08-13)"
     }
   ]
 }
