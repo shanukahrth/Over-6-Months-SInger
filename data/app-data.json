@@ -29392,6 +29392,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:13:14",
       "lastUpdated": "2026-08-20T05:43:14.989Z"
+    },
+    "SMW823AY7||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:13:41",
+      "lastUpdated": "2026-08-20T05:43:41.120Z"
     }
   },
   "showroomVisits": {
@@ -30128,6 +30135,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "11:13:41",
+      "iso": "2026-08-20T05:43:41.123Z",
+      "action": "updated remark for SMW823AY7 at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:13:14",
       "iso": "2026-08-20T05:43:14.990Z",
       "action": "updated remark for SBI-60M19-T at JA-ELA: “20%”"
@@ -30467,13 +30481,6 @@
       "time": "10:58:42",
       "iso": "2026-08-20T05:28:42.699Z",
       "action": "updated remark for SL-INV-305H at KATUGASTOTA: “MOP- 1,35,000/=”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:58:34",
-      "iso": "2026-08-20T05:28:34.523Z",
-      "action": "updated remark for PN-TH-32M402N at JA-ELA: “40%”"
     }
   ]
 }
