@@ -30890,6 +30890,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:31:31",
       "lastUpdated": "2026-08-20T07:01:31.465Z"
+    },
+    "FAN-P-SF1605HL||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:31:42",
+      "lastUpdated": "2026-08-20T07:01:42.849Z"
     }
   },
   "showroomVisits": {
@@ -31634,6 +31641,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:31:42",
+      "iso": "2026-08-20T07:01:42.851Z",
+      "action": "updated remark for FAN-P-SF1605HL at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:31:31",
       "iso": "2026-08-20T07:01:31.467Z",
       "action": "updated remark for SLE32D2010TC at BATTICALOA: “70% Discount”"
@@ -31973,13 +31987,6 @@
       "time": "12:21:12",
       "iso": "2026-08-20T06:51:12.834Z",
       "action": "updated remark for WP-CHTW-075-S at BATTICALOA: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:21:00",
-      "iso": "2026-08-20T06:51:00.957Z",
-      "action": "updated remark for SKY-40E3S at BATTICALOA: “90% Discount (Damage)”"
     }
   ]
 }
