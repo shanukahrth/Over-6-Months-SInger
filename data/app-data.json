@@ -30542,11 +30542,11 @@
       "lastUpdated": "2026-08-20T06:49:22.510Z"
     },
     "WP-NSP-J-S||BATTICALOA": {
-      "remark": "90% Discount - Damage",
+      "remark": "90% Discount Damage",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-08-20",
-      "commentTime": "12:20:18",
-      "lastUpdated": "2026-08-20T06:50:18.464Z"
+      "commentTime": "12:20:42",
+      "lastUpdated": "2026-08-20T06:50:42.783Z"
     }
   },
   "showroomVisits": {
@@ -31291,6 +31291,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:20:42",
+      "iso": "2026-08-20T06:50:42.785Z",
+      "action": "updated remark for WP-NSP-J-S at BATTICALOA: “90% Discount Damage”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:20:18",
       "iso": "2026-08-20T06:50:18.466Z",
       "action": "updated remark for WP-NSP-J-S at BATTICALOA: “90% Discount - Damage”"
@@ -31630,13 +31637,6 @@
       "time": "11:57:59",
       "iso": "2026-08-20T06:27:59.974Z",
       "action": "updated MAHO showroom (visitDate: 0002-08-18)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-20",
-      "time": "11:57:51",
-      "iso": "2026-08-20T06:27:51.227Z",
-      "action": "updated MAHO showroom (visitDate: cleared)"
     }
   ]
 }
