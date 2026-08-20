@@ -31156,6 +31156,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "13:46:11",
       "lastUpdated": "2026-08-20T08:16:11.723Z"
+    },
+    "HU-NOVA-7I-B||PELIYAGODA": {
+      "remark": "Damaged -90% Can not Sell",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "13:46:41",
+      "lastUpdated": "2026-08-20T08:16:41.002Z"
     }
   },
   "showroomVisits": {
@@ -31932,6 +31939,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "13:46:41",
+      "iso": "2026-08-20T08:16:41.003Z",
+      "action": "updated remark for HU-NOVA-7I-B at PELIYAGODA: “Damaged -90% Can not Sell”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "13:46:11",
       "iso": "2026-08-20T08:16:11.724Z",
       "action": "updated remark for SLE40E810C at PELIYAGODA: “SHORTAGE”"
@@ -32271,13 +32285,6 @@
       "time": "12:32:52",
       "iso": "2026-08-20T07:02:52.601Z",
       "action": "updated remark for HON-X9C-12-256-BLK at PELIYAGODA: “sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "12:32:29",
-      "iso": "2026-08-20T07:02:29.725Z",
-      "action": "updated remark for PN-TH-32P401N at PELIYAGODA: “30%”"
     }
   ]
 }
