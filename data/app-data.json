@@ -32125,10 +32125,32 @@
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
+    },
+    "NARAMMALA||KURUNEGALA": {
+      "visited": "Yes",
+      "visitDate": "22.07.2026",
+      "team": "Wayamba Team",
+      "remark": "",
+      "updatedBy": "SHENULI",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {},
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:22:02",
+      "iso": "2026-08-20T10:52:02.191Z",
+      "action": "updated NARAMMALA showroom (team: Wayamba Team)"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:21:57",
+      "iso": "2026-08-20T10:51:57.994Z",
+      "action": "updated NARAMMALA showroom (team: cleared)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-20",
@@ -32464,20 +32486,6 @@
       "time": "13:41:02",
       "iso": "2026-08-20T08:11:02.414Z",
       "action": "updated remark for SM-MC3368 at PELIYAGODA: “Discount already offered”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:39:58",
-      "iso": "2026-08-20T08:09:58.101Z",
-      "action": "updated remark for GEO-242D-SV at PELIYAGODA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:39:38",
-      "iso": "2026-08-20T08:09:38.260Z",
-      "action": "updated remark for BES-CRS-79 at PELIYAGODA: “20%”"
     }
   ]
 }
