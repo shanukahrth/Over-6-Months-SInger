@@ -32197,6 +32197,14 @@
       "remark": "",
       "updatedBy": "Mihini Perera",
       "updatedDate": "2026-08-20"
+    },
+    "GALEWELA||MATALE": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Mihini Perera",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {
@@ -32208,6 +32216,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:29:30",
+      "iso": "2026-08-20T10:59:30.098Z",
+      "action": "updated GALEWELA showroom (visited: Yes)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-20",
@@ -32550,13 +32565,6 @@
       "time": "13:58:05",
       "iso": "2026-08-20T08:28:05.841Z",
       "action": "updated remark for HU-Y5-LITE-B at PELIYAGODA: “Damaged -90% Can not Sell”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:57:41",
-      "iso": "2026-08-20T08:27:41.250Z",
-      "action": "updated remark for HU-Y5-LITE-B at PELIYAGODA (cleared)"
     }
   ]
 }
