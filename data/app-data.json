@@ -30365,6 +30365,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:02:33",
       "lastUpdated": "2026-08-20T06:32:33.221Z"
+    },
+    "TF-SP16-063||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:02:49",
+      "lastUpdated": "2026-08-20T06:32:49.903Z"
     }
   },
   "showroomVisits": {
@@ -31109,6 +31116,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "12:02:49",
+      "iso": "2026-08-20T06:32:49.904Z",
+      "action": "updated remark for TF-SP16-063 at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "12:02:33",
       "iso": "2026-08-20T06:32:33.222Z",
       "action": "updated remark for BDV-E6100 at JA-ELA: “Exchange”"
@@ -31448,13 +31462,6 @@
       "time": "11:44:53",
       "iso": "2026-08-20T06:14:53.947Z",
       "action": "updated remark for SLE32D2010TC at KATUGASTOTA - B: “Damaged -70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:44:36",
-      "iso": "2026-08-20T06:14:36.683Z",
-      "action": "updated remark for SLE40E810C at KATUGASTOTA - B: “Exchange”"
     }
   ]
 }
