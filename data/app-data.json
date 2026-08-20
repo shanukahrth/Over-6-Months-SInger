@@ -30274,6 +30274,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:53:47",
       "lastUpdated": "2026-08-20T06:23:47.588Z"
+    },
+    "LF-OX-BR-L-S||JA-ELA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:54:37",
+      "lastUpdated": "2026-08-20T06:24:37.183Z"
     }
   },
   "showroomVisits": {
@@ -31010,6 +31017,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "11:54:37",
+      "iso": "2026-08-20T06:24:37.184Z",
+      "action": "updated remark for LF-OX-BR-L-S at JA-ELA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:53:47",
       "iso": "2026-08-20T06:23:47.589Z",
       "action": "updated remark for TF-IFP28-042 at JA-ELA: “Discount already provided”"
@@ -31349,13 +31363,6 @@
       "time": "11:39:54",
       "iso": "2026-08-20T06:09:54.475Z",
       "action": "updated remark for PN-NR-BG272DALK at KATUGASTOTA - B: “Exchange”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:39:45",
-      "iso": "2026-08-20T06:09:45.251Z",
-      "action": "updated remark for PN-NR-BG312DALK at KATUGASTOTA - B (cleared)"
     }
   ]
 }
