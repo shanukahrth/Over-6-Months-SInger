@@ -30309,6 +30309,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:58:00",
       "lastUpdated": "2026-08-20T06:28:00.398Z"
+    },
+    "MID-MF-TN40D2||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:58:24",
+      "lastUpdated": "2026-08-20T06:28:24.153Z"
     }
   },
   "showroomVisits": {
@@ -31053,6 +31060,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "11:58:24",
+      "iso": "2026-08-20T06:28:24.154Z",
+      "action": "updated remark for MID-MF-TN40D2 at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:58:00",
       "iso": "2026-08-20T06:28:00.399Z",
       "action": "updated remark for TF-SI-EXSP1231 at JA-ELA: “15%”"
@@ -31392,13 +31406,6 @@
       "time": "11:42:20",
       "iso": "2026-08-20T06:12:20.859Z",
       "action": "updated remark for CLIP-MCW at KATUGASTOTA - B: “Shop use”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:42:18",
-      "iso": "2026-08-20T06:12:18.268Z",
-      "action": "updated remark for BR-1 at KATUGASTOTA - B: “Shop use”"
     }
   ]
 }
