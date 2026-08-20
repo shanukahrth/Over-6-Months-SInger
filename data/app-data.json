@@ -32141,6 +32141,22 @@
       "remark": "",
       "updatedBy": "Mihini Perera",
       "updatedDate": "2026-08-20"
+    },
+    "KURUNEGALA B||KURUNEGALA": {
+      "visited": "No",
+      "visitDate": "2026-08-17",
+      "team": "Wayamba Team",
+      "remark": "",
+      "updatedBy": "Mihini Perera",
+      "updatedDate": "2026-08-20"
+    },
+    "KURUNEGALA C||KURUNEGALA": {
+      "visited": "No",
+      "visitDate": "2026-08-17",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Mihini Perera",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {
@@ -32152,6 +32168,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:26:59",
+      "iso": "2026-08-20T10:56:59.277Z",
+      "action": "updated KURUNEGALA C showroom (visitDate: 2026-08-17)"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:26:53",
+      "iso": "2026-08-20T10:56:53.202Z",
+      "action": "updated KURUNEGALA B showroom (team: Wayamba Team)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-20",
@@ -32487,20 +32517,6 @@
       "time": "13:47:36",
       "iso": "2026-08-20T08:17:36.544Z",
       "action": "updated remark for AES-HAV-30S at PELIYAGODA: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:46:41",
-      "iso": "2026-08-20T08:16:41.003Z",
-      "action": "updated remark for HU-NOVA-7I-B at PELIYAGODA: “Damaged -90% Can not Sell”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:46:11",
-      "iso": "2026-08-20T08:16:11.724Z",
-      "action": "updated remark for SLE40E810C at PELIYAGODA: “SHORTAGE”"
     }
   ]
 }
