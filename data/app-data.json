@@ -28692,6 +28692,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:50:21",
       "lastUpdated": "2026-08-20T05:20:21.546Z"
+    },
+    "SIN-HD-2213||KATUGASTOTA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:50:28",
+      "lastUpdated": "2026-08-20T05:20:28.961Z"
     }
   },
   "showroomVisits": {
@@ -29428,6 +29435,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:50:28",
+      "iso": "2026-08-20T05:20:28.961Z",
+      "action": "updated remark for SIN-HD-2213 at KATUGASTOTA: “Saleable existing price”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:50:21",
       "iso": "2026-08-20T05:20:21.548Z",
       "action": "updated remark for PH-NT3650 at KATUGASTOTA: “Saleable existing price”"
@@ -29767,13 +29781,6 @@
       "time": "10:42:01",
       "iso": "2026-08-20T05:12:01.651Z",
       "action": "updated remark for WF-PARIS-BL-S at WATTALA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:42:44",
-      "iso": "2026-08-20T05:12:44.647Z",
-      "action": "updated remark for TF-AF32-577 at KATUGASTOTA: “30%”"
     }
   ]
 }
