@@ -29238,6 +29238,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:04:18",
       "lastUpdated": "2026-08-20T05:34:18.442Z"
+    },
+    "SLE32E930||KATUGASTOTA": {
+      "remark": "Panel Damaged",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:04:37",
+      "lastUpdated": "2026-08-20T05:34:37.761Z"
     }
   },
   "showroomVisits": {
@@ -29974,6 +29981,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:04:37",
+      "iso": "2026-08-20T05:34:37.762Z",
+      "action": "updated remark for SLE32E930 at KATUGASTOTA: “Panel Damaged”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:04:18",
       "iso": "2026-08-20T05:34:18.443Z",
       "action": "updated remark for SLE32E910 at KATUGASTOTA: “Panel Damaged”"
@@ -30313,13 +30327,6 @@
       "time": "10:53:58",
       "iso": "2026-08-20T05:23:58.072Z",
       "action": "updated remark for SIN-RFC-2012 at VALAICHENAI: “80% Discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:54:30",
-      "iso": "2026-08-20T05:24:30.185Z",
-      "action": "updated remark for B-CWB6441XN at JA-ELA: “32000 discount”"
     }
   ]
 }
