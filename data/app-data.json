@@ -27997,8 +27997,8 @@
       "remark": "Saleable existing price",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-20",
-      "commentTime": "10:27:17",
-      "lastUpdated": "2026-08-20T04:57:17.985Z"
+      "commentTime": "10:34:39",
+      "lastUpdated": "2026-08-20T05:04:39.890Z"
     },
     "SIN-DEC-FDC||WATTALA": {
       "remark": "Do not offer discounts for this SKU, as it is an active SKU.",
@@ -28845,6 +28845,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:34:39",
+      "iso": "2026-08-20T05:04:39.892Z",
+      "action": "updated remark for LF-BR-001-DWN-S at KATUGASTOTA: “Saleable existing price”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:34:25",
@@ -29186,13 +29193,6 @@
       "time": "10:20:25",
       "iso": "2026-08-20T04:50:25.354Z",
       "action": "updated remark for LF-BUDGET-ST-CRW-S at KATUGASTOTA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:20:11",
-      "iso": "2026-08-20T04:50:11.857Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at KATUGASTOTA: “50%”"
     }
   ]
 }
