@@ -27754,6 +27754,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:19:04",
       "lastUpdated": "2026-08-20T04:49:04.064Z"
+    },
+    "SRS-XP700||WATTALA": {
+      "remark": "30%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:19:06",
+      "lastUpdated": "2026-08-20T04:49:06.130Z"
     }
   },
   "showroomVisits": {
@@ -28488,6 +28495,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:19:06",
+      "iso": "2026-08-20T04:49:06.133Z",
+      "action": "updated remark for SRS-XP700 at WATTALA: “30%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:19:04",
@@ -28829,13 +28843,6 @@
       "time": "10:07:57",
       "iso": "2026-08-20T04:37:57.732Z",
       "action": "updated remark for MB-SAFARI4S-RED at VALAICHENAI: “Rs315,000”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:07:45",
-      "iso": "2026-08-20T04:37:45.649Z",
-      "action": "updated remark for MB-SAFARI4S-BLK at VALAICHENAI: “Rs.315,0000”"
     }
   ]
 }
