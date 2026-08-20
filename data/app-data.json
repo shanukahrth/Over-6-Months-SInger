@@ -29518,6 +29518,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:19:42",
       "lastUpdated": "2026-08-20T05:49:42.195Z"
+    },
+    "LF-LEO-SCUP-BCH||KATUGASTOTA - B": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:19:49",
+      "lastUpdated": "2026-08-20T05:49:49.394Z"
     }
   },
   "showroomVisits": {
@@ -30254,6 +30261,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:19:49",
+      "iso": "2026-08-20T05:49:49.396Z",
+      "action": "updated remark for LF-LEO-SCUP-BCH at KATUGASTOTA - B: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:19:42",
       "iso": "2026-08-20T05:49:42.197Z",
       "action": "updated remark for LF-LEO-120-SHW at KATUGASTOTA - B: “50%”"
@@ -30593,13 +30607,6 @@
       "time": "11:02:38",
       "iso": "2026-08-20T05:32:38.594Z",
       "action": "updated remark for WFL-SPM-75X48X8-S at JA-ELA: “Sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:01:00",
-      "iso": "2026-08-20T05:31:00.587Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at JA-ELA: “Discount already provided”"
     }
   ]
 }
