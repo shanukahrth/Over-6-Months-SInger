@@ -30176,6 +30176,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:46:36",
       "lastUpdated": "2026-08-20T06:16:36.026Z"
+    },
+    "SWM-MET80PL||KATUGASTOTA - B": {
+      "remark": "55%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:46:45",
+      "lastUpdated": "2026-08-20T06:16:45.305Z"
     }
   },
   "showroomVisits": {
@@ -30912,6 +30919,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:46:45",
+      "iso": "2026-08-20T06:16:45.307Z",
+      "action": "updated remark for SWM-MET80PL at KATUGASTOTA - B: “55%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:46:36",
       "iso": "2026-08-20T06:16:36.027Z",
       "action": "updated remark for SWM-FA70R at KATUGASTOTA - B: “Flood effect”"
@@ -31251,13 +31265,6 @@
       "time": "11:37:07",
       "iso": "2026-08-20T06:07:07.435Z",
       "action": "updated remark for ZTE-A36-2-64GB-GRN at KATUGASTOTA - B: “30%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:36:49",
-      "iso": "2026-08-20T06:06:49.283Z",
-      "action": "updated remark for SMG-SM-M315F-B at KATUGASTOTA - B: “Saleable existing price”"
     }
   ]
 }
