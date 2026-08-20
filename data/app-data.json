@@ -29532,6 +29532,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:20:16",
       "lastUpdated": "2026-08-20T05:50:16.306Z"
+    },
+    "LF-BUDGET-ST-AGO-S||KATUGASTOTA - B": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:20:43",
+      "lastUpdated": "2026-08-20T05:50:43.450Z"
     }
   },
   "showroomVisits": {
@@ -30268,6 +30275,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:20:43",
+      "iso": "2026-08-20T05:50:43.451Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at KATUGASTOTA - B: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:20:16",
       "iso": "2026-08-20T05:50:16.307Z",
       "action": "updated remark for WFL-NOC-LC02PR-BL-S at KATUGASTOTA - B: “10%”"
@@ -30607,13 +30621,6 @@
       "time": "11:03:58",
       "iso": "2026-08-20T05:33:58.844Z",
       "action": "updated remark for SLE32D1800 at KATUGASTOTA: “Panel Damaged”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:03:27",
-      "iso": "2026-08-20T05:33:27.482Z",
-      "action": "updated remark for SKY55Q6700G at KATUGASTOTA: “70%”"
     }
   ]
 }
