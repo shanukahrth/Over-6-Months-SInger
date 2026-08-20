@@ -29336,6 +29336,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:09:32",
       "lastUpdated": "2026-08-20T05:39:32.136Z"
+    },
+    "M-SRK09CRR-S||KATUGASTOTA - B": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:11:54",
+      "lastUpdated": "2026-08-20T05:41:54.721Z"
     }
   },
   "showroomVisits": {
@@ -30072,6 +30079,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:11:54",
+      "iso": "2026-08-20T05:41:54.723Z",
+      "action": "updated remark for M-SRK09CRR-S at KATUGASTOTA - B: “30%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:09:32",
       "iso": "2026-08-20T05:39:32.137Z",
       "action": "updated remark for WP-1R-100-S at KATUGASTOTA: “Damaged- 60%”"
@@ -30411,13 +30425,6 @@
       "time": "10:57:11",
       "iso": "2026-08-20T05:27:11.932Z",
       "action": "updated remark for GEO-260NF at KATUGASTOTA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:56:16",
-      "iso": "2026-08-20T05:26:16.407Z",
-      "action": "updated remark for SLE40D600A at JA-ELA: “revert.”"
     }
   ]
 }
