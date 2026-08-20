@@ -27775,6 +27775,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:19:56",
       "lastUpdated": "2026-08-20T04:49:56.417Z"
+    },
+    "LF-BUDGET-BDQ-CRW-S||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:19:24",
+      "lastUpdated": "2026-08-20T04:49:24.846Z"
+    },
+    "LF-BUDGET-ST-AGO-S||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:19:57",
+      "lastUpdated": "2026-08-20T04:49:57.711Z"
+    },
+    "LF-BUDGET-ST-CLM-S||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:20:11",
+      "lastUpdated": "2026-08-20T04:50:11.856Z"
     }
   },
   "showroomVisits": {
@@ -28509,6 +28530,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:20:11",
+      "iso": "2026-08-20T04:50:11.857Z",
+      "action": "updated remark for LF-BUDGET-ST-CLM-S at KATUGASTOTA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:19:57",
+      "iso": "2026-08-20T04:49:57.712Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at KATUGASTOTA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:19:24",
+      "iso": "2026-08-20T04:49:24.847Z",
+      "action": "updated remark for LF-BUDGET-BDQ-CRW-S at KATUGASTOTA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:19:56",
@@ -28836,27 +28878,6 @@
       "time": "10:08:42",
       "iso": "2026-08-20T04:38:42.409Z",
       "action": "updated remark for NCPO-FP280 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:08:19",
-      "iso": "2026-08-20T04:38:19.821Z",
-      "action": "updated remark for TF-TW26-064 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:08:36",
-      "iso": "2026-08-20T04:38:36.775Z",
-      "action": "updated remark for GEO-182S-SV at VALAICHENAI: “25% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:08:26",
-      "iso": "2026-08-20T04:38:26.449Z",
-      "action": "updated remark for KD-43X75K at VALAICHENAI: “40% Discount”"
     }
   ]
 }
