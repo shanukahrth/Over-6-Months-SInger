@@ -29429,11 +29429,11 @@
       "lastUpdated": "2026-08-20T05:45:33.568Z"
     },
     "SAS-18V-INV||BATTICALOA": {
-      "remark": "80%",
+      "remark": "80% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-08-20",
-      "commentTime": "11:15:58",
-      "lastUpdated": "2026-08-20T05:45:58.049Z"
+      "commentTime": "11:16:09",
+      "lastUpdated": "2026-08-20T05:46:09.649Z"
     }
   },
   "showroomVisits": {
@@ -30170,6 +30170,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "11:16:09",
+      "iso": "2026-08-20T05:46:09.651Z",
+      "action": "updated remark for SAS-18V-INV at BATTICALOA: “80% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "11:15:58",
       "iso": "2026-08-20T05:45:58.051Z",
       "action": "updated remark for SAS-18V-INV at BATTICALOA: “80%”"
@@ -30509,13 +30516,6 @@
       "time": "10:59:43",
       "iso": "2026-08-20T05:29:43.116Z",
       "action": "updated remark for AES-HAV-30S at KATUGASTOTA: “Saleable existing price”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:59:19",
-      "iso": "2026-08-20T05:29:19.515Z",
-      "action": "updated remark for SN-SMI-285 at KATUGASTOTA: “50%”"
     }
   ]
 }
