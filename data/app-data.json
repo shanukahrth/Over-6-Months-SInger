@@ -28076,6 +28076,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:33:16",
       "lastUpdated": "2026-08-20T05:03:16.755Z"
+    },
+    "LF-OX-BR-L-WNT-S||WATTALA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:33:27",
+      "lastUpdated": "2026-08-20T05:03:27.014Z"
     }
   },
   "showroomVisits": {
@@ -28810,6 +28817,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:33:27",
+      "iso": "2026-08-20T05:03:27.017Z",
+      "action": "updated remark for LF-OX-BR-L-WNT-S at WATTALA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:33:16",
@@ -29151,13 +29165,6 @@
       "time": "10:19:14",
       "iso": "2026-08-20T04:49:14.172Z",
       "action": "updated remark for MB-LIMA-ELO7-RED at JA-ELA: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:19:06",
-      "iso": "2026-08-20T04:49:06.133Z",
-      "action": "updated remark for SRS-XP700 at WATTALA: “30%”"
     }
   ]
 }
