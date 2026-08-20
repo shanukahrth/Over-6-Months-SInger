@@ -28020,6 +28020,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:29:53",
       "lastUpdated": "2026-08-20T04:59:53.643Z"
+    },
+    "SN-SMI-285G||JA-ELA": {
+      "remark": "exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:30:23",
+      "lastUpdated": "2026-08-20T05:00:23.816Z"
     }
   },
   "showroomVisits": {
@@ -28756,6 +28763,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "10:30:23",
+      "iso": "2026-08-20T05:00:23.818Z",
+      "action": "updated remark for SN-SMI-285G at JA-ELA: “exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "10:29:53",
       "iso": "2026-08-20T04:59:53.646Z",
       "action": "updated remark for SMGAR50F12D0J at JA-ELA: “30%”"
@@ -29095,13 +29109,6 @@
       "time": "10:18:07",
       "iso": "2026-08-20T04:48:07.245Z",
       "action": "updated remark for LF-ORGN-BSC-CLM-S at KATUGASTOTA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:17:41",
-      "iso": "2026-08-20T04:47:41.407Z",
-      "action": "updated remark for OF-SWOPENCUP-S at KATUGASTOTA: “Damaged- 70%”"
     }
   ]
 }
