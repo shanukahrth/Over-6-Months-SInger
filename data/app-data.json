@@ -29693,6 +29693,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:27:16",
       "lastUpdated": "2026-08-20T05:57:16.939Z"
+    },
+    "KN-SMP01||KATUGASTOTA - B": {
+      "remark": "Unsaleable",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:27:16",
+      "lastUpdated": "2026-08-20T05:57:16.474Z"
+    },
+    "WG-GLCS-2201A||KATUGASTOTA - B": {
+      "remark": "Shop use -50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:27:37",
+      "lastUpdated": "2026-08-20T05:57:37.258Z"
     }
   },
   "showroomVisits": {
@@ -30427,6 +30441,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "11:27:37",
+      "iso": "2026-08-20T05:57:37.259Z",
+      "action": "updated remark for WG-GLCS-2201A at KATUGASTOTA - B: “Shop use -50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "11:27:16",
+      "iso": "2026-08-20T05:57:16.475Z",
+      "action": "updated remark for KN-SMP01 at KATUGASTOTA - B: “Unsaleable”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "11:27:16",
@@ -30761,20 +30789,6 @@
       "time": "11:12:50",
       "iso": "2026-08-20T05:42:50.354Z",
       "action": "updated remark for ZTE-A31-LITE-GRY at JA-ELA: “Already discounted”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:12:47",
-      "iso": "2026-08-20T05:42:47.291Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at KATUGASTOTA - B: “MOP- 30,000/=”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:12:44",
-      "iso": "2026-08-20T05:42:44.356Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at KATUGASTOTA - B: “MOP- 30,000/=”"
     }
   ]
 }
