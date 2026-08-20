@@ -31149,6 +31149,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "13:41:43",
       "lastUpdated": "2026-08-20T08:11:43.331Z"
+    },
+    "SLE40E810C||PELIYAGODA": {
+      "remark": "SHORTAGE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "13:46:11",
+      "lastUpdated": "2026-08-20T08:16:11.723Z"
     }
   },
   "showroomVisits": {
@@ -31925,6 +31932,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "13:46:11",
+      "iso": "2026-08-20T08:16:11.724Z",
+      "action": "updated remark for SLE40E810C at PELIYAGODA: “SHORTAGE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "13:41:43",
       "iso": "2026-08-20T08:11:43.334Z",
       "action": "updated remark for SLE32E910 at PELIYAGODA: “Exchange”"
@@ -32264,13 +32278,6 @@
       "time": "12:32:29",
       "iso": "2026-08-20T07:02:29.725Z",
       "action": "updated remark for PN-TH-32P401N at PELIYAGODA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "12:31:59",
-      "iso": "2026-08-20T07:01:59.225Z",
-      "action": "updated remark for BES-CRS-51 at PELIYAGODA: “10%”"
     }
   ]
 }
