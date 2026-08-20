@@ -29420,6 +29420,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:15:16",
       "lastUpdated": "2026-08-20T05:45:16.131Z"
+    },
+    "PN-CS-XU18XKYW-8||BATTICALOA": {
+      "remark": "60% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:15:33",
+      "lastUpdated": "2026-08-20T05:45:33.568Z"
     }
   },
   "showroomVisits": {
@@ -30154,6 +30161,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "11:15:33",
+      "iso": "2026-08-20T05:45:33.569Z",
+      "action": "updated remark for PN-CS-XU18XKYW-8 at BATTICALOA: “60% Discount”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "11:15:16",
@@ -30495,13 +30509,6 @@
       "time": "10:59:14",
       "iso": "2026-08-20T05:29:14.119Z",
       "action": "updated remark for KN-MG510 at JA-ELA: “Discount already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:58:54",
-      "iso": "2026-08-20T05:28:54.575Z",
-      "action": "updated remark for MC984-HO at JA-ELA: “50%”"
     }
   ]
 }
