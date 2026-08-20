@@ -26207,6 +26207,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:23:01",
       "lastUpdated": "2026-08-20T03:53:01.849Z"
+    },
+    "WF-OF-CHR005-S||JA ELA - B": {
+      "remark": "shop use",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:23:10",
+      "lastUpdated": "2026-08-20T03:53:10.700Z"
     }
   },
   "showroomVisits": {
@@ -26941,6 +26948,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:23:10",
+      "iso": "2026-08-20T03:53:10.701Z",
+      "action": "updated remark for WF-OF-CHR005-S at JA ELA - B: “shop use”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:23:01",
@@ -27282,13 +27296,6 @@
       "time": "09:01:04",
       "iso": "2026-08-20T03:31:04.098Z",
       "action": "updated remark for UR591SW at JA ELA - B: “Rs.5,000/- Special Price”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "08:59:02",
-      "iso": "2026-08-20T03:29:02.292Z",
-      "action": "updated remark for WFI-MICHU-TBL-S at PERADENIYA: “70%”"
     }
   ]
 }
