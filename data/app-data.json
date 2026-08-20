@@ -30645,6 +30645,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:23:44",
       "lastUpdated": "2026-08-20T06:53:44.358Z"
+    },
+    "AES-HAV-30S||BATTICALOA": {
+      "remark": "10% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:23:52",
+      "lastUpdated": "2026-08-20T06:53:52.501Z"
     }
   },
   "showroomVisits": {
@@ -31389,6 +31396,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:23:52",
+      "iso": "2026-08-20T06:53:52.502Z",
+      "action": "updated remark for AES-HAV-30S at BATTICALOA: “10% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:23:44",
       "iso": "2026-08-20T06:53:44.360Z",
       "action": "updated remark for WF-CLASSIC-BR-S at BATTICALOA: “50% Discount”"
@@ -31728,13 +31742,6 @@
       "time": "12:03:19",
       "iso": "2026-08-20T06:33:19.231Z",
       "action": "updated remark for SL-PB-426 at JA-ELA: “Discount already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "12:02:49",
-      "iso": "2026-08-20T06:32:49.904Z",
-      "action": "updated remark for TF-SP16-063 at JA-ELA: “Discount already provided”"
     }
   ]
 }
