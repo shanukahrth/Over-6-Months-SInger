@@ -32049,7 +32049,7 @@
     "BINGIRIYA||CHILAW": {
       "visited": "Yes",
       "visitDate": "2026-08-18",
-      "team": "",
+      "team": "Wayamba Team",
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
@@ -32224,6 +32224,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:36:02",
+      "iso": "2026-08-20T11:06:02.482Z",
+      "action": "updated BINGIRIYA showroom (team: Wayamba Team)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -32566,13 +32573,6 @@
       "time": "16:11:03",
       "iso": "2026-08-20T10:41:03.568Z",
       "action": "updated KULIYAPITIYA showroom (visitDate: 2026-08-19)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-20",
-      "time": "16:10:54",
-      "iso": "2026-08-20T10:40:54.917Z",
-      "action": "updated KULIYAPITIYA showroom (visited: Yes)"
     }
   ]
 }
