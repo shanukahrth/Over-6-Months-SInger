@@ -31683,7 +31683,7 @@
     "MAHARAGAMA||MAHARAGAMA": {
       "visited": "Yes",
       "visitDate": "2026-08-20",
-      "team": "",
+      "team": "Mega Colombo South MKT",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-20"
@@ -31698,6 +31698,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-20",
+      "time": "12:38:56",
+      "iso": "2026-08-20T07:08:56.152Z",
+      "action": "updated MAHARAGAMA showroom (team: Mega Colombo South MKT)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-20",
@@ -32040,13 +32047,6 @@
       "time": "12:24:13",
       "iso": "2026-08-20T06:54:13.268Z",
       "action": "updated remark for SHAKE-X10D at PELIYAGODA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "12:23:54",
-      "iso": "2026-08-20T06:53:54.005Z",
-      "action": "updated remark for B-RDNT401E50VZK at PELIYAGODA: “80%”"
     }
   ]
 }
