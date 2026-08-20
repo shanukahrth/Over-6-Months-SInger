@@ -27460,6 +27460,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:08:36",
       "lastUpdated": "2026-08-20T04:38:36.774Z"
+    },
+    "TF-TW26-064||KIRIBATHGODA B": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:08:19",
+      "lastUpdated": "2026-08-20T04:38:19.817Z"
+    },
+    "NCPO-FP280||KIRIBATHGODA B": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:08:42",
+      "lastUpdated": "2026-08-20T04:38:42.405Z"
     }
   },
   "showroomVisits": {
@@ -28194,6 +28208,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:08:42",
+      "iso": "2026-08-20T04:38:42.409Z",
+      "action": "updated remark for NCPO-FP280 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:08:19",
+      "iso": "2026-08-20T04:38:19.821Z",
+      "action": "updated remark for TF-TW26-064 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:08:36",
@@ -28527,20 +28555,6 @@
       "date": "2026-08-20",
       "time": "09:54:04",
       "iso": "2026-08-20T04:24:04.880Z",
-      "action": "updated remark for TCLED24D3000 at PERADENIYA: “MOP- 8000/=”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:53:43",
-      "iso": "2026-08-20T04:23:43.051Z",
-      "action": "updated remark for PN-TH-32M402N at JA ELA - B: “40%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:53:43",
-      "iso": "2026-08-20T04:23:43.504Z",
       "action": "updated remark for TCLED24D3000 at PERADENIYA: “MOP- 8000/=”"
     }
   ]
