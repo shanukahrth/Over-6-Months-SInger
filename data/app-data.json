@@ -32185,7 +32185,7 @@
     "SHOMES- MATALE||MATALE": {
       "visited": "Yes",
       "visitDate": "2026-08-17",
-      "team": "Digital",
+      "team": "Wayamba Team",
       "remark": "",
       "updatedBy": "Mihini Perera",
       "updatedDate": "2026-08-20"
@@ -32200,6 +32200,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:28:55",
+      "iso": "2026-08-20T10:58:55.874Z",
+      "action": "updated SHOMES- MATALE showroom (team: Wayamba Team)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-20",
@@ -32542,13 +32549,6 @@
       "time": "13:57:15",
       "iso": "2026-08-20T08:27:15.727Z",
       "action": "updated remark for HU-Y5-LITE-B at PELIYAGODA: “HU-Y5-LITE-B”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:56:42",
-      "iso": "2026-08-20T08:26:42.577Z",
-      "action": "updated remark for HU-SECURITY at PELIYAGODA: “-”"
     }
   ]
 }
