@@ -26466,6 +26466,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:32:07",
       "lastUpdated": "2026-08-20T04:02:07.844Z"
+    },
+    "STO-EO30C||JA ELA - B": {
+      "remark": "Already discount offered",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:32:25",
+      "lastUpdated": "2026-08-20T04:02:25.240Z"
     }
   },
   "showroomVisits": {
@@ -27202,6 +27209,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "09:32:25",
+      "iso": "2026-08-20T04:02:25.241Z",
+      "action": "updated remark for STO-EO30C at JA ELA - B: “Already discount offered”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "09:32:07",
       "iso": "2026-08-20T04:02:07.845Z",
       "action": "updated remark for IWH-1000WS at JA ELA - B: “Already discount offered”"
@@ -27541,13 +27555,6 @@
       "time": "09:19:49",
       "iso": "2026-08-20T03:49:49.402Z",
       "action": "updated remark for SID-2432 at PERADENIYA: “40%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:19:39",
-      "iso": "2026-08-20T03:49:39.841Z",
-      "action": "updated remark for SED-2432A at PERADENIYA: “50%”"
     }
   ]
 }
