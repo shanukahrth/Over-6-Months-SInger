@@ -29301,6 +29301,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:07:41",
       "lastUpdated": "2026-08-20T05:37:41.186Z"
+    },
+    "TCL65C655||KATUGASTOTA": {
+      "remark": "Exchange",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:07:53",
+      "lastUpdated": "2026-08-20T05:37:53.345Z"
     }
   },
   "showroomVisits": {
@@ -30037,6 +30044,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:07:53",
+      "iso": "2026-08-20T05:37:53.345Z",
+      "action": "updated remark for TCL65C655 at KATUGASTOTA: “Exchange”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:07:41",
       "iso": "2026-08-20T05:37:41.187Z",
       "action": "updated remark for SMGUA32N4010 at KATUGASTOTA: “Damaged”"
@@ -30376,13 +30390,6 @@
       "time": "10:55:23",
       "iso": "2026-08-20T05:25:23.644Z",
       "action": "updated remark for GEO-182S-SV at KATUGASTOTA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:55:24",
-      "iso": "2026-08-20T05:25:24.692Z",
-      "action": "updated remark for SLE40D600A at JA-ELA: “50%”"
     }
   ]
 }
