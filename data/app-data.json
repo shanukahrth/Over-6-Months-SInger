@@ -32135,8 +32135,22 @@
       "updatedDate": "2026-08-20"
     }
   },
-  "soldMarks": {},
+  "soldMarks": {
+    "MB-SAFARI4S-RED||Automobie Pamunugama": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-20"
+    }
+  },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-20",
+      "time": "16:26:23",
+      "iso": "2026-08-20T10:56:23.732Z",
+      "action": "marked MB-SAFARI4S-RED at Automobie Pamunugama as Sold"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -32479,13 +32493,6 @@
       "time": "13:41:21",
       "iso": "2026-08-20T08:11:21.980Z",
       "action": "updated remark for SIN-NOTE-W10 at PELIYAGODA: “0%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:41:02",
-      "iso": "2026-08-20T08:11:02.414Z",
-      "action": "updated remark for SM-MC3368 at PELIYAGODA: “Discount already offered”"
     }
   ]
 }
