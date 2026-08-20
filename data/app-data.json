@@ -28391,6 +28391,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:42:02",
       "lastUpdated": "2026-08-20T05:12:02.729Z"
+    },
+    "MID-MJ-KM6001W||KATUGASTOTA": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:42:11",
+      "lastUpdated": "2026-08-20T05:12:11.475Z"
     }
   },
   "showroomVisits": {
@@ -29127,6 +29134,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:42:11",
+      "iso": "2026-08-20T05:12:11.476Z",
+      "action": "updated remark for MID-MJ-KM6001W at KATUGASTOTA: “30%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:42:02",
       "iso": "2026-08-20T05:12:02.729Z",
       "action": "updated remark for MID-MF-TN40D2 at KATUGASTOTA: “40%”"
@@ -29466,13 +29480,6 @@
       "time": "10:33:46",
       "iso": "2026-08-20T05:03:46.757Z",
       "action": "updated remark for MCZJ757C at JA-ELA: “Class use”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:33:27",
-      "iso": "2026-08-20T05:03:27.017Z",
-      "action": "updated remark for LF-OX-BR-L-WNT-S at WATTALA: “50%”"
     }
   ]
 }
