@@ -25836,6 +25836,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "08:54:24",
       "lastUpdated": "2026-08-20T03:24:24.093Z"
+    },
+    "PF-RTN-ST-BU-S||PERADENIYA": {
+      "remark": "Additional - 10%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "08:54:50",
+      "lastUpdated": "2026-08-20T03:24:50.148Z"
     }
   },
   "showroomVisits": {
@@ -26572,6 +26579,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "08:54:50",
+      "iso": "2026-08-20T03:24:50.148Z",
+      "action": "updated remark for PF-RTN-ST-BU-S at PERADENIYA: “Additional - 10%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "08:54:24",
       "iso": "2026-08-20T03:24:24.095Z",
       "action": "updated remark for LF-OPENSR-WNT-S at PERADENIYA: “75%”"
@@ -26911,13 +26925,6 @@
       "time": "18:59:00",
       "iso": "2026-08-19T13:29:00.747Z",
       "action": "updated remark for SLE55G22A at PILIMATHALAWA: “70% - Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:58:35",
-      "iso": "2026-08-19T13:28:35.277Z",
-      "action": "updated remark for SLE40E710 at PILIMATHALAWA: “Unsellable”"
     }
   ]
 }
