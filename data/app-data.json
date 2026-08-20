@@ -29077,6 +29077,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:58:34",
       "lastUpdated": "2026-08-20T05:28:34.521Z"
+    },
+    "SMGRT28A3021GS||KATUGASTOTA": {
+      "remark": "MOP- 1,35,000/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:58:44",
+      "lastUpdated": "2026-08-20T05:28:44.666Z"
     }
   },
   "showroomVisits": {
@@ -29811,6 +29818,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:58:46",
+      "iso": "2026-08-20T05:28:46.989Z",
+      "action": "updated remark for SL-INV-305H at KATUGASTOTA (cleared)"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:58:44",
+      "iso": "2026-08-20T05:28:44.667Z",
+      "action": "updated remark for SMGRT28A3021GS at KATUGASTOTA: “MOP- 1,35,000/=”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:58:42",
+      "iso": "2026-08-20T05:28:42.699Z",
+      "action": "updated remark for SL-INV-305H at KATUGASTOTA: “MOP- 1,35,000/=”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:58:34",
@@ -30138,27 +30166,6 @@
       "time": "10:51:38",
       "iso": "2026-08-20T05:21:38.948Z",
       "action": "updated remark for TF-SI-EXS1230 at VALAICHENAI: “15”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:51:46",
-      "iso": "2026-08-20T05:21:46.186Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at KATUGASTOTA: “60%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:51:31",
-      "iso": "2026-08-20T05:21:31.145Z",
-      "action": "updated remark for HU-SECURITY at KATUGASTOTA: “Shop use”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:51:16",
-      "iso": "2026-08-20T05:21:16.882Z",
-      "action": "updated remark for VT-EL31109CN at KATUGASTOTA: “Return to WH -80%”"
     }
   ]
 }
