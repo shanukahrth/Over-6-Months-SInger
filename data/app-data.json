@@ -32085,10 +32085,25 @@
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
+    },
+    "NIKAWARATIYA - B||NIKAWARATIYA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "SHENULI",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {},
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:12:55",
+      "iso": "2026-08-20T10:42:55.892Z",
+      "action": "updated NIKAWARATIYA - B showroom (visited: Yes)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -32431,13 +32446,6 @@
       "time": "12:49:30",
       "iso": "2026-08-20T07:19:30.343Z",
       "action": "updated remark for URC-60 at BATTICALOA: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:49:13",
-      "iso": "2026-08-20T07:19:13.631Z",
-      "action": "updated remark for NCPDG-SP240 at BATTICALOA: “35% Discount”"
     }
   ]
 }
