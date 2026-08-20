@@ -25808,6 +25808,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "08:49:29",
       "lastUpdated": "2026-08-20T03:19:29.905Z"
+    },
+    "WF-CF-75X75-S||PERADENIYA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "08:52:19",
+      "lastUpdated": "2026-08-20T03:22:19.884Z"
     }
   },
   "showroomVisits": {
@@ -26542,6 +26549,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "08:52:19",
+      "iso": "2026-08-20T03:22:19.885Z",
+      "action": "updated remark for WF-CF-75X75-S at PERADENIYA: “Damaged - 60%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "08:49:29",
@@ -26883,13 +26897,6 @@
       "time": "18:58:12",
       "iso": "2026-08-19T13:28:12.863Z",
       "action": "updated remark for PN-TH-55MX740N at PILIMATHALAWA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:58:09",
-      "iso": "2026-08-19T13:28:09.164Z",
-      "action": "updated remark for PN-TH-43MS670N at PILIMATHALAWA: “40%”"
     }
   ]
 }
