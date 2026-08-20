@@ -30043,6 +30043,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:43:04",
       "lastUpdated": "2026-08-20T06:13:04.697Z"
+    },
+    "PM-OS-BAT||KATUGASTOTA - B": {
+      "remark": "Shop use",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:43:08",
+      "lastUpdated": "2026-08-20T06:13:08.337Z"
     }
   },
   "showroomVisits": {
@@ -30779,6 +30786,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:43:08",
+      "iso": "2026-08-20T06:13:08.338Z",
+      "action": "updated remark for PM-OS-BAT at KATUGASTOTA - B: “Shop use”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:43:04",
       "iso": "2026-08-20T06:13:04.698Z",
       "action": "updated remark for PM-COMP-8 at KATUGASTOTA - B: “Shop use”"
@@ -31118,13 +31132,6 @@
       "time": "11:30:58",
       "iso": "2026-08-20T06:00:58.532Z",
       "action": "updated remark for SISIL-RC150 at KATUGASTOTA - B: “To be dropped”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:30:39",
-      "iso": "2026-08-20T06:00:39.284Z",
-      "action": "updated remark for PCP75-SS at KATUGASTOTA - B: “30%”"
     }
   ]
 }
