@@ -27091,11 +27091,11 @@
       "lastUpdated": "2026-08-20T04:21:11.826Z"
     },
     "SMGUA32N4010||PERADENIYA": {
-      "remark": "MPO- 40,000/=",
+      "remark": "MOP- 40,000/=",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-20",
-      "commentTime": "09:51:25",
-      "lastUpdated": "2026-08-20T04:21:25.096Z"
+      "commentTime": "09:51:59",
+      "lastUpdated": "2026-08-20T04:21:59.400Z"
     },
     "WF-CLASSIC-MH||KIRIBATHGODA B": {
       "remark": "50%",
@@ -27844,6 +27844,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:51:59",
+      "iso": "2026-08-20T04:21:59.401Z",
+      "action": "updated remark for SMGUA32N4010 at PERADENIYA: “MOP- 40,000/=”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "09:51:41",
@@ -28185,13 +28192,6 @@
       "time": "09:43:02",
       "iso": "2026-08-20T04:13:02.122Z",
       "action": "updated remark for SIN-PR-K340 at PERADENIYA: “Saleable existing price”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "09:42:41",
-      "iso": "2026-08-20T04:12:41.899Z",
-      "action": "updated remark for OF-SW22-CKT-S at KIRIBATHGODA B: “50%”"
     }
   ]
 }
