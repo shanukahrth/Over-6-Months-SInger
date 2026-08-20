@@ -32135,7 +32135,7 @@
       "updatedDate": "2026-08-20"
     },
     "KURUNEGALA - D||KURUNEGALA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-17",
       "team": "Wayamba Team",
       "remark": "",
@@ -32143,7 +32143,7 @@
       "updatedDate": "2026-08-20"
     },
     "KURUNEGALA B||KURUNEGALA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-17",
       "team": "Wayamba Team",
       "remark": "",
@@ -32176,6 +32176,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:27:35",
+      "iso": "2026-08-20T10:57:35.450Z",
+      "action": "updated KURUNEGALA B showroom (visited: Yes)"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:27:33",
+      "iso": "2026-08-20T10:57:33.601Z",
+      "action": "updated KURUNEGALA - D showroom (visited: Yes)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-20",
@@ -32511,20 +32525,6 @@
       "time": "13:53:47",
       "iso": "2026-08-20T08:23:47.241Z",
       "action": "updated remark for GEO-SM-185S at PELIYAGODA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:53:26",
-      "iso": "2026-08-20T08:23:26.599Z",
-      "action": "updated remark for FAN-VIERA-TEAK at PELIYAGODA: “No discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:52:27",
-      "iso": "2026-08-20T08:22:27.723Z",
-      "action": "updated remark for FAN-P-SF1605HL at PELIYAGODA: “60%”"
     }
   ]
 }
