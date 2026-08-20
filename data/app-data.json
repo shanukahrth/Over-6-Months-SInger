@@ -26461,7 +26461,7 @@
       "updatedDate": "2026-08-20"
     },
     "HANWELLA||MAHARAGAMA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-14",
       "team": "Metro Team",
       "remark": "",
@@ -26526,6 +26526,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:28:25",
+      "iso": "2026-08-20T02:58:25.869Z",
+      "action": "updated HANWELLA showroom (visited: Yes)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26868,13 +26875,6 @@
       "time": "18:57:08",
       "iso": "2026-08-19T13:27:08.199Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at PILIMATHALAWA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:57:06",
-      "iso": "2026-08-19T13:27:06.704Z",
-      "action": "updated remark for DH-A-HFW1209CP-LED-36B at PILIMATHALAWA: “70%”"
     }
   ]
 }
