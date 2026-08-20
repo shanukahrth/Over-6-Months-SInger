@@ -84,8 +84,8 @@ window.Shared = (function () {
     { key: "mop", label: "MOP", width: 110, numeric: true },
     { key: "currentDiscountPct", label: "Current Discount %", width: 140, numeric: true },
     { key: "discountGuideline", label: "Comments / Discount Guideline", width: 260, adminOnly: true },
-    { key: "sold", label: "Sold", width: 80, isSold: true },
-    { key: "soldComment", label: "Sold Comment", width: 200, isSoldComment: true },
+    { key: "sold", label: "Sold", width: 80, isSold: true, salesOnly: true },
+    { key: "soldComment", label: "Sold Comment", width: 200, isSoldComment: true, salesOnly: true },
     { key: "remark", label: "Remark", width: 210, isRemark: true },
     { key: "commentedBy", label: "Commented By", width: 130, isMeta: true },
     { key: "commentDate", label: "Comment Date", width: 110, isMeta: true },
@@ -111,7 +111,7 @@ window.Shared = (function () {
   };
 
   const overlay = { remarks: {}, showroomVisits: {}, soldMarks: {}, activity: [] };
-  const overlayMeta = { sha: null, dirtyRemarks: new Set(), dirtyShowroom: new Set(), dirtySold: new Set(), pendingActivity: [], saveTimer: null, saving: false };
+  const overlayMeta = { sha: null, dirtyRemarks: new Set(), dirtyShowroom: new Set(), dirtySold: new Set(), pendingActivity: [], saveTimer: null, saving: false, loadFailed: false };
 
   const chartRegistry = {};
 
@@ -156,18 +156,44 @@ window.Shared = (function () {
   }
 
   async function loadOverlay() {
-    try {
-      const { sha, data } = await GitHubService.getJson(OVERLAY_PATH);
-      overlayMeta.sha = sha;
-      if (data) {
-        overlay.remarks = data.remarks || {};
-        overlay.showroomVisits = data.showroomVisits || {};
-        overlay.soldMarks = data.soldMarks || {};
-        overlay.activity = data.activity || [];
+    // Retry a couple of times before giving up — the same intermittent
+    // network hiccups that can interrupt the larger Inventory.xlsx download
+    // can just as easily interrupt this smaller fetch, and this file is
+    // what every remark/showroom-visit/sold-mark the whole team has ever
+    // entered lives in. Silently showing blank data here (with no
+    // indication anything failed) is dangerous: someone could enter new
+    // remarks on top of what looks like a "fresh" sheet, and if a save
+    // then also failed to fetch fresh data, could momentarily believe
+    // data is missing when it's actually just not loaded yet.
+    const attempts = 3;
+    for (let i = 1; i <= attempts; i++) {
+      try {
+        const { sha, data } = await GitHubService.getJson(OVERLAY_PATH);
+        overlayMeta.sha = sha;
+        if (data) {
+          overlay.remarks = data.remarks || {};
+          overlay.showroomVisits = data.showroomVisits || {};
+          overlay.soldMarks = data.soldMarks || {};
+          overlay.activity = data.activity || [];
+        }
+        overlayMeta.loadFailed = false;
+        return;
+      } catch (e) {
+        console.warn(`Overlay load attempt ${i}/${attempts} failed:`, e);
+        if (i < attempts) await new Promise((r) => setTimeout(r, 800 * i));
       }
-    } catch (e) {
-      console.warn("Overlay load failed, starting fresh:", e);
     }
+    // All attempts failed. Do NOT silently continue as if there's simply no
+    // data yet — that's how existing remarks/showroom visits appear to
+    // "disappear" from the screen with zero explanation. Make it visible.
+    overlayMeta.loadFailed = true;
+    console.error("Overlay failed to load after " + attempts + " attempts. Remarks/showroom/sold data will show blank until this succeeds \u2014 this does NOT mean the data was lost from GitHub.");
+  }
+
+  function renderOverlayLoadWarningIfNeeded() {
+    const el = document.getElementById("overlayLoadWarning");
+    if (!el) return;
+    el.classList.toggle("hidden", !overlayMeta.loadFailed);
   }
 
   function logActivity(user, action) {
@@ -798,7 +824,7 @@ window.Shared = (function () {
      ====================================================================== */
   function visibleColumns() {
     const sales = isSalesRole();
-    return TABLE_COLUMNS.filter((c) => !state.hiddenCols[c.key] && !(sales && c.adminOnly));
+    return TABLE_COLUMNS.filter((c) => !state.hiddenCols[c.key] && !(sales && c.adminOnly) && !(!sales && c.salesOnly));
   }
 
   function renderTableHead() {
@@ -977,7 +1003,7 @@ window.Shared = (function () {
   function renderColsMenu() {
     const menu = document.getElementById("colsMenu");
     const sales = isSalesRole();
-    menu.innerHTML = TABLE_COLUMNS.filter((c) => !(sales && c.adminOnly)).map((c) => `<label><input type="checkbox" data-key="${c.key}" ${state.hiddenCols[c.key] ? "" : "checked"}> ${c.label}</label>`).join("");
+    menu.innerHTML = TABLE_COLUMNS.filter((c) => !(sales && c.adminOnly) && !(!sales && c.salesOnly)).map((c) => `<label><input type="checkbox" data-key="${c.key}" ${state.hiddenCols[c.key] ? "" : "checked"}> ${c.label}</label>`).join("");
     menu.querySelectorAll("input[type=checkbox]").forEach((cb) => {
       cb.addEventListener("change", () => { state.hiddenCols[cb.dataset.key] = !cb.checked; renderTable(getFilteredData()); });
     });
@@ -1129,6 +1155,7 @@ window.Shared = (function () {
         await loadInventoryFromGitHub(false);
         resetFiltersAndView();
         renderAll(); updateDataMeta(); renderActivityLog();
+        renderOverlayLoadWarningIfNeeded();
         if (window.Showroom && !isSalesRole()) await window.Showroom.loadAndRender();
       } catch (e) { alert("Refresh failed: " + e.message); }
       finally { setLoading(false); }
@@ -1172,6 +1199,7 @@ window.Shared = (function () {
       renderAll();
       updateDataMeta();
       renderActivityLog();
+      renderOverlayLoadWarningIfNeeded();
       if (window.Showroom && !isSalesRole()) await window.Showroom.init();
     } catch (e) {
       console.error(e);
