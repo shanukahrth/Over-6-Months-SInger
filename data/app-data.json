@@ -30540,6 +30540,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:19:22",
       "lastUpdated": "2026-08-20T06:49:22.510Z"
+    },
+    "WP-NSP-J-S||BATTICALOA": {
+      "remark": "90% Di",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:19:59",
+      "lastUpdated": "2026-08-20T06:49:59.035Z"
     }
   },
   "showroomVisits": {
@@ -31284,6 +31291,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:19:59",
+      "iso": "2026-08-20T06:49:59.038Z",
+      "action": "updated remark for WP-NSP-J-S at BATTICALOA: “90% Di”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:19:22",
       "iso": "2026-08-20T06:49:22.512Z",
       "action": "updated remark for SLE40D600A at BATTICALOA: “50% Discount”"
@@ -31623,13 +31637,6 @@
       "time": "11:57:45",
       "iso": "2026-08-20T06:27:45.853Z",
       "action": "updated MAHO showroom (team: Wayambe Team)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-20",
-      "time": "11:57:31",
-      "iso": "2026-08-20T06:27:31.095Z",
-      "action": "updated MAHO showroom (visitDate: 0002-08-18)"
     }
   ]
 }
