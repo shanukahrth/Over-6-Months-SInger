@@ -31051,6 +31051,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:49:30",
       "lastUpdated": "2026-08-20T07:19:30.342Z"
+    },
+    "USI-ATC-302||BATTICALOA": {
+      "remark": "40% Discount (Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:49:59",
+      "lastUpdated": "2026-08-20T07:19:59.936Z"
     }
   },
   "showroomVisits": {
@@ -31827,6 +31834,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:49:59",
+      "iso": "2026-08-20T07:19:59.939Z",
+      "action": "updated remark for USI-ATC-302 at BATTICALOA: “40% Discount (Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:49:30",
       "iso": "2026-08-20T07:19:30.343Z",
       "action": "updated remark for URC-60 at BATTICALOA: “70% Discount”"
@@ -32166,13 +32180,6 @@
       "time": "12:29:21",
       "iso": "2026-08-20T06:59:21.098Z",
       "action": "updated remark for ZTE-A52020-GR at BATTICALOA: “Damage 80% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:29:03",
-      "iso": "2026-08-20T06:59:03.741Z",
-      "action": "updated remark for SIN-BS30 at BATTICALOA: “Damage - 80% Discount”"
     }
   ]
 }
