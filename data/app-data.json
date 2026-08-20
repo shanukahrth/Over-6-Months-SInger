@@ -26151,6 +26151,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:19:49",
       "lastUpdated": "2026-08-20T03:49:49.401Z"
+    },
+    "SIN-MRG-1008C||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:20:15",
+      "lastUpdated": "2026-08-20T03:50:15.280Z"
     }
   },
   "showroomVisits": {
@@ -26887,6 +26894,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "09:20:15",
+      "iso": "2026-08-20T03:50:15.281Z",
+      "action": "updated remark for SIN-MRG-1008C at PERADENIYA: “Saleable existing price”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "09:19:49",
       "iso": "2026-08-20T03:49:49.402Z",
       "action": "updated remark for SID-2432 at PERADENIYA: “40%”"
@@ -27226,13 +27240,6 @@
       "time": "08:55:11",
       "iso": "2026-08-20T03:25:11.886Z",
       "action": "updated remark for PF-KID-DSK-GRN-S at PERADENIYA: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "08:54:50",
-      "iso": "2026-08-20T03:24:50.148Z",
-      "action": "updated remark for PF-RTN-ST-BU-S at PERADENIYA: “Additional - 10%”"
     }
   ]
 }
