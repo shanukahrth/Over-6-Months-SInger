@@ -27082,6 +27082,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:50:48",
       "lastUpdated": "2026-08-20T04:20:48.773Z"
+    },
+    "TCL43S5400||JA ELA - B": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:51:11",
+      "lastUpdated": "2026-08-20T04:21:11.826Z"
     }
   },
   "showroomVisits": {
@@ -27818,6 +27825,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "09:51:11",
+      "iso": "2026-08-20T04:21:11.827Z",
+      "action": "updated remark for TCL43S5400 at JA ELA - B: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "09:50:48",
       "iso": "2026-08-20T04:20:48.775Z",
       "action": "updated remark for MC984-HO at JA ELA - B: “40%”"
@@ -28157,13 +28171,6 @@
       "time": "09:42:33",
       "iso": "2026-08-20T04:12:33.837Z",
       "action": "updated remark for MC984-HO at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:42:26",
-      "iso": "2026-08-20T04:12:26.470Z",
-      "action": "updated remark for MC8280 at PERADENIYA: “50%”"
     }
   ]
 }
