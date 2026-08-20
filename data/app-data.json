@@ -28979,6 +28979,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:55:19",
       "lastUpdated": "2026-08-20T05:25:19.742Z"
+    },
+    "SLE40D600A||JA-ELA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:55:24",
+      "lastUpdated": "2026-08-20T05:25:24.690Z"
     }
   },
   "showroomVisits": {
@@ -29713,6 +29720,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:55:24",
+      "iso": "2026-08-20T05:25:24.692Z",
+      "action": "updated remark for SLE40D600A at JA-ELA: “50%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:55:19",
@@ -30054,13 +30068,6 @@
       "time": "10:49:58",
       "iso": "2026-08-20T05:19:58.499Z",
       "action": "updated remark for SIN-RFC-2058 at KATUGASTOTA: “Saleable existing price”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:49:54",
-      "iso": "2026-08-20T05:19:54.324Z",
-      "action": "updated remark for FAN-P-1605H at VALAICHENAI: “50% Discount”"
     }
   ]
 }
