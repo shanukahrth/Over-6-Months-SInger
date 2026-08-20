@@ -26469,7 +26469,7 @@
       "updatedDate": "2026-08-20"
     },
     "KOSGAMA||MAHARAGAMA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-14",
       "team": "Kosgama",
       "remark": "",
@@ -26526,6 +26526,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:28:09",
+      "iso": "2026-08-20T02:58:09.117Z",
+      "action": "updated KOSGAMA showroom (visited: Yes)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26868,13 +26875,6 @@
       "time": "18:57:04",
       "iso": "2026-08-19T13:27:04.699Z",
       "action": "updated remark for DH-A-B1A21P-36B at PILIMATHALAWA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:56:59",
-      "iso": "2026-08-19T13:26:59.980Z",
-      "action": "updated remark for BTS-10KG at PILIMATHALAWA: “10%”"
     }
   ]
 }
