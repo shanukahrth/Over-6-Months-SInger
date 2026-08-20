@@ -29126,6 +29126,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:59:58",
       "lastUpdated": "2026-08-20T05:29:58.131Z"
+    },
+    "SBS-484||KATUGASTOTA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:00:16",
+      "lastUpdated": "2026-08-20T05:30:16.331Z"
     }
   },
   "showroomVisits": {
@@ -29860,6 +29867,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "11:00:16",
+      "iso": "2026-08-20T05:30:16.332Z",
+      "action": "updated remark for SBS-484 at KATUGASTOTA: “Saleable existing price”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:59:58",
@@ -30201,13 +30215,6 @@
       "time": "10:51:17",
       "iso": "2026-08-20T05:21:17.874Z",
       "action": "updated remark for PN-SC-BMAX5E-K at JA-ELA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:51:01",
-      "iso": "2026-08-20T05:21:01.229Z",
-      "action": "updated remark for MID-D30-20EVN1 at JA-ELA: “-”"
     }
   ]
 }
