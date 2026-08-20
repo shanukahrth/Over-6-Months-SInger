@@ -30232,6 +30232,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:47:59",
       "lastUpdated": "2026-08-20T06:17:59.307Z"
+    },
+    "TF-FP24-SCR342||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:48:26",
+      "lastUpdated": "2026-08-20T06:18:26.559Z"
     }
   },
   "showroomVisits": {
@@ -30968,6 +30975,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "11:48:26",
+      "iso": "2026-08-20T06:18:26.560Z",
+      "action": "updated remark for TF-FP24-SCR342 at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:47:59",
       "iso": "2026-08-20T06:17:59.308Z",
       "action": "updated remark for FAN-P-SF1605HR at JA-ELA: “60%”"
@@ -31307,13 +31321,6 @@
       "time": "11:38:38",
       "iso": "2026-08-20T06:08:38.507Z",
       "action": "updated remark for GEO-182S-SV at KATUGASTOTA - B: “Sold”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:38:24",
-      "iso": "2026-08-20T06:08:24.027Z",
-      "action": "updated remark for GEO-182S-SV at KATUGASTOTA - B: “Flood effect”"
     }
   ]
 }
