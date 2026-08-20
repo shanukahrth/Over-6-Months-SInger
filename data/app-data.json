@@ -27544,6 +27544,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:10:30",
       "lastUpdated": "2026-08-20T04:40:30.030Z"
+    },
+    "MHC-V21D||KATUGASTOTA": {
+      "remark": "Damaged- 70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:10:53",
+      "lastUpdated": "2026-08-20T04:40:53.297Z"
     }
   },
   "showroomVisits": {
@@ -28280,6 +28287,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:10:53",
+      "iso": "2026-08-20T04:40:53.298Z",
+      "action": "updated remark for MHC-V21D at KATUGASTOTA: “Damaged- 70%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:10:30",
       "iso": "2026-08-20T04:40:30.031Z",
       "action": "updated remark for MHC-M40D at KATUGASTOTA: “Damaged- 70%”"
@@ -28619,13 +28633,6 @@
       "time": "09:55:50",
       "iso": "2026-08-20T04:25:50.741Z",
       "action": "updated remark for NVC2302A1 at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:55:43",
-      "iso": "2026-08-20T04:25:43.899Z",
-      "action": "updated remark for H-CVW1600 at PERADENIYA: “Saleable existing price”"
     }
   ]
 }
