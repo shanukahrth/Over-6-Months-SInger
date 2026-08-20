@@ -29490,6 +29490,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:18:27",
       "lastUpdated": "2026-08-20T05:48:27.090Z"
+    },
+    "FAN-P-SF1605HR||KATUGASTOTA - B": {
+      "remark": "Flood effect",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:18:45",
+      "lastUpdated": "2026-08-20T05:48:45.322Z"
     }
   },
   "showroomVisits": {
@@ -30226,6 +30233,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:18:45",
+      "iso": "2026-08-20T05:48:45.323Z",
+      "action": "updated remark for FAN-P-SF1605HR at KATUGASTOTA - B: “Flood effect”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:18:27",
       "iso": "2026-08-20T05:48:27.091Z",
       "action": "updated remark for MB-LIMA-ELO7-RED at KATUGASTOTA - B: “Saleable existing price”"
@@ -30565,13 +30579,6 @@
       "time": "11:02:22",
       "iso": "2026-08-20T05:32:22.275Z",
       "action": "updated remark for KLV-32R326E at KATUGASTOTA: “Panel Damaged”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:02:07",
-      "iso": "2026-08-20T05:32:07.100Z",
-      "action": "updated remark for KLV-32R306C at KATUGASTOTA: “Panel Damaged”"
     }
   ]
 }
