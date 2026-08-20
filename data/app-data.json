@@ -30197,6 +30197,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:47:09",
       "lastUpdated": "2026-08-20T06:17:09.960Z"
+    },
+    "ULED32D2070||JA-ELA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:46:40",
+      "lastUpdated": "2026-08-20T06:16:40.223Z"
+    },
+    "SW-SK14610GRYN||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:46:58",
+      "lastUpdated": "2026-08-20T06:16:58.392Z"
+    },
+    "SIN-EP170||JA-ELA": {
+      "remark": "0",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:47:19",
+      "lastUpdated": "2026-08-20T06:17:19.511Z"
     }
   },
   "showroomVisits": {
@@ -30931,6 +30952,27 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:47:19",
+      "iso": "2026-08-20T06:17:19.512Z",
+      "action": "updated remark for SIN-EP170 at JA-ELA: “0”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:46:58",
+      "iso": "2026-08-20T06:16:58.393Z",
+      "action": "updated remark for SW-SK14610GRYN at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:46:40",
+      "iso": "2026-08-20T06:16:40.223Z",
+      "action": "updated remark for ULED32D2070 at JA-ELA: “Exchange”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "11:47:09",
@@ -31258,27 +31300,6 @@
       "time": "11:37:38",
       "iso": "2026-08-20T06:07:38.571Z",
       "action": "updated remark for CAN-I-E410 at KATUGASTOTA - B: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:37:19",
-      "iso": "2026-08-20T06:07:19.321Z",
-      "action": "updated remark for SIN-BS30 at JA-ELA: “Rs.8,500/- Special Price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:36:53",
-      "iso": "2026-08-20T06:06:53.681Z",
-      "action": "updated remark for WP-SS-SUB1-S at JA-ELA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:32:03",
-      "iso": "2026-08-20T06:02:03.463Z",
-      "action": "updated remark for ZTE-A75-4GB-256GB-GRN at JA-ELA: “Unboxed - 15%”"
     }
   ]
 }
