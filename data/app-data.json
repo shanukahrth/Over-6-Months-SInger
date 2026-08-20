@@ -29182,6 +29182,34 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:02:22",
       "lastUpdated": "2026-08-20T05:32:22.274Z"
+    },
+    "WFI-MARCY-CHR-S||JA-ELA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:00:18",
+      "lastUpdated": "2026-08-20T05:30:18.525Z"
+    },
+    "SLE32E910||JA-ELA": {
+      "remark": "exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:00:42",
+      "lastUpdated": "2026-08-20T05:30:42.569Z"
+    },
+    "WP-MAGICOOKPRO-25GE||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:01:00",
+      "lastUpdated": "2026-08-20T05:31:00.585Z"
+    },
+    "WFL-SPM-75X48X8-S||JA-ELA": {
+      "remark": "Sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:02:38",
+      "lastUpdated": "2026-08-20T05:32:38.592Z"
     }
   },
   "showroomVisits": {
@@ -29916,6 +29944,34 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:02:38",
+      "iso": "2026-08-20T05:32:38.594Z",
+      "action": "updated remark for WFL-SPM-75X48X8-S at JA-ELA: “Sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:01:00",
+      "iso": "2026-08-20T05:31:00.587Z",
+      "action": "updated remark for WP-MAGICOOKPRO-25GE at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:00:42",
+      "iso": "2026-08-20T05:30:42.570Z",
+      "action": "updated remark for SLE32E910 at JA-ELA: “exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:00:18",
+      "iso": "2026-08-20T05:30:18.527Z",
+      "action": "updated remark for WFI-MARCY-CHR-S at JA-ELA: “50%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "11:02:22",
@@ -30236,34 +30292,6 @@
       "time": "10:53:34",
       "iso": "2026-08-20T05:23:34.170Z",
       "action": "updated remark for SIN-RFC-2012 at VALAICHENAI: “60% DIscount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:53:20",
-      "iso": "2026-08-20T05:23:20.726Z",
-      "action": "updated remark for TF-SI-ESS-242 at VALAICHENAI: “15% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:53:10",
-      "iso": "2026-08-20T05:23:10.647Z",
-      "action": "updated remark for SIN-RFC-2058 at VALAICHENAI: “50% Discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:53:17",
-      "iso": "2026-08-20T05:23:17.179Z",
-      "action": "updated remark for KA-SM-1086 at JA-ELA: “Discount already provided”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:53:20",
-      "iso": "2026-08-20T05:23:20.203Z",
-      "action": "updated remark for ZTE-A36-2-64GB-GRN at KATUGASTOTA: “30%”"
     }
   ]
 }
