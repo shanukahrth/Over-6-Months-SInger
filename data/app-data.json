@@ -26053,6 +26053,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:16:21",
       "lastUpdated": "2026-08-20T03:46:21.992Z"
+    },
+    "WF-VERONA-06-S||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:16:39",
+      "lastUpdated": "2026-08-20T03:46:39.521Z"
     }
   },
   "showroomVisits": {
@@ -26787,6 +26794,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:16:39",
+      "iso": "2026-08-20T03:46:39.522Z",
+      "action": "updated remark for WF-VERONA-06-S at PERADENIYA: “50%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "09:16:21",
@@ -27128,13 +27142,6 @@
       "time": "08:28:40",
       "iso": "2026-08-20T02:58:40.132Z",
       "action": "updated PADUKKA showroom (visited: Yes)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:28:25",
-      "iso": "2026-08-20T02:58:25.869Z",
-      "action": "updated HANWELLA showroom (visited: Yes)"
     }
   ]
 }
