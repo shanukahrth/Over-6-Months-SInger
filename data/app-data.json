@@ -28342,6 +28342,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:41:18",
       "lastUpdated": "2026-08-20T05:11:18.705Z"
+    },
+    "LG-002||KATUGASTOTA": {
+      "remark": "40%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:41:34",
+      "lastUpdated": "2026-08-20T05:11:34.145Z"
     }
   },
   "showroomVisits": {
@@ -29078,6 +29085,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:41:34",
+      "iso": "2026-08-20T05:11:34.146Z",
+      "action": "updated remark for LG-002 at KATUGASTOTA: “40%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:41:18",
       "iso": "2026-08-20T05:11:18.707Z",
       "action": "updated remark for TF-IT30-169 at KATUGASTOTA: “50%”"
@@ -29417,13 +29431,6 @@
       "time": "10:30:47",
       "iso": "2026-08-20T05:00:47.490Z",
       "action": "updated remark for SRS-XV500 at JA-ELA: “30%-Display”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:30:33",
-      "iso": "2026-08-20T05:00:33.285Z",
-      "action": "updated remark for FAN-WF1608R at WATTALA: “Do not offer discounts for this SKU, as it is an active SKU.”"
     }
   ]
 }
