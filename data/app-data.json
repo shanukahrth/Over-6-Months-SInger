@@ -27229,6 +27229,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:55:36",
       "lastUpdated": "2026-08-20T04:25:36.690Z"
+    },
+    "H-CVW1600||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:55:43",
+      "lastUpdated": "2026-08-20T04:25:43.898Z"
+    },
+    "NVC2302A1||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:55:50",
+      "lastUpdated": "2026-08-20T04:25:50.739Z"
+    },
+    "WC-IK518||PERADENIYA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:56:02",
+      "lastUpdated": "2026-08-20T04:26:02.219Z"
     }
   },
   "showroomVisits": {
@@ -27963,6 +27984,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:56:02",
+      "iso": "2026-08-20T04:26:02.221Z",
+      "action": "updated remark for WC-IK518 at PERADENIYA: “70%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:55:50",
+      "iso": "2026-08-20T04:25:50.741Z",
+      "action": "updated remark for NVC2302A1 at PERADENIYA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:55:43",
+      "iso": "2026-08-20T04:25:43.899Z",
+      "action": "updated remark for H-CVW1600 at PERADENIYA: “Saleable existing price”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "09:55:36",
@@ -28290,27 +28332,6 @@
       "time": "09:46:36",
       "iso": "2026-08-20T04:16:36.973Z",
       "action": "updated remark for SLE32E930 at PERADENIYA: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:46:28",
-      "iso": "2026-08-20T04:16:28.245Z",
-      "action": "updated remark for SLE32E910 at PERADENIYA: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:46:18",
-      "iso": "2026-08-20T04:16:18.605Z",
-      "action": "updated remark for SLE32E910 at PERADENIYA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:46:11",
-      "iso": "2026-08-20T04:16:11.504Z",
-      "action": "updated remark for FT-FAC-20241 at JA ELA - B: “0”"
     }
   ]
 }
