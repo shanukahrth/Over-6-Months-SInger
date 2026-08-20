@@ -27845,6 +27845,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:21:20",
       "lastUpdated": "2026-08-20T04:51:20.400Z"
+    },
+    "LF-MIKO-WD-SHW||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:21:33",
+      "lastUpdated": "2026-08-20T04:51:33.138Z"
     }
   },
   "showroomVisits": {
@@ -28579,6 +28586,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:21:33",
+      "iso": "2026-08-20T04:51:33.140Z",
+      "action": "updated remark for LF-MIKO-WD-SHW at KATUGASTOTA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:21:20",
@@ -28920,13 +28934,6 @@
       "time": "10:09:53",
       "iso": "2026-08-20T04:39:53.082Z",
       "action": "updated remark for AC-TEMP-NOVA-2I at KATUGASTOTA: “To be dropped”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:09:43",
-      "iso": "2026-08-20T04:39:43.637Z",
-      "action": "updated remark for GEO-242D-SV at VALAICHENAI: “25% Discount”"
     }
   ]
 }
