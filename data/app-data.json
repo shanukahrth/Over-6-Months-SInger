@@ -26823,6 +26823,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:42:34",
       "lastUpdated": "2026-08-20T04:12:34.766Z"
+    },
+    "OF-SW22-CKT-S||KIRIBATHGODA B": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:42:41",
+      "lastUpdated": "2026-08-20T04:12:41.894Z"
     }
   },
   "showroomVisits": {
@@ -27557,6 +27564,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:42:41",
+      "iso": "2026-08-20T04:12:41.899Z",
+      "action": "updated remark for OF-SW22-CKT-S at KIRIBATHGODA B: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:42:34",
@@ -27898,13 +27912,6 @@
       "time": "09:33:49",
       "iso": "2026-08-20T04:03:49.098Z",
       "action": "updated remark for HU-SECURITY at PERADENIYA: “Shop use”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:33:30",
-      "iso": "2026-08-20T04:03:30.429Z",
-      "action": "updated remark for IWH-2500WL at JA ELA - B: “Already discount offered”"
     }
   ]
 }
