@@ -147,21 +147,43 @@ const GitHubService = (function () {
 
     const url = `${API}/repos/${cfg.owner}/${cfg.repo}/contents/${encodeURIComponent(path).replace(/%2F/g,"/")}?ref=${encodeURIComponent(cfg.branch)}`;
 
-    const res = await fetch(url,{
-      headers:{
-        "Authorization":"Bearer " + cfg.token,
-        "Accept":"application/vnd.github.raw"
+    // Larger files (multi-MB xlsx workbooks) occasionally hit a transient
+    // network-level failure (e.g. net::ERR_HTTP_2_PROTOCOL_ERROR) partway
+    // through the download, which shows up as a generic "Failed to fetch"
+    // with no HTTP status at all. Retry a few times with backoff before
+    // giving up, since a clean HTTP error (404, 403, etc.) is NOT retried
+    // here — only genuine connection-level failures are.
+    const maxAttempts = 3;
+    let lastErr;
+    for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+      try {
+        const res = await fetch(url, {
+          headers: {
+            "Authorization": "Bearer " + cfg.token,
+            "Accept": "application/vnd.github.raw"
+          }
+        });
+
+        if (res.status === 404) return { sha: null, buffer: null };
+        if (!res.ok) {
+          const body = await res.text().catch(() => "");
+          // Clean HTTP error responses (403, 500, etc.) are not retried —
+          // retrying won't change GitHub's answer.
+          throw Object.assign(new Error(body || `GitHub read failed (${res.status})`), { status: res.status, retryable: false });
+        }
+
+        const buffer = await res.arrayBuffer();
+        return { sha: res.headers.get("etag"), buffer };
+      } catch (e) {
+        lastErr = e;
+        if (e.retryable === false) throw e;
+        if (attempt < maxAttempts) {
+          console.warn(`getBinary(${path}) attempt ${attempt}/${maxAttempts} failed, retrying:`, e);
+          await new Promise((r) => setTimeout(r, 900 * attempt));
+        }
       }
-    });
-
-    if(res.status===404) return {sha:null,buffer:null};
-    if(!res.ok){
-      const body=await res.text().catch(()=> "");
-      throw new Error(body || `GitHub read failed (${res.status})`);
     }
-
-    const buffer=await res.arrayBuffer();
-    return {sha:res.headers.get("etag"),buffer};
+    throw lastErr;
   }
 
   // Tries each path in order and returns the first one that actually exists.
