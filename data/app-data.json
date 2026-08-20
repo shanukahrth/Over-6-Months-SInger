@@ -29714,6 +29714,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:28:08",
       "lastUpdated": "2026-08-20T05:58:08.458Z"
+    },
+    "MID-MJ-KM6001W||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:28:14",
+      "lastUpdated": "2026-08-20T05:58:14.502Z"
     }
   },
   "showroomVisits": {
@@ -30448,6 +30455,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:28:14",
+      "iso": "2026-08-20T05:58:14.502Z",
+      "action": "updated remark for MID-MJ-KM6001W at JA-ELA: “Discount already provided”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "11:28:08",
@@ -30789,13 +30803,6 @@
       "time": "11:13:41",
       "iso": "2026-08-20T05:43:41.123Z",
       "action": "updated remark for SMW823AY7 at JA-ELA: “Discount already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:13:14",
-      "iso": "2026-08-20T05:43:14.990Z",
-      "action": "updated remark for SBI-60M19-T at JA-ELA: “20%”"
     }
   ]
 }
