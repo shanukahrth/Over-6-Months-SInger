@@ -28132,6 +28132,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:35:04",
       "lastUpdated": "2026-08-20T05:05:04.577Z"
+    },
+    "PF-GRID-1D-CR-S||WATTALA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:35:02",
+      "lastUpdated": "2026-08-20T05:05:02.023Z"
     }
   },
   "showroomVisits": {
@@ -28866,6 +28873,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:35:02",
+      "iso": "2026-08-20T05:05:02.026Z",
+      "action": "updated remark for PF-GRID-1D-CR-S at WATTALA: “50%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:35:04",
@@ -29207,13 +29221,6 @@
       "time": "10:20:24",
       "iso": "2026-08-20T04:50:24.476Z",
       "action": "updated remark for MB-TLG-F71-WHT at JA-ELA: “-”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:20:56",
-      "iso": "2026-08-20T04:50:56.276Z",
-      "action": "updated remark for LF-ECO-BDQ-BON-S at KATUGASTOTA: “50%”"
     }
   ]
 }
