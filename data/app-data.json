@@ -28587,6 +28587,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:48:07",
       "lastUpdated": "2026-08-20T05:18:07.926Z"
+    },
+    "PN-SC-BMAX10E-K||JA-ELA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:48:19",
+      "lastUpdated": "2026-08-20T05:18:19.981Z"
     }
   },
   "showroomVisits": {
@@ -29321,6 +29328,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:48:20",
+      "iso": "2026-08-20T05:18:20.043Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at JA-ELA: “40%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:48:07",
@@ -29662,13 +29676,6 @@
       "time": "10:39:49",
       "iso": "2026-08-20T05:09:49.616Z",
       "action": "updated remark for NCPO-FP200 at KATUGASTOTA: “30%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:39:40",
-      "iso": "2026-08-20T05:09:40.672Z",
-      "action": "updated remark for NCPO-DC200 at KATUGASTOTA: “30%”"
     }
   ]
 }
