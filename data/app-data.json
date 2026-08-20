@@ -26228,6 +26228,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:24:13",
       "lastUpdated": "2026-08-20T03:54:13.802Z"
+    },
+    "WF-ORIENT-CHR-S||JA ELA - B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:24:39",
+      "lastUpdated": "2026-08-20T03:54:39.714Z"
     }
   },
   "showroomVisits": {
@@ -26964,6 +26971,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "09:24:39",
+      "iso": "2026-08-20T03:54:39.716Z",
+      "action": "updated remark for WF-ORIENT-CHR-S at JA ELA - B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "09:24:13",
       "iso": "2026-08-20T03:54:13.803Z",
       "action": "updated remark for PU-SP-173-S at JA ELA - B: “50%”"
@@ -27303,13 +27317,6 @@
       "time": "09:03:28",
       "iso": "2026-08-20T03:33:28.612Z",
       "action": "updated remark for HON-X7B-8-256-SIL at MATARA-A: “Sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:02:52",
-      "iso": "2026-08-20T03:32:52.684Z",
-      "action": "updated remark for SRS-XV500 at JA ELA - B: “30%”"
     }
   ]
 }
