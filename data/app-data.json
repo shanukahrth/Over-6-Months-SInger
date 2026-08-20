@@ -28041,6 +28041,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:30:47",
       "lastUpdated": "2026-08-20T05:00:47.489Z"
+    },
+    "TCL65P615||JA-ELA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:31:19",
+      "lastUpdated": "2026-08-20T05:01:19.863Z"
     }
   },
   "showroomVisits": {
@@ -28777,6 +28784,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "10:31:19",
+      "iso": "2026-08-20T05:01:19.866Z",
+      "action": "updated remark for TCL65P615 at JA-ELA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "10:30:47",
       "iso": "2026-08-20T05:00:47.490Z",
       "action": "updated remark for SRS-XV500 at JA-ELA: “30%-Display”"
@@ -29116,13 +29130,6 @@
       "time": "10:18:16",
       "iso": "2026-08-20T04:48:16.429Z",
       "action": "updated remark for MB-SAFARI4S-RED at JA-ELA: “Promotion already offered”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:17:32",
-      "iso": "2026-08-20T04:47:32.330Z",
-      "action": "updated remark for SKY75X8700G at JA-ELA: “additional 10%”"
     }
   ]
 }
