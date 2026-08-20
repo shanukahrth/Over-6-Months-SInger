@@ -29280,6 +29280,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:06:53",
       "lastUpdated": "2026-08-20T05:36:53.874Z"
+    },
+    "ULED32D2070||KATUGASTOTA": {
+      "remark": "Damaged - Unsaleable",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:07:16",
+      "lastUpdated": "2026-08-20T05:37:16.986Z"
     }
   },
   "showroomVisits": {
@@ -30016,6 +30023,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:07:16",
+      "iso": "2026-08-20T05:37:16.988Z",
+      "action": "updated remark for ULED32D2070 at KATUGASTOTA: “Damaged - Unsaleable”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:06:53",
       "iso": "2026-08-20T05:36:53.876Z",
       "action": "updated remark for SLE43D1800TC at KATUGASTOTA: “Damaged - Unsaleable”"
@@ -30355,13 +30369,6 @@
       "time": "10:55:06",
       "iso": "2026-08-20T05:25:06.879Z",
       "action": "updated remark for DELL-HL-LAT3450-I5-16-WP at VALAICHENAI: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:54:55",
-      "iso": "2026-08-20T05:24:55.289Z",
-      "action": "updated remark for NCPDG-MP160 at VALAICHENAI: “50% Discount”"
     }
   ]
 }
