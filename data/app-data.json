@@ -29056,6 +29056,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:58:00",
       "lastUpdated": "2026-08-20T05:28:00.081Z"
+    },
+    "TCLTB10-3-64-BLK||JA-ELA": {
+      "remark": "Damage - return to WH",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:57:57",
+      "lastUpdated": "2026-08-20T05:27:57.240Z"
     }
   },
   "showroomVisits": {
@@ -29790,6 +29797,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:57:57",
+      "iso": "2026-08-20T05:27:57.240Z",
+      "action": "updated remark for TCLTB10-3-64-BLK at JA-ELA: “Damage - return to WH”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:58:00",
@@ -30131,13 +30145,6 @@
       "time": "10:51:18",
       "iso": "2026-08-20T05:21:18.940Z",
       "action": "updated remark for ZTE-A35E-2-32GB-GRN at VALAICHENAI: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:51:07",
-      "iso": "2026-08-20T05:21:07.807Z",
-      "action": "updated remark for SW-ST19025BLK at VALAICHENAI: “60% Discount”"
     }
   ]
 }
