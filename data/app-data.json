@@ -27810,6 +27810,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:20:29",
       "lastUpdated": "2026-08-20T04:50:29.133Z"
+    },
+    "LF-ECO-BDQ-BON-S||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:20:42",
+      "lastUpdated": "2026-08-20T04:50:42.243Z"
     }
   },
   "showroomVisits": {
@@ -28546,6 +28553,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:20:42",
+      "iso": "2026-08-20T04:50:42.244Z",
+      "action": "updated remark for LF-ECO-BDQ-BON-S at KATUGASTOTA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:20:29",
       "iso": "2026-08-20T04:50:29.134Z",
       "action": "updated remark for LF-ECO-3WD-WNG-S at KATUGASTOTA: “50%”"
@@ -28885,13 +28899,6 @@
       "time": "10:09:21",
       "iso": "2026-08-20T04:39:21.378Z",
       "action": "updated remark for B-RDNI270XIB100P at VALAICHENAI: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:09:03",
-      "iso": "2026-08-20T04:39:03.791Z",
-      "action": "updated remark for SL-ECO192-TG at VALAICHENAI: “25% Discount”"
     }
   ]
 }
