@@ -27852,6 +27852,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:21:33",
       "lastUpdated": "2026-08-20T04:51:33.138Z"
+    },
+    "PN-CS-XU18XKYW-8||JA-ELA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:21:52",
+      "lastUpdated": "2026-08-20T04:51:52.404Z"
     }
   },
   "showroomVisits": {
@@ -28586,6 +28593,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:21:52",
+      "iso": "2026-08-20T04:51:52.406Z",
+      "action": "updated remark for PN-CS-XU18XKYW-8 at JA-ELA: “60%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:21:33",
@@ -28927,13 +28941,6 @@
       "time": "10:09:54",
       "iso": "2026-08-20T04:39:54.514Z",
       "action": "updated remark for SL-ECO192-TG at VALAICHENAI: “25% Discount”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:09:53",
-      "iso": "2026-08-20T04:39:53.082Z",
-      "action": "updated remark for AC-TEMP-NOVA-2I at KATUGASTOTA: “To be dropped”"
     }
   ]
 }
