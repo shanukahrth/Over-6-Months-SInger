@@ -30295,6 +30295,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:56:33",
       "lastUpdated": "2026-08-20T06:26:33.529Z"
+    },
+    "SIN-MRG-1008C||JA-ELA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:57:05",
+      "lastUpdated": "2026-08-20T06:27:05.629Z"
     }
   },
   "showroomVisits": {
@@ -31031,6 +31038,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "11:57:05",
+      "iso": "2026-08-20T06:27:05.630Z",
+      "action": "updated remark for SIN-MRG-1008C at JA-ELA: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:56:33",
       "iso": "2026-08-20T06:26:33.529Z",
       "action": "updated remark for ZTE-A36-2-64GB-GRN at JA-ELA: “0”"
@@ -31370,13 +31384,6 @@
       "time": "11:41:12",
       "iso": "2026-08-20T06:11:12.075Z",
       "action": "updated remark for SMGRT28A3021GS at KATUGASTOTA - B: “Flood effect”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:40:28",
-      "iso": "2026-08-20T06:10:28.617Z",
-      "action": "updated remark for WP-NEO258NF at KATUGASTOTA - B: “Flood effect”"
     }
   ]
 }
