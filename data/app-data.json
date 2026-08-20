@@ -29436,11 +29436,11 @@
       "lastUpdated": "2026-08-20T05:46:09.649Z"
     },
     "WP-NSP-SG-S||BATTICALOA": {
-      "remark": "X - BM Stock - 90% Discount",
+      "remark": "50% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-08-20",
-      "commentTime": "11:17:00",
-      "lastUpdated": "2026-08-20T05:47:00.022Z"
+      "commentTime": "12:06:32",
+      "lastUpdated": "2026-08-20T06:36:32.111Z"
     },
     "SIN-PSVX938N||KATUGASTOTA - B": {
       "remark": "MOP- 18,500/=",
@@ -30407,6 +30407,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:04:59",
       "lastUpdated": "2026-08-20T06:34:59.445Z"
+    },
+    "WP-WRN37LXAS||BATTICALOA": {
+      "remark": "80% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:17:57",
+      "lastUpdated": "2026-08-20T05:47:57.071Z"
     }
   },
   "showroomVisits": {
@@ -31149,6 +31156,20 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:06:32",
+      "iso": "2026-08-20T06:36:32.112Z",
+      "action": "updated remark for WP-NSP-SG-S at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "11:17:57",
+      "iso": "2026-08-20T05:47:57.071Z",
+      "action": "updated remark for WP-WRN37LXAS at BATTICALOA: “80% Discount”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "12:04:59",
@@ -31483,20 +31504,6 @@
       "time": "11:45:42",
       "iso": "2026-08-20T06:15:42.422Z",
       "action": "updated remark for NUBIA-V70MAX-4-128GB-GRN at JA-ELA: “Unboxed - 15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:45:06",
-      "iso": "2026-08-20T06:15:06.887Z",
-      "action": "updated remark for LF-BILLY-S at JA-ELA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:44:43",
-      "iso": "2026-08-20T06:14:43.542Z",
-      "action": "updated remark for TCLED32D65A at JA-ELA: “Exchange”"
     }
   ]
 }
