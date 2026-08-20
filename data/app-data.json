@@ -30421,6 +30421,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:10:35",
       "lastUpdated": "2026-08-20T06:40:35.500Z"
+    },
+    "SN-SMI-305||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:10:46",
+      "lastUpdated": "2026-08-20T06:40:46.997Z"
     }
   },
   "showroomVisits": {
@@ -31165,6 +31172,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:10:47",
+      "iso": "2026-08-20T06:40:47.000Z",
+      "action": "updated remark for SN-SMI-305 at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:10:35",
       "iso": "2026-08-20T06:40:35.502Z",
       "action": "updated remark for WF-PACIFIC-MR-S at BATTICALOA: “Damage 90% Discount”"
@@ -31504,13 +31518,6 @@
       "time": "11:46:36",
       "iso": "2026-08-20T06:16:36.027Z",
       "action": "updated remark for SWM-FA70R at KATUGASTOTA - B: “Flood effect”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:46:17",
-      "iso": "2026-08-20T06:16:17.050Z",
-      "action": "updated remark for NUBIA-V70MAX-4-128GB-GRY at JA-ELA: “no”"
     }
   ]
 }
