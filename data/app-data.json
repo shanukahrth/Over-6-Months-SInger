@@ -28307,6 +28307,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:39:44",
       "lastUpdated": "2026-08-20T05:09:44.092Z"
+    },
+    "NCPO-FP280||KATUGASTOTA": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:40:12",
+      "lastUpdated": "2026-08-20T05:10:12.213Z"
     }
   },
   "showroomVisits": {
@@ -29043,6 +29050,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:40:12",
+      "iso": "2026-08-20T05:10:12.214Z",
+      "action": "updated remark for NCPO-FP280 at KATUGASTOTA: “30%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:39:58",
       "iso": "2026-08-20T05:09:58.815Z",
       "action": "updated remark for NCPO-FP200 at KATUGASTOTA: “30%”"
@@ -29382,13 +29396,6 @@
       "time": "10:28:15",
       "iso": "2026-08-20T04:58:15.022Z",
       "action": "updated remark for SIN-DEC-FDC at WATTALA: “Do not offer discounts for this SKU, as it is an active SKU.”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:27:57",
-      "iso": "2026-08-20T04:57:57.120Z",
-      "action": "updated remark for SL-INV-305H at JA-ELA: “Obsolete - Offer flat 50%”"
     }
   ]
 }
