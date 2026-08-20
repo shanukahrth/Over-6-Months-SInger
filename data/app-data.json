@@ -26088,6 +26088,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:17:18",
       "lastUpdated": "2026-08-20T03:47:18.155Z"
+    },
+    "G-SP-900||PERADENIYA": {
+      "remark": "Reverted",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:17:51",
+      "lastUpdated": "2026-08-20T03:47:51.178Z"
     }
   },
   "showroomVisits": {
@@ -26822,6 +26829,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:17:51",
+      "iso": "2026-08-20T03:47:51.179Z",
+      "action": "updated remark for G-SP-900 at PERADENIYA: “Reverted”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "09:17:18",
@@ -27163,13 +27177,6 @@
       "time": "08:30:50",
       "iso": "2026-08-20T03:00:50.851Z",
       "action": "updated KOTTAWA showroom (team: Metro Team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:30:42",
-      "iso": "2026-08-20T03:00:42.477Z",
-      "action": "updated KOTTAWA showroom (visited: Yes)"
     }
   ]
 }
