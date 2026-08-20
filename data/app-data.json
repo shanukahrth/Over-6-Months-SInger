@@ -29133,6 +29133,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:00:16",
       "lastUpdated": "2026-08-20T05:30:16.331Z"
+    },
+    "BR-1||KATUGASTOTA": {
+      "remark": "Shop use",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:00:26",
+      "lastUpdated": "2026-08-20T05:30:26.186Z"
     }
   },
   "showroomVisits": {
@@ -29869,6 +29876,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:00:26",
+      "iso": "2026-08-20T05:30:26.187Z",
+      "action": "updated remark for BR-1 at KATUGASTOTA: “Shop use”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:00:16",
       "iso": "2026-08-20T05:30:16.332Z",
       "action": "updated remark for SBS-484 at KATUGASTOTA: “Saleable existing price”"
@@ -30208,13 +30222,6 @@
       "time": "10:51:35",
       "iso": "2026-08-20T05:21:35.577Z",
       "action": "updated remark for SL-SWMFR72 at JA-ELA: “40% additional - Damage”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:51:17",
-      "iso": "2026-08-20T05:21:17.874Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at JA-ELA: “50%”"
     }
   ]
 }
