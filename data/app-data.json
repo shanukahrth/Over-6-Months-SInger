@@ -30386,6 +30386,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:03:43",
       "lastUpdated": "2026-08-20T06:33:43.598Z"
+    },
+    "RIYLTA-MF12V51A||JA-ELA": {
+      "remark": "Return to WH",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:04:00",
+      "lastUpdated": "2026-08-20T06:34:00.277Z"
     }
   },
   "showroomVisits": {
@@ -31130,6 +31137,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "12:04:00",
+      "iso": "2026-08-20T06:34:00.278Z",
+      "action": "updated remark for RIYLTA-MF12V51A at JA-ELA: “Return to WH”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "12:03:43",
       "iso": "2026-08-20T06:33:43.599Z",
       "action": "updated remark for TF-TW26-064 at JA-ELA: “Discount already provided”"
@@ -31469,13 +31483,6 @@
       "time": "11:45:33",
       "iso": "2026-08-20T06:15:33.341Z",
       "action": "updated remark for TCLED40D3000 at KATUGASTOTA - B: “Exchange”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:45:18",
-      "iso": "2026-08-20T06:15:18.387Z",
-      "action": "updated remark for TCLED32D65A at KATUGASTOTA - B: “Exchange”"
     }
   ]
 }
