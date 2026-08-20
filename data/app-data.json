@@ -26158,6 +26158,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:20:15",
       "lastUpdated": "2026-08-20T03:50:15.280Z"
+    },
+    "TF-GS-SPKT302||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:20:46",
+      "lastUpdated": "2026-08-20T03:50:46.619Z"
     }
   },
   "showroomVisits": {
@@ -26894,6 +26901,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "09:20:46",
+      "iso": "2026-08-20T03:50:46.620Z",
+      "action": "updated remark for TF-GS-SPKT302 at PERADENIYA: “Saleable existing price”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "09:20:15",
       "iso": "2026-08-20T03:50:15.281Z",
       "action": "updated remark for SIN-MRG-1008C at PERADENIYA: “Saleable existing price”"
@@ -27233,13 +27247,6 @@
       "time": "08:55:54",
       "iso": "2026-08-20T03:25:54.766Z",
       "action": "updated remark for WF-LILY-CHR-S at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "08:55:11",
-      "iso": "2026-08-20T03:25:11.886Z",
-      "action": "updated remark for PF-KID-DSK-GRN-S at PERADENIYA: “70%”"
     }
   ]
 }
