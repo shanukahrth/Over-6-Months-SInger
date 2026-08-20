@@ -31298,9 +31298,9 @@
       "visited": "No",
       "visitDate": "",
       "team": "",
-      "remark": "",
-      "updatedBy": "Isuru Hewawasam",
-      "updatedDate": "2026-08-11"
+      "remark": "visit check",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-20"
     },
     "DAMBULLA||DAMBULLA": {
       "visited": "Yes",
@@ -32122,6 +32122,13 @@
   "soldMarks": {},
   "activity": [
     {
+      "user": "Shanuka Herath",
+      "date": "2026-08-20",
+      "time": "16:21:30",
+      "iso": "2026-08-20T10:51:30.366Z",
+      "action": "updated MEGA - SHANGRI-LA showroom (remark: visit check)"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-20",
       "time": "16:14:09",
@@ -32463,13 +32470,6 @@
       "time": "13:38:48",
       "iso": "2026-08-20T08:08:48.868Z",
       "action": "updated remark for SLE32G690 at PELIYAGODA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:38:21",
-      "iso": "2026-08-20T08:08:21.380Z",
-      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at PELIYAGODA: “60%”"
     }
   ]
 }
