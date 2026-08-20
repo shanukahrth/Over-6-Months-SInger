@@ -29315,6 +29315,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:08:13",
       "lastUpdated": "2026-08-20T05:38:13.362Z"
+    },
+    "SWM-FA70R||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:08:24",
+      "lastUpdated": "2026-08-20T05:38:24.690Z"
     }
   },
   "showroomVisits": {
@@ -30051,6 +30058,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:08:24",
+      "iso": "2026-08-20T05:38:24.691Z",
+      "action": "updated remark for SWM-FA70R at KATUGASTOTA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:08:13",
       "iso": "2026-08-20T05:38:13.364Z",
       "action": "updated remark for TCLED32D3000 at KATUGASTOTA: “Panel Damaged”"
@@ -30390,13 +30404,6 @@
       "time": "10:55:49",
       "iso": "2026-08-20T05:25:49.097Z",
       "action": "updated remark for GEO-200D-BR at KATUGASTOTA: “Damaged- 80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:55:35",
-      "iso": "2026-08-20T05:25:35.291Z",
-      "action": "updated remark for GEO-200D at KATUGASTOTA: “80%”"
     }
   ]
 }
