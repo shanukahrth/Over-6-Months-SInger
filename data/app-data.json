@@ -29441,6 +29441,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:16:32",
       "lastUpdated": "2026-08-20T05:46:32.246Z"
+    },
+    "SIN-PSVX938N||KATUGASTOTA - B": {
+      "remark": "MOP- 18,500/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:16:41",
+      "lastUpdated": "2026-08-20T05:46:41.346Z"
     }
   },
   "showroomVisits": {
@@ -30175,6 +30182,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "11:16:41",
+      "iso": "2026-08-20T05:46:41.348Z",
+      "action": "updated remark for SIN-PSVX938N at KATUGASTOTA - B: “MOP- 18,500/=”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "11:16:32",
@@ -30516,13 +30530,6 @@
       "time": "10:59:58",
       "iso": "2026-08-20T05:29:58.132Z",
       "action": "updated remark for ULED32D60A at JA-ELA: “Exchange”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:59:46",
-      "iso": "2026-08-20T05:29:46.131Z",
-      "action": "updated remark for APS-300KG at KATUGASTOTA: “Saleable existing price”"
     }
   ]
 }
