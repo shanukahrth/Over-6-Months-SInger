@@ -28027,6 +28027,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:30:23",
       "lastUpdated": "2026-08-20T05:00:23.816Z"
+    },
+    "FAN-WF1608R||WATTALA": {
+      "remark": "Do not offer discounts for this SKU, as it is an active SKU.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:30:33",
+      "lastUpdated": "2026-08-20T05:00:33.284Z"
     }
   },
   "showroomVisits": {
@@ -28761,6 +28768,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:30:33",
+      "iso": "2026-08-20T05:00:33.285Z",
+      "action": "updated remark for FAN-WF1608R at WATTALA: “Do not offer discounts for this SKU, as it is an active SKU.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:30:23",
@@ -29102,13 +29116,6 @@
       "time": "10:18:24",
       "iso": "2026-08-20T04:48:24.032Z",
       "action": "updated remark for LF-ORGN-W4A-CLM-S at KATUGASTOTA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:18:07",
-      "iso": "2026-08-20T04:48:07.245Z",
-      "action": "updated remark for LF-ORGN-BSC-CLM-S at KATUGASTOTA: “50%”"
     }
   ]
 }
