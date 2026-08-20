@@ -28981,11 +28981,11 @@
       "lastUpdated": "2026-08-20T05:25:19.742Z"
     },
     "SLE40D600A||JA-ELA": {
-      "remark": "50%",
+      "remark": "revert.",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-20",
-      "commentTime": "10:55:24",
-      "lastUpdated": "2026-08-20T05:25:24.690Z"
+      "commentTime": "10:56:16",
+      "lastUpdated": "2026-08-20T05:26:16.406Z"
     },
     "GEO-182S-SV||KATUGASTOTA": {
       "remark": "25%",
@@ -29755,6 +29755,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:56:16",
+      "iso": "2026-08-20T05:26:16.407Z",
+      "action": "updated remark for SLE40D600A at JA-ELA: “revert.”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:56:22",
@@ -30096,13 +30103,6 @@
       "time": "10:50:10",
       "iso": "2026-08-20T05:20:10.737Z",
       "action": "updated remark for GEO-242D-TG at JA-ELA: “Obsolete - Offer flat 50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:49:53",
-      "iso": "2026-08-20T05:19:53.685Z",
-      "action": "updated remark for GEO-242D-SV at JA-ELA: “Offer flat 25%”"
     }
   ]
 }
