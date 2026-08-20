@@ -26835,8 +26835,8 @@
       "remark": "Saleable existing price",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-20",
-      "commentTime": "09:43:02",
-      "lastUpdated": "2026-08-20T04:13:02.120Z"
+      "commentTime": "09:43:42",
+      "lastUpdated": "2026-08-20T04:13:42.758Z"
     },
     "NUBIA-V70DSGN-8-128GB-GRN||JA ELA - B": {
       "remark": "sold",
@@ -26858,6 +26858,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:44:01",
       "lastUpdated": "2026-08-20T04:14:01.791Z"
+    },
+    "KD-43X75K||PERADENIYA": {
+      "remark": "40%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:44:13",
+      "lastUpdated": "2026-08-20T04:14:13.293Z"
     }
   },
   "showroomVisits": {
@@ -27592,6 +27599,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:44:13",
+      "iso": "2026-08-20T04:14:13.294Z",
+      "action": "updated remark for KD-43X75K at PERADENIYA: “40%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:43:42",
+      "iso": "2026-08-20T04:13:42.759Z",
+      "action": "updated remark for SIN-PR-K340 at PERADENIYA: “Saleable existing price”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:44:01",
@@ -27926,20 +27947,6 @@
       "time": "09:35:40",
       "iso": "2026-08-20T04:05:40.041Z",
       "action": "updated remark for HON-X5-2-32-BLU at PERADENIYA: “60%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:35:29",
-      "iso": "2026-08-20T04:05:29.721Z",
-      "action": "updated remark for HON-X5-2-32-BLU at PERADENIYA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:35:02",
-      "iso": "2026-08-20T04:05:02.406Z",
-      "action": "updated remark for STT-200K at JA ELA - B: “Already discount offered”"
     }
   ]
 }
