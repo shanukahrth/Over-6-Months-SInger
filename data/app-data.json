@@ -26510,7 +26510,7 @@
     },
     "HOMAGAMA||MAHARAGAMA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
@@ -26518,7 +26518,7 @@
     },
     "HOMAGAMA - B||MAHARAGAMA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-13",
       "team": "",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
@@ -26526,6 +26526,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:27:33",
+      "iso": "2026-08-20T02:57:33.734Z",
+      "action": "updated HOMAGAMA - B showroom (visitDate: 2026-08-13)"
+    },
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:27:31",
+      "iso": "2026-08-20T02:57:31.968Z",
+      "action": "updated HOMAGAMA showroom (visitDate: 2026-08-13)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26861,20 +26875,6 @@
       "time": "18:56:42",
       "iso": "2026-08-19T13:26:42.831Z",
       "action": "updated remark for BES-WP15-ECO at PILIMATHALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:56:31",
-      "iso": "2026-08-19T13:26:31.229Z",
-      "action": "updated remark for WP-NEO258NF at PILIMATHALAWA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:56:23",
-      "iso": "2026-08-19T13:26:23.326Z",
-      "action": "updated remark for SMGRT34B4542S8 at PILIMATHALAWA: “MOP - 160,000”"
     }
   ]
 }
