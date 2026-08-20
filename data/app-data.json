@@ -29273,6 +29273,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:06:01",
       "lastUpdated": "2026-08-20T05:36:01.649Z"
+    },
+    "SLE43D1800TC||KATUGASTOTA": {
+      "remark": "Damaged - Unsaleable",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:06:53",
+      "lastUpdated": "2026-08-20T05:36:53.874Z"
     }
   },
   "showroomVisits": {
@@ -30009,6 +30016,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:06:53",
+      "iso": "2026-08-20T05:36:53.876Z",
+      "action": "updated remark for SLE43D1800TC at KATUGASTOTA: “Damaged - Unsaleable”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:06:01",
       "iso": "2026-08-20T05:36:01.650Z",
       "action": "updated remark for SLE40E810C at KATUGASTOTA: “Damaged - Unsaleable”"
@@ -30348,13 +30362,6 @@
       "time": "10:54:55",
       "iso": "2026-08-20T05:24:55.289Z",
       "action": "updated remark for NCPDG-MP160 at VALAICHENAI: “50% Discount”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:55:01",
-      "iso": "2026-08-20T05:25:01.651Z",
-      "action": "updated remark for GEO-182S at KATUGASTOTA: “80%”"
     }
   ]
 }
