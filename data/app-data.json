@@ -26676,6 +26676,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:39:33",
       "lastUpdated": "2026-08-20T04:09:33.648Z"
+    },
+    "SIN-RFC-2058||JA ELA - B": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:37:33",
+      "lastUpdated": "2026-08-20T04:07:33.397Z"
+    },
+    "TCLTB10-3-64-BLK||JA ELA - B": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:39:42",
+      "lastUpdated": "2026-08-20T04:09:42.479Z"
     }
   },
   "showroomVisits": {
@@ -27410,6 +27424,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:39:42",
+      "iso": "2026-08-20T04:09:42.480Z",
+      "action": "updated remark for TCLTB10-3-64-BLK at JA ELA - B: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:37:33",
+      "iso": "2026-08-20T04:07:33.399Z",
+      "action": "updated remark for SIN-RFC-2058 at JA ELA - B: “10%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:39:33",
@@ -27744,20 +27772,6 @@
       "time": "09:29:06",
       "iso": "2026-08-20T03:59:06.298Z",
       "action": "updated remark for SLMC-18DSLHS at PERADENIYA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:29:00",
-      "iso": "2026-08-20T03:59:00.444Z",
-      "action": "updated remark for RCW-1528 at PERADENIYA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:28:43",
-      "iso": "2026-08-20T03:58:43.833Z",
-      "action": "updated remark for RCW-1018 at PERADENIYA: “80%”"
     }
   ]
 }
