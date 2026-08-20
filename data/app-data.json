@@ -28349,6 +28349,41 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:41:34",
       "lastUpdated": "2026-08-20T05:11:34.145Z"
+    },
+    "WFL-STBED-72X48-S||WATTALA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:38:18",
+      "lastUpdated": "2026-08-20T05:08:18.541Z"
+    },
+    "WFL-SPM-75X72X7-S||WATTALA": {
+      "remark": "80%-exchange",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:38:55",
+      "lastUpdated": "2026-08-20T05:08:55.757Z"
+    },
+    "WFI-SOC-H007-BU-S||WATTALA": {
+      "remark": "10%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:39:34",
+      "lastUpdated": "2026-08-20T05:09:34.990Z"
+    },
+    "PF-FLEXI-NKL-MW-S||WATTALA": {
+      "remark": "10%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:40:02",
+      "lastUpdated": "2026-08-20T05:10:02.111Z"
+    },
+    "PF-CAFE-NEW-WF-S||WATTALA": {
+      "remark": "20%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:41:32",
+      "lastUpdated": "2026-08-20T05:11:32.232Z"
     }
   },
   "showroomVisits": {
@@ -29083,6 +29118,41 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:41:32",
+      "iso": "2026-08-20T05:11:32.234Z",
+      "action": "updated remark for PF-CAFE-NEW-WF-S at WATTALA: “20%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:40:02",
+      "iso": "2026-08-20T05:10:02.112Z",
+      "action": "updated remark for PF-FLEXI-NKL-MW-S at WATTALA: “10%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:39:34",
+      "iso": "2026-08-20T05:09:34.993Z",
+      "action": "updated remark for WFI-SOC-H007-BU-S at WATTALA: “10%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:38:55",
+      "iso": "2026-08-20T05:08:55.761Z",
+      "action": "updated remark for WFL-SPM-75X72X7-S at WATTALA: “80%-exchange”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:38:18",
+      "iso": "2026-08-20T05:08:18.543Z",
+      "action": "updated remark for WFL-STBED-72X48-S at WATTALA: “50%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:41:34",
@@ -29396,41 +29466,6 @@
       "time": "10:32:52",
       "iso": "2026-08-20T05:02:52.741Z",
       "action": "updated remark for SMGRT28A3021GS at JA-ELA: “Rs.135,000/- Special Price”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:32:55",
-      "iso": "2026-08-20T05:02:55.950Z",
-      "action": "updated remark for LF-LEO-HDBC-WNG-S at WATTALA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:32:13",
-      "iso": "2026-08-20T05:02:13.549Z",
-      "action": "updated remark for WFL-ALP-GL-WD-GRY-S at WATTALA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:32:04",
-      "iso": "2026-08-20T05:02:04.035Z",
-      "action": "updated remark for SMGRT30K3322S8 at JA-ELA: “Rs.150,000/- Special Price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:31:19",
-      "iso": "2026-08-20T05:01:19.866Z",
-      "action": "updated remark for TCL65P615 at JA-ELA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:30:47",
-      "iso": "2026-08-20T05:00:47.490Z",
-      "action": "updated remark for SRS-XV500 at JA-ELA: “30%-Display”"
     }
   ]
 }
