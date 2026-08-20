@@ -26235,6 +26235,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:24:39",
       "lastUpdated": "2026-08-20T03:54:39.714Z"
+    },
+    "MID-MJ-KM6001W||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:25:02",
+      "lastUpdated": "2026-08-20T03:55:02.618Z"
     }
   },
   "showroomVisits": {
@@ -26969,6 +26976,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:25:02",
+      "iso": "2026-08-20T03:55:02.620Z",
+      "action": "updated remark for MID-MJ-KM6001W at PERADENIYA: “Saleable existing price”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:24:39",
@@ -27310,13 +27324,6 @@
       "time": "09:04:01",
       "iso": "2026-08-20T03:34:01.655Z",
       "action": "updated remark for AS-14G-I7-512GB-7651-SIL at MATARA-A: “Sold out”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-20",
-      "time": "09:03:28",
-      "iso": "2026-08-20T03:33:28.612Z",
-      "action": "updated remark for HON-X7B-8-256-SIL at MATARA-A: “Sold”"
     }
   ]
 }
