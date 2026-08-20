@@ -26431,6 +26431,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:31:21",
       "lastUpdated": "2026-08-20T04:01:21.978Z"
+    },
+    "SL-PSM-8017||JA ELA - B": {
+      "remark": "Already discount offered",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:31:27",
+      "lastUpdated": "2026-08-20T04:01:27.059Z"
     }
   },
   "showroomVisits": {
@@ -27165,6 +27172,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:31:27",
+      "iso": "2026-08-20T04:01:27.060Z",
+      "action": "updated remark for SL-PSM-8017 at JA ELA - B: “Already discount offered”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:31:21",
@@ -27506,13 +27520,6 @@
       "time": "09:18:30",
       "iso": "2026-08-20T03:48:30.897Z",
       "action": "updated remark for DAV-DZ650 at PERADENIYA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:17:57",
-      "iso": "2026-08-20T03:47:57.743Z",
-      "action": "updated remark for PN-SC-UA3GS-K at JA ELA - B: “50%”"
     }
   ]
 }
