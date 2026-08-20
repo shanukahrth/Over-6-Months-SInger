@@ -31058,6 +31058,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:49:59",
       "lastUpdated": "2026-08-20T07:19:59.936Z"
+    },
+    "KV-4WTS3M||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:50:18",
+      "lastUpdated": "2026-08-20T07:20:18.012Z"
     }
   },
   "showroomVisits": {
@@ -31834,6 +31841,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:50:18",
+      "iso": "2026-08-20T07:20:18.013Z",
+      "action": "updated remark for KV-4WTS3M at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:49:59",
       "iso": "2026-08-20T07:19:59.939Z",
       "action": "updated remark for USI-ATC-302 at BATTICALOA: “40% Discount (Damage)”"
@@ -32173,13 +32187,6 @@
       "time": "12:29:38",
       "iso": "2026-08-20T06:59:38.543Z",
       "action": "updated remark for SLMC-18DSLHS at BATTICALOA: “80% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:29:21",
-      "iso": "2026-08-20T06:59:21.098Z",
-      "action": "updated remark for ZTE-A52020-GR at BATTICALOA: “Damage 80% Discount”"
     }
   ]
 }
