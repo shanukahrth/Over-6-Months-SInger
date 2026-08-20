@@ -30862,6 +30862,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:30:21",
       "lastUpdated": "2026-08-20T07:00:21.880Z"
+    },
+    "BES-WP15-ECO||BATTICALOA": {
+      "remark": "60% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:30:21",
+      "lastUpdated": "2026-08-20T07:00:21.680Z"
+    },
+    "FAN-P-1605H||BATTICALOA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:30:39",
+      "lastUpdated": "2026-08-20T07:00:39.211Z"
     }
   },
   "showroomVisits": {
@@ -31604,6 +31618,20 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:30:39",
+      "iso": "2026-08-20T07:00:39.213Z",
+      "action": "updated remark for FAN-P-1605H at BATTICALOA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:30:21",
+      "iso": "2026-08-20T07:00:21.681Z",
+      "action": "updated remark for BES-WP15-ECO at BATTICALOA: “60% Discount”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "12:30:21",
@@ -31938,20 +31966,6 @@
       "time": "12:19:59",
       "iso": "2026-08-20T06:49:59.038Z",
       "action": "updated remark for WP-NSP-J-S at BATTICALOA: “90% Di”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:19:22",
-      "iso": "2026-08-20T06:49:22.512Z",
-      "action": "updated remark for SLE40D600A at BATTICALOA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:18:56",
-      "iso": "2026-08-20T06:48:56.732Z",
-      "action": "updated remark for KDL-43W660G at BATTICALOA: “50% Discount”"
     }
   ]
 }
