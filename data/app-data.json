@@ -28699,6 +28699,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:50:28",
       "lastUpdated": "2026-08-20T05:20:28.961Z"
+    },
+    "GEO-242D-SV||JA-ELA": {
+      "remark": "Offer flat 25%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:49:53",
+      "lastUpdated": "2026-08-20T05:19:53.683Z"
+    },
+    "GEO-242D-TG||JA-ELA": {
+      "remark": "Obsolete - Offer flat 50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:50:10",
+      "lastUpdated": "2026-08-20T05:20:10.734Z"
+    },
+    "LF-GALANT-S||JA-ELA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:50:27",
+      "lastUpdated": "2026-08-20T05:20:27.514Z"
     }
   },
   "showroomVisits": {
@@ -29433,6 +29454,27 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:50:27",
+      "iso": "2026-08-20T05:20:27.516Z",
+      "action": "updated remark for LF-GALANT-S at JA-ELA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:50:10",
+      "iso": "2026-08-20T05:20:10.737Z",
+      "action": "updated remark for GEO-242D-TG at JA-ELA: “Obsolete - Offer flat 50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "10:49:53",
+      "iso": "2026-08-20T05:19:53.685Z",
+      "action": "updated remark for GEO-242D-SV at JA-ELA: “Offer flat 25%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "10:50:28",
@@ -29760,27 +29802,6 @@
       "time": "10:43:09",
       "iso": "2026-08-20T05:13:09.194Z",
       "action": "updated remark for TF-AF32-577 at KATUGASTOTA: “30%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:43:07",
-      "iso": "2026-08-20T05:13:07.060Z",
-      "action": "updated remark for TF-GS-SPKT302 at WATTALA: “15% - Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:42:37",
-      "iso": "2026-08-20T05:12:37.632Z",
-      "action": "updated remark for SWH-118EP at WATTALA: “If damaged but still sellable - can go up to 60% , not in a sellable condition (completely damaged) 70% - need proof”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:42:01",
-      "iso": "2026-08-20T05:12:01.651Z",
-      "action": "updated remark for WF-PARIS-BL-S at WATTALA: “50%”"
     }
   ]
 }
