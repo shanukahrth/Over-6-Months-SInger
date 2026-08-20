@@ -26459,9 +26459,24 @@
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-20"
+    },
+    "HANWELLA||MAHARAGAMA": {
+      "visited": "No",
+      "visitDate": "2026-08-14",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-20"
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:24:29",
+      "iso": "2026-08-20T02:54:29.424Z",
+      "action": "updated HANWELLA showroom (visitDate: 2026-08-14)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26804,13 +26819,6 @@
       "time": "18:55:01",
       "iso": "2026-08-19T13:25:01.165Z",
       "action": "updated remark for SMG-A06-4-64-BLK at PILIMATHALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:54:59",
-      "iso": "2026-08-19T13:24:59.322Z",
-      "action": "updated remark for SMG-A06-4-128-BLK at PILIMATHALAWA: “40%”"
     }
   ]
 }
