@@ -26039,6 +26039,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:14:48",
       "lastUpdated": "2026-08-20T03:44:48.594Z"
+    },
+    "WF-QUEEN-311-GR-S||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:16:24",
+      "lastUpdated": "2026-08-20T03:46:24.937Z"
     }
   },
   "showroomVisits": {
@@ -26775,6 +26782,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "09:16:24",
+      "iso": "2026-08-20T03:46:24.938Z",
+      "action": "updated remark for WF-QUEEN-311-GR-S at PERADENIYA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "09:14:48",
       "iso": "2026-08-20T03:44:48.596Z",
       "action": "updated remark for WF-BERLIN-ST-WW-S at PERADENIYA: “50%”"
@@ -27114,13 +27128,6 @@
       "time": "08:28:17",
       "iso": "2026-08-20T02:58:17.733Z",
       "action": "updated KOSGAMA showroom (team: Metro Team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:28:09",
-      "iso": "2026-08-20T02:58:09.117Z",
-      "action": "updated KOSGAMA showroom (visited: Yes)"
     }
   ]
 }
