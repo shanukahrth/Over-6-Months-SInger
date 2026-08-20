@@ -26144,6 +26144,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:19:39",
       "lastUpdated": "2026-08-20T03:49:39.841Z"
+    },
+    "SID-2432||PERADENIYA": {
+      "remark": "40%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:19:49",
+      "lastUpdated": "2026-08-20T03:49:49.401Z"
     }
   },
   "showroomVisits": {
@@ -26880,6 +26887,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "09:19:49",
+      "iso": "2026-08-20T03:49:49.402Z",
+      "action": "updated remark for SID-2432 at PERADENIYA: “40%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "09:19:39",
       "iso": "2026-08-20T03:49:39.841Z",
       "action": "updated remark for SED-2432A at PERADENIYA: “50%”"
@@ -27219,13 +27233,6 @@
       "time": "08:54:50",
       "iso": "2026-08-20T03:24:50.148Z",
       "action": "updated remark for PF-RTN-ST-BU-S at PERADENIYA: “Additional - 10%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "08:54:24",
-      "iso": "2026-08-20T03:24:24.095Z",
-      "action": "updated remark for LF-OPENSR-WNT-S at PERADENIYA: “75%”"
     }
   ]
 }
