@@ -30050,6 +30050,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:43:08",
       "lastUpdated": "2026-08-20T06:13:08.337Z"
+    },
+    "SLMC-18DSLHS||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:43:20",
+      "lastUpdated": "2026-08-20T06:13:20.046Z"
     }
   },
   "showroomVisits": {
@@ -30784,6 +30791,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "11:43:20",
+      "iso": "2026-08-20T06:13:20.050Z",
+      "action": "updated remark for SLMC-18DSLHS at JA-ELA: “Discount already provided”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "11:43:08",
@@ -31125,13 +31139,6 @@
       "time": "11:31:28",
       "iso": "2026-08-20T06:01:28.594Z",
       "action": "updated remark for SISIL-RC220 at KATUGASTOTA - B: “Fluctuation - 70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:30:58",
-      "iso": "2026-08-20T06:00:58.532Z",
-      "action": "updated remark for SISIL-RC150 at KATUGASTOTA - B: “To be dropped”"
     }
   ]
 }
