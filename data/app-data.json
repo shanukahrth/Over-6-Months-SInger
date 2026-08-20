@@ -29140,6 +29140,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:00:26",
       "lastUpdated": "2026-08-20T05:30:26.186Z"
+    },
+    "DH-I-F22FP-36B-IMOU||KATUGASTOTA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:00:40",
+      "lastUpdated": "2026-08-20T05:30:40.427Z"
     }
   },
   "showroomVisits": {
@@ -29876,6 +29883,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:00:40",
+      "iso": "2026-08-20T05:30:40.428Z",
+      "action": "updated remark for DH-I-F22FP-36B-IMOU at KATUGASTOTA: “70%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:00:26",
       "iso": "2026-08-20T05:30:26.187Z",
       "action": "updated remark for BR-1 at KATUGASTOTA: “Shop use”"
@@ -30215,13 +30229,6 @@
       "time": "10:51:56",
       "iso": "2026-08-20T05:21:56.676Z",
       "action": "updated remark for GEO-200D-BR at JA-ELA: “Obsolete - Offer flat 80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:51:35",
-      "iso": "2026-08-20T05:21:35.577Z",
-      "action": "updated remark for SL-SWMFR72 at JA-ELA: “40% additional - Damage”"
     }
   ]
 }
