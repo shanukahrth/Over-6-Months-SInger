@@ -32064,7 +32064,7 @@
     },
     "KULIYAPITIYA||CHILAW": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-19",
       "team": "",
       "remark": "",
       "updatedBy": "SHENULI",
@@ -32073,6 +32073,13 @@
   },
   "soldMarks": {},
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:11:03",
+      "iso": "2026-08-20T10:41:03.568Z",
+      "action": "updated KULIYAPITIYA showroom (visitDate: 2026-08-19)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -32415,13 +32422,6 @@
       "time": "12:47:40",
       "iso": "2026-08-20T07:17:40.699Z",
       "action": "updated remark for SIN-RFC-1819 at BATTICALOA: “35% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:44:54",
-      "iso": "2026-08-20T07:14:54.110Z",
-      "action": "updated remark for DH-I-A22EP-IMOU at BATTICALOA: “50% Discount”"
     }
   ]
 }
