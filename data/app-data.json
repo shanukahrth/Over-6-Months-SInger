@@ -28398,6 +28398,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:42:11",
       "lastUpdated": "2026-08-20T05:12:11.475Z"
+    },
+    "TF-AF32-577||KATUGASTOTA": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:42:44",
+      "lastUpdated": "2026-08-20T05:12:44.645Z"
     }
   },
   "showroomVisits": {
@@ -29134,6 +29141,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:42:44",
+      "iso": "2026-08-20T05:12:44.647Z",
+      "action": "updated remark for TF-AF32-577 at KATUGASTOTA: “30%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:42:11",
       "iso": "2026-08-20T05:12:11.476Z",
       "action": "updated remark for MID-MJ-KM6001W at KATUGASTOTA: “30%”"
@@ -29473,13 +29487,6 @@
       "time": "10:33:58",
       "iso": "2026-08-20T05:03:58.773Z",
       "action": "updated remark for LF-ECO-3WD-SHW at WATTALA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:33:46",
-      "iso": "2026-08-20T05:03:46.757Z",
-      "action": "updated remark for MCZJ757C at JA-ELA: “Class use”"
     }
   ]
 }
