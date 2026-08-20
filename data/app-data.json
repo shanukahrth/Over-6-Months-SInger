@@ -28258,6 +28258,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:38:34",
       "lastUpdated": "2026-08-20T05:08:34.642Z"
+    },
+    "SIS277CU||KATUGASTOTA": {
+      "remark": "Damaged- 40%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:38:55",
+      "lastUpdated": "2026-08-20T05:08:55.210Z"
     }
   },
   "showroomVisits": {
@@ -28992,6 +28999,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:38:55",
+      "iso": "2026-08-20T05:08:55.211Z",
+      "action": "updated remark for SIS277CU at KATUGASTOTA: “Damaged- 40%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:38:34",
@@ -29333,13 +29347,6 @@
       "time": "10:23:57",
       "iso": "2026-08-20T04:53:57.314Z",
       "action": "updated remark for WP-WRN37LXAS at JA-ELA: “exchange”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:23:41",
-      "iso": "2026-08-20T04:53:41.006Z",
-      "action": "updated remark for HFPA-WEDGE-WHITE at WATTALA: “Rs.70,000/- Special Price”"
     }
   ]
 }
