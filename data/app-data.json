@@ -29560,6 +29560,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:21:38",
       "lastUpdated": "2026-08-20T05:51:38.170Z"
+    },
+    "WFL-GRIP-CT02-S||KATUGASTOTA - B": {
+      "remark": "Flood effect",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:22:00",
+      "lastUpdated": "2026-08-20T05:52:00.354Z"
     }
   },
   "showroomVisits": {
@@ -30296,6 +30303,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:22:00",
+      "iso": "2026-08-20T05:52:00.356Z",
+      "action": "updated remark for WFL-GRIP-CT02-S at KATUGASTOTA - B: “Flood effect”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:21:38",
       "iso": "2026-08-20T05:51:38.171Z",
       "action": "updated remark for LF-ORGN-BDQ-CKT-S at KATUGASTOTA - B: “Flood effect”"
@@ -30635,13 +30649,6 @@
       "time": "11:04:31",
       "iso": "2026-08-20T05:34:31.654Z",
       "action": "updated remark for NUBIA-V70-8-256GB-GRY at JA-ELA: “no”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:04:37",
-      "iso": "2026-08-20T05:34:37.762Z",
-      "action": "updated remark for SLE32E930 at KATUGASTOTA: “Panel Damaged”"
     }
   ]
 }
