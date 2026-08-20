@@ -28403,8 +28403,8 @@
       "remark": "30%",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-20",
-      "commentTime": "10:42:44",
-      "lastUpdated": "2026-08-20T05:12:44.645Z"
+      "commentTime": "10:43:09",
+      "lastUpdated": "2026-08-20T05:13:09.193Z"
     },
     "WF-PARIS-BL-S||WATTALA": {
       "remark": "50%",
@@ -28426,6 +28426,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:43:07",
       "lastUpdated": "2026-08-20T05:13:07.059Z"
+    },
+    "TF-CM-APR737||KATUGASTOTA": {
+      "remark": "30%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:43:14",
+      "lastUpdated": "2026-08-20T05:13:14.736Z"
     }
   },
   "showroomVisits": {
@@ -29160,6 +29167,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:43:14",
+      "iso": "2026-08-20T05:13:14.738Z",
+      "action": "updated remark for TF-CM-APR737 at KATUGASTOTA: “30%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:43:09",
+      "iso": "2026-08-20T05:13:09.194Z",
+      "action": "updated remark for TF-AF32-577 at KATUGASTOTA: “30%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "10:43:07",
@@ -29494,20 +29515,6 @@
       "time": "10:34:43",
       "iso": "2026-08-20T05:04:43.239Z",
       "action": "updated remark for PN-TH-43MS670N at JA-ELA: “40%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:34:36",
-      "iso": "2026-08-20T05:04:36.653Z",
-      "action": "updated remark for PF-RTN-ARMLS-BL-S at WATTALA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:34:39",
-      "iso": "2026-08-20T05:04:39.892Z",
-      "action": "updated remark for LF-BR-001-DWN-S at KATUGASTOTA: “Saleable existing price”"
     }
   ]
 }
