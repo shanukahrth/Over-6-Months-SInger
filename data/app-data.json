@@ -29644,6 +29644,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:26:15",
       "lastUpdated": "2026-08-20T05:56:15.058Z"
+    },
+    "TF-GS-SPKT302||KATUGASTOTA - B": {
+      "remark": "15%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:26:27",
+      "lastUpdated": "2026-08-20T05:56:27.090Z"
     }
   },
   "showroomVisits": {
@@ -30380,6 +30387,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:26:27",
+      "iso": "2026-08-20T05:56:27.091Z",
+      "action": "updated remark for TF-GS-SPKT302 at KATUGASTOTA - B: “15%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:26:15",
       "iso": "2026-08-20T05:56:15.059Z",
       "action": "updated remark for SIS277CU at KATUGASTOTA - B: “40%”"
@@ -30719,13 +30733,6 @@
       "time": "11:08:44",
       "iso": "2026-08-20T05:38:44.329Z",
       "action": "updated remark for WP-WDC11704RG-G at KATUGASTOTA: “24%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:08:32",
-      "iso": "2026-08-20T05:38:32.465Z",
-      "action": "updated remark for SWM-FA70R at KATUGASTOTA: “50%”"
     }
   ]
 }
