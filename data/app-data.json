@@ -32117,10 +32117,25 @@
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
+    },
+    "NARAMMALA - B||KURUNEGALA": {
+      "visited": "No",
+      "visitDate": "22.07.2026",
+      "team": "Digital",
+      "remark": "",
+      "updatedBy": "SHENULI",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {},
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:21:28",
+      "iso": "2026-08-20T10:51:28.811Z",
+      "action": "updated NARAMMALA - B showroom (visited: No)"
+    },
     {
       "user": "Shanuka Herath",
       "date": "2026-08-20",
@@ -32463,13 +32478,6 @@
       "time": "13:39:20",
       "iso": "2026-08-20T08:09:20.096Z",
       "action": "updated remark for SLE43G890 at PELIYAGODA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:38:48",
-      "iso": "2026-08-20T08:08:48.868Z",
-      "action": "updated remark for SLE32G690 at PELIYAGODA: “Exchange”"
     }
   ]
 }
