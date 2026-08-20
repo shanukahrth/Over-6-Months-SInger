@@ -28890,11 +28890,11 @@
       "lastUpdated": "2026-08-20T05:23:20.723Z"
     },
     "SIN-RFC-2012||VALAICHENAI": {
-      "remark": "60% DIscount",
+      "remark": "80% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-08-20",
-      "commentTime": "10:53:34",
-      "lastUpdated": "2026-08-20T05:23:34.167Z"
+      "commentTime": "10:53:58",
+      "lastUpdated": "2026-08-20T05:23:58.070Z"
     },
     "SLE43G690||JA-ELA": {
       "remark": "exchange",
@@ -28923,6 +28923,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:54:30",
       "lastUpdated": "2026-08-20T05:24:30.183Z"
+    },
+    "LP-AP01||VALAICHENAI": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:54:27",
+      "lastUpdated": "2026-08-20T05:24:27.147Z"
+    },
+    "UJB-LB6027||VALAICHENAI": {
+      "remark": "80% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:54:35",
+      "lastUpdated": "2026-08-20T05:24:35.009Z"
     }
   },
   "showroomVisits": {
@@ -29657,6 +29671,27 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "10:54:35",
+      "iso": "2026-08-20T05:24:35.010Z",
+      "action": "updated remark for UJB-LB6027 at VALAICHENAI: “80% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "10:54:27",
+      "iso": "2026-08-20T05:24:27.148Z",
+      "action": "updated remark for LP-AP01 at VALAICHENAI: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "10:53:58",
+      "iso": "2026-08-20T05:23:58.072Z",
+      "action": "updated remark for SIN-RFC-2012 at VALAICHENAI: “80% Discount”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:54:30",
@@ -29984,27 +30019,6 @@
       "time": "10:48:55",
       "iso": "2026-08-20T05:18:55.341Z",
       "action": "updated remark for SMGUA32N4010 at JA-ELA: “panel damage”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:48:45",
-      "iso": "2026-08-20T05:18:45.598Z",
-      "action": "updated remark for ZTE-A53-PRO-4-64-GR at VALAICHENAI: “60% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:48:30",
-      "iso": "2026-08-20T05:18:30.791Z",
-      "action": "updated remark for WP-SS-SUB1-S at VALAICHENAI: “40% Discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:48:39",
-      "iso": "2026-08-20T05:18:39.577Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at JA-ELA: “50%”"
     }
   ]
 }
