@@ -27313,6 +27313,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:57:59",
       "lastUpdated": "2026-08-20T04:27:59.321Z"
+    },
+    "SWH-118E||KIRIBATHGODA B": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:57:26",
+      "lastUpdated": "2026-08-20T04:27:26.377Z"
+    },
+    "TF-GS-SPKT302||KIRIBATHGODA B": {
+      "remark": "15%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:57:59",
+      "lastUpdated": "2026-08-20T04:27:59.315Z"
     }
   },
   "showroomVisits": {
@@ -28047,6 +28061,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:57:59",
+      "iso": "2026-08-20T04:27:59.318Z",
+      "action": "updated remark for TF-GS-SPKT302 at KIRIBATHGODA B: “15%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "09:57:26",
+      "iso": "2026-08-20T04:27:26.379Z",
+      "action": "updated remark for SWH-118E at KIRIBATHGODA B: “70%”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:57:59",
@@ -28381,20 +28409,6 @@
       "time": "09:49:23",
       "iso": "2026-08-20T04:19:23.244Z",
       "action": "updated remark for FT-FRH-50001 at JA ELA - B: “0”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:49:13",
-      "iso": "2026-08-20T04:19:13.184Z",
-      "action": "updated remark for SLE40D600A at PERADENIYA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:49:02",
-      "iso": "2026-08-20T04:19:02.585Z",
-      "action": "updated remark for FT-FPL-60001 at JA ELA - B: “0”"
     }
   ]
 }
