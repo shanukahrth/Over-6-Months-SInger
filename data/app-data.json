@@ -27985,6 +27985,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:25:18",
       "lastUpdated": "2026-08-20T04:55:18.383Z"
+    },
+    "USHA-AVTR56||WATTALA": {
+      "remark": "Do not offer discounts for this SKU, as it is an active SKU.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:25:19",
+      "lastUpdated": "2026-08-20T04:55:19.220Z"
     }
   },
   "showroomVisits": {
@@ -28719,6 +28726,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:25:19",
+      "iso": "2026-08-20T04:55:19.224Z",
+      "action": "updated remark for USHA-AVTR56 at WATTALA: “Do not offer discounts for this SKU, as it is an active SKU.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:25:18",
@@ -29060,13 +29074,6 @@
       "time": "10:16:27",
       "iso": "2026-08-20T04:46:27.582Z",
       "action": "updated remark for QT-SITUP at KATUGASTOTA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:16:15",
-      "iso": "2026-08-20T04:46:15.697Z",
-      "action": "updated remark for FAN-C-NR at KATUGASTOTA: “Use Fashion Academy”"
     }
   ]
 }
