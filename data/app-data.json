@@ -26690,6 +26690,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:39:42",
       "lastUpdated": "2026-08-20T04:09:42.479Z"
+    },
+    "PN-NR-BK418BQKX||PERADENIYA": {
+      "remark": "Service Center Contacted",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:40:07",
+      "lastUpdated": "2026-08-20T04:10:07.389Z"
     }
   },
   "showroomVisits": {
@@ -27424,6 +27431,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:40:07",
+      "iso": "2026-08-20T04:10:07.390Z",
+      "action": "updated remark for PN-NR-BK418BQKX at PERADENIYA: “Service Center Contacted”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:39:42",
@@ -27765,13 +27779,6 @@
       "time": "09:29:19",
       "iso": "2026-08-20T03:59:19.160Z",
       "action": "updated remark for SL-TF2GCR at PERADENIYA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:29:06",
-      "iso": "2026-08-20T03:59:06.298Z",
-      "action": "updated remark for SLMC-18DSLHS at PERADENIYA: “80%”"
     }
   ]
 }
