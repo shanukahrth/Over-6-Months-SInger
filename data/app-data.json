@@ -25899,6 +25899,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:01:04",
       "lastUpdated": "2026-08-20T03:31:04.093Z"
+    },
+    "WFL-SPM-78X36X7-S||PERADENIYA": {
+      "remark": "Sold",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:02:32",
+      "lastUpdated": "2026-08-20T03:32:32.307Z"
     }
   },
   "showroomVisits": {
@@ -26633,6 +26640,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:02:32",
+      "iso": "2026-08-20T03:32:32.308Z",
+      "action": "updated remark for WFL-SPM-78X36X7-S at PERADENIYA: “Sold”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:01:04",
@@ -26974,13 +26988,6 @@
       "time": "08:23:45",
       "iso": "2026-08-20T02:53:45.121Z",
       "action": "updated AVISSAWELLA - B showroom (team: Metro Team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:23:41",
-      "iso": "2026-08-20T02:53:41.339Z",
-      "action": "updated AVISSAWELLA showroom (team: Metro Team)"
     }
   ]
 }
