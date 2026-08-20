@@ -26515,6 +26515,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:33:30",
       "lastUpdated": "2026-08-20T04:03:30.428Z"
+    },
+    "HU-SECURITY||PERADENIYA": {
+      "remark": "Shop use",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:33:49",
+      "lastUpdated": "2026-08-20T04:03:49.098Z"
     }
   },
   "showroomVisits": {
@@ -27249,6 +27256,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:33:49",
+      "iso": "2026-08-20T04:03:49.098Z",
+      "action": "updated remark for HU-SECURITY at PERADENIYA: “Shop use”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:33:30",
@@ -27590,13 +27604,6 @@
       "time": "09:22:43",
       "iso": "2026-08-20T03:52:43.579Z",
       "action": "updated remark for SIN-EP170 at JA ELA - B: “No Discount applicable”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:22:18",
-      "iso": "2026-08-20T03:52:18.072Z",
-      "action": "updated remark for USHA-FS40-13B at JA ELA - B: “5%”"
     }
   ]
 }
