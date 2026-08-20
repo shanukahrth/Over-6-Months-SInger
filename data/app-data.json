@@ -27999,6 +27999,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:27:17",
       "lastUpdated": "2026-08-20T04:57:17.985Z"
+    },
+    "SIN-DEC-FDC||WATTALA": {
+      "remark": "Do not offer discounts for this SKU, as it is an active SKU.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:28:15",
+      "lastUpdated": "2026-08-20T04:58:15.021Z"
     }
   },
   "showroomVisits": {
@@ -28733,6 +28740,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:28:15",
+      "iso": "2026-08-20T04:58:15.022Z",
+      "action": "updated remark for SIN-DEC-FDC at WATTALA: “Do not offer discounts for this SKU, as it is an active SKU.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:27:57",
@@ -29074,13 +29088,6 @@
       "time": "10:17:10",
       "iso": "2026-08-20T04:47:10.108Z",
       "action": "updated remark for LF-LEO-SCUP-BCH at KATUGASTOTA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:16:57",
-      "iso": "2026-08-20T04:46:57.791Z",
-      "action": "updated remark for LF-LEO-12022-WNG-S at KATUGASTOTA: “50%”"
     }
   ]
 }
