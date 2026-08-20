@@ -27327,6 +27327,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:57:59",
       "lastUpdated": "2026-08-20T04:27:59.315Z"
+    },
+    "MID-D30-20EVN1||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:58:25",
+      "lastUpdated": "2026-08-20T04:28:25.922Z"
     }
   },
   "showroomVisits": {
@@ -28061,6 +28068,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:58:25",
+      "iso": "2026-08-20T04:28:25.923Z",
+      "action": "updated remark for MID-D30-20EVN1 at PERADENIYA: “Saleable existing price”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "09:57:59",
@@ -28402,13 +28416,6 @@
       "time": "09:49:59",
       "iso": "2026-08-20T04:19:59.307Z",
       "action": "updated remark for FT-FSD-036L01 at JA ELA - B: “0”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:49:23",
-      "iso": "2026-08-20T04:19:23.244Z",
-      "action": "updated remark for FT-FRH-50001 at JA ELA - B: “0”"
     }
   ]
 }
