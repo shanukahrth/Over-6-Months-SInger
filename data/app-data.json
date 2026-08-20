@@ -25852,11 +25852,11 @@
       "lastUpdated": "2026-08-20T03:25:11.885Z"
     },
     "WF-LILY-CHR-S||PERADENIYA": {
-      "remark": "50%",
+      "remark": "Sold",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-20",
-      "commentTime": "08:55:54",
-      "lastUpdated": "2026-08-20T03:25:54.764Z"
+      "commentTime": "08:56:00",
+      "lastUpdated": "2026-08-20T03:26:00.750Z"
     }
   },
   "showroomVisits": {
@@ -26593,6 +26593,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "08:56:00",
+      "iso": "2026-08-20T03:26:00.751Z",
+      "action": "updated remark for WF-LILY-CHR-S at PERADENIYA: “Sold”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "08:55:54",
       "iso": "2026-08-20T03:25:54.766Z",
       "action": "updated remark for WF-LILY-CHR-S at PERADENIYA: “50%”"
@@ -26932,13 +26939,6 @@
       "time": "18:59:34",
       "iso": "2026-08-19T13:29:34.082Z",
       "action": "updated remark for WC-RT3019 at PILIMATHALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:59:23",
-      "iso": "2026-08-19T13:29:23.416Z",
-      "action": "updated remark for SMGUA32T4400 at PILIMATHALAWA: “MOP - 45,000”"
     }
   ]
 }
