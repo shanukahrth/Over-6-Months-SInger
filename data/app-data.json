@@ -27726,6 +27726,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:18:16",
       "lastUpdated": "2026-08-20T04:48:16.428Z"
+    },
+    "NCPO-OT275||KIRIBATHGODA B": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:09:38",
+      "lastUpdated": "2026-08-20T04:39:38.137Z"
+    },
+    "PN-CS-U24XKH||WATTALA": {
+      "remark": "70% - for 1 unit",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:18:27",
+      "lastUpdated": "2026-08-20T04:48:27.244Z"
     }
   },
   "showroomVisits": {
@@ -28460,6 +28474,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:18:27",
+      "iso": "2026-08-20T04:48:27.249Z",
+      "action": "updated remark for PN-CS-U24XKH at WATTALA: “70% - for 1 unit”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:09:38",
+      "iso": "2026-08-20T04:39:38.144Z",
+      "action": "updated remark for NCPO-OT275 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:18:16",
@@ -28794,20 +28822,6 @@
       "time": "10:07:29",
       "iso": "2026-08-20T04:37:29.686Z",
       "action": "updated remark for H-RMRG024HFEOE at VALAICHENAI: “Credit Sale”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:07:04",
-      "iso": "2026-08-20T04:37:04.274Z",
-      "action": "updated remark for TF-NIK26-045 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:06:37",
-      "iso": "2026-08-20T04:36:37.771Z",
-      "action": "updated remark for TF-NIGP26-119 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
     }
   ]
 }
