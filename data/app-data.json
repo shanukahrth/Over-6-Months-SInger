@@ -29217,6 +29217,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:03:27",
       "lastUpdated": "2026-08-20T05:33:27.481Z"
+    },
+    "SLE32D1800||KATUGASTOTA": {
+      "remark": "Panel Damaged",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:03:58",
+      "lastUpdated": "2026-08-20T05:33:58.842Z"
     }
   },
   "showroomVisits": {
@@ -29953,6 +29960,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:03:58",
+      "iso": "2026-08-20T05:33:58.844Z",
+      "action": "updated remark for SLE32D1800 at KATUGASTOTA: “Panel Damaged”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:03:27",
       "iso": "2026-08-20T05:33:27.482Z",
       "action": "updated remark for SKY55Q6700G at KATUGASTOTA: “70%”"
@@ -30292,13 +30306,6 @@
       "time": "10:53:54",
       "iso": "2026-08-20T05:23:54.219Z",
       "action": "updated remark for ENG-5003 at KATUGASTOTA: “Handing over”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:53:40",
-      "iso": "2026-08-20T05:23:40.076Z",
-      "action": "updated remark for SLE43G690 at JA-ELA: “exchange”"
     }
   ]
 }
