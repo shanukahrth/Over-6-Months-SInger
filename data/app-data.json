@@ -25885,6 +25885,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "08:58:49",
       "lastUpdated": "2026-08-20T03:28:49.099Z"
+    },
+    "WFI-MICHU-TBL-S||PERADENIYA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "08:59:02",
+      "lastUpdated": "2026-08-20T03:29:02.291Z"
     }
   },
   "showroomVisits": {
@@ -26621,6 +26628,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "08:59:02",
+      "iso": "2026-08-20T03:29:02.292Z",
+      "action": "updated remark for WFI-MICHU-TBL-S at PERADENIYA: “70%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "08:58:49",
       "iso": "2026-08-20T03:28:49.100Z",
       "action": "updated remark for WFI-MICHU-CHR-S at PERADENIYA: “70%”"
@@ -26960,13 +26974,6 @@
       "time": "08:23:32",
       "iso": "2026-08-20T02:53:32.530Z",
       "action": "updated AVISSAWELLA - B showroom (visitDate: 2026-08-14)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:23:29",
-      "iso": "2026-08-20T02:53:29.415Z",
-      "action": "updated AVISSAWELLA showroom (visitDate: 2026-08-14)"
     }
   ]
 }
