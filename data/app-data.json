@@ -29287,6 +29287,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:07:16",
       "lastUpdated": "2026-08-20T05:37:16.986Z"
+    },
+    "SMGUA32N4000||KATUGASTOTA": {
+      "remark": "Damaged",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:07:30",
+      "lastUpdated": "2026-08-20T05:37:30.792Z"
     }
   },
   "showroomVisits": {
@@ -30023,6 +30030,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:07:30",
+      "iso": "2026-08-20T05:37:30.793Z",
+      "action": "updated remark for SMGUA32N4000 at KATUGASTOTA: “Damaged”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:07:16",
       "iso": "2026-08-20T05:37:16.988Z",
       "action": "updated remark for ULED32D2070 at KATUGASTOTA: “Damaged - Unsaleable”"
@@ -30362,13 +30376,6 @@
       "time": "10:55:19",
       "iso": "2026-08-20T05:25:19.744Z",
       "action": "updated remark for R-BWS-02 at VALAICHENAI: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "10:55:06",
-      "iso": "2026-08-20T05:25:06.879Z",
-      "action": "updated remark for DELL-HL-LAT3450-I5-16-WP at VALAICHENAI: “50% Discount”"
     }
   ]
 }
