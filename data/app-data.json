@@ -28433,6 +28433,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:43:14",
       "lastUpdated": "2026-08-20T05:13:14.736Z"
+    },
+    "R-FGAQ010||KATUGASTOTA": {
+      "remark": "Damaged- 80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:43:36",
+      "lastUpdated": "2026-08-20T05:13:36.734Z"
     }
   },
   "showroomVisits": {
@@ -29169,6 +29176,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:43:36",
+      "iso": "2026-08-20T05:13:36.736Z",
+      "action": "updated remark for R-FGAQ010 at KATUGASTOTA: “Damaged- 80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:43:14",
       "iso": "2026-08-20T05:13:14.738Z",
       "action": "updated remark for TF-CM-APR737 at KATUGASTOTA: “30%”"
@@ -29508,13 +29522,6 @@
       "time": "10:35:04",
       "iso": "2026-08-20T05:05:04.578Z",
       "action": "updated remark for WF-GALAXY-S at KATUGASTOTA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:34:43",
-      "iso": "2026-08-20T05:04:43.239Z",
-      "action": "updated remark for PN-TH-43MS670N at JA-ELA: “40%”"
     }
   ]
 }
