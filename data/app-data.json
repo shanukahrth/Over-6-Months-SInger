@@ -30729,6 +30729,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:26:06",
       "lastUpdated": "2026-08-20T06:56:06.434Z"
+    },
+    "DELL3530-I7-8GB512-BLK||PELIYAGODA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:25:49",
+      "lastUpdated": "2026-08-20T06:55:49.790Z"
+    },
+    "PN-TH-55MX740N||PELIYAGODA": {
+      "remark": "30%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:26:14",
+      "lastUpdated": "2026-08-20T06:56:14.359Z"
     }
   },
   "showroomVisits": {
@@ -31471,6 +31485,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "12:26:14",
+      "iso": "2026-08-20T06:56:14.362Z",
+      "action": "updated remark for PN-TH-55MX740N at PELIYAGODA: “30%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "12:25:49",
+      "iso": "2026-08-20T06:55:49.791Z",
+      "action": "updated remark for DELL3530-I7-8GB512-BLK at PELIYAGODA: “60%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "12:26:06",
@@ -31805,20 +31833,6 @@
       "time": "12:11:26",
       "iso": "2026-08-20T06:41:26.345Z",
       "action": "updated remark for SIN-DEC-DCWL at BATTICALOA: “15% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:11:05",
-      "iso": "2026-08-20T06:41:05.950Z",
-      "action": "updated remark for WP-WDC11704RG-G at BATTICALOA: “24% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:10:47",
-      "iso": "2026-08-20T06:40:47.000Z",
-      "action": "updated remark for SN-SMI-305 at BATTICALOA: “50% Discount”"
     }
   ]
 }
