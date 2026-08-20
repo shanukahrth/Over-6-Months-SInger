@@ -28741,6 +28741,27 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:51:18",
       "lastUpdated": "2026-08-20T05:21:18.939Z"
+    },
+    "VT-1047CN||KATUGASTOTA": {
+      "remark": "Return to WH -80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:51:12",
+      "lastUpdated": "2026-08-20T05:21:12.296Z"
+    },
+    "VT-EL31109CN||KATUGASTOTA": {
+      "remark": "Return to WH -80%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:51:16",
+      "lastUpdated": "2026-08-20T05:21:16.882Z"
+    },
+    "HU-SECURITY||KATUGASTOTA": {
+      "remark": "Shop use",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:51:31",
+      "lastUpdated": "2026-08-20T05:21:31.145Z"
     }
   },
   "showroomVisits": {
@@ -29475,6 +29496,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:51:31",
+      "iso": "2026-08-20T05:21:31.145Z",
+      "action": "updated remark for HU-SECURITY at KATUGASTOTA: “Shop use”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:51:16",
+      "iso": "2026-08-20T05:21:16.882Z",
+      "action": "updated remark for VT-EL31109CN at KATUGASTOTA: “Return to WH -80%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:51:12",
+      "iso": "2026-08-20T05:21:12.297Z",
+      "action": "updated remark for VT-1047CN at KATUGASTOTA: “Return to WH -80%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:51:18",
@@ -29802,27 +29844,6 @@
       "time": "10:44:45",
       "iso": "2026-08-20T05:14:45.193Z",
       "action": "updated remark for KA-PB-426 at KATUGASTOTA: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:44:30",
-      "iso": "2026-08-20T05:14:30.682Z",
-      "action": "updated remark for KA-OPTIMA at KATUGASTOTA: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:44:23",
-      "iso": "2026-08-20T05:14:23.004Z",
-      "action": "updated remark for KA-OPTIMA at KATUGASTOTA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "10:44:04",
-      "iso": "2026-08-20T05:14:04.083Z",
-      "action": "updated remark for TF-SI-EXS1230 at WATTALA: “15% - Additional”"
     }
   ]
 }
