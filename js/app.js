@@ -313,7 +313,15 @@ window.Shared = (function () {
       const dept = document.getElementById("login-dept").value.trim();
       const roleEl = document.getElementById("login-role");
       const role = roleEl ? roleEl.value : "admin";
-      const token = document.getElementById("login-token").value.trim();
+      const rawToken = document.getElementById("login-token").value.trim();
+      // A real GitHub PAT only ever contains letters, digits, and underscores.
+      // Copy-pasting (especially from Word, some chat apps, or PDFs) can
+      // silently inject invisible or "smart" characters — zero-width
+      // spaces, curly quotes, non-breaking spaces — that are outside the
+      // range HTTP headers can carry. Left in, those cause a cryptic
+      // browser-level "non ISO-8859-1 code point" error. Strip them here
+      // so a stray character doesn't block sign-in.
+      const token = rawToken.replace(/[^\x21-\x7E]/g, "");
 
       errEl.classList.add("hidden");
 
@@ -347,7 +355,10 @@ window.Shared = (function () {
         await bootApp();
       } catch (e) {
         console.error(e);
-        errEl.textContent = e.message || "Could not connect to GitHub. Check that the token is active and has Contents: Read and write access to this repository.";
+        const friendly = /ISO-8859-1|code point/i.test(e.message || "")
+          ? "Your token contains an invalid character (likely picked up from copy-pasting). Please clear the token field and paste it again directly from GitHub's token page."
+          : (e.message || "Could not connect to GitHub. Check that the token is active and has Contents: Read and write access to this repository.");
+        errEl.textContent = friendly;
         errEl.classList.remove("hidden");
       } finally {
         connectBtn.disabled = false;
