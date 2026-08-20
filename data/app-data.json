@@ -27418,6 +27418,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:07:29",
       "lastUpdated": "2026-08-20T04:37:29.685Z"
+    },
+    "TF-SP16-063||KIRIBATHGODA B": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:07:40",
+      "lastUpdated": "2026-08-20T04:37:40.645Z"
     }
   },
   "showroomVisits": {
@@ -28152,6 +28159,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-20",
+      "time": "10:07:40",
+      "iso": "2026-08-20T04:37:40.647Z",
+      "action": "updated remark for TF-SP16-063 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:07:29",
@@ -28493,13 +28507,6 @@
       "time": "09:52:38",
       "iso": "2026-08-20T04:22:38.112Z",
       "action": "updated remark for SLE32D2010TC at JA ELA - B: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:52:14",
-      "iso": "2026-08-20T04:22:14.055Z",
-      "action": "updated remark for SKY55Q6700G at JA ELA - B: “0”"
     }
   ]
 }
