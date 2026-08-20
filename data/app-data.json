@@ -30442,6 +30442,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:11:26",
       "lastUpdated": "2026-08-20T06:41:26.344Z"
+    },
+    "MHC-V13||BATTICALOA": {
+      "remark": "80% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:11:51",
+      "lastUpdated": "2026-08-20T06:41:51.517Z"
     }
   },
   "showroomVisits": {
@@ -31186,6 +31193,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:11:51",
+      "iso": "2026-08-20T06:41:51.519Z",
+      "action": "updated remark for MHC-V13 at BATTICALOA: “80% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:11:26",
       "iso": "2026-08-20T06:41:26.345Z",
       "action": "updated remark for SIN-DEC-DCWL at BATTICALOA: “15% Discount”"
@@ -31525,13 +31539,6 @@
       "time": "11:47:09",
       "iso": "2026-08-20T06:17:09.961Z",
       "action": "updated remark for SL-WD7004 at KATUGASTOTA - B: “Unsaleable”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:46:52",
-      "iso": "2026-08-20T06:16:52.899Z",
-      "action": "updated remark for WP-WDC11704RG-G at KATUGASTOTA - B: “24%”"
     }
   ]
 }
