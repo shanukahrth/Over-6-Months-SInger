@@ -29511,6 +29511,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:19:31",
       "lastUpdated": "2026-08-20T05:49:31.009Z"
+    },
+    "LF-LEO-120-SHW||KATUGASTOTA - B": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:19:42",
+      "lastUpdated": "2026-08-20T05:49:42.195Z"
     }
   },
   "showroomVisits": {
@@ -30247,6 +30254,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:19:42",
+      "iso": "2026-08-20T05:49:42.197Z",
+      "action": "updated remark for LF-LEO-120-SHW at KATUGASTOTA - B: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:19:31",
       "iso": "2026-08-20T05:49:31.009Z",
       "action": "updated remark for WG-FAN-BXS at KATUGASTOTA - B: “Damaged- 80%”"
@@ -30586,13 +30600,6 @@
       "time": "11:01:00",
       "iso": "2026-08-20T05:31:00.587Z",
       "action": "updated remark for WP-MAGICOOKPRO-25GE at JA-ELA: “Discount already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:00:42",
-      "iso": "2026-08-20T05:30:42.570Z",
-      "action": "updated remark for SLE32E910 at JA-ELA: “exchange”"
     }
   ]
 }
