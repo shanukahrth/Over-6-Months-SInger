@@ -28545,6 +28545,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:46:32",
       "lastUpdated": "2026-08-20T05:16:32.998Z"
+    },
+    "RCW-1018||KATUGASTOTA": {
+      "remark": "60%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:46:51",
+      "lastUpdated": "2026-08-20T05:16:51.156Z"
     }
   },
   "showroomVisits": {
@@ -29279,6 +29286,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:46:51",
+      "iso": "2026-08-20T05:16:51.157Z",
+      "action": "updated remark for RCW-1018 at KATUGASTOTA: “60%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:46:32",
@@ -29620,13 +29634,6 @@
       "time": "10:38:34",
       "iso": "2026-08-20T05:08:34.644Z",
       "action": "updated remark for SIN-W66PA28 at JA-ELA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:38:31",
-      "iso": "2026-08-20T05:08:31.697Z",
-      "action": "updated remark for SID-2432 at KATUGASTOTA: “Damaged- 40%”"
     }
   ]
 }
