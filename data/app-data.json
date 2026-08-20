@@ -29070,6 +29070,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:58:14",
       "lastUpdated": "2026-08-20T05:28:14.404Z"
+    },
+    "PN-TH-32M402N||JA-ELA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:58:34",
+      "lastUpdated": "2026-08-20T05:28:34.521Z"
     }
   },
   "showroomVisits": {
@@ -29806,6 +29813,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "10:58:34",
+      "iso": "2026-08-20T05:28:34.523Z",
+      "action": "updated remark for PN-TH-32M402N at JA-ELA: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "10:58:14",
       "iso": "2026-08-20T05:28:14.406Z",
       "action": "updated remark for SLE32E930 at JA-ELA: “70%”"
@@ -30145,13 +30159,6 @@
       "time": "10:51:16",
       "iso": "2026-08-20T05:21:16.882Z",
       "action": "updated remark for VT-EL31109CN at KATUGASTOTA: “Return to WH -80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:51:12",
-      "iso": "2026-08-20T05:21:12.297Z",
-      "action": "updated remark for VT-1047CN at KATUGASTOTA: “Return to WH -80%”"
     }
   ]
 }
