@@ -29329,6 +29329,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:08:44",
       "lastUpdated": "2026-08-20T05:38:44.329Z"
+    },
+    "WP-1R-100-S||KATUGASTOTA": {
+      "remark": "Damaged- 60%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:09:32",
+      "lastUpdated": "2026-08-20T05:39:32.136Z"
     }
   },
   "showroomVisits": {
@@ -30065,6 +30072,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:09:32",
+      "iso": "2026-08-20T05:39:32.137Z",
+      "action": "updated remark for WP-1R-100-S at KATUGASTOTA: “Damaged- 60%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:08:44",
       "iso": "2026-08-20T05:38:44.329Z",
       "action": "updated remark for WP-WDC11704RG-G at KATUGASTOTA: “24%”"
@@ -30404,13 +30418,6 @@
       "time": "10:56:16",
       "iso": "2026-08-20T05:26:16.407Z",
       "action": "updated remark for SLE40D600A at JA-ELA: “revert.”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:56:22",
-      "iso": "2026-08-20T05:26:22.122Z",
-      "action": "updated remark for GEO-242D-TG at KATUGASTOTA: “50%”"
     }
   ]
 }
