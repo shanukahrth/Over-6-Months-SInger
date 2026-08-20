@@ -31036,13 +31036,20 @@
     "MAHO||NIKAWARATIYA": {
       "visited": "Yes",
       "visitDate": "0002-08-18",
-      "team": "",
+      "team": "Wayambe Team",
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "11:57:45",
+      "iso": "2026-08-20T06:27:45.853Z",
+      "action": "updated MAHO showroom (team: Wayambe Team)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -31385,13 +31392,6 @@
       "time": "11:41:38",
       "iso": "2026-08-20T06:11:38.019Z",
       "action": "updated remark for SN-SMI-285 at KATUGASTOTA - B: “Flood effect”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:41:35",
-      "iso": "2026-08-20T06:11:35.018Z",
-      "action": "updated remark for SMGRT34B4542S8 at KATUGASTOTA - B: “Flood effect”"
     }
   ]
 }
