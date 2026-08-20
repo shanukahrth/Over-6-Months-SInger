@@ -26697,6 +26697,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:40:07",
       "lastUpdated": "2026-08-20T04:10:07.389Z"
+    },
+    "SMGRT30K3322S8||PERADENIYA": {
+      "remark": "MOP- 1,50,000/=",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:40:28",
+      "lastUpdated": "2026-08-20T04:10:28.936Z"
     }
   },
   "showroomVisits": {
@@ -27433,6 +27440,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "09:40:28",
+      "iso": "2026-08-20T04:10:28.937Z",
+      "action": "updated remark for SMGRT30K3322S8 at PERADENIYA: “MOP- 1,50,000/=”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "09:40:07",
       "iso": "2026-08-20T04:10:07.390Z",
       "action": "updated remark for PN-NR-BK418BQKX at PERADENIYA: “Service Center Contacted”"
@@ -27772,13 +27786,6 @@
       "time": "09:29:28",
       "iso": "2026-08-20T03:59:28.141Z",
       "action": "updated remark for STT-100K at PERADENIYA: “80%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:29:19",
-      "iso": "2026-08-20T03:59:19.160Z",
-      "action": "updated remark for SL-TF2GCR at PERADENIYA: “80%”"
     }
   ]
 }
