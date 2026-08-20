@@ -30960,6 +30960,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:43:36",
       "lastUpdated": "2026-08-20T07:13:36.628Z"
+    },
+    "PCP50||BATTICALOA": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:43:51",
+      "lastUpdated": "2026-08-20T07:13:51.861Z"
     }
   },
   "showroomVisits": {
@@ -31736,6 +31743,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:43:51",
+      "iso": "2026-08-20T07:13:51.863Z",
+      "action": "updated remark for PCP50 at BATTICALOA: “70% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:43:36",
       "iso": "2026-08-20T07:13:36.631Z",
       "action": "updated remark for LFLCDCHAMP-BLK-S at BATTICALOA: “50% Discount”"
@@ -32075,13 +32089,6 @@
       "time": "12:25:54",
       "iso": "2026-08-20T06:55:54.697Z",
       "action": "updated remark for WF-CF-75X75-S at BATTICALOA: “60% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:25:33",
-      "iso": "2026-08-20T06:55:33.320Z",
-      "action": "updated remark for SLE43D1800TC at BATTICALOA: “60% Discount”"
     }
   ]
 }
