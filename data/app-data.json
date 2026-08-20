@@ -31142,6 +31142,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "13:41:21",
       "lastUpdated": "2026-08-20T08:11:21.980Z"
+    },
+    "SLE32E910||PELIYAGODA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "13:41:43",
+      "lastUpdated": "2026-08-20T08:11:43.331Z"
     }
   },
   "showroomVisits": {
@@ -31918,6 +31925,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "13:41:43",
+      "iso": "2026-08-20T08:11:43.334Z",
+      "action": "updated remark for SLE32E910 at PELIYAGODA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "13:41:21",
       "iso": "2026-08-20T08:11:21.980Z",
       "action": "updated remark for SIN-NOTE-W10 at PELIYAGODA: “0%”"
@@ -32257,13 +32271,6 @@
       "time": "12:31:59",
       "iso": "2026-08-20T07:01:59.225Z",
       "action": "updated remark for BES-CRS-51 at PELIYAGODA: “10%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:31:42",
-      "iso": "2026-08-20T07:01:42.851Z",
-      "action": "updated remark for FAN-P-SF1605HL at BATTICALOA: “50% Discount”"
     }
   ]
 }
