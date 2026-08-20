@@ -25850,6 +25850,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "08:55:11",
       "lastUpdated": "2026-08-20T03:25:11.885Z"
+    },
+    "WF-LILY-CHR-S||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "08:55:54",
+      "lastUpdated": "2026-08-20T03:25:54.764Z"
     }
   },
   "showroomVisits": {
@@ -26586,6 +26593,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "08:55:54",
+      "iso": "2026-08-20T03:25:54.766Z",
+      "action": "updated remark for WF-LILY-CHR-S at PERADENIYA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "08:55:11",
       "iso": "2026-08-20T03:25:11.886Z",
       "action": "updated remark for PF-KID-DSK-GRN-S at PERADENIYA: “70%”"
@@ -26925,13 +26939,6 @@
       "time": "18:59:23",
       "iso": "2026-08-19T13:29:23.416Z",
       "action": "updated remark for SMGUA32T4400 at PILIMATHALAWA: “MOP - 45,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:59:15",
-      "iso": "2026-08-19T13:29:15.807Z",
-      "action": "updated remark for SMGUA32N4010 at PILIMATHALAWA: “MOP - 39,999”"
     }
   ]
 }
