@@ -26993,11 +26993,11 @@
       "lastUpdated": "2026-08-20T04:17:09.719Z"
     },
     "SLE40D600A||PERADENIYA": {
-      "remark": "60%",
+      "remark": "Service Center Contacted",
       "commentedBy": "Kaveesha Sathsarani",
       "commentDate": "2026-08-20",
-      "commentTime": "09:49:13",
-      "lastUpdated": "2026-08-20T04:19:13.183Z"
+      "commentTime": "09:50:02",
+      "lastUpdated": "2026-08-20T04:20:02.555Z"
     },
     "FT-FAG-10002-BS||JA ELA - B": {
       "remark": "0",
@@ -27061,6 +27061,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:50:18",
       "lastUpdated": "2026-08-20T04:20:18.380Z"
+    },
+    "SLE43D1800TC||PERADENIYA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:50:19",
+      "lastUpdated": "2026-08-20T04:20:19.239Z"
+    },
+    "SLE43D5000||PERADENIYA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:50:36",
+      "lastUpdated": "2026-08-20T04:20:36.199Z"
     }
   },
   "showroomVisits": {
@@ -27795,6 +27809,27 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:50:36",
+      "iso": "2026-08-20T04:20:36.200Z",
+      "action": "updated remark for SLE43D5000 at PERADENIYA: “70%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:50:19",
+      "iso": "2026-08-20T04:20:19.240Z",
+      "action": "updated remark for SLE43D1800TC at PERADENIYA: “70%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:50:02",
+      "iso": "2026-08-20T04:20:02.556Z",
+      "action": "updated remark for SLE40D600A at PERADENIYA: “Service Center Contacted”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:50:18",
@@ -28122,27 +28157,6 @@
       "time": "09:42:13",
       "iso": "2026-08-20T04:12:13.107Z",
       "action": "updated remark for ZTE-A31-LITE-GRY at JA ELA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:41:56",
-      "iso": "2026-08-20T04:11:56.105Z",
-      "action": "updated remark for HU-SECURITY at JA ELA - B: “shop use”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:42:16",
-      "iso": "2026-08-20T04:12:16.550Z",
-      "action": "updated remark for V-WCDMA-3G-433 at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:42:11",
-      "iso": "2026-08-20T04:12:11.646Z",
-      "action": "updated remark for V-SR-740-PG2 at PERADENIYA: “50%”"
     }
   ]
 }
