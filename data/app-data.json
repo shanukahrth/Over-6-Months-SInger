@@ -30022,6 +30022,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:42:31",
       "lastUpdated": "2026-08-20T06:12:31.441Z"
+    },
+    "MCT-302N||KATUGASTOTA - B": {
+      "remark": "Shop use",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:42:50",
+      "lastUpdated": "2026-08-20T06:12:50.617Z"
     }
   },
   "showroomVisits": {
@@ -30758,6 +30765,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:42:50",
+      "iso": "2026-08-20T06:12:50.618Z",
+      "action": "updated remark for MCT-302N at KATUGASTOTA - B: “Shop use”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:42:31",
       "iso": "2026-08-20T06:12:31.442Z",
       "action": "updated remark for MCT-234 at KATUGASTOTA - B: “Shop use”"
@@ -31097,13 +31111,6 @@
       "time": "11:30:18",
       "iso": "2026-08-20T06:00:18.436Z",
       "action": "updated remark for PCD35-SS at KATUGASTOTA - B: “30%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:29:06",
-      "iso": "2026-08-20T05:59:06.619Z",
-      "action": "updated remark for UJB-LB6027 at KATUGASTOTA - B: “30%”"
     }
   ]
 }
