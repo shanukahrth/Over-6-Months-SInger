@@ -26011,6 +26011,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:14:01",
       "lastUpdated": "2026-08-20T03:44:01.826Z"
+    },
+    "WFL-SOC-V010-RD-S||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:10:52",
+      "lastUpdated": "2026-08-20T03:40:52.476Z"
+    },
+    "WF-DOC-T009-BU-S||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:14:25",
+      "lastUpdated": "2026-08-20T03:44:25.010Z"
     }
   },
   "showroomVisits": {
@@ -26745,6 +26759,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:14:25",
+      "iso": "2026-08-20T03:44:25.012Z",
+      "action": "updated remark for WF-DOC-T009-BU-S at PERADENIYA: “Saleable existing price”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:10:52",
+      "iso": "2026-08-20T03:40:52.478Z",
+      "action": "updated remark for WFL-SOC-V010-RD-S at PERADENIYA: “Saleable existing price”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "09:14:01",
@@ -27079,20 +27107,6 @@
       "time": "08:27:45",
       "iso": "2026-08-20T02:57:45.486Z",
       "action": "updated HOMAGAMA showroom (team: Metro Team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:27:40",
-      "iso": "2026-08-20T02:57:40.555Z",
-      "action": "updated HOMAGAMA showroom (team: Metro team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:27:33",
-      "iso": "2026-08-20T02:57:33.734Z",
-      "action": "updated HOMAGAMA - B showroom (visitDate: 2026-08-13)"
     }
   ]
 }
