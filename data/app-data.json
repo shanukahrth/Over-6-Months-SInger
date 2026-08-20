@@ -31912,11 +31912,11 @@
     },
     "WENNAPPUWA||CHILAW": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-19",
       "team": "Team Wayamba ",
       "remark": "",
-      "updatedBy": "Shanuka Herath",
-      "updatedDate": "2026-08-19"
+      "updatedBy": "SHENULI",
+      "updatedDate": "2026-08-20"
     },
     "AVISSAWELLA||MAHARAGAMA": {
       "visited": "Yes",
@@ -32089,6 +32089,13 @@
   },
   "soldMarks": {},
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:12:17",
+      "iso": "2026-08-20T10:42:17.190Z",
+      "action": "updated WENNAPPUWA showroom (visitDate: 2026-08-19)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -32431,13 +32438,6 @@
       "time": "12:49:03",
       "iso": "2026-08-20T07:19:03.602Z",
       "action": "updated remark for NCPDG-SP240 at BATTICALOA: “35% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:48:35",
-      "iso": "2026-08-20T07:18:35.849Z",
-      "action": "updated remark for LF-PODIUM-MWNT-S at BATTICALOA: “50% Discount”"
     }
   ]
 }
