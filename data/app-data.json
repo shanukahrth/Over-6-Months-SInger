@@ -28776,6 +28776,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:51:38",
       "lastUpdated": "2026-08-20T05:21:38.945Z"
+    },
+    "HON-X9B-12-256-ORG||KATUGASTOTA": {
+      "remark": "60%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:51:57",
+      "lastUpdated": "2026-08-20T05:21:57.442Z"
     }
   },
   "showroomVisits": {
@@ -29510,6 +29517,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:51:57",
+      "iso": "2026-08-20T05:21:57.443Z",
+      "action": "updated remark for HON-X9B-12-256-ORG at KATUGASTOTA: “60%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:51:38",
@@ -29851,13 +29865,6 @@
       "time": "10:44:31",
       "iso": "2026-08-20T05:14:31.382Z",
       "action": "updated remark for TF-KD24-061 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "10:45:01",
-      "iso": "2026-08-20T05:15:01.795Z",
-      "action": "updated remark for MID-BL1190 at KATUGASTOTA: “70%”"
     }
   ]
 }
