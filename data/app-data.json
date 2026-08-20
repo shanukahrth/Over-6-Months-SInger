@@ -32200,8 +32200,8 @@
     },
     "GALEWELA||MATALE": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-18",
+      "team": "Wayamba Team",
       "remark": "",
       "updatedBy": "Mihini Perera",
       "updatedDate": "2026-08-20"
@@ -32216,6 +32216,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:29:45",
+      "iso": "2026-08-20T10:59:45.549Z",
+      "action": "updated GALEWELA showroom (team: Wayamba Team)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-20",
@@ -32558,13 +32565,6 @@
       "time": "13:59:46",
       "iso": "2026-08-20T08:29:46.603Z",
       "action": "updated remark for TF-SP16-063 at PELIYAGODA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:58:05",
-      "iso": "2026-08-20T08:28:05.841Z",
-      "action": "updated remark for HU-Y5-LITE-B at PELIYAGODA: “Damaged -90% Can not Sell”"
     }
   ]
 }
