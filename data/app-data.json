@@ -26501,6 +26501,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:33:11",
       "lastUpdated": "2026-08-20T04:03:11.441Z"
+    },
+    "SIN-RFC-2058||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:33:32",
+      "lastUpdated": "2026-08-20T04:03:32.969Z"
     }
   },
   "showroomVisits": {
@@ -27235,6 +27242,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:33:32",
+      "iso": "2026-08-20T04:03:32.970Z",
+      "action": "updated remark for SIN-RFC-2058 at PERADENIYA: “Saleable existing price”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:33:29",
+      "iso": "2026-08-20T04:03:29.417Z",
+      "action": "updated remark for SIN-RFC-2058 at PERADENIYA: “Saleable existing  price”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:33:11",
@@ -27569,20 +27590,6 @@
       "time": "09:21:44",
       "iso": "2026-08-20T03:51:44.341Z",
       "action": "updated remark for UDV3618SY at JA ELA - B: “WH return”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:21:14",
-      "iso": "2026-08-20T03:51:14.549Z",
-      "action": "updated remark for HON-ART14-U7-32-1TB-GLD at JA ELA - B: “5% Approved by Ranidu”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:21:01",
-      "iso": "2026-08-20T03:51:01.393Z",
-      "action": "updated remark for TF-GS-SPKT302 at PERADENIYA: “Saleable existing price”"
     }
   ]
 }
