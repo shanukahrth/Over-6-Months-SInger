@@ -26795,6 +26795,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:42:13",
       "lastUpdated": "2026-08-20T04:12:13.106Z"
+    },
+    "MC8280||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:42:26",
+      "lastUpdated": "2026-08-20T04:12:26.469Z"
+    },
+    "MC984-HO||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:42:33",
+      "lastUpdated": "2026-08-20T04:12:33.836Z"
     }
   },
   "showroomVisits": {
@@ -27529,6 +27543,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:42:33",
+      "iso": "2026-08-20T04:12:33.837Z",
+      "action": "updated remark for MC984-HO at PERADENIYA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:42:26",
+      "iso": "2026-08-20T04:12:26.470Z",
+      "action": "updated remark for MC8280 at PERADENIYA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:42:13",
@@ -27863,20 +27891,6 @@
       "time": "09:33:29",
       "iso": "2026-08-20T04:03:29.417Z",
       "action": "updated remark for SIN-RFC-2058 at PERADENIYA: “Saleable existing  price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:33:11",
-      "iso": "2026-08-20T04:03:11.442Z",
-      "action": "updated remark for UJB-LB6027 at JA ELA - B: “Already discount offered”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:33:10",
-      "iso": "2026-08-20T04:03:10.028Z",
-      "action": "updated remark for SIN-RFC-2012 at PERADENIYA: “Saleable existing price”"
     }
   ]
 }
