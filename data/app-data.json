@@ -26491,9 +26491,24 @@
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-20"
+    },
+    "PADUKKA||MAHARAGAMA": {
+      "visited": "No",
+      "visitDate": "2026-08-14",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-20"
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:26:46",
+      "iso": "2026-08-20T02:56:46.957Z",
+      "action": "updated PADUKKA showroom (visitDate: 2026-08-14)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26836,13 +26851,6 @@
       "time": "18:55:58",
       "iso": "2026-08-19T13:25:58.884Z",
       "action": "updated remark for ACER-PJ-S1286H at PILIMATHALAWA: “50% - Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:55:53",
-      "iso": "2026-08-19T13:25:53.050Z",
-      "action": "updated remark for ACER-PJ-S1286H at PILIMATHALAWA: “50%”"
     }
   ]
 }
