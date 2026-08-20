@@ -29546,6 +29546,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:21:01",
       "lastUpdated": "2026-08-20T05:51:01.731Z"
+    },
+    "LF-OPENSR-S||KATUGASTOTA - B": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:21:21",
+      "lastUpdated": "2026-08-20T05:51:21.330Z"
     }
   },
   "showroomVisits": {
@@ -30282,6 +30289,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:21:21",
+      "iso": "2026-08-20T05:51:21.332Z",
+      "action": "updated remark for LF-OPENSR-S at KATUGASTOTA - B: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:21:01",
       "iso": "2026-08-20T05:51:01.732Z",
       "action": "updated remark for LF-CT-S at KATUGASTOTA - B: “Fluctuation”"
@@ -30621,13 +30635,6 @@
       "time": "11:04:18",
       "iso": "2026-08-20T05:34:18.443Z",
       "action": "updated remark for SLE32E910 at KATUGASTOTA: “Panel Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "11:03:54",
-      "iso": "2026-08-20T05:33:54.831Z",
-      "action": "updated remark for LF-COD-S at JA-ELA: “50%”"
     }
   ]
 }
