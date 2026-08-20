@@ -31077,7 +31077,7 @@
     },
     "MAHO||NIKAWARATIYA": {
       "visited": "Yes",
-      "visitDate": "0026-08-18",
+      "visitDate": "2026-08-18",
       "team": "Wayambe Team",
       "remark": "",
       "updatedBy": "SHENULI",
@@ -31085,6 +31085,13 @@
     }
   },
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "12:00:18",
+      "iso": "2026-08-20T06:30:18.102Z",
+      "action": "updated MAHO showroom (visitDate: 2026-08-18)"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
@@ -31427,13 +31434,6 @@
       "time": "11:43:08",
       "iso": "2026-08-20T06:13:08.338Z",
       "action": "updated remark for PM-OS-BAT at KATUGASTOTA - B: “Shop use”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:43:04",
-      "iso": "2026-08-20T06:13:04.698Z",
-      "action": "updated remark for PM-COMP-8 at KATUGASTOTA - B: “Shop use”"
     }
   ]
 }
