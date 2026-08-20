@@ -29553,6 +29553,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:21:21",
       "lastUpdated": "2026-08-20T05:51:21.330Z"
+    },
+    "LF-ORGN-BDQ-CKT-S||KATUGASTOTA - B": {
+      "remark": "Flood effect",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:21:38",
+      "lastUpdated": "2026-08-20T05:51:38.170Z"
     }
   },
   "showroomVisits": {
@@ -30289,6 +30296,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:21:38",
+      "iso": "2026-08-20T05:51:38.171Z",
+      "action": "updated remark for LF-ORGN-BDQ-CKT-S at KATUGASTOTA - B: “Flood effect”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:21:21",
       "iso": "2026-08-20T05:51:21.332Z",
       "action": "updated remark for LF-OPENSR-S at KATUGASTOTA - B: “50%”"
@@ -30628,13 +30642,6 @@
       "time": "11:04:37",
       "iso": "2026-08-20T05:34:37.762Z",
       "action": "updated remark for SLE32E930 at KATUGASTOTA: “Panel Damaged”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:04:18",
-      "iso": "2026-08-20T05:34:18.443Z",
-      "action": "updated remark for SLE32E910 at KATUGASTOTA: “Panel Damaged”"
     }
   ]
 }
