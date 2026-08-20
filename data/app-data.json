@@ -30715,6 +30715,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:25:33",
       "lastUpdated": "2026-08-20T06:55:33.319Z"
+    },
+    "WF-CF-75X75-S||BATTICALOA": {
+      "remark": "60% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:25:54",
+      "lastUpdated": "2026-08-20T06:55:54.695Z"
     }
   },
   "showroomVisits": {
@@ -31459,6 +31466,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:25:54",
+      "iso": "2026-08-20T06:55:54.697Z",
+      "action": "updated remark for WF-CF-75X75-S at BATTICALOA: “60% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:25:33",
       "iso": "2026-08-20T06:55:33.320Z",
       "action": "updated remark for SLE43D1800TC at BATTICALOA: “60% Discount”"
@@ -31798,13 +31812,6 @@
       "time": "12:10:35",
       "iso": "2026-08-20T06:40:35.502Z",
       "action": "updated remark for WF-PACIFIC-MR-S at BATTICALOA: “Damage 90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:10:09",
-      "iso": "2026-08-20T06:40:09.470Z",
-      "action": "updated remark for DH-8-CAMERA-PACK at BATTICALOA (cleared)"
     }
   ]
 }
