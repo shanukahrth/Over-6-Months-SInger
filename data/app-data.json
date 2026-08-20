@@ -29616,6 +29616,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:25:19",
       "lastUpdated": "2026-08-20T05:55:19.224Z"
+    },
+    "WFL-RIO-03-S||KATUGASTOTA - B": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:25:20",
+      "lastUpdated": "2026-08-20T05:55:20.154Z"
+    },
+    "MCZJ9513-G01||KATUGASTOTA - B": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:25:33",
+      "lastUpdated": "2026-08-20T05:55:33.722Z"
     }
   },
   "showroomVisits": {
@@ -30350,6 +30364,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "11:25:33",
+      "iso": "2026-08-20T05:55:33.723Z",
+      "action": "updated remark for MCZJ9513-G01 at KATUGASTOTA - B: “95%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "11:25:20",
+      "iso": "2026-08-20T05:55:20.155Z",
+      "action": "updated remark for WFL-RIO-03-S at KATUGASTOTA - B: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "11:25:19",
@@ -30684,20 +30712,6 @@
       "time": "11:07:53",
       "iso": "2026-08-20T05:37:53.345Z",
       "action": "updated remark for TCL65C655 at KATUGASTOTA: “Exchange”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:07:41",
-      "iso": "2026-08-20T05:37:41.187Z",
-      "action": "updated remark for SMGUA32N4010 at KATUGASTOTA: “Damaged”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:07:30",
-      "iso": "2026-08-20T05:37:30.793Z",
-      "action": "updated remark for SMGUA32N4000 at KATUGASTOTA: “Damaged”"
     }
   ]
 }
