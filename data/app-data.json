@@ -27572,6 +27572,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:11:32",
       "lastUpdated": "2026-08-20T04:41:32.484Z"
+    },
+    "B-CFB9433X||KATUGASTOTA": {
+      "remark": "36%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:11:53",
+      "lastUpdated": "2026-08-20T04:41:53.477Z"
     }
   },
   "showroomVisits": {
@@ -28308,6 +28315,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:11:53",
+      "iso": "2026-08-20T04:41:53.477Z",
+      "action": "updated remark for B-CFB9433X at KATUGASTOTA: “36%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:11:32",
       "iso": "2026-08-20T04:41:32.484Z",
       "action": "updated remark for SPAS81BT at KATUGASTOTA: “Reverted”"
@@ -28647,13 +28661,6 @@
       "time": "09:56:25",
       "iso": "2026-08-20T04:26:25.658Z",
       "action": "updated remark for WC-RT3019 at PERADENIYA: “70%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:56:21",
-      "iso": "2026-08-20T04:26:21.438Z",
-      "action": "updated remark for WC-IK609 at PERADENIYA: “70%”"
     }
   ]
 }
