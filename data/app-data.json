@@ -25878,6 +25878,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "08:58:08",
       "lastUpdated": "2026-08-20T03:28:08.979Z"
+    },
+    "WFI-MICHU-CHR-S||PERADENIYA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "08:58:27",
+      "lastUpdated": "2026-08-20T03:28:27.445Z"
     }
   },
   "showroomVisits": {
@@ -26614,6 +26621,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "08:58:27",
+      "iso": "2026-08-20T03:28:27.447Z",
+      "action": "updated remark for WFI-MICHU-CHR-S at PERADENIYA: “70%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "08:58:08",
       "iso": "2026-08-20T03:28:08.980Z",
       "action": "updated remark for WF-CLASSIC-BL-S at PERADENIYA: “60%”"
@@ -26953,13 +26967,6 @@
       "time": "08:23:06",
       "iso": "2026-08-20T02:53:06.922Z",
       "action": "updated AVISSAWELLA - B showroom (visited: Yes)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:23:05",
-      "iso": "2026-08-20T02:53:05.153Z",
-      "action": "updated AVISSAWELLA showroom (visited: Yes)"
     }
   ]
 }
