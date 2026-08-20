@@ -28244,6 +28244,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:38:16",
       "lastUpdated": "2026-08-20T05:08:16.320Z"
+    },
+    "SID-2432||KATUGASTOTA": {
+      "remark": "Damaged- 40%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:38:31",
+      "lastUpdated": "2026-08-20T05:08:31.697Z"
     }
   },
   "showroomVisits": {
@@ -28978,6 +28985,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:38:31",
+      "iso": "2026-08-20T05:08:31.697Z",
+      "action": "updated remark for SID-2432 at KATUGASTOTA: “Damaged- 40%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "10:38:16",
@@ -29319,13 +29333,6 @@
       "time": "10:23:37",
       "iso": "2026-08-20T04:53:37.753Z",
       "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at JA-ELA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:23:21",
-      "iso": "2026-08-20T04:53:21.467Z",
-      "action": "updated remark for PN-CS-XU12XKYW-8 at JA-ELA: “60%”"
     }
   ]
 }
