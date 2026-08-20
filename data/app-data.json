@@ -26480,6 +26480,20 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:32:48",
       "lastUpdated": "2026-08-20T04:02:48.064Z"
+    },
+    "SIN-RFC-1819||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:32:53",
+      "lastUpdated": "2026-08-20T04:02:53.090Z"
+    },
+    "SIN-RFC-2012||PERADENIYA": {
+      "remark": "Saleable existing price",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:33:10",
+      "lastUpdated": "2026-08-20T04:03:10.026Z"
     }
   },
   "showroomVisits": {
@@ -27214,6 +27228,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:33:10",
+      "iso": "2026-08-20T04:03:10.028Z",
+      "action": "updated remark for SIN-RFC-2012 at PERADENIYA: “Saleable existing price”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:32:53",
+      "iso": "2026-08-20T04:02:53.091Z",
+      "action": "updated remark for SIN-RFC-1819 at PERADENIYA: “Saleable existing price”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:32:48",
@@ -27548,20 +27576,6 @@
       "time": "09:20:43",
       "iso": "2026-08-20T03:50:43.088Z",
       "action": "updated remark for DIALOG-HSPA at JA ELA - B: “shop use”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:20:46",
-      "iso": "2026-08-20T03:50:46.620Z",
-      "action": "updated remark for TF-GS-SPKT302 at PERADENIYA: “Saleable existing price”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:20:15",
-      "iso": "2026-08-20T03:50:15.281Z",
-      "action": "updated remark for SIN-MRG-1008C at PERADENIYA: “Saleable existing price”"
     }
   ]
 }
