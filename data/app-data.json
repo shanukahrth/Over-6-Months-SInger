@@ -30379,6 +30379,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:03:19",
       "lastUpdated": "2026-08-20T06:33:19.230Z"
+    },
+    "TF-TW26-064||JA-ELA": {
+      "remark": "Discount already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:03:43",
+      "lastUpdated": "2026-08-20T06:33:43.598Z"
     }
   },
   "showroomVisits": {
@@ -31123,6 +31130,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "12:03:43",
+      "iso": "2026-08-20T06:33:43.599Z",
+      "action": "updated remark for TF-TW26-064 at JA-ELA: “Discount already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "12:03:19",
       "iso": "2026-08-20T06:33:19.231Z",
       "action": "updated remark for SL-PB-426 at JA-ELA: “Discount already provided”"
@@ -31462,13 +31476,6 @@
       "time": "11:45:18",
       "iso": "2026-08-20T06:15:18.387Z",
       "action": "updated remark for TCLED32D65A at KATUGASTOTA - B: “Exchange”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:45:03",
-      "iso": "2026-08-20T06:15:03.573Z",
-      "action": "updated remark for SLE32E930 at KATUGASTOTA - B: “70%”"
     }
   ]
 }
