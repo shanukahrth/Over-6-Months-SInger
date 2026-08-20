@@ -26032,6 +26032,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:14:33",
       "lastUpdated": "2026-08-20T03:44:33.045Z"
+    },
+    "WF-BERLIN-ST-WW-S||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:14:48",
+      "lastUpdated": "2026-08-20T03:44:48.594Z"
     }
   },
   "showroomVisits": {
@@ -26766,6 +26773,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:14:48",
+      "iso": "2026-08-20T03:44:48.596Z",
+      "action": "updated remark for WF-BERLIN-ST-WW-S at PERADENIYA: “50%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "09:14:33",
@@ -27107,13 +27121,6 @@
       "time": "08:28:09",
       "iso": "2026-08-20T02:58:09.117Z",
       "action": "updated KOSGAMA showroom (visited: Yes)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:27:51",
-      "iso": "2026-08-20T02:57:51.116Z",
-      "action": "updated HOMAGAMA - B showroom (team: Metro Team)"
     }
   ]
 }
