@@ -31135,6 +31135,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "13:41:02",
       "lastUpdated": "2026-08-20T08:11:02.412Z"
+    },
+    "SIN-NOTE-W10||PELIYAGODA": {
+      "remark": "0%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "13:41:21",
+      "lastUpdated": "2026-08-20T08:11:21.980Z"
     }
   },
   "showroomVisits": {
@@ -31911,6 +31918,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "13:41:21",
+      "iso": "2026-08-20T08:11:21.980Z",
+      "action": "updated remark for SIN-NOTE-W10 at PELIYAGODA: “0%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "13:41:02",
       "iso": "2026-08-20T08:11:02.414Z",
       "action": "updated remark for SM-MC3368 at PELIYAGODA: “Discount already offered”"
@@ -32250,13 +32264,6 @@
       "time": "12:31:42",
       "iso": "2026-08-20T07:01:42.851Z",
       "action": "updated remark for FAN-P-SF1605HL at BATTICALOA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:31:31",
-      "iso": "2026-08-20T07:01:31.467Z",
-      "action": "updated remark for SLE32D2010TC at BATTICALOA: “70% Discount”"
     }
   ]
 }
