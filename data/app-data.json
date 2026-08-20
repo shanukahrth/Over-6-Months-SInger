@@ -32009,7 +32009,7 @@
     "MAHO||NIKAWARATIYA": {
       "visited": "Yes",
       "visitDate": "2026-08-18",
-      "team": "Wayambe Team",
+      "team": "Wayamba Team",
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
@@ -32093,10 +32093,32 @@
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
+    },
+    "NIKAWERATIYA||NIKAWARATIYA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "SHENULI",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {},
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:13:20",
+      "iso": "2026-08-20T10:43:20.018Z",
+      "action": "updated NIKAWERATIYA showroom (visited: Yes)"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:13:14",
+      "iso": "2026-08-20T10:43:14.600Z",
+      "action": "updated MAHO showroom (team: Wayamba Team)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -32432,20 +32454,6 @@
       "time": "12:50:18",
       "iso": "2026-08-20T07:20:18.013Z",
       "action": "updated remark for KV-4WTS3M at BATTICALOA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:49:59",
-      "iso": "2026-08-20T07:19:59.939Z",
-      "action": "updated remark for USI-ATC-302 at BATTICALOA: “40% Discount (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:49:30",
-      "iso": "2026-08-20T07:19:30.343Z",
-      "action": "updated remark for URC-60 at BATTICALOA: “70% Discount”"
     }
   ]
 }
