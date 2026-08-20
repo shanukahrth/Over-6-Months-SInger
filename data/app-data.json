@@ -26921,6 +26921,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:45:26",
       "lastUpdated": "2026-08-20T04:15:26.627Z"
+    },
+    "SLE32D1800||PERADENIYA": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:45:43",
+      "lastUpdated": "2026-08-20T04:15:43.223Z"
     }
   },
   "showroomVisits": {
@@ -27655,6 +27662,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:45:43",
+      "iso": "2026-08-20T04:15:43.224Z",
+      "action": "updated remark for SLE32D1800 at PERADENIYA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "09:45:26",
@@ -27996,13 +28010,6 @@
       "time": "09:36:51",
       "iso": "2026-08-20T04:06:51.015Z",
       "action": "updated remark for SIN-RFC-2012 at JA ELA - B: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "09:36:27",
-      "iso": "2026-08-20T04:06:27.890Z",
-      "action": "updated remark for SIN-RFC-1819 at JA ELA - B: “10%”"
     }
   ]
 }
