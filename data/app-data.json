@@ -29385,6 +29385,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:12:50",
       "lastUpdated": "2026-08-20T05:42:50.354Z"
+    },
+    "SBI-60M19-T||JA-ELA": {
+      "remark": "20%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:13:14",
+      "lastUpdated": "2026-08-20T05:43:14.989Z"
     }
   },
   "showroomVisits": {
@@ -30121,6 +30128,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "11:13:14",
+      "iso": "2026-08-20T05:43:14.990Z",
+      "action": "updated remark for SBI-60M19-T at JA-ELA: “20%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:12:50",
       "iso": "2026-08-20T05:42:50.354Z",
       "action": "updated remark for ZTE-A31-LITE-GRY at JA-ELA: “Already discounted”"
@@ -30460,13 +30474,6 @@
       "time": "10:58:34",
       "iso": "2026-08-20T05:28:34.523Z",
       "action": "updated remark for PN-TH-32M402N at JA-ELA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:58:14",
-      "iso": "2026-08-20T05:28:14.406Z",
-      "action": "updated remark for SLE32E930 at JA-ELA: “70%”"
     }
   ]
 }
