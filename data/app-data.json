@@ -27278,6 +27278,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:56:32",
       "lastUpdated": "2026-08-20T04:26:32.064Z"
+    },
+    "SL-RFA75||PERADENIYA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:56:49",
+      "lastUpdated": "2026-08-20T04:26:49.684Z"
     }
   },
   "showroomVisits": {
@@ -28012,6 +28019,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "09:56:49",
+      "iso": "2026-08-20T04:26:49.685Z",
+      "action": "updated remark for SL-RFA75 at PERADENIYA: “50%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-20",
       "time": "09:56:32",
@@ -28353,13 +28367,6 @@
       "time": "09:47:04",
       "iso": "2026-08-20T04:17:04.323Z",
       "action": "updated remark for FT-FAG-10002-BS at JA ELA - B: “0”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:47:18",
-      "iso": "2026-08-20T04:17:18.380Z",
-      "action": "updated remark for SLE40D600A at PERADENIYA: “60%”"
     }
   ]
 }
