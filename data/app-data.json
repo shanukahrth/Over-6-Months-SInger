@@ -26503,13 +26503,20 @@
     "MORAGAHAHENA||MAHARAGAMA": {
       "visited": "No",
       "visitDate": "2026-08-14",
-      "team": "",
+      "team": "Metro team",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-20"
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:27:14",
+      "iso": "2026-08-20T02:57:14.372Z",
+      "action": "updated MORAGAHAHENA showroom (team: Metro team)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26852,13 +26859,6 @@
       "time": "18:56:11",
       "iso": "2026-08-19T13:26:11.146Z",
       "action": "updated remark for SL-ECO55-SV at PILIMATHALAWA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:56:09",
-      "iso": "2026-08-19T13:26:09.372Z",
-      "action": "updated remark for GEO-242D-SV at PILIMATHALAWA: “25%”"
     }
   ]
 }
