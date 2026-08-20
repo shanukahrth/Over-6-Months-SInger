@@ -27537,6 +27537,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:09:53",
       "lastUpdated": "2026-08-20T04:39:53.081Z"
+    },
+    "MHC-M40D||KATUGASTOTA": {
+      "remark": "Damaged- 70%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:10:30",
+      "lastUpdated": "2026-08-20T04:40:30.030Z"
     }
   },
   "showroomVisits": {
@@ -28271,6 +28278,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
+      "time": "10:10:30",
+      "iso": "2026-08-20T04:40:30.031Z",
+      "action": "updated remark for MHC-M40D at KATUGASTOTA: “Damaged- 70%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
       "time": "10:09:54",
@@ -28612,13 +28626,6 @@
       "time": "09:55:43",
       "iso": "2026-08-20T04:25:43.899Z",
       "action": "updated remark for H-CVW1600 at PERADENIYA: “Saleable existing price”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-20",
-      "time": "09:55:36",
-      "iso": "2026-08-20T04:25:36.694Z",
-      "action": "updated remark for WF-BROOKLYN-BU-S at KIRIBATHGODA B: “50%”"
     }
   ]
 }
