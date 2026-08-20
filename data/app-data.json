@@ -31298,7 +31298,7 @@
       "visited": "No",
       "visitDate": "",
       "team": "",
-      "remark": "visit check",
+      "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-20"
     },
@@ -32130,6 +32130,13 @@
   "soldMarks": {},
   "activity": [
     {
+      "user": "Shanuka Herath",
+      "date": "2026-08-20",
+      "time": "16:21:45",
+      "iso": "2026-08-20T10:51:45.003Z",
+      "action": "updated MEGA - SHANGRI-LA showroom (remark: cleared)"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-20",
       "time": "16:21:28",
@@ -32471,13 +32478,6 @@
       "time": "13:39:38",
       "iso": "2026-08-20T08:09:38.260Z",
       "action": "updated remark for BES-CRS-79 at PELIYAGODA: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:39:20",
-      "iso": "2026-08-20T08:09:20.096Z",
-      "action": "updated remark for SLE43G890 at PELIYAGODA: “50%”"
     }
   ]
 }
