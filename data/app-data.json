@@ -30358,6 +30358,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:02:18",
       "lastUpdated": "2026-08-20T06:32:18.969Z"
+    },
+    "BDV-E6100||JA-ELA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:02:33",
+      "lastUpdated": "2026-08-20T06:32:33.221Z"
     }
   },
   "showroomVisits": {
@@ -31102,6 +31109,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "12:02:33",
+      "iso": "2026-08-20T06:32:33.222Z",
+      "action": "updated remark for BDV-E6100 at JA-ELA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "12:02:18",
       "iso": "2026-08-20T06:32:18.970Z",
       "action": "updated remark for LF-OX-BR-M-S at JA-ELA: “50%”"
@@ -31441,13 +31455,6 @@
       "time": "11:44:36",
       "iso": "2026-08-20T06:14:36.683Z",
       "action": "updated remark for SLE40E810C at KATUGASTOTA - B: “Exchange”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:44:22",
-      "iso": "2026-08-20T06:14:22.844Z",
-      "action": "updated remark for SLE40D600A at KATUGASTOTA - B: “Damaged- 60%”"
     }
   ]
 }
