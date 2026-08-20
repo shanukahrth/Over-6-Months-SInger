@@ -30883,6 +30883,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:31:23",
       "lastUpdated": "2026-08-20T07:01:23.909Z"
+    },
+    "SLE32D2010TC||BATTICALOA": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:31:31",
+      "lastUpdated": "2026-08-20T07:01:31.465Z"
     }
   },
   "showroomVisits": {
@@ -31625,6 +31632,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
+      "time": "12:31:31",
+      "iso": "2026-08-20T07:01:31.467Z",
+      "action": "updated remark for SLE32D2010TC at BATTICALOA: “70% Discount”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
       "time": "12:31:23",
@@ -31966,13 +31980,6 @@
       "time": "12:21:00",
       "iso": "2026-08-20T06:51:00.957Z",
       "action": "updated remark for SKY-40E3S at BATTICALOA: “90% Discount (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:20:42",
-      "iso": "2026-08-20T06:50:42.785Z",
-      "action": "updated remark for WP-NSP-J-S at BATTICALOA: “90% Discount Damage”"
     }
   ]
 }
