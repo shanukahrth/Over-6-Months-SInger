@@ -25927,6 +25927,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:04:01",
       "lastUpdated": "2026-08-20T03:34:01.654Z"
+    },
+    "DELL3501-11G-I3W10-BLU||MATARA-A": {
+      "remark": "Report for 10,000",
+      "commentedBy": "Pabodha Rasanjalee",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:04:26",
+      "lastUpdated": "2026-08-20T03:34:26.563Z"
     }
   },
   "showroomVisits": {
@@ -26663,6 +26670,13 @@
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-20",
+      "time": "09:04:26",
+      "iso": "2026-08-20T03:34:26.564Z",
+      "action": "updated remark for DELL3501-11G-I3W10-BLU at MATARA-A: “Report for 10,000”"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-20",
       "time": "09:04:01",
       "iso": "2026-08-20T03:34:01.655Z",
       "action": "updated remark for AS-14G-I7-512GB-7651-SIL at MATARA-A: “Sold out”"
@@ -27002,13 +27016,6 @@
       "time": "08:24:47",
       "iso": "2026-08-20T02:54:47.649Z",
       "action": "updated KOSGAMA showroom (team: Kosgama)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-20",
-      "time": "08:24:42",
-      "iso": "2026-08-20T02:54:42.642Z",
-      "action": "updated KOSGAMA showroom (visitDate: 2026-08-14)"
     }
   ]
 }
