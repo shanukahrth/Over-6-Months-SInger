@@ -27026,6 +27026,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "09:49:02",
       "lastUpdated": "2026-08-20T04:19:02.582Z"
+    },
+    "FT-FRH-50001||JA ELA - B": {
+      "remark": "0",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "09:49:23",
+      "lastUpdated": "2026-08-20T04:19:23.242Z"
     }
   },
   "showroomVisits": {
@@ -27760,6 +27767,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
+      "time": "09:49:23",
+      "iso": "2026-08-20T04:19:23.244Z",
+      "action": "updated remark for FT-FRH-50001 at JA ELA - B: “0”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
       "time": "09:49:13",
@@ -28101,13 +28115,6 @@
       "time": "09:41:42",
       "iso": "2026-08-20T04:11:42.617Z",
       "action": "updated remark for DH-ST6000VX001 at PERADENIYA: “50%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "09:41:32",
-      "iso": "2026-08-20T04:11:32.447Z",
-      "action": "updated remark for DH-ST4000VX005 at PERADENIYA: “50%”"
     }
   ]
 }
