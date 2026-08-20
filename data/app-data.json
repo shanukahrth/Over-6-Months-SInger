@@ -32109,10 +32109,25 @@
       "remark": "",
       "updatedBy": "SHENULI",
       "updatedDate": "2026-08-20"
+    },
+    "POLPITHIGAMA||NIKAWARATIYA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "SHENULI",
+      "updatedDate": "2026-08-20"
     }
   },
   "soldMarks": {},
   "activity": [
+    {
+      "user": "SHENULI",
+      "date": "2026-08-20",
+      "time": "16:13:56",
+      "iso": "2026-08-20T10:43:56.544Z",
+      "action": "updated POLPITHIGAMA showroom (visited: Yes)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -32455,13 +32470,6 @@
       "time": "12:44:52",
       "iso": "2026-08-20T07:14:52.813Z",
       "action": "updated remark for HON-X9C-12-256-PPL at PELIYAGODA: “15% - Unboxed”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-08-20",
-      "time": "12:52:21",
-      "iso": "2026-08-20T07:22:21.281Z",
-      "action": "updated remark for R-BWS-02 at BATTICALOA: “35% Discount”"
     }
   ]
 }
