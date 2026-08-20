@@ -31177,6 +31177,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "13:47:57",
       "lastUpdated": "2026-08-20T08:17:57.764Z"
+    },
+    "DUM-SMGAR50F12D0J||PELIYAGODA": {
+      "remark": "Dummy",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "13:51:39",
+      "lastUpdated": "2026-08-20T08:21:39.416Z"
     }
   },
   "showroomVisits": {
@@ -31953,6 +31960,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "13:51:39",
+      "iso": "2026-08-20T08:21:39.417Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at PELIYAGODA: “Dummy”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "13:47:57",
       "iso": "2026-08-20T08:17:57.767Z",
       "action": "updated remark for MID-D15-20EVN1 at PELIYAGODA: “No discount”"
@@ -32292,13 +32306,6 @@
       "time": "11:04:15",
       "iso": "2026-08-20T05:34:15.672Z",
       "action": "updated MEGA-NUGEGODA showroom (visited: Yes)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-20",
-      "time": "11:04:14",
-      "iso": "2026-08-20T05:34:14.162Z",
-      "action": "updated MEGA - NUGEGODA B showroom (visited: Yes)"
     }
   ]
 }
