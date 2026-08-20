@@ -26443,9 +26443,39 @@
       "remark": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-19"
+    },
+    "AVISSAWELLA||MAHARAGAMA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-20"
+    },
+    "AVISSAWELLA - B||MAHARAGAMA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-20"
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:23:06",
+      "iso": "2026-08-20T02:53:06.922Z",
+      "action": "updated AVISSAWELLA - B showroom (visited: Yes)"
+    },
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:23:05",
+      "iso": "2026-08-20T02:53:05.153Z",
+      "action": "updated AVISSAWELLA showroom (visited: Yes)"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-19",
@@ -26781,20 +26811,6 @@
       "time": "18:54:25",
       "iso": "2026-08-19T13:24:25.821Z",
       "action": "updated remark for HON-X8B-8-512-SIL at PILIMATHALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:54:21",
-      "iso": "2026-08-19T13:24:21.621Z",
-      "action": "updated remark for HON-X7C-8-256-BLK at PILIMATHALAWA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:54:16",
-      "iso": "2026-08-19T13:24:16.976Z",
-      "action": "updated remark for HON-X5PLUS-4-64-CYAN at PILIMATHALAWA: “45%”"
     }
   ]
 }
