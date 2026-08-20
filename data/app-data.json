@@ -32159,7 +32159,7 @@
       "updatedDate": "2026-08-20"
     },
     "RIDEEGAMA||KURUNEGALA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-17",
       "team": "Wayamba Team",
       "remark": "",
@@ -32176,6 +32176,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-20",
+      "time": "16:27:42",
+      "iso": "2026-08-20T10:57:42.244Z",
+      "action": "updated RIDEEGAMA showroom (visited: Yes)"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-20",
@@ -32518,13 +32525,6 @@
       "time": "13:54:18",
       "iso": "2026-08-20T08:24:18.333Z",
       "action": "updated remark for HON-CH-EARBUDS-X7E at PELIYAGODA: “No discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "13:53:47",
-      "iso": "2026-08-20T08:23:47.241Z",
-      "action": "updated remark for GEO-SM-185S at PELIYAGODA: “80%”"
     }
   ]
 }
