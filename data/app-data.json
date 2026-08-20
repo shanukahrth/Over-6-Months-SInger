@@ -30435,6 +30435,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "12:11:05",
       "lastUpdated": "2026-08-20T06:41:05.949Z"
+    },
+    "SIN-DEC-DCWL||BATTICALOA": {
+      "remark": "15% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-08-20",
+      "commentTime": "12:11:26",
+      "lastUpdated": "2026-08-20T06:41:26.344Z"
     }
   },
   "showroomVisits": {
@@ -31179,6 +31186,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-08-20",
+      "time": "12:11:26",
+      "iso": "2026-08-20T06:41:26.345Z",
+      "action": "updated remark for SIN-DEC-DCWL at BATTICALOA: “15% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-08-20",
       "time": "12:11:05",
       "iso": "2026-08-20T06:41:05.950Z",
       "action": "updated remark for WP-WDC11704RG-G at BATTICALOA: “24% Discount”"
@@ -31518,13 +31532,6 @@
       "time": "11:46:52",
       "iso": "2026-08-20T06:16:52.899Z",
       "action": "updated remark for WP-WDC11704RG-G at KATUGASTOTA - B: “24%”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:46:45",
-      "iso": "2026-08-20T06:16:45.307Z",
-      "action": "updated remark for SWM-MET80PL at KATUGASTOTA - B: “55%”"
     }
   ]
 }
