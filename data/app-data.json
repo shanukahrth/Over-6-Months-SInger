@@ -30106,6 +30106,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:45:18",
       "lastUpdated": "2026-08-20T06:15:18.386Z"
+    },
+    "TCLED40D3000||KATUGASTOTA - B": {
+      "remark": "Exchange",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:45:33",
+      "lastUpdated": "2026-08-20T06:15:33.340Z"
     }
   },
   "showroomVisits": {
@@ -30842,6 +30849,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "11:45:33",
+      "iso": "2026-08-20T06:15:33.341Z",
+      "action": "updated remark for TCLED40D3000 at KATUGASTOTA - B: “Exchange”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "11:45:18",
       "iso": "2026-08-20T06:15:18.387Z",
       "action": "updated remark for TCLED32D65A at KATUGASTOTA - B: “Exchange”"
@@ -31181,13 +31195,6 @@
       "time": "11:33:34",
       "iso": "2026-08-20T06:03:34.371Z",
       "action": "updated remark for U-B1 at KATUGASTOTA - B: “MOP- 1000/=”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:33:22",
-      "iso": "2026-08-20T06:03:22.419Z",
-      "action": "updated remark for RIYLTA-MF12V53B at KATUGASTOTA - B: “Mail- Brand Manager (Setting off)”"
     }
   ]
 }
