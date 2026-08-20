@@ -28335,6 +28335,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "10:41:02",
       "lastUpdated": "2026-08-20T05:11:02.402Z"
+    },
+    "TF-IT30-169||KATUGASTOTA": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha Sathsarani",
+      "commentDate": "2026-08-20",
+      "commentTime": "10:41:18",
+      "lastUpdated": "2026-08-20T05:11:18.705Z"
     }
   },
   "showroomVisits": {
@@ -29071,6 +29078,13 @@
     {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-20",
+      "time": "10:41:18",
+      "iso": "2026-08-20T05:11:18.707Z",
+      "action": "updated remark for TF-IT30-169 at KATUGASTOTA: “50%”"
+    },
+    {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-20",
       "time": "10:41:02",
       "iso": "2026-08-20T05:11:02.403Z",
       "action": "updated remark for TF-IDFP24-170 at KATUGASTOTA: “50%”"
@@ -29410,13 +29424,6 @@
       "time": "10:30:33",
       "iso": "2026-08-20T05:00:33.285Z",
       "action": "updated remark for FAN-WF1608R at WATTALA: “Do not offer discounts for this SKU, as it is an active SKU.”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-20",
-      "time": "10:30:23",
-      "iso": "2026-08-20T05:00:23.818Z",
-      "action": "updated remark for SN-SMI-285G at JA-ELA: “exchange”"
     }
   ]
 }
