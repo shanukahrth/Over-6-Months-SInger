@@ -30225,6 +30225,13 @@
       "commentDate": "2026-08-20",
       "commentTime": "11:47:42",
       "lastUpdated": "2026-08-20T06:17:42.568Z"
+    },
+    "FAN-P-SF1605HR||JA-ELA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-20",
+      "commentTime": "11:47:59",
+      "lastUpdated": "2026-08-20T06:17:59.307Z"
     }
   },
   "showroomVisits": {
@@ -30961,6 +30968,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-20",
+      "time": "11:47:59",
+      "iso": "2026-08-20T06:17:59.308Z",
+      "action": "updated remark for FAN-P-SF1605HR at JA-ELA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-20",
       "time": "11:47:42",
       "iso": "2026-08-20T06:17:42.568Z",
       "action": "updated remark for HU-MATEVIEW-SE at JA-ELA: “shop use -”"
@@ -31300,13 +31314,6 @@
       "time": "11:38:24",
       "iso": "2026-08-20T06:08:24.027Z",
       "action": "updated remark for GEO-182S-SV at KATUGASTOTA - B: “Flood effect”"
-    },
-    {
-      "user": "Kaveesha Sathsarani",
-      "date": "2026-08-20",
-      "time": "11:38:06",
-      "iso": "2026-08-20T06:08:06.875Z",
-      "action": "updated remark for PN-NR-BG312DALK at KATUGASTOTA - B: “Exchange”"
     }
   ]
 }
