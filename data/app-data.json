@@ -26471,7 +26471,7 @@
     "KOSGAMA||MAHARAGAMA": {
       "visited": "Yes",
       "visitDate": "2026-08-14",
-      "team": "Kosgama",
+      "team": "Metro Team",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-20"
@@ -26526,6 +26526,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:28:17",
+      "iso": "2026-08-20T02:58:17.733Z",
+      "action": "updated KOSGAMA showroom (team: Metro Team)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26868,13 +26875,6 @@
       "time": "18:57:06",
       "iso": "2026-08-19T13:27:06.704Z",
       "action": "updated remark for DH-A-HFW1209CP-LED-36B at PILIMATHALAWA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:57:04",
-      "iso": "2026-08-19T13:27:04.699Z",
-      "action": "updated remark for DH-A-B1A21P-36B at PILIMATHALAWA: “70%”"
     }
   ]
 }
