@@ -26446,7 +26446,7 @@
     },
     "AVISSAWELLA||MAHARAGAMA": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-14",
       "team": "",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
@@ -26462,6 +26462,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-20",
+      "time": "08:23:29",
+      "iso": "2026-08-20T02:53:29.415Z",
+      "action": "updated AVISSAWELLA showroom (visitDate: 2026-08-14)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-20",
@@ -26804,13 +26811,6 @@
       "time": "18:54:31",
       "iso": "2026-08-19T13:24:31.326Z",
       "action": "updated remark for HON-X8C-8-512-GRN at PILIMATHALAWA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-19",
-      "time": "18:54:25",
-      "iso": "2026-08-19T13:24:25.821Z",
-      "action": "updated remark for HON-X8B-8-512-SIL at PILIMATHALAWA: “40%”"
     }
   ]
 }
