@@ -5965,11 +5965,11 @@
       "lastUpdated": "2026-08-17T10:52:21.284Z"
     },
     "PN-SC-AKX910GSK||MATALE - B": {
-      "remark": "Revert Damage - 70%",
+      "remark": "Revert Damaged - 70%",
       "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "17:07:39",
-      "lastUpdated": "2026-08-17T11:37:39.628Z"
+      "commentDate": "2026-08-21",
+      "commentTime": "16:20:17",
+      "lastUpdated": "2026-08-21T10:50:17.992Z"
     },
     "SIN-MRG-1008C||MATALE - B": {
       "remark": "Damage - 20%",
@@ -34175,6 +34175,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:20:17",
+      "iso": "2026-08-21T10:50:17.993Z",
+      "action": "updated remark for PN-SC-AKX910GSK at MATALE - B: “Revert Damaged - 70%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:20:13",
@@ -34516,13 +34523,6 @@
       "time": "16:00:38",
       "iso": "2026-08-21T10:30:38.112Z",
       "action": "updated remark for LF-BUDGET-DT-CRW-S at KANDANA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:00:16",
-      "iso": "2026-08-21T10:30:16.686Z",
-      "action": "updated remark for KN-SMP01 at KANDANA: “Already Provided”"
     }
   ]
 }
