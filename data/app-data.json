@@ -32962,6 +32962,27 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:06:34",
       "lastUpdated": "2026-08-21T10:36:34.617Z"
+    },
+    "SMG-SM-A356E-128-B||GALLE B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:05:33",
+      "lastUpdated": "2026-08-21T10:35:33.783Z"
+    },
+    "SMG-SM-X115-GRY||GALLE B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:05:58",
+      "lastUpdated": "2026-08-21T10:35:58.000Z"
+    },
+    "BROTHER-TN-2380-B||GALLE B": {
+      "remark": "Report for 1000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:07:18",
+      "lastUpdated": "2026-08-21T10:37:18.912Z"
     }
   },
   "showroomVisits": {
@@ -33930,6 +33951,34 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:07:18",
+      "iso": "2026-08-21T10:37:18.917Z",
+      "action": "updated remark for BROTHER-TN-2380-B at GALLE B: “Report for 1000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:05:58",
+      "iso": "2026-08-21T10:35:58.001Z",
+      "action": "updated remark for SMG-SM-X115-GRY at GALLE B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:05:33",
+      "iso": "2026-08-21T10:35:33.784Z",
+      "action": "updated remark for SMG-SM-A356E-128-B at GALLE B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:05:28",
+      "iso": "2026-08-21T10:35:28.290Z",
+      "action": "updated remark for SMG-SM-A356E-128-B at GALLE B: “50% OFF”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "16:06:34",
@@ -34250,34 +34299,6 @@
       "time": "15:25:30",
       "iso": "2026-08-21T09:55:30.248Z",
       "action": "updated remark for DELL3530-I7-8GB512-SIL at MATARA-A: “30% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "15:24:45",
-      "iso": "2026-08-21T09:54:45.229Z",
-      "action": "updated remark for DELL3511-I3-4GB256-SIL at MATARA-A: “Report for 15,000”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:19:21",
-      "iso": "2026-08-21T09:49:21.045Z",
-      "action": "updated remark for HAF-538-01-481 at KANDANA: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:17:29",
-      "iso": "2026-08-21T09:47:29.271Z",
-      "action": "updated remark for H-CVW1600 at KANDANA: “Damage - 40%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:17:09",
-      "iso": "2026-08-21T09:47:09.405Z",
-      "action": "updated remark for GRIP-8573 at KANDANA: “50%”"
     }
   ]
 }
