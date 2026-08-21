@@ -32710,6 +32710,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:32:54",
       "lastUpdated": "2026-08-21T10:02:54.775Z"
+    },
+    "DELL3511-I3-4GB256-SIL||GALLE B": {
+      "remark": "Report for 120,000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:33:32",
+      "lastUpdated": "2026-08-21T10:03:32.298Z"
     }
   },
   "showroomVisits": {
@@ -33680,6 +33687,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-21",
+      "time": "15:33:32",
+      "iso": "2026-08-21T10:03:32.299Z",
+      "action": "updated remark for DELL3511-I3-4GB256-SIL at GALLE B: “Report for 120,000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
       "time": "15:32:54",
       "iso": "2026-08-21T10:02:54.776Z",
       "action": "updated remark for DELL-BAC-ADPT65W at GALLE B: “rReport for 2000”"
@@ -34019,13 +34033,6 @@
       "time": "14:41:18",
       "iso": "2026-08-21T09:11:18.845Z",
       "action": "updated remark for SLE32D2010TC at WATTALA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:41:02",
-      "iso": "2026-08-21T09:11:02.840Z",
-      "action": "updated remark for TF-NIGP26-119 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
     }
   ]
 }
