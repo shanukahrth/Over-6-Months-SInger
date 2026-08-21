@@ -33258,11 +33258,11 @@
       "lastUpdated": "2026-08-21T10:51:12.644Z"
     },
     "LF-ORGN-BDQ-CLM-S||GALLE B": {
-      "remark": "50% off",
+      "remark": "50% OFF",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-21",
-      "commentTime": "16:21:20",
-      "lastUpdated": "2026-08-21T10:51:20.932Z"
+      "commentTime": "16:22:05",
+      "lastUpdated": "2026-08-21T10:52:05.677Z"
     },
     "SAS-GRI12VN||MATALE - B": {
       "remark": "Damaged - 80%",
@@ -33270,6 +33270,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:22:12",
       "lastUpdated": "2026-08-21T10:52:12.656Z"
+    },
+    "LF-SP-9922-S||GALLE B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:22:16",
+      "lastUpdated": "2026-08-21T10:52:16.556Z"
     }
   },
   "showroomVisits": {
@@ -34238,6 +34245,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:22:16",
+      "iso": "2026-08-21T10:52:16.559Z",
+      "action": "updated remark for LF-SP-9922-S at GALLE B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:22:05",
+      "iso": "2026-08-21T10:52:05.682Z",
+      "action": "updated remark for LF-ORGN-BDQ-CLM-S at GALLE B: “50% OFF”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-21",
       "time": "16:22:12",
@@ -34572,20 +34593,6 @@
       "time": "16:05:33",
       "iso": "2026-08-21T10:35:33.784Z",
       "action": "updated remark for SMG-SM-A356E-128-B at GALLE B: “50% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:05:28",
-      "iso": "2026-08-21T10:35:28.290Z",
-      "action": "updated remark for SMG-SM-A356E-128-B at GALLE B: “50% OFF”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:06:34",
-      "iso": "2026-08-21T10:36:34.619Z",
-      "action": "updated remark for MCT-302N-4 at KANDANA: “Shop use”"
     }
   ]
 }
