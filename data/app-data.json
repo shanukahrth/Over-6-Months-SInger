@@ -33060,6 +33060,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:16:01",
       "lastUpdated": "2026-08-21T10:46:01.579Z"
+    },
+    "CAN-C-745-B||MATALE - B": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:16:01",
+      "lastUpdated": "2026-08-21T10:46:01.082Z"
     }
   },
   "showroomVisits": {
@@ -34028,6 +34035,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:16:01",
+      "iso": "2026-08-21T10:46:01.084Z",
+      "action": "updated remark for CAN-C-745-B at MATALE - B: “Damaged - 70%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:16:01",
@@ -34369,13 +34383,6 @@
       "time": "15:35:32",
       "iso": "2026-08-21T10:05:32.000Z",
       "action": "updated remark for AS-13G-I7-512GB-957-BLU at GALLE B: “40% off”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:35:29",
-      "iso": "2026-08-21T10:05:29.871Z",
-      "action": "updated remark for HON-CH-EARBUDS-X7E at KANDANA: “Active SKU, No Discounts applicable”"
     }
   ]
 }
