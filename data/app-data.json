@@ -33872,6 +33872,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:48:00",
       "lastUpdated": "2026-08-21T12:18:00.341Z"
+    },
+    "KA-TXG-DS11A||MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:48:13",
+      "lastUpdated": "2026-08-21T12:18:13.406Z"
     }
   },
   "showroomVisits": {
@@ -34842,6 +34849,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:48:13",
+      "iso": "2026-08-21T12:18:13.407Z",
+      "action": "updated remark for KA-TXG-DS11A at MATALE: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:48:00",
       "iso": "2026-08-21T12:18:00.343Z",
       "action": "updated remark for KA-LW-185A at MATALE: “Damaged - 70%”"
@@ -35181,13 +35195,6 @@
       "time": "16:43:07",
       "iso": "2026-08-21T11:13:07.203Z",
       "action": "updated remark for STO-EO30C at GALLE B: “90% OFF”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:44:24",
-      "iso": "2026-08-21T11:14:24.329Z",
-      "action": "updated remark for NUBIA-V60-8-256GB-BLK at MATALE: “Damaged - 50%”"
     }
   ]
 }
