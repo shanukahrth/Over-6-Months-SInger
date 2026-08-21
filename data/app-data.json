@@ -33039,6 +33039,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:15:20",
       "lastUpdated": "2026-08-21T10:45:20.600Z"
+    },
+    "NCPO-FP200||KANDANA": {
+      "remark": "Already Provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:15:47",
+      "lastUpdated": "2026-08-21T10:45:47.544Z"
     }
   },
   "showroomVisits": {
@@ -34007,6 +34014,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "16:15:47",
+      "iso": "2026-08-21T10:45:47.545Z",
+      "action": "updated remark for NCPO-FP200 at KANDANA: “Already Provided”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:15:20",
@@ -34348,13 +34362,6 @@
       "time": "15:34:59",
       "iso": "2026-08-21T10:04:59.999Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KANDANA: “Active SKU, No Discounts applicable”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "15:34:26",
-      "iso": "2026-08-21T10:04:26.043Z",
-      "action": "updated remark for HON-MAGIC-6PRO-GRN at GALLE B: “70% off”"
     }
   ]
 }
