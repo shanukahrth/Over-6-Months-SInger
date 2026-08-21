@@ -32138,11 +32138,11 @@
       "lastUpdated": "2026-08-21T08:54:52.017Z"
     },
     "BES-CRS-51||WATTALA": {
-      "remark": "No discount",
+      "remark": "50%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-21",
-      "commentTime": "14:25:56",
-      "lastUpdated": "2026-08-21T08:55:56.445Z"
+      "commentTime": "14:26:15",
+      "lastUpdated": "2026-08-21T08:56:15.184Z"
     }
   },
   "showroomVisits": {
@@ -33113,6 +33113,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:26:15",
+      "iso": "2026-08-21T08:56:15.186Z",
+      "action": "updated remark for BES-CRS-51 at WATTALA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:25:56",
       "iso": "2026-08-21T08:55:56.447Z",
       "action": "updated remark for BES-CRS-51 at WATTALA: “No discount”"
@@ -33452,13 +33459,6 @@
       "time": "14:00:53",
       "iso": "2026-08-21T08:30:53.984Z",
       "action": "updated remark for USHA-FS40-13B at PELIYAGODA: “No discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:00:35",
-      "iso": "2026-08-21T08:30:35.250Z",
-      "action": "updated remark for TF-KD24-061 at PELIYAGODA: “Already given”"
     }
   ]
 }
