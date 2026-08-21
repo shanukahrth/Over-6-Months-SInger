@@ -32955,6 +32955,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:05:42",
       "lastUpdated": "2026-08-21T10:35:42.331Z"
+    },
+    "MCT-302N-4||KANDANA": {
+      "remark": "Shop use",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:06:34",
+      "lastUpdated": "2026-08-21T10:36:34.617Z"
     }
   },
   "showroomVisits": {
@@ -33925,6 +33932,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "16:06:34",
+      "iso": "2026-08-21T10:36:34.619Z",
+      "action": "updated remark for MCT-302N-4 at KANDANA: “Shop use”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "16:05:42",
       "iso": "2026-08-21T10:35:42.333Z",
       "action": "updated remark for MCS-730-4 at KANDANA: “Shop use”"
@@ -34264,13 +34278,6 @@
       "time": "15:17:09",
       "iso": "2026-08-21T09:47:09.405Z",
       "action": "updated remark for GRIP-8573 at KANDANA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:16:35",
-      "iso": "2026-08-21T09:46:35.051Z",
-      "action": "updated remark for GRIP-8205 at KANDANA: “50%”"
     }
   ]
 }
