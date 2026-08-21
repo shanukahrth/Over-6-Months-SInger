@@ -33277,6 +33277,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:22:16",
       "lastUpdated": "2026-08-21T10:52:16.556Z"
+    },
+    "SMGUA32N4010||MATALE - B": {
+      "remark": "Revert - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:23:38",
+      "lastUpdated": "2026-08-21T10:53:38.475Z"
     }
   },
   "showroomVisits": {
@@ -34247,6 +34254,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "16:23:38",
+      "iso": "2026-08-21T10:53:38.476Z",
+      "action": "updated remark for SMGUA32N4010 at MATALE - B: “Revert - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "16:22:41",
       "iso": "2026-08-21T10:52:41.526Z",
       "action": "updated remark for SIN-MRG-1008C at MATALE - B: “Damaged - 20%”"
@@ -34586,13 +34600,6 @@
       "time": "16:07:18",
       "iso": "2026-08-21T10:37:18.917Z",
       "action": "updated remark for BROTHER-TN-2380-B at GALLE B: “Report for 1000”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:05:58",
-      "iso": "2026-08-21T10:35:58.001Z",
-      "action": "updated remark for SMG-SM-X115-GRY at GALLE B: “50% OFF”"
     }
   ]
 }
