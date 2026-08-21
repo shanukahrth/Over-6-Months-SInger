@@ -32871,6 +32871,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:41:40",
       "lastUpdated": "2026-08-21T10:11:40.670Z"
+    },
+    "KLV-40W652D||KANDANA": {
+      "remark": "Exchange PO pending",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:47:00",
+      "lastUpdated": "2026-08-21T10:17:00.112Z"
     }
   },
   "showroomVisits": {
@@ -33841,6 +33848,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "15:47:00",
+      "iso": "2026-08-21T10:17:00.116Z",
+      "action": "updated remark for KLV-40W652D at KANDANA: “Exchange PO pending”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "15:41:40",
       "iso": "2026-08-21T10:11:40.671Z",
       "action": "updated remark for HON-X9CSMART-12-256-BLK at KANDANA: “15% - Additional”"
@@ -34180,13 +34194,6 @@
       "time": "15:06:43",
       "iso": "2026-08-21T09:36:43.073Z",
       "action": "updated remark for B-RDNI315XIB300P at KANDANA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "14:59:35",
-      "iso": "2026-08-21T09:29:35.002Z",
-      "action": "updated remark for B-RDNI295XIB100P at KANDANA: “60%”"
     }
   ]
 }
