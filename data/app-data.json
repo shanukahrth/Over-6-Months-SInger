@@ -33214,6 +33214,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:20:36",
       "lastUpdated": "2026-08-21T10:50:36.303Z"
+    },
+    "KN-BL335||GALLE B": {
+      "remark": "Report for 3000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:20:49",
+      "lastUpdated": "2026-08-21T10:50:49.769Z"
     }
   },
   "showroomVisits": {
@@ -34182,6 +34189,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:20:49",
+      "iso": "2026-08-21T10:50:49.770Z",
+      "action": "updated remark for KN-BL335 at GALLE B: “Report for 3000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:20:49",
+      "iso": "2026-08-21T10:50:49.067Z",
+      "action": "updated remark for KN-BL335 at GALLE B: “Reporr for 3000”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-21",
       "time": "16:20:36",
@@ -34516,20 +34537,6 @@
       "time": "16:03:40",
       "iso": "2026-08-21T10:33:40.192Z",
       "action": "updated remark for LF-OPENSR-CKT-S at KANDANA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:03:11",
-      "iso": "2026-08-21T10:33:11.044Z",
-      "action": "updated remark for LF-BUDGET-ST-CRW-S at KANDANA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:01:04",
-      "iso": "2026-08-21T10:31:04.646Z",
-      "action": "updated remark for LF-BUDGET-ST-AGO-S at KANDANA: “50%”"
     }
   ]
 }
