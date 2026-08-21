@@ -33046,6 +33046,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:15:47",
       "lastUpdated": "2026-08-21T10:45:47.544Z"
+    },
+    "H-HMR-DG2312||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:15:57",
+      "lastUpdated": "2026-08-21T10:45:57.633Z"
+    },
+    "H-RMRG024MFEOE||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:16:01",
+      "lastUpdated": "2026-08-21T10:46:01.579Z"
     }
   },
   "showroomVisits": {
@@ -34014,6 +34028,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:16:01",
+      "iso": "2026-08-21T10:46:01.581Z",
+      "action": "updated remark for H-RMRG024MFEOE at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:15:57",
+      "iso": "2026-08-21T10:45:57.638Z",
+      "action": "updated remark for H-HMR-DG2312 at GALLE B: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "16:15:47",
@@ -34348,20 +34376,6 @@
       "time": "15:35:29",
       "iso": "2026-08-21T10:05:29.871Z",
       "action": "updated remark for HON-CH-EARBUDS-X7E at KANDANA: “Active SKU, No Discounts applicable”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "15:35:11",
-      "iso": "2026-08-21T10:05:11.583Z",
-      "action": "updated remark for AS-13G-I3-512GB-3851-SIL at GALLE B: “10% off”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:34:59",
-      "iso": "2026-08-21T10:04:59.999Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KANDANA: “Active SKU, No Discounts applicable”"
     }
   ]
 }
