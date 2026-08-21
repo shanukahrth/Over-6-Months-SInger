@@ -33326,6 +33326,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:25:58",
       "lastUpdated": "2026-08-21T10:55:58.354Z"
+    },
+    "WFL-DIANA-CHR-S||MATALE - B": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:26:12",
+      "lastUpdated": "2026-08-21T10:56:12.664Z"
     }
   },
   "showroomVisits": {
@@ -34296,6 +34303,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "16:26:12",
+      "iso": "2026-08-21T10:56:12.666Z",
+      "action": "updated remark for WFL-DIANA-CHR-S at MATALE - B: “Damaged - 75%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "16:25:58",
       "iso": "2026-08-21T10:55:58.356Z",
       "action": "updated remark for WC-XR1605 at MATALE - B: “Damaged - 70%”"
@@ -34635,13 +34649,6 @@
       "time": "16:15:20",
       "iso": "2026-08-21T10:45:20.602Z",
       "action": "updated remark for FT-FCD-12L04-BS at GALLE B: “70% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:15:10",
-      "iso": "2026-08-21T10:45:10.739Z",
-      "action": "updated remark for FT-FAG-10002-BS at GALLE B: “50% OFF”"
     }
   ]
 }
