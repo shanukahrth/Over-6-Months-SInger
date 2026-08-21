@@ -32416,6 +32416,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:42:27",
       "lastUpdated": "2026-08-21T09:12:27.842Z"
+    },
+    "NCPDG-SET3||WATTALA": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:42:55",
+      "lastUpdated": "2026-08-21T09:12:55.665Z"
     }
   },
   "showroomVisits": {
@@ -33386,6 +33393,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:42:55",
+      "iso": "2026-08-21T09:12:55.666Z",
+      "action": "updated remark for NCPDG-SET3 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:42:27",
       "iso": "2026-08-21T09:12:27.844Z",
       "action": "updated remark for FT-FAG-10002-BS at WATTALA: “0%”"
@@ -33725,13 +33739,6 @@
       "time": "14:23:19",
       "iso": "2026-08-21T08:53:19.764Z",
       "action": "updated remark for WP-WFC105604RT-G at WATTALA: “additional 10% - Display”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:23:01",
-      "iso": "2026-08-21T08:53:01.685Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
     }
   ]
 }
