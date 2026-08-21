@@ -33865,6 +33865,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:47:32",
       "lastUpdated": "2026-08-21T12:17:32.933Z"
+    },
+    "KA-LW-185A||MATALE": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:48:00",
+      "lastUpdated": "2026-08-21T12:18:00.341Z"
     }
   },
   "showroomVisits": {
@@ -34835,6 +34842,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:48:00",
+      "iso": "2026-08-21T12:18:00.343Z",
+      "action": "updated remark for KA-LW-185A at MATALE: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:47:32",
       "iso": "2026-08-21T12:17:32.934Z",
       "action": "updated remark for HU-BAND4-B at MATALE: “Damaged - 80%”"
@@ -35174,13 +35188,6 @@
       "time": "16:44:24",
       "iso": "2026-08-21T11:14:24.329Z",
       "action": "updated remark for NUBIA-V60-8-256GB-BLK at MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:44:10",
-      "iso": "2026-08-21T11:14:10.205Z",
-      "action": "updated remark for NUBIA-NEO3-4G-8-128-GLD at MATALE: “Damaged - 50%”"
     }
   ]
 }
