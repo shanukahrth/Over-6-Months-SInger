@@ -33263,6 +33263,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:21:20",
       "lastUpdated": "2026-08-21T10:51:20.932Z"
+    },
+    "SAS-GRI12VN||MATALE - B": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:22:12",
+      "lastUpdated": "2026-08-21T10:52:12.656Z"
     }
   },
   "showroomVisits": {
@@ -34231,6 +34238,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:22:12",
+      "iso": "2026-08-21T10:52:12.657Z",
+      "action": "updated remark for SAS-GRI12VN at MATALE - B: “Damaged - 80%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:21:20",
@@ -34572,13 +34586,6 @@
       "time": "16:06:34",
       "iso": "2026-08-21T10:36:34.619Z",
       "action": "updated remark for MCT-302N-4 at KANDANA: “Shop use”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:05:42",
-      "iso": "2026-08-21T10:35:42.333Z",
-      "action": "updated remark for MCS-730-4 at KANDANA: “Shop use”"
     }
   ]
 }
