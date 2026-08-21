@@ -32612,6 +32612,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:13:01",
       "lastUpdated": "2026-08-21T09:43:01.682Z"
+    },
+    "GEO-182S-SV||KANDANA": {
+      "remark": "25%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:14:23",
+      "lastUpdated": "2026-08-21T09:44:23.456Z"
     }
   },
   "showroomVisits": {
@@ -33582,6 +33589,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "15:14:23",
+      "iso": "2026-08-21T09:44:23.460Z",
+      "action": "updated remark for GEO-182S-SV at KANDANA: “25%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "15:13:01",
       "iso": "2026-08-21T09:43:01.685Z",
       "action": "updated remark for ENG-UB2608 at KANDANA: “Deffective - Return to WH”"
@@ -33921,13 +33935,6 @@
       "time": "14:35:15",
       "iso": "2026-08-21T09:05:15.890Z",
       "action": "updated remark for PN-TH-32M402N at WATTALA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:34:56",
-      "iso": "2026-08-21T09:04:56.966Z",
-      "action": "updated remark for HU-MATEPAD-SE11-GRY at WATTALA: “75%”"
     }
   ]
 }
