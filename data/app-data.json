@@ -32654,6 +32654,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:17:29",
       "lastUpdated": "2026-08-21T09:47:29.269Z"
+    },
+    "HAF-538-01-481||KANDANA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:19:21",
+      "lastUpdated": "2026-08-21T09:49:21.040Z"
     }
   },
   "showroomVisits": {
@@ -33624,6 +33631,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "15:19:21",
+      "iso": "2026-08-21T09:49:21.045Z",
+      "action": "updated remark for HAF-538-01-481 at KANDANA: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "15:17:29",
       "iso": "2026-08-21T09:47:29.271Z",
       "action": "updated remark for H-CVW1600 at KANDANA: “Damage - 40%”"
@@ -33963,13 +33977,6 @@
       "time": "14:38:36",
       "iso": "2026-08-21T09:08:36.534Z",
       "action": "updated remark for SMW823AY7 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:38:19",
-      "iso": "2026-08-21T09:08:19.052Z",
-      "action": "updated remark for ZTE-V50DESIGN-8-256GB-B at WATTALA: “15% - Additional”"
     }
   ]
 }
