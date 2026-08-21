@@ -31800,6 +31800,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "13:58:44",
       "lastUpdated": "2026-08-21T08:28:44.337Z"
+    },
+    "SLE40D600A||KIRIBATHGODA B": {
+      "remark": "60%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "13:58:57",
+      "lastUpdated": "2026-08-21T08:28:57.259Z"
     }
   },
   "showroomVisits": {
@@ -32768,6 +32775,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "13:58:57",
+      "iso": "2026-08-21T08:28:57.261Z",
+      "action": "updated remark for SLE40D600A at KIRIBATHGODA B: “60%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "13:58:45",
+      "iso": "2026-08-21T08:28:45.608Z",
+      "action": "updated remark for SLE40D600A at KIRIBATHGODA B: “40%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
       "time": "13:58:44",
@@ -33102,20 +33123,6 @@
       "time": "13:20:07",
       "iso": "2026-08-21T07:50:07.452Z",
       "action": "updated remark for DELL5310-I5W10-SIL at SHANUKA HERATH: “SLIM”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "11:45:53",
-      "iso": "2026-08-21T06:15:53.968Z",
-      "action": "updated remark for RIYLTA-MF12V35A at KIRIBATHGODA B: “Return to WH”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "11:40:27",
-      "iso": "2026-08-21T06:10:27.964Z",
-      "action": "updated remark for RIYLTA-MF12V25 at KIRIBATHGODA B: “Return to WH”"
     }
   ]
 }
