@@ -32696,6 +32696,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:28:19",
       "lastUpdated": "2026-08-21T09:58:19.359Z"
+    },
+    "123453224||MATALE - B": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:29:47",
+      "lastUpdated": "2026-08-21T09:59:47.617Z"
     }
   },
   "showroomVisits": {
@@ -33664,6 +33671,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "15:29:47",
+      "iso": "2026-08-21T09:59:47.618Z",
+      "action": "updated remark for 123453224 at MATALE - B: “Damaged - 75%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "15:28:19",
@@ -34005,13 +34019,6 @@
       "time": "14:40:45",
       "iso": "2026-08-21T09:10:45.666Z",
       "action": "updated remark for HON-X5PLUS-4-64-BLK at WATTALA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:40:27",
-      "iso": "2026-08-21T09:10:27.173Z",
-      "action": "updated remark for SLMC-18DSLHS at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
     }
   ]
 }
