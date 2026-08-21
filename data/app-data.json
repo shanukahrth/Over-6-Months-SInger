@@ -5937,11 +5937,11 @@
       "lastUpdated": "2026-08-17T10:51:11.052Z"
     },
     "HON-X7C-8-256-GRN||MATALE": {
-      "remark": "Damaged - 70%",
-      "commentedBy": "SHENULI",
-      "commentDate": "2026-08-19",
-      "commentTime": "16:42:16",
-      "lastUpdated": "2026-08-19T11:12:16.166Z"
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:29:16",
+      "lastUpdated": "2026-08-21T10:59:16.256Z"
     },
     "HON-X8C-8-512-WHT||MATALE": {
       "remark": "Damaged - 50%",
@@ -34343,6 +34343,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:29:16",
+      "iso": "2026-08-21T10:59:16.257Z",
+      "action": "updated remark for HON-X7C-8-256-GRN at MATALE: “Damaged - 50%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:29:03",
@@ -34684,13 +34691,6 @@
       "time": "16:16:58",
       "iso": "2026-08-21T10:46:58.356Z",
       "action": "updated remark for HON-CH-BUDS-CLIP-BLK at GALLE B: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:16:54",
-      "iso": "2026-08-21T10:46:54.989Z",
-      "action": "updated remark for NCPO-FP280 at KANDANA: “Already Provided”"
     }
   ]
 }
