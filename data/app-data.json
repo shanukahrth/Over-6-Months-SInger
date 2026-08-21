@@ -32518,10 +32518,10 @@
   },
   "soldMarks": {
     "MB-SAFARI4S-RED||Automobie Pamunugama": {
-      "sold": true,
+      "sold": false,
       "comment": "",
-      "updatedBy": "Shanuka Herath",
-      "updatedDate": "2026-08-20"
+      "updatedBy": "EX",
+      "updatedDate": "2026-08-21"
     },
     "SAS-12V-INV||PILIYANDALA": {
       "sold": false,
@@ -32543,6 +32543,13 @@
     }
   },
   "activity": [
+    {
+      "user": "EX",
+      "date": "2026-08-21",
+      "time": "13:49:24",
+      "iso": "2026-08-21T08:19:24.842Z",
+      "action": "marked MB-SAFARI4S-RED at Automobie Pamunugama as Not Sold"
+    },
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
@@ -32885,13 +32892,6 @@
       "time": "11:12:20",
       "iso": "2026-08-21T05:42:20.111Z",
       "action": "updated remark for BTS-10KG at KIRIBATHGODA B: “Maximum 40% additional discount based on the condition.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "11:11:29",
-      "iso": "2026-08-21T05:41:29.265Z",
-      "action": "updated remark for BES-CRS-51 at KIRIBATHGODA B: “Maximum 10% additional discount based on the condition.”"
     }
   ]
 }
