@@ -33585,6 +33585,41 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:44:24",
       "lastUpdated": "2026-08-21T11:14:24.329Z"
+    },
+    "STO-EO30C||GALLE B": {
+      "remark": "90% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:43:07",
+      "lastUpdated": "2026-08-21T11:13:07.199Z"
+    },
+    "STO-EO45C||GALLE B": {
+      "remark": "80% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:43:18",
+      "lastUpdated": "2026-08-21T11:13:18.574Z"
+    },
+    "SW-ST19025BLK||GALLE B": {
+      "remark": "75% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:43:40",
+      "lastUpdated": "2026-08-21T11:13:40.166Z"
+    },
+    "SLE32E930||GALLE B": {
+      "remark": "70% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:44:10",
+      "lastUpdated": "2026-08-21T11:14:10.253Z"
+    },
+    "TF-CM-APR737||GALLE B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:45:07",
+      "lastUpdated": "2026-08-21T11:15:07.177Z"
     }
   },
   "showroomVisits": {
@@ -34553,6 +34588,48 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:45:07",
+      "iso": "2026-08-21T11:15:07.181Z",
+      "action": "updated remark for TF-CM-APR737 at GALLE B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:44:57",
+      "iso": "2026-08-21T11:14:57.425Z",
+      "action": "updated remark for TF-CM-APR737 at GALLE B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:44:10",
+      "iso": "2026-08-21T11:14:10.258Z",
+      "action": "updated remark for SLE32E930 at GALLE B: “70% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:43:40",
+      "iso": "2026-08-21T11:13:40.169Z",
+      "action": "updated remark for SW-ST19025BLK at GALLE B: “75% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:43:18",
+      "iso": "2026-08-21T11:13:18.577Z",
+      "action": "updated remark for STO-EO45C at GALLE B: “80% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:43:07",
+      "iso": "2026-08-21T11:13:07.203Z",
+      "action": "updated remark for STO-EO30C at GALLE B: “90% OFF”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-21",
       "time": "16:44:24",
@@ -34859,48 +34936,6 @@
       "time": "16:26:12",
       "iso": "2026-08-21T10:56:12.666Z",
       "action": "updated remark for WFL-DIANA-CHR-S at MATALE - B: “Damaged - 75%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:25:58",
-      "iso": "2026-08-21T10:55:58.356Z",
-      "action": "updated remark for WC-XR1605 at MATALE - B: “Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:25:49",
-      "iso": "2026-08-21T10:55:49.254Z",
-      "action": "updated remark for HON-WATCH-4 at GALLE B: “25% OFF”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:25:33",
-      "iso": "2026-08-21T10:55:33.931Z",
-      "action": "updated remark for WB-F65 at MATALE - B: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:25:06",
-      "iso": "2026-08-21T10:55:06.989Z",
-      "action": "updated remark for ULED24D1000-U at MATALE - B: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:24:43",
-      "iso": "2026-08-21T10:54:43.757Z",
-      "action": "updated remark for TF-K1330404 at MATALE - B: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:24:27",
-      "iso": "2026-08-21T10:54:27.825Z",
-      "action": "updated remark for TCLED28D2900 at MATALE - B: “Damaged - 85%”"
     }
   ]
 }
