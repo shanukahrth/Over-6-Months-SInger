@@ -32178,6 +32178,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:29:11",
       "lastUpdated": "2026-08-21T08:59:11.451Z"
+    },
+    "MID-D30-20EVN1||WATTALA": {
+      "remark": "Display 1 unit - 10% additional",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:29:33",
+      "lastUpdated": "2026-08-21T08:59:33.516Z"
     }
   },
   "showroomVisits": {
@@ -33148,6 +33155,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:29:33",
+      "iso": "2026-08-21T08:59:33.519Z",
+      "action": "updated remark for MID-D30-20EVN1 at WATTALA: “Display 1 unit - 10% additional”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:29:11",
       "iso": "2026-08-21T08:59:11.451Z",
       "action": "updated remark for SMG-A17-8-256-GRY at WATTALA: “15% - Additional unboxed”"
@@ -33487,13 +33501,6 @@
       "time": "14:03:03",
       "iso": "2026-08-21T08:33:03.576Z",
       "action": "updated remark for TF-IT30-169 at PELIYAGODA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:02:38",
-      "iso": "2026-08-21T08:32:38.517Z",
-      "action": "updated remark for TF-NIGP26-119 at PELIYAGODA: “Already given”"
     }
   ]
 }
