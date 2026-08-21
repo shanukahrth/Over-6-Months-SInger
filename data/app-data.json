@@ -33788,6 +33788,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:43:49",
       "lastUpdated": "2026-08-21T12:13:49.619Z"
+    },
+    "DH-A-B1A21P-36B||MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:44:09",
+      "lastUpdated": "2026-08-21T12:14:09.469Z"
     }
   },
   "showroomVisits": {
@@ -34758,6 +34765,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:44:09",
+      "iso": "2026-08-21T12:14:09.471Z",
+      "action": "updated remark for DH-A-B1A21P-36B at MATALE: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:43:49",
       "iso": "2026-08-21T12:13:49.620Z",
       "action": "updated remark for CM-VIR-GUARD at MATALE: “Ok”"
@@ -35097,13 +35111,6 @@
       "time": "16:40:47",
       "iso": "2026-08-21T11:10:47.570Z",
       "action": "updated remark for PN-TH-32M401N at GALLE B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:40:31",
-      "iso": "2026-08-21T11:10:31.387Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at GALLE B: “50% OFF”"
     }
   ]
 }
