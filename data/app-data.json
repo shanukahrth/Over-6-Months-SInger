@@ -31823,11 +31823,11 @@
       "lastUpdated": "2026-08-21T08:29:26.000Z"
     },
     "SLE43G890||KIRIBATHGODA B": {
-      "remark": "Exchange",
+      "remark": "60%",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-08-21",
-      "commentTime": "14:00:14",
-      "lastUpdated": "2026-08-21T08:30:14.332Z"
+      "commentTime": "14:00:23",
+      "lastUpdated": "2026-08-21T08:30:23.629Z"
     }
   },
   "showroomVisits": {
@@ -32798,6 +32798,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "14:00:23",
+      "iso": "2026-08-21T08:30:23.632Z",
+      "action": "updated remark for SLE43G890 at KIRIBATHGODA B: “60%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "14:00:14",
       "iso": "2026-08-21T08:30:14.337Z",
       "action": "updated remark for SLE43G890 at KIRIBATHGODA B: “Exchange”"
@@ -33137,13 +33144,6 @@
       "time": "13:38:52",
       "iso": "2026-08-21T08:08:52.558Z",
       "action": "updated remark for HON-X9C-12-256-PPL at KIRIBATHGODA B: “Shop Burglary”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "13:38:22",
-      "iso": "2026-08-21T08:08:22.046Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at KIRIBATHGODA B: “No discount”"
     }
   ]
 }
