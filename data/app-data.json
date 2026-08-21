@@ -33347,6 +33347,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:26:57",
       "lastUpdated": "2026-08-21T10:56:57.975Z"
+    },
+    "PCR-CASRL20-256||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:27:13",
+      "lastUpdated": "2026-08-21T10:57:13.515Z"
+    },
+    "PH-NHP6306||GALLE B": {
+      "remark": "35% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:27:21",
+      "lastUpdated": "2026-08-21T10:57:21.758Z"
     }
   },
   "showroomVisits": {
@@ -34317,6 +34331,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-21",
+      "time": "16:27:21",
+      "iso": "2026-08-21T10:57:21.760Z",
+      "action": "updated remark for PH-NHP6306 at GALLE B: “35% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:27:13",
+      "iso": "2026-08-21T10:57:13.518Z",
+      "action": "updated remark for PCR-CASRL20-256 at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
       "time": "16:26:57",
       "iso": "2026-08-21T10:56:57.977Z",
       "action": "updated remark for NCPO-FP250 at GALLE B: “-”"
@@ -34649,20 +34677,6 @@
       "time": "16:16:01",
       "iso": "2026-08-21T10:46:01.084Z",
       "action": "updated remark for CAN-C-745-B at MATALE - B: “Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:16:01",
-      "iso": "2026-08-21T10:46:01.581Z",
-      "action": "updated remark for H-RMRG024MFEOE at GALLE B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:15:57",
-      "iso": "2026-08-21T10:45:57.638Z",
-      "action": "updated remark for H-HMR-DG2312 at GALLE B: “-”"
     }
   ]
 }
