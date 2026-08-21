@@ -31709,6 +31709,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "13:55:26",
       "lastUpdated": "2026-08-21T08:25:26.987Z"
+    },
+    "WFI-SOC-H007-BU-S||PELIYAGODA": {
+      "remark": "active location extra 10%, increase based on the condition",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "13:55:46",
+      "lastUpdated": "2026-08-21T08:25:46.916Z"
     }
   },
   "showroomVisits": {
@@ -32679,6 +32686,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "13:55:46",
+      "iso": "2026-08-21T08:25:46.919Z",
+      "action": "updated remark for WFI-SOC-H007-BU-S at PELIYAGODA: “active location extra 10%, increase based on the condition”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "13:55:26",
       "iso": "2026-08-21T08:25:26.989Z",
       "action": "updated remark for MID-MJ-KM6001W at PELIYAGODA: “Already given”"
@@ -33018,13 +33032,6 @@
       "time": "11:33:23",
       "iso": "2026-08-21T06:03:23.871Z",
       "action": "updated remark for MID-MJ-KM6001W at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "11:33:04",
-      "iso": "2026-08-21T06:03:04.037Z",
-      "action": "updated remark for MB-SAFARI4S-BLK at KIRIBATHGODA B: “Promotion already offered”"
     }
   ]
 }
