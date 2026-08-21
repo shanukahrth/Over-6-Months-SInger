@@ -33396,6 +33396,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:29:47",
       "lastUpdated": "2026-08-21T10:59:47.266Z"
+    },
+    "MID-D15-20EVN1||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:31:00",
+      "lastUpdated": "2026-08-21T11:01:00.855Z"
+    },
+    "MID-D30-20EVN1||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:31:08",
+      "lastUpdated": "2026-08-21T11:01:08.380Z"
     }
   },
   "showroomVisits": {
@@ -34364,6 +34378,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:31:08",
+      "iso": "2026-08-21T11:01:08.382Z",
+      "action": "updated remark for MID-D30-20EVN1 at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:31:00",
+      "iso": "2026-08-21T11:01:00.857Z",
+      "action": "updated remark for MID-D15-20EVN1 at GALLE B: “-”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-21",
       "time": "16:30:27",
@@ -34698,20 +34726,6 @@
       "time": "16:18:03",
       "iso": "2026-08-21T10:48:03.413Z",
       "action": "updated remark for B-BMGB25332BG at GALLE B: “40% OFF”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:18:09",
-      "iso": "2026-08-21T10:48:09.860Z",
-      "action": "updated remark for FAN-WF1608R at MATALE - B: “Sold”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:17:53",
-      "iso": "2026-08-21T10:47:53.667Z",
-      "action": "updated remark for FAN-P-1605H at MATALE - B: “Damaged - 50%”"
     }
   ]
 }
