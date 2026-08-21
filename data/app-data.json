@@ -33151,6 +33151,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:18:30",
       "lastUpdated": "2026-08-21T10:48:30.686Z"
+    },
+    "LF-OX-BR-L-S||MATALE - B": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:18:39",
+      "lastUpdated": "2026-08-21T10:48:39.982Z"
     }
   },
   "showroomVisits": {
@@ -34119,6 +34126,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:18:39",
+      "iso": "2026-08-21T10:48:39.983Z",
+      "action": "updated remark for LF-OX-BR-L-S at MATALE - B: “Damaged - 50%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:18:30",
@@ -34460,13 +34474,6 @@
       "time": "15:40:38",
       "iso": "2026-08-21T10:10:38.432Z",
       "action": "updated remark for HON-X9C-12-256-BLK at KANDANA: “15% - Additional”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "15:40:00",
-      "iso": "2026-08-21T10:10:00.565Z",
-      "action": "updated remark for HON-X5B-4-64-BLU at GALLE B: “50% OFF”"
     }
   ]
 }
