@@ -32892,6 +32892,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:00:38",
       "lastUpdated": "2026-08-21T10:30:38.110Z"
+    },
+    "LF-BUDGET-ST-AGO-S||KANDANA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:01:04",
+      "lastUpdated": "2026-08-21T10:31:04.644Z"
     }
   },
   "showroomVisits": {
@@ -33862,6 +33869,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "16:01:04",
+      "iso": "2026-08-21T10:31:04.646Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at KANDANA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "16:00:38",
       "iso": "2026-08-21T10:30:38.112Z",
       "action": "updated remark for LF-BUDGET-DT-CRW-S at KANDANA: “50%”"
@@ -34201,13 +34215,6 @@
       "time": "15:09:08",
       "iso": "2026-08-21T09:39:08.002Z",
       "action": "updated remark for DH-SD2A200HB-GN-AW-PV-S2 at KANDANA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:08:41",
-      "iso": "2026-08-21T09:38:41.616Z",
-      "action": "updated remark for DH-PFM300 at KANDANA: “70%”"
     }
   ]
 }
