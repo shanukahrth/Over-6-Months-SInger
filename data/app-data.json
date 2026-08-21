@@ -33816,6 +33816,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:44:44",
       "lastUpdated": "2026-08-21T12:14:44.545Z"
+    },
+    "FAN-P-1605H||MATALE": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:45:13",
+      "lastUpdated": "2026-08-21T12:15:13.560Z"
     }
   },
   "showroomVisits": {
@@ -34786,6 +34793,20 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:45:13",
+      "iso": "2026-08-21T12:15:13.561Z",
+      "action": "updated remark for FAN-P-1605H at MATALE: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "17:45:10",
+      "iso": "2026-08-21T12:15:10.841Z",
+      "action": "updated remark for FAN-P-1605H at MATALE: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:44:44",
       "iso": "2026-08-21T12:14:44.546Z",
       "action": "updated remark for DH-XVR1A08 at MATALE: “Damaged - 85%”"
@@ -35118,20 +35139,6 @@
       "time": "16:42:10",
       "iso": "2026-08-21T11:12:10.378Z",
       "action": "updated remark for SMGAR50F24D1J at GALLE B: “30% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:41:50",
-      "iso": "2026-08-21T11:11:50.323Z",
-      "action": "updated remark for SMGAR50F19D1J at GALLE B: “30% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:41:29",
-      "iso": "2026-08-21T11:11:29.004Z",
-      "action": "updated remark for SLE75G6E at GALLE B: “Sold out”"
     }
   ]
 }
