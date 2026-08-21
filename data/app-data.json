@@ -32598,6 +32598,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:12:11",
       "lastUpdated": "2026-08-21T09:42:11.302Z"
+    },
+    "ENG-10015||KANDANA": {
+      "remark": "Deffective - Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:12:38",
+      "lastUpdated": "2026-08-21T09:42:38.027Z"
     }
   },
   "showroomVisits": {
@@ -33568,6 +33575,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "15:12:38",
+      "iso": "2026-08-21T09:42:38.030Z",
+      "action": "updated remark for ENG-10015 at KANDANA: “Deffective - Return to WH”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "15:12:11",
       "iso": "2026-08-21T09:42:11.303Z",
       "action": "updated remark for DUM-SMGAR50F12D0J at KANDANA: “Dummy”"
@@ -33907,13 +33921,6 @@
       "time": "14:34:56",
       "iso": "2026-08-21T09:04:56.352Z",
       "action": "updated remark for ZTE-A75-4GB-256GB-GRN at KIRIBATHGODA B: “15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "14:34:40",
-      "iso": "2026-08-21T09:04:40.355Z",
-      "action": "updated remark for ZTE-A53-2GB-32GB-GRY at KIRIBATHGODA B: “5%”"
     }
   ]
 }
