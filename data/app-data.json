@@ -32920,6 +32920,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:04:14",
       "lastUpdated": "2026-08-21T10:34:14.083Z"
+    },
+    "SMG-A06-6-128-BLK||GALLE B": {
+      "remark": "70% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:03:48",
+      "lastUpdated": "2026-08-21T10:33:48.416Z"
+    },
+    "SMG-A17-8-256-BLU||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:04:33",
+      "lastUpdated": "2026-08-21T10:34:33.560Z"
     }
   },
   "showroomVisits": {
@@ -33888,6 +33902,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:04:33",
+      "iso": "2026-08-21T10:34:33.561Z",
+      "action": "updated remark for SMG-A17-8-256-BLU at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:03:48",
+      "iso": "2026-08-21T10:33:48.417Z",
+      "action": "updated remark for SMG-A06-6-128-BLK at GALLE B: “70% OFF”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "16:04:14",
@@ -34222,20 +34250,6 @@
       "time": "15:14:23",
       "iso": "2026-08-21T09:44:23.460Z",
       "action": "updated remark for GEO-182S-SV at KANDANA: “25%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:13:01",
-      "iso": "2026-08-21T09:43:01.685Z",
-      "action": "updated remark for ENG-UB2608 at KANDANA: “Deffective - Return to WH”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:12:38",
-      "iso": "2026-08-21T09:42:38.030Z",
-      "action": "updated remark for ENG-10015 at KANDANA: “Deffective - Return to WH”"
     }
   ]
 }
