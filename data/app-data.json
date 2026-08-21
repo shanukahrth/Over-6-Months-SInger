@@ -32052,6 +32052,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:19:56",
       "lastUpdated": "2026-08-21T08:49:56.091Z"
+    },
+    "TCL65C655||WATTALA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:20:16",
+      "lastUpdated": "2026-08-21T08:50:16.027Z"
     }
   },
   "showroomVisits": {
@@ -33022,6 +33029,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:20:16",
+      "iso": "2026-08-21T08:50:16.028Z",
+      "action": "updated remark for TCL65C655 at WATTALA: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:19:56",
       "iso": "2026-08-21T08:49:56.093Z",
       "action": "updated remark for SKY65X8700G at WATTALA: “additional 10%”"
@@ -33361,13 +33375,6 @@
       "time": "13:57:23",
       "iso": "2026-08-21T08:27:23.842Z",
       "action": "updated remark for TF-SI-ESS-242 at PELIYAGODA: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "13:56:58",
-      "iso": "2026-08-21T08:26:58.317Z",
-      "action": "updated remark for PF-STRG-BX-45L-S at PELIYAGODA: “50%”"
     }
   ]
 }
