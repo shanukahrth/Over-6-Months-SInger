@@ -33312,6 +33312,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:25:33",
       "lastUpdated": "2026-08-21T10:55:33.930Z"
+    },
+    "HON-WATCH-4||GALLE B": {
+      "remark": "25% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:25:49",
+      "lastUpdated": "2026-08-21T10:55:49.250Z"
     }
   },
   "showroomVisits": {
@@ -34280,6 +34287,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:25:49",
+      "iso": "2026-08-21T10:55:49.254Z",
+      "action": "updated remark for HON-WATCH-4 at GALLE B: “25% OFF”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-21",
       "time": "16:25:33",
@@ -34621,13 +34635,6 @@
       "time": "16:15:21",
       "iso": "2026-08-21T10:45:21.592Z",
       "action": "updated remark for NCPO-DC200 at KANDANA: “Already Provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:14:56",
-      "iso": "2026-08-21T10:44:56.351Z",
-      "action": "updated remark for NCPDG-OT250 at KANDANA: “Already Provided”"
     }
   ]
 }
