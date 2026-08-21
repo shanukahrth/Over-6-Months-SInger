@@ -5972,11 +5972,11 @@
       "lastUpdated": "2026-08-21T10:50:17.992Z"
     },
     "SIN-MRG-1008C||MATALE - B": {
-      "remark": "Damage - 20%",
+      "remark": "Damaged - 20%",
       "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "17:08:59",
-      "lastUpdated": "2026-08-17T11:38:59.310Z"
+      "commentDate": "2026-08-21",
+      "commentTime": "16:22:41",
+      "lastUpdated": "2026-08-21T10:52:41.524Z"
     },
     "SMGRT28A3021GS||MATALE - B": {
       "remark": "Revert - 60%",
@@ -34245,6 +34245,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:22:41",
+      "iso": "2026-08-21T10:52:41.526Z",
+      "action": "updated remark for SIN-MRG-1008C at MATALE - B: “Damaged - 20%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:22:16",
@@ -34586,13 +34593,6 @@
       "time": "16:05:58",
       "iso": "2026-08-21T10:35:58.001Z",
       "action": "updated remark for SMG-SM-X115-GRY at GALLE B: “50% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:05:33",
-      "iso": "2026-08-21T10:35:33.784Z",
-      "action": "updated remark for SMG-SM-A356E-128-B at GALLE B: “50% OFF”"
     }
   ]
 }
