@@ -5944,11 +5944,11 @@
       "lastUpdated": "2026-08-21T10:59:16.256Z"
     },
     "HON-X8C-8-512-WHT||MATALE": {
-      "remark": "Damaged - 50%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "16:21:46",
-      "lastUpdated": "2026-08-17T10:51:46.581Z"
+      "commentDate": "2026-08-21",
+      "commentTime": "16:29:48",
+      "lastUpdated": "2026-08-21T10:59:48.391Z"
     },
     "HON-X9B-12-256-ORG||MATALE": {
       "remark": "Damaged - 70%",
@@ -34364,6 +34364,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:29:48",
+      "iso": "2026-08-21T10:59:48.392Z",
+      "action": "updated remark for HON-X8C-8-512-WHT at MATALE: “Damaged - 80%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:29:47",
@@ -34705,13 +34712,6 @@
       "time": "16:17:27",
       "iso": "2026-08-21T10:47:27.689Z",
       "action": "updated remark for ENG-UE10054 at MATALE - B: “Damaged - 85%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:17:18",
-      "iso": "2026-08-21T10:47:18.731Z",
-      "action": "updated remark for HON-CH-WATCH-2I-WH at GALLE B: “-”"
     }
   ]
 }
