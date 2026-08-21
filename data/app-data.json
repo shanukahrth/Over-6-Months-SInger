@@ -31660,6 +31660,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "13:53:35",
       "lastUpdated": "2026-08-21T08:23:35.262Z"
+    },
+    "SIN-RFC-1819||KIRIBATHGODA B": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "13:53:58",
+      "lastUpdated": "2026-08-21T08:23:58.059Z"
     }
   },
   "showroomVisits": {
@@ -32628,6 +32635,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "13:53:58",
+      "iso": "2026-08-21T08:23:58.060Z",
+      "action": "updated remark for SIN-RFC-1819 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
       "time": "13:53:35",
@@ -32969,13 +32983,6 @@
       "time": "11:25:56",
       "iso": "2026-08-21T05:55:56.990Z",
       "action": "updated remark for HON-X8C-8-512-BLK at KIRIBATHGODA B: “Shop Burglary”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "11:25:22",
-      "iso": "2026-08-21T05:55:22.509Z",
-      "action": "updated remark for HON-X7C-8-256-BLK at KIRIBATHGODA B: “Exchange 1 unit & unboxed 1 - 15%”"
     }
   ]
 }
