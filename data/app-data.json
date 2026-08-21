@@ -31514,13 +31514,6 @@
       "commentTime": "13:20:07",
       "lastUpdated": "2026-08-21T07:50:07.452Z"
     },
-    "AS-ZEN-15G-U5-1TB-328-SIL||KATUGASTOTA": {
-      "remark": "20%",
-      "commentedBy": "Kaveesha Sathsarani",
-      "commentDate": "2026-08-21",
-      "commentTime": "13:24:54",
-      "lastUpdated": "2026-08-21T07:54:54.407Z"
-    },
     "RIYLTA-MF12V4||KIRIBATHGODA B": {
       "remark": "Return to WH",
       "commentedBy": "Maria Fernando",
@@ -33846,6 +33839,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha Sathsarani",
+      "date": "2026-08-21",
+      "time": "15:57:14",
+      "iso": "2026-08-21T10:27:14.342Z",
+      "action": "updated remark for AS-ZEN-15G-U5-1TB-328-SIL at KATUGASTOTA (cleared)"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "15:47:00",
@@ -34187,13 +34187,6 @@
       "time": "15:07:12",
       "iso": "2026-08-21T09:37:12.858Z",
       "action": "updated remark for BES-CRS-51 at KANDANA: “10%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:06:43",
-      "iso": "2026-08-21T09:36:43.073Z",
-      "action": "updated remark for B-RDNI315XIB300P at KANDANA: “50%”"
     }
   ]
 }
