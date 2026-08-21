@@ -33550,6 +33550,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:42:37",
       "lastUpdated": "2026-08-21T11:12:37.545Z"
+    },
+    "HU-SECURITY||MATALE": {
+      "remark": "Drop",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:43:30",
+      "lastUpdated": "2026-08-21T11:13:30.434Z"
     }
   },
   "showroomVisits": {
@@ -34518,6 +34525,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:43:30",
+      "iso": "2026-08-21T11:13:30.435Z",
+      "action": "updated remark for HU-SECURITY at MATALE: “Drop”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:42:37",
@@ -34859,13 +34873,6 @@
       "time": "16:22:41",
       "iso": "2026-08-21T10:52:41.526Z",
       "action": "updated remark for SIN-MRG-1008C at MATALE - B: “Damaged - 20%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:22:16",
-      "iso": "2026-08-21T10:52:16.559Z",
-      "action": "updated remark for LF-SP-9922-S at GALLE B: “50% OFF”"
     }
   ]
 }
