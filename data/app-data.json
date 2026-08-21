@@ -32703,6 +32703,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:29:47",
       "lastUpdated": "2026-08-21T09:59:47.617Z"
+    },
+    "DELL-BAC-ADPT65W||GALLE B": {
+      "remark": "rReport for 2000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:32:54",
+      "lastUpdated": "2026-08-21T10:02:54.775Z"
     }
   },
   "showroomVisits": {
@@ -33671,6 +33678,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "15:32:54",
+      "iso": "2026-08-21T10:02:54.776Z",
+      "action": "updated remark for DELL-BAC-ADPT65W at GALLE B: “rReport for 2000”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-21",
       "time": "15:29:47",
@@ -34012,13 +34026,6 @@
       "time": "14:41:02",
       "iso": "2026-08-21T09:11:02.840Z",
       "action": "updated remark for TF-NIGP26-119 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:40:45",
-      "iso": "2026-08-21T09:10:45.666Z",
-      "action": "updated remark for HON-X5PLUS-4-64-BLK at WATTALA: “40%”"
     }
   ]
 }
