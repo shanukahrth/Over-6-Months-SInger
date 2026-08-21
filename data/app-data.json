@@ -31527,6 +31527,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "13:37:32",
       "lastUpdated": "2026-08-21T08:07:32.087Z"
+    },
+    "SL-SWMFR72||PELIYAGODA": {
+      "remark": "SHORTAGE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "13:45:27",
+      "lastUpdated": "2026-08-21T08:15:27.585Z"
     }
   },
   "showroomVisits": {
@@ -32483,6 +32490,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
+      "time": "13:45:27",
+      "iso": "2026-08-21T08:15:27.590Z",
+      "action": "updated remark for SL-SWMFR72 at PELIYAGODA: “SHORTAGE”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "13:38:52",
@@ -32824,13 +32838,6 @@
       "time": "16:31:32",
       "iso": "2026-08-20T11:01:32.292Z",
       "action": "updated MELSIRIPURA showroom (team: Wayamba Team)"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-20",
-      "time": "16:29:51",
-      "iso": "2026-08-20T10:59:51.542Z",
-      "action": "updated MELSIRIPURA showroom (visited: Yes)"
     }
   ]
 }
