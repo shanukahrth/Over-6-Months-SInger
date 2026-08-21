@@ -32766,6 +32766,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:36:56",
       "lastUpdated": "2026-08-21T10:06:56.250Z"
+    },
+    "HON-X7C-8-256-BLK||GALLE B": {
+      "remark": "Exchange",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:37:07",
+      "lastUpdated": "2026-08-21T10:07:07.809Z"
+    },
+    "HON-X7C-8-256-GRN||GALLE B": {
+      "remark": "50% off",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:37:16",
+      "lastUpdated": "2026-08-21T10:07:16.306Z"
     }
   },
   "showroomVisits": {
@@ -33734,6 +33748,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "15:37:16",
+      "iso": "2026-08-21T10:07:16.306Z",
+      "action": "updated remark for HON-X7C-8-256-GRN at GALLE B: “50% off”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "15:37:07",
+      "iso": "2026-08-21T10:07:07.810Z",
+      "action": "updated remark for HON-X7C-8-256-BLK at GALLE B: “Exchange”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "15:36:56",
@@ -34068,20 +34096,6 @@
       "time": "14:44:39",
       "iso": "2026-08-21T09:14:39.906Z",
       "action": "updated remark for MCT-302N-4 at WATTALA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:43:58",
-      "iso": "2026-08-21T09:13:58.333Z",
-      "action": "updated remark for TF-NIFP28-042 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:43:39",
-      "iso": "2026-08-21T09:13:39.487Z",
-      "action": "updated remark for BD-BDCS36F-IN at WATTALA: “0%”"
     }
   ]
 }
