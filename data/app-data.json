@@ -31569,6 +31569,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "13:48:33",
       "lastUpdated": "2026-08-21T08:18:33.135Z"
+    },
+    "RIYLTA-MF12V5||KIRIBATHGODA B": {
+      "remark": "Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "13:48:32",
+      "lastUpdated": "2026-08-21T08:18:32.526Z"
     }
   },
   "showroomVisits": {
@@ -32524,18 +32531,39 @@
     },
     "RIYLTA-MF12V5||KIRIBATHGODA B": {
       "sold": false,
-      "comment": "Return to WH",
+      "comment": "",
       "updatedBy": "Maria Fernando",
       "updatedDate": "2026-08-21"
     },
     "RIYLTA-MF12V4||KIRIBATHGODA B": {
       "sold": false,
-      "comment": "Return to WH",
+      "comment": "",
       "updatedBy": "Maria Fernando",
       "updatedDate": "2026-08-21"
     }
   },
   "activity": [
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "13:48:41",
+      "iso": "2026-08-21T08:18:41.877Z",
+      "action": "updated sold comment for RIYLTA-MF12V4 at KIRIBATHGODA B (cleared)"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "13:48:35",
+      "iso": "2026-08-21T08:18:35.066Z",
+      "action": "updated sold comment for RIYLTA-MF12V5 at KIRIBATHGODA B (cleared)"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "13:48:32",
+      "iso": "2026-08-21T08:18:32.531Z",
+      "action": "updated remark for RIYLTA-MF12V5 at KIRIBATHGODA B: “Return to WH”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
@@ -32864,27 +32892,6 @@
       "time": "11:11:29",
       "iso": "2026-08-21T05:41:29.265Z",
       "action": "updated remark for BES-CRS-51 at KIRIBATHGODA B: “Maximum 10% additional discount based on the condition.”"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-21",
-      "time": "09:36:44",
-      "iso": "2026-08-21T04:06:44.442Z",
-      "action": "marked SAS-12V-INV at PILIYANDALA as Not Sold"
-    },
-    {
-      "user": "Shanuka Herath",
-      "date": "2026-08-21",
-      "time": "09:36:37",
-      "iso": "2026-08-21T04:06:37.089Z",
-      "action": "marked SAS-12V-INV at PILIYANDALA as Sold"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-20",
-      "time": "16:36:02",
-      "iso": "2026-08-20T11:06:02.482Z",
-      "action": "updated BINGIRIYA showroom (team: Wayamba Team)"
     }
   ]
 }
