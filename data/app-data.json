@@ -33858,6 +33858,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:47:07",
       "lastUpdated": "2026-08-21T12:17:07.105Z"
+    },
+    "HU-BAND4-B||MATALE": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:47:32",
+      "lastUpdated": "2026-08-21T12:17:32.933Z"
     }
   },
   "showroomVisits": {
@@ -34828,6 +34835,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:47:32",
+      "iso": "2026-08-21T12:17:32.934Z",
+      "action": "updated remark for HU-BAND4-B at MATALE: “Damaged - 80%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:47:07",
       "iso": "2026-08-21T12:17:07.107Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at MATALE: “Ok”"
@@ -35167,13 +35181,6 @@
       "time": "16:44:10",
       "iso": "2026-08-21T11:14:10.205Z",
       "action": "updated remark for NUBIA-NEO3-4G-8-128-GLD at MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:43:53",
-      "iso": "2026-08-21T11:13:53.298Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-TT-DST at MATALE: “10%”"
     }
   ]
 }
