@@ -32381,6 +32381,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:41:02",
       "lastUpdated": "2026-08-21T09:11:02.839Z"
+    },
+    "SLE32D2010TC||WATTALA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:41:18",
+      "lastUpdated": "2026-08-21T09:11:18.843Z"
     }
   },
   "showroomVisits": {
@@ -33351,6 +33358,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:41:18",
+      "iso": "2026-08-21T09:11:18.845Z",
+      "action": "updated remark for SLE32D2010TC at WATTALA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:41:02",
       "iso": "2026-08-21T09:11:02.840Z",
       "action": "updated remark for TF-NIGP26-119 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
@@ -33690,13 +33704,6 @@
       "time": "14:21:28",
       "iso": "2026-08-21T08:51:28.308Z",
       "action": "updated remark for KD-50X75K at WATTALA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:21:08",
-      "iso": "2026-08-21T08:51:08.814Z",
-      "action": "updated remark for SMGUA55DU7500 at WATTALA: “Rs.200,000/- Special Price”"
     }
   ]
 }
