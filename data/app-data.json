@@ -31597,6 +31597,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "13:50:46",
       "lastUpdated": "2026-08-21T08:20:46.327Z"
+    },
+    "SLE43G690||PELIYAGODA": {
+      "remark": "SHORTAGE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "13:51:17",
+      "lastUpdated": "2026-08-21T08:21:17.305Z"
     }
   },
   "showroomVisits": {
@@ -32567,6 +32574,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "13:51:17",
+      "iso": "2026-08-21T08:21:17.308Z",
+      "action": "updated remark for SLE43G690 at PELIYAGODA: “SHORTAGE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "13:50:46",
       "iso": "2026-08-21T08:20:46.328Z",
       "action": "updated remark for SIN-PR-K340 at PELIYAGODA: “No discount”"
@@ -32906,13 +32920,6 @@
       "time": "11:14:46",
       "iso": "2026-08-21T05:44:46.567Z",
       "action": "updated remark for H-CVW1600 at KIRIBATHGODA B: “0”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "11:14:09",
-      "iso": "2026-08-21T05:44:09.614Z",
-      "action": "updated remark for GEO-260NF at KIRIBATHGODA B: “Obsolete - Offer flat 80%”"
     }
   ]
 }
