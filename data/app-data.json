@@ -33291,6 +33291,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:24:12",
       "lastUpdated": "2026-08-21T10:54:12.595Z"
+    },
+    "TCLED28D2900||MATALE - B": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:24:27",
+      "lastUpdated": "2026-08-21T10:54:27.824Z"
     }
   },
   "showroomVisits": {
@@ -34261,6 +34268,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "16:24:27",
+      "iso": "2026-08-21T10:54:27.825Z",
+      "action": "updated remark for TCLED28D2900 at MATALE - B: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "16:24:12",
       "iso": "2026-08-21T10:54:12.597Z",
       "action": "updated remark for SVX6002 at MATALE - B: “Can sell this by 31st Aug”"
@@ -34600,13 +34614,6 @@
       "time": "16:14:43",
       "iso": "2026-08-21T10:44:43.903Z",
       "action": "updated remark for FAN-VIERA-TEAK at GALLE B: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:10:27",
-      "iso": "2026-08-21T10:40:27.843Z",
-      "action": "updated remark for MX-FP825E27 at KANDANA: “Already Provided”"
     }
   ]
 }
