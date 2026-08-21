@@ -33228,6 +33228,27 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:21:00",
       "lastUpdated": "2026-08-21T10:51:00.070Z"
+    },
+    "RIYLTA-MF12V51A||MATALE - B": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:21:12",
+      "lastUpdated": "2026-08-21T10:51:12.906Z"
+    },
+    "RIYLTA-MF12V53B||MATALE - B": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:21:14",
+      "lastUpdated": "2026-08-21T10:51:14.949Z"
+    },
+    "RIYLTA-MF12V4||MATALE - B": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:21:18",
+      "lastUpdated": "2026-08-21T10:51:18.361Z"
     }
   },
   "showroomVisits": {
@@ -34198,6 +34219,27 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "16:21:18",
+      "iso": "2026-08-21T10:51:18.361Z",
+      "action": "updated remark for RIYLTA-MF12V4 at MATALE - B: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:21:14",
+      "iso": "2026-08-21T10:51:14.950Z",
+      "action": "updated remark for RIYLTA-MF12V53B at MATALE - B: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:21:12",
+      "iso": "2026-08-21T10:51:12.908Z",
+      "action": "updated remark for RIYLTA-MF12V51A at MATALE - B: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "16:21:00",
       "iso": "2026-08-21T10:51:00.072Z",
       "action": "updated remark for RIYLTA-MF12V35A at MATALE - B: “Damaged - 90%”"
@@ -34523,27 +34565,6 @@
       "time": "16:04:55",
       "iso": "2026-08-21T10:34:55.216Z",
       "action": "updated remark for SMG-A36-5G-8-128-BLK at GALLE B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:04:33",
-      "iso": "2026-08-21T10:34:33.561Z",
-      "action": "updated remark for SMG-A17-8-256-BLU at GALLE B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:03:48",
-      "iso": "2026-08-21T10:33:48.417Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at GALLE B: “70% OFF”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:04:14",
-      "iso": "2026-08-21T10:34:14.086Z",
-      "action": "updated remark for LF-OX-BR-L-AGO-S at KANDANA: “50%”"
     }
   ]
 }
