@@ -32451,6 +32451,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:44:39",
       "lastUpdated": "2026-08-21T09:14:39.904Z"
+    },
+    "URC-60||WATTALA": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:44:57",
+      "lastUpdated": "2026-08-21T09:14:57.737Z"
     }
   },
   "showroomVisits": {
@@ -33421,6 +33428,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:44:57",
+      "iso": "2026-08-21T09:14:57.738Z",
+      "action": "updated remark for URC-60 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:44:39",
       "iso": "2026-08-21T09:14:39.906Z",
       "action": "updated remark for MCT-302N-4 at WATTALA: “80%”"
@@ -33760,13 +33774,6 @@
       "time": "14:26:15",
       "iso": "2026-08-21T08:56:15.186Z",
       "action": "updated remark for BES-CRS-51 at WATTALA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:25:56",
-      "iso": "2026-08-21T08:55:56.447Z",
-      "action": "updated remark for BES-CRS-51 at WATTALA: “No discount”"
     }
   ]
 }
