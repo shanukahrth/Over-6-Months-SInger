@@ -33130,6 +33130,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:17:27",
       "lastUpdated": "2026-08-21T10:47:27.687Z"
+    },
+    "FAN-P-1605H||MATALE - B": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:17:53",
+      "lastUpdated": "2026-08-21T10:47:53.666Z"
     }
   },
   "showroomVisits": {
@@ -34100,6 +34107,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "16:17:53",
+      "iso": "2026-08-21T10:47:53.667Z",
+      "action": "updated remark for FAN-P-1605H at MATALE - B: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "16:17:27",
       "iso": "2026-08-21T10:47:27.689Z",
       "action": "updated remark for ENG-UE10054 at MATALE - B: “Damaged - 85%”"
@@ -34439,13 +34453,6 @@
       "time": "15:39:10",
       "iso": "2026-08-21T10:09:10.100Z",
       "action": "updated remark for HU-MATEPAD-SE11-GRY at GALLE B: “60% OFF”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:38:37",
-      "iso": "2026-08-21T10:08:37.057Z",
-      "action": "updated remark for HON-X6A-4-128-SKYBLU at KANDANA: “Not in a sellable condition”"
     }
   ]
 }
