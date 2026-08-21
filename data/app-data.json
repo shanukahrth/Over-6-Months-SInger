@@ -33809,6 +33809,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:44:34",
       "lastUpdated": "2026-08-21T12:14:34.123Z"
+    },
+    "DH-XVR1A08||MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:44:44",
+      "lastUpdated": "2026-08-21T12:14:44.545Z"
     }
   },
   "showroomVisits": {
@@ -34779,6 +34786,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:44:44",
+      "iso": "2026-08-21T12:14:44.546Z",
+      "action": "updated remark for DH-XVR1A08 at MATALE: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:44:34",
       "iso": "2026-08-21T12:14:34.124Z",
       "action": "updated remark for DH-ST1000VX001 at MATALE: “Damaged - 85%”"
@@ -35118,13 +35132,6 @@
       "time": "16:41:29",
       "iso": "2026-08-21T11:11:29.004Z",
       "action": "updated remark for SLE75G6E at GALLE B: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:41:01",
-      "iso": "2026-08-21T11:11:01.392Z",
-      "action": "updated remark for PN-TH-65MX740N at GALLE B: “454% OFF”"
     }
   ]
 }
