@@ -32248,6 +32248,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:33:19",
       "lastUpdated": "2026-08-21T09:03:19.448Z"
+    },
+    "TF-GCA-1336||WATTALA": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:33:24",
+      "lastUpdated": "2026-08-21T09:03:24.844Z"
     }
   },
   "showroomVisits": {
@@ -33216,6 +33223,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
+      "time": "14:33:24",
+      "iso": "2026-08-21T09:03:24.845Z",
+      "action": "updated remark for TF-GCA-1336 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "14:33:19",
@@ -33557,13 +33571,6 @@
       "time": "14:11:21",
       "iso": "2026-08-21T08:41:21.807Z",
       "action": "updated remark for SN-SMI-305G at KIRIBATHGODA B: “Obsolete - Offer flat 50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:10:54",
-      "iso": "2026-08-21T08:40:54.668Z",
-      "action": "updated remark for R-BWS-02 at PELIYAGODA: “Already given”"
     }
   ]
 }
