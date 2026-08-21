@@ -33249,6 +33249,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:21:18",
       "lastUpdated": "2026-08-21T10:51:18.361Z"
+    },
+    "KN-ST848||GALLE B": {
+      "remark": "Report for 2000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:21:12",
+      "lastUpdated": "2026-08-21T10:51:12.644Z"
+    },
+    "LF-ORGN-BDQ-CLM-S||GALLE B": {
+      "remark": "50% off",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:21:20",
+      "lastUpdated": "2026-08-21T10:51:20.932Z"
     }
   },
   "showroomVisits": {
@@ -34217,6 +34231,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:21:20",
+      "iso": "2026-08-21T10:51:20.935Z",
+      "action": "updated remark for LF-ORGN-BDQ-CLM-S at GALLE B: “50% off”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:21:12",
+      "iso": "2026-08-21T10:51:12.647Z",
+      "action": "updated remark for KN-ST848 at GALLE B: “Report for 2000”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-21",
       "time": "16:21:18",
@@ -34551,20 +34579,6 @@
       "time": "16:05:42",
       "iso": "2026-08-21T10:35:42.333Z",
       "action": "updated remark for MCS-730-4 at KANDANA: “Shop use”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:04:59",
-      "iso": "2026-08-21T10:34:59.524Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KANDANA: “Promotion already offered”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:04:55",
-      "iso": "2026-08-21T10:34:55.216Z",
-      "action": "updated remark for SMG-A36-5G-8-128-BLK at GALLE B: “-”"
     }
   ]
 }
