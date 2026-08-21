@@ -33207,6 +33207,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:20:13",
       "lastUpdated": "2026-08-21T10:50:13.927Z"
+    },
+    "R-BWS-02||MATALE - B": {
+      "remark": "15%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:20:36",
+      "lastUpdated": "2026-08-21T10:50:36.303Z"
     }
   },
   "showroomVisits": {
@@ -34177,6 +34184,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "16:20:36",
+      "iso": "2026-08-21T10:50:36.304Z",
+      "action": "updated remark for R-BWS-02 at MATALE - B: “15%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "16:20:17",
       "iso": "2026-08-21T10:50:17.993Z",
       "action": "updated remark for PN-SC-AKX910GSK at MATALE - B: “Revert Damaged - 70%”"
@@ -34516,13 +34530,6 @@
       "time": "16:01:04",
       "iso": "2026-08-21T10:31:04.646Z",
       "action": "updated remark for LF-BUDGET-ST-AGO-S at KANDANA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:00:38",
-      "iso": "2026-08-21T10:30:38.112Z",
-      "action": "updated remark for LF-BUDGET-DT-CRW-S at KANDANA: “50%”"
     }
   ]
 }
