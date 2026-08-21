@@ -33704,6 +33704,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:47:52",
       "lastUpdated": "2026-08-21T11:17:52.010Z"
+    },
+    "SMGUA32N4010||GALLE B": {
+      "remark": "Damaged Panel",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:48:03",
+      "lastUpdated": "2026-08-21T11:18:03.011Z"
     }
   },
   "showroomVisits": {
@@ -34674,6 +34681,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-21",
+      "time": "16:48:03",
+      "iso": "2026-08-21T11:18:03.014Z",
+      "action": "updated remark for SMGUA32N4010 at GALLE B: “Damaged Panel”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
       "time": "16:47:52",
       "iso": "2026-08-21T11:17:52.012Z",
       "action": "updated remark for SMW823AY7 at GALLE B: “45% OFF”"
@@ -35013,13 +35027,6 @@
       "time": "16:31:08",
       "iso": "2026-08-21T11:01:08.382Z",
       "action": "updated remark for MID-D30-20EVN1 at GALLE B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:31:00",
-      "iso": "2026-08-21T11:01:00.857Z",
-      "action": "updated remark for MID-D15-20EVN1 at GALLE B: “-”"
     }
   ]
 }
