@@ -32878,6 +32878,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:59:39",
       "lastUpdated": "2026-08-21T10:29:39.352Z"
+    },
+    "KN-SMP01||KANDANA": {
+      "remark": "Already Provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:00:16",
+      "lastUpdated": "2026-08-21T10:30:16.685Z"
     }
   },
   "showroomVisits": {
@@ -33846,6 +33853,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "16:00:16",
+      "iso": "2026-08-21T10:30:16.686Z",
+      "action": "updated remark for KN-SMP01 at KANDANA: “Already Provided”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "15:59:39",
@@ -34187,13 +34201,6 @@
       "time": "15:08:20",
       "iso": "2026-08-21T09:38:20.705Z",
       "action": "updated remark for DH-I-F22FP-36B-IMOU at KANDANA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:07:59",
-      "iso": "2026-08-21T09:37:59.618Z",
-      "action": "updated remark for CLIP-MCW-4 at KANDANA: “Shop use”"
     }
   ]
 }
