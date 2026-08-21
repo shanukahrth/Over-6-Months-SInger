@@ -32997,6 +32997,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:10:27",
       "lastUpdated": "2026-08-21T10:40:27.842Z"
+    },
+    "FAN-VIERA-TEAK||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:14:51",
+      "lastUpdated": "2026-08-21T10:44:51.089Z"
+    },
+    "FAN-VIERA-TEAK-WL||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:15:00",
+      "lastUpdated": "2026-08-21T10:45:00.865Z"
     }
   },
   "showroomVisits": {
@@ -33965,6 +33979,27 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:15:00",
+      "iso": "2026-08-21T10:45:00.868Z",
+      "action": "updated remark for FAN-VIERA-TEAK-WL at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:14:51",
+      "iso": "2026-08-21T10:44:51.091Z",
+      "action": "updated remark for FAN-VIERA-TEAK at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:14:43",
+      "iso": "2026-08-21T10:44:43.903Z",
+      "action": "updated remark for FAN-VIERA-TEAK at GALLE B: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "16:10:27",
@@ -34292,27 +34327,6 @@
       "time": "15:29:47",
       "iso": "2026-08-21T09:59:47.618Z",
       "action": "updated remark for 123453224 at MATALE - B: “Damaged - 75%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:28:19",
-      "iso": "2026-08-21T09:58:19.362Z",
-      "action": "updated remark for HFPA-GRAVITY-BLU at KANDANA: “Rs.24,000/- Special Price”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:27:16",
-      "iso": "2026-08-21T09:57:16.612Z",
-      "action": "updated remark for HFPA-EVENT-BLC at KANDANA: “Rs.20,000/- Special Price”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "15:26:51",
-      "iso": "2026-08-21T09:56:51.532Z",
-      "action": "updated remark for HON-PAD-X9-CV at MATALE - B: “Free Issue”"
     }
   ]
 }
