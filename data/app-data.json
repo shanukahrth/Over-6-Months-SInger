@@ -33179,6 +33179,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:19:11",
       "lastUpdated": "2026-08-21T10:49:11.374Z"
+    },
+    "NCPO-OT275||MATALE - B": {
+      "remark": "Damaged - 25%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:19:17",
+      "lastUpdated": "2026-08-21T10:49:17.492Z"
     }
   },
   "showroomVisits": {
@@ -34147,6 +34154,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:19:17",
+      "iso": "2026-08-21T10:49:17.494Z",
+      "action": "updated remark for NCPO-OT275 at MATALE - B: “Damaged - 25%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:19:11",
@@ -34488,13 +34502,6 @@
       "time": "15:57:14",
       "iso": "2026-08-21T10:27:14.342Z",
       "action": "updated remark for AS-ZEN-15G-U5-1TB-328-SIL at KATUGASTOTA (cleared)"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:47:00",
-      "iso": "2026-08-21T10:17:00.116Z",
-      "action": "updated remark for KLV-40W652D at KANDANA: “Exchange PO pending”"
     }
   ]
 }
