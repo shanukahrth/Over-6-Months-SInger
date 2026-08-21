@@ -33802,6 +33802,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:44:19",
       "lastUpdated": "2026-08-21T12:14:19.891Z"
+    },
+    "DH-ST1000VX001||MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:44:34",
+      "lastUpdated": "2026-08-21T12:14:34.123Z"
     }
   },
   "showroomVisits": {
@@ -34772,6 +34779,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:44:34",
+      "iso": "2026-08-21T12:14:34.124Z",
+      "action": "updated remark for DH-ST1000VX001 at MATALE: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:44:19",
       "iso": "2026-08-21T12:14:19.892Z",
       "action": "updated remark for DH-A-HFW1209CMP-A-LED-36B at MATALE: “Damaged - 85%”"
@@ -35111,13 +35125,6 @@
       "time": "16:41:01",
       "iso": "2026-08-21T11:11:01.392Z",
       "action": "updated remark for PN-TH-65MX740N at GALLE B: “454% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:40:54",
-      "iso": "2026-08-21T11:10:54.054Z",
-      "action": "updated remark for PN-TH-32M402N at GALLE B: “45% OFF”"
     }
   ]
 }
