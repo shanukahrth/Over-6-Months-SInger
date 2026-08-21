@@ -33774,6 +33774,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:43:15",
       "lastUpdated": "2026-08-21T12:13:15.879Z"
+    },
+    "CCTV-UPS-DCP-650||MATALE": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:43:32",
+      "lastUpdated": "2026-08-21T12:13:32.314Z"
     }
   },
   "showroomVisits": {
@@ -34744,6 +34751,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:43:32",
+      "iso": "2026-08-21T12:13:32.314Z",
+      "action": "updated remark for CCTV-UPS-DCP-650 at MATALE: “Damaged - 80%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:43:15",
       "iso": "2026-08-21T12:13:15.881Z",
       "action": "updated remark for BDP-SI200 at MATALE: “Damaged - 75%”"
@@ -35083,13 +35097,6 @@
       "time": "16:40:15",
       "iso": "2026-08-21T11:10:15.409Z",
       "action": "updated remark for PN-SC-BMAX10E-K at GALLE B: “40% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:36:11",
-      "iso": "2026-08-21T11:06:11.835Z",
-      "action": "updated remark for SIN-RFC-2058 at GALLE B: “35% OFF”"
     }
   ]
 }
