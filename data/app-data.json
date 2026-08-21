@@ -33018,6 +33018,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:14:56",
       "lastUpdated": "2026-08-21T10:44:56.348Z"
+    },
+    "NCPO-DC200||KANDANA": {
+      "remark": "Already Provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:15:21",
+      "lastUpdated": "2026-08-21T10:45:21.588Z"
     }
   },
   "showroomVisits": {
@@ -33988,6 +33995,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "16:15:21",
+      "iso": "2026-08-21T10:45:21.592Z",
+      "action": "updated remark for NCPO-DC200 at KANDANA: “Already Provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "16:14:56",
       "iso": "2026-08-21T10:44:56.351Z",
       "action": "updated remark for NCPDG-OT250 at KANDANA: “Already Provided”"
@@ -34327,13 +34341,6 @@
       "time": "15:33:32",
       "iso": "2026-08-21T10:03:32.299Z",
       "action": "updated remark for DELL3511-I3-4GB256-SIL at GALLE B: “Report for 120,000”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "15:32:54",
-      "iso": "2026-08-21T10:02:54.776Z",
-      "action": "updated remark for DELL-BAC-ADPT65W at GALLE B: “rReport for 2000”"
     }
   ]
 }
