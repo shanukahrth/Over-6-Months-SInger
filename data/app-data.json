@@ -33074,6 +33074,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:16:12",
       "lastUpdated": "2026-08-21T10:46:12.426Z"
+    },
+    "DH-I-A22EP-G-IMOU||MATALE - B": {
+      "remark": "Display - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:16:35",
+      "lastUpdated": "2026-08-21T10:46:35.114Z"
     }
   },
   "showroomVisits": {
@@ -34042,6 +34049,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:16:35",
+      "iso": "2026-08-21T10:46:35.115Z",
+      "action": "updated remark for DH-I-A22EP-G-IMOU at MATALE - B: “Display - 80%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:16:12",
@@ -34383,13 +34397,6 @@
       "time": "15:37:07",
       "iso": "2026-08-21T10:07:07.810Z",
       "action": "updated remark for HON-X7C-8-256-BLK at GALLE B: “Exchange”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:36:56",
-      "iso": "2026-08-21T10:06:56.250Z",
-      "action": "updated remark for HON-H400PRO-12-512-BLK at KANDANA: “sold”"
     }
   ]
 }
