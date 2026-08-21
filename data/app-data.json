@@ -5881,11 +5881,11 @@
       "lastUpdated": "2026-08-21T10:57:53.004Z"
     },
     "DELL3530-I7-8GB512-BLK||MATALE": {
-      "remark": "Damage - 60%",
+      "remark": "Damaged - 60%",
       "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "16:08:21",
-      "lastUpdated": "2026-08-17T10:38:21.113Z"
+      "commentDate": "2026-08-21",
+      "commentTime": "16:28:03",
+      "lastUpdated": "2026-08-21T10:58:03.092Z"
     },
     "AES-HAV-30S||MATALE": {
       "remark": "10%",
@@ -34331,6 +34331,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "16:28:03",
+      "iso": "2026-08-21T10:58:03.093Z",
+      "action": "updated remark for DELL3530-I7-8GB512-BLK at MATALE: “Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "16:27:53",
       "iso": "2026-08-21T10:57:53.004Z",
       "action": "updated remark for DELL3511-I5-4G1TBMX-W11SL at MATALE: “Revert Damaged - 70%”"
@@ -34670,13 +34677,6 @@
       "time": "16:16:35",
       "iso": "2026-08-21T10:46:35.115Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at MATALE - B: “Display - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:16:12",
-      "iso": "2026-08-21T10:46:12.429Z",
-      "action": "updated remark for H-RSQG018MFEOE at GALLE B: “-”"
     }
   ]
 }
