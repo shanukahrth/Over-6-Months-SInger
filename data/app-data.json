@@ -33823,6 +33823,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:45:13",
       "lastUpdated": "2026-08-21T12:15:13.560Z"
+    },
+    "FAN-WF1608R||MATALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:45:34",
+      "lastUpdated": "2026-08-21T12:15:34.488Z"
     }
   },
   "showroomVisits": {
@@ -34793,6 +34800,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:45:34",
+      "iso": "2026-08-21T12:15:34.489Z",
+      "action": "updated remark for FAN-WF1608R at MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:45:13",
       "iso": "2026-08-21T12:15:13.561Z",
       "action": "updated remark for FAN-P-1605H at MATALE: “Damaged - 70%”"
@@ -35132,13 +35146,6 @@
       "time": "16:42:31",
       "iso": "2026-08-21T11:12:31.027Z",
       "action": "updated remark for SIN-DEC-DCWL at GALLE B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:42:10",
-      "iso": "2026-08-21T11:12:10.378Z",
-      "action": "updated remark for SMGAR50F24D1J at GALLE B: “30% OFF”"
     }
   ]
 }
