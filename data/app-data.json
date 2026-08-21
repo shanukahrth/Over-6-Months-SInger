@@ -32493,6 +32493,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:47:07",
       "lastUpdated": "2026-08-21T09:17:07.848Z"
+    },
+    "LP-AP01||WATTALA": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:47:49",
+      "lastUpdated": "2026-08-21T09:17:49.959Z"
     }
   },
   "showroomVisits": {
@@ -33463,6 +33470,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:47:49",
+      "iso": "2026-08-21T09:17:49.961Z",
+      "action": "updated remark for LP-AP01 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:47:07",
       "iso": "2026-08-21T09:17:07.849Z",
       "action": "updated remark for NCPO-FP280 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
@@ -33802,13 +33816,6 @@
       "time": "14:29:33",
       "iso": "2026-08-21T08:59:33.519Z",
       "action": "updated remark for MID-D30-20EVN1 at WATTALA: “Display 1 unit - 10% additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:29:11",
-      "iso": "2026-08-21T08:59:11.451Z",
-      "action": "updated remark for SMG-A17-8-256-GRY at WATTALA: “15% - Additional unboxed”"
     }
   ]
 }
