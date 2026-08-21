@@ -32444,6 +32444,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:43:58",
       "lastUpdated": "2026-08-21T09:13:58.332Z"
+    },
+    "MCT-302N-4||WATTALA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:44:39",
+      "lastUpdated": "2026-08-21T09:14:39.904Z"
     }
   },
   "showroomVisits": {
@@ -33414,6 +33421,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:44:39",
+      "iso": "2026-08-21T09:14:39.906Z",
+      "action": "updated remark for MCT-302N-4 at WATTALA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:43:58",
       "iso": "2026-08-21T09:13:58.333Z",
       "action": "updated remark for TF-NIFP28-042 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
@@ -33753,13 +33767,6 @@
       "time": "14:25:56",
       "iso": "2026-08-21T08:55:56.447Z",
       "action": "updated remark for BES-CRS-51 at WATTALA: “No discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:24:52",
-      "iso": "2026-08-21T08:54:52.019Z",
-      "action": "updated remark for SMGUA43T5400 at WATTALA: “Rs.100,000/- Special Price”"
     }
   ]
 }
