@@ -32591,6 +32591,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:09:37",
       "lastUpdated": "2026-08-21T09:39:37.327Z"
+    },
+    "DUM-SMGAR50F12D0J||KANDANA": {
+      "remark": "Dummy",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:12:11",
+      "lastUpdated": "2026-08-21T09:42:11.302Z"
     }
   },
   "showroomVisits": {
@@ -33561,6 +33568,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "15:12:11",
+      "iso": "2026-08-21T09:42:11.303Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at KANDANA: “Dummy”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "15:09:37",
       "iso": "2026-08-21T09:39:37.330Z",
       "action": "updated remark for DH-XVR1B04-I at KANDANA: “70%”"
@@ -33900,13 +33914,6 @@
       "time": "14:34:40",
       "iso": "2026-08-21T09:04:40.355Z",
       "action": "updated remark for ZTE-A53-2GB-32GB-GRY at KIRIBATHGODA B: “5%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "14:34:16",
-      "iso": "2026-08-21T09:04:16.731Z",
-      "action": "updated remark for ZTE-A36-2-64GB-BLK at KIRIBATHGODA B: “15%”"
     }
   ]
 }
