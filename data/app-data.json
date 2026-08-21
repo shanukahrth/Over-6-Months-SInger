@@ -32801,6 +32801,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:38:07",
       "lastUpdated": "2026-08-21T10:08:07.357Z"
+    },
+    "HU-E97130089E||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:38:23",
+      "lastUpdated": "2026-08-21T10:08:23.818Z"
+    },
+    "HU-E97130292E||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:38:28",
+      "lastUpdated": "2026-08-21T10:08:28.058Z"
     }
   },
   "showroomVisits": {
@@ -33769,6 +33783,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "15:38:28",
+      "iso": "2026-08-21T10:08:28.058Z",
+      "action": "updated remark for HU-E97130292E at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "15:38:23",
+      "iso": "2026-08-21T10:08:23.819Z",
+      "action": "updated remark for HU-E97130089E at GALLE B: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "15:38:07",
@@ -34103,20 +34131,6 @@
       "time": "14:46:47",
       "iso": "2026-08-21T09:16:47.420Z",
       "action": "updated remark for TF-TW26-064 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:46:13",
-      "iso": "2026-08-21T09:16:13.366Z",
-      "action": "updated remark for SIN-RFC-2012 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:45:58",
-      "iso": "2026-08-21T09:15:58.344Z",
-      "action": "updated remark for SIN-RFC-1819 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
     }
   ]
 }
