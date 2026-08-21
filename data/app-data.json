@@ -33123,6 +33123,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:17:18",
       "lastUpdated": "2026-08-21T10:47:18.728Z"
+    },
+    "ENG-UE10054||MATALE - B": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:17:27",
+      "lastUpdated": "2026-08-21T10:47:27.687Z"
     }
   },
   "showroomVisits": {
@@ -34091,6 +34098,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:17:27",
+      "iso": "2026-08-21T10:47:27.689Z",
+      "action": "updated remark for ENG-UE10054 at MATALE - B: “Damaged - 85%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:17:18",
@@ -34432,13 +34446,6 @@
       "time": "15:38:37",
       "iso": "2026-08-21T10:08:37.057Z",
       "action": "updated remark for HON-X6A-4-128-SKYBLU at KANDANA: “Not in a sellable condition”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "15:38:28",
-      "iso": "2026-08-21T10:08:28.058Z",
-      "action": "updated remark for HU-E97130292E at GALLE B: “-”"
     }
   ]
 }
