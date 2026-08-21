@@ -33949,6 +33949,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:53:18",
       "lastUpdated": "2026-08-21T12:23:18.196Z"
+    },
+    "PF-CAFE-NEW-RW-S||MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:53:36",
+      "lastUpdated": "2026-08-21T12:23:36.303Z"
+    },
+    "PF-CAFE-NEW-WF-S||MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:53:38",
+      "lastUpdated": "2026-08-21T12:23:38.513Z"
     }
   },
   "showroomVisits": {
@@ -34919,6 +34933,20 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:53:38",
+      "iso": "2026-08-21T12:23:38.514Z",
+      "action": "updated remark for PF-CAFE-NEW-WF-S at MATALE: “Damaged - 30%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "17:53:36",
+      "iso": "2026-08-21T12:23:36.304Z",
+      "action": "updated remark for PF-CAFE-NEW-RW-S at MATALE: “Damaged - 30%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:53:18",
       "iso": "2026-08-21T12:23:18.197Z",
       "action": "updated remark for PCP30 at MATALE: “Damaged - 70%”"
@@ -35251,20 +35279,6 @@
       "time": "16:46:10",
       "iso": "2026-08-21T11:16:10.186Z",
       "action": "updated remark for TF-SP16-063 at GALLE B: “35% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:46:01",
-      "iso": "2026-08-21T11:16:01.604Z",
-      "action": "updated remark for TF-SI-EXS1230 at GALLE B: “35% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:45:54",
-      "iso": "2026-08-21T11:15:54.981Z",
-      "action": "updated remark for TF-NIK26-045 at GALLE B: “35% OFF”"
     }
   ]
 }
