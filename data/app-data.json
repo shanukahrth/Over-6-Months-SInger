@@ -32143,6 +32143,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:26:15",
       "lastUpdated": "2026-08-21T08:56:15.184Z"
+    },
+    "PN-TH-32P401N||WATTALA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:26:34",
+      "lastUpdated": "2026-08-21T08:56:34.570Z"
     }
   },
   "showroomVisits": {
@@ -33113,6 +33120,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:26:34",
+      "iso": "2026-08-21T08:56:34.572Z",
+      "action": "updated remark for PN-TH-32P401N at WATTALA: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:26:15",
       "iso": "2026-08-21T08:56:15.186Z",
       "action": "updated remark for BES-CRS-51 at WATTALA: “50%”"
@@ -33452,13 +33466,6 @@
       "time": "14:01:18",
       "iso": "2026-08-21T08:31:18.624Z",
       "action": "updated remark for SLE55D1800TC at KIRIBATHGODA B: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:00:53",
-      "iso": "2026-08-21T08:30:53.984Z",
-      "action": "updated remark for USHA-FS40-13B at PELIYAGODA: “No discount”"
     }
   ]
 }
