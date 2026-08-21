@@ -5951,11 +5951,11 @@
       "lastUpdated": "2026-08-21T10:59:48.391Z"
     },
     "HON-X9B-12-256-ORG||MATALE": {
-      "remark": "Damaged - 70%",
+      "remark": "Damaged - 75%",
       "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "16:22:13",
-      "lastUpdated": "2026-08-17T10:52:13.069Z"
+      "commentDate": "2026-08-21",
+      "commentTime": "16:30:27",
+      "lastUpdated": "2026-08-21T11:00:27.072Z"
     },
     "HON-X9C-12-256-GRN||MATALE": {
       "remark": "Damaged - 30%",
@@ -34366,6 +34366,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "16:30:27",
+      "iso": "2026-08-21T11:00:27.072Z",
+      "action": "updated remark for HON-X9B-12-256-ORG at MATALE: “Damaged - 75%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "16:29:48",
       "iso": "2026-08-21T10:59:48.392Z",
       "action": "updated remark for HON-X8C-8-512-WHT at MATALE: “Damaged - 80%”"
@@ -34705,13 +34712,6 @@
       "time": "16:17:53",
       "iso": "2026-08-21T10:47:53.667Z",
       "action": "updated remark for FAN-P-1605H at MATALE - B: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:17:27",
-      "iso": "2026-08-21T10:47:27.689Z",
-      "action": "updated remark for ENG-UE10054 at MATALE - B: “Damaged - 85%”"
     }
   ]
 }
