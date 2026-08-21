@@ -32906,6 +32906,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:03:11",
       "lastUpdated": "2026-08-21T10:33:11.043Z"
+    },
+    "LF-OPENSR-CKT-S||KANDANA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:03:40",
+      "lastUpdated": "2026-08-21T10:33:40.191Z"
     }
   },
   "showroomVisits": {
@@ -33876,6 +33883,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "16:03:40",
+      "iso": "2026-08-21T10:33:40.192Z",
+      "action": "updated remark for LF-OPENSR-CKT-S at KANDANA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "16:03:11",
       "iso": "2026-08-21T10:33:11.044Z",
       "action": "updated remark for LF-BUDGET-ST-CRW-S at KANDANA: “50%”"
@@ -34215,13 +34229,6 @@
       "time": "15:12:11",
       "iso": "2026-08-21T09:42:11.303Z",
       "action": "updated remark for DUM-SMGAR50F12D0J at KANDANA: “Dummy”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:09:37",
-      "iso": "2026-08-21T09:39:37.330Z",
-      "action": "updated remark for DH-XVR1B04-I at KANDANA: “70%”"
     }
   ]
 }
