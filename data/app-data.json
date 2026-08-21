@@ -5874,11 +5874,11 @@
       "lastUpdated": "2026-08-17T10:37:48.569Z"
     },
     "DELL3511-I5-4G1TBMX-W11SL||MATALE": {
-      "remark": "Revert - 70%",
+      "remark": "Revert Damaged - 70%",
       "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "16:07:57",
-      "lastUpdated": "2026-08-17T10:37:57.807Z"
+      "commentDate": "2026-08-21",
+      "commentTime": "16:27:53",
+      "lastUpdated": "2026-08-21T10:57:53.004Z"
     },
     "DELL3530-I7-8GB512-BLK||MATALE": {
       "remark": "Damage - 60%",
@@ -34329,6 +34329,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
+      "time": "16:27:53",
+      "iso": "2026-08-21T10:57:53.004Z",
+      "action": "updated remark for DELL3511-I5-4G1TBMX-W11SL at MATALE: “Revert Damaged - 70%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "16:27:21",
@@ -34670,13 +34677,6 @@
       "time": "16:16:12",
       "iso": "2026-08-21T10:46:12.429Z",
       "action": "updated remark for H-RSQG018MFEOE at GALLE B: “-”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:16:01",
-      "iso": "2026-08-21T10:46:01.084Z",
-      "action": "updated remark for CAN-C-745-B at MATALE - B: “Damaged - 70%”"
     }
   ]
 }
