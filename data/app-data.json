@@ -33333,6 +33333,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:26:12",
       "lastUpdated": "2026-08-21T10:56:12.664Z"
+    },
+    "NCPDG-SET3||GALLE B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:26:51",
+      "lastUpdated": "2026-08-21T10:56:51.264Z"
+    },
+    "NCPO-FP250||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:26:57",
+      "lastUpdated": "2026-08-21T10:56:57.975Z"
     }
   },
   "showroomVisits": {
@@ -34301,6 +34315,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:26:57",
+      "iso": "2026-08-21T10:56:57.977Z",
+      "action": "updated remark for NCPO-FP250 at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:26:51",
+      "iso": "2026-08-21T10:56:51.266Z",
+      "action": "updated remark for NCPDG-SET3 at GALLE B: “50% OFF”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-21",
       "time": "16:26:12",
@@ -34635,20 +34663,6 @@
       "time": "16:15:57",
       "iso": "2026-08-21T10:45:57.638Z",
       "action": "updated remark for H-HMR-DG2312 at GALLE B: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:15:47",
-      "iso": "2026-08-21T10:45:47.545Z",
-      "action": "updated remark for NCPO-FP200 at KANDANA: “Already Provided”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:15:20",
-      "iso": "2026-08-21T10:45:20.602Z",
-      "action": "updated remark for FT-FCD-12L04-BS at GALLE B: “70% OFF”"
     }
   ]
 }
