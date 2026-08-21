@@ -32395,6 +32395,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:41:37",
       "lastUpdated": "2026-08-21T09:11:37.124Z"
+    },
+    "FT-FED-35001||WATTALA": {
+      "remark": "0%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:41:54",
+      "lastUpdated": "2026-08-21T09:11:54.270Z"
     }
   },
   "showroomVisits": {
@@ -33365,6 +33372,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:41:54",
+      "iso": "2026-08-21T09:11:54.271Z",
+      "action": "updated remark for FT-FED-35001 at WATTALA: “0%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:41:37",
       "iso": "2026-08-21T09:11:37.127Z",
       "action": "updated remark for AES-HAV-615D at WATTALA: “No discount”"
@@ -33704,13 +33718,6 @@
       "time": "14:22:21",
       "iso": "2026-08-21T08:52:21.203Z",
       "action": "updated remark for B-RDNI270XIB100P at WATTALA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:21:50",
-      "iso": "2026-08-21T08:51:50.815Z",
-      "action": "updated remark for WP-WDC11704RG-G at WATTALA: “additional 10% - Display”"
     }
   ]
 }
