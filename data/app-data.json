@@ -32542,6 +32542,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:06:43",
       "lastUpdated": "2026-08-21T09:36:43.071Z"
+    },
+    "BES-CRS-51||KANDANA": {
+      "remark": "10%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:07:12",
+      "lastUpdated": "2026-08-21T09:37:12.856Z"
     }
   },
   "showroomVisits": {
@@ -33512,6 +33519,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "15:07:12",
+      "iso": "2026-08-21T09:37:12.858Z",
+      "action": "updated remark for BES-CRS-51 at KANDANA: “10%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "15:06:43",
       "iso": "2026-08-21T09:36:43.073Z",
       "action": "updated remark for B-RDNI315XIB300P at KANDANA: “50%”"
@@ -33851,13 +33865,6 @@
       "time": "14:32:44",
       "iso": "2026-08-21T09:02:44.310Z",
       "action": "updated remark for SIN-PR-K340 at WATTALA: “30%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "14:32:30",
-      "iso": "2026-08-21T09:02:30.328Z",
-      "action": "updated remark for WP-WRN25LX at KIRIBATHGODA B: “80%”"
     }
   ]
 }
