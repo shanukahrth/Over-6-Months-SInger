@@ -33795,6 +33795,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:44:09",
       "lastUpdated": "2026-08-21T12:14:09.469Z"
+    },
+    "DH-A-HFW1209CMP-A-LED-36B||MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:44:19",
+      "lastUpdated": "2026-08-21T12:14:19.891Z"
     }
   },
   "showroomVisits": {
@@ -34765,6 +34772,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:44:19",
+      "iso": "2026-08-21T12:14:19.892Z",
+      "action": "updated remark for DH-A-HFW1209CMP-A-LED-36B at MATALE: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:44:09",
       "iso": "2026-08-21T12:14:09.471Z",
       "action": "updated remark for DH-A-B1A21P-36B at MATALE: “Damaged - 85%”"
@@ -35104,13 +35118,6 @@
       "time": "16:40:54",
       "iso": "2026-08-21T11:10:54.054Z",
       "action": "updated remark for PN-TH-32M402N at GALLE B: “45% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:40:47",
-      "iso": "2026-08-21T11:10:47.570Z",
-      "action": "updated remark for PN-TH-32M401N at GALLE B: “-”"
     }
   ]
 }
