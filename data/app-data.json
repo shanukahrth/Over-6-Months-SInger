@@ -32499,9 +32499,22 @@
       "comment": "Return to WH",
       "updatedBy": "Maria Fernando",
       "updatedDate": "2026-08-21"
+    },
+    "RIYLTA-MF12V4||KIRIBATHGODA B": {
+      "sold": false,
+      "comment": "Return to WH",
+      "updatedBy": "Maria Fernando",
+      "updatedDate": "2026-08-21"
     }
   },
   "activity": [
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "13:46:52",
+      "iso": "2026-08-21T08:16:52.206Z",
+      "action": "updated sold comment for RIYLTA-MF12V4 at KIRIBATHGODA B: “Return to WH”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
@@ -32844,13 +32857,6 @@
       "time": "16:32:29",
       "iso": "2026-08-20T11:02:29.840Z",
       "action": "updated NIKAWARATIYA - B showroom (visitDate: 2026-08-18)"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-20",
-      "time": "16:31:37",
-      "iso": "2026-08-20T11:01:37.788Z",
-      "action": "updated MELSIRIPURA showroom (visitDate: 2026-08-18)"
     }
   ]
 }
