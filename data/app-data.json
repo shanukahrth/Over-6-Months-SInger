@@ -32549,6 +32549,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:07:12",
       "lastUpdated": "2026-08-21T09:37:12.856Z"
+    },
+    "BR-1||KANDANA": {
+      "remark": "Shop use",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:07:37",
+      "lastUpdated": "2026-08-21T09:37:37.623Z"
     }
   },
   "showroomVisits": {
@@ -33519,6 +33526,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "15:07:37",
+      "iso": "2026-08-21T09:37:37.624Z",
+      "action": "updated remark for BR-1 at KANDANA: “Shop use”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "15:07:12",
       "iso": "2026-08-21T09:37:12.858Z",
       "action": "updated remark for BES-CRS-51 at KANDANA: “10%”"
@@ -33858,13 +33872,6 @@
       "time": "14:33:04",
       "iso": "2026-08-21T09:03:04.277Z",
       "action": "updated remark for PN-TH-32MS670N at WATTALA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:32:44",
-      "iso": "2026-08-21T09:02:44.310Z",
-      "action": "updated remark for SIN-PR-K340 at WATTALA: “30%”"
     }
   ]
 }
