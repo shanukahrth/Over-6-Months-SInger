@@ -32698,11 +32698,11 @@
       "lastUpdated": "2026-08-21T09:59:47.617Z"
     },
     "DELL-BAC-ADPT65W||GALLE B": {
-      "remark": "rReport for 2000",
+      "remark": "Report for 2000",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-21",
-      "commentTime": "15:32:54",
-      "lastUpdated": "2026-08-21T10:02:54.775Z"
+      "commentTime": "15:58:39",
+      "lastUpdated": "2026-08-21T10:28:39.032Z"
     },
     "DELL3511-I3-4GB256-SIL||GALLE B": {
       "remark": "Report for 120,000",
@@ -33839,6 +33839,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "15:58:39",
+      "iso": "2026-08-21T10:28:39.034Z",
+      "action": "updated remark for DELL-BAC-ADPT65W at GALLE B: “Report for 2000”"
+    },
+    {
       "user": "Kaveesha Sathsarani",
       "date": "2026-08-21",
       "time": "15:57:14",
@@ -34180,13 +34187,6 @@
       "time": "15:07:37",
       "iso": "2026-08-21T09:37:37.624Z",
       "action": "updated remark for BR-1 at KANDANA: “Shop use”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:07:12",
-      "iso": "2026-08-21T09:37:12.858Z",
-      "action": "updated remark for BES-CRS-51 at KANDANA: “10%”"
     }
   ]
 }
