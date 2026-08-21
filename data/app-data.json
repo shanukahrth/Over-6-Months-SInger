@@ -32430,6 +32430,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:43:20",
       "lastUpdated": "2026-08-21T09:13:20.866Z"
+    },
+    "BD-BDCS36F-IN||WATTALA": {
+      "remark": "0%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:43:39",
+      "lastUpdated": "2026-08-21T09:13:39.486Z"
     }
   },
   "showroomVisits": {
@@ -33400,6 +33407,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:43:39",
+      "iso": "2026-08-21T09:13:39.487Z",
+      "action": "updated remark for BD-BDCS36F-IN at WATTALA: “0%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:43:20",
       "iso": "2026-08-21T09:13:20.869Z",
       "action": "updated remark for TF-SP16-063 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
@@ -33739,13 +33753,6 @@
       "time": "14:24:29",
       "iso": "2026-08-21T08:54:29.935Z",
       "action": "updated remark for WP-NEO258NF at WATTALA: “30%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "14:24:25",
-      "iso": "2026-08-21T08:54:25.642Z",
-      "action": "updated remark for UJB-LB6027 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
     }
   ]
 }
