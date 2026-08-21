@@ -33837,6 +33837,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:46:07",
       "lastUpdated": "2026-08-21T12:16:07.776Z"
+    },
+    "H-CVW1600||MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:46:39",
+      "lastUpdated": "2026-08-21T12:16:39.488Z"
     }
   },
   "showroomVisits": {
@@ -34807,6 +34814,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:46:39",
+      "iso": "2026-08-21T12:16:39.489Z",
+      "action": "updated remark for H-CVW1600 at MATALE: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:46:07",
       "iso": "2026-08-21T12:16:07.778Z",
       "action": "updated remark for GEO-182S-BU1 at MATALE: “Damaged - 35%”"
@@ -35146,13 +35160,6 @@
       "time": "16:43:30",
       "iso": "2026-08-21T11:13:30.435Z",
       "action": "updated remark for HU-SECURITY at MATALE: “Drop”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:42:37",
-      "iso": "2026-08-21T11:12:37.547Z",
-      "action": "updated remark for SIN-DEC-FDC at GALLE B: “-”"
     }
   ]
 }
