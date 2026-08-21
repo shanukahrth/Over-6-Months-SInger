@@ -32913,6 +32913,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:03:40",
       "lastUpdated": "2026-08-21T10:33:40.191Z"
+    },
+    "LF-OX-BR-L-AGO-S||KANDANA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:04:14",
+      "lastUpdated": "2026-08-21T10:34:14.083Z"
     }
   },
   "showroomVisits": {
@@ -33883,6 +33890,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "16:04:14",
+      "iso": "2026-08-21T10:34:14.086Z",
+      "action": "updated remark for LF-OX-BR-L-AGO-S at KANDANA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "16:03:40",
       "iso": "2026-08-21T10:33:40.192Z",
       "action": "updated remark for LF-OPENSR-CKT-S at KANDANA: “50%”"
@@ -34222,13 +34236,6 @@
       "time": "15:12:38",
       "iso": "2026-08-21T09:42:38.030Z",
       "action": "updated remark for ENG-10015 at KANDANA: “Deffective - Return to WH”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:12:11",
-      "iso": "2026-08-21T09:42:11.303Z",
-      "action": "updated remark for DUM-SMGAR50F12D0J at KANDANA: “Dummy”"
     }
   ]
 }
