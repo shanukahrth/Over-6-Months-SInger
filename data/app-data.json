@@ -33767,6 +33767,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:42:37",
       "lastUpdated": "2026-08-21T12:12:37.614Z"
+    },
+    "BDP-SI200||MATALE": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:43:15",
+      "lastUpdated": "2026-08-21T12:13:15.879Z"
     }
   },
   "showroomVisits": {
@@ -34737,6 +34744,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:43:15",
+      "iso": "2026-08-21T12:13:15.881Z",
+      "action": "updated remark for BDP-SI200 at MATALE: “Damaged - 75%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:42:37",
       "iso": "2026-08-21T12:12:37.615Z",
       "action": "updated remark for ZTE-A75-4GB-256GB-GRN at MATALE: “Can sell this by 31st Aug”"
@@ -35076,13 +35090,6 @@
       "time": "16:36:11",
       "iso": "2026-08-21T11:06:11.835Z",
       "action": "updated remark for SIN-RFC-2058 at GALLE B: “35% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:35:07",
-      "iso": "2026-08-21T11:05:07.030Z",
-      "action": "updated remark for SIN-RFC-2012 at GALLE B: “-”"
     }
   ]
 }
