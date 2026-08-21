@@ -32850,6 +32850,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:40:00",
       "lastUpdated": "2026-08-21T10:10:00.564Z"
+    },
+    "HON-X9C-12-256-BLK||KANDANA": {
+      "remark": "15% - Additional",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:40:38",
+      "lastUpdated": "2026-08-21T10:10:38.432Z"
     }
   },
   "showroomVisits": {
@@ -33818,6 +33825,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
+      "time": "15:40:38",
+      "iso": "2026-08-21T10:10:38.432Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at KANDANA: “15% - Additional”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-21",
       "time": "15:40:00",
@@ -34159,13 +34173,6 @@
       "time": "14:58:31",
       "iso": "2026-08-21T09:28:31.965Z",
       "action": "updated remark for AVERY-300KG at KANDANA: “10%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "14:58:11",
-      "iso": "2026-08-21T09:28:11.075Z",
-      "action": "updated remark for AES-HAV-30S at KANDANA: “10%”"
     }
   ]
 }
