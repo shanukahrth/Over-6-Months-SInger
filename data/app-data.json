@@ -32472,6 +32472,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "14:45:58",
       "lastUpdated": "2026-08-21T09:15:58.343Z"
+    },
+    "SIN-RFC-2012||WATTALA": {
+      "remark": "Provide additional 30% for display units and total upto 80% for damage units",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-21",
+      "commentTime": "14:46:13",
+      "lastUpdated": "2026-08-21T09:16:13.364Z"
     }
   },
   "showroomVisits": {
@@ -33442,6 +33449,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-21",
+      "time": "14:46:13",
+      "iso": "2026-08-21T09:16:13.366Z",
+      "action": "updated remark for SIN-RFC-2012 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
       "time": "14:45:58",
       "iso": "2026-08-21T09:15:58.344Z",
       "action": "updated remark for SIN-RFC-1819 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
@@ -33781,13 +33795,6 @@
       "time": "14:27:22",
       "iso": "2026-08-21T08:57:22.835Z",
       "action": "updated remark for HON-X9C-12-256-GRN at WATTALA: “15% - Additional display”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:27:00",
-      "iso": "2026-08-21T08:57:00.848Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at WATTALA: “60%”"
     }
   ]
 }
