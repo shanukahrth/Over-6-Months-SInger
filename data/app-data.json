@@ -33025,6 +33025,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:15:21",
       "lastUpdated": "2026-08-21T10:45:21.588Z"
+    },
+    "FT-FAG-10002-BS||GALLE B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:15:10",
+      "lastUpdated": "2026-08-21T10:45:10.736Z"
+    },
+    "FT-FCD-12L04-BS||GALLE B": {
+      "remark": "70% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:15:20",
+      "lastUpdated": "2026-08-21T10:45:20.600Z"
     }
   },
   "showroomVisits": {
@@ -33993,6 +34007,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:15:20",
+      "iso": "2026-08-21T10:45:20.602Z",
+      "action": "updated remark for FT-FCD-12L04-BS at GALLE B: “70% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:15:10",
+      "iso": "2026-08-21T10:45:10.739Z",
+      "action": "updated remark for FT-FAG-10002-BS at GALLE B: “50% OFF”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "16:15:21",
@@ -34327,20 +34355,6 @@
       "time": "15:34:26",
       "iso": "2026-08-21T10:04:26.043Z",
       "action": "updated remark for HON-MAGIC-6PRO-GRN at GALLE B: “70% off”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "15:33:45",
-      "iso": "2026-08-21T10:03:45.043Z",
-      "action": "updated remark for HON-BUDS-X6 at KANDANA: “0%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "15:33:32",
-      "iso": "2026-08-21T10:03:32.299Z",
-      "action": "updated remark for DELL3511-I3-4GB256-SIL at GALLE B: “Report for 120,000”"
     }
   ]
 }
