@@ -32633,6 +32633,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "15:15:18",
       "lastUpdated": "2026-08-21T09:45:18.760Z"
+    },
+    "GRIP-8205||KANDANA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-21",
+      "commentTime": "15:16:35",
+      "lastUpdated": "2026-08-21T09:46:35.049Z"
     }
   },
   "showroomVisits": {
@@ -33603,6 +33610,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-21",
+      "time": "15:16:35",
+      "iso": "2026-08-21T09:46:35.051Z",
+      "action": "updated remark for GRIP-8205 at KANDANA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-21",
       "time": "15:15:18",
       "iso": "2026-08-21T09:45:18.762Z",
       "action": "updated remark for GRIP-8201-S at KANDANA: “50%”"
@@ -33942,13 +33956,6 @@
       "time": "14:36:09",
       "iso": "2026-08-21T09:06:09.769Z",
       "action": "updated remark for HON-X7C-8-256-BLK at WATTALA: “15% - Additional display”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-21",
-      "time": "14:35:51",
-      "iso": "2026-08-21T09:05:51.513Z",
-      "action": "updated remark for TF-AF32-577 at WATTALA: “Provide additional 30% for display units and total upto 80% for damage units”"
     }
   ]
 }
