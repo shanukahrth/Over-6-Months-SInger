@@ -33641,6 +33641,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:45:39",
       "lastUpdated": "2026-08-21T11:15:39.674Z"
+    },
+    "TF-NIK26-045||GALLE B": {
+      "remark": "35% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:45:54",
+      "lastUpdated": "2026-08-21T11:15:54.979Z"
+    },
+    "TF-SI-EXS1230||GALLE B": {
+      "remark": "35% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:46:01",
+      "lastUpdated": "2026-08-21T11:16:01.602Z"
     }
   },
   "showroomVisits": {
@@ -34611,6 +34625,27 @@
     {
       "user": "Sulani",
       "date": "2026-08-21",
+      "time": "16:46:01",
+      "iso": "2026-08-21T11:16:01.604Z",
+      "action": "updated remark for TF-SI-EXS1230 at GALLE B: “35% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:45:54",
+      "iso": "2026-08-21T11:15:54.981Z",
+      "action": "updated remark for TF-NIK26-045 at GALLE B: “35% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:45:48",
+      "iso": "2026-08-21T11:15:48.827Z",
+      "action": "updated remark for TF-NIK26-045 at GALLE B: “35% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
       "time": "16:45:39",
       "iso": "2026-08-21T11:15:39.676Z",
       "action": "updated remark for TF-NIGP26-119 at GALLE B: “35% OFF”"
@@ -34936,27 +34971,6 @@
       "time": "16:28:03",
       "iso": "2026-08-21T10:58:03.093Z",
       "action": "updated remark for DELL3530-I7-8GB512-BLK at MATALE: “Damaged - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:27:53",
-      "iso": "2026-08-21T10:57:53.004Z",
-      "action": "updated remark for DELL3511-I5-4G1TBMX-W11SL at MATALE: “Revert Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:27:21",
-      "iso": "2026-08-21T10:57:21.760Z",
-      "action": "updated remark for PH-NHP6306 at GALLE B: “35% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:27:13",
-      "iso": "2026-08-21T10:57:13.518Z",
-      "action": "updated remark for PCR-CASRL20-256 at GALLE B: “-”"
     }
   ]
 }
