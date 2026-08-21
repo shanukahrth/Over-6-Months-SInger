@@ -31949,11 +31949,11 @@
       "lastUpdated": "2026-08-21T08:40:31.336Z"
     },
     "R-BWS-02||PELIYAGODA": {
-      "remark": "Already given",
+      "remark": "R-BWS-02",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-21",
-      "commentTime": "14:13:33",
-      "lastUpdated": "2026-08-21T08:43:33.229Z"
+      "commentTime": "14:14:03",
+      "lastUpdated": "2026-08-21T08:44:03.757Z"
     },
     "SN-SMI-305G||KIRIBATHGODA B": {
       "remark": "Obsolete - Offer flat 50%",
@@ -32971,6 +32971,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-21",
+      "time": "14:14:03",
+      "iso": "2026-08-21T08:44:03.758Z",
+      "action": "updated remark for R-BWS-02 at PELIYAGODA: “R-BWS-02”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-21",
       "time": "14:13:59",
@@ -33312,13 +33319,6 @@
       "time": "13:54:31",
       "iso": "2026-08-21T08:24:31.615Z",
       "action": "updated remark for PN-MC-CG370GS47 at PELIYAGODA: “30%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "13:54:23",
-      "iso": "2026-08-21T08:24:23.628Z",
-      "action": "updated remark for SIN-RFC-2012 at KIRIBATHGODA B: “Provide additional 30% for display units and total upto 80% for damage units”"
     }
   ]
 }
