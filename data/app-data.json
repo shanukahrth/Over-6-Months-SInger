@@ -33921,6 +33921,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:51:37",
       "lastUpdated": "2026-08-21T12:21:37.171Z"
+    },
+    "NB1700T3||MATALE": {
+      "remark": "Sold",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-21",
+      "commentTime": "17:51:50",
+      "lastUpdated": "2026-08-21T12:21:50.974Z"
     }
   },
   "showroomVisits": {
@@ -34891,6 +34898,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-21",
+      "time": "17:51:50",
+      "iso": "2026-08-21T12:21:50.975Z",
+      "action": "updated remark for NB1700T3 at MATALE: “Sold”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-21",
       "time": "17:51:37",
       "iso": "2026-08-21T12:21:37.172Z",
       "action": "updated remark for MD-GSE-L004 at MATALE: “Ok”"
@@ -35230,13 +35244,6 @@
       "time": "16:45:28",
       "iso": "2026-08-21T11:15:28.504Z",
       "action": "updated remark for TF-NIFP28-042 at GALLE B: “35% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:45:22",
-      "iso": "2026-08-21T11:15:22.884Z",
-      "action": "updated remark for TF-GS-SPKT302 at GALLE B: “35% OFF”"
     }
   ]
 }
