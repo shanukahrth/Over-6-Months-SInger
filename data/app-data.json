@@ -32221,9 +32221,29 @@
       "comment": "",
       "updatedBy": "Shanuka Herath",
       "updatedDate": "2026-08-20"
+    },
+    "SAS-12V-INV||PILIYANDALA": {
+      "sold": false,
+      "comment": "",
+      "updatedBy": "Shanuka Herath",
+      "updatedDate": "2026-08-21"
     }
   },
   "activity": [
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-21",
+      "time": "09:36:44",
+      "iso": "2026-08-21T04:06:44.442Z",
+      "action": "marked SAS-12V-INV at PILIYANDALA as Not Sold"
+    },
+    {
+      "user": "Shanuka Herath",
+      "date": "2026-08-21",
+      "time": "09:36:37",
+      "iso": "2026-08-21T04:06:37.089Z",
+      "action": "marked SAS-12V-INV at PILIYANDALA as Sold"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-20",
@@ -32559,20 +32579,6 @@
       "time": "16:11:33",
       "iso": "2026-08-20T10:41:33.027Z",
       "action": "updated NATTANDIYA showroom (team: Wayamba Team)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-20",
-      "time": "16:11:21",
-      "iso": "2026-08-20T10:41:21.399Z",
-      "action": "updated NATTANDIYA showroom (visited: Yes)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-20",
-      "time": "16:11:03",
-      "iso": "2026-08-20T10:41:03.568Z",
-      "action": "updated KULIYAPITIYA showroom (visitDate: 2026-08-19)"
     }
   ]
 }
