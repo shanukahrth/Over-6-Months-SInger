@@ -33536,6 +33536,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:42:10",
       "lastUpdated": "2026-08-21T11:12:10.374Z"
+    },
+    "SIN-DEC-DCWL||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:42:31",
+      "lastUpdated": "2026-08-21T11:12:31.024Z"
+    },
+    "SIN-DEC-FDC||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:42:37",
+      "lastUpdated": "2026-08-21T11:12:37.545Z"
     }
   },
   "showroomVisits": {
@@ -34506,6 +34520,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-21",
+      "time": "16:42:37",
+      "iso": "2026-08-21T11:12:37.547Z",
+      "action": "updated remark for SIN-DEC-FDC at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:42:31",
+      "iso": "2026-08-21T11:12:31.027Z",
+      "action": "updated remark for SIN-DEC-DCWL at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
       "time": "16:42:10",
       "iso": "2026-08-21T11:12:10.378Z",
       "action": "updated remark for SMGAR50F24D1J at GALLE B: “30% OFF”"
@@ -34838,20 +34866,6 @@
       "time": "16:22:16",
       "iso": "2026-08-21T10:52:16.559Z",
       "action": "updated remark for LF-SP-9922-S at GALLE B: “50% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:22:05",
-      "iso": "2026-08-21T10:52:05.682Z",
-      "action": "updated remark for LF-ORGN-BDQ-CLM-S at GALLE B: “50% OFF”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:22:12",
-      "iso": "2026-08-21T10:52:12.657Z",
-      "action": "updated remark for SAS-GRI12VN at MATALE - B: “Damaged - 80%”"
     }
   ]
 }
