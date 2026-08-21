@@ -33459,6 +33459,20 @@
       "commentDate": "2026-08-21",
       "commentTime": "16:34:23",
       "lastUpdated": "2026-08-21T11:04:23.121Z"
+    },
+    "SIN-RFC-1819||GALLE B": {
+      "remark": "35% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:35:03",
+      "lastUpdated": "2026-08-21T11:05:03.176Z"
+    },
+    "SIN-RFC-2012||GALLE B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-21",
+      "commentTime": "16:35:07",
+      "lastUpdated": "2026-08-21T11:05:07.027Z"
     }
   },
   "showroomVisits": {
@@ -34429,6 +34443,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-21",
+      "time": "16:35:07",
+      "iso": "2026-08-21T11:05:07.030Z",
+      "action": "updated remark for SIN-RFC-2012 at GALLE B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
+      "time": "16:35:03",
+      "iso": "2026-08-21T11:05:03.180Z",
+      "action": "updated remark for SIN-RFC-1819 at GALLE B: “35% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-21",
       "time": "16:34:23",
       "iso": "2026-08-21T11:04:23.124Z",
       "action": "updated remark for SIN-PR-K340 at GALLE B: “80% OFF for no remote / others 40% OFF”"
@@ -34761,20 +34789,6 @@
       "time": "16:20:36",
       "iso": "2026-08-21T10:50:36.304Z",
       "action": "updated remark for R-BWS-02 at MATALE - B: “15%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "16:20:17",
-      "iso": "2026-08-21T10:50:17.993Z",
-      "action": "updated remark for PN-SC-AKX910GSK at MATALE - B: “Revert Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:20:13",
-      "iso": "2026-08-21T10:50:13.932Z",
-      "action": "updated remark for HU-WATCHFIT3-BLK at GALLE B: “70% OFF”"
     }
   ]
 }
