@@ -33963,6 +33963,13 @@
       "commentDate": "2026-08-21",
       "commentTime": "17:53:38",
       "lastUpdated": "2026-08-21T12:23:38.513Z"
+    },
+    "WF-SKY-211-MR-S||MORATUWA": {
+      "remark": "Up to 50%",
+      "commentedBy": "Praveen Thilina",
+      "commentDate": "2026-08-22",
+      "commentTime": "16:00:18",
+      "lastUpdated": "2026-08-22T10:30:18.414Z"
     }
   },
   "showroomVisits": {
@@ -34937,6 +34944,13 @@
   },
   "activity": [
     {
+      "user": "Praveen Thilina",
+      "date": "2026-08-22",
+      "time": "16:00:18",
+      "iso": "2026-08-22T10:30:18.416Z",
+      "action": "updated remark for WF-SKY-211-MR-S at MORATUWA: “Up to 50%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-21",
       "time": "17:53:38",
@@ -35278,13 +35292,6 @@
       "time": "16:46:26",
       "iso": "2026-08-21T11:16:26.160Z",
       "action": "updated remark for UJB-LB6027 at GALLE B: “80% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-21",
-      "time": "16:46:10",
-      "iso": "2026-08-21T11:16:10.186Z",
-      "action": "updated remark for TF-SP16-063 at GALLE B: “35% OFF”"
     }
   ]
 }
