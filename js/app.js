@@ -1213,9 +1213,64 @@ window.Shared = (function () {
         if (btn.dataset.page === "activity") renderActivityLog();
         if (btn.dataset.page === "showroom" && window.Showroom) window.Showroom.renderAll();
         document.getElementById("sideNav").classList.remove("open");
+        document.getElementById("navBackdrop") && document.getElementById("navBackdrop").classList.remove("open");
       });
     });
-    document.getElementById("navHamburger").addEventListener("click", () => document.getElementById("sideNav").classList.toggle("open"));
+
+    // Sidebar visibility: below 640px it's an off-canvas drawer (existing
+    // .open/backdrop pattern); at 640px and up it's a persistent panel that
+    // can now be collapsed to free up screen width (handy on tablets, where
+    // 230px matters more than on a wide desktop). Same button drives both,
+    // the mode is picked based on current viewport width at click time.
+    const MOBILE_BREAKPOINT = 640;
+    function isMobileWidth() { return window.innerWidth <= MOBILE_BREAKPOINT; }
+
+    function setDesktopCollapsed(collapsed) {
+      document.getElementById("appShell").classList.toggle("nav-collapsed", collapsed);
+      try { localStorage.setItem("over6_nav_collapsed", collapsed ? "1" : "0"); } catch (e) {}
+    }
+    function toggleNav() {
+      if (isMobileWidth()) {
+        document.getElementById("sideNav").classList.toggle("open");
+      } else {
+        const collapsed = document.getElementById("appShell").classList.contains("nav-collapsed");
+        setDesktopCollapsed(!collapsed);
+      }
+    }
+    // Restore the user's last collapse preference (tablet/desktop only \u2014
+    // mobile always starts closed, that's the existing/expected behaviour).
+    try {
+      if (!isMobileWidth() && localStorage.getItem("over6_nav_collapsed") === "1") setDesktopCollapsed(true);
+    } catch (e) {}
+
+    document.getElementById("navHamburger").addEventListener("click", toggleNav);
+    document.getElementById("navRevealTab").addEventListener("click", () => setDesktopCollapsed(false));
+
+    // Swipe gesture: swipe left anywhere on the sidebar to collapse it;
+    // swipe right starting near the screen's left edge to bring it back.
+    // Tablet/desktop widths only \u2014 mobile keeps its existing tap-hamburger
+    // and tap-backdrop-to-close behaviour, which already works well with touch.
+    let touchStartX = null, touchStartY = null;
+    function onTouchStart(e) {
+      if (isMobileWidth()) { touchStartX = null; return; }
+      const t = e.touches[0];
+      touchStartX = t.clientX; touchStartY = t.clientY;
+    }
+    function onTouchEnd(e) {
+      if (touchStartX === null || isMobileWidth()) return;
+      const t = e.changedTouches[0];
+      const dx = t.clientX - touchStartX, dy = t.clientY - touchStartY;
+      if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+        if (dx < 0) setDesktopCollapsed(true);
+        else if (touchStartX < 40) setDesktopCollapsed(false);
+      }
+      touchStartX = null;
+    }
+    document.getElementById("sideNav").addEventListener("touchstart", onTouchStart, { passive: true });
+    document.getElementById("sideNav").addEventListener("touchend", onTouchEnd, { passive: true });
+    document.body.addEventListener("touchstart", onTouchStart, { passive: true });
+    document.body.addEventListener("touchend", onTouchEnd, { passive: true });
+
     document.getElementById("themeToggleBtn").addEventListener("click", () => applyTheme(isDark() ? "light" : "dark"));
     document.getElementById("refreshBtn").addEventListener("click", async () => {
       setLoading(true, "Refreshing from GitHub\u2026");
