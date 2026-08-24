@@ -44302,6 +44302,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:05:10",
       "lastUpdated": "2026-08-24T10:35:10.396Z"
+    },
+    "SIS253CU||KOTIYAKUMBURA": {
+      "remark": "Damaged. 50% discount offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:05:38",
+      "lastUpdated": "2026-08-24T10:35:38.690Z"
     }
   },
   "showroomVisits": {
@@ -45590,6 +45597,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "16:05:38",
+      "iso": "2026-08-24T10:35:38.695Z",
+      "action": "updated remark for SIS253CU at KOTIYAKUMBURA: “Damaged. 50% discount offered”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "16:05:10",
@@ -45931,13 +45945,6 @@
       "time": "15:55:15",
       "iso": "2026-08-24T10:25:15.463Z",
       "action": "updated remark for SL-ECO72 at WENNAPPUWA: “Damaged - 40%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:55:26",
-      "iso": "2026-08-24T10:25:26.364Z",
-      "action": "updated remark for WF-JUPITER-05-S at KOTIYAKUMBURA: “40% discount offered . Revert”"
     }
   ]
 }
