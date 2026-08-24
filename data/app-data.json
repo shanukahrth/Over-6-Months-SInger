@@ -46906,6 +46906,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:44:01",
       "lastUpdated": "2026-08-24T15:14:01.257Z"
+    },
+    "WFL-PLWKP-16X24||NIKAWERATIYA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:45:36",
+      "lastUpdated": "2026-08-24T15:15:36.421Z"
     }
   },
   "showroomVisits": {
@@ -48196,6 +48203,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:45:36",
+      "iso": "2026-08-24T15:15:36.422Z",
+      "action": "updated remark for WFL-PLWKP-16X24 at NIKAWERATIYA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:44:01",
       "iso": "2026-08-24T15:14:01.258Z",
       "action": "updated remark for WFI-MICHU-CHR-S at NIKAWERATIYA: “Obsolete - 40%”"
@@ -48535,13 +48549,6 @@
       "time": "19:38:13",
       "iso": "2026-08-24T14:08:13.419Z",
       "action": "updated remark for SLE24E910 at MAHO: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:36:48",
-      "iso": "2026-08-24T14:06:48.215Z",
-      "action": "updated remark for PF-CAFE-NEW-RW-S at MAHO: “Damaged - 60%”"
     }
   ]
 }
