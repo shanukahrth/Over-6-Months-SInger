@@ -43812,6 +43812,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:36:30",
       "lastUpdated": "2026-08-24T10:06:30.096Z"
+    },
+    "WP-2-S||RAGAMA": {
+      "remark": "Maximum 15% additional discount based on the condition",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:36:08",
+      "lastUpdated": "2026-08-24T10:06:08.555Z"
     }
   },
   "showroomVisits": {
@@ -45094,6 +45101,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "15:36:08",
+      "iso": "2026-08-24T10:06:08.556Z",
+      "action": "updated remark for WP-2-S at RAGAMA: “Maximum 15% additional discount based on the condition”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "15:36:04",
+      "iso": "2026-08-24T10:06:04.751Z",
+      "action": "updated remark for WP-2-S at RAGAMA: “Maximum 15% additional discount based on the condition”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "15:36:30",
@@ -45428,20 +45449,6 @@
       "time": "15:21:19",
       "iso": "2026-08-24T09:51:19.490Z",
       "action": "updated remark for WF-PERTH-CT-MH at HOROWPATHANA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:20:20",
-      "iso": "2026-08-24T09:50:20.288Z",
-      "action": "updated remark for UJB-LB6027 at RAGAMA: “Discounts already give to DM”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:19:56",
-      "iso": "2026-08-24T09:49:56.560Z",
-      "action": "updated remark for TF-TW26-064 at RAGAMA: “Discounts already give to DM”"
     }
   ]
 }
