@@ -37099,6 +37099,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:47:01",
       "lastUpdated": "2026-08-24T06:17:01.683Z"
+    },
+    "SIN-RFC-2058||MATALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:47:22",
+      "lastUpdated": "2026-08-24T06:17:22.937Z"
     }
   },
   "showroomVisits": {
@@ -38075,6 +38082,20 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "11:47:22",
+      "iso": "2026-08-24T06:17:22.937Z",
+      "action": "updated remark for SIN-RFC-2058 at MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:47:21",
+      "iso": "2026-08-24T06:17:21.129Z",
+      "action": "updated remark for SIN-RFC-2058 at MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "11:47:01",
       "iso": "2026-08-24T06:17:01.685Z",
       "action": "updated remark for SIN-RFC-2012 at MATALE: “Damaged - 40%”"
@@ -38407,20 +38428,6 @@
       "time": "11:29:36",
       "iso": "2026-08-24T05:59:36.363Z",
       "action": "updated remark for STT-300S at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:29:05",
-      "iso": "2026-08-24T05:59:05.981Z",
-      "action": "updated remark for WFL-SPM-72X72X8-S at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:28:42",
-      "iso": "2026-08-24T05:58:42.829Z",
-      "action": "updated remark for WFL-RIO-01-S at WARAKAPOLA: “50%”"
     }
   ]
 }
