@@ -39647,6 +39647,34 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:35:33",
       "lastUpdated": "2026-08-24T07:05:33.570Z"
+    },
+    "UPU-AUTOFILL23||GALENBIDUNUWEWA": {
+      "remark": "Add10%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:35:42",
+      "lastUpdated": "2026-08-24T07:05:42.325Z"
+    },
+    "SMGRT28A3021GS||GALENBIDUNUWEWA": {
+      "remark": "135000/-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:35:55",
+      "lastUpdated": "2026-08-24T07:05:55.307Z"
+    },
+    "STARLINK-STD-CBL-15M||GALENBIDUNUWEWA": {
+      "remark": "-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:36:12",
+      "lastUpdated": "2026-08-24T07:06:12.411Z"
+    },
+    "BES-CRS-51||GALENBIDUNUWEWA": {
+      "remark": "Add 10%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:36:27",
+      "lastUpdated": "2026-08-24T07:06:27.790Z"
     }
   },
   "showroomVisits": {
@@ -40657,6 +40685,34 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:36:27",
+      "iso": "2026-08-24T07:06:27.793Z",
+      "action": "updated remark for BES-CRS-51 at GALENBIDUNUWEWA: “Add 10%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:36:12",
+      "iso": "2026-08-24T07:06:12.415Z",
+      "action": "updated remark for STARLINK-STD-CBL-15M at GALENBIDUNUWEWA: “-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:35:55",
+      "iso": "2026-08-24T07:05:55.310Z",
+      "action": "updated remark for SMGRT28A3021GS at GALENBIDUNUWEWA: “135000/-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:35:42",
+      "iso": "2026-08-24T07:05:42.328Z",
+      "action": "updated remark for UPU-AUTOFILL23 at GALENBIDUNUWEWA: “Add10%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:35:33",
@@ -40977,34 +41033,6 @@
       "time": "12:24:11",
       "iso": "2026-08-24T06:54:11.922Z",
       "action": "updated remark for WP-2-S at NAWALAPITIYA: “80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:23:55",
-      "iso": "2026-08-24T06:53:55.772Z",
-      "action": "updated remark for WP-1R-100-S at NAWALAPITIYA: “80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:23:52",
-      "iso": "2026-08-24T06:53:52.246Z",
-      "action": "updated remark for WP-1R-100-S at NAWALAPITIYA: “80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:23:49",
-      "iso": "2026-08-24T06:53:49.791Z",
-      "action": "updated remark for WP-1R-100-S at NAWALAPITIYA: “80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:23:27",
-      "iso": "2026-08-24T06:53:27.957Z",
-      "action": "updated remark for WP-1R-.75T at NAWALAPITIYA: “80%”"
     }
   ]
 }
