@@ -43098,6 +43098,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:00:17",
       "lastUpdated": "2026-08-24T09:30:17.223Z"
+    },
+    "SMG-A17-8-128-BLU||WENNAPPUWA": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:00:27",
+      "lastUpdated": "2026-08-24T09:30:27.712Z"
     }
   },
   "showroomVisits": {
@@ -44312,6 +44319,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "15:00:27",
+      "iso": "2026-08-24T09:30:27.712Z",
+      "action": "updated remark for SMG-A17-8-128-BLU at WENNAPPUWA: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "15:00:22",
+      "iso": "2026-08-24T09:30:22.998Z",
+      "action": "updated remark for SMG-A17-8-128-BLU at WENNAPPUWA: “Display - 15%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "15:00:17",
@@ -44646,20 +44667,6 @@
       "time": "14:52:28",
       "iso": "2026-08-24T09:22:28.857Z",
       "action": "updated remark for SL-INV-285G at RAGAMA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:51:43",
-      "iso": "2026-08-24T09:21:43.649Z",
-      "action": "updated remark for SL-ECO-SM256 at RAGAMA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:52:17",
-      "iso": "2026-08-24T09:22:17.021Z",
-      "action": "updated remark for LF-ORGN-DTO-WHT at WARAKAPOLA: “50%”"
     }
   ]
 }
