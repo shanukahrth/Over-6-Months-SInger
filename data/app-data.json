@@ -34644,11 +34644,11 @@
       "lastUpdated": "2026-08-24T03:40:35.535Z"
     },
     "AS-14G-I5-8-512-B5850-SIL||RUWANWELLA": {
-      "remark": "20% discount - sold",
+      "remark": "Sold",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "09:11:24",
-      "lastUpdated": "2026-08-24T03:41:24.601Z"
+      "commentTime": "09:12:03",
+      "lastUpdated": "2026-08-24T03:42:03.158Z"
     },
     "WFL-RIO-01-S||KANDANA": {
       "remark": "50%",
@@ -35630,6 +35630,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "09:12:03",
+      "iso": "2026-08-24T03:42:03.159Z",
+      "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at RUWANWELLA: “Sold”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:11:04",
@@ -35971,13 +35978,6 @@
       "time": "08:45:53",
       "iso": "2026-08-24T03:15:53.216Z",
       "action": "updated remark for TCLED40D3000 at KANDANA: “Exchange PO pending”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:45:13",
-      "iso": "2026-08-24T03:15:13.674Z",
-      "action": "updated remark for TCL30E-3-64-GRY at KANDANA: “Return to WH”"
     }
   ]
 }
