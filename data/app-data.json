@@ -38205,6 +38205,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:22:49",
       "lastUpdated": "2026-08-24T06:52:49.249Z"
+    },
+    "LFLCDCHAMP-BLK-S||YATIYANTHOTA": {
+      "remark": "Parts missing",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:23:27",
+      "lastUpdated": "2026-08-24T06:53:27.032Z"
+    },
+    "LFLCDCHAMP-CHY-S||YATIYANTHOTA": {
+      "remark": "Parts missing.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:23:33",
+      "lastUpdated": "2026-08-24T06:53:33.978Z"
     }
   },
   "showroomVisits": {
@@ -39215,6 +39229,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:23:33",
+      "iso": "2026-08-24T06:53:33.987Z",
+      "action": "updated remark for LFLCDCHAMP-CHY-S at YATIYANTHOTA: “Parts missing.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:23:27",
+      "iso": "2026-08-24T06:53:27.038Z",
+      "action": "updated remark for LFLCDCHAMP-BLK-S at YATIYANTHOTA: “Parts missing”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "12:22:59",
@@ -39549,20 +39577,6 @@
       "time": "12:17:31",
       "iso": "2026-08-24T06:47:31.097Z",
       "action": "updated remark for WFI-NORMAN-TBL-S at SHOMES- MATALE: “Damaged - 30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:17:29",
-      "iso": "2026-08-24T06:47:29.974Z",
-      "action": "updated remark for WFI-NORMAN-CHR-S at SHOMES- MATALE: “Damaged - 30%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:16:56",
-      "iso": "2026-08-24T06:46:56.045Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-ONG at MELSIRIPURA: “Damaged/ Displayed - 35%”"
     }
   ]
 }
