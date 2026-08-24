@@ -36077,6 +36077,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:32:29",
       "lastUpdated": "2026-08-24T05:02:29.518Z"
+    },
+    "SLE32E910||RUWANWELLA": {
+      "remark": "In the service center. Revert damaged. Has not returned from the service center",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:33:04",
+      "lastUpdated": "2026-08-24T05:03:04.186Z"
     }
   },
   "showroomVisits": {
@@ -37051,6 +37058,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:33:04",
+      "iso": "2026-08-24T05:03:04.190Z",
+      "action": "updated remark for SLE32E910 at RUWANWELLA: “In the service center. Revert damaged. Has not returned from the service center”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:32:29",
@@ -37392,13 +37406,6 @@
       "time": "10:16:47",
       "iso": "2026-08-24T04:46:47.085Z",
       "action": "updated remark for TH-TC-351 at MIRIGAMA: “Discount Already Given”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:17:19",
-      "iso": "2026-08-24T04:47:19.673Z",
-      "action": "updated remark for MC8280 at RUWANWELLA: “Class used. Used.”"
     }
   ]
 }
