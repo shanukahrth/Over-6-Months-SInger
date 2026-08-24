@@ -43560,6 +43560,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:24:04",
       "lastUpdated": "2026-08-24T09:54:04.809Z"
+    },
+    "TF-FP24-SCR342||HOROWPATHANA": {
+      "remark": "15%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:24:18",
+      "lastUpdated": "2026-08-24T09:54:18.548Z"
     }
   },
   "showroomVisits": {
@@ -44832,6 +44839,13 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "15:24:18",
+      "iso": "2026-08-24T09:54:18.551Z",
+      "action": "updated remark for TF-FP24-SCR342 at HOROWPATHANA: “15%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "15:24:04",
       "iso": "2026-08-24T09:54:04.812Z",
       "action": "updated remark for NCPDG-SP280 at HOROWPATHANA: “30%”"
@@ -45171,13 +45185,6 @@
       "time": "15:11:40",
       "iso": "2026-08-24T09:41:40.241Z",
       "action": "updated remark for DH-XVR1B08-I-V2 at WARAKAPOLA: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "15:11:23",
-      "iso": "2026-08-24T09:41:23.264Z",
-      "action": "updated remark for CLOTHLINE-35PVC at WARAKAPOLA: “80%”"
     }
   ]
 }
