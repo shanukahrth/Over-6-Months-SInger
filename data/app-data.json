@@ -45688,6 +45688,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:09:09",
       "lastUpdated": "2026-08-24T12:39:09.942Z"
+    },
+    "SIN-BS30||HETTIMULLA LITE": {
+      "remark": "8,500 special price to clear the inventory",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:08:52",
+      "lastUpdated": "2026-08-24T12:38:52.746Z"
+    },
+    "SIN-RFC-2058||HETTIMULLA LITE": {
+      "remark": "-",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:10:01",
+      "lastUpdated": "2026-08-24T12:40:01.579Z"
     }
   },
   "showroomVisits": {
@@ -46976,6 +46990,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "18:10:01",
+      "iso": "2026-08-24T12:40:01.585Z",
+      "action": "updated remark for SIN-RFC-2058 at HETTIMULLA LITE: “-”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "18:09:59",
+      "iso": "2026-08-24T12:39:59.383Z",
+      "action": "updated remark for SIN-RFC-2058 at HETTIMULLA LITE: “-”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "18:08:52",
+      "iso": "2026-08-24T12:38:52.753Z",
+      "action": "updated remark for SIN-BS30 at HETTIMULLA LITE: “8,500 special price to clear the inventory”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "18:09:09",
@@ -47303,27 +47338,6 @@
       "time": "17:54:57",
       "iso": "2026-08-24T12:24:57.607Z",
       "action": "updated remark for ZTE-A34-2-64GB-GRE at NAULA: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:54:32",
-      "iso": "2026-08-24T12:24:32.115Z",
-      "action": "updated remark for TCL30E-3-64-GRY at NAULA: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:53:46",
-      "iso": "2026-08-24T12:23:46.326Z",
-      "action": "updated remark for TCL30E-3-64-GRY at NAULA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:53:20",
-      "iso": "2026-08-24T12:23:20.799Z",
-      "action": "updated remark for OPSI512G8B256B at NAULA: “Okay”"
     }
   ]
 }
