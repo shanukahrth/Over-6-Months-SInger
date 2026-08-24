@@ -44211,6 +44211,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:59:01",
       "lastUpdated": "2026-08-24T10:29:01.786Z"
+    },
+    "LF-ECO-SD-WNG-S||KOTIYAKUMBURA": {
+      "remark": "Display.5% Discount",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:00:53",
+      "lastUpdated": "2026-08-24T10:30:53.809Z"
+    },
+    "LF-OFI-ST-001-SHW-S||KOTIYAKUMBURA": {
+      "remark": "Display.5% Discount",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:00:56",
+      "lastUpdated": "2026-08-24T10:30:56.588Z"
     }
   },
   "showroomVisits": {
@@ -45501,6 +45515,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "16:00:56",
+      "iso": "2026-08-24T10:30:56.592Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at KOTIYAKUMBURA: “Display.5% Discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "16:00:53",
+      "iso": "2026-08-24T10:30:53.815Z",
+      "action": "updated remark for LF-ECO-SD-WNG-S at KOTIYAKUMBURA: “Display.5% Discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "16:00:28",
       "iso": "2026-08-24T10:30:28.556Z",
       "action": "updated remark for WF-DOC-T009-BU-S at KOTIYAKUMBURA: “Display 5% discount”"
@@ -45833,20 +45861,6 @@
       "time": "15:51:27",
       "iso": "2026-08-24T10:21:27.104Z",
       "action": "updated remark for LF-ECO-BDM-SHW at KOTIYAKUMBURA: “-”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:50:59",
-      "iso": "2026-08-24T10:20:59.221Z",
-      "action": "updated remark for LF-ECO-BDM-SHW at KOTIYAKUMBURA: “Part missing. 25% discount offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:50:29",
-      "iso": "2026-08-24T10:20:29.926Z",
-      "action": "updated remark for LF-BUDGET-ST-AGO-S at KOTIYAKUMBURA: “5% discount offered”"
     }
   ]
 }
