@@ -34635,6 +34635,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:10:10",
       "lastUpdated": "2026-08-24T03:40:10.816Z"
+    },
+    "WFL-CRYSTAL-75X60-S||KANDANA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:10:35",
+      "lastUpdated": "2026-08-24T03:40:35.535Z"
     }
   },
   "showroomVisits": {
@@ -35611,6 +35618,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "09:10:35",
+      "iso": "2026-08-24T03:40:35.536Z",
+      "action": "updated remark for WFL-CRYSTAL-75X60-S at KANDANA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "09:10:10",
       "iso": "2026-08-24T03:40:10.818Z",
       "action": "updated remark for WF-PARIS-BL-S at KANDANA: “50%”"
@@ -35950,13 +35964,6 @@
       "time": "08:44:09",
       "iso": "2026-08-24T03:14:09.918Z",
       "action": "updated remark for TCL205G-6-128-MIGRY at KANDANA: “Return to WH”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:43:46",
-      "iso": "2026-08-24T03:13:46.607Z",
-      "action": "updated remark for SWM-FA70R at KANDANA: “60%”"
     }
   ]
 }
