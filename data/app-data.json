@@ -36156,11 +36156,11 @@
       "lastUpdated": "2026-08-24T05:09:49.212Z"
     },
     "H-CVW1600||RUWANWELLA": {
-      "remark": "20% flat",
+      "remark": "25% flat",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "10:40:19",
-      "lastUpdated": "2026-08-24T05:10:19.191Z"
+      "commentTime": "10:40:30",
+      "lastUpdated": "2026-08-24T05:10:30.469Z"
     },
     "SLE32E710||MIRIGAMA": {
       "remark": "Additional 20%",
@@ -37142,6 +37142,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:40:30",
+      "iso": "2026-08-24T05:10:30.473Z",
+      "action": "updated remark for H-CVW1600 at RUWANWELLA: “25% flat”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:39:55",
@@ -37483,13 +37490,6 @@
       "time": "10:21:49",
       "iso": "2026-08-24T04:51:49.799Z",
       "action": "updated remark for SINTEK-SS-MS-16 at RUWANWELLA: “75% o”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:18:41",
-      "iso": "2026-08-24T04:48:41.963Z",
-      "action": "updated remark for MC8280 at RUWANWELLA: “Class used. Used. RS.25,000 mop offered.”"
     }
   ]
 }
