@@ -37097,15 +37097,15 @@
       "remark": "Damaged - 40%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-24",
-      "commentTime": "11:47:01",
-      "lastUpdated": "2026-08-24T06:17:01.683Z"
+      "commentTime": "12:09:18",
+      "lastUpdated": "2026-08-24T06:39:18.356Z"
     },
     "SIN-RFC-2058||MATALE": {
       "remark": "Damaged - 40%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-24",
-      "commentTime": "11:47:22",
-      "lastUpdated": "2026-08-24T06:17:22.937Z"
+      "commentTime": "12:09:23",
+      "lastUpdated": "2026-08-24T06:39:23.953Z"
     },
     "SL-GSE-S001||MATALE": {
       "remark": "Ok",
@@ -38728,6 +38728,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:09:23",
+      "iso": "2026-08-24T06:39:23.954Z",
+      "action": "updated remark for SIN-RFC-2058 at MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:09:18",
+      "iso": "2026-08-24T06:39:18.357Z",
+      "action": "updated remark for SIN-RFC-2012 at MATALE: “Damaged - 40%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:08:54",
@@ -39062,20 +39076,6 @@
       "time": "12:00:17",
       "iso": "2026-08-24T06:30:17.321Z",
       "action": "updated remark for ULED32D5000 at MATALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:00:02",
-      "iso": "2026-08-24T06:30:02.167Z",
-      "action": "updated remark for UJB-LB6027 at MATALE: “Damaged - 30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:59:28",
-      "iso": "2026-08-24T06:29:28.609Z",
-      "action": "updated remark for SL-VAR-90P-C at WARAKAPOLA: “60%”"
     }
   ]
 }
