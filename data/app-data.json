@@ -44337,6 +44337,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:06:32",
       "lastUpdated": "2026-08-24T10:36:32.151Z"
+    },
+    "TF-GS-SPKT302||WENNAPPUWA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:06:14",
+      "lastUpdated": "2026-08-24T10:36:14.326Z"
     }
   },
   "showroomVisits": {
@@ -45625,6 +45632,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:06:14",
+      "iso": "2026-08-24T10:36:14.328Z",
+      "action": "updated remark for TF-GS-SPKT302 at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "16:06:32",
@@ -45966,13 +45980,6 @@
       "time": "15:56:26",
       "iso": "2026-08-24T10:26:26.907Z",
       "action": "updated remark for SLE32E930 at WENNAPPUWA: “Damaged - 85%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "15:56:09",
-      "iso": "2026-08-24T10:26:09.499Z",
-      "action": "updated remark for SLE32E920 at WENNAPPUWA: “Damaged - 85%”"
     }
   ]
 }
