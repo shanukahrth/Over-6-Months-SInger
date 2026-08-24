@@ -36336,6 +36336,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:00:03",
       "lastUpdated": "2026-08-24T05:30:03.105Z"
+    },
+    "DELL-MH3021P-MADPSP||RAGAMA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:00:44",
+      "lastUpdated": "2026-08-24T05:30:44.318Z"
     }
   },
   "showroomVisits": {
@@ -37312,6 +37319,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "11:00:44",
+      "iso": "2026-08-24T05:30:44.318Z",
+      "action": "updated remark for DELL-MH3021P-MADPSP at RAGAMA: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "11:00:03",
       "iso": "2026-08-24T05:30:03.107Z",
       "action": "updated remark for CM-PEN-16GB at RAGAMA: “0%”"
@@ -37651,13 +37665,6 @@
       "time": "10:34:56",
       "iso": "2026-08-24T05:04:56.640Z",
       "action": "updated remark for SLE24D1000 at MIRIGAMA: “Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:34:07",
-      "iso": "2026-08-24T05:04:07.253Z",
-      "action": "updated remark for SKY32STD1000 at MIRIGAMA: “20% Add”"
     }
   ]
 }
