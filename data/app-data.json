@@ -35155,11 +35155,11 @@
       "lastUpdated": "2026-08-24T04:14:49.352Z"
     },
     "KA-PRISMA-1.7||RUWANWELLA": {
-      "remark": "50% flat",
+      "remark": "70% flat",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "09:45:33",
-      "lastUpdated": "2026-08-24T04:15:33.255Z"
+      "commentTime": "09:46:01",
+      "lastUpdated": "2026-08-24T04:16:01.646Z"
     },
     "PN-TH-32MS670N||MINUWANGODA - B": {
       "remark": "80%",
@@ -36141,6 +36141,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "09:46:01",
+      "iso": "2026-08-24T04:16:01.651Z",
+      "action": "updated remark for KA-PRISMA-1.7 at RUWANWELLA: “70% flat”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:45:24",
@@ -36482,13 +36489,6 @@
       "time": "09:26:34",
       "iso": "2026-08-24T03:56:34.595Z",
       "action": "updated remark for H-BD-1054HVOS at MINUWANGODA - B: “EOL : additional 10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "09:26:11",
-      "iso": "2026-08-24T03:56:11.039Z",
-      "action": "updated remark for B-CFB9433X at MIRIGAMA: “30%”"
     }
   ]
 }
