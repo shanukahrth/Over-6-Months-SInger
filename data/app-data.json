@@ -40886,6 +40886,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:07:55",
       "lastUpdated": "2026-08-24T08:37:55.332Z"
+    },
+    "SRS-XP700||KAHATAGASDIGILIYA": {
+      "remark": "35%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:08:08",
+      "lastUpdated": "2026-08-24T08:38:08.643Z"
+    },
+    "PN-SC-UA3GS-K||KAHATAGASDIGILIYA": {
+      "remark": "50%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:08:15",
+      "lastUpdated": "2026-08-24T08:38:15.516Z"
     }
   },
   "showroomVisits": {
@@ -41934,6 +41948,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "14:08:15",
+      "iso": "2026-08-24T08:38:15.519Z",
+      "action": "updated remark for PN-SC-UA3GS-K at KAHATAGASDIGILIYA: “50%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:08:08",
+      "iso": "2026-08-24T08:38:08.646Z",
+      "action": "updated remark for SRS-XP700 at KAHATAGASDIGILIYA: “35%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "14:07:55",
       "iso": "2026-08-24T08:37:55.335Z",
       "action": "updated remark for PN-SC-HTB490EBK at KAHATAGASDIGILIYA: “50%”"
@@ -42266,20 +42294,6 @@
       "time": "13:59:27",
       "iso": "2026-08-24T08:29:27.959Z",
       "action": "updated remark for LF-LEO-LCUP-WNG-S at RAGAMA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:59:18",
-      "iso": "2026-08-24T08:29:18.005Z",
-      "action": "updated remark for LF-LEO-LCUP-WNG-S at RAGAMA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "14:00:01",
-      "iso": "2026-08-24T08:30:01.878Z",
-      "action": "updated remark for LF-LOUVRE-BSC-R-S at BULATHKOHUPITIYA: “Sold”"
     }
   ]
 }
