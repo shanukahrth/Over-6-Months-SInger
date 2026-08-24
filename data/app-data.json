@@ -36532,6 +36532,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:16:55",
       "lastUpdated": "2026-08-24T05:46:55.586Z"
+    },
+    "UR591SW||THIRAPPANE": {
+      "remark": "3500",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:17:20",
+      "lastUpdated": "2026-08-24T05:47:20.746Z"
+    },
+    "SDV3605K||THIRAPPANE": {
+      "remark": "2500",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:17:25",
+      "lastUpdated": "2026-08-24T05:47:25.107Z"
     }
   },
   "showroomVisits": {
@@ -37508,6 +37522,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "11:17:25",
+      "iso": "2026-08-24T05:47:25.109Z",
+      "action": "updated remark for SDV3605K at THIRAPPANE: “2500”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "11:17:20",
+      "iso": "2026-08-24T05:47:20.749Z",
+      "action": "updated remark for UR591SW at THIRAPPANE: “3500”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "11:16:55",
       "iso": "2026-08-24T05:46:55.590Z",
       "action": "updated remark for SVX6008 at THIRAPPANE: “85%”"
@@ -37840,20 +37868,6 @@
       "time": "10:48:44",
       "iso": "2026-08-24T05:18:44.532Z",
       "action": "updated remark for TF-SI-ESS-242 at MINUWANGODA - B: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:48:21",
-      "iso": "2026-08-24T05:18:21.407Z",
-      "action": "updated remark for PN-TH-32M401N at MIRIGAMA: “30% Total”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:47:52",
-      "iso": "2026-08-24T05:17:52.572Z",
-      "action": "updated remark for SLE55D1800TC at MIRIGAMA: “50% Tota[”"
     }
   ]
 }
