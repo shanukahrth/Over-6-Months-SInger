@@ -6112,11 +6112,11 @@
       "lastUpdated": "2026-08-24T06:11:09.723Z"
     },
     "MSI-MOD15-B13M-I7-BLK||SHOMES- MATALE": {
-      "remark": "Damage - 60%",
-      "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "17:32:43",
-      "lastUpdated": "2026-08-17T12:02:43.913Z"
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:41:36",
+      "lastUpdated": "2026-08-24T06:11:36.108Z"
     },
     "NUBIA-AIR-8-256GB-ST-BLK||SHOMES- MATALE": {
       "remark": "Display - 10%",
@@ -37900,6 +37900,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "11:41:36",
+      "iso": "2026-08-24T06:11:36.108Z",
+      "action": "updated remark for MSI-MOD15-B13M-I7-BLK at SHOMES- MATALE: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "11:41:09",
       "iso": "2026-08-24T06:11:09.723Z",
       "action": "updated remark for HON-X9C-12-256-BLK at SHOMES- MATALE: “Damaged - 15%”"
@@ -38239,13 +38246,6 @@
       "time": "11:20:49",
       "iso": "2026-08-24T05:50:49.261Z",
       "action": "updated remark for LP-AP01 at THIRAPPANE: “Given by Lakshi”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:20:46",
-      "iso": "2026-08-24T05:50:46.963Z",
-      "action": "updated remark for KN-HFP72 at THIRAPPANE: “Given by Lakshi”"
     }
   ]
 }
