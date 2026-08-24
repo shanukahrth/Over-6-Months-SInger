@@ -44526,6 +44526,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:17:47",
       "lastUpdated": "2026-08-24T10:47:47.203Z"
+    },
+    "WF-SP-10345-S||WENNAPPUWA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:17:23",
+      "lastUpdated": "2026-08-24T10:47:23.692Z"
+    },
+    "WFI-MH882S||WENNAPPUWA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:17:35",
+      "lastUpdated": "2026-08-24T10:47:35.187Z"
     }
   },
   "showroomVisits": {
@@ -45814,6 +45828,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:17:35",
+      "iso": "2026-08-24T10:47:35.189Z",
+      "action": "updated remark for WFI-MH882S at WENNAPPUWA: “Damaged - 90%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:17:23",
+      "iso": "2026-08-24T10:47:23.694Z",
+      "action": "updated remark for WF-SP-10345-S at WENNAPPUWA: “Damaged - 75%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "16:17:47",
@@ -46148,20 +46176,6 @@
       "time": "16:05:38",
       "iso": "2026-08-24T10:35:38.695Z",
       "action": "updated remark for SIS253CU at KOTIYAKUMBURA: “Damaged. 50% discount offered”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "16:05:10",
-      "iso": "2026-08-24T10:35:10.397Z",
-      "action": "updated remark for TF-CM-APR737 at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "16:04:58",
-      "iso": "2026-08-24T10:34:58.523Z",
-      "action": "updated remark for TF-CM-APR737 at WENNAPPUWA: “Can sell”"
     }
   ]
 }
