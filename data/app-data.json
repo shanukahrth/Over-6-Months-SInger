@@ -37778,6 +37778,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:12:14",
       "lastUpdated": "2026-08-24T06:42:14.963Z"
+    },
+    "WF-CF-75X36-S||SHOMES- MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:12:25",
+      "lastUpdated": "2026-08-24T06:42:25.133Z"
     }
   },
   "showroomVisits": {
@@ -38788,6 +38795,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:12:25",
+      "iso": "2026-08-24T06:42:25.135Z",
+      "action": "updated remark for WF-CF-75X36-S at SHOMES- MATALE: “Damaged - 50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:12:26",
@@ -39129,13 +39143,6 @@
       "time": "12:03:31",
       "iso": "2026-08-24T06:33:31.450Z",
       "action": "updated remark for PN-NF-GW1WSK at SHOMES- MATALE: “Can Sell”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:03:28",
-      "iso": "2026-08-24T06:33:28.248Z",
-      "action": "marked SLE32D1800 at WARAKAPOLA as Not Sold"
     }
   ]
 }
