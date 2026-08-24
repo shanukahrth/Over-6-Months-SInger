@@ -35713,6 +35713,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:14:01",
       "lastUpdated": "2026-08-24T04:44:01.570Z"
+    },
+    "NCPO-FP280||MIRIGAMA": {
+      "remark": "Discount Already Given",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:14:12",
+      "lastUpdated": "2026-08-24T04:44:12.328Z"
     }
   },
   "showroomVisits": {
@@ -36687,6 +36694,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "10:14:12",
+      "iso": "2026-08-24T04:44:12.329Z",
+      "action": "updated remark for NCPO-FP280 at MIRIGAMA: “Discount Already Given”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "10:14:09",
+      "iso": "2026-08-24T04:44:09.231Z",
+      "action": "updated remark for NCPO-FP280 at MIRIGAMA: “Discount Already Given”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "10:14:01",
@@ -37021,20 +37042,6 @@
       "time": "10:00:22",
       "iso": "2026-08-24T04:30:22.162Z",
       "action": "updated remark for SMG-SM-X115-GRY at RUWANWELLA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:00:08",
-      "iso": "2026-08-24T04:30:08.970Z",
-      "action": "updated remark for SMG-A17-8-256-BLU at RUWANWELLA: “Display unit”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "09:59:16",
-      "iso": "2026-08-24T04:29:16.574Z",
-      "action": "updated remark for SLMC-18DSLHS at MINUWANGODA - B: “Discounts already given to DM”"
     }
   ]
 }
