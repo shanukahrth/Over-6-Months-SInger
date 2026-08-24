@@ -34509,6 +34509,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:01:58",
       "lastUpdated": "2026-08-24T03:31:58.641Z"
+    },
+    "SXLC7371K||MIRIGAMA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:01:55",
+      "lastUpdated": "2026-08-24T03:31:55.800Z"
     }
   },
   "showroomVisits": {
@@ -35483,6 +35490,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "09:01:55",
+      "iso": "2026-08-24T03:31:55.802Z",
+      "action": "updated remark for SXLC7371K at MIRIGAMA: “80%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:01:58",
@@ -35824,13 +35838,6 @@
       "time": "08:33:31",
       "iso": "2026-08-24T03:03:31.521Z",
       "action": "updated remark for SLE40D600A at KANDANA: “Not in a sellable condition”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:33:16",
-      "iso": "2026-08-24T03:03:16.832Z",
-      "action": "updated remark for SLE32E930 at KANDANA: “Reported”"
     }
   ]
 }
