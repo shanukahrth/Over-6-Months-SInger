@@ -37022,6 +37022,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:44:34",
       "lastUpdated": "2026-08-24T06:14:34.871Z"
+    },
+    "SIN-BS30||MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:44:38",
+      "lastUpdated": "2026-08-24T06:14:38.953Z"
     }
   },
   "showroomVisits": {
@@ -37996,6 +38003,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:44:38",
+      "iso": "2026-08-24T06:14:38.954Z",
+      "action": "updated remark for SIN-BS30 at MATALE: “Damaged - 85%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:44:34",
@@ -38337,13 +38351,6 @@
       "time": "11:24:48",
       "iso": "2026-08-24T05:54:48.269Z",
       "action": "updated remark for WP-DEEPWELL at WARAKAPOLA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:25:05",
-      "iso": "2026-08-24T05:55:05.613Z",
-      "action": "updated remark for SMG-SM-M022G-B-2 at THIRAPPANE: “70%”"
     }
   ]
 }
