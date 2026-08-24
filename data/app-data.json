@@ -46789,11 +46789,11 @@
       "lastUpdated": "2026-08-24T14:29:14.102Z"
     },
     "SWM-FA70R||NIKAWERATIYA": {
-      "remark": "Damaged - 70%",
+      "remark": "Damaged - 40%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-24",
-      "commentTime": "20:00:45",
-      "lastUpdated": "2026-08-24T14:30:45.017Z"
+      "commentTime": "20:03:10",
+      "lastUpdated": "2026-08-24T14:33:10.117Z"
     }
   },
   "showroomVisits": {
@@ -48084,6 +48084,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:03:10",
+      "iso": "2026-08-24T14:33:10.119Z",
+      "action": "updated remark for SWM-FA70R at NIKAWERATIYA: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:00:45",
       "iso": "2026-08-24T14:30:45.019Z",
       "action": "updated remark for SWM-FA70R at NIKAWERATIYA: “Damaged - 70%”"
@@ -48423,13 +48430,6 @@
       "time": "19:10:39",
       "iso": "2026-08-24T13:40:39.778Z",
       "action": "updated remark for SLE43G890 at POLPITHIGAMA: “Revert / Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:08:15",
-      "iso": "2026-08-24T13:38:15.267Z",
-      "action": "updated remark for LF-LEO-SCUP-BCH at POLPITHIGAMA: “Damaged - 30%”"
     }
   ]
 }
