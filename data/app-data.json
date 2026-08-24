@@ -42538,6 +42538,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:33:06",
       "lastUpdated": "2026-08-24T09:03:06.523Z"
+    },
+    "SKY32STD1000||KAHATAGASDIGILIYA": {
+      "remark": "70%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:33:47",
+      "lastUpdated": "2026-08-24T09:03:47.613Z"
     }
   },
   "showroomVisits": {
@@ -43608,6 +43615,13 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:33:47",
+      "iso": "2026-08-24T09:03:47.616Z",
+      "action": "updated remark for SKY32STD1000 at KAHATAGASDIGILIYA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "14:33:06",
@@ -43949,13 +43963,6 @@
       "time": "14:24:10",
       "iso": "2026-08-24T08:54:10.659Z",
       "action": "updated remark for PN-CS-XU18XKYW-8 at RAGAMA: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "14:24:24",
-      "iso": "2026-08-24T08:54:24.648Z",
-      "action": "updated remark for SKY55Q6700G at BULATHKOHUPITIYA: “Display dot. Panel issue.Product return.”"
     }
   ]
 }
