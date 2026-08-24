@@ -45485,6 +45485,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "17:57:48",
       "lastUpdated": "2026-08-24T12:27:48.969Z"
+    },
+    "GEO-182S-SV||NAULA": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "17:58:27",
+      "lastUpdated": "2026-08-24T12:28:27.689Z"
     }
   },
   "showroomVisits": {
@@ -46775,6 +46782,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "17:58:27",
+      "iso": "2026-08-24T12:28:27.689Z",
+      "action": "updated remark for GEO-182S-SV at NAULA: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "17:58:26",
+      "iso": "2026-08-24T12:28:26.969Z",
+      "action": "updated remark for GEO-182S-SV at NAULA: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "17:57:48",
       "iso": "2026-08-24T12:27:48.970Z",
       "action": "updated remark for G-STC1200N at NAULA: “Damaged - 60%”"
@@ -47107,20 +47128,6 @@
       "time": "16:42:11",
       "iso": "2026-08-24T11:12:11.068Z",
       "action": "updated remark for RIYLTA-MF12V5 at GALEWELA: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "16:41:36",
-      "iso": "2026-08-24T11:11:36.011Z",
-      "action": "updated remark for R-RGS150-SV at GALEWELA: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:41:30",
-      "iso": "2026-08-24T11:11:30.926Z",
-      "action": "updated remark for WP-SS-SUB1-S at KEBITHIGOLLEWA: “70%”"
     }
   ]
 }
