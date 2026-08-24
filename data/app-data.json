@@ -44571,7 +44571,7 @@
     "KOKKADICHOLAI||BATTICALOA": {
       "visited": "Yes",
       "visitDate": "",
-      "team": "",
+      "team": "Mangalesh and Gayan ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44682,6 +44682,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "15:14:37",
+      "iso": "2026-08-24T09:44:37.230Z",
+      "action": "updated KOKKADICHOLAI showroom (team: Mangalesh and Gayan )"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -45024,13 +45031,6 @@
       "time": "15:02:36",
       "iso": "2026-08-24T09:32:36.234Z",
       "action": "updated remark for SMG-A36-5G-8-128-BLK at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "15:02:04",
-      "iso": "2026-08-24T09:32:04.154Z",
-      "action": "updated remark for BC-KNP-AG at WARAKAPOLA: “70%”"
     }
   ]
 }
