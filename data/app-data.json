@@ -43761,6 +43761,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "TRINCOMALEE B||DAMBULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43868,6 +43876,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:44:21",
+      "iso": "2026-08-24T09:14:21.858Z",
+      "action": "updated TRINCOMALEE B showroom (visited: Yes)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -44210,13 +44225,6 @@
       "time": "14:33:06",
       "iso": "2026-08-24T09:03:06.524Z",
       "action": "updated remark for PN-MIC-W-107 at WARAKAPOLA: “-”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:32:57",
-      "iso": "2026-08-24T09:02:57.239Z",
-      "action": "updated remark for PN-TH-32MS670N at KAHATAGASDIGILIYA: “70%”"
     }
   ]
 }
