@@ -43000,6 +43000,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:54:41",
       "lastUpdated": "2026-08-24T09:24:41.325Z"
+    },
+    "SLE32D5000||RAGAMA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:54:08",
+      "lastUpdated": "2026-08-24T09:24:08.799Z"
     }
   },
   "showroomVisits": {
@@ -44214,6 +44221,27 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "14:54:54",
+      "iso": "2026-08-24T09:24:54.145Z",
+      "action": "updated remark for SLE32E710 at RAGAMA (cleared)"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "14:54:44",
+      "iso": "2026-08-24T09:24:44.048Z",
+      "action": "updated remark for SLE32E710 at RAGAMA: “70%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "14:54:08",
+      "iso": "2026-08-24T09:24:08.801Z",
+      "action": "updated remark for SLE32D5000 at RAGAMA: “70%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "14:54:41",
@@ -44541,27 +44569,6 @@
       "time": "14:45:41",
       "iso": "2026-08-24T09:15:41.423Z",
       "action": "updated remark for KV-FPAU13A at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:45:33",
-      "iso": "2026-08-24T09:15:33.075Z",
-      "action": "updated JAYANTHIPURA showroom (visitDate: 2026-08-19)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:45:29",
-      "iso": "2026-08-24T09:15:29.326Z",
-      "action": "updated JAYANTHIPURA showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:45:14",
-      "iso": "2026-08-24T09:15:14.281Z",
-      "action": "updated HINGURAKGODA showroom (visited: Yes)"
     }
   ]
 }
