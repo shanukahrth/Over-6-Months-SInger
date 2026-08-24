@@ -36842,11 +36842,11 @@
       "lastUpdated": "2026-08-24T05:59:36.362Z"
     },
     "SWH-118EP||WARAKAPOLA": {
-      "remark": "50%",
+      "remark": "SC PRF 80906",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-24",
-      "commentTime": "11:29:50",
-      "lastUpdated": "2026-08-24T05:59:50.923Z"
+      "commentTime": "11:31:01",
+      "lastUpdated": "2026-08-24T06:01:01.050Z"
     },
     "SWM-FA70R||WARAKAPOLA": {
       "remark": "30%",
@@ -37830,6 +37830,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
+      "time": "11:31:01",
+      "iso": "2026-08-24T06:01:01.051Z",
+      "action": "updated remark for SWH-118EP at WARAKAPOLA: “SC PRF 80906”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
       "time": "11:30:31",
       "iso": "2026-08-24T06:00:31.094Z",
       "action": "updated remark for SWM-FA70R at WARAKAPOLA: “30%”"
@@ -38169,13 +38176,6 @@
       "time": "11:16:43",
       "iso": "2026-08-24T05:46:43.842Z",
       "action": "updated remark for SIN-PSVX938N at THIRAPPANE: “185000”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:16:35",
-      "iso": "2026-08-24T05:46:35.639Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at THIRAPPANE: “25000”"
     }
   ]
 }
