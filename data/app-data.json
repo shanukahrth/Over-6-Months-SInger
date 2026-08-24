@@ -43294,6 +43294,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:07:11",
       "lastUpdated": "2026-08-24T09:37:11.095Z"
+    },
+    "SWM-MET80R||RAGAMA": {
+      "remark": "EOL : if damaged or discolored offer upto additonal 20%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:07:21",
+      "lastUpdated": "2026-08-24T09:37:21.909Z"
     }
   },
   "showroomVisits": {
@@ -44508,6 +44515,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "15:07:21",
+      "iso": "2026-08-24T09:37:21.912Z",
+      "action": "updated remark for SWM-MET80R at RAGAMA: “EOL : if damaged or discolored offer upto additonal 20%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "15:07:11",
@@ -44849,13 +44863,6 @@
       "time": "14:56:36",
       "iso": "2026-08-24T09:26:36.931Z",
       "action": "updated KALMUNAI showroom (team: Chamal and Kaveesha )"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:56:34",
-      "iso": "2026-08-24T09:26:34.810Z",
-      "action": "updated KALMUNAI B showroom (team: Chamal and Kaveesha )"
     }
   ]
 }
