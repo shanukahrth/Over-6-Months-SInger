@@ -37477,6 +37477,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:00:42",
       "lastUpdated": "2026-08-24T06:30:42.755Z"
+    },
+    "SLE20S1300||WARAKAPOLA": {
+      "remark": "Warehouse Return",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:01:12",
+      "lastUpdated": "2026-08-24T06:31:12.800Z"
     }
   },
   "showroomVisits": {
@@ -38451,6 +38458,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:01:12",
+      "iso": "2026-08-24T06:31:12.801Z",
+      "action": "updated remark for SLE20S1300 at WARAKAPOLA: “Warehouse Return”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:00:42",
@@ -38791,13 +38805,6 @@
       "date": "2026-08-24",
       "time": "11:50:39",
       "iso": "2026-08-24T06:20:39.037Z",
-      "action": "updated remark for SMW823AY7 at MATALE: “Damaged - 25%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:50:37",
-      "iso": "2026-08-24T06:20:37.139Z",
       "action": "updated remark for SMW823AY7 at MATALE: “Damaged - 25%”"
     }
   ]
