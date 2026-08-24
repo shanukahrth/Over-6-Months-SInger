@@ -45660,6 +45660,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:07:21",
       "lastUpdated": "2026-08-24T12:37:21.214Z"
+    },
+    "SIN-BS30||NAULA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:07:47",
+      "lastUpdated": "2026-08-24T12:37:47.246Z"
     }
   },
   "showroomVisits": {
@@ -46950,6 +46957,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:07:47",
+      "iso": "2026-08-24T12:37:47.247Z",
+      "action": "updated remark for SIN-BS30 at NAULA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:07:21",
       "iso": "2026-08-24T12:37:21.216Z",
       "action": "updated remark for SDV838HDVT at NAULA: “Damaged - 75%”"
@@ -47289,13 +47303,6 @@
       "time": "17:51:55",
       "iso": "2026-08-24T12:21:55.880Z",
       "action": "updated remark for HU-SECURITY at NAULA: “Okay”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "17:11:36",
-      "iso": "2026-08-24T11:41:36.390Z",
-      "action": "updated remark for WP-JUN-E-S at KOTIYAKUMBURA: “Transfer to a potential location.”"
     }
   ]
 }
