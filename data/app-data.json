@@ -39549,6 +39549,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:34:21",
       "lastUpdated": "2026-08-24T07:04:21.780Z"
+    },
+    "SMG-A17-8-128-BLU||GALENBIDUNUWEWA": {
+      "remark": "Add 5%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:34:02",
+      "lastUpdated": "2026-08-24T07:04:02.991Z"
+    },
+    "SMG-A36-5G-12-256-BLK||GALENBIDUNUWEWA": {
+      "remark": "10%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:34:37",
+      "lastUpdated": "2026-08-24T07:04:37.256Z"
     }
   },
   "showroomVisits": {
@@ -40559,6 +40573,20 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:34:37",
+      "iso": "2026-08-24T07:04:37.257Z",
+      "action": "updated remark for SMG-A36-5G-12-256-BLK at GALENBIDUNUWEWA: “10%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:34:02",
+      "iso": "2026-08-24T07:04:02.992Z",
+      "action": "updated remark for SMG-A17-8-128-BLU at GALENBIDUNUWEWA: “Add 5%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:34:21",
@@ -40893,20 +40921,6 @@
       "time": "12:17:48",
       "iso": "2026-08-24T06:47:48.174Z",
       "action": "updated remark for SMGUA28J4100 at NAWALAPITIYA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:17:37",
-      "iso": "2026-08-24T06:47:37.118Z",
-      "action": "updated remark for SLE55GENR at NAWALAPITIYA: “Defective to return to wh”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:16:16",
-      "iso": "2026-08-24T06:46:16.718Z",
-      "action": "updated remark for SLE55GENR at NAWALAPITIYA: “Defective to return”"
     }
   ]
 }
