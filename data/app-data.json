@@ -46605,6 +46605,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "19:22:58",
       "lastUpdated": "2026-08-24T13:52:58.623Z"
+    },
+    "LF-OFI-ST-001-SHW-S||MAHO": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "19:24:00",
+      "lastUpdated": "2026-08-24T13:54:00.470Z"
     }
   },
   "showroomVisits": {
@@ -47895,6 +47902,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "19:24:00",
+      "iso": "2026-08-24T13:54:00.472Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at MAHO: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "19:22:58",
       "iso": "2026-08-24T13:52:58.625Z",
       "action": "updated remark for GEO-182S-BU1 at MAHO: “Revert /Damaged - 65%”"
@@ -48234,13 +48248,6 @@
       "time": "18:39:18",
       "iso": "2026-08-24T13:09:18.775Z",
       "action": "updated remark for LP-AP01 at POLPITHIGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "18:39:10",
-      "iso": "2026-08-24T13:09:10.110Z",
-      "action": "updated remark for TF-KD24-061 at GALEWELA: “Damaged - 50%”"
     }
   ]
 }
