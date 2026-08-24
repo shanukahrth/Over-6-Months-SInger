@@ -46822,6 +46822,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:09:40",
       "lastUpdated": "2026-08-24T14:39:40.879Z"
+    },
+    "ULED24D1000-U||NIKAWERATIYA": {
+      "remark": "Reevrt / Damaged - %",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:10:05",
+      "lastUpdated": "2026-08-24T14:40:05.215Z"
     }
   },
   "showroomVisits": {
@@ -48112,6 +48119,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:10:05",
+      "iso": "2026-08-24T14:40:05.217Z",
+      "action": "updated remark for ULED24D1000-U at NIKAWERATIYA: “Reevrt / Damaged - %”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:09:40",
       "iso": "2026-08-24T14:39:40.881Z",
       "action": "updated remark for UJB-LB6027 at NIKAWERATIYA: “Okay”"
@@ -48451,13 +48465,6 @@
       "time": "19:14:28",
       "iso": "2026-08-24T13:44:28.926Z",
       "action": "updated remark for SMW823AY7 at POLPITHIGAMA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:14:08",
-      "iso": "2026-08-24T13:44:08.321Z",
-      "action": "updated remark for SLE40E810C at POLPITHIGAMA: “Damaged - 80%”"
     }
   ]
 }
