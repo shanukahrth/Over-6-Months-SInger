@@ -37288,6 +37288,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:55:39",
       "lastUpdated": "2026-08-24T06:25:39.866Z"
+    },
+    "LF-OFI-ST-001-SHW-S||SHOMES- MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:55:59",
+      "lastUpdated": "2026-08-24T06:25:59.586Z"
     }
   },
   "showroomVisits": {
@@ -38264,6 +38271,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "11:55:59",
+      "iso": "2026-08-24T06:25:59.587Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at SHOMES- MATALE: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "11:55:39",
       "iso": "2026-08-24T06:25:39.868Z",
       "action": "updated remark for LF-LEO-HCUP-BCH at SHOMES- MATALE: “Damaged - 50%”"
@@ -38603,13 +38617,6 @@
       "time": "11:45:30",
       "iso": "2026-08-24T06:15:30.024Z",
       "action": "updated remark for SKY32STD1000 at WARAKAPOLA: “Exchange Not Completed”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:45:20",
-      "iso": "2026-08-24T06:15:20.809Z",
-      "action": "updated remark for B-CFB9433X at SHOMES- MATALE: “Damaged - 50%”"
     }
   ]
 }
