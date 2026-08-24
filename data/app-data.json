@@ -36980,6 +36980,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:43:43",
       "lastUpdated": "2026-08-24T06:13:43.834Z"
+    },
+    "TCL20LPL-6-256-MWBLK||SHOMES- MATALE": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:43:44",
+      "lastUpdated": "2026-08-24T06:13:44.344Z"
     }
   },
   "showroomVisits": {
@@ -37954,6 +37961,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:43:44",
+      "iso": "2026-08-24T06:13:44.344Z",
+      "action": "updated remark for TCL20LPL-6-256-MWBLK at SHOMES- MATALE: “Damaged - 90%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "11:43:43",
@@ -38295,13 +38309,6 @@
       "time": "11:23:49",
       "iso": "2026-08-24T05:53:49.574Z",
       "action": "updated remark for HON-X9C-12-256-BLK at THIRAPPANE: “Bill”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:23:34",
-      "iso": "2026-08-24T05:53:34.791Z",
-      "action": "updated remark for SMG-A36-5G-8-256-BLK at THIRAPPANE: “Bill”"
     }
   ]
 }
