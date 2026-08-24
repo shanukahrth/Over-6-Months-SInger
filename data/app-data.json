@@ -34236,6 +34236,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:34:06",
       "lastUpdated": "2026-08-24T03:04:06.735Z"
+    },
+    "SLE43U5||KANDANA": {
+      "remark": "Exchange PO pending",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:34:29",
+      "lastUpdated": "2026-08-24T03:04:29.063Z"
     }
   },
   "showroomVisits": {
@@ -35212,6 +35219,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:34:29",
+      "iso": "2026-08-24T03:04:29.064Z",
+      "action": "updated remark for SLE43U5 at KANDANA: “Exchange PO pending”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:34:06",
       "iso": "2026-08-24T03:04:06.736Z",
       "action": "updated remark for SLE43G890 at KANDANA: “1 unit transfer to Wattala / 1 unit pannel damage - return to WH”"
@@ -35551,13 +35565,6 @@
       "time": "17:51:50",
       "iso": "2026-08-21T12:21:50.975Z",
       "action": "updated remark for NB1700T3 at MATALE: “Sold”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:51:37",
-      "iso": "2026-08-21T12:21:37.172Z",
-      "action": "updated remark for MD-GSE-L004 at MATALE: “Ok”"
     }
   ]
 }
