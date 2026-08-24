@@ -43677,6 +43677,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "AMPARA||AMPARA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-20",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43784,6 +43792,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:42:47",
+      "iso": "2026-08-24T09:12:47.321Z",
+      "action": "updated AMPARA showroom (visitDate: 2026-08-20)"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:42:43",
+      "iso": "2026-08-24T09:12:43.516Z",
+      "action": "updated AMPARA showroom (visited: Yes)"
+    },
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
@@ -44119,20 +44141,6 @@
       "time": "14:28:12",
       "iso": "2026-08-24T08:58:12.505Z",
       "action": "updated remark for H-CVW1600 at BULATHKOHUPITIYA: “25% flat offered”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:27:46",
-      "iso": "2026-08-24T08:57:46.470Z",
-      "action": "updated remark for B-RDNI295XIB100P at KAHATAGASDIGILIYA: “40%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:27:40",
-      "iso": "2026-08-24T08:57:40.269Z",
-      "action": "updated remark for B-RDNI295XIB100P at KAHATAGASDIGILIYA: “40%”"
     }
   ]
 }
