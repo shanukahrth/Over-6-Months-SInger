@@ -44311,11 +44311,18 @@
       "lastUpdated": "2026-08-24T10:35:38.690Z"
     },
     "TF-FP24-SCR342||WENNAPPUWA": {
-      "remark": "Can sell",
+      "remark": "Damaged - 10%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-24",
-      "commentTime": "16:05:24",
-      "lastUpdated": "2026-08-24T10:35:24.394Z"
+      "commentTime": "16:05:43",
+      "lastUpdated": "2026-08-24T10:35:43.169Z"
+    },
+    "TF-GCA-1336||WENNAPPUWA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:05:44",
+      "lastUpdated": "2026-08-24T10:35:44.861Z"
     }
   },
   "showroomVisits": {
@@ -45606,6 +45613,27 @@
     {
       "user": "Sulani",
       "date": "2026-08-24",
+      "time": "16:05:44",
+      "iso": "2026-08-24T10:35:44.862Z",
+      "action": "updated remark for TF-GCA-1336 at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:05:43",
+      "iso": "2026-08-24T10:35:43.170Z",
+      "action": "updated remark for TF-FP24-SCR342 at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:05:41",
+      "iso": "2026-08-24T10:35:41.595Z",
+      "action": "updated remark for TF-FP24-SCR342 at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
       "time": "16:05:24",
       "iso": "2026-08-24T10:35:24.396Z",
       "action": "updated remark for TF-FP24-SCR342 at WENNAPPUWA: “Can sell”"
@@ -45931,27 +45959,6 @@
       "time": "15:55:38",
       "iso": "2026-08-24T10:25:38.297Z",
       "action": "updated remark for SLE-65IFPZB-15-WCAM at WENNAPPUWA: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "15:55:30",
-      "iso": "2026-08-24T10:25:30.830Z",
-      "action": "updated remark for SL-PB-426 at WENNAPPUWA: “Damaged - 40%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:55:57",
-      "iso": "2026-08-24T10:25:57.078Z",
-      "action": "updated remark for WFL-SPM-72X60X7-S at KOTIYAKUMBURA: “Exchange.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:55:49",
-      "iso": "2026-08-24T10:25:49.941Z",
-      "action": "updated remark for WFL-SPM-72X60X7-S at KOTIYAKUMBURA: “Exchange”"
     }
   ]
 }
