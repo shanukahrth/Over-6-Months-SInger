@@ -37162,6 +37162,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:49:24",
       "lastUpdated": "2026-08-24T06:19:24.759Z"
+    },
+    "SMGRT28A3021GS||MATALE": {
+      "remark": "Display Damaged - 25%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:49:38",
+      "lastUpdated": "2026-08-24T06:19:38.058Z"
     }
   },
   "showroomVisits": {
@@ -38136,6 +38143,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:49:38",
+      "iso": "2026-08-24T06:19:38.059Z",
+      "action": "updated remark for SMGRT28A3021GS at MATALE: “Display Damaged - 25%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:49:24",
@@ -38477,13 +38491,6 @@
       "time": "11:40:45",
       "iso": "2026-08-24T06:10:45.385Z",
       "action": "updated remark for USHA-FS40-13B at WARAKAPOLA: “70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:40:33",
-      "iso": "2026-08-24T06:10:33.988Z",
-      "action": "updated remark for ACER-AL15-I5-8GB-512-SIL at SHOMES- MATALE: “Display -20%”"
     }
   ]
 }
