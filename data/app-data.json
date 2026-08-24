@@ -43799,6 +43799,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "HINGURAKGODA||POLONNARUWA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43906,6 +43914,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:45:14",
+      "iso": "2026-08-24T09:15:14.281Z",
+      "action": "updated HINGURAKGODA showroom (visited: Yes)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -44248,13 +44263,6 @@
       "time": "14:35:58",
       "iso": "2026-08-24T09:05:58.168Z",
       "action": "updated remark for PN-SC-BMAX5E-K at WARAKAPOLA: “20%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:35:59",
-      "iso": "2026-08-24T09:05:59.161Z",
-      "action": "updated remark for SLE43G890 at KAHATAGASDIGILIYA: “45%”"
     }
   ]
 }
