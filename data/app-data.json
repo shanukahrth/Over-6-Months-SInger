@@ -43807,6 +43807,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "JAYANTHIPURA||POLONNARUWA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-19",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43914,6 +43922,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:45:33",
+      "iso": "2026-08-24T09:15:33.075Z",
+      "action": "updated JAYANTHIPURA showroom (visitDate: 2026-08-19)"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:45:29",
+      "iso": "2026-08-24T09:15:29.326Z",
+      "action": "updated JAYANTHIPURA showroom (visited: Yes)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -44249,20 +44271,6 @@
       "time": "14:36:40",
       "iso": "2026-08-24T09:06:40.278Z",
       "action": "updated remark for SMGUA32N4010 at KAHATAGASDIGILIYA: “45%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:36:23",
-      "iso": "2026-08-24T09:06:23.167Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at WARAKAPOLA: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:35:58",
-      "iso": "2026-08-24T09:05:58.168Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at WARAKAPOLA: “20%”"
     }
   ]
 }
