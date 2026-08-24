@@ -39785,8 +39785,8 @@
       "remark": "50%",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-24",
-      "commentTime": "12:36:46",
-      "lastUpdated": "2026-08-24T07:06:46.425Z"
+      "commentTime": "12:38:36",
+      "lastUpdated": "2026-08-24T07:08:36.408Z"
     },
     "WF-DAYSTAR-01-S||NAWALAPITIYA": {
       "remark": "50%",
@@ -39850,6 +39850,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:38:16",
       "lastUpdated": "2026-08-24T07:08:16.938Z"
+    },
+    "WFL-SLM-72X60-S||NAWALAPITIYA": {
+      "remark": "Exchange",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:38:51",
+      "lastUpdated": "2026-08-24T07:08:51.307Z"
+    },
+    "WFL-SPM-72X60X7-S||NAWALAPITIYA": {
+      "remark": "Exchange",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:38:55",
+      "lastUpdated": "2026-08-24T07:08:55.234Z"
     }
   },
   "showroomVisits": {
@@ -40860,6 +40874,27 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:38:55",
+      "iso": "2026-08-24T07:08:55.236Z",
+      "action": "updated remark for WFL-SPM-72X60X7-S at NAWALAPITIYA: “Exchange”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:38:51",
+      "iso": "2026-08-24T07:08:51.310Z",
+      "action": "updated remark for WFL-SLM-72X60-S at NAWALAPITIYA: “Exchange”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:38:36",
+      "iso": "2026-08-24T07:08:36.410Z",
+      "action": "updated remark for WF-ROM-DTO-S at NAWALAPITIYA: “50%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:38:16",
@@ -41187,27 +41222,6 @@
       "time": "12:34:02",
       "iso": "2026-08-24T07:04:02.992Z",
       "action": "updated remark for SMG-A17-8-128-BLU at GALENBIDUNUWEWA: “Add 5%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:34:21",
-      "iso": "2026-08-24T07:04:21.789Z",
-      "action": "updated remark for TF-TW26-064 at YATIYANTHOTA: “15% offered flat”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:34:16",
-      "iso": "2026-08-24T07:04:16.623Z",
-      "action": "updated remark for TF-FP24-SCR342 at YATIYANTHOTA: “15% offered flat”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:33:28",
-      "iso": "2026-08-24T07:03:28.169Z",
-      "action": "updated remark for SL-ECO192 at MELSIRIPURA: “Damaged - 60%”"
     }
   ]
 }
