@@ -44498,6 +44498,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "VALAICHENAI||BATTICALOA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -44605,6 +44613,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "15:12:38",
+      "iso": "2026-08-24T09:42:38.777Z",
+      "action": "updated VALAICHENAI showroom (visited: Yes)"
+    },
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
@@ -44947,13 +44962,6 @@
       "time": "14:58:38",
       "iso": "2026-08-24T09:28:38.040Z",
       "action": "updated remark for B-CFB9433XH at WARAKAPOLA: “10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:58:29",
-      "iso": "2026-08-24T09:28:29.926Z",
-      "action": "updated remark for SIN-DUO-W10 at WENNAPPUWA: “Damaged - 90%”"
     }
   ]
 }
