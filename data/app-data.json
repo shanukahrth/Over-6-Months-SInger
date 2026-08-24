@@ -38254,6 +38254,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:23:47",
       "lastUpdated": "2026-08-24T06:53:47.377Z"
+    },
+    "LF-LEO-18023-WNG-S||MELSIRIPURA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:24:26",
+      "lastUpdated": "2026-08-24T06:54:26.759Z"
+    },
+    "LF-LEO-SCUP-WNG-S||MELSIRIPURA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:24:30",
+      "lastUpdated": "2026-08-24T06:54:30.887Z"
     }
   },
   "showroomVisits": {
@@ -39264,6 +39278,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:24:30",
+      "iso": "2026-08-24T06:54:30.888Z",
+      "action": "updated remark for LF-LEO-SCUP-WNG-S at MELSIRIPURA: “Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:24:26",
+      "iso": "2026-08-24T06:54:26.760Z",
+      "action": "updated remark for LF-LEO-18023-WNG-S at MELSIRIPURA: “Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:24:24",
+      "iso": "2026-08-24T06:54:24.633Z",
+      "action": "updated remark for LF-LEO-18023-WNG-S at MELSIRIPURA: “Damaged - 60%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "12:24:44",
@@ -39591,27 +39626,6 @@
       "time": "12:18:49",
       "iso": "2026-08-24T06:48:49.982Z",
       "action": "updated remark for B-HIAG64223SXL at MELSIRIPURA: “Damaged - 40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:18:44",
-      "iso": "2026-08-24T06:48:44.480Z",
-      "action": "updated remark for SLE40D600A at WARAKAPOLA: “Pannel Damage 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:18:40",
-      "iso": "2026-08-24T06:48:40.420Z",
-      "action": "updated remark for WFL-NOVA-CHR-S at SHOMES- MATALE: “Damaged - 30%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:18:18",
-      "iso": "2026-08-24T06:48:18.475Z",
-      "action": "updated remark for B-DFN28J21X at MELSIRIPURA: “Damaged - 50%”"
     }
   ]
 }
