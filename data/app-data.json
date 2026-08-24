@@ -39633,6 +39633,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:35:27",
       "lastUpdated": "2026-08-24T07:05:27.626Z"
+    },
+    "SLE40E810C||MELSIRIPURA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:35:21",
+      "lastUpdated": "2026-08-24T07:05:21.057Z"
+    },
+    "SLE43G690||MELSIRIPURA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:35:33",
+      "lastUpdated": "2026-08-24T07:05:33.570Z"
     }
   },
   "showroomVisits": {
@@ -40643,6 +40657,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:35:33",
+      "iso": "2026-08-24T07:05:33.570Z",
+      "action": "updated remark for SLE43G690 at MELSIRIPURA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:35:21",
+      "iso": "2026-08-24T07:05:21.059Z",
+      "action": "updated remark for SLE40E810C at MELSIRIPURA: “Damaged - 50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "12:35:27",
@@ -40977,20 +41005,6 @@
       "time": "12:23:27",
       "iso": "2026-08-24T06:53:27.957Z",
       "action": "updated remark for WP-1R-.75T at NAWALAPITIYA: “80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:23:24",
-      "iso": "2026-08-24T06:53:24.711Z",
-      "action": "updated remark for WP-1-TI-S at NAWALAPITIYA: “80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:22:42",
-      "iso": "2026-08-24T06:52:42.672Z",
-      "action": "updated remark for WP-PVC at NAWALAPITIYA: “To be Dropped”"
     }
   ]
 }
