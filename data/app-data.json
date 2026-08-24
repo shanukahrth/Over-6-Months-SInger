@@ -40494,6 +40494,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:52:21",
       "lastUpdated": "2026-08-24T08:22:21.816Z"
+    },
+    "LF-BUDGET-ST-AGO-S||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:52:08",
+      "lastUpdated": "2026-08-24T08:22:08.123Z"
     }
   },
   "showroomVisits": {
@@ -41504,6 +41511,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "13:52:08",
+      "iso": "2026-08-24T08:22:08.125Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at RAGAMA: “50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "13:52:21",
@@ -41845,13 +41859,6 @@
       "time": "12:58:21",
       "iso": "2026-08-24T07:28:21.504Z",
       "action": "updated remark for PN-SC-TMAX5GSK at NAWALAPITIYA: “50% discount”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:55:43",
-      "iso": "2026-08-24T07:25:43.709Z",
-      "action": "updated remark for AC-TEMP-Y9-18 at NAWALAPITIYA: “To be Dropped”"
     }
   ]
 }
