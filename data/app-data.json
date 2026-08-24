@@ -44512,6 +44512,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:17:04",
       "lastUpdated": "2026-08-24T10:47:04.682Z"
+    },
+    "WF-OSLO-S||WENNAPPUWA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:17:07",
+      "lastUpdated": "2026-08-24T10:47:07.992Z"
     }
   },
   "showroomVisits": {
@@ -45802,6 +45809,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-24",
+      "time": "16:17:07",
+      "iso": "2026-08-24T10:47:07.994Z",
+      "action": "updated remark for WF-OSLO-S at WENNAPPUWA: “Damaged - 75%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
       "time": "16:17:04",
       "iso": "2026-08-24T10:47:04.684Z",
       "action": "updated remark for WF-LILY-TBL-S at WENNAPPUWA: “Damaged - 75%”"
@@ -46141,13 +46155,6 @@
       "time": "16:04:56",
       "iso": "2026-08-24T10:34:56.545Z",
       "action": "updated remark for TF-AF32-577 at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "16:05:18",
-      "iso": "2026-08-24T10:35:18.843Z",
-      "action": "updated remark for USI-ATC-302 at KOTIYAKUMBURA: “50% offered to see what can be done”"
     }
   ]
 }
