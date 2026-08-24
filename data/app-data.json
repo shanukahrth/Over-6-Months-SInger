@@ -43856,11 +43856,11 @@
       "lastUpdated": "2026-08-24T10:08:42.632Z"
     },
     "UR591SW||KOTIYAKUMBURA": {
-      "remark": "Damaged.c",
+      "remark": "Damaged.Can't repair",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "15:38:57",
-      "lastUpdated": "2026-08-24T10:08:57.201Z"
+      "commentTime": "15:39:11",
+      "lastUpdated": "2026-08-24T10:09:11.914Z"
     }
   },
   "showroomVisits": {
@@ -45145,6 +45145,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "15:39:11",
+      "iso": "2026-08-24T10:09:11.920Z",
+      "action": "updated remark for UR591SW at KOTIYAKUMBURA: “Damaged.Can't repair”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "15:38:57",
       "iso": "2026-08-24T10:08:57.205Z",
       "action": "updated remark for UR591SW at KOTIYAKUMBURA: “Damaged.c”"
@@ -45484,13 +45491,6 @@
       "time": "15:24:18",
       "iso": "2026-08-24T09:54:18.551Z",
       "action": "updated remark for TF-FP24-SCR342 at HOROWPATHANA: “15%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:24:04",
-      "iso": "2026-08-24T09:54:04.812Z",
-      "action": "updated remark for NCPDG-SP280 at HOROWPATHANA: “30%”"
     }
   ]
 }
