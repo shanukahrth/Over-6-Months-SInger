@@ -43112,6 +43112,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:00:38",
       "lastUpdated": "2026-08-24T09:30:38.635Z"
+    },
+    "SLE55H4000||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:00:55",
+      "lastUpdated": "2026-08-24T09:30:55.359Z"
     }
   },
   "showroomVisits": {
@@ -44328,6 +44335,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "15:00:55",
+      "iso": "2026-08-24T09:30:55.363Z",
+      "action": "updated remark for SLE55H4000 at RAGAMA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "15:00:38",
       "iso": "2026-08-24T09:30:38.636Z",
       "action": "updated remark for SLE40D600A at RAGAMA: “50%”"
@@ -44667,13 +44681,6 @@
       "time": "14:52:46",
       "iso": "2026-08-24T09:22:46.882Z",
       "action": "updated remark for HU-SECURITY at WENNAPPUWA: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:52:44",
-      "iso": "2026-08-24T09:22:44.602Z",
-      "action": "updated remark for INTEL-NUC6CAYH at WENNAPPUWA: “-”"
     }
   ]
 }
