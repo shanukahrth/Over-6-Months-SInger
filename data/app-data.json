@@ -36602,6 +36602,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:19:30",
       "lastUpdated": "2026-08-24T05:49:30.492Z"
+    },
+    "SIS253CU||THIRAPPANE": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:19:42",
+      "lastUpdated": "2026-08-24T05:49:42.855Z"
+    },
+    "NCPDG-FP240||THIRAPPANE": {
+      "remark": "Add 20%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:19:53",
+      "lastUpdated": "2026-08-24T05:49:53.259Z"
     }
   },
   "showroomVisits": {
@@ -37578,6 +37592,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "11:19:53",
+      "iso": "2026-08-24T05:49:53.262Z",
+      "action": "updated remark for NCPDG-FP240 at THIRAPPANE: “Add 20%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "11:19:42",
+      "iso": "2026-08-24T05:49:42.858Z",
+      "action": "updated remark for SIS253CU at THIRAPPANE: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "11:19:30",
       "iso": "2026-08-24T05:49:30.494Z",
       "action": "updated remark for SWH-118E at THIRAPPANE: “30%”"
@@ -37910,20 +37938,6 @@
       "time": "10:59:10",
       "iso": "2026-08-24T05:29:10.732Z",
       "action": "updated remark for AS-13G-I5-512GB-829-BLU at RAGAMA: “N/A”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:58:01",
-      "iso": "2026-08-24T05:28:01.684Z",
-      "action": "updated remark for AES-HAV-30S at RAGAMA: “Maximum 10% additional discount based on the condition.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:52:32",
-      "iso": "2026-08-24T05:22:32.385Z",
-      "action": "updated remark for SL-PB-426 at MINUWANGODA - B: “Discounts already given to DM”"
     }
   ]
 }
