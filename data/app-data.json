@@ -43693,6 +43693,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:31:20",
       "lastUpdated": "2026-08-24T10:01:20.436Z"
+    },
+    "WF-PERTH-CT-S||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:31:05",
+      "lastUpdated": "2026-08-24T10:01:05.085Z"
     }
   },
   "showroomVisits": {
@@ -44975,6 +44982,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "15:31:05",
+      "iso": "2026-08-24T10:01:05.086Z",
+      "action": "updated remark for WF-PERTH-CT-S at RAGAMA: “50%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "15:31:20",
@@ -45316,13 +45330,6 @@
       "time": "15:15:55",
       "iso": "2026-08-24T09:45:55.696Z",
       "action": "updated remark for FAN-FS40-10DR at WARAKAPOLA: “Excahnge procesd”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:16:07",
-      "iso": "2026-08-24T09:46:07.043Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at HOROWPATHANA: “25000”"
     }
   ]
 }
