@@ -37421,6 +37421,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:59:03",
       "lastUpdated": "2026-08-24T06:29:03.029Z"
+    },
+    "LF-SLIDCUP-CKT-S||SHOMES- MATALE": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:58:48",
+      "lastUpdated": "2026-08-24T06:28:48.940Z"
+    },
+    "LF-SLVY-BDQ-CLM-S||SHOMES- MATALE": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:59:12",
+      "lastUpdated": "2026-08-24T06:29:12.966Z"
     }
   },
   "showroomVisits": {
@@ -38395,6 +38409,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:59:12",
+      "iso": "2026-08-24T06:29:12.968Z",
+      "action": "updated remark for LF-SLVY-BDQ-CLM-S at SHOMES- MATALE: “Damaged - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:58:48",
+      "iso": "2026-08-24T06:28:48.942Z",
+      "action": "updated remark for LF-SLIDCUP-CKT-S at SHOMES- MATALE: “Damaged - 80%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "11:59:03",
@@ -38729,20 +38757,6 @@
       "time": "11:49:10",
       "iso": "2026-08-24T06:19:10.010Z",
       "action": "updated remark for SLMC-18DSLHS at MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:49:07",
-      "iso": "2026-08-24T06:19:07.012Z",
-      "action": "updated remark for HON-CH-WATCH-2I-WH at SHOMES- MATALE: “Free Issue”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:48:48",
-      "iso": "2026-08-24T06:18:48.564Z",
-      "action": "updated remark for SLE40D600A at MATALE: “Damaged - 80%”"
     }
   ]
 }
