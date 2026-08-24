@@ -36399,6 +36399,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:09:12",
       "lastUpdated": "2026-08-24T05:39:12.668Z"
+    },
+    "LF-BUDGET-BDQ-AGO-S||RUWANWELLA": {
+      "remark": "50% offered. Damaged",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:10:14",
+      "lastUpdated": "2026-08-24T05:40:14.007Z"
     }
   },
   "showroomVisits": {
@@ -37373,6 +37380,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "11:10:14",
+      "iso": "2026-08-24T05:40:14.012Z",
+      "action": "updated remark for LF-BUDGET-BDQ-AGO-S at RUWANWELLA: “50% offered. Damaged”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "11:09:12",
@@ -37714,13 +37728,6 @@
       "time": "10:39:55",
       "iso": "2026-08-24T05:09:55.369Z",
       "action": "updated remark for SLE32E710 at MIRIGAMA: “Additional 20%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:40:19",
-      "iso": "2026-08-24T05:10:19.196Z",
-      "action": "updated remark for H-CVW1600 at RUWANWELLA: “20% flat”"
     }
   ]
 }
