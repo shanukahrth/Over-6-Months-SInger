@@ -45849,6 +45849,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:18:19",
       "lastUpdated": "2026-08-24T12:48:19.892Z"
+    },
+    "TF-NIDFP24-170||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:18:38",
+      "lastUpdated": "2026-08-24T12:48:38.114Z"
     }
   },
   "showroomVisits": {
@@ -47139,6 +47146,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:18:38",
+      "iso": "2026-08-24T12:48:38.115Z",
+      "action": "updated remark for TF-NIDFP24-170 at NAULA: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:18:19",
       "iso": "2026-08-24T12:48:19.894Z",
       "action": "updated remark for TF-CM-APR737 at NAULA: “Okay”"
@@ -47477,13 +47491,6 @@
       "date": "2026-08-24",
       "time": "18:04:27",
       "iso": "2026-08-24T12:34:27.319Z",
-      "action": "updated remark for PF-RTN-ARMLS-BR-S at NAULA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:04:26",
-      "iso": "2026-08-24T12:34:26.295Z",
       "action": "updated remark for PF-RTN-ARMLS-BR-S at NAULA: “Damaged - 60%”"
     }
   ]
