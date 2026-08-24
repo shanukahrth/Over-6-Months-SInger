@@ -40550,6 +40550,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:55:19",
       "lastUpdated": "2026-08-24T08:25:19.773Z"
+    },
+    "WFL-CRYSTAL-72X60-S||BULATHKOHUPITIYA": {
+      "remark": "Damaged.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:55:54",
+      "lastUpdated": "2026-08-24T08:25:54.947Z"
+    },
+    "LF-LEO-LTAB-WNG-S||BULATHKOHUPITIYA": {
+      "remark": "10% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:56:03",
+      "lastUpdated": "2026-08-24T08:26:03.992Z"
     }
   },
   "showroomVisits": {
@@ -41560,6 +41574,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "13:56:03",
+      "iso": "2026-08-24T08:26:03.997Z",
+      "action": "updated remark for LF-LEO-LTAB-WNG-S at BULATHKOHUPITIYA: “10% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "13:55:54",
+      "iso": "2026-08-24T08:25:54.953Z",
+      "action": "updated remark for WFL-CRYSTAL-72X60-S at BULATHKOHUPITIYA: “Damaged.”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "13:55:19",
@@ -41894,20 +41922,6 @@
       "time": "13:00:50",
       "iso": "2026-08-24T07:30:50.700Z",
       "action": "updated remark for SLE32E930 at YATIYANTHOTA: “Damage products. Return to wearhouse”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:00:49",
-      "iso": "2026-08-24T07:30:49.307Z",
-      "action": "updated remark for SLE32E910 at YATIYANTHOTA: “Damage products. Return to wearhouse”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "13:00:10",
-      "iso": "2026-08-24T07:30:10.642Z",
-      "action": "updated remark for MC8280 at WARAKAPOLA: “80%”"
     }
   ]
 }
