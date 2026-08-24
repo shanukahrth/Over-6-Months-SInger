@@ -35125,6 +35125,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:44:00",
       "lastUpdated": "2026-08-24T04:14:00.566Z"
+    },
+    "LP-AP01||RUWANWELLA": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:44:36",
+      "lastUpdated": "2026-08-24T04:14:36.204Z"
     }
   },
   "showroomVisits": {
@@ -36099,6 +36106,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "09:44:36",
+      "iso": "2026-08-24T04:14:36.222Z",
+      "action": "updated remark for LP-AP01 at RUWANWELLA: “Sold”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:44:00",
@@ -36440,13 +36454,6 @@
       "time": "09:23:59",
       "iso": "2026-08-24T03:53:59.914Z",
       "action": "updated remark for TF-SI-ESS-242 at RUWANWELLA: “Sold”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "09:23:16",
-      "iso": "2026-08-24T03:53:16.560Z",
-      "action": "updated remark for FAN-VIERA-TEAK at MINUWANGODA - B: “0”"
     }
   ]
 }
