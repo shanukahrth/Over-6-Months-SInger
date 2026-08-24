@@ -40053,6 +40053,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:47:09",
       "lastUpdated": "2026-08-24T07:17:09.142Z"
+    },
+    "SIN-BS30||WARAKAPOLA": {
+      "remark": "9500",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:47:33",
+      "lastUpdated": "2026-08-24T07:17:33.145Z"
     }
   },
   "showroomVisits": {
@@ -41065,6 +41072,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
+      "time": "12:47:33",
+      "iso": "2026-08-24T07:17:33.147Z",
+      "action": "updated remark for SIN-BS30 at WARAKAPOLA: “9500”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
       "time": "12:47:09",
       "iso": "2026-08-24T07:17:09.143Z",
       "action": "updated remark for SHT-PHT505L at WARAKAPOLA: “80%”"
@@ -41404,13 +41418,6 @@
       "time": "12:37:16",
       "iso": "2026-08-24T07:07:16.923Z",
       "action": "updated remark for WF-JUPITER-05-S at NAWALAPITIYA: “To be returned”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:36:49",
-      "iso": "2026-08-24T07:06:49.753Z",
-      "action": "updated remark for WF-DAYSTAR-01-S at NAWALAPITIYA: “50%”"
     }
   ]
 }
