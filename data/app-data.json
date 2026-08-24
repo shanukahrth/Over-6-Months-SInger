@@ -42053,8 +42053,8 @@
       "remark": "65%",
       "commentedBy": "Thushitha Jayaweera",
       "commentDate": "2026-08-24",
-      "commentTime": "14:18:18",
-      "lastUpdated": "2026-08-24T08:48:18.491Z"
+      "commentTime": "14:19:24",
+      "lastUpdated": "2026-08-24T08:49:24.829Z"
     },
     "KA-KT-212F||KAHATAGASDIGILIYA": {
       "remark": "65%",
@@ -42062,6 +42062,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:18:41",
       "lastUpdated": "2026-08-24T08:48:41.791Z"
+    },
+    "IWH-1000WS||KAHATAGASDIGILIYA": {
+      "remark": "90%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:19:14",
+      "lastUpdated": "2026-08-24T08:49:14.045Z"
     }
   },
   "showroomVisits": {
@@ -43132,6 +43139,20 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:19:24",
+      "iso": "2026-08-24T08:49:24.833Z",
+      "action": "updated remark for KA-LW-185A at KAHATAGASDIGILIYA: “65%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:19:14",
+      "iso": "2026-08-24T08:49:14.048Z",
+      "action": "updated remark for IWH-1000WS at KAHATAGASDIGILIYA: “90%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-24",
       "time": "14:19:09",
@@ -43466,20 +43487,6 @@
       "time": "13:49:40",
       "iso": "2026-08-24T08:19:40.018Z",
       "action": "updated remark for SL-WD7004 at GINIGATHHENA: “Parts missing 85%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:49:01",
-      "iso": "2026-08-24T08:19:01.835Z",
-      "action": "updated remark for SWM-FA70R at GINIGATHHENA: “Damaged 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:48:45",
-      "iso": "2026-08-24T08:18:45.076Z",
-      "action": "updated remark for SWM-FA70R at GINIGATHHENA: “Damaged 80%”"
     }
   ]
 }
