@@ -37127,6 +37127,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:48:39",
       "lastUpdated": "2026-08-24T06:18:39.215Z"
+    },
+    "SLE40D600A||MATALE": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:48:48",
+      "lastUpdated": "2026-08-24T06:18:48.563Z"
     }
   },
   "showroomVisits": {
@@ -38101,6 +38108,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:48:48",
+      "iso": "2026-08-24T06:18:48.564Z",
+      "action": "updated remark for SLE40D600A at MATALE: “Damaged - 80%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:48:46",
+      "iso": "2026-08-24T06:18:46.579Z",
+      "action": "updated remark for SLE40D600A at MATALE: “Damaged - 80%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:48:39",
@@ -38435,20 +38456,6 @@
       "time": "11:36:51",
       "iso": "2026-08-24T06:06:51.127Z",
       "action": "updated remark for TF-SI-ESS-242 at WARAKAPOLA: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:36:18",
-      "iso": "2026-08-24T06:06:18.554Z",
-      "action": "updated remark for TF-GS-SPKT302 at WARAKAPOLA: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:35:55",
-      "iso": "2026-08-24T06:05:55.690Z",
-      "action": "updated remark for TF-FP24-SCR342 at WARAKAPOLA: “-”"
     }
   ]
 }
