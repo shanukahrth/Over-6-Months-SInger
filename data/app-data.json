@@ -36448,6 +36448,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:12:29",
       "lastUpdated": "2026-08-24T05:42:29.487Z"
+    },
+    "LF-OFI-ST-001-SHW-S||RUWANWELLA": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:12:58",
+      "lastUpdated": "2026-08-24T05:42:58.634Z"
     }
   },
   "showroomVisits": {
@@ -37424,6 +37431,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "11:12:58",
+      "iso": "2026-08-24T05:42:58.639Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at RUWANWELLA: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "11:12:29",
       "iso": "2026-08-24T05:42:29.506Z",
       "action": "updated remark for WFL-SPM-75X60X8-S at RUWANWELLA: “80% offered. Damaged”"
@@ -37763,13 +37777,6 @@
       "time": "10:42:47",
       "iso": "2026-08-24T05:12:47.430Z",
       "action": "updated remark for SLE32E910 at MIRIGAMA: “Upto 70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:43:17",
-      "iso": "2026-08-24T05:13:17.021Z",
-      "action": "updated remark for SWM-FA70R at RUWANWELLA: “Not working. Service center doesn't repair. Inform the factory.”"
     }
   ]
 }
