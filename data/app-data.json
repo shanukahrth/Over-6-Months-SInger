@@ -38522,11 +38522,11 @@
       "lastUpdated": "2026-08-24T05:42:49.721Z"
     },
     "AC-TEMP-Y9-18||NAWALAPITIYA": {
-      "remark": "To be dropped",
+      "remark": "To be Dropped",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-24",
-      "commentTime": "11:13:02",
-      "lastUpdated": "2026-08-24T05:43:02.961Z"
+      "commentTime": "12:55:43",
+      "lastUpdated": "2026-08-24T07:25:43.707Z"
     },
     "AC-TEMP-Y7-18||NAWALAPITIYA": {
       "remark": "To be dropped",
@@ -38543,11 +38543,11 @@
       "lastUpdated": "2026-08-24T05:43:57.970Z"
     },
     "PN-SC-TMAX5GSK||NAWALAPITIYA": {
-      "remark": "50% disc",
+      "remark": "50% discount",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-24",
-      "commentTime": "12:30:42",
-      "lastUpdated": "2026-08-24T07:00:42.410Z"
+      "commentTime": "12:58:21",
+      "lastUpdated": "2026-08-24T07:28:21.502Z"
     },
     "PN-SC-UA3GS-K||NAWALAPITIYA": {
       "remark": "50%",
@@ -38592,11 +38592,11 @@
       "lastUpdated": "2026-08-24T05:47:00.065Z"
     },
     "MHC-M40D||NAWALAPITIYA": {
-      "remark": "90%",
+      "remark": "90% disc",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-24",
-      "commentTime": "11:17:06",
-      "lastUpdated": "2026-08-24T05:47:06.071Z"
+      "commentTime": "12:53:22",
+      "lastUpdated": "2026-08-24T07:23:22.247Z"
     },
     "MHC-V43D||NAWALAPITIYA": {
       "remark": "80%",
@@ -38627,11 +38627,11 @@
       "lastUpdated": "2026-08-24T05:48:05.388Z"
     },
     "UR591SW||NAWALAPITIYA": {
-      "remark": "5000 price",
+      "remark": "5000 price offer",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-24",
-      "commentTime": "11:18:17",
-      "lastUpdated": "2026-08-24T05:48:17.021Z"
+      "commentTime": "12:45:20",
+      "lastUpdated": "2026-08-24T07:15:20.259Z"
     },
     "BY-L-KID20||NAWALAPITIYA": {
       "remark": "95%",
@@ -39852,18 +39852,18 @@
       "lastUpdated": "2026-08-24T07:08:16.938Z"
     },
     "WFL-SLM-72X60-S||NAWALAPITIYA": {
-      "remark": "Exchange",
+      "remark": "Exchange 90%",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-24",
-      "commentTime": "12:38:51",
-      "lastUpdated": "2026-08-24T07:08:51.307Z"
+      "commentTime": "12:40:59",
+      "lastUpdated": "2026-08-24T07:10:59.292Z"
     },
     "WFL-SPM-72X60X7-S||NAWALAPITIYA": {
-      "remark": "Exchange",
+      "remark": "Exchange 90%",
       "commentedBy": "Shanuka",
       "commentDate": "2026-08-24",
-      "commentTime": "12:38:55",
-      "lastUpdated": "2026-08-24T07:08:55.234Z"
+      "commentTime": "12:41:02",
+      "lastUpdated": "2026-08-24T07:11:02.626Z"
     },
     "PF-SUMO-ST-NKL-BU-S||SHOMES- MATALE": {
       "remark": "Damaged - 30%",
@@ -40214,6 +40214,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:58:04",
       "lastUpdated": "2026-08-24T07:28:04.606Z"
+    },
+    "WFL-AF-72X60||NAWALAPITIYA": {
+      "remark": "Exchange 90%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:40:56",
+      "lastUpdated": "2026-08-24T07:10:56.461Z"
     }
   },
   "showroomVisits": {
@@ -41224,6 +41231,55 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:58:21",
+      "iso": "2026-08-24T07:28:21.504Z",
+      "action": "updated remark for PN-SC-TMAX5GSK at NAWALAPITIYA: “50% discount”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:55:43",
+      "iso": "2026-08-24T07:25:43.709Z",
+      "action": "updated remark for AC-TEMP-Y9-18 at NAWALAPITIYA: “To be Dropped”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:53:22",
+      "iso": "2026-08-24T07:23:22.258Z",
+      "action": "updated remark for MHC-M40D at NAWALAPITIYA: “90% disc”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:45:20",
+      "iso": "2026-08-24T07:15:20.262Z",
+      "action": "updated remark for UR591SW at NAWALAPITIYA: “5000 price offer”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:41:02",
+      "iso": "2026-08-24T07:11:02.627Z",
+      "action": "updated remark for WFL-SPM-72X60X7-S at NAWALAPITIYA: “Exchange 90%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:40:59",
+      "iso": "2026-08-24T07:10:59.296Z",
+      "action": "updated remark for WFL-SLM-72X60-S at NAWALAPITIYA: “Exchange 90%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:40:56",
+      "iso": "2026-08-24T07:10:56.467Z",
+      "action": "updated remark for WFL-AF-72X60 at NAWALAPITIYA: “Exchange 90%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:58:04",
@@ -41523,55 +41579,6 @@
       "time": "12:43:39",
       "iso": "2026-08-24T07:13:39.662Z",
       "action": "updated remark for WFL-ALP-HS-LDL-S at MELSIRIPURA: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:43:05",
-      "iso": "2026-08-24T07:13:05.340Z",
-      "action": "updated remark for STT-100K at YATIYANTHOTA: “Can sell”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:42:41",
-      "iso": "2026-08-24T07:12:41.938Z",
-      "action": "updated remark for SMW823AY7 at YATIYANTHOTA: “Demo unit. Using for cookery demo”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:41:44",
-      "iso": "2026-08-24T07:11:44.954Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at SHOMES- MATALE: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:41:38",
-      "iso": "2026-08-24T07:11:38.209Z",
-      "action": "updated remark for HU-SECURITY at SHOMES- MATALE: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:41:47",
-      "iso": "2026-08-24T07:11:47.808Z",
-      "action": "updated remark for WF-NAMAL-CT-S at MELSIRIPURA: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:41:43",
-      "iso": "2026-08-24T07:11:43.814Z",
-      "action": "updated remark for WF-NAMAL-CT-S at MELSIRIPURA: “Damaged - 85%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:42:02",
-      "iso": "2026-08-24T07:12:02.694Z",
-      "action": "updated remark for R-BWS-02 at YATIYANTHOTA: “Flat 10% offered”"
     }
   ]
 }
