@@ -42804,6 +42804,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:48:28",
       "lastUpdated": "2026-08-24T09:18:28.684Z"
+    },
+    "HON-X8C-8-512-GRN||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:48:32",
+      "lastUpdated": "2026-08-24T09:18:32.022Z"
     }
   },
   "showroomVisits": {
@@ -44018,6 +44025,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:48:32",
+      "iso": "2026-08-24T09:18:32.022Z",
+      "action": "updated remark for HON-X8C-8-512-GRN at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "14:48:28",
@@ -44359,13 +44373,6 @@
       "time": "14:40:31",
       "iso": "2026-08-24T09:10:31.139Z",
       "action": "updated remark for PN-TH-32M402N at RAGAMA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:40:28",
-      "iso": "2026-08-24T09:10:28.630Z",
-      "action": "updated remark for KD-50X75K at WARAKAPOLA: “30%”"
     }
   ]
 }
