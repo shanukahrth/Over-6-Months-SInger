@@ -37414,6 +37414,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:58:53",
       "lastUpdated": "2026-08-24T06:28:53.354Z"
+    },
+    "TF-SI-ESS-242||MATALE": {
+      "remark": "Damaged - 35%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:59:03",
+      "lastUpdated": "2026-08-24T06:29:03.029Z"
     }
   },
   "showroomVisits": {
@@ -38390,6 +38397,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "11:59:03",
+      "iso": "2026-08-24T06:29:03.030Z",
+      "action": "updated remark for TF-SI-ESS-242 at MATALE: “Damaged - 35%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "11:58:53",
       "iso": "2026-08-24T06:28:53.356Z",
       "action": "updated remark for TF-NIK26-045 at MATALE: “Damaged - 35%”"
@@ -38728,13 +38742,6 @@
       "date": "2026-08-24",
       "time": "11:48:48",
       "iso": "2026-08-24T06:18:48.564Z",
-      "action": "updated remark for SLE40D600A at MATALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:48:46",
-      "iso": "2026-08-24T06:18:46.579Z",
       "action": "updated remark for SLE40D600A at MATALE: “Damaged - 80%”"
     }
   ]
