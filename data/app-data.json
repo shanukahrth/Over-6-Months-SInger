@@ -38731,9 +38731,22 @@
       "comment": "Pannel Damage 70",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-24"
+    },
+    "SLE43G890||WARAKAPOLA": {
+      "sold": false,
+      "comment": "Transfer to Display",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-24"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:10:10",
+      "iso": "2026-08-24T06:40:10.103Z",
+      "action": "updated sold comment for SLE43G890 at WARAKAPOLA: “Transfer to Display”"
+    },
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
@@ -39076,13 +39089,6 @@
       "time": "12:01:12",
       "iso": "2026-08-24T06:31:12.801Z",
       "action": "updated remark for SLE20S1300 at WARAKAPOLA: “Warehouse Return”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:00:42",
-      "iso": "2026-08-24T06:30:42.756Z",
-      "action": "updated remark for USHA-AVTR56 at MATALE: “Damaged - 20%”"
     }
   ]
 }
