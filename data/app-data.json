@@ -44038,11 +44038,11 @@
       "lastUpdated": "2026-08-24T10:23:43.182Z"
     },
     "WF-JUPITER-05-S||KOTIYAKUMBURA": {
-      "remark": "40% discount offered",
+      "remark": "40% discount offered . Display",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "15:54:25",
-      "lastUpdated": "2026-08-24T10:24:25.472Z"
+      "commentTime": "15:55:13",
+      "lastUpdated": "2026-08-24T10:25:13.130Z"
     },
     "SL-18VNF||WENNAPPUWA": {
       "remark": "Damaged - 85%",
@@ -44057,6 +44057,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:54:18",
       "lastUpdated": "2026-08-24T10:24:18.044Z"
+    },
+    "WFL-CRYSTAL-DT-S||KOTIYAKUMBURA": {
+      "remark": "10% discount offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:54:46",
+      "lastUpdated": "2026-08-24T10:24:46.143Z"
+    },
+    "LF-ORGN-DTO-WHT||KOTIYAKUMBURA": {
+      "remark": "10% discount.displsy",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:55:08",
+      "lastUpdated": "2026-08-24T10:25:08.324Z"
     }
   },
   "showroomVisits": {
@@ -45345,6 +45359,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "15:55:13",
+      "iso": "2026-08-24T10:25:13.134Z",
+      "action": "updated remark for WF-JUPITER-05-S at KOTIYAKUMBURA: “40% discount offered . Display”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "15:55:08",
+      "iso": "2026-08-24T10:25:08.328Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at KOTIYAKUMBURA: “10% discount.displsy”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "15:54:46",
+      "iso": "2026-08-24T10:24:46.148Z",
+      "action": "updated remark for WFL-CRYSTAL-DT-S at KOTIYAKUMBURA: “10% discount offered”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "15:54:18",
@@ -45672,27 +45707,6 @@
       "time": "15:36:04",
       "iso": "2026-08-24T10:06:04.751Z",
       "action": "updated remark for WP-2-S at RAGAMA: “Maximum 15% additional discount based on the condition”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:36:30",
-      "iso": "2026-08-24T10:06:30.100Z",
-      "action": "updated remark for SLE40D600A at HOROWPATHANA: “20%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:35:47",
-      "iso": "2026-08-24T10:05:47.962Z",
-      "action": "updated remark for WFL-SPM-78X60X8-S at RAGAMA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:35:26",
-      "iso": "2026-08-24T10:05:26.170Z",
-      "action": "updated remark for WFL-SPM-75X75X8-S at RAGAMA: “70%”"
     }
   ]
 }
