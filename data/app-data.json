@@ -39565,11 +39565,11 @@
       "lastUpdated": "2026-08-24T07:04:37.256Z"
     },
     "SLE32D1800||MELSIRIPURA": {
-      "remark": "Damaged - 90",
+      "remark": "Damaged - 90%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-24",
-      "commentTime": "12:34:08",
-      "lastUpdated": "2026-08-24T07:04:08.709Z"
+      "commentTime": "12:34:18",
+      "lastUpdated": "2026-08-24T07:04:18.515Z"
     },
     "LF-LEO-HDBC-WNG-S||SHOMES- MATALE": {
       "remark": "Damaged - 50%",
@@ -39577,6 +39577,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:34:26",
       "lastUpdated": "2026-08-24T07:04:26.414Z"
+    },
+    "SLE32D2010TC||MELSIRIPURA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:34:36",
+      "lastUpdated": "2026-08-24T07:04:36.631Z"
     }
   },
   "showroomVisits": {
@@ -40587,6 +40594,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:34:36",
+      "iso": "2026-08-24T07:04:36.632Z",
+      "action": "updated remark for SLE32D2010TC at MELSIRIPURA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:34:31",
+      "iso": "2026-08-24T07:04:31.123Z",
+      "action": "updated remark for SLE32D2010TC at MELSIRIPURA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:34:18",
+      "iso": "2026-08-24T07:04:18.516Z",
+      "action": "updated remark for SLE32D1800 at MELSIRIPURA: “Damaged - 90%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "12:34:26",
@@ -40914,27 +40942,6 @@
       "time": "12:19:09",
       "iso": "2026-08-24T06:49:09.544Z",
       "action": "updated remark for TCLED32D3000 at NAWALAPITIYA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:19:06",
-      "iso": "2026-08-24T06:49:06.771Z",
-      "action": "updated remark for TCLED23F3380 at NAWALAPITIYA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:18:18",
-      "iso": "2026-08-24T06:48:18.082Z",
-      "action": "updated remark for TCL43S5400 at NAWALAPITIYA: “Defective 70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:17:55",
-      "iso": "2026-08-24T06:47:55.000Z",
-      "action": "updated remark for SMGUA32J4100 at NAWALAPITIYA: “90%”"
     }
   ]
 }
