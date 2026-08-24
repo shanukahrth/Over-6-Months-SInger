@@ -40956,6 +40956,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:11:26",
       "lastUpdated": "2026-08-24T08:41:26.788Z"
+    },
+    "WF-CF-75X75-S||KAHATAGASDIGILIYA": {
+      "remark": "50%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:11:38",
+      "lastUpdated": "2026-08-24T08:41:38.640Z"
     }
   },
   "showroomVisits": {
@@ -42004,6 +42011,13 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "14:11:38",
+      "iso": "2026-08-24T08:41:38.643Z",
+      "action": "updated remark for WF-CF-75X75-S at KAHATAGASDIGILIYA: “50%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "14:11:26",
       "iso": "2026-08-24T08:41:26.790Z",
       "action": "updated remark for LF-LEO-12023-WNG-S at KAHATAGASDIGILIYA: “70%”"
@@ -42343,13 +42357,6 @@
       "time": "12:38:55",
       "iso": "2026-08-24T07:08:55.455Z",
       "action": "updated remark for ULED32D4000 at GALENBIDUNUWEWA: “80%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "12:38:04",
-      "iso": "2026-08-24T07:08:04.952Z",
-      "action": "updated remark for SLE40D600A at GALENBIDUNUWEWA: “80%”"
     }
   ]
 }
