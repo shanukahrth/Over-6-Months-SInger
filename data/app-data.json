@@ -36364,6 +36364,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:06:22",
       "lastUpdated": "2026-08-24T05:36:22.275Z"
+    },
+    "SMG-A06-4-128-BLU||WARAKAPOLA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:06:50",
+      "lastUpdated": "2026-08-24T05:36:50.891Z"
     }
   },
   "showroomVisits": {
@@ -37340,6 +37347,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
+      "time": "11:06:50",
+      "iso": "2026-08-24T05:36:50.891Z",
+      "action": "updated remark for SMG-A06-4-128-BLU at WARAKAPOLA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
       "time": "11:06:22",
       "iso": "2026-08-24T05:36:22.275Z",
       "action": "updated remark for ZTE-A31-LITE-GRY at WARAKAPOLA: “50%”"
@@ -37679,13 +37693,6 @@
       "time": "10:38:55",
       "iso": "2026-08-24T05:08:55.156Z",
       "action": "updated remark for SLE43S400 at RUWANWELLA: “Revert damaged. Can return to Warehouse. Won't charge the BM”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:38:11",
-      "iso": "2026-08-24T05:08:11.034Z",
-      "action": "updated remark for SLE32D1800 at MIRIGAMA: “Add 20%”"
     }
   ]
 }
