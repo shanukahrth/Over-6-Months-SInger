@@ -44106,6 +44106,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:55:38",
       "lastUpdated": "2026-08-24T10:25:38.295Z"
+    },
+    "SLE24E810||WENNAPPUWA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:55:59",
+      "lastUpdated": "2026-08-24T10:25:59.708Z"
     }
   },
   "showroomVisits": {
@@ -45396,6 +45403,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-24",
+      "time": "15:55:59",
+      "iso": "2026-08-24T10:25:59.710Z",
+      "action": "updated remark for SLE24E810 at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
       "time": "15:55:38",
       "iso": "2026-08-24T10:25:38.297Z",
       "action": "updated remark for SLE-65IFPZB-15-WCAM at WENNAPPUWA: “Damaged - 40%”"
@@ -45735,13 +45749,6 @@
       "time": "15:39:11",
       "iso": "2026-08-24T10:09:11.920Z",
       "action": "updated remark for UR591SW at KOTIYAKUMBURA: “Damaged.Can't repair”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:38:57",
-      "iso": "2026-08-24T10:08:57.205Z",
-      "action": "updated remark for UR591SW at KOTIYAKUMBURA: “Damaged.c”"
     }
   ]
 }
