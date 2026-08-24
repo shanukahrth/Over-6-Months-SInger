@@ -36224,6 +36224,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:44:50",
       "lastUpdated": "2026-08-24T05:14:50.331Z"
+    },
+    "SLE40D4000||RUWANWELLA": {
+      "remark": "Display issue. Return to wearhouse.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:45:37",
+      "lastUpdated": "2026-08-24T05:15:37.854Z"
     }
   },
   "showroomVisits": {
@@ -37198,6 +37205,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:45:37",
+      "iso": "2026-08-24T05:15:37.860Z",
+      "action": "updated remark for SLE40D4000 at RUWANWELLA: “Display issue. Return to wearhouse.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:44:50",
@@ -37539,13 +37553,6 @@
       "time": "10:25:45",
       "iso": "2026-08-24T04:55:45.667Z",
       "action": "updated remark for ZTE-A34-2-64GB-GRN at MINUWANGODA - B: “20000 discount already systemized”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:25:15",
-      "iso": "2026-08-24T04:55:15.624Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at MIRIGAMA: “15% Additional discount”"
     }
   ]
 }
