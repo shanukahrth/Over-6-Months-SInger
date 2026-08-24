@@ -38207,18 +38207,18 @@
       "lastUpdated": "2026-08-24T06:52:49.249Z"
     },
     "LFLCDCHAMP-BLK-S||YATIYANTHOTA": {
-      "remark": "Parts missing",
+      "remark": "Faded",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "12:23:27",
-      "lastUpdated": "2026-08-24T06:53:27.032Z"
+      "commentTime": "12:24:29",
+      "lastUpdated": "2026-08-24T06:54:29.196Z"
     },
     "LFLCDCHAMP-CHY-S||YATIYANTHOTA": {
-      "remark": "Parts missing.",
+      "remark": "Faded. 50% offered",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "12:23:33",
-      "lastUpdated": "2026-08-24T06:53:33.978Z"
+      "commentTime": "12:24:39",
+      "lastUpdated": "2026-08-24T06:54:39.979Z"
     },
     "LF-CT-S||MELSIRIPURA": {
       "remark": "Damaged - 60%",
@@ -39264,6 +39264,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:24:39",
+      "iso": "2026-08-24T06:54:39.984Z",
+      "action": "updated remark for LFLCDCHAMP-CHY-S at YATIYANTHOTA: “Faded. 50% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:24:29",
+      "iso": "2026-08-24T06:54:29.201Z",
+      "action": "updated remark for LFLCDCHAMP-BLK-S at YATIYANTHOTA: “Faded”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:23:48",
@@ -39598,20 +39612,6 @@
       "time": "12:18:07",
       "iso": "2026-08-24T06:48:07.070Z",
       "action": "updated remark for WFL-ALP-HS-2KL-S at SHOMES- MATALE: “Damaged - 20%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:17:45",
-      "iso": "2026-08-24T06:47:45.751Z",
-      "action": "updated remark for WFI-TROY-BENCH-S at SHOMES- MATALE: “Damaged - 40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:18:03",
-      "iso": "2026-08-24T06:48:03.448Z",
-      "action": "updated remark for SLE40D600A at WARAKAPOLA: “-”"
     }
   ]
 }
