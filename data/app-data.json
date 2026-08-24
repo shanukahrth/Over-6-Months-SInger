@@ -44449,7 +44449,7 @@
     "UHANA||AMPARA": {
       "visited": "Yes",
       "visitDate": "2026-08-19",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44489,7 +44489,7 @@
     "HINGURAKGODA||POLONNARUWA": {
       "visited": "Yes",
       "visitDate": "",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44696,6 +44696,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "15:15:18",
+      "iso": "2026-08-24T09:45:18.306Z",
+      "action": "updated HINGURAKGODA showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "15:15:13",
+      "iso": "2026-08-24T09:45:13.194Z",
+      "action": "updated UHANA showroom (team: Chamal and Kaveesha )"
+    },
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
@@ -45031,20 +45045,6 @@
       "time": "15:03:46",
       "iso": "2026-08-24T09:33:46.127Z",
       "action": "updated remark for BES-WP15-ECO at WARAKAPOLA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "15:03:37",
-      "iso": "2026-08-24T09:33:37.723Z",
-      "action": "updated remark for BES-WP15-ECO at WARAKAPOLA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:03:31",
-      "iso": "2026-08-24T09:33:31.310Z",
-      "action": "updated remark for SMG-A36-5G-8-128-BLK at RAGAMA: “Not Available”"
     }
   ]
 }
