@@ -44092,6 +44092,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:55:57",
       "lastUpdated": "2026-08-24T10:25:57.075Z"
+    },
+    "SL-PB-426||WENNAPPUWA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:55:30",
+      "lastUpdated": "2026-08-24T10:25:30.828Z"
+    },
+    "SLE-65IFPZB-15-WCAM||WENNAPPUWA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:55:38",
+      "lastUpdated": "2026-08-24T10:25:38.295Z"
     }
   },
   "showroomVisits": {
@@ -45380,6 +45394,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "15:55:38",
+      "iso": "2026-08-24T10:25:38.297Z",
+      "action": "updated remark for SLE-65IFPZB-15-WCAM at WENNAPPUWA: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "15:55:30",
+      "iso": "2026-08-24T10:25:30.830Z",
+      "action": "updated remark for SL-PB-426 at WENNAPPUWA: “Damaged - 40%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "15:55:57",
@@ -45714,20 +45742,6 @@
       "time": "15:38:57",
       "iso": "2026-08-24T10:08:57.205Z",
       "action": "updated remark for UR591SW at KOTIYAKUMBURA: “Damaged.c”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:38:51",
-      "iso": "2026-08-24T10:08:51.082Z",
-      "action": "updated remark for UR591SW at KOTIYAKUMBURA: “Damaged. Can't repair”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:38:42",
-      "iso": "2026-08-24T10:08:42.635Z",
-      "action": "updated remark for CLOTHLINE-10 at HOROWPATHANA: “System dis”"
     }
   ]
 }
