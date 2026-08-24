@@ -36994,6 +36994,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:43:50",
       "lastUpdated": "2026-08-24T06:13:50.970Z"
+    },
+    "RIYLTA-MF12V92A||MATALE": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:44:03",
+      "lastUpdated": "2026-08-24T06:14:03.662Z"
     }
   },
   "showroomVisits": {
@@ -37968,6 +37975,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:44:03",
+      "iso": "2026-08-24T06:14:03.664Z",
+      "action": "updated remark for RIYLTA-MF12V92A at MATALE: “Damaged - 90%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "11:43:50",
@@ -38309,13 +38323,6 @@
       "time": "11:24:11",
       "iso": "2026-08-24T05:54:11.014Z",
       "action": "updated remark for WP-CHTW-075-S at WARAKAPOLA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:23:38",
-      "iso": "2026-08-24T05:53:38.629Z",
-      "action": "updated remark for WP-CHSUB-1-S at WARAKAPOLA: “70%”"
     }
   ]
 }
