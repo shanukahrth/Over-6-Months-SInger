@@ -45807,6 +45807,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:16:11",
       "lastUpdated": "2026-08-24T12:46:11.747Z"
+    },
+    "SRS-XP700||NAULA": {
+      "remark": "Revert / Damaged - 65%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:16:31",
+      "lastUpdated": "2026-08-24T12:46:31.075Z"
     }
   },
   "showroomVisits": {
@@ -47097,6 +47104,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:16:31",
+      "iso": "2026-08-24T12:46:31.076Z",
+      "action": "updated remark for SRS-XP700 at NAULA: “Revert / Damaged - 65%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:16:11",
       "iso": "2026-08-24T12:46:11.748Z",
       "action": "updated remark for SMW928AS3 at NAULA: “Damaged - 40%”"
@@ -47436,13 +47450,6 @@
       "time": "18:01:39",
       "iso": "2026-08-24T12:31:39.320Z",
       "action": "updated remark for NCPDG-FP240 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:01:21",
-      "iso": "2026-08-24T12:31:21.537Z",
-      "action": "updated remark for MID-MJ-KM6001W at NAULA: “Damaged - 40%”"
     }
   ]
 }
