@@ -37946,6 +37946,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:16:27",
       "lastUpdated": "2026-08-24T06:46:27.947Z"
+    },
+    "HU-SECURITY||MELSIRIPURA": {
+      "remark": "Ok",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:16:33",
+      "lastUpdated": "2026-08-24T06:46:33.722Z"
     }
   },
   "showroomVisits": {
@@ -38956,6 +38963,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:16:33",
+      "iso": "2026-08-24T06:46:33.722Z",
+      "action": "updated remark for HU-SECURITY at MELSIRIPURA: “Ok”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "12:16:27",
@@ -39297,13 +39311,6 @@
       "time": "12:08:54",
       "iso": "2026-08-24T06:38:54.911Z",
       "action": "updated sold comment for SLE40D600A at WARAKAPOLA: “-”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:08:54",
-      "iso": "2026-08-24T06:38:54.324Z",
-      "action": "updated remark for HU-BAND4E-G at MATALE: “Damaged - 80%”"
     }
   ]
 }
