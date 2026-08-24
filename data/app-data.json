@@ -43392,6 +43392,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:12:21",
       "lastUpdated": "2026-08-24T09:42:21.563Z"
+    },
+    "TF-SI-EXSP1231||RAGAMA": {
+      "remark": "15%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:12:42",
+      "lastUpdated": "2026-08-24T09:42:42.905Z"
     }
   },
   "showroomVisits": {
@@ -44614,6 +44621,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "15:12:42",
+      "iso": "2026-08-24T09:42:42.906Z",
+      "action": "updated remark for TF-SI-EXSP1231 at RAGAMA: “15%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
       "time": "15:12:38",
@@ -44955,13 +44969,6 @@
       "time": "14:58:54",
       "iso": "2026-08-24T09:28:54.296Z",
       "action": "updated remark for B-RDNI270XIB100P at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:58:38",
-      "iso": "2026-08-24T09:28:38.040Z",
-      "action": "updated remark for B-CFB9433XH at WARAKAPOLA: “10%”"
     }
   ]
 }
