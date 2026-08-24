@@ -40760,6 +40760,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:04:02",
       "lastUpdated": "2026-08-24T08:34:02.498Z"
+    },
+    "LF-OX-BR-M-S||RAGAMA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:04:27",
+      "lastUpdated": "2026-08-24T08:34:27.963Z"
     }
   },
   "showroomVisits": {
@@ -41808,6 +41815,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "14:04:27",
+      "iso": "2026-08-24T08:34:27.966Z",
+      "action": "updated remark for LF-OX-BR-M-S at RAGAMA: “70%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "14:04:02",
       "iso": "2026-08-24T08:34:02.501Z",
       "action": "updated remark for LF-ORGN-BDQ-WHT at RAGAMA: “10%”"
@@ -42147,13 +42161,6 @@
       "time": "13:54:42",
       "iso": "2026-08-24T08:24:42.892Z",
       "action": "updated remark for LF-COD-S at RAGAMA: “60%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:54:15",
-      "iso": "2026-08-24T08:24:15.095Z",
-      "action": "updated remark for LF-CFBY1-COD-S at RAGAMA: “60%”"
     }
   ]
 }
