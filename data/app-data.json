@@ -43588,6 +43588,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:24:56",
       "lastUpdated": "2026-08-24T09:54:56.860Z"
+    },
+    "TF-K1330404||HOROWPATHANA": {
+      "remark": "System dis",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:25:30",
+      "lastUpdated": "2026-08-24T09:55:30.911Z"
+    },
+    "R-FGAP010||HOROWPATHANA": {
+      "remark": "65%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:25:35",
+      "lastUpdated": "2026-08-24T09:55:35.324Z"
     }
   },
   "showroomVisits": {
@@ -44860,6 +44874,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "15:25:35",
+      "iso": "2026-08-24T09:55:35.327Z",
+      "action": "updated remark for R-FGAP010 at HOROWPATHANA: “65%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:25:30",
+      "iso": "2026-08-24T09:55:30.915Z",
+      "action": "updated remark for TF-K1330404 at HOROWPATHANA: “System dis”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "15:24:56",
       "iso": "2026-08-24T09:54:56.864Z",
       "action": "updated remark for KA-TXG-DS11A at HOROWPATHANA: “50%”"
@@ -45192,20 +45220,6 @@
       "time": "15:13:10",
       "iso": "2026-08-24T09:43:10.897Z",
       "action": "updated remark for DVP-SR370 at WARAKAPOLA: “2000”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "15:13:08",
-      "iso": "2026-08-24T09:43:08.855Z",
-      "action": "updated CHENKALADY showroom (visited: Yes)"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:12:42",
-      "iso": "2026-08-24T09:42:42.906Z",
-      "action": "updated remark for TF-SI-EXSP1231 at RAGAMA: “15%”"
     }
   ]
 }
