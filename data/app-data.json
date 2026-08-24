@@ -43763,6 +43763,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:34:08",
       "lastUpdated": "2026-08-24T10:04:08.628Z"
+    },
+    "WFL-SOC-V010-RD-S||RAGAMA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:34:13",
+      "lastUpdated": "2026-08-24T10:04:13.532Z"
     }
   },
   "showroomVisits": {
@@ -45045,6 +45052,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "15:34:13",
+      "iso": "2026-08-24T10:04:13.533Z",
+      "action": "updated remark for WFL-SOC-V010-RD-S at RAGAMA: “70%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "15:34:08",
@@ -45386,13 +45400,6 @@
       "time": "15:16:44",
       "iso": "2026-08-24T09:46:44.963Z",
       "action": "updated KATTANKUDY showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "15:16:42",
-      "iso": "2026-08-24T09:46:42.303Z",
-      "action": "updated KALAWANCHIKUDY showroom (visitDate: 2026-08-13)"
     }
   ]
 }
