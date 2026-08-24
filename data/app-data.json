@@ -42722,11 +42722,11 @@
       "lastUpdated": "2026-08-24T09:13:10.095Z"
     },
     "DELL3511-I3-4GB256-BLK||WENNAPPUWA": {
-      "remark": "80% - DMS Revert",
+      "remark": "90% - Damage Revert",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-24",
-      "commentTime": "14:43:57",
-      "lastUpdated": "2026-08-24T09:13:57.514Z"
+      "commentTime": "14:44:41",
+      "lastUpdated": "2026-08-24T09:14:41.297Z"
     },
     "KLV-48W652D||WARAKAPOLA": {
       "remark": "SC PO Released",
@@ -42748,6 +42748,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:45:41",
       "lastUpdated": "2026-08-24T09:15:41.422Z"
+    },
+    "HON-H200SMART-8-256-WHT||WENNAPPUWA": {
+      "remark": "Damaged - 35%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:45:51",
+      "lastUpdated": "2026-08-24T09:15:51.019Z"
+    },
+    "HON-H400PRO-12-512-GRY||WENNAPPUWA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:46:23",
+      "lastUpdated": "2026-08-24T09:16:23.477Z"
     }
   },
   "showroomVisits": {
@@ -43962,6 +43976,27 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:46:23",
+      "iso": "2026-08-24T09:16:23.478Z",
+      "action": "updated remark for HON-H400PRO-12-512-GRY at WENNAPPUWA: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:45:51",
+      "iso": "2026-08-24T09:15:51.020Z",
+      "action": "updated remark for HON-H200SMART-8-256-WHT at WENNAPPUWA: “Damaged - 35%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:44:41",
+      "iso": "2026-08-24T09:14:41.298Z",
+      "action": "updated remark for DELL3511-I3-4GB256-BLK at WENNAPPUWA: “90% - Damage Revert”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
       "time": "14:46:23",
@@ -44289,27 +44324,6 @@
       "time": "14:39:19",
       "iso": "2026-08-24T09:09:19.966Z",
       "action": "updated remark for WP-CHTW-050-S at KAHATAGASDIGILIYA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:38:44",
-      "iso": "2026-08-24T09:08:44.699Z",
-      "action": "updated remark for SWM-FA70R at KAHATAGASDIGILIYA: “55%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:37:52",
-      "iso": "2026-08-24T09:07:52.736Z",
-      "action": "updated remark for KA-LW-185A at WARAKAPOLA: “60%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:38:18",
-      "iso": "2026-08-24T09:08:18.383Z",
-      "action": "updated remark for SWM-FA70R at KAHATAGASDIGILIYA: “50%”"
     }
   ]
 }
