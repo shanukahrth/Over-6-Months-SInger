@@ -38030,6 +38030,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:18:40",
       "lastUpdated": "2026-08-24T06:48:40.418Z"
+    },
+    "B-HIAG64223SXL||MELSIRIPURA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:18:49",
+      "lastUpdated": "2026-08-24T06:48:49.979Z"
     }
   },
   "showroomVisits": {
@@ -39040,6 +39047,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:18:49",
+      "iso": "2026-08-24T06:48:49.982Z",
+      "action": "updated remark for B-HIAG64223SXL at MELSIRIPURA: “Damaged - 40%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:18:44",
@@ -39381,13 +39395,6 @@
       "time": "12:12:09",
       "iso": "2026-08-24T06:42:09.245Z",
       "action": "updated sold comment for PN-TH-32J401N at WARAKAPOLA: “30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:12:14",
-      "iso": "2026-08-24T06:42:14.968Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at YATIYANTHOTA: “40% offered. Product not moving”"
     }
   ]
 }
