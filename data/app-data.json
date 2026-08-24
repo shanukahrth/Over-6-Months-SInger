@@ -42237,6 +42237,34 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:22:42",
       "lastUpdated": "2026-08-24T08:52:42.522Z"
+    },
+    "SL-S203||KAHATAGASDIGILIYA": {
+      "remark": "60%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:23:29",
+      "lastUpdated": "2026-08-24T08:53:29.611Z"
+    },
+    "RIYLTA-MF12V25||KAHATAGASDIGILIYA": {
+      "remark": "-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:23:36",
+      "lastUpdated": "2026-08-24T08:53:36.921Z"
+    },
+    "RIYLTA-MF12V35A||KAHATAGASDIGILIYA": {
+      "remark": "-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:23:40",
+      "lastUpdated": "2026-08-24T08:53:40.497Z"
+    },
+    "RIYLTA-MF12V4||KAHATAGASDIGILIYA": {
+      "remark": "-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:23:45",
+      "lastUpdated": "2026-08-24T08:53:45.391Z"
     }
   },
   "showroomVisits": {
@@ -43307,6 +43335,41 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:23:45",
+      "iso": "2026-08-24T08:53:45.394Z",
+      "action": "updated remark for RIYLTA-MF12V4 at KAHATAGASDIGILIYA: “-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:23:40",
+      "iso": "2026-08-24T08:53:40.500Z",
+      "action": "updated remark for RIYLTA-MF12V35A at KAHATAGASDIGILIYA: “-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:23:36",
+      "iso": "2026-08-24T08:53:36.923Z",
+      "action": "updated remark for RIYLTA-MF12V25 at KAHATAGASDIGILIYA: “-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:23:32",
+      "iso": "2026-08-24T08:53:32.750Z",
+      "action": "updated remark for RIYLTA-MF12V25 at KAHATAGASDIGILIYA: “-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:23:29",
+      "iso": "2026-08-24T08:53:29.613Z",
+      "action": "updated remark for SL-S203 at KAHATAGASDIGILIYA: “60%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "14:22:42",
@@ -43620,41 +43683,6 @@
       "time": "14:16:57",
       "iso": "2026-08-24T08:46:57.761Z",
       "action": "updated remark for PF-CAFE-RW-S at RAGAMA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:16:48",
-      "iso": "2026-08-24T08:46:48.778Z",
-      "action": "updated remark for PF-CAFE-RW-S at RAGAMA: “50%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:16:45",
-      "iso": "2026-08-24T08:46:45.397Z",
-      "action": "updated remark for SED-2432A at KAHATAGASDIGILIYA: “60%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:16:36",
-      "iso": "2026-08-24T08:46:36.428Z",
-      "action": "updated remark for PN-NI-S530ASD at KAHATAGASDIGILIYA: “35%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:16:27",
-      "iso": "2026-08-24T08:46:27.648Z",
-      "action": "updated remark for SWH-118E at KAHATAGASDIGILIYA: “60%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:16:11",
-      "iso": "2026-08-24T08:46:11.941Z",
-      "action": "updated remark for MID-DSK38EU5 at KAHATAGASDIGILIYA: “50%”"
     }
   ]
 }
