@@ -34474,6 +34474,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:00:34",
       "lastUpdated": "2026-08-24T03:30:34.684Z"
+    },
+    "TF-SI-EXSP1231||KANDANA": {
+      "remark": "15%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:00:37",
+      "lastUpdated": "2026-08-24T03:30:37.897Z"
     }
   },
   "showroomVisits": {
@@ -35448,6 +35455,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "09:00:37",
+      "iso": "2026-08-24T03:30:37.898Z",
+      "action": "updated remark for TF-SI-EXSP1231 at KANDANA: “15%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "09:00:34",
@@ -35789,13 +35803,6 @@
       "time": "08:30:53",
       "iso": "2026-08-24T03:00:53.617Z",
       "action": "updated remark for SL-ECO192-TG at KANDANA: “25%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:30:34",
-      "iso": "2026-08-24T03:00:34.578Z",
-      "action": "updated remark for SIS253CU at KANDANA: “60%”"
     }
   ]
 }
