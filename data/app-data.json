@@ -34530,6 +34530,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:03:27",
       "lastUpdated": "2026-08-24T03:33:27.240Z"
+    },
+    "U-HRW-S6||KANDANA": {
+      "remark": "Deffective - Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:03:06",
+      "lastUpdated": "2026-08-24T03:33:06.925Z"
     }
   },
   "showroomVisits": {
@@ -35504,6 +35511,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "09:03:06",
+      "iso": "2026-08-24T03:33:06.927Z",
+      "action": "updated remark for U-HRW-S6 at KANDANA: “Deffective - Return to WH”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "09:03:27",
@@ -35845,13 +35859,6 @@
       "time": "08:34:29",
       "iso": "2026-08-24T03:04:29.064Z",
       "action": "updated remark for SLE43U5 at KANDANA: “Exchange PO pending”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:34:06",
-      "iso": "2026-08-24T03:04:06.736Z",
-      "action": "updated remark for SLE43G890 at KANDANA: “1 unit transfer to Wattala / 1 unit pannel damage - return to WH”"
     }
   ]
 }
