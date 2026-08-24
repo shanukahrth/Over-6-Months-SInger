@@ -45919,6 +45919,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:20:28",
       "lastUpdated": "2026-08-24T12:50:28.555Z"
+    },
+    "WF-JUPITER-05-S||NAULA": {
+      "remark": "Revert / Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:20:48",
+      "lastUpdated": "2026-08-24T12:50:48.372Z"
     }
   },
   "showroomVisits": {
@@ -47209,6 +47216,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:20:48",
+      "iso": "2026-08-24T12:50:48.374Z",
+      "action": "updated remark for WF-JUPITER-05-S at NAULA: “Revert / Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:20:30",
       "iso": "2026-08-24T12:50:30.691Z",
       "action": "updated remark for WF-DOC-M003-BU-S at NAULA (cleared)"
@@ -47548,13 +47562,6 @@
       "time": "18:07:21",
       "iso": "2026-08-24T12:37:21.216Z",
       "action": "updated remark for SDV838HDVT at NAULA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:07:10",
-      "iso": "2026-08-24T12:37:10.199Z",
-      "action": "updated remark for SB-DTYPE at NAULA: “Damaged - 90%”"
     }
   ]
 }
