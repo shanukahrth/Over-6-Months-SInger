@@ -39948,6 +39948,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:40:39",
       "lastUpdated": "2026-08-24T07:10:39.031Z"
+    },
+    "WF-CB-B-S||MELSIRIPURA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:41:13",
+      "lastUpdated": "2026-08-24T07:11:13.411Z"
     }
   },
   "showroomVisits": {
@@ -40958,6 +40965,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:41:13",
+      "iso": "2026-08-24T07:11:13.412Z",
+      "action": "updated remark for WF-CB-B-S at MELSIRIPURA: “Damaged - 80%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:41:23",
@@ -41299,13 +41313,6 @@
       "time": "12:35:33",
       "iso": "2026-08-24T07:05:33.570Z",
       "action": "updated remark for SLE43G690 at MELSIRIPURA: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:35:21",
-      "iso": "2026-08-24T07:05:21.059Z",
-      "action": "updated remark for SLE40E810C at MELSIRIPURA: “Damaged - 50%”"
     }
   ]
 }
