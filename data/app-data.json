@@ -38081,11 +38081,11 @@
       "lastUpdated": "2026-08-24T06:50:02.713Z"
     },
     "SIN-K13||GALENBIDUNUWEWA": {
-      "remark": "80%",
+      "remark": "90%",
       "commentedBy": "Thushitha Jayaweera",
       "commentDate": "2026-08-24",
-      "commentTime": "12:20:14",
-      "lastUpdated": "2026-08-24T06:50:14.813Z"
+      "commentTime": "12:43:32",
+      "lastUpdated": "2026-08-24T07:13:32.622Z"
     },
     "DELL3510-PNTMSIL-BLK||YATIYANTHOTA": {
       "remark": "80% discount",
@@ -40662,6 +40662,76 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:02:52",
       "lastUpdated": "2026-08-24T08:32:52.508Z"
+    },
+    "TCL43S5400||GALENBIDUNUWEWA": {
+      "remark": "10000/- Discount",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:37:35",
+      "lastUpdated": "2026-08-24T07:07:35.995Z"
+    },
+    "PN-TH-32J401N||GALENBIDUNUWEWA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:37:43",
+      "lastUpdated": "2026-08-24T07:07:43.271Z"
+    },
+    "SLE32D2010TC||GALENBIDUNUWEWA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:37:48",
+      "lastUpdated": "2026-08-24T07:07:48.901Z"
+    },
+    "SLE32E610||GALENBIDUNUWEWA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:37:51",
+      "lastUpdated": "2026-08-24T07:07:51.097Z"
+    },
+    "SLE32E910||GALENBIDUNUWEWA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:37:55",
+      "lastUpdated": "2026-08-24T07:07:55.851Z"
+    },
+    "SLE32E920||GALENBIDUNUWEWA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:37:59",
+      "lastUpdated": "2026-08-24T07:07:59.727Z"
+    },
+    "SLE40D600A||GALENBIDUNUWEWA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:38:04",
+      "lastUpdated": "2026-08-24T07:08:04.947Z"
+    },
+    "ULED32D4000||GALENBIDUNUWEWA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:38:55",
+      "lastUpdated": "2026-08-24T07:08:55.451Z"
+    },
+    "SL-18V||KAHATAGASDIGILIYA": {
+      "remark": "65%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:03:25",
+      "lastUpdated": "2026-08-24T08:33:25.865Z"
+    },
+    "SMGAR50F12D0J||KAHATAGASDIGILIYA": {
+      "remark": "185000/-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:03:44",
+      "lastUpdated": "2026-08-24T08:33:44.924Z"
     }
   },
   "showroomVisits": {
@@ -41668,9 +41738,199 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-24"
+    },
+    "SLE32E610||GALENBIDUNUWEWA": {
+      "sold": false,
+      "comment": "80%",
+      "updatedBy": "Thushitha Jayaweera",
+      "updatedDate": "2026-08-24"
+    },
+    "SLE32E910||GALENBIDUNUWEWA": {
+      "sold": false,
+      "comment": "80%",
+      "updatedBy": "Thushitha Jayaweera",
+      "updatedDate": "2026-08-24"
+    },
+    "SLE32E920||GALENBIDUNUWEWA": {
+      "sold": false,
+      "comment": "80%",
+      "updatedBy": "Thushitha Jayaweera",
+      "updatedDate": "2026-08-24"
+    },
+    "SLE40D600A||GALENBIDUNUWEWA": {
+      "sold": false,
+      "comment": "80%",
+      "updatedBy": "Thushitha Jayaweera",
+      "updatedDate": "2026-08-24"
+    },
+    "WC-IK609||GALENBIDUNUWEWA": {
+      "sold": false,
+      "comment": "Shop used",
+      "updatedBy": "Thushitha Jayaweera",
+      "updatedDate": "2026-08-24"
+    },
+    "WP-JUN-E-S||GALENBIDUNUWEWA": {
+      "sold": false,
+      "comment": "70%",
+      "updatedBy": "Thushitha Jayaweera",
+      "updatedDate": "2026-08-24"
     }
   },
   "activity": [
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:03:44",
+      "iso": "2026-08-24T08:33:44.927Z",
+      "action": "updated remark for SMGAR50F12D0J at KAHATAGASDIGILIYA: “185000/-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:03:25",
+      "iso": "2026-08-24T08:33:25.869Z",
+      "action": "updated remark for SL-18V at KAHATAGASDIGILIYA: “65%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:43:32",
+      "iso": "2026-08-24T07:13:32.624Z",
+      "action": "updated remark for SIN-K13 at GALENBIDUNUWEWA: “90%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:43:20",
+      "iso": "2026-08-24T07:13:20.465Z",
+      "action": "updated remark for SIN-K13 at GALENBIDUNUWEWA: “90%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:40:24",
+      "iso": "2026-08-24T07:10:24.262Z",
+      "action": "updated sold comment for WP-JUN-E-S at GALENBIDUNUWEWA: “70%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:40:14",
+      "iso": "2026-08-24T07:10:14.177Z",
+      "action": "updated sold comment for WP-JUN-E-S at GALENBIDUNUWEWA: “70%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:40:07",
+      "iso": "2026-08-24T07:10:07.570Z",
+      "action": "updated sold comment for WC-IK609 at GALENBIDUNUWEWA: “Shop used”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:39:53",
+      "iso": "2026-08-24T07:09:53.480Z",
+      "action": "updated sold comment for WC-IK609 at GALENBIDUNUWEWA: “Shop used”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:39:48",
+      "iso": "2026-08-24T07:09:48.850Z",
+      "action": "updated sold comment for SLE40D600A at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:39:25",
+      "iso": "2026-08-24T07:09:25.572Z",
+      "action": "updated sold comment for SLE32E920 at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:39:17",
+      "iso": "2026-08-24T07:09:17.359Z",
+      "action": "updated sold comment for SLE32E910 at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:39:12",
+      "iso": "2026-08-24T07:09:12.514Z",
+      "action": "updated sold comment for SLE32E910 at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:39:07",
+      "iso": "2026-08-24T07:09:07.610Z",
+      "action": "updated sold comment for SLE32E610 at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:38:55",
+      "iso": "2026-08-24T07:08:55.455Z",
+      "action": "updated remark for ULED32D4000 at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:38:04",
+      "iso": "2026-08-24T07:08:04.952Z",
+      "action": "updated remark for SLE40D600A at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:37:59",
+      "iso": "2026-08-24T07:07:59.729Z",
+      "action": "updated remark for SLE32E920 at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:37:55",
+      "iso": "2026-08-24T07:07:55.854Z",
+      "action": "updated remark for SLE32E910 at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:37:53",
+      "iso": "2026-08-24T07:07:53.155Z",
+      "action": "updated remark for SLE32E910 at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:37:51",
+      "iso": "2026-08-24T07:07:51.099Z",
+      "action": "updated remark for SLE32E610 at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:37:48",
+      "iso": "2026-08-24T07:07:48.904Z",
+      "action": "updated remark for SLE32D2010TC at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:37:43",
+      "iso": "2026-08-24T07:07:43.273Z",
+      "action": "updated remark for PN-TH-32J401N at GALENBIDUNUWEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:37:35",
+      "iso": "2026-08-24T07:07:35.999Z",
+      "action": "updated remark for TCL43S5400 at GALENBIDUNUWEWA: “10000/- Discount”"
+    },
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
@@ -41866,160 +42126,6 @@
       "time": "13:52:36",
       "iso": "2026-08-24T08:22:36.944Z",
       "action": "updated remark for LF-BUDGET-ST-CRW-S at RAGAMA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:52:08",
-      "iso": "2026-08-24T08:22:08.125Z",
-      "action": "updated remark for LF-BUDGET-ST-AGO-S at RAGAMA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:52:21",
-      "iso": "2026-08-24T08:22:21.817Z",
-      "action": "updated remark for ACER-AG15-14G-I5-16-512-S at BULATHKOHUPITIYA: “Cleared.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:51:30",
-      "iso": "2026-08-24T08:21:30.300Z",
-      "action": "updated remark for LF-13753-S at RAGAMA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:51:30",
-      "iso": "2026-08-24T08:21:30.843Z",
-      "action": "updated remark for AS-13G-I3-512GB-240-BLU at BULATHKOHUPITIYA: “Display issue. Try repair and sell. Offered 50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:50:40",
-      "iso": "2026-08-24T08:20:40.154Z",
-      "action": "updated remark for KDK-N56YG at RAGAMA: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:49:53",
-      "iso": "2026-08-24T08:19:53.741Z",
-      "action": "updated remark for KA-ELITE at RAGAMA: “Discounts already give to DM”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:49:52",
-      "iso": "2026-08-24T08:19:52.663Z",
-      "action": "updated remark for AS-13G-I3-512GB-240-BLU at BULATHKOHUPITIYA: “Display issue.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:48:53",
-      "iso": "2026-08-24T08:18:53.916Z",
-      "action": "updated remark for HU-Y5-LITE-BLU at RAGAMA: “Not Available”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:48:24",
-      "iso": "2026-08-24T08:18:24.752Z",
-      "action": "updated remark for HU-Y5-LITE-B at RAGAMA: “Not Available”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:48:44",
-      "iso": "2026-08-24T08:18:44.761Z",
-      "action": "updated remark for AS-13G-I3-512GB-240-BLU at BULATHKOHUPITIYA: “Display issue.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:47:51",
-      "iso": "2026-08-24T08:17:51.499Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at RAGAMA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:47:10",
-      "iso": "2026-08-24T08:17:10.445Z",
-      "action": "updated remark for HON-H200-12-512-BLK at RAGAMA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:46:35",
-      "iso": "2026-08-24T08:16:35.418Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at RAGAMA: “Active SKU, No Discounts applicable”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:46:59",
-      "iso": "2026-08-24T08:16:59.781Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at BULATHKOHUPITIYA: “Rs.30,000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:46:41",
-      "iso": "2026-08-24T08:16:41.410Z",
-      "action": "updated remark for SIN-PSVX938N at BULATHKOHUPITIYA: “Rs.18,500 offered”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:45:32",
-      "iso": "2026-08-24T08:15:32.244Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at RAGAMA: “Rs.30,000/- Special Price”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:45:38",
-      "iso": "2026-08-24T08:15:38.333Z",
-      "action": "updated remark for SIN-K13 at BULATHKOHUPITIYA: “Not working. Doesn't turn on. 80% discount offered.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:44:51",
-      "iso": "2026-08-24T08:14:51.352Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at RAGAMA: “Rs.30,000/- Special Price”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:44:32",
-      "iso": "2026-08-24T08:14:32.983Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at BULATHKOHUPITIYA: “40% discount flat”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:44:25",
-      "iso": "2026-08-24T08:14:25.928Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at BULATHKOHUPITIYA: “40% discount flat”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:43:42",
-      "iso": "2026-08-24T08:13:42.386Z",
-      "action": "updated remark for H-RAPG012HFEOE at RAGAMA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:43:05",
-      "iso": "2026-08-24T08:13:05.505Z",
-      "action": "updated remark for G-SP-900 at RAGAMA: “75% Discontinue Product”"
     }
   ]
 }
