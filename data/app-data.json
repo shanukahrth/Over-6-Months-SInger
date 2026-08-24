@@ -36834,13 +36834,6 @@
       "commentTime": "11:29:05",
       "lastUpdated": "2026-08-24T05:59:05.979Z"
     },
-    "STT-300S||WARAKAPOLA": {
-      "remark": "50%",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-24",
-      "commentTime": "11:29:36",
-      "lastUpdated": "2026-08-24T05:59:36.362Z"
-    },
     "SWH-118EP||WARAKAPOLA": {
       "remark": "SC PRF 80906",
       "commentedBy": "Chanthuli Ramawickrama",
@@ -37830,6 +37823,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
+      "time": "11:31:50",
+      "iso": "2026-08-24T06:01:50.796Z",
+      "action": "updated remark for STT-300S at WARAKAPOLA (cleared)"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
       "time": "11:31:01",
       "iso": "2026-08-24T06:01:01.051Z",
       "action": "updated remark for SWH-118EP at WARAKAPOLA: “SC PRF 80906”"
@@ -38169,13 +38169,6 @@
       "time": "11:16:55",
       "iso": "2026-08-24T05:46:55.590Z",
       "action": "updated remark for SVX6008 at THIRAPPANE: “85%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:16:43",
-      "iso": "2026-08-24T05:46:43.842Z",
-      "action": "updated remark for SIN-PSVX938N at THIRAPPANE: “185000”"
     }
   ]
 }
