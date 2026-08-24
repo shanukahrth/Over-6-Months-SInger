@@ -37463,6 +37463,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:00:17",
       "lastUpdated": "2026-08-24T06:30:17.320Z"
+    },
+    "DUM-SMGAR50F12D0J||RAGAMA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:00:20",
+      "lastUpdated": "2026-08-24T06:30:20.302Z"
     }
   },
   "showroomVisits": {
@@ -38437,6 +38444,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "12:00:20",
+      "iso": "2026-08-24T06:30:20.304Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at RAGAMA: “0%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:00:17",
@@ -38778,13 +38792,6 @@
       "time": "11:50:14",
       "iso": "2026-08-24T06:20:14.927Z",
       "action": "updated remark for SMW23GA9 at MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:49:45",
-      "iso": "2026-08-24T06:19:45.392Z",
-      "action": "updated remark for HON-CH-WATCH-2I-WH at SHOMES- MATALE: “Okay”"
     }
   ]
 }
