@@ -36546,6 +36546,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:17:25",
       "lastUpdated": "2026-08-24T05:47:25.107Z"
+    },
+    "UDV3618SY||THIRAPPANE": {
+      "remark": "2500",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:17:45",
+      "lastUpdated": "2026-08-24T05:47:45.927Z"
+    },
+    "FAN-P-SF1605HR||THIRAPPANE": {
+      "remark": "70%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:18:05",
+      "lastUpdated": "2026-08-24T05:48:05.843Z"
     }
   },
   "showroomVisits": {
@@ -37522,6 +37536,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "11:18:05",
+      "iso": "2026-08-24T05:48:05.846Z",
+      "action": "updated remark for FAN-P-SF1605HR at THIRAPPANE: “70%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "11:17:45",
+      "iso": "2026-08-24T05:47:45.932Z",
+      "action": "updated remark for UDV3618SY at THIRAPPANE: “2500”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "11:17:25",
       "iso": "2026-08-24T05:47:25.109Z",
       "action": "updated remark for SDV3605K at THIRAPPANE: “2500”"
@@ -37854,20 +37882,6 @@
       "time": "10:49:19",
       "iso": "2026-08-24T05:19:19.521Z",
       "action": "updated remark for H-CVW1600 at MIRIGAMA: “10% Add”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:48:51",
-      "iso": "2026-08-24T05:18:51.436Z",
-      "action": "updated remark for KD-50X75K at MIRIGAMA: “20% Add”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:48:44",
-      "iso": "2026-08-24T05:18:44.532Z",
-      "action": "updated remark for TF-SI-ESS-242 at MINUWANGODA - B: “15%”"
     }
   ]
 }
