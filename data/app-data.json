@@ -39535,6 +39535,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:33:28",
       "lastUpdated": "2026-08-24T07:03:28.167Z"
+    },
+    "TF-FP24-SCR342||YATIYANTHOTA": {
+      "remark": "15% offered flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:34:16",
+      "lastUpdated": "2026-08-24T07:04:16.617Z"
+    },
+    "TF-TW26-064||YATIYANTHOTA": {
+      "remark": "15% offered flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:34:21",
+      "lastUpdated": "2026-08-24T07:04:21.780Z"
     }
   },
   "showroomVisits": {
@@ -40545,6 +40559,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:34:21",
+      "iso": "2026-08-24T07:04:21.789Z",
+      "action": "updated remark for TF-TW26-064 at YATIYANTHOTA: “15% offered flat”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:34:16",
+      "iso": "2026-08-24T07:04:16.623Z",
+      "action": "updated remark for TF-FP24-SCR342 at YATIYANTHOTA: “15% offered flat”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:33:28",
@@ -40879,20 +40907,6 @@
       "time": "12:16:16",
       "iso": "2026-08-24T06:46:16.718Z",
       "action": "updated remark for SLE55GENR at NAWALAPITIYA: “Defective to return”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:15:17",
-      "iso": "2026-08-24T06:45:17.296Z",
-      "action": "updated remark for SLE43H4000 at NAWALAPITIYA: “Damaged display lines to return”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:14:36",
-      "iso": "2026-08-24T06:44:36.775Z",
-      "action": "updated remark for SLE43G890 at NAWALAPITIYA: “1 shops use, 1 service center pending,1 salable 60%”"
     }
   ]
 }
