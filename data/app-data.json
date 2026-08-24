@@ -34761,6 +34761,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:15:25",
       "lastUpdated": "2026-08-24T03:45:25.768Z"
+    },
+    "HFPA-GRAVITY-BLU||MIRIGAMA": {
+      "remark": "24,000 Special Price",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:16:03",
+      "lastUpdated": "2026-08-24T03:46:03.398Z"
     }
   },
   "showroomVisits": {
@@ -35735,6 +35742,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "09:16:03",
+      "iso": "2026-08-24T03:46:03.399Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at MIRIGAMA: “24,000 Special Price”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:15:25",
@@ -36076,13 +36090,6 @@
       "time": "09:00:37",
       "iso": "2026-08-24T03:30:37.898Z",
       "action": "updated remark for TF-SI-EXSP1231 at KANDANA: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "09:00:34",
-      "iso": "2026-08-24T03:30:34.684Z",
-      "action": "updated remark for AC-TEMP-Y7-18 at MIRIGAMA: “-”"
     }
   ]
 }
