@@ -35531,6 +35531,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:03:58",
       "lastUpdated": "2026-08-24T04:33:58.722Z"
+    },
+    "HON-X6B-6-128-GRN||RUWANWELLA": {
+      "remark": "Email to be sent from BM requesting to repair (Ranidu informed). Back cam is not working. (Won't charge from the branch)",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:06:32",
+      "lastUpdated": "2026-08-24T04:36:32.135Z"
     }
   },
   "showroomVisits": {
@@ -36505,6 +36512,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:06:32",
+      "iso": "2026-08-24T04:36:32.136Z",
+      "action": "updated remark for HON-X6B-6-128-GRN at RUWANWELLA: “Email to be sent from BM requesting to repair (Ranidu informed). Back cam is not working. (Won't charge from the branch)”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:03:58",
@@ -36846,13 +36860,6 @@
       "time": "09:48:27",
       "iso": "2026-08-24T04:18:27.962Z",
       "action": "updated remark for SIN-RFC-1819 at MINUWANGODA - B: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "09:48:22",
-      "iso": "2026-08-24T04:18:22.253Z",
-      "action": "updated remark for WF-OSLO-MH-S at MIRIGAMA: “50%”"
     }
   ]
 }
