@@ -45961,6 +45961,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:21:45",
       "lastUpdated": "2026-08-24T12:51:45.684Z"
+    },
+    "SIN-MH51SW||GALEWELA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:21:58",
+      "lastUpdated": "2026-08-24T12:51:58.130Z"
     }
   },
   "showroomVisits": {
@@ -47249,6 +47256,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:21:58",
+      "iso": "2026-08-24T12:51:58.132Z",
+      "action": "updated remark for SIN-MH51SW at GALEWELA: “Damaged - 80%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "18:21:45",
@@ -47590,13 +47604,6 @@
       "time": "18:09:59",
       "iso": "2026-08-24T12:39:59.383Z",
       "action": "updated remark for SIN-RFC-2058 at HETTIMULLA LITE: “-”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "18:08:52",
-      "iso": "2026-08-24T12:38:52.753Z",
-      "action": "updated remark for SIN-BS30 at HETTIMULLA LITE: “8,500 special price to clear the inventory”"
     }
   ]
 }
