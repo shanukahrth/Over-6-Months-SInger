@@ -35755,6 +35755,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:15:53",
       "lastUpdated": "2026-08-24T04:45:53.568Z"
+    },
+    "TF-NIFP28-042||MINUWANGODA - B": {
+      "remark": "Discounts already given to DM",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:16:04",
+      "lastUpdated": "2026-08-24T04:46:04.676Z"
     }
   },
   "showroomVisits": {
@@ -36729,6 +36736,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "10:16:04",
+      "iso": "2026-08-24T04:46:04.678Z",
+      "action": "updated remark for TF-NIFP28-042 at MINUWANGODA - B: “Discounts already given to DM”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:15:53",
@@ -37070,13 +37084,6 @@
       "time": "10:01:38",
       "iso": "2026-08-24T04:31:38.300Z",
       "action": "updated remark for TF-NIGP26-119 at MIRIGAMA: “Already Given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:01:38",
-      "iso": "2026-08-24T04:31:38.758Z",
-      "action": "updated remark for SMG-A17-8-256-GRY at MINUWANGODA - B: “50%”"
     }
   ]
 }
