@@ -40081,6 +40081,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:49:14",
       "lastUpdated": "2026-08-24T07:19:14.171Z"
+    },
+    "SWH-118EP-D||MELSIRIPURA": {
+      "remark": "Dummy Unit",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:49:15",
+      "lastUpdated": "2026-08-24T07:19:15.767Z"
     }
   },
   "showroomVisits": {
@@ -41091,6 +41098,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:49:15",
+      "iso": "2026-08-24T07:19:15.769Z",
+      "action": "updated remark for SWH-118EP-D at MELSIRIPURA: “Dummy Unit”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:49:14",
@@ -41432,13 +41446,6 @@
       "time": "12:38:36",
       "iso": "2026-08-24T07:08:36.328Z",
       "action": "updated remark for TF-GCA-1336 at YATIYANTHOTA: “30% flat offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:37:55",
-      "iso": "2026-08-24T07:07:55.255Z",
-      "action": "updated remark for KA-LW-185A at YATIYANTHOTA: “Damaged location. 80% offered”"
     }
   ]
 }
