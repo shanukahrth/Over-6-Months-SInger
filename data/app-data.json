@@ -43583,10 +43583,10 @@
     "WATTALA||PELIYAGODA": {
       "visited": "Yes",
       "visitDate": "2026-08-13",
-      "team": "",
+      "team": "Chamal and Kaveesha",
       "remark": "",
-      "updatedBy": "Shanuka Herath",
-      "updatedDate": "2026-08-19"
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     },
     "BOPITIYA||PELIYAGODA": {
       "visited": "No",
@@ -44015,15 +44015,15 @@
     "AMPARA - C||AMPARA": {
       "visited": "Yes",
       "visitDate": "2026-08-20",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
     },
     "AKKARAIPATTU||AMPARA": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-20",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44031,7 +44031,7 @@
     "AMPARA||AMPARA": {
       "visited": "Yes",
       "visitDate": "2026-08-20",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44039,7 +44039,7 @@
     "HINGURANA||AMPARA": {
       "visited": "No",
       "visitDate": "",
-      "team": "",
+      "team": " ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44262,6 +44262,41 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:59",
+      "iso": "2026-08-24T09:26:59.252Z",
+      "action": "updated WATTALA showroom (team: Chamal and Kaveesha)"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:53",
+      "iso": "2026-08-24T09:26:53.456Z",
+      "action": "updated AMPARA - C showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:51",
+      "iso": "2026-08-24T09:26:51.351Z",
+      "action": "updated AKKARAIPATTU showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:48",
+      "iso": "2026-08-24T09:26:48.858Z",
+      "action": "updated AMPARA showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:43",
+      "iso": "2026-08-24T09:26:43.983Z",
+      "action": "updated HINGURANA showroom (team:  )"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
@@ -44576,41 +44611,6 @@
       "time": "14:50:03",
       "iso": "2026-08-24T09:20:03.285Z",
       "action": "updated remark for HON-X9CSMART-12-256-BLK at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:49:58",
-      "iso": "2026-08-24T09:19:58.947Z",
-      "action": "updated remark for SIN-PSVX938N at RAGAMA: “Rs.18,500/- Special Price”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:49:54",
-      "iso": "2026-08-24T09:19:54.076Z",
-      "action": "updated remark for HON-X9CSMART-12-256-BLK at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:49:34",
-      "iso": "2026-08-24T09:19:34.819Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:49:23",
-      "iso": "2026-08-24T09:19:23.094Z",
-      "action": "updated remark for LF-ECO-SD-SHW-S at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:49:19",
-      "iso": "2026-08-24T09:19:19.242Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at WENNAPPUWA: “Damaged - 70%”"
     }
   ]
 }
