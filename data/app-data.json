@@ -43091,6 +43091,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:59:40",
       "lastUpdated": "2026-08-24T09:29:40.885Z"
+    },
+    "SLE32E810||RAGAMA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:00:17",
+      "lastUpdated": "2026-08-24T09:30:17.223Z"
     }
   },
   "showroomVisits": {
@@ -44307,6 +44314,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "15:00:17",
+      "iso": "2026-08-24T09:30:17.226Z",
+      "action": "updated remark for SLE32E810 at RAGAMA: “70%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "14:59:40",
       "iso": "2026-08-24T09:29:40.886Z",
       "action": "updated remark for SLE32E710 at RAGAMA: “70%”"
@@ -44646,13 +44660,6 @@
       "time": "14:52:17",
       "iso": "2026-08-24T09:22:17.021Z",
       "action": "updated remark for LF-ORGN-DTO-WHT at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:51:48",
-      "iso": "2026-08-24T09:21:48.534Z",
-      "action": "updated remark for HU-Y5P-BLU at WENNAPPUWA: “Clearance - 90%”"
     }
   ]
 }
