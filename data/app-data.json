@@ -37344,6 +37344,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:56:52",
       "lastUpdated": "2026-08-24T06:26:52.295Z"
+    },
+    "TF-NIDFP24-170||MATALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:57:21",
+      "lastUpdated": "2026-08-24T06:27:21.581Z"
     }
   },
   "showroomVisits": {
@@ -38318,6 +38325,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:57:21",
+      "iso": "2026-08-24T06:27:21.583Z",
+      "action": "updated remark for TF-NIDFP24-170 at MATALE: “Damaged - 40%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:57:04",
@@ -38658,13 +38672,6 @@
       "date": "2026-08-24",
       "time": "11:47:22",
       "iso": "2026-08-24T06:17:22.937Z",
-      "action": "updated remark for SIN-RFC-2058 at MATALE: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:47:21",
-      "iso": "2026-08-24T06:17:21.129Z",
       "action": "updated remark for SIN-RFC-2058 at MATALE: “Damaged - 40%”"
     }
   ]
