@@ -40174,18 +40174,18 @@
       "lastUpdated": "2026-08-24T07:25:37.134Z"
     },
     "PWRMAX||YATIYANTHOTA": {
-      "remark": "Shop use",
+      "remark": "AR pending. Shop use",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "12:55:56",
-      "lastUpdated": "2026-08-24T07:25:56.755Z"
+      "commentTime": "12:57:14",
+      "lastUpdated": "2026-08-24T07:27:14.965Z"
     },
     "PM-OS-BAT||YATIYANTHOTA": {
-      "remark": "Shop use",
+      "remark": "AR pending. Shop use",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "12:56:14",
-      "lastUpdated": "2026-08-24T07:26:14.736Z"
+      "commentTime": "12:57:17",
+      "lastUpdated": "2026-08-24T07:27:17.683Z"
     },
     "DH-I-A22EP-G-IMOU||YATIYANTHOTA": {
       "remark": "To be reported",
@@ -40193,6 +40193,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:56:39",
       "lastUpdated": "2026-08-24T07:26:39.006Z"
+    },
+    "BR-1||YATIYANTHOTA": {
+      "remark": "AR pending. Shop use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:57:12",
+      "lastUpdated": "2026-08-24T07:27:12.772Z"
     }
   },
   "showroomVisits": {
@@ -41205,6 +41212,27 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "12:57:17",
+      "iso": "2026-08-24T07:27:17.689Z",
+      "action": "updated remark for PM-OS-BAT at YATIYANTHOTA: “AR pending. Shop use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:57:14",
+      "iso": "2026-08-24T07:27:14.970Z",
+      "action": "updated remark for PWRMAX at YATIYANTHOTA: “AR pending. Shop use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:57:12",
+      "iso": "2026-08-24T07:27:12.783Z",
+      "action": "updated remark for BR-1 at YATIYANTHOTA: “AR pending. Shop use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "12:56:39",
       "iso": "2026-08-24T07:26:39.014Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at YATIYANTHOTA: “To be reported”"
@@ -41530,27 +41558,6 @@
       "time": "12:41:13",
       "iso": "2026-08-24T07:11:13.412Z",
       "action": "updated remark for WF-CB-B-S at MELSIRIPURA: “Damaged - 80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:41:23",
-      "iso": "2026-08-24T07:11:23.020Z",
-      "action": "updated remark for KA-ELITE at YATIYANTHOTA: “Part missing. Flat 75% offered”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:40:39",
-      "iso": "2026-08-24T07:10:39.032Z",
-      "action": "updated remark for WC-RTC221 at MELSIRIPURA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:40:30",
-      "iso": "2026-08-24T07:10:30.196Z",
-      "action": "updated remark for NCPO-FP250 at SHOMES- MATALE: “Can Sell”"
     }
   ]
 }
