@@ -42174,6 +42174,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:21:31",
       "lastUpdated": "2026-08-24T08:51:31.119Z"
+    },
+    "UJB-LB6027||KAHATAGASDIGILIYA": {
+      "remark": "25%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:21:54",
+      "lastUpdated": "2026-08-24T08:51:54.949Z"
+    },
+    "R-BWS-02||KAHATAGASDIGILIYA": {
+      "remark": "15%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:22:00",
+      "lastUpdated": "2026-08-24T08:52:00.123Z"
     }
   },
   "showroomVisits": {
@@ -43246,6 +43260,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "14:22:00",
+      "iso": "2026-08-24T08:52:00.127Z",
+      "action": "updated remark for R-BWS-02 at KAHATAGASDIGILIYA: “15%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:21:54",
+      "iso": "2026-08-24T08:51:54.954Z",
+      "action": "updated remark for UJB-LB6027 at KAHATAGASDIGILIYA: “25%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "14:21:31",
       "iso": "2026-08-24T08:51:31.122Z",
       "action": "updated remark for KA-ELITE at KAHATAGASDIGILIYA: “90%”"
@@ -43578,20 +43606,6 @@
       "time": "13:59:15",
       "iso": "2026-08-24T08:29:15.734Z",
       "action": "updated remark for LF-OPENSR-CHY-S at GINIGATHHENA: “Damaged 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:58:54",
-      "iso": "2026-08-24T08:28:54.673Z",
-      "action": "updated remark for WF-ROME-05-S at GINIGATHHENA: “50% Damaged”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:58:39",
-      "iso": "2026-08-24T08:28:39.839Z",
-      "action": "updated remark for WF-ROM-DTO-S at GINIGATHHENA: “60% damaged”"
     }
   ]
 }
