@@ -45422,6 +45422,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "17:51:55",
       "lastUpdated": "2026-08-24T12:21:55.879Z"
+    },
+    "HU-Y6S-BLU||NAULA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "17:52:28",
+      "lastUpdated": "2026-08-24T12:22:28.861Z"
     }
   },
   "showroomVisits": {
@@ -46712,6 +46719,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "17:52:28",
+      "iso": "2026-08-24T12:22:28.861Z",
+      "action": "updated remark for HU-Y6S-BLU at NAULA: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "17:51:55",
       "iso": "2026-08-24T12:21:55.880Z",
       "action": "updated remark for HU-SECURITY at NAULA: “Okay”"
@@ -47051,13 +47065,6 @@
       "time": "16:39:53",
       "iso": "2026-08-24T11:09:53.023Z",
       "action": "updated remark for BES-CRS-51 at KOTIYAKUMBURA: “Display 10% provided”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:39:08",
-      "iso": "2026-08-24T11:09:08.722Z",
-      "action": "updated remark for ULED32D60A at KEBITHIGOLLEWA: “80%”"
     }
   ]
 }
