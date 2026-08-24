@@ -45912,6 +45912,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:20:14",
       "lastUpdated": "2026-08-24T12:50:14.068Z"
+    },
+    "WF-DOC-T011-BU-S||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:20:28",
+      "lastUpdated": "2026-08-24T12:50:28.555Z"
     }
   },
   "showroomVisits": {
@@ -47200,6 +47207,27 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:20:30",
+      "iso": "2026-08-24T12:50:30.691Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at NAULA (cleared)"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:20:28",
+      "iso": "2026-08-24T12:50:28.556Z",
+      "action": "updated remark for WF-DOC-T011-BU-S at NAULA: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:20:23",
+      "iso": "2026-08-24T12:50:23.267Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at NAULA: “Damaged - 40%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "18:20:14",
@@ -47527,27 +47555,6 @@
       "time": "18:07:10",
       "iso": "2026-08-24T12:37:10.199Z",
       "action": "updated remark for SB-DTYPE at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:06:52",
-      "iso": "2026-08-24T12:36:52.119Z",
-      "action": "updated remark for RIYLTA-MF12V53B at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:06:44",
-      "iso": "2026-08-24T12:36:44.265Z",
-      "action": "updated remark for RIYLTA-MF12V53B at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:06:38",
-      "iso": "2026-08-24T12:36:38.014Z",
-      "action": "updated remark for RIYLTA-MF12V4 at NAULA: “Damaged - 90%”"
     }
   ]
 }
