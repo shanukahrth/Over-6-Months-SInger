@@ -36401,11 +36401,11 @@
       "lastUpdated": "2026-08-24T05:39:12.668Z"
     },
     "LF-BUDGET-BDQ-AGO-S||RUWANWELLA": {
-      "remark": "50% offered. Damaged",
+      "remark": "80% offered. Damaged",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "11:10:14",
-      "lastUpdated": "2026-08-24T05:40:14.007Z"
+      "commentTime": "11:10:44",
+      "lastUpdated": "2026-08-24T05:40:44.925Z"
     },
     "HON-H90-12-512-SIL||WARAKAPOLA": {
       "remark": "70%",
@@ -36413,6 +36413,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:09:52",
       "lastUpdated": "2026-08-24T05:39:52.278Z"
+    },
+    "WF-NAMAL-CT-S||RUWANWELLA": {
+      "remark": "Damaged.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:10:41",
+      "lastUpdated": "2026-08-24T05:40:41.725Z"
     }
   },
   "showroomVisits": {
@@ -37387,6 +37394,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "11:10:44",
+      "iso": "2026-08-24T05:40:44.929Z",
+      "action": "updated remark for LF-BUDGET-BDQ-AGO-S at RUWANWELLA: “80% offered. Damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "11:10:41",
+      "iso": "2026-08-24T05:40:41.730Z",
+      "action": "updated remark for WF-NAMAL-CT-S at RUWANWELLA: “Damaged.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "11:09:52",
@@ -37721,20 +37742,6 @@
       "time": "10:40:58",
       "iso": "2026-08-24T05:10:58.356Z",
       "action": "updated remark for WP-WFC105604RT-G at RUWANWELLA: “Display unit. 25% offered”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:40:21",
-      "iso": "2026-08-24T05:10:21.409Z",
-      "action": "updated remark for ZTE-A53-PRO-4-64-GR at MINUWANGODA - B: “29592 discount already systemized”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:40:30",
-      "iso": "2026-08-24T05:10:30.473Z",
-      "action": "updated remark for H-CVW1600 at RUWANWELLA: “25% flat”"
     }
   ]
 }
