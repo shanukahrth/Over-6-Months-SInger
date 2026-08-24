@@ -43448,6 +43448,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:16:42",
       "lastUpdated": "2026-08-24T09:46:42.517Z"
+    },
+    "CFD-S70-BC||HOROWPATHANA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:16:56",
+      "lastUpdated": "2026-08-24T09:46:56.314Z"
     }
   },
   "showroomVisits": {
@@ -44720,6 +44727,13 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "15:16:56",
+      "iso": "2026-08-24T09:46:56.317Z",
+      "action": "updated remark for CFD-S70-BC at HOROWPATHANA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "15:16:42",
       "iso": "2026-08-24T09:46:42.522Z",
       "action": "updated remark for HFPA-GRAVITY-BLC at HOROWPATHANA: “24500”"
@@ -45059,13 +45073,6 @@
       "time": "15:04:28",
       "iso": "2026-08-24T09:34:28.804Z",
       "action": "updated remark for SMG-SM-A105F-B at RAGAMA: “Return”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "15:04:24",
-      "iso": "2026-08-24T09:34:24.768Z",
-      "action": "updated remark for CM-D1000 at WARAKAPOLA: “60%”"
     }
   ]
 }
