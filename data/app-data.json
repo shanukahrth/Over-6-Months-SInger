@@ -6176,10 +6176,10 @@
     },
     "LF-SLVY-W4B-CKT-S||SHOMES- MATALE": {
       "remark": "Damaged - 70%",
-      "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "17:41:08",
-      "lastUpdated": "2026-08-17T12:11:08.471Z"
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:22:59",
+      "lastUpdated": "2026-08-24T06:52:59.271Z"
     },
     "LF-SLVY-W4B-CLM-S||SHOMES- MATALE": {
       "remark": "Damaged - 50%",
@@ -39215,6 +39215,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:22:59",
+      "iso": "2026-08-24T06:52:59.273Z",
+      "action": "updated remark for LF-SLVY-W4B-CKT-S at SHOMES- MATALE: “Damaged - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:22:54",
+      "iso": "2026-08-24T06:52:54.669Z",
+      "action": "updated remark for LF-SLVY-W4B-CKT-S at SHOMES- MATALE (cleared)"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:22:49",
@@ -39549,20 +39563,6 @@
       "time": "12:16:56",
       "iso": "2026-08-24T06:46:56.045Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-ONG at MELSIRIPURA: “Damaged/ Displayed - 35%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:16:53",
-      "iso": "2026-08-24T06:46:53.142Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at MELSIRIPURA: “Damaged/ Displayed - 35%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:16:33",
-      "iso": "2026-08-24T06:46:33.722Z",
-      "action": "updated remark for HU-SECURITY at MELSIRIPURA: “Ok”"
     }
   ]
 }
