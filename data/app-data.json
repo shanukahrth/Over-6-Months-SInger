@@ -37043,6 +37043,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:45:20",
       "lastUpdated": "2026-08-24T06:15:20.807Z"
+    },
+    "SKY32STD1000||WARAKAPOLA": {
+      "remark": "Exchange Not Completed",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:45:30",
+      "lastUpdated": "2026-08-24T06:15:30.023Z"
     }
   },
   "showroomVisits": {
@@ -38017,6 +38024,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "11:45:30",
+      "iso": "2026-08-24T06:15:30.024Z",
+      "action": "updated remark for SKY32STD1000 at WARAKAPOLA: “Exchange Not Completed”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:45:20",
@@ -38358,13 +38372,6 @@
       "time": "11:26:01",
       "iso": "2026-08-24T05:56:01.103Z",
       "action": "updated remark for WF-CB-B-S at WARAKAPOLA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:25:40",
-      "iso": "2026-08-24T05:55:40.610Z",
-      "action": "updated remark for WP-SS-SUB1-S at WARAKAPOLA: “70%”"
     }
   ]
 }
