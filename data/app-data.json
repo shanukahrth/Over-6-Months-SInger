@@ -37449,6 +37449,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:59:28",
       "lastUpdated": "2026-08-24T06:29:28.608Z"
+    },
+    "UJB-LB6027||MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:00:02",
+      "lastUpdated": "2026-08-24T06:30:02.165Z"
     }
   },
   "showroomVisits": {
@@ -38423,6 +38430,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:00:02",
+      "iso": "2026-08-24T06:30:02.167Z",
+      "action": "updated remark for UJB-LB6027 at MATALE: “Damaged - 30%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "11:59:28",
@@ -38764,13 +38778,6 @@
       "time": "11:49:38",
       "iso": "2026-08-24T06:19:38.059Z",
       "action": "updated remark for SMGRT28A3021GS at MATALE: “Display Damaged - 25%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:49:24",
-      "iso": "2026-08-24T06:19:24.761Z",
-      "action": "updated remark for HON-CH-PEN-WH9 at SHOMES- MATALE: “Free Issue”"
     }
   ]
 }
