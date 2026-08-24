@@ -45583,6 +45583,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:04:00",
       "lastUpdated": "2026-08-24T12:34:00.233Z"
+    },
+    "PF-MONDY-BLUE||NAULA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:04:13",
+      "lastUpdated": "2026-08-24T12:34:13.551Z"
     }
   },
   "showroomVisits": {
@@ -46873,6 +46880,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:04:13",
+      "iso": "2026-08-24T12:34:13.552Z",
+      "action": "updated remark for PF-MONDY-BLUE at NAULA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:04:00",
       "iso": "2026-08-24T12:34:00.234Z",
       "action": "updated remark for PF-GRID-1D-BG-S at NAULA: “Damaged - 90%”"
@@ -47212,13 +47226,6 @@
       "time": "17:03:26",
       "iso": "2026-08-24T11:33:26.057Z",
       "action": "updated remark for SLE32E930 at KOTIYAKUMBURA: “70% offered. Damaged. Return to Warehouse”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "17:03:20",
-      "iso": "2026-08-24T11:33:20.743Z",
-      "action": "updated remark for SLE32E930 at KOTIYAKUMBURA: “70% offered. Damaged. Return wearhouse”"
     }
   ]
 }
