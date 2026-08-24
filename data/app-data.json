@@ -36231,6 +36231,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:45:28",
       "lastUpdated": "2026-08-24T05:15:28.824Z"
+    },
+    "SLE40D600A||RUWANWELLA": {
+      "remark": "Display issue. Return to wearhouse.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:46:18",
+      "lastUpdated": "2026-08-24T05:16:18.556Z"
     }
   },
   "showroomVisits": {
@@ -37205,6 +37212,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:46:18",
+      "iso": "2026-08-24T05:16:18.562Z",
+      "action": "updated remark for SLE40D600A at RUWANWELLA: “Display issue. Return to wearhouse.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:45:28",
@@ -37546,13 +37560,6 @@
       "time": "10:27:03",
       "iso": "2026-08-24T04:57:03.345Z",
       "action": "updated remark for HON-X9CSMART-12-256-BLK at MIRIGAMA: “15% Add”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:26:34",
-      "iso": "2026-08-24T04:56:34.357Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at MIRIGAMA: “15% Add”"
     }
   ]
 }
