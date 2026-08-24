@@ -37211,6 +37211,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:52:00",
       "lastUpdated": "2026-08-24T06:22:00.719Z"
+    },
+    "SS-PS16-AG||MATALE": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:52:29",
+      "lastUpdated": "2026-08-24T06:22:29.074Z"
     }
   },
   "showroomVisits": {
@@ -38185,6 +38192,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:52:29",
+      "iso": "2026-08-24T06:22:29.075Z",
+      "action": "updated remark for SS-PS16-AG at MATALE: “Damaged - 60%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:52:17",
@@ -38526,13 +38540,6 @@
       "time": "11:43:24",
       "iso": "2026-08-24T06:13:24.825Z",
       "action": "updated remark for SIN-VBS-90PA at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:43:19",
-      "iso": "2026-08-24T06:13:19.621Z",
-      "action": "updated remark for PN-TH-32M402N at MATALE: “Sold”"
     }
   ]
 }
