@@ -42874,6 +42874,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:50:41",
       "lastUpdated": "2026-08-24T09:20:41.256Z"
+    },
+    "SL-18VNF||RAGAMA": {
+      "remark": "80%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:51:00",
+      "lastUpdated": "2026-08-24T09:21:00.642Z"
     }
   },
   "showroomVisits": {
@@ -44090,6 +44097,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "14:51:00",
+      "iso": "2026-08-24T09:21:00.645Z",
+      "action": "updated remark for SL-18VNF at RAGAMA: “80%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "14:50:41",
       "iso": "2026-08-24T09:20:41.257Z",
       "action": "updated remark for SKY55Q6700G at RAGAMA: “Additional 10%”"
@@ -44429,13 +44443,6 @@
       "time": "14:42:47",
       "iso": "2026-08-24T09:12:47.321Z",
       "action": "updated AMPARA showroom (visitDate: 2026-08-20)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:42:43",
-      "iso": "2026-08-24T09:12:43.516Z",
-      "action": "updated AMPARA showroom (visited: Yes)"
     }
   ]
 }
