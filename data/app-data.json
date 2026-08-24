@@ -36350,6 +36350,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:02:40",
       "lastUpdated": "2026-08-24T05:32:40.603Z"
+    },
+    "DELL3510-PNT-128-RCH-BLK||RAGAMA": {
+      "remark": "N/A",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:02:16",
+      "lastUpdated": "2026-08-24T05:32:16.502Z"
     }
   },
   "showroomVisits": {
@@ -37324,6 +37331,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "11:02:16",
+      "iso": "2026-08-24T05:32:16.502Z",
+      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at RAGAMA: “N/A”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "11:02:40",
@@ -37665,13 +37679,6 @@
       "time": "10:36:11",
       "iso": "2026-08-24T05:06:11.091Z",
       "action": "updated remark for SLE32E390 at MIRIGAMA: “Additional 20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:35:36",
-      "iso": "2026-08-24T05:05:36.693Z",
-      "action": "updated remark for SLE24D1000 at MIRIGAMA: “Additional 20%”"
     }
   ]
 }
