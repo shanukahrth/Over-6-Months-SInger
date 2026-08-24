@@ -6154,11 +6154,11 @@
       "lastUpdated": "2026-08-24T06:18:05.145Z"
     },
     "LF-CFGL1-BSC-S||SHOMES- MATALE": {
-      "remark": "Damage - 85%",
-      "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "17:37:17",
-      "lastUpdated": "2026-08-17T12:07:17.047Z"
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:52:17",
+      "lastUpdated": "2026-08-24T06:22:17.780Z"
     },
     "LF-DEO-CT-S||SHOMES- MATALE": {
       "remark": "Free Issue",
@@ -38185,6 +38185,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:52:17",
+      "iso": "2026-08-24T06:22:17.782Z",
+      "action": "updated remark for LF-CFGL1-BSC-S at SHOMES- MATALE: “Damaged - 85%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "11:52:00",
@@ -38526,13 +38533,6 @@
       "time": "11:43:19",
       "iso": "2026-08-24T06:13:19.621Z",
       "action": "updated remark for PN-TH-32M402N at MATALE: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:43:14",
-      "iso": "2026-08-24T06:13:14.797Z",
-      "action": "updated remark for SMG-A36-5G-12-256-BLK at SHOMES- MATALE: “Display - 20%”"
     }
   ]
 }
