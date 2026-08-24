@@ -45770,8 +45770,8 @@
       "remark": "Damaged - 90%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-24",
-      "commentTime": "18:14:26",
-      "lastUpdated": "2026-08-24T12:44:26.523Z"
+      "commentTime": "18:15:35",
+      "lastUpdated": "2026-08-24T12:45:35.660Z"
     },
     "SIN-BS30||GALEWELA": {
       "remark": "Damaged - 80%",
@@ -47067,6 +47067,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:15:35",
+      "iso": "2026-08-24T12:45:35.661Z",
+      "action": "updated remark for SLE40D600A at NAULA: “Damaged - 90%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "18:14:39",
@@ -47408,13 +47415,6 @@
       "time": "17:59:50",
       "iso": "2026-08-24T12:29:50.521Z",
       "action": "updated remark for KYOCERA-L-TA2020 at NAULA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:59:34",
-      "iso": "2026-08-24T12:29:34.097Z",
-      "action": "updated remark for KA-MIXEE-N at NAULA: “Damaged - 90%”"
     }
   ]
 }
