@@ -38177,6 +38177,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:22:39",
       "lastUpdated": "2026-08-24T06:52:39.212Z"
+    },
+    "WF-BALTIC-01-S||SHOMES- MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:22:13",
+      "lastUpdated": "2026-08-24T06:52:13.776Z"
     }
   },
   "showroomVisits": {
@@ -39187,6 +39194,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:22:13",
+      "iso": "2026-08-24T06:52:13.777Z",
+      "action": "updated remark for WF-BALTIC-01-S at SHOMES- MATALE: “Damaged - 50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:22:39",
@@ -39528,13 +39542,6 @@
       "time": "12:16:23",
       "iso": "2026-08-24T06:46:23.361Z",
       "action": "updated remark for HU-NOVA-Y61-BLU at MELSIRIPURA: “Ok”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:15:21",
-      "iso": "2026-08-24T06:45:21.056Z",
-      "action": "updated remark for WF-PRESTON-2D-S at SHOMES- MATALE: “Damaged - 85%”"
     }
   ]
 }
