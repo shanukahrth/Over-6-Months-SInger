@@ -36196,6 +36196,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:41:12",
       "lastUpdated": "2026-08-24T05:11:12.042Z"
+    },
+    "SWM-FA70R||RUWANWELLA": {
+      "remark": "Not working. Service center doesn't repair. Inform the factory.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:43:17",
+      "lastUpdated": "2026-08-24T05:13:17.016Z"
     }
   },
   "showroomVisits": {
@@ -37170,6 +37177,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:43:17",
+      "iso": "2026-08-24T05:13:17.021Z",
+      "action": "updated remark for SWM-FA70R at RUWANWELLA: “Not working. Service center doesn't repair. Inform the factory.”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "10:41:45",
@@ -37511,13 +37525,6 @@
       "time": "10:22:56",
       "iso": "2026-08-24T04:52:56.195Z",
       "action": "updated remark for SIN-RFC-1819 at MIRIGAMA: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:23:17",
-      "iso": "2026-08-24T04:53:17.125Z",
-      "action": "updated remark for ULED32D4100 at RUWANWELLA: “Exchange. History form available”"
     }
   ]
 }
