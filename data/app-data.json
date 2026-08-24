@@ -35652,11 +35652,11 @@
       "lastUpdated": "2026-08-24T04:40:59.781Z"
     },
     "CAN-L-LBP3010||RUWANWELLA": {
-      "remark": "Can't repair. 90% offered",
+      "remark": "Can't repair. 90% offered. Has sent to service and they have dispossessed. Product physically not available",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "10:11:37",
-      "lastUpdated": "2026-08-24T04:41:37.890Z"
+      "commentTime": "10:12:10",
+      "lastUpdated": "2026-08-24T04:42:10.856Z"
     },
     "NCPO-DC200||MIRIGAMA": {
       "remark": "Discount Already Given",
@@ -36638,6 +36638,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:12:10",
+      "iso": "2026-08-24T04:42:10.861Z",
+      "action": "updated remark for CAN-L-LBP3010 at RUWANWELLA: “Can't repair. 90% offered. Has sent to service and they have dispossessed. Product physically not available”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:11:32",
@@ -36979,13 +36986,6 @@
       "time": "09:55:14",
       "iso": "2026-08-24T04:25:14.897Z",
       "action": "updated remark for TF-GS-SPKT302 at MIRIGAMA: “10%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "09:55:06",
-      "iso": "2026-08-24T04:25:06.904Z",
-      "action": "updated remark for SL-SWMFR72 at MINUWANGODA - B: “60%”"
     }
   ]
 }
