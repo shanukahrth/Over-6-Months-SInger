@@ -36854,6 +36854,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:32:20",
       "lastUpdated": "2026-08-24T06:02:20.535Z"
+    },
+    "SXLC7371K||WARAKAPOLA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:32:42",
+      "lastUpdated": "2026-08-24T06:02:42.254Z"
     }
   },
   "showroomVisits": {
@@ -37830,6 +37837,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
+      "time": "11:32:42",
+      "iso": "2026-08-24T06:02:42.255Z",
+      "action": "updated remark for SXLC7371K at WARAKAPOLA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
       "time": "11:32:20",
       "iso": "2026-08-24T06:02:20.536Z",
       "action": "updated remark for SXL3201 at WARAKAPOLA: “50%”"
@@ -38169,13 +38183,6 @@
       "time": "11:17:25",
       "iso": "2026-08-24T05:47:25.109Z",
       "action": "updated remark for SDV3605K at THIRAPPANE: “2500”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:17:20",
-      "iso": "2026-08-24T05:47:20.749Z",
-      "action": "updated remark for UR591SW at THIRAPPANE: “3500”"
     }
   ]
 }
