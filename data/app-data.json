@@ -38778,9 +38778,29 @@
       "comment": "30%",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-24"
+    },
+    "PN-TH-32M401N||WARAKAPOLA": {
+      "sold": false,
+      "comment": "30%",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-24"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:12:26",
+      "iso": "2026-08-24T06:42:26.844Z",
+      "action": "updated sold comment for PN-TH-32M401N at WARAKAPOLA: “30%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:12:21",
+      "iso": "2026-08-24T06:42:21.812Z",
+      "action": "updated sold comment for PN-TH-32J401N at WARAKAPOLA: “30%”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
@@ -39116,20 +39136,6 @@
       "time": "12:03:28",
       "iso": "2026-08-24T06:33:28.248Z",
       "action": "marked SLE32D1800 at WARAKAPOLA as Not Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:03:25",
-      "iso": "2026-08-24T06:33:25.266Z",
-      "action": "marked SLE32D1800 at WARAKAPOLA as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:03:24",
-      "iso": "2026-08-24T06:33:24.490Z",
-      "action": "updated remark for SLE32D1800 at WARAKAPOLA: “70%”"
     }
   ]
 }
