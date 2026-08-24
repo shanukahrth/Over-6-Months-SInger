@@ -45611,6 +45611,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:04:57",
       "lastUpdated": "2026-08-24T12:34:57.287Z"
+    },
+    "PN-TH-32J401N||NAULA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:05:08",
+      "lastUpdated": "2026-08-24T12:35:08.855Z"
     }
   },
   "showroomVisits": {
@@ -46901,6 +46908,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:05:08",
+      "iso": "2026-08-24T12:35:08.856Z",
+      "action": "updated remark for PN-TH-32J401N at NAULA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:04:57",
       "iso": "2026-08-24T12:34:57.289Z",
       "action": "updated remark for PF-STRG-BX-130L-S at NAULA: “Damaged - 80%”"
@@ -47240,13 +47254,6 @@
       "time": "17:08:25",
       "iso": "2026-08-24T11:38:25.726Z",
       "action": "updated remark for SLE40D600A at KOTIYAKUMBURA: “50% provided to report”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "17:05:10",
-      "iso": "2026-08-24T11:35:10.035Z",
-      "action": "updated remark for ULED32D60A at KOTIYAKUMBURA: “60% offered”"
     }
   ]
 }
