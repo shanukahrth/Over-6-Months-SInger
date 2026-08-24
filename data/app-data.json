@@ -41964,6 +41964,41 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:15:55",
       "lastUpdated": "2026-08-24T08:45:55.374Z"
+    },
+    "BDV-N9200W||KAHATAGASDIGILIYA": {
+      "remark": "70%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:15:57",
+      "lastUpdated": "2026-08-24T08:45:57.231Z"
+    },
+    "MID-DSK38EU5||KAHATAGASDIGILIYA": {
+      "remark": "50%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:16:11",
+      "lastUpdated": "2026-08-24T08:46:11.938Z"
+    },
+    "SWH-118E||KAHATAGASDIGILIYA": {
+      "remark": "60%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:16:27",
+      "lastUpdated": "2026-08-24T08:46:27.644Z"
+    },
+    "PN-NI-S530ASD||KAHATAGASDIGILIYA": {
+      "remark": "35%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:16:36",
+      "lastUpdated": "2026-08-24T08:46:36.425Z"
+    },
+    "SED-2432A||KAHATAGASDIGILIYA": {
+      "remark": "60%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:16:45",
+      "lastUpdated": "2026-08-24T08:46:45.395Z"
     }
   },
   "showroomVisits": {
@@ -43010,6 +43045,41 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:16:45",
+      "iso": "2026-08-24T08:46:45.397Z",
+      "action": "updated remark for SED-2432A at KAHATAGASDIGILIYA: “60%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:16:36",
+      "iso": "2026-08-24T08:46:36.428Z",
+      "action": "updated remark for PN-NI-S530ASD at KAHATAGASDIGILIYA: “35%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:16:27",
+      "iso": "2026-08-24T08:46:27.648Z",
+      "action": "updated remark for SWH-118E at KAHATAGASDIGILIYA: “60%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:16:11",
+      "iso": "2026-08-24T08:46:11.941Z",
+      "action": "updated remark for MID-DSK38EU5 at KAHATAGASDIGILIYA: “50%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:15:57",
+      "iso": "2026-08-24T08:45:57.234Z",
+      "action": "updated remark for BDV-N9200W at KAHATAGASDIGILIYA: “70%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "14:15:55",
@@ -43323,41 +43393,6 @@
       "time": "13:46:20",
       "iso": "2026-08-24T08:16:20.118Z",
       "action": "updated remark for SLE40E810C at GINIGATHHENA: “Damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:46:17",
-      "iso": "2026-08-24T08:16:17.796Z",
-      "action": "updated remark for SLE40E710 at GINIGATHHENA: “Damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:46:14",
-      "iso": "2026-08-24T08:16:14.375Z",
-      "action": "updated remark for SLE40E710 at GINIGATHHENA: “Damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:46:03",
-      "iso": "2026-08-24T08:16:03.917Z",
-      "action": "updated remark for SLE40D600A at GINIGATHHENA: “Damaged 50%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:45:40",
-      "iso": "2026-08-24T08:15:40.192Z",
-      "action": "updated remark for SLE32G690 at GINIGATHHENA: “Damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:45:37",
-      "iso": "2026-08-24T08:15:37.200Z",
-      "action": "updated remark for SLE32E930 at GINIGATHHENA: “Damaged 90%”"
     }
   ]
 }
