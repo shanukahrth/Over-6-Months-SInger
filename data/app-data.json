@@ -36588,6 +36588,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:19:02",
       "lastUpdated": "2026-08-24T05:49:02.022Z"
+    },
+    "WF-CLASSIC-BR-S||THIRAPPANE": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:19:23",
+      "lastUpdated": "2026-08-24T05:49:23.078Z"
+    },
+    "SWH-118E||THIRAPPANE": {
+      "remark": "30%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:19:30",
+      "lastUpdated": "2026-08-24T05:49:30.492Z"
     }
   },
   "showroomVisits": {
@@ -37564,6 +37578,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "11:19:30",
+      "iso": "2026-08-24T05:49:30.494Z",
+      "action": "updated remark for SWH-118E at THIRAPPANE: “30%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "11:19:23",
+      "iso": "2026-08-24T05:49:23.081Z",
+      "action": "updated remark for WF-CLASSIC-BR-S at THIRAPPANE: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "11:19:02",
       "iso": "2026-08-24T05:49:02.026Z",
       "action": "updated remark for WFI-ROSE-BSC at THIRAPPANE: “80%”"
@@ -37896,20 +37924,6 @@
       "time": "10:52:32",
       "iso": "2026-08-24T05:22:32.385Z",
       "action": "updated remark for SL-PB-426 at MINUWANGODA - B: “Discounts already given to DM”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:52:04",
-      "iso": "2026-08-24T05:22:04.815Z",
-      "action": "updated remark for SLE43G890 at MINUWANGODA - B: “60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:51:14",
-      "iso": "2026-08-24T05:21:14.493Z",
-      "action": "updated remark for WP-JUN-E-S at RUWANWELLA: “50% discount offered. If it's not moving transfer to a potential location.”"
     }
   ]
 }
