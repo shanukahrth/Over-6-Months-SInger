@@ -34770,11 +34770,11 @@
       "lastUpdated": "2026-08-24T03:46:03.398Z"
     },
     "FAN-WF1608R||RUWANWELLA": {
-      "remark": "80% offered",
+      "remark": "80% offered. Flood",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "09:17:13",
-      "lastUpdated": "2026-08-24T03:47:13.294Z"
+      "commentTime": "09:17:34",
+      "lastUpdated": "2026-08-24T03:47:34.212Z"
     }
   },
   "showroomVisits": {
@@ -35751,6 +35751,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "09:17:34",
+      "iso": "2026-08-24T03:47:34.217Z",
+      "action": "updated remark for FAN-WF1608R at RUWANWELLA: “80% offered. Flood”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "09:17:13",
       "iso": "2026-08-24T03:47:13.299Z",
       "action": "updated remark for FAN-WF1608R at RUWANWELLA: “80% offered”"
@@ -36090,13 +36097,6 @@
       "time": "09:01:18",
       "iso": "2026-08-24T03:31:18.375Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at RUWANWELLA: “108,000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "09:01:10",
-      "iso": "2026-08-24T03:31:10.135Z",
-      "action": "updated remark for SASI12INFI at RUWANWELLA: “60%”"
     }
   ]
 }
