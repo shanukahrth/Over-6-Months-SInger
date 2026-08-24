@@ -46829,6 +46829,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:10:05",
       "lastUpdated": "2026-08-24T14:40:05.215Z"
+    },
+    "ULED32D5000||NIKAWERATIYA": {
+      "remark": "Revert / Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:11:57",
+      "lastUpdated": "2026-08-24T14:41:57.929Z"
     }
   },
   "showroomVisits": {
@@ -48119,6 +48126,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:11:57",
+      "iso": "2026-08-24T14:41:57.931Z",
+      "action": "updated remark for ULED32D5000 at NIKAWERATIYA: “Revert / Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:10:05",
       "iso": "2026-08-24T14:40:05.217Z",
       "action": "updated remark for ULED24D1000-U at NIKAWERATIYA: “Reevrt / Damaged - %”"
@@ -48458,13 +48472,6 @@
       "time": "19:14:47",
       "iso": "2026-08-24T13:44:47.294Z",
       "action": "updated remark for WF-DOC-M003-BU-S at POLPITHIGAMA: “OKay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:14:28",
-      "iso": "2026-08-24T13:44:28.926Z",
-      "action": "updated remark for SMW823AY7 at POLPITHIGAMA: “Okay”"
     }
   ]
 }
