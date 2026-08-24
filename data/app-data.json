@@ -45730,6 +45730,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:12:23",
       "lastUpdated": "2026-08-24T12:42:23.014Z"
+    },
+    "SLE32E810||NAULA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:12:39",
+      "lastUpdated": "2026-08-24T12:42:39.708Z"
     }
   },
   "showroomVisits": {
@@ -47020,6 +47027,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:12:39",
+      "iso": "2026-08-24T12:42:39.709Z",
+      "action": "updated remark for SLE32E810 at NAULA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:12:23",
       "iso": "2026-08-24T12:42:23.015Z",
       "action": "updated remark for SLE24E810 at NAULA: “Damaged - 90%”"
@@ -47359,13 +47373,6 @@
       "time": "17:57:19",
       "iso": "2026-08-24T12:27:19.038Z",
       "action": "updated remark for DH-A-HFW1500TLP-36B at NAULA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:57:14",
-      "iso": "2026-08-24T12:27:14.325Z",
-      "action": "updated remark for DH-4-CAMERA-PACK at NAULA: “Damaged - 80%”"
     }
   ]
 }
