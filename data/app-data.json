@@ -39969,6 +39969,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:42:02",
       "lastUpdated": "2026-08-24T07:12:02.687Z"
+    },
+    "WF-NAMAL-CT-S||MELSIRIPURA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:41:47",
+      "lastUpdated": "2026-08-24T07:11:47.807Z"
     }
   },
   "showroomVisits": {
@@ -40979,6 +40986,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:41:47",
+      "iso": "2026-08-24T07:11:47.808Z",
+      "action": "updated remark for WF-NAMAL-CT-S at MELSIRIPURA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:41:43",
+      "iso": "2026-08-24T07:11:43.814Z",
+      "action": "updated remark for WF-NAMAL-CT-S at MELSIRIPURA: “Damaged - 85%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:42:02",
@@ -41313,20 +41334,6 @@
       "time": "12:36:27",
       "iso": "2026-08-24T07:06:27.793Z",
       "action": "updated remark for BES-CRS-51 at GALENBIDUNUWEWA: “Add 10%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "12:36:12",
-      "iso": "2026-08-24T07:06:12.415Z",
-      "action": "updated remark for STARLINK-STD-CBL-15M at GALENBIDUNUWEWA: “-”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "12:35:55",
-      "iso": "2026-08-24T07:05:55.310Z",
-      "action": "updated remark for SMGRT28A3021GS at GALENBIDUNUWEWA: “135000/-”"
     }
   ]
 }
