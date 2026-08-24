@@ -34467,6 +34467,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:58:47",
       "lastUpdated": "2026-08-24T03:28:47.974Z"
+    },
+    "AC-TEMP-Y7-18||MIRIGAMA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:00:34",
+      "lastUpdated": "2026-08-24T03:30:34.684Z"
     }
   },
   "showroomVisits": {
@@ -35441,6 +35448,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "09:00:34",
+      "iso": "2026-08-24T03:30:34.684Z",
+      "action": "updated remark for AC-TEMP-Y7-18 at MIRIGAMA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "08:58:47",
@@ -35782,13 +35796,6 @@
       "time": "08:30:34",
       "iso": "2026-08-24T03:00:34.578Z",
       "action": "updated remark for SIS253CU at KANDANA: “60%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:30:12",
-      "iso": "2026-08-24T03:00:12.769Z",
-      "action": "updated remark for SIN-RFC-2058 at KANDANA: “10% - Additional”"
     }
   ]
 }
