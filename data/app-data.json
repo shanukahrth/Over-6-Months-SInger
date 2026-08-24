@@ -9430,11 +9430,11 @@
       "lastUpdated": "2026-08-18T03:55:43.729Z"
     },
     "TCL30E-3-64-GRY||NAULA": {
-      "remark": "Damaged - 80%",
+      "remark": "Damaged - 85%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-24",
-      "commentTime": "17:53:46",
-      "lastUpdated": "2026-08-24T12:23:46.325Z"
+      "commentTime": "17:54:32",
+      "lastUpdated": "2026-08-24T12:24:32.115Z"
     },
     "ACER-PJ-X1226AH||NAULA": {
       "remark": "Damaged - 70%",
@@ -46733,6 +46733,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "17:54:32",
+      "iso": "2026-08-24T12:24:32.115Z",
+      "action": "updated remark for TCL30E-3-64-GRY at NAULA: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "17:53:46",
       "iso": "2026-08-24T12:23:46.326Z",
       "action": "updated remark for TCL30E-3-64-GRY at NAULA: “Damaged - 80%”"
@@ -47072,13 +47079,6 @@
       "time": "16:40:03",
       "iso": "2026-08-24T11:10:03.285Z",
       "action": "updated remark for KA-LW-185A at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:40:18",
-      "iso": "2026-08-24T11:10:18.823Z",
-      "action": "updated remark for SLE32F590 at KEBITHIGOLLEWA: “70%”"
     }
   ]
 }
