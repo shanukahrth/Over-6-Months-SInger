@@ -40249,6 +40249,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:00:33",
       "lastUpdated": "2026-08-24T07:30:33.253Z"
+    },
+    "MC8280||WARAKAPOLA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:00:10",
+      "lastUpdated": "2026-08-24T07:30:10.641Z"
     }
   },
   "showroomVisits": {
@@ -41259,6 +41266,27 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "13:00:10",
+      "iso": "2026-08-24T07:30:10.642Z",
+      "action": "updated remark for MC8280 at WARAKAPOLA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "13:00:06",
+      "iso": "2026-08-24T07:30:06.931Z",
+      "action": "updated remark for MC8280 at WARAKAPOLA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "13:00:02",
+      "iso": "2026-08-24T07:30:02.349Z",
+      "action": "updated remark for MC8280 at WARAKAPOLA: “80%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "13:00:33",
@@ -41586,27 +41614,6 @@
       "time": "12:45:41",
       "iso": "2026-08-24T07:15:41.110Z",
       "action": "updated remark for SIN-TL-3118 at YATIYANTHOTA: “Not working. 90% offered. BM to report”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:44:57",
-      "iso": "2026-08-24T07:14:57.889Z",
-      "action": "updated remark for LF-LEO-18023-WNG-S at MELSIRIPURA: “Damaged - 60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:45:24",
-      "iso": "2026-08-24T07:15:24.411Z",
-      "action": "updated remark for SIN-TL-3118 at YATIYANTHOTA: “Not working. 90% offered to”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:44:29",
-      "iso": "2026-08-24T07:14:29.712Z",
-      "action": "updated remark for SDV3605K at WARAKAPOLA: “2000”"
     }
   ]
 }
