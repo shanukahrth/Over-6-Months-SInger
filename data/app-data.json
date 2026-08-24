@@ -37827,6 +37827,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:13:05",
       "lastUpdated": "2026-08-24T06:43:05.411Z"
+    },
+    "PN-TH-32M401N||WARAKAPOLA": {
+      "remark": "30%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:13:20",
+      "lastUpdated": "2026-08-24T06:43:20.764Z"
     }
   },
   "showroomVisits": {
@@ -38830,12 +38837,26 @@
     },
     "PN-TH-32M401N||WARAKAPOLA": {
       "sold": false,
-      "comment": "30%",
+      "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-24"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:13:20",
+      "iso": "2026-08-24T06:43:20.765Z",
+      "action": "updated remark for PN-TH-32M401N at WARAKAPOLA: “30%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:13:18",
+      "iso": "2026-08-24T06:43:18.282Z",
+      "action": "updated sold comment for PN-TH-32M401N at WARAKAPOLA (cleared)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-24",
@@ -39171,20 +39192,6 @@
       "time": "12:04:20",
       "iso": "2026-08-24T06:34:20.680Z",
       "action": "updated remark for WP-JUN-E-S at MATALE: “Damaged - 65%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:04:10",
-      "iso": "2026-08-24T06:34:10.515Z",
-      "action": "updated remark for WP-DI-SG-S at MATALE: “Damaged - 65%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:03:32",
-      "iso": "2026-08-24T06:33:32.654Z",
-      "action": "updated remark for WFL-STUDY-T-S-JNT-S at MATALE: “Damaged - 85%”"
     }
   ]
 }
