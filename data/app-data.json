@@ -43769,6 +43769,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "ARALAGANWILA||POLONNARUWA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-19",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43876,6 +43884,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:44:38",
+      "iso": "2026-08-24T09:14:38.205Z",
+      "action": "updated ARALAGANWILA showroom (visitDate: 2026-08-19)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -44218,13 +44233,6 @@
       "time": "14:33:47",
       "iso": "2026-08-24T09:03:47.616Z",
       "action": "updated remark for SKY32STD1000 at KAHATAGASDIGILIYA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:33:06",
-      "iso": "2026-08-24T09:03:06.524Z",
-      "action": "updated remark for PN-MIC-W-107 at WARAKAPOLA: “-”"
     }
   ]
 }
