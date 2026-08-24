@@ -43399,6 +43399,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:12:42",
       "lastUpdated": "2026-08-24T09:42:42.905Z"
+    },
+    "DVP-SR370||WARAKAPOLA": {
+      "remark": "2000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:13:10",
+      "lastUpdated": "2026-08-24T09:43:10.896Z"
     }
   },
   "showroomVisits": {
@@ -44629,6 +44636,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "15:13:10",
+      "iso": "2026-08-24T09:43:10.897Z",
+      "action": "updated remark for DVP-SR370 at WARAKAPOLA: “2000”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
       "time": "15:13:08",
@@ -44970,13 +44984,6 @@
       "time": "15:00:17",
       "iso": "2026-08-24T09:30:17.226Z",
       "action": "updated remark for SLE32E810 at RAGAMA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:59:40",
-      "iso": "2026-08-24T09:29:40.886Z",
-      "action": "updated remark for SLE32E710 at RAGAMA: “70%”"
     }
   ]
 }
