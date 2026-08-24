@@ -45772,6 +45772,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:14:26",
       "lastUpdated": "2026-08-24T12:44:26.523Z"
+    },
+    "SIN-BS30||GALEWELA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:14:39",
+      "lastUpdated": "2026-08-24T12:44:39.072Z"
     }
   },
   "showroomVisits": {
@@ -47060,6 +47067,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:14:39",
+      "iso": "2026-08-24T12:44:39.075Z",
+      "action": "updated remark for SIN-BS30 at GALEWELA: “Damaged - 80%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "18:14:26",
@@ -47401,13 +47415,6 @@
       "time": "17:59:34",
       "iso": "2026-08-24T12:29:34.097Z",
       "action": "updated remark for KA-MIXEE-N at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:58:55",
-      "iso": "2026-08-24T12:28:55.611Z",
-      "action": "updated remark for GEO-260NF at NAULA: “Damaged - 65%”"
     }
   ]
 }
