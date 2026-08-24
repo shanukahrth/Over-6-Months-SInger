@@ -44279,8 +44279,8 @@
       "remark": "Damaged - 80%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-24",
-      "commentTime": "16:07:54",
-      "lastUpdated": "2026-08-24T10:37:54.854Z"
+      "commentTime": "16:23:19",
+      "lastUpdated": "2026-08-24T10:53:19.851Z"
     },
     "USI-ATC-302||KOTIYAKUMBURA": {
       "remark": "50% offered to see what can be done",
@@ -44300,8 +44300,8 @@
       "remark": "Can sell",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-24",
-      "commentTime": "16:11:14",
-      "lastUpdated": "2026-08-24T10:41:14.881Z"
+      "commentTime": "16:23:16",
+      "lastUpdated": "2026-08-24T10:53:16.522Z"
     },
     "SIS253CU||KOTIYAKUMBURA": {
       "remark": "Damaged. 50% discount offered",
@@ -45982,6 +45982,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:23:19",
+      "iso": "2026-08-24T10:53:19.852Z",
+      "action": "updated remark for SWM-FA70R at WENNAPPUWA: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:23:16",
+      "iso": "2026-08-24T10:53:16.525Z",
+      "action": "updated remark for TF-CM-APR737 at WENNAPPUWA: “Can sell”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "16:23:47",
@@ -46316,20 +46330,6 @@
       "time": "16:14:03",
       "iso": "2026-08-24T10:44:03.162Z",
       "action": "updated remark for TF-NIGP26-119 at WENNAPPUWA: “Damaged - 60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "16:14:17",
-      "iso": "2026-08-24T10:44:17.431Z",
-      "action": "updated remark for PCP50 at KOTIYAKUMBURA: “-”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "16:14:14",
-      "iso": "2026-08-24T10:44:14.073Z",
-      "action": "updated remark for PCP50 at KOTIYAKUMBURA: “-”"
     }
   ]
 }
