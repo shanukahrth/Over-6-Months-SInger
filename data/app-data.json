@@ -37400,6 +37400,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:58:37",
       "lastUpdated": "2026-08-24T06:28:37.969Z"
+    },
+    "DH-A-B1A21P-6B||RAGAMA": {
+      "remark": "80%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:58:42",
+      "lastUpdated": "2026-08-24T06:28:42.807Z"
     }
   },
   "showroomVisits": {
@@ -38374,6 +38381,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "11:58:42",
+      "iso": "2026-08-24T06:28:42.811Z",
+      "action": "updated remark for DH-A-B1A21P-6B at RAGAMA: “80%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "11:58:37",
@@ -38715,13 +38729,6 @@
       "time": "11:48:39",
       "iso": "2026-08-24T06:18:39.217Z",
       "action": "updated remark for GEO-242D-SV at SHOMES- MATALE: “Display - 30%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:48:22",
-      "iso": "2026-08-24T06:18:22.882Z",
-      "action": "updated remark for SLE32D2010TC at MATALE: “Revert Damaged - 75%”"
     }
   ]
 }
