@@ -36406,6 +36406,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:10:14",
       "lastUpdated": "2026-08-24T05:40:14.007Z"
+    },
+    "HON-H90-12-512-SIL||WARAKAPOLA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:09:52",
+      "lastUpdated": "2026-08-24T05:39:52.278Z"
     }
   },
   "showroomVisits": {
@@ -37380,6 +37387,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "11:09:52",
+      "iso": "2026-08-24T05:39:52.278Z",
+      "action": "updated remark for HON-H90-12-512-SIL at WARAKAPOLA: “70%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "11:10:14",
@@ -37721,13 +37735,6 @@
       "time": "10:40:30",
       "iso": "2026-08-24T05:10:30.473Z",
       "action": "updated remark for H-CVW1600 at RUWANWELLA: “25% flat”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:39:55",
-      "iso": "2026-08-24T05:09:55.369Z",
-      "action": "updated remark for SLE32E710 at MIRIGAMA: “Additional 20%”"
     }
   ]
 }
