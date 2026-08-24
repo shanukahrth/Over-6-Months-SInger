@@ -44253,6 +44253,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:02:55",
       "lastUpdated": "2026-08-24T10:32:55.536Z"
+    },
+    "SMGAR50F12D0J||WENNAPPUWA": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:02:55",
+      "lastUpdated": "2026-08-24T10:32:55.986Z"
+    },
+    "SMGAR50F19D1J||WENNAPPUWA": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:03:05",
+      "lastUpdated": "2026-08-24T10:33:05.012Z"
     }
   },
   "showroomVisits": {
@@ -45541,6 +45555,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:03:05",
+      "iso": "2026-08-24T10:33:05.013Z",
+      "action": "updated remark for SMGAR50F19D1J at WENNAPPUWA: “Damaged - 20%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:02:55",
+      "iso": "2026-08-24T10:32:55.987Z",
+      "action": "updated remark for SMGAR50F12D0J at WENNAPPUWA: “Damaged - 20%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "16:02:55",
@@ -45875,20 +45903,6 @@
       "time": "15:53:43",
       "iso": "2026-08-24T10:23:43.184Z",
       "action": "updated remark for SIS277CU at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "15:53:18",
-      "iso": "2026-08-24T10:23:18.459Z",
-      "action": "updated remark for SIS277CU at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:53:23",
-      "iso": "2026-08-24T10:23:23.366Z",
-      "action": "updated remark for PF-KID-CHR-PNK-S at KOTIYAKUMBURA: “5% discount offered”"
     }
   ]
 }
