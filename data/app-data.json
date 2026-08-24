@@ -43126,6 +43126,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:01:10",
       "lastUpdated": "2026-08-24T09:31:10.318Z"
+    },
+    "SLE75G6E||RAGAMA": {
+      "remark": "If the product/carton is damaged, up to 25%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:01:21",
+      "lastUpdated": "2026-08-24T09:31:21.243Z"
     }
   },
   "showroomVisits": {
@@ -44340,6 +44347,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "15:01:21",
+      "iso": "2026-08-24T09:31:21.244Z",
+      "action": "updated remark for SLE75G6E at RAGAMA: “If the product/carton is damaged, up to 25%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "15:01:10",
@@ -44681,13 +44695,6 @@
       "time": "14:52:54",
       "iso": "2026-08-24T09:22:54.616Z",
       "action": "updated remark for LF-OX-BR-M-WNT-S at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:52:48",
-      "iso": "2026-08-24T09:22:48.936Z",
-      "action": "updated remark for HU-E97130292E at WENNAPPUWA: “-”"
     }
   ]
 }
