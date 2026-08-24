@@ -46283,6 +46283,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:38:41",
       "lastUpdated": "2026-08-24T13:08:41.919Z"
+    },
+    "LF-BUDGET-ST-CRW-S||POLPITHIGAMA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:38:43",
+      "lastUpdated": "2026-08-24T13:08:43.493Z"
+    },
+    "LF-BUDGET-ST-CLM-S||POLPITHIGAMA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:38:44",
+      "lastUpdated": "2026-08-24T13:08:44.575Z"
     }
   },
   "showroomVisits": {
@@ -47571,6 +47585,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:38:44",
+      "iso": "2026-08-24T13:08:44.576Z",
+      "action": "updated remark for LF-BUDGET-ST-CLM-S at POLPITHIGAMA: “Damaged - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:38:43",
+      "iso": "2026-08-24T13:08:43.494Z",
+      "action": "updated remark for LF-BUDGET-ST-CRW-S at POLPITHIGAMA: “Damaged - 70%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "18:38:41",
@@ -47905,20 +47933,6 @@
       "time": "18:26:24",
       "iso": "2026-08-24T12:56:24.084Z",
       "action": "updated remark for WFI-DELPHI-TBL-S at NAULA: “Damaged - 65%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:25:39",
-      "iso": "2026-08-24T12:55:39.876Z",
-      "action": "updated remark for WP-JUN-E-S at NAULA: “Damaged - 65%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "18:25:37",
-      "iso": "2026-08-24T12:55:37.026Z",
-      "action": "updated remark for LP-AP01 at GALEWELA: “Can sell this by 31st Aug”"
     }
   ]
 }
