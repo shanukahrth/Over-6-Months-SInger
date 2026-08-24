@@ -46304,6 +46304,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:38:53",
       "lastUpdated": "2026-08-24T13:08:53.120Z"
+    },
+    "TF-KD24-061||GALEWELA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:39:10",
+      "lastUpdated": "2026-08-24T13:09:10.109Z"
     }
   },
   "showroomVisits": {
@@ -47594,6 +47601,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "18:39:10",
+      "iso": "2026-08-24T13:09:10.110Z",
+      "action": "updated remark for TF-KD24-061 at GALEWELA: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "18:38:53",
       "iso": "2026-08-24T13:08:53.122Z",
       "action": "updated remark for TF-GS-SPKT302 at GALEWELA: “Damaged - 50%”"
@@ -47933,13 +47947,6 @@
       "time": "18:27:21",
       "iso": "2026-08-24T12:57:21.166Z",
       "action": "updated remark for TF-FP24-SCR342 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:26:41",
-      "iso": "2026-08-24T12:56:41.753Z",
-      "action": "updated remark for WF-DOC-M003-BU-S at NAULA: “Okay”"
     }
   ]
 }
