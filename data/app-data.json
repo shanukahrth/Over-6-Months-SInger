@@ -42853,6 +42853,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:49:58",
       "lastUpdated": "2026-08-24T09:19:58.945Z"
+    },
+    "SIS253CU||RAGAMA": {
+      "remark": "60%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:50:18",
+      "lastUpdated": "2026-08-24T09:20:18.376Z"
     }
   },
   "showroomVisits": {
@@ -44067,6 +44074,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "14:50:18",
+      "iso": "2026-08-24T09:20:18.377Z",
+      "action": "updated remark for SIS253CU at RAGAMA: “60%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "14:50:03",
@@ -44408,13 +44422,6 @@
       "time": "14:42:36",
       "iso": "2026-08-24T09:12:36.378Z",
       "action": "updated AKKARAIPATTU showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:42:32",
-      "iso": "2026-08-24T09:12:32.088Z",
-      "action": "updated AMPARA - C showroom (visitDate: 2026-08-20)"
     }
   ]
 }
