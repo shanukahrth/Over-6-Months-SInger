@@ -11936,11 +11936,11 @@
       "lastUpdated": "2026-08-18T06:35:30.769Z"
     },
     "LF-OX-BR-M-S||MELSIRIPURA": {
-      "remark": "Displayed/Damaged - 75%",
-      "commentedBy": "SHENULI",
-      "commentDate": "2026-08-18",
-      "commentTime": "12:06:09",
-      "lastUpdated": "2026-08-18T06:36:09.880Z"
+      "remark": "Damaged - 75%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:24:53",
+      "lastUpdated": "2026-08-24T06:54:53.600Z"
     },
     "PN-F-407XNBAMKH||MELSIRIPURA": {
       "remark": "Display/Damaged - 40%",
@@ -39280,6 +39280,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "12:24:53",
+      "iso": "2026-08-24T06:54:53.602Z",
+      "action": "updated remark for LF-OX-BR-M-S at MELSIRIPURA: “Damaged - 75%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "12:24:30",
       "iso": "2026-08-24T06:54:30.888Z",
       "action": "updated remark for LF-LEO-SCUP-WNG-S at MELSIRIPURA: “Damaged - 60%”"
@@ -39619,13 +39626,6 @@
       "time": "12:19:10",
       "iso": "2026-08-24T06:49:10.817Z",
       "action": "updated remark for BFS-150KG at MELSIRIPURA: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:18:49",
-      "iso": "2026-08-24T06:48:49.982Z",
-      "action": "updated remark for B-HIAG64223SXL at MELSIRIPURA: “Damaged - 40%”"
     }
   ]
 }
