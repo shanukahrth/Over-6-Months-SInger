@@ -35027,6 +35027,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:37:51",
       "lastUpdated": "2026-08-24T04:07:51.230Z"
+    },
+    "LF-BUDGET-ST-CLM-S||MINUWANGODA - B": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:38:07",
+      "lastUpdated": "2026-08-24T04:08:07.086Z"
     }
   },
   "showroomVisits": {
@@ -36001,6 +36008,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "09:38:07",
+      "iso": "2026-08-24T04:08:07.090Z",
+      "action": "updated remark for LF-BUDGET-ST-CLM-S at MINUWANGODA - B: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "09:37:51",
@@ -36342,13 +36356,6 @@
       "time": "09:14:44",
       "iso": "2026-08-24T03:44:44.015Z",
       "action": "updated remark for ZTE-A31-LITE-GRY at KANDANA: “Return to WH”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "09:14:24",
-      "iso": "2026-08-24T03:44:24.695Z",
-      "action": "updated remark for WP-WDC11704RG-G at KANDANA: “No discount”"
     }
   ]
 }
