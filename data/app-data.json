@@ -38142,6 +38142,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:20:52",
       "lastUpdated": "2026-08-24T06:50:52.607Z"
+    },
+    "CLOTHLINE-35PVC||MELSIRIPURA": {
+      "remark": "Sold",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:19:23",
+      "lastUpdated": "2026-08-24T06:49:23.936Z"
+    },
+    "GRIP-8573||MELSIRIPURA": {
+      "remark": "Shop Used",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:20:53",
+      "lastUpdated": "2026-08-24T06:50:53.110Z"
+    },
+    "GRIP-8101-S||MELSIRIPURA": {
+      "remark": "Shop Used",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:20:57",
+      "lastUpdated": "2026-08-24T06:50:57.935Z"
     }
   },
   "showroomVisits": {
@@ -39152,6 +39173,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:20:57",
+      "iso": "2026-08-24T06:50:57.936Z",
+      "action": "updated remark for GRIP-8101-S at MELSIRIPURA: “Shop Used”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:20:53",
+      "iso": "2026-08-24T06:50:53.111Z",
+      "action": "updated remark for GRIP-8573 at MELSIRIPURA: “Shop Used”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:19:23",
+      "iso": "2026-08-24T06:49:23.937Z",
+      "action": "updated remark for CLOTHLINE-35PVC at MELSIRIPURA: “Sold”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "12:20:52",
@@ -39479,27 +39521,6 @@
       "time": "12:14:32",
       "iso": "2026-08-24T06:44:32.895Z",
       "action": "updated sold comment for SLE42D2070TC at WARAKAPOLA (cleared)"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:14:58",
-      "iso": "2026-08-24T06:44:58.243Z",
-      "action": "updated remark for PHFWD410 at YATIYANTHOTA: “Not working. 90% offered”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:14:19",
-      "iso": "2026-08-24T06:44:19.940Z",
-      "action": "updated remark for WF-ORIENT-CHR-S at SHOMES- MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:14:11",
-      "iso": "2026-08-24T06:44:11.532Z",
-      "action": "updated remark for SLE43G890 at WARAKAPOLA: “Transfer to Display”"
     }
   ]
 }
