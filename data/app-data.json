@@ -46899,6 +46899,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:42:58",
       "lastUpdated": "2026-08-24T15:12:58.733Z"
+    },
+    "WFI-MICHU-CHR-S||NIKAWERATIYA": {
+      "remark": "Obsolete - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:44:01",
+      "lastUpdated": "2026-08-24T15:14:01.257Z"
     }
   },
   "showroomVisits": {
@@ -48189,6 +48196,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:44:01",
+      "iso": "2026-08-24T15:14:01.258Z",
+      "action": "updated remark for WFI-MICHU-CHR-S at NIKAWERATIYA: “Obsolete - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "20:43:56",
+      "iso": "2026-08-24T15:13:56.901Z",
+      "action": "updated remark for WFI-MICHU-CHR-S at NIKAWERATIYA: “Obsolete - 4%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:42:58",
       "iso": "2026-08-24T15:12:58.735Z",
       "action": "updated remark for MHC-V13 at NIKAWERATIYA: “Okay”"
@@ -48521,20 +48542,6 @@
       "time": "19:36:48",
       "iso": "2026-08-24T14:06:48.215Z",
       "action": "updated remark for PF-CAFE-NEW-RW-S at MAHO: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:36:07",
-      "iso": "2026-08-24T14:06:07.018Z",
-      "action": "updated remark for SLE24E810 at MAHO: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:33:58",
-      "iso": "2026-08-24T14:03:58.561Z",
-      "action": "updated remark for SIN-RFC-1819 at MAHO: “Damaged - 50%”"
     }
   ]
 }
