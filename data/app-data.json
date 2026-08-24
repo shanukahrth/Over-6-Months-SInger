@@ -35876,11 +35876,11 @@
       "lastUpdated": "2026-08-24T04:50:08.017Z"
     },
     "HU-NOVA-Y70-B||MIRIGAMA": {
-      "remark": "Discount Already Given",
+      "remark": "-",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-24",
-      "commentTime": "10:20:31",
-      "lastUpdated": "2026-08-24T04:50:31.690Z"
+      "commentTime": "10:25:58",
+      "lastUpdated": "2026-08-24T04:55:58.449Z"
     },
     "SINTEK-SS-MS-16||RUWANWELLA": {
       "remark": "75% flat offered - damaged & parts missing",
@@ -36946,6 +36946,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "10:25:58",
+      "iso": "2026-08-24T04:55:58.449Z",
+      "action": "updated remark for HU-NOVA-Y70-B at MIRIGAMA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "10:25:45",
@@ -37287,13 +37294,6 @@
       "time": "10:13:13",
       "iso": "2026-08-24T04:43:13.053Z",
       "action": "updated remark for TF-CM-APR737 at MINUWANGODA - B: “Discounts already given to DM”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:13:33",
-      "iso": "2026-08-24T04:43:33.175Z",
-      "action": "updated remark for SMGRT28A3021GS at RUWANWELLA: “Damaged. 50% offered”"
     }
   ]
 }
