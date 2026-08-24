@@ -42274,11 +42274,11 @@
       "lastUpdated": "2026-08-24T08:54:16.337Z"
     },
     "SKY55Q6700G||BULATHKOHUPITIYA": {
-      "remark": "Display dot. Panel issue.Product return.",
+      "remark": "Display dot. Panel issue.Product return from the customer..",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "14:24:24",
-      "lastUpdated": "2026-08-24T08:54:24.642Z"
+      "commentTime": "14:25:04",
+      "lastUpdated": "2026-08-24T08:55:04.652Z"
     },
     "PN-CS-XU18XKYW-8||RAGAMA": {
       "remark": "80%",
@@ -42300,6 +42300,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:24:35",
       "lastUpdated": "2026-08-24T08:54:35.992Z"
+    },
+    "SLE32E920||BULATHKOHUPITIYA": {
+      "remark": "70% flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:25:19",
+      "lastUpdated": "2026-08-24T08:55:19.588Z"
+    },
+    "SLE32E930||BULATHKOHUPITIYA": {
+      "remark": "70% flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:25:30",
+      "lastUpdated": "2026-08-24T08:55:30.515Z"
     }
   },
   "showroomVisits": {
@@ -43370,6 +43384,34 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "14:25:30",
+      "iso": "2026-08-24T08:55:30.520Z",
+      "action": "updated remark for SLE32E930 at BULATHKOHUPITIYA: “70% flat”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "14:25:25",
+      "iso": "2026-08-24T08:55:25.012Z",
+      "action": "updated remark for SLE32E930 at BULATHKOHUPITIYA: “70% flat”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "14:25:19",
+      "iso": "2026-08-24T08:55:19.593Z",
+      "action": "updated remark for SLE32E920 at BULATHKOHUPITIYA: “70% flat”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "14:25:04",
+      "iso": "2026-08-24T08:55:04.659Z",
+      "action": "updated remark for SKY55Q6700G at BULATHKOHUPITIYA: “Display dot. Panel issue.Product return from the customer..”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "14:24:35",
@@ -43690,34 +43732,6 @@
       "time": "14:19:00",
       "iso": "2026-08-24T08:49:00.131Z",
       "action": "updated HATTON showroom (visited: Yes)"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:18:41",
-      "iso": "2026-08-24T08:48:41.794Z",
-      "action": "updated remark for KA-KT-212F at KAHATAGASDIGILIYA: “65%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:18:18",
-      "iso": "2026-08-24T08:48:18.494Z",
-      "action": "updated remark for KA-LW-185A at KAHATAGASDIGILIYA: “65%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:18:02",
-      "iso": "2026-08-24T08:48:02.053Z",
-      "action": "updated remark for MID-MF-TN40D2 at KAHATAGASDIGILIYA: “50%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:17:55",
-      "iso": "2026-08-24T08:47:55.537Z",
-      "action": "updated remark for MID-MJ-KM6001W at KAHATAGASDIGILIYA: “30%”"
     }
   ]
 }
