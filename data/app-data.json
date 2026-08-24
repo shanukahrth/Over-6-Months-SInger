@@ -40928,6 +40928,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:10:25",
       "lastUpdated": "2026-08-24T08:40:25.177Z"
+    },
+    "DVP-SR370||KAHATAGASDIGILIYA": {
+      "remark": "1500",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:10:45",
+      "lastUpdated": "2026-08-24T08:40:45.535Z"
     }
   },
   "showroomVisits": {
@@ -41976,6 +41983,13 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "14:10:45",
+      "iso": "2026-08-24T08:40:45.538Z",
+      "action": "updated remark for DVP-SR370 at KAHATAGASDIGILIYA: “1500”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "14:10:25",
       "iso": "2026-08-24T08:40:25.177Z",
       "action": "updated remark for NETAC-128GB-NVME-SSD at KAHATAGASDIGILIYA: “-”"
@@ -42315,13 +42329,6 @@
       "time": "12:37:53",
       "iso": "2026-08-24T07:07:53.155Z",
       "action": "updated remark for SLE32E910 at GALENBIDUNUWEWA: “80%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "12:37:51",
-      "iso": "2026-08-24T07:07:51.099Z",
-      "action": "updated remark for SLE32E610 at GALENBIDUNUWEWA: “80%”"
     }
   ]
 }
