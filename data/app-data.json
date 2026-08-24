@@ -37295,6 +37295,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:55:59",
       "lastUpdated": "2026-08-24T06:25:59.586Z"
+    },
+    "TF-FP24-SCR342||MATALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:56:01",
+      "lastUpdated": "2026-08-24T06:26:01.703Z"
     }
   },
   "showroomVisits": {
@@ -38269,6 +38276,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:56:01",
+      "iso": "2026-08-24T06:26:01.705Z",
+      "action": "updated remark for TF-FP24-SCR342 at MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:55:59",
+      "iso": "2026-08-24T06:25:59.813Z",
+      "action": "updated remark for TF-FP24-SCR342 at MATALE: “Damaged - 40%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:55:59",
@@ -38603,20 +38624,6 @@
       "time": "11:45:30",
       "iso": "2026-08-24T06:15:30.403Z",
       "action": "updated remark for B-CFB6433XH at SHOMES- MATALE: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:45:46",
-      "iso": "2026-08-24T06:15:46.015Z",
-      "action": "updated remark for SIN-PSVX938 at MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:45:30",
-      "iso": "2026-08-24T06:15:30.024Z",
-      "action": "updated remark for SKY32STD1000 at WARAKAPOLA: “Exchange Not Completed”"
     }
   ]
 }
