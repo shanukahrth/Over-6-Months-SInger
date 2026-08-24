@@ -44559,6 +44559,22 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "KATTANKUDY||BATTICALOA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "Mangalesh and Gayan ",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
+    },
+    "KOKKADICHOLAI||BATTICALOA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -44666,6 +44682,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "15:14:11",
+      "iso": "2026-08-24T09:44:11.910Z",
+      "action": "updated KOKKADICHOLAI showroom (visited: Yes)"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "15:14:07",
+      "iso": "2026-08-24T09:44:07.135Z",
+      "action": "updated KATTANKUDY showroom (team: Mangalesh and Gayan )"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -45001,20 +45031,6 @@
       "time": "15:02:04",
       "iso": "2026-08-24T09:32:04.154Z",
       "action": "updated remark for BC-KNP-AG at WARAKAPOLA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:01:41",
-      "iso": "2026-08-24T09:31:41.884Z",
-      "action": "updated remark for SLMC-18DSLHS at RAGAMA: “Discounts already give to DM”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:01:21",
-      "iso": "2026-08-24T09:31:21.244Z",
-      "action": "updated remark for SLE75G6E at RAGAMA: “If the product/carton is damaged, up to 25%”"
     }
   ]
 }
