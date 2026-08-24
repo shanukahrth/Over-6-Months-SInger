@@ -42363,6 +42363,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:26:07",
       "lastUpdated": "2026-08-24T08:56:07.681Z"
+    },
+    "PN-NR-BG312DALK||RAGAMA": {
+      "remark": "Exchange",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:25:52",
+      "lastUpdated": "2026-08-24T08:55:52.461Z"
     }
   },
   "showroomVisits": {
@@ -43433,6 +43440,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "14:25:52",
+      "iso": "2026-08-24T08:55:52.462Z",
+      "action": "updated remark for PN-NR-BG312DALK at RAGAMA: “Exchange”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "14:26:07",
@@ -43774,13 +43788,6 @@
       "time": "14:14:58",
       "iso": "2026-08-24T08:44:58.866Z",
       "action": "updated remark for UJB-LB6027 at BULATHKOHUPITIYA: “30% flat”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "14:14:39",
-      "iso": "2026-08-24T08:44:39.189Z",
-      "action": "updated remark for LP-AP01 at BULATHKOHUPITIYA: “Damaged. Doesn't work. 80% provided. If not return”"
     }
   ]
 }
