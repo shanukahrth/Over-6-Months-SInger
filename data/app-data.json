@@ -36415,11 +36415,11 @@
       "lastUpdated": "2026-08-24T05:39:52.278Z"
     },
     "WF-NAMAL-CT-S||RUWANWELLA": {
-      "remark": "Damaged.",
+      "remark": "Damaged. 80% offered",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "11:10:41",
-      "lastUpdated": "2026-08-24T05:40:41.725Z"
+      "commentTime": "11:10:53",
+      "lastUpdated": "2026-08-24T05:40:53.568Z"
     }
   },
   "showroomVisits": {
@@ -37396,6 +37396,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "11:10:53",
+      "iso": "2026-08-24T05:40:53.573Z",
+      "action": "updated remark for WF-NAMAL-CT-S at RUWANWELLA: “Damaged. 80% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "11:10:44",
       "iso": "2026-08-24T05:40:44.929Z",
       "action": "updated remark for LF-BUDGET-BDQ-AGO-S at RUWANWELLA: “80% offered. Damaged”"
@@ -37735,13 +37742,6 @@
       "time": "10:40:49",
       "iso": "2026-08-24T05:10:49.211Z",
       "action": "updated remark for ZTE-A75-4GB-256GB-GRN at MINUWANGODA - B: “burglary”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:40:58",
-      "iso": "2026-08-24T05:10:58.356Z",
-      "action": "updated remark for WP-WFC105604RT-G at RUWANWELLA: “Display unit. 25% offered”"
     }
   ]
 }
