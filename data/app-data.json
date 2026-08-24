@@ -39416,6 +39416,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:27:29",
       "lastUpdated": "2026-08-24T06:57:29.586Z"
+    },
+    "SIN-PR-K340||MELSIRIPURA": {
+      "remark": "Damaged - 35%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:31:22",
+      "lastUpdated": "2026-08-24T07:01:22.641Z"
     }
   },
   "showroomVisits": {
@@ -40426,6 +40433,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:31:22",
+      "iso": "2026-08-24T07:01:22.644Z",
+      "action": "updated remark for SIN-PR-K340 at MELSIRIPURA: “Damaged - 35%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-24",
       "time": "12:30:42",
@@ -40767,13 +40781,6 @@
       "time": "12:10:31",
       "iso": "2026-08-24T06:40:31.429Z",
       "action": "updated remark for SKY32TB1000 at NAWALAPITIYA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:10:28",
-      "iso": "2026-08-24T06:40:28.234Z",
-      "action": "updated remark for SKY32STD1000 at NAWALAPITIYA: “90%”"
     }
   ]
 }
