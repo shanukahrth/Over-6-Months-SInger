@@ -45142,6 +45142,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:37:00",
       "lastUpdated": "2026-08-24T11:07:00.213Z"
+    },
+    "H-BD-1054HVOS||GALEWELA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:37:26",
+      "lastUpdated": "2026-08-24T11:07:26.688Z"
     }
   },
   "showroomVisits": {
@@ -46432,6 +46439,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "16:37:26",
+      "iso": "2026-08-24T11:07:26.689Z",
+      "action": "updated remark for H-BD-1054HVOS at GALEWELA: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "16:37:00",
       "iso": "2026-08-24T11:07:00.214Z",
       "action": "updated remark for GEO-242D at GALEWELA: “Damaged - 85%”"
@@ -46771,13 +46785,6 @@
       "time": "16:31:29",
       "iso": "2026-08-24T11:01:29.769Z",
       "action": "updated remark for SMG-A17-8-256-GRY at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "16:31:27",
-      "iso": "2026-08-24T11:01:27.981Z",
-      "action": "updated remark for SMG-A06-4-128-BLU at GALEWELA: “Return to Warehouse”"
     }
   ]
 }
