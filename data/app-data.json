@@ -45576,6 +45576,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:02:53",
       "lastUpdated": "2026-08-24T12:32:53.721Z"
+    },
+    "PF-GRID-1D-BG-S||NAULA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:04:00",
+      "lastUpdated": "2026-08-24T12:34:00.233Z"
     }
   },
   "showroomVisits": {
@@ -46866,6 +46873,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:04:00",
+      "iso": "2026-08-24T12:34:00.234Z",
+      "action": "updated remark for PF-GRID-1D-BG-S at NAULA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:02:53",
       "iso": "2026-08-24T12:32:53.725Z",
       "action": "updated remark for OF-SW22-S at NAULA: “Okay”"
@@ -47205,13 +47219,6 @@
       "time": "17:03:20",
       "iso": "2026-08-24T11:33:20.743Z",
       "action": "updated remark for SLE32E930 at KOTIYAKUMBURA: “70% offered. Damaged. Return wearhouse”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "17:03:12",
-      "iso": "2026-08-24T11:33:12.038Z",
-      "action": "updated remark for SLE32E930 at KOTIYAKUMBURA: “70% offered. Damaged. Return to wearhouse”"
     }
   ]
 }
