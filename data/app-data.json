@@ -34054,6 +34054,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:24:09",
       "lastUpdated": "2026-08-24T02:54:09.965Z"
+    },
+    "PM-OS-BAT||KANDANA": {
+      "remark": "Shop use",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:24:34",
+      "lastUpdated": "2026-08-24T02:54:34.361Z"
     }
   },
   "showroomVisits": {
@@ -35030,6 +35037,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:24:34",
+      "iso": "2026-08-24T02:54:34.363Z",
+      "action": "updated remark for PM-OS-BAT at KANDANA: “Shop use”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:24:09",
       "iso": "2026-08-24T02:54:09.966Z",
       "action": "updated remark for PM-COMP-PSU at KANDANA: “Shop use”"
@@ -35369,13 +35383,6 @@
       "time": "17:40:33",
       "iso": "2026-08-21T12:10:33.353Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at MATALE: “Damaged - 35%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:40:12",
-      "iso": "2026-08-21T12:10:12.735Z",
-      "action": "updated remark for NUBIA-V70-8-256GB-GRY at MATALE: “Damaged - 20%”"
     }
   ]
 }
