@@ -34173,6 +34173,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:30:34",
       "lastUpdated": "2026-08-24T03:00:34.577Z"
+    },
+    "SL-ECO192-TG||KANDANA": {
+      "remark": "25%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:30:53",
+      "lastUpdated": "2026-08-24T03:00:53.615Z"
     }
   },
   "showroomVisits": {
@@ -35149,6 +35156,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:30:53",
+      "iso": "2026-08-24T03:00:53.617Z",
+      "action": "updated remark for SL-ECO192-TG at KANDANA: “25%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:30:34",
       "iso": "2026-08-24T03:00:34.578Z",
       "action": "updated remark for SIS253CU at KANDANA: “60%”"
@@ -35488,13 +35502,6 @@
       "time": "17:46:47",
       "iso": "2026-08-21T12:16:47.891Z",
       "action": "updated remark for HON-BUDS-X6 at MATALE: “Ok”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:46:39",
-      "iso": "2026-08-21T12:16:39.489Z",
-      "action": "updated remark for H-CVW1600 at MATALE: “Damaged - 85%”"
     }
   ]
 }
