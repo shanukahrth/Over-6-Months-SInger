@@ -34166,6 +34166,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:30:12",
       "lastUpdated": "2026-08-24T03:00:12.768Z"
+    },
+    "SIS253CU||KANDANA": {
+      "remark": "60%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:30:34",
+      "lastUpdated": "2026-08-24T03:00:34.577Z"
     }
   },
   "showroomVisits": {
@@ -35142,6 +35149,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:30:34",
+      "iso": "2026-08-24T03:00:34.578Z",
+      "action": "updated remark for SIS253CU at KANDANA: “60%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:30:12",
       "iso": "2026-08-24T03:00:12.769Z",
       "action": "updated remark for SIN-RFC-2058 at KANDANA: “10% - Additional”"
@@ -35481,13 +35495,6 @@
       "time": "17:46:39",
       "iso": "2026-08-21T12:16:39.489Z",
       "action": "updated remark for H-CVW1600 at MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:46:07",
-      "iso": "2026-08-21T12:16:07.778Z",
-      "action": "updated remark for GEO-182S-BU1 at MATALE: “Damaged - 35%”"
     }
   ]
 }
