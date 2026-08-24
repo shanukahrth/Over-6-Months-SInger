@@ -43805,6 +43805,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:35:47",
       "lastUpdated": "2026-08-24T10:05:47.959Z"
+    },
+    "SLE40D600A||HOROWPATHANA": {
+      "remark": "20%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:36:30",
+      "lastUpdated": "2026-08-24T10:06:30.096Z"
     }
   },
   "showroomVisits": {
@@ -45087,6 +45094,13 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:36:30",
+      "iso": "2026-08-24T10:06:30.100Z",
+      "action": "updated remark for SLE40D600A at HOROWPATHANA: “20%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "15:35:47",
@@ -45428,13 +45442,6 @@
       "time": "15:19:56",
       "iso": "2026-08-24T09:49:56.560Z",
       "action": "updated remark for TF-TW26-064 at RAGAMA: “Discounts already give to DM”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:19:04",
-      "iso": "2026-08-24T09:49:04.260Z",
-      "action": "updated remark for DELL3501-I5W10MX4GB-SIL at HOROWPATHANA: “Stystem”"
     }
   ]
 }
