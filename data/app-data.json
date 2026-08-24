@@ -34649,6 +34649,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:11:24",
       "lastUpdated": "2026-08-24T03:41:24.601Z"
+    },
+    "WFL-RIO-01-S||KANDANA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:11:04",
+      "lastUpdated": "2026-08-24T03:41:04.797Z"
     }
   },
   "showroomVisits": {
@@ -35623,6 +35630,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "09:11:04",
+      "iso": "2026-08-24T03:41:04.798Z",
+      "action": "updated remark for WFL-RIO-01-S at KANDANA: “50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "09:11:24",
@@ -35963,13 +35977,6 @@
       "date": "2026-08-24",
       "time": "08:45:13",
       "iso": "2026-08-24T03:15:13.674Z",
-      "action": "updated remark for TCL30E-3-64-GRY at KANDANA: “Return to WH”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:44:35",
-      "iso": "2026-08-24T03:14:35.484Z",
       "action": "updated remark for TCL30E-3-64-GRY at KANDANA: “Return to WH”"
     }
   ]
