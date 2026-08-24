@@ -46024,6 +46024,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:25:37",
       "lastUpdated": "2026-08-24T12:55:37.024Z"
+    },
+    "WP-JUN-E-S||NAULA": {
+      "remark": "Damaged - 65%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:25:39",
+      "lastUpdated": "2026-08-24T12:55:39.875Z"
     }
   },
   "showroomVisits": {
@@ -47312,6 +47319,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:25:39",
+      "iso": "2026-08-24T12:55:39.876Z",
+      "action": "updated remark for WP-JUN-E-S at NAULA: “Damaged - 65%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "18:25:37",
@@ -47653,13 +47667,6 @@
       "time": "18:13:55",
       "iso": "2026-08-24T12:43:55.666Z",
       "action": "updated remark for SLE32E810 at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:13:09",
-      "iso": "2026-08-24T12:43:09.647Z",
-      "action": "updated remark for SLE32E710 at NAULA: “Damaged - 90%”"
     }
   ]
 }
