@@ -34187,6 +34187,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:31:13",
       "lastUpdated": "2026-08-24T03:01:13.017Z"
+    },
+    "SLE24E810||KANDANA": {
+      "remark": "Exchange PO pending",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:31:30",
+      "lastUpdated": "2026-08-24T03:01:30.746Z"
     }
   },
   "showroomVisits": {
@@ -35163,6 +35170,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:31:30",
+      "iso": "2026-08-24T03:01:30.749Z",
+      "action": "updated remark for SLE24E810 at KANDANA: “Exchange PO pending”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:31:13",
       "iso": "2026-08-24T03:01:13.019Z",
       "action": "updated remark for SL-SF1607 at KANDANA: “60%”"
@@ -35502,13 +35516,6 @@
       "time": "17:47:32",
       "iso": "2026-08-21T12:17:32.934Z",
       "action": "updated remark for HU-BAND4-B at MATALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:47:07",
-      "iso": "2026-08-21T12:17:07.107Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at MATALE: “Ok”"
     }
   ]
 }
