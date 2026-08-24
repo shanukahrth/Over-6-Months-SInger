@@ -46227,6 +46227,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:37:17",
       "lastUpdated": "2026-08-24T13:07:17.625Z"
+    },
+    "SMW823AY7||GALEWELA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:37:27",
+      "lastUpdated": "2026-08-24T13:07:27.426Z"
     }
   },
   "showroomVisits": {
@@ -47515,6 +47522,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:37:27",
+      "iso": "2026-08-24T13:07:27.427Z",
+      "action": "updated remark for SMW823AY7 at GALEWELA: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:37:22",
+      "iso": "2026-08-24T13:07:22.441Z",
+      "action": "updated remark for SMW823AY7 at GALEWELA: “Damaged - 40%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "18:37:17",
@@ -47849,20 +47870,6 @@
       "time": "18:21:45",
       "iso": "2026-08-24T12:51:45.685Z",
       "action": "updated remark for WP-1-TI-S at NAULA: “Damaged - 65%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:21:37",
-      "iso": "2026-08-24T12:51:37.354Z",
-      "action": "updated remark for WFL-ST-120-WH-S at NAULA: “Damaged - 65%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:21:34",
-      "iso": "2026-08-24T12:51:34.202Z",
-      "action": "updated remark for WFL-CEL-SP-20X30-S at NAULA: “Damaged - 65%”"
     }
   ]
 }
