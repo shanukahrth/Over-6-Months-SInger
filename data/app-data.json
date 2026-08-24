@@ -36483,6 +36483,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:15:40",
       "lastUpdated": "2026-08-24T05:45:40.480Z"
+    },
+    "MAS-VU3BWJ||THIRAPPANE": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:16:10",
+      "lastUpdated": "2026-08-24T05:46:10.530Z"
+    },
+    "SRS-XV500||THIRAPPANE": {
+      "remark": "25%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:16:17",
+      "lastUpdated": "2026-08-24T05:46:17.378Z"
     }
   },
   "showroomVisits": {
@@ -37457,6 +37471,20 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "11:16:17",
+      "iso": "2026-08-24T05:46:17.382Z",
+      "action": "updated remark for SRS-XV500 at THIRAPPANE: “25%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "11:16:10",
+      "iso": "2026-08-24T05:46:10.540Z",
+      "action": "updated remark for MAS-VU3BWJ at THIRAPPANE: “80%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "11:15:40",
@@ -37791,20 +37819,6 @@
       "time": "10:46:18",
       "iso": "2026-08-24T05:16:18.562Z",
       "action": "updated remark for SLE40D600A at RUWANWELLA: “Display issue. Return to wearhouse.”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:45:28",
-      "iso": "2026-08-24T05:15:28.825Z",
-      "action": "updated remark for SLE40E810C at MIRIGAMA: “40% Total”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:46:00",
-      "iso": "2026-08-24T05:16:00.336Z",
-      "action": "updated remark for SLE40D4000 at RUWANWELLA (cleared)"
     }
   ]
 }
