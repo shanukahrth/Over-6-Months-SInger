@@ -44314,8 +44314,8 @@
       "remark": "Damaged - 10%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-24",
-      "commentTime": "16:05:43",
-      "lastUpdated": "2026-08-24T10:35:43.169Z"
+      "commentTime": "16:13:22",
+      "lastUpdated": "2026-08-24T10:43:22.252Z"
     },
     "TF-GCA-1336||WENNAPPUWA": {
       "remark": "Damaged - 10%",
@@ -44400,6 +44400,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:13:52",
       "lastUpdated": "2026-08-24T10:43:52.869Z"
+    },
+    "TF-KD24-061||WENNAPPUWA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:13:31",
+      "lastUpdated": "2026-08-24T10:43:31.235Z"
     }
   },
   "showroomVisits": {
@@ -45688,6 +45695,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:13:31",
+      "iso": "2026-08-24T10:43:31.238Z",
+      "action": "updated remark for TF-KD24-061 at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:13:22",
+      "iso": "2026-08-24T10:43:22.254Z",
+      "action": "updated remark for TF-FP24-SCR342 at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "16:13:52",
@@ -46022,20 +46043,6 @@
       "time": "15:59:01",
       "iso": "2026-08-24T10:29:01.788Z",
       "action": "updated remark for SM-MC9200 at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:58:50",
-      "iso": "2026-08-24T10:28:50.326Z",
-      "action": "updated remark for SIN-HPW0317 at WARAKAPOLA - B: “80”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:58:32",
-      "iso": "2026-08-24T10:28:32.592Z",
-      "action": "updated remark for STT-KGT200 at WARAKAPOLA - B: “N/A”"
     }
   ]
 }
