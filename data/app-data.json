@@ -38240,6 +38240,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:24:01",
       "lastUpdated": "2026-08-24T06:54:01.924Z"
+    },
+    "LF-LEO-12023-WNG-S||MELSIRIPURA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:23:36",
+      "lastUpdated": "2026-08-24T06:53:36.748Z"
     }
   },
   "showroomVisits": {
@@ -39250,6 +39257,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:23:36",
+      "iso": "2026-08-24T06:53:36.749Z",
+      "action": "updated remark for LF-LEO-12023-WNG-S at MELSIRIPURA: “Damaged - 60%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "12:24:01",
@@ -39591,13 +39605,6 @@
       "time": "12:17:54",
       "iso": "2026-08-24T06:47:54.334Z",
       "action": "updated remark for SLE40D600A at WARAKAPOLA: “Pannel Damage 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:17:46",
-      "iso": "2026-08-24T06:47:46.483Z",
-      "action": "updated remark for APS-300KG at MELSIRIPURA: “Damaged - 30%”"
     }
   ]
 }
