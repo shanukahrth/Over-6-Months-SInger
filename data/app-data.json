@@ -45590,6 +45590,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:04:13",
       "lastUpdated": "2026-08-24T12:34:13.551Z"
+    },
+    "PF-RTN-ARMLS-BR-S||NAULA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:04:27",
+      "lastUpdated": "2026-08-24T12:34:27.318Z"
     }
   },
   "showroomVisits": {
@@ -46880,6 +46887,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:04:27",
+      "iso": "2026-08-24T12:34:27.319Z",
+      "action": "updated remark for PF-RTN-ARMLS-BR-S at NAULA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:04:26",
+      "iso": "2026-08-24T12:34:26.295Z",
+      "action": "updated remark for PF-RTN-ARMLS-BR-S at NAULA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:04:13",
       "iso": "2026-08-24T12:34:13.552Z",
       "action": "updated remark for PF-MONDY-BLUE at NAULA: “Damaged - 60%”"
@@ -47211,20 +47232,6 @@
       "date": "2026-08-24",
       "time": "17:04:15",
       "iso": "2026-08-24T11:34:15.297Z",
-      "action": "updated remark for SLE32E930 at KOTIYAKUMBURA: “70% offered. Damaged. Return to Warehouse”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "17:04:12",
-      "iso": "2026-08-24T11:34:12.564Z",
-      "action": "updated remark for SLE32E920 at KOTIYAKUMBURA: “70% offered. Damaged. Return to Warehouse”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "17:03:26",
-      "iso": "2026-08-24T11:33:26.057Z",
       "action": "updated remark for SLE32E930 at KOTIYAKUMBURA: “70% offered. Damaged. Return to Warehouse”"
     }
   ]
