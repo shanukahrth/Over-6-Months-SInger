@@ -44087,11 +44087,11 @@
       "lastUpdated": "2026-08-24T10:25:15.461Z"
     },
     "WFL-SPM-72X60X7-S||KOTIYAKUMBURA": {
-      "remark": "Exchange.",
+      "remark": "Exchange. Wearhouse return",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "15:55:57",
-      "lastUpdated": "2026-08-24T10:25:57.075Z"
+      "commentTime": "15:57:13",
+      "lastUpdated": "2026-08-24T10:27:13.185Z"
     },
     "SL-PB-426||WENNAPPUWA": {
       "remark": "Damaged - 40%",
@@ -45415,6 +45415,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "15:57:13",
+      "iso": "2026-08-24T10:27:13.189Z",
+      "action": "updated remark for WFL-SPM-72X60X7-S at KOTIYAKUMBURA: “Exchange. Wearhouse return”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "15:57:08",
+      "iso": "2026-08-24T10:27:08.214Z",
+      "action": "updated remark for WFL-SPM-72X60X7-S at KOTIYAKUMBURA: “Exchange. Wearhouse return”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "15:56:26",
@@ -45749,20 +45763,6 @@
       "time": "15:39:36",
       "iso": "2026-08-24T10:09:36.249Z",
       "action": "updated sold comment for EDU-HDMI at HOROWPATHANA (cleared)"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:39:20",
-      "iso": "2026-08-24T10:09:20.258Z",
-      "action": "updated remark for WP-SS-SUB1-S at HOROWPATHANA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:39:02",
-      "iso": "2026-08-24T10:09:02.381Z",
-      "action": "updated remark for WP-PVC at HOROWPATHANA: “70%”"
     }
   ]
 }
