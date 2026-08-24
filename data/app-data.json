@@ -37085,6 +37085,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:46:44",
       "lastUpdated": "2026-08-24T06:16:44.083Z"
+    },
+    "CAN-I-G1730||SHOMES- MATALE": {
+      "remark": "Revert/Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:46:48",
+      "lastUpdated": "2026-08-24T06:16:48.465Z"
     }
   },
   "showroomVisits": {
@@ -38059,6 +38066,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:46:48",
+      "iso": "2026-08-24T06:16:48.467Z",
+      "action": "updated remark for CAN-I-G1730 at SHOMES- MATALE: “Revert/Damaged - 70%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "11:46:44",
@@ -38400,13 +38414,6 @@
       "time": "11:28:14",
       "iso": "2026-08-24T05:58:14.269Z",
       "action": "updated remark for WF-PARIS-BR-S at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:28:02",
-      "iso": "2026-08-24T05:58:02.074Z",
-      "action": "updated remark for WF-PARIS-BL-S at WARAKAPOLA: “50%”"
     }
   ]
 }
