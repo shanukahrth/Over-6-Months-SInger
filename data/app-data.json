@@ -46136,6 +46136,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:31:03",
       "lastUpdated": "2026-08-24T13:01:03.176Z"
+    },
+    "TF-SP16-063||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:32:21",
+      "lastUpdated": "2026-08-24T13:02:21.772Z"
     }
   },
   "showroomVisits": {
@@ -47424,6 +47431,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:32:21",
+      "iso": "2026-08-24T13:02:21.773Z",
+      "action": "updated remark for TF-SP16-063 at NAULA: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:32:20",
+      "iso": "2026-08-24T13:02:20.984Z",
+      "action": "updated remark for TF-SP16-063 at NAULA: “Damaged - 40%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "18:31:03",
@@ -47758,20 +47779,6 @@
       "time": "18:18:38",
       "iso": "2026-08-24T12:48:38.115Z",
       "action": "updated remark for TF-NIDFP24-170 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:18:19",
-      "iso": "2026-08-24T12:48:19.894Z",
-      "action": "updated remark for TF-CM-APR737 at NAULA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:18:14",
-      "iso": "2026-08-24T12:48:14.358Z",
-      "action": "updated remark for TF-CM-APR737 at NAULA: “Okay”"
     }
   ]
 }
