@@ -38163,6 +38163,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:21:05",
       "lastUpdated": "2026-08-24T06:51:05.691Z"
+    },
+    "WF-CF-75X60-S||YATIYANTHOTA": {
+      "remark": "60% discount offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:21:37",
+      "lastUpdated": "2026-08-24T06:51:37.271Z"
+    },
+    "LF-IC-WNT-S||YATIYANTHOTA": {
+      "remark": "Damaged. Will transfer to the damaged location. 80% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:22:39",
+      "lastUpdated": "2026-08-24T06:52:39.212Z"
     }
   },
   "showroomVisits": {
@@ -39173,6 +39187,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:22:39",
+      "iso": "2026-08-24T06:52:39.218Z",
+      "action": "updated remark for LF-IC-WNT-S at YATIYANTHOTA: “Damaged. Will transfer to the damaged location. 80% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:21:37",
+      "iso": "2026-08-24T06:51:37.279Z",
+      "action": "updated remark for WF-CF-75X60-S at YATIYANTHOTA: “60% discount offered”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:21:35",
@@ -39507,20 +39535,6 @@
       "time": "12:15:21",
       "iso": "2026-08-24T06:45:21.056Z",
       "action": "updated remark for WF-PRESTON-2D-S at SHOMES- MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:15:49",
-      "iso": "2026-08-24T06:45:49.519Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at YATIYANTHOTA: “Rs. 30,000”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:15:46",
-      "iso": "2026-08-24T06:45:46.468Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at YATIYANTHOTA: “Rs. 30,000”"
     }
   ]
 }
