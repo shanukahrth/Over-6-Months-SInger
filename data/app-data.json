@@ -39955,6 +39955,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:41:13",
       "lastUpdated": "2026-08-24T07:11:13.411Z"
+    },
+    "WF-DOC-M003-BU-S||MELSIRIPURA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:41:23",
+      "lastUpdated": "2026-08-24T07:11:23.631Z"
     }
   },
   "showroomVisits": {
@@ -40967,6 +40974,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "12:41:23",
+      "iso": "2026-08-24T07:11:23.633Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at MELSIRIPURA: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "12:41:13",
       "iso": "2026-08-24T07:11:13.412Z",
       "action": "updated remark for WF-CB-B-S at MELSIRIPURA: “Damaged - 80%”"
@@ -41306,13 +41320,6 @@
       "time": "12:35:42",
       "iso": "2026-08-24T07:05:42.328Z",
       "action": "updated remark for UPU-AUTOFILL23 at GALENBIDUNUWEWA: “Add10%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:35:33",
-      "iso": "2026-08-24T07:05:33.570Z",
-      "action": "updated remark for SLE43G690 at MELSIRIPURA: “Damaged - 90%”"
     }
   ]
 }
