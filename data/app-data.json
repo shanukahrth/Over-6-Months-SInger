@@ -45702,6 +45702,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:10:01",
       "lastUpdated": "2026-08-24T12:40:01.579Z"
+    },
+    "SL-SF1607||NAULA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:10:11",
+      "lastUpdated": "2026-08-24T12:40:11.608Z"
     }
   },
   "showroomVisits": {
@@ -46990,6 +46997,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:10:11",
+      "iso": "2026-08-24T12:40:11.609Z",
+      "action": "updated remark for SL-SF1607 at NAULA: “Damaged - 85%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "18:10:01",
@@ -47330,13 +47344,6 @@
       "date": "2026-08-24",
       "time": "17:54:58",
       "iso": "2026-08-24T12:24:58.444Z",
-      "action": "updated remark for ZTE-A34-2-64GB-GRE at NAULA: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:54:57",
-      "iso": "2026-08-24T12:24:57.607Z",
       "action": "updated remark for ZTE-A34-2-64GB-GRE at NAULA: “Damaged - 85%”"
     }
   ]
