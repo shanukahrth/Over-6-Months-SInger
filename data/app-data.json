@@ -43231,6 +43231,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:04:42",
       "lastUpdated": "2026-08-24T09:34:42.085Z"
+    },
+    "SMG-SM-A307F-B||RAGAMA": {
+      "remark": "Return",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:04:56",
+      "lastUpdated": "2026-08-24T09:34:56.076Z"
     }
   },
   "showroomVisits": {
@@ -44445,6 +44452,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "15:04:56",
+      "iso": "2026-08-24T09:34:56.077Z",
+      "action": "updated remark for SMG-SM-A307F-B at RAGAMA: “Return”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "15:04:42",
@@ -44786,13 +44800,6 @@
       "time": "14:55:56",
       "iso": "2026-08-24T09:25:56.048Z",
       "action": "updated ARALAGANWILA showroom (team: Chamal and Kaveesha )"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:55:54",
-      "iso": "2026-08-24T09:25:54.240Z",
-      "action": "updated TRINCOMALEE B showroom (team: Chamal and Kaveesha )"
     }
   ]
 }
