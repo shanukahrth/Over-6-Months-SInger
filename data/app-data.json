@@ -43822,6 +43822,22 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "KADURUWELA||POLONNARUWA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-19",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
+    },
+    "KADURUWELA B||POLONNARUWA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43929,6 +43945,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:45:53",
+      "iso": "2026-08-24T09:15:53.587Z",
+      "action": "updated KADURUWELA B showroom (visited: Yes)"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:45:50",
+      "iso": "2026-08-24T09:15:50.340Z",
+      "action": "updated KADURUWELA showroom (visitDate: 2026-08-19)"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
@@ -44264,20 +44294,6 @@
       "time": "14:36:50",
       "iso": "2026-08-24T09:06:50.434Z",
       "action": "updated remark for HRW-KR102 at WARAKAPOLA: “60%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:37:07",
-      "iso": "2026-08-24T09:07:07.106Z",
-      "action": "updated remark for ULED32D4000 at KAHATAGASDIGILIYA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:36:56",
-      "iso": "2026-08-24T09:06:56.370Z",
-      "action": "updated remark for TCL55P615 at KAHATAGASDIGILIYA: “70% Damaged”"
     }
   ]
 }
