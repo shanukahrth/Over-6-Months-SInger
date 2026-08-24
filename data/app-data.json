@@ -36765,11 +36765,11 @@
       "lastUpdated": "2026-08-24T05:55:40.609Z"
     },
     "WF-CB-B-S||WARAKAPOLA": {
-      "remark": "30%",
+      "remark": "50%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-24",
-      "commentTime": "11:26:01",
-      "lastUpdated": "2026-08-24T05:56:01.102Z"
+      "commentTime": "11:26:22",
+      "lastUpdated": "2026-08-24T05:56:22.575Z"
     }
   },
   "showroomVisits": {
@@ -37746,6 +37746,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
+      "time": "11:26:22",
+      "iso": "2026-08-24T05:56:22.576Z",
+      "action": "updated remark for WF-CB-B-S at WARAKAPOLA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
       "time": "11:26:01",
       "iso": "2026-08-24T05:56:01.103Z",
       "action": "updated remark for WF-CB-B-S at WARAKAPOLA: “30%”"
@@ -38085,13 +38092,6 @@
       "time": "11:12:29",
       "iso": "2026-08-24T05:42:29.506Z",
       "action": "updated remark for WFL-SPM-75X60X8-S at RUWANWELLA: “80% offered. Damaged”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "11:11:56",
-      "iso": "2026-08-24T05:41:56.364Z",
-      "action": "updated remark for WF-ROM-DTO-S at RUWANWELLA: “10% flat offered”"
     }
   ]
 }
