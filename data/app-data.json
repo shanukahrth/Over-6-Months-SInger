@@ -43427,6 +43427,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:15:41",
       "lastUpdated": "2026-08-24T09:45:41.210Z"
+    },
+    "HFPA-MUSICBOX-BLC||HOROWPATHANA": {
+      "remark": "25000",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:16:07",
+      "lastUpdated": "2026-08-24T09:46:07.041Z"
     }
   },
   "showroomVisits": {
@@ -44697,6 +44704,20 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:16:07",
+      "iso": "2026-08-24T09:46:07.043Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at HOROWPATHANA: “25000”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:15:56",
+      "iso": "2026-08-24T09:45:56.741Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at HOROWPATHANA: “Mop 25000”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
       "time": "15:15:18",
@@ -45031,20 +45052,6 @@
       "time": "15:04:08",
       "iso": "2026-08-24T09:34:08.312Z",
       "action": "updated remark for SMG-SM-A037F-B-32GB at WENNAPPUWA: “Display - 95%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:04:00",
-      "iso": "2026-08-24T09:34:00.467Z",
-      "action": "updated remark for SMG-SM-A055F-64-B at RAGAMA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "15:03:46",
-      "iso": "2026-08-24T09:33:46.127Z",
-      "action": "updated remark for BES-WP15-ECO at WARAKAPOLA: “70%”"
     }
   ]
 }
