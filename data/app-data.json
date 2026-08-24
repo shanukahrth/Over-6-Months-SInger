@@ -43021,6 +43021,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:55:37",
       "lastUpdated": "2026-08-24T09:25:37.296Z"
+    },
+    "GEO-182S-SV||WARAKAPOLA": {
+      "remark": "25%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:55:55",
+      "lastUpdated": "2026-08-24T09:25:55.720Z"
     }
   },
   "showroomVisits": {
@@ -44235,6 +44242,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "14:55:55",
+      "iso": "2026-08-24T09:25:55.721Z",
+      "action": "updated remark for GEO-182S-SV at WARAKAPOLA: “25%”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
       "time": "14:55:56",
@@ -44576,13 +44590,6 @@
       "time": "14:44:41",
       "iso": "2026-08-24T09:14:41.298Z",
       "action": "updated remark for DELL3511-I3-4GB256-BLK at WENNAPPUWA: “90% - Damage Revert”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:46:23",
-      "iso": "2026-08-24T09:16:23.827Z",
-      "action": "updated POLONNARUWA showroom (visited: Yes)"
     }
   ]
 }
