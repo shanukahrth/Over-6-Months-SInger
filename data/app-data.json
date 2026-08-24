@@ -45317,6 +45317,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:42:36",
       "lastUpdated": "2026-08-24T11:12:36.072Z"
+    },
+    "SS-PS16-AG||KOTIYAKUMBURA": {
+      "remark": "75% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:42:04",
+      "lastUpdated": "2026-08-24T11:12:04.123Z"
+    },
+    "TCL43S5400||KOTIYAKUMBURA": {
+      "remark": "Exchange. Mail has sent",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:45:31",
+      "lastUpdated": "2026-08-24T11:15:31.221Z"
     }
   },
   "showroomVisits": {
@@ -46605,6 +46619,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "16:45:31",
+      "iso": "2026-08-24T11:15:31.227Z",
+      "action": "updated remark for TCL43S5400 at KOTIYAKUMBURA: “Exchange. Mail has sent”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "16:44:09",
+      "iso": "2026-08-24T11:14:09.513Z",
+      "action": "updated remark for TCL43S5400 at KOTIYAKUMBURA: “Revert damaged.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "16:42:04",
+      "iso": "2026-08-24T11:12:04.132Z",
+      "action": "updated remark for SS-PS16-AG at KOTIYAKUMBURA: “75% provided”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "16:42:36",
@@ -46932,27 +46967,6 @@
       "time": "16:34:31",
       "iso": "2026-08-24T11:04:31.775Z",
       "action": "updated remark for GEO-182S-BU1 at KEBITHIGOLLEWA: “50%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:33:54",
-      "iso": "2026-08-24T11:03:54.409Z",
-      "action": "updated remark for ZTE-A31-LITE-GRY at KEBITHIGOLLEWA: “-”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:33:42",
-      "iso": "2026-08-24T11:03:42.766Z",
-      "action": "updated remark for NUBIA-NEO3-5G-8-256-YLW at KEBITHIGOLLEWA: “30%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:33:23",
-      "iso": "2026-08-24T11:03:23.428Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at KEBITHIGOLLEWA: “Sold”"
     }
   ]
 }
