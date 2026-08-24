@@ -46976,6 +46976,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "21:00:41",
       "lastUpdated": "2026-08-24T15:30:41.213Z"
+    },
+    "LFI-BREE-CT-BR-S||NIKAWERATIYA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "21:05:40",
+      "lastUpdated": "2026-08-24T15:35:40.101Z"
     }
   },
   "showroomVisits": {
@@ -48266,6 +48273,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "21:05:40",
+      "iso": "2026-08-24T15:35:40.103Z",
+      "action": "updated remark for LFI-BREE-CT-BR-S at NIKAWERATIYA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "21:04:29",
       "iso": "2026-08-24T15:34:29.627Z",
       "action": "updated remark for SIN-PR-K340 at NIKAWERATIYA: “Okay”"
@@ -48605,13 +48619,6 @@
       "time": "19:54:30",
       "iso": "2026-08-24T14:24:30.717Z",
       "action": "updated remark for SLE43G890 at NIKAWERATIYA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:47:24",
-      "iso": "2026-08-24T14:17:24.570Z",
-      "action": "updated remark for SLE55D1800TC at NIKAWERATIYA: “Revert / Damaged - 90%”"
     }
   ]
 }
