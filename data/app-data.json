@@ -39885,6 +39885,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:39:24",
       "lastUpdated": "2026-08-24T07:09:24.636Z"
+    },
+    "TF-TW26-064||MELSIRIPURA": {
+      "remark": "Display/ Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:39:09",
+      "lastUpdated": "2026-08-24T07:09:09.079Z"
     }
   },
   "showroomVisits": {
@@ -40895,6 +40902,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:39:09",
+      "iso": "2026-08-24T07:09:09.080Z",
+      "action": "updated remark for TF-TW26-064 at MELSIRIPURA: “Display/ Damaged - 80%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:39:24",
@@ -41236,13 +41250,6 @@
       "time": "12:34:18",
       "iso": "2026-08-24T07:04:18.516Z",
       "action": "updated remark for SLE32D1800 at MELSIRIPURA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:34:26",
-      "iso": "2026-08-24T07:04:26.415Z",
-      "action": "updated remark for LF-LEO-HDBC-WNG-S at SHOMES- MATALE: “Damaged - 50%”"
     }
   ]
 }
