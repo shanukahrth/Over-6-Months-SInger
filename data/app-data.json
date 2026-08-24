@@ -42947,8 +42947,8 @@
     },
     "NAWALAPITIYA||GAMPOLA": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-24",
+      "team": "Central ",
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-24"
@@ -43059,6 +43059,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "14:17:54",
+      "iso": "2026-08-24T08:47:54.094Z",
+      "action": "updated NAWALAPITIYA showroom (visitDate: 2026-08-24)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-24",
@@ -43400,13 +43407,6 @@
       "date": "2026-08-24",
       "time": "13:46:30",
       "iso": "2026-08-24T08:16:30.613Z",
-      "action": "updated remark for SLE43D1800TC at GINIGATHHENA: “Damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:46:28",
-      "iso": "2026-08-24T08:16:28.087Z",
       "action": "updated remark for SLE43D1800TC at GINIGATHHENA: “Damaged 90%”"
     }
   ]
