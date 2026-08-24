@@ -45735,8 +45735,8 @@
       "remark": "Damaged - 90%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-24",
-      "commentTime": "18:12:39",
-      "lastUpdated": "2026-08-24T12:42:39.708Z"
+      "commentTime": "18:13:55",
+      "lastUpdated": "2026-08-24T12:43:55.665Z"
     },
     "SLE32D5000||NAULA": {
       "remark": "Damaged - 90%",
@@ -47041,6 +47041,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:13:55",
+      "iso": "2026-08-24T12:43:55.666Z",
+      "action": "updated remark for SLE32E810 at NAULA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:13:09",
       "iso": "2026-08-24T12:43:09.647Z",
       "action": "updated remark for SLE32E710 at NAULA: “Damaged - 90%”"
@@ -47380,13 +47387,6 @@
       "time": "17:58:26",
       "iso": "2026-08-24T12:28:26.969Z",
       "action": "updated remark for GEO-182S-SV at NAULA: “Damaged - 20%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:57:48",
-      "iso": "2026-08-24T12:27:48.970Z",
-      "action": "updated remark for G-STC1200N at NAULA: “Damaged - 60%”"
     }
   ]
 }
