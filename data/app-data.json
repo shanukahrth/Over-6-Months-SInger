@@ -39451,6 +39451,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:32:14",
       "lastUpdated": "2026-08-24T07:02:14.076Z"
+    },
+    "SKY24W2A||MELSIRIPURA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:32:02",
+      "lastUpdated": "2026-08-24T07:02:02.428Z"
     }
   },
   "showroomVisits": {
@@ -40461,6 +40468,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:32:02",
+      "iso": "2026-08-24T07:02:02.430Z",
+      "action": "updated remark for SKY24W2A at MELSIRIPURA: “Damaged - 90%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:32:14",
@@ -40802,13 +40816,6 @@
       "time": "12:10:48",
       "iso": "2026-08-24T06:40:48.219Z",
       "action": "updated remark for SLE32B3800 at NAWALAPITIYA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:10:43",
-      "iso": "2026-08-24T06:40:43.137Z",
-      "action": "updated remark for SLE28D2730 at NAWALAPITIYA: “90%”"
     }
   ]
 }
