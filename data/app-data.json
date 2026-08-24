@@ -45718,11 +45718,11 @@
       "lastUpdated": "2026-08-24T12:40:31.061Z"
     },
     "SISIL-RC150||NAULA": {
-      "remark": "Free Issue / Damaged 8",
+      "remark": "Damaged 80%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-24",
-      "commentTime": "18:10:46",
-      "lastUpdated": "2026-08-24T12:40:46.286Z"
+      "commentTime": "18:11:54",
+      "lastUpdated": "2026-08-24T12:41:54.486Z"
     }
   },
   "showroomVisits": {
@@ -47013,6 +47013,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:11:54",
+      "iso": "2026-08-24T12:41:54.488Z",
+      "action": "updated remark for SISIL-RC150 at NAULA: “Damaged 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:10:46",
       "iso": "2026-08-24T12:40:46.288Z",
       "action": "updated remark for SISIL-RC150 at NAULA: “Free Issue / Damaged 8”"
@@ -47352,13 +47359,6 @@
       "time": "17:55:59",
       "iso": "2026-08-24T12:25:59.835Z",
       "action": "updated remark for ACER-PJ-X1226AH at NAULA: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:55:33",
-      "iso": "2026-08-24T12:25:33.932Z",
-      "action": "updated remark for ACER-PJ-X1226AH at NAULA (cleared)"
     }
   ]
 }
