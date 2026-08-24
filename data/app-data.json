@@ -46801,6 +46801,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:08:04",
       "lastUpdated": "2026-08-24T14:38:04.833Z"
+    },
+    "TF-FP24-SCR342||NIKAWERATIYA": {
+      "remark": "Damaged - 15%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:09:02",
+      "lastUpdated": "2026-08-24T14:39:02.888Z"
     }
   },
   "showroomVisits": {
@@ -48091,6 +48098,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:09:02",
+      "iso": "2026-08-24T14:39:02.890Z",
+      "action": "updated remark for TF-FP24-SCR342 at NIKAWERATIYA: “Damaged - 15%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:08:04",
       "iso": "2026-08-24T14:38:04.834Z",
       "action": "updated remark for TCLED24D3100 at NIKAWERATIYA: “Damaged - 90%”"
@@ -48430,13 +48444,6 @@
       "time": "19:13:23",
       "iso": "2026-08-24T13:43:23.600Z",
       "action": "updated remark for SLMC-18DSLHS at POLPITHIGAMA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:12:53",
-      "iso": "2026-08-24T13:42:53.420Z",
-      "action": "updated remark for SS-PS16-AG at POLPITHIGAMA: “Damaged - 80%”"
     }
   ]
 }
