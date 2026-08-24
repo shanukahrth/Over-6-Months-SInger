@@ -46808,6 +46808,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:09:02",
       "lastUpdated": "2026-08-24T14:39:02.888Z"
+    },
+    "TF-SI-ESS-242||NIKAWERATIYA": {
+      "remark": "Damaged - 15%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:09:19",
+      "lastUpdated": "2026-08-24T14:39:19.922Z"
     }
   },
   "showroomVisits": {
@@ -48098,6 +48105,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:09:19",
+      "iso": "2026-08-24T14:39:19.924Z",
+      "action": "updated remark for TF-SI-ESS-242 at NIKAWERATIYA: “Damaged - 15%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:09:02",
       "iso": "2026-08-24T14:39:02.890Z",
       "action": "updated remark for TF-FP24-SCR342 at NIKAWERATIYA: “Damaged - 15%”"
@@ -48437,13 +48451,6 @@
       "time": "19:13:36",
       "iso": "2026-08-24T13:43:36.193Z",
       "action": "updated remark for SXLC7371K at POLPITHIGAMA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:13:23",
-      "iso": "2026-08-24T13:43:23.600Z",
-      "action": "updated remark for SLMC-18DSLHS at POLPITHIGAMA: “Okay”"
     }
   ]
 }
