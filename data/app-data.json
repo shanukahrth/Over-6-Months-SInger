@@ -34231,11 +34231,11 @@
       "lastUpdated": "2026-08-24T03:03:31.516Z"
     },
     "SLE43G890||KANDANA": {
-      "remark": "Defective Pannel damage return to WH- 1 unit / Damage 70% - 1 unit",
+      "remark": "1 unit transfer to Wattala / 1 unit pannel damage - return to WH",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-08-24",
-      "commentTime": "08:33:57",
-      "lastUpdated": "2026-08-24T03:03:57.620Z"
+      "commentTime": "08:34:06",
+      "lastUpdated": "2026-08-24T03:04:06.735Z"
     }
   },
   "showroomVisits": {
@@ -35212,6 +35212,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:34:06",
+      "iso": "2026-08-24T03:04:06.736Z",
+      "action": "updated remark for SLE43G890 at KANDANA: “1 unit transfer to Wattala / 1 unit pannel damage - return to WH”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:33:57",
       "iso": "2026-08-24T03:03:57.625Z",
       "action": "updated remark for SLE43G890 at KANDANA: “Defective Pannel damage return to WH- 1 unit / Damage 70% - 1 unit”"
@@ -35551,13 +35558,6 @@
       "time": "17:51:37",
       "iso": "2026-08-21T12:21:37.172Z",
       "action": "updated remark for MD-GSE-L004 at MATALE: “Ok”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:51:22",
-      "iso": "2026-08-21T12:21:22.542Z",
-      "action": "updated remark for MCZJ8500C at MATALE: “Can sell this by 31st Aug”"
     }
   ]
 }
