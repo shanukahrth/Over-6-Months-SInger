@@ -43014,6 +43014,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:55:00",
       "lastUpdated": "2026-08-24T09:25:00.029Z"
+    },
+    "MSI-MOD15-B13M-I7-BLK||WENNAPPUWA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:55:37",
+      "lastUpdated": "2026-08-24T09:25:37.296Z"
     }
   },
   "showroomVisits": {
@@ -44228,6 +44235,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:55:37",
+      "iso": "2026-08-24T09:25:37.296Z",
+      "action": "updated remark for MSI-MOD15-B13M-I7-BLK at WENNAPPUWA: “Damaged - 80%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "14:55:00",
@@ -44569,13 +44583,6 @@
       "time": "14:45:53",
       "iso": "2026-08-24T09:15:53.587Z",
       "action": "updated KADURUWELA B showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:45:50",
-      "iso": "2026-08-24T09:15:50.340Z",
-      "action": "updated KADURUWELA showroom (visitDate: 2026-08-19)"
     }
   ]
 }
