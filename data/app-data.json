@@ -42909,6 +42909,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:51:48",
       "lastUpdated": "2026-08-24T09:21:48.534Z"
+    },
+    "LF-ORGN-DTO-WHT||WARAKAPOLA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:52:17",
+      "lastUpdated": "2026-08-24T09:22:17.021Z"
     }
   },
   "showroomVisits": {
@@ -44123,6 +44130,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "14:52:17",
+      "iso": "2026-08-24T09:22:17.021Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at WARAKAPOLA: “50%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "14:51:48",
@@ -44464,13 +44478,6 @@
       "time": "14:43:09",
       "iso": "2026-08-24T09:13:09.746Z",
       "action": "updated KALMUNAI showroom (visitDate: 2026-08-20)"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:43:02",
-      "iso": "2026-08-24T09:13:02.448Z",
-      "action": "updated remark for SIN-DELTA-DC at RAGAMA: “0%”"
     }
   ]
 }
