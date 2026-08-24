@@ -37505,6 +37505,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:01:38",
       "lastUpdated": "2026-08-24T06:31:38.198Z"
+    },
+    "WF-DOC-M003-BU-S||MATALE": {
+      "remark": "Damaged - 15%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:01:57",
+      "lastUpdated": "2026-08-24T06:31:57.219Z"
     }
   },
   "showroomVisits": {
@@ -38479,6 +38486,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:01:57",
+      "iso": "2026-08-24T06:31:57.220Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at MATALE: “Damaged - 15%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "12:01:38",
@@ -38820,13 +38834,6 @@
       "time": "11:52:00",
       "iso": "2026-08-24T06:22:00.720Z",
       "action": "updated remark for SPAS81BT at MATALE: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:51:58",
-      "iso": "2026-08-24T06:21:58.000Z",
-      "action": "updated remark for KN-VBP80 at SHOMES- MATALE: “Display - 35%”"
     }
   ]
 }
