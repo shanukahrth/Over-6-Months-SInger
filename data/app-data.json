@@ -43441,6 +43441,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:16:00",
       "lastUpdated": "2026-08-24T09:46:00.685Z"
+    },
+    "HFPA-GRAVITY-BLC||HOROWPATHANA": {
+      "remark": "24500",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:16:42",
+      "lastUpdated": "2026-08-24T09:46:42.517Z"
     }
   },
   "showroomVisits": {
@@ -44711,6 +44718,13 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:16:42",
+      "iso": "2026-08-24T09:46:42.522Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at HOROWPATHANA: “24500”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "15:16:00",
@@ -45052,13 +45066,6 @@
       "time": "15:04:24",
       "iso": "2026-08-24T09:34:24.768Z",
       "action": "updated remark for CM-D1000 at WARAKAPOLA: “60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "15:04:20",
-      "iso": "2026-08-24T09:34:20.342Z",
-      "action": "updated remark for SMG-SM-A045F-64GB-GRE at WENNAPPUWA: “Display - 95%”"
     }
   ]
 }
