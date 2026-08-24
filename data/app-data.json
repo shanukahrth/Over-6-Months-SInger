@@ -37666,6 +37666,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:06:38",
       "lastUpdated": "2026-08-24T06:36:38.733Z"
+    },
+    "SLE32D3010TC||SHOMES- MATALE": {
+      "remark": "Exchange Product",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:06:31",
+      "lastUpdated": "2026-08-24T06:36:31.332Z"
+    },
+    "SLE40E910||SHOMES- MATALE": {
+      "remark": "Can Sell",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:06:46",
+      "lastUpdated": "2026-08-24T06:36:46.344Z"
     }
   },
   "showroomVisits": {
@@ -38646,6 +38660,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:06:46",
+      "iso": "2026-08-24T06:36:46.346Z",
+      "action": "updated remark for SLE40E910 at SHOMES- MATALE: “Can Sell”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:06:31",
+      "iso": "2026-08-24T06:36:31.333Z",
+      "action": "updated remark for SLE32D3010TC at SHOMES- MATALE: “Exchange Product”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:06:38",
@@ -38980,20 +39008,6 @@
       "time": "11:58:15",
       "iso": "2026-08-24T06:28:15.405Z",
       "action": "updated remark for TF-NIFP28-042 at MATALE: “Damaged - 35%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:57:52",
-      "iso": "2026-08-24T06:27:52.108Z",
-      "action": "updated remark for SL-ECO55-SV at WARAKAPOLA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:57:46",
-      "iso": "2026-08-24T06:27:46.785Z",
-      "action": "updated remark for SL-ECO55 at WARAKAPOLA: “Transfer Not Completed”"
     }
   ]
 }
