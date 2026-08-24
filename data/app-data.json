@@ -45492,6 +45492,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "17:58:27",
       "lastUpdated": "2026-08-24T12:28:27.689Z"
+    },
+    "GEO-242D-TG||NAULA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "17:58:47",
+      "lastUpdated": "2026-08-24T12:28:47.898Z"
     }
   },
   "showroomVisits": {
@@ -46782,6 +46789,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "17:58:47",
+      "iso": "2026-08-24T12:28:47.899Z",
+      "action": "updated remark for GEO-242D-TG at NAULA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "17:58:27",
       "iso": "2026-08-24T12:28:27.689Z",
       "action": "updated remark for GEO-182S-SV at NAULA: “Damaged - 20%”"
@@ -47121,13 +47135,6 @@
       "time": "16:42:36",
       "iso": "2026-08-24T11:12:36.072Z",
       "action": "updated remark for RIYLTA-MF12V51A at GALEWELA: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "16:42:11",
-      "iso": "2026-08-24T11:12:11.068Z",
-      "action": "updated remark for RIYLTA-MF12V5 at GALEWELA: “Damaged - 90%”"
     }
   ]
 }
