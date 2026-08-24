@@ -37757,6 +37757,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:10:15",
       "lastUpdated": "2026-08-24T06:40:15.993Z"
+    },
+    "WF-BRN-ST-RTK-S||SHOMES- MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:11:27",
+      "lastUpdated": "2026-08-24T06:41:27.252Z"
     }
   },
   "showroomVisits": {
@@ -38755,6 +38762,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:11:27",
+      "iso": "2026-08-24T06:41:27.254Z",
+      "action": "updated remark for WF-BRN-ST-RTK-S at SHOMES- MATALE: “Damaged - 50%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:11:17",
@@ -39096,13 +39110,6 @@
       "time": "12:02:11",
       "iso": "2026-08-24T06:32:11.290Z",
       "action": "updated remark for WF-OSLO-BL-S at MATALE: “Damaged - 15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:02:15",
-      "iso": "2026-08-24T06:32:15.691Z",
-      "action": "updated remark for SLE24E910 at WARAKAPOLA: “Exchange Not Completed”"
     }
   ]
 }
