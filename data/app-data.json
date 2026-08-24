@@ -34537,6 +34537,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:03:06",
       "lastUpdated": "2026-08-24T03:33:06.925Z"
+    },
+    "PN-MIC-W-107||MIRIGAMA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:03:08",
+      "lastUpdated": "2026-08-24T03:33:08.608Z"
     }
   },
   "showroomVisits": {
@@ -35511,6 +35518,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "09:03:08",
+      "iso": "2026-08-24T03:33:08.609Z",
+      "action": "updated remark for PN-MIC-W-107 at MIRIGAMA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:03:06",
@@ -35852,13 +35866,6 @@
       "time": "08:34:47",
       "iso": "2026-08-24T03:04:47.857Z",
       "action": "updated remark for SLE75G6E at KANDANA: “Shop transfer - Mega Jaela”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:34:29",
-      "iso": "2026-08-24T03:04:29.064Z",
-      "action": "updated remark for SLE43U5 at KANDANA: “Exchange PO pending”"
     }
   ]
 }
