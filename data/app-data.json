@@ -37092,6 +37092,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:46:48",
       "lastUpdated": "2026-08-24T06:16:48.465Z"
+    },
+    "SIN-RFC-2012||MATALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:47:01",
+      "lastUpdated": "2026-08-24T06:17:01.683Z"
     }
   },
   "showroomVisits": {
@@ -38066,6 +38073,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:47:01",
+      "iso": "2026-08-24T06:17:01.685Z",
+      "action": "updated remark for SIN-RFC-2012 at MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:46:59",
+      "iso": "2026-08-24T06:16:59.673Z",
+      "action": "updated remark for SIN-RFC-2012 at MATALE: “Damaged - 40%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:46:48",
@@ -38400,20 +38421,6 @@
       "time": "11:28:42",
       "iso": "2026-08-24T05:58:42.829Z",
       "action": "updated remark for WFL-RIO-01-S at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:28:33",
-      "iso": "2026-08-24T05:58:33.471Z",
-      "action": "updated remark for WF-QUEEN-311-GR-S at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:28:14",
-      "iso": "2026-08-24T05:58:14.269Z",
-      "action": "updated remark for WF-PARIS-BR-S at WARAKAPOLA: “50%”"
     }
   ]
 }
