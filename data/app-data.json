@@ -42881,6 +42881,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:51:00",
       "lastUpdated": "2026-08-24T09:21:00.642Z"
+    },
+    "HU-SOUND-JOY-2-BLU||WENNAPPUWA": {
+      "remark": "Damaged - 15%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:51:26",
+      "lastUpdated": "2026-08-24T09:21:26.363Z"
     }
   },
   "showroomVisits": {
@@ -44095,6 +44102,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:51:26",
+      "iso": "2026-08-24T09:21:26.363Z",
+      "action": "updated remark for HU-SOUND-JOY-2-BLU at WENNAPPUWA: “Damaged - 15%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "14:51:00",
@@ -44436,13 +44450,6 @@
       "time": "14:42:54",
       "iso": "2026-08-24T09:12:54.802Z",
       "action": "updated HINGURANA showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:42:47",
-      "iso": "2026-08-24T09:12:47.321Z",
-      "action": "updated AMPARA showroom (visitDate: 2026-08-20)"
     }
   ]
 }
