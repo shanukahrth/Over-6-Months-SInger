@@ -40767,6 +40767,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:04:27",
       "lastUpdated": "2026-08-24T08:34:27.963Z"
+    },
+    "HFPA-EVENT-BLC||KAHATAGASDIGILIYA": {
+      "remark": "20000/-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:04:59",
+      "lastUpdated": "2026-08-24T08:34:59.646Z"
+    },
+    "HFPA-GRAVITY-BLC||KAHATAGASDIGILIYA": {
+      "remark": "24500/-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:05:11",
+      "lastUpdated": "2026-08-24T08:35:11.599Z"
+    },
+    "HFPA-GRAVITY-BLU||KAHATAGASDIGILIYA": {
+      "remark": "24500/-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:05:23",
+      "lastUpdated": "2026-08-24T08:35:23.129Z"
     }
   },
   "showroomVisits": {
@@ -41813,6 +41834,34 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:05:23",
+      "iso": "2026-08-24T08:35:23.132Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at KAHATAGASDIGILIYA: “24500/-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:05:17",
+      "iso": "2026-08-24T08:35:17.220Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at KAHATAGASDIGILIYA: “24500/-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:05:11",
+      "iso": "2026-08-24T08:35:11.602Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at KAHATAGASDIGILIYA: “24500/-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:04:59",
+      "iso": "2026-08-24T08:34:59.649Z",
+      "action": "updated remark for HFPA-EVENT-BLC at KAHATAGASDIGILIYA: “20000/-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "14:04:27",
@@ -42133,34 +42182,6 @@
       "time": "13:56:03",
       "iso": "2026-08-24T08:26:03.997Z",
       "action": "updated remark for LF-LEO-LTAB-WNG-S at BULATHKOHUPITIYA: “10% offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:55:54",
-      "iso": "2026-08-24T08:25:54.953Z",
-      "action": "updated remark for WFL-CRYSTAL-72X60-S at BULATHKOHUPITIYA: “Damaged.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:55:19",
-      "iso": "2026-08-24T08:25:19.774Z",
-      "action": "updated remark for LF-ECO-BDQ-SHW-S at RAGAMA: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:55:24",
-      "iso": "2026-08-24T08:25:24.119Z",
-      "action": "updated remark for LF-BUDGET-ST-CRW-S at BULATHKOHUPITIYA: “Sold”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:54:42",
-      "iso": "2026-08-24T08:24:42.892Z",
-      "action": "updated remark for LF-COD-S at RAGAMA: “60%”"
     }
   ]
 }
