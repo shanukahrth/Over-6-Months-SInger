@@ -36882,6 +36882,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:35:55",
       "lastUpdated": "2026-08-24T06:05:55.689Z"
+    },
+    "TF-GS-SPKT302||WARAKAPOLA": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:36:18",
+      "lastUpdated": "2026-08-24T06:06:18.553Z"
     }
   },
   "showroomVisits": {
@@ -37858,6 +37865,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
+      "time": "11:36:18",
+      "iso": "2026-08-24T06:06:18.554Z",
+      "action": "updated remark for TF-GS-SPKT302 at WARAKAPOLA: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
       "time": "11:35:55",
       "iso": "2026-08-24T06:05:55.690Z",
       "action": "updated remark for TF-FP24-SCR342 at WARAKAPOLA: “-”"
@@ -38197,13 +38211,6 @@
       "time": "11:18:40",
       "iso": "2026-08-24T05:48:40.721Z",
       "action": "updated remark for LF-LEO-HCUP-WNG-S at THIRAPPANE: “70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "11:18:21",
-      "iso": "2026-08-24T05:48:21.025Z",
-      "action": "updated remark for SWH-118EP-D at RUWANWELLA: “Revert discolored. 80% offered.”"
     }
   ]
 }
