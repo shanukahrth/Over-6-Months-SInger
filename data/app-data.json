@@ -35615,6 +35615,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:09:35",
       "lastUpdated": "2026-08-24T04:39:35.189Z"
+    },
+    "UPRO-12000||RUWANWELLA": {
+      "remark": "95% offered.battery issue",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:10:22",
+      "lastUpdated": "2026-08-24T04:40:22.487Z"
     }
   },
   "showroomVisits": {
@@ -36589,6 +36596,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:10:22",
+      "iso": "2026-08-24T04:40:22.490Z",
+      "action": "updated remark for UPRO-12000 at RUWANWELLA: “95% offered.battery issue”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:10:18",
+      "iso": "2026-08-24T04:40:18.388Z",
+      "action": "updated remark for UPRO-12000 at RUWANWELLA: “95% offered.battery issu”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "10:09:35",
@@ -36923,20 +36944,6 @@
       "time": "09:52:09",
       "iso": "2026-08-24T04:22:09.402Z",
       "action": "updated remark for SL-PB-426 at MINUWANGODA - B: “Discounts already given to DM”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "09:51:53",
-      "iso": "2026-08-24T04:21:53.883Z",
-      "action": "updated remark for SL-PB-426 at MINUWANGODA - B: “Discounts already given to DM”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "09:50:48",
-      "iso": "2026-08-24T04:20:48.511Z",
-      "action": "updated remark for SL-INV260WR-TG at MINUWANGODA - B: “50%”"
     }
   ]
 }
