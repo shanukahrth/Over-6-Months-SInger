@@ -45478,6 +45478,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "17:57:20",
       "lastUpdated": "2026-08-24T12:27:20.300Z"
+    },
+    "G-STC1200N||NAULA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "17:57:48",
+      "lastUpdated": "2026-08-24T12:27:48.969Z"
     }
   },
   "showroomVisits": {
@@ -46768,6 +46775,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "17:57:48",
+      "iso": "2026-08-24T12:27:48.970Z",
+      "action": "updated remark for G-STC1200N at NAULA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "17:57:20",
       "iso": "2026-08-24T12:27:20.301Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at NAULA: “Damaged - 80%”"
@@ -47107,13 +47121,6 @@
       "time": "16:41:30",
       "iso": "2026-08-24T11:11:30.926Z",
       "action": "updated remark for WP-SS-SUB1-S at KEBITHIGOLLEWA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:41:26",
-      "iso": "2026-08-24T11:11:26.501Z",
-      "action": "updated remark for WP-PVC at KEBITHIGOLLEWA: “80%”"
     }
   ]
 }
