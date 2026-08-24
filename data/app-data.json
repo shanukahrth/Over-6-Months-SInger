@@ -38708,12 +38708,26 @@
     },
     "SLE40D600A||WARAKAPOLA": {
       "sold": false,
-      "comment": "Pannel Damage",
+      "comment": "-",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-24"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:08:39",
+      "iso": "2026-08-24T06:38:39.482Z",
+      "action": "updated sold comment for SLE40D600A at WARAKAPOLA: “30%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:08:28",
+      "iso": "2026-08-24T06:38:28.417Z",
+      "action": "updated sold comment for SLE40D600A at WARAKAPOLA: “Pannel Damage”"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-24",
@@ -39049,20 +39063,6 @@
       "time": "11:59:12",
       "iso": "2026-08-24T06:29:12.968Z",
       "action": "updated remark for LF-SLVY-BDQ-CLM-S at SHOMES- MATALE: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:58:48",
-      "iso": "2026-08-24T06:28:48.942Z",
-      "action": "updated remark for LF-SLIDCUP-CKT-S at SHOMES- MATALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:59:03",
-      "iso": "2026-08-24T06:29:03.030Z",
-      "action": "updated remark for TF-SI-ESS-242 at MATALE: “Damaged - 35%”"
     }
   ]
 }
