@@ -40627,6 +40627,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:58:55",
       "lastUpdated": "2026-08-24T08:28:55.458Z"
+    },
+    "WFL-SPM-75X60X7-S||BULATHKOHUPITIYA": {
+      "remark": "Already 70% have",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:59:42",
+      "lastUpdated": "2026-08-24T08:29:42.076Z"
+    },
+    "LF-LOUVRE-BSC-L-S||BULATHKOHUPITIYA": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:59:52",
+      "lastUpdated": "2026-08-24T08:29:52.508Z"
+    },
+    "LF-LOUVRE-BSC-R-S||BULATHKOHUPITIYA": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:00:01",
+      "lastUpdated": "2026-08-24T08:30:01.873Z"
     }
   },
   "showroomVisits": {
@@ -41637,6 +41658,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "14:00:01",
+      "iso": "2026-08-24T08:30:01.878Z",
+      "action": "updated remark for LF-LOUVRE-BSC-R-S at BULATHKOHUPITIYA: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "13:59:52",
+      "iso": "2026-08-24T08:29:52.513Z",
+      "action": "updated remark for LF-LOUVRE-BSC-L-S at BULATHKOHUPITIYA: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "13:59:42",
+      "iso": "2026-08-24T08:29:42.082Z",
+      "action": "updated remark for WFL-SPM-75X60X7-S at BULATHKOHUPITIYA: “Already 70% have”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "13:58:55",
@@ -41964,27 +42006,6 @@
       "time": "13:41:07",
       "iso": "2026-08-24T08:11:07.462Z",
       "action": "updated remark for PN-MIC-W-107 at BULATHKOHUPITIYA: “Free issue”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "13:08:12",
-      "iso": "2026-08-24T07:38:12.811Z",
-      "action": "updated remark for PF-VIN-CHR at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "13:08:08",
-      "iso": "2026-08-24T07:38:08.290Z",
-      "action": "updated remark for PF-VIN-CHR at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "13:07:06",
-      "iso": "2026-08-24T07:37:06.546Z",
-      "action": "updated remark for PF-OLIVIA-BR-S at WARAKAPOLA: “10%”"
     }
   ]
 }
