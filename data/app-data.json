@@ -46087,6 +46087,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:28:37",
       "lastUpdated": "2026-08-24T12:58:37.767Z"
+    },
+    "NCPO-FP280||GALEWELA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:28:59",
+      "lastUpdated": "2026-08-24T12:58:59.636Z"
+    },
+    "NCPO-OT275||GALEWELA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:29:04",
+      "lastUpdated": "2026-08-24T12:59:04.641Z"
     }
   },
   "showroomVisits": {
@@ -47377,6 +47391,20 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "18:29:04",
+      "iso": "2026-08-24T12:59:04.643Z",
+      "action": "updated remark for NCPO-OT275 at GALEWELA: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:28:59",
+      "iso": "2026-08-24T12:58:59.638Z",
+      "action": "updated remark for NCPO-FP280 at GALEWELA: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "18:28:37",
       "iso": "2026-08-24T12:58:37.768Z",
       "action": "updated remark for MID-MJ-KM6001W at GALEWELA: “Damaged - 40%”"
@@ -47709,20 +47737,6 @@
       "time": "18:16:40",
       "iso": "2026-08-24T12:46:40.573Z",
       "action": "updated remark for SIN-K13 at GALEWELA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:16:31",
-      "iso": "2026-08-24T12:46:31.076Z",
-      "action": "updated remark for SRS-XP700 at NAULA: “Revert / Damaged - 65%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:16:11",
-      "iso": "2026-08-24T12:46:11.748Z",
-      "action": "updated remark for SMW928AS3 at NAULA: “Damaged - 40%”"
     }
   ]
 }
