@@ -35664,13 +35664,6 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:11:46",
       "lastUpdated": "2026-08-24T04:41:46.767Z"
-    },
-    "TF-CM-APR737||MINUWANGODA - B": {
-      "remark": "50%",
-      "commentedBy": "Maria Fernando",
-      "commentDate": "2026-08-24",
-      "commentTime": "10:12:35",
-      "lastUpdated": "2026-08-24T04:42:35.237Z"
     }
   },
   "showroomVisits": {
@@ -36647,6 +36640,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "10:12:44",
+      "iso": "2026-08-24T04:42:44.763Z",
+      "action": "updated remark for TF-CM-APR737 at MINUWANGODA - B (cleared)"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "10:12:35",
       "iso": "2026-08-24T04:42:35.238Z",
       "action": "updated remark for TF-CM-APR737 at MINUWANGODA - B: “50%”"
@@ -36986,13 +36986,6 @@
       "time": "09:55:54",
       "iso": "2026-08-24T04:25:54.338Z",
       "action": "updated remark for SLE32E930 at MINUWANGODA - B: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "09:55:33",
-      "iso": "2026-08-24T04:25:33.926Z",
-      "action": "updated remark for SLE32D5000 at MINUWANGODA - B: “70%”"
     }
   ]
 }
