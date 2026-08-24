@@ -37106,6 +37106,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:47:22",
       "lastUpdated": "2026-08-24T06:17:22.937Z"
+    },
+    "SL-GSE-S001||MATALE": {
+      "remark": "Ok",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:47:54",
+      "lastUpdated": "2026-08-24T06:17:54.859Z"
     }
   },
   "showroomVisits": {
@@ -38082,6 +38089,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "11:47:54",
+      "iso": "2026-08-24T06:17:54.860Z",
+      "action": "updated remark for SL-GSE-S001 at MATALE: “Ok”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "11:47:22",
       "iso": "2026-08-24T06:17:22.937Z",
       "action": "updated remark for SIN-RFC-2058 at MATALE: “Damaged - 40%”"
@@ -38421,13 +38435,6 @@
       "time": "11:29:50",
       "iso": "2026-08-24T05:59:50.924Z",
       "action": "updated remark for SWH-118EP at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:29:36",
-      "iso": "2026-08-24T05:59:36.363Z",
-      "action": "updated remark for STT-300S at WARAKAPOLA: “50%”"
     }
   ]
 }
