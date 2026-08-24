@@ -44917,9 +44917,22 @@
       "comment": "70%",
       "updatedBy": "Thushitha Jayaweera",
       "updatedDate": "2026-08-24"
+    },
+    "HU-SECURITY||HOROWPATHANA": {
+      "sold": false,
+      "comment": "Shop used",
+      "updatedBy": "Thushitha Jayaweera",
+      "updatedDate": "2026-08-24"
     }
   },
   "activity": [
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:27:36",
+      "iso": "2026-08-24T09:57:36.589Z",
+      "action": "updated sold comment for HU-SECURITY at HOROWPATHANA: “Shop used”"
+    },
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
@@ -45262,13 +45275,6 @@
       "time": "15:14:37",
       "iso": "2026-08-24T09:44:37.230Z",
       "action": "updated KOKKADICHOLAI showroom (team: Mangalesh and Gayan )"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "15:14:11",
-      "iso": "2026-08-24T09:44:11.910Z",
-      "action": "updated KOKKADICHOLAI showroom (visited: Yes)"
     }
   ]
 }
