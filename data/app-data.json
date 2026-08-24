@@ -42860,6 +42860,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:50:18",
       "lastUpdated": "2026-08-24T09:20:18.376Z"
+    },
+    "HON-X9CSMART-12-256-CYAN||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:50:31",
+      "lastUpdated": "2026-08-24T09:20:31.435Z"
     }
   },
   "showroomVisits": {
@@ -44074,6 +44081,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:50:31",
+      "iso": "2026-08-24T09:20:31.436Z",
+      "action": "updated remark for HON-X9CSMART-12-256-CYAN at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "14:50:18",
@@ -44415,13 +44429,6 @@
       "time": "14:42:33",
       "iso": "2026-08-24T09:12:33.348Z",
       "action": "updated remark for SASGRI22WI at RAGAMA: “Exchange”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:42:36",
-      "iso": "2026-08-24T09:12:36.378Z",
-      "action": "updated AKKARAIPATTU showroom (visited: Yes)"
     }
   ]
 }
