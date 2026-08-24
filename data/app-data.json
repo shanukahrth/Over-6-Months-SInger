@@ -42503,6 +42503,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:31:21",
       "lastUpdated": "2026-08-24T09:01:21.892Z"
+    },
+    "WP-SS-SUB1-S||BULATHKOHUPITIYA": {
+      "remark": "Damaged. Wearhouse return needed.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:31:33",
+      "lastUpdated": "2026-08-24T09:01:33.311Z"
     }
   },
   "showroomVisits": {
@@ -43573,6 +43580,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "14:31:33",
+      "iso": "2026-08-24T09:01:33.320Z",
+      "action": "updated remark for WP-SS-SUB1-S at BULATHKOHUPITIYA: “Damaged. Wearhouse return needed.”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "14:31:21",
@@ -43914,13 +43928,6 @@
       "time": "14:23:32",
       "iso": "2026-08-24T08:53:32.750Z",
       "action": "updated remark for RIYLTA-MF12V25 at KAHATAGASDIGILIYA: “-”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:23:29",
-      "iso": "2026-08-24T08:53:29.613Z",
-      "action": "updated remark for SL-S203 at KAHATAGASDIGILIYA: “60%”"
     }
   ]
 }
