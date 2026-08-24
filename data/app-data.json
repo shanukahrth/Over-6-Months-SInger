@@ -34411,6 +34411,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:50:20",
       "lastUpdated": "2026-08-24T03:20:20.975Z"
+    },
+    "TF-IT30-169||KANDANA": {
+      "remark": "Already Provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:51:36",
+      "lastUpdated": "2026-08-24T03:21:36.331Z"
     }
   },
   "showroomVisits": {
@@ -35387,6 +35394,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:51:36",
+      "iso": "2026-08-24T03:21:36.332Z",
+      "action": "updated remark for TF-IT30-169 at KANDANA: “Already Provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:50:20",
       "iso": "2026-08-24T03:20:20.978Z",
       "action": "updated remark for TF-IGP26-119 at KANDANA: “Already Provided”"
@@ -35726,13 +35740,6 @@
       "time": "08:28:03",
       "iso": "2026-08-24T02:58:03.097Z",
       "action": "updated remark for RIYLTA-MF12V51A at KANDANA: “Return to WH”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:27:35",
-      "iso": "2026-08-24T02:57:35.209Z",
-      "action": "updated remark for RIYLTA-MF12V5 at KANDANA: “Return to WH”"
     }
   ]
 }
