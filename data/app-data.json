@@ -40480,6 +40480,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:50:40",
       "lastUpdated": "2026-08-24T08:20:40.153Z"
+    },
+    "LF-13753-S||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:51:30",
+      "lastUpdated": "2026-08-24T08:21:30.295Z"
     }
   },
   "showroomVisits": {
@@ -41490,6 +41497,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "13:51:30",
+      "iso": "2026-08-24T08:21:30.300Z",
+      "action": "updated remark for LF-13753-S at RAGAMA: “50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "13:51:30",
@@ -41831,13 +41845,6 @@
       "time": "12:53:22",
       "iso": "2026-08-24T07:23:22.258Z",
       "action": "updated remark for MHC-M40D at NAWALAPITIYA: “90% disc”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:45:20",
-      "iso": "2026-08-24T07:15:20.262Z",
-      "action": "updated remark for UR591SW at NAWALAPITIYA: “5000 price offer”"
     }
   ]
 }
