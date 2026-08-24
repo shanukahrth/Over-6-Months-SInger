@@ -46948,6 +46948,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:53:26",
       "lastUpdated": "2026-08-24T15:23:26.365Z"
+    },
+    "PN-TH-32MS670N||NIKAWERATIYA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:53:45",
+      "lastUpdated": "2026-08-24T15:23:45.925Z"
     }
   },
   "showroomVisits": {
@@ -48238,6 +48245,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:53:45",
+      "iso": "2026-08-24T15:23:45.928Z",
+      "action": "updated remark for PN-TH-32MS670N at NIKAWERATIYA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:53:26",
       "iso": "2026-08-24T15:23:26.367Z",
       "action": "updated remark for SIN-PR-K340 at NIKAWERATIYA: “Okay”"
@@ -48577,13 +48591,6 @@
       "time": "19:43:32",
       "iso": "2026-08-24T14:13:32.367Z",
       "action": "updated remark for SLE32E910 at NIKAWERATIYA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:43:30",
-      "iso": "2026-08-24T14:13:30.136Z",
-      "action": "updated remark for SLE32D5000 at NIKAWERATIYA: “Revert / Damaged - 90%”"
     }
   ]
 }
