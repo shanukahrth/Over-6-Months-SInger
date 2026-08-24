@@ -37036,6 +37036,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:45:06",
       "lastUpdated": "2026-08-24T06:15:06.930Z"
+    },
+    "B-CFB9433X||SHOMES- MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:45:20",
+      "lastUpdated": "2026-08-24T06:15:20.807Z"
     }
   },
   "showroomVisits": {
@@ -38010,6 +38017,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:45:20",
+      "iso": "2026-08-24T06:15:20.809Z",
+      "action": "updated remark for B-CFB9433X at SHOMES- MATALE: “Damaged - 50%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "11:45:06",
@@ -38351,13 +38365,6 @@
       "time": "11:25:40",
       "iso": "2026-08-24T05:55:40.610Z",
       "action": "updated remark for WP-SS-SUB1-S at WARAKAPOLA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:25:07",
-      "iso": "2026-08-24T05:55:07.142Z",
-      "action": "updated remark for WP-DI-SG-S at WARAKAPOLA: “70%”"
     }
   ]
 }
