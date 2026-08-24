@@ -38151,11 +38151,11 @@
       "lastUpdated": "2026-08-24T06:49:23.936Z"
     },
     "GRIP-8573||MELSIRIPURA": {
-      "remark": "Shop Used",
+      "remark": "Shop Use",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-24",
-      "commentTime": "12:20:53",
-      "lastUpdated": "2026-08-24T06:50:53.110Z"
+      "commentTime": "12:21:09",
+      "lastUpdated": "2026-08-24T06:51:09.477Z"
     },
     "GRIP-8101-S||MELSIRIPURA": {
       "remark": "Shop Used",
@@ -39175,6 +39175,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "12:21:09",
+      "iso": "2026-08-24T06:51:09.478Z",
+      "action": "updated remark for GRIP-8573 at MELSIRIPURA: “Shop Use”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "12:20:57",
       "iso": "2026-08-24T06:50:57.936Z",
       "action": "updated remark for GRIP-8101-S at MELSIRIPURA: “Shop Used”"
@@ -39514,13 +39521,6 @@
       "time": "12:14:42",
       "iso": "2026-08-24T06:44:42.581Z",
       "action": "updated remark for SLE42D2070TC at WARAKAPOLA: “Pannel Damage 70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:14:32",
-      "iso": "2026-08-24T06:44:32.895Z",
-      "action": "updated sold comment for SLE42D2070TC at WARAKAPOLA (cleared)"
     }
   ]
 }
