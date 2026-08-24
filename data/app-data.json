@@ -44050,16 +44050,16 @@
     },
     "TRINCOMALEE||DAMBULLA": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-18",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
     },
     "TRINCOMALEE B||DAMBULLA": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-18",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44067,7 +44067,7 @@
     "ARALAGANWILA||POLONNARUWA": {
       "visited": "Yes",
       "visitDate": "2026-08-19",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44234,6 +44234,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:55:56",
+      "iso": "2026-08-24T09:25:56.048Z",
+      "action": "updated ARALAGANWILA showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:55:54",
+      "iso": "2026-08-24T09:25:54.240Z",
+      "action": "updated TRINCOMALEE B showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:55:51",
+      "iso": "2026-08-24T09:25:51.642Z",
+      "action": "updated TRINCOMALEE showroom (team: Chamal and Kaveesha )"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-24",
@@ -44562,27 +44583,6 @@
       "time": "14:46:23",
       "iso": "2026-08-24T09:16:23.827Z",
       "action": "updated POLONNARUWA showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:46:20",
-      "iso": "2026-08-24T09:16:20.140Z",
-      "action": "updated POLONNARUWA showroom (visitDate: 2026-08-18)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:46:09",
-      "iso": "2026-08-24T09:16:09.508Z",
-      "action": "updated MEDIRIGIRIYA showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:45:53",
-      "iso": "2026-08-24T09:15:53.587Z",
-      "action": "updated KADURUWELA B showroom (visited: Yes)"
     }
   ]
 }
