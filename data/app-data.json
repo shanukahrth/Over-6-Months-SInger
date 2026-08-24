@@ -35776,6 +35776,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:16:37",
       "lastUpdated": "2026-08-24T04:46:37.922Z"
+    },
+    "AES-HAV-30S||RUWANWELLA": {
+      "remark": "10% offered flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:16:30",
+      "lastUpdated": "2026-08-24T04:46:30.526Z"
+    },
+    "MC8280||RUWANWELLA": {
+      "remark": "Class used. Used.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:17:19",
+      "lastUpdated": "2026-08-24T04:47:19.668Z"
     }
   },
   "showroomVisits": {
@@ -36750,6 +36764,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:17:19",
+      "iso": "2026-08-24T04:47:19.673Z",
+      "action": "updated remark for MC8280 at RUWANWELLA: “Class used. Used.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:16:30",
+      "iso": "2026-08-24T04:46:30.530Z",
+      "action": "updated remark for AES-HAV-30S at RUWANWELLA: “10% offered flat”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "10:16:37",
@@ -37084,20 +37112,6 @@
       "time": "10:02:57",
       "iso": "2026-08-24T04:32:57.479Z",
       "action": "updated remark for SMG-A36-5G-8-256-BLK at MINUWANGODA - B: “Burglary”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:02:21",
-      "iso": "2026-08-24T04:32:21.107Z",
-      "action": "updated remark for TF-NIFP28-042 at MIRIGAMA: “Already Given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:02:20",
-      "iso": "2026-08-24T04:32:20.834Z",
-      "action": "updated remark for SMG-A36-5G-8-128-BLK at MINUWANGODA - B: “50%”"
     }
   ]
 }
