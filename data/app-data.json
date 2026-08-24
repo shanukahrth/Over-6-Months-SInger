@@ -36322,6 +36322,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:59:10",
       "lastUpdated": "2026-08-24T05:29:10.731Z"
+    },
+    "CAN-I-E410||RAGAMA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:59:39",
+      "lastUpdated": "2026-08-24T05:29:39.119Z"
     }
   },
   "showroomVisits": {
@@ -37298,6 +37305,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "10:59:39",
+      "iso": "2026-08-24T05:29:39.120Z",
+      "action": "updated remark for CAN-I-E410 at RAGAMA: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "10:59:10",
       "iso": "2026-08-24T05:29:10.732Z",
       "action": "updated remark for AS-13G-I5-512GB-829-BLU at RAGAMA: “N/A”"
@@ -37637,13 +37651,6 @@
       "time": "10:33:30",
       "iso": "2026-08-24T05:03:30.482Z",
       "action": "updated remark for TCLED32D65A at MIRIGAMA: “30% Add”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:33:04",
-      "iso": "2026-08-24T05:03:04.190Z",
-      "action": "updated remark for SLE32E910 at RUWANWELLA: “In the service center. Revert damaged. Has not returned from the service center”"
     }
   ]
 }
