@@ -13420,18 +13420,18 @@
       "lastUpdated": "2026-08-18T08:21:35.034Z"
     },
     "DH-6-CAMERA-PACK||POLPITHIGAMA": {
-      "remark": "Can sell this by the 31st of Aug",
+      "remark": "Sold",
       "commentedBy": "SHENULI",
-      "commentDate": "2026-08-18",
-      "commentTime": "13:51:49",
-      "lastUpdated": "2026-08-18T08:21:49.908Z"
+      "commentDate": "2026-08-24",
+      "commentTime": "18:35:20",
+      "lastUpdated": "2026-08-24T13:05:20.759Z"
     },
     "GEO-182S-BU1||POLPITHIGAMA": {
-      "remark": "Revert - 60%",
+      "remark": "Revert / Damaged - 60%",
       "commentedBy": "SHENULI",
-      "commentDate": "2026-08-18",
-      "commentTime": "13:52:07",
-      "lastUpdated": "2026-08-18T08:22:07.660Z"
+      "commentDate": "2026-08-24",
+      "commentTime": "18:35:56",
+      "lastUpdated": "2026-08-24T13:05:56.956Z"
     },
     "NCPDG-SET3||BALANGODA - B": {
       "remark": "30%",
@@ -46192,6 +46192,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:35:20",
       "lastUpdated": "2026-08-24T13:05:20.592Z"
+    },
+    "FAN-P-1605H||POLPITHIGAMA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:35:35",
+      "lastUpdated": "2026-08-24T13:05:35.010Z"
     }
   },
   "showroomVisits": {
@@ -47480,6 +47487,27 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:35:56",
+      "iso": "2026-08-24T13:05:56.957Z",
+      "action": "updated remark for GEO-182S-BU1 at POLPITHIGAMA: “Revert / Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:35:35",
+      "iso": "2026-08-24T13:05:35.011Z",
+      "action": "updated remark for FAN-P-1605H at POLPITHIGAMA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:35:20",
+      "iso": "2026-08-24T13:05:20.761Z",
+      "action": "updated remark for DH-6-CAMERA-PACK at POLPITHIGAMA: “Sold”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "18:35:20",
@@ -47807,27 +47835,6 @@
       "time": "18:20:30",
       "iso": "2026-08-24T12:50:30.691Z",
       "action": "updated remark for WF-DOC-M003-BU-S at NAULA (cleared)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:20:28",
-      "iso": "2026-08-24T12:50:28.556Z",
-      "action": "updated remark for WF-DOC-T011-BU-S at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:20:23",
-      "iso": "2026-08-24T12:50:23.267Z",
-      "action": "updated remark for WF-DOC-M003-BU-S at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "18:20:14",
-      "iso": "2026-08-24T12:50:14.079Z",
-      "action": "updated remark for FAN-WF1608R at HETTIMULLA LITE: “Sold”"
     }
   ]
 }
