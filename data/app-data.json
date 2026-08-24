@@ -37491,6 +37491,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:01:13",
       "lastUpdated": "2026-08-24T06:31:13.600Z"
+    },
+    "WF-CLASSIC-BR-S||MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:01:31",
+      "lastUpdated": "2026-08-24T06:31:31.153Z"
     }
   },
   "showroomVisits": {
@@ -38467,6 +38474,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "12:01:31",
+      "iso": "2026-08-24T06:31:31.154Z",
+      "action": "updated remark for WF-CLASSIC-BR-S at MATALE: “Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "12:01:13",
       "iso": "2026-08-24T06:31:13.602Z",
       "action": "updated remark for USI-ATC-302 at MATALE: “Can sell this by 31st Aug”"
@@ -38806,13 +38820,6 @@
       "time": "11:51:31",
       "iso": "2026-08-24T06:21:31.425Z",
       "action": "updated remark for SMW928AS3 at MATALE: “Damaged - 65%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:51:24",
-      "iso": "2026-08-24T06:21:24.087Z",
-      "action": "updated remark for KA-TXG-DS11A at SHOMES- MATALE: “Can Sell”"
     }
   ]
 }
