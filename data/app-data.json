@@ -40060,13 +40060,6 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:47:33",
       "lastUpdated": "2026-08-24T07:17:33.145Z"
-    },
-    "SIN-RFC-2058||YATIYANTHOTA": {
-      "remark": "50% offered",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-24",
-      "commentTime": "12:48:12",
-      "lastUpdated": "2026-08-24T07:18:12.135Z"
     }
   },
   "showroomVisits": {
@@ -41079,6 +41072,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "12:48:54",
+      "iso": "2026-08-24T07:18:54.720Z",
+      "action": "updated remark for SIN-RFC-2058 at YATIYANTHOTA (cleared)"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "12:48:12",
       "iso": "2026-08-24T07:18:12.142Z",
       "action": "updated remark for SIN-RFC-2058 at YATIYANTHOTA: “50% offered”"
@@ -41418,13 +41418,6 @@
       "time": "12:37:45",
       "iso": "2026-08-24T07:07:45.964Z",
       "action": "updated remark for SBI-60M19-T at WARAKAPOLA: “10% Additional”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:37:57",
-      "iso": "2026-08-24T07:07:57.062Z",
-      "action": "updated remark for WF-JUPITER-06-S at NAWALAPITIYA: “To be returned”"
     }
   ]
 }
