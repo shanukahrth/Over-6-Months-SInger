@@ -37407,6 +37407,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:58:42",
       "lastUpdated": "2026-08-24T06:28:42.807Z"
+    },
+    "TF-NIK26-045||MATALE": {
+      "remark": "Damaged - 35%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:58:53",
+      "lastUpdated": "2026-08-24T06:28:53.354Z"
     }
   },
   "showroomVisits": {
@@ -38381,6 +38388,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:58:53",
+      "iso": "2026-08-24T06:28:53.356Z",
+      "action": "updated remark for TF-NIK26-045 at MATALE: “Damaged - 35%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "11:58:42",
@@ -38722,13 +38736,6 @@
       "time": "11:48:46",
       "iso": "2026-08-24T06:18:46.579Z",
       "action": "updated remark for SLE40D600A at MATALE: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:48:39",
-      "iso": "2026-08-24T06:18:39.217Z",
-      "action": "updated remark for GEO-242D-SV at SHOMES- MATALE: “Display - 30%”"
     }
   ]
 }
