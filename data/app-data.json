@@ -37260,6 +37260,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:53:52",
       "lastUpdated": "2026-08-24T06:23:52.286Z"
+    },
+    "TF-CM-APR737||MATALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:54:25",
+      "lastUpdated": "2026-08-24T06:24:25.389Z"
     }
   },
   "showroomVisits": {
@@ -38236,6 +38243,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "11:54:25",
+      "iso": "2026-08-24T06:24:25.391Z",
+      "action": "updated remark for TF-CM-APR737 at MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "11:53:52",
       "iso": "2026-08-24T06:23:52.287Z",
       "action": "updated remark for SWH-448EP at MATALE: “Sold”"
@@ -38575,13 +38589,6 @@
       "time": "11:44:15",
       "iso": "2026-08-24T06:14:15.545Z",
       "action": "updated remark for SAS24TCNR at MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:44:11",
-      "iso": "2026-08-24T06:14:11.772Z",
-      "action": "updated remark for TCLTB10-3-64-BLK at SHOMES- MATALE: “Damaged - 95%”"
     }
   ]
 }
