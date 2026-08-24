@@ -40020,11 +40020,11 @@
       "lastUpdated": "2026-08-24T07:13:57.399Z"
     },
     "SIN-TL-3118||YATIYANTHOTA": {
-      "remark": "Not working. 90% offered to",
+      "remark": "Damaged Not working. 90% offered. BM to report",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "12:45:24",
-      "lastUpdated": "2026-08-24T07:15:24.406Z"
+      "commentTime": "12:45:48",
+      "lastUpdated": "2026-08-24T07:15:48.321Z"
     },
     "WP-JUN-E-S||MELSIRIPURA": {
       "remark": "Damaged - 70%",
@@ -41049,6 +41049,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:45:48",
+      "iso": "2026-08-24T07:15:48.326Z",
+      "action": "updated remark for SIN-TL-3118 at YATIYANTHOTA: “Damaged Not working. 90% offered. BM to report”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:45:41",
+      "iso": "2026-08-24T07:15:41.110Z",
+      "action": "updated remark for SIN-TL-3118 at YATIYANTHOTA: “Not working. 90% offered. BM to report”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:44:57",
@@ -41383,20 +41397,6 @@
       "time": "12:36:24",
       "iso": "2026-08-24T07:06:24.721Z",
       "action": "updated remark for WF-CAMELIA-DTO-S at NAWALAPITIYA: “50%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:35:59",
-      "iso": "2026-08-24T07:05:59.513Z",
-      "action": "updated remark for WF-BERLIN-WD2-S at NAWALAPITIYA: “50%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:35:55",
-      "iso": "2026-08-24T07:05:55.597Z",
-      "action": "updated remark for WF-BERLIN-ST-S at NAWALAPITIYA: “50%”"
     }
   ]
 }
