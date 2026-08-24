@@ -46794,6 +46794,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:07:46",
       "lastUpdated": "2026-08-24T14:37:46.229Z"
+    },
+    "TCLED24D3100||NIKAWERATIYA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:08:04",
+      "lastUpdated": "2026-08-24T14:38:04.833Z"
     }
   },
   "showroomVisits": {
@@ -48084,6 +48091,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:08:04",
+      "iso": "2026-08-24T14:38:04.834Z",
+      "action": "updated remark for TCLED24D3100 at NIKAWERATIYA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:07:46",
       "iso": "2026-08-24T14:37:46.231Z",
       "action": "updated remark for SWM-FA70R at NIKAWERATIYA: “Damaged - 40%”"
@@ -48423,13 +48437,6 @@
       "time": "19:12:53",
       "iso": "2026-08-24T13:42:53.420Z",
       "action": "updated remark for SS-PS16-AG at POLPITHIGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:12:09",
-      "iso": "2026-08-24T13:42:09.286Z",
-      "action": "updated remark for SWM-FA70R at POLPITHIGAMA: “Revert / Damaged - 70%”"
     }
   ]
 }
