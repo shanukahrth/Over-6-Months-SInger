@@ -38478,6 +38478,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:30:31",
       "lastUpdated": "2026-08-24T07:00:31.015Z"
+    },
+    "WF-PARIS-BL-S||YATIYANTHOTA": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:31:20",
+      "lastUpdated": "2026-08-24T07:01:20.871Z"
     }
   },
   "showroomVisits": {
@@ -39488,6 +39495,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:31:20",
+      "iso": "2026-08-24T07:01:20.879Z",
+      "action": "updated remark for WF-PARIS-BL-S at YATIYANTHOTA: “Sold”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:30:31",
@@ -39829,13 +39843,6 @@
       "time": "12:24:01",
       "iso": "2026-08-24T06:54:01.927Z",
       "action": "updated remark for KDK-A40B at GALENBIDUNUWEWA: “Add 15%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "12:23:45",
-      "iso": "2026-08-24T06:53:45.554Z",
-      "action": "updated remark for FAN-P-SF1605HR at GALENBIDUNUWEWA: “65%”"
     }
   ]
 }
