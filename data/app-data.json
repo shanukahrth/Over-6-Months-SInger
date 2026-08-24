@@ -35909,6 +35909,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:22:42",
       "lastUpdated": "2026-08-24T04:52:42.035Z"
+    },
+    "SIN-RFC-2058||MIRIGAMA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:22:43",
+      "lastUpdated": "2026-08-24T04:52:43.289Z"
     }
   },
   "showroomVisits": {
@@ -36883,6 +36890,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "10:22:43",
+      "iso": "2026-08-24T04:52:43.291Z",
+      "action": "updated remark for SIN-RFC-2058 at MIRIGAMA: “10%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "10:22:42",
@@ -37224,13 +37238,6 @@
       "time": "10:11:37",
       "iso": "2026-08-24T04:41:37.894Z",
       "action": "updated remark for CAN-L-LBP3010 at RUWANWELLA: “Can't repair. 90% offered”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:10:59",
-      "iso": "2026-08-24T04:40:59.783Z",
-      "action": "updated remark for TCLED32D3000 at MINUWANGODA - B: “50%”"
     }
   ]
 }
