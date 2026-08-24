@@ -40067,6 +40067,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:48:35",
       "lastUpdated": "2026-08-24T07:18:35.549Z"
+    },
+    "SIN-MRG-1008C||WARAKAPOLA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:48:55",
+      "lastUpdated": "2026-08-24T07:18:55.662Z"
     }
   },
   "showroomVisits": {
@@ -41079,6 +41086,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
+      "time": "12:48:55",
+      "iso": "2026-08-24T07:18:55.663Z",
+      "action": "updated remark for SIN-MRG-1008C at WARAKAPOLA: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
       "time": "12:48:35",
       "iso": "2026-08-24T07:18:35.550Z",
       "action": "updated remark for SIN-MH51SW at WARAKAPOLA: “80%”"
@@ -41418,13 +41432,6 @@
       "time": "12:36:59",
       "iso": "2026-08-24T07:06:59.405Z",
       "action": "updated remark for MX-FP824H27 at YATIYANTHOTA: “Not working. Damaged. 50% flat offered”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:37:52",
-      "iso": "2026-08-24T07:07:52.980Z",
-      "action": "updated remark for TF-SI-ESS-242 at MELSIRIPURA: “15%”"
     }
   ]
 }
