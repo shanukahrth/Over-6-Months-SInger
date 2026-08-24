@@ -43016,6 +43016,14 @@
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-24"
+    },
+    "HATTON||GAMPOLA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-24",
+      "team": "Central ",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43123,6 +43131,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "14:19:09",
+      "iso": "2026-08-24T08:49:09.941Z",
+      "action": "updated HATTON showroom (visitDate: 2026-08-24)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "14:19:06",
+      "iso": "2026-08-24T08:49:06.837Z",
+      "action": "updated HATTON showroom (team: Central )"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "14:19:00",
+      "iso": "2026-08-24T08:49:00.131Z",
+      "action": "updated HATTON showroom (visited: Yes)"
+    },
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
@@ -43451,27 +43480,6 @@
       "time": "13:48:45",
       "iso": "2026-08-24T08:18:45.076Z",
       "action": "updated remark for SWM-FA70R at GINIGATHHENA: “Damaged 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:48:32",
-      "iso": "2026-08-24T08:18:32.584Z",
-      "action": "updated remark for SL-WM67 at GINIGATHHENA: “Damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:48:09",
-      "iso": "2026-08-24T08:18:09.672Z",
-      "action": "updated remark for BD-FSM1605 at GINIGATHHENA: “Available defective”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:47:47",
-      "iso": "2026-08-24T08:17:47.563Z",
-      "action": "updated remark for TCLED40D3000 at GINIGATHHENA: “Damaged 90% service”"
     }
   ]
 }
