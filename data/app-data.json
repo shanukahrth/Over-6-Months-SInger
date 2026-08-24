@@ -34369,6 +34369,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:46:12",
       "lastUpdated": "2026-08-24T03:16:12.812Z"
+    },
+    "TCLTB10S-3-32-GRY||KANDANA": {
+      "remark": "Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:46:31",
+      "lastUpdated": "2026-08-24T03:16:31.630Z"
     }
   },
   "showroomVisits": {
@@ -35345,6 +35352,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:46:31",
+      "iso": "2026-08-24T03:16:31.630Z",
+      "action": "updated remark for TCLTB10S-3-32-GRY at KANDANA: “Return to WH”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:46:12",
       "iso": "2026-08-24T03:16:12.812Z",
       "action": "updated remark for TCLTB10-3-64-BLK at KANDANA: “Return to WH”"
@@ -35684,13 +35698,6 @@
       "time": "08:26:18",
       "iso": "2026-08-24T02:56:18.131Z",
       "action": "updated remark for R-BWS-02 at KANDANA: “Already Provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:25:32",
-      "iso": "2026-08-24T02:55:32.678Z",
-      "action": "updated remark for PWRMAX-4 at KANDANA: “Shop use”"
     }
   ]
 }
