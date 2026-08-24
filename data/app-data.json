@@ -38114,6 +38114,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:20:25",
       "lastUpdated": "2026-08-24T06:50:25.496Z"
+    },
+    "WFL-ST-120-WH-S||SHOMES- MATALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:19:58",
+      "lastUpdated": "2026-08-24T06:49:58.017Z"
     }
   },
   "showroomVisits": {
@@ -39124,6 +39131,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:19:58",
+      "iso": "2026-08-24T06:49:58.018Z",
+      "action": "updated remark for WFL-ST-120-WH-S at SHOMES- MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:19:56",
+      "iso": "2026-08-24T06:49:56.896Z",
+      "action": "updated remark for WFL-ST-120-WH-S at SHOMES- MATALE: “Damaged - 40%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:20:25",
@@ -39458,20 +39479,6 @@
       "time": "12:14:02",
       "iso": "2026-08-24T06:44:02.305Z",
       "action": "updated remark for WF-NOR-CHR-S at SHOMES- MATALE: “Damged - 50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:13:55",
-      "iso": "2026-08-24T06:43:55.996Z",
-      "action": "updated remark for PN-TH-32J401N at WARAKAPOLA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:13:41",
-      "iso": "2026-08-24T06:43:41.533Z",
-      "action": "updated remark for PN-TH-32J401N at WARAKAPOLA: “30%”"
     }
   ]
 }
