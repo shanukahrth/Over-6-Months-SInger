@@ -37995,6 +37995,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:17:46",
       "lastUpdated": "2026-08-24T06:47:46.482Z"
+    },
+    "SLE40D600A||WARAKAPOLA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:18:03",
+      "lastUpdated": "2026-08-24T06:48:03.447Z"
     }
   },
   "showroomVisits": {
@@ -39005,6 +39012,27 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:18:03",
+      "iso": "2026-08-24T06:48:03.448Z",
+      "action": "updated remark for SLE40D600A at WARAKAPOLA: “-”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:17:59",
+      "iso": "2026-08-24T06:47:59.967Z",
+      "action": "updated sold comment for SLE40D600A at WARAKAPOLA (cleared)"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:17:54",
+      "iso": "2026-08-24T06:47:54.334Z",
+      "action": "updated remark for SLE40D600A at WARAKAPOLA: “Pannel Damage 70%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:17:46",
@@ -39332,27 +39360,6 @@
       "time": "12:11:05",
       "iso": "2026-08-24T06:41:05.511Z",
       "action": "updated remark for TF-NIDFP24-170 at MATALE: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:10:57",
-      "iso": "2026-08-24T06:40:57.784Z",
-      "action": "updated remark for TF-GS-SPKT302 at MATALE: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:10:54",
-      "iso": "2026-08-24T06:40:54.806Z",
-      "action": "updated remark for TF-FP24-SCR342 at MATALE: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:10:36",
-      "iso": "2026-08-24T06:40:36.600Z",
-      "action": "updated remark for SMW823AY7 at MATALE: “Damaged - 25%”"
     }
   ]
 }
