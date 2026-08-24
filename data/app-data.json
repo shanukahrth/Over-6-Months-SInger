@@ -40991,6 +40991,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:13:30",
       "lastUpdated": "2026-08-24T08:43:30.531Z"
+    },
+    "MID-D15-20EVN1||RAGAMA": {
+      "remark": "Active model. - No further discounts - call Hamshi for special cases",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:13:13",
+      "lastUpdated": "2026-08-24T08:43:13.670Z"
     }
   },
   "showroomVisits": {
@@ -42037,6 +42044,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "14:13:13",
+      "iso": "2026-08-24T08:43:13.672Z",
+      "action": "updated remark for MID-D15-20EVN1 at RAGAMA: “Active model. - No further discounts - call Hamshi for special cases”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "14:13:30",
@@ -42378,13 +42392,6 @@
       "time": "12:39:48",
       "iso": "2026-08-24T07:09:48.850Z",
       "action": "updated sold comment for SLE40D600A at GALENBIDUNUWEWA: “80%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "12:39:25",
-      "iso": "2026-08-24T07:09:25.572Z",
-      "action": "updated sold comment for SLE32E920 at GALENBIDUNUWEWA: “80%”"
     }
   ]
 }
