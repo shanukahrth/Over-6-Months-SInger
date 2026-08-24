@@ -37953,6 +37953,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:16:33",
       "lastUpdated": "2026-08-24T06:46:33.722Z"
+    },
+    "WFI-NORMAN-CHR-S||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:17:29",
+      "lastUpdated": "2026-08-24T06:47:29.972Z"
+    },
+    "WFI-NORMAN-TBL-S||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:17:31",
+      "lastUpdated": "2026-08-24T06:47:31.095Z"
+    },
+    "WFI-NORMAN-CHR2-S||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:17:32",
+      "lastUpdated": "2026-08-24T06:47:32.495Z"
     }
   },
   "showroomVisits": {
@@ -38963,6 +38984,27 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:17:32",
+      "iso": "2026-08-24T06:47:32.496Z",
+      "action": "updated remark for WFI-NORMAN-CHR2-S at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:17:31",
+      "iso": "2026-08-24T06:47:31.097Z",
+      "action": "updated remark for WFI-NORMAN-TBL-S at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:17:29",
+      "iso": "2026-08-24T06:47:29.974Z",
+      "action": "updated remark for WFI-NORMAN-CHR-S at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:16:56",
@@ -39290,27 +39332,6 @@
       "time": "12:10:10",
       "iso": "2026-08-24T06:40:10.103Z",
       "action": "updated sold comment for SLE43G890 at WARAKAPOLA: “Transfer to Display”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:09:43",
-      "iso": "2026-08-24T06:39:43.202Z",
-      "action": "updated remark for SLE40D600A at MATALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:10:08",
-      "iso": "2026-08-24T06:40:08.446Z",
-      "action": "updated remark for SPMA9502 at YATIYANTHOTA: “90% offered. Product not working”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:09:23",
-      "iso": "2026-08-24T06:39:23.954Z",
-      "action": "updated remark for SIN-RFC-2058 at MATALE: “Damaged - 40%”"
     }
   ]
 }
