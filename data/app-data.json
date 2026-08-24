@@ -37484,6 +37484,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:01:12",
       "lastUpdated": "2026-08-24T06:31:12.800Z"
+    },
+    "USI-ATC-302||MATALE": {
+      "remark": "Can sell this by 31st Aug",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:01:13",
+      "lastUpdated": "2026-08-24T06:31:13.600Z"
     }
   },
   "showroomVisits": {
@@ -38458,6 +38465,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:01:13",
+      "iso": "2026-08-24T06:31:13.602Z",
+      "action": "updated remark for USI-ATC-302 at MATALE: “Can sell this by 31st Aug”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:01:12",
@@ -38799,13 +38813,6 @@
       "time": "11:51:24",
       "iso": "2026-08-24T06:21:24.087Z",
       "action": "updated remark for KA-TXG-DS11A at SHOMES- MATALE: “Can Sell”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:50:39",
-      "iso": "2026-08-24T06:20:39.037Z",
-      "action": "updated remark for SMW823AY7 at MATALE: “Damaged - 25%”"
     }
   ]
 }
