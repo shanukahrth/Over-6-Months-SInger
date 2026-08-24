@@ -34313,6 +34313,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:40:41",
       "lastUpdated": "2026-08-24T03:10:41.597Z"
+    },
+    "SN-SMI-305||KANDANA": {
+      "remark": "60% Damage",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:41:06",
+      "lastUpdated": "2026-08-24T03:11:06.664Z"
     }
   },
   "showroomVisits": {
@@ -35289,6 +35296,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:41:06",
+      "iso": "2026-08-24T03:11:06.668Z",
+      "action": "updated remark for SN-SMI-305 at KANDANA: “60% Damage”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:40:41",
       "iso": "2026-08-24T03:10:41.599Z",
       "action": "updated remark for SMW928AS3 at KANDANA: “Already Provided”"
@@ -35628,13 +35642,6 @@
       "time": "08:22:45",
       "iso": "2026-08-24T02:52:45.735Z",
       "action": "updated remark for PCR-FP20-249 at KANDANA: “Already Provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:21:46",
-      "iso": "2026-08-24T02:51:46.034Z",
-      "action": "updated remark for OF-SW22-S at KANDANA: “50%”"
     }
   ]
 }
