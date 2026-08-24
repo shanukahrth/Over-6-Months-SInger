@@ -34754,6 +34754,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:15:19",
       "lastUpdated": "2026-08-24T03:45:19.618Z"
+    },
+    "ZTE-A71-BLU||KANDANA": {
+      "remark": "Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:15:25",
+      "lastUpdated": "2026-08-24T03:45:25.768Z"
     }
   },
   "showroomVisits": {
@@ -35728,6 +35735,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "09:15:25",
+      "iso": "2026-08-24T03:45:25.769Z",
+      "action": "updated remark for ZTE-A71-BLU at KANDANA: “Return to WH”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "09:15:19",
@@ -36069,13 +36083,6 @@
       "time": "09:00:34",
       "iso": "2026-08-24T03:30:34.684Z",
       "action": "updated remark for AC-TEMP-Y7-18 at MIRIGAMA: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:58:47",
-      "iso": "2026-08-24T03:28:47.976Z",
-      "action": "updated remark for TF-SI-EXS1230 at KANDANA: “15%”"
     }
   ]
 }
