@@ -46416,6 +46416,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:54:44",
       "lastUpdated": "2026-08-24T13:24:44.938Z"
+    },
+    "IFPSTANDAU||MATALE - B": {
+      "remark": "Ok",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:55:20",
+      "lastUpdated": "2026-08-24T13:25:20.778Z"
     }
   },
   "showroomVisits": {
@@ -47704,6 +47711,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:55:20",
+      "iso": "2026-08-24T13:25:20.781Z",
+      "action": "updated remark for IFPSTANDAU at MATALE - B: “Ok”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "18:54:44",
@@ -48045,13 +48059,6 @@
       "time": "18:32:20",
       "iso": "2026-08-24T13:02:20.984Z",
       "action": "updated remark for TF-SP16-063 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "18:31:03",
-      "iso": "2026-08-24T13:01:03.178Z",
-      "action": "updated remark for UJB-LB6027 at GALEWELA: “Damaged - 50%”"
     }
   ]
 }
