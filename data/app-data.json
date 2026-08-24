@@ -44026,7 +44026,7 @@
     "KALMUNAI||AMPARA": {
       "visited": "Yes",
       "visitDate": "2026-08-20",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44034,7 +44034,7 @@
     "KALMUNAI B||AMPARA": {
       "visited": "Yes",
       "visitDate": "2026-08-20",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44042,7 +44042,7 @@
     "POLWATTA||AMPARA": {
       "visited": "Yes",
       "visitDate": "2026-08-20",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44241,6 +44241,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:36",
+      "iso": "2026-08-24T09:26:36.931Z",
+      "action": "updated KALMUNAI showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:34",
+      "iso": "2026-08-24T09:26:34.810Z",
+      "action": "updated KALMUNAI B showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:32",
+      "iso": "2026-08-24T09:26:32.257Z",
+      "action": "updated POLWATTA showroom (team: Chamal and Kaveesha )"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -44569,27 +44590,6 @@
       "time": "14:48:28",
       "iso": "2026-08-24T09:18:28.686Z",
       "action": "updated remark for LF-CT-WNT-S at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:48:09",
-      "iso": "2026-08-24T09:18:09.888Z",
-      "action": "updated remark for HON-X7C-8-256-BLK at WENNAPPUWA: “Sold Out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:48:04",
-      "iso": "2026-08-24T09:18:04.692Z",
-      "action": "updated remark for HON-X6B-6-128-GRN at WENNAPPUWA: “Sold Out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:47:45",
-      "iso": "2026-08-24T09:17:45.757Z",
-      "action": "updated remark for HON-X5PLUS-4-64-BLK at WENNAPPUWA: “Sold Out”"
     }
   ]
 }
