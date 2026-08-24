@@ -6105,11 +6105,11 @@
       "lastUpdated": "2026-08-24T06:10:33.985Z"
     },
     "HON-X9C-12-256-BLK||SHOMES- MATALE": {
-      "remark": "Damage - 15%",
-      "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "17:32:05",
-      "lastUpdated": "2026-08-17T12:02:05.839Z"
+      "remark": "Damaged - 15%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:41:09",
+      "lastUpdated": "2026-08-24T06:11:09.723Z"
     },
     "MSI-MOD15-B13M-I7-BLK||SHOMES- MATALE": {
       "remark": "Damage - 60%",
@@ -37898,6 +37898,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:41:09",
+      "iso": "2026-08-24T06:11:09.723Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at SHOMES- MATALE: “Damaged - 15%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "11:41:05",
@@ -38239,13 +38246,6 @@
       "time": "11:20:46",
       "iso": "2026-08-24T05:50:46.963Z",
       "action": "updated remark for KN-HFP72 at THIRAPPANE: “Given by Lakshi”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:20:14",
-      "iso": "2026-08-24T05:50:14.637Z",
-      "action": "updated remark for KA-SST032BKI at THIRAPPANE: “Add 10%”"
     }
   ]
 }
