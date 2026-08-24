@@ -34320,6 +34320,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:41:06",
       "lastUpdated": "2026-08-24T03:11:06.664Z"
+    },
+    "SRS-XP700||KANDANA": {
+      "remark": "50%-Shop Used",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:41:24",
+      "lastUpdated": "2026-08-24T03:11:24.781Z"
     }
   },
   "showroomVisits": {
@@ -35296,6 +35303,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:41:24",
+      "iso": "2026-08-24T03:11:24.782Z",
+      "action": "updated remark for SRS-XP700 at KANDANA: “50%-Shop Used”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:41:06",
       "iso": "2026-08-24T03:11:06.668Z",
       "action": "updated remark for SN-SMI-305 at KANDANA: “60% Damage”"
@@ -35635,13 +35649,6 @@
       "time": "08:23:02",
       "iso": "2026-08-24T02:53:02.516Z",
       "action": "updated remark for PF-KID-CHR-PNK-S at KANDANA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:22:45",
-      "iso": "2026-08-24T02:52:45.735Z",
-      "action": "updated remark for PCR-FP20-249 at KANDANA: “Already Provided”"
     }
   ]
 }
