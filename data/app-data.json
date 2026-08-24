@@ -42916,6 +42916,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:52:17",
       "lastUpdated": "2026-08-24T09:22:17.021Z"
+    },
+    "SL-ECO-SM256||RAGAMA": {
+      "remark": "Exchange",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:51:43",
+      "lastUpdated": "2026-08-24T09:21:43.648Z"
+    },
+    "SL-INV-285G||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:52:28",
+      "lastUpdated": "2026-08-24T09:22:28.855Z"
     }
   },
   "showroomVisits": {
@@ -44130,6 +44144,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "14:52:28",
+      "iso": "2026-08-24T09:22:28.857Z",
+      "action": "updated remark for SL-INV-285G at RAGAMA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "14:51:43",
+      "iso": "2026-08-24T09:21:43.649Z",
+      "action": "updated remark for SL-ECO-SM256 at RAGAMA: “Exchange”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "14:52:17",
@@ -44464,20 +44492,6 @@
       "time": "14:43:32",
       "iso": "2026-08-24T09:13:32.654Z",
       "action": "updated POLWATTA showroom (visitDate: 2026-08-20)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:43:19",
-      "iso": "2026-08-24T09:13:19.916Z",
-      "action": "updated KALMUNAI B showroom (visitDate: 2026-08-20)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:43:09",
-      "iso": "2026-08-24T09:13:09.746Z",
-      "action": "updated KALMUNAI showroom (visitDate: 2026-08-20)"
     }
   ]
 }
