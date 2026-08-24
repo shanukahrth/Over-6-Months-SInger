@@ -44267,6 +44267,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:03:05",
       "lastUpdated": "2026-08-24T10:33:05.012Z"
+    },
+    "SMGRT28A3021GS||WENNAPPUWA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:03:33",
+      "lastUpdated": "2026-08-24T10:33:33.732Z"
     }
   },
   "showroomVisits": {
@@ -45557,6 +45564,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-24",
+      "time": "16:03:33",
+      "iso": "2026-08-24T10:33:33.734Z",
+      "action": "updated remark for SMGRT28A3021GS at WENNAPPUWA: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
       "time": "16:03:05",
       "iso": "2026-08-24T10:33:05.013Z",
       "action": "updated remark for SMGAR50F19D1J at WENNAPPUWA: “Damaged - 20%”"
@@ -45896,13 +45910,6 @@
       "time": "15:54:25",
       "iso": "2026-08-24T10:24:25.477Z",
       "action": "updated remark for WF-JUPITER-05-S at KOTIYAKUMBURA: “40% discount offered”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "15:53:43",
-      "iso": "2026-08-24T10:23:43.184Z",
-      "action": "updated remark for SIS277CU at WENNAPPUWA: “Can sell”"
     }
   ]
 }
