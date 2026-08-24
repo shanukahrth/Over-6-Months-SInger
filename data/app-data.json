@@ -40291,6 +40291,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:01:39",
       "lastUpdated": "2026-08-24T07:31:39.617Z"
+    },
+    "MHC-V13||WARAKAPOLA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:01:24",
+      "lastUpdated": "2026-08-24T07:31:24.926Z"
     }
   },
   "showroomVisits": {
@@ -41301,6 +41308,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "13:01:24",
+      "iso": "2026-08-24T07:31:24.928Z",
+      "action": "updated remark for MHC-V13 at WARAKAPOLA: “60%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "13:01:39",
@@ -41642,13 +41656,6 @@
       "time": "12:47:33",
       "iso": "2026-08-24T07:17:33.147Z",
       "action": "updated remark for SIN-BS30 at WARAKAPOLA: “9500”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:47:09",
-      "iso": "2026-08-24T07:17:09.143Z",
-      "action": "updated remark for SHT-PHT505L at WARAKAPOLA: “80%”"
     }
   ]
 }
