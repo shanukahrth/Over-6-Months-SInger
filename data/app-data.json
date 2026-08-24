@@ -6230,13 +6230,6 @@
       "commentTime": "17:46:12",
       "lastUpdated": "2026-08-17T12:16:12.407Z"
     },
-    "WF-BALTIC-01-S||SHOMES- MATALE": {
-      "remark": "Damaged - 50%",
-      "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "17:46:35",
-      "lastUpdated": "2026-08-17T12:16:35.134Z"
-    },
     "SXL2901||BUDGET SHOP-K-GTOTA": {
       "remark": "Unsellable",
       "commentedBy": "Rashmi",
@@ -39182,6 +39175,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "12:21:35",
+      "iso": "2026-08-24T06:51:35.739Z",
+      "action": "updated remark for WF-BALTIC-01-S at SHOMES- MATALE (cleared)"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "12:21:05",
       "iso": "2026-08-24T06:51:05.693Z",
       "action": "updated remark for WP-WDC11704RG-G at SHOMES- MATALE: “Damaged - 20%”"
@@ -39521,13 +39521,6 @@
       "time": "12:15:06",
       "iso": "2026-08-24T06:45:06.987Z",
       "action": "updated remark for WF-PERTH-CT-MH at SHOMES- MATALE: “Damaged - 25%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:14:50",
-      "iso": "2026-08-24T06:44:50.175Z",
-      "action": "updated remark for WF-PARIS-BL-S at SHOMES- MATALE: “Damaged - 60%”"
     }
   ]
 }
