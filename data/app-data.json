@@ -46003,6 +46003,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:24:35",
       "lastUpdated": "2026-08-24T12:54:35.690Z"
+    },
+    "WF-PARIS-BL-S||NAULA": {
+      "remark": "Revert / Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:25:22",
+      "lastUpdated": "2026-08-24T12:55:22.811Z"
     }
   },
   "showroomVisits": {
@@ -47293,6 +47300,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:25:22",
+      "iso": "2026-08-24T12:55:22.812Z",
+      "action": "updated remark for WF-PARIS-BL-S at NAULA: “Revert / Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:24:35",
       "iso": "2026-08-24T12:54:35.690Z",
       "action": "updated remark for GEO-242D-SV at NAULA: “Okay”"
@@ -47632,13 +47646,6 @@
       "time": "18:12:39",
       "iso": "2026-08-24T12:42:39.709Z",
       "action": "updated remark for SLE32E810 at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:12:23",
-      "iso": "2026-08-24T12:42:23.015Z",
-      "action": "updated remark for SLE24E810 at NAULA: “Damaged - 90%”"
     }
   ]
 }
