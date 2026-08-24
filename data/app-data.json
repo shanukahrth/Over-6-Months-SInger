@@ -36191,11 +36191,11 @@
       "lastUpdated": "2026-08-24T05:11:05.641Z"
     },
     "SLE32E910||MIRIGAMA": {
-      "remark": "Additional 20%",
+      "remark": "Upto 70%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-24",
-      "commentTime": "10:41:12",
-      "lastUpdated": "2026-08-24T05:11:12.042Z"
+      "commentTime": "10:42:47",
+      "lastUpdated": "2026-08-24T05:12:47.429Z"
     },
     "SWM-FA70R||RUWANWELLA": {
       "remark": "Not working. Service center doesn't repair. Inform the factory.",
@@ -37177,6 +37177,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "10:42:47",
+      "iso": "2026-08-24T05:12:47.430Z",
+      "action": "updated remark for SLE32E910 at MIRIGAMA: “Upto 70%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "10:43:17",
@@ -37518,13 +37525,6 @@
       "time": "10:23:49",
       "iso": "2026-08-24T04:53:49.234Z",
       "action": "updated remark for WFL-SPM-78X72X7-S at MINUWANGODA - B: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:22:56",
-      "iso": "2026-08-24T04:52:56.195Z",
-      "action": "updated remark for SIN-RFC-1819 at MIRIGAMA: “10%”"
     }
   ]
 }
