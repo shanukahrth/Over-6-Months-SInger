@@ -45926,6 +45926,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:20:48",
       "lastUpdated": "2026-08-24T12:50:48.372Z"
+    },
+    "WF-SKY-211-MR-S||NAULA": {
+      "remark": "Damaged - 65%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:21:16",
+      "lastUpdated": "2026-08-24T12:51:16.483Z"
+    },
+    "WF-SP-10345-S||NAULA": {
+      "remark": "Damaged - 65%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:21:21",
+      "lastUpdated": "2026-08-24T12:51:21.163Z"
     }
   },
   "showroomVisits": {
@@ -47216,6 +47230,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:21:21",
+      "iso": "2026-08-24T12:51:21.165Z",
+      "action": "updated remark for WF-SP-10345-S at NAULA: “Damaged - 65%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:21:16",
+      "iso": "2026-08-24T12:51:16.484Z",
+      "action": "updated remark for WF-SKY-211-MR-S at NAULA: “Damaged - 65%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:20:48",
       "iso": "2026-08-24T12:50:48.374Z",
       "action": "updated remark for WF-JUPITER-05-S at NAULA: “Revert / Damaged - 85%”"
@@ -47548,20 +47576,6 @@
       "time": "18:08:34",
       "iso": "2026-08-24T12:38:34.367Z",
       "action": "updated remark for SIN-PSVX938N at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:07:47",
-      "iso": "2026-08-24T12:37:47.247Z",
-      "action": "updated remark for SIN-BS30 at NAULA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:07:21",
-      "iso": "2026-08-24T12:37:21.216Z",
-      "action": "updated remark for SDV838HDVT at NAULA: “Damaged - 75%”"
     }
   ]
 }
