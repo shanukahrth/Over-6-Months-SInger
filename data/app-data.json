@@ -46381,6 +46381,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:45:07",
       "lastUpdated": "2026-08-24T13:15:07.404Z"
+    },
+    "NCPO-DC200||POLPITHIGAMA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:48:22",
+      "lastUpdated": "2026-08-24T13:18:22.305Z"
     }
   },
   "showroomVisits": {
@@ -47669,6 +47676,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:48:22",
+      "iso": "2026-08-24T13:18:22.306Z",
+      "action": "updated remark for NCPO-DC200 at POLPITHIGAMA: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:48:21",
+      "iso": "2026-08-24T13:18:21.521Z",
+      "action": "updated remark for NCPO-DC200 at POLPITHIGAMA: “Damaged - 30%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "18:45:07",
@@ -48003,20 +48024,6 @@
       "time": "18:29:25",
       "iso": "2026-08-24T12:59:25.538Z",
       "action": "updated remark for NGT323D at GALEWELA: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:29:11",
-      "iso": "2026-08-24T12:59:11.229Z",
-      "action": "updated remark for RIYLTA-MF12V51A at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "18:29:04",
-      "iso": "2026-08-24T12:59:04.643Z",
-      "action": "updated remark for NCPO-OT275 at GALEWELA: “Damaged - 40%”"
     }
   ]
 }
