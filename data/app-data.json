@@ -42952,6 +42952,14 @@
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-24"
+    },
+    "GINIGATHHENA||GAMPOLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "Central ",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43059,6 +43067,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "14:18:11",
+      "iso": "2026-08-24T08:48:11.336Z",
+      "action": "updated GINIGATHHENA showroom (team: Central )"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "14:18:05",
+      "iso": "2026-08-24T08:48:05.874Z",
+      "action": "updated GINIGATHHENA showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-24",
@@ -43394,20 +43416,6 @@
       "time": "13:47:08",
       "iso": "2026-08-24T08:17:08.020Z",
       "action": "updated remark for SLE43G890 at GINIGATHHENA: “Sold”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:46:39",
-      "iso": "2026-08-24T08:16:39.119Z",
-      "action": "updated remark for SLE43S400 at GINIGATHHENA: “Damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:46:30",
-      "iso": "2026-08-24T08:16:30.613Z",
-      "action": "updated remark for SLE43D1800TC at GINIGATHHENA: “Damaged 90%”"
     }
   ]
 }
