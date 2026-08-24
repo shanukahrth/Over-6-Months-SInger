@@ -38259,8 +38259,8 @@
       "remark": "Damaged - 60%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-24",
-      "commentTime": "12:24:26",
-      "lastUpdated": "2026-08-24T06:54:26.759Z"
+      "commentTime": "12:44:57",
+      "lastUpdated": "2026-08-24T07:14:57.887Z"
     },
     "LF-LEO-SCUP-WNG-S||MELSIRIPURA": {
       "remark": "Damaged - 60%",
@@ -41049,6 +41049,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:44:57",
+      "iso": "2026-08-24T07:14:57.889Z",
+      "action": "updated remark for LF-LEO-18023-WNG-S at MELSIRIPURA: “Damaged - 60%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:45:24",
@@ -41390,13 +41397,6 @@
       "time": "12:35:55",
       "iso": "2026-08-24T07:05:55.597Z",
       "action": "updated remark for WF-BERLIN-ST-S at NAWALAPITIYA: “50%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:35:52",
-      "iso": "2026-08-24T07:05:52.776Z",
-      "action": "updated remark for WF-BERLIN-DTO-S at NAWALAPITIYA: “50%”"
     }
   ]
 }
