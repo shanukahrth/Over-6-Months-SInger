@@ -34980,11 +34980,11 @@
       "lastUpdated": "2026-08-24T04:05:47.690Z"
     },
     "MID-MF-TN40D2||RUWANWELLA": {
-      "remark": "80% discount flat",
+      "remark": "80% discount flat - damaged",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "09:36:22",
-      "lastUpdated": "2026-08-24T04:06:22.602Z"
+      "commentTime": "09:38:22",
+      "lastUpdated": "2026-08-24T04:08:22.089Z"
     },
     "KA-LW-185A||MINUWANGODA - B": {
       "remark": "Discounts already given to DM",
@@ -35994,6 +35994,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "09:38:22",
+      "iso": "2026-08-24T04:08:22.094Z",
+      "action": "updated remark for MID-MF-TN40D2 at RUWANWELLA: “80% discount flat - damaged”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:37:30",
@@ -36335,13 +36342,6 @@
       "time": "09:13:51",
       "iso": "2026-08-24T03:43:51.686Z",
       "action": "updated remark for PN-SC-UX100GS-K at MIRIGAMA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "09:12:39",
-      "iso": "2026-08-24T03:42:39.455Z",
-      "action": "updated remark for SCF-TD210ZCDL210S-1459L at KIRINDIWELA: “80%”"
     }
   ]
 }
