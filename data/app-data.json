@@ -45674,6 +45674,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:08:34",
       "lastUpdated": "2026-08-24T12:38:34.365Z"
+    },
+    "SIN-RFC-1819||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:09:09",
+      "lastUpdated": "2026-08-24T12:39:09.269Z"
+    },
+    "SIN-RFC-2058||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:09:09",
+      "lastUpdated": "2026-08-24T12:39:09.942Z"
     }
   },
   "showroomVisits": {
@@ -46964,6 +46978,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:09:09",
+      "iso": "2026-08-24T12:39:09.943Z",
+      "action": "updated remark for SIN-RFC-2058 at NAULA: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:09:09",
+      "iso": "2026-08-24T12:39:09.270Z",
+      "action": "updated remark for SIN-RFC-1819 at NAULA: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:08:34",
       "iso": "2026-08-24T12:38:34.367Z",
       "action": "updated remark for SIN-PSVX938N at NAULA: “Damaged - 40%”"
@@ -47296,20 +47324,6 @@
       "time": "17:53:20",
       "iso": "2026-08-24T12:23:20.799Z",
       "action": "updated remark for OPSI512G8B256B at NAULA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:52:47",
-      "iso": "2026-08-24T12:22:47.022Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at NAULA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:52:28",
-      "iso": "2026-08-24T12:22:28.861Z",
-      "action": "updated remark for HU-Y6S-BLU at NAULA: “Damaged - 85%”"
     }
   ]
 }
