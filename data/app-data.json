@@ -45667,6 +45667,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:07:47",
       "lastUpdated": "2026-08-24T12:37:47.246Z"
+    },
+    "SIN-PSVX938N||NAULA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:08:34",
+      "lastUpdated": "2026-08-24T12:38:34.365Z"
     }
   },
   "showroomVisits": {
@@ -46957,6 +46964,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:08:34",
+      "iso": "2026-08-24T12:38:34.367Z",
+      "action": "updated remark for SIN-PSVX938N at NAULA: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:07:47",
       "iso": "2026-08-24T12:37:47.247Z",
       "action": "updated remark for SIN-BS30 at NAULA: “Okay”"
@@ -47296,13 +47310,6 @@
       "time": "17:52:28",
       "iso": "2026-08-24T12:22:28.861Z",
       "action": "updated remark for HU-Y6S-BLU at NAULA: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:51:55",
-      "iso": "2026-08-24T12:21:55.880Z",
-      "action": "updated remark for HU-SECURITY at NAULA: “Okay”"
     }
   ]
 }
