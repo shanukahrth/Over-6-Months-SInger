@@ -37001,6 +37001,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:44:03",
       "lastUpdated": "2026-08-24T06:14:03.662Z"
+    },
+    "TCLTB10S-3-32-GRY||SHOMES- MATALE": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:44:09",
+      "lastUpdated": "2026-08-24T06:14:09.584Z"
+    },
+    "TCLTB10-3-64-BLK||SHOMES- MATALE": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:44:11",
+      "lastUpdated": "2026-08-24T06:14:11.771Z"
     }
   },
   "showroomVisits": {
@@ -37975,6 +37989,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:44:11",
+      "iso": "2026-08-24T06:14:11.772Z",
+      "action": "updated remark for TCLTB10-3-64-BLK at SHOMES- MATALE: “Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:44:09",
+      "iso": "2026-08-24T06:14:09.585Z",
+      "action": "updated remark for TCLTB10S-3-32-GRY at SHOMES- MATALE: “Damaged - 95%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "11:44:03",
@@ -38309,20 +38337,6 @@
       "time": "11:24:43",
       "iso": "2026-08-24T05:54:43.387Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at THIRAPPANE: “Add 10%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:24:37",
-      "iso": "2026-08-24T05:54:37.713Z",
-      "action": "updated remark for NUBIA-V70-8-256GB-GRY at THIRAPPANE: “Add 10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:24:11",
-      "iso": "2026-08-24T05:54:11.014Z",
-      "action": "updated remark for WP-CHTW-075-S at WARAKAPOLA: “70%”"
     }
   ]
 }
