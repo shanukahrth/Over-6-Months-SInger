@@ -40585,6 +40585,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:57:06",
       "lastUpdated": "2026-08-24T08:27:06.082Z"
+    },
+    "LF-LEO-BRM-WNG||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:57:31",
+      "lastUpdated": "2026-08-24T08:27:31.676Z"
     }
   },
   "showroomVisits": {
@@ -41597,6 +41604,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "13:57:31",
+      "iso": "2026-08-24T08:27:31.679Z",
+      "action": "updated remark for LF-LEO-BRM-WNG at RAGAMA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "13:57:06",
       "iso": "2026-08-24T08:27:06.082Z",
       "action": "updated remark for LF-LEO-12023-BCH at RAGAMA: “50%”"
@@ -41936,13 +41950,6 @@
       "time": "13:01:41",
       "iso": "2026-08-24T07:31:41.839Z",
       "action": "updated remark for MID-MG-GP45B at WARAKAPOLA: “-”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:02:13",
-      "iso": "2026-08-24T07:32:13.041Z",
-      "action": "updated remark for WP-CHSUB-1-S at YATIYANTHOTA: “80% offered”"
     }
   ]
 }
