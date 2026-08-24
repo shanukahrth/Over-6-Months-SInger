@@ -38219,6 +38219,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:23:33",
       "lastUpdated": "2026-08-24T06:53:33.978Z"
+    },
+    "LF-CT-S||MELSIRIPURA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:23:14",
+      "lastUpdated": "2026-08-24T06:53:14.209Z"
     }
   },
   "showroomVisits": {
@@ -39229,6 +39236,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:23:14",
+      "iso": "2026-08-24T06:53:14.210Z",
+      "action": "updated remark for LF-CT-S at MELSIRIPURA: “Damaged - 50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:23:33",
@@ -39570,13 +39584,6 @@
       "time": "12:17:32",
       "iso": "2026-08-24T06:47:32.496Z",
       "action": "updated remark for WFI-NORMAN-CHR2-S at SHOMES- MATALE: “Damaged - 30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:17:31",
-      "iso": "2026-08-24T06:47:31.097Z",
-      "action": "updated remark for WFI-NORMAN-TBL-S at SHOMES- MATALE: “Damaged - 30%”"
     }
   ]
 }
