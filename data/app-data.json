@@ -40501,6 +40501,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:52:08",
       "lastUpdated": "2026-08-24T08:22:08.123Z"
+    },
+    "LF-BUDGET-ST-CRW-S||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:52:36",
+      "lastUpdated": "2026-08-24T08:22:36.942Z"
     }
   },
   "showroomVisits": {
@@ -41513,6 +41520,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "13:52:36",
+      "iso": "2026-08-24T08:22:36.944Z",
+      "action": "updated remark for LF-BUDGET-ST-CRW-S at RAGAMA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "13:52:08",
       "iso": "2026-08-24T08:22:08.125Z",
       "action": "updated remark for LF-BUDGET-ST-AGO-S at RAGAMA: “50%”"
@@ -41852,13 +41866,6 @@
       "time": "12:58:53",
       "iso": "2026-08-24T07:28:53.571Z",
       "action": "updated remark for SLE32D2010TC at YATIYANTHOTA: “Panel damage. Flood”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:58:21",
-      "iso": "2026-08-24T07:28:21.504Z",
-      "action": "updated remark for PN-SC-TMAX5GSK at NAWALAPITIYA: “50% discount”"
     }
   ]
 }
