@@ -36875,6 +36875,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:35:31",
       "lastUpdated": "2026-08-24T06:05:31.435Z"
+    },
+    "TF-FP24-SCR342||WARAKAPOLA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:35:55",
+      "lastUpdated": "2026-08-24T06:05:55.689Z"
     }
   },
   "showroomVisits": {
@@ -37851,6 +37858,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
+      "time": "11:35:55",
+      "iso": "2026-08-24T06:05:55.690Z",
+      "action": "updated remark for TF-FP24-SCR342 at WARAKAPOLA: “-”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
       "time": "11:35:31",
       "iso": "2026-08-24T06:05:31.436Z",
       "action": "updated remark for TCLED24D3100 at WARAKAPOLA: “Defective”"
@@ -38190,13 +38204,6 @@
       "time": "11:18:21",
       "iso": "2026-08-24T05:48:21.025Z",
       "action": "updated remark for SWH-118EP-D at RUWANWELLA: “Revert discolored. 80% offered.”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:18:05",
-      "iso": "2026-08-24T05:48:05.846Z",
-      "action": "updated remark for FAN-P-SF1605HR at THIRAPPANE: “70%”"
     }
   ]
 }
