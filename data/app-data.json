@@ -43868,6 +43868,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:38:52",
       "lastUpdated": "2026-08-24T10:08:52.683Z"
+    },
+    "WP-PVC||HOROWPATHANA": {
+      "remark": "70%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:39:02",
+      "lastUpdated": "2026-08-24T10:09:02.378Z"
+    },
+    "WP-SS-SUB1-S||HOROWPATHANA": {
+      "remark": "70%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:39:20",
+      "lastUpdated": "2026-08-24T10:09:20.254Z"
+    },
+    "EDU-HDMI||HOROWPATHANA": {
+      "remark": "Shop used",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:39:42",
+      "lastUpdated": "2026-08-24T10:09:42.866Z"
     }
   },
   "showroomVisits": {
@@ -45143,12 +45164,53 @@
     },
     "U-BS8816||HOROWPATHANA": {
       "sold": false,
-      "comment": "500",
+      "comment": "",
+      "updatedBy": "Thushitha Jayaweera",
+      "updatedDate": "2026-08-24"
+    },
+    "EDU-HDMI||HOROWPATHANA": {
+      "sold": false,
+      "comment": "",
       "updatedBy": "Thushitha Jayaweera",
       "updatedDate": "2026-08-24"
     }
   },
   "activity": [
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:39:46",
+      "iso": "2026-08-24T10:09:46.801Z",
+      "action": "updated sold comment for U-BS8816 at HOROWPATHANA (cleared)"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:39:42",
+      "iso": "2026-08-24T10:09:42.870Z",
+      "action": "updated remark for EDU-HDMI at HOROWPATHANA: “Shop used”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:39:36",
+      "iso": "2026-08-24T10:09:36.249Z",
+      "action": "updated sold comment for EDU-HDMI at HOROWPATHANA (cleared)"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:39:20",
+      "iso": "2026-08-24T10:09:20.258Z",
+      "action": "updated remark for WP-SS-SUB1-S at HOROWPATHANA: “70%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:39:02",
+      "iso": "2026-08-24T10:09:02.381Z",
+      "action": "updated remark for WP-PVC at HOROWPATHANA: “70%”"
+    },
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
@@ -45463,41 +45525,6 @@
       "time": "15:26:10",
       "iso": "2026-08-24T09:56:10.056Z",
       "action": "updated remark for UJB-LB6027 at HOROWPATHANA: “30%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:25:35",
-      "iso": "2026-08-24T09:55:35.327Z",
-      "action": "updated remark for R-FGAP010 at HOROWPATHANA: “65%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:25:30",
-      "iso": "2026-08-24T09:55:30.915Z",
-      "action": "updated remark for TF-K1330404 at HOROWPATHANA: “System dis”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:24:56",
-      "iso": "2026-08-24T09:54:56.864Z",
-      "action": "updated remark for KA-TXG-DS11A at HOROWPATHANA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:24:22",
-      "iso": "2026-08-24T09:54:22.760Z",
-      "action": "updated remark for WF-AWANA-09-S at RAGAMA: “60%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "15:24:45",
-      "iso": "2026-08-24T09:54:45.641Z",
-      "action": "updated remark for KA-LW-185A at HOROWPATHANA: “70%”"
     }
   ]
 }
