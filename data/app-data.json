@@ -37563,11 +37563,11 @@
       "lastUpdated": "2026-08-24T06:33:15.343Z"
     },
     "SLE32D1800||WARAKAPOLA": {
-      "remark": "70%",
+      "remark": "70% or Warehouse Return",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-24",
-      "commentTime": "12:03:24",
-      "lastUpdated": "2026-08-24T06:33:24.488Z"
+      "commentTime": "12:03:42",
+      "lastUpdated": "2026-08-24T06:33:42.039Z"
     },
     "PN-NF-GW1WSK||SHOMES- MATALE": {
       "remark": "Can Sell",
@@ -38555,6 +38555,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:03:42",
+      "iso": "2026-08-24T06:33:42.040Z",
+      "action": "updated remark for SLE32D1800 at WARAKAPOLA: “70% or Warehouse Return”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "12:03:40",
+      "iso": "2026-08-24T06:33:40.222Z",
+      "action": "updated remark for SLE32D1800 at WARAKAPOLA: “70% or Warehouse Return”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "12:03:31",
@@ -38889,20 +38903,6 @@
       "time": "11:55:39",
       "iso": "2026-08-24T06:25:39.868Z",
       "action": "updated remark for LF-LEO-HCUP-BCH at SHOMES- MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:55:23",
-      "iso": "2026-08-24T06:25:23.149Z",
-      "action": "updated remark for LF-LEO-HCUP-BCH at SHOMES- MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:55:14",
-      "iso": "2026-08-24T06:25:14.736Z",
-      "action": "updated remark for LF-LEO-18023-WNG-S at SHOMES- MATALE: “Damaged - 50%”"
     }
   ]
 }
