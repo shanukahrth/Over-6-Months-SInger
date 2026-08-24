@@ -42146,6 +42146,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:19:24",
       "lastUpdated": "2026-08-24T08:49:24.809Z"
+    },
+    "R-FGAQ010||KAHATAGASDIGILIYA": {
+      "remark": "65%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:20:40",
+      "lastUpdated": "2026-08-24T08:50:40.746Z"
+    },
+    "RMG-SMART||KAHATAGASDIGILIYA": {
+      "remark": "70%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:20:59",
+      "lastUpdated": "2026-08-24T08:50:59.645Z"
     }
   },
   "showroomVisits": {
@@ -43216,6 +43230,20 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:20:59",
+      "iso": "2026-08-24T08:50:59.648Z",
+      "action": "updated remark for RMG-SMART at KAHATAGASDIGILIYA: “70%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:20:40",
+      "iso": "2026-08-24T08:50:40.749Z",
+      "action": "updated remark for R-FGAQ010 at KAHATAGASDIGILIYA: “65%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "14:19:24",
@@ -43550,20 +43578,6 @@
       "time": "13:56:40",
       "iso": "2026-08-24T08:26:40.214Z",
       "action": "updated remark for LF-PLUTOTV-S at GINIGATHHENA: “Damaged 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:56:33",
-      "iso": "2026-08-24T08:26:33.037Z",
-      "action": "updated remark for LF-PLUTOTV-S at GINIGATHHENA: “Damaged 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:56:26",
-      "iso": "2026-08-24T08:26:26.908Z",
-      "action": "updated remark for LF-R90-2S-AGO-S at GINIGATHHENA: “Damaged”"
     }
   ]
 }
