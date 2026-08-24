@@ -38221,11 +38221,11 @@
       "lastUpdated": "2026-08-24T06:53:33.978Z"
     },
     "LF-CT-S||MELSIRIPURA": {
-      "remark": "Damaged - 50%",
+      "remark": "Damaged - 60%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-24",
-      "commentTime": "12:23:14",
-      "lastUpdated": "2026-08-24T06:53:14.209Z"
+      "commentTime": "12:23:48",
+      "lastUpdated": "2026-08-24T06:53:48.321Z"
     },
     "FAN-P-SF1605HR||GALENBIDUNUWEWA": {
       "remark": "65%",
@@ -39264,6 +39264,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:23:48",
+      "iso": "2026-08-24T06:53:48.321Z",
+      "action": "updated remark for LF-CT-S at MELSIRIPURA: “Damaged - 60%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "12:23:47",
@@ -39605,13 +39612,6 @@
       "time": "12:18:03",
       "iso": "2026-08-24T06:48:03.448Z",
       "action": "updated remark for SLE40D600A at WARAKAPOLA: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:17:59",
-      "iso": "2026-08-24T06:47:59.967Z",
-      "action": "updated sold comment for SLE40D600A at WARAKAPOLA (cleared)"
     }
   ]
 }
