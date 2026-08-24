@@ -38226,6 +38226,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:23:14",
       "lastUpdated": "2026-08-24T06:53:14.209Z"
+    },
+    "FAN-P-SF1605HR||GALENBIDUNUWEWA": {
+      "remark": "65%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:23:45",
+      "lastUpdated": "2026-08-24T06:53:45.551Z"
+    },
+    "KDK-A40B||GALENBIDUNUWEWA": {
+      "remark": "Add 15%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:24:01",
+      "lastUpdated": "2026-08-24T06:54:01.924Z"
     }
   },
   "showroomVisits": {
@@ -39236,6 +39250,27 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:24:01",
+      "iso": "2026-08-24T06:54:01.927Z",
+      "action": "updated remark for KDK-A40B at GALENBIDUNUWEWA: “Add 15%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:23:45",
+      "iso": "2026-08-24T06:53:45.554Z",
+      "action": "updated remark for FAN-P-SF1605HR at GALENBIDUNUWEWA: “65%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:23:19",
+      "iso": "2026-08-24T06:53:19.992Z",
+      "action": "updated remark for FAN-P-SF1605HR at GALENBIDUNUWEWA: “65%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:23:14",
@@ -39563,27 +39598,6 @@
       "time": "12:17:46",
       "iso": "2026-08-24T06:47:46.483Z",
       "action": "updated remark for APS-300KG at MELSIRIPURA: “Damaged - 30%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:18:15",
-      "iso": "2026-08-24T06:48:15.430Z",
-      "action": "updated remark for BY-L-EXP at YATIYANTHOTA: “90% offered. Product damaged”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:17:04",
-      "iso": "2026-08-24T06:47:04.447Z",
-      "action": "updated remark for GTK-PG10 at YATIYANTHOTA: “Only radio working. 65% discount offer”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:17:32",
-      "iso": "2026-08-24T06:47:32.496Z",
-      "action": "updated remark for WFI-NORMAN-CHR2-S at SHOMES- MATALE: “Damaged - 30%”"
     }
   ]
 }
