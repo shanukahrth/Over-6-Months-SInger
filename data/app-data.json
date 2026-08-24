@@ -44528,6 +44528,22 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "BATTICALOA||BATTICALOA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "Mangalesh and Gayan ",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
+    },
+    "BATTICALOA B||BATTICALOA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -44635,6 +44651,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "15:13:30",
+      "iso": "2026-08-24T09:43:30.700Z",
+      "action": "updated BATTICALOA B showroom (visited: Yes)"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "15:13:29",
+      "iso": "2026-08-24T09:43:29.486Z",
+      "action": "updated BATTICALOA showroom (team: Mangalesh and Gayan )"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
@@ -44970,20 +45000,6 @@
       "time": "15:00:27",
       "iso": "2026-08-24T09:30:27.712Z",
       "action": "updated remark for SMG-A17-8-128-BLU at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "15:00:22",
-      "iso": "2026-08-24T09:30:22.998Z",
-      "action": "updated remark for SMG-A17-8-128-BLU at WENNAPPUWA: “Display - 15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:00:17",
-      "iso": "2026-08-24T09:30:17.226Z",
-      "action": "updated remark for SLE32E810 at RAGAMA: “70%”"
     }
   ]
 }
