@@ -46913,6 +46913,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:45:36",
       "lastUpdated": "2026-08-24T15:15:36.421Z"
+    },
+    "LF-ORGN-BDQ-WHT||NIKAWERATIYA": {
+      "remark": "Display / Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:47:03",
+      "lastUpdated": "2026-08-24T15:17:03.749Z"
     }
   },
   "showroomVisits": {
@@ -48203,6 +48210,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:47:03",
+      "iso": "2026-08-24T15:17:03.751Z",
+      "action": "updated remark for LF-ORGN-BDQ-WHT at NIKAWERATIYA: “Display / Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:45:36",
       "iso": "2026-08-24T15:15:36.422Z",
       "action": "updated remark for WFL-PLWKP-16X24 at NIKAWERATIYA: “Damaged - 50%”"
@@ -48542,13 +48556,6 @@
       "time": "19:41:12",
       "iso": "2026-08-24T14:11:12.234Z",
       "action": "updated remark for MB-SAFARI4S-RED at NIKAWERATIYA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:38:13",
-      "iso": "2026-08-24T14:08:13.419Z",
-      "action": "updated remark for SLE24E910 at MAHO: “Damaged - 90%”"
     }
   ]
 }
