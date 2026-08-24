@@ -40270,6 +40270,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:00:50",
       "lastUpdated": "2026-08-24T07:30:50.696Z"
+    },
+    "MHC-M40D||WARAKAPOLA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:00:58",
+      "lastUpdated": "2026-08-24T07:30:58.044Z"
     }
   },
   "showroomVisits": {
@@ -41280,6 +41287,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "13:00:58",
+      "iso": "2026-08-24T07:30:58.046Z",
+      "action": "updated remark for MHC-M40D at WARAKAPOLA: “60%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "13:00:50",
@@ -41621,13 +41635,6 @@
       "time": "12:46:17",
       "iso": "2026-08-24T07:16:17.106Z",
       "action": "updated remark for SDV838HDVT at WARAKAPOLA: “2000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:45:34",
-      "iso": "2026-08-24T07:15:34.058Z",
-      "action": "updated remark for SDV3605K at WARAKAPOLA: “2000”"
     }
   ]
 }
