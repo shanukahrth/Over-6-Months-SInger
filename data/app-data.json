@@ -45163,6 +45163,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:38:42",
       "lastUpdated": "2026-08-24T11:08:42.939Z"
+    },
+    "HFPA-MUSICBOX-BLC||GALEWELA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:38:09",
+      "lastUpdated": "2026-08-24T11:08:09.437Z"
+    },
+    "HFPA-MUSICBOX-SLV||GALEWELA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:38:11",
+      "lastUpdated": "2026-08-24T11:08:11.663Z"
     }
   },
   "showroomVisits": {
@@ -46451,6 +46465,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "16:38:11",
+      "iso": "2026-08-24T11:08:11.665Z",
+      "action": "updated remark for HFPA-MUSICBOX-SLV at GALEWELA: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "16:38:09",
+      "iso": "2026-08-24T11:08:09.438Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at GALEWELA: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "16:38:08",
+      "iso": "2026-08-24T11:08:08.057Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at GALEWELA: “Damaged - 40%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "16:38:42",
@@ -46778,27 +46813,6 @@
       "time": "16:32:50",
       "iso": "2026-08-24T11:02:50.958Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KOTIYAKUMBURA: “Can sell”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "16:32:22",
-      "iso": "2026-08-24T11:02:22.109Z",
-      "action": "updated remark for SMG-SM-X115-GRY at GALEWELA: “Return to Warehouse”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "16:32:16",
-      "iso": "2026-08-24T11:02:16.402Z",
-      "action": "updated remark for SMG-A56-5G-8-256-BLK at GALEWELA: “Damaged - 20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "16:32:08",
-      "iso": "2026-08-24T11:02:08.472Z",
-      "action": "updated remark for SMG-A36-5G-12-256-BLK at GALEWELA: “Damaged - 20%”"
     }
   ]
 }
