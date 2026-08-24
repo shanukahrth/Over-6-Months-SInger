@@ -45310,6 +45310,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:42:11",
       "lastUpdated": "2026-08-24T11:12:11.067Z"
+    },
+    "RIYLTA-MF12V51A||GALEWELA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:42:36",
+      "lastUpdated": "2026-08-24T11:12:36.072Z"
     }
   },
   "showroomVisits": {
@@ -46600,6 +46607,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "16:42:36",
+      "iso": "2026-08-24T11:12:36.072Z",
+      "action": "updated remark for RIYLTA-MF12V51A at GALEWELA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "16:42:11",
       "iso": "2026-08-24T11:12:11.068Z",
       "action": "updated remark for RIYLTA-MF12V5 at GALEWELA: “Damaged - 90%”"
@@ -46939,13 +46953,6 @@
       "time": "16:33:23",
       "iso": "2026-08-24T11:03:23.428Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at KEBITHIGOLLEWA: “Sold”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:33:08",
-      "iso": "2026-08-24T11:03:08.196Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at KEBITHIGOLLEWA: “30%”"
     }
   ]
 }
