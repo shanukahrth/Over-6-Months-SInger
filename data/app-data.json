@@ -44132,15 +44132,15 @@
       "remark": "Damaged - 85%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-24",
-      "commentTime": "15:56:42",
-      "lastUpdated": "2026-08-24T10:26:42.117Z"
+      "commentTime": "16:08:39",
+      "lastUpdated": "2026-08-24T10:38:39.684Z"
     },
     "SLE40E810C||WENNAPPUWA": {
       "remark": "Damaged - 85%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-24",
-      "commentTime": "15:56:48",
-      "lastUpdated": "2026-08-24T10:26:48.244Z"
+      "commentTime": "16:08:43",
+      "lastUpdated": "2026-08-24T10:38:43.803Z"
     },
     "WFL-SPM-72X72X7-S||KOTIYAKUMBURA": {
       "remark": "Exchange. Wearhouse return.",
@@ -45653,6 +45653,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:08:43",
+      "iso": "2026-08-24T10:38:43.804Z",
+      "action": "updated remark for SLE40E810C at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:08:39",
+      "iso": "2026-08-24T10:38:39.686Z",
+      "action": "updated remark for SLE40D600A at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "16:08:30",
@@ -45987,20 +46001,6 @@
       "time": "15:57:47",
       "iso": "2026-08-24T10:27:47.966Z",
       "action": "updated remark for WFL-SPM-72X60X7-S at KOTIYAKUMBURA: “Exchange. Wearhouse return.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:57:31",
-      "iso": "2026-08-24T10:27:31.228Z",
-      "action": "updated remark for WFL-SPM-72X72X7-S at KOTIYAKUMBURA: “Exchange. Wearhouse return”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "15:56:48",
-      "iso": "2026-08-24T10:26:48.245Z",
-      "action": "updated remark for SLE40E810C at WENNAPPUWA: “Damaged - 85%”"
     }
   ]
 }
