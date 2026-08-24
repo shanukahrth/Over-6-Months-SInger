@@ -37346,11 +37346,11 @@
       "lastUpdated": "2026-08-24T06:26:52.295Z"
     },
     "TF-NIDFP24-170||MATALE": {
-      "remark": "Damaged - 35%",
+      "remark": "Damaged - 40%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-24",
-      "commentTime": "11:57:43",
-      "lastUpdated": "2026-08-24T06:27:43.996Z"
+      "commentTime": "12:11:05",
+      "lastUpdated": "2026-08-24T06:41:05.510Z"
     },
     "SL-ECO55||WARAKAPOLA": {
       "remark": "Transfer Not Completed",
@@ -38757,6 +38757,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "12:11:05",
+      "iso": "2026-08-24T06:41:05.511Z",
+      "action": "updated remark for TF-NIDFP24-170 at MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "12:10:57",
       "iso": "2026-08-24T06:40:57.784Z",
       "action": "updated remark for TF-GS-SPKT302 at MATALE: “Damaged - 40%”"
@@ -39096,13 +39103,6 @@
       "time": "12:02:08",
       "iso": "2026-08-24T06:32:08.101Z",
       "action": "updated remark for OF-SW22-S at SHOMES- MATALE: “Damaged - 30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:02:01",
-      "iso": "2026-08-24T06:32:01.147Z",
-      "action": "updated remark for OF-COMT-S-S at SHOMES- MATALE: “Damaged - 30%”"
     }
   ]
 }
