@@ -34483,18 +34483,11 @@
       "lastUpdated": "2026-08-24T03:30:37.897Z"
     },
     "SASI12INFI||RUWANWELLA": {
-      "remark": "60%",
+      "remark": "60% 108,000",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "09:01:10",
-      "lastUpdated": "2026-08-24T03:31:10.123Z"
-    },
-    "HFPA-MUSICBOX-BLC||RUWANWELLA": {
-      "remark": "108,000",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-24",
-      "commentTime": "09:01:18",
-      "lastUpdated": "2026-08-24T03:31:18.370Z"
+      "commentTime": "09:01:52",
+      "lastUpdated": "2026-08-24T03:31:52.740Z"
     },
     "TF-SP16-063||KANDANA": {
       "remark": "Already Provided",
@@ -35476,6 +35469,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "09:01:52",
+      "iso": "2026-08-24T03:31:52.744Z",
+      "action": "updated remark for SASI12INFI at RUWANWELLA: “60% 108,000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "09:01:46",
+      "iso": "2026-08-24T03:31:46.127Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at RUWANWELLA (cleared)"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:01:09",
@@ -35810,20 +35817,6 @@
       "time": "08:32:38",
       "iso": "2026-08-24T03:02:38.263Z",
       "action": "updated remark for SLE32E710 at KANDANA: “Exchange PO pending”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:32:10",
-      "iso": "2026-08-24T03:02:10.798Z",
-      "action": "updated remark for SLE32D2010TC at KANDANA: “Reported”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:32:01",
-      "iso": "2026-08-24T03:02:01.512Z",
-      "action": "updated remark for SLE32D2010TC at KANDANA: “Exchange PO pending”"
     }
   ]
 }
