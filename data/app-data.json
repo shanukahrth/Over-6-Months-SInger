@@ -40592,6 +40592,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:57:31",
       "lastUpdated": "2026-08-24T08:27:31.676Z"
+    },
+    "LF-LEO-HCUP-BCH||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:57:59",
+      "lastUpdated": "2026-08-24T08:27:59.306Z"
     }
   },
   "showroomVisits": {
@@ -41604,6 +41611,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "13:57:59",
+      "iso": "2026-08-24T08:27:59.307Z",
+      "action": "updated remark for LF-LEO-HCUP-BCH at RAGAMA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "13:57:31",
       "iso": "2026-08-24T08:27:31.679Z",
       "action": "updated remark for LF-LEO-BRM-WNG at RAGAMA: “50%”"
@@ -41943,13 +41957,6 @@
       "time": "13:02:35",
       "iso": "2026-08-24T07:32:35.545Z",
       "action": "updated remark for WP-SS-SUB1-S at YATIYANTHOTA: “50% offered. Clearance sale”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "13:01:41",
-      "iso": "2026-08-24T07:31:41.839Z",
-      "action": "updated remark for MID-MG-GP45B at WARAKAPOLA: “-”"
     }
   ]
 }
