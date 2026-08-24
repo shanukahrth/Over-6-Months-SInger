@@ -46927,6 +46927,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:47:39",
       "lastUpdated": "2026-08-24T15:17:39.542Z"
+    },
+    "B-CFB9433XH||NIKAWERATIYA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:47:57",
+      "lastUpdated": "2026-08-24T15:17:57.994Z"
     }
   },
   "showroomVisits": {
@@ -48217,6 +48224,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:47:57",
+      "iso": "2026-08-24T15:17:57.996Z",
+      "action": "updated remark for B-CFB9433XH at NIKAWERATIYA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:47:39",
       "iso": "2026-08-24T15:17:39.544Z",
       "action": "updated remark for GTK-PG10 at NIKAWERATIYA: “Damaged - 70% (Battery & Bluetooth Issue)”"
@@ -48556,13 +48570,6 @@
       "time": "19:42:11",
       "iso": "2026-08-24T14:12:11.579Z",
       "action": "updated remark for SL-TF2GCR at NIKAWERATIYA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:41:56",
-      "iso": "2026-08-24T14:11:56.526Z",
-      "action": "updated remark for SLE32E930 at NIKAWERATIYA: “Revert / Damaged - 90%”"
     }
   ]
 }
