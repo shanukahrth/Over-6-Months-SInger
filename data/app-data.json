@@ -46535,6 +46535,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "19:12:09",
       "lastUpdated": "2026-08-24T13:42:09.285Z"
+    },
+    "SS-PS16-AG||POLPITHIGAMA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "19:12:53",
+      "lastUpdated": "2026-08-24T13:42:53.417Z"
     }
   },
   "showroomVisits": {
@@ -47825,6 +47832,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "19:12:53",
+      "iso": "2026-08-24T13:42:53.420Z",
+      "action": "updated remark for SS-PS16-AG at POLPITHIGAMA: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "19:12:09",
       "iso": "2026-08-24T13:42:09.286Z",
       "action": "updated remark for SWM-FA70R at POLPITHIGAMA: “Revert / Damaged - 70%”"
@@ -48164,13 +48178,6 @@
       "time": "18:37:34",
       "iso": "2026-08-24T13:07:34.822Z",
       "action": "updated remark for KA-MIXEE-N at POLPITHIGAMA: “Display/ Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "18:37:27",
-      "iso": "2026-08-24T13:07:27.427Z",
-      "action": "updated remark for SMW823AY7 at GALEWELA: “Damaged - 40%”"
     }
   ]
 }
