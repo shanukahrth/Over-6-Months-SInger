@@ -43838,6 +43838,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "MEDIRIGIRIYA||POLONNARUWA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43945,6 +43953,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:46:09",
+      "iso": "2026-08-24T09:16:09.508Z",
+      "action": "updated MEDIRIGIRIYA showroom (visited: Yes)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -44287,13 +44302,6 @@
       "time": "14:37:34",
       "iso": "2026-08-24T09:07:34.214Z",
       "action": "updated remark for WC-IK609 at KAHATAGASDIGILIYA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:36:50",
-      "iso": "2026-08-24T09:06:50.434Z",
-      "action": "updated remark for HRW-KR102 at WARAKAPOLA: “60%”"
     }
   ]
 }
