@@ -34341,6 +34341,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:43:46",
       "lastUpdated": "2026-08-24T03:13:46.605Z"
+    },
+    "TCL205G-6-128-MIGRY||KANDANA": {
+      "remark": "Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:44:09",
+      "lastUpdated": "2026-08-24T03:14:09.917Z"
     }
   },
   "showroomVisits": {
@@ -35317,6 +35324,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:44:09",
+      "iso": "2026-08-24T03:14:09.918Z",
+      "action": "updated remark for TCL205G-6-128-MIGRY at KANDANA: “Return to WH”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:43:46",
       "iso": "2026-08-24T03:13:46.607Z",
       "action": "updated remark for SWM-FA70R at KANDANA: “60%”"
@@ -35656,13 +35670,6 @@
       "time": "08:24:09",
       "iso": "2026-08-24T02:54:09.966Z",
       "action": "updated remark for PM-COMP-PSU at KANDANA: “Shop use”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:23:51",
-      "iso": "2026-08-24T02:53:51.889Z",
-      "action": "updated remark for PM-COMP-4 at KANDANA: “Shop use”"
     }
   ]
 }
