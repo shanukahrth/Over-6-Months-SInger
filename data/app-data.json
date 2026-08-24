@@ -45709,6 +45709,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:10:11",
       "lastUpdated": "2026-08-24T12:40:11.608Z"
+    },
+    "SL-WD7004||NAULA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:10:31",
+      "lastUpdated": "2026-08-24T12:40:31.061Z"
     }
   },
   "showroomVisits": {
@@ -46999,6 +47006,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:10:31",
+      "iso": "2026-08-24T12:40:31.062Z",
+      "action": "updated remark for SL-WD7004 at NAULA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:10:11",
       "iso": "2026-08-24T12:40:11.609Z",
       "action": "updated remark for SL-SF1607 at NAULA: “Damaged - 85%”"
@@ -47338,13 +47352,6 @@
       "time": "17:55:04",
       "iso": "2026-08-24T12:25:04.525Z",
       "action": "updated remark for ZTE-V50DESIGN-8-256GB-B at NAULA: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:54:58",
-      "iso": "2026-08-24T12:24:58.444Z",
-      "action": "updated remark for ZTE-A34-2-64GB-GRE at NAULA: “Damaged - 85%”"
     }
   ]
 }
