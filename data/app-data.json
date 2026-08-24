@@ -42727,6 +42727,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:43:57",
       "lastUpdated": "2026-08-24T09:13:57.514Z"
+    },
+    "KLV-48W652D||WARAKAPOLA": {
+      "remark": "SC PO Released",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:41:39",
+      "lastUpdated": "2026-08-24T09:11:39.566Z"
+    },
+    "KV-4WTS7M||WARAKAPOLA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:44:50",
+      "lastUpdated": "2026-08-24T09:14:50.728Z"
     }
   },
   "showroomVisits": {
@@ -43885,6 +43899,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "14:44:50",
+      "iso": "2026-08-24T09:14:50.730Z",
+      "action": "updated remark for KV-4WTS7M at WARAKAPOLA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "14:41:39",
+      "iso": "2026-08-24T09:11:39.568Z",
+      "action": "updated remark for KLV-48W652D at WARAKAPOLA: “SC PO Released”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
       "time": "14:44:38",
@@ -44219,20 +44247,6 @@
       "time": "14:35:53",
       "iso": "2026-08-24T09:05:53.015Z",
       "action": "updated remark for SLE43G690 at KAHATAGASDIGILIYA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:35:19",
-      "iso": "2026-08-24T09:05:19.849Z",
-      "action": "updated remark for SLE43D1800TC at KAHATAGASDIGILIYA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:33:47",
-      "iso": "2026-08-24T09:03:47.616Z",
-      "action": "updated remark for SKY32STD1000 at KAHATAGASDIGILIYA: “70%”"
     }
   ]
 }
