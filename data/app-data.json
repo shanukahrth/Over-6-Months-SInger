@@ -46677,11 +46677,25 @@
       "lastUpdated": "2026-08-24T14:12:11.578Z"
     },
     "SLE32E910||NIKAWERATIYA": {
-      "remark": "Okay",
+      "remark": "Revert / Damaged - 90%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-24",
-      "commentTime": "19:43:03",
-      "lastUpdated": "2026-08-24T14:13:03.202Z"
+      "commentTime": "19:43:32",
+      "lastUpdated": "2026-08-24T14:13:32.366Z"
+    },
+    "SLE32D5000||NIKAWERATIYA": {
+      "remark": "Revert / Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "19:43:30",
+      "lastUpdated": "2026-08-24T14:13:30.135Z"
+    },
+    "SLE32D1800||NIKAWERATIYA": {
+      "remark": "Revert / Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "19:43:35",
+      "lastUpdated": "2026-08-24T14:13:35.094Z"
     }
   },
   "showroomVisits": {
@@ -47972,6 +47986,27 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "19:43:35",
+      "iso": "2026-08-24T14:13:35.095Z",
+      "action": "updated remark for SLE32D1800 at NIKAWERATIYA: “Revert / Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "19:43:32",
+      "iso": "2026-08-24T14:13:32.367Z",
+      "action": "updated remark for SLE32E910 at NIKAWERATIYA: “Revert / Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "19:43:30",
+      "iso": "2026-08-24T14:13:30.136Z",
+      "action": "updated remark for SLE32D5000 at NIKAWERATIYA: “Revert / Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "19:43:03",
       "iso": "2026-08-24T14:13:03.204Z",
       "action": "updated remark for SLE32E910 at NIKAWERATIYA: “Okay”"
@@ -48297,27 +48332,6 @@
       "time": "18:52:36",
       "iso": "2026-08-24T13:22:36.381Z",
       "action": "updated remark for RIYLTA-MF12V53B at POLPITHIGAMA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:49:17",
-      "iso": "2026-08-24T13:19:17.602Z",
-      "action": "updated remark for PF-MONDY-RED at POLPITHIGAMA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:48:22",
-      "iso": "2026-08-24T13:18:22.306Z",
-      "action": "updated remark for NCPO-DC200 at POLPITHIGAMA: “Damaged - 30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:48:21",
-      "iso": "2026-08-24T13:18:21.521Z",
-      "action": "updated remark for NCPO-DC200 at POLPITHIGAMA: “Damaged - 30%”"
     }
   ]
 }
