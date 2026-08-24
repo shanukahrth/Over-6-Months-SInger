@@ -46213,6 +46213,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:36:53",
       "lastUpdated": "2026-08-24T13:06:53.215Z"
+    },
+    "SLMC-18DSLHS||GALEWELA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:37:08",
+      "lastUpdated": "2026-08-24T13:07:08.271Z"
     }
   },
   "showroomVisits": {
@@ -47503,6 +47510,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "18:37:08",
+      "iso": "2026-08-24T13:07:08.272Z",
+      "action": "updated remark for SLMC-18DSLHS at GALEWELA: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "18:36:53",
       "iso": "2026-08-24T13:06:53.219Z",
       "action": "updated remark for SLE40D600A at GALEWELA: “Free Issue”"
@@ -47842,13 +47856,6 @@
       "time": "18:21:21",
       "iso": "2026-08-24T12:51:21.165Z",
       "action": "updated remark for WF-SP-10345-S at NAULA: “Damaged - 65%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:21:16",
-      "iso": "2026-08-24T12:51:16.484Z",
-      "action": "updated remark for WF-SKY-211-MR-S at NAULA: “Damaged - 65%”"
     }
   ]
 }
