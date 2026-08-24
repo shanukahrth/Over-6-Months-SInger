@@ -39437,6 +39437,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:31:41",
       "lastUpdated": "2026-08-24T07:01:41.677Z"
+    },
+    "WF-DUNE-01-S||YATIYANTHOTA": {
+      "remark": "Flood. 90% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:31:59",
+      "lastUpdated": "2026-08-24T07:01:59.031Z"
+    },
+    "HW-LDR-112D||YATIYANTHOTA": {
+      "remark": "Shop use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:32:14",
+      "lastUpdated": "2026-08-24T07:02:14.076Z"
     }
   },
   "showroomVisits": {
@@ -40447,6 +40461,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:32:14",
+      "iso": "2026-08-24T07:02:14.085Z",
+      "action": "updated remark for HW-LDR-112D at YATIYANTHOTA: “Shop use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:31:59",
+      "iso": "2026-08-24T07:01:59.036Z",
+      "action": "updated remark for WF-DUNE-01-S at YATIYANTHOTA: “Flood. 90% offered”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:31:41",
@@ -40781,20 +40809,6 @@
       "time": "12:10:43",
       "iso": "2026-08-24T06:40:43.137Z",
       "action": "updated remark for SLE28D2730 at NAWALAPITIYA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:10:39",
-      "iso": "2026-08-24T06:40:39.869Z",
-      "action": "updated remark for SLE24D1000 at NAWALAPITIYA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:10:37",
-      "iso": "2026-08-24T06:40:37.196Z",
-      "action": "updated remark for SLE24B2900 at NAWALAPITIYA: “90%”"
     }
   ]
 }
