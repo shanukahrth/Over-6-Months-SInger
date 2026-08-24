@@ -34397,6 +34397,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:49:40",
       "lastUpdated": "2026-08-24T03:19:40.051Z"
+    },
+    "TF-IDFP24-170||KANDANA": {
+      "remark": "Already Provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:50:00",
+      "lastUpdated": "2026-08-24T03:20:00.084Z"
     }
   },
   "showroomVisits": {
@@ -35373,6 +35380,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:50:00",
+      "iso": "2026-08-24T03:20:00.085Z",
+      "action": "updated remark for TF-IDFP24-170 at KANDANA: “Already Provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:49:40",
       "iso": "2026-08-24T03:19:40.052Z",
       "action": "updated remark for TF-GS-SPKT302 at KANDANA: “15%”"
@@ -35712,13 +35726,6 @@
       "time": "08:27:29",
       "iso": "2026-08-24T02:57:29.882Z",
       "action": "updated remark for RIYLTA-MF12V5 at KANDANA (cleared)"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:27:25",
-      "iso": "2026-08-24T02:57:25.087Z",
-      "action": "updated remark for RIYLTA-MF12V5 at KANDANA: “RIYLTA-MF12V5”"
     }
   ]
 }
