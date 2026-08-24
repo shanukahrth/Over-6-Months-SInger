@@ -42944,6 +42944,14 @@
       "remark": "",
       "updatedBy": "Mihini Perera",
       "updatedDate": "2026-08-20"
+    },
+    "NAWALAPITIYA||GAMPOLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43051,6 +43059,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "14:17:41",
+      "iso": "2026-08-24T08:47:41.966Z",
+      "action": "updated NAWALAPITIYA showroom (visited: Yes)"
+    },
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
@@ -43393,13 +43408,6 @@
       "time": "13:46:28",
       "iso": "2026-08-24T08:16:28.087Z",
       "action": "updated remark for SLE43D1800TC at GINIGATHHENA: “Damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:46:25",
-      "iso": "2026-08-24T08:16:25.823Z",
-      "action": "updated remark for SLE42D2070TC at GINIGATHHENA: “Damaged 90%”"
     }
   ]
 }
