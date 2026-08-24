@@ -34593,6 +34593,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:06:34",
       "lastUpdated": "2026-08-24T03:36:34.856Z"
+    },
+    "WF-CAMELIA-DTO-S||KANDANA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:07:26",
+      "lastUpdated": "2026-08-24T03:37:26.932Z"
     }
   },
   "showroomVisits": {
@@ -35569,6 +35576,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "09:07:26",
+      "iso": "2026-08-24T03:37:26.935Z",
+      "action": "updated remark for WF-CAMELIA-DTO-S at KANDANA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "09:06:34",
       "iso": "2026-08-24T03:36:34.857Z",
       "action": "updated remark for WC-IK609 at KANDANA: “Shop use”"
@@ -35908,13 +35922,6 @@
       "time": "08:39:53",
       "iso": "2026-08-24T03:09:53.291Z",
       "action": "updated remark for SMG-A17-8-256-GRY at KANDANA: “15% - Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:39:09",
-      "iso": "2026-08-24T03:09:09.708Z",
-      "action": "updated remark for SMG-A17-8-256-GRY at KANDANA: “No discount”"
     }
   ]
 }
