@@ -44087,11 +44087,11 @@
       "lastUpdated": "2026-08-24T10:25:15.461Z"
     },
     "WFL-SPM-72X60X7-S||KOTIYAKUMBURA": {
-      "remark": "Exchange. Wearhouse return",
+      "remark": "Exchange. Wearhouse return.",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "15:57:13",
-      "lastUpdated": "2026-08-24T10:27:13.185Z"
+      "commentTime": "15:57:49",
+      "lastUpdated": "2026-08-24T10:27:49.980Z"
     },
     "SL-PB-426||WENNAPPUWA": {
       "remark": "Damaged - 40%",
@@ -44143,11 +44143,11 @@
       "lastUpdated": "2026-08-24T10:26:48.244Z"
     },
     "WFL-SPM-72X72X7-S||KOTIYAKUMBURA": {
-      "remark": "Exchange. Wearhouse return",
+      "remark": "Exchange. Wearhouse return.",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "15:57:31",
-      "lastUpdated": "2026-08-24T10:27:31.224Z"
+      "commentTime": "15:57:52",
+      "lastUpdated": "2026-08-24T10:27:52.970Z"
     }
   },
   "showroomVisits": {
@@ -45438,6 +45438,27 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "15:57:52",
+      "iso": "2026-08-24T10:27:52.974Z",
+      "action": "updated remark for WFL-SPM-72X72X7-S at KOTIYAKUMBURA: “Exchange. Wearhouse return.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "15:57:49",
+      "iso": "2026-08-24T10:27:49.984Z",
+      "action": "updated remark for WFL-SPM-72X60X7-S at KOTIYAKUMBURA: “Exchange. Wearhouse return.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "15:57:47",
+      "iso": "2026-08-24T10:27:47.966Z",
+      "action": "updated remark for WFL-SPM-72X60X7-S at KOTIYAKUMBURA: “Exchange. Wearhouse return.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "15:57:31",
       "iso": "2026-08-24T10:27:31.228Z",
       "action": "updated remark for WFL-SPM-72X72X7-S at KOTIYAKUMBURA: “Exchange. Wearhouse return”"
@@ -45763,27 +45784,6 @@
       "time": "15:41:00",
       "iso": "2026-08-24T10:11:00.132Z",
       "action": "updated remark for FT-FSD-036L01 at HOROWPATHANA: “80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:40:09",
-      "iso": "2026-08-24T10:10:09.173Z",
-      "action": "updated remark for WP-WDC11704RG-G at RAGAMA: “Additional 10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:40:35",
-      "iso": "2026-08-24T10:10:35.209Z",
-      "action": "updated remark for SRS-XP500 at KOTIYAKUMBURA: “60% offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "15:40:15",
-      "iso": "2026-08-24T10:10:15.845Z",
-      "action": "updated remark for UR591SW at KOTIYAKUMBURA: “Damaged. Can't repair. 90% discount offered to report”"
     }
   ]
 }
