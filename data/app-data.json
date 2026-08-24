@@ -46500,6 +46500,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "19:07:14",
       "lastUpdated": "2026-08-24T13:37:14.100Z"
+    },
+    "LF-LEO-SCUP-BCH||POLPITHIGAMA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "19:08:15",
+      "lastUpdated": "2026-08-24T13:38:15.265Z"
     }
   },
   "showroomVisits": {
@@ -47790,6 +47797,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "19:08:15",
+      "iso": "2026-08-24T13:38:15.267Z",
+      "action": "updated remark for LF-LEO-SCUP-BCH at POLPITHIGAMA: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "19:07:14",
       "iso": "2026-08-24T13:37:14.102Z",
       "action": "updated remark for TF-NIGP26-119 at POLPITHIGAMA: “Okay”"
@@ -48129,13 +48143,6 @@
       "time": "18:36:32",
       "iso": "2026-08-24T13:06:32.936Z",
       "action": "updated remark for IND-PR752WIWH at POLPITHIGAMA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:35:56",
-      "iso": "2026-08-24T13:05:56.957Z",
-      "action": "updated remark for GEO-182S-BU1 at POLPITHIGAMA: “Revert / Damaged - 60%”"
     }
   ]
 }
