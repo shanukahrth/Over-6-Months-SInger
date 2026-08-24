@@ -45828,6 +45828,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:16:50",
       "lastUpdated": "2026-08-24T12:46:50.173Z"
+    },
+    "STT-KGT200||NAULA": {
+      "remark": "Revert /Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:17:21",
+      "lastUpdated": "2026-08-24T12:47:21.797Z"
     }
   },
   "showroomVisits": {
@@ -47118,6 +47125,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:17:21",
+      "iso": "2026-08-24T12:47:21.798Z",
+      "action": "updated remark for STT-KGT200 at NAULA: “Revert /Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:16:50",
       "iso": "2026-08-24T12:46:50.174Z",
       "action": "updated remark for SS-PS16-AG at NAULA: “Damaged - 70%”"
@@ -47457,13 +47471,6 @@
       "time": "18:02:53",
       "iso": "2026-08-24T12:32:53.725Z",
       "action": "updated remark for OF-SW22-S at NAULA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:02:37",
-      "iso": "2026-08-24T12:32:37.496Z",
-      "action": "updated remark for NCPO-FP280 at NAULA: “Damaged - 40%”"
     }
   ]
 }
