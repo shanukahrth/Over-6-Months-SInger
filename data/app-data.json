@@ -37351,6 +37351,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:57:43",
       "lastUpdated": "2026-08-24T06:27:43.996Z"
+    },
+    "SL-ECO55||WARAKAPOLA": {
+      "remark": "Transfer Not Completed",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:57:46",
+      "lastUpdated": "2026-08-24T06:27:46.783Z"
+    },
+    "SL-ECO55-SV||WARAKAPOLA": {
+      "remark": "25%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:57:52",
+      "lastUpdated": "2026-08-24T06:27:52.107Z"
     }
   },
   "showroomVisits": {
@@ -38325,6 +38339,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "11:57:52",
+      "iso": "2026-08-24T06:27:52.108Z",
+      "action": "updated remark for SL-ECO55-SV at WARAKAPOLA: “25%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "11:57:46",
+      "iso": "2026-08-24T06:27:46.785Z",
+      "action": "updated remark for SL-ECO55 at WARAKAPOLA: “Transfer Not Completed”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "11:57:43",
@@ -38659,20 +38687,6 @@
       "time": "11:47:57",
       "iso": "2026-08-24T06:17:57.918Z",
       "action": "updated remark for DH-IPC-F2CP-LED-0360B at SHOMES- MATALE (cleared)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:47:56",
-      "iso": "2026-08-24T06:17:56.235Z",
-      "action": "updated remark for DH-A-HFW1239TLMP-LED-36B at SHOMES- MATALE (cleared)"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:47:54",
-      "iso": "2026-08-24T06:17:54.860Z",
-      "action": "updated remark for SL-GSE-S001 at MATALE: “Ok”"
     }
   ]
 }
