@@ -34460,6 +34460,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:58:27",
       "lastUpdated": "2026-08-24T03:28:27.317Z"
+    },
+    "TF-SI-EXS1230||KANDANA": {
+      "remark": "15%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:58:47",
+      "lastUpdated": "2026-08-24T03:28:47.974Z"
     }
   },
   "showroomVisits": {
@@ -35436,6 +35443,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:58:47",
+      "iso": "2026-08-24T03:28:47.976Z",
+      "action": "updated remark for TF-SI-EXS1230 at KANDANA: “15%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:58:27",
       "iso": "2026-08-24T03:28:27.320Z",
       "action": "updated remark for TF-SI-ESS-242 at KANDANA: “15%”"
@@ -35775,13 +35789,6 @@
       "time": "08:30:12",
       "iso": "2026-08-24T03:00:12.769Z",
       "action": "updated remark for SIN-RFC-2058 at KANDANA: “10% - Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:29:54",
-      "iso": "2026-08-24T02:59:54.633Z",
-      "action": "updated remark for SIN-RFC-2012 at KANDANA: “10% - Additional”"
     }
   ]
 }
