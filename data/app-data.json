@@ -40552,11 +40552,11 @@
       "lastUpdated": "2026-08-24T08:25:19.773Z"
     },
     "WFL-CRYSTAL-72X60-S||BULATHKOHUPITIYA": {
-      "remark": "Damaged.",
+      "remark": "Damaged. Transfer to the damage location. 60% flat discount offered.",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "13:55:54",
-      "lastUpdated": "2026-08-24T08:25:54.947Z"
+      "commentTime": "13:57:00",
+      "lastUpdated": "2026-08-24T08:27:00.731Z"
     },
     "LF-LEO-LTAB-WNG-S||BULATHKOHUPITIYA": {
       "remark": "10% offered",
@@ -41588,6 +41588,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "13:57:00",
+      "iso": "2026-08-24T08:27:00.737Z",
+      "action": "updated remark for WFL-CRYSTAL-72X60-S at BULATHKOHUPITIYA: “Damaged. Transfer to the damage location. 60% flat discount offered.”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "13:56:40",
@@ -41929,13 +41936,6 @@
       "time": "13:01:24",
       "iso": "2026-08-24T07:31:24.928Z",
       "action": "updated remark for MHC-V13 at WARAKAPOLA: “60%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:01:39",
-      "iso": "2026-08-24T07:31:39.622Z",
-      "action": "updated remark for PN-TH-43MS670N at YATIYANTHOTA: “Sold”"
     }
   ]
 }
