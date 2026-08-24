@@ -43420,6 +43420,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:15:20",
       "lastUpdated": "2026-08-24T09:45:20.137Z"
+    },
+    "PN-SC-UA3GS-K||HOROWPATHANA": {
+      "remark": "60%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:15:41",
+      "lastUpdated": "2026-08-24T09:45:41.210Z"
     }
   },
   "showroomVisits": {
@@ -44692,6 +44699,13 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "15:15:41",
+      "iso": "2026-08-24T09:45:41.213Z",
+      "action": "updated remark for PN-SC-UA3GS-K at HOROWPATHANA: “60%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "15:15:20",
       "iso": "2026-08-24T09:45:20.141Z",
       "action": "updated remark for SL-18VNF at HOROWPATHANA: “50%”"
@@ -45031,13 +45045,6 @@
       "time": "15:03:31",
       "iso": "2026-08-24T09:33:31.310Z",
       "action": "updated remark for SMG-A36-5G-8-128-BLK at RAGAMA: “Not Available”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "15:02:57",
-      "iso": "2026-08-24T09:32:57.571Z",
-      "action": "updated remark for SMG-SM-A035F-B at WENNAPPUWA: “Display - 95%”"
     }
   ]
 }
