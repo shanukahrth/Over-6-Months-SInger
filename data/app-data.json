@@ -43189,6 +43189,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:04:00",
       "lastUpdated": "2026-08-24T09:34:00.466Z"
+    },
+    "SMG-SM-A037F-B-32GB||WENNAPPUWA": {
+      "remark": "Display - 95%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:04:08",
+      "lastUpdated": "2026-08-24T09:34:08.312Z"
+    },
+    "SMG-SM-A042F-128GB-B||WENNAPPUWA": {
+      "remark": "Display - 95%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:04:14",
+      "lastUpdated": "2026-08-24T09:34:14.785Z"
+    },
+    "SMG-SM-A045F-64GB-GRE||WENNAPPUWA": {
+      "remark": "Display - 95%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:04:20",
+      "lastUpdated": "2026-08-24T09:34:20.342Z"
     }
   },
   "showroomVisits": {
@@ -44403,6 +44424,27 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "15:04:20",
+      "iso": "2026-08-24T09:34:20.342Z",
+      "action": "updated remark for SMG-SM-A045F-64GB-GRE at WENNAPPUWA: “Display - 95%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "15:04:14",
+      "iso": "2026-08-24T09:34:14.785Z",
+      "action": "updated remark for SMG-SM-A042F-128GB-B at WENNAPPUWA: “Display - 95%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "15:04:08",
+      "iso": "2026-08-24T09:34:08.312Z",
+      "action": "updated remark for SMG-SM-A037F-B-32GB at WENNAPPUWA: “Display - 95%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "15:04:00",
@@ -44730,27 +44772,6 @@
       "time": "14:55:00",
       "iso": "2026-08-24T09:25:00.030Z",
       "action": "updated remark for FAN-P-SF1605HL at WARAKAPOLA: “60%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:54:54",
-      "iso": "2026-08-24T09:24:54.145Z",
-      "action": "updated remark for SLE32E710 at RAGAMA (cleared)"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:54:44",
-      "iso": "2026-08-24T09:24:44.048Z",
-      "action": "updated remark for SLE32E710 at RAGAMA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:54:08",
-      "iso": "2026-08-24T09:24:08.801Z",
-      "action": "updated remark for SLE32D5000 at RAGAMA: “70%”"
     }
   ]
 }
