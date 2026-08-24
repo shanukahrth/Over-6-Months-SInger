@@ -46241,6 +46241,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:37:34",
       "lastUpdated": "2026-08-24T13:07:34.821Z"
+    },
+    "KA-SKA3002||POLPITHIGAMA": {
+      "remark": "Display/ Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:37:53",
+      "lastUpdated": "2026-08-24T13:07:53.752Z"
     }
   },
   "showroomVisits": {
@@ -47531,6 +47538,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:37:53",
+      "iso": "2026-08-24T13:07:53.754Z",
+      "action": "updated remark for KA-SKA3002 at POLPITHIGAMA: “Display/ Damaged - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:37:34",
       "iso": "2026-08-24T13:07:34.822Z",
       "action": "updated remark for KA-MIXEE-N at POLPITHIGAMA: “Display/ Damaged - 70%”"
@@ -47870,13 +47884,6 @@
       "time": "18:22:12",
       "iso": "2026-08-24T12:52:12.073Z",
       "action": "updated remark for SIN-PR-K340 at GALEWELA: “Damaged - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "18:21:58",
-      "iso": "2026-08-24T12:51:58.132Z",
-      "action": "updated remark for SIN-MH51SW at GALEWELA: “Damaged - 80%”"
     }
   ]
 }
