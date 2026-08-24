@@ -46199,6 +46199,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:35:35",
       "lastUpdated": "2026-08-24T13:05:35.010Z"
+    },
+    "IND-PR752WIWH||POLPITHIGAMA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:36:32",
+      "lastUpdated": "2026-08-24T13:06:32.935Z"
     }
   },
   "showroomVisits": {
@@ -47489,6 +47496,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:36:32",
+      "iso": "2026-08-24T13:06:32.936Z",
+      "action": "updated remark for IND-PR752WIWH at POLPITHIGAMA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:35:56",
       "iso": "2026-08-24T13:05:56.957Z",
       "action": "updated remark for GEO-182S-BU1 at POLPITHIGAMA: “Revert / Damaged - 60%”"
@@ -47828,13 +47842,6 @@
       "time": "18:20:48",
       "iso": "2026-08-24T12:50:48.374Z",
       "action": "updated remark for WF-JUPITER-05-S at NAULA: “Revert / Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:20:30",
-      "iso": "2026-08-24T12:50:30.691Z",
-      "action": "updated remark for WF-DOC-M003-BU-S at NAULA (cleared)"
     }
   ]
 }
