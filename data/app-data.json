@@ -45646,6 +45646,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:06:52",
       "lastUpdated": "2026-08-24T12:36:52.119Z"
+    },
+    "SB-DTYPE||NAULA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:07:10",
+      "lastUpdated": "2026-08-24T12:37:10.198Z"
     }
   },
   "showroomVisits": {
@@ -46936,6 +46943,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:07:10",
+      "iso": "2026-08-24T12:37:10.199Z",
+      "action": "updated remark for SB-DTYPE at NAULA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:06:52",
       "iso": "2026-08-24T12:36:52.119Z",
       "action": "updated remark for RIYLTA-MF12V53B at NAULA: “Damaged - 90%”"
@@ -47275,13 +47289,6 @@
       "time": "17:10:47",
       "iso": "2026-08-24T11:40:47.057Z",
       "action": "updated remark for MID-D30-20EVN1 at KOTIYAKUMBURA: “-”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "17:10:32",
-      "iso": "2026-08-24T11:40:32.787Z",
-      "action": "updated remark for H-CVW1600 at KOTIYAKUMBURA: “20% flat offered”"
     }
   ]
 }
