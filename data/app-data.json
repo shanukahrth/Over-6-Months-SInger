@@ -35477,11 +35477,11 @@
       "lastUpdated": "2026-08-24T04:30:51.381Z"
     },
     "SMG-A06-6-128-BLK||MINUWANGODA - B": {
-      "remark": "burglary",
+      "remark": "Burglary",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-08-24",
-      "commentTime": "10:01:05",
-      "lastUpdated": "2026-08-24T04:31:05.832Z"
+      "commentTime": "10:41:45",
+      "lastUpdated": "2026-08-24T05:11:45.212Z"
     },
     "SMG-A17-8-256-GRY||MINUWANGODA - B": {
       "remark": "50%",
@@ -37170,6 +37170,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "10:41:45",
+      "iso": "2026-08-24T05:11:45.213Z",
+      "action": "updated remark for SMG-A06-6-128-BLK at MINUWANGODA - B: “Burglary”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:41:12",
@@ -37511,13 +37518,6 @@
       "time": "10:23:17",
       "iso": "2026-08-24T04:53:17.125Z",
       "action": "updated remark for ULED32D4100 at RUWANWELLA: “Exchange. History form available”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:22:43",
-      "iso": "2026-08-24T04:52:43.291Z",
-      "action": "updated remark for SIN-RFC-2058 at MIRIGAMA: “10%”"
     }
   ]
 }
