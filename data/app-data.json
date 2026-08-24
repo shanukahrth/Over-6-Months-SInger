@@ -34790,13 +34790,6 @@
       "commentTime": "09:19:58",
       "lastUpdated": "2026-08-24T03:49:58.592Z"
     },
-    "SWH-118E||RUWANWELLA": {
-      "remark": "Service center - exchange",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-24",
-      "commentTime": "09:20:43",
-      "lastUpdated": "2026-08-24T03:50:43.621Z"
-    },
     "DELL3510-PNT-128-RCH-BLK||MINUWANGODA - B": {
       "remark": "60%",
       "commentedBy": "Maria Fernando",
@@ -35777,6 +35770,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "09:21:11",
+      "iso": "2026-08-24T03:51:11.580Z",
+      "action": "updated remark for SWH-118E at RUWANWELLA (cleared)"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "09:21:08",
+      "iso": "2026-08-24T03:51:08.647Z",
+      "action": "updated remark for SWH-118E at RUWANWELLA: “50% discount”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:20:24",
@@ -36111,20 +36118,6 @@
       "time": "09:01:55",
       "iso": "2026-08-24T03:31:55.802Z",
       "action": "updated remark for SXLC7371K at MIRIGAMA: “80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "09:01:58",
-      "iso": "2026-08-24T03:31:58.642Z",
-      "action": "updated remark for TFFP2550243 at KANDANA: “Already Provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "09:01:36",
-      "iso": "2026-08-24T03:31:36.346Z",
-      "action": "updated remark for TF-TW26-064 at KANDANA: “Already Provided”"
     }
   ]
 }
