@@ -34103,6 +34103,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:27:07",
       "lastUpdated": "2026-08-24T02:57:07.840Z"
+    },
+    "RIYLTA-MF12V5||KANDANA": {
+      "remark": "Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:27:35",
+      "lastUpdated": "2026-08-24T02:57:35.208Z"
     }
   },
   "showroomVisits": {
@@ -35079,6 +35086,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:27:35",
+      "iso": "2026-08-24T02:57:35.209Z",
+      "action": "updated remark for RIYLTA-MF12V5 at KANDANA: “Return to WH”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:27:29",
       "iso": "2026-08-24T02:57:29.882Z",
       "action": "updated remark for RIYLTA-MF12V5 at KANDANA (cleared)"
@@ -35418,13 +35432,6 @@
       "time": "17:43:49",
       "iso": "2026-08-21T12:13:49.620Z",
       "action": "updated remark for CM-VIR-GUARD at MATALE: “Ok”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:43:32",
-      "iso": "2026-08-21T12:13:32.314Z",
-      "action": "updated remark for CCTV-UPS-DCP-650 at MATALE: “Damaged - 80%”"
     }
   ]
 }
