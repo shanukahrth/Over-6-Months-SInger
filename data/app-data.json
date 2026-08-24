@@ -36945,6 +36945,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:43:02",
       "lastUpdated": "2026-08-24T06:13:02.028Z"
+    },
+    "PN-CS-XU12XKYW-8||MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:43:02",
+      "lastUpdated": "2026-08-24T06:13:02.125Z"
     }
   },
   "showroomVisits": {
@@ -37919,6 +37926,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:43:02",
+      "iso": "2026-08-24T06:13:02.128Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at MATALE: “Damaged - 50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "11:43:02",
@@ -38260,13 +38274,6 @@
       "time": "11:21:52",
       "iso": "2026-08-24T05:51:52.759Z",
       "action": "updated remark for SISIL-RC150 at THIRAPPANE: “Given by Lakshi”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:21:33",
-      "iso": "2026-08-24T05:51:33.186Z",
-      "action": "updated remark for SHPKSHD1010W3 at THIRAPPANE: “Given by Lakshi”"
     }
   ]
 }
