@@ -35545,6 +35545,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:06:46",
       "lastUpdated": "2026-08-24T04:36:46.100Z"
+    },
+    "SMG-A56-5G-12-256-BLK||MINUWANGODA - B": {
+      "remark": "Burglary",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:06:28",
+      "lastUpdated": "2026-08-24T04:36:28.198Z"
     }
   },
   "showroomVisits": {
@@ -36519,6 +36526,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "10:06:28",
+      "iso": "2026-08-24T04:36:28.199Z",
+      "action": "updated remark for SMG-A56-5G-12-256-BLK at MINUWANGODA - B: “Burglary”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "10:06:46",
@@ -36860,13 +36874,6 @@
       "time": "09:49:30",
       "iso": "2026-08-24T04:19:30.638Z",
       "action": "updated remark for SLMC-18DSLHS at RUWANWELLA: “80% flat offered - discolored”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "09:49:08",
-      "iso": "2026-08-24T04:19:08.214Z",
-      "action": "updated remark for SLMC-18DSLHS at RUWANWELLA: “80% flat offered”"
     }
   ]
 }
