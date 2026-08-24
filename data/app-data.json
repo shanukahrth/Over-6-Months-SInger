@@ -43476,6 +43476,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:18:14",
       "lastUpdated": "2026-08-24T09:48:14.295Z"
+    },
+    "TF-SP16-063||RAGAMA": {
+      "remark": "Discounts already give to DM",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:18:18",
+      "lastUpdated": "2026-08-24T09:48:18.201Z"
     }
   },
   "showroomVisits": {
@@ -44746,6 +44753,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "15:18:18",
+      "iso": "2026-08-24T09:48:18.203Z",
+      "action": "updated remark for TF-SP16-063 at RAGAMA: “Discounts already give to DM”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "15:18:14",
@@ -45087,13 +45101,6 @@
       "time": "15:07:54",
       "iso": "2026-08-24T09:37:54.196Z",
       "action": "updated remark for TCL43S5400 at RAGAMA: “Exchange”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:07:21",
-      "iso": "2026-08-24T09:37:21.912Z",
-      "action": "updated remark for SWM-MET80R at RAGAMA: “EOL : if damaged or discolored offer upto additonal 20%”"
     }
   ]
 }
