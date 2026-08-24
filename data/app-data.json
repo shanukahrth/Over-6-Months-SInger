@@ -40438,6 +40438,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:47:10",
       "lastUpdated": "2026-08-24T08:17:10.445Z"
+    },
+    "HON-X9C-12-256-BLK||RAGAMA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:47:51",
+      "lastUpdated": "2026-08-24T08:17:51.499Z"
     }
   },
   "showroomVisits": {
@@ -41450,6 +41457,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "13:47:51",
+      "iso": "2026-08-24T08:17:51.499Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at RAGAMA: “70%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "13:47:10",
       "iso": "2026-08-24T08:17:10.445Z",
       "action": "updated remark for HON-H200-12-512-BLK at RAGAMA: “70%”"
@@ -41789,13 +41803,6 @@
       "time": "12:57:14",
       "iso": "2026-08-24T07:27:14.970Z",
       "action": "updated remark for PWRMAX at YATIYANTHOTA: “AR pending. Shop use”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:57:12",
-      "iso": "2026-08-24T07:27:12.783Z",
-      "action": "updated remark for BR-1 at YATIYANTHOTA: “AR pending. Shop use”"
     }
   ]
 }
