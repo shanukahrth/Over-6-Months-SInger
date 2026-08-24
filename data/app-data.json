@@ -45499,6 +45499,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "17:58:47",
       "lastUpdated": "2026-08-24T12:28:47.898Z"
+    },
+    "GEO-260NF||NAULA": {
+      "remark": "Damaged - 65%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "17:58:55",
+      "lastUpdated": "2026-08-24T12:28:55.609Z"
     }
   },
   "showroomVisits": {
@@ -46789,6 +46796,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "17:58:55",
+      "iso": "2026-08-24T12:28:55.611Z",
+      "action": "updated remark for GEO-260NF at NAULA: “Damaged - 65%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "17:58:47",
       "iso": "2026-08-24T12:28:47.899Z",
       "action": "updated remark for GEO-242D-TG at NAULA: “Okay”"
@@ -47128,13 +47142,6 @@
       "time": "16:42:04",
       "iso": "2026-08-24T11:12:04.132Z",
       "action": "updated remark for SS-PS16-AG at KOTIYAKUMBURA: “75% provided”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "16:42:36",
-      "iso": "2026-08-24T11:12:36.072Z",
-      "action": "updated remark for RIYLTA-MF12V51A at GALEWELA: “Damaged - 90%”"
     }
   ]
 }
