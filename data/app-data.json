@@ -37799,6 +37799,34 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:12:55",
       "lastUpdated": "2026-08-24T06:42:55.983Z"
+    },
+    "WF-DOC-H026-BU-S||SHOMES- MATALE": {
+      "remark": "Damaged - 25%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:12:48",
+      "lastUpdated": "2026-08-24T06:42:48.939Z"
+    },
+    "WF-DOC-T011-BL-S||SHOMES- MATALE": {
+      "remark": "Damaged - 25%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:12:50",
+      "lastUpdated": "2026-08-24T06:42:50.047Z"
+    },
+    "WF-DOC-T011-MR-S||SHOMES- MATALE": {
+      "remark": "Damaged - 25%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:12:51",
+      "lastUpdated": "2026-08-24T06:42:51.147Z"
+    },
+    "WF-LILY-TBL-S||SHOMES- MATALE": {
+      "remark": "Damaged - 25%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:13:05",
+      "lastUpdated": "2026-08-24T06:43:05.411Z"
     }
   },
   "showroomVisits": {
@@ -38809,6 +38837,34 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:13:05",
+      "iso": "2026-08-24T06:43:05.413Z",
+      "action": "updated remark for WF-LILY-TBL-S at SHOMES- MATALE: “Damaged - 25%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:12:51",
+      "iso": "2026-08-24T06:42:51.148Z",
+      "action": "updated remark for WF-DOC-T011-MR-S at SHOMES- MATALE: “Damaged - 25%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:12:50",
+      "iso": "2026-08-24T06:42:50.049Z",
+      "action": "updated remark for WF-DOC-T011-BL-S at SHOMES- MATALE: “Damaged - 25%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:12:48",
+      "iso": "2026-08-24T06:42:48.941Z",
+      "action": "updated remark for WF-DOC-H026-BU-S at SHOMES- MATALE: “Damaged - 25%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:12:55",
@@ -39129,34 +39185,6 @@
       "time": "12:03:32",
       "iso": "2026-08-24T06:33:32.654Z",
       "action": "updated remark for WFL-STUDY-T-S-JNT-S at MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:03:31",
-      "iso": "2026-08-24T06:33:31.048Z",
-      "action": "updated remark for WFL-WHSTUDY-T-JNT at MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:03:18",
-      "iso": "2026-08-24T06:33:18.033Z",
-      "action": "updated remark for WFL-SPM-75X60X7-S at MATALE: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:04:09",
-      "iso": "2026-08-24T06:34:09.681Z",
-      "action": "updated remark for SLE32D1800 at WARAKAPOLA: “70% or Warehouse Return”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:03:42",
-      "iso": "2026-08-24T06:33:42.040Z",
-      "action": "updated remark for SLE32D1800 at WARAKAPOLA: “70% or Warehouse Return”"
     }
   ]
 }
