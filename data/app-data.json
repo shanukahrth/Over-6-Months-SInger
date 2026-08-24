@@ -34292,6 +34292,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:37:27",
       "lastUpdated": "2026-08-24T03:07:27.420Z"
+    },
+    "SMGUA40N5000||KANDANA": {
+      "remark": "Exchange PO pending",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:38:08",
+      "lastUpdated": "2026-08-24T03:08:08.946Z"
     }
   },
   "showroomVisits": {
@@ -35268,6 +35275,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:38:08",
+      "iso": "2026-08-24T03:08:08.947Z",
+      "action": "updated remark for SMGUA40N5000 at KANDANA: “Exchange PO pending”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:37:27",
       "iso": "2026-08-24T03:07:27.423Z",
       "action": "updated remark for SMGAR50F12D0J at KANDANA: “30%”"
@@ -35607,13 +35621,6 @@
       "time": "08:19:15",
       "iso": "2026-08-24T02:49:15.845Z",
       "action": "updated remark for NUBIA-AIR-8-256GB-TT-DST at KANDANA: “15% - Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-21",
-      "time": "16:18:51",
-      "iso": "2026-08-21T10:48:51.472Z",
-      "action": "updated remark for NEXTPLUS-4 at KANDANA: “Shop use”"
     }
   ]
 }
