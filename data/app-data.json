@@ -34082,6 +34082,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:25:32",
       "lastUpdated": "2026-08-24T02:55:32.675Z"
+    },
+    "R-BWS-02||KANDANA": {
+      "remark": "Already Provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:26:18",
+      "lastUpdated": "2026-08-24T02:56:18.130Z"
     }
   },
   "showroomVisits": {
@@ -35058,6 +35065,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:26:18",
+      "iso": "2026-08-24T02:56:18.131Z",
+      "action": "updated remark for R-BWS-02 at KANDANA: “Already Provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:25:32",
       "iso": "2026-08-24T02:55:32.678Z",
       "action": "updated remark for PWRMAX-4 at KANDANA: “Shop use”"
@@ -35397,13 +35411,6 @@
       "time": "17:42:11",
       "iso": "2026-08-21T12:12:11.844Z",
       "action": "updated remark for VT-1047CN at MATALE: “Damaged - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:41:44",
-      "iso": "2026-08-21T12:11:44.981Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at MATALE: “Damaged - 60%”"
     }
   ]
 }
