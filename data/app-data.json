@@ -42552,6 +42552,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:35:19",
       "lastUpdated": "2026-08-24T09:05:19.846Z"
+    },
+    "SLE43G690||KAHATAGASDIGILIYA": {
+      "remark": "70%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:35:53",
+      "lastUpdated": "2026-08-24T09:05:53.012Z"
+    },
+    "SLE43G890||KAHATAGASDIGILIYA": {
+      "remark": "45%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:35:59",
+      "lastUpdated": "2026-08-24T09:05:59.159Z"
     }
   },
   "showroomVisits": {
@@ -43624,6 +43638,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "14:35:59",
+      "iso": "2026-08-24T09:05:59.161Z",
+      "action": "updated remark for SLE43G890 at KAHATAGASDIGILIYA: “45%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:35:53",
+      "iso": "2026-08-24T09:05:53.015Z",
+      "action": "updated remark for SLE43G690 at KAHATAGASDIGILIYA: “70%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "14:35:19",
       "iso": "2026-08-24T09:05:19.849Z",
       "action": "updated remark for SLE43D1800TC at KAHATAGASDIGILIYA: “70%”"
@@ -43956,20 +43984,6 @@
       "time": "14:24:49",
       "iso": "2026-08-24T08:54:49.969Z",
       "action": "updated remark for VT-1047CN at KAHATAGASDIGILIYA (cleared)"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:24:48",
-      "iso": "2026-08-24T08:54:48.717Z",
-      "action": "updated remark for VT-1047CN at KAHATAGASDIGILIYA (cleared)"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:24:30",
-      "iso": "2026-08-24T08:54:30.039Z",
-      "action": "updated remark for VT-1047CN at KAHATAGASDIGILIYA: “-”"
     }
   ]
 }
