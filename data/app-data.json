@@ -35650,6 +35650,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:10:59",
       "lastUpdated": "2026-08-24T04:40:59.781Z"
+    },
+    "CAN-L-LBP3010||RUWANWELLA": {
+      "remark": "Can't repair. 90% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:11:37",
+      "lastUpdated": "2026-08-24T04:41:37.890Z"
     }
   },
   "showroomVisits": {
@@ -36624,6 +36631,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:11:37",
+      "iso": "2026-08-24T04:41:37.894Z",
+      "action": "updated remark for CAN-L-LBP3010 at RUWANWELLA: “Can't repair. 90% offered”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "10:10:59",
@@ -36965,13 +36979,6 @@
       "time": "09:55:26",
       "iso": "2026-08-24T04:25:26.088Z",
       "action": "updated remark for SIN-RFC-2058 at RUWANWELLA: “MRP rs.9,000 - 50% discount offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "09:54:08",
-      "iso": "2026-08-24T04:24:08.529Z",
-      "action": "updated remark for RTT-200GT at RUWANWELLA: “Damaged & no parts - 90% discount offered”"
     }
   ]
 }
