@@ -37113,6 +37113,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:47:54",
       "lastUpdated": "2026-08-24T06:17:54.859Z"
+    },
+    "SLE32D2010TC||MATALE": {
+      "remark": "Revert Damaged - 75%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:48:22",
+      "lastUpdated": "2026-08-24T06:18:22.880Z"
     }
   },
   "showroomVisits": {
@@ -38087,6 +38094,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:48:22",
+      "iso": "2026-08-24T06:18:22.882Z",
+      "action": "updated remark for SLE32D2010TC at MATALE: “Revert Damaged - 75%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:48:05",
@@ -38428,13 +38442,6 @@
       "time": "11:35:31",
       "iso": "2026-08-24T06:05:31.436Z",
       "action": "updated remark for TCLED24D3100 at WARAKAPOLA: “Defective”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:33:08",
-      "iso": "2026-08-24T06:03:08.480Z",
-      "action": "updated remark for SYM-DIET-35I at WARAKAPOLA: “70%”"
     }
   ]
 }
