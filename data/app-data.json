@@ -42888,6 +42888,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:51:26",
       "lastUpdated": "2026-08-24T09:21:26.363Z"
+    },
+    "LF-LCD-TV-WNT-S||WARAKAPOLA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:50:14",
+      "lastUpdated": "2026-08-24T09:20:14.770Z"
+    },
+    "LF-ORGN-BDQ-WHT||WARAKAPOLA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:51:42",
+      "lastUpdated": "2026-08-24T09:21:42.910Z"
     }
   },
   "showroomVisits": {
@@ -44102,6 +44116,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "14:51:42",
+      "iso": "2026-08-24T09:21:42.911Z",
+      "action": "updated remark for LF-ORGN-BDQ-WHT at WARAKAPOLA: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "14:50:14",
+      "iso": "2026-08-24T09:20:14.771Z",
+      "action": "updated remark for LF-LCD-TV-WNT-S at WARAKAPOLA: “50%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "14:51:26",
@@ -44436,20 +44464,6 @@
       "time": "14:42:59",
       "iso": "2026-08-24T09:12:59.643Z",
       "action": "updated KALMUNAI showroom (visited: Yes)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:42:57",
-      "iso": "2026-08-24T09:12:57.332Z",
-      "action": "updated HINGURANA showroom (visited: No)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:42:54",
-      "iso": "2026-08-24T09:12:54.802Z",
-      "action": "updated HINGURANA showroom (visited: Yes)"
     }
   ]
 }
