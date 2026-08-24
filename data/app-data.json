@@ -34196,11 +34196,11 @@
       "lastUpdated": "2026-08-24T03:01:30.746Z"
     },
     "SLE32D2010TC||KANDANA": {
-      "remark": "Exchange PO pending",
+      "remark": "Reported",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-08-24",
-      "commentTime": "08:32:01",
-      "lastUpdated": "2026-08-24T03:02:01.507Z"
+      "commentTime": "08:32:10",
+      "lastUpdated": "2026-08-24T03:02:10.793Z"
     }
   },
   "showroomVisits": {
@@ -35177,6 +35177,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:32:10",
+      "iso": "2026-08-24T03:02:10.798Z",
+      "action": "updated remark for SLE32D2010TC at KANDANA: “Reported”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:32:01",
       "iso": "2026-08-24T03:02:01.512Z",
       "action": "updated remark for SLE32D2010TC at KANDANA: “Exchange PO pending”"
@@ -35516,13 +35523,6 @@
       "time": "17:48:13",
       "iso": "2026-08-21T12:18:13.407Z",
       "action": "updated remark for KA-TXG-DS11A at MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:48:00",
-      "iso": "2026-08-21T12:18:00.343Z",
-      "action": "updated remark for KA-LW-185A at MATALE: “Damaged - 70%”"
     }
   ]
 }
