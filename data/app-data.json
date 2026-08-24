@@ -40648,6 +40648,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:00:01",
       "lastUpdated": "2026-08-24T08:30:01.873Z"
+    },
+    "LF-LEO-LCUP-WNG-S||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:59:27",
+      "lastUpdated": "2026-08-24T08:29:27.956Z"
     }
   },
   "showroomVisits": {
@@ -41658,6 +41665,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "13:59:27",
+      "iso": "2026-08-24T08:29:27.959Z",
+      "action": "updated remark for LF-LEO-LCUP-WNG-S at RAGAMA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
+      "time": "13:59:18",
+      "iso": "2026-08-24T08:29:18.005Z",
+      "action": "updated remark for LF-LEO-LCUP-WNG-S at RAGAMA: “50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "14:00:01",
@@ -41992,20 +42013,6 @@
       "time": "13:42:07",
       "iso": "2026-08-24T08:12:07.569Z",
       "action": "updated remark for FAN-VIERA-TEAK at RAGAMA: “0%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:41:31",
-      "iso": "2026-08-24T08:11:31.184Z",
-      "action": "updated remark for PN-MIC-W-107 at BULATHKOHUPITIYA: “Free issue mics”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:41:07",
-      "iso": "2026-08-24T08:11:07.462Z",
-      "action": "updated remark for PN-MIC-W-107 at BULATHKOHUPITIYA: “Free issue”"
     }
   ]
 }
