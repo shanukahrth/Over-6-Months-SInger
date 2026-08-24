@@ -45513,6 +45513,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "17:59:34",
       "lastUpdated": "2026-08-24T12:29:34.096Z"
+    },
+    "KYOCERA-L-TA2020||NAULA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "17:59:50",
+      "lastUpdated": "2026-08-24T12:29:50.521Z"
     }
   },
   "showroomVisits": {
@@ -46803,6 +46810,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "17:59:50",
+      "iso": "2026-08-24T12:29:50.521Z",
+      "action": "updated remark for KYOCERA-L-TA2020 at NAULA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "17:59:34",
       "iso": "2026-08-24T12:29:34.097Z",
       "action": "updated remark for KA-MIXEE-N at NAULA: “Damaged - 90%”"
@@ -47142,13 +47156,6 @@
       "time": "16:45:31",
       "iso": "2026-08-24T11:15:31.227Z",
       "action": "updated remark for TCL43S5400 at KOTIYAKUMBURA: “Exchange. Mail has sent”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "16:44:09",
-      "iso": "2026-08-24T11:14:09.513Z",
-      "action": "updated remark for TCL43S5400 at KOTIYAKUMBURA: “Revert damaged.”"
     }
   ]
 }
