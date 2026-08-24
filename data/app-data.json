@@ -36497,6 +36497,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:16:17",
       "lastUpdated": "2026-08-24T05:46:17.378Z"
+    },
+    "PN-SC-BMAX10E-K||THIRAPPANE": {
+      "remark": "50%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:16:24",
+      "lastUpdated": "2026-08-24T05:46:24.264Z"
     }
   },
   "showroomVisits": {
@@ -37473,6 +37480,13 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "11:16:24",
+      "iso": "2026-08-24T05:46:24.269Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at THIRAPPANE: “50%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "11:16:17",
       "iso": "2026-08-24T05:46:17.382Z",
       "action": "updated remark for SRS-XV500 at THIRAPPANE: “25%”"
@@ -37812,13 +37826,6 @@
       "time": "10:46:19",
       "iso": "2026-08-24T05:16:19.569Z",
       "action": "updated remark for SLE42D2070TC at MIRIGAMA: “50% Total”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:46:18",
-      "iso": "2026-08-24T05:16:18.562Z",
-      "action": "updated remark for SLE40D600A at RUWANWELLA: “Display issue. Return to wearhouse.”"
     }
   ]
 }
