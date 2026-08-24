@@ -36616,6 +36616,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:19:53",
       "lastUpdated": "2026-08-24T05:49:53.259Z"
+    },
+    "KA-SST032BKI||THIRAPPANE": {
+      "remark": "Add 10%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:20:14",
+      "lastUpdated": "2026-08-24T05:50:14.634Z"
     }
   },
   "showroomVisits": {
@@ -37592,6 +37599,13 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "11:20:14",
+      "iso": "2026-08-24T05:50:14.637Z",
+      "action": "updated remark for KA-SST032BKI at THIRAPPANE: “Add 10%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "11:19:53",
       "iso": "2026-08-24T05:49:53.262Z",
       "action": "updated remark for NCPDG-FP240 at THIRAPPANE: “Add 20%”"
@@ -37931,13 +37945,6 @@
       "time": "10:59:39",
       "iso": "2026-08-24T05:29:39.120Z",
       "action": "updated remark for CAN-I-E410 at RAGAMA: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:59:10",
-      "iso": "2026-08-24T05:29:10.732Z",
-      "action": "updated remark for AS-13G-I5-512GB-829-BLU at RAGAMA: “N/A”"
     }
   ]
 }
