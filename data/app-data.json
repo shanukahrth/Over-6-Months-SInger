@@ -37743,6 +37743,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:10:08",
       "lastUpdated": "2026-08-24T06:40:08.439Z"
+    },
+    "TCL55P615||SHOMES- MATALE": {
+      "remark": "Exchange Product",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:09:04",
+      "lastUpdated": "2026-08-24T06:39:04.002Z"
+    },
+    "WB-F65||SHOMES- MATALE": {
+      "remark": "Can Sell",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:10:15",
+      "lastUpdated": "2026-08-24T06:40:15.993Z"
     }
   },
   "showroomVisits": {
@@ -38741,6 +38755,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:10:15",
+      "iso": "2026-08-24T06:40:15.996Z",
+      "action": "updated remark for WB-F65 at SHOMES- MATALE: “Can Sell”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:09:04",
+      "iso": "2026-08-24T06:39:04.004Z",
+      "action": "updated remark for TCL55P615 at SHOMES- MATALE: “Exchange Product”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:10:10",
@@ -39075,20 +39103,6 @@
       "time": "12:01:31",
       "iso": "2026-08-24T06:31:31.154Z",
       "action": "updated remark for WF-CLASSIC-BR-S at MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:01:13",
-      "iso": "2026-08-24T06:31:13.602Z",
-      "action": "updated remark for USI-ATC-302 at MATALE: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:01:12",
-      "iso": "2026-08-24T06:31:12.801Z",
-      "action": "updated remark for SLE20S1300 at WARAKAPOLA: “Warehouse Return”"
     }
   ]
 }
