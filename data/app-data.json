@@ -46248,6 +46248,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:37:53",
       "lastUpdated": "2026-08-24T13:07:53.752Z"
+    },
+    "SWH-118EP-D||GALEWELA": {
+      "remark": "Can sell this by 31st Aug",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:37:48",
+      "lastUpdated": "2026-08-24T13:07:48.623Z"
+    },
+    "SWM-FA70R||GALEWELA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:38:03",
+      "lastUpdated": "2026-08-24T13:08:03.609Z"
     }
   },
   "showroomVisits": {
@@ -47536,6 +47550,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:38:03",
+      "iso": "2026-08-24T13:08:03.611Z",
+      "action": "updated remark for SWM-FA70R at GALEWELA: “Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:37:48",
+      "iso": "2026-08-24T13:07:48.625Z",
+      "action": "updated remark for SWH-118EP-D at GALEWELA: “Can sell this by 31st Aug”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "18:37:53",
@@ -47870,20 +47898,6 @@
       "time": "18:23:30",
       "iso": "2026-08-24T12:53:30.720Z",
       "action": "updated remark for SIN-RFC-1819 at HETTIMULLA LITE: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "18:22:07",
-      "iso": "2026-08-24T12:52:07.295Z",
-      "action": "updated remark for LP-AP01 at HETTIMULLA LITE: “Sold”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "18:22:12",
-      "iso": "2026-08-24T12:52:12.073Z",
-      "action": "updated remark for SIN-PR-K340 at GALEWELA: “Damaged - 40%”"
     }
   ]
 }
