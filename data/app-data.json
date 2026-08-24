@@ -39514,6 +39514,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:33:28",
       "lastUpdated": "2026-08-24T07:03:28.021Z"
+    },
+    "LF-LITE-2WD-AGO-S||NAWALAPITIYA": {
+      "remark": "To return damaged",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:33:35",
+      "lastUpdated": "2026-08-24T07:03:35.455Z"
+    },
+    "LF-MIKO-WD-S||NAWALAPITIYA": {
+      "remark": "50%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:33:51",
+      "lastUpdated": "2026-08-24T07:03:51.573Z"
     }
   },
   "showroomVisits": {
@@ -40524,6 +40538,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:33:51",
+      "iso": "2026-08-24T07:03:51.575Z",
+      "action": "updated remark for LF-MIKO-WD-S at NAWALAPITIYA: “50%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-24",
+      "time": "12:33:35",
+      "iso": "2026-08-24T07:03:35.458Z",
+      "action": "updated remark for LF-LITE-2WD-AGO-S at NAWALAPITIYA: “To return damaged”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "12:33:28",
@@ -40858,20 +40886,6 @@
       "time": "12:12:54",
       "iso": "2026-08-24T06:42:54.167Z",
       "action": "updated remark for SLE43G790 at NAWALAPITIYA: “Service center PO pending”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:12:13",
-      "iso": "2026-08-24T06:42:13.201Z",
-      "action": "updated remark for SLE40D600A at NAWALAPITIYA: “Damaged 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:12:04",
-      "iso": "2026-08-24T06:42:04.501Z",
-      "action": "updated remark for SLE40D600A at NAWALAPITIYA: “Damaged 80%”"
     }
   ]
 }
