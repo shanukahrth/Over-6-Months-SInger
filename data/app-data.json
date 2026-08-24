@@ -45835,6 +45835,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:17:21",
       "lastUpdated": "2026-08-24T12:47:21.797Z"
+    },
+    "SWM-FA70R||NAULA": {
+      "remark": "Revert / Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:17:58",
+      "lastUpdated": "2026-08-24T12:47:58.396Z"
     }
   },
   "showroomVisits": {
@@ -47125,6 +47132,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:17:58",
+      "iso": "2026-08-24T12:47:58.397Z",
+      "action": "updated remark for SWM-FA70R at NAULA: “Revert / Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:17:21",
       "iso": "2026-08-24T12:47:21.798Z",
       "action": "updated remark for STT-KGT200 at NAULA: “Revert /Damaged - 75%”"
@@ -47464,13 +47478,6 @@
       "time": "18:04:00",
       "iso": "2026-08-24T12:34:00.234Z",
       "action": "updated remark for PF-GRID-1D-BG-S at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:02:53",
-      "iso": "2026-08-24T12:32:53.725Z",
-      "action": "updated remark for OF-SW22-S at NAULA: “Okay”"
     }
   ]
 }
