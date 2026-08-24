@@ -38065,6 +38065,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:19:44",
       "lastUpdated": "2026-08-24T06:49:44.990Z"
+    },
+    "WFL-SPM-75X48X8-S||SHOMES- MATALE": {
+      "remark": "Can Sell",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:18:54",
+      "lastUpdated": "2026-08-24T06:48:54.708Z"
+    },
+    "WFL-SPW-NO-84X72X10-S||SHOMES- MATALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:19:26",
+      "lastUpdated": "2026-08-24T06:49:26.596Z"
     }
   },
   "showroomVisits": {
@@ -39075,6 +39089,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:19:26",
+      "iso": "2026-08-24T06:49:26.598Z",
+      "action": "updated remark for WFL-SPW-NO-84X72X10-S at SHOMES- MATALE: “Damaged - 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:18:54",
+      "iso": "2026-08-24T06:48:54.710Z",
+      "action": "updated remark for WFL-SPM-75X48X8-S at SHOMES- MATALE: “Can Sell”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "12:19:44",
@@ -39409,20 +39437,6 @@
       "time": "12:12:50",
       "iso": "2026-08-24T06:42:50.049Z",
       "action": "updated remark for WF-DOC-T011-BL-S at SHOMES- MATALE: “Damaged - 25%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:12:48",
-      "iso": "2026-08-24T06:42:48.941Z",
-      "action": "updated remark for WF-DOC-H026-BU-S at SHOMES- MATALE: “Damaged - 25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:12:55",
-      "iso": "2026-08-24T06:42:55.985Z",
-      "action": "updated remark for QT-SITUP at WARAKAPOLA: “15%”"
     }
   ]
 }
