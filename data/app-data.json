@@ -35678,6 +35678,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:13:04",
       "lastUpdated": "2026-08-24T04:43:04.996Z"
+    },
+    "SMGRT28A3021GS||RUWANWELLA": {
+      "remark": "Damaged. 50% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:13:33",
+      "lastUpdated": "2026-08-24T04:43:33.170Z"
     }
   },
   "showroomVisits": {
@@ -36652,6 +36659,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:13:33",
+      "iso": "2026-08-24T04:43:33.175Z",
+      "action": "updated remark for SMGRT28A3021GS at RUWANWELLA: “Damaged. 50% offered”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "10:13:04",
@@ -36993,13 +37007,6 @@
       "time": "09:56:32",
       "iso": "2026-08-24T04:26:32.216Z",
       "action": "updated remark for SLE40D4000 at MINUWANGODA - B: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "09:56:03",
-      "iso": "2026-08-24T04:26:03.267Z",
-      "action": "updated remark for TF-SI-ESS-242 at MIRIGAMA: “10%”"
     }
   ]
 }
