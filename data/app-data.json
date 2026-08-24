@@ -39430,6 +39430,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:31:28",
       "lastUpdated": "2026-08-24T07:01:28.822Z"
+    },
+    "SIN-VBS-90PA||MELSIRIPURA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:31:41",
+      "lastUpdated": "2026-08-24T07:01:41.677Z"
     }
   },
   "showroomVisits": {
@@ -40440,6 +40447,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:31:41",
+      "iso": "2026-08-24T07:01:41.678Z",
+      "action": "updated remark for SIN-VBS-90PA at MELSIRIPURA: “Damaged - 80%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:31:28",
@@ -40781,13 +40795,6 @@
       "time": "12:10:37",
       "iso": "2026-08-24T06:40:37.196Z",
       "action": "updated remark for SLE24B2900 at NAWALAPITIYA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:10:34",
-      "iso": "2026-08-24T06:40:34.421Z",
-      "action": "updated remark for SKY32TB1000 at NAWALAPITIYA: “90%”"
     }
   ]
 }
