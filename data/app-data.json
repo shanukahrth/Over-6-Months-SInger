@@ -43238,6 +43238,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:04:56",
       "lastUpdated": "2026-08-24T09:34:56.076Z"
+    },
+    "SMG-SM-T285N||RAGAMA": {
+      "remark": "Exchange",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:05:17",
+      "lastUpdated": "2026-08-24T09:35:17.103Z"
     }
   },
   "showroomVisits": {
@@ -44454,6 +44461,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "15:05:17",
+      "iso": "2026-08-24T09:35:17.103Z",
+      "action": "updated remark for SMG-SM-T285N at RAGAMA: “Exchange”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "15:04:56",
       "iso": "2026-08-24T09:34:56.077Z",
       "action": "updated remark for SMG-SM-A307F-B at RAGAMA: “Return”"
@@ -44793,13 +44807,6 @@
       "time": "14:55:55",
       "iso": "2026-08-24T09:25:55.721Z",
       "action": "updated remark for GEO-182S-SV at WARAKAPOLA: “25%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:55:56",
-      "iso": "2026-08-24T09:25:56.048Z",
-      "action": "updated ARALAGANWILA showroom (team: Chamal and Kaveesha )"
     }
   ]
 }
