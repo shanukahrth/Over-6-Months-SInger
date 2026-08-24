@@ -38492,6 +38492,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:30:58",
       "lastUpdated": "2026-08-24T07:00:58.661Z"
+    },
+    "PCP30||GALENBIDUNUWEWA": {
+      "remark": "Add 10%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:31:10",
+      "lastUpdated": "2026-08-24T07:01:10.808Z"
+    },
+    "SISIL-RC150||GALENBIDUNUWEWA": {
+      "remark": "A",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:31:16",
+      "lastUpdated": "2026-08-24T07:01:16.082Z"
+    },
+    "SLMC-18DSLHS||GALENBIDUNUWEWA": {
+      "remark": "Add 10%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:31:36",
+      "lastUpdated": "2026-08-24T07:01:36.050Z"
     }
   },
   "showroomVisits": {
@@ -39502,6 +39523,34 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:31:36",
+      "iso": "2026-08-24T07:01:36.052Z",
+      "action": "updated remark for SLMC-18DSLHS at GALENBIDUNUWEWA: “Add 10%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:31:16",
+      "iso": "2026-08-24T07:01:16.085Z",
+      "action": "updated remark for SISIL-RC150 at GALENBIDUNUWEWA: “A”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:31:10",
+      "iso": "2026-08-24T07:01:10.810Z",
+      "action": "updated remark for PCP30 at GALENBIDUNUWEWA: “Add 10%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "12:30:55",
+      "iso": "2026-08-24T07:00:55.385Z",
+      "action": "updated remark for PCP30 at GALENBIDUNUWEWA: “Add 10%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:30:58",
@@ -39822,34 +39871,6 @@
       "time": "12:24:39",
       "iso": "2026-08-24T06:54:39.984Z",
       "action": "updated remark for LFLCDCHAMP-CHY-S at YATIYANTHOTA: “Faded. 50% offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:24:29",
-      "iso": "2026-08-24T06:54:29.201Z",
-      "action": "updated remark for LFLCDCHAMP-BLK-S at YATIYANTHOTA: “Faded”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:23:48",
-      "iso": "2026-08-24T06:53:48.321Z",
-      "action": "updated remark for LF-CT-S at MELSIRIPURA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:23:47",
-      "iso": "2026-08-24T06:53:47.379Z",
-      "action": "updated remark for MCZJ9513-G02 at SHOMES- MATALE: “Can Sell”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:23:36",
-      "iso": "2026-08-24T06:53:36.749Z",
-      "action": "updated remark for LF-LEO-12023-WNG-S at MELSIRIPURA: “Damaged - 60%”"
     }
   ]
 }
