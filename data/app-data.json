@@ -34222,6 +34222,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:33:16",
       "lastUpdated": "2026-08-24T03:03:16.831Z"
+    },
+    "SLE40D600A||KANDANA": {
+      "remark": "Not in a sellable condition",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:33:31",
+      "lastUpdated": "2026-08-24T03:03:31.516Z"
     }
   },
   "showroomVisits": {
@@ -35198,6 +35205,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:33:31",
+      "iso": "2026-08-24T03:03:31.521Z",
+      "action": "updated remark for SLE40D600A at KANDANA: “Not in a sellable condition”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:33:16",
       "iso": "2026-08-24T03:03:16.832Z",
       "action": "updated remark for SLE32E930 at KANDANA: “Reported”"
@@ -35537,13 +35551,6 @@
       "time": "17:50:57",
       "iso": "2026-08-21T12:20:57.158Z",
       "action": "updated remark for MC-2868 at MATALE: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:50:34",
-      "iso": "2026-08-21T12:20:34.353Z",
-      "action": "updated remark for LF-IMP-BDQ-SHW-S at MATALE: “Damaged - 70%”"
     }
   ]
 }
