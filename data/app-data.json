@@ -40221,6 +40221,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:40:56",
       "lastUpdated": "2026-08-24T07:10:56.461Z"
+    },
+    "SLE32D2010TC||YATIYANTHOTA": {
+      "remark": "Panel damage. Flood",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:58:53",
+      "lastUpdated": "2026-08-24T07:28:53.565Z"
+    },
+    "SLE32D3010TC||YATIYANTHOTA": {
+      "remark": "Panel damage. Flood",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:58:56",
+      "lastUpdated": "2026-08-24T07:28:56.994Z"
     }
   },
   "showroomVisits": {
@@ -41231,6 +41245,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:58:57",
+      "iso": "2026-08-24T07:28:57.000Z",
+      "action": "updated remark for SLE32D3010TC at YATIYANTHOTA: “Panel damage. Flood”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:58:53",
+      "iso": "2026-08-24T07:28:53.571Z",
+      "action": "updated remark for SLE32D2010TC at YATIYANTHOTA: “Panel damage. Flood”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-24",
       "time": "12:58:21",
@@ -41565,20 +41593,6 @@
       "time": "12:43:57",
       "iso": "2026-08-24T07:13:57.400Z",
       "action": "updated remark for WFL-SPM-78X36X7-S at MELSIRIPURA: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:43:43",
-      "iso": "2026-08-24T07:13:43.257Z",
-      "action": "updated remark for SBI-60M19-T at WARAKAPOLA: “10% Additional”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:43:39",
-      "iso": "2026-08-24T07:13:39.662Z",
-      "action": "updated remark for WFL-ALP-HS-LDL-S at MELSIRIPURA: “10%”"
     }
   ]
 }
