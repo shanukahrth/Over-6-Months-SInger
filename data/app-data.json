@@ -34159,6 +34159,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:29:54",
       "lastUpdated": "2026-08-24T02:59:54.632Z"
+    },
+    "SIN-RFC-2058||KANDANA": {
+      "remark": "10% - Additional",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:30:12",
+      "lastUpdated": "2026-08-24T03:00:12.768Z"
     }
   },
   "showroomVisits": {
@@ -35135,6 +35142,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:30:12",
+      "iso": "2026-08-24T03:00:12.769Z",
+      "action": "updated remark for SIN-RFC-2058 at KANDANA: “10% - Additional”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:29:54",
       "iso": "2026-08-24T02:59:54.633Z",
       "action": "updated remark for SIN-RFC-2012 at KANDANA: “10% - Additional”"
@@ -35474,13 +35488,6 @@
       "time": "17:46:07",
       "iso": "2026-08-21T12:16:07.778Z",
       "action": "updated remark for GEO-182S-BU1 at MATALE: “Damaged - 35%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-21",
-      "time": "17:45:34",
-      "iso": "2026-08-21T12:15:34.489Z",
-      "action": "updated remark for FAN-WF1608R at MATALE: “Damaged - 40%”"
     }
   ]
 }
