@@ -44855,6 +44855,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:32:22",
       "lastUpdated": "2026-08-24T11:02:22.581Z"
+    },
+    "SMG-A36-5G-12-256-BLK||GALEWELA": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:32:08",
+      "lastUpdated": "2026-08-24T11:02:08.472Z"
     }
   },
   "showroomVisits": {
@@ -46143,6 +46150,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "16:32:08",
+      "iso": "2026-08-24T11:02:08.472Z",
+      "action": "updated remark for SMG-A36-5G-12-256-BLK at GALEWELA: “Damaged - 20%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "16:32:22",
@@ -46484,13 +46498,6 @@
       "time": "16:19:11",
       "iso": "2026-08-24T10:49:11.936Z",
       "action": "updated remark for WFL-SPM-78X60X8-S at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "16:19:03",
-      "iso": "2026-08-24T10:49:03.933Z",
-      "action": "updated remark for WFL-SPM-75X75X7-S at WENNAPPUWA: “Can sell”"
     }
   ]
 }
