@@ -36056,6 +36056,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:31:07",
       "lastUpdated": "2026-08-24T05:01:07.671Z"
+    },
+    "SLE32D5000||RUWANWELLA": {
+      "remark": "Customer is missing with the tv. Has informed by audit to reverse the revert and close the account.sales reversal and report",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:31:59",
+      "lastUpdated": "2026-08-24T05:01:59.806Z"
     }
   },
   "showroomVisits": {
@@ -37030,6 +37037,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:31:59",
+      "iso": "2026-08-24T05:01:59.811Z",
+      "action": "updated remark for SLE32D5000 at RUWANWELLA: “Customer is missing with the tv. Has informed by audit to reverse the revert and close the account.sales reversal and report”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:31:39",
+      "iso": "2026-08-24T05:01:39.002Z",
+      "action": "updated remark for SLE32D5000 at RUWANWELLA: “Customer is missing with the tv. Has informed by audit to reverse the revert and close the account.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:31:07",
@@ -37364,20 +37385,6 @@
       "time": "10:16:37",
       "iso": "2026-08-24T04:46:37.923Z",
       "action": "updated remark for TF-NIGP26-119 at MINUWANGODA - B: “Discounts already given to DM”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:16:20",
-      "iso": "2026-08-24T04:46:20.274Z",
-      "action": "updated remark for TF-CM-APR737 at MIRIGAMA: “Discount Already Given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:16:04",
-      "iso": "2026-08-24T04:46:04.678Z",
-      "action": "updated remark for TF-NIFP28-042 at MINUWANGODA - B: “Discounts already given to DM”"
     }
   ]
 }
