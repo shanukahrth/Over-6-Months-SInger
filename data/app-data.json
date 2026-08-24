@@ -37547,6 +37547,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:02:26",
       "lastUpdated": "2026-08-24T06:32:26.529Z"
+    },
+    "PF-STRG-BX-20L-S||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:02:54",
+      "lastUpdated": "2026-08-24T06:32:54.701Z"
     }
   },
   "showroomVisits": {
@@ -38521,6 +38528,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:02:54",
+      "iso": "2026-08-24T06:32:54.705Z",
+      "action": "updated remark for PF-STRG-BX-20L-S at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:02:26",
@@ -38862,13 +38876,6 @@
       "time": "11:53:35",
       "iso": "2026-08-24T06:23:35.589Z",
       "action": "updated remark for SWH-118EP-D at MATALE: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:52:56",
-      "iso": "2026-08-24T06:22:56.185Z",
-      "action": "updated remark for STT-200K at MATALE: “Damaged - 65%”"
     }
   ]
 }
