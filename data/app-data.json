@@ -46164,6 +46164,34 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:34:59",
       "lastUpdated": "2026-08-24T13:04:59.750Z"
+    },
+    "WFL-SWSTK-MPL-20FT||GALEWELA": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:34:37",
+      "lastUpdated": "2026-08-24T13:04:37.850Z"
+    },
+    "WP-CHTW-200-S||GALEWELA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:34:52",
+      "lastUpdated": "2026-08-24T13:04:52.181Z"
+    },
+    "WP-MAGICOOKPRO-25GE||GALEWELA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:35:10",
+      "lastUpdated": "2026-08-24T13:05:10.448Z"
+    },
+    "WP-WFC105604RT-G||GALEWELA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:35:20",
+      "lastUpdated": "2026-08-24T13:05:20.592Z"
     }
   },
   "showroomVisits": {
@@ -47452,6 +47480,34 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:35:20",
+      "iso": "2026-08-24T13:05:20.593Z",
+      "action": "updated remark for WP-WFC105604RT-G at GALEWELA: “Damaged - 30%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:35:10",
+      "iso": "2026-08-24T13:05:10.451Z",
+      "action": "updated remark for WP-MAGICOOKPRO-25GE at GALEWELA: “Damaged - 30%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:34:52",
+      "iso": "2026-08-24T13:04:52.184Z",
+      "action": "updated remark for WP-CHTW-200-S at GALEWELA: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:34:37",
+      "iso": "2026-08-24T13:04:37.853Z",
+      "action": "updated remark for WFL-SWSTK-MPL-20FT at GALEWELA: “Damaged - 20%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "18:34:59",
@@ -47772,34 +47828,6 @@
       "time": "18:20:14",
       "iso": "2026-08-24T12:50:14.079Z",
       "action": "updated remark for FAN-WF1608R at HETTIMULLA LITE: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "18:19:26",
-      "iso": "2026-08-24T12:49:26.940Z",
-      "action": "updated remark for PCP50 at HETTIMULLA LITE: “60% flat to clear the inventory”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "18:19:07",
-      "iso": "2026-08-24T12:49:07.112Z",
-      "action": "updated remark for PCP30 at HETTIMULLA LITE: “60% flat to clear the inventory”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "18:17:23",
-      "iso": "2026-08-24T12:47:23.048Z",
-      "action": "updated remark for EDU-HDMI at HETTIMULLA LITE: “Shop use”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "18:16:05",
-      "iso": "2026-08-24T12:46:05.482Z",
-      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at HETTIMULLA LITE: “Shop use”"
     }
   ]
 }
