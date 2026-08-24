@@ -44554,6 +44554,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:18:25",
       "lastUpdated": "2026-08-24T10:48:25.216Z"
+    },
+    "WFL-MONACO-11-S||WENNAPPUWA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:17:59",
+      "lastUpdated": "2026-08-24T10:47:59.189Z"
+    },
+    "WFL-SPBLSTR-8X24||WENNAPPUWA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:18:10",
+      "lastUpdated": "2026-08-24T10:48:10.532Z"
     }
   },
   "showroomVisits": {
@@ -45842,6 +45856,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:18:10",
+      "iso": "2026-08-24T10:48:10.534Z",
+      "action": "updated remark for WFL-SPBLSTR-8X24 at WENNAPPUWA: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:17:59",
+      "iso": "2026-08-24T10:47:59.192Z",
+      "action": "updated remark for WFL-MONACO-11-S at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "16:18:25",
@@ -46176,20 +46204,6 @@
       "time": "16:06:19",
       "iso": "2026-08-24T10:36:19.826Z",
       "action": "updated remark for TF-TT365027 at KOTIYAKUMBURA: “Display 85% offered”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "16:05:44",
-      "iso": "2026-08-24T10:35:44.862Z",
-      "action": "updated remark for TF-GCA-1336 at WENNAPPUWA: “Damaged - 10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "16:05:43",
-      "iso": "2026-08-24T10:35:43.170Z",
-      "action": "updated remark for TF-FP24-SCR342 at WENNAPPUWA: “Damaged - 10%”"
     }
   ]
 }
