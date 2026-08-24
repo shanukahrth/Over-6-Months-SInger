@@ -37365,6 +37365,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:57:52",
       "lastUpdated": "2026-08-24T06:27:52.107Z"
+    },
+    "TF-NIFP28-042||MATALE": {
+      "remark": "Damaged - 35%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:58:15",
+      "lastUpdated": "2026-08-24T06:28:15.402Z"
     }
   },
   "showroomVisits": {
@@ -38339,6 +38346,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:58:15",
+      "iso": "2026-08-24T06:28:15.405Z",
+      "action": "updated remark for TF-NIFP28-042 at MATALE: “Damaged - 35%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "11:57:52",
@@ -38680,13 +38694,6 @@
       "time": "11:48:00",
       "iso": "2026-08-24T06:18:00.149Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at SHOMES- MATALE (cleared)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:47:57",
-      "iso": "2026-08-24T06:17:57.918Z",
-      "action": "updated remark for DH-IPC-F2CP-LED-0360B at SHOMES- MATALE (cleared)"
     }
   ]
 }
