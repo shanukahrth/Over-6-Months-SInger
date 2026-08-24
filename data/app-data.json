@@ -12174,11 +12174,11 @@
       "lastUpdated": "2026-08-18T06:46:44.632Z"
     },
     "SKY55Q6700G||MELSIRIPURA": {
-      "remark": "Damaged - 10%",
-      "commentedBy": "SHENULI",
-      "commentDate": "2026-08-18",
-      "commentTime": "12:13:32",
-      "lastUpdated": "2026-08-18T06:43:32.673Z"
+      "remark": "Damaged - 37%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:32:24",
+      "lastUpdated": "2026-08-24T07:02:24.340Z"
     },
     "SWM-FA70R||MELSIRIPURA": {
       "remark": "Revert Damaged - 50%",
@@ -40496,6 +40496,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:32:24",
+      "iso": "2026-08-24T07:02:24.343Z",
+      "action": "updated remark for SKY55Q6700G at MELSIRIPURA: “Damaged - 37%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "12:32:47",
@@ -40837,13 +40844,6 @@
       "time": "12:11:11",
       "iso": "2026-08-24T06:41:11.794Z",
       "action": "updated remark for SLE32E930 at NAWALAPITIYA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:11:08",
-      "iso": "2026-08-24T06:41:08.080Z",
-      "action": "updated remark for SLE32E810 at NAWALAPITIYA: “90%”"
     }
   ]
 }
