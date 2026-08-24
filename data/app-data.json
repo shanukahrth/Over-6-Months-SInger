@@ -37281,6 +37281,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:55:14",
       "lastUpdated": "2026-08-24T06:25:14.734Z"
+    },
+    "LF-LEO-HCUP-BCH||SHOMES- MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:55:23",
+      "lastUpdated": "2026-08-24T06:25:23.148Z"
     }
   },
   "showroomVisits": {
@@ -38257,6 +38264,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "11:55:23",
+      "iso": "2026-08-24T06:25:23.149Z",
+      "action": "updated remark for LF-LEO-HCUP-BCH at SHOMES- MATALE: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "11:55:14",
       "iso": "2026-08-24T06:25:14.736Z",
       "action": "updated remark for LF-LEO-18023-WNG-S at SHOMES- MATALE: “Damaged - 50%”"
@@ -38596,13 +38610,6 @@
       "time": "11:45:06",
       "iso": "2026-08-24T06:15:06.932Z",
       "action": "updated remark for SIN-K13 at MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:44:38",
-      "iso": "2026-08-24T06:14:38.954Z",
-      "action": "updated remark for SIN-BS30 at MATALE: “Damaged - 85%”"
     }
   ]
 }
