@@ -40865,6 +40865,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:06:59",
       "lastUpdated": "2026-08-24T08:36:59.062Z"
+    },
+    "PN-SC-BMAX10E-K||KAHATAGASDIGILIYA": {
+      "remark": "40%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:07:25",
+      "lastUpdated": "2026-08-24T08:37:25.890Z"
+    },
+    "PN-SC-BMAX5E-K||KAHATAGASDIGILIYA": {
+      "remark": "50%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:07:43",
+      "lastUpdated": "2026-08-24T08:37:43.525Z"
+    },
+    "PN-SC-HTB490EBK||KAHATAGASDIGILIYA": {
+      "remark": "50%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:07:55",
+      "lastUpdated": "2026-08-24T08:37:55.332Z"
     }
   },
   "showroomVisits": {
@@ -41911,6 +41932,27 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:07:55",
+      "iso": "2026-08-24T08:37:55.335Z",
+      "action": "updated remark for PN-SC-HTB490EBK at KAHATAGASDIGILIYA: “50%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:07:43",
+      "iso": "2026-08-24T08:37:43.528Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at KAHATAGASDIGILIYA: “50%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:07:25",
+      "iso": "2026-08-24T08:37:25.893Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at KAHATAGASDIGILIYA: “40%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "14:06:59",
@@ -42238,27 +42280,6 @@
       "time": "14:00:01",
       "iso": "2026-08-24T08:30:01.878Z",
       "action": "updated remark for LF-LOUVRE-BSC-R-S at BULATHKOHUPITIYA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:59:52",
-      "iso": "2026-08-24T08:29:52.513Z",
-      "action": "updated remark for LF-LOUVRE-BSC-L-S at BULATHKOHUPITIYA: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "13:59:42",
-      "iso": "2026-08-24T08:29:42.082Z",
-      "action": "updated remark for WFL-SPM-75X60X7-S at BULATHKOHUPITIYA: “Already 70% have”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:58:55",
-      "iso": "2026-08-24T08:28:55.459Z",
-      "action": "updated remark for LF-LEO-HDBC-BCH at RAGAMA: “50%”"
     }
   ]
 }
