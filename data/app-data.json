@@ -45415,6 +45415,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "17:11:36",
       "lastUpdated": "2026-08-24T11:41:36.384Z"
+    },
+    "HU-SECURITY||NAULA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "17:51:55",
+      "lastUpdated": "2026-08-24T12:21:55.879Z"
     }
   },
   "showroomVisits": {
@@ -46703,6 +46710,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "17:51:55",
+      "iso": "2026-08-24T12:21:55.880Z",
+      "action": "updated remark for HU-SECURITY at NAULA: “Okay”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "17:11:36",
@@ -47044,13 +47058,6 @@
       "time": "16:39:08",
       "iso": "2026-08-24T11:09:08.722Z",
       "action": "updated remark for ULED32D60A at KEBITHIGOLLEWA: “80%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:39:00",
-      "iso": "2026-08-24T11:09:00.375Z",
-      "action": "updated remark for SLE40D600A at KEBITHIGOLLEWA: “70%”"
     }
   ]
 }
