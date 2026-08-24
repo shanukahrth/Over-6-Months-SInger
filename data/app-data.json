@@ -36133,6 +36133,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:38:11",
       "lastUpdated": "2026-08-24T05:08:11.032Z"
+    },
+    "SLE43S400||RUWANWELLA": {
+      "remark": "Revert damaged. Can return to Warehouse. Won't charge the BM",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:38:55",
+      "lastUpdated": "2026-08-24T05:08:55.151Z"
     }
   },
   "showroomVisits": {
@@ -37107,6 +37114,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:38:55",
+      "iso": "2026-08-24T05:08:55.156Z",
+      "action": "updated remark for SLE43S400 at RUWANWELLA: “Revert damaged. Can return to Warehouse. Won't charge the BM”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:38:11",
@@ -37448,13 +37462,6 @@
       "time": "10:19:09",
       "iso": "2026-08-24T04:49:09.279Z",
       "action": "updated remark for SMW823AY7 at MIRIGAMA: “Discount Already Given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:18:52",
-      "iso": "2026-08-24T04:48:52.322Z",
-      "action": "updated remark for ULED32D5000 at MINUWANGODA - B: “70%”"
     }
   ]
 }
