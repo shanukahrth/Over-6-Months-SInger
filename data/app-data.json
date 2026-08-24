@@ -42475,6 +42475,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:30:10",
       "lastUpdated": "2026-08-24T09:00:10.445Z"
+    },
+    "BES-WP15-ECO||KAHATAGASDIGILIYA": {
+      "remark": "50%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:30:33",
+      "lastUpdated": "2026-08-24T09:00:33.176Z"
     }
   },
   "showroomVisits": {
@@ -43547,6 +43554,13 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "14:30:33",
+      "iso": "2026-08-24T09:00:33.180Z",
+      "action": "updated remark for BES-WP15-ECO at KAHATAGASDIGILIYA: “50%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "14:30:10",
       "iso": "2026-08-24T09:00:10.449Z",
       "action": "updated remark for SN-SMI-305 at KAHATAGASDIGILIYA: “40%”"
@@ -43886,13 +43900,6 @@
       "time": "14:22:06",
       "iso": "2026-08-24T08:52:06.993Z",
       "action": "updated remark for ULED32D2070 at BULATHKOHUPITIYA: “Doesn't turn on”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "14:21:27",
-      "iso": "2026-08-24T08:51:27.700Z",
-      "action": "updated remark for SS-PS16-AG at BULATHKOHUPITIYA: “75% offered”"
     }
   ]
 }
