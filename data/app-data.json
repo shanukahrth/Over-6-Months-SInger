@@ -37701,6 +37701,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:08:37",
       "lastUpdated": "2026-08-24T06:38:37.257Z"
+    },
+    "SPM-78X60||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:08:11",
+      "lastUpdated": "2026-08-24T06:38:11.690Z"
     }
   },
   "showroomVisits": {
@@ -38681,6 +38688,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:08:11",
+      "iso": "2026-08-24T06:38:11.692Z",
+      "action": "updated remark for SPM-78X60 at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "12:08:37",
@@ -39022,13 +39036,6 @@
       "time": "11:58:37",
       "iso": "2026-08-24T06:28:37.970Z",
       "action": "updated remark for TF-NIGP26-119 at MATALE: “Damaged - 35%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:58:25",
-      "iso": "2026-08-24T06:28:25.060Z",
-      "action": "updated remark for LF-SILVERY-DTO-S at SHOMES- MATALE: “Can Sell”"
     }
   ]
 }
