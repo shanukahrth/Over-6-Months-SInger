@@ -45366,6 +45366,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "17:00:21",
       "lastUpdated": "2026-08-24T11:30:21.665Z"
+    },
+    "SLE32D5000||KOTIYAKUMBURA": {
+      "remark": "Damaged. 80% offered to report",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "17:00:55",
+      "lastUpdated": "2026-08-24T11:30:55.001Z"
     }
   },
   "showroomVisits": {
@@ -46656,6 +46663,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "17:00:55",
+      "iso": "2026-08-24T11:30:55.006Z",
+      "action": "updated remark for SLE32D5000 at KOTIYAKUMBURA: “Damaged. 80% offered to report”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "17:00:21",
       "iso": "2026-08-24T11:30:21.670Z",
       "action": "updated remark for SLE32E920 at KOTIYAKUMBURA: “70% offered”"
@@ -46995,13 +47009,6 @@
       "time": "16:35:55",
       "iso": "2026-08-24T11:05:55.726Z",
       "action": "updated remark for BR-1 at KEBITHIGOLLEWA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:35:52",
-      "iso": "2026-08-24T11:05:52.460Z",
-      "action": "updated remark for CLIP-MCW at KEBITHIGOLLEWA: “70%”"
     }
   ]
 }
