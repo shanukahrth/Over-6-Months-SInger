@@ -44098,7 +44098,7 @@
     "JAYANTHIPURA||POLONNARUWA": {
       "visited": "Yes",
       "visitDate": "2026-08-19",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44106,23 +44106,23 @@
     "KADURUWELA||POLONNARUWA": {
       "visited": "Yes",
       "visitDate": "2026-08-19",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
     },
     "KADURUWELA B||POLONNARUWA": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-19",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
     },
     "MEDIRIGIRIYA||POLONNARUWA": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-18",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44130,7 +44130,7 @@
     "POLONNARUWA||POLONNARUWA": {
       "visited": "Yes",
       "visitDate": "2026-08-18",
-      "team": "",
+      "team": "Chamal and Kaveesha ",
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
@@ -44241,6 +44241,41 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:12",
+      "iso": "2026-08-24T09:26:12.217Z",
+      "action": "updated POLONNARUWA showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:10",
+      "iso": "2026-08-24T09:26:10.640Z",
+      "action": "updated MEDIRIGIRIYA showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:08",
+      "iso": "2026-08-24T09:26:08.552Z",
+      "action": "updated KADURUWELA B showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:06",
+      "iso": "2026-08-24T09:26:06.211Z",
+      "action": "updated KADURUWELA showroom (team: Chamal and Kaveesha )"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:56:03",
+      "iso": "2026-08-24T09:26:03.522Z",
+      "action": "updated JAYANTHIPURA showroom (team: Chamal and Kaveesha )"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
@@ -44555,41 +44590,6 @@
       "time": "14:47:45",
       "iso": "2026-08-24T09:17:45.757Z",
       "action": "updated remark for HON-X5PLUS-4-64-BLK at WENNAPPUWA: “Sold Out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:47:08",
-      "iso": "2026-08-24T09:17:08.196Z",
-      "action": "updated remark for HON-PAD-X7-CV at WENNAPPUWA: “Free issue”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:46:35",
-      "iso": "2026-08-24T09:16:35.705Z",
-      "action": "updated remark for KV-FPAU5A at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:46:23",
-      "iso": "2026-08-24T09:16:23.478Z",
-      "action": "updated remark for HON-H400PRO-12-512-GRY at WENNAPPUWA: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:45:51",
-      "iso": "2026-08-24T09:15:51.020Z",
-      "action": "updated remark for HON-H200SMART-8-256-WHT at WENNAPPUWA: “Damaged - 35%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "14:44:41",
-      "iso": "2026-08-24T09:14:41.298Z",
-      "action": "updated remark for DELL3511-I3-4GB256-BLK at WENNAPPUWA: “90% - Damage Revert”"
     }
   ]
 }
