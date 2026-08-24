@@ -38163,6 +38163,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:20:57",
       "lastUpdated": "2026-08-24T06:50:57.935Z"
+    },
+    "WP-WDC11704RG-G||SHOMES- MATALE": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:21:05",
+      "lastUpdated": "2026-08-24T06:51:05.691Z"
     }
   },
   "showroomVisits": {
@@ -39173,6 +39180,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:21:05",
+      "iso": "2026-08-24T06:51:05.693Z",
+      "action": "updated remark for WP-WDC11704RG-G at SHOMES- MATALE: “Damaged - 20%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:21:09",
@@ -39514,13 +39528,6 @@
       "time": "12:14:50",
       "iso": "2026-08-24T06:44:50.175Z",
       "action": "updated remark for WF-PARIS-BL-S at SHOMES- MATALE: “Damaged - 60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:14:42",
-      "iso": "2026-08-24T06:44:42.581Z",
-      "action": "updated remark for SLE42D2070TC at WARAKAPOLA: “Pannel Damage 70%”"
     }
   ]
 }
