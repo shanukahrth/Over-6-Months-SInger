@@ -34670,6 +34670,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:12:39",
       "lastUpdated": "2026-08-24T03:42:39.295Z"
+    },
+    "SDV3605K||RUWANWELLA": {
+      "remark": "Rs.1,000 Mop",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:13:20",
+      "lastUpdated": "2026-08-24T03:43:20.244Z"
     }
   },
   "showroomVisits": {
@@ -35644,6 +35651,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "09:13:20",
+      "iso": "2026-08-24T03:43:20.249Z",
+      "action": "updated remark for SDV3605K at RUWANWELLA: “Rs.1,000 Mop”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "09:12:39",
@@ -35985,13 +35999,6 @@
       "time": "08:49:18",
       "iso": "2026-08-24T03:19:18.330Z",
       "action": "updated remark for TF-FP24-SCR342 at KANDANA: “Already Provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:48:51",
-      "iso": "2026-08-24T03:18:51.236Z",
-      "action": "updated remark for TF-AF32-577 at KANDANA: “Already Provided”"
     }
   ]
 }
