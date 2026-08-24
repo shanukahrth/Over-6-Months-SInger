@@ -36329,6 +36329,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:59:39",
       "lastUpdated": "2026-08-24T05:29:39.119Z"
+    },
+    "CM-PEN-16GB||RAGAMA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:00:03",
+      "lastUpdated": "2026-08-24T05:30:03.105Z"
     }
   },
   "showroomVisits": {
@@ -37305,6 +37312,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "11:00:03",
+      "iso": "2026-08-24T05:30:03.107Z",
+      "action": "updated remark for CM-PEN-16GB at RAGAMA: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "10:59:39",
       "iso": "2026-08-24T05:29:39.120Z",
       "action": "updated remark for CAN-I-E410 at RAGAMA: “0%”"
@@ -37644,13 +37658,6 @@
       "time": "10:34:07",
       "iso": "2026-08-24T05:04:07.253Z",
       "action": "updated remark for SKY32STD1000 at MIRIGAMA: “20% Add”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "10:33:30",
-      "iso": "2026-08-24T05:03:30.482Z",
-      "action": "updated remark for TCLED32D65A at MIRIGAMA: “30% Add”"
     }
   ]
 }
