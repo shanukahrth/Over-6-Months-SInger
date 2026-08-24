@@ -35785,11 +35785,11 @@
       "lastUpdated": "2026-08-24T04:46:30.526Z"
     },
     "MC8280||RUWANWELLA": {
-      "remark": "Class used. Used.",
+      "remark": "Class used. Used. RS.25,000 mop offered.",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "10:17:19",
-      "lastUpdated": "2026-08-24T04:47:19.668Z"
+      "commentTime": "10:18:41",
+      "lastUpdated": "2026-08-24T04:48:41.957Z"
     },
     "TH-TC-351||MIRIGAMA": {
       "remark": "Discount Already Given",
@@ -35881,6 +35881,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:20:31",
       "lastUpdated": "2026-08-24T04:50:31.690Z"
+    },
+    "SINTEK-SS-MS-16||RUWANWELLA": {
+      "remark": "75% o",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:21:49",
+      "lastUpdated": "2026-08-24T04:51:49.770Z"
     }
   },
   "showroomVisits": {
@@ -36855,6 +36862,20 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:21:49",
+      "iso": "2026-08-24T04:51:49.799Z",
+      "action": "updated remark for SINTEK-SS-MS-16 at RUWANWELLA: “75% o”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:18:41",
+      "iso": "2026-08-24T04:48:41.963Z",
+      "action": "updated remark for MC8280 at RUWANWELLA: “Class used. Used. RS.25,000 mop offered.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:20:40",
@@ -37189,20 +37210,6 @@
       "time": "10:10:22",
       "iso": "2026-08-24T04:40:22.490Z",
       "action": "updated remark for UPRO-12000 at RUWANWELLA: “95% offered.battery issue”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:10:18",
-      "iso": "2026-08-24T04:40:18.388Z",
-      "action": "updated remark for UPRO-12000 at RUWANWELLA: “95% offered.battery issu”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "10:09:35",
-      "iso": "2026-08-24T04:39:35.192Z",
-      "action": "updated remark for SWM-FA70R at MINUWANGODA - B: “60%”"
     }
   ]
 }
