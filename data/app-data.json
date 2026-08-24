@@ -39864,6 +39864,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:38:55",
       "lastUpdated": "2026-08-24T07:08:55.234Z"
+    },
+    "PF-SUMO-ST-NKL-BU-S||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:38:34",
+      "lastUpdated": "2026-08-24T07:08:34.044Z"
+    },
+    "PF-MONDY-RED||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:38:38",
+      "lastUpdated": "2026-08-24T07:08:38.260Z"
     }
   },
   "showroomVisits": {
@@ -40874,6 +40888,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:38:38",
+      "iso": "2026-08-24T07:08:38.261Z",
+      "action": "updated remark for PF-MONDY-RED at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:38:34",
+      "iso": "2026-08-24T07:08:34.047Z",
+      "action": "updated remark for PF-SUMO-ST-NKL-BU-S at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-24",
       "time": "12:38:55",
@@ -41208,20 +41236,6 @@
       "time": "12:34:08",
       "iso": "2026-08-24T07:04:08.712Z",
       "action": "updated remark for SLE32D1800 at MELSIRIPURA: “Damaged - 90”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "12:34:37",
-      "iso": "2026-08-24T07:04:37.257Z",
-      "action": "updated remark for SMG-A36-5G-12-256-BLK at GALENBIDUNUWEWA: “10%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "12:34:02",
-      "iso": "2026-08-24T07:04:02.992Z",
-      "action": "updated remark for SMG-A17-8-128-BLU at GALENBIDUNUWEWA: “Add 5%”"
     }
   ]
 }
