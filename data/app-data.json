@@ -43724,6 +43724,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "UHANA||AMPARA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-19",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43831,6 +43839,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:43:41",
+      "iso": "2026-08-24T09:13:41.742Z",
+      "action": "updated UHANA showroom (visitDate: 2026-08-19)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -44173,13 +44188,6 @@
       "time": "14:31:21",
       "iso": "2026-08-24T09:01:21.895Z",
       "action": "updated remark for AES-HAV-30S at KAHATAGASDIGILIYA: “20%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "14:31:09",
-      "iso": "2026-08-24T09:01:09.634Z",
-      "action": "updated remark for PN-TH-32MS670N at BULATHKOHUPITIYA: “75% flat offered”"
     }
   ]
 }
