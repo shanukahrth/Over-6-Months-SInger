@@ -37346,11 +37346,11 @@
       "lastUpdated": "2026-08-24T06:26:52.295Z"
     },
     "TF-NIDFP24-170||MATALE": {
-      "remark": "Damaged - 40%",
+      "remark": "Damaged - 35%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-24",
-      "commentTime": "11:57:21",
-      "lastUpdated": "2026-08-24T06:27:21.581Z"
+      "commentTime": "11:57:43",
+      "lastUpdated": "2026-08-24T06:27:43.996Z"
     }
   },
   "showroomVisits": {
@@ -38327,6 +38327,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "11:57:43",
+      "iso": "2026-08-24T06:27:43.997Z",
+      "action": "updated remark for TF-NIDFP24-170 at MATALE: “Damaged - 35%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "11:57:21",
       "iso": "2026-08-24T06:27:21.583Z",
       "action": "updated remark for TF-NIDFP24-170 at MATALE: “Damaged - 40%”"
@@ -38666,13 +38673,6 @@
       "time": "11:47:54",
       "iso": "2026-08-24T06:17:54.860Z",
       "action": "updated remark for SL-GSE-S001 at MATALE: “Ok”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:47:22",
-      "iso": "2026-08-24T06:17:22.937Z",
-      "action": "updated remark for SIN-RFC-2058 at MATALE: “Damaged - 40%”"
     }
   ]
 }
