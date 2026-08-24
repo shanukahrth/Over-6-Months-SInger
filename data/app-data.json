@@ -43846,6 +43846,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-08-24"
+    },
+    "POLONNARUWA||POLONNARUWA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-18",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-08-24"
     }
   },
   "soldMarks": {
@@ -43953,6 +43961,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:46:23",
+      "iso": "2026-08-24T09:16:23.827Z",
+      "action": "updated POLONNARUWA showroom (visited: Yes)"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-08-24",
+      "time": "14:46:20",
+      "iso": "2026-08-24T09:16:20.140Z",
+      "action": "updated POLONNARUWA showroom (visitDate: 2026-08-18)"
+    },
     {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
@@ -44288,20 +44310,6 @@
       "time": "14:38:18",
       "iso": "2026-08-24T09:08:18.383Z",
       "action": "updated remark for SWM-FA70R at KAHATAGASDIGILIYA: “50%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:38:01",
-      "iso": "2026-08-24T09:08:01.515Z",
-      "action": "updated remark for WC-RTC221 at KAHATAGASDIGILIYA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "14:37:34",
-      "iso": "2026-08-24T09:07:34.214Z",
-      "action": "updated remark for WC-IK609 at KAHATAGASDIGILIYA: “70%”"
     }
   ]
 }
