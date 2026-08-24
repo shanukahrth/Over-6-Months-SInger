@@ -39528,6 +39528,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:33:51",
       "lastUpdated": "2026-08-24T07:03:51.573Z"
+    },
+    "SL-ECO192||MELSIRIPURA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:33:28",
+      "lastUpdated": "2026-08-24T07:03:28.167Z"
     }
   },
   "showroomVisits": {
@@ -40538,6 +40545,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:33:28",
+      "iso": "2026-08-24T07:03:28.169Z",
+      "action": "updated remark for SL-ECO192 at MELSIRIPURA: “Damaged - 60%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-24",
       "time": "12:33:51",
@@ -40879,13 +40893,6 @@
       "time": "12:14:36",
       "iso": "2026-08-24T06:44:36.775Z",
       "action": "updated remark for SLE43G890 at NAWALAPITIYA: “1 shops use, 1 service center pending,1 salable 60%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:12:54",
-      "iso": "2026-08-24T06:42:54.167Z",
-      "action": "updated remark for SLE43G790 at NAWALAPITIYA: “Service center PO pending”"
     }
   ]
 }
