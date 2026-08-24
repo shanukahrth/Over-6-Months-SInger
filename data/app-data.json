@@ -46332,6 +46332,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:42:05",
       "lastUpdated": "2026-08-24T13:12:05.116Z"
+    },
+    "RIYLTA-MF12V35A||GALEWELA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:42:36",
+      "lastUpdated": "2026-08-24T13:12:36.000Z"
     }
   },
   "showroomVisits": {
@@ -47622,6 +47629,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "18:42:36",
+      "iso": "2026-08-24T13:12:36.003Z",
+      "action": "updated remark for RIYLTA-MF12V35A at GALEWELA: “Damaged - 90%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "18:42:05",
       "iso": "2026-08-24T13:12:05.119Z",
       "action": "updated remark for PN-SC-UA7GS-K at GALEWELA: “Damaged - 50%”"
@@ -47960,13 +47974,6 @@
       "date": "2026-08-24",
       "time": "18:28:05",
       "iso": "2026-08-24T12:58:05.768Z",
-      "action": "updated remark for MID-D30-20EVN1 at GALEWELA: “15%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "18:28:02",
-      "iso": "2026-08-24T12:58:02.906Z",
       "action": "updated remark for MID-D30-20EVN1 at GALEWELA: “15%”"
     }
   ]
