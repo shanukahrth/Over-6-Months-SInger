@@ -42818,6 +42818,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:48:45",
       "lastUpdated": "2026-08-24T09:18:45.531Z"
+    },
+    "HON-X9B-12-256-ORG||WENNAPPUWA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:48:59",
+      "lastUpdated": "2026-08-24T09:18:59.372Z"
     }
   },
   "showroomVisits": {
@@ -44034,6 +44041,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-24",
+      "time": "14:48:59",
+      "iso": "2026-08-24T09:18:59.372Z",
+      "action": "updated remark for HON-X9B-12-256-ORG at WENNAPPUWA: “Damaged - 90%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
       "time": "14:48:45",
       "iso": "2026-08-24T09:18:45.531Z",
       "action": "updated remark for HON-X9A-8-256-GRN at WENNAPPUWA: “Damaged - 90%”"
@@ -44373,13 +44387,6 @@
       "time": "14:41:33",
       "iso": "2026-08-24T09:11:33.927Z",
       "action": "updated remark for AS-BM155T-I5W10 at WENNAPPUWA: “80% -Damaged”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:40:56",
-      "iso": "2026-08-24T09:10:56.987Z",
-      "action": "updated remark for PU-SINK at RAGAMA: “60%”"
     }
   ]
 }
