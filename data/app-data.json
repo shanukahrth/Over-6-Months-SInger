@@ -38002,6 +38002,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:18:03",
       "lastUpdated": "2026-08-24T06:48:03.447Z"
+    },
+    "WFI-TROY-BENCH-S||SHOMES- MATALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:17:45",
+      "lastUpdated": "2026-08-24T06:47:45.749Z"
+    },
+    "WFL-ALP-HS-2KL-S||SHOMES- MATALE": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:18:07",
+      "lastUpdated": "2026-08-24T06:48:07.068Z"
     }
   },
   "showroomVisits": {
@@ -39012,6 +39026,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:18:07",
+      "iso": "2026-08-24T06:48:07.070Z",
+      "action": "updated remark for WFL-ALP-HS-2KL-S at SHOMES- MATALE: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:17:45",
+      "iso": "2026-08-24T06:47:45.751Z",
+      "action": "updated remark for WFI-TROY-BENCH-S at SHOMES- MATALE: “Damaged - 40%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:18:03",
@@ -39346,20 +39374,6 @@
       "time": "12:11:27",
       "iso": "2026-08-24T06:41:27.254Z",
       "action": "updated remark for WF-BRN-ST-RTK-S at SHOMES- MATALE: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:11:17",
-      "iso": "2026-08-24T06:41:17.677Z",
-      "action": "updated remark for TF-NIGP26-119 at MATALE: “Damaged - 35%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:11:05",
-      "iso": "2026-08-24T06:41:05.511Z",
-      "action": "updated remark for TF-NIDFP24-170 at MATALE: “Damaged - 40%”"
     }
   ]
 }
