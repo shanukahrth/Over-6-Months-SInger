@@ -46640,6 +46640,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "19:36:07",
       "lastUpdated": "2026-08-24T14:06:07.017Z"
+    },
+    "PF-CAFE-NEW-RW-S||MAHO": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "19:36:48",
+      "lastUpdated": "2026-08-24T14:06:48.213Z"
     }
   },
   "showroomVisits": {
@@ -47930,6 +47937,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "19:36:48",
+      "iso": "2026-08-24T14:06:48.215Z",
+      "action": "updated remark for PF-CAFE-NEW-RW-S at MAHO: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "19:36:07",
       "iso": "2026-08-24T14:06:07.018Z",
       "action": "updated remark for SLE24E810 at MAHO: “Damaged - 90%”"
@@ -48269,13 +48283,6 @@
       "time": "18:43:23",
       "iso": "2026-08-24T13:13:23.826Z",
       "action": "updated remark for TF-NIFP28-042 at GALEWELA: “Damaged - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "18:43:09",
-      "iso": "2026-08-24T13:13:09.545Z",
-      "action": "updated remark for RIYLTA-MF12V92A at GALEWELA: “Damaged - 90%”"
     }
   ]
 }
