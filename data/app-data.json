@@ -46038,6 +46038,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:26:24",
       "lastUpdated": "2026-08-24T12:56:24.082Z"
+    },
+    "WF-DOC-M003-BU-S||NAULA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:26:41",
+      "lastUpdated": "2026-08-24T12:56:41.752Z"
     }
   },
   "showroomVisits": {
@@ -47328,6 +47335,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:26:41",
+      "iso": "2026-08-24T12:56:41.753Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at NAULA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:26:24",
       "iso": "2026-08-24T12:56:24.084Z",
       "action": "updated remark for WFI-DELPHI-TBL-S at NAULA: “Damaged - 65%”"
@@ -47667,13 +47681,6 @@
       "time": "18:14:20",
       "iso": "2026-08-24T12:44:20.013Z",
       "action": "updated remark for SDV3605K at GALEWELA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:14:12",
-      "iso": "2026-08-24T12:44:12.902Z",
-      "action": "updated remark for SLE32E910 at NAULA: “Okay”"
     }
   ]
 }
