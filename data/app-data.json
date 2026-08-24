@@ -44918,6 +44918,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:33:10",
       "lastUpdated": "2026-08-24T11:03:10.608Z"
+    },
+    "CAN-L-LBP6030||KOTIYAKUMBURA": {
+      "remark": "-",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:33:28",
+      "lastUpdated": "2026-08-24T11:03:28.393Z"
+    },
+    "FT-FED-35001||KOTIYAKUMBURA": {
+      "remark": "-",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:34:07",
+      "lastUpdated": "2026-08-24T11:04:07.344Z"
     }
   },
   "showroomVisits": {
@@ -46206,6 +46220,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "16:34:07",
+      "iso": "2026-08-24T11:04:07.349Z",
+      "action": "updated remark for FT-FED-35001 at KOTIYAKUMBURA: “-”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "16:33:28",
+      "iso": "2026-08-24T11:03:28.398Z",
+      "action": "updated remark for CAN-L-LBP6030 at KOTIYAKUMBURA: “-”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "16:33:24",
+      "iso": "2026-08-24T11:03:24.803Z",
+      "action": "updated remark for CAN-L-LBP6030 at KOTIYAKUMBURA: “-”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "16:33:10",
@@ -46533,27 +46568,6 @@
       "time": "16:21:02",
       "iso": "2026-08-24T10:51:02.888Z",
       "action": "updated remark for PF-MONDY-BLUE at KEBITHIGOLLEWA: “50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "16:20:22",
-      "iso": "2026-08-24T10:50:22.644Z",
-      "action": "updated remark for WFL-TUSBSC at WENNAPPUWA: “Damage - 60%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:20:41",
-      "iso": "2026-08-24T10:50:41.895Z",
-      "action": "updated remark for UDV3618SY at KEBITHIGOLLEWA: “1500/-”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:20:36",
-      "iso": "2026-08-24T10:50:36.078Z",
-      "action": "updated remark for UDV3618SY at KEBITHIGOLLEWA: “1500/-”"
     }
   ]
 }
