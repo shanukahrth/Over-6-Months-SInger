@@ -39598,6 +39598,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:35:05",
       "lastUpdated": "2026-08-24T07:05:05.742Z"
+    },
+    "SLE32E810||MELSIRIPURA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:34:50",
+      "lastUpdated": "2026-08-24T07:04:50.793Z"
     }
   },
   "showroomVisits": {
@@ -40608,6 +40615,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:34:50",
+      "iso": "2026-08-24T07:04:50.795Z",
+      "action": "updated remark for SLE32E810 at MELSIRIPURA: “Damaged - 90%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "12:35:05",
@@ -40949,13 +40963,6 @@
       "time": "12:21:02",
       "iso": "2026-08-24T06:51:02.641Z",
       "action": "updated remark for SWM-FA70R at NAWALAPITIYA: “50%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:20:03",
-      "iso": "2026-08-24T06:50:03.023Z",
-      "action": "updated remark for SIN-HPW0317 at NAWALAPITIYA: “70% parts missing”"
     }
   ]
 }
