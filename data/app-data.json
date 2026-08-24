@@ -40020,11 +40020,11 @@
       "lastUpdated": "2026-08-24T07:13:57.399Z"
     },
     "SIN-TL-3118||YATIYANTHOTA": {
-      "remark": "Not working. 80%",
+      "remark": "Not working. 90% offered to",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "12:44:37",
-      "lastUpdated": "2026-08-24T07:14:37.156Z"
+      "commentTime": "12:45:24",
+      "lastUpdated": "2026-08-24T07:15:24.406Z"
     },
     "WP-JUN-E-S||MELSIRIPURA": {
       "remark": "Damaged - 70%",
@@ -41049,6 +41049,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "12:45:24",
+      "iso": "2026-08-24T07:15:24.411Z",
+      "action": "updated remark for SIN-TL-3118 at YATIYANTHOTA: “Not working. 90% offered to”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:44:29",
@@ -41390,13 +41397,6 @@
       "time": "12:35:52",
       "iso": "2026-08-24T07:05:52.776Z",
       "action": "updated remark for WF-BERLIN-DTO-S at NAWALAPITIYA: “50%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "12:35:47",
-      "iso": "2026-08-24T07:05:47.802Z",
-      "action": "updated remark for WF-BERLIN-BSC-S at NAWALAPITIYA: “50%”"
     }
   ]
 }
