@@ -46850,6 +46850,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:24:09",
       "lastUpdated": "2026-08-24T14:54:09.617Z"
+    },
+    "WF-CLASSIC-S||NIKAWERATIYA": {
+      "remark": "Damaged - 65%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:32:35",
+      "lastUpdated": "2026-08-24T15:02:35.473Z"
     }
   },
   "showroomVisits": {
@@ -48140,6 +48147,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:32:35",
+      "iso": "2026-08-24T15:02:35.474Z",
+      "action": "updated remark for WF-CLASSIC-S at NIKAWERATIYA: “Damaged - 65%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "20:32:34",
+      "iso": "2026-08-24T15:02:34.322Z",
+      "action": "updated remark for WF-CLASSIC-S at NIKAWERATIYA: “Damaged - 65%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:24:09",
       "iso": "2026-08-24T14:54:09.619Z",
       "action": "updated remark for WP-1R-.75T at NIKAWERATIYA: “Damaged - 80%”"
@@ -48472,20 +48493,6 @@
       "time": "19:16:17",
       "iso": "2026-08-24T13:46:17.918Z",
       "action": "updated remark for TF-NIDFP24-170 at POLPITHIGAMA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:16:08",
-      "iso": "2026-08-24T13:46:08.816Z",
-      "action": "updated remark for URC-60 at POLPITHIGAMA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:15:56",
-      "iso": "2026-08-24T13:45:56.418Z",
-      "action": "updated remark for UJB-LB6027 at POLPITHIGAMA: “Okay”"
     }
   ]
 }
