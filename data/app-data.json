@@ -37925,6 +37925,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:16:23",
       "lastUpdated": "2026-08-24T06:46:23.361Z"
+    },
+    "WFI-HELENA-TBL-S||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:16:07",
+      "lastUpdated": "2026-08-24T06:46:07.207Z"
+    },
+    "WFI-MARCY-BENCH-S||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:16:26",
+      "lastUpdated": "2026-08-24T06:46:26.383Z"
+    },
+    "WFI-MARCY-CHR-S||SHOMES- MATALE": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:16:27",
+      "lastUpdated": "2026-08-24T06:46:27.947Z"
     }
   },
   "showroomVisits": {
@@ -38935,6 +38956,27 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:16:27",
+      "iso": "2026-08-24T06:46:27.949Z",
+      "action": "updated remark for WFI-MARCY-CHR-S at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:16:26",
+      "iso": "2026-08-24T06:46:26.384Z",
+      "action": "updated remark for WFI-MARCY-BENCH-S at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:16:07",
+      "iso": "2026-08-24T06:46:07.209Z",
+      "action": "updated remark for WFI-HELENA-TBL-S at SHOMES- MATALE: “Damaged - 30%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "12:16:23",
@@ -39262,27 +39304,6 @@
       "time": "12:08:54",
       "iso": "2026-08-24T06:38:54.324Z",
       "action": "updated remark for HU-BAND4E-G at MATALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:08:39",
-      "iso": "2026-08-24T06:38:39.482Z",
-      "action": "updated sold comment for SLE40D600A at WARAKAPOLA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "12:08:28",
-      "iso": "2026-08-24T06:38:28.417Z",
-      "action": "updated sold comment for SLE40D600A at WARAKAPOLA: “Pannel Damage”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:08:34",
-      "iso": "2026-08-24T06:38:34.961Z",
-      "action": "updated remark for SVX6002 at SHOMES- MATALE: “Can Sell”"
     }
   ]
 }
