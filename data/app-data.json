@@ -42930,6 +42930,27 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:52:28",
       "lastUpdated": "2026-08-24T09:22:28.855Z"
+    },
+    "INTEL-NUC6CAYH||WENNAPPUWA": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:52:44",
+      "lastUpdated": "2026-08-24T09:22:44.602Z"
+    },
+    "HU-SECURITY||WENNAPPUWA": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:52:46",
+      "lastUpdated": "2026-08-24T09:22:46.881Z"
+    },
+    "HU-E97130292E||WENNAPPUWA": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:52:48",
+      "lastUpdated": "2026-08-24T09:22:48.935Z"
     }
   },
   "showroomVisits": {
@@ -44144,6 +44165,27 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:52:48",
+      "iso": "2026-08-24T09:22:48.936Z",
+      "action": "updated remark for HU-E97130292E at WENNAPPUWA: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:52:46",
+      "iso": "2026-08-24T09:22:46.882Z",
+      "action": "updated remark for HU-SECURITY at WENNAPPUWA: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "14:52:44",
+      "iso": "2026-08-24T09:22:44.602Z",
+      "action": "updated remark for INTEL-NUC6CAYH at WENNAPPUWA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "14:52:28",
@@ -44471,27 +44513,6 @@
       "time": "14:43:53",
       "iso": "2026-08-24T09:13:53.404Z",
       "action": "updated remark for SIN-DUO-W10 at RAGAMA: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "14:43:51",
-      "iso": "2026-08-24T09:13:51.452Z",
-      "action": "updated remark for SIN-DUO-W10 at RAGAMA: “0%”"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:43:41",
-      "iso": "2026-08-24T09:13:41.742Z",
-      "action": "updated UHANA showroom (visitDate: 2026-08-19)"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:43:32",
-      "iso": "2026-08-24T09:13:32.654Z",
-      "action": "updated POLWATTA showroom (visitDate: 2026-08-20)"
     }
   ]
 }
