@@ -37470,6 +37470,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:00:20",
       "lastUpdated": "2026-08-24T06:30:20.302Z"
+    },
+    "USHA-AVTR56||MATALE": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:00:42",
+      "lastUpdated": "2026-08-24T06:30:42.755Z"
     }
   },
   "showroomVisits": {
@@ -38444,6 +38451,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:00:42",
+      "iso": "2026-08-24T06:30:42.756Z",
+      "action": "updated remark for USHA-AVTR56 at MATALE: “Damaged - 20%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "12:00:20",
@@ -38785,13 +38799,6 @@
       "time": "11:50:37",
       "iso": "2026-08-24T06:20:37.139Z",
       "action": "updated remark for SMW823AY7 at MATALE: “Damaged - 25%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:50:14",
-      "iso": "2026-08-24T06:20:14.927Z",
-      "action": "updated remark for SMW23GA9 at MATALE: “Damaged - 85%”"
     }
   ]
 }
