@@ -44701,6 +44701,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:24:25",
       "lastUpdated": "2026-08-24T10:54:25.338Z"
+    },
+    "SIS277CU||KEBITHIGOLLEWA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:23:58",
+      "lastUpdated": "2026-08-24T10:53:58.745Z"
+    },
+    "RCS-04||KEBITHIGOLLEWA": {
+      "remark": "80%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:24:43",
+      "lastUpdated": "2026-08-24T10:54:43.935Z"
     }
   },
   "showroomVisits": {
@@ -45989,6 +46003,20 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "16:24:43",
+      "iso": "2026-08-24T10:54:43.938Z",
+      "action": "updated remark for RCS-04 at KEBITHIGOLLEWA: “80%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "16:23:58",
+      "iso": "2026-08-24T10:53:58.748Z",
+      "action": "updated remark for SIS277CU at KEBITHIGOLLEWA: “80%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "16:24:25",
@@ -46323,20 +46351,6 @@
       "time": "16:14:41",
       "iso": "2026-08-24T10:44:41.510Z",
       "action": "updated remark for TF-SP16-063 at WENNAPPUWA: “Damaged - 10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "16:15:02",
-      "iso": "2026-08-24T10:45:02.846Z",
-      "action": "updated remark for RCW-1528 at KOTIYAKUMBURA: “80% offered. Reverts”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "16:14:12",
-      "iso": "2026-08-24T10:44:12.270Z",
-      "action": "updated remark for TF-NIGP26-119 at WENNAPPUWA: “Can sell”"
     }
   ]
 }
