@@ -40940,8 +40940,8 @@
       "remark": "1500",
       "commentedBy": "Thushitha Jayaweera",
       "commentDate": "2026-08-24",
-      "commentTime": "14:11:01",
-      "lastUpdated": "2026-08-24T08:41:01.942Z"
+      "commentTime": "14:42:53",
+      "lastUpdated": "2026-08-24T09:12:53.808Z"
     },
     "KDK-A40B||KAHATAGASDIGILIYA": {
       "remark": "10%",
@@ -43413,6 +43413,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:13:49",
       "lastUpdated": "2026-08-24T09:43:49.721Z"
+    },
+    "SL-18VNF||HOROWPATHANA": {
+      "remark": "50%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:15:20",
+      "lastUpdated": "2026-08-24T09:45:20.137Z"
     }
   },
   "showroomVisits": {
@@ -44683,6 +44690,20 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "15:15:20",
+      "iso": "2026-08-24T09:45:20.141Z",
+      "action": "updated remark for SL-18VNF at HOROWPATHANA: “50%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:42:53",
+      "iso": "2026-08-24T09:12:53.811Z",
+      "action": "updated remark for UDV3618SY at KAHATAGASDIGILIYA: “1500”"
+    },
+    {
       "user": "Kaveesha De Silva",
       "date": "2026-08-24",
       "time": "15:14:37",
@@ -45017,20 +45038,6 @@
       "time": "15:02:57",
       "iso": "2026-08-24T09:32:57.571Z",
       "action": "updated remark for SMG-SM-A035F-B at WENNAPPUWA: “Display - 95%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "15:02:53",
-      "iso": "2026-08-24T09:32:53.818Z",
-      "action": "updated remark for BES-CRS-51 at WARAKAPOLA: “10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-24",
-      "time": "15:02:36",
-      "iso": "2026-08-24T09:32:36.234Z",
-      "action": "updated remark for SMG-A36-5G-8-128-BLK at WENNAPPUWA: “Can sell”"
     }
   ]
 }
