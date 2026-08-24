@@ -42797,6 +42797,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:48:09",
       "lastUpdated": "2026-08-24T09:18:09.888Z"
+    },
+    "LF-CT-WNT-S||WARAKAPOLA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:48:28",
+      "lastUpdated": "2026-08-24T09:18:28.684Z"
     }
   },
   "showroomVisits": {
@@ -44011,6 +44018,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-24",
+      "time": "14:48:28",
+      "iso": "2026-08-24T09:18:28.686Z",
+      "action": "updated remark for LF-CT-WNT-S at WARAKAPOLA: “50%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-24",
       "time": "14:48:09",
@@ -44352,13 +44366,6 @@
       "time": "14:40:28",
       "iso": "2026-08-24T09:10:28.630Z",
       "action": "updated remark for KD-50X75K at WARAKAPOLA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "14:40:16",
-      "iso": "2026-08-24T09:10:16.646Z",
-      "action": "updated remark for KD-50X75K at WARAKAPOLA: “3”"
     }
   ]
 }
