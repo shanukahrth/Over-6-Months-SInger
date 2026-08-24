@@ -37533,6 +37533,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:02:15",
       "lastUpdated": "2026-08-24T06:32:15.690Z"
+    },
+    "WF-OSLO-BL-S||MATALE": {
+      "remark": "Damaged - 15%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:02:11",
+      "lastUpdated": "2026-08-24T06:32:11.289Z"
+    },
+    "WF-ROM-SC-S||MATALE": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:02:26",
+      "lastUpdated": "2026-08-24T06:32:26.529Z"
     }
   },
   "showroomVisits": {
@@ -38507,6 +38521,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:02:26",
+      "iso": "2026-08-24T06:32:26.530Z",
+      "action": "updated remark for WF-ROM-SC-S at MATALE: “Damaged - 80%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:02:11",
+      "iso": "2026-08-24T06:32:11.290Z",
+      "action": "updated remark for WF-OSLO-BL-S at MATALE: “Damaged - 15%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "12:02:15",
@@ -38841,20 +38869,6 @@
       "time": "11:52:56",
       "iso": "2026-08-24T06:22:56.185Z",
       "action": "updated remark for STT-200K at MATALE: “Damaged - 65%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:52:32",
-      "iso": "2026-08-24T06:22:32.490Z",
-      "action": "updated remark for LF-CT-S at SHOMES- MATALE: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "11:52:29",
-      "iso": "2026-08-24T06:22:29.838Z",
-      "action": "updated remark for LF-CT-AGO-S at SHOMES- MATALE: “Damaged - 85%”"
     }
   ]
 }
