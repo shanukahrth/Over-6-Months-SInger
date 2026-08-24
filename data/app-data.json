@@ -45534,6 +45534,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:00:17",
       "lastUpdated": "2026-08-24T12:30:17.481Z"
+    },
+    "LP-AP01||NAULA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:00:47",
+      "lastUpdated": "2026-08-24T12:30:47.903Z"
     }
   },
   "showroomVisits": {
@@ -46824,6 +46831,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:00:47",
+      "iso": "2026-08-24T12:30:47.904Z",
+      "action": "updated remark for LP-AP01 at NAULA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:00:17",
       "iso": "2026-08-24T12:30:17.483Z",
       "action": "updated remark for LF-LEENA-CT-WN-S at NAULA: “Okay”"
@@ -47163,13 +47177,6 @@
       "time": "16:47:57",
       "iso": "2026-08-24T11:17:57.920Z",
       "action": "updated remark for TCLED32D65A at KOTIYAKUMBURA: “Damaged. 20% discount provided”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "16:47:41",
-      "iso": "2026-08-24T11:17:41.603Z",
-      "action": "updated remark for TCLED32D65A at KOTIYAKUMBURA: “Damaged.”"
     }
   ]
 }
