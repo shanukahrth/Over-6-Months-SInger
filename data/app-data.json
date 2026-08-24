@@ -44435,6 +44435,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "16:15:02",
       "lastUpdated": "2026-08-24T10:45:02.839Z"
+    },
+    "TF-SP16-063||WENNAPPUWA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-24",
+      "commentTime": "16:14:41",
+      "lastUpdated": "2026-08-24T10:44:41.509Z"
     }
   },
   "showroomVisits": {
@@ -45723,6 +45730,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-24",
+      "time": "16:14:41",
+      "iso": "2026-08-24T10:44:41.510Z",
+      "action": "updated remark for TF-SP16-063 at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-24",
       "time": "16:15:02",
@@ -46064,13 +46078,6 @@
       "time": "16:03:08",
       "iso": "2026-08-24T10:33:08.070Z",
       "action": "updated remark for SWH-118E at KOTIYAKUMBURA: “Shop transfer”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "16:02:28",
-      "iso": "2026-08-24T10:32:28.110Z",
-      "action": "updated remark for LF-EUSTON-TVS-WH-S at KOTIYAKUMBURA: “Display 5% discount”"
     }
   ]
 }
