@@ -6098,11 +6098,11 @@
       "lastUpdated": "2026-08-17T12:01:37.546Z"
     },
     "ACER-AL15-I5-8GB-512-SIL||SHOMES- MATALE": {
-      "remark": "Display - 20%",
-      "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "17:31:42",
-      "lastUpdated": "2026-08-17T12:01:42.033Z"
+      "remark": "Display -20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:40:33",
+      "lastUpdated": "2026-08-24T06:10:33.985Z"
     },
     "HON-X9C-12-256-BLK||SHOMES- MATALE": {
       "remark": "Damage - 15%",
@@ -37884,6 +37884,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "11:40:33",
+      "iso": "2026-08-24T06:10:33.988Z",
+      "action": "updated remark for ACER-AL15-I5-8GB-512-SIL at SHOMES- MATALE: “Display -20%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "11:40:10",
@@ -38225,13 +38232,6 @@
       "time": "11:19:42",
       "iso": "2026-08-24T05:49:42.858Z",
       "action": "updated remark for SIS253CU at THIRAPPANE: “80%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "11:19:30",
-      "iso": "2026-08-24T05:49:30.494Z",
-      "action": "updated remark for SWH-118E at THIRAPPANE: “30%”"
     }
   ]
 }
