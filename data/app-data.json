@@ -45821,6 +45821,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:16:41",
       "lastUpdated": "2026-08-24T12:46:41.944Z"
+    },
+    "SS-PS16-AG||NAULA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:16:50",
+      "lastUpdated": "2026-08-24T12:46:50.173Z"
     }
   },
   "showroomVisits": {
@@ -47109,6 +47116,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:16:50",
+      "iso": "2026-08-24T12:46:50.174Z",
+      "action": "updated remark for SS-PS16-AG at NAULA: “Damaged - 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:16:48",
+      "iso": "2026-08-24T12:46:48.822Z",
+      "action": "updated remark for SS-PS16-AG at NAULA: “Damaged - 70%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "18:16:41",
@@ -47443,20 +47464,6 @@
       "time": "18:02:37",
       "iso": "2026-08-24T12:32:37.496Z",
       "action": "updated remark for NCPO-FP280 at NAULA: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:02:33",
-      "iso": "2026-08-24T12:32:33.665Z",
-      "action": "updated remark for NCPO-FP280 at NAULA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:02:31",
-      "iso": "2026-08-24T12:32:31.696Z",
-      "action": "updated remark for NCPO-FP280 at NAULA: “Damaged - 50%”"
     }
   ]
 }
