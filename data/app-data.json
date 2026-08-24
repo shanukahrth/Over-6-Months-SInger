@@ -37456,6 +37456,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:00:02",
       "lastUpdated": "2026-08-24T06:30:02.165Z"
+    },
+    "ULED32D5000||MATALE": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:00:17",
+      "lastUpdated": "2026-08-24T06:30:17.320Z"
     }
   },
   "showroomVisits": {
@@ -38432,6 +38439,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-24",
+      "time": "12:00:17",
+      "iso": "2026-08-24T06:30:17.321Z",
+      "action": "updated remark for ULED32D5000 at MATALE: “Damaged - 80%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
       "time": "12:00:02",
       "iso": "2026-08-24T06:30:02.167Z",
       "action": "updated remark for UJB-LB6027 at MATALE: “Damaged - 30%”"
@@ -38771,13 +38785,6 @@
       "time": "11:49:45",
       "iso": "2026-08-24T06:19:45.392Z",
       "action": "updated remark for HON-CH-WATCH-2I-WH at SHOMES- MATALE: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "11:49:38",
-      "iso": "2026-08-24T06:19:38.059Z",
-      "action": "updated remark for SMGRT28A3021GS at MATALE: “Display Damaged - 25%”"
     }
   ]
 }
