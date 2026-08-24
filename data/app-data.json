@@ -38387,6 +38387,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:28:32",
       "lastUpdated": "2026-08-24T06:58:32.428Z"
+    },
+    "R-BWS-02||MELSIRIPURA": {
+      "remark": "15%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:28:26",
+      "lastUpdated": "2026-08-24T06:58:26.601Z"
     }
   },
   "showroomVisits": {
@@ -39397,6 +39404,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:28:26",
+      "iso": "2026-08-24T06:58:26.602Z",
+      "action": "updated remark for R-BWS-02 at MELSIRIPURA: “15%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:28:23",
+      "iso": "2026-08-24T06:58:23.871Z",
+      "action": "updated remark for R-BWS-02 at MELSIRIPURA: “15%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "12:28:32",
@@ -39731,20 +39752,6 @@
       "time": "12:21:35",
       "iso": "2026-08-24T06:51:35.739Z",
       "action": "updated remark for WF-BALTIC-01-S at SHOMES- MATALE (cleared)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:21:05",
-      "iso": "2026-08-24T06:51:05.693Z",
-      "action": "updated remark for WP-WDC11704RG-G at SHOMES- MATALE: “Damaged - 20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:21:09",
-      "iso": "2026-08-24T06:51:09.478Z",
-      "action": "updated remark for GRIP-8573 at MELSIRIPURA: “Shop Use”"
     }
   ]
 }
