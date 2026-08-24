@@ -38401,6 +38401,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:29:17",
       "lastUpdated": "2026-08-24T06:59:17.331Z"
+    },
+    "LF-LOUVRE-BDQ-SHW-S||SHOMES- MATALE": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:28:52",
+      "lastUpdated": "2026-08-24T06:58:52.187Z"
     }
   },
   "showroomVisits": {
@@ -39411,6 +39418,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "12:28:52",
+      "iso": "2026-08-24T06:58:52.188Z",
+      "action": "updated remark for LF-LOUVRE-BDQ-SHW-S at SHOMES- MATALE: “Damaged - 50%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "12:29:17",
@@ -39752,13 +39766,6 @@
       "time": "12:22:39",
       "iso": "2026-08-24T06:52:39.218Z",
       "action": "updated remark for LF-IC-WNT-S at YATIYANTHOTA: “Damaged. Will transfer to the damaged location. 80% offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:21:37",
-      "iso": "2026-08-24T06:51:37.279Z",
-      "action": "updated remark for WF-CF-75X60-S at YATIYANTHOTA: “60% discount offered”"
     }
   ]
 }
