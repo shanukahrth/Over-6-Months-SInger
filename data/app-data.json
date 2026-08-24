@@ -37141,6 +37141,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:49:07",
       "lastUpdated": "2026-08-24T06:19:07.011Z"
+    },
+    "SLMC-18DSLHS||MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:49:10",
+      "lastUpdated": "2026-08-24T06:19:10.008Z"
     }
   },
   "showroomVisits": {
@@ -38115,6 +38122,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:49:10",
+      "iso": "2026-08-24T06:19:10.010Z",
+      "action": "updated remark for SLMC-18DSLHS at MATALE: “Damaged - 85%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "11:49:07",
@@ -38456,13 +38470,6 @@
       "time": "11:39:11",
       "iso": "2026-08-24T06:09:11.897Z",
       "action": "updated remark for UDV3618SY at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:39:08",
-      "iso": "2026-08-24T06:09:08.064Z",
-      "action": "updated remark for UDV3618SY at WARAKAPOLA: “80%”"
     }
   ]
 }
