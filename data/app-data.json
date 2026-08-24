@@ -38436,6 +38436,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "12:22:15",
       "lastUpdated": "2026-08-24T06:52:15.779Z"
+    },
+    "SBI-60M19-T||MELSIRIPURA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "12:29:59",
+      "lastUpdated": "2026-08-24T06:59:59.317Z"
     }
   },
   "showroomVisits": {
@@ -39446,6 +39453,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "12:29:59",
+      "iso": "2026-08-24T06:59:59.319Z",
+      "action": "updated remark for SBI-60M19-T at MELSIRIPURA: “Damaged - 80%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
       "time": "12:30:12",
@@ -39787,13 +39801,6 @@
       "time": "12:22:59",
       "iso": "2026-08-24T06:52:59.273Z",
       "action": "updated remark for LF-SLVY-W4B-CKT-S at SHOMES- MATALE: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "12:22:54",
-      "iso": "2026-08-24T06:52:54.669Z",
-      "action": "updated remark for LF-SLVY-W4B-CKT-S at SHOMES- MATALE (cleared)"
     }
   ]
 }
