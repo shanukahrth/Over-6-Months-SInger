@@ -45996,6 +45996,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:23:24",
       "lastUpdated": "2026-08-24T12:53:24.019Z"
+    },
+    "GEO-242D-SV||NAULA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:24:35",
+      "lastUpdated": "2026-08-24T12:54:35.690Z"
     }
   },
   "showroomVisits": {
@@ -47286,6 +47293,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:24:35",
+      "iso": "2026-08-24T12:54:35.690Z",
+      "action": "updated remark for GEO-242D-SV at NAULA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:24:34",
+      "iso": "2026-08-24T12:54:34.906Z",
+      "action": "updated remark for GEO-242D-SV at NAULA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:23:24",
       "iso": "2026-08-24T12:53:24.022Z",
       "action": "updated remark for WFI-DELPHI-CHR-S at NAULA: “Damaged - 65%”"
@@ -47618,20 +47639,6 @@
       "time": "18:12:23",
       "iso": "2026-08-24T12:42:23.015Z",
       "action": "updated remark for SLE24E810 at NAULA: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:11:54",
-      "iso": "2026-08-24T12:41:54.488Z",
-      "action": "updated remark for SISIL-RC150 at NAULA: “Damaged 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:10:46",
-      "iso": "2026-08-24T12:40:46.288Z",
-      "action": "updated remark for SISIL-RC150 at NAULA: “Free Issue / Damaged 8”"
     }
   ]
 }
