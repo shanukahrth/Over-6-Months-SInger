@@ -40396,6 +40396,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:44:51",
       "lastUpdated": "2026-08-24T08:14:51.351Z"
+    },
+    "SIN-K13||BULATHKOHUPITIYA": {
+      "remark": "Not working. Doesn't turn on. 80% discount offered.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "13:45:38",
+      "lastUpdated": "2026-08-24T08:15:38.328Z"
     }
   },
   "showroomVisits": {
@@ -41406,6 +41413,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "13:45:38",
+      "iso": "2026-08-24T08:15:38.333Z",
+      "action": "updated remark for SIN-K13 at BULATHKOHUPITIYA: “Not working. Doesn't turn on. 80% discount offered.”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-24",
       "time": "13:44:51",
@@ -41747,13 +41761,6 @@
       "time": "12:55:27",
       "iso": "2026-08-24T07:25:27.083Z",
       "action": "updated remark for GEO-182S-BU1 at YATIYANTHOTA: “25% flat offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "12:54:48",
-      "iso": "2026-08-24T07:24:48.259Z",
-      "action": "updated remark for PANTUM-NT-C216B at YATIYANTHOTA: “Sellable”"
     }
   ]
 }
