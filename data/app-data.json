@@ -42188,6 +42188,20 @@
       "commentDate": "2026-08-24",
       "commentTime": "14:22:00",
       "lastUpdated": "2026-08-24T08:52:00.123Z"
+    },
+    "SMW823AY7||KAHATAGASDIGILIYA": {
+      "remark": "30%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:22:16",
+      "lastUpdated": "2026-08-24T08:52:16.770Z"
+    },
+    "PCP30||KAHATAGASDIGILIYA": {
+      "remark": "60%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:22:20",
+      "lastUpdated": "2026-08-24T08:52:20.637Z"
     }
   },
   "showroomVisits": {
@@ -43260,6 +43274,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-24",
+      "time": "14:22:20",
+      "iso": "2026-08-24T08:52:20.639Z",
+      "action": "updated remark for PCP30 at KAHATAGASDIGILIYA: “60%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
+      "time": "14:22:16",
+      "iso": "2026-08-24T08:52:16.772Z",
+      "action": "updated remark for SMW823AY7 at KAHATAGASDIGILIYA: “30%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-24",
       "time": "14:22:00",
       "iso": "2026-08-24T08:52:00.127Z",
       "action": "updated remark for R-BWS-02 at KAHATAGASDIGILIYA: “15%”"
@@ -43592,20 +43620,6 @@
       "time": "14:01:56",
       "iso": "2026-08-24T08:31:56.888Z",
       "action": "updated remark for UR591SW at GINIGATHHENA: “5000 price”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "14:01:14",
-      "iso": "2026-08-24T08:31:14.032Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at GINIGATHHENA: “30000 price”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-24",
-      "time": "13:59:15",
-      "iso": "2026-08-24T08:29:15.734Z",
-      "action": "updated remark for LF-OPENSR-CHY-S at GINIGATHHENA: “Damaged 80%”"
     }
   ]
 }
