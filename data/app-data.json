@@ -35566,6 +35566,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "10:06:39",
       "lastUpdated": "2026-08-24T04:36:39.516Z"
+    },
+    "HON-H200-12-512-WHT||RUWANWELLA": {
+      "remark": "Has added to the inventory from the transit.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-24",
+      "commentTime": "10:07:45",
+      "lastUpdated": "2026-08-24T04:37:45.738Z"
     }
   },
   "showroomVisits": {
@@ -36540,6 +36547,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-24",
+      "time": "10:07:45",
+      "iso": "2026-08-24T04:37:45.739Z",
+      "action": "updated remark for HON-H200-12-512-WHT at RUWANWELLA: “Has added to the inventory from the transit.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "10:06:39",
@@ -36881,13 +36895,6 @@
       "time": "09:50:22",
       "iso": "2026-08-24T04:20:22.496Z",
       "action": "updated remark for SL-ECO55-SV at MINUWANGODA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "09:49:27",
-      "iso": "2026-08-24T04:19:27.221Z",
-      "action": "updated remark for SWH-118E at MIRIGAMA: “60%”"
     }
   ]
 }
