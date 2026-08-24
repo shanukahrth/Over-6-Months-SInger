@@ -43252,6 +43252,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:05:36",
       "lastUpdated": "2026-08-24T09:35:36.730Z"
+    },
+    "SN-SMI-285||RAGAMA": {
+      "remark": "Exchange",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:06:00",
+      "lastUpdated": "2026-08-24T09:36:00.532Z"
     }
   },
   "showroomVisits": {
@@ -44468,6 +44475,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "15:06:00",
+      "iso": "2026-08-24T09:36:00.534Z",
+      "action": "updated remark for SN-SMI-285 at RAGAMA: “Exchange”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "15:05:36",
       "iso": "2026-08-24T09:35:36.731Z",
       "action": "updated remark for SMW928AS3 at RAGAMA: “Discounts already give to DM”"
@@ -44807,13 +44821,6 @@
       "time": "14:56:06",
       "iso": "2026-08-24T09:26:06.211Z",
       "action": "updated KADURUWELA showroom (team: Chamal and Kaveesha )"
-    },
-    {
-      "user": "Kaveesha De Silva",
-      "date": "2026-08-24",
-      "time": "14:56:03",
-      "iso": "2026-08-24T09:26:03.522Z",
-      "action": "updated JAYANTHIPURA showroom (team: Chamal and Kaveesha )"
     }
   ]
 }
