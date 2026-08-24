@@ -34355,6 +34355,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "08:45:13",
       "lastUpdated": "2026-08-24T03:15:13.673Z"
+    },
+    "TCLED40D3000||KANDANA": {
+      "remark": "Exchange PO pending",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "08:45:53",
+      "lastUpdated": "2026-08-24T03:15:53.213Z"
     }
   },
   "showroomVisits": {
@@ -35331,6 +35338,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "08:45:53",
+      "iso": "2026-08-24T03:15:53.216Z",
+      "action": "updated remark for TCLED40D3000 at KANDANA: “Exchange PO pending”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "08:45:13",
       "iso": "2026-08-24T03:15:13.674Z",
       "action": "updated remark for TCL30E-3-64-GRY at KANDANA: “Return to WH”"
@@ -35670,13 +35684,6 @@
       "time": "08:25:14",
       "iso": "2026-08-24T02:55:14.233Z",
       "action": "updated remark for PN-TH-55MX740N at KANDANA: “shop transfer - weliweriya”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:24:52",
-      "iso": "2026-08-24T02:54:52.458Z",
-      "action": "updated remark for PN-TH-32M402N at KANDANA: “30%”"
     }
   ]
 }
