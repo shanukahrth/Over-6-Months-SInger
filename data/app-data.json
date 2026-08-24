@@ -37050,6 +37050,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "11:45:30",
       "lastUpdated": "2026-08-24T06:15:30.023Z"
+    },
+    "SIN-PSVX938||MATALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "11:45:46",
+      "lastUpdated": "2026-08-24T06:15:46.013Z"
     }
   },
   "showroomVisits": {
@@ -38024,6 +38031,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "11:45:46",
+      "iso": "2026-08-24T06:15:46.015Z",
+      "action": "updated remark for SIN-PSVX938 at MATALE: “Damaged - 85%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-24",
       "time": "11:45:30",
@@ -38365,13 +38379,6 @@
       "time": "11:26:22",
       "iso": "2026-08-24T05:56:22.576Z",
       "action": "updated remark for WF-CB-B-S at WARAKAPOLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-24",
-      "time": "11:26:01",
-      "iso": "2026-08-24T05:56:01.103Z",
-      "action": "updated remark for WF-CB-B-S at WARAKAPOLA: “30%”"
     }
   ]
 }
