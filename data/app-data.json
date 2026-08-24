@@ -43798,6 +43798,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "15:35:26",
       "lastUpdated": "2026-08-24T10:05:26.167Z"
+    },
+    "WFL-SPM-78X60X8-S||RAGAMA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "15:35:47",
+      "lastUpdated": "2026-08-24T10:05:47.959Z"
     }
   },
   "showroomVisits": {
@@ -45082,6 +45089,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "15:35:47",
+      "iso": "2026-08-24T10:05:47.962Z",
+      "action": "updated remark for WFL-SPM-78X60X8-S at RAGAMA: “70%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "15:35:26",
       "iso": "2026-08-24T10:05:26.170Z",
       "action": "updated remark for WFL-SPM-75X75X8-S at RAGAMA: “70%”"
@@ -45421,13 +45435,6 @@
       "time": "15:19:04",
       "iso": "2026-08-24T09:49:04.260Z",
       "action": "updated remark for DELL3501-I5W10MX4GB-SIL at HOROWPATHANA: “Stystem”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "15:18:18",
-      "iso": "2026-08-24T09:48:18.203Z",
-      "action": "updated remark for TF-SP16-063 at RAGAMA: “Discounts already give to DM”"
     }
   ]
 }
