@@ -46955,6 +46955,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "20:53:45",
       "lastUpdated": "2026-08-24T15:23:45.925Z"
+    },
+    "SIN-PSVX938N||NIKAWERATIYA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "20:58:31",
+      "lastUpdated": "2026-08-24T15:28:31.345Z"
     }
   },
   "showroomVisits": {
@@ -48245,6 +48252,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "20:58:31",
+      "iso": "2026-08-24T15:28:31.347Z",
+      "action": "updated remark for SIN-PSVX938N at NIKAWERATIYA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "20:55:34",
       "iso": "2026-08-24T15:25:34.520Z",
       "action": "updated remark for WP-JUN-E-S at NIKAWERATIYA: “Damaged - 80%”"
@@ -48584,13 +48598,6 @@
       "time": "19:44:21",
       "iso": "2026-08-24T14:14:21.784Z",
       "action": "updated remark for SLE32E920 at NIKAWERATIYA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:43:35",
-      "iso": "2026-08-24T14:13:35.095Z",
-      "action": "updated remark for SLE32D1800 at NIKAWERATIYA: “Revert / Damaged - 90%”"
     }
   ]
 }
