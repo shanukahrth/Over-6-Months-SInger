@@ -45786,6 +45786,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:15:47",
       "lastUpdated": "2026-08-24T12:45:47.600Z"
+    },
+    "SLMC-18DSLHS||NAULA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:15:49",
+      "lastUpdated": "2026-08-24T12:45:49.829Z"
     }
   },
   "showroomVisits": {
@@ -47074,6 +47081,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:15:49",
+      "iso": "2026-08-24T12:45:49.830Z",
+      "action": "updated remark for SLMC-18DSLHS at NAULA: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
+      "time": "18:15:49",
+      "iso": "2026-08-24T12:45:49.018Z",
+      "action": "updated remark for SLMC-18DSLHS at NAULA: “Damaged - 80%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-24",
       "time": "18:15:47",
@@ -47408,20 +47429,6 @@
       "time": "18:01:04",
       "iso": "2026-08-24T12:31:04.298Z",
       "action": "updated remark for MB-SAFARI4S-RED at NAULA: “Can Sell”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:00:47",
-      "iso": "2026-08-24T12:30:47.904Z",
-      "action": "updated remark for LP-AP01 at NAULA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:00:17",
-      "iso": "2026-08-24T12:30:17.483Z",
-      "action": "updated remark for LF-LEENA-CT-WN-S at NAULA: “Okay”"
     }
   ]
 }
