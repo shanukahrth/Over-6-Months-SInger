@@ -40244,11 +40244,11 @@
       "lastUpdated": "2026-08-24T07:29:23.677Z"
     },
     "SLE40D600A||YATIYANTHOTA": {
-      "remark": "Display line. Panel issue. Return to wearhouse",
+      "remark": "Damage products. Return to wearhouse",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "13:00:13",
-      "lastUpdated": "2026-08-24T07:30:13.065Z"
+      "commentTime": "13:00:33",
+      "lastUpdated": "2026-08-24T07:30:33.253Z"
     }
   },
   "showroomVisits": {
@@ -41261,6 +41261,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "13:00:33",
+      "iso": "2026-08-24T07:30:33.259Z",
+      "action": "updated remark for SLE40D600A at YATIYANTHOTA: “Damage products. Return to wearhouse”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "13:00:13",
       "iso": "2026-08-24T07:30:13.084Z",
       "action": "updated remark for SLE40D600A at YATIYANTHOTA: “Display line. Panel issue. Return to wearhouse”"
@@ -41600,13 +41607,6 @@
       "time": "12:44:29",
       "iso": "2026-08-24T07:14:29.712Z",
       "action": "updated remark for SDV3605K at WARAKAPOLA: “2000”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-24",
-      "time": "12:44:09",
-      "iso": "2026-08-24T07:14:09.972Z",
-      "action": "updated remark for WP-JUN-E-S at MELSIRIPURA: “Damaged - 70%”"
     }
   ]
 }
