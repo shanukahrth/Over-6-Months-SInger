@@ -45506,6 +45506,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "17:58:55",
       "lastUpdated": "2026-08-24T12:28:55.609Z"
+    },
+    "KA-MIXEE-N||NAULA": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "17:59:34",
+      "lastUpdated": "2026-08-24T12:29:34.096Z"
     }
   },
   "showroomVisits": {
@@ -46796,6 +46803,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "17:59:34",
+      "iso": "2026-08-24T12:29:34.097Z",
+      "action": "updated remark for KA-MIXEE-N at NAULA: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "17:58:55",
       "iso": "2026-08-24T12:28:55.611Z",
       "action": "updated remark for GEO-260NF at NAULA: “Damaged - 65%”"
@@ -47135,13 +47149,6 @@
       "time": "16:44:09",
       "iso": "2026-08-24T11:14:09.513Z",
       "action": "updated remark for TCL43S5400 at KOTIYAKUMBURA: “Revert damaged.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "16:42:04",
-      "iso": "2026-08-24T11:12:04.132Z",
-      "action": "updated remark for SS-PS16-AG at KOTIYAKUMBURA: “75% provided”"
     }
   ]
 }
