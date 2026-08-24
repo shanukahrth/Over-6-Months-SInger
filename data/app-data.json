@@ -45569,6 +45569,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:01:41",
       "lastUpdated": "2026-08-24T12:31:41.880Z"
+    },
+    "OF-SW22-S||NAULA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:02:53",
+      "lastUpdated": "2026-08-24T12:32:53.721Z"
     }
   },
   "showroomVisits": {
@@ -46859,6 +46866,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-24",
+      "time": "18:02:53",
+      "iso": "2026-08-24T12:32:53.725Z",
+      "action": "updated remark for OF-SW22-S at NAULA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-24",
       "time": "18:02:37",
       "iso": "2026-08-24T12:32:37.496Z",
       "action": "updated remark for NCPO-FP280 at NAULA: “Damaged - 40%”"
@@ -47198,13 +47212,6 @@
       "time": "17:03:12",
       "iso": "2026-08-24T11:33:12.038Z",
       "action": "updated remark for SLE32E930 at KOTIYAKUMBURA: “70% offered. Damaged. Return to wearhouse”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "17:00:55",
-      "iso": "2026-08-24T11:30:55.006Z",
-      "action": "updated remark for SLE32D5000 at KOTIYAKUMBURA: “Damaged. 80% offered to report”"
     }
   ]
 }
