@@ -34502,6 +34502,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "09:01:36",
       "lastUpdated": "2026-08-24T03:31:36.345Z"
+    },
+    "TFFP2550243||KANDANA": {
+      "remark": "Already Provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "09:01:58",
+      "lastUpdated": "2026-08-24T03:31:58.641Z"
     }
   },
   "showroomVisits": {
@@ -35478,6 +35485,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "09:01:58",
+      "iso": "2026-08-24T03:31:58.642Z",
+      "action": "updated remark for TFFP2550243 at KANDANA: “Already Provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "09:01:36",
       "iso": "2026-08-24T03:31:36.346Z",
       "action": "updated remark for TF-TW26-064 at KANDANA: “Already Provided”"
@@ -35817,13 +35831,6 @@
       "time": "08:33:16",
       "iso": "2026-08-24T03:03:16.832Z",
       "action": "updated remark for SLE32E930 at KANDANA: “Reported”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "08:32:56",
-      "iso": "2026-08-24T03:02:56.312Z",
-      "action": "updated remark for SLE32E910 at KANDANA: “70%”"
     }
   ]
 }
