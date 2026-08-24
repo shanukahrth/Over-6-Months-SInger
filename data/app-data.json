@@ -40655,6 +40655,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "13:59:27",
       "lastUpdated": "2026-08-24T08:29:27.956Z"
+    },
+    "LF-LEO-SCUP-WNG-S||RAGAMA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-24",
+      "commentTime": "14:02:52",
+      "lastUpdated": "2026-08-24T08:32:52.508Z"
     }
   },
   "showroomVisits": {
@@ -41667,6 +41674,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-24",
+      "time": "14:02:52",
+      "iso": "2026-08-24T08:32:52.511Z",
+      "action": "updated remark for LF-LEO-SCUP-WNG-S at RAGAMA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-24",
       "time": "13:59:27",
       "iso": "2026-08-24T08:29:27.959Z",
       "action": "updated remark for LF-LEO-LCUP-WNG-S at RAGAMA: “50%”"
@@ -42006,13 +42020,6 @@
       "time": "13:43:05",
       "iso": "2026-08-24T08:13:05.505Z",
       "action": "updated remark for G-SP-900 at RAGAMA: “75% Discontinue Product”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-24",
-      "time": "13:42:07",
-      "iso": "2026-08-24T08:12:07.569Z",
-      "action": "updated remark for FAN-VIERA-TEAK at RAGAMA: “0%”"
     }
   ]
 }
