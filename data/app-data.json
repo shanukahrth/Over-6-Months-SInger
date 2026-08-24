@@ -45779,6 +45779,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "18:14:39",
       "lastUpdated": "2026-08-24T12:44:39.072Z"
+    },
+    "SIN-EP170||GALEWELA": {
+      "remark": "Return to warehouse",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-24",
+      "commentTime": "18:15:47",
+      "lastUpdated": "2026-08-24T12:45:47.600Z"
     }
   },
   "showroomVisits": {
@@ -47067,6 +47074,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:15:47",
+      "iso": "2026-08-24T12:45:47.602Z",
+      "action": "updated remark for SIN-EP170 at GALEWELA: “Return to warehouse”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-24",
+      "time": "18:15:38",
+      "iso": "2026-08-24T12:45:38.448Z",
+      "action": "updated remark for SIN-EP170 at GALEWELA: “Exchange”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "18:15:35",
@@ -47401,20 +47422,6 @@
       "time": "18:00:17",
       "iso": "2026-08-24T12:30:17.483Z",
       "action": "updated remark for LF-LEENA-CT-WN-S at NAULA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "18:00:06",
-      "iso": "2026-08-24T12:30:06.171Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at NAULA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "17:59:50",
-      "iso": "2026-08-24T12:29:50.521Z",
-      "action": "updated remark for KYOCERA-L-TA2020 at NAULA: “Damaged - 50%”"
     }
   ]
 }
