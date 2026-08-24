@@ -36345,11 +36345,11 @@
       "lastUpdated": "2026-08-24T05:30:44.318Z"
     },
     "WF-CF-75X60-S||RUWANWELLA": {
-      "remark": "Flood. Damage",
+      "remark": "Flood. Damage.",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-24",
-      "commentTime": "11:02:26",
-      "lastUpdated": "2026-08-24T05:32:26.400Z"
+      "commentTime": "11:02:40",
+      "lastUpdated": "2026-08-24T05:32:40.603Z"
     }
   },
   "showroomVisits": {
@@ -37326,6 +37326,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-24",
+      "time": "11:02:40",
+      "iso": "2026-08-24T05:32:40.609Z",
+      "action": "updated remark for WF-CF-75X60-S at RUWANWELLA: “Flood. Damage.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-24",
       "time": "11:02:26",
       "iso": "2026-08-24T05:32:26.407Z",
       "action": "updated remark for WF-CF-75X60-S at RUWANWELLA: “Flood. Damage”"
@@ -37665,13 +37672,6 @@
       "time": "10:35:36",
       "iso": "2026-08-24T05:05:36.693Z",
       "action": "updated remark for SLE24D1000 at MIRIGAMA: “Additional 20%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-24",
-      "time": "10:35:32",
-      "iso": "2026-08-24T05:05:32.066Z",
-      "action": "updated remark for SLE32E920 at RUWANWELLA: “Reversed sale. Product damaged. Customer didn't want the model as it got issues 3 times. 70% flat offered”"
     }
   ]
 }
