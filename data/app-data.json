@@ -49377,6 +49377,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:33:01",
       "lastUpdated": "2026-08-25T06:03:01.143Z"
+    },
+    "SLE32D5000||KURUNEGALA - D": {
+      "remark": "70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:33:35",
+      "lastUpdated": "2026-08-25T06:03:35.797Z"
     }
   },
   "showroomVisits": {
@@ -50665,6 +50672,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:33:35",
+      "iso": "2026-08-25T06:03:35.799Z",
+      "action": "updated remark for SLE32D5000 at KURUNEGALA - D: “70%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "11:33:16",
@@ -51006,13 +51020,6 @@
       "time": "11:13:00",
       "iso": "2026-08-25T05:43:00.088Z",
       "action": "updated remark for PN-MX-AC210 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:12:44",
-      "iso": "2026-08-25T05:42:44.968Z",
-      "action": "updated remark for PN-F-407XNBAMKH at KURUNEGALA - D: “Okay”"
     }
   ]
 }
