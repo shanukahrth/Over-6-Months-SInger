@@ -55845,6 +55845,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "16:51:13",
       "lastUpdated": "2026-08-25T11:21:13.577Z"
+    },
+    "SIS253CU||GAMPOLA - C": {
+      "remark": "Flood",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "16:51:40",
+      "lastUpdated": "2026-08-25T11:21:40.554Z"
     }
   },
   "showroomVisits": {
@@ -57167,6 +57174,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-25",
+      "time": "16:51:40",
+      "iso": "2026-08-25T11:21:40.555Z",
+      "action": "updated remark for SIS253CU at GAMPOLA - C: “Flood”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
       "time": "16:51:13",
       "iso": "2026-08-25T11:21:13.579Z",
       "action": "updated remark for SMGHTF453 at GAMPOLA - C: “Flood”"
@@ -57506,13 +57520,6 @@
       "time": "16:03:57",
       "iso": "2026-08-25T10:33:57.393Z",
       "action": "updated remark for KD-43X75K at GAMPOLA: “60%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:03:51",
-      "iso": "2026-08-25T10:33:51.232Z",
-      "action": "updated remark for KD-43X75K at GAMPOLA: “40%”"
     }
   ]
 }
