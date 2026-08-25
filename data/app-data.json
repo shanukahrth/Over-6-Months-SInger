@@ -50399,6 +50399,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:25:00",
       "lastUpdated": "2026-08-25T06:55:00.070Z"
+    },
+    "KA-LW-185A||RIDEEGAMA": {
+      "remark": "Display - 75%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:25:17",
+      "lastUpdated": "2026-08-25T06:55:17.103Z"
+    },
+    "KA-OPTIMA||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:25:23",
+      "lastUpdated": "2026-08-25T06:55:23.034Z"
     }
   },
   "showroomVisits": {
@@ -51689,6 +51703,27 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:25:23",
+      "iso": "2026-08-25T06:55:23.038Z",
+      "action": "updated remark for KA-OPTIMA at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "12:25:17",
+      "iso": "2026-08-25T06:55:17.105Z",
+      "action": "updated remark for KA-LW-185A at RIDEEGAMA: “Display - 75%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "12:25:15",
+      "iso": "2026-08-25T06:55:15.531Z",
+      "action": "updated remark for KA-LW-185A at RIDEEGAMA: “Display - 75%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:25:00",
       "iso": "2026-08-25T06:55:00.073Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at RIDEEGAMA: “Okay”"
@@ -52014,27 +52049,6 @@
       "time": "12:00:28",
       "iso": "2026-08-25T06:30:28.007Z",
       "action": "updated remark for S-1000 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:00:13",
-      "iso": "2026-08-25T06:30:13.788Z",
-      "action": "updated remark for KA-PRISMA-1.7 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:59:53",
-      "iso": "2026-08-25T06:29:53.507Z",
-      "action": "updated remark for BTS-10KG at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:59:42",
-      "iso": "2026-08-25T06:29:42.651Z",
-      "action": "updated remark for PCP50 at KURUNEGALA - D: “Okay”"
     }
   ]
 }
