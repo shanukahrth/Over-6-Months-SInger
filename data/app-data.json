@@ -53878,6 +53878,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:04:09",
       "lastUpdated": "2026-08-25T09:34:09.419Z"
+    },
+    "TF-SP16-063||RIDEEGAMA": {
+      "remark": "20%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:06:13",
+      "lastUpdated": "2026-08-25T09:36:13.983Z"
     }
   },
   "showroomVisits": {
@@ -55192,6 +55199,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "15:06:13",
+      "iso": "2026-08-25T09:36:13.985Z",
+      "action": "updated remark for TF-SP16-063 at RIDEEGAMA: “20%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "15:04:09",
       "iso": "2026-08-25T09:34:09.420Z",
       "action": "updated remark for HAVIT-MS851-MOUSE at RIDEEGAMA: “Okay”"
@@ -55531,13 +55545,6 @@
       "time": "14:38:49",
       "iso": "2026-08-25T09:08:49.551Z",
       "action": "updated remark for TF-GS-SPKT302 at RIDEEGAMA: “20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:38:46",
-      "iso": "2026-08-25T09:08:46.137Z",
-      "action": "updated remark for TF-GCA-1336 at RIDEEGAMA: “20%”"
     }
   ]
 }
