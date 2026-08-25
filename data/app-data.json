@@ -53171,6 +53171,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:07:14",
       "lastUpdated": "2026-08-25T08:37:14.632Z"
+    },
+    "HFPA-GRAVITY-BLC||KEGALLE - C": {
+      "remark": "rs.24,000",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:08:05",
+      "lastUpdated": "2026-08-25T08:38:05.772Z"
     }
   },
   "showroomVisits": {
@@ -54485,6 +54492,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "14:08:05",
+      "iso": "2026-08-25T08:38:05.778Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at KEGALLE - C: “rs.24,000”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "14:07:14",
       "iso": "2026-08-25T08:37:14.637Z",
       "action": "updated remark for SIN-W66PA28 at KEGALLE - C: “80% flat”"
@@ -54824,13 +54838,6 @@
       "time": "13:25:49",
       "iso": "2026-08-25T07:55:49.914Z",
       "action": "updated remark for ZTE-A35-2-64GB-GRN at PUSSELLAWA: “80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:25:45",
-      "iso": "2026-08-25T07:55:45.584Z",
-      "action": "updated remark for ZTE-A34-2-64GB-GRE at PUSSELLAWA: “80%”"
     }
   ]
 }
