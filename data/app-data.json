@@ -50784,6 +50784,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "13:11:20",
       "lastUpdated": "2026-08-25T07:41:20.134Z"
+    },
+    "SL-S203||SHOMES-KEGALLE": {
+      "remark": "75% damaged",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:13:39",
+      "lastUpdated": "2026-08-25T07:43:39.190Z"
     }
   },
   "showroomVisits": {
@@ -52074,6 +52081,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "13:13:39",
+      "iso": "2026-08-25T07:43:39.198Z",
+      "action": "updated remark for SL-S203 at SHOMES-KEGALLE: “75% damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "13:11:20",
       "iso": "2026-08-25T07:41:20.139Z",
       "action": "updated remark for URC-60 at SHOMES-KEGALLE: “Display 50%”"
@@ -52413,13 +52427,6 @@
       "time": "12:34:15",
       "iso": "2026-08-25T07:04:15.480Z",
       "action": "updated remark for R-BWS-02 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:33:57",
-      "iso": "2026-08-25T07:03:57.318Z",
-      "action": "updated remark for PTT-200GT at RIDEEGAMA: “Okay”"
     }
   ]
 }
