@@ -47090,11 +47090,11 @@
       "lastUpdated": "2026-08-25T04:27:15.322Z"
     },
     "LF-OX-BR-M-CHY-S||KIRINDIWELA - B": {
-      "remark": "50",
+      "remark": "50%",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-08-25",
-      "commentTime": "09:56:49",
-      "lastUpdated": "2026-08-25T04:26:49.705Z"
+      "commentTime": "09:57:20",
+      "lastUpdated": "2026-08-25T04:27:20.015Z"
     }
   },
   "showroomVisits": {
@@ -48383,6 +48383,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
+      "time": "09:57:20",
+      "iso": "2026-08-25T04:27:20.019Z",
+      "action": "updated remark for LF-OX-BR-M-CHY-S at KIRINDIWELA - B: “50%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-25",
       "time": "09:57:15",
@@ -48724,13 +48731,6 @@
       "time": "20:11:57",
       "iso": "2026-08-24T14:41:57.931Z",
       "action": "updated remark for ULED32D5000 at NIKAWERATIYA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "20:10:05",
-      "iso": "2026-08-24T14:40:05.217Z",
-      "action": "updated remark for ULED24D1000-U at NIKAWERATIYA: “Reevrt / Damaged - %”"
     }
   ]
 }
