@@ -49335,6 +49335,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:30:12",
       "lastUpdated": "2026-08-25T06:00:12.617Z"
+    },
+    "SLE32E910||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:29:46",
+      "lastUpdated": "2026-08-25T05:59:46.672Z"
+    },
+    "SLE32E920||KURUNEGALA - D": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:30:16",
+      "lastUpdated": "2026-08-25T06:00:16.357Z"
     }
   },
   "showroomVisits": {
@@ -50623,6 +50637,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:30:16",
+      "iso": "2026-08-25T06:00:16.359Z",
+      "action": "updated remark for SLE32E920 at KURUNEGALA - D: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:29:46",
+      "iso": "2026-08-25T05:59:46.675Z",
+      "action": "updated remark for SLE32E910 at KURUNEGALA - D: “Okay”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "11:30:12",
@@ -50957,20 +50985,6 @@
       "time": "11:09:46",
       "iso": "2026-08-25T05:39:46.882Z",
       "action": "updated remark for LF-OX-BR-L-S at KURUNEGALA - D: “Display/ Damaged - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:09:45",
-      "iso": "2026-08-25T05:39:45.559Z",
-      "action": "updated remark for LF-OX-BR-L-S at KURUNEGALA - D: “Display/ Damaged - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:09:20",
-      "iso": "2026-08-25T05:39:20.743Z",
-      "action": "updated remark for LF-ORGN-DTO-WHT at KURUNEGALA - D: “Display/ Damaged - 50%”"
     }
   ]
 }
