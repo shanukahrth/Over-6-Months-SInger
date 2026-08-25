@@ -49286,6 +49286,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:28:54",
       "lastUpdated": "2026-08-25T05:58:54.092Z"
+    },
+    "SLE24D1000||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:28:56",
+      "lastUpdated": "2026-08-25T05:58:56.411Z"
+    },
+    "SLE24D1010TC||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:28:58",
+      "lastUpdated": "2026-08-25T05:58:58.798Z"
     }
   },
   "showroomVisits": {
@@ -50574,6 +50588,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:28:58",
+      "iso": "2026-08-25T05:58:58.799Z",
+      "action": "updated remark for SLE24D1010TC at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:28:56",
+      "iso": "2026-08-25T05:58:56.413Z",
+      "action": "updated remark for SLE24D1000 at KURUNEGALA - D: “Okay”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "11:28:54",
@@ -50908,20 +50936,6 @@
       "time": "11:06:54",
       "iso": "2026-08-25T05:36:54.645Z",
       "action": "updated remark for KA-PRISMA-1.7 at KURUNEGALA - D: “kay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:06:51",
-      "iso": "2026-08-25T05:36:51.565Z",
-      "action": "updated remark for KA-PB-426 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:04:42",
-      "iso": "2026-08-25T05:34:42.060Z",
-      "action": "updated remark for IND-IHVP66LMK at KURUNEGALA - D: “Okay”"
     }
   ]
 }
