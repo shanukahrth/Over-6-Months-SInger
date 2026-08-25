@@ -49391,6 +49391,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:34:00",
       "lastUpdated": "2026-08-25T06:04:00.148Z"
+    },
+    "SLE32D2010TC||NIKAWARATIYA - B": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:34:07",
+      "lastUpdated": "2026-08-25T06:04:07.498Z"
     }
   },
   "showroomVisits": {
@@ -50679,6 +50686,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:34:07",
+      "iso": "2026-08-25T06:04:07.500Z",
+      "action": "updated remark for SLE32D2010TC at NIKAWARATIYA - B: “Damaged - 90%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:34:00",
@@ -51020,13 +51034,6 @@
       "time": "11:13:36",
       "iso": "2026-08-25T05:43:36.915Z",
       "action": "updated remark for R-WRMM24LX at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:13:23",
-      "iso": "2026-08-25T05:43:23.892Z",
-      "action": "updated remark for QT-Q2SPLUS at KURUNEGALA - D: “Okay”"
     }
   ]
 }
