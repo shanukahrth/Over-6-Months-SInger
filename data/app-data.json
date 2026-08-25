@@ -57218,8 +57218,16 @@
       "updatedDate": "2026-08-25"
     },
     "THALAWAKELLE||GAMPOLA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "2026-08-24",
+      "team": "Central ",
+      "remark": "Through DM",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-25"
+    },
+    "WALAPANE||GAMPOLA": {
+      "visited": "No",
+      "visitDate": "",
       "team": "",
       "remark": "",
       "updatedBy": "Shanuka",
@@ -57349,6 +57357,34 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:20:56",
+      "iso": "2026-08-25T11:50:56.714Z",
+      "action": "updated WALAPANE showroom (visited: No)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:20:52",
+      "iso": "2026-08-25T11:50:52.604Z",
+      "action": "updated THALAWAKELLE showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:20:45",
+      "iso": "2026-08-25T11:50:45.666Z",
+      "action": "updated WALAPANE showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:20:41",
+      "iso": "2026-08-25T11:50:41.893Z",
+      "action": "updated THALAWAKELLE showroom (remark: Through DM)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-25",
@@ -57670,34 +57706,6 @@
       "time": "16:13:26",
       "iso": "2026-08-25T10:43:26.161Z",
       "action": "updated GAMPOLA showroom (team: Central )"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:13:18",
-      "iso": "2026-08-25T10:43:18.685Z",
-      "action": "updated GAMPOLA showroom (visitDate: 2026-08-25)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:13:16",
-      "iso": "2026-08-25T10:43:16.319Z",
-      "action": "updated GAMPOLA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:10:45",
-      "iso": "2026-08-25T10:40:45.080Z",
-      "action": "updated remark for TCLED32D65A at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:10:25",
-      "iso": "2026-08-25T10:40:25.621Z",
-      "action": "updated remark for TCLED24D3100 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
