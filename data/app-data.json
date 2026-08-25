@@ -50567,6 +50567,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:34:54",
       "lastUpdated": "2026-08-25T07:04:54.144Z"
+    },
+    "RCS-04||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:34:54",
+      "lastUpdated": "2026-08-25T07:04:54.139Z"
+    },
+    "SAS-GRI12VN||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:35:01",
+      "lastUpdated": "2026-08-25T07:05:01.654Z"
     }
   },
   "showroomVisits": {
@@ -51855,6 +51869,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "12:35:01",
+      "iso": "2026-08-25T07:05:01.656Z",
+      "action": "updated remark for SAS-GRI12VN at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "12:34:54",
+      "iso": "2026-08-25T07:04:54.140Z",
+      "action": "updated remark for RCS-04 at RIDEEGAMA: “Okay”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "12:34:54",
@@ -52189,20 +52217,6 @@
       "time": "12:17:04",
       "iso": "2026-08-25T06:47:04.474Z",
       "action": "updated remark for CLOTHLINE-10 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:16:34",
-      "iso": "2026-08-25T06:46:34.368Z",
-      "action": "updated remark for BES-WP15T at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:16:30",
-      "iso": "2026-08-25T06:46:30.109Z",
-      "action": "updated remark for BES-WP15-ECO at RIDEEGAMA: “60% (License Expired/ Old Cable)”"
     }
   ]
 }
