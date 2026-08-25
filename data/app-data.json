@@ -50518,6 +50518,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:32:46",
       "lastUpdated": "2026-08-25T07:02:46.903Z"
+    },
+    "PTT-200GT||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:33:57",
+      "lastUpdated": "2026-08-25T07:03:57.316Z"
     }
   },
   "showroomVisits": {
@@ -51806,6 +51813,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "12:33:57",
+      "iso": "2026-08-25T07:03:57.318Z",
+      "action": "updated remark for PTT-200GT at RIDEEGAMA: “Okay”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "12:32:46",
@@ -52147,13 +52161,6 @@
       "time": "12:11:22",
       "iso": "2026-08-25T06:41:22.507Z",
       "action": "updated remark for SMG-A06-6-128-BLK at RIDEEGAMA: “Display - 40%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:11:07",
-      "iso": "2026-08-25T06:41:07.414Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at RIDEEGAMA: “Okay”"
     }
   ]
 }
