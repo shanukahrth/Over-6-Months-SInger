@@ -47347,6 +47347,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:18:12",
       "lastUpdated": "2026-08-25T04:48:12.929Z"
+    },
+    "TF-FP24-SCR342||KEGALLE": {
+      "remark": "15% flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:18:53",
+      "lastUpdated": "2026-08-25T04:48:53.693Z"
+    },
+    "TF-IT30-169||KEGALLE": {
+      "remark": "70% flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:19:14",
+      "lastUpdated": "2026-08-25T04:49:14.435Z"
     }
   },
   "showroomVisits": {
@@ -48635,6 +48649,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:19:14",
+      "iso": "2026-08-25T04:49:14.439Z",
+      "action": "updated remark for TF-IT30-169 at KEGALLE: “70% flat”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:19:07",
+      "iso": "2026-08-25T04:49:07.606Z",
+      "action": "updated remark for TF-IT30-169 at KEGALLE: “70% flat”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:18:53",
+      "iso": "2026-08-25T04:48:53.698Z",
+      "action": "updated remark for TF-FP24-SCR342 at KEGALLE: “15% flat”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "10:18:12",
@@ -48962,27 +48997,6 @@
       "time": "09:56:49",
       "iso": "2026-08-25T04:26:49.708Z",
       "action": "updated remark for LF-OX-BR-M-CHY-S at KIRINDIWELA - B: “50”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "09:56:32",
-      "iso": "2026-08-25T04:26:32.653Z",
-      "action": "updated remark for LF-OX-BR-M-CHY-S at KIRINDIWELA - B: “5”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "09:56:43",
-      "iso": "2026-08-25T04:26:43.648Z",
-      "action": "updated remark for ACER-515-I3-8GB512-GRY at KEGALLE: “60% flat provided. Charger missing.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "09:55:40",
-      "iso": "2026-08-25T04:25:40.318Z",
-      "action": "updated remark for HAVIT-MS851-MOUSE at KEGALLE: “50% flat”"
     }
   ]
 }
