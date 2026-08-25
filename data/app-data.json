@@ -54137,6 +54137,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:19:05",
       "lastUpdated": "2026-08-25T09:49:05.402Z"
+    },
+    "ULED32D60A||KEGALLE - C": {
+      "remark": "Panel damage. 90%. BM will report",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:21:49",
+      "lastUpdated": "2026-08-25T09:51:49.209Z"
+    },
+    "SMGUA32N4010||KEGALLE - C": {
+      "remark": "Panel damage. 90%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:22:07",
+      "lastUpdated": "2026-08-25T09:52:07.753Z"
     }
   },
   "showroomVisits": {
@@ -55451,6 +55465,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "15:22:07",
+      "iso": "2026-08-25T09:52:07.760Z",
+      "action": "updated remark for SMGUA32N4010 at KEGALLE - C: “Panel damage. 90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "15:21:49",
+      "iso": "2026-08-25T09:51:49.233Z",
+      "action": "updated remark for ULED32D60A at KEGALLE - C: “Panel damage. 90%. BM will report”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "15:19:05",
       "iso": "2026-08-25T09:49:05.409Z",
       "action": "updated remark for TCL65C655 at KEGALLE - C: “35%”"
@@ -55783,20 +55811,6 @@
       "time": "15:02:08",
       "iso": "2026-08-25T09:32:08.593Z",
       "action": "updated remark for SL-SF1607 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "15:01:42",
-      "iso": "2026-08-25T09:31:42.902Z",
-      "action": "updated remark for NCPO-FP280 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "15:00:41",
-      "iso": "2026-08-25T09:30:41.257Z",
-      "action": "updated remark for KA-TXG-DS11A at RIDEEGAMA: “Okay”"
     }
   ]
 }
