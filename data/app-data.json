@@ -55950,6 +55950,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:11:37",
       "lastUpdated": "2026-08-25T11:41:37.787Z"
+    },
+    "SB-DTYPE||KEGALLE B": {
+      "remark": "90%. Expired.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:12:26",
+      "lastUpdated": "2026-08-25T11:42:26.961Z"
     }
   },
   "showroomVisits": {
@@ -57270,6 +57277,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:12:26",
+      "iso": "2026-08-25T11:42:26.966Z",
+      "action": "updated remark for SB-DTYPE at KEGALLE B: “90%. Expired.”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-25",
       "time": "17:11:37",
@@ -57611,13 +57625,6 @@
       "time": "16:07:39",
       "iso": "2026-08-25T10:37:39.802Z",
       "action": "updated remark for SLE43G890 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:07:28",
-      "iso": "2026-08-25T10:37:28.180Z",
-      "action": "updated remark for SLE40E810C at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
