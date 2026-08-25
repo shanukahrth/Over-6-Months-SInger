@@ -53318,6 +53318,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:23:40",
       "lastUpdated": "2026-08-25T08:53:40.381Z"
+    },
+    "SLE24D1000||RIDEEGAMA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:24:55",
+      "lastUpdated": "2026-08-25T08:54:55.835Z"
     }
   },
   "showroomVisits": {
@@ -54632,6 +54639,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:24:55",
+      "iso": "2026-08-25T08:54:55.837Z",
+      "action": "updated remark for SLE24D1000 at RIDEEGAMA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:23:40",
       "iso": "2026-08-25T08:53:40.382Z",
       "action": "updated remark for SL-VAR-90P-C at RIDEEGAMA: “Display/ Damaged - 60%”"
@@ -54971,13 +54985,6 @@
       "time": "13:34:27",
       "iso": "2026-08-25T08:04:27.958Z",
       "action": "updated remark for SWM-FA70R at PUSSELLAWA: “60%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:34:11",
-      "iso": "2026-08-25T08:04:11.956Z",
-      "action": "updated remark for PN-MC-CG370GS47 at PUSSELLAWA: “15%”"
     }
   ]
 }
