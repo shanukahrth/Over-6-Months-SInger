@@ -55922,6 +55922,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:08:11",
       "lastUpdated": "2026-08-25T11:38:11.579Z"
+    },
+    "KLV-32R326F||GAMPOLA - C": {
+      "remark": "Flood",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:09:09",
+      "lastUpdated": "2026-08-25T11:39:09.085Z"
     }
   },
   "showroomVisits": {
@@ -57244,6 +57251,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-25",
+      "time": "17:09:09",
+      "iso": "2026-08-25T11:39:09.088Z",
+      "action": "updated remark for KLV-32R326F at GAMPOLA - C: “Flood”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
       "time": "17:08:11",
       "iso": "2026-08-25T11:38:11.581Z",
       "action": "updated remark for SIN-PR-K340 at GAMPOLA - C: “40%”"
@@ -57583,13 +57597,6 @@
       "time": "16:06:10",
       "iso": "2026-08-25T10:36:10.103Z",
       "action": "updated remark for SLE32E930 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:06:08",
-      "iso": "2026-08-25T10:36:08.981Z",
-      "action": "updated remark for SLE32E920 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
