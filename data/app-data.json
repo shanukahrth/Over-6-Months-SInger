@@ -48131,6 +48131,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:37:07",
       "lastUpdated": "2026-08-25T05:07:07.172Z"
+    },
+    "DVP-SR370||NIKAWARATIYA - B": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:37:15",
+      "lastUpdated": "2026-08-25T05:07:15.491Z"
+    },
+    "FAN-WF1608R||NIKAWARATIYA - B": {
+      "remark": "Sold",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:37:25",
+      "lastUpdated": "2026-08-25T05:07:25.557Z"
     }
   },
   "showroomVisits": {
@@ -49419,6 +49433,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:37:25",
+      "iso": "2026-08-25T05:07:25.558Z",
+      "action": "updated remark for FAN-WF1608R at NIKAWARATIYA - B: “Sold”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:37:15",
+      "iso": "2026-08-25T05:07:15.492Z",
+      "action": "updated remark for DVP-SR370 at NIKAWARATIYA - B: “Okay”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "10:37:07",
@@ -49753,20 +49781,6 @@
       "time": "10:30:11",
       "iso": "2026-08-25T05:00:11.449Z",
       "action": "updated remark for CAN-I-MG2570S at KURUNEGALA B: “Revert/ Damaged- 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:30:04",
-      "iso": "2026-08-25T05:00:04.893Z",
-      "action": "updated remark for SKY32TB1000 at NIKAWERATIYA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:30:03",
-      "iso": "2026-08-25T05:00:03.597Z",
-      "action": "updated remark for SKY32TB1000 at NIKAWERATIYA: “Revert / Damaged - 90%”"
     }
   ]
 }
