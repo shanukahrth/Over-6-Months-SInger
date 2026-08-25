@@ -56188,6 +56188,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:39:21",
       "lastUpdated": "2026-08-25T12:09:21.154Z"
+    },
+    "LP-AP01||KEGALLE B": {
+      "remark": "1 damaged.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:40:41",
+      "lastUpdated": "2026-08-25T12:10:41.317Z"
     }
   },
   "showroomVisits": {
@@ -57542,6 +57549,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:40:41",
+      "iso": "2026-08-25T12:10:41.340Z",
+      "action": "updated remark for LP-AP01 at KEGALLE B: “1 damaged.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:39:21",
       "iso": "2026-08-25T12:09:21.160Z",
       "action": "updated remark for TH-TC-351 at KEGALLE B: “75% discount”"
@@ -57881,13 +57895,6 @@
       "time": "17:21:24",
       "iso": "2026-08-25T11:51:24.839Z",
       "action": "updated remark for FAN-P-SF1605HL at KEGALLE B: “70% discount. Color fade”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:21:15",
-      "iso": "2026-08-25T11:51:15.322Z",
-      "action": "updated remark for FAN-P-SF1605HR at KEGALLE B: “Part damage. 70% discount”"
     }
   ]
 }
