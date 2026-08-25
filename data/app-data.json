@@ -54307,6 +54307,14 @@
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-25"
+    },
+    "PUSSELLAWA||GAMPOLA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-25",
+      "team": "Central ",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-25"
     }
   },
   "soldMarks": {
@@ -54432,6 +54440,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "13:37:56",
+      "iso": "2026-08-25T08:07:56.597Z",
+      "action": "updated PUSSELLAWA showroom (visitDate: 2026-08-25)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "13:37:54",
+      "iso": "2026-08-25T08:07:54.241Z",
+      "action": "updated PUSSELLAWA showroom (team: Central )"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "13:37:48",
+      "iso": "2026-08-25T08:07:48.269Z",
+      "action": "updated PUSSELLAWA showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-25",
@@ -54760,27 +54789,6 @@
       "time": "13:24:07",
       "iso": "2026-08-25T07:54:07.675Z",
       "action": "updated remark for NUBIA-V70-8-256GB-GRY at PUSSELLAWA: “Report”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:23:45",
-      "iso": "2026-08-25T07:53:45.659Z",
-      "action": "updated remark for SIN-RFC-1819 at PUSSELLAWA: “35%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:23:34",
-      "iso": "2026-08-25T07:53:34.950Z",
-      "action": "updated remark for CM-VIR-GUARD at PUSSELLAWA: “Dropped”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:23:15",
-      "iso": "2026-08-25T07:53:15.205Z",
-      "action": "updated remark for CM-PEN-16GB at PUSSELLAWA: “Dropped”"
     }
   ]
 }
