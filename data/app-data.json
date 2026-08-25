@@ -53801,6 +53801,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:53:33",
       "lastUpdated": "2026-08-25T09:23:33.158Z"
+    },
+    "KN-HDP106||RIDEEGAMA": {
+      "remark": "25%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:54:01",
+      "lastUpdated": "2026-08-25T09:24:01.003Z"
     }
   },
   "showroomVisits": {
@@ -55113,6 +55120,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "14:54:01",
+      "iso": "2026-08-25T09:24:01.006Z",
+      "action": "updated remark for KN-HDP106 at RIDEEGAMA: “25%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-25",
       "time": "14:53:33",
@@ -55454,13 +55468,6 @@
       "time": "14:34:55",
       "iso": "2026-08-25T09:04:55.782Z",
       "action": "updated remark for SLE55G3EN at RIDEEGAMA: “Revert - 85%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:34:53",
-      "iso": "2026-08-25T09:04:53.984Z",
-      "action": "updated remark for TF-NIK26-045 at KEGALLE - C: “10% provided”"
     }
   ]
 }
