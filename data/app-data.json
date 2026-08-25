@@ -56538,6 +56538,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "18:19:22",
       "lastUpdated": "2026-08-25T12:49:22.842Z"
+    },
+    "SLE43G890||KEGALLE B": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "18:19:51",
+      "lastUpdated": "2026-08-25T12:49:51.006Z"
+    },
+    "PN-TH-55MX740N||KEGALLE B": {
+      "remark": "40% discount",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "18:20:16",
+      "lastUpdated": "2026-08-25T12:50:16.259Z"
     }
   },
   "showroomVisits": {
@@ -57892,6 +57906,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "18:20:16",
+      "iso": "2026-08-25T12:50:16.263Z",
+      "action": "updated remark for PN-TH-55MX740N at KEGALLE B: “40% discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "18:19:51",
+      "iso": "2026-08-25T12:49:51.011Z",
+      "action": "updated remark for SLE43G890 at KEGALLE B: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "18:19:22",
       "iso": "2026-08-25T12:49:22.847Z",
       "action": "updated remark for SLE40E810C at KEGALLE B: “70% discount”"
@@ -58224,20 +58252,6 @@
       "time": "17:49:30",
       "iso": "2026-08-25T12:19:30.792Z",
       "action": "updated remark for VT-EL31109CN at KEGALLE B: “90% offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:48:24",
-      "iso": "2026-08-25T12:18:24.016Z",
-      "action": "updated remark for SL-S203 at KEGALLE B: “70% offered. Revert”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:48:04",
-      "iso": "2026-08-25T12:18:04.700Z",
-      "action": "updated remark for STT-200K at KEGALLE B: “Burner stands not available. 75% discount offered”"
     }
   ]
 }
