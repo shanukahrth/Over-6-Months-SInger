@@ -47872,6 +47872,41 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:31:13",
       "lastUpdated": "2026-08-25T05:01:13.652Z"
+    },
+    "STT-KGT200||KEGALLE": {
+      "remark": "Damaged. 90% offered to clear",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:30:20",
+      "lastUpdated": "2026-08-25T05:00:20.384Z"
+    },
+    "STT-KHT009||KEGALLE": {
+      "remark": "90% offered to clear",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:30:33",
+      "lastUpdated": "2026-08-25T05:00:33.615Z"
+    },
+    "RIYLTA-MF12V25||KEGALLE": {
+      "remark": "Return to Warehouse",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:30:49",
+      "lastUpdated": "2026-08-25T05:00:49.412Z"
+    },
+    "SIN-RFC-1819||KEGALLE": {
+      "remark": "10% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:31:32",
+      "lastUpdated": "2026-08-25T05:01:32.294Z"
+    },
+    "SIN-RFC-2012||KEGALLE": {
+      "remark": "40% flat offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:31:43",
+      "lastUpdated": "2026-08-25T05:01:43.836Z"
     }
   },
   "showroomVisits": {
@@ -49160,6 +49195,41 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:31:43",
+      "iso": "2026-08-25T05:01:43.841Z",
+      "action": "updated remark for SIN-RFC-2012 at KEGALLE: “40% flat offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:31:32",
+      "iso": "2026-08-25T05:01:32.299Z",
+      "action": "updated remark for SIN-RFC-1819 at KEGALLE: “10% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:30:49",
+      "iso": "2026-08-25T05:00:49.417Z",
+      "action": "updated remark for RIYLTA-MF12V25 at KEGALLE: “Return to Warehouse”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:30:33",
+      "iso": "2026-08-25T05:00:33.619Z",
+      "action": "updated remark for STT-KHT009 at KEGALLE: “90% offered to clear”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:30:20",
+      "iso": "2026-08-25T05:00:20.389Z",
+      "action": "updated remark for STT-KGT200 at KEGALLE: “Damaged. 90% offered to clear”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "10:31:13",
@@ -49473,41 +49543,6 @@
       "time": "10:27:58",
       "iso": "2026-08-25T04:57:58.490Z",
       "action": "updated remark for ZTE-A31-LITE-GRY at KURUNEGALA B: “Damaged (Battery Dead) - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:27:57",
-      "iso": "2026-08-25T04:57:57.638Z",
-      "action": "updated remark for SIN-HPW0317 at NIKAWERATIYA: “Revert / Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:27:27",
-      "iso": "2026-08-25T04:57:27.091Z",
-      "action": "updated remark for FAN-P-MSF160 at NIKAWERATIYA: “Revert / Damaged - 80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:27:21",
-      "iso": "2026-08-25T04:57:21.401Z",
-      "action": "updated remark for SMG-A36-5G-8-128-BLK at KURUNEGALA B: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:27:11",
-      "iso": "2026-08-25T04:57:11.832Z",
-      "action": "updated remark for CLIP-MCW at NIKAWERATIYA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:27:09",
-      "iso": "2026-08-25T04:57:09.379Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at KURUNEGALA B: “Burglary Issue”"
     }
   ]
 }
