@@ -49510,6 +49510,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:38:11",
       "lastUpdated": "2026-08-25T06:08:11.781Z"
+    },
+    "SMGRT37M5532S9||NIKAWARATIYA - B": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:38:25",
+      "lastUpdated": "2026-08-25T06:08:25.627Z"
     }
   },
   "showroomVisits": {
@@ -50798,6 +50805,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:38:25",
+      "iso": "2026-08-25T06:08:25.631Z",
+      "action": "updated remark for SMGRT37M5532S9 at NIKAWARATIYA - B: “Damaged - 85%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-25",
       "time": "11:38:11",
@@ -51139,13 +51153,6 @@
       "time": "11:28:08",
       "iso": "2026-08-25T05:58:08.090Z",
       "action": "updated remark for SL-SF1607 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "11:27:55",
-      "iso": "2026-08-25T05:57:55.993Z",
-      "action": "updated remark for SVX6002 at NIKAWARATIYA - B: “Damaged - 85%”"
     }
   ]
 }
