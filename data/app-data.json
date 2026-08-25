@@ -49825,6 +49825,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:49:07",
       "lastUpdated": "2026-08-25T06:19:07.389Z"
+    },
+    "PN-TH-32MS670N||MAHO": {
+      "remark": "Revert/ Damaged - 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:48:59",
+      "lastUpdated": "2026-08-25T06:18:59.031Z"
     }
   },
   "showroomVisits": {
@@ -51113,6 +51120,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:48:59",
+      "iso": "2026-08-25T06:18:59.032Z",
+      "action": "updated remark for PN-TH-32MS670N at MAHO: “Revert/ Damaged - 40%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-25",
       "time": "11:49:07",
@@ -51454,13 +51468,6 @@
       "time": "11:39:37",
       "iso": "2026-08-25T06:09:37.509Z",
       "action": "updated remark for SIN-MH51SW at NIKAWARATIYA - B: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:39:16",
-      "iso": "2026-08-25T06:09:16.484Z",
-      "action": "updated remark for SMW823AY7 at KURUNEGALA - D: “Okay”"
     }
   ]
 }
