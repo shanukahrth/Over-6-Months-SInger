@@ -53290,6 +53290,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:20:42",
       "lastUpdated": "2026-08-25T08:50:42.123Z"
+    },
+    "SKY32TB1000||RIDEEGAMA": {
+      "remark": "Revert/ Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:21:58",
+      "lastUpdated": "2026-08-25T08:51:58.070Z"
     }
   },
   "showroomVisits": {
@@ -54604,6 +54611,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:21:58",
+      "iso": "2026-08-25T08:51:58.072Z",
+      "action": "updated remark for SKY32TB1000 at RIDEEGAMA: “Revert/ Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:20:42",
       "iso": "2026-08-25T08:50:42.124Z",
       "action": "updated remark for SKY32STD1000 at RIDEEGAMA: “Damaged - 80%”"
@@ -54943,13 +54957,6 @@
       "time": "13:33:18",
       "iso": "2026-08-25T08:03:18.877Z",
       "action": "updated remark for TCL43S5400 at PUSSELLAWA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:33:12",
-      "iso": "2026-08-25T08:03:12.284Z",
-      "action": "updated remark for SMGUA32T4400 at PUSSELLAWA: “90%”"
     }
   ]
 }
