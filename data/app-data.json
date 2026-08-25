@@ -53479,6 +53479,76 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:32:48",
       "lastUpdated": "2026-08-25T09:02:48.135Z"
+    },
+    "USHA-EI1602||KEGALLE - C": {
+      "remark": "Damaged. 20% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:31:07",
+      "lastUpdated": "2026-08-25T09:01:07.296Z"
+    },
+    "SIS277CU||KEGALLE - C": {
+      "remark": "Water leakage. 90% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:32:21",
+      "lastUpdated": "2026-08-25T09:02:21.871Z"
+    },
+    "TF-TW26-064||KEGALLE - C": {
+      "remark": "10% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:34:32",
+      "lastUpdated": "2026-08-25T09:04:32.113Z"
+    },
+    "TF-FP24-SCR342||KEGALLE - C": {
+      "remark": "10% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:34:34",
+      "lastUpdated": "2026-08-25T09:04:34.360Z"
+    },
+    "TF-KD24-061||KEGALLE - C": {
+      "remark": "10% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:34:36",
+      "lastUpdated": "2026-08-25T09:04:36.399Z"
+    },
+    "TF-NIDFP24-170||KEGALLE - C": {
+      "remark": "10% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:34:38",
+      "lastUpdated": "2026-08-25T09:04:38.386Z"
+    },
+    "TF-NIFP28-042||KEGALLE - C": {
+      "remark": "10% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:34:40",
+      "lastUpdated": "2026-08-25T09:04:40.993Z"
+    },
+    "TF-NIGP26-119||KEGALLE - C": {
+      "remark": "10% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:34:43",
+      "lastUpdated": "2026-08-25T09:04:43.800Z"
+    },
+    "TF-SP16-063||KEGALLE - C": {
+      "remark": "10% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:34:49",
+      "lastUpdated": "2026-08-25T09:04:49.714Z"
+    },
+    "TF-NIK26-045||KEGALLE - C": {
+      "remark": "10% provided",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:34:53",
+      "lastUpdated": "2026-08-25T09:04:53.978Z"
     }
   },
   "showroomVisits": {
@@ -54791,6 +54861,76 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:34:53",
+      "iso": "2026-08-25T09:04:53.984Z",
+      "action": "updated remark for TF-NIK26-045 at KEGALLE - C: “10% provided”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:34:49",
+      "iso": "2026-08-25T09:04:49.719Z",
+      "action": "updated remark for TF-SP16-063 at KEGALLE - C: “10% provided”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:34:43",
+      "iso": "2026-08-25T09:04:43.805Z",
+      "action": "updated remark for TF-NIGP26-119 at KEGALLE - C: “10% provided”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:34:40",
+      "iso": "2026-08-25T09:04:40.998Z",
+      "action": "updated remark for TF-NIFP28-042 at KEGALLE - C: “10% provided”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:34:38",
+      "iso": "2026-08-25T09:04:38.391Z",
+      "action": "updated remark for TF-NIDFP24-170 at KEGALLE - C: “10% provided”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:34:36",
+      "iso": "2026-08-25T09:04:36.404Z",
+      "action": "updated remark for TF-KD24-061 at KEGALLE - C: “10% provided”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:34:34",
+      "iso": "2026-08-25T09:04:34.364Z",
+      "action": "updated remark for TF-FP24-SCR342 at KEGALLE - C: “10% provided”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:34:32",
+      "iso": "2026-08-25T09:04:32.119Z",
+      "action": "updated remark for TF-TW26-064 at KEGALLE - C: “10% provided”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:32:21",
+      "iso": "2026-08-25T09:02:21.877Z",
+      "action": "updated remark for SIS277CU at KEGALLE - C: “Water leakage. 90% provided”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:31:07",
+      "iso": "2026-08-25T09:01:07.303Z",
+      "action": "updated remark for USHA-EI1602 at KEGALLE - C: “Damaged. 20% provided”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "14:32:48",
@@ -55069,76 +55209,6 @@
       "time": "14:19:49",
       "iso": "2026-08-25T08:49:49.901Z",
       "action": "updated remark for SIS277CU at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:19:37",
-      "iso": "2026-08-25T08:49:37.418Z",
-      "action": "updated remark for SIN-RFC-1819 at RIDEEGAMA: “Display - 15%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:18:50",
-      "iso": "2026-08-25T08:48:50.984Z",
-      "action": "updated remark for SIN-K13 at RIDEEGAMA: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:18:32",
-      "iso": "2026-08-25T08:48:32.684Z",
-      "action": "updated remark for SDV3605K at RIDEEGAMA: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:18:24",
-      "iso": "2026-08-25T08:48:24.181Z",
-      "action": "updated remark for SDV3605K at RIDEEGAMA: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:18:08",
-      "iso": "2026-08-25T08:48:08.072Z",
-      "action": "updated remark for SB-DTYPE at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:17:27",
-      "iso": "2026-08-25T08:47:27.087Z",
-      "action": "updated remark for QT-SITUP at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:17:10",
-      "iso": "2026-08-25T08:47:10.019Z",
-      "action": "updated remark for PN-TH-32JS650N at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:16:22",
-      "iso": "2026-08-25T08:46:22.823Z",
-      "action": "updated remark for SDF-182PPA at KEGALLE - C: “Can sell. Transfer to damaged and sell”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:15:04",
-      "iso": "2026-08-25T08:45:04.120Z",
-      "action": "updated remark for DELL3510-PNTMSIL-BLK at KEGALLE - C: “Damaged screen. 90% offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:14:59",
-      "iso": "2026-08-25T08:44:59.217Z",
-      "action": "updated remark for DELL3510-PNTMSIL-BLK at KEGALLE - C: “Damaged. 90% offered”"
     }
   ]
 }
