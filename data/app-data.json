@@ -55999,6 +55999,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:18:52",
       "lastUpdated": "2026-08-25T11:48:52.284Z"
+    },
+    "WP-SUB-075||GAMPOLA - C": {
+      "remark": "Flood",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:19:07",
+      "lastUpdated": "2026-08-25T11:49:07.983Z"
     }
   },
   "showroomVisits": {
@@ -57321,6 +57328,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-25",
+      "time": "17:19:07",
+      "iso": "2026-08-25T11:49:07.985Z",
+      "action": "updated remark for WP-SUB-075 at GAMPOLA - C: “Flood”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
       "time": "17:18:52",
       "iso": "2026-08-25T11:48:52.286Z",
       "action": "updated remark for TCLED32D65A at GAMPOLA - C: “Flood”"
@@ -57660,13 +57674,6 @@
       "time": "16:09:47",
       "iso": "2026-08-25T10:39:47.861Z",
       "action": "updated remark for TCL55C655 at GAMPOLA: “Damaged”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:09:36",
-      "iso": "2026-08-25T10:39:36.711Z",
-      "action": "updated remark for ULED32D2070 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
