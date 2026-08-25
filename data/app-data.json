@@ -53234,6 +53234,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:17:10",
       "lastUpdated": "2026-08-25T08:47:10.017Z"
+    },
+    "QT-SITUP||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:17:27",
+      "lastUpdated": "2026-08-25T08:47:27.086Z"
     }
   },
   "showroomVisits": {
@@ -54548,6 +54555,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:17:27",
+      "iso": "2026-08-25T08:47:27.087Z",
+      "action": "updated remark for QT-SITUP at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:17:10",
       "iso": "2026-08-25T08:47:10.019Z",
       "action": "updated remark for PN-TH-32JS650N at RIDEEGAMA: “Okay”"
@@ -54887,13 +54901,6 @@
       "time": "13:28:44",
       "iso": "2026-08-25T07:58:44.556Z",
       "action": "updated remark for BES-WP15T at PUSSELLAWA: “License expired”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:28:38",
-      "iso": "2026-08-25T07:58:38.189Z",
-      "action": "updated remark for BES-WP15-ECO at PUSSELLAWA: “License expired”"
     }
   ]
 }
