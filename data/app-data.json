@@ -48824,6 +48824,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:01:11",
       "lastUpdated": "2026-08-25T05:31:11.130Z"
+    },
+    "SLE40D600A||SETTIKULAM": {
+      "remark": "70%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:01:32",
+      "lastUpdated": "2026-08-25T05:31:32.140Z"
+    },
+    "SLE32E930||SETTIKULAM": {
+      "remark": "70%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:01:41",
+      "lastUpdated": "2026-08-25T05:31:41.858Z"
     }
   },
   "showroomVisits": {
@@ -50112,6 +50126,20 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "11:01:41",
+      "iso": "2026-08-25T05:31:41.860Z",
+      "action": "updated remark for SLE32E930 at SETTIKULAM: “70%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "11:01:32",
+      "iso": "2026-08-25T05:31:32.146Z",
+      "action": "updated remark for SLE40D600A at SETTIKULAM: “70%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:01:11",
@@ -50446,20 +50474,6 @@
       "time": "10:50:50",
       "iso": "2026-08-25T05:20:50.228Z",
       "action": "updated remark for SLE40D600A at NIKAWARATIYA - B: “Damaged - 90%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:50:40",
-      "iso": "2026-08-25T05:20:40.016Z",
-      "action": "updated remark for NCPDG-SP280 at KIRINDIWELA - B: “Discont Already Given to DM”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:50:55",
-      "iso": "2026-08-25T05:20:55.480Z",
-      "action": "updated remark for SIN-PSVX938N at SETTIKULAM: “18500”"
     }
   ]
 }
