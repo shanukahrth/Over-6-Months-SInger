@@ -48110,6 +48110,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:36:34",
       "lastUpdated": "2026-08-25T05:06:34.011Z"
+    },
+    "DH-I-A22EP-G-IMOU||NIKAWARATIYA - B": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:36:45",
+      "lastUpdated": "2026-08-25T05:06:45.167Z"
     }
   },
   "showroomVisits": {
@@ -49398,6 +49405,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:36:45",
+      "iso": "2026-08-25T05:06:45.168Z",
+      "action": "updated remark for DH-I-A22EP-G-IMOU at NIKAWARATIYA - B: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:36:43",
+      "iso": "2026-08-25T05:06:43.918Z",
+      "action": "updated remark for DH-I-A22EP-G-IMOU at NIKAWARATIYA - B: “Damaged - 80%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "10:36:34",
@@ -49732,20 +49753,6 @@
       "time": "10:29:48",
       "iso": "2026-08-25T04:59:48.294Z",
       "action": "updated remark for BTS-10KG at KURUNEGALA B: “Rambukkana Clearance Sale”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:29:35",
-      "iso": "2026-08-25T04:59:35.845Z",
-      "action": "updated remark for B-CFB9433XH at KURUNEGALA B: “Rambukkana Clearance Sale”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:29:23",
-      "iso": "2026-08-25T04:59:23.705Z",
-      "action": "updated remark for AVERY-150KG at KURUNEGALA B: “Rambukkana Clearance Sale”"
     }
   ]
 }
