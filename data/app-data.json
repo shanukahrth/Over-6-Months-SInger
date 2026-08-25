@@ -3760,11 +3760,11 @@
       "lastUpdated": "2026-08-17T04:14:30.778Z"
     },
     "ZTE-A31-LITE-GRY||KURUNEGALA B": {
-      "remark": "Battery Dead - 90%",
-      "commentedBy": "SHENULI",
-      "commentDate": "2026-08-17",
-      "commentTime": "09:44:39",
-      "lastUpdated": "2026-08-17T04:14:39.015Z"
+      "remark": "Damaged (Battery Dead) - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:27:58",
+      "lastUpdated": "2026-08-25T04:57:58.490Z"
     },
     "AES-HAV-30S||DAMBULLA": {
       "remark": "10%",
@@ -48936,6 +48936,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "10:27:58",
+      "iso": "2026-08-25T04:57:58.490Z",
+      "action": "updated remark for ZTE-A31-LITE-GRY at KURUNEGALA B: “Damaged (Battery Dead) - 90%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "10:27:57",
@@ -49277,13 +49284,6 @@
       "time": "10:19:07",
       "iso": "2026-08-25T04:49:07.606Z",
       "action": "updated remark for TF-IT30-169 at KEGALLE: “70% flat”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "10:18:53",
-      "iso": "2026-08-25T04:48:53.698Z",
-      "action": "updated remark for TF-FP24-SCR342 at KEGALLE: “15% flat”"
     }
   ]
 }
