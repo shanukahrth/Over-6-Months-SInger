@@ -53906,6 +53906,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:07:54",
       "lastUpdated": "2026-08-25T09:37:54.403Z"
+    },
+    "HON-X7A-6-128-BLU||WARIYAPOLA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:08:06",
+      "lastUpdated": "2026-08-25T09:38:06.372Z"
+    },
+    "HON-X7C-8-256-GRN||WARIYAPOLA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:08:10",
+      "lastUpdated": "2026-08-25T09:38:10.917Z"
     }
   },
   "showroomVisits": {
@@ -55220,6 +55234,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-25",
+      "time": "15:08:10",
+      "iso": "2026-08-25T09:38:10.917Z",
+      "action": "updated remark for HON-X7C-8-256-GRN at WARIYAPOLA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "15:08:06",
+      "iso": "2026-08-25T09:38:06.373Z",
+      "action": "updated remark for HON-X7A-6-128-BLU at WARIYAPOLA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
       "time": "15:07:54",
       "iso": "2026-08-25T09:37:54.403Z",
       "action": "updated remark for HON-X7C-8-256-BLK at WARIYAPOLA: “Okay”"
@@ -55552,20 +55580,6 @@
       "time": "14:40:28",
       "iso": "2026-08-25T09:10:28.034Z",
       "action": "updated remark for WB-F65 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:40:14",
-      "iso": "2026-08-25T09:10:14.737Z",
-      "action": "updated remark for ULED32D2070 at RIDEEGAMA: “Revert - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:40:01",
-      "iso": "2026-08-25T09:10:01.307Z",
-      "action": "updated remark for UJB-LB6027 at RIDEEGAMA: “Okay”"
     }
   ]
 }
