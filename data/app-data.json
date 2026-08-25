@@ -46997,6 +46997,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "09:48:25",
       "lastUpdated": "2026-08-25T04:18:25.150Z"
+    },
+    "LF-ORGN-DTO-CLM-S||WARAKAPOLA - B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-25",
+      "commentTime": "09:49:11",
+      "lastUpdated": "2026-08-25T04:19:11.418Z"
     }
   },
   "showroomVisits": {
@@ -48287,6 +48294,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-25",
+      "time": "09:49:11",
+      "iso": "2026-08-25T04:19:11.419Z",
+      "action": "updated remark for LF-ORGN-DTO-CLM-S at WARAKAPOLA - B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-25",
       "time": "09:48:25",
       "iso": "2026-08-25T04:18:25.151Z",
       "action": "updated remark for LF-MANEL-IC-BON-S at WARAKAPOLA - B: “50%”"
@@ -48626,13 +48640,6 @@
       "time": "19:56:41",
       "iso": "2026-08-24T14:26:41.366Z",
       "action": "updated remark for SMW823AY7 at NIKAWERATIYA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:56:13",
-      "iso": "2026-08-24T14:26:13.836Z",
-      "action": "updated remark for SLE40D600A at NIKAWERATIYA: “Revert / Damaged - 90%”"
     }
   ]
 }
