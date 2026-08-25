@@ -48537,6 +48537,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:50:50",
       "lastUpdated": "2026-08-25T05:20:50.227Z"
+    },
+    "SIN-K13||SETTIKULAM": {
+      "remark": "90%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:51:24",
+      "lastUpdated": "2026-08-25T05:21:24.509Z"
+    },
+    "UR591SW||SETTIKULAM": {
+      "remark": "5000",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:51:38",
+      "lastUpdated": "2026-08-25T05:21:38.607Z"
     }
   },
   "showroomVisits": {
@@ -49825,6 +49839,27 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "10:51:38",
+      "iso": "2026-08-25T05:21:38.609Z",
+      "action": "updated remark for UR591SW at SETTIKULAM: “5000”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "10:51:35",
+      "iso": "2026-08-25T05:21:35.258Z",
+      "action": "updated remark for UR591SW at SETTIKULAM: “5000”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "10:51:24",
+      "iso": "2026-08-25T05:21:24.512Z",
+      "action": "updated remark for SIN-K13 at SETTIKULAM: “90%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "10:50:50",
@@ -50152,27 +50187,6 @@
       "time": "10:41:41",
       "iso": "2026-08-25T05:11:41.435Z",
       "action": "updated remark for PN-TH-32M402N at NIKAWARATIYA - B: “Revert / Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:41:39",
-      "iso": "2026-08-25T05:11:39.695Z",
-      "action": "updated remark for PN-TH-32M401N at NIKAWARATIYA - B: “Revert / Damaged - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:41:22",
-      "iso": "2026-08-25T05:11:22.547Z",
-      "action": "updated remark for WP-1R-.75T at KURUNEGALA B: “Can sell this by 31st Aug (Staff will purchase)”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:41:18",
-      "iso": "2026-08-25T05:11:18.004Z",
-      "action": "updated remark for PN-TH-32M401N at NIKAWARATIYA - B: “Okay”"
     }
   ]
 }
