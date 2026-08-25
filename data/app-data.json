@@ -54172,6 +54172,34 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:25:15",
       "lastUpdated": "2026-08-25T09:55:15.869Z"
+    },
+    "SLE55GENR||KEGALLE - C": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:26:16",
+      "lastUpdated": "2026-08-25T09:56:16.712Z"
+    },
+    "PN-TH-32P401N||KEGALLE - C": {
+      "remark": "Fluctuation",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:26:34",
+      "lastUpdated": "2026-08-25T09:56:34.819Z"
+    },
+    "PN-TH-55MX740N||KEGALLE - C": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:26:48",
+      "lastUpdated": "2026-08-25T09:56:48.813Z"
+    },
+    "KD-50X75K||KEGALLE - C": {
+      "remark": "30%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:27:03",
+      "lastUpdated": "2026-08-25T09:57:03.300Z"
     }
   },
   "showroomVisits": {
@@ -55486,6 +55514,34 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "15:27:03",
+      "iso": "2026-08-25T09:57:03.306Z",
+      "action": "updated remark for KD-50X75K at KEGALLE - C: “30%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "15:26:48",
+      "iso": "2026-08-25T09:56:48.819Z",
+      "action": "updated remark for PN-TH-55MX740N at KEGALLE - C: “30%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "15:26:34",
+      "iso": "2026-08-25T09:56:34.823Z",
+      "action": "updated remark for PN-TH-32P401N at KEGALLE - C: “Fluctuation”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "15:26:16",
+      "iso": "2026-08-25T09:56:16.743Z",
+      "action": "updated remark for SLE55GENR at KEGALLE - C: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "15:25:15",
       "iso": "2026-08-25T09:55:15.874Z",
       "action": "updated remark for SLE43G890 at KEGALLE - C: “Panel damage. 90%”"
@@ -55804,34 +55860,6 @@
       "time": "15:07:43",
       "iso": "2026-08-25T09:37:43.045Z",
       "action": "updated remark for HON-X8C-8-512-BLK at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "15:07:12",
-      "iso": "2026-08-25T09:37:12.159Z",
-      "action": "updated remark for ETEL-K20MINIPC-SITS at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "15:06:13",
-      "iso": "2026-08-25T09:36:13.985Z",
-      "action": "updated remark for TF-SP16-063 at RIDEEGAMA: “20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "15:04:09",
-      "iso": "2026-08-25T09:34:09.420Z",
-      "action": "updated remark for HAVIT-MS851-MOUSE at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "15:03:47",
-      "iso": "2026-08-25T09:33:47.453Z",
-      "action": "updated remark for EDU-HDMI at RIDEEGAMA: “Okay”"
     }
   ]
 }
