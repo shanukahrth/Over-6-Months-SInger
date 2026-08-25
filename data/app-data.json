@@ -47375,6 +47375,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:19:00",
       "lastUpdated": "2026-08-25T04:49:00.688Z"
+    },
+    "NCPO-FP200||NIKAWERATIYA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:19:12",
+      "lastUpdated": "2026-08-25T04:49:12.330Z"
     }
   },
   "showroomVisits": {
@@ -48663,6 +48670,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:19:12",
+      "iso": "2026-08-25T04:49:12.332Z",
+      "action": "updated remark for NCPO-FP200 at NIKAWERATIYA: “Damaged - 50%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "10:19:00",
@@ -49004,13 +49018,6 @@
       "time": "09:57:20",
       "iso": "2026-08-25T04:27:20.019Z",
       "action": "updated remark for LF-OX-BR-M-CHY-S at KIRINDIWELA - B: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "09:57:15",
-      "iso": "2026-08-25T04:27:15.322Z",
-      "action": "updated remark for ACER-515-I3-8GB512-GRY at KEGALLE: “70% flat provided. Charger missing.they will buy the charger and sell”"
     }
   ]
 }
