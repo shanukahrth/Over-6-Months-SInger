@@ -49314,6 +49314,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:29:23",
       "lastUpdated": "2026-08-25T05:59:23.802Z"
+    },
+    "WF-CF-75X48-S||NIKAWARATIYA - B": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:29:45",
+      "lastUpdated": "2026-08-25T05:59:45.013Z"
     }
   },
   "showroomVisits": {
@@ -50604,6 +50611,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-25",
+      "time": "11:29:45",
+      "iso": "2026-08-25T05:59:45.016Z",
+      "action": "updated remark for WF-CF-75X48-S at NIKAWARATIYA - B: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
       "time": "11:29:23",
       "iso": "2026-08-25T05:59:23.804Z",
       "action": "updated remark for WF-CAMELIA-DTO-S at NIKAWARATIYA - B: “Damaged -90%”"
@@ -50943,13 +50957,6 @@
       "time": "11:08:19",
       "iso": "2026-08-25T05:38:19.848Z",
       "action": "updated remark for LF-BUDGET-BDQ-AGO-S at KURUNEGALA - D: “Rambukkana Clearance Sale”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:07:53",
-      "iso": "2026-08-25T05:37:53.240Z",
-      "action": "updated remark for KA-TXG-DS11A at KURUNEGALA - D: “Okay”"
     }
   ]
 }
