@@ -49027,6 +49027,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:09:20",
       "lastUpdated": "2026-08-25T05:39:20.741Z"
+    },
+    "LF-OX-BR-L-S||KURUNEGALA - D": {
+      "remark": "Display/ Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:09:46",
+      "lastUpdated": "2026-08-25T05:39:46.881Z"
+    },
+    "LF-OX-BR-M-S||KURUNEGALA - D": {
+      "remark": "Display/ Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:09:48",
+      "lastUpdated": "2026-08-25T05:39:48.392Z"
     }
   },
   "showroomVisits": {
@@ -50317,6 +50331,27 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "11:09:48",
+      "iso": "2026-08-25T05:39:48.394Z",
+      "action": "updated remark for LF-OX-BR-M-S at KURUNEGALA - D: “Display/ Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:09:46",
+      "iso": "2026-08-25T05:39:46.882Z",
+      "action": "updated remark for LF-OX-BR-L-S at KURUNEGALA - D: “Display/ Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:09:45",
+      "iso": "2026-08-25T05:39:45.559Z",
+      "action": "updated remark for LF-OX-BR-L-S at KURUNEGALA - D: “Display/ Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "11:09:20",
       "iso": "2026-08-25T05:39:20.743Z",
       "action": "updated remark for LF-ORGN-DTO-WHT at KURUNEGALA - D: “Display/ Damaged - 50%”"
@@ -50642,27 +50677,6 @@
       "time": "10:57:21",
       "iso": "2026-08-25T05:27:21.712Z",
       "action": "updated remark for SLMC-18DSLHS at SETTIKULAM: “60%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:57:13",
-      "iso": "2026-08-25T05:27:13.171Z",
-      "action": "updated remark for PCP30 at SETTIKULAM: “50%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:57:05",
-      "iso": "2026-08-25T05:27:05.186Z",
-      "action": "updated remark for PCP30 at SETTIKULAM: “50%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:56:55",
-      "iso": "2026-08-25T05:26:55.253Z",
-      "action": "updated remark for SMW823AY7 at SETTIKULAM: “25%”"
     }
   ]
 }
