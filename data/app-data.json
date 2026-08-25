@@ -47382,6 +47382,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:19:12",
       "lastUpdated": "2026-08-25T04:49:12.330Z"
+    },
+    "ETEL-K20MINIPC-SITS||KURUNEGALA B": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:19:21",
+      "lastUpdated": "2026-08-25T04:49:21.139Z"
     }
   },
   "showroomVisits": {
@@ -48670,6 +48677,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "10:19:21",
+      "iso": "2026-08-25T04:49:21.139Z",
+      "action": "updated remark for ETEL-K20MINIPC-SITS at KURUNEGALA B: “Okay”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "10:19:12",
@@ -49011,13 +49025,6 @@
       "time": "09:58:30",
       "iso": "2026-08-25T04:28:30.325Z",
       "action": "updated remark for LF-BUDGET-DT-CLM-S at KIRINDIWELA - B: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "09:57:20",
-      "iso": "2026-08-25T04:27:20.019Z",
-      "action": "updated remark for LF-OX-BR-M-CHY-S at KIRINDIWELA - B: “50%”"
     }
   ]
 }
