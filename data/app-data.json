@@ -50322,6 +50322,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:20:49",
       "lastUpdated": "2026-08-25T06:50:49.648Z"
+    },
+    "FAN-P-SF1605HR||RIDEEGAMA": {
+      "remark": "Revert - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:21:52",
+      "lastUpdated": "2026-08-25T06:51:52.464Z"
     }
   },
   "showroomVisits": {
@@ -51612,6 +51619,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:21:52",
+      "iso": "2026-08-25T06:51:52.466Z",
+      "action": "updated remark for FAN-P-SF1605HR at RIDEEGAMA: “Revert - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:20:49",
       "iso": "2026-08-25T06:50:49.650Z",
       "action": "updated remark for FAN-P-1605H at RIDEEGAMA: “Display - 15%”"
@@ -51951,13 +51965,6 @@
       "time": "11:55:26",
       "iso": "2026-08-25T06:25:26.982Z",
       "action": "updated remark for MB-LIMA-ELO7-RED at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:55:16",
-      "iso": "2026-08-25T06:25:16.105Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KURUNEGALA - D: “Okay”"
     }
   ]
 }
