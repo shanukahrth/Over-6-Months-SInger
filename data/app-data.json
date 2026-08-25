@@ -50504,6 +50504,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:31:05",
       "lastUpdated": "2026-08-25T07:01:05.622Z"
+    },
+    "PN-TH-32M402N||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:31:10",
+      "lastUpdated": "2026-08-25T07:01:10.260Z"
     }
   },
   "showroomVisits": {
@@ -51794,6 +51801,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:31:10",
+      "iso": "2026-08-25T07:01:10.260Z",
+      "action": "updated remark for PN-TH-32M402N at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:31:05",
       "iso": "2026-08-25T07:01:05.624Z",
       "action": "updated remark for PN-TH-32J401N at RIDEEGAMA: “Okay”"
@@ -52133,13 +52147,6 @@
       "time": "12:10:43",
       "iso": "2026-08-25T06:40:43.791Z",
       "action": "updated remark for HU-SECURITY at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:10:28",
-      "iso": "2026-08-25T06:40:28.051Z",
-      "action": "updated remark for HON-X6B-6-128-GRN at RIDEEGAMA: “Sold”"
     }
   ]
 }
