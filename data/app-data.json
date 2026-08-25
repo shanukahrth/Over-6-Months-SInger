@@ -49559,6 +49559,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:39:37",
       "lastUpdated": "2026-08-25T06:09:37.507Z"
+    },
+    "SN-SMI-285||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:39:49",
+      "lastUpdated": "2026-08-25T06:09:49.477Z"
     }
   },
   "showroomVisits": {
@@ -50847,6 +50854,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:39:49",
+      "iso": "2026-08-25T06:09:49.478Z",
+      "action": "updated remark for SN-SMI-285 at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:39:43",
+      "iso": "2026-08-25T06:09:43.058Z",
+      "action": "updated remark for SN-SMI-285 at KURUNEGALA - D: “o”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "11:39:37",
@@ -51181,20 +51202,6 @@
       "time": "11:30:11",
       "iso": "2026-08-25T06:00:11.447Z",
       "action": "updated remark for WFL-PILWFB-16X24-S at NIKAWARATIYA - B: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "11:29:53",
-      "iso": "2026-08-25T05:59:53.932Z",
-      "action": "updated remark for WF-PARIS-BL-S at NIKAWARATIYA - B: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "11:29:45",
-      "iso": "2026-08-25T05:59:45.016Z",
-      "action": "updated remark for WF-CF-75X48-S at NIKAWARATIYA - B: “Damaged - 90%”"
     }
   ]
 }
