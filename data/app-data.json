@@ -49587,6 +49587,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:40:23",
       "lastUpdated": "2026-08-25T06:10:23.403Z"
+    },
+    "SRS-XP500||KURUNEGALA - D": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:40:28",
+      "lastUpdated": "2026-08-25T06:10:28.749Z"
     }
   },
   "showroomVisits": {
@@ -50875,6 +50882,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:40:28",
+      "iso": "2026-08-25T06:10:28.751Z",
+      "action": "updated remark for SRS-XP500 at KURUNEGALA - D: “Damaged - 60%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "11:40:23",
@@ -51216,13 +51230,6 @@
       "time": "11:30:24",
       "iso": "2026-08-25T06:00:24.647Z",
       "action": "updated remark for WFL-SPM-75X75X7-S at NIKAWARATIYA - B: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:30:16",
-      "iso": "2026-08-25T06:00:16.359Z",
-      "action": "updated remark for SLE32E920 at KURUNEGALA - D: “Damaged - 70%”"
     }
   ]
 }
