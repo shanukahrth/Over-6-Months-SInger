@@ -56265,6 +56265,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:56:29",
       "lastUpdated": "2026-08-25T12:26:29.721Z"
+    },
+    "U-HRW-S11||KEGALLE B": {
+      "remark": "Damaged. Can't sell.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:58:09",
+      "lastUpdated": "2026-08-25T12:28:09.724Z"
+    },
+    "UPRO-12000||KEGALLE B": {
+      "remark": "Damaged. Not charging",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:58:30",
+      "lastUpdated": "2026-08-25T12:28:30.149Z"
     }
   },
   "showroomVisits": {
@@ -57619,6 +57633,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:58:30",
+      "iso": "2026-08-25T12:28:30.154Z",
+      "action": "updated remark for UPRO-12000 at KEGALLE B: “Damaged. Not charging”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:58:09",
+      "iso": "2026-08-25T12:28:09.730Z",
+      "action": "updated remark for U-HRW-S11 at KEGALLE B: “Damaged. Can't sell.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:56:29",
       "iso": "2026-08-25T12:26:29.725Z",
       "action": "updated remark for ZTE-A34-2-64GB-GRE at KEGALLE B: “Stolen”"
@@ -57951,20 +57979,6 @@
       "time": "17:28:50",
       "iso": "2026-08-25T11:58:50.064Z",
       "action": "updated remark for TF-SI-ESS-242 at KEGALLE B: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:28:48",
-      "iso": "2026-08-25T11:58:48.108Z",
-      "action": "updated remark for TF-SI-ESS-242 at KEGALLE B: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:28:45",
-      "iso": "2026-08-25T11:58:45.873Z",
-      "action": "updated remark for TF-GS-SPKT302 at KEGALLE B: “10%”"
     }
   ]
 }
