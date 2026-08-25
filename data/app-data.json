@@ -48096,6 +48096,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:36:14",
       "lastUpdated": "2026-08-25T05:06:14.195Z"
+    },
+    "BRP-CASERL16||NIKAWARATIYA - B": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:36:31",
+      "lastUpdated": "2026-08-25T05:06:31.421Z"
     }
   },
   "showroomVisits": {
@@ -49384,6 +49391,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:36:31",
+      "iso": "2026-08-25T05:06:31.423Z",
+      "action": "updated remark for BRP-CASERL16 at NIKAWARATIYA - B: “Damaged - 50%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "10:36:14",
@@ -49725,13 +49739,6 @@
       "time": "10:29:21",
       "iso": "2026-08-25T04:59:21.571Z",
       "action": "updated remark for AVERY-300KG at KURUNEGALA B: “Rambukkana Clearance Sale”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:29:28",
-      "iso": "2026-08-25T04:59:28.707Z",
-      "action": "updated remark for PCP50 at NIKAWERATIYA: “Sold”"
     }
   ]
 }
