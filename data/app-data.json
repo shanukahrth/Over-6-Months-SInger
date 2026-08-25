@@ -47984,6 +47984,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:33:42",
       "lastUpdated": "2026-08-25T05:03:42.715Z"
+    },
+    "SMGRT30K3322S8||KEGALLE": {
+      "remark": "RS.150,000 MOP",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:34:13",
+      "lastUpdated": "2026-08-25T05:04:13.486Z"
+    },
+    "GEO-182S-SV||KEGALLE": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:34:34",
+      "lastUpdated": "2026-08-25T05:04:34.339Z"
     }
   },
   "showroomVisits": {
@@ -49272,6 +49286,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:34:34",
+      "iso": "2026-08-25T05:04:34.344Z",
+      "action": "updated remark for GEO-182S-SV at KEGALLE: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:34:13",
+      "iso": "2026-08-25T05:04:13.492Z",
+      "action": "updated remark for SMGRT30K3322S8 at KEGALLE: “RS.150,000 MOP”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "10:33:23",
+      "iso": "2026-08-25T05:03:23.792Z",
+      "action": "updated remark for SMGRT30K3322S8 at KEGALLE: “Transferred to another shop”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "10:33:42",
@@ -49599,27 +49634,6 @@
       "time": "10:25:38",
       "iso": "2026-08-25T04:55:38.828Z",
       "action": "updated remark for KA-ELITE at KEGALLE: “90% flat.damaged”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "10:25:27",
-      "iso": "2026-08-25T04:55:27.375Z",
-      "action": "updated remark for B-CSG42110DSL at KEGALLE: “80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "10:25:20",
-      "iso": "2026-08-25T04:55:20.466Z",
-      "action": "updated remark for TF-AF32-577 at KEGALLE: “25%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "10:25:12",
-      "iso": "2026-08-25T04:55:12.747Z",
-      "action": "updated remark for NGT323D at KEGALLE: “80% flat”"
     }
   ]
 }
