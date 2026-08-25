@@ -55887,6 +55887,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:02:02",
       "lastUpdated": "2026-08-25T11:32:02.092Z"
+    },
+    "SIN-MH51SW||KEGALLE B": {
+      "remark": "80%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:05:31",
+      "lastUpdated": "2026-08-25T11:35:31.017Z"
     }
   },
   "showroomVisits": {
@@ -57207,6 +57214,13 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:05:31",
+      "iso": "2026-08-25T11:35:31.023Z",
+      "action": "updated remark for SIN-MH51SW at KEGALLE B: “80%”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-25",
       "time": "17:02:02",
@@ -57548,13 +57562,6 @@
       "time": "16:05:46",
       "iso": "2026-08-25T10:35:46.240Z",
       "action": "updated remark for SLE32D5100 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:05:39",
-      "iso": "2026-08-25T10:35:39.990Z",
-      "action": "updated remark for SKY24TB1001 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
