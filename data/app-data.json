@@ -50812,6 +50812,41 @@
       "commentDate": "2026-08-25",
       "commentTime": "13:16:45",
       "lastUpdated": "2026-08-25T07:46:45.090Z"
+    },
+    "SL-ECO55-SV||SHOMES-KEGALLE": {
+      "remark": "25% display",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:18:43",
+      "lastUpdated": "2026-08-25T07:48:43.427Z"
+    },
+    "R-RGS150-SV||SHOMES-KEGALLE": {
+      "remark": "30% display",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:18:50",
+      "lastUpdated": "2026-08-25T07:48:50.482Z"
+    },
+    "GEO-182S-SV||SHOMES-KEGALLE": {
+      "remark": "25%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:18:57",
+      "lastUpdated": "2026-08-25T07:48:57.892Z"
+    },
+    "GEO-182S-BU1||SHOMES-KEGALLE": {
+      "remark": "25%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:19:00",
+      "lastUpdated": "2026-08-25T07:49:00.946Z"
+    },
+    "GEO-242D-SV||SHOMES-KEGALLE": {
+      "remark": "25%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:19:20",
+      "lastUpdated": "2026-08-25T07:49:20.484Z"
     }
   },
   "showroomVisits": {
@@ -52102,6 +52137,48 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "13:19:20",
+      "iso": "2026-08-25T07:49:20.490Z",
+      "action": "updated remark for GEO-242D-SV at SHOMES-KEGALLE: “25%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "13:19:14",
+      "iso": "2026-08-25T07:49:14.042Z",
+      "action": "updated remark for GEO-242D-SV at SHOMES-KEGALLE: “25%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "13:19:00",
+      "iso": "2026-08-25T07:49:00.951Z",
+      "action": "updated remark for GEO-182S-BU1 at SHOMES-KEGALLE: “25%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "13:18:57",
+      "iso": "2026-08-25T07:48:57.897Z",
+      "action": "updated remark for GEO-182S-SV at SHOMES-KEGALLE: “25%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "13:18:50",
+      "iso": "2026-08-25T07:48:50.486Z",
+      "action": "updated remark for R-RGS150-SV at SHOMES-KEGALLE: “30% display”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "13:18:43",
+      "iso": "2026-08-25T07:48:43.433Z",
+      "action": "updated remark for SL-ECO55-SV at SHOMES-KEGALLE: “25% display”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "13:16:45",
       "iso": "2026-08-25T07:46:45.091Z",
       "action": "updated remark for AP-15-128GB-B at SHOMES-KEGALLE: “Sold”"
@@ -52406,48 +52483,6 @@
       "time": "12:35:29",
       "iso": "2026-08-25T07:05:29.408Z",
       "action": "updated remark for SB-AA at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:35:01",
-      "iso": "2026-08-25T07:05:01.656Z",
-      "action": "updated remark for SAS-GRI12VN at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:34:54",
-      "iso": "2026-08-25T07:04:54.140Z",
-      "action": "updated remark for RCS-04 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "12:34:54",
-      "iso": "2026-08-25T07:04:54.147Z",
-      "action": "updated remark for PH-BHH862 at KIRINDIWELA - B: “15% Add”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:34:31",
-      "iso": "2026-08-25T07:04:31.383Z",
-      "action": "updated remark for R-FGAQ010 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "12:34:27",
-      "iso": "2026-08-25T07:04:27.906Z",
-      "action": "updated remark for SIN-RFC-2058 at KIRINDIWELA - B: “15% Add”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "12:34:17",
-      "iso": "2026-08-25T07:04:17.984Z",
-      "action": "updated remark for SIN-RFC-2012 at KIRINDIWELA - B: “15% Add”"
     }
   ]
 }
