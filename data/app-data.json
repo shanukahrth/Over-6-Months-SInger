@@ -55889,11 +55889,11 @@
       "lastUpdated": "2026-08-25T11:32:02.092Z"
     },
     "SIN-MH51SW||KEGALLE B": {
-      "remark": "80%",
+      "remark": "80% damaged",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-25",
-      "commentTime": "17:05:31",
-      "lastUpdated": "2026-08-25T11:35:31.017Z"
+      "commentTime": "17:05:49",
+      "lastUpdated": "2026-08-25T11:35:49.995Z"
     }
   },
   "showroomVisits": {
@@ -57216,6 +57216,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:05:49",
+      "iso": "2026-08-25T11:35:49.998Z",
+      "action": "updated remark for SIN-MH51SW at KEGALLE B: “80% damaged”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:05:31",
       "iso": "2026-08-25T11:35:31.023Z",
       "action": "updated remark for SIN-MH51SW at KEGALLE B: “80%”"
@@ -57555,13 +57562,6 @@
       "time": "16:05:49",
       "iso": "2026-08-25T10:35:49.091Z",
       "action": "updated remark for SLE32E810 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:05:46",
-      "iso": "2026-08-25T10:35:46.240Z",
-      "action": "updated remark for SLE32D5100 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
