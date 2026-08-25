@@ -56580,6 +56580,27 @@
       "commentDate": "2026-08-25",
       "commentTime": "18:23:11",
       "lastUpdated": "2026-08-25T12:53:11.911Z"
+    },
+    "BES-CRS-51||KEGALLE B": {
+      "remark": "15% discount",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "18:29:16",
+      "lastUpdated": "2026-08-25T12:59:16.024Z"
+    },
+    "BES-WP15-ECO||KEGALLE B": {
+      "remark": "80% discount",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "18:29:21",
+      "lastUpdated": "2026-08-25T12:59:21.052Z"
+    },
+    "BES-WP15T||KEGALLE B": {
+      "remark": "15% discount",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "18:29:30",
+      "lastUpdated": "2026-08-25T12:59:30.264Z"
     }
   },
   "showroomVisits": {
@@ -57934,6 +57955,27 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "18:29:30",
+      "iso": "2026-08-25T12:59:30.268Z",
+      "action": "updated remark for BES-WP15T at KEGALLE B: “15% discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "18:29:21",
+      "iso": "2026-08-25T12:59:21.056Z",
+      "action": "updated remark for BES-WP15-ECO at KEGALLE B: “80% discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "18:29:16",
+      "iso": "2026-08-25T12:59:16.029Z",
+      "action": "updated remark for BES-CRS-51 at KEGALLE B: “15% discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "18:23:11",
       "iso": "2026-08-25T12:53:11.915Z",
       "action": "updated remark for WP-1-TI-S at KEGALLE B: “Defective. 90% discount”"
@@ -58259,27 +58301,6 @@
       "time": "17:59:53",
       "iso": "2026-08-25T12:29:53.773Z",
       "action": "updated remark for ZTE-A35E-2-32GB-GRY at KEGALLE B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:59:42",
-      "iso": "2026-08-25T12:29:42.829Z",
-      "action": "updated remark for ZTE-A35-2-64GB-GRN at KEGALLE B: “Stolen”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:59:39",
-      "iso": "2026-08-25T12:29:39.651Z",
-      "action": "updated remark for ZTE-A35-2-64GB-BLK at KEGALLE B: “Stolen”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:58:39",
-      "iso": "2026-08-25T12:28:39.765Z",
-      "action": "updated remark for SIN-5000 at KEGALLE B: “Damaged. Not charging”"
     }
   ]
 }
