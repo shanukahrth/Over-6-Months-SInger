@@ -49881,6 +49881,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:50:22",
       "lastUpdated": "2026-08-25T06:20:22.960Z"
+    },
+    "R-BWS-02||MEDAWACHCHIYA": {
+      "remark": "10%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:50:48",
+      "lastUpdated": "2026-08-25T06:20:48.156Z"
     }
   },
   "showroomVisits": {
@@ -51171,6 +51178,13 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-25",
+      "time": "11:50:48",
+      "iso": "2026-08-25T06:20:48.158Z",
+      "action": "updated remark for R-BWS-02 at MEDAWACHCHIYA: “10%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
       "time": "11:50:22",
       "iso": "2026-08-25T06:20:22.963Z",
       "action": "updated remark for TH-TC-351 at MEDAWACHCHIYA: “65%”"
@@ -51510,13 +51524,6 @@
       "time": "11:42:32",
       "iso": "2026-08-25T06:12:32.319Z",
       "action": "updated remark for BES-CRS-51 at MAHO: “10%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:42:19",
-      "iso": "2026-08-25T06:12:19.733Z",
-      "action": "updated remark for SWM-FA70R at KURUNEGALA - D: “Revert/ Damaged - 70%”"
     }
   ]
 }
