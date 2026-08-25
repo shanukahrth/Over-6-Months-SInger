@@ -53248,6 +53248,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:18:08",
       "lastUpdated": "2026-08-25T08:48:08.071Z"
+    },
+    "SDV3605K||RIDEEGAMA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:18:24",
+      "lastUpdated": "2026-08-25T08:48:24.180Z"
     }
   },
   "showroomVisits": {
@@ -54562,6 +54569,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:18:24",
+      "iso": "2026-08-25T08:48:24.181Z",
+      "action": "updated remark for SDV3605K at RIDEEGAMA: “Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:18:08",
       "iso": "2026-08-25T08:48:08.072Z",
       "action": "updated remark for SB-DTYPE at RIDEEGAMA: “Okay”"
@@ -54901,13 +54915,6 @@
       "time": "13:30:20",
       "iso": "2026-08-25T08:00:20.066Z",
       "action": "updated remark for SLE32E930 at PUSSELLAWA: “70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:28:48",
-      "iso": "2026-08-25T07:58:48.280Z",
-      "action": "updated remark for DH-I-S22FP-36B-IMOU at PUSSELLAWA: “70%”"
     }
   ]
 }
