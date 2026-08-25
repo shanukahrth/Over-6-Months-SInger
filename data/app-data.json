@@ -48656,6 +48656,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:54:18",
       "lastUpdated": "2026-08-25T05:24:18.938Z"
+    },
+    "KA-LW-185A||SETTIKULAM": {
+      "remark": "65%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:54:58",
+      "lastUpdated": "2026-08-25T05:24:58.822Z"
+    },
+    "KA-SST032BKI||SETTIKULAM": {
+      "remark": "65%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:55:03",
+      "lastUpdated": "2026-08-25T05:25:03.619Z"
     }
   },
   "showroomVisits": {
@@ -49944,6 +49958,27 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "10:55:03",
+      "iso": "2026-08-25T05:25:03.621Z",
+      "action": "updated remark for KA-SST032BKI at SETTIKULAM: “65%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "10:54:58",
+      "iso": "2026-08-25T05:24:58.825Z",
+      "action": "updated remark for KA-LW-185A at SETTIKULAM: “65%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "10:54:47",
+      "iso": "2026-08-25T05:24:47.502Z",
+      "action": "updated remark for KA-LW-185A at SETTIKULAM: “65%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "10:54:18",
@@ -50271,27 +50306,6 @@
       "time": "10:45:05",
       "iso": "2026-08-25T05:15:05.486Z",
       "action": "updated remark for MC974-N-HO at KURUNEGALA B: “Can sell this by 31st Aug”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:44:45",
-      "iso": "2026-08-25T05:14:45.117Z",
-      "action": "updated remark for WB-F65 at KURUNEGALA B: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:44:44",
-      "iso": "2026-08-25T05:14:44.820Z",
-      "action": "updated remark for SDV3605K at NIKAWARATIYA - B: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:44:43",
-      "iso": "2026-08-25T05:14:43.641Z",
-      "action": "updated remark for SDV3605K at NIKAWARATIYA - B: “Damaged - 80%”"
     }
   ]
 }
