@@ -53276,6 +53276,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:19:52",
       "lastUpdated": "2026-08-25T08:49:52.411Z"
+    },
+    "SKY24TB1001||RIDEEGAMA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:20:25",
+      "lastUpdated": "2026-08-25T08:50:25.260Z"
     }
   },
   "showroomVisits": {
@@ -54590,6 +54597,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:20:25",
+      "iso": "2026-08-25T08:50:25.261Z",
+      "action": "updated remark for SKY24TB1001 at RIDEEGAMA: “Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:19:52",
       "iso": "2026-08-25T08:49:52.411Z",
       "action": "updated remark for SIS277CU at RIDEEGAMA: “Okay”"
@@ -54929,13 +54943,6 @@
       "time": "13:33:03",
       "iso": "2026-08-25T08:03:03.474Z",
       "action": "updated remark for SMGUA32N4010 at PUSSELLAWA: “35000 mop”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:32:38",
-      "iso": "2026-08-25T08:02:38.091Z",
-      "action": "updated remark for PN-TH-32J401N at PUSSELLAWA: “90%”"
     }
   ]
 }
