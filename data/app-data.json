@@ -47438,6 +47438,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:20:42",
       "lastUpdated": "2026-08-25T04:50:42.472Z"
+    },
+    "PCP30||NIKAWERATIYA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:21:21",
+      "lastUpdated": "2026-08-25T04:51:21.528Z"
     }
   },
   "showroomVisits": {
@@ -48728,6 +48735,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-25",
+      "time": "10:21:21",
+      "iso": "2026-08-25T04:51:21.531Z",
+      "action": "updated remark for PCP30 at NIKAWERATIYA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
       "time": "10:20:42",
       "iso": "2026-08-25T04:50:42.474Z",
       "action": "updated remark for SIN-RFC-2012 at NIKAWERATIYA: “Okay”"
@@ -49067,13 +49081,6 @@
       "time": "10:02:39",
       "iso": "2026-08-25T04:32:39.184Z",
       "action": "updated remark for FAN-FS40-10DR at KEGALLE: “Product damaged. PO from service center”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:02:12",
-      "iso": "2026-08-25T04:32:12.484Z",
-      "action": "updated remark for 123453222 at KIRINDIWELA - B: “50%”"
     }
   ]
 }
