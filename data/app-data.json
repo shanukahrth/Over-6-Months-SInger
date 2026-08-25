@@ -56034,6 +56034,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:21:24",
       "lastUpdated": "2026-08-25T11:51:24.833Z"
+    },
+    "PN-SC-AKX910GSK||GAMPOLA B": {
+      "remark": "Flood",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:22:17",
+      "lastUpdated": "2026-08-25T11:52:17.823Z"
     }
   },
   "showroomVisits": {
@@ -57386,6 +57393,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:22:17",
+      "iso": "2026-08-25T11:52:17.828Z",
+      "action": "updated remark for PN-SC-AKX910GSK at GAMPOLA B: “Flood”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-25",
       "time": "17:21:24",
@@ -57727,13 +57741,6 @@
       "time": "16:50:25",
       "iso": "2026-08-25T11:20:25.476Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at GAMPOLA - C: “Shop use”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:50:05",
-      "iso": "2026-08-25T11:20:05.128Z",
-      "action": "updated remark for WF-CB75X36-S at GAMPOLA - C: “Flood”"
     }
   ]
 }
