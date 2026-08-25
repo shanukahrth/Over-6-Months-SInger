@@ -14162,11 +14162,11 @@
       "lastUpdated": "2026-08-18T09:09:50.285Z"
     },
     "BES-CRS-51||MAHO": {
-      "remark": "Damaged - 10%",
+      "remark": "10%",
       "commentedBy": "SHENULI",
-      "commentDate": "2026-08-18",
-      "commentTime": "14:40:06",
-      "lastUpdated": "2026-08-18T09:10:06.344Z"
+      "commentDate": "2026-08-25",
+      "commentTime": "11:42:32",
+      "lastUpdated": "2026-08-25T06:12:32.317Z"
     },
     "H-BD-1054HVOS||MAIN WAREHOUSE": {
       "remark": "Send to shops, serial number with dutrfree bond",
@@ -50910,6 +50910,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:42:32",
+      "iso": "2026-08-25T06:12:32.319Z",
+      "action": "updated remark for BES-CRS-51 at MAHO: “10%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:42:19",
@@ -51251,13 +51258,6 @@
       "time": "11:32:32",
       "iso": "2026-08-25T06:02:32.438Z",
       "action": "updated remark for SL-RFA75 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "11:32:32",
-      "iso": "2026-08-25T06:02:32.548Z",
-      "action": "updated remark for DH-I-A22EP-G-IMOU at NIKAWARATIYA - B: “Damaged - 80%”"
     }
   ]
 }
