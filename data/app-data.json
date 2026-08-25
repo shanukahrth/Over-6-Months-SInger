@@ -49734,6 +49734,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:46:14",
       "lastUpdated": "2026-08-25T06:16:14.006Z"
+    },
+    "SIN-RFC-2058||MAHO": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:45:56",
+      "lastUpdated": "2026-08-25T06:15:56.212Z"
     }
   },
   "showroomVisits": {
@@ -51022,6 +51029,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:45:56",
+      "iso": "2026-08-25T06:15:56.215Z",
+      "action": "updated remark for SIN-RFC-2058 at MAHO: “Damaged - 50%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-25",
       "time": "11:46:14",
@@ -51363,13 +51377,6 @@
       "time": "11:34:27",
       "iso": "2026-08-25T06:04:27.322Z",
       "action": "updated remark for SRS-XV500 at SHOMES-KEGALLE: “30% flat”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:37:09",
-      "iso": "2026-08-25T06:07:09.147Z",
-      "action": "updated remark for SLMC-18DSLHS at KURUNEGALA - D: “Okay”"
     }
   ]
 }
