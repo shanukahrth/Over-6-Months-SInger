@@ -50098,6 +50098,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:59:04",
       "lastUpdated": "2026-08-25T06:29:04.836Z"
+    },
+    "R-BWS-02||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:59:17",
+      "lastUpdated": "2026-08-25T06:29:17.492Z"
     }
   },
   "showroomVisits": {
@@ -51388,6 +51395,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "11:59:17",
+      "iso": "2026-08-25T06:29:17.493Z",
+      "action": "updated remark for R-BWS-02 at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "11:59:04",
       "iso": "2026-08-25T06:29:04.838Z",
       "action": "updated remark for TCLED32D3000 at KURUNEGALA - D: “Okay”"
@@ -51727,13 +51741,6 @@
       "time": "11:48:09",
       "iso": "2026-08-25T06:18:09.367Z",
       "action": "updated remark for WFI-MICHU-CHR-S at MEDAWACHCHIYA: “25%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "11:48:06",
-      "iso": "2026-08-25T06:18:06.073Z",
-      "action": "updated remark for WF-BRSTL-BDQ-BG-S at MEDAWACHCHIYA: “40%”"
     }
   ]
 }
