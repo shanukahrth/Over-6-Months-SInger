@@ -48614,6 +48614,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:52:57",
       "lastUpdated": "2026-08-25T05:22:57.732Z"
+    },
+    "SLMC-18DSLHS||NIKAWARATIYA - B": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:52:35",
+      "lastUpdated": "2026-08-25T05:22:35.986Z"
     }
   },
   "showroomVisits": {
@@ -49902,6 +49909,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:52:35",
+      "iso": "2026-08-25T05:22:35.989Z",
+      "action": "updated remark for SLMC-18DSLHS at NIKAWARATIYA - B: “Damaged - 75%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-25",
       "time": "10:52:57",
@@ -50243,13 +50257,6 @@
       "time": "10:43:16",
       "iso": "2026-08-25T05:13:16.157Z",
       "action": "updated remark for SMG-A56-5G-12-256-BLK at KURUNEGALA B: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:43:09",
-      "iso": "2026-08-25T05:13:09.553Z",
-      "action": "updated remark for SDF-182PPA at NIKAWARATIYA - B: “Revert /Damaged - 70%”"
     }
   ]
 }
