@@ -55817,6 +55817,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "16:48:39",
       "lastUpdated": "2026-08-25T11:18:39.983Z"
+    },
+    "WF-CB75X36-S||GAMPOLA - C": {
+      "remark": "Flood",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "16:50:05",
+      "lastUpdated": "2026-08-25T11:20:05.125Z"
     }
   },
   "showroomVisits": {
@@ -57139,6 +57146,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-25",
+      "time": "16:50:05",
+      "iso": "2026-08-25T11:20:05.128Z",
+      "action": "updated remark for WF-CB75X36-S at GAMPOLA - C: “Flood”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
       "time": "16:48:39",
       "iso": "2026-08-25T11:18:39.983Z",
       "action": "updated remark for SIN-CL-LED at GAMPOLA - C: “Flood”"
@@ -57477,13 +57491,6 @@
       "date": "2026-08-25",
       "time": "16:03:00",
       "iso": "2026-08-25T10:33:00.011Z",
-      "action": "updated remark for WP-JUN-E-S at GAMPOLA: “70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:02:51",
-      "iso": "2026-08-25T10:32:51.657Z",
       "action": "updated remark for WP-JUN-E-S at GAMPOLA: “70%”"
     }
   ]
