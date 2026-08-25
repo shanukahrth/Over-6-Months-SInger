@@ -49258,6 +49258,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:27:45",
       "lastUpdated": "2026-08-25T05:57:45.436Z"
+    },
+    "SVX6002||NIKAWARATIYA - B": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:27:55",
+      "lastUpdated": "2026-08-25T05:57:55.992Z"
     }
   },
   "showroomVisits": {
@@ -50546,6 +50553,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:27:55",
+      "iso": "2026-08-25T05:57:55.993Z",
+      "action": "updated remark for SVX6002 at NIKAWARATIYA - B: “Damaged - 85%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:27:45",
@@ -50887,13 +50901,6 @@
       "time": "11:04:18",
       "iso": "2026-08-25T05:34:18.993Z",
       "action": "updated remark for HU-BAND10-BLK at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:04:07",
-      "iso": "2026-08-25T05:34:07.455Z",
-      "action": "updated remark for HT-JOC at KURUNEGALA - D: “Okay”"
     }
   ]
 }
