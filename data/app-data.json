@@ -55964,6 +55964,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:13:50",
       "lastUpdated": "2026-08-25T11:43:50.639Z"
+    },
+    "B-CWB6441XN||KEGALLE B": {
+      "remark": "Damaged. 80%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:17:04",
+      "lastUpdated": "2026-08-25T11:47:04.118Z"
     }
   },
   "showroomVisits": {
@@ -57284,6 +57291,27 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:17:04",
+      "iso": "2026-08-25T11:47:04.123Z",
+      "action": "updated remark for B-CWB6441XN at KEGALLE B: “Damaged. 80%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:16:53",
+      "iso": "2026-08-25T11:46:53.150Z",
+      "action": "updated remark for SBI-60M19-T at KEGALLE B (cleared)"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:13:44",
+      "iso": "2026-08-25T11:43:44.939Z",
+      "action": "updated remark for SBI-60M19-T at KEGALLE B: “Parts missing.”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-08-25",
       "time": "17:13:50",
@@ -57611,27 +57639,6 @@
       "time": "16:09:21",
       "iso": "2026-08-25T10:39:21.201Z",
       "action": "updated remark for SLE24D1000 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:09:09",
-      "iso": "2026-08-25T10:39:09.780Z",
-      "action": "updated remark for SMGUA32N4010 at GAMPOLA: “Damaged 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:08:54",
-      "iso": "2026-08-25T10:38:54.972Z",
-      "action": "updated remark for SMGUA32N4010 at GAMPOLA: “60% charger missing”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:08:22",
-      "iso": "2026-08-25T10:38:22.660Z",
-      "action": "updated remark for SLE55GENR at GAMPOLA: “40%”"
     }
   ]
 }
