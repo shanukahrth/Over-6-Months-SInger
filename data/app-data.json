@@ -56267,11 +56267,11 @@
       "lastUpdated": "2026-08-25T12:26:29.721Z"
     },
     "U-HRW-S11||KEGALLE B": {
-      "remark": "Damaged. Can't sell.",
+      "remark": "Damaged. Can't sell. 90% discount",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-25",
-      "commentTime": "17:58:09",
-      "lastUpdated": "2026-08-25T12:28:09.724Z"
+      "commentTime": "18:11:10",
+      "lastUpdated": "2026-08-25T12:41:10.659Z"
     },
     "UPRO-12000||KEGALLE B": {
       "remark": "Damaged. Not charging",
@@ -56475,6 +56475,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "18:07:17",
       "lastUpdated": "2026-08-25T12:37:17.614Z"
+    },
+    "BD-A7071-XJ||KEGALLE B": {
+      "remark": "80% discount",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "18:11:02",
+      "lastUpdated": "2026-08-25T12:41:02.961Z"
     }
   },
   "showroomVisits": {
@@ -57829,6 +57836,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "18:11:10",
+      "iso": "2026-08-25T12:41:10.664Z",
+      "action": "updated remark for U-HRW-S11 at KEGALLE B: “Damaged. Can't sell. 90% discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "18:11:02",
+      "iso": "2026-08-25T12:41:02.987Z",
+      "action": "updated remark for BD-A7071-XJ at KEGALLE B: “80% discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "18:07:17",
       "iso": "2026-08-25T12:37:17.615Z",
       "action": "updated remark for HON-X9C-12-256-PPL at KEGALLE B: “1 sold. 1 stolen”"
@@ -58161,20 +58182,6 @@
       "time": "17:36:55",
       "iso": "2026-08-25T12:06:55.991Z",
       "action": "updated remark for MID-MF-TN40D2 at KEGALLE B: “50% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:36:20",
-      "iso": "2026-08-25T12:06:20.664Z",
-      "action": "updated remark for SL-SST082 at KEGALLE B: “75% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:35:56",
-      "iso": "2026-08-25T12:05:56.640Z",
-      "action": "updated remark for SL-PM-8017 at KEGALLE B: “Damaged. 75% discount”"
     }
   ]
 }
