@@ -48229,6 +48229,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:39:44",
       "lastUpdated": "2026-08-25T05:09:44.779Z"
+    },
+    "PCP50||NIKAWARATIYA - B": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:40:30",
+      "lastUpdated": "2026-08-25T05:10:30.375Z"
     }
   },
   "showroomVisits": {
@@ -49517,6 +49524,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:40:30",
+      "iso": "2026-08-25T05:10:30.376Z",
+      "action": "updated remark for PCP50 at NIKAWARATIYA - B: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:40:23",
+      "iso": "2026-08-25T05:10:23.203Z",
+      "action": "updated remark for PCP50 at NIKAWARATIYA - B: “Damaged - 75%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "10:40:19",
@@ -49851,20 +49872,6 @@
       "time": "10:33:42",
       "iso": "2026-08-25T05:03:42.718Z",
       "action": "updated remark for HU-BAND4E-C at KURUNEGALA B: “85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:33:21",
-      "iso": "2026-08-25T05:03:21.537Z",
-      "action": "updated remark for HU-BAND10-BLK at KURUNEGALA B: “50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:32:57",
-      "iso": "2026-08-25T05:02:57.822Z",
-      "action": "updated remark for CLOTHLINE-35PVC at NIKAWERATIYA: “50%”"
     }
   ]
 }
