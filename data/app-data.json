@@ -48838,6 +48838,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:01:41",
       "lastUpdated": "2026-08-25T05:31:41.858Z"
+    },
+    "FAN-P-1605H||KURUNEGALA - D": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:01:29",
+      "lastUpdated": "2026-08-25T05:31:29.679Z"
     }
   },
   "showroomVisits": {
@@ -50126,6 +50133,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:01:29",
+      "iso": "2026-08-25T05:31:29.680Z",
+      "action": "updated remark for FAN-P-1605H at KURUNEGALA - D: “Damaged - 50%”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-25",
       "time": "11:01:41",
@@ -50467,13 +50481,6 @@
       "time": "10:51:24",
       "iso": "2026-08-25T05:21:24.512Z",
       "action": "updated remark for SIN-K13 at SETTIKULAM: “90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:50:50",
-      "iso": "2026-08-25T05:20:50.228Z",
-      "action": "updated remark for SLE40D600A at NIKAWARATIYA - B: “Damaged - 90%”"
     }
   ]
 }
