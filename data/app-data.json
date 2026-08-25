@@ -48985,6 +48985,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:06:54",
       "lastUpdated": "2026-08-25T05:36:54.643Z"
+    },
+    "KA-SM-602||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:07:50",
+      "lastUpdated": "2026-08-25T05:37:50.804Z"
+    },
+    "KA-TXG-DS11A||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:07:53",
+      "lastUpdated": "2026-08-25T05:37:53.238Z"
     }
   },
   "showroomVisits": {
@@ -50275,6 +50289,20 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "11:07:53",
+      "iso": "2026-08-25T05:37:53.240Z",
+      "action": "updated remark for KA-TXG-DS11A at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:07:50",
+      "iso": "2026-08-25T05:37:50.805Z",
+      "action": "updated remark for KA-SM-602 at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "11:06:54",
       "iso": "2026-08-25T05:36:54.645Z",
       "action": "updated remark for KA-PRISMA-1.7 at KURUNEGALA - D: “kay”"
@@ -50607,20 +50635,6 @@
       "time": "10:55:40",
       "iso": "2026-08-25T05:25:40.198Z",
       "action": "updated remark for SL-SST082 at SETTIKULAM: “65%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:55:28",
-      "iso": "2026-08-25T05:25:28.942Z",
-      "action": "updated remark for SL-SST082 at SETTIKULAM: “65%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:55:03",
-      "iso": "2026-08-25T05:25:03.621Z",
-      "action": "updated remark for KA-SST032BKI at SETTIKULAM: “65%”"
     }
   ]
 }
