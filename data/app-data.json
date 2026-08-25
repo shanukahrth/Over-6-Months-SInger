@@ -49790,6 +49790,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:48:09",
       "lastUpdated": "2026-08-25T06:18:09.365Z"
+    },
+    "WFL-DBM-75X75||MEDAWACHCHIYA": {
+      "remark": "15%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:48:43",
+      "lastUpdated": "2026-08-25T06:18:43.535Z"
+    },
+    "WFL-SPM-75X60X8-S||MEDAWACHCHIYA": {
+      "remark": "-",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:48:49",
+      "lastUpdated": "2026-08-25T06:18:49.726Z"
     }
   },
   "showroomVisits": {
@@ -51080,6 +51094,20 @@
     {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-25",
+      "time": "11:48:49",
+      "iso": "2026-08-25T06:18:49.728Z",
+      "action": "updated remark for WFL-SPM-75X60X8-S at MEDAWACHCHIYA: “-”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "11:48:43",
+      "iso": "2026-08-25T06:18:43.539Z",
+      "action": "updated remark for WFL-DBM-75X75 at MEDAWACHCHIYA: “15%”"
+    },
+    {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
       "time": "11:48:09",
       "iso": "2026-08-25T06:18:09.367Z",
       "action": "updated remark for WFI-MICHU-CHR-S at MEDAWACHCHIYA: “25%”"
@@ -51412,20 +51440,6 @@
       "time": "11:39:01",
       "iso": "2026-08-25T06:09:01.334Z",
       "action": "updated remark for WP-SP-SG-S at NIKAWARATIYA - B: “Damaged - 90%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:38:59",
-      "iso": "2026-08-25T06:08:59.592Z",
-      "action": "updated remark for SMGUA43T5400 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:38:41",
-      "iso": "2026-08-25T06:08:41.677Z",
-      "action": "updated remark for SMGDVD-E370 at KURUNEGALA - D: “Okay”"
     }
   ]
 }
