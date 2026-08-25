@@ -49300,6 +49300,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:28:58",
       "lastUpdated": "2026-08-25T05:58:58.798Z"
+    },
+    "TH-TC-351||NIKAWARATIYA - B": {
+      "remark": "Sold",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:29:07",
+      "lastUpdated": "2026-08-25T05:59:07.139Z"
+    },
+    "WF-CAMELIA-DTO-S||NIKAWARATIYA - B": {
+      "remark": "Damaged -90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:29:23",
+      "lastUpdated": "2026-08-25T05:59:23.802Z"
     }
   },
   "showroomVisits": {
@@ -50588,6 +50602,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:29:23",
+      "iso": "2026-08-25T05:59:23.804Z",
+      "action": "updated remark for WF-CAMELIA-DTO-S at NIKAWARATIYA - B: “Damaged -90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:29:07",
+      "iso": "2026-08-25T05:59:07.142Z",
+      "action": "updated remark for TH-TC-351 at NIKAWARATIYA - B: “Sold”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:28:58",
@@ -50922,20 +50950,6 @@
       "time": "11:07:53",
       "iso": "2026-08-25T05:37:53.240Z",
       "action": "updated remark for KA-TXG-DS11A at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:07:50",
-      "iso": "2026-08-25T05:37:50.805Z",
-      "action": "updated remark for KA-SM-602 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:06:54",
-      "iso": "2026-08-25T05:36:54.645Z",
-      "action": "updated remark for KA-PRISMA-1.7 at KURUNEGALA - D: “kay”"
     }
   ]
 }
