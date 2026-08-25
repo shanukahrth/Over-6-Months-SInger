@@ -53675,6 +53675,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:40:28",
       "lastUpdated": "2026-08-25T09:10:28.032Z"
+    },
+    "WF-DOC-M003-BU-S||RIDEEGAMA": {
+      "remark": "Display/ Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:40:45",
+      "lastUpdated": "2026-08-25T09:10:45.210Z"
     }
   },
   "showroomVisits": {
@@ -54989,6 +54996,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:40:45",
+      "iso": "2026-08-25T09:10:45.211Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at RIDEEGAMA: “Display/ Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:40:28",
       "iso": "2026-08-25T09:10:28.034Z",
       "action": "updated remark for WB-F65 at RIDEEGAMA: “Okay”"
@@ -55328,13 +55342,6 @@
       "time": "14:24:37",
       "iso": "2026-08-25T08:54:37.051Z",
       "action": "updated remark for WFL-CF-78X48X4-SS at KEGALLE - C: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:24:06",
-      "iso": "2026-08-25T08:54:06.511Z",
-      "action": "updated remark for LF-ECO-2WD-SHW-S at KEGALLE - C: “10% display”"
     }
   ]
 }
