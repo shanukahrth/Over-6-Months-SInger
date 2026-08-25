@@ -53857,6 +53857,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:02:38",
       "lastUpdated": "2026-08-25T09:32:38.044Z"
+    },
+    "MC974-N-HO||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:03:03",
+      "lastUpdated": "2026-08-25T09:33:03.733Z"
     }
   },
   "showroomVisits": {
@@ -55171,6 +55178,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "15:03:03",
+      "iso": "2026-08-25T09:33:03.733Z",
+      "action": "updated remark for MC974-N-HO at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "15:02:38",
       "iso": "2026-08-25T09:32:38.045Z",
       "action": "updated remark for TF-NIGP26-119 at RIDEEGAMA: “20%”"
@@ -55510,13 +55524,6 @@
       "time": "14:38:01",
       "iso": "2026-08-25T09:08:01.257Z",
       "action": "updated remark for SWH-338EP at RIDEEGAMA: “Revert - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:37:51",
-      "iso": "2026-08-25T09:07:51.782Z",
-      "action": "updated remark for SWH-118EP-D at RIDEEGAMA: “Display/ Damaged - 30%”"
     }
   ]
 }
