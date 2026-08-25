@@ -50910,6 +50910,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "13:25:27",
       "lastUpdated": "2026-08-25T07:55:27.071Z"
+    },
+    "SLE40D600A||SHOMES-KEGALLE": {
+      "remark": "40% discount. Display",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:27:02",
+      "lastUpdated": "2026-08-25T07:57:02.437Z"
+    },
+    "SLE40E910||SHOMES-KEGALLE": {
+      "remark": "Exchange",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:27:06",
+      "lastUpdated": "2026-08-25T07:57:06.717Z"
     }
   },
   "showroomVisits": {
@@ -52200,6 +52214,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "13:27:06",
+      "iso": "2026-08-25T07:57:06.721Z",
+      "action": "updated remark for SLE40E910 at SHOMES-KEGALLE: “Exchange”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "13:27:02",
+      "iso": "2026-08-25T07:57:02.446Z",
+      "action": "updated remark for SLE40D600A at SHOMES-KEGALLE: “40% discount. Display”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "13:25:27",
       "iso": "2026-08-25T07:55:27.077Z",
       "action": "updated remark for SLE32D2010TC at SHOMES-KEGALLE: “Revert close 70%. Part missing”"
@@ -52532,20 +52560,6 @@
       "time": "12:42:32",
       "iso": "2026-08-25T07:12:32.716Z",
       "action": "updated remark for LF-SP-10183-S at SHOMES-KEGALLE: “Display”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "12:42:04",
-      "iso": "2026-08-25T07:12:04.062Z",
-      "action": "updated remark for WF-DOC-T011-MR-S at SHOMES-KEGALLE: “10% offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "12:41:57",
-      "iso": "2026-08-25T07:11:57.372Z",
-      "action": "updated remark for WF-DOC-T011-MR-S at SHOMES-KEGALLE: “10% offered”"
     }
   ]
 }
