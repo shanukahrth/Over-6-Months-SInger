@@ -49755,6 +49755,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:47:13",
       "lastUpdated": "2026-08-25T06:17:13.892Z"
+    },
+    "UPU-ULTIMA418||KURUNEGALA - D": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:47:12",
+      "lastUpdated": "2026-08-25T06:17:12.878Z"
+    },
+    "UPU-MARVELLAUV||KURUNEGALA - D": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:47:15",
+      "lastUpdated": "2026-08-25T06:17:15.483Z"
     }
   },
   "showroomVisits": {
@@ -51043,6 +51057,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:47:15",
+      "iso": "2026-08-25T06:17:15.484Z",
+      "action": "updated remark for UPU-MARVELLAUV at KURUNEGALA - D: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:47:13",
+      "iso": "2026-08-25T06:17:13.994Z",
+      "action": "updated remark for UPU-MARVELLAUV at KURUNEGALA - D: “Damaged - 40%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:47:12",
+      "iso": "2026-08-25T06:17:12.879Z",
+      "action": "updated remark for UPU-ULTIMA418 at KURUNEGALA - D: “Damaged - 40%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "11:47:13",
@@ -51370,27 +51405,6 @@
       "time": "11:38:07",
       "iso": "2026-08-25T06:08:07.883Z",
       "action": "updated remark for DELLC-VOS3420-I5DOS at SHOMES-KEGALLE: “Not moving. 80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "11:37:44",
-      "iso": "2026-08-25T06:07:44.220Z",
-      "action": "updated remark for DELLC-VOS3420-I5DOS at SHOMES-KEGALLE: “Part missing.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "11:37:15",
-      "iso": "2026-08-25T06:07:15.408Z",
-      "action": "updated remark for DELL3530-I5-8GB512-SIL at SHOMES-KEGALLE: “-”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "11:36:46",
-      "iso": "2026-08-25T06:06:46.365Z",
-      "action": "updated remark for ACER-AL52P-I3-8GB-256-SIL at SHOMES-KEGALLE: “Display. physically available”"
     }
   ]
 }
