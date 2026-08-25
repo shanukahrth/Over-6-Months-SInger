@@ -50448,6 +50448,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:27:06",
       "lastUpdated": "2026-08-25T06:57:06.346Z"
+    },
+    "MC8280||RIDEEGAMA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:27:40",
+      "lastUpdated": "2026-08-25T06:57:40.435Z"
     }
   },
   "showroomVisits": {
@@ -51738,6 +51745,20 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:27:40",
+      "iso": "2026-08-25T06:57:40.436Z",
+      "action": "updated remark for MC8280 at RIDEEGAMA: “Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "12:27:39",
+      "iso": "2026-08-25T06:57:39.161Z",
+      "action": "updated remark for MC8280 at RIDEEGAMA: “Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:27:06",
       "iso": "2026-08-25T06:57:06.347Z",
       "action": "updated remark for MB-SAFARI4S-RED at RIDEEGAMA: “Okay”"
@@ -52070,20 +52091,6 @@
       "time": "12:08:19",
       "iso": "2026-08-25T06:38:19.466Z",
       "action": "updated remark for DELLC-VOS3420-I5DOS at RIDEEGAMA: “Sold”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:07:56",
-      "iso": "2026-08-25T06:37:56.950Z",
-      "action": "updated remark for AS-13G-I3-512GB-240-BLU at RIDEEGAMA: “Revert - 50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:07:40",
-      "iso": "2026-08-25T06:37:40.946Z",
-      "action": "updated remark for AS-13G-I3-256GB-248-BLU at RIDEEGAMA: “Sold”"
     }
   ]
 }
