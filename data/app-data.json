@@ -56216,6 +56216,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:44:35",
       "lastUpdated": "2026-08-25T12:14:35.991Z"
+    },
+    "PCP30||KEGALLE B": {
+      "remark": "Fluctuation.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:46:45",
+      "lastUpdated": "2026-08-25T12:16:45.268Z"
+    },
+    "SLMC-18DSLHS||KEGALLE B": {
+      "remark": "Used for cookery demo. 90% discount offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:47:05",
+      "lastUpdated": "2026-08-25T12:17:05.487Z"
     }
   },
   "showroomVisits": {
@@ -57570,6 +57584,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:47:05",
+      "iso": "2026-08-25T12:17:05.493Z",
+      "action": "updated remark for SLMC-18DSLHS at KEGALLE B: “Used for cookery demo. 90% discount offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:46:45",
+      "iso": "2026-08-25T12:16:45.273Z",
+      "action": "updated remark for PCP30 at KEGALLE B: “Fluctuation.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:44:35",
       "iso": "2026-08-25T12:14:35.996Z",
       "action": "updated remark for SMW23GA9 at KEGALLE B: “Used for cookery demo. Can't use. 90% offered”"
@@ -57902,20 +57930,6 @@
       "time": "17:24:52",
       "iso": "2026-08-25T11:54:52.707Z",
       "action": "updated remark for WFL-MONACO-08-S at KEGALLE B: “Color fade.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:23:34",
-      "iso": "2026-08-25T11:53:34.659Z",
-      "action": "updated remark for WFL-PILWFB-16X24-S at KEGALLE B: “50%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:23:12",
-      "iso": "2026-08-25T11:53:12.688Z",
-      "action": "updated remark for WF-PRESTON-2D-S at KEGALLE B: “70% offered. Revert”"
     }
   ]
 }
