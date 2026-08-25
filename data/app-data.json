@@ -54200,6 +54200,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:27:03",
       "lastUpdated": "2026-08-25T09:57:03.300Z"
+    },
+    "H-CVW1600||KEGALLE - C": {
+      "remark": "50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:28:25",
+      "lastUpdated": "2026-08-25T09:58:25.198Z"
+    },
+    "WC-IK609||KEGALLE - C": {
+      "remark": "90%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:28:45",
+      "lastUpdated": "2026-08-25T09:58:45.529Z"
     }
   },
   "showroomVisits": {
@@ -55514,6 +55528,27 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "15:28:45",
+      "iso": "2026-08-25T09:58:45.533Z",
+      "action": "updated remark for WC-IK609 at KEGALLE - C: “90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "15:28:42",
+      "iso": "2026-08-25T09:58:42.997Z",
+      "action": "updated remark for WC-IK609 at KEGALLE - C: “90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "15:28:25",
+      "iso": "2026-08-25T09:58:25.204Z",
+      "action": "updated remark for H-CVW1600 at KEGALLE - C: “50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "15:27:03",
       "iso": "2026-08-25T09:57:03.306Z",
       "action": "updated remark for KD-50X75K at KEGALLE - C: “30%”"
@@ -55839,27 +55874,6 @@
       "time": "15:08:10",
       "iso": "2026-08-25T09:38:10.917Z",
       "action": "updated remark for HON-X7C-8-256-GRN at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "15:08:06",
-      "iso": "2026-08-25T09:38:06.373Z",
-      "action": "updated remark for HON-X7A-6-128-BLU at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "15:07:54",
-      "iso": "2026-08-25T09:37:54.403Z",
-      "action": "updated remark for HON-X7C-8-256-BLK at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "15:07:43",
-      "iso": "2026-08-25T09:37:43.045Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at WARIYAPOLA: “Okay”"
     }
   ]
 }
