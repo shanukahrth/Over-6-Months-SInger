@@ -48178,8 +48178,8 @@
       "remark": "Damaged - 20%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-25",
-      "commentTime": "10:38:04",
-      "lastUpdated": "2026-08-25T05:08:04.717Z"
+      "commentTime": "11:34:55",
+      "lastUpdated": "2026-08-25T06:04:55.425Z"
     },
     "GEO-200D||NIKAWARATIYA - B": {
       "remark": "Damaged - 85%",
@@ -50688,6 +50688,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-25",
+      "time": "11:34:55",
+      "iso": "2026-08-25T06:04:55.426Z",
+      "action": "updated remark for GEO-182S-SV at NIKAWARATIYA - B: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
       "time": "11:34:20",
       "iso": "2026-08-25T06:04:20.329Z",
       "action": "updated remark for SIN-BS30 at NIKAWARATIYA - B: “80%”"
@@ -51027,13 +51034,6 @@
       "time": "11:14:33",
       "iso": "2026-08-25T05:44:33.031Z",
       "action": "updated remark for SAS-12V-INV at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:14:01",
-      "iso": "2026-08-25T05:44:01.091Z",
-      "action": "updated remark for SA200 at KURUNEGALA - D: “Okay”"
     }
   ]
 }
