@@ -55803,6 +55803,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "16:47:20",
       "lastUpdated": "2026-08-25T11:17:20.753Z"
+    },
+    "SDV838HDVT||GAMPOLA - C": {
+      "remark": "Flood",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "16:48:35",
+      "lastUpdated": "2026-08-25T11:18:35.641Z"
+    },
+    "SIN-CL-LED||GAMPOLA - C": {
+      "remark": "Flood",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "16:48:39",
+      "lastUpdated": "2026-08-25T11:18:39.983Z"
     }
   },
   "showroomVisits": {
@@ -57125,6 +57139,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-25",
+      "time": "16:48:39",
+      "iso": "2026-08-25T11:18:39.983Z",
+      "action": "updated remark for SIN-CL-LED at GAMPOLA - C: “Flood”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "16:48:35",
+      "iso": "2026-08-25T11:18:35.643Z",
+      "action": "updated remark for SDV838HDVT at GAMPOLA - C: “Flood”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
       "time": "16:47:20",
       "iso": "2026-08-25T11:17:20.755Z",
       "action": "updated remark for SIN-K13 at GAMPOLA - C: “Flood”"
@@ -57457,20 +57485,6 @@
       "time": "16:02:51",
       "iso": "2026-08-25T10:32:51.657Z",
       "action": "updated remark for WP-JUN-E-S at GAMPOLA: “70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:02:26",
-      "iso": "2026-08-25T10:32:26.616Z",
-      "action": "updated remark for WP-WFC105604RT-G at GAMPOLA: “Dmgd 50%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:00:22",
-      "iso": "2026-08-25T10:30:22.386Z",
-      "action": "updated remark for WP-WDC11704RG-G at GAMPOLA: “25%”"
     }
   ]
 }
