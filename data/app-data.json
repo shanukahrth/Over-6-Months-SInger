@@ -49958,6 +49958,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:53:07",
       "lastUpdated": "2026-08-25T06:23:07.963Z"
+    },
+    "WFL-NOC-T009-BL-S||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:52:59",
+      "lastUpdated": "2026-08-25T06:22:59.673Z"
     }
   },
   "showroomVisits": {
@@ -51246,6 +51253,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:52:59",
+      "iso": "2026-08-25T06:22:59.675Z",
+      "action": "updated remark for WFL-NOC-T009-BL-S at KURUNEGALA - D: “Okay”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-25",
       "time": "11:53:07",
@@ -51587,13 +51601,6 @@
       "time": "11:44:33",
       "iso": "2026-08-25T06:14:33.779Z",
       "action": "updated remark for DELL-VOS3020-I3-8GB256-D at MEDAWACHCHIYA: “70%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "11:44:21",
-      "iso": "2026-08-25T06:14:21.453Z",
-      "action": "updated remark for UR591SW at MEDAWACHCHIYA: “5000”"
     }
   ]
 }
