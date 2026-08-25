@@ -48355,6 +48355,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:44:28",
       "lastUpdated": "2026-08-25T05:14:28.826Z"
+    },
+    "SDV3605K||NIKAWARATIYA - B": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:44:44",
+      "lastUpdated": "2026-08-25T05:14:44.819Z"
     }
   },
   "showroomVisits": {
@@ -49643,6 +49650,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:44:44",
+      "iso": "2026-08-25T05:14:44.820Z",
+      "action": "updated remark for SDV3605K at NIKAWARATIYA - B: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:44:43",
+      "iso": "2026-08-25T05:14:43.641Z",
+      "action": "updated remark for SDV3605K at NIKAWARATIYA - B: “Damaged - 80%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "10:44:28",
@@ -49977,20 +49998,6 @@
       "time": "10:36:45",
       "iso": "2026-08-25T05:06:45.168Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at NIKAWARATIYA - B: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:36:43",
-      "iso": "2026-08-25T05:06:43.918Z",
-      "action": "updated remark for DH-I-A22EP-G-IMOU at NIKAWARATIYA - B: “Damaged - 80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:36:34",
-      "iso": "2026-08-25T05:06:34.012Z",
-      "action": "updated remark for R-BWS-02 at KURUNEGALA B: “Can sell this by 31st Aug”"
     }
   ]
 }
