@@ -49132,6 +49132,27 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:14:01",
       "lastUpdated": "2026-08-25T05:44:01.088Z"
+    },
+    "SAS-12V-INV||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:14:33",
+      "lastUpdated": "2026-08-25T05:44:33.030Z"
+    },
+    "SAS-GRI12VN||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:14:35",
+      "lastUpdated": "2026-08-25T05:44:35.193Z"
+    },
+    "SAS24TCNR||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:14:37",
+      "lastUpdated": "2026-08-25T05:44:37.396Z"
     }
   },
   "showroomVisits": {
@@ -50422,6 +50443,27 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "11:14:37",
+      "iso": "2026-08-25T05:44:37.397Z",
+      "action": "updated remark for SAS24TCNR at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:14:35",
+      "iso": "2026-08-25T05:44:35.194Z",
+      "action": "updated remark for SAS-GRI12VN at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:14:33",
+      "iso": "2026-08-25T05:44:33.031Z",
+      "action": "updated remark for SAS-12V-INV at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "11:14:01",
       "iso": "2026-08-25T05:44:01.091Z",
       "action": "updated remark for SA200 at KURUNEGALA - D: “Okay”"
@@ -50747,27 +50789,6 @@
       "time": "11:01:11",
       "iso": "2026-08-25T05:31:11.133Z",
       "action": "updated remark for DVP-SR370 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "11:01:03",
-      "iso": "2026-08-25T05:31:03.534Z",
-      "action": "updated remark for CS-JANALIPA at KIRINDIWELA - B: “Discount Already Given to DM”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:00:50",
-      "iso": "2026-08-25T05:30:50.477Z",
-      "action": "updated remark for CLOTHLINE-35PVC at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:00:48",
-      "iso": "2026-08-25T05:30:48.137Z",
-      "action": "updated remark for CLOTHLINE-10 at KURUNEGALA - D: “Okay”"
     }
   ]
 }
