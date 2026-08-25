@@ -53885,6 +53885,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:06:13",
       "lastUpdated": "2026-08-25T09:36:13.983Z"
+    },
+    "ETEL-K20MINIPC-SITS||WARIYAPOLA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:07:12",
+      "lastUpdated": "2026-08-25T09:37:12.121Z"
     }
   },
   "showroomVisits": {
@@ -55197,6 +55204,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "15:07:12",
+      "iso": "2026-08-25T09:37:12.159Z",
+      "action": "updated remark for ETEL-K20MINIPC-SITS at WARIYAPOLA: “Okay”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "15:06:13",
@@ -55538,13 +55552,6 @@
       "time": "14:39:03",
       "iso": "2026-08-25T09:09:03.966Z",
       "action": "updated remark for TF-KD24-061 at RIDEEGAMA: “20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:38:49",
-      "iso": "2026-08-25T09:08:49.551Z",
-      "action": "updated remark for TF-GS-SPKT302 at RIDEEGAMA: “20%”"
     }
   ]
 }
