@@ -55873,6 +55873,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "16:57:05",
       "lastUpdated": "2026-08-25T11:27:05.167Z"
+    },
+    "HON-H90-12-512-SIL||GAMPOLA - C": {
+      "remark": "Exchange",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "16:57:34",
+      "lastUpdated": "2026-08-25T11:27:34.573Z"
     }
   },
   "showroomVisits": {
@@ -57195,6 +57202,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-25",
+      "time": "16:57:34",
+      "iso": "2026-08-25T11:27:34.573Z",
+      "action": "updated remark for HON-H90-12-512-SIL at GAMPOLA - C: “Exchange”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
       "time": "16:57:05",
       "iso": "2026-08-25T11:27:05.175Z",
       "action": "updated remark for SMW823AY7 at GAMPOLA - C: “30%”"
@@ -57534,13 +57548,6 @@
       "time": "16:05:37",
       "iso": "2026-08-25T10:35:37.289Z",
       "action": "updated remark for SKY24E2000 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:05:34",
-      "iso": "2026-08-25T10:35:34.320Z",
-      "action": "updated remark for SKY-32E2 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
