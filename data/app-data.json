@@ -49748,6 +49748,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:46:31",
       "lastUpdated": "2026-08-25T06:16:31.395Z"
+    },
+    "SIN-PR-K340||MAHO": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:46:29",
+      "lastUpdated": "2026-08-25T06:16:29.463Z"
     }
   },
   "showroomVisits": {
@@ -51036,6 +51043,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:46:29",
+      "iso": "2026-08-25T06:16:29.464Z",
+      "action": "updated remark for SIN-PR-K340 at MAHO: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:46:27",
+      "iso": "2026-08-25T06:16:27.517Z",
+      "action": "updated remark for SIN-PR-K340 at MAHO: “Okay”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-25",
       "time": "11:46:31",
@@ -51370,20 +51391,6 @@
       "time": "11:35:51",
       "iso": "2026-08-25T06:05:51.479Z",
       "action": "updated remark for SIN-W66PA28 at SHOMES-KEGALLE: “Revert damaged.Not working. 90% offered.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "11:35:04",
-      "iso": "2026-08-25T06:05:04.728Z",
-      "action": "updated remark for SIN-PSVX938 at SHOMES-KEGALLE: “70% flat”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "11:34:37",
-      "iso": "2026-08-25T06:04:37.524Z",
-      "action": "updated remark for SHAKE-X10D at SHOMES-KEGALLE: “Physically not available. Exchange”"
     }
   ]
 }
