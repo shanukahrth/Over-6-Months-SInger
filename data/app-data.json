@@ -50462,6 +50462,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:28:35",
       "lastUpdated": "2026-08-25T06:58:35.581Z"
+    },
+    "PCP30||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:29:08",
+      "lastUpdated": "2026-08-25T06:59:08.648Z"
     }
   },
   "showroomVisits": {
@@ -51752,6 +51759,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:29:08",
+      "iso": "2026-08-25T06:59:08.649Z",
+      "action": "updated remark for PCP30 at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:28:35",
       "iso": "2026-08-25T06:58:35.583Z",
       "action": "updated remark for MHC-M40D at RIDEEGAMA: “Okay”"
@@ -52091,13 +52105,6 @@
       "time": "12:08:49",
       "iso": "2026-08-25T06:38:49.260Z",
       "action": "updated remark for DPE-NUC-MINIPC-SSD120 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:08:24",
-      "iso": "2026-08-25T06:38:24.664Z",
-      "action": "updated remark for DELL-3552-PQC at RIDEEGAMA: “Sold”"
     }
   ]
 }
