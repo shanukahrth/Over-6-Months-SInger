@@ -55957,6 +55957,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:12:26",
       "lastUpdated": "2026-08-25T11:42:26.961Z"
+    },
+    "SMGUA32T4400||GAMPOLA - C": {
+      "remark": "Panel damage revert 90%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:13:50",
+      "lastUpdated": "2026-08-25T11:43:50.639Z"
     }
   },
   "showroomVisits": {
@@ -57277,6 +57284,27 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:13:50",
+      "iso": "2026-08-25T11:43:50.641Z",
+      "action": "updated remark for SMGUA32T4400 at GAMPOLA - C: “Panel damage revert 90%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:13:27",
+      "iso": "2026-08-25T11:43:27.914Z",
+      "action": "updated remark for SMGUA32T4400 at GAMPOLA - C: “Flood”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:13:25",
+      "iso": "2026-08-25T11:43:25.242Z",
+      "action": "updated remark for SMGUA32T4400 at GAMPOLA - C: “Floood”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-25",
       "time": "17:12:26",
@@ -57604,27 +57632,6 @@
       "time": "16:08:22",
       "iso": "2026-08-25T10:38:22.660Z",
       "action": "updated remark for SLE55GENR at GAMPOLA: “40%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:08:05",
-      "iso": "2026-08-25T10:38:05.613Z",
-      "action": "updated remark for SLE55G22N at GAMPOLA: “70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:07:57",
-      "iso": "2026-08-25T10:37:57.233Z",
-      "action": "updated remark for SLE43G890 at GAMPOLA: “Parts missing 70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:07:39",
-      "iso": "2026-08-25T10:37:39.802Z",
-      "action": "updated remark for SLE43G890 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
