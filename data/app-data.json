@@ -50553,6 +50553,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:34:27",
       "lastUpdated": "2026-08-25T07:04:27.904Z"
+    },
+    "R-FGAQ010||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:34:31",
+      "lastUpdated": "2026-08-25T07:04:31.381Z"
     }
   },
   "showroomVisits": {
@@ -51841,6 +51848,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "12:34:31",
+      "iso": "2026-08-25T07:04:31.383Z",
+      "action": "updated remark for R-FGAQ010 at RIDEEGAMA: “Okay”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "12:34:27",
@@ -52182,13 +52196,6 @@
       "time": "12:16:03",
       "iso": "2026-08-25T06:46:03.104Z",
       "action": "updated remark for BES-TOUCH-41 at RIDEEGAMA: “60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:15:46",
-      "iso": "2026-08-25T06:45:46.633Z",
-      "action": "updated remark for BES-WP15-ECO at RIDEEGAMA: “60% (License Expired/ Old Cable)”"
     }
   ]
 }
