@@ -53283,6 +53283,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:20:25",
       "lastUpdated": "2026-08-25T08:50:25.260Z"
+    },
+    "SKY32STD1000||RIDEEGAMA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:20:42",
+      "lastUpdated": "2026-08-25T08:50:42.123Z"
     }
   },
   "showroomVisits": {
@@ -54597,6 +54604,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:20:42",
+      "iso": "2026-08-25T08:50:42.124Z",
+      "action": "updated remark for SKY32STD1000 at RIDEEGAMA: “Damaged - 80%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:20:25",
       "iso": "2026-08-25T08:50:25.261Z",
       "action": "updated remark for SKY24TB1001 at RIDEEGAMA: “Damaged - 85%”"
@@ -54936,13 +54950,6 @@
       "time": "13:33:12",
       "iso": "2026-08-25T08:03:12.284Z",
       "action": "updated remark for SMGUA32T4400 at PUSSELLAWA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:33:03",
-      "iso": "2026-08-25T08:03:03.474Z",
-      "action": "updated remark for SMGUA32N4010 at PUSSELLAWA: “35000 mop”"
     }
   ]
 }
