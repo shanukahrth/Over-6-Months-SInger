@@ -56146,6 +56146,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:35:32",
       "lastUpdated": "2026-08-25T12:05:32.072Z"
+    },
+    "SL-PM-8017||KEGALLE B": {
+      "remark": "Damaged. 75% discount",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:35:56",
+      "lastUpdated": "2026-08-25T12:05:56.635Z"
+    },
+    "SL-SST082||KEGALLE B": {
+      "remark": "75% discount",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:36:20",
+      "lastUpdated": "2026-08-25T12:06:20.659Z"
     }
   },
   "showroomVisits": {
@@ -57500,6 +57514,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:36:20",
+      "iso": "2026-08-25T12:06:20.664Z",
+      "action": "updated remark for SL-SST082 at KEGALLE B: “75% discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:35:56",
+      "iso": "2026-08-25T12:05:56.640Z",
+      "action": "updated remark for SL-PM-8017 at KEGALLE B: “Damaged. 75% discount”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:35:32",
       "iso": "2026-08-25T12:05:32.077Z",
       "action": "updated remark for TF-TW26-064 at KEGALLE B: “20%”"
@@ -57832,20 +57860,6 @@
       "time": "17:20:56",
       "iso": "2026-08-25T11:50:56.714Z",
       "action": "updated WALAPANE showroom (visited: No)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "17:20:52",
-      "iso": "2026-08-25T11:50:52.604Z",
-      "action": "updated THALAWAKELLE showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "17:20:45",
-      "iso": "2026-08-25T11:50:45.666Z",
-      "action": "updated WALAPANE showroom (visited: Yes)"
     }
   ]
 }
