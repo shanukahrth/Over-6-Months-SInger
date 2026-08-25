@@ -50742,6 +50742,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "13:05:07",
       "lastUpdated": "2026-08-25T07:35:07.990Z"
+    },
+    "KA-TXG-DS11A||SHOMES-KEGALLE": {
+      "remark": "50% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:06:11",
+      "lastUpdated": "2026-08-25T07:36:11.541Z"
     }
   },
   "showroomVisits": {
@@ -52032,6 +52039,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "13:06:11",
+      "iso": "2026-08-25T07:36:11.546Z",
+      "action": "updated remark for KA-TXG-DS11A at SHOMES-KEGALLE: “50% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "13:05:07",
       "iso": "2026-08-25T07:35:07.994Z",
       "action": "updated remark for MX-QA311127 at SHOMES-KEGALLE: “Damaged. 80% offered”"
@@ -52371,13 +52385,6 @@
       "time": "12:30:22",
       "iso": "2026-08-25T07:00:22.905Z",
       "action": "updated remark for PN-SC-UX100GS-K at RIDEEGAMA: “Revert - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:30:10",
-      "iso": "2026-08-25T07:00:10.061Z",
-      "action": "updated remark for PN-SC-AKX520E-K at RIDEEGAMA: “Revert - 60%”"
     }
   ]
 }
