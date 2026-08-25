@@ -49398,6 +49398,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:34:07",
       "lastUpdated": "2026-08-25T06:04:07.498Z"
+    },
+    "SLE40D600A||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:35:09",
+      "lastUpdated": "2026-08-25T06:05:09.963Z"
     }
   },
   "showroomVisits": {
@@ -50686,6 +50693,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:35:09",
+      "iso": "2026-08-25T06:05:09.965Z",
+      "action": "updated remark for SLE40D600A at KURUNEGALA - D: “Okay”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "11:34:55",
@@ -51027,13 +51041,6 @@
       "time": "11:14:35",
       "iso": "2026-08-25T05:44:35.194Z",
       "action": "updated remark for SAS-GRI12VN at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:14:33",
-      "iso": "2026-08-25T05:44:33.031Z",
-      "action": "updated remark for SAS-12V-INV at KURUNEGALA - D: “Okay”"
     }
   ]
 }
