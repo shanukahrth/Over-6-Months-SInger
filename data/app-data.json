@@ -50770,6 +50770,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "13:10:24",
       "lastUpdated": "2026-08-25T07:40:24.990Z"
+    },
+    "PCP50||SHOMES-KEGALLE": {
+      "remark": "Display 50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:11:17",
+      "lastUpdated": "2026-08-25T07:41:17.603Z"
+    },
+    "URC-60||SHOMES-KEGALLE": {
+      "remark": "Display 50%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:11:20",
+      "lastUpdated": "2026-08-25T07:41:20.134Z"
     }
   },
   "showroomVisits": {
@@ -52060,6 +52074,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "13:11:20",
+      "iso": "2026-08-25T07:41:20.139Z",
+      "action": "updated remark for URC-60 at SHOMES-KEGALLE: “Display 50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "13:11:17",
+      "iso": "2026-08-25T07:41:17.608Z",
+      "action": "updated remark for PCP50 at SHOMES-KEGALLE: “Display 50%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "13:10:24",
       "iso": "2026-08-25T07:40:24.997Z",
       "action": "updated remark for SMW823AY7 at SHOMES-KEGALLE: “Display unit - 25%”"
@@ -52392,20 +52420,6 @@
       "time": "12:33:57",
       "iso": "2026-08-25T07:03:57.318Z",
       "action": "updated remark for PTT-200GT at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "12:32:46",
-      "iso": "2026-08-25T07:02:46.904Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KIRINDIWELA - B: “N/A”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:31:10",
-      "iso": "2026-08-25T07:01:10.260Z",
-      "action": "updated remark for PN-TH-32M402N at RIDEEGAMA: “Okay”"
     }
   ]
 }
