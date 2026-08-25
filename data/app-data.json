@@ -56244,6 +56244,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:48:24",
       "lastUpdated": "2026-08-25T12:18:24.012Z"
+    },
+    "VT-EL31109CN||KEGALLE B": {
+      "remark": "90% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:49:30",
+      "lastUpdated": "2026-08-25T12:19:30.792Z"
+    },
+    "HU-SECURITY||KEGALLE B": {
+      "remark": "Shop use",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:49:38",
+      "lastUpdated": "2026-08-25T12:19:38.017Z"
     }
   },
   "showroomVisits": {
@@ -57598,6 +57612,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:49:38",
+      "iso": "2026-08-25T12:19:38.018Z",
+      "action": "updated remark for HU-SECURITY at KEGALLE B: “Shop use”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:49:30",
+      "iso": "2026-08-25T12:19:30.792Z",
+      "action": "updated remark for VT-EL31109CN at KEGALLE B: “90% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:48:24",
       "iso": "2026-08-25T12:18:24.016Z",
       "action": "updated remark for SL-S203 at KEGALLE B: “70% offered. Revert”"
@@ -57930,20 +57958,6 @@
       "time": "17:28:30",
       "iso": "2026-08-25T11:58:30.022Z",
       "action": "updated remark for TF-GS-SPKT302 at KEGALLE B: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:27:43",
-      "iso": "2026-08-25T11:57:43.995Z",
-      "action": "updated remark for ALU-DSL-8FT-S at KEGALLE B: “Used. 70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:26:44",
-      "iso": "2026-08-25T11:56:44.802Z",
-      "action": "updated remark for WFL-MONACO-08-S at KEGALLE B: “Color fade. Rs.47,000”"
     }
   ]
 }
