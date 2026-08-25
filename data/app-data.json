@@ -47550,6 +47550,27 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:25:24",
       "lastUpdated": "2026-08-25T04:55:24.968Z"
+    },
+    "HU-NOVA-Y70-BLU||KURUNEGALA B": {
+      "remark": "Sold",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:24:47",
+      "lastUpdated": "2026-08-25T04:54:47.529Z"
+    },
+    "HU-NOVA-Y71-G||KURUNEGALA B": {
+      "remark": "Burglary Issue",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:24:55",
+      "lastUpdated": "2026-08-25T04:54:55.109Z"
+    },
+    "HU-SECURITY||KURUNEGALA B": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:25:09",
+      "lastUpdated": "2026-08-25T04:55:09.544Z"
     }
   },
   "showroomVisits": {
@@ -48838,6 +48859,27 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "10:25:09",
+      "iso": "2026-08-25T04:55:09.545Z",
+      "action": "updated remark for HU-SECURITY at KURUNEGALA B: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "10:24:55",
+      "iso": "2026-08-25T04:54:55.110Z",
+      "action": "updated remark for HU-NOVA-Y71-G at KURUNEGALA B: “Burglary Issue”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "10:24:47",
+      "iso": "2026-08-25T04:54:47.529Z",
+      "action": "updated remark for HU-NOVA-Y70-BLU at KURUNEGALA B: “Sold”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "10:25:24",
@@ -49165,27 +49207,6 @@
       "time": "10:13:37",
       "iso": "2026-08-25T04:43:37.170Z",
       "action": "updated remark for MID-DSK38EU5 at KEGALLE: “50% flat offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "10:13:34",
-      "iso": "2026-08-25T04:43:34.896Z",
-      "action": "updated remark for MID-DSK38EU5 at KEGALLE: “50% flat offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "10:12:45",
-      "iso": "2026-08-25T04:42:45.497Z",
-      "action": "updated remark for LF-PODIUM-MWNT-S at KEGALLE: “Shop use”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:11:54",
-      "iso": "2026-08-25T04:41:54.736Z",
-      "action": "updated remark for SIN-PSVX938N at KIRINDIWELA - B: “18,500/=”"
     }
   ]
 }
