@@ -53829,6 +53829,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:59:43",
       "lastUpdated": "2026-08-25T09:29:43.301Z"
+    },
+    "KA-TXG-DS11A||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:00:41",
+      "lastUpdated": "2026-08-25T09:30:41.256Z"
     }
   },
   "showroomVisits": {
@@ -55143,6 +55150,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "15:00:41",
+      "iso": "2026-08-25T09:30:41.257Z",
+      "action": "updated remark for KA-TXG-DS11A at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:59:43",
       "iso": "2026-08-25T09:29:43.302Z",
       "action": "updated remark for WFL-SPM-72X60X7-S at RIDEEGAMA: “Okay”"
@@ -55482,13 +55496,6 @@
       "time": "14:37:09",
       "iso": "2026-08-25T09:07:09.202Z",
       "action": "updated remark for SVX6002 at RIDEEGAMA: “Damage - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:36:43",
-      "iso": "2026-08-25T09:06:43.744Z",
-      "action": "updated remark for SS-PS16-AG at RIDEEGAMA: “Revert - 70%”"
     }
   ]
 }
