@@ -47104,11 +47104,11 @@
       "lastUpdated": "2026-08-25T04:28:30.324Z"
     },
     "SDV3605K||KEGALLE": {
-      "remark": "RS.2,500",
+      "remark": "Rs.2,500 to report",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-25",
-      "commentTime": "09:59:33",
-      "lastUpdated": "2026-08-25T04:29:33.690Z"
+      "commentTime": "09:59:53",
+      "lastUpdated": "2026-08-25T04:29:53.343Z"
     }
   },
   "showroomVisits": {
@@ -48399,6 +48399,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "09:59:53",
+      "iso": "2026-08-25T04:29:53.348Z",
+      "action": "updated remark for SDV3605K at KEGALLE: “Rs.2,500 to report”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "09:59:33",
       "iso": "2026-08-25T04:29:33.694Z",
       "action": "updated remark for SDV3605K at KEGALLE: “RS.2,500”"
@@ -48738,13 +48745,6 @@
       "time": "20:24:09",
       "iso": "2026-08-24T14:54:09.619Z",
       "action": "updated remark for WP-1R-.75T at NIKAWERATIYA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "20:12:26",
-      "iso": "2026-08-24T14:42:26.982Z",
-      "action": "updated remark for ULED32D60A at NIKAWERATIYA: “Revert / Damaged - 90%”"
     }
   ]
 }
