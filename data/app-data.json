@@ -53269,6 +53269,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:19:37",
       "lastUpdated": "2026-08-25T08:49:37.417Z"
+    },
+    "SIS277CU||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:19:52",
+      "lastUpdated": "2026-08-25T08:49:52.411Z"
     }
   },
   "showroomVisits": {
@@ -54583,6 +54590,20 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:19:52",
+      "iso": "2026-08-25T08:49:52.411Z",
+      "action": "updated remark for SIS277CU at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "14:19:49",
+      "iso": "2026-08-25T08:49:49.901Z",
+      "action": "updated remark for SIS277CU at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:19:37",
       "iso": "2026-08-25T08:49:37.418Z",
       "action": "updated remark for SIN-RFC-1819 at RIDEEGAMA: “Display - 15%”"
@@ -54915,20 +54936,6 @@
       "time": "13:32:38",
       "iso": "2026-08-25T08:02:38.091Z",
       "action": "updated remark for PN-TH-32J401N at PUSSELLAWA: “90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:31:45",
-      "iso": "2026-08-25T08:01:45.832Z",
-      "action": "updated remark for SLE40D600A at PUSSELLAWA: “70%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:31:42",
-      "iso": "2026-08-25T08:01:42.858Z",
-      "action": "updated remark for SLE40D600A at PUSSELLAWA: “70%”"
     }
   ]
 }
