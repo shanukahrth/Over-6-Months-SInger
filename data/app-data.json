@@ -49622,6 +49622,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:42:44",
       "lastUpdated": "2026-08-25T06:12:44.357Z"
+    },
+    "TCLED24D3100||KURUNEGALA - D": {
+      "remark": "Revert/ Damaged - 70%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:43:11",
+      "lastUpdated": "2026-08-25T06:13:11.035Z"
     }
   },
   "showroomVisits": {
@@ -50912,6 +50919,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "11:43:11",
+      "iso": "2026-08-25T06:13:11.036Z",
+      "action": "updated remark for TCLED24D3100 at KURUNEGALA - D: “Revert/ Damaged - 70%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "11:42:44",
       "iso": "2026-08-25T06:12:44.359Z",
       "action": "updated remark for SWM-FA70R at KURUNEGALA - D: “Damaged - 70%”"
@@ -51251,13 +51265,6 @@
       "time": "11:33:01",
       "iso": "2026-08-25T06:03:01.145Z",
       "action": "updated remark for SL-SF1607RC at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "11:32:57",
-      "iso": "2026-08-25T06:02:57.329Z",
-      "action": "updated remark for STT-200K at NIKAWARATIYA - B: “Okay”"
     }
   ]
 }
