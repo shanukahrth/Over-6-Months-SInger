@@ -56190,11 +56190,18 @@
       "lastUpdated": "2026-08-25T12:09:21.154Z"
     },
     "LP-AP01||KEGALLE B": {
-      "remark": "1 damaged.",
+      "remark": "1 damaged. Send an email they will replace with a new one",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-25",
-      "commentTime": "17:40:41",
-      "lastUpdated": "2026-08-25T12:10:41.317Z"
+      "commentTime": "17:41:44",
+      "lastUpdated": "2026-08-25T12:11:44.590Z"
+    },
+    "PN-MX-AC210||KEGALLE B": {
+      "remark": "Color fade. 60% display only",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:42:12",
+      "lastUpdated": "2026-08-25T12:12:12.840Z"
     }
   },
   "showroomVisits": {
@@ -57549,6 +57556,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:42:12",
+      "iso": "2026-08-25T12:12:12.844Z",
+      "action": "updated remark for PN-MX-AC210 at KEGALLE B: “Color fade. 60% display only”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:41:44",
+      "iso": "2026-08-25T12:11:44.596Z",
+      "action": "updated remark for LP-AP01 at KEGALLE B: “1 damaged. Send an email they will replace with a new one”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:40:41",
       "iso": "2026-08-25T12:10:41.340Z",
       "action": "updated remark for LP-AP01 at KEGALLE B: “1 damaged.”"
@@ -57881,20 +57902,6 @@
       "time": "17:22:45",
       "iso": "2026-08-25T11:52:45.686Z",
       "action": "updated remark for LF-FLASH-3WD-S at KEGALLE B: “Lock damaged.60% discount”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "17:22:17",
-      "iso": "2026-08-25T11:52:17.828Z",
-      "action": "updated remark for PN-SC-AKX910GSK at GAMPOLA B: “Flood”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:21:24",
-      "iso": "2026-08-25T11:51:24.839Z",
-      "action": "updated remark for FAN-P-SF1605HL at KEGALLE B: “70% discount. Color fade”"
     }
   ]
 }
