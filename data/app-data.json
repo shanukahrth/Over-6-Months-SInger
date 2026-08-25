@@ -50336,6 +50336,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:22:08",
       "lastUpdated": "2026-08-25T06:52:08.585Z"
+    },
+    "G-STC1200N||RIDEEGAMA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:22:41",
+      "lastUpdated": "2026-08-25T06:52:41.231Z"
     }
   },
   "showroomVisits": {
@@ -51626,6 +51633,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:22:41",
+      "iso": "2026-08-25T06:52:41.233Z",
+      "action": "updated remark for G-STC1200N at RIDEEGAMA: “Damaged - 75%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:22:08",
       "iso": "2026-08-25T06:52:08.586Z",
       "action": "updated remark for FAN-WF1608R at RIDEEGAMA: “Display/ Damaged - 60%”"
@@ -51965,13 +51979,6 @@
       "time": "11:56:01",
       "iso": "2026-08-25T06:26:01.713Z",
       "action": "updated remark for WP-NEO258NF at KURUNEGALA - D: “Display - 20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:55:34",
-      "iso": "2026-08-25T06:25:34.252Z",
-      "action": "updated remark for PN-CS-SU18XKY-8 at KURUNEGALA - D: “Okay”"
     }
   ]
 }
