@@ -47067,6 +47067,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "09:54:22",
       "lastUpdated": "2026-08-25T04:24:22.311Z"
+    },
+    "FMCG-PPS32||KEGALLE": {
+      "remark": "25% flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "09:54:51",
+      "lastUpdated": "2026-08-25T04:24:51.460Z"
     }
   },
   "showroomVisits": {
@@ -48357,6 +48364,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "09:54:51",
+      "iso": "2026-08-25T04:24:51.464Z",
+      "action": "updated remark for FMCG-PPS32 at KEGALLE: “25% flat”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "09:54:22",
       "iso": "2026-08-25T04:24:22.318Z",
       "action": "updated remark for B-CWB6441XN at KEGALLE: “50% flat”"
@@ -48696,13 +48710,6 @@
       "time": "20:07:30",
       "iso": "2026-08-24T14:37:30.049Z",
       "action": "updated remark for SWM-FA70R at NIKAWERATIYA: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "20:06:29",
-      "iso": "2026-08-24T14:36:29.762Z",
-      "action": "updated remark for SWM-FA70R at NIKAWERATIYA: “Damaged - 50%”"
     }
   ]
 }
