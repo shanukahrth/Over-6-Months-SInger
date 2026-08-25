@@ -55859,6 +55859,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "16:53:44",
       "lastUpdated": "2026-08-25T11:23:44.493Z"
+    },
+    "TF-CM-APR737||GAMPOLA - C": {
+      "remark": "50%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "16:54:51",
+      "lastUpdated": "2026-08-25T11:24:51.627Z"
     }
   },
   "showroomVisits": {
@@ -57181,6 +57188,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-25",
+      "time": "16:54:51",
+      "iso": "2026-08-25T11:24:51.629Z",
+      "action": "updated remark for TF-CM-APR737 at GAMPOLA - C: “50%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
       "time": "16:53:44",
       "iso": "2026-08-25T11:23:44.499Z",
       "action": "updated remark for MID-MJ-KM6001W at GAMPOLA - C: “55%”"
@@ -57520,13 +57534,6 @@
       "time": "16:05:13",
       "iso": "2026-08-25T10:35:13.056Z",
       "action": "updated remark for PN-TH-42JS650N at GAMPOLA: “60%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:04:58",
-      "iso": "2026-08-25T10:34:58.271Z",
-      "action": "updated remark for PN-TH-32M401N at GAMPOLA: “Flood”"
     }
   ]
 }
