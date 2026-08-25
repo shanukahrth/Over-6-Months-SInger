@@ -4789,11 +4789,11 @@
       "lastUpdated": "2026-08-17T06:14:43.829Z"
     },
     "DELL3530-I3-8GB512-BLK||KURUNEGALA C": {
-      "remark": "Display/ Damaged - 25%",
+      "remark": "Display/ Damaged - 50%",
       "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "12:27:08",
-      "lastUpdated": "2026-08-17T06:57:08.989Z"
+      "commentDate": "2026-08-25",
+      "commentTime": "15:10:19",
+      "lastUpdated": "2026-08-25T09:40:19.586Z"
     },
     "HON-H200SMART-8-256-GRN||KURUNEGALA C": {
       "remark": "Damaged/Display - 35%",
@@ -55323,6 +55323,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "15:10:19",
+      "iso": "2026-08-25T09:40:19.586Z",
+      "action": "updated remark for DELL3530-I3-8GB512-BLK at KURUNEGALA C: “Display/ Damaged - 50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "15:10:10",
@@ -55664,13 +55671,6 @@
       "time": "14:42:22",
       "iso": "2026-08-25T09:12:22.406Z",
       "action": "updated remark for PCP50 at KEGALLE - C: “Exchange”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:41:25",
-      "iso": "2026-08-25T09:11:25.954Z",
-      "action": "updated remark for SMW823AY7 at KEGALLE - C: “Display unit 30%”"
     }
   ]
 }
