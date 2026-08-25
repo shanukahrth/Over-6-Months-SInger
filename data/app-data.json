@@ -55943,6 +55943,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:10:58",
       "lastUpdated": "2026-08-25T11:40:58.946Z"
+    },
+    "SLE55G22N||GAMPOLA - C": {
+      "remark": "Damaged 80%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:11:37",
+      "lastUpdated": "2026-08-25T11:41:37.787Z"
     }
   },
   "showroomVisits": {
@@ -57263,6 +57270,13 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:11:37",
+      "iso": "2026-08-25T11:41:37.789Z",
+      "action": "updated remark for SLE55G22N at GAMPOLA - C: “Damaged 80%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-25",
       "time": "17:10:58",
@@ -57604,13 +57618,6 @@
       "time": "16:07:28",
       "iso": "2026-08-25T10:37:28.180Z",
       "action": "updated remark for SLE40E810C at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:07:21",
-      "iso": "2026-08-25T10:37:21.103Z",
-      "action": "updated remark for SLE40D600A at GAMPOLA: “70%”"
     }
   ]
 }
