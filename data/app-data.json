@@ -48894,6 +48894,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:02:47",
       "lastUpdated": "2026-08-25T05:32:47.481Z"
+    },
+    "B-FSGT62111DSL||KIRINDIWELA - B": {
+      "remark": "Discount Already Given to DM",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:02:52",
+      "lastUpdated": "2026-08-25T05:32:52.732Z"
     }
   },
   "showroomVisits": {
@@ -50182,6 +50189,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
+      "time": "11:02:52",
+      "iso": "2026-08-25T05:32:52.733Z",
+      "action": "updated remark for B-FSGT62111DSL at KIRINDIWELA - B: “Discount Already Given to DM”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:02:47",
@@ -50523,13 +50537,6 @@
       "time": "10:51:45",
       "iso": "2026-08-25T05:21:45.656Z",
       "action": "updated remark for HU-SECURITY at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:51:32",
-      "iso": "2026-08-25T05:21:32.001Z",
-      "action": "updated remark for NCPO-FP280 at KIRINDIWELA - B: “Discount Already Given to DM”"
     }
   ]
 }
