@@ -47090,11 +47090,11 @@
       "lastUpdated": "2026-08-25T04:26:43.648Z"
     },
     "LF-OX-BR-M-CHY-S||KIRINDIWELA - B": {
-      "remark": "5",
+      "remark": "50",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-08-25",
-      "commentTime": "09:56:32",
-      "lastUpdated": "2026-08-25T04:26:32.650Z"
+      "commentTime": "09:56:49",
+      "lastUpdated": "2026-08-25T04:26:49.705Z"
     }
   },
   "showroomVisits": {
@@ -48385,6 +48385,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-25",
+      "time": "09:56:49",
+      "iso": "2026-08-25T04:26:49.708Z",
+      "action": "updated remark for LF-OX-BR-M-CHY-S at KIRINDIWELA - B: “50”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
       "time": "09:56:32",
       "iso": "2026-08-25T04:26:32.653Z",
       "action": "updated remark for LF-OX-BR-M-CHY-S at KIRINDIWELA - B: “5”"
@@ -48724,13 +48731,6 @@
       "time": "20:09:19",
       "iso": "2026-08-24T14:39:19.924Z",
       "action": "updated remark for TF-SI-ESS-242 at NIKAWERATIYA: “Damaged - 15%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "20:09:02",
-      "iso": "2026-08-24T14:39:02.890Z",
-      "action": "updated remark for TF-FP24-SCR342 at NIKAWERATIYA: “Damaged - 15%”"
     }
   ]
 }
