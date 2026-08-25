@@ -50133,6 +50133,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:00:29",
       "lastUpdated": "2026-08-25T06:30:29.832Z"
+    },
+    "RCS-04||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:00:49",
+      "lastUpdated": "2026-08-25T06:30:49.307Z"
     }
   },
   "showroomVisits": {
@@ -51421,6 +51428,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "12:00:49",
+      "iso": "2026-08-25T06:30:49.308Z",
+      "action": "updated remark for RCS-04 at KURUNEGALA - D: “Okay”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "12:00:29",
@@ -51762,13 +51776,6 @@
       "time": "11:48:59",
       "iso": "2026-08-25T06:18:59.032Z",
       "action": "updated remark for PN-TH-32MS670N at MAHO: “Revert/ Damaged - 40%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "11:49:07",
-      "iso": "2026-08-25T06:19:07.402Z",
-      "action": "updated remark for WFL-SPM-78X72X7-S at MEDAWACHCHIYA: “-”"
     }
   ]
 }
