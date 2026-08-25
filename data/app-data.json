@@ -49713,6 +49713,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:45:07",
       "lastUpdated": "2026-08-25T06:15:07.082Z"
+    },
+    "SLE24D1010TC||MAHO": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:45:22",
+      "lastUpdated": "2026-08-25T06:15:22.376Z"
     }
   },
   "showroomVisits": {
@@ -51001,6 +51008,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:45:22",
+      "iso": "2026-08-25T06:15:22.378Z",
+      "action": "updated remark for SLE24D1010TC at MAHO: “Damaged - 90%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:45:07",
@@ -51342,13 +51356,6 @@
       "time": "11:36:43",
       "iso": "2026-08-25T06:06:43.683Z",
       "action": "updated remark for SLE55GENR at KURUNEGALA - D: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "11:36:37",
-      "iso": "2026-08-25T06:06:37.324Z",
-      "action": "updated remark for PN-TH-32M401N at NIKAWARATIYA - B: “Okay”"
     }
   ]
 }
