@@ -57226,10 +57226,10 @@
       "updatedDate": "2026-08-25"
     },
     "WALAPANE||GAMPOLA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "",
-      "team": "",
-      "remark": "",
+      "team": "Central ",
+      "remark": "Sent discounts to DM",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-25"
     }
@@ -57357,6 +57357,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:21:16",
+      "iso": "2026-08-25T11:51:16.615Z",
+      "action": "updated WALAPANE showroom (remark: Sent discounts to DM)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-25",
@@ -57699,13 +57706,6 @@
       "time": "16:13:30",
       "iso": "2026-08-25T10:43:30.384Z",
       "action": "updated GAMPOLA showroom (team: Central)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:13:26",
-      "iso": "2026-08-25T10:43:26.161Z",
-      "action": "updated GAMPOLA showroom (team: Central )"
     }
   ]
 }
