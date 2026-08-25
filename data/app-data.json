@@ -50532,6 +50532,27 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:34:17",
       "lastUpdated": "2026-08-25T07:04:17.831Z"
+    },
+    "SIN-RFC-1819||KIRINDIWELA - B": {
+      "remark": "15% Add",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:34:16",
+      "lastUpdated": "2026-08-25T07:04:16.452Z"
+    },
+    "SIN-RFC-2012||KIRINDIWELA - B": {
+      "remark": "15% Add",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:34:17",
+      "lastUpdated": "2026-08-25T07:04:17.983Z"
+    },
+    "SIN-RFC-2058||KIRINDIWELA - B": {
+      "remark": "15% Add",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:34:27",
+      "lastUpdated": "2026-08-25T07:04:27.904Z"
     }
   },
   "showroomVisits": {
@@ -51820,6 +51841,27 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
+      "time": "12:34:27",
+      "iso": "2026-08-25T07:04:27.906Z",
+      "action": "updated remark for SIN-RFC-2058 at KIRINDIWELA - B: “15% Add”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
+      "time": "12:34:17",
+      "iso": "2026-08-25T07:04:17.984Z",
+      "action": "updated remark for SIN-RFC-2012 at KIRINDIWELA - B: “15% Add”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
+      "time": "12:34:16",
+      "iso": "2026-08-25T07:04:16.456Z",
+      "action": "updated remark for SIN-RFC-1819 at KIRINDIWELA - B: “15% Add”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "12:34:17",
@@ -52147,27 +52189,6 @@
       "time": "12:15:46",
       "iso": "2026-08-25T06:45:46.633Z",
       "action": "updated remark for BES-WP15-ECO at RIDEEGAMA: “60% (License Expired/ Old Cable)”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:15:41",
-      "iso": "2026-08-25T06:45:41.980Z",
-      "action": "updated remark for BES-WP15-ECO at RIDEEGAMA: “60% (License Expired/ Old Cable)”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:15:10",
-      "iso": "2026-08-25T06:45:10.390Z",
-      "action": "updated remark for BES-WP15-ECO at RIDEEGAMA: “60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:14:40",
-      "iso": "2026-08-25T06:44:40.441Z",
-      "action": "updated remark for BES-CRS-51 at RIDEEGAMA: “10%”"
     }
   ]
 }
