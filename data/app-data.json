@@ -48796,6 +48796,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:00:30",
       "lastUpdated": "2026-08-25T05:30:30.768Z"
+    },
+    "CLOTHLINE-10||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:00:48",
+      "lastUpdated": "2026-08-25T05:30:48.134Z"
+    },
+    "CLOTHLINE-35PVC||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:00:50",
+      "lastUpdated": "2026-08-25T05:30:50.475Z"
     }
   },
   "showroomVisits": {
@@ -50084,6 +50098,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:00:50",
+      "iso": "2026-08-25T05:30:50.477Z",
+      "action": "updated remark for CLOTHLINE-35PVC at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:00:48",
+      "iso": "2026-08-25T05:30:48.137Z",
+      "action": "updated remark for CLOTHLINE-10 at KURUNEGALA - D: “Okay”"
+    },
+    {
       "user": "Thushitha Jayaweera",
       "date": "2026-08-25",
       "time": "11:00:30",
@@ -50418,20 +50446,6 @@
       "time": "10:50:31",
       "iso": "2026-08-25T05:20:31.706Z",
       "action": "updated remark for SIN-PSVX938 at SETTIKULAM: “15000”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:50:06",
-      "iso": "2026-08-25T05:20:06.077Z",
-      "action": "updated remark for SXLC7371K at SETTIKULAM: “90%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-24",
-      "time": "16:42:11",
-      "iso": "2026-08-24T11:12:11.463Z",
-      "action": "updated remark for WP-CHTW-050-S at KEBITHIGOLLEWA: “70%”"
     }
   ]
 }
