@@ -48880,6 +48880,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:02:15",
       "lastUpdated": "2026-08-25T05:32:15.046Z"
+    },
+    "GSM-MODEM||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:02:39",
+      "lastUpdated": "2026-08-25T05:32:39.510Z"
+    },
+    "H-CVW1600||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:02:47",
+      "lastUpdated": "2026-08-25T05:32:47.481Z"
     }
   },
   "showroomVisits": {
@@ -50170,6 +50184,20 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "11:02:47",
+      "iso": "2026-08-25T05:32:47.482Z",
+      "action": "updated remark for H-CVW1600 at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:02:39",
+      "iso": "2026-08-25T05:32:39.511Z",
+      "action": "updated remark for GSM-MODEM at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "11:02:15",
       "iso": "2026-08-25T05:32:15.047Z",
       "action": "updated remark for GEO-242D-SV at KURUNEGALA - D: “Okay”"
@@ -50502,20 +50530,6 @@
       "time": "10:51:32",
       "iso": "2026-08-25T05:21:32.001Z",
       "action": "updated remark for NCPO-FP280 at KIRINDIWELA - B: “Discount Already Given to DM”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:51:01",
-      "iso": "2026-08-25T05:21:01.791Z",
-      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:50:50",
-      "iso": "2026-08-25T05:20:50.363Z",
-      "action": "updated remark for DELL3510-PNTMSIL-BLK at KURUNEGALA - D: “Revert - 90%”"
     }
   ]
 }
