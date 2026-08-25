@@ -49405,6 +49405,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:35:28",
       "lastUpdated": "2026-08-25T06:05:28.621Z"
+    },
+    "SLE24D1010TC||NIKAWARATIYA - B": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:35:37",
+      "lastUpdated": "2026-08-25T06:05:37.019Z"
+    },
+    "SLE32E930||NIKAWARATIYA - B": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:35:38",
+      "lastUpdated": "2026-08-25T06:05:38.896Z"
     }
   },
   "showroomVisits": {
@@ -50693,6 +50707,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:35:38",
+      "iso": "2026-08-25T06:05:38.897Z",
+      "action": "updated remark for SLE32E930 at NIKAWARATIYA - B: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:35:37",
+      "iso": "2026-08-25T06:05:37.021Z",
+      "action": "updated remark for SLE24D1010TC at NIKAWARATIYA - B: “Damaged - 90%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:35:28",
@@ -51027,20 +51055,6 @@
       "time": "11:15:09",
       "iso": "2026-08-25T05:45:09.171Z",
       "action": "updated remark for SIN-5000 at KURUNEGALA - D: “85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:14:49",
-      "iso": "2026-08-25T05:44:49.739Z",
-      "action": "updated remark for SB-DTYPE at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:14:37",
-      "iso": "2026-08-25T05:44:37.397Z",
-      "action": "updated remark for SAS24TCNR at KURUNEGALA - D: “Okay”"
     }
   ]
 }
