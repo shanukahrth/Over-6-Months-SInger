@@ -55880,6 +55880,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "16:57:34",
       "lastUpdated": "2026-08-25T11:27:34.573Z"
+    },
+    "SL-ECO255||GAMPOLA - C": {
+      "remark": "Flood",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:02:02",
+      "lastUpdated": "2026-08-25T11:32:02.092Z"
     }
   },
   "showroomVisits": {
@@ -57202,6 +57209,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-25",
+      "time": "17:02:02",
+      "iso": "2026-08-25T11:32:02.094Z",
+      "action": "updated remark for SL-ECO255 at GAMPOLA - C: “Flood”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
       "time": "16:57:34",
       "iso": "2026-08-25T11:27:34.573Z",
       "action": "updated remark for HON-H90-12-512-SIL at GAMPOLA - C: “Exchange”"
@@ -57541,13 +57555,6 @@
       "time": "16:05:39",
       "iso": "2026-08-25T10:35:39.990Z",
       "action": "updated remark for SKY24TB1001 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:05:37",
-      "iso": "2026-08-25T10:35:37.289Z",
-      "action": "updated remark for SKY24E2000 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
