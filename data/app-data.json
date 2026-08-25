@@ -49020,6 +49020,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:09:03",
       "lastUpdated": "2026-08-25T05:39:03.000Z"
+    },
+    "LF-ORGN-DTO-WHT||KURUNEGALA - D": {
+      "remark": "Display/ Damaged - 50%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:09:20",
+      "lastUpdated": "2026-08-25T05:39:20.741Z"
     }
   },
   "showroomVisits": {
@@ -50310,6 +50317,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "11:09:20",
+      "iso": "2026-08-25T05:39:20.743Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at KURUNEGALA - D: “Display/ Damaged - 50%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "11:09:03",
       "iso": "2026-08-25T05:39:03.003Z",
       "action": "updated remark for LF-ORGN-BDQ-WHT at KURUNEGALA - D: “Display/ Damaged - 30%”"
@@ -50649,13 +50663,6 @@
       "time": "10:56:55",
       "iso": "2026-08-25T05:26:55.253Z",
       "action": "updated remark for SMW823AY7 at SETTIKULAM: “25%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:56:40",
-      "iso": "2026-08-25T05:26:40.829Z",
-      "action": "updated remark for R-BWS-02 at SETTIKULAM: “15%”"
     }
   ]
 }
