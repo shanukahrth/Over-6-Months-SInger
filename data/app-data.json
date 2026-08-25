@@ -56454,6 +56454,27 @@
       "commentDate": "2026-08-25",
       "commentTime": "18:05:56",
       "lastUpdated": "2026-08-25T12:35:56.211Z"
+    },
+    "HON-X9C-12-256-BLK||KEGALLE B": {
+      "remark": "Stolen",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "18:06:53",
+      "lastUpdated": "2026-08-25T12:36:53.449Z"
+    },
+    "HON-X9C-12-256-GRN||KEGALLE B": {
+      "remark": "Stolen",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "18:07:03",
+      "lastUpdated": "2026-08-25T12:37:03.372Z"
+    },
+    "HON-X9C-12-256-PPL||KEGALLE B": {
+      "remark": "1 sold. 1 stolen",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "18:07:17",
+      "lastUpdated": "2026-08-25T12:37:17.614Z"
     }
   },
   "showroomVisits": {
@@ -57808,6 +57829,27 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "18:07:17",
+      "iso": "2026-08-25T12:37:17.615Z",
+      "action": "updated remark for HON-X9C-12-256-PPL at KEGALLE B: “1 sold. 1 stolen”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "18:07:03",
+      "iso": "2026-08-25T12:37:03.372Z",
+      "action": "updated remark for HON-X9C-12-256-GRN at KEGALLE B: “Stolen”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "18:06:53",
+      "iso": "2026-08-25T12:36:53.449Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at KEGALLE B: “Stolen”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "18:05:56",
       "iso": "2026-08-25T12:35:56.212Z",
       "action": "updated remark for HON-X8C-8-512-GRN at KEGALLE B: “Sold”"
@@ -58133,27 +58175,6 @@
       "time": "17:35:56",
       "iso": "2026-08-25T12:05:56.640Z",
       "action": "updated remark for SL-PM-8017 at KEGALLE B: “Damaged. 75% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:35:32",
-      "iso": "2026-08-25T12:05:32.077Z",
-      "action": "updated remark for TF-TW26-064 at KEGALLE B: “20%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:35:16",
-      "iso": "2026-08-25T12:05:16.189Z",
-      "action": "updated remark for TF-SP16-063 at KEGALLE B: “20%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:35:13",
-      "iso": "2026-08-25T12:05:13.750Z",
-      "action": "updated remark for TF-SP16-063 at KEGALLE B: “20%”"
     }
   ]
 }
