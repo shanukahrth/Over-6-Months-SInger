@@ -50728,6 +50728,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:59:31",
       "lastUpdated": "2026-08-25T07:29:31.432Z"
+    },
+    "MX-FP824H27||SHOMES-KEGALLE": {
+      "remark": "Damaged. 80% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:04:57",
+      "lastUpdated": "2026-08-25T07:34:57.429Z"
+    },
+    "MX-QA311127||SHOMES-KEGALLE": {
+      "remark": "Damaged. 80% offered",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:05:07",
+      "lastUpdated": "2026-08-25T07:35:07.990Z"
     }
   },
   "showroomVisits": {
@@ -52018,6 +52032,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "13:05:07",
+      "iso": "2026-08-25T07:35:07.994Z",
+      "action": "updated remark for MX-QA311127 at SHOMES-KEGALLE: “Damaged. 80% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "13:04:57",
+      "iso": "2026-08-25T07:34:57.440Z",
+      "action": "updated remark for MX-FP824H27 at SHOMES-KEGALLE: “Damaged. 80% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "12:59:31",
       "iso": "2026-08-25T07:29:31.437Z",
       "action": "updated remark for SL-ST550APR-MB at SHOMES-KEGALLE: “80% offered. Transfer to a potential location”"
@@ -52350,20 +52378,6 @@
       "time": "12:30:10",
       "iso": "2026-08-25T07:00:10.061Z",
       "action": "updated remark for PN-SC-AKX520E-K at RIDEEGAMA: “Revert - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:29:28",
-      "iso": "2026-08-25T06:59:28.242Z",
-      "action": "updated remark for PN-MX-AC210 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:29:08",
-      "iso": "2026-08-25T06:59:08.649Z",
-      "action": "updated remark for PCP30 at RIDEEGAMA: “Okay”"
     }
   ]
 }
