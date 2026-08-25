@@ -57216,6 +57216,14 @@
       "remark": "Closed down",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-25"
+    },
+    "THALAWAKELLE||GAMPOLA": {
+      "visited": "No",
+      "visitDate": "2026-08-24",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-25"
     }
   },
   "soldMarks": {
@@ -57341,6 +57349,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:20:19",
+      "iso": "2026-08-25T11:50:19.794Z",
+      "action": "updated THALAWAKELLE showroom (visitDate: 2026-08-24)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-25",
@@ -57683,13 +57698,6 @@
       "time": "16:10:25",
       "iso": "2026-08-25T10:40:25.621Z",
       "action": "updated remark for TCLED24D3100 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:10:21",
-      "iso": "2026-08-25T10:40:21.611Z",
-      "action": "updated remark for TCL65C655 at GAMPOLA: “Damaged 70%”"
     }
   ]
 }
