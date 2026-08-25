@@ -54221,6 +54221,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:29:07",
       "lastUpdated": "2026-08-25T09:59:07.295Z"
+    },
+    "SWM-FAR75||KEGALLE - C": {
+      "remark": "60%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:30:01",
+      "lastUpdated": "2026-08-25T10:00:01.242Z"
+    },
+    "SL-SWMFR72||KEGALLE - C": {
+      "remark": "Discolored",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:30:24",
+      "lastUpdated": "2026-08-25T10:00:24.181Z"
     }
   },
   "showroomVisits": {
@@ -55535,6 +55549,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "15:30:24",
+      "iso": "2026-08-25T10:00:24.187Z",
+      "action": "updated remark for SL-SWMFR72 at KEGALLE - C: “Discolored”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "15:30:01",
+      "iso": "2026-08-25T10:00:01.248Z",
+      "action": "updated remark for SWM-FAR75 at KEGALLE - C: “60%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "15:29:07",
       "iso": "2026-08-25T09:59:07.301Z",
       "action": "updated remark for WP-WFC105604RT-G at KEGALLE - C: “20%”"
@@ -55867,20 +55895,6 @@
       "time": "14:58:00",
       "iso": "2026-08-25T09:28:00.641Z",
       "action": "updated remark for HON-PAD-X9-CV at KEGALLE - C: “Will drop”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:57:42",
-      "iso": "2026-08-25T09:27:42.783Z",
-      "action": "updated remark for HON-H200-12-512-WHT at KEGALLE - C: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "15:08:24",
-      "iso": "2026-08-25T09:38:24.301Z",
-      "action": "updated remark for HON-PAD-X7-CV at WARIYAPOLA: “Free Issue”"
     }
   ]
 }
