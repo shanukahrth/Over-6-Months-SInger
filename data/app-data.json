@@ -49349,6 +49349,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:30:16",
       "lastUpdated": "2026-08-25T06:00:16.357Z"
+    },
+    "WFL-SPM-75X75X7-S||NIKAWARATIYA - B": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:30:24",
+      "lastUpdated": "2026-08-25T06:00:24.645Z"
     }
   },
   "showroomVisits": {
@@ -50637,6 +50644,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:30:24",
+      "iso": "2026-08-25T06:00:24.647Z",
+      "action": "updated remark for WFL-SPM-75X75X7-S at NIKAWARATIYA - B: “Damaged - 90%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:30:16",
@@ -50978,13 +50992,6 @@
       "time": "11:09:48",
       "iso": "2026-08-25T05:39:48.394Z",
       "action": "updated remark for LF-OX-BR-M-S at KURUNEGALA - D: “Display/ Damaged - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:09:46",
-      "iso": "2026-08-25T05:39:46.882Z",
-      "action": "updated remark for LF-OX-BR-L-S at KURUNEGALA - D: “Display/ Damaged - 60%”"
     }
   ]
 }
