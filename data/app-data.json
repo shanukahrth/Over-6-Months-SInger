@@ -43394,11 +43394,11 @@
       "lastUpdated": "2026-08-24T09:42:42.905Z"
     },
     "DVP-SR370||WARAKAPOLA": {
-      "remark": "2000",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-24",
-      "commentTime": "15:13:10",
-      "lastUpdated": "2026-08-24T09:43:10.896Z"
+      "remark": "Rs.2000/=",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-25",
+      "commentTime": "09:51:10",
+      "lastUpdated": "2026-08-25T04:21:10.889Z"
     },
     "FAN-P-1605H||WARAKAPOLA": {
       "remark": "60%",
@@ -48327,6 +48327,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
+      "time": "09:51:10",
+      "iso": "2026-08-25T04:21:10.894Z",
+      "action": "updated remark for DVP-SR370 at WARAKAPOLA: “Rs.2000/=”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-25",
       "time": "09:50:28",
@@ -48668,13 +48675,6 @@
       "time": "19:59:14",
       "iso": "2026-08-24T14:29:14.104Z",
       "action": "updated remark for SWH-SLIM228E at NIKAWERATIYA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:58:21",
-      "iso": "2026-08-24T14:28:21.596Z",
-      "action": "updated remark for STT-2BGT at NIKAWERATIYA: “Damaged - 80%”"
     }
   ]
 }
