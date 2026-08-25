@@ -55908,6 +55908,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:07:07",
       "lastUpdated": "2026-08-25T11:37:07.892Z"
+    },
+    "AVERY-150KG||GAMPOLA - C": {
+      "remark": "10%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:05:39",
+      "lastUpdated": "2026-08-25T11:35:39.478Z"
+    },
+    "SIN-PR-K340||GAMPOLA - C": {
+      "remark": "40%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:08:11",
+      "lastUpdated": "2026-08-25T11:38:11.579Z"
     }
   },
   "showroomVisits": {
@@ -57228,6 +57242,20 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:08:11",
+      "iso": "2026-08-25T11:38:11.581Z",
+      "action": "updated remark for SIN-PR-K340 at GAMPOLA - C: “40%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-25",
+      "time": "17:05:39",
+      "iso": "2026-08-25T11:35:39.483Z",
+      "action": "updated remark for AVERY-150KG at GAMPOLA - C: “10%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-25",
       "time": "17:07:07",
@@ -57562,20 +57590,6 @@
       "time": "16:06:08",
       "iso": "2026-08-25T10:36:08.981Z",
       "action": "updated remark for SLE32E920 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:06:06",
-      "iso": "2026-08-25T10:36:06.399Z",
-      "action": "updated remark for SLE32E910 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:05:54",
-      "iso": "2026-08-25T10:35:54.553Z",
-      "action": "updated remark for SLE32E910 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
