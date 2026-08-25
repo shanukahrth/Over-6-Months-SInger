@@ -49433,6 +49433,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:36:22",
       "lastUpdated": "2026-08-25T06:06:22.736Z"
+    },
+    "SLE55GENR||KURUNEGALA - D": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:36:43",
+      "lastUpdated": "2026-08-25T06:06:43.681Z"
     }
   },
   "showroomVisits": {
@@ -50721,6 +50728,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:36:43",
+      "iso": "2026-08-25T06:06:43.683Z",
+      "action": "updated remark for SLE55GENR at KURUNEGALA - D: “Damaged - 40%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "11:36:37",
@@ -51062,13 +51076,6 @@
       "time": "11:25:26",
       "iso": "2026-08-25T05:55:26.803Z",
       "action": "updated remark for SIN-MRG-1008C at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:25:20",
-      "iso": "2026-08-25T05:55:20.891Z",
-      "action": "updated remark for SIN-MH51SW at KURUNEGALA - D: “Okay”"
     }
   ]
 }
