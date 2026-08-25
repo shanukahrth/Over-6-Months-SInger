@@ -50903,6 +50903,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "13:24:56",
       "lastUpdated": "2026-08-25T07:54:56.474Z"
+    },
+    "SLE32D2010TC||SHOMES-KEGALLE": {
+      "remark": "Revert close 70%. Part missing",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:25:27",
+      "lastUpdated": "2026-08-25T07:55:27.071Z"
     }
   },
   "showroomVisits": {
@@ -52193,6 +52200,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "13:25:27",
+      "iso": "2026-08-25T07:55:27.077Z",
+      "action": "updated remark for SLE32D2010TC at SHOMES-KEGALLE: “Revert close 70%. Part missing”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "13:24:56",
       "iso": "2026-08-25T07:54:56.482Z",
       "action": "updated remark for TCLED32D65A at SHOMES-KEGALLE: “Exchange”"
@@ -52532,13 +52546,6 @@
       "time": "12:41:57",
       "iso": "2026-08-25T07:11:57.372Z",
       "action": "updated remark for WF-DOC-T011-MR-S at SHOMES-KEGALLE: “10% offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "12:41:29",
-      "iso": "2026-08-25T07:11:29.259Z",
-      "action": "updated remark for WF-DOC-T009-MR-S at SHOMES-KEGALLE: “30% offered”"
     }
   ]
 }
