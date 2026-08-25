@@ -50329,6 +50329,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:21:52",
       "lastUpdated": "2026-08-25T06:51:52.464Z"
+    },
+    "FAN-WF1608R||RIDEEGAMA": {
+      "remark": "Display/ Damaged - 60%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:22:08",
+      "lastUpdated": "2026-08-25T06:52:08.585Z"
     }
   },
   "showroomVisits": {
@@ -51619,6 +51626,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:22:08",
+      "iso": "2026-08-25T06:52:08.586Z",
+      "action": "updated remark for FAN-WF1608R at RIDEEGAMA: “Display/ Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:21:52",
       "iso": "2026-08-25T06:51:52.466Z",
       "action": "updated remark for FAN-P-SF1605HR at RIDEEGAMA: “Revert - 60%”"
@@ -51958,13 +51972,6 @@
       "time": "11:55:34",
       "iso": "2026-08-25T06:25:34.252Z",
       "action": "updated remark for PN-CS-SU18XKY-8 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:55:26",
-      "iso": "2026-08-25T06:25:26.982Z",
-      "action": "updated remark for MB-LIMA-ELO7-RED at KURUNEGALA - D: “Okay”"
     }
   ]
 }
