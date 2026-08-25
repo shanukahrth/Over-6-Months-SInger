@@ -47865,6 +47865,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:30:58",
       "lastUpdated": "2026-08-25T05:00:58.335Z"
+    },
+    "EDU-HDMI||KURUNEGALA B": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:31:13",
+      "lastUpdated": "2026-08-25T05:01:13.652Z"
     }
   },
   "showroomVisits": {
@@ -49155,6 +49162,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "10:31:13",
+      "iso": "2026-08-25T05:01:13.653Z",
+      "action": "updated remark for EDU-HDMI at KURUNEGALA B: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "10:30:58",
       "iso": "2026-08-25T05:00:58.337Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at KURUNEGALA B: “80% Discount”"
@@ -49494,13 +49508,6 @@
       "time": "10:27:09",
       "iso": "2026-08-25T04:57:09.379Z",
       "action": "updated remark for SMG-A06-6-128-BLK at KURUNEGALA B: “Burglary Issue”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:26:55",
-      "iso": "2026-08-25T04:56:55.030Z",
-      "action": "updated remark for SLE24E910 at NIKAWERATIYA: “Revert Damaged - 90%”"
     }
   ]
 }
