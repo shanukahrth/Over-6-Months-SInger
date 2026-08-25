@@ -47095,6 +47095,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "09:57:20",
       "lastUpdated": "2026-08-25T04:27:20.015Z"
+    },
+    "LF-BUDGET-DT-CLM-S||KIRINDIWELA - B": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-25",
+      "commentTime": "09:58:30",
+      "lastUpdated": "2026-08-25T04:28:30.324Z"
     }
   },
   "showroomVisits": {
@@ -48385,6 +48392,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-25",
+      "time": "09:58:30",
+      "iso": "2026-08-25T04:28:30.325Z",
+      "action": "updated remark for LF-BUDGET-DT-CLM-S at KIRINDIWELA - B: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
       "time": "09:57:20",
       "iso": "2026-08-25T04:27:20.019Z",
       "action": "updated remark for LF-OX-BR-M-CHY-S at KIRINDIWELA - B: “50%”"
@@ -48724,13 +48738,6 @@
       "time": "20:12:25",
       "iso": "2026-08-24T14:42:25.647Z",
       "action": "updated remark for ULED32D60A at NIKAWERATIYA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "20:11:57",
-      "iso": "2026-08-24T14:41:57.931Z",
-      "action": "updated remark for ULED32D5000 at NIKAWERATIYA: “Revert / Damaged - 90%”"
     }
   ]
 }
