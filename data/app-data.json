@@ -50252,6 +50252,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:11:47",
       "lastUpdated": "2026-08-25T06:41:47.918Z"
+    },
+    "BES-CRS-51||RIDEEGAMA": {
+      "remark": "10%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:14:40",
+      "lastUpdated": "2026-08-25T06:44:40.439Z"
     }
   },
   "showroomVisits": {
@@ -51542,6 +51549,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:14:40",
+      "iso": "2026-08-25T06:44:40.441Z",
+      "action": "updated remark for BES-CRS-51 at RIDEEGAMA: “10%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:11:47",
       "iso": "2026-08-25T06:41:47.919Z",
       "action": "updated remark for ZTE-A35E-2-32GB-GRY at RIDEEGAMA: “Damaged - 20%”"
@@ -51881,13 +51895,6 @@
       "time": "11:52:19",
       "iso": "2026-08-25T06:22:19.861Z",
       "action": "updated remark for HON-H400PRO-12-512-BLK at MEDAWACHCHIYA: “15%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "11:52:10",
-      "iso": "2026-08-25T06:22:10.453Z",
-      "action": "updated remark for HU-SECURITY at MEDAWACHCHIYA: “70%”"
     }
   ]
 }
