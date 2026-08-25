@@ -48817,6 +48817,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:01:03",
       "lastUpdated": "2026-08-25T05:31:03.533Z"
+    },
+    "DVP-SR370||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:01:11",
+      "lastUpdated": "2026-08-25T05:31:11.130Z"
     }
   },
   "showroomVisits": {
@@ -50105,6 +50112,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:01:11",
+      "iso": "2026-08-25T05:31:11.133Z",
+      "action": "updated remark for DVP-SR370 at KURUNEGALA - D: “Okay”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "11:01:03",
@@ -50446,13 +50460,6 @@
       "time": "10:50:55",
       "iso": "2026-08-25T05:20:55.480Z",
       "action": "updated remark for SIN-PSVX938N at SETTIKULAM: “18500”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:50:02",
-      "iso": "2026-08-25T05:20:02.740Z",
-      "action": "updated remark for SL-PB-426 at NIKAWARATIYA - B: “Okay”"
     }
   ]
 }
