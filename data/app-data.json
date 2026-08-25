@@ -50105,6 +50105,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:59:17",
       "lastUpdated": "2026-08-25T06:29:17.492Z"
+    },
+    "PCP50||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:59:42",
+      "lastUpdated": "2026-08-25T06:29:42.649Z"
     }
   },
   "showroomVisits": {
@@ -51395,6 +51402,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "11:59:42",
+      "iso": "2026-08-25T06:29:42.651Z",
+      "action": "updated remark for PCP50 at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "11:59:17",
       "iso": "2026-08-25T06:29:17.493Z",
       "action": "updated remark for R-BWS-02 at KURUNEGALA - D: “Okay”"
@@ -51734,13 +51748,6 @@
       "time": "11:48:43",
       "iso": "2026-08-25T06:18:43.539Z",
       "action": "updated remark for WFL-DBM-75X75 at MEDAWACHCHIYA: “15%”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "11:48:09",
-      "iso": "2026-08-25T06:18:09.367Z",
-      "action": "updated remark for WFI-MICHU-CHR-S at MEDAWACHCHIYA: “25%”"
     }
   ]
 }
