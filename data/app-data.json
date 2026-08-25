@@ -48376,6 +48376,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:45:05",
       "lastUpdated": "2026-08-25T05:15:05.484Z"
+    },
+    "SID-2432||NIKAWARATIYA - B": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:45:21",
+      "lastUpdated": "2026-08-25T05:15:21.715Z"
     }
   },
   "showroomVisits": {
@@ -49664,6 +49671,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:45:21",
+      "iso": "2026-08-25T05:15:21.717Z",
+      "action": "updated remark for SID-2432 at NIKAWARATIYA - B: “Damaged - 70%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "10:45:05",
@@ -50005,13 +50019,6 @@
       "time": "10:37:15",
       "iso": "2026-08-25T05:07:15.492Z",
       "action": "updated remark for DVP-SR370 at NIKAWARATIYA - B: “Okay”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:37:07",
-      "iso": "2026-08-25T05:07:07.174Z",
-      "action": "updated remark for LF-LEO-BRL-WNG-S at KIRINDIWELA - B: “50%”"
     }
   ]
 }
