@@ -48425,6 +48425,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:47:24",
       "lastUpdated": "2026-08-25T05:17:24.180Z"
+    },
+    "USI-ATC-302||KIRINDIWELA - B": {
+      "remark": "N/A",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:47:47",
+      "lastUpdated": "2026-08-25T05:17:47.369Z"
     }
   },
   "showroomVisits": {
@@ -49713,6 +49720,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
+      "time": "10:47:47",
+      "iso": "2026-08-25T05:17:47.370Z",
+      "action": "updated remark for USI-ATC-302 at KIRINDIWELA - B: “N/A”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "10:47:24",
@@ -50054,13 +50068,6 @@
       "time": "10:38:27",
       "iso": "2026-08-25T05:08:27.616Z",
       "action": "updated remark for SIN-PSVX938 at KURUNEGALA B: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:38:15",
-      "iso": "2026-08-25T05:08:15.165Z",
-      "action": "updated remark for GEO-200D at NIKAWARATIYA - B: “Damaged - 85%”"
     }
   ]
 }
