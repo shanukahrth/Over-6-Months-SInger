@@ -55971,6 +55971,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:17:04",
       "lastUpdated": "2026-08-25T11:47:04.118Z"
+    },
+    "AS-13G-I5-512GB-273-BLU||KEGALLE B": {
+      "remark": "Defective. Display blinking.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:18:20",
+      "lastUpdated": "2026-08-25T11:48:20.378Z"
     }
   },
   "showroomVisits": {
@@ -57293,6 +57300,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:18:20",
+      "iso": "2026-08-25T11:48:20.379Z",
+      "action": "updated remark for AS-13G-I5-512GB-273-BLU at KEGALLE B: “Defective. Display blinking.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:17:04",
       "iso": "2026-08-25T11:47:04.123Z",
       "action": "updated remark for B-CWB6441XN at KEGALLE B: “Damaged. 80%”"
@@ -57632,13 +57646,6 @@
       "time": "16:09:24",
       "iso": "2026-08-25T10:39:24.931Z",
       "action": "updated remark for SLE32D1800 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:09:21",
-      "iso": "2026-08-25T10:39:21.201Z",
-      "action": "updated remark for SLE24D1000 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
