@@ -54151,6 +54151,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:22:07",
       "lastUpdated": "2026-08-25T09:52:07.753Z"
+    },
+    "SLE32E910||KEGALLE - C": {
+      "remark": "Damaged. 90%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:22:50",
+      "lastUpdated": "2026-08-25T09:52:50.584Z"
     }
   },
   "showroomVisits": {
@@ -55465,6 +55472,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "15:22:50",
+      "iso": "2026-08-25T09:52:50.590Z",
+      "action": "updated remark for SLE32E910 at KEGALLE - C: “Damaged. 90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "15:22:07",
       "iso": "2026-08-25T09:52:07.760Z",
       "action": "updated remark for SMGUA32N4010 at KEGALLE - C: “Panel damage. 90%”"
@@ -55804,13 +55818,6 @@
       "time": "15:02:38",
       "iso": "2026-08-25T09:32:38.045Z",
       "action": "updated remark for TF-NIGP26-119 at RIDEEGAMA: “20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "15:02:08",
-      "iso": "2026-08-25T09:32:08.593Z",
-      "action": "updated remark for SL-SF1607 at RIDEEGAMA: “Okay”"
     }
   ]
 }
