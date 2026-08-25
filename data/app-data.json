@@ -48859,6 +48859,27 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:01:46",
       "lastUpdated": "2026-08-25T05:31:46.904Z"
+    },
+    "GEO-182S-BU1||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:02:08",
+      "lastUpdated": "2026-08-25T05:32:08.380Z"
+    },
+    "GEO-182S-SV||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:02:11",
+      "lastUpdated": "2026-08-25T05:32:11.172Z"
+    },
+    "GEO-242D-SV||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:02:15",
+      "lastUpdated": "2026-08-25T05:32:15.046Z"
     }
   },
   "showroomVisits": {
@@ -50149,6 +50170,27 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "11:02:15",
+      "iso": "2026-08-25T05:32:15.047Z",
+      "action": "updated remark for GEO-242D-SV at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:02:11",
+      "iso": "2026-08-25T05:32:11.174Z",
+      "action": "updated remark for GEO-182S-SV at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:02:08",
+      "iso": "2026-08-25T05:32:08.382Z",
+      "action": "updated remark for GEO-182S-BU1 at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "11:01:46",
       "iso": "2026-08-25T05:31:46.906Z",
       "action": "updated remark for FAN-WF1608R at KURUNEGALA - D: “Damaged - 60%”"
@@ -50474,27 +50516,6 @@
       "time": "10:50:50",
       "iso": "2026-08-25T05:20:50.363Z",
       "action": "updated remark for DELL3510-PNTMSIL-BLK at KURUNEGALA - D: “Revert - 90%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:51:12",
-      "iso": "2026-08-25T05:21:12.510Z",
-      "action": "updated remark for NCPO-DC200 at KIRINDIWELA - B: “Discount Already Given to DM”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:51:11",
-      "iso": "2026-08-25T05:21:11.298Z",
-      "action": "updated remark for NCPO-DC200 at KIRINDIWELA - B: “Discount Already Given to DM”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:51:38",
-      "iso": "2026-08-25T05:21:38.609Z",
-      "action": "updated remark for UR591SW at SETTIKULAM: “5000”"
     }
   ]
 }
