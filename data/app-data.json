@@ -53558,11 +53558,11 @@
       "lastUpdated": "2026-08-25T09:04:55.780Z"
     },
     "SMGUA32N4010||RIDEEGAMA": {
-      "remark": "Damaged - 70%",
+      "remark": "70%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-25",
-      "commentTime": "14:35:35",
-      "lastUpdated": "2026-08-25T09:05:35.293Z"
+      "commentTime": "14:44:59",
+      "lastUpdated": "2026-08-25T09:14:59.673Z"
     },
     "SMW823AY7||RIDEEGAMA": {
       "remark": "Okay",
@@ -55071,6 +55071,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "14:44:59",
+      "iso": "2026-08-25T09:14:59.674Z",
+      "action": "updated remark for SMGUA32N4010 at RIDEEGAMA: “70%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-25",
       "time": "14:42:43",
@@ -55412,13 +55419,6 @@
       "time": "14:31:49",
       "iso": "2026-08-25T09:01:49.777Z",
       "action": "updated remark for SLE40E810C at RIDEEGAMA: “Display/ Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:31:15",
-      "iso": "2026-08-25T09:01:15.033Z",
-      "action": "updated remark for SLE32E810 at RIDEEGAMA: “Display/ Damaged - 85%”"
     }
   ]
 }
