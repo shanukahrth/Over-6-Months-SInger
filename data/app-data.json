@@ -46983,6 +46983,13 @@
       "commentDate": "2026-08-24",
       "commentTime": "21:05:40",
       "lastUpdated": "2026-08-24T15:35:40.101Z"
+    },
+    "LF-LCDRIO-AGO-S||WARAKAPOLA - B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-25",
+      "commentTime": "09:48:02",
+      "lastUpdated": "2026-08-25T04:18:02.780Z"
     }
   },
   "showroomVisits": {
@@ -48271,6 +48278,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-25",
+      "time": "09:48:02",
+      "iso": "2026-08-25T04:18:02.781Z",
+      "action": "updated remark for LF-LCDRIO-AGO-S at WARAKAPOLA - B: “50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-24",
       "time": "21:05:40",
@@ -48612,13 +48626,6 @@
       "time": "19:55:29",
       "iso": "2026-08-24T14:25:29.635Z",
       "action": "updated remark for SLE55GENR at NIKAWERATIYA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-24",
-      "time": "19:54:30",
-      "iso": "2026-08-24T14:24:30.717Z",
-      "action": "updated remark for SLE43G890 at NIKAWERATIYA: “Revert / Damaged - 90%”"
     }
   ]
 }
