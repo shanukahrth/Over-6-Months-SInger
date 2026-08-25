@@ -53442,8 +53442,8 @@
       "remark": "Display/ Damaged - 85%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-25",
-      "commentTime": "14:30:44",
-      "lastUpdated": "2026-08-25T09:00:44.485Z"
+      "commentTime": "14:31:15",
+      "lastUpdated": "2026-08-25T09:01:15.032Z"
     },
     "SLE32E930||RIDEEGAMA": {
       "remark": "Display/ Damaged - 85%",
@@ -54765,6 +54765,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:31:15",
+      "iso": "2026-08-25T09:01:15.033Z",
+      "action": "updated remark for SLE32E810 at RIDEEGAMA: “Display/ Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:30:51",
       "iso": "2026-08-25T09:00:51.403Z",
       "action": "updated remark for SLE32E930 at RIDEEGAMA: “Display/ Damaged - 85%”"
@@ -55104,13 +55111,6 @@
       "time": "14:11:46",
       "iso": "2026-08-25T08:41:46.982Z",
       "action": "updated remark for SLFEGATE-CT101W at KEGALLE - C: “Revert damaged. System error they can't add it to the system and report”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:10:27",
-      "iso": "2026-08-25T08:40:27.007Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at KEGALLE - C: “Will drop from the system”"
     }
   ]
 }
