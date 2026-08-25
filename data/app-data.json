@@ -48845,6 +48845,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:01:29",
       "lastUpdated": "2026-08-25T05:31:29.679Z"
+    },
+    "LP-AP01||KIRINDIWELA - B": {
+      "remark": "Discount Already Given to DM",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:01:41",
+      "lastUpdated": "2026-08-25T05:31:41.349Z"
     }
   },
   "showroomVisits": {
@@ -50133,6 +50140,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
+      "time": "11:01:41",
+      "iso": "2026-08-25T05:31:41.351Z",
+      "action": "updated remark for LP-AP01 at KIRINDIWELA - B: “Discount Already Given to DM”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:01:29",
@@ -50474,13 +50488,6 @@
       "time": "10:51:35",
       "iso": "2026-08-25T05:21:35.258Z",
       "action": "updated remark for UR591SW at SETTIKULAM: “5000”"
-    },
-    {
-      "user": "Thushitha Jayaweera",
-      "date": "2026-08-25",
-      "time": "10:51:24",
-      "iso": "2026-08-25T05:21:24.512Z",
-      "action": "updated remark for SIN-K13 at SETTIKULAM: “90%”"
     }
   ]
 }
