@@ -53428,8 +53428,8 @@
       "remark": "Display/ Damaged - 85%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-25",
-      "commentTime": "14:30:17",
-      "lastUpdated": "2026-08-25T09:00:17.067Z"
+      "commentTime": "14:55:53",
+      "lastUpdated": "2026-08-25T09:25:53.430Z"
     },
     "SLE32E610||RIDEEGAMA": {
       "remark": "Display/ Damaged - 85%",
@@ -55122,6 +55122,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:55:53",
+      "iso": "2026-08-25T09:25:53.431Z",
+      "action": "updated remark for SLE32D2010TC at RIDEEGAMA: “Display/ Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:54:01",
       "iso": "2026-08-25T09:24:01.006Z",
       "action": "updated remark for KN-HDP106 at RIDEEGAMA: “25%”"
@@ -55461,13 +55468,6 @@
       "time": "14:35:24",
       "iso": "2026-08-25T09:05:24.990Z",
       "action": "updated remark for SMGUA32N4010 at RIDEEGAMA: “Revert - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:34:55",
-      "iso": "2026-08-25T09:04:55.782Z",
-      "action": "updated remark for SLE55G3EN at RIDEEGAMA: “Revert - 85%”"
     }
   ]
 }
