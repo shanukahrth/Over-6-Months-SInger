@@ -56078,32 +56078,32 @@
       "lastUpdated": "2026-08-25T11:57:43.990Z"
     },
     "TF-GS-SPKT302||KEGALLE B": {
-      "remark": "10%",
+      "remark": "20%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-25",
-      "commentTime": "17:28:45",
-      "lastUpdated": "2026-08-25T11:58:45.867Z"
+      "commentTime": "17:34:41",
+      "lastUpdated": "2026-08-25T12:04:41.743Z"
     },
     "TF-SI-ESS-242||KEGALLE B": {
-      "remark": "10%",
+      "remark": "20%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-25",
-      "commentTime": "17:28:50",
-      "lastUpdated": "2026-08-25T11:58:50.059Z"
+      "commentTime": "17:34:47",
+      "lastUpdated": "2026-08-25T12:04:47.797Z"
     },
     "TF-SI-EXSP1231||KEGALLE B": {
-      "remark": "10%",
+      "remark": "20%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-25",
-      "commentTime": "17:28:52",
-      "lastUpdated": "2026-08-25T11:58:52.865Z"
+      "commentTime": "17:34:54",
+      "lastUpdated": "2026-08-25T12:04:54.567Z"
     },
     "TF-FP24-SCR342||KEGALLE B": {
-      "remark": "10%",
+      "remark": "20%",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-25",
-      "commentTime": "17:28:59",
-      "lastUpdated": "2026-08-25T11:58:59.114Z"
+      "commentTime": "17:34:56",
+      "lastUpdated": "2026-08-25T12:04:56.366Z"
     },
     "TF-NIDFP24-170||KEGALLE B": {
       "remark": "10%",
@@ -56139,6 +56139,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:29:28",
       "lastUpdated": "2026-08-25T11:59:28.204Z"
+    },
+    "TF-TW26-064||KEGALLE B": {
+      "remark": "10%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:30:31",
+      "lastUpdated": "2026-08-25T12:00:31.234Z"
     }
   },
   "showroomVisits": {
@@ -57493,6 +57500,62 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:34:56",
+      "iso": "2026-08-25T12:04:56.371Z",
+      "action": "updated remark for TF-FP24-SCR342 at KEGALLE B: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:34:54",
+      "iso": "2026-08-25T12:04:54.571Z",
+      "action": "updated remark for TF-SI-EXSP1231 at KEGALLE B: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:34:50",
+      "iso": "2026-08-25T12:04:50.343Z",
+      "action": "updated remark for TF-SI-EXSP1231 at KEGALLE B: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:34:47",
+      "iso": "2026-08-25T12:04:47.801Z",
+      "action": "updated remark for TF-SI-ESS-242 at KEGALLE B: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:34:44",
+      "iso": "2026-08-25T12:04:44.384Z",
+      "action": "updated remark for TF-SI-ESS-242 at KEGALLE B: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:34:41",
+      "iso": "2026-08-25T12:04:41.748Z",
+      "action": "updated remark for TF-GS-SPKT302 at KEGALLE B: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:34:18",
+      "iso": "2026-08-25T12:04:18.310Z",
+      "action": "updated remark for TF-GS-SPKT302 at KEGALLE B: “20%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:30:31",
+      "iso": "2026-08-25T12:00:31.262Z",
+      "action": "updated remark for TF-TW26-064 at KEGALLE B: “10%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:29:28",
       "iso": "2026-08-25T11:59:28.209Z",
       "action": "updated remark for TF-SP16-063 at KEGALLE B: “10%”"
@@ -57783,62 +57846,6 @@
       "time": "17:18:46",
       "iso": "2026-08-25T11:48:46.164Z",
       "action": "updated remark for TCLED24D3100 at GAMPOLA - C: “Flood”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:18:20",
-      "iso": "2026-08-25T11:48:20.379Z",
-      "action": "updated remark for AS-13G-I5-512GB-273-BLU at KEGALLE B: “Defective. Display blinking.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:17:04",
-      "iso": "2026-08-25T11:47:04.123Z",
-      "action": "updated remark for B-CWB6441XN at KEGALLE B: “Damaged. 80%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:16:53",
-      "iso": "2026-08-25T11:46:53.150Z",
-      "action": "updated remark for SBI-60M19-T at KEGALLE B (cleared)"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:13:44",
-      "iso": "2026-08-25T11:43:44.939Z",
-      "action": "updated remark for SBI-60M19-T at KEGALLE B: “Parts missing.”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "17:13:50",
-      "iso": "2026-08-25T11:43:50.641Z",
-      "action": "updated remark for SMGUA32T4400 at GAMPOLA - C: “Panel damage revert 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "17:13:27",
-      "iso": "2026-08-25T11:43:27.914Z",
-      "action": "updated remark for SMGUA32T4400 at GAMPOLA - C: “Flood”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "17:13:25",
-      "iso": "2026-08-25T11:43:25.242Z",
-      "action": "updated remark for SMGUA32T4400 at GAMPOLA - C: “Floood”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:12:26",
-      "iso": "2026-08-25T11:42:26.966Z",
-      "action": "updated remark for SB-DTYPE at KEGALLE B: “90%. Expired.”"
     }
   ]
 }
