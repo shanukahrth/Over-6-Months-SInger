@@ -54235,6 +54235,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "15:30:24",
       "lastUpdated": "2026-08-25T10:00:24.181Z"
+    },
+    "B-WMY61283MB3||KEGALLE - C": {
+      "remark": "In the pasyala service center. 90%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:32:56",
+      "lastUpdated": "2026-08-25T10:02:56.308Z"
+    },
+    "CLOTHLINE-35PVC||KEGALLE - C": {
+      "remark": "90%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "15:33:15",
+      "lastUpdated": "2026-08-25T10:03:15.796Z"
     }
   },
   "showroomVisits": {
@@ -55549,6 +55563,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "15:33:15",
+      "iso": "2026-08-25T10:03:15.803Z",
+      "action": "updated remark for CLOTHLINE-35PVC at KEGALLE - C: “90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "15:32:56",
+      "iso": "2026-08-25T10:02:56.320Z",
+      "action": "updated remark for B-WMY61283MB3 at KEGALLE - C: “In the pasyala service center. 90%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "15:30:24",
       "iso": "2026-08-25T10:00:24.187Z",
       "action": "updated remark for SL-SWMFR72 at KEGALLE - C: “Discolored”"
@@ -55881,20 +55909,6 @@
       "time": "14:59:47",
       "iso": "2026-08-25T09:29:47.354Z",
       "action": "updated remark for HON-X8C-8-512-GRN at KEGALLE - C: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:59:29",
-      "iso": "2026-08-25T09:29:29.563Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at KEGALLE - C: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:58:00",
-      "iso": "2026-08-25T09:28:00.641Z",
-      "action": "updated remark for HON-PAD-X9-CV at KEGALLE - C: “Will drop”"
     }
   ]
 }
