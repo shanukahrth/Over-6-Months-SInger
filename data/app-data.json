@@ -49580,6 +49580,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:40:03",
       "lastUpdated": "2026-08-25T06:10:03.291Z"
+    },
+    "GEO-242D-SV||NIKAWARATIYA - B": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:40:23",
+      "lastUpdated": "2026-08-25T06:10:23.403Z"
     }
   },
   "showroomVisits": {
@@ -50868,6 +50875,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:40:23",
+      "iso": "2026-08-25T06:10:23.405Z",
+      "action": "updated remark for GEO-242D-SV at NIKAWARATIYA - B: “Damaged - 30%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:40:03",
@@ -51209,13 +51223,6 @@
       "time": "11:30:16",
       "iso": "2026-08-25T06:00:16.359Z",
       "action": "updated remark for SLE32E920 at KURUNEGALA - D: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:29:46",
-      "iso": "2026-08-25T05:59:46.675Z",
-      "action": "updated remark for SLE32E910 at KURUNEGALA - D: “Okay”"
     }
   ]
 }
