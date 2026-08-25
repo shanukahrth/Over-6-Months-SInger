@@ -53584,6 +53584,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:36:43",
       "lastUpdated": "2026-08-25T09:06:43.743Z"
+    },
+    "SVX6002||RIDEEGAMA": {
+      "remark": "Damage - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:37:09",
+      "lastUpdated": "2026-08-25T09:07:09.200Z"
     }
   },
   "showroomVisits": {
@@ -54898,6 +54905,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:37:09",
+      "iso": "2026-08-25T09:07:09.202Z",
+      "action": "updated remark for SVX6002 at RIDEEGAMA: “Damage - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:36:43",
       "iso": "2026-08-25T09:06:43.744Z",
       "action": "updated remark for SS-PS16-AG at RIDEEGAMA: “Revert - 70%”"
@@ -55237,13 +55251,6 @@
       "time": "14:23:00",
       "iso": "2026-08-25T08:53:00.690Z",
       "action": "updated remark for SL-ECO72 at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:22:58",
-      "iso": "2026-08-25T08:52:58.062Z",
-      "action": "updated remark for SL-ECO192-TG at RIDEEGAMA: “Okay”"
     }
   ]
 }
