@@ -50749,6 +50749,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "13:06:11",
       "lastUpdated": "2026-08-25T07:36:11.541Z"
+    },
+    "PN-MX-AC210||SHOMES-KEGALLE": {
+      "remark": "50% offered. Display",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:08:47",
+      "lastUpdated": "2026-08-25T07:38:47.602Z"
+    },
+    "MID-BL1192||SHOMES-KEGALLE": {
+      "remark": "Exchange. Physically not available",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "13:09:08",
+      "lastUpdated": "2026-08-25T07:39:08.580Z"
     }
   },
   "showroomVisits": {
@@ -52039,6 +52053,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "13:09:08",
+      "iso": "2026-08-25T07:39:08.585Z",
+      "action": "updated remark for MID-BL1192 at SHOMES-KEGALLE: “Exchange. Physically not available”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "13:08:47",
+      "iso": "2026-08-25T07:38:47.608Z",
+      "action": "updated remark for PN-MX-AC210 at SHOMES-KEGALLE: “50% offered. Display”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "13:06:11",
       "iso": "2026-08-25T07:36:11.546Z",
       "action": "updated remark for KA-TXG-DS11A at SHOMES-KEGALLE: “50% offered”"
@@ -52371,20 +52399,6 @@
       "time": "12:31:05",
       "iso": "2026-08-25T07:01:05.624Z",
       "action": "updated remark for PN-TH-32J401N at RIDEEGAMA: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:30:59",
-      "iso": "2026-08-25T07:00:59.701Z",
-      "action": "updated remark for PN-TH-43MS670N at RIDEEGAMA: “Revert/ Damaged - 75%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:30:22",
-      "iso": "2026-08-25T07:00:22.905Z",
-      "action": "updated remark for PN-SC-UX100GS-K at RIDEEGAMA: “Revert - 60%”"
     }
   ]
 }
