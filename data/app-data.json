@@ -53570,6 +53570,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:35:54",
       "lastUpdated": "2026-08-25T09:05:54.583Z"
+    },
+    "SPMA9300||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:36:20",
+      "lastUpdated": "2026-08-25T09:06:20.378Z"
     }
   },
   "showroomVisits": {
@@ -54884,6 +54891,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:36:20",
+      "iso": "2026-08-25T09:06:20.379Z",
+      "action": "updated remark for SPMA9300 at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:35:54",
       "iso": "2026-08-25T09:05:54.585Z",
       "action": "updated remark for SMW823AY7 at RIDEEGAMA: “Okay”"
@@ -55223,13 +55237,6 @@
       "time": "14:22:28",
       "iso": "2026-08-25T08:52:28.461Z",
       "action": "updated remark for SKY32TB1000 at RIDEEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:21:58",
-      "iso": "2026-08-25T08:51:58.072Z",
-      "action": "updated remark for SKY32TB1000 at RIDEEGAMA: “Revert/ Damaged - 85%”"
     }
   ]
 }
