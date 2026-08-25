@@ -56279,6 +56279,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:58:30",
       "lastUpdated": "2026-08-25T12:28:30.149Z"
+    },
+    "SIN-5000||KEGALLE B": {
+      "remark": "Damaged. Not charging",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:58:39",
+      "lastUpdated": "2026-08-25T12:28:39.761Z"
     }
   },
   "showroomVisits": {
@@ -57633,6 +57640,13 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:58:39",
+      "iso": "2026-08-25T12:28:39.765Z",
+      "action": "updated remark for SIN-5000 at KEGALLE B: “Damaged. Not charging”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:58:30",
       "iso": "2026-08-25T12:28:30.154Z",
       "action": "updated remark for UPRO-12000 at KEGALLE B: “Damaged. Not charging”"
@@ -57972,13 +57986,6 @@
       "time": "17:28:52",
       "iso": "2026-08-25T11:58:52.869Z",
       "action": "updated remark for TF-SI-EXSP1231 at KEGALLE B: “10%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:28:50",
-      "iso": "2026-08-25T11:58:50.064Z",
-      "action": "updated remark for TF-SI-ESS-242 at KEGALLE B: “10%”"
     }
   ]
 }
