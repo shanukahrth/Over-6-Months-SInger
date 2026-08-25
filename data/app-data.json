@@ -47529,6 +47529,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:24:45",
       "lastUpdated": "2026-08-25T04:54:45.674Z"
+    },
+    "FAN-FE-18Y||KIRINDIWELA - B": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:25:01",
+      "lastUpdated": "2026-08-25T04:55:01.311Z"
     }
   },
   "showroomVisits": {
@@ -48819,6 +48826,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-08-25",
+      "time": "10:25:01",
+      "iso": "2026-08-25T04:55:01.313Z",
+      "action": "updated remark for FAN-FE-18Y at KIRINDIWELA - B: “70%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-08-25",
       "time": "10:24:45",
       "iso": "2026-08-25T04:54:45.677Z",
       "action": "updated remark for FAN-C-CF560 at KIRINDIWELA - B: “50% part request”"
@@ -49158,13 +49172,6 @@
       "time": "10:10:32",
       "iso": "2026-08-25T04:40:32.375Z",
       "action": "updated remark for SPM-78X60 at KEGALLE: “Non moving. 25% offered flat”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:09:39",
-      "iso": "2026-08-25T04:39:39.736Z",
-      "action": "updated remark for WF-PARIS-BL-S at KIRINDIWELA - B: “50%”"
     }
   ]
 }
