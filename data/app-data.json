@@ -53423,6 +53423,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:29:31",
       "lastUpdated": "2026-08-25T08:59:31.163Z"
+    },
+    "SLE32D2010TC||RIDEEGAMA": {
+      "remark": "Display/ Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:30:17",
+      "lastUpdated": "2026-08-25T09:00:17.067Z"
     }
   },
   "showroomVisits": {
@@ -54735,6 +54742,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "14:30:17",
+      "iso": "2026-08-25T09:00:17.070Z",
+      "action": "updated remark for SLE32D2010TC at RIDEEGAMA: “Display/ Damaged - 85%”"
+    },
+    {
       "user": "Punesha",
       "date": "2026-08-25",
       "time": "14:29:31",
@@ -55076,13 +55090,6 @@
       "time": "14:07:14",
       "iso": "2026-08-25T08:37:14.637Z",
       "action": "updated remark for SIN-W66PA28 at KEGALLE - C: “80% flat”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:06:46",
-      "iso": "2026-08-25T08:36:46.538Z",
-      "action": "updated remark for SIN-PSVX938N at KEGALLE - C: “18,500 special price”"
     }
   ]
 }
