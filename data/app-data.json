@@ -53316,8 +53316,8 @@
       "remark": "Display/ Damaged - 60%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-25",
-      "commentTime": "14:23:40",
-      "lastUpdated": "2026-08-25T08:53:40.381Z"
+      "commentTime": "14:56:34",
+      "lastUpdated": "2026-08-25T09:26:34.027Z"
     },
     "SLE24D1000||RIDEEGAMA": {
       "remark": "Damaged - 85%",
@@ -55122,6 +55122,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:56:34",
+      "iso": "2026-08-25T09:26:34.028Z",
+      "action": "updated remark for SL-VAR-90P-C at RIDEEGAMA: “Display/ Damaged - 60%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:55:53",
       "iso": "2026-08-25T09:25:53.431Z",
       "action": "updated remark for SLE32D2010TC at RIDEEGAMA: “Display/ Damaged - 85%”"
@@ -55461,13 +55468,6 @@
       "time": "14:35:35",
       "iso": "2026-08-25T09:05:35.294Z",
       "action": "updated remark for SMGUA32N4010 at RIDEEGAMA: “Damaged - 70%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "14:35:24",
-      "iso": "2026-08-25T09:05:24.990Z",
-      "action": "updated remark for SMGUA32N4010 at RIDEEGAMA: “Revert - 70%”"
     }
   ]
 }
