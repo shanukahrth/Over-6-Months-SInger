@@ -48558,6 +48558,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:51:12",
       "lastUpdated": "2026-08-25T05:21:12.507Z"
+    },
+    "DELL3510-PNTMSIL-BLK||KURUNEGALA - D": {
+      "remark": "Revert - 90%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:50:50",
+      "lastUpdated": "2026-08-25T05:20:50.362Z"
+    },
+    "DPE-NUC-MINIPC-SSD120||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:51:01",
+      "lastUpdated": "2026-08-25T05:21:01.790Z"
     }
   },
   "showroomVisits": {
@@ -49846,6 +49860,20 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "10:51:01",
+      "iso": "2026-08-25T05:21:01.791Z",
+      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "10:50:50",
+      "iso": "2026-08-25T05:20:50.363Z",
+      "action": "updated remark for DELL3510-PNTMSIL-BLK at KURUNEGALA - D: “Revert - 90%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "10:51:12",
@@ -50180,20 +50208,6 @@
       "time": "10:37:39",
       "iso": "2026-08-25T05:07:39.392Z",
       "action": "updated remark for WF-PARIS-BR-S at KIRINDIWELA - B: “50%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:42:04",
-      "iso": "2026-08-25T05:12:04.353Z",
-      "action": "updated remark for NCPDG-SP240 at KURUNEGALA B: “Rambukkana Clearance Sale”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:41:47",
-      "iso": "2026-08-25T05:11:47.269Z",
-      "action": "updated remark for PN-TH-32M401N at NIKAWARATIYA - B: “Revert /Damaged - 60%”"
     }
   ]
 }
