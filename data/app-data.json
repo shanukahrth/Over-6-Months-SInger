@@ -49454,6 +49454,62 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:37:09",
       "lastUpdated": "2026-08-25T06:07:09.145Z"
+    },
+    "SRS-XV500||SHOMES-KEGALLE": {
+      "remark": "30% flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:34:27",
+      "lastUpdated": "2026-08-25T06:04:27.316Z"
+    },
+    "SHAKE-X10D||SHOMES-KEGALLE": {
+      "remark": "Physically not available. Exchange",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:34:37",
+      "lastUpdated": "2026-08-25T06:04:37.519Z"
+    },
+    "SIN-PSVX938||SHOMES-KEGALLE": {
+      "remark": "70% flat",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:35:04",
+      "lastUpdated": "2026-08-25T06:05:04.722Z"
+    },
+    "SIN-W66PA28||SHOMES-KEGALLE": {
+      "remark": "Revert damaged.Not working. 90% offered.",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:35:51",
+      "lastUpdated": "2026-08-25T06:05:51.475Z"
+    },
+    "ACER-AL15-I5-8GB-512-SIL||SHOMES-KEGALLE": {
+      "remark": "Exchange",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:36:02",
+      "lastUpdated": "2026-08-25T06:06:02.517Z"
+    },
+    "ACER-AL52P-I3-8GB-256-SIL||SHOMES-KEGALLE": {
+      "remark": "Display. physically available",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:36:46",
+      "lastUpdated": "2026-08-25T06:06:46.364Z"
+    },
+    "DELL3530-I5-8GB512-SIL||SHOMES-KEGALLE": {
+      "remark": "-",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:37:15",
+      "lastUpdated": "2026-08-25T06:07:15.407Z"
+    },
+    "DELLC-VOS3420-I5DOS||SHOMES-KEGALLE": {
+      "remark": "Part missing. 80%",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:38:11",
+      "lastUpdated": "2026-08-25T06:08:11.781Z"
     }
   },
   "showroomVisits": {
@@ -50742,6 +50798,76 @@
   },
   "activity": [
     {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:38:11",
+      "iso": "2026-08-25T06:08:11.781Z",
+      "action": "updated remark for DELLC-VOS3420-I5DOS at SHOMES-KEGALLE: “Part missing. 80%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:38:07",
+      "iso": "2026-08-25T06:08:07.883Z",
+      "action": "updated remark for DELLC-VOS3420-I5DOS at SHOMES-KEGALLE: “Not moving. 80%”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:37:44",
+      "iso": "2026-08-25T06:07:44.220Z",
+      "action": "updated remark for DELLC-VOS3420-I5DOS at SHOMES-KEGALLE: “Part missing.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:37:15",
+      "iso": "2026-08-25T06:07:15.408Z",
+      "action": "updated remark for DELL3530-I5-8GB512-SIL at SHOMES-KEGALLE: “-”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:36:46",
+      "iso": "2026-08-25T06:06:46.365Z",
+      "action": "updated remark for ACER-AL52P-I3-8GB-256-SIL at SHOMES-KEGALLE: “Display. physically available”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:36:02",
+      "iso": "2026-08-25T06:06:02.517Z",
+      "action": "updated remark for ACER-AL15-I5-8GB-512-SIL at SHOMES-KEGALLE: “Exchange”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:35:51",
+      "iso": "2026-08-25T06:05:51.479Z",
+      "action": "updated remark for SIN-W66PA28 at SHOMES-KEGALLE: “Revert damaged.Not working. 90% offered.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:35:04",
+      "iso": "2026-08-25T06:05:04.728Z",
+      "action": "updated remark for SIN-PSVX938 at SHOMES-KEGALLE: “70% flat”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:34:37",
+      "iso": "2026-08-25T06:04:37.524Z",
+      "action": "updated remark for SHAKE-X10D at SHOMES-KEGALLE: “Physically not available. Exchange”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "11:34:27",
+      "iso": "2026-08-25T06:04:27.322Z",
+      "action": "updated remark for SRS-XV500 at SHOMES-KEGALLE: “30% flat”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:37:09",
@@ -51020,76 +51146,6 @@
       "time": "11:27:55",
       "iso": "2026-08-25T05:57:55.993Z",
       "action": "updated remark for SVX6002 at NIKAWARATIYA - B: “Damaged - 85%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:27:45",
-      "iso": "2026-08-25T05:57:45.438Z",
-      "action": "updated remark for SL-PSM-8017 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "11:27:39",
-      "iso": "2026-08-25T05:57:39.971Z",
-      "action": "updated remark for STT-200K at NIKAWARATIYA - B: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "11:27:26",
-      "iso": "2026-08-25T05:57:26.346Z",
-      "action": "updated remark for SPMA9501 at NIKAWARATIYA - B: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:27:22",
-      "iso": "2026-08-25T05:57:22.227Z",
-      "action": "updated remark for SL-PB-426 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:27:15",
-      "iso": "2026-08-25T05:57:15.333Z",
-      "action": "updated remark for SL-9VNF at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "11:27:10",
-      "iso": "2026-08-25T05:57:10.550Z",
-      "action": "updated remark for SMW823AY7 at NIKAWARATIYA - B: “20%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:26:55",
-      "iso": "2026-08-25T05:56:55.196Z",
-      "action": "updated remark for SIN-PSVX938N at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:26:49",
-      "iso": "2026-08-25T05:56:49.520Z",
-      "action": "updated remark for SIN-PSVX938N at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:26:47",
-      "iso": "2026-08-25T05:56:47.601Z",
-      "action": "updated remark for SIN-PSVX938 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:26:15",
-      "iso": "2026-08-25T05:56:15.099Z",
-      "action": "updated remark for SIN-PR-K340 at KURUNEGALA - D: “Okay”"
     }
   ]
 }
