@@ -50119,6 +50119,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:59:53",
       "lastUpdated": "2026-08-25T06:29:53.505Z"
+    },
+    "S-1000||KURUNEGALA - D": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:00:28",
+      "lastUpdated": "2026-08-25T06:30:28.006Z"
     }
   },
   "showroomVisits": {
@@ -51409,6 +51416,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:00:28",
+      "iso": "2026-08-25T06:30:28.007Z",
+      "action": "updated remark for S-1000 at KURUNEGALA - D: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:00:13",
       "iso": "2026-08-25T06:30:13.788Z",
       "action": "updated remark for KA-PRISMA-1.7 at KURUNEGALA - D: “Okay”"
@@ -51748,13 +51762,6 @@
       "time": "11:48:27",
       "iso": "2026-08-25T06:18:27.166Z",
       "action": "updated remark for WF-DANISH-GR-S at KURUNEGALA - D: “Damaged - 60%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:48:16",
-      "iso": "2026-08-25T06:18:16.569Z",
-      "action": "updated remark for UR591SW at KURUNEGALA - D: “Okay”"
     }
   ]
 }
