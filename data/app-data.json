@@ -48252,11 +48252,11 @@
       "lastUpdated": "2026-08-25T05:11:04.278Z"
     },
     "PN-TH-32M401N||NIKAWARATIYA - B": {
-      "remark": "Okay",
+      "remark": "Revert /Damaged - 60%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-25",
-      "commentTime": "10:41:18",
-      "lastUpdated": "2026-08-25T05:11:18.002Z"
+      "commentTime": "10:41:47",
+      "lastUpdated": "2026-08-25T05:11:47.268Z"
     },
     "WP-1R-.75T||KURUNEGALA B": {
       "remark": "Can sell this by 31st Aug (Staff will purchase)",
@@ -48264,6 +48264,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:41:22",
       "lastUpdated": "2026-08-25T05:11:22.545Z"
+    },
+    "PN-TH-32M402N||NIKAWARATIYA - B": {
+      "remark": "Revert /Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:41:45",
+      "lastUpdated": "2026-08-25T05:11:45.680Z"
     }
   },
   "showroomVisits": {
@@ -49552,6 +49559,34 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:41:47",
+      "iso": "2026-08-25T05:11:47.269Z",
+      "action": "updated remark for PN-TH-32M401N at NIKAWARATIYA - B: “Revert /Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:41:45",
+      "iso": "2026-08-25T05:11:45.682Z",
+      "action": "updated remark for PN-TH-32M402N at NIKAWARATIYA - B: “Revert /Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:41:41",
+      "iso": "2026-08-25T05:11:41.435Z",
+      "action": "updated remark for PN-TH-32M402N at NIKAWARATIYA - B: “Revert / Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "10:41:39",
+      "iso": "2026-08-25T05:11:39.695Z",
+      "action": "updated remark for PN-TH-32M401N at NIKAWARATIYA - B: “Revert / Damaged - 60%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "10:41:22",
@@ -49872,34 +49907,6 @@
       "time": "10:35:00",
       "iso": "2026-08-25T05:05:00.941Z",
       "action": "updated remark for NETAC-128GB-NVME-SSD at NIKAWARATIYA - B: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:34:56",
-      "iso": "2026-08-25T05:04:56.060Z",
-      "action": "updated remark for MD-GSE-L004 at KURUNEGALA B: “Okay”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:34:19",
-      "iso": "2026-08-25T05:04:19.187Z",
-      "action": "updated remark for LF-LEO-12022-BCH at KIRINDIWELA - B: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:32:59",
-      "iso": "2026-08-25T05:02:59.939Z",
-      "action": "updated remark for LF-LEO-12022-BCH at KIRINDIWELA - B: “5”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "10:34:03",
-      "iso": "2026-08-25T05:04:03.842Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KURUNEGALA B: “Okay”"
     }
   ]
 }
