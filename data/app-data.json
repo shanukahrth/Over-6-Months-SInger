@@ -48733,6 +48733,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:57:35",
       "lastUpdated": "2026-08-25T05:27:35.025Z"
+    },
+    "SMG-SM-A055F-64-B||SETTIKULAM": {
+      "remark": "75% deffective",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:58:42",
+      "lastUpdated": "2026-08-25T05:28:42.593Z"
     }
   },
   "showroomVisits": {
@@ -50021,6 +50028,13 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "10:58:42",
+      "iso": "2026-08-25T05:28:42.593Z",
+      "action": "updated remark for SMG-SM-A055F-64-B at SETTIKULAM: “75% deffective”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "10:57:35",
@@ -50362,13 +50376,6 @@
       "time": "10:47:50",
       "iso": "2026-08-25T05:17:50.970Z",
       "action": "updated remark for SL-ECO245 at NIKAWARATIYA - B: “Revert /Damaged - 85%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-08-25",
-      "time": "10:47:47",
-      "iso": "2026-08-25T05:17:47.370Z",
-      "action": "updated remark for USI-ATC-302 at KIRINDIWELA - B: “N/A”"
     }
   ]
 }
