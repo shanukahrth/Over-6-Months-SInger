@@ -50455,6 +50455,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "12:28:02",
       "lastUpdated": "2026-08-25T06:58:02.263Z"
+    },
+    "MHC-M40D||RIDEEGAMA": {
+      "remark": "Okay",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "12:28:35",
+      "lastUpdated": "2026-08-25T06:58:35.581Z"
     }
   },
   "showroomVisits": {
@@ -51745,6 +51752,13 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "12:28:35",
+      "iso": "2026-08-25T06:58:35.583Z",
+      "action": "updated remark for MHC-M40D at RIDEEGAMA: “Okay”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "12:28:02",
       "iso": "2026-08-25T06:58:02.265Z",
       "action": "updated remark for MC8280 at RIDEEGAMA: “Damaged - 60%”"
@@ -52084,13 +52098,6 @@
       "time": "12:08:24",
       "iso": "2026-08-25T06:38:24.664Z",
       "action": "updated remark for DELL-3552-PQC at RIDEEGAMA: “Sold”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "12:08:22",
-      "iso": "2026-08-25T06:38:22.154Z",
-      "action": "updated remark for DELL3520-I5-8GB512-SIL at RIDEEGAMA: “Sold”"
     }
   ]
 }
