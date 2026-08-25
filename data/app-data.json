@@ -53451,6 +53451,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "14:30:51",
       "lastUpdated": "2026-08-25T09:00:51.403Z"
+    },
+    "SLE40E810C||RIDEEGAMA": {
+      "remark": "Display/ Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:31:51",
+      "lastUpdated": "2026-08-25T09:01:51.479Z"
+    },
+    "SLE40E710||RIDEEGAMA": {
+      "remark": "Display/ Damaged - 85%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-25",
+      "commentTime": "14:31:53",
+      "lastUpdated": "2026-08-25T09:01:53.035Z"
     }
   },
   "showroomVisits": {
@@ -54765,6 +54779,27 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:31:53",
+      "iso": "2026-08-25T09:01:53.036Z",
+      "action": "updated remark for SLE40E710 at RIDEEGAMA: “Display/ Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "14:31:51",
+      "iso": "2026-08-25T09:01:51.480Z",
+      "action": "updated remark for SLE40E810C at RIDEEGAMA: “Display/ Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "14:31:49",
+      "iso": "2026-08-25T09:01:49.777Z",
+      "action": "updated remark for SLE40E810C at RIDEEGAMA: “Display/ Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:31:15",
       "iso": "2026-08-25T09:01:15.033Z",
       "action": "updated remark for SLE32E810 at RIDEEGAMA: “Display/ Damaged - 85%”"
@@ -55090,27 +55125,6 @@
       "time": "14:14:22",
       "iso": "2026-08-25T08:44:22.513Z",
       "action": "updated remark for DELL3510-PNTMSIL-BLK at KEGALLE - C: “Screen damaged.”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:13:55",
-      "iso": "2026-08-25T08:43:55.782Z",
-      "action": "updated remark for MSI-CYB-A2RVE-4050-I7-BL at KEGALLE - C: “15% flat offered”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:12:16",
-      "iso": "2026-08-25T08:42:16.034Z",
-      "action": "updated remark for SLFEGATE-CT101W at KEGALLE - C: “Revert damaged. System error they can't add it to the system and report. DM to do a count out count in. 90% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:11:46",
-      "iso": "2026-08-25T08:41:46.982Z",
-      "action": "updated remark for SLFEGATE-CT101W at KEGALLE - C: “Revert damaged. System error they can't add it to the system and report”"
     }
   ]
 }
