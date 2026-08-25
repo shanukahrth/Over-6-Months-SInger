@@ -53439,11 +53439,11 @@
       "lastUpdated": "2026-08-25T09:00:33.617Z"
     },
     "SLE32E810||RIDEEGAMA": {
-      "remark": "Display/ Damaged - 80%",
+      "remark": "Display/ Damaged - 85%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-25",
-      "commentTime": "14:48:19",
-      "lastUpdated": "2026-08-25T09:18:19.804Z"
+      "commentTime": "14:48:33",
+      "lastUpdated": "2026-08-25T09:18:33.820Z"
     },
     "SLE32E930||RIDEEGAMA": {
       "remark": "Display/ Damaged - 85%",
@@ -55080,6 +55080,20 @@
     {
       "user": "Mihini Perera",
       "date": "2026-08-25",
+      "time": "14:48:33",
+      "iso": "2026-08-25T09:18:33.821Z",
+      "action": "updated remark for SLE32E810 at RIDEEGAMA: “Display/ Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "14:48:30",
+      "iso": "2026-08-25T09:18:30.266Z",
+      "action": "updated remark for SLE32E810 at RIDEEGAMA: “Display/ Damaged - 85%”"
+    },
+    {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
       "time": "14:48:19",
       "iso": "2026-08-25T09:18:19.807Z",
       "action": "updated remark for SLE32E810 at RIDEEGAMA: “Display/ Damaged - 80%”"
@@ -55412,20 +55426,6 @@
       "time": "14:34:36",
       "iso": "2026-08-25T09:04:36.404Z",
       "action": "updated remark for TF-KD24-061 at KEGALLE - C: “10% provided”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:34:34",
-      "iso": "2026-08-25T09:04:34.364Z",
-      "action": "updated remark for TF-FP24-SCR342 at KEGALLE - C: “10% provided”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "14:34:32",
-      "iso": "2026-08-25T09:04:32.119Z",
-      "action": "updated remark for TF-TW26-064 at KEGALLE - C: “10% provided”"
     }
   ]
 }
