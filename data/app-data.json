@@ -55894,6 +55894,20 @@
       "commentDate": "2026-08-25",
       "commentTime": "17:05:49",
       "lastUpdated": "2026-08-25T11:35:49.995Z"
+    },
+    "SIN-PSVX938||KEGALLE B": {
+      "remark": "70% . Display",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:07:03",
+      "lastUpdated": "2026-08-25T11:37:03.152Z"
+    },
+    "SIN-PSVX938N||KEGALLE B": {
+      "remark": "Sold",
+      "commentedBy": "Punesha",
+      "commentDate": "2026-08-25",
+      "commentTime": "17:07:07",
+      "lastUpdated": "2026-08-25T11:37:07.892Z"
     }
   },
   "showroomVisits": {
@@ -57216,6 +57230,20 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "17:07:07",
+      "iso": "2026-08-25T11:37:07.896Z",
+      "action": "updated remark for SIN-PSVX938N at KEGALLE B: “Sold”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "17:07:03",
+      "iso": "2026-08-25T11:37:03.157Z",
+      "action": "updated remark for SIN-PSVX938 at KEGALLE B: “70% . Display”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "17:05:49",
       "iso": "2026-08-25T11:35:49.998Z",
       "action": "updated remark for SIN-MH51SW at KEGALLE B: “80% damaged”"
@@ -57548,20 +57576,6 @@
       "time": "16:05:54",
       "iso": "2026-08-25T10:35:54.553Z",
       "action": "updated remark for SLE32E910 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:05:50",
-      "iso": "2026-08-25T10:35:50.392Z",
-      "action": "updated remark for SLE32E810 at GAMPOLA: “Display damaged 90%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "16:05:49",
-      "iso": "2026-08-25T10:35:49.091Z",
-      "action": "updated remark for SLE32E810 at GAMPOLA: “Display damaged 90%”"
     }
   ]
 }
