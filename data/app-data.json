@@ -48747,6 +48747,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "10:58:21",
       "lastUpdated": "2026-08-25T05:28:21.544Z"
+    },
+    "GEO-182S-BU1||SETTIKULAM": {
+      "remark": "75%",
+      "commentedBy": "Thushitha Jayaweera",
+      "commentDate": "2026-08-25",
+      "commentTime": "10:59:04",
+      "lastUpdated": "2026-08-25T05:29:04.763Z"
     }
   },
   "showroomVisits": {
@@ -50035,6 +50042,13 @@
   },
   "activity": [
     {
+      "user": "Thushitha Jayaweera",
+      "date": "2026-08-25",
+      "time": "10:59:04",
+      "iso": "2026-08-25T05:29:04.772Z",
+      "action": "updated remark for GEO-182S-BU1 at SETTIKULAM: “75%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-08-25",
       "time": "10:58:21",
@@ -50376,13 +50390,6 @@
       "time": "10:47:57",
       "iso": "2026-08-25T05:17:57.110Z",
       "action": "updated remark for USI-ATC-302 at KIRINDIWELA - B: “N/A”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-25",
-      "time": "10:47:57",
-      "iso": "2026-08-25T05:17:57.064Z",
-      "action": "updated remark for SL-ECO251NF at NIKAWARATIYA - B: “Revert /Damaged - 85%”"
     }
   ]
 }
