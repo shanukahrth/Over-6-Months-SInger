@@ -49440,6 +49440,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "11:36:43",
       "lastUpdated": "2026-08-25T06:06:43.681Z"
+    },
+    "SLE32E710||NIKAWARATIYA - B": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-25",
+      "commentTime": "11:37:11",
+      "lastUpdated": "2026-08-25T06:07:11.690Z"
     }
   },
   "showroomVisits": {
@@ -50728,6 +50735,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-25",
+      "time": "11:37:11",
+      "iso": "2026-08-25T06:07:11.691Z",
+      "action": "updated remark for SLE32E710 at NIKAWARATIYA - B: “Damaged - 90%”"
+    },
+    {
       "user": "Mihini Perera",
       "date": "2026-08-25",
       "time": "11:36:43",
@@ -51069,13 +51083,6 @@
       "time": "11:26:12",
       "iso": "2026-08-25T05:56:12.801Z",
       "action": "updated remark for SIN-PR-K340 at KURUNEGALA - D: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:25:26",
-      "iso": "2026-08-25T05:55:26.803Z",
-      "action": "updated remark for SIN-MRG-1008C at KURUNEGALA - D: “Okay”"
     }
   ]
 }
