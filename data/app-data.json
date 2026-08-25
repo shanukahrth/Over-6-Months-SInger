@@ -49617,11 +49617,11 @@
       "lastUpdated": "2026-08-25T06:11:32.008Z"
     },
     "SWM-FA70R||KURUNEGALA - D": {
-      "remark": "Revert/ Damaged - 70%",
+      "remark": "Damaged - 70%",
       "commentedBy": "Mihini Perera",
       "commentDate": "2026-08-25",
-      "commentTime": "11:42:19",
-      "lastUpdated": "2026-08-25T06:12:19.731Z"
+      "commentTime": "11:42:44",
+      "lastUpdated": "2026-08-25T06:12:44.357Z"
     }
   },
   "showroomVisits": {
@@ -50910,6 +50910,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-25",
+      "time": "11:42:44",
+      "iso": "2026-08-25T06:12:44.359Z",
+      "action": "updated remark for SWM-FA70R at KURUNEGALA - D: “Damaged - 70%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-25",
       "time": "11:42:32",
@@ -51251,13 +51258,6 @@
       "time": "11:32:57",
       "iso": "2026-08-25T06:02:57.329Z",
       "action": "updated remark for STT-200K at NIKAWARATIYA - B: “Okay”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-25",
-      "time": "11:32:32",
-      "iso": "2026-08-25T06:02:32.438Z",
-      "action": "updated remark for SL-RFA75 at KURUNEGALA - D: “Okay”"
     }
   ]
 }
