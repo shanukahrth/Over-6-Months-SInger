@@ -53215,11 +53215,11 @@
       "lastUpdated": "2026-08-25T08:43:55.780Z"
     },
     "DELL3510-PNTMSIL-BLK||KEGALLE - C": {
-      "remark": "Screen damaged.",
+      "remark": "Damaged screen. 90% offered",
       "commentedBy": "Punesha",
       "commentDate": "2026-08-25",
-      "commentTime": "14:14:22",
-      "lastUpdated": "2026-08-25T08:44:22.512Z"
+      "commentTime": "14:15:04",
+      "lastUpdated": "2026-08-25T08:45:04.120Z"
     }
   },
   "showroomVisits": {
@@ -54534,6 +54534,27 @@
     {
       "user": "Punesha",
       "date": "2026-08-25",
+      "time": "14:15:04",
+      "iso": "2026-08-25T08:45:04.120Z",
+      "action": "updated remark for DELL3510-PNTMSIL-BLK at KEGALLE - C: “Damaged screen. 90% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:14:59",
+      "iso": "2026-08-25T08:44:59.217Z",
+      "action": "updated remark for DELL3510-PNTMSIL-BLK at KEGALLE - C: “Damaged. 90% offered”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
+      "time": "14:14:44",
+      "iso": "2026-08-25T08:44:44.325Z",
+      "action": "updated remark for DELL3510-PNTMSIL-BLK at KEGALLE - C: “Damaged screen.”"
+    },
+    {
+      "user": "Punesha",
+      "date": "2026-08-25",
       "time": "14:14:22",
       "iso": "2026-08-25T08:44:22.513Z",
       "action": "updated remark for DELL3510-PNTMSIL-BLK at KEGALLE - C: “Screen damaged.”"
@@ -54859,27 +54880,6 @@
       "time": "13:27:53",
       "iso": "2026-08-25T07:57:53.796Z",
       "action": "updated remark for SMGRT30K3322S8 at PUSSELLAWA: “Reported”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:27:28",
-      "iso": "2026-08-25T07:57:28.480Z",
-      "action": "updated remark for CAN-I-G1730 at PUSSELLAWA: “25%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:27:21",
-      "iso": "2026-08-25T07:57:21.361Z",
-      "action": "updated remark for CM-D1000 at PUSSELLAWA: “Free issue”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-25",
-      "time": "13:26:59",
-      "iso": "2026-08-25T07:56:59.276Z",
-      "action": "updated remark for CAN-C-746S-C at PUSSELLAWA: “50%”"
     }
   ]
 }
