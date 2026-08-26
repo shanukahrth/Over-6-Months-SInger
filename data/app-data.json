@@ -57399,6 +57399,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:53:24",
       "lastUpdated": "2026-08-26T11:23:24.797Z"
+    },
+    "HON-X5-2-32-BLU||KADAWATHA A": {
+      "remark": "No power issue - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:54:06",
+      "lastUpdated": "2026-08-26T11:24:06.446Z"
+    },
+    "HON-X5B-4-64-BLU||KADAWATHA A": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:54:27",
+      "lastUpdated": "2026-08-26T11:24:27.300Z"
     }
   },
   "showroomVisits": {
@@ -58759,6 +58773,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:54:27",
+      "iso": "2026-08-26T11:24:27.301Z",
+      "action": "updated remark for HON-X5B-4-64-BLU at KADAWATHA A: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:54:06",
+      "iso": "2026-08-26T11:24:06.446Z",
+      "action": "updated remark for HON-X5-2-32-BLU at KADAWATHA A: “No power issue - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:53:24",
       "iso": "2026-08-26T11:23:24.798Z",
       "action": "updated remark for HON-MAGIC-6PRO-GRN at KADAWATHA A: “Reported”"
@@ -59091,20 +59119,6 @@
       "time": "16:31:37",
       "iso": "2026-08-26T11:01:37.664Z",
       "action": "updated remark for TF-K1330404 at KADAWATHA A: “Damaged - 75%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:30:49",
-      "iso": "2026-08-26T11:00:49.168Z",
-      "action": "updated remark for NCPO-OT275 at KADAWATHA A: “42%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:30:37",
-      "iso": "2026-08-26T11:00:37.058Z",
-      "action": "updated remark for NCPO-DC200 at KADAWATHA A: “45%”"
     }
   ]
 }
