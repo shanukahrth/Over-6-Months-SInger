@@ -56615,6 +56615,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:00:34",
       "lastUpdated": "2026-08-26T10:30:34.647Z"
+    },
+    "DUM-SMGAR50F12D0J||KADAWATHA A": {
+      "remark": "Dummy",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:00:50",
+      "lastUpdated": "2026-08-26T10:30:50.964Z"
+    },
+    "SVX6002||KADAWATHA A": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:01:14",
+      "lastUpdated": "2026-08-26T10:31:14.291Z"
     }
   },
   "showroomVisits": {
@@ -57975,6 +57989,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:01:14",
+      "iso": "2026-08-26T10:31:14.292Z",
+      "action": "updated remark for SVX6002 at KADAWATHA A: “Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:00:50",
+      "iso": "2026-08-26T10:30:50.965Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at KADAWATHA A: “Dummy”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:00:34",
       "iso": "2026-08-26T10:30:34.648Z",
       "action": "updated remark for PN-CS-XU12XKYW-8 at KADAWATHA A: “Reported”"
@@ -58307,20 +58335,6 @@
       "time": "18:01:27",
       "iso": "2026-08-25T12:31:27.787Z",
       "action": "updated remark for ZTE-NUBIA-5G-8-256-BLK at KEGALLE B: “Stolen”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:01:15",
-      "iso": "2026-08-25T12:31:15.912Z",
-      "action": "updated remark for ZTE-A75-4GB-256GB-GRN at KEGALLE B: “Defective. Can't sell. 70%”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:00:43",
-      "iso": "2026-08-25T12:30:43.227Z",
-      "action": "updated remark for ZTE-A73-4GB-128GB-B at KEGALLE B: “Sold”"
     }
   ]
 }
