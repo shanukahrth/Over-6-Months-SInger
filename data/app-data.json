@@ -57292,8 +57292,8 @@
       "remark": "Damaged - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "16:47:53",
-      "lastUpdated": "2026-08-26T11:17:53.402Z"
+      "commentTime": "17:25:29",
+      "lastUpdated": "2026-08-26T11:55:29.411Z"
     },
     "SL-S203||KADAWATHA A": {
       "remark": "Damaged - 80%",
@@ -59185,6 +59185,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:25:29",
+      "iso": "2026-08-26T11:55:29.412Z",
+      "action": "updated remark for STT-200K at KADAWATHA A: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:25:11",
       "iso": "2026-08-26T11:55:11.180Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at KADAWATHA A: “MOP - 30,000”"
@@ -59524,13 +59531,6 @@
       "time": "17:02:14",
       "iso": "2026-08-26T11:32:14.593Z",
       "action": "updated remark for MCT-234 at KADAWATHA A: “Parts missing”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:02:13",
-      "iso": "2026-08-26T11:32:13.534Z",
-      "action": "updated remark for PM-COMP-8 at KADAWATHA A: “Parts missing”"
     }
   ]
 }
