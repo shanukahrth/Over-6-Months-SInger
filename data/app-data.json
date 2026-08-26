@@ -57021,6 +57021,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:26:32",
       "lastUpdated": "2026-08-26T10:56:32.356Z"
+    },
+    "TF-SI-EXSP1231||KADAWATHA A": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:26:38",
+      "lastUpdated": "2026-08-26T10:56:38.201Z"
+    },
+    "TF-GS-SPKT302||KADAWATHA A": {
+      "remark": "15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:26:39",
+      "lastUpdated": "2026-08-26T10:56:39.864Z"
     }
   },
   "showroomVisits": {
@@ -58381,6 +58395,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:26:39",
+      "iso": "2026-08-26T10:56:39.865Z",
+      "action": "updated remark for TF-GS-SPKT302 at KADAWATHA A: “15%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:26:38",
+      "iso": "2026-08-26T10:56:38.203Z",
+      "action": "updated remark for TF-SI-EXSP1231 at KADAWATHA A: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:26:32",
       "iso": "2026-08-26T10:56:32.356Z",
       "action": "updated remark for TF-SI-EXS1230 at KADAWATHA A: “Active SKU”"
@@ -58713,20 +58741,6 @@
       "time": "16:09:22",
       "iso": "2026-08-26T10:39:22.369Z",
       "action": "updated remark for MSI-CYB-A2RVE-4050-I7-BL at KADAWATHA A: “Display”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:08:06",
-      "iso": "2026-08-26T10:38:06.719Z",
-      "action": "updated remark for SINX-CEL-DC at KADAWATHA A: “Damaged & revert - 90% (BM Settle)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:07:57",
-      "iso": "2026-08-26T10:37:57.928Z",
-      "action": "updated remark for SINX-CEL-DC at KADAWATHA A: “Damaged & revert - 90%”"
     }
   ]
 }
