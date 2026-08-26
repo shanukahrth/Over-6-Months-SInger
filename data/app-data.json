@@ -56769,6 +56769,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:12:28",
       "lastUpdated": "2026-08-26T10:42:28.491Z"
+    },
+    "AS-I3-11G-256-X513-1060-L||KADAWATHA A": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:12:49",
+      "lastUpdated": "2026-08-26T10:42:49.699Z"
     }
   },
   "showroomVisits": {
@@ -58129,6 +58136,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:12:49",
+      "iso": "2026-08-26T10:42:49.700Z",
+      "action": "updated remark for AS-I3-11G-256-X513-1060-L at KADAWATHA A: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:12:28",
       "iso": "2026-08-26T10:42:28.492Z",
       "action": "updated remark for AS-CEL-X515-487-SL at KADAWATHA A: “Pending Exchanges”"
@@ -58468,13 +58482,6 @@
       "time": "18:14:32",
       "iso": "2026-08-25T12:44:32.799Z",
       "action": "updated remark for SMGRT28A3021GS at KEGALLE B: “70% damaged . Customer return”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:14:26",
-      "iso": "2026-08-25T12:44:26.533Z",
-      "action": "updated remark for SMGRT28A3021GS at KEGALLE B: “70% damaged .”"
     }
   ]
 }
