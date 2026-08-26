@@ -57637,6 +57637,34 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:11:23",
       "lastUpdated": "2026-08-26T11:41:23.975Z"
+    },
+    "SLE43G890||KADAWATHA A": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:12:02",
+      "lastUpdated": "2026-08-26T11:42:02.310Z"
+    },
+    "SLE55D1800TC||KADAWATHA A": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:12:16",
+      "lastUpdated": "2026-08-26T11:42:16.547Z"
+    },
+    "SLE55D5010TC||KADAWATHA A": {
+      "remark": "1 - 70% 1- Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:13:37",
+      "lastUpdated": "2026-08-26T11:43:37.960Z"
+    },
+    "SLE55G22N||KADAWATHA A": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:13:41",
+      "lastUpdated": "2026-08-26T11:43:41.376Z"
     }
   },
   "showroomVisits": {
@@ -59003,6 +59031,34 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:13:41",
+      "iso": "2026-08-26T11:43:41.376Z",
+      "action": "updated remark for SLE55G22N at KADAWATHA A: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:13:37",
+      "iso": "2026-08-26T11:43:37.962Z",
+      "action": "updated remark for SLE55D5010TC at KADAWATHA A: “1 - 70% 1- Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:12:16",
+      "iso": "2026-08-26T11:42:16.548Z",
+      "action": "updated remark for SLE55D1800TC at KADAWATHA A: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:12:02",
+      "iso": "2026-08-26T11:42:02.311Z",
+      "action": "updated remark for SLE43G890 at KADAWATHA A: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:11:23",
       "iso": "2026-08-26T11:41:23.976Z",
       "action": "updated remark for SLE40E910 at KADAWATHA A: “Pending Exchange”"
@@ -59321,34 +59377,6 @@
       "time": "16:51:48",
       "iso": "2026-08-26T11:21:48.437Z",
       "action": "updated remark for TCL30SE-4-64-GRAY at KADAWATHA A: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:51:13",
-      "iso": "2026-08-26T11:21:13.866Z",
-      "action": "updated remark for HON-PAD-X8A-128GB at KADAWATHA A: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:49:11",
-      "iso": "2026-08-26T11:19:11.305Z",
-      "action": "updated remark for SIN-TL-0519 at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:49:00",
-      "iso": "2026-08-26T11:19:00.849Z",
-      "action": "updated remark for SIN-RFC-2012 at KADAWATHA A: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:48:55",
-      "iso": "2026-08-26T11:18:55.368Z",
-      "action": "updated remark for SIN-RFC-1819 at KADAWATHA A: “Active SKU”"
     }
   ]
 }
