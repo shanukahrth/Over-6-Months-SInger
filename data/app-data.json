@@ -56720,6 +56720,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:07:02",
       "lastUpdated": "2026-08-26T10:37:02.083Z"
+    },
+    "SIN-DUO-W10||KADAWATHA A": {
+      "remark": "Revert - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:07:22",
+      "lastUpdated": "2026-08-26T10:37:22.047Z"
     }
   },
   "showroomVisits": {
@@ -58080,6 +58087,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:07:22",
+      "iso": "2026-08-26T10:37:22.048Z",
+      "action": "updated remark for SIN-DUO-W10 at KADAWATHA A: “Revert - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:07:02",
       "iso": "2026-08-26T10:37:02.083Z",
       "action": "updated remark for ETEL-K20MINIPC-SITS at KADAWATHA A: “To be dropped”"
@@ -58419,13 +58433,6 @@
       "time": "18:06:53",
       "iso": "2026-08-25T12:36:53.449Z",
       "action": "updated remark for HON-X9C-12-256-BLK at KEGALLE B: “Stolen”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:05:56",
-      "iso": "2026-08-25T12:35:56.212Z",
-      "action": "updated remark for HON-X8C-8-512-GRN at KEGALLE B: “Sold”"
     }
   ]
 }
