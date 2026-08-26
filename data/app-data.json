@@ -57413,6 +57413,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:54:27",
       "lastUpdated": "2026-08-26T11:24:27.300Z"
+    },
+    "AP-7PLS-128-G||KADAWATHA A": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:55:19",
+      "lastUpdated": "2026-08-26T11:25:19.485Z"
     }
   },
   "showroomVisits": {
@@ -58773,6 +58780,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:55:19",
+      "iso": "2026-08-26T11:25:19.486Z",
+      "action": "updated remark for AP-7PLS-128-G at KADAWATHA A: “Damaged - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:54:27",
       "iso": "2026-08-26T11:24:27.301Z",
       "action": "updated remark for HON-X5B-4-64-BLU at KADAWATHA A: “Active SKU”"
@@ -59112,13 +59126,6 @@
       "time": "16:31:49",
       "iso": "2026-08-26T11:01:49.073Z",
       "action": "updated remark for SW-ST14620WHTN at KADAWATHA A: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:31:37",
-      "iso": "2026-08-26T11:01:37.664Z",
-      "action": "updated remark for TF-K1330404 at KADAWATHA A: “Damaged - 75%”"
     }
   ]
 }
