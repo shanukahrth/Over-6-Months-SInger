@@ -56678,6 +56678,27 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:04:42",
       "lastUpdated": "2026-08-26T10:34:42.444Z"
+    },
+    "PN-SC-BMAX5E-K||KADAWATHA A": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:05:03",
+      "lastUpdated": "2026-08-26T10:35:03.762Z"
+    },
+    "PN-SC-UA30GS-K||KADAWATHA A": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:05:05",
+      "lastUpdated": "2026-08-26T10:35:05.955Z"
+    },
+    "MHC-M40D||KADAWATHA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:05:11",
+      "lastUpdated": "2026-08-26T10:35:11.102Z"
     }
   },
   "showroomVisits": {
@@ -58038,6 +58059,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:05:11",
+      "iso": "2026-08-26T10:35:11.104Z",
+      "action": "updated remark for MHC-M40D at KADAWATHA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:05:05",
+      "iso": "2026-08-26T10:35:05.956Z",
+      "action": "updated remark for PN-SC-UA30GS-K at KADAWATHA A: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:05:03",
+      "iso": "2026-08-26T10:35:03.764Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at KADAWATHA A: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:04:42",
       "iso": "2026-08-26T10:34:42.445Z",
       "action": "updated remark for SIN-MH51SW at KADAWATHA A: “Damaged - 70%”"
@@ -58363,27 +58405,6 @@
       "time": "18:04:31",
       "iso": "2026-08-25T12:34:31.408Z",
       "action": "updated remark for HON-MAGIC-7PRO-12-512-GRY at KEGALLE B: “Stolen”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:04:27",
-      "iso": "2026-08-25T12:34:27.810Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at KEGALLE B: “Stolen”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:04:25",
-      "iso": "2026-08-25T12:34:25.027Z",
-      "action": "updated remark for NUBIA-V70MAX-4-128GB-GRN at KEGALLE B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:04:20",
-      "iso": "2026-08-25T12:34:20.263Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRY at KEGALLE B: “Sold”"
     }
   ]
 }
