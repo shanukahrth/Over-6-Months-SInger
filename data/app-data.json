@@ -56727,6 +56727,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:07:22",
       "lastUpdated": "2026-08-26T10:37:22.047Z"
+    },
+    "SINX-CEL-DC||KADAWATHA A": {
+      "remark": "Damaged & revert - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:07:57",
+      "lastUpdated": "2026-08-26T10:37:57.927Z"
     }
   },
   "showroomVisits": {
@@ -58087,6 +58094,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:07:57",
+      "iso": "2026-08-26T10:37:57.928Z",
+      "action": "updated remark for SINX-CEL-DC at KADAWATHA A: “Damaged & revert - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:07:22",
       "iso": "2026-08-26T10:37:22.048Z",
       "action": "updated remark for SIN-DUO-W10 at KADAWATHA A: “Revert - 70%”"
@@ -58426,13 +58440,6 @@
       "time": "18:07:03",
       "iso": "2026-08-25T12:37:03.372Z",
       "action": "updated remark for HON-X9C-12-256-GRN at KEGALLE B: “Stolen”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:06:53",
-      "iso": "2026-08-25T12:36:53.449Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at KEGALLE B: “Stolen”"
     }
   ]
 }
