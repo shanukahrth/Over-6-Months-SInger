@@ -57126,6 +57126,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:34:34",
       "lastUpdated": "2026-08-26T11:04:34.593Z"
+    },
+    "MID-MJ-KM6001W||KADAWATHA A": {
+      "remark": "Display unit - 55%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:35:05",
+      "lastUpdated": "2026-08-26T11:05:05.641Z"
     }
   },
   "showroomVisits": {
@@ -58486,6 +58493,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:35:05",
+      "iso": "2026-08-26T11:05:05.643Z",
+      "action": "updated remark for MID-MJ-KM6001W at KADAWATHA A: “Display unit - 55%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:34:34",
       "iso": "2026-08-26T11:04:34.595Z",
       "action": "updated remark for MID-MF-TN40D2 at KADAWATHA A: “Damaged - 80%”"
@@ -58825,13 +58839,6 @@
       "time": "16:15:37",
       "iso": "2026-08-26T10:45:37.967Z",
       "action": "updated remark for SL-276PPA at KADAWATHA A: “Clearance - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:14:59",
-      "iso": "2026-08-26T10:44:59.455Z",
-      "action": "updated remark for ACER-515-I3-8GB512-GRY at KADAWATHA A: “Revert - 70%”"
     }
   ]
 }
