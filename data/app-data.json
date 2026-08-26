@@ -56783,6 +56783,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:13:21",
       "lastUpdated": "2026-08-26T10:43:21.963Z"
+    },
+    "DELL-3552-PQC||KADAWATHA A": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:13:32",
+      "lastUpdated": "2026-08-26T10:43:32.745Z"
     }
   },
   "showroomVisits": {
@@ -58143,6 +58150,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:13:32",
+      "iso": "2026-08-26T10:43:32.745Z",
+      "action": "updated remark for DELL-3552-PQC at KADAWATHA A: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:13:21",
       "iso": "2026-08-26T10:43:21.963Z",
       "action": "updated remark for AS-V-14-I5-512-346-4050BL at KADAWATHA A: “Active SKU”"
@@ -58482,13 +58496,6 @@
       "time": "18:16:42",
       "iso": "2026-08-25T12:46:42.481Z",
       "action": "updated remark for CP-GAC-DC1000L2 at KEGALLE B: “Not working. 90% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:14:48",
-      "iso": "2026-08-25T12:44:48.140Z",
-      "action": "updated remark for SL-ECO55-SV at KEGALLE B: “25% flat”"
     }
   ]
 }
