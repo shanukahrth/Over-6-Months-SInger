@@ -57952,12 +57952,19 @@
     },
     "M-SRK12CR-S||AKKARAIPATTU": {
       "sold": false,
-      "comment": "Transferred to Katubedda",
+      "comment": "Transferred to Katubedda shop",
       "updatedBy": "Sajeevkanth Tharmalingam",
       "updatedDate": "2026-08-26"
     }
   },
   "activity": [
+    {
+      "user": "Sajeevkanth Tharmalingam",
+      "date": "2026-08-26",
+      "time": "11:17:57",
+      "iso": "2026-08-26T05:47:57.824Z",
+      "action": "updated sold comment for M-SRK12CR-S at AKKARAIPATTU: “Transferred to Katubedda shop”"
+    },
     {
       "user": "Punesha",
       "date": "2026-08-25",
@@ -58300,13 +58307,6 @@
       "time": "18:00:21",
       "iso": "2026-08-25T12:30:21.077Z",
       "action": "updated remark for ZTE-A55-4-128GB-BLK at KEGALLE B: “Stolen”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "17:59:53",
-      "iso": "2026-08-25T12:29:53.773Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRY at KEGALLE B: “Sold”"
     }
   ]
 }
