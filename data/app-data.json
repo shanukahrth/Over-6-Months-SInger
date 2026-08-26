@@ -57497,6 +57497,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:01:04",
       "lastUpdated": "2026-08-26T11:31:04.644Z"
+    },
+    "SMG-A06-4-128-BLK||AMPARA - C": {
+      "remark": "SCG-H21026",
+      "commentedBy": "Sivakumar Asshwin",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:01:28",
+      "lastUpdated": "2026-08-26T11:31:28.733Z"
     }
   },
   "showroomVisits": {
@@ -58854,12 +58861,26 @@
     },
     "SMG-A06-4-128-BLK||AMPARA - C": {
       "sold": true,
-      "comment": "",
+      "comment": "System Discount 40%",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-08-26"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-08-26",
+      "time": "17:01:28",
+      "iso": "2026-08-26T11:31:28.742Z",
+      "action": "updated remark for SMG-A06-4-128-BLK at AMPARA - C: “SCG-H21026”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-08-26",
+      "time": "17:00:32",
+      "iso": "2026-08-26T11:30:32.627Z",
+      "action": "updated sold comment for SMG-A06-4-128-BLK at AMPARA - C: “System Discount 40%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-26",
@@ -59195,20 +59216,6 @@
       "time": "16:41:11",
       "iso": "2026-08-26T11:11:11.858Z",
       "action": "updated remark for B-FSGT62111DSL at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:40:54",
-      "iso": "2026-08-26T11:10:54.899Z",
-      "action": "updated remark for GCB8401F at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:40:45",
-      "iso": "2026-08-26T11:10:45.912Z",
-      "action": "updated remark for R-FGAQ010 at KADAWATHA A: “Damaged - 80%”"
     }
   ]
 }
