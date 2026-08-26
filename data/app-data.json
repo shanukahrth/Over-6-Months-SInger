@@ -57609,6 +57609,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:04:28",
       "lastUpdated": "2026-08-26T11:34:28.437Z"
+    },
+    "SLE32D1800||KADAWATHA A": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:08:42",
+      "lastUpdated": "2026-08-26T11:38:42.649Z"
     }
   },
   "showroomVisits": {
@@ -58975,6 +58982,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:08:42",
+      "iso": "2026-08-26T11:38:42.651Z",
+      "action": "updated remark for SLE32D1800 at KADAWATHA A: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:04:28",
       "iso": "2026-08-26T11:34:28.438Z",
       "action": "updated remark for TCLED32D65A at KADAWATHA A: “Pending Exchange”"
@@ -59314,13 +59328,6 @@
       "time": "16:48:00",
       "iso": "2026-08-26T11:18:00.861Z",
       "action": "updated remark for SL-S203 at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:47:53",
-      "iso": "2026-08-26T11:17:53.403Z",
-      "action": "updated remark for STT-200K at KADAWATHA A: “Damaged - 80%”"
     }
   ]
 }
