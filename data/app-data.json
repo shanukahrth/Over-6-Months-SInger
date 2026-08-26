@@ -57819,6 +57819,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:23:38",
       "lastUpdated": "2026-08-26T11:53:38.146Z"
+    },
+    "SLE40E710||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:26:02",
+      "lastUpdated": "2026-08-26T11:56:02.976Z"
     }
   },
   "showroomVisits": {
@@ -59185,6 +59192,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:26:02",
+      "iso": "2026-08-26T11:56:02.977Z",
+      "action": "updated remark for SLE40E710 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:25:52",
       "iso": "2026-08-26T11:55:52.520Z",
       "action": "updated remark for SLE40D600A at KADAWATHA A: “Panel Damage”"
@@ -59524,13 +59538,6 @@
       "time": "17:03:56",
       "iso": "2026-08-26T11:33:56.392Z",
       "action": "updated remark for TCL43S5400 at KADAWATHA A: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:03:51",
-      "iso": "2026-08-26T11:33:51.490Z",
-      "action": "updated remark for ULED32D60A at KADAWATHA A: “Pending Exchange”"
     }
   ]
 }
