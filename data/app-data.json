@@ -56650,6 +56650,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:03:22",
       "lastUpdated": "2026-08-26T10:33:22.837Z"
+    },
+    "SRS-XV800||KADAWATHA A": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:03:53",
+      "lastUpdated": "2026-08-26T10:33:53.656Z"
     }
   },
   "showroomVisits": {
@@ -58010,6 +58017,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:03:53",
+      "iso": "2026-08-26T10:33:53.658Z",
+      "action": "updated remark for SRS-XV800 at KADAWATHA A: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:03:22",
       "iso": "2026-08-26T10:33:22.838Z",
       "action": "updated remark for SRS-XV500 at KADAWATHA A: “Active SKU”"
@@ -58349,13 +58363,6 @@
       "time": "18:03:19",
       "iso": "2026-08-25T12:33:19.959Z",
       "action": "updated remark for NUBIA-V60DSGN-6-256GB-DB at KEGALLE B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:03:16",
-      "iso": "2026-08-25T12:33:16.502Z",
-      "action": "updated remark for NUBIA-V60-8-256GB-BLK at KEGALLE B: “Sold”"
     }
   ]
 }
