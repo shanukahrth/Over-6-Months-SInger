@@ -56657,6 +56657,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:03:53",
       "lastUpdated": "2026-08-26T10:33:53.656Z"
+    },
+    "SIN-BS30||KADAWATHA A": {
+      "remark": "MOP - 8,500",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:04:06",
+      "lastUpdated": "2026-08-26T10:34:06.602Z"
     }
   },
   "showroomVisits": {
@@ -58017,6 +58024,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:04:06",
+      "iso": "2026-08-26T10:34:06.603Z",
+      "action": "updated remark for SIN-BS30 at KADAWATHA A: “MOP - 8,500”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:03:53",
       "iso": "2026-08-26T10:33:53.658Z",
       "action": "updated remark for SRS-XV800 at KADAWATHA A: “Active SKU”"
@@ -58356,13 +58370,6 @@
       "time": "18:03:28",
       "iso": "2026-08-25T12:33:28.383Z",
       "action": "updated remark for NUBIA-V60DSGN-6-256GB-GLD at KEGALLE B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:03:19",
-      "iso": "2026-08-25T12:33:19.959Z",
-      "action": "updated remark for NUBIA-V60DSGN-6-256GB-DB at KEGALLE B: “Sold”"
     }
   ]
 }
