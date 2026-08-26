@@ -57476,6 +57476,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:00:16",
       "lastUpdated": "2026-08-26T11:30:16.280Z"
+    },
+    "GEO-SM-255D||KADAWATHA A": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:00:30",
+      "lastUpdated": "2026-08-26T11:30:30.030Z"
     }
   },
   "showroomVisits": {
@@ -58842,6 +58849,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:00:30",
+      "iso": "2026-08-26T11:30:30.031Z",
+      "action": "updated remark for GEO-SM-255D at KADAWATHA A: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:00:16",
       "iso": "2026-08-26T11:30:16.281Z",
       "action": "updated remark for GEO-242D-SV at KADAWATHA A: “25%”"
@@ -59181,13 +59195,6 @@
       "time": "16:40:35",
       "iso": "2026-08-26T11:10:35.281Z",
       "action": "updated remark for TH-TC-500 at KADAWATHA A: “Revert and damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:40:02",
-      "iso": "2026-08-26T11:10:02.731Z",
-      "action": "updated remark for SW-SK22110GRYN at KADAWATHA A: “Display unit - 35%”"
     }
   ]
 }
