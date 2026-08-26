@@ -57621,15 +57621,15 @@
       "remark": "Panel Damage",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "17:23:23",
-      "lastUpdated": "2026-08-26T11:53:23.295Z"
+      "commentTime": "17:25:50",
+      "lastUpdated": "2026-08-26T11:55:50.908Z"
     },
     "SLE40D600A||KADAWATHA A": {
       "remark": "Panel Damage",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "17:23:24",
-      "lastUpdated": "2026-08-26T11:53:24.503Z"
+      "commentTime": "17:25:52",
+      "lastUpdated": "2026-08-26T11:55:52.519Z"
     },
     "SLE40E910||KADAWATHA A": {
       "remark": "Pending Exchange",
@@ -57639,11 +57639,11 @@
       "lastUpdated": "2026-08-26T11:41:23.975Z"
     },
     "SLE43G890||KADAWATHA A": {
-      "remark": "60%",
+      "remark": "Panel Damage",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "17:12:02",
-      "lastUpdated": "2026-08-26T11:42:02.310Z"
+      "commentTime": "17:25:45",
+      "lastUpdated": "2026-08-26T11:55:45.877Z"
     },
     "SLE55D1800TC||KADAWATHA A": {
       "remark": "Pending Exchange",
@@ -57789,15 +57789,15 @@
       "remark": "Panel Damage",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "17:23:17",
-      "lastUpdated": "2026-08-26T11:53:17.364Z"
+      "commentTime": "17:25:49",
+      "lastUpdated": "2026-08-26T11:55:49.321Z"
     },
     "SLE32E910||KADAWATHA A": {
       "remark": "Panel Damage",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "17:23:19",
-      "lastUpdated": "2026-08-26T11:53:19.774Z"
+      "commentTime": "17:25:47",
+      "lastUpdated": "2026-08-26T11:55:47.483Z"
     },
     "SLE40E810C||KADAWATHA A": {
       "remark": "Panel Damage",
@@ -59185,6 +59185,41 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:25:52",
+      "iso": "2026-08-26T11:55:52.520Z",
+      "action": "updated remark for SLE40D600A at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:25:50",
+      "iso": "2026-08-26T11:55:50.909Z",
+      "action": "updated remark for SLE32E930 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:25:49",
+      "iso": "2026-08-26T11:55:49.322Z",
+      "action": "updated remark for SLE32E810 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:25:47",
+      "iso": "2026-08-26T11:55:47.483Z",
+      "action": "updated remark for SLE32E910 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:25:45",
+      "iso": "2026-08-26T11:55:45.877Z",
+      "action": "updated remark for SLE43G890 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:25:29",
       "iso": "2026-08-26T11:55:29.412Z",
       "action": "updated remark for STT-200K at KADAWATHA A: “Damaged - 80%”"
@@ -59496,41 +59531,6 @@
       "time": "17:03:51",
       "iso": "2026-08-26T11:33:51.490Z",
       "action": "updated remark for ULED32D60A at KADAWATHA A: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:02:45",
-      "iso": "2026-08-26T11:32:45.575Z",
-      "action": "updated remark for MC8280 at KADAWATHA A: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:02:38",
-      "iso": "2026-08-26T11:32:38.014Z",
-      "action": "updated remark for MC6180 at KADAWATHA A: “95%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:02:26",
-      "iso": "2026-08-26T11:32:26.340Z",
-      "action": "updated remark for NEXT-K9-85 at KADAWATHA A: “Parts missing”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:02:16",
-      "iso": "2026-08-26T11:32:16.196Z",
-      "action": "updated remark for MCT-302N at KADAWATHA A: “Parts missing”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:02:14",
-      "iso": "2026-08-26T11:32:14.593Z",
-      "action": "updated remark for MCT-234 at KADAWATHA A: “Parts missing”"
     }
   ]
 }
