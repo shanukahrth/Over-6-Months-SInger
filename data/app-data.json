@@ -57707,6 +57707,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:18:48",
       "lastUpdated": "2026-08-26T11:48:48.173Z"
+    },
+    "SL-SWMFR72||KADAWATHA A": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:19:42",
+      "lastUpdated": "2026-08-26T11:49:42.024Z"
     }
   },
   "showroomVisits": {
@@ -59073,6 +59080,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:19:42",
+      "iso": "2026-08-26T11:49:42.025Z",
+      "action": "updated remark for SL-SWMFR72 at KADAWATHA A: “Damaged - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:18:48",
       "iso": "2026-08-26T11:48:48.175Z",
       "action": "updated remark for SWM-FA70R at KADAWATHA A: “Damaged - 50%”"
@@ -59412,13 +59426,6 @@
       "time": "16:54:06",
       "iso": "2026-08-26T11:24:06.446Z",
       "action": "updated remark for HON-X5-2-32-BLU at KADAWATHA A: “No power issue - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:53:24",
-      "iso": "2026-08-26T11:23:24.798Z",
-      "action": "updated remark for HON-MAGIC-6PRO-GRN at KADAWATHA A: “Reported”"
     }
   ]
 }
