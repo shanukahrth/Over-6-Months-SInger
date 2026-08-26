@@ -56711,8 +56711,8 @@
       "remark": "MOP - 30,000",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "17:24:20",
-      "lastUpdated": "2026-08-26T11:54:20.808Z"
+      "commentTime": "17:25:11",
+      "lastUpdated": "2026-08-26T11:55:11.178Z"
     },
     "ETEL-K20MINIPC-SITS||KADAWATHA A": {
       "remark": "To be dropped",
@@ -59185,6 +59185,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:25:11",
+      "iso": "2026-08-26T11:55:11.180Z",
+      "action": "updated remark for HFPA-MUSICBOX-SLV at KADAWATHA A: “MOP - 30,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:25:02",
       "iso": "2026-08-26T11:55:02.193Z",
       "action": "updated remark for SPAS81 at KADAWATHA A: “Damaged - 90%”"
@@ -59524,13 +59531,6 @@
       "time": "17:02:13",
       "iso": "2026-08-26T11:32:13.534Z",
       "action": "updated remark for PM-COMP-8 at KADAWATHA A: “Parts missing”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:02:11",
-      "iso": "2026-08-26T11:32:11.422Z",
-      "action": "updated remark for SS-211 at KADAWATHA A: “Parts missing”"
     }
   ]
 }
