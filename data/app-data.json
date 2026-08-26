@@ -57742,6 +57742,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:22:20",
       "lastUpdated": "2026-08-26T11:52:20.894Z"
+    },
+    "PN-TH-32MS670N||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:22:30",
+      "lastUpdated": "2026-08-26T11:52:30.274Z"
     }
   },
   "showroomVisits": {
@@ -59108,6 +59115,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:22:30",
+      "iso": "2026-08-26T11:52:30.275Z",
+      "action": "updated remark for PN-TH-32MS670N at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:22:20",
       "iso": "2026-08-26T11:52:20.895Z",
       "action": "updated remark for SKY24E2000 at KADAWATHA A: “Panel Damage”"
@@ -59447,13 +59461,6 @@
       "time": "16:58:18",
       "iso": "2026-08-26T11:28:18.335Z",
       "action": "updated remark for HP-DESKJET-2336 at KADAWATHA A: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:58:03",
-      "iso": "2026-08-26T11:28:03.495Z",
-      "action": "updated remark for ENG-UB2607 at KADAWATHA A: “Damaged”"
     }
   ]
 }
