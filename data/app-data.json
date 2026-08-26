@@ -57749,6 +57749,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:22:30",
       "lastUpdated": "2026-08-26T11:52:30.274Z"
+    },
+    "SKY75X8700G||KADAWATHA A": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:22:57",
+      "lastUpdated": "2026-08-26T11:52:57.022Z"
     }
   },
   "showroomVisits": {
@@ -59115,6 +59122,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:22:57",
+      "iso": "2026-08-26T11:52:57.023Z",
+      "action": "updated remark for SKY75X8700G at KADAWATHA A: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:22:30",
       "iso": "2026-08-26T11:52:30.275Z",
       "action": "updated remark for PN-TH-32MS670N at KADAWATHA A: “Panel Damage”"
@@ -59454,13 +59468,6 @@
       "time": "16:58:32",
       "iso": "2026-08-26T11:28:32.520Z",
       "action": "updated remark for HP-DESKJET-4175 at KADAWATHA A: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:58:18",
-      "iso": "2026-08-26T11:28:18.335Z",
-      "action": "updated remark for HP-DESKJET-2336 at KADAWATHA A: “Damaged”"
     }
   ]
 }
