@@ -56811,6 +56811,27 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:14:59",
       "lastUpdated": "2026-08-26T10:44:59.455Z"
+    },
+    "SL-276PPA||KADAWATHA A": {
+      "remark": "Clearance - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:15:37",
+      "lastUpdated": "2026-08-26T10:45:37.966Z"
+    },
+    "UDV3618SY||KADAWATHA A": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:15:47",
+      "lastUpdated": "2026-08-26T10:45:47.819Z"
+    },
+    "DVP-SR370||KADAWATHA A": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:15:54",
+      "lastUpdated": "2026-08-26T10:45:54.617Z"
     }
   },
   "showroomVisits": {
@@ -58171,6 +58192,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:15:54",
+      "iso": "2026-08-26T10:45:54.618Z",
+      "action": "updated remark for DVP-SR370 at KADAWATHA A: “MOP - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:15:47",
+      "iso": "2026-08-26T10:45:47.819Z",
+      "action": "updated remark for UDV3618SY at KADAWATHA A: “MOP - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:15:37",
+      "iso": "2026-08-26T10:45:37.967Z",
+      "action": "updated remark for SL-276PPA at KADAWATHA A: “Clearance - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:14:59",
       "iso": "2026-08-26T10:44:59.455Z",
       "action": "updated remark for ACER-515-I3-8GB512-GRY at KADAWATHA A: “Revert - 70%”"
@@ -58496,27 +58538,6 @@
       "time": "18:21:09",
       "iso": "2026-08-25T12:51:09.964Z",
       "action": "updated remark for H-CVW1600 at KEGALLE B: “Part missing. 50% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:20:41",
-      "iso": "2026-08-25T12:50:41.953Z",
-      "action": "updated remark for H-CVW1600 at KEGALLE B: “90% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:20:16",
-      "iso": "2026-08-25T12:50:16.263Z",
-      "action": "updated remark for PN-TH-55MX740N at KEGALLE B: “40% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:19:51",
-      "iso": "2026-08-25T12:49:51.011Z",
-      "action": "updated remark for SLE43G890 at KEGALLE B: “Sold”"
     }
   ]
 }
