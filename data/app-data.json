@@ -57618,18 +57618,18 @@
       "lastUpdated": "2026-08-26T11:53:12.446Z"
     },
     "SLE32E930||KADAWATHA A": {
-      "remark": "Pending Exchange",
+      "remark": "Panel Damage",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "17:09:25",
-      "lastUpdated": "2026-08-26T11:39:25.918Z"
+      "commentTime": "17:23:23",
+      "lastUpdated": "2026-08-26T11:53:23.295Z"
     },
     "SLE40D600A||KADAWATHA A": {
-      "remark": "1 - Panel Damage 1 - 60%",
+      "remark": "Panel Damage",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "17:11:18",
-      "lastUpdated": "2026-08-26T11:41:18.111Z"
+      "commentTime": "17:23:24",
+      "lastUpdated": "2026-08-26T11:53:24.503Z"
     },
     "SLE40E910||KADAWATHA A": {
       "remark": "Pending Exchange",
@@ -57784,6 +57784,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:23:10",
       "lastUpdated": "2026-08-26T11:53:10.779Z"
+    },
+    "SLE32E810||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:23:17",
+      "lastUpdated": "2026-08-26T11:53:17.364Z"
+    },
+    "SLE32E910||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:23:19",
+      "lastUpdated": "2026-08-26T11:53:19.774Z"
     }
   },
   "showroomVisits": {
@@ -59150,6 +59164,41 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:23:24",
+      "iso": "2026-08-26T11:53:24.504Z",
+      "action": "updated remark for SLE40D600A at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:23:23",
+      "iso": "2026-08-26T11:53:23.297Z",
+      "action": "updated remark for SLE32E930 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:23:19",
+      "iso": "2026-08-26T11:53:19.775Z",
+      "action": "updated remark for SLE32E910 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:23:18",
+      "iso": "2026-08-26T11:53:18.567Z",
+      "action": "updated remark for SLE32E910 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:23:17",
+      "iso": "2026-08-26T11:53:17.365Z",
+      "action": "updated remark for SLE32E810 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:23:12",
       "iso": "2026-08-26T11:53:12.447Z",
       "action": "updated remark for SLE32D1800 at KADAWATHA A: “Panel Damage”"
@@ -59461,41 +59510,6 @@
       "time": "17:00:32",
       "iso": "2026-08-26T11:30:32.627Z",
       "action": "updated sold comment for SMG-A06-4-128-BLK at AMPARA - C: “System Discount 40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:01:04",
-      "iso": "2026-08-26T11:31:04.645Z",
-      "action": "updated remark for BES-WP15T at KADAWATHA A: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:00:44",
-      "iso": "2026-08-26T11:30:44.709Z",
-      "action": "updated remark for AES-HAV-30S at KADAWATHA A: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:00:30",
-      "iso": "2026-08-26T11:30:30.031Z",
-      "action": "updated remark for GEO-SM-255D at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:00:16",
-      "iso": "2026-08-26T11:30:16.281Z",
-      "action": "updated remark for GEO-242D-SV at KADAWATHA A: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:59:50",
-      "iso": "2026-08-26T11:29:50.945Z",
-      "action": "updated remark for SL-ECO-252I at KADAWATHA A: “Damaged - 80%”"
     }
   ]
 }
