@@ -57105,6 +57105,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:31:37",
       "lastUpdated": "2026-08-26T11:01:37.663Z"
+    },
+    "SW-ST14620WHTN||KADAWATHA A": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:31:49",
+      "lastUpdated": "2026-08-26T11:01:49.072Z"
     }
   },
   "showroomVisits": {
@@ -58465,6 +58472,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:31:49",
+      "iso": "2026-08-26T11:01:49.073Z",
+      "action": "updated remark for SW-ST14620WHTN at KADAWATHA A: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:31:37",
       "iso": "2026-08-26T11:01:37.664Z",
       "action": "updated remark for TF-K1330404 at KADAWATHA A: “Damaged - 75%”"
@@ -58804,13 +58818,6 @@
       "time": "16:14:33",
       "iso": "2026-08-26T10:44:33.060Z",
       "action": "updated remark for DELL3511-I3-4GB256-SIL at KADAWATHA A: “Revery”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:14:20",
-      "iso": "2026-08-26T10:44:20.020Z",
-      "action": "updated remark for DELL3501-I5W10MX4GB-SIL at KADAWATHA A: “Pending Exchange”"
     }
   ]
 }
