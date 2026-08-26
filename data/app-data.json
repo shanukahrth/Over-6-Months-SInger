@@ -58802,9 +58802,22 @@
       "comment": "Transferred to Katubedda shop",
       "updatedBy": "Sajeevkanth Tharmalingam",
       "updatedDate": "2026-08-26"
+    },
+    "SMG-A06-4-128-BLK||AMPARA - C": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-08-26"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-08-26",
+      "time": "17:00:09",
+      "iso": "2026-08-26T11:30:09.021Z",
+      "action": "marked SMG-A06-4-128-BLK at AMPARA - C as Sold"
+    },
     {
       "user": "Rashmi",
       "date": "2026-08-26",
@@ -59147,13 +59160,6 @@
       "time": "16:35:28",
       "iso": "2026-08-26T11:05:28.408Z",
       "action": "updated remark for KA-SST032BKI at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:35:18",
-      "iso": "2026-08-26T11:05:18.842Z",
-      "action": "updated remark for KA-LW-185A at KADAWATHA A: “60%”"
     }
   ]
 }
