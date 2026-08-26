@@ -57665,6 +57665,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:13:41",
       "lastUpdated": "2026-08-26T11:43:41.376Z"
+    },
+    "SLE86G6E||KADAWATHA A": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:14:08",
+      "lastUpdated": "2026-08-26T11:44:08.349Z"
     }
   },
   "showroomVisits": {
@@ -59031,6 +59038,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:14:08",
+      "iso": "2026-08-26T11:44:08.349Z",
+      "action": "updated remark for SLE86G6E at KADAWATHA A: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:13:41",
       "iso": "2026-08-26T11:43:41.376Z",
       "action": "updated remark for SLE55G22N at KADAWATHA A: “Pending Exchange”"
@@ -59370,13 +59384,6 @@
       "time": "16:52:20",
       "iso": "2026-08-26T11:22:20.896Z",
       "action": "updated remark for SMG-SM-A057F-4-128-B at KADAWATHA A: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:51:48",
-      "iso": "2026-08-26T11:21:48.437Z",
-      "action": "updated remark for TCL30SE-4-64-GRAY at KADAWATHA A: “80%”"
     }
   ]
 }
