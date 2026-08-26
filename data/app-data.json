@@ -57007,6 +57007,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:25:55",
       "lastUpdated": "2026-08-26T10:55:55.436Z"
+    },
+    "TF-SI-ESS-242||KADAWATHA A": {
+      "remark": "15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:26:18",
+      "lastUpdated": "2026-08-26T10:56:18.853Z"
+    },
+    "TF-SI-EXS1230||KADAWATHA A": {
+      "remark": "15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:26:20",
+      "lastUpdated": "2026-08-26T10:56:20.268Z"
     }
   },
   "showroomVisits": {
@@ -58367,6 +58381,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:26:20",
+      "iso": "2026-08-26T10:56:20.268Z",
+      "action": "updated remark for TF-SI-EXS1230 at KADAWATHA A: “15%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:26:18",
+      "iso": "2026-08-26T10:56:18.854Z",
+      "action": "updated remark for TF-SI-ESS-242 at KADAWATHA A: “15%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:25:55",
       "iso": "2026-08-26T10:55:55.437Z",
       "action": "updated remark for PN-DH-3JL2WH at KADAWATHA A: “30%”"
@@ -58699,20 +58727,6 @@
       "time": "16:07:22",
       "iso": "2026-08-26T10:37:22.048Z",
       "action": "updated remark for SIN-DUO-W10 at KADAWATHA A: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:07:02",
-      "iso": "2026-08-26T10:37:02.083Z",
-      "action": "updated remark for ETEL-K20MINIPC-SITS at KADAWATHA A: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:05:58",
-      "iso": "2026-08-26T10:35:58.235Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at KADAWATHA A: “MOP - 30,000”"
     }
   ]
 }
