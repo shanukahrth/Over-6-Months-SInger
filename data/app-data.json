@@ -57567,6 +57567,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:02:26",
       "lastUpdated": "2026-08-26T11:32:26.339Z"
+    },
+    "MC6180||KADAWATHA A": {
+      "remark": "95%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:02:38",
+      "lastUpdated": "2026-08-26T11:32:38.014Z"
     }
   },
   "showroomVisits": {
@@ -58933,6 +58940,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:02:38",
+      "iso": "2026-08-26T11:32:38.014Z",
+      "action": "updated remark for MC6180 at KADAWATHA A: “95%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:02:26",
       "iso": "2026-08-26T11:32:26.340Z",
       "action": "updated remark for NEXT-K9-85 at KADAWATHA A: “Parts missing”"
@@ -59272,13 +59286,6 @@
       "time": "16:46:57",
       "iso": "2026-08-26T11:16:57.310Z",
       "action": "updated remark for RCW-1018 at KADAWATHA A: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:46:44",
-      "iso": "2026-08-26T11:16:44.412Z",
-      "action": "updated remark for URC-1222 at KADAWATHA A: “Damaged - 80%”"
     }
   ]
 }
