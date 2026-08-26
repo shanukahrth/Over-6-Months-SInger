@@ -56711,8 +56711,8 @@
       "remark": "MOP - 30,000",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "16:05:58",
-      "lastUpdated": "2026-08-26T10:35:58.232Z"
+      "commentTime": "17:24:20",
+      "lastUpdated": "2026-08-26T11:54:20.808Z"
     },
     "ETEL-K20MINIPC-SITS||KADAWATHA A": {
       "remark": "To be dropped",
@@ -59185,6 +59185,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:24:20",
+      "iso": "2026-08-26T11:54:20.809Z",
+      "action": "updated remark for HFPA-MUSICBOX-SLV at KADAWATHA A: “MOP - 30,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:23:38",
       "iso": "2026-08-26T11:53:38.147Z",
       "action": "updated remark for SLE43G790 at KADAWATHA A: “Panel Damage”"
@@ -59524,13 +59531,6 @@
       "time": "17:01:51",
       "iso": "2026-08-26T11:31:51.686Z",
       "action": "updated remark for DH-IPC-H2AP-0360B at KADAWATHA A: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:01:31",
-      "iso": "2026-08-26T11:31:31.538Z",
-      "action": "updated remark for DH-I-A22EP-G-IMOU at KADAWATHA A: “70%”"
     }
   ]
 }
