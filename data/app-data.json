@@ -57574,6 +57574,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:02:38",
       "lastUpdated": "2026-08-26T11:32:38.014Z"
+    },
+    "MC8280||KADAWATHA A": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:02:45",
+      "lastUpdated": "2026-08-26T11:32:45.574Z"
     }
   },
   "showroomVisits": {
@@ -58940,6 +58947,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:02:45",
+      "iso": "2026-08-26T11:32:45.575Z",
+      "action": "updated remark for MC8280 at KADAWATHA A: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:02:38",
       "iso": "2026-08-26T11:32:38.014Z",
       "action": "updated remark for MC6180 at KADAWATHA A: “95%”"
@@ -59279,13 +59293,6 @@
       "time": "16:47:25",
       "iso": "2026-08-26T11:17:25.484Z",
       "action": "updated remark for RCW-1018 at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:46:57",
-      "iso": "2026-08-26T11:16:57.310Z",
-      "action": "updated remark for RCW-1018 at KADAWATHA A: “60%”"
     }
   ]
 }
