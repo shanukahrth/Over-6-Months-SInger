@@ -56944,6 +56944,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:22:25",
       "lastUpdated": "2026-08-26T10:52:25.687Z"
+    },
+    "SPM-78X60||KADAWATHA A": {
+      "remark": "20%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:22:54",
+      "lastUpdated": "2026-08-26T10:52:54.077Z"
     }
   },
   "showroomVisits": {
@@ -58304,6 +58311,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:22:54",
+      "iso": "2026-08-26T10:52:54.078Z",
+      "action": "updated remark for SPM-78X60 at KADAWATHA A: “20%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:22:25",
       "iso": "2026-08-26T10:52:25.689Z",
       "action": "updated remark for WFL-SPM-75X60X8-S at KADAWATHA A: “70%”"
@@ -58643,13 +58657,6 @@
       "time": "16:04:06",
       "iso": "2026-08-26T10:34:06.603Z",
       "action": "updated remark for SIN-BS30 at KADAWATHA A: “MOP - 8,500”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:03:53",
-      "iso": "2026-08-26T10:33:53.658Z",
-      "action": "updated remark for SRS-XV800 at KADAWATHA A: “Active SKU”"
     }
   ]
 }
