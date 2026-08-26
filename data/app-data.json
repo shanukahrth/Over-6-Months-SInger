@@ -57070,6 +57070,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:28:06",
       "lastUpdated": "2026-08-26T10:58:06.499Z"
+    },
+    "TF-FP24-SCR342||KADAWATHA A": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:28:23",
+      "lastUpdated": "2026-08-26T10:58:23.706Z"
     }
   },
   "showroomVisits": {
@@ -58430,6 +58437,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:28:23",
+      "iso": "2026-08-26T10:58:23.707Z",
+      "action": "updated remark for TF-FP24-SCR342 at KADAWATHA A: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:28:22",
+      "iso": "2026-08-26T10:58:22.262Z",
+      "action": "updated remark for TF-FP24-SCR342 at KADAWATHA A: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:28:06",
       "iso": "2026-08-26T10:58:06.500Z",
       "action": "updated remark for TF-NIK26-045 at KADAWATHA A: “35%”"
@@ -58762,20 +58783,6 @@
       "time": "16:12:49",
       "iso": "2026-08-26T10:42:49.700Z",
       "action": "updated remark for AS-I3-11G-256-X513-1060-L at KADAWATHA A: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:12:28",
-      "iso": "2026-08-26T10:42:28.492Z",
-      "action": "updated remark for AS-CEL-X515-487-SL at KADAWATHA A: “Pending Exchanges”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:12:04",
-      "iso": "2026-08-26T10:42:04.231Z",
-      "action": "updated remark for AS-13G-I3-512GB-1346-BLU at KADAWATHA A: “Display unit - 30%”"
     }
   ]
 }
