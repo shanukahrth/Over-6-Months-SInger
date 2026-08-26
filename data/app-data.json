@@ -56713,6 +56713,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:05:58",
       "lastUpdated": "2026-08-26T10:35:58.232Z"
+    },
+    "ETEL-K20MINIPC-SITS||KADAWATHA A": {
+      "remark": "To be dropped",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:07:02",
+      "lastUpdated": "2026-08-26T10:37:02.083Z"
     }
   },
   "showroomVisits": {
@@ -58073,6 +58080,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:07:02",
+      "iso": "2026-08-26T10:37:02.083Z",
+      "action": "updated remark for ETEL-K20MINIPC-SITS at KADAWATHA A: “To be dropped”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:05:58",
       "iso": "2026-08-26T10:35:58.235Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at KADAWATHA A: “MOP - 30,000”"
@@ -58412,13 +58426,6 @@
       "time": "18:05:56",
       "iso": "2026-08-25T12:35:56.212Z",
       "action": "updated remark for HON-X8C-8-512-GRN at KEGALLE B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:05:48",
-      "iso": "2026-08-25T12:35:48.753Z",
-      "action": "updated remark for HON-X6B-6-128-GRN at KEGALLE B: “Color patch. Display issue. 70% discount”"
     }
   ]
 }
