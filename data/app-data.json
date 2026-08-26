@@ -57091,6 +57091,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:30:37",
       "lastUpdated": "2026-08-26T11:00:37.057Z"
+    },
+    "NCPO-OT275||KADAWATHA A": {
+      "remark": "42%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:30:49",
+      "lastUpdated": "2026-08-26T11:00:49.167Z"
     }
   },
   "showroomVisits": {
@@ -58451,6 +58458,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:30:49",
+      "iso": "2026-08-26T11:00:49.168Z",
+      "action": "updated remark for NCPO-OT275 at KADAWATHA A: “42%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:30:37",
       "iso": "2026-08-26T11:00:37.058Z",
       "action": "updated remark for NCPO-DC200 at KADAWATHA A: “45%”"
@@ -58790,13 +58804,6 @@
       "time": "16:14:07",
       "iso": "2026-08-26T10:44:07.362Z",
       "action": "updated remark for DELL3501-I5W10MX4GB-SIL at KADAWATHA A: “Reevert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:13:51",
-      "iso": "2026-08-26T10:43:51.430Z",
-      "action": "updated remark for DELL-3552-PQC at KADAWATHA A: “Revert & Damaged - 80% (BM Settlement)”"
     }
   ]
 }
