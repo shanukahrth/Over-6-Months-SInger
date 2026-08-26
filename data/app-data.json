@@ -57672,6 +57672,34 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:14:08",
       "lastUpdated": "2026-08-26T11:44:08.349Z"
+    },
+    "H-CVW1600||KADAWATHA A": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:16:12",
+      "lastUpdated": "2026-08-26T11:46:12.353Z"
+    },
+    "WB-C45||KADAWATHA A": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:16:21",
+      "lastUpdated": "2026-08-26T11:46:21.648Z"
+    },
+    "WC-XR1605||KADAWATHA A": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:16:30",
+      "lastUpdated": "2026-08-26T11:46:30.213Z"
+    },
+    "SWD-MFC120||KADAWATHA A": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:17:00",
+      "lastUpdated": "2026-08-26T11:47:00.270Z"
     }
   },
   "showroomVisits": {
@@ -59038,6 +59066,34 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:17:00",
+      "iso": "2026-08-26T11:47:00.271Z",
+      "action": "updated remark for SWD-MFC120 at KADAWATHA A: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:16:30",
+      "iso": "2026-08-26T11:46:30.214Z",
+      "action": "updated remark for WC-XR1605 at KADAWATHA A: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:16:21",
+      "iso": "2026-08-26T11:46:21.649Z",
+      "action": "updated remark for WB-C45 at KADAWATHA A: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:16:12",
+      "iso": "2026-08-26T11:46:12.355Z",
+      "action": "updated remark for H-CVW1600 at KADAWATHA A: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:14:08",
       "iso": "2026-08-26T11:44:08.349Z",
       "action": "updated remark for SLE86G6E at KADAWATHA A: “Active SKU”"
@@ -59356,34 +59412,6 @@
       "time": "16:53:11",
       "iso": "2026-08-26T11:23:11.651Z",
       "action": "updated remark for HU-NOVA-Y90-BLUE at KADAWATHA A: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:53:07",
-      "iso": "2026-08-26T11:23:07.638Z",
-      "action": "updated remark for HU-NOVA-Y61-BLU at KADAWATHA A: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:52:51",
-      "iso": "2026-08-26T11:22:51.895Z",
-      "action": "updated remark for NUBIA-V60-8-256GB-BLK at KADAWATHA A: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:52:35",
-      "iso": "2026-08-26T11:22:35.220Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-TT-DST at KADAWATHA A: “Display unit - 15%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:52:20",
-      "iso": "2026-08-26T11:22:20.896Z",
-      "action": "updated remark for SMG-SM-A057F-4-128-B at KADAWATHA A: “Reported”"
     }
   ]
 }
