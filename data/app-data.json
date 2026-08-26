@@ -57077,6 +57077,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:28:23",
       "lastUpdated": "2026-08-26T10:58:23.706Z"
+    },
+    "PCR-SP16-255||KADAWATHA A": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:30:29",
+      "lastUpdated": "2026-08-26T11:00:29.469Z"
+    },
+    "NCPO-DC200||KADAWATHA A": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:30:37",
+      "lastUpdated": "2026-08-26T11:00:37.057Z"
     }
   },
   "showroomVisits": {
@@ -58437,6 +58451,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:30:37",
+      "iso": "2026-08-26T11:00:37.058Z",
+      "action": "updated remark for NCPO-DC200 at KADAWATHA A: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:30:35",
+      "iso": "2026-08-26T11:00:35.719Z",
+      "action": "updated remark for NCPO-DC200 at KADAWATHA A: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:30:29",
+      "iso": "2026-08-26T11:00:29.470Z",
+      "action": "updated remark for PCR-SP16-255 at KADAWATHA A: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:28:23",
       "iso": "2026-08-26T10:58:23.707Z",
       "action": "updated remark for TF-FP24-SCR342 at KADAWATHA A: “35%”"
@@ -58762,27 +58797,6 @@
       "time": "16:13:51",
       "iso": "2026-08-26T10:43:51.430Z",
       "action": "updated remark for DELL-3552-PQC at KADAWATHA A: “Revert & Damaged - 80% (BM Settlement)”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:13:32",
-      "iso": "2026-08-26T10:43:32.745Z",
-      "action": "updated remark for DELL-3552-PQC at KADAWATHA A: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:13:21",
-      "iso": "2026-08-26T10:43:21.963Z",
-      "action": "updated remark for AS-V-14-I5-512-346-4050BL at KADAWATHA A: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:12:49",
-      "iso": "2026-08-26T10:42:49.700Z",
-      "action": "updated remark for AS-I3-11G-256-X513-1060-L at KADAWATHA A: “70%”"
     }
   ]
 }
