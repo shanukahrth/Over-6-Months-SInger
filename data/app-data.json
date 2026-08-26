@@ -57042,6 +57042,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:26:55",
       "lastUpdated": "2026-08-26T10:56:55.043Z"
+    },
+    "SIS277CU||KADAWATHA A": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:27:09",
+      "lastUpdated": "2026-08-26T10:57:09.211Z"
     }
   },
   "showroomVisits": {
@@ -58402,6 +58409,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:27:09",
+      "iso": "2026-08-26T10:57:09.214Z",
+      "action": "updated remark for SIS277CU at KADAWATHA A: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:26:55",
       "iso": "2026-08-26T10:56:55.043Z",
       "action": "updated remark for SIN-MRG-1008C at KADAWATHA A: “Exchange”"
@@ -58741,13 +58755,6 @@
       "time": "16:10:16",
       "iso": "2026-08-26T10:40:16.225Z",
       "action": "updated remark for MSI-CYB-B2RWF-5060-I7-BL at KADAWATHA A: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:09:57",
-      "iso": "2026-08-26T10:39:57.752Z",
-      "action": "updated remark for MSI-CYB-A2RVE-4050-I7-BL at KADAWATHA A: “Display unit - 17.5%”"
     }
   ]
 }
