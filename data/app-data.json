@@ -56790,6 +56790,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:13:51",
       "lastUpdated": "2026-08-26T10:43:51.430Z"
+    },
+    "DELL3501-I5W10MX4GB-SIL||KADAWATHA A": {
+      "remark": "Reevert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:14:07",
+      "lastUpdated": "2026-08-26T10:44:07.361Z"
     }
   },
   "showroomVisits": {
@@ -58150,6 +58157,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:14:07",
+      "iso": "2026-08-26T10:44:07.362Z",
+      "action": "updated remark for DELL3501-I5W10MX4GB-SIL at KADAWATHA A: “Reevert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:13:51",
       "iso": "2026-08-26T10:43:51.430Z",
       "action": "updated remark for DELL-3552-PQC at KADAWATHA A: “Revert & Damaged - 80% (BM Settlement)”"
@@ -58489,13 +58503,6 @@
       "time": "18:17:11",
       "iso": "2026-08-25T12:47:11.470Z",
       "action": "updated remark for CP-YPS100-12D at KEGALLE B: “Not working. 90% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:17:07",
-      "iso": "2026-08-25T12:47:07.167Z",
-      "action": "updated remark for CP-UVR-0401E1 at KEGALLE B: “Not working. 90% discount”"
     }
   ]
 }
