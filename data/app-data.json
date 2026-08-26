@@ -57119,6 +57119,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:33:07",
       "lastUpdated": "2026-08-26T11:03:07.070Z"
+    },
+    "MID-MF-TN40D2||KADAWATHA A": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:34:34",
+      "lastUpdated": "2026-08-26T11:04:34.593Z"
     }
   },
   "showroomVisits": {
@@ -58479,6 +58486,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:34:34",
+      "iso": "2026-08-26T11:04:34.595Z",
+      "action": "updated remark for MID-MF-TN40D2 at KADAWATHA A: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:33:07",
       "iso": "2026-08-26T11:03:07.072Z",
       "action": "updated remark for SW-ST19025BLK at KADAWATHA A: “45%”"
@@ -58818,13 +58832,6 @@
       "time": "16:14:59",
       "iso": "2026-08-26T10:44:59.455Z",
       "action": "updated remark for ACER-515-I3-8GB512-GRY at KADAWATHA A: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:14:45",
-      "iso": "2026-08-26T10:44:45.402Z",
-      "action": "updated remark for DELL3511-I3-4GB256-SIL at KADAWATHA A: “Revert - 70%”"
     }
   ]
 }
