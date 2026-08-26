@@ -56853,6 +56853,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:17:18",
       "lastUpdated": "2026-08-26T10:47:18.525Z"
+    },
+    "FAN-P-1605H||KADAWATHA A": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:18:01",
+      "lastUpdated": "2026-08-26T10:48:01.779Z"
+    },
+    "SIN-EP170||KADAWATHA A": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:18:11",
+      "lastUpdated": "2026-08-26T10:48:11.771Z"
     }
   },
   "showroomVisits": {
@@ -58213,6 +58227,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:18:11",
+      "iso": "2026-08-26T10:48:11.772Z",
+      "action": "updated remark for SIN-EP170 at KADAWATHA A: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:18:01",
+      "iso": "2026-08-26T10:48:01.781Z",
+      "action": "updated remark for FAN-P-1605H at KADAWATHA A: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:17:18",
       "iso": "2026-08-26T10:47:18.527Z",
       "action": "updated remark for SL-SF1607 at KADAWATHA A: “Pending Exchange”"
@@ -58545,20 +58573,6 @@
       "time": "18:29:30",
       "iso": "2026-08-25T12:59:30.268Z",
       "action": "updated remark for BES-WP15T at KEGALLE B: “15% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:29:21",
-      "iso": "2026-08-25T12:59:21.056Z",
-      "action": "updated remark for BES-WP15-ECO at KEGALLE B: “80% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:29:16",
-      "iso": "2026-08-25T12:59:16.029Z",
-      "action": "updated remark for BES-CRS-51 at KEGALLE B: “15% discount”"
     }
   ]
 }
