@@ -56601,6 +56601,13 @@
       "commentDate": "2026-08-25",
       "commentTime": "18:29:30",
       "lastUpdated": "2026-08-25T12:59:30.264Z"
+    },
+    "WIS18K-I3||KADAWATHA A": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "15:59:49",
+      "lastUpdated": "2026-08-26T10:29:49.839Z"
     }
   },
   "showroomVisits": {
@@ -57959,6 +57966,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "15:59:49",
+      "iso": "2026-08-26T10:29:49.841Z",
+      "action": "updated remark for WIS18K-I3 at KADAWATHA A: “Damaged - 90%”"
+    },
+    {
       "user": "Sajeevkanth Tharmalingam",
       "date": "2026-08-26",
       "time": "11:17:57",
@@ -58300,13 +58314,6 @@
       "time": "18:00:38",
       "iso": "2026-08-25T12:30:38.656Z",
       "action": "updated remark for ZTE-A71-BLU at KEGALLE B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:00:21",
-      "iso": "2026-08-25T12:30:21.077Z",
-      "action": "updated remark for ZTE-A55-4-128GB-BLK at KEGALLE B: “Stolen”"
     }
   ]
 }
