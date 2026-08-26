@@ -56846,6 +56846,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:16:52",
       "lastUpdated": "2026-08-26T10:46:52.468Z"
+    },
+    "SL-SF1607||KADAWATHA A": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:17:18",
+      "lastUpdated": "2026-08-26T10:47:18.525Z"
     }
   },
   "showroomVisits": {
@@ -58206,6 +58213,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:17:18",
+      "iso": "2026-08-26T10:47:18.527Z",
+      "action": "updated remark for SL-SF1607 at KADAWATHA A: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:16:52",
       "iso": "2026-08-26T10:46:52.469Z",
       "action": "updated remark for WG-FAN-BXS at KADAWATHA A: “Exchange - RTNWH”"
@@ -58545,13 +58559,6 @@
       "time": "18:29:16",
       "iso": "2026-08-25T12:59:16.029Z",
       "action": "updated remark for BES-CRS-51 at KEGALLE B: “15% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:23:11",
-      "iso": "2026-08-25T12:53:11.915Z",
-      "action": "updated remark for WP-1-TI-S at KEGALLE B: “Defective. 90% discount”"
     }
   ]
 }
