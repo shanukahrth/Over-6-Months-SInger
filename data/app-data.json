@@ -57035,6 +57035,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:26:39",
       "lastUpdated": "2026-08-26T10:56:39.864Z"
+    },
+    "SIN-MRG-1008C||KADAWATHA A": {
+      "remark": "Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:26:55",
+      "lastUpdated": "2026-08-26T10:56:55.043Z"
     }
   },
   "showroomVisits": {
@@ -58395,6 +58402,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:26:55",
+      "iso": "2026-08-26T10:56:55.043Z",
+      "action": "updated remark for SIN-MRG-1008C at KADAWATHA A: “Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:26:39",
       "iso": "2026-08-26T10:56:39.865Z",
       "action": "updated remark for TF-GS-SPKT302 at KADAWATHA A: “15%”"
@@ -58734,13 +58748,6 @@
       "time": "16:09:57",
       "iso": "2026-08-26T10:39:57.752Z",
       "action": "updated remark for MSI-CYB-A2RVE-4050-I7-BL at KADAWATHA A: “Display unit - 17.5%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:09:22",
-      "iso": "2026-08-26T10:39:22.369Z",
-      "action": "updated remark for MSI-CYB-A2RVE-4050-I7-BL at KADAWATHA A: “Display”"
     }
   ]
 }
