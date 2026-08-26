@@ -57434,6 +57434,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:58:03",
       "lastUpdated": "2026-08-26T11:28:03.494Z"
+    },
+    "HP-DESKJET-2336||KADAWATHA A": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:58:18",
+      "lastUpdated": "2026-08-26T11:28:18.335Z"
     }
   },
   "showroomVisits": {
@@ -58794,6 +58801,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:58:18",
+      "iso": "2026-08-26T11:28:18.335Z",
+      "action": "updated remark for HP-DESKJET-2336 at KADAWATHA A: “Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:58:03",
       "iso": "2026-08-26T11:28:03.495Z",
       "action": "updated remark for ENG-UB2607 at KADAWATHA A: “Damaged”"
@@ -59133,13 +59147,6 @@
       "time": "16:35:05",
       "iso": "2026-08-26T11:05:05.643Z",
       "action": "updated remark for MID-MJ-KM6001W at KADAWATHA A: “Display unit - 55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:34:34",
-      "iso": "2026-08-26T11:04:34.595Z",
-      "action": "updated remark for MID-MF-TN40D2 at KADAWATHA A: “Damaged - 80%”"
     }
   ]
 }
