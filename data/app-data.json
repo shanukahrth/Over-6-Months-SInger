@@ -56694,11 +56694,11 @@
       "lastUpdated": "2026-08-26T10:35:05.955Z"
     },
     "MHC-M40D||KADAWATHA A": {
-      "remark": "50%",
+      "remark": "Damaged - 70%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "16:05:11",
-      "lastUpdated": "2026-08-26T10:35:11.102Z"
+      "commentTime": "16:05:25",
+      "lastUpdated": "2026-08-26T10:35:25.109Z"
     }
   },
   "showroomVisits": {
@@ -58059,6 +58059,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:05:25",
+      "iso": "2026-08-26T10:35:25.110Z",
+      "action": "updated remark for MHC-M40D at KADAWATHA A: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:05:11",
       "iso": "2026-08-26T10:35:11.104Z",
       "action": "updated remark for MHC-M40D at KADAWATHA A: “50%”"
@@ -58398,13 +58405,6 @@
       "time": "18:04:40",
       "iso": "2026-08-25T12:34:40.765Z",
       "action": "updated remark for HON-X5B-4-64-BLK at KEGALLE B: “Stolen”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:04:31",
-      "iso": "2026-08-25T12:34:31.408Z",
-      "action": "updated remark for HON-MAGIC-7PRO-12-512-GRY at KEGALLE B: “Stolen”"
     }
   ]
 }
