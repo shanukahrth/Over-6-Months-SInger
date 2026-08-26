@@ -56664,6 +56664,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:04:06",
       "lastUpdated": "2026-08-26T10:34:06.602Z"
+    },
+    "SIN-MH44SW||KADAWATHA A": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:04:22",
+      "lastUpdated": "2026-08-26T10:34:22.127Z"
     }
   },
   "showroomVisits": {
@@ -58024,6 +58031,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:04:22",
+      "iso": "2026-08-26T10:34:22.128Z",
+      "action": "updated remark for SIN-MH44SW at KADAWATHA A: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:04:06",
       "iso": "2026-08-26T10:34:06.603Z",
       "action": "updated remark for SIN-BS30 at KADAWATHA A: “MOP - 8,500”"
@@ -58363,13 +58377,6 @@
       "time": "18:03:31",
       "iso": "2026-08-25T12:33:31.347Z",
       "action": "updated remark for NUBIA-V60DSGN-6-256GB-V at KEGALLE B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:03:28",
-      "iso": "2026-08-25T12:33:28.383Z",
-      "action": "updated remark for NUBIA-V60DSGN-6-256GB-GLD at KEGALLE B: “Sold”"
     }
   ]
 }
