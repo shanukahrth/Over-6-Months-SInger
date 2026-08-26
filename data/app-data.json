@@ -57112,6 +57112,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:31:49",
       "lastUpdated": "2026-08-26T11:01:49.072Z"
+    },
+    "SW-ST19025BLK||KADAWATHA A": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:33:07",
+      "lastUpdated": "2026-08-26T11:03:07.070Z"
     }
   },
   "showroomVisits": {
@@ -58472,6 +58479,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:33:07",
+      "iso": "2026-08-26T11:03:07.072Z",
+      "action": "updated remark for SW-ST19025BLK at KADAWATHA A: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:31:49",
       "iso": "2026-08-26T11:01:49.073Z",
       "action": "updated remark for SW-ST14620WHTN at KADAWATHA A: “80%”"
@@ -58811,13 +58825,6 @@
       "time": "16:14:45",
       "iso": "2026-08-26T10:44:45.402Z",
       "action": "updated remark for DELL3511-I3-4GB256-SIL at KADAWATHA A: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:14:33",
-      "iso": "2026-08-26T10:44:33.060Z",
-      "action": "updated remark for DELL3511-I3-4GB256-SIL at KADAWATHA A: “Revery”"
     }
   ]
 }
