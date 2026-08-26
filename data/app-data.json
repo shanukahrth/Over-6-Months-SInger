@@ -56776,6 +56776,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:12:49",
       "lastUpdated": "2026-08-26T10:42:49.699Z"
+    },
+    "AS-V-14-I5-512-346-4050BL||KADAWATHA A": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:13:21",
+      "lastUpdated": "2026-08-26T10:43:21.963Z"
     }
   },
   "showroomVisits": {
@@ -58136,6 +58143,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:13:21",
+      "iso": "2026-08-26T10:43:21.963Z",
+      "action": "updated remark for AS-V-14-I5-512-346-4050BL at KADAWATHA A: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:12:49",
       "iso": "2026-08-26T10:42:49.700Z",
       "action": "updated remark for AS-I3-11G-256-X513-1060-L at KADAWATHA A: “70%”"
@@ -58475,13 +58489,6 @@
       "time": "18:14:48",
       "iso": "2026-08-25T12:44:48.140Z",
       "action": "updated remark for SL-ECO55-SV at KEGALLE B: “25% flat”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:14:32",
-      "iso": "2026-08-25T12:44:32.799Z",
-      "action": "updated remark for SMGRT28A3021GS at KEGALLE B: “70% damaged . Customer return”"
     }
   ]
 }
