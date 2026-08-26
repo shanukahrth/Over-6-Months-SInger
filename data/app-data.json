@@ -56638,11 +56638,11 @@
       "lastUpdated": "2026-08-26T10:31:57.222Z"
     },
     "SPAS81||KADAWATHA A": {
-      "remark": "Damaged - 80%",
+      "remark": "Damaged - 90%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "16:02:43",
-      "lastUpdated": "2026-08-26T10:32:43.575Z"
+      "commentTime": "17:25:02",
+      "lastUpdated": "2026-08-26T11:55:02.192Z"
     },
     "SRS-XV500||KADAWATHA A": {
       "remark": "Active SKU",
@@ -59185,6 +59185,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:25:02",
+      "iso": "2026-08-26T11:55:02.193Z",
+      "action": "updated remark for SPAS81 at KADAWATHA A: “Damaged - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:24:39",
       "iso": "2026-08-26T11:54:39.159Z",
       "action": "updated remark for TF-FP24-SCR342 at KADAWATHA A: “35%”"
@@ -59524,13 +59531,6 @@
       "time": "17:02:11",
       "iso": "2026-08-26T11:32:11.422Z",
       "action": "updated remark for SS-211 at KADAWATHA A: “Parts missing”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:02:05",
-      "iso": "2026-08-26T11:32:05.352Z",
-      "action": "updated remark for WF100IC100 at KADAWATHA A: “Parts missing”"
     }
   ]
 }
