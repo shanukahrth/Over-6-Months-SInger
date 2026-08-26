@@ -57714,6 +57714,34 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:19:42",
       "lastUpdated": "2026-08-26T11:49:42.024Z"
+    },
+    "SWF-PACK||KADAWATHA A": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:20:07",
+      "lastUpdated": "2026-08-26T11:50:07.654Z"
+    },
+    "WP-SS-SUB1-S||KADAWATHA A": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:21:24",
+      "lastUpdated": "2026-08-26T11:51:24.070Z"
+    },
+    "SKY-32E2||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:22:16",
+      "lastUpdated": "2026-08-26T11:52:16.509Z"
+    },
+    "SKY24E2000||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:22:20",
+      "lastUpdated": "2026-08-26T11:52:20.894Z"
     }
   },
   "showroomVisits": {
@@ -59080,6 +59108,34 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:22:20",
+      "iso": "2026-08-26T11:52:20.895Z",
+      "action": "updated remark for SKY24E2000 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:22:16",
+      "iso": "2026-08-26T11:52:16.511Z",
+      "action": "updated remark for SKY-32E2 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:21:24",
+      "iso": "2026-08-26T11:51:24.072Z",
+      "action": "updated remark for WP-SS-SUB1-S at KADAWATHA A: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:20:07",
+      "iso": "2026-08-26T11:50:07.656Z",
+      "action": "updated remark for SWF-PACK at KADAWATHA A: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:19:42",
       "iso": "2026-08-26T11:49:42.025Z",
       "action": "updated remark for SL-SWMFR72 at KADAWATHA A: “Damaged - 60%”"
@@ -59398,34 +59454,6 @@
       "time": "16:58:03",
       "iso": "2026-08-26T11:28:03.495Z",
       "action": "updated remark for ENG-UB2607 at KADAWATHA A: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:57:27",
-      "iso": "2026-08-26T11:27:27.873Z",
-      "action": "updated remark for HON-WATCH-4 at KADAWATHA A: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:55:19",
-      "iso": "2026-08-26T11:25:19.486Z",
-      "action": "updated remark for AP-7PLS-128-G at KADAWATHA A: “Damaged - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:54:27",
-      "iso": "2026-08-26T11:24:27.301Z",
-      "action": "updated remark for HON-X5B-4-64-BLU at KADAWATHA A: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:54:06",
-      "iso": "2026-08-26T11:24:06.446Z",
-      "action": "updated remark for HON-X5-2-32-BLU at KADAWATHA A: “No power issue - 70%”"
     }
   ]
 }
