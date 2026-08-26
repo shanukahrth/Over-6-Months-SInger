@@ -56799,11 +56799,11 @@
       "lastUpdated": "2026-08-26T10:44:20.020Z"
     },
     "DELL3511-I3-4GB256-SIL||KADAWATHA A": {
-      "remark": "Revery",
+      "remark": "Revert - 70%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "16:14:33",
-      "lastUpdated": "2026-08-26T10:44:33.059Z"
+      "commentTime": "16:14:45",
+      "lastUpdated": "2026-08-26T10:44:45.402Z"
     }
   },
   "showroomVisits": {
@@ -58164,6 +58164,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:14:45",
+      "iso": "2026-08-26T10:44:45.402Z",
+      "action": "updated remark for DELL3511-I3-4GB256-SIL at KADAWATHA A: “Revert - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:14:33",
       "iso": "2026-08-26T10:44:33.060Z",
       "action": "updated remark for DELL3511-I3-4GB256-SIL at KADAWATHA A: “Revery”"
@@ -58503,13 +58510,6 @@
       "time": "18:19:22",
       "iso": "2026-08-25T12:49:22.847Z",
       "action": "updated remark for SLE40E810C at KEGALLE B: “70% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:17:48",
-      "iso": "2026-08-25T12:47:48.183Z",
-      "action": "updated remark for DH-IPC-H2AP-0360B at KEGALLE B: “60% discount”"
     }
   ]
 }
