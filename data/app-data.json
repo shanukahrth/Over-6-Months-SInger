@@ -57700,6 +57700,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:17:00",
       "lastUpdated": "2026-08-26T11:47:00.270Z"
+    },
+    "SWM-FA70R||KADAWATHA A": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:18:48",
+      "lastUpdated": "2026-08-26T11:48:48.173Z"
     }
   },
   "showroomVisits": {
@@ -59066,6 +59073,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:18:48",
+      "iso": "2026-08-26T11:48:48.175Z",
+      "action": "updated remark for SWM-FA70R at KADAWATHA A: “Damaged - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:17:00",
       "iso": "2026-08-26T11:47:00.271Z",
       "action": "updated remark for SWD-MFC120 at KADAWATHA A: “Damaged - 70%”"
@@ -59405,13 +59419,6 @@
       "time": "16:53:24",
       "iso": "2026-08-26T11:23:24.798Z",
       "action": "updated remark for HON-MAGIC-6PRO-GRN at KADAWATHA A: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:53:11",
-      "iso": "2026-08-26T11:23:11.651Z",
-      "action": "updated remark for HU-NOVA-Y90-BLUE at KADAWATHA A: “80%”"
     }
   ]
 }
