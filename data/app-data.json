@@ -56792,11 +56792,11 @@
       "lastUpdated": "2026-08-26T10:43:51.430Z"
     },
     "DELL3501-I5W10MX4GB-SIL||KADAWATHA A": {
-      "remark": "Reevert - 80%",
+      "remark": "Pending Exchange",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "16:14:07",
-      "lastUpdated": "2026-08-26T10:44:07.361Z"
+      "commentTime": "16:14:20",
+      "lastUpdated": "2026-08-26T10:44:20.020Z"
     }
   },
   "showroomVisits": {
@@ -58157,6 +58157,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:14:20",
+      "iso": "2026-08-26T10:44:20.020Z",
+      "action": "updated remark for DELL3501-I5W10MX4GB-SIL at KADAWATHA A: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:14:07",
       "iso": "2026-08-26T10:44:07.362Z",
       "action": "updated remark for DELL3501-I5W10MX4GB-SIL at KADAWATHA A: “Reevert - 80%”"
@@ -58496,13 +58503,6 @@
       "time": "18:17:41",
       "iso": "2026-08-25T12:47:41.933Z",
       "action": "updated remark for DH-IPC-H2AP-0360B at KEGALLE B: “60% discount”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:17:11",
-      "iso": "2026-08-25T12:47:11.470Z",
-      "action": "updated remark for CP-YPS100-12D at KEGALLE B: “Not working. 90% discount”"
     }
   ]
 }
