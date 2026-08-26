@@ -57595,6 +57595,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:03:56",
       "lastUpdated": "2026-08-26T11:33:56.392Z"
+    },
+    "TCL75C655||KADAWATHA A": {
+      "remark": "Display - 40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:04:27",
+      "lastUpdated": "2026-08-26T11:34:27.050Z"
+    },
+    "TCLED32D65A||KADAWATHA A": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:04:28",
+      "lastUpdated": "2026-08-26T11:34:28.437Z"
     }
   },
   "showroomVisits": {
@@ -58961,6 +58975,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:04:28",
+      "iso": "2026-08-26T11:34:28.438Z",
+      "action": "updated remark for TCLED32D65A at KADAWATHA A: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:04:27",
+      "iso": "2026-08-26T11:34:27.052Z",
+      "action": "updated remark for TCL75C655 at KADAWATHA A: “Display - 40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:03:56",
       "iso": "2026-08-26T11:33:56.392Z",
       "action": "updated remark for TCL43S5400 at KADAWATHA A: “Pending Exchange”"
@@ -59293,20 +59321,6 @@
       "time": "16:47:53",
       "iso": "2026-08-26T11:17:53.403Z",
       "action": "updated remark for STT-200K at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:47:49",
-      "iso": "2026-08-26T11:17:49.779Z",
-      "action": "updated remark for STT-200K at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:47:45",
-      "iso": "2026-08-26T11:17:45.047Z",
-      "action": "updated remark for STT-200K at KADAWATHA A: “Damaged - 805”"
     }
   ]
 }
