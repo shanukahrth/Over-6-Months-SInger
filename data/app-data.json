@@ -57098,6 +57098,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:30:49",
       "lastUpdated": "2026-08-26T11:00:49.167Z"
+    },
+    "TF-K1330404||KADAWATHA A": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:31:37",
+      "lastUpdated": "2026-08-26T11:01:37.663Z"
     }
   },
   "showroomVisits": {
@@ -58458,6 +58465,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:31:37",
+      "iso": "2026-08-26T11:01:37.664Z",
+      "action": "updated remark for TF-K1330404 at KADAWATHA A: “Damaged - 75%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:30:49",
       "iso": "2026-08-26T11:00:49.168Z",
       "action": "updated remark for NCPO-OT275 at KADAWATHA A: “42%”"
@@ -58797,13 +58811,6 @@
       "time": "16:14:20",
       "iso": "2026-08-26T10:44:20.020Z",
       "action": "updated remark for DELL3501-I5W10MX4GB-SIL at KADAWATHA A: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:14:07",
-      "iso": "2026-08-26T10:44:07.362Z",
-      "action": "updated remark for DELL3501-I5W10MX4GB-SIL at KADAWATHA A: “Reevert - 80%”"
     }
   ]
 }
