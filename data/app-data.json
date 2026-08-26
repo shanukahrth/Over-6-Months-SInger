@@ -57812,6 +57812,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:23:31",
       "lastUpdated": "2026-08-26T11:53:31.304Z"
+    },
+    "SLE43G790||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:23:38",
+      "lastUpdated": "2026-08-26T11:53:38.146Z"
     }
   },
   "showroomVisits": {
@@ -59178,6 +59185,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:23:38",
+      "iso": "2026-08-26T11:53:38.147Z",
+      "action": "updated remark for SLE43G790 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:23:31",
       "iso": "2026-08-26T11:53:31.304Z",
       "action": "updated remark for SLE43E710 at KADAWATHA A: “Panel Damage”"
@@ -59517,13 +59531,6 @@
       "time": "17:01:31",
       "iso": "2026-08-26T11:31:31.538Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at KADAWATHA A: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:01:30",
-      "iso": "2026-08-26T11:31:30.028Z",
-      "action": "updated remark for DH-A-HFW1500TLP-36B at KADAWATHA A: “70%”"
     }
   ]
 }
