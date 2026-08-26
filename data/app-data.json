@@ -56699,6 +56699,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:05:25",
       "lastUpdated": "2026-08-26T10:35:25.109Z"
+    },
+    "HFPA-EVENT-BLC||KADAWATHA A": {
+      "remark": "MOP - 20,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:05:40",
+      "lastUpdated": "2026-08-26T10:35:40.674Z"
     }
   },
   "showroomVisits": {
@@ -58059,6 +58066,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:05:40",
+      "iso": "2026-08-26T10:35:40.675Z",
+      "action": "updated remark for HFPA-EVENT-BLC at KADAWATHA A: “MOP - 20,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:05:25",
       "iso": "2026-08-26T10:35:25.110Z",
       "action": "updated remark for MHC-M40D at KADAWATHA A: “Damaged - 70%”"
@@ -58398,13 +58412,6 @@
       "time": "18:04:50",
       "iso": "2026-08-25T12:34:50.968Z",
       "action": "updated remark for HON-X5PLUS-4-64-CYAN at KEGALLE B: “Transferred”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:04:40",
-      "iso": "2026-08-25T12:34:40.765Z",
-      "action": "updated remark for HON-X5B-4-64-BLK at KEGALLE B: “Stolen”"
     }
   ]
 }
