@@ -57049,6 +57049,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:27:09",
       "lastUpdated": "2026-08-26T10:57:09.211Z"
+    },
+    "TF-IFP24-174||KADAWATHA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:27:34",
+      "lastUpdated": "2026-08-26T10:57:34.283Z"
     }
   },
   "showroomVisits": {
@@ -58409,6 +58416,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:27:34",
+      "iso": "2026-08-26T10:57:34.284Z",
+      "action": "updated remark for TF-IFP24-174 at KADAWATHA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:27:09",
       "iso": "2026-08-26T10:57:09.214Z",
       "action": "updated remark for SIS277CU at KADAWATHA A: “Damaged - 80%”"
@@ -58748,13 +58762,6 @@
       "time": "16:11:04",
       "iso": "2026-08-26T10:41:04.567Z",
       "action": "updated remark for MSI-THIN-B13UC-3050-I7-GR at KADAWATHA A: “Transffered”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:10:16",
-      "iso": "2026-08-26T10:40:16.225Z",
-      "action": "updated remark for MSI-CYB-B2RWF-5060-I7-BL at KADAWATHA A: “Active SKU”"
     }
   ]
 }
