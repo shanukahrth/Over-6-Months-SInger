@@ -57350,6 +57350,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:51:13",
       "lastUpdated": "2026-08-26T11:21:13.865Z"
+    },
+    "TCL30SE-4-64-GRAY||KADAWATHA A": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:51:48",
+      "lastUpdated": "2026-08-26T11:21:48.437Z"
     }
   },
   "showroomVisits": {
@@ -58710,6 +58717,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:51:48",
+      "iso": "2026-08-26T11:21:48.437Z",
+      "action": "updated remark for TCL30SE-4-64-GRAY at KADAWATHA A: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:51:13",
       "iso": "2026-08-26T11:21:13.866Z",
       "action": "updated remark for HON-PAD-X8A-128GB at KADAWATHA A: “Reported”"
@@ -59049,13 +59063,6 @@
       "time": "16:27:49",
       "iso": "2026-08-26T10:57:49.245Z",
       "action": "updated remark for TF-NIDFP24-170 at KADAWATHA A: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:27:34",
-      "iso": "2026-08-26T10:57:34.284Z",
-      "action": "updated remark for TF-IFP24-174 at KADAWATHA A: “50%”"
     }
   ]
 }
