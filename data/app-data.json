@@ -56762,6 +56762,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:12:04",
       "lastUpdated": "2026-08-26T10:42:04.230Z"
+    },
+    "AS-CEL-X515-487-SL||KADAWATHA A": {
+      "remark": "Pending Exchanges",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:12:28",
+      "lastUpdated": "2026-08-26T10:42:28.491Z"
     }
   },
   "showroomVisits": {
@@ -58122,6 +58129,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:12:28",
+      "iso": "2026-08-26T10:42:28.492Z",
+      "action": "updated remark for AS-CEL-X515-487-SL at KADAWATHA A: “Pending Exchanges”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:12:04",
       "iso": "2026-08-26T10:42:04.231Z",
       "action": "updated remark for AS-13G-I3-512GB-1346-BLU at KADAWATHA A: “Display unit - 30%”"
@@ -58461,13 +58475,6 @@
       "time": "18:14:26",
       "iso": "2026-08-25T12:44:26.533Z",
       "action": "updated remark for SMGRT28A3021GS at KEGALLE B: “70% damaged .”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:14:08",
-      "iso": "2026-08-25T12:44:08.572Z",
-      "action": "updated remark for SMGRT28A3021GS at KEGALLE B: “50% discount display unit. Damaged location”"
     }
   ]
 }
