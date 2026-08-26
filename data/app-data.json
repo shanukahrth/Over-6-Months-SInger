@@ -57469,6 +57469,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:59:50",
       "lastUpdated": "2026-08-26T11:29:50.945Z"
+    },
+    "GEO-242D-SV||KADAWATHA A": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:00:16",
+      "lastUpdated": "2026-08-26T11:30:16.280Z"
     }
   },
   "showroomVisits": {
@@ -58835,6 +58842,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:00:16",
+      "iso": "2026-08-26T11:30:16.281Z",
+      "action": "updated remark for GEO-242D-SV at KADAWATHA A: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:59:50",
       "iso": "2026-08-26T11:29:50.945Z",
       "action": "updated remark for SL-ECO-252I at KADAWATHA A: “Damaged - 80%”"
@@ -59174,13 +59188,6 @@
       "time": "16:40:02",
       "iso": "2026-08-26T11:10:02.731Z",
       "action": "updated remark for SW-SK22110GRYN at KADAWATHA A: “Display unit - 35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:39:54",
-      "iso": "2026-08-26T11:09:54.676Z",
-      "action": "updated remark for TF-CM-APR737 at KADAWATHA A: “Display unit - 50%”"
     }
   ]
 }
