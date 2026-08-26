@@ -57798,6 +57798,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:23:19",
       "lastUpdated": "2026-08-26T11:53:19.774Z"
+    },
+    "SLE40E810C||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:23:29",
+      "lastUpdated": "2026-08-26T11:53:29.467Z"
+    },
+    "SLE43E710||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:23:31",
+      "lastUpdated": "2026-08-26T11:53:31.304Z"
     }
   },
   "showroomVisits": {
@@ -59164,6 +59178,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:23:31",
+      "iso": "2026-08-26T11:53:31.304Z",
+      "action": "updated remark for SLE43E710 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:23:29",
+      "iso": "2026-08-26T11:53:29.467Z",
+      "action": "updated remark for SLE40E810C at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:23:24",
       "iso": "2026-08-26T11:53:24.504Z",
       "action": "updated remark for SLE40D600A at KADAWATHA A: “Panel Damage”"
@@ -59496,20 +59524,6 @@
       "time": "17:01:30",
       "iso": "2026-08-26T11:31:30.028Z",
       "action": "updated remark for DH-A-HFW1500TLP-36B at KADAWATHA A: “70%”"
-    },
-    {
-      "user": "Sivakumar Asshwin",
-      "date": "2026-08-26",
-      "time": "17:01:28",
-      "iso": "2026-08-26T11:31:28.742Z",
-      "action": "updated remark for SMG-A06-4-128-BLK at AMPARA - C: “SCG-H21026”"
-    },
-    {
-      "user": "Sivakumar Asshwin",
-      "date": "2026-08-26",
-      "time": "17:00:32",
-      "iso": "2026-08-26T11:30:32.627Z",
-      "action": "updated sold comment for SMG-A06-4-128-BLK at AMPARA - C: “System Discount 40%”"
     }
   ]
 }
