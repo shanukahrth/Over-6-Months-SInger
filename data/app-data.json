@@ -57378,6 +57378,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:52:51",
       "lastUpdated": "2026-08-26T11:22:51.894Z"
+    },
+    "HU-NOVA-Y61-BLU||KADAWATHA A": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:53:07",
+      "lastUpdated": "2026-08-26T11:23:07.638Z"
+    },
+    "HU-NOVA-Y90-BLUE||KADAWATHA A": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:53:11",
+      "lastUpdated": "2026-08-26T11:23:11.651Z"
     }
   },
   "showroomVisits": {
@@ -58738,6 +58752,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:53:11",
+      "iso": "2026-08-26T11:23:11.651Z",
+      "action": "updated remark for HU-NOVA-Y90-BLUE at KADAWATHA A: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:53:07",
+      "iso": "2026-08-26T11:23:07.638Z",
+      "action": "updated remark for HU-NOVA-Y61-BLU at KADAWATHA A: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:52:51",
       "iso": "2026-08-26T11:22:51.895Z",
       "action": "updated remark for NUBIA-V60-8-256GB-BLK at KADAWATHA A: “Reported”"
@@ -59070,20 +59098,6 @@
       "time": "16:30:35",
       "iso": "2026-08-26T11:00:35.719Z",
       "action": "updated remark for NCPO-DC200 at KADAWATHA A: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:30:29",
-      "iso": "2026-08-26T11:00:29.470Z",
-      "action": "updated remark for PCR-SP16-255 at KADAWATHA A: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:28:23",
-      "iso": "2026-08-26T10:58:23.707Z",
-      "action": "updated remark for TF-FP24-SCR342 at KADAWATHA A: “35%”"
     }
   ]
 }
