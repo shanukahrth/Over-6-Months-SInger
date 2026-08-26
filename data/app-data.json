@@ -56671,6 +56671,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:04:22",
       "lastUpdated": "2026-08-26T10:34:22.127Z"
+    },
+    "SIN-MH51SW||KADAWATHA A": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:04:42",
+      "lastUpdated": "2026-08-26T10:34:42.444Z"
     }
   },
   "showroomVisits": {
@@ -58031,6 +58038,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:04:42",
+      "iso": "2026-08-26T10:34:42.445Z",
+      "action": "updated remark for SIN-MH51SW at KADAWATHA A: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:04:22",
       "iso": "2026-08-26T10:34:22.128Z",
       "action": "updated remark for SIN-MH44SW at KADAWATHA A: “Damaged - 70%”"
@@ -58370,13 +58384,6 @@
       "time": "18:04:20",
       "iso": "2026-08-25T12:34:20.263Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRY at KEGALLE B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:03:31",
-      "iso": "2026-08-25T12:33:31.347Z",
-      "action": "updated remark for NUBIA-V60DSGN-6-256GB-V at KEGALLE B: “Sold”"
     }
   ]
 }
