@@ -56608,6 +56608,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "15:59:49",
       "lastUpdated": "2026-08-26T10:29:49.839Z"
+    },
+    "PN-CS-XU12XKYW-8||KADAWATHA A": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:00:34",
+      "lastUpdated": "2026-08-26T10:30:34.647Z"
     }
   },
   "showroomVisits": {
@@ -57968,6 +57975,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:00:34",
+      "iso": "2026-08-26T10:30:34.648Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at KADAWATHA A: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "15:59:49",
       "iso": "2026-08-26T10:29:49.841Z",
       "action": "updated remark for WIS18K-I3 at KADAWATHA A: “Damaged - 90%”"
@@ -58307,13 +58321,6 @@
       "time": "18:00:43",
       "iso": "2026-08-25T12:30:43.227Z",
       "action": "updated remark for ZTE-A73-4GB-128GB-B at KEGALLE B: “Sold”"
-    },
-    {
-      "user": "Punesha",
-      "date": "2026-08-25",
-      "time": "18:00:38",
-      "iso": "2026-08-25T12:30:38.656Z",
-      "action": "updated remark for ZTE-A71-BLU at KEGALLE B: “Sold”"
     }
   ]
 }
