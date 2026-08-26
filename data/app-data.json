@@ -56902,6 +56902,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:19:57",
       "lastUpdated": "2026-08-26T10:49:57.001Z"
+    },
+    "LF-IC-S||KADAWATHA A": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:20:27",
+      "lastUpdated": "2026-08-26T10:50:27.889Z"
+    },
+    "LF-LCDRIO-CLM-S||KADAWATHA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:20:39",
+      "lastUpdated": "2026-08-26T10:50:39.642Z"
     }
   },
   "showroomVisits": {
@@ -58262,6 +58276,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:20:39",
+      "iso": "2026-08-26T10:50:39.643Z",
+      "action": "updated remark for LF-LCDRIO-CLM-S at KADAWATHA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:20:27",
+      "iso": "2026-08-26T10:50:27.890Z",
+      "action": "updated remark for LF-IC-S at KADAWATHA A: “Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:19:57",
       "iso": "2026-08-26T10:49:57.002Z",
       "action": "updated remark for LF-WIN-S-S at KADAWATHA A: “50%”"
@@ -58594,20 +58622,6 @@
       "time": "16:02:31",
       "iso": "2026-08-26T10:32:31.671Z",
       "action": "updated remark for SPAS81 at KADAWATHA A: “Damaged -”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:01:57",
-      "iso": "2026-08-26T10:31:57.223Z",
-      "action": "updated remark for SXLC7371K at KADAWATHA A: “70% - Revert”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:01:14",
-      "iso": "2026-08-26T10:31:14.292Z",
-      "action": "updated remark for SVX6002 at KADAWATHA A: “Damaged”"
     }
   ]
 }
