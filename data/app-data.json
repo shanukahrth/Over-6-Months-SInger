@@ -57581,6 +57581,20 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:02:45",
       "lastUpdated": "2026-08-26T11:32:45.574Z"
+    },
+    "ULED32D60A||KADAWATHA A": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:03:51",
+      "lastUpdated": "2026-08-26T11:33:51.489Z"
+    },
+    "TCL43S5400||KADAWATHA A": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:03:56",
+      "lastUpdated": "2026-08-26T11:33:56.392Z"
     }
   },
   "showroomVisits": {
@@ -58947,6 +58961,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:03:56",
+      "iso": "2026-08-26T11:33:56.392Z",
+      "action": "updated remark for TCL43S5400 at KADAWATHA A: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:03:51",
+      "iso": "2026-08-26T11:33:51.490Z",
+      "action": "updated remark for ULED32D60A at KADAWATHA A: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:02:45",
       "iso": "2026-08-26T11:32:45.575Z",
       "action": "updated remark for MC8280 at KADAWATHA A: “80%”"
@@ -59279,20 +59307,6 @@
       "time": "16:47:45",
       "iso": "2026-08-26T11:17:45.047Z",
       "action": "updated remark for STT-200K at KADAWATHA A: “Damaged - 805”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:47:31",
-      "iso": "2026-08-26T11:17:31.868Z",
-      "action": "updated remark for STT-100K at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:47:25",
-      "iso": "2026-08-26T11:17:25.484Z",
-      "action": "updated remark for RCW-1018 at KADAWATHA A: “Damaged - 80%”"
     }
   ]
 }
