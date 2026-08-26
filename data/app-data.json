@@ -56916,6 +56916,34 @@
       "commentDate": "2026-08-26",
       "commentTime": "16:20:39",
       "lastUpdated": "2026-08-26T10:50:39.642Z"
+    },
+    "WFL-PLWFB-16X24||KADAWATHA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:21:19",
+      "lastUpdated": "2026-08-26T10:51:19.698Z"
+    },
+    "WFL-CF-78X36X4-SS||KADAWATHA A": {
+      "remark": "To be dropped",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:21:53",
+      "lastUpdated": "2026-08-26T10:51:53.279Z"
+    },
+    "WFL-DBM-75X75||KADAWATHA A": {
+      "remark": "10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:22:05",
+      "lastUpdated": "2026-08-26T10:52:05.198Z"
+    },
+    "WFL-SPM-75X60X8-S||KADAWATHA A": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "16:22:25",
+      "lastUpdated": "2026-08-26T10:52:25.687Z"
     }
   },
   "showroomVisits": {
@@ -58276,6 +58304,34 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "16:22:25",
+      "iso": "2026-08-26T10:52:25.689Z",
+      "action": "updated remark for WFL-SPM-75X60X8-S at KADAWATHA A: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:22:05",
+      "iso": "2026-08-26T10:52:05.199Z",
+      "action": "updated remark for WFL-DBM-75X75 at KADAWATHA A: “10%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:21:53",
+      "iso": "2026-08-26T10:51:53.280Z",
+      "action": "updated remark for WFL-CF-78X36X4-SS at KADAWATHA A: “To be dropped”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "16:21:19",
+      "iso": "2026-08-26T10:51:19.700Z",
+      "action": "updated remark for WFL-PLWFB-16X24 at KADAWATHA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "16:20:39",
       "iso": "2026-08-26T10:50:39.643Z",
       "action": "updated remark for LF-LCDRIO-CLM-S at KADAWATHA A: “50%”"
@@ -58594,34 +58650,6 @@
       "time": "16:03:53",
       "iso": "2026-08-26T10:33:53.658Z",
       "action": "updated remark for SRS-XV800 at KADAWATHA A: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:03:22",
-      "iso": "2026-08-26T10:33:22.838Z",
-      "action": "updated remark for SRS-XV500 at KADAWATHA A: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:02:43",
-      "iso": "2026-08-26T10:32:43.576Z",
-      "action": "updated remark for SPAS81 at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:02:42",
-      "iso": "2026-08-26T10:32:42.546Z",
-      "action": "updated remark for SPAS81 at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:02:31",
-      "iso": "2026-08-26T10:32:31.671Z",
-      "action": "updated remark for SPAS81 at KADAWATHA A: “Damaged -”"
     }
   ]
 }
