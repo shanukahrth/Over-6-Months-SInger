@@ -57826,6 +57826,13 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:26:02",
       "lastUpdated": "2026-08-26T11:56:02.976Z"
+    },
+    "PH-MG7715||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Mihini Perera",
+      "commentDate": "2026-08-26",
+      "commentTime": "20:20:58",
+      "lastUpdated": "2026-08-26T14:50:58.291Z"
     }
   },
   "showroomVisits": {
@@ -59190,6 +59197,13 @@
   },
   "activity": [
     {
+      "user": "Mihini Perera",
+      "date": "2026-08-26",
+      "time": "20:20:58",
+      "iso": "2026-08-26T14:50:58.298Z",
+      "action": "updated remark for PH-MG7715 at CHILAW: “Damaged - 80%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-08-26",
       "time": "17:30:42",
@@ -59531,13 +59545,6 @@
       "time": "17:10:00",
       "iso": "2026-08-26T11:40:00.183Z",
       "action": "updated remark for SLE40D600A at KADAWATHA A: “2 - Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:09:25",
-      "iso": "2026-08-26T11:39:25.919Z",
-      "action": "updated remark for SLE32E930 at KADAWATHA A: “Pending Exchange”"
     }
   ]
 }
