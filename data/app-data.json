@@ -57093,11 +57093,11 @@
       "lastUpdated": "2026-08-26T11:59:42.693Z"
     },
     "NCPO-OT275||KADAWATHA A": {
-      "remark": "42%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "16:30:49",
-      "lastUpdated": "2026-08-26T11:00:49.167Z"
+      "commentTime": "17:30:42",
+      "lastUpdated": "2026-08-26T12:00:42.394Z"
     },
     "TF-K1330404||KADAWATHA A": {
       "remark": "Damaged - 75%",
@@ -59192,6 +59192,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:30:42",
+      "iso": "2026-08-26T12:00:42.396Z",
+      "action": "updated remark for NCPO-OT275 at KADAWATHA A: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:29:42",
       "iso": "2026-08-26T11:59:42.695Z",
       "action": "updated remark for NCPO-DC200 at KADAWATHA A: “45%”"
@@ -59531,13 +59538,6 @@
       "time": "17:09:25",
       "iso": "2026-08-26T11:39:25.919Z",
       "action": "updated remark for SLE32E930 at KADAWATHA A: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:08:42",
-      "iso": "2026-08-26T11:38:42.651Z",
-      "action": "updated remark for SLE32D1800 at KADAWATHA A: “Pending Exchange”"
     }
   ]
 }
