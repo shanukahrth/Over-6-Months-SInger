@@ -57611,11 +57611,11 @@
       "lastUpdated": "2026-08-26T11:34:28.437Z"
     },
     "SLE32D1800||KADAWATHA A": {
-      "remark": "Pending Exchange",
+      "remark": "Panel Damage",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-26",
-      "commentTime": "17:08:42",
-      "lastUpdated": "2026-08-26T11:38:42.649Z"
+      "commentTime": "17:23:12",
+      "lastUpdated": "2026-08-26T11:53:12.446Z"
     },
     "SLE32E930||KADAWATHA A": {
       "remark": "Pending Exchange",
@@ -57756,6 +57756,34 @@
       "commentDate": "2026-08-26",
       "commentTime": "17:22:57",
       "lastUpdated": "2026-08-26T11:52:57.022Z"
+    },
+    "SMGUA32J5100||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:23:05",
+      "lastUpdated": "2026-08-26T11:53:05.945Z"
+    },
+    "SMGUA32N4010||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:23:07",
+      "lastUpdated": "2026-08-26T11:53:07.067Z"
+    },
+    "SLE24E910||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:23:08",
+      "lastUpdated": "2026-08-26T11:53:08.212Z"
+    },
+    "SLE28D2730||KADAWATHA A": {
+      "remark": "Panel Damage",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-26",
+      "commentTime": "17:23:10",
+      "lastUpdated": "2026-08-26T11:53:10.779Z"
     }
   },
   "showroomVisits": {
@@ -59122,6 +59150,41 @@
     {
       "user": "Rashmi",
       "date": "2026-08-26",
+      "time": "17:23:12",
+      "iso": "2026-08-26T11:53:12.447Z",
+      "action": "updated remark for SLE32D1800 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:23:10",
+      "iso": "2026-08-26T11:53:10.780Z",
+      "action": "updated remark for SLE28D2730 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:23:08",
+      "iso": "2026-08-26T11:53:08.213Z",
+      "action": "updated remark for SLE24E910 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:23:07",
+      "iso": "2026-08-26T11:53:07.068Z",
+      "action": "updated remark for SMGUA32N4010 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
+      "time": "17:23:05",
+      "iso": "2026-08-26T11:53:05.946Z",
+      "action": "updated remark for SMGUA32J5100 at KADAWATHA A: “Panel Damage”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-26",
       "time": "17:22:57",
       "iso": "2026-08-26T11:52:57.023Z",
       "action": "updated remark for SKY75X8700G at KADAWATHA A: “Active SKU”"
@@ -59433,41 +59496,6 @@
       "time": "16:59:50",
       "iso": "2026-08-26T11:29:50.945Z",
       "action": "updated remark for SL-ECO-252I at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:59:40",
-      "iso": "2026-08-26T11:29:40.967Z",
-      "action": "updated remark for SL-INV-305H at KADAWATHA A: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:59:29",
-      "iso": "2026-08-26T11:29:29.422Z",
-      "action": "updated remark for SL-ECO72 at KADAWATHA A: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:59:15",
-      "iso": "2026-08-26T11:29:15.674Z",
-      "action": "updated remark for SL-ECO72 at KADAWATHA A: “80%”"
-    },
-    {
-      "user": "Sivakumar Asshwin",
-      "date": "2026-08-26",
-      "time": "17:00:09",
-      "iso": "2026-08-26T11:30:09.021Z",
-      "action": "marked SMG-A06-4-128-BLK at AMPARA - C as Sold"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "16:58:32",
-      "iso": "2026-08-26T11:28:32.520Z",
-      "action": "updated remark for HP-DESKJET-4175 at KADAWATHA A: “60%”"
     }
   ]
 }
