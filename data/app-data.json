@@ -57952,6 +57952,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:28:38",
       "lastUpdated": "2026-08-28T04:58:38.249Z"
+    },
+    "OXY-FACEMASK||NUWARAELIYA A": {
+      "remark": "To be reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:31:23",
+      "lastUpdated": "2026-08-28T05:01:23.106Z"
+    },
+    "FAN-P-1605H||NUWARAELIYA A": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:31:27",
+      "lastUpdated": "2026-08-28T05:01:27.532Z"
     }
   },
   "showroomVisits": {
@@ -59318,6 +59332,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:31:27",
+      "iso": "2026-08-28T05:01:27.533Z",
+      "action": "updated remark for FAN-P-1605H at NUWARAELIYA A: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
+      "time": "10:31:23",
+      "iso": "2026-08-28T05:01:23.108Z",
+      "action": "updated remark for OXY-FACEMASK at NUWARAELIYA A: “To be reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:28:38",
       "iso": "2026-08-28T04:58:38.251Z",
       "action": "updated remark for UDV3618SY at NUWARAELIYA A: “MOP - 2,0000”"
@@ -59650,20 +59678,6 @@
       "time": "17:23:05",
       "iso": "2026-08-26T11:53:05.946Z",
       "action": "updated remark for SMGUA32J5100 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:22:57",
-      "iso": "2026-08-26T11:52:57.023Z",
-      "action": "updated remark for SKY75X8700G at KADAWATHA A: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:22:30",
-      "iso": "2026-08-26T11:52:30.275Z",
-      "action": "updated remark for PN-TH-32MS670N at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
