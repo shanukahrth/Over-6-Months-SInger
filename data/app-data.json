@@ -58575,6 +58575,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:08:58",
       "lastUpdated": "2026-08-28T05:38:58.099Z"
+    },
+    "NCPDG-MP160||KURUNEGALA C": {
+      "remark": "Damage - 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:09:20",
+      "lastUpdated": "2026-08-28T05:39:20.420Z"
+    },
+    "NCPO-DC200||KURUNEGALA C": {
+      "remark": "Damage - 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:09:22",
+      "lastUpdated": "2026-08-28T05:39:22.815Z"
     }
   },
   "showroomVisits": {
@@ -59941,6 +59955,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:09:22",
+      "iso": "2026-08-28T05:39:22.816Z",
+      "action": "updated remark for NCPO-DC200 at KURUNEGALA C: “Damage - 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "11:09:20",
+      "iso": "2026-08-28T05:39:20.422Z",
+      "action": "updated remark for NCPDG-MP160 at KURUNEGALA C: “Damage - 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:08:58",
       "iso": "2026-08-28T05:38:58.100Z",
       "action": "updated remark for MID-D30-20EVN1 at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -60273,20 +60301,6 @@
       "time": "10:53:53",
       "iso": "2026-08-28T05:23:53.734Z",
       "action": "updated remark for DUM - SMGAR50F24D1J at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:53:44",
-      "iso": "2026-08-28T05:23:44.261Z",
-      "action": "updated remark for DH-SD2A200HB-GN-AW-PV-S2 at KURUNEGALA C: “Damage - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:53:27",
-      "iso": "2026-08-28T05:23:27.997Z",
-      "action": "updated remark for DH-4-CAMERA-PACK at KURUNEGALA C: “Damage - 80%”"
     }
   ]
 }
