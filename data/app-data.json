@@ -59429,6 +59429,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:40:00",
       "lastUpdated": "2026-08-28T07:10:00.586Z"
+    },
+    "B-RDNI295XIB100P||CHILAW": {
+      "remark": "Display - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:40:12",
+      "lastUpdated": "2026-08-28T07:10:12.155Z"
     }
   },
   "showroomVisits": {
@@ -60795,6 +60802,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:40:12",
+      "iso": "2026-08-28T07:10:12.158Z",
+      "action": "updated remark for B-RDNI295XIB100P at CHILAW: “Display - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:40:00",
       "iso": "2026-08-28T07:10:00.588Z",
       "action": "updated remark for AVERY-300KG at CHILAW: “10%”"
@@ -61134,13 +61148,6 @@
       "time": "11:59:08",
       "iso": "2026-08-28T06:29:08.426Z",
       "action": "updated remark for BES-CRS-51 at KURUNEGALA C: “Damaged - 30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:58:40",
-      "iso": "2026-08-28T06:28:40.855Z",
-      "action": "updated remark for U-BS8816 at KURUNEGALA C: “Damaged - 50%”"
     }
   ]
 }
