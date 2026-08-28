@@ -60752,6 +60752,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "14:06:05",
       "lastUpdated": "2026-08-28T08:36:05.600Z"
+    },
+    "PCP50||BINGIRIYA": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "14:06:24",
+      "lastUpdated": "2026-08-28T08:36:24.784Z"
     }
   },
   "showroomVisits": {
@@ -62118,6 +62125,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "14:06:24",
+      "iso": "2026-08-28T08:36:24.786Z",
+      "action": "updated remark for PCP50 at BINGIRIYA: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "14:06:05",
       "iso": "2026-08-28T08:36:05.602Z",
       "action": "updated remark for NCPO-DC200 at BINGIRIYA: “Can sell”"
@@ -62457,13 +62471,6 @@
       "time": "13:30:10",
       "iso": "2026-08-28T08:00:10.409Z",
       "action": "updated remark for WFL-MONACO-10-S at CHILAW: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:30:02",
-      "iso": "2026-08-28T08:00:02.449Z",
-      "action": "updated remark for WFL-GLACIER-01-S at CHILAW: “Damaged - 50%”"
     }
   ]
 }
