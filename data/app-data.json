@@ -63141,6 +63141,14 @@
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-28"
+    },
+    "WARD PLACE||BAMBALAPITIYA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-28"
     }
   },
   "soldMarks": {
@@ -63278,6 +63286,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:11:35",
+      "iso": "2026-08-28T14:41:35.019Z",
+      "action": "updated WARD PLACE showroom (visited: Yes)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-28",
@@ -63620,13 +63635,6 @@
       "time": "16:11:18",
       "iso": "2026-08-28T10:41:18.999Z",
       "action": "updated remark for WF-NOR-CHR-S at SHOMES- CHILAW: “Damaged- 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:11:05",
-      "iso": "2026-08-28T10:41:05.143Z",
-      "action": "updated remark for WF-LILY-CHR-S at SHOMES- CHILAW: “Damaged- 85%”"
     }
   ]
 }
