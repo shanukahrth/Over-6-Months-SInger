@@ -61739,6 +61739,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:16:34",
       "lastUpdated": "2026-08-28T10:46:34.196Z"
+    },
+    "WFI-SOC-H007-BU-S||SHOMES- CHILAW": {
+      "remark": "Damaged- 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:16:46",
+      "lastUpdated": "2026-08-28T10:46:46.382Z"
     }
   },
   "showroomVisits": {
@@ -63137,6 +63144,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "16:16:46",
+      "iso": "2026-08-28T10:46:46.384Z",
+      "action": "updated remark for WFI-SOC-H007-BU-S at SHOMES- CHILAW: “Damaged- 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "16:16:34",
       "iso": "2026-08-28T10:46:34.198Z",
       "action": "updated remark for WF-VENICE-PI-S at SHOMES- CHILAW: “Damaged- 75%”"
@@ -63476,13 +63490,6 @@
       "time": "16:00:41",
       "iso": "2026-08-28T10:30:41.579Z",
       "action": "updated remark for SS-PS16-AG at SHOMES- CHILAW: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:00:14",
-      "iso": "2026-08-28T10:30:14.848Z",
-      "action": "updated remark for SPAS81 at SHOMES- CHILAW: “Revert / Damaged- 85%”"
     }
   ]
 }
