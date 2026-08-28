@@ -60465,6 +60465,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:30:31",
       "lastUpdated": "2026-08-28T08:00:31.148Z"
+    },
+    "WFL-SPM-78X72X7-S||CHILAW": {
+      "remark": "Damaged - 85% Exchange rate",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:30:56",
+      "lastUpdated": "2026-08-28T08:00:56.656Z"
     }
   },
   "showroomVisits": {
@@ -61831,6 +61838,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:30:56",
+      "iso": "2026-08-28T08:00:56.658Z",
+      "action": "updated remark for WFL-SPM-78X72X7-S at CHILAW: “Damaged - 85% Exchange rate”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:30:31",
       "iso": "2026-08-28T08:00:31.150Z",
       "action": "updated remark for WFL-NELBED at CHILAW: “Damaged - 75%”"
@@ -62169,13 +62183,6 @@
       "date": "2026-08-28",
       "time": "13:21:40",
       "iso": "2026-08-28T07:51:40.587Z",
-      "action": "updated remark for TF-AF32-577 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:21:28",
-      "iso": "2026-08-28T07:51:28.389Z",
       "action": "updated remark for TF-AF32-577 at CHILAW: “Can sell”"
     }
   ]
