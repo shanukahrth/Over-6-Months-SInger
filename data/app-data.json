@@ -61410,6 +61410,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:54:32",
       "lastUpdated": "2026-08-28T10:24:32.672Z"
+    },
+    "SKY-32E2||SHOMES- CHILAW": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:54:55",
+      "lastUpdated": "2026-08-28T10:24:55.066Z"
     }
   },
   "showroomVisits": {
@@ -62808,6 +62815,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:54:55",
+      "iso": "2026-08-28T10:24:55.067Z",
+      "action": "updated remark for SKY-32E2 at SHOMES- CHILAW: “Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:54:32",
       "iso": "2026-08-28T10:24:32.674Z",
       "action": "updated remark for SIN-VAC8515 at SHOMES- CHILAW: “Damaged - 85%”"
@@ -63147,13 +63161,6 @@
       "time": "15:34:39",
       "iso": "2026-08-28T10:04:39.541Z",
       "action": "updated remark for MID-MJ-KM6001W at SHOMES- CHILAW: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:34:29",
-      "iso": "2026-08-28T10:04:29.566Z",
-      "action": "updated remark for MB-SAFARI4S-RED at SHOMES- CHILAW: “Okay”"
     }
   ]
 }
