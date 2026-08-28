@@ -58155,6 +58155,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:41:00",
       "lastUpdated": "2026-08-28T05:11:00.416Z"
+    },
+    "LF-ECO-SD-SHW-S||NUWARAELIYA A": {
+      "remark": "60% - Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:41:11",
+      "lastUpdated": "2026-08-28T05:11:11.960Z"
+    },
+    "LF-OFI-ST-001-SHW-S||NUWARAELIYA A": {
+      "remark": "10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:41:17",
+      "lastUpdated": "2026-08-28T05:11:17.140Z"
     }
   },
   "showroomVisits": {
@@ -59521,6 +59535,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:41:17",
+      "iso": "2026-08-28T05:11:17.141Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at NUWARAELIYA A: “10%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
+      "time": "10:41:11",
+      "iso": "2026-08-28T05:11:11.961Z",
+      "action": "updated remark for LF-ECO-SD-SHW-S at NUWARAELIYA A: “60% - Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:41:00",
       "iso": "2026-08-28T05:11:00.417Z",
       "action": "updated remark for WF-DOC-M003-MR-S at NUWARAELIYA A: “Sellable at existing price”"
@@ -59853,20 +59881,6 @@
       "time": "10:21:41",
       "iso": "2026-08-28T04:51:41.561Z",
       "action": "updated remark for PN-SC-UA30GS-K at NUWARAELIYA A: “40”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:21:36",
-      "iso": "2026-08-28T04:51:36.998Z",
-      "action": "updated remark for H-RMRG024MFEOE at NUWARAELIYA A: “10%”"
-    },
-    {
-      "user": "Mihini Perera",
-      "date": "2026-08-26",
-      "time": "20:20:58",
-      "iso": "2026-08-26T14:50:58.298Z",
-      "action": "updated remark for PH-MG7715 at CHILAW: “Damaged - 80%”"
     }
   ]
 }
