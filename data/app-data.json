@@ -58127,6 +58127,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:39:42",
       "lastUpdated": "2026-08-28T05:09:42.921Z"
+    },
+    "LF-ORGN-DTO-WHT||NUWARAELIYA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:39:59",
+      "lastUpdated": "2026-08-28T05:09:59.525Z"
     }
   },
   "showroomVisits": {
@@ -59493,6 +59500,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:39:59",
+      "iso": "2026-08-28T05:09:59.526Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at NUWARAELIYA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:39:42",
       "iso": "2026-08-28T05:09:42.921Z",
       "action": "updated remark for WFI-HELENA-TBL-S at NUWARAELIYA A: “60% - Display unit”"
@@ -59832,13 +59846,6 @@
       "time": "17:29:09",
       "iso": "2026-08-26T11:59:09.518Z",
       "action": "updated remark for TF-FP24-SCR342 at KADAWATHA A: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:26:29",
-      "iso": "2026-08-26T11:56:29.875Z",
-      "action": "updated remark for SPAS81 at KADAWATHA A: “Damaged - 90%”"
     }
   ]
 }
