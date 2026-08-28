@@ -63295,9 +63295,22 @@
       "comment": "Sold",
       "updatedBy": "Sajeevkanth",
       "updatedDate": "2026-08-28"
+    },
+    "SL-SST082||KATTANKUDY": {
+      "sold": false,
+      "comment": "Sold",
+      "updatedBy": "Sajeevkanth",
+      "updatedDate": "2026-08-28"
     }
   },
   "activity": [
+    {
+      "user": "Sajeevkanth",
+      "date": "2026-08-28",
+      "time": "17:28:59",
+      "iso": "2026-08-28T16:28:59.808Z",
+      "action": "updated sold comment for SL-SST082 at KATTANKUDY: “Sold”"
+    },
     {
       "user": "Sajeevkanth",
       "date": "2026-08-28",
@@ -63640,13 +63653,6 @@
       "time": "16:13:16",
       "iso": "2026-08-28T10:43:16.803Z",
       "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged- 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "16:12:39",
-      "iso": "2026-08-28T10:42:39.269Z",
-      "action": "updated remark for MB-LIMA-ELO7-WHT at CHILAW: “Sold out”"
     }
   ]
 }
