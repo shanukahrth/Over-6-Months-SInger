@@ -60143,6 +60143,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:20:36",
       "lastUpdated": "2026-08-28T07:50:36.776Z"
+    },
+    "TF-NIFP28-042||WARIYAPOLA": {
+      "remark": "30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:20:42",
+      "lastUpdated": "2026-08-28T07:50:42.158Z"
+    },
+    "TF-NIGP26-119||WARIYAPOLA": {
+      "remark": "30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:20:47",
+      "lastUpdated": "2026-08-28T07:50:47.030Z"
     }
   },
   "showroomVisits": {
@@ -61507,6 +61521,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:20:47",
+      "iso": "2026-08-28T07:50:47.032Z",
+      "action": "updated remark for TF-NIGP26-119 at WARIYAPOLA: “30%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:20:42",
+      "iso": "2026-08-28T07:50:42.159Z",
+      "action": "updated remark for TF-NIFP28-042 at WARIYAPOLA: “30%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:20:36",
@@ -61841,20 +61869,6 @@
       "time": "13:11:27",
       "iso": "2026-08-28T07:41:27.291Z",
       "action": "updated remark for NCPO-FP280 at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:11:17",
-      "iso": "2026-08-28T07:41:17.378Z",
-      "action": "updated remark for NCPO-FP280 at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:10:59",
-      "iso": "2026-08-28T07:40:59.953Z",
-      "action": "updated remark for NCPDG-SET3 at CHILAW: “Damaged - 80%”"
     }
   ]
 }
