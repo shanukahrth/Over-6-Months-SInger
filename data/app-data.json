@@ -60850,6 +60850,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:16:50",
       "lastUpdated": "2026-08-28T09:46:50.388Z"
+    },
+    "SLE32D2010TC||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:17:20",
+      "lastUpdated": "2026-08-28T09:47:20.380Z"
+    },
+    "SLE32F590||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:17:24",
+      "lastUpdated": "2026-08-28T09:47:24.227Z"
     }
   },
   "showroomVisits": {
@@ -62216,6 +62230,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "15:17:24",
+      "iso": "2026-08-28T09:47:24.229Z",
+      "action": "updated remark for SLE32F590 at BINGIRIYA: “H/O”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "15:17:20",
+      "iso": "2026-08-28T09:47:20.381Z",
+      "action": "updated remark for SLE32D2010TC at BINGIRIYA: “H/O”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "15:16:50",
       "iso": "2026-08-28T09:46:50.389Z",
       "action": "updated remark for SLE24D1000 at BINGIRIYA: “H/O”"
@@ -62548,20 +62576,6 @@
       "time": "13:39:40",
       "iso": "2026-08-28T08:09:40.313Z",
       "action": "updated remark for B-CFB9433X at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:38:39",
-      "iso": "2026-08-28T08:08:39.851Z",
-      "action": "updated remark for 123453213 at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:38:30",
-      "iso": "2026-08-28T08:08:30.192Z",
-      "action": "updated remark for 123453213 at SHOMES- CHILAW: “Damaged - 50%”"
     }
   ]
 }
