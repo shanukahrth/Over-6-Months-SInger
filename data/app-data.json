@@ -59849,6 +59849,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:11:27",
       "lastUpdated": "2026-08-28T07:41:27.289Z"
+    },
+    "OF-COMT-S-S||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:11:48",
+      "lastUpdated": "2026-08-28T07:41:48.057Z"
     }
   },
   "showroomVisits": {
@@ -61215,6 +61222,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:11:48",
+      "iso": "2026-08-28T07:41:48.058Z",
+      "action": "updated remark for OF-COMT-S-S at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:11:27",
       "iso": "2026-08-28T07:41:27.291Z",
       "action": "updated remark for NCPO-FP280 at CHILAW: “Damaged - 80%”"
@@ -61554,13 +61568,6 @@
       "time": "12:58:35",
       "iso": "2026-08-28T07:28:35.612Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at CHILAW: “Free issue”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:58:21",
-      "iso": "2026-08-28T07:28:21.581Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at CHILAW: “Report for 30000”"
     }
   ]
 }
