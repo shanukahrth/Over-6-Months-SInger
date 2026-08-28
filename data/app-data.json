@@ -62436,7 +62436,7 @@
     },
     "MEGA -COLPETTY||MEGA COLOMBO METRO ZONE-": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-25",
       "team": "",
       "remark": "",
       "updatedBy": "Sanduni Hansika",
@@ -62578,6 +62578,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Sanduni Hansika",
+      "date": "2026-08-28",
+      "time": "15:37:45",
+      "iso": "2026-08-28T10:07:45.479Z",
+      "action": "updated MEGA -COLPETTY showroom (visitDate: 2026-08-25)"
+    },
     {
       "user": "Sanduni Hansika",
       "date": "2026-08-28",
@@ -62920,13 +62927,6 @@
       "time": "15:18:36",
       "iso": "2026-08-28T09:48:36.102Z",
       "action": "updated remark for U-HRW-S11 at BINGIRIYA: “H/O”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:18:30",
-      "iso": "2026-08-28T09:48:30.797Z",
-      "action": "updated remark for TF-KD24-061 at BINGIRIYA: “Damaged - 10%”"
     }
   ]
 }
