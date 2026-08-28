@@ -60542,6 +60542,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:39:56",
       "lastUpdated": "2026-08-28T08:09:56.969Z"
+    },
+    "B-HII64400AT||SHOMES- CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:40:06",
+      "lastUpdated": "2026-08-28T08:10:06.823Z"
     }
   },
   "showroomVisits": {
@@ -61908,6 +61915,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:40:06",
+      "iso": "2026-08-28T08:10:06.824Z",
+      "action": "updated remark for B-HII64400AT at SHOMES- CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:39:56",
       "iso": "2026-08-28T08:09:56.971Z",
       "action": "updated remark for B-HCP61310X at SHOMES- CHILAW: “Damaged - 50%”"
@@ -62247,13 +62261,6 @@
       "time": "13:24:29",
       "iso": "2026-08-28T07:54:29.169Z",
       "action": "updated remark for WFL-SPM-72X60X7-S at WARIYAPOLA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:24:26",
-      "iso": "2026-08-28T07:54:26.194Z",
-      "action": "updated remark for WFL-DBM-75X75 at WARIYAPOLA: “Damaged - 75%”"
     }
   ]
 }
