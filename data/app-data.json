@@ -61494,6 +61494,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:00:14",
       "lastUpdated": "2026-08-28T10:30:14.848Z"
+    },
+    "SS-PS16-AG||SHOMES- CHILAW": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:00:41",
+      "lastUpdated": "2026-08-28T10:30:41.577Z"
     }
   },
   "showroomVisits": {
@@ -62892,6 +62899,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "16:00:41",
+      "iso": "2026-08-28T10:30:41.579Z",
+      "action": "updated remark for SS-PS16-AG at SHOMES- CHILAW: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "16:00:14",
       "iso": "2026-08-28T10:30:14.848Z",
       "action": "updated remark for SPAS81 at SHOMES- CHILAW: “Revert / Damaged- 85%”"
@@ -63231,13 +63245,6 @@
       "time": "15:38:06",
       "iso": "2026-08-28T10:08:06.811Z",
       "action": "updated remark for USHA-FS40-13B at BINGIRIYA: “Can sell”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:38:03",
-      "iso": "2026-08-28T10:08:03.649Z",
-      "action": "updated remark for PN-CS-U10XKH at SHOMES- CHILAW: “Sold”"
     }
   ]
 }
