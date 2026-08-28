@@ -60801,6 +60801,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:10:09",
       "lastUpdated": "2026-08-28T09:40:09.619Z"
+    },
+    "SCT21F1PTC||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:12:33",
+      "lastUpdated": "2026-08-28T09:42:33.421Z"
     }
   },
   "showroomVisits": {
@@ -62167,6 +62174,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "15:12:33",
+      "iso": "2026-08-28T09:42:33.422Z",
+      "action": "updated remark for SCT21F1PTC at BINGIRIYA: “H/O”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "15:10:09",
       "iso": "2026-08-28T09:40:09.621Z",
       "action": "updated remark for SAIL180104 at BINGIRIYA: “Damaged - 80%”"
@@ -62506,13 +62520,6 @@
       "time": "13:31:41",
       "iso": "2026-08-28T08:01:41.566Z",
       "action": "updated remark for WP-CHTW-075-S at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:31:29",
-      "iso": "2026-08-28T08:01:29.791Z",
-      "action": "updated remark for WP-CHLX-100-S at CHILAW: “Damaged - 70%”"
     }
   ]
 }
