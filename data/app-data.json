@@ -60185,6 +60185,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:21:06",
       "lastUpdated": "2026-08-28T07:51:06.633Z"
+    },
+    "TF-AF32-577||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:21:28",
+      "lastUpdated": "2026-08-28T07:51:28.388Z"
     }
   },
   "showroomVisits": {
@@ -61551,6 +61558,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:21:28",
+      "iso": "2026-08-28T07:51:28.389Z",
+      "action": "updated remark for TF-AF32-577 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:21:06",
       "iso": "2026-08-28T07:51:06.634Z",
       "action": "updated remark for SWH-118E at CHILAW: “Damaged - 70%”"
@@ -61890,13 +61904,6 @@
       "time": "13:12:59",
       "iso": "2026-08-28T07:42:59.343Z",
       "action": "updated remark for PN-CS-SU12XKY-8 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:12:43",
-      "iso": "2026-08-28T07:42:43.124Z",
-      "action": "updated remark for PH-S1121 at CHILAW: “Damaged - 80%”"
     }
   ]
 }
