@@ -57924,6 +57924,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:27:20",
       "lastUpdated": "2026-08-28T04:57:20.141Z"
+    },
+    "DELL3510-PNTMSIL-BLK||NUWARAELIYA A": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:27:33",
+      "lastUpdated": "2026-08-28T04:57:33.960Z"
     }
   },
   "showroomVisits": {
@@ -59290,6 +59297,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:27:33",
+      "iso": "2026-08-28T04:57:33.960Z",
+      "action": "updated remark for DELL3510-PNTMSIL-BLK at NUWARAELIYA A: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:27:20",
       "iso": "2026-08-28T04:57:20.141Z",
       "action": "updated remark for SIN-CL-LED at NUWARAELIYA A: “Shop use”"
@@ -59629,13 +59643,6 @@
       "time": "17:21:24",
       "iso": "2026-08-26T11:51:24.072Z",
       "action": "updated remark for WP-SS-SUB1-S at KADAWATHA A: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:20:07",
-      "iso": "2026-08-26T11:50:07.656Z",
-      "action": "updated remark for SWF-PACK at KADAWATHA A: “Damaged - 70%”"
     }
   ]
 }
