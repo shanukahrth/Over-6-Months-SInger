@@ -61599,6 +61599,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:08:41",
       "lastUpdated": "2026-08-28T10:38:41.613Z"
+    },
+    "WF-CHAIR-B-S||SHOMES- CHILAW": {
+      "remark": "Damaged- 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:09:15",
+      "lastUpdated": "2026-08-28T10:39:15.619Z"
     }
   },
   "showroomVisits": {
@@ -62995,6 +63002,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:09:15",
+      "iso": "2026-08-28T10:39:15.621Z",
+      "action": "updated remark for WF-CHAIR-B-S at SHOMES- CHILAW: “Damaged- 70%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "16:08:41",
@@ -63336,13 +63350,6 @@
       "time": "15:50:42",
       "iso": "2026-08-28T10:20:42.209Z",
       "action": "updated remark for SAIL180102 at SHOMES- CHILAW: “Damaged - 95%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:50:28",
-      "iso": "2026-08-28T10:20:28.464Z",
-      "action": "updated remark for SAIL180101 at SHOMES- CHILAW: “Damaged - 95%”"
     }
   ]
 }
