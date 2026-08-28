@@ -60199,6 +60199,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:21:45",
       "lastUpdated": "2026-08-28T07:51:45.513Z"
+    },
+    "TF-FP24-SCR342||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:21:49",
+      "lastUpdated": "2026-08-28T07:51:49.900Z"
     }
   },
   "showroomVisits": {
@@ -61565,6 +61572,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:21:49",
+      "iso": "2026-08-28T07:51:49.902Z",
+      "action": "updated remark for TF-FP24-SCR342 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:21:45",
       "iso": "2026-08-28T07:51:45.514Z",
       "action": "updated remark for TF-CM-APR737 at CHILAW: “Can sell”"
@@ -61904,13 +61918,6 @@
       "time": "13:14:20",
       "iso": "2026-08-28T07:44:20.886Z",
       "action": "updated remark for PN-TH-32P401N at CHILAW: “Revert Damaged - 60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:13:44",
-      "iso": "2026-08-28T07:43:44.335Z",
-      "action": "updated remark for PN-SC-TMAX5GSK at CHILAW: “Damaged - 75%”"
     }
   ]
 }
