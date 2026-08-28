@@ -61403,6 +61403,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:54:15",
       "lastUpdated": "2026-08-28T10:24:15.613Z"
+    },
+    "SIN-VAC8515||SHOMES- CHILAW": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:54:32",
+      "lastUpdated": "2026-08-28T10:24:32.672Z"
     }
   },
   "showroomVisits": {
@@ -62801,6 +62808,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:54:32",
+      "iso": "2026-08-28T10:24:32.674Z",
+      "action": "updated remark for SIN-VAC8515 at SHOMES- CHILAW: “Damaged - 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:54:15",
       "iso": "2026-08-28T10:24:15.614Z",
       "action": "updated remark for SIN-QS-8306 at SHOMES- CHILAW: “Damaged - 70%”"
@@ -63140,13 +63154,6 @@
       "time": "15:34:29",
       "iso": "2026-08-28T10:04:29.566Z",
       "action": "updated remark for MB-SAFARI4S-RED at SHOMES- CHILAW: “Okay”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:34:23",
-      "iso": "2026-08-28T10:04:23.167Z",
-      "action": "updated remark for PN-TH-32J401N at BINGIRIYA: “Damaged - 60%”"
     }
   ]
 }
