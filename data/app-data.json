@@ -60206,6 +60206,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:21:49",
       "lastUpdated": "2026-08-28T07:51:49.900Z"
+    },
+    "TF-TT365027||WARIYAPOLA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:21:48",
+      "lastUpdated": "2026-08-28T07:51:48.092Z"
+    },
+    "TH-TC-351||WARIYAPOLA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:21:56",
+      "lastUpdated": "2026-08-28T07:51:56.622Z"
     }
   },
   "showroomVisits": {
@@ -61570,6 +61584,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:21:56",
+      "iso": "2026-08-28T07:51:56.623Z",
+      "action": "updated remark for TH-TC-351 at WARIYAPOLA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:21:48",
+      "iso": "2026-08-28T07:51:48.093Z",
+      "action": "updated remark for TF-TT365027 at WARIYAPOLA: “Okay”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:21:49",
@@ -61904,20 +61932,6 @@
       "time": "13:14:36",
       "iso": "2026-08-28T07:44:36.132Z",
       "action": "updated remark for PT-SCD12S2 at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:14:26",
-      "iso": "2026-08-28T07:44:26.229Z",
-      "action": "updated remark for PN-TH-65MX740N at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:14:20",
-      "iso": "2026-08-28T07:44:20.886Z",
-      "action": "updated remark for PN-TH-32P401N at CHILAW: “Revert Damaged - 60%”"
     }
   ]
 }
