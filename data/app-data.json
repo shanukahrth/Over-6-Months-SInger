@@ -61662,6 +61662,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:11:05",
       "lastUpdated": "2026-08-28T10:41:05.142Z"
+    },
+    "WF-NOR-CHR-S||SHOMES- CHILAW": {
+      "remark": "Damaged- 85%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:11:18",
+      "lastUpdated": "2026-08-28T10:41:18.997Z"
     }
   },
   "showroomVisits": {
@@ -63060,6 +63067,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "16:11:18",
+      "iso": "2026-08-28T10:41:18.999Z",
+      "action": "updated remark for WF-NOR-CHR-S at SHOMES- CHILAW: “Damaged- 85%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "16:11:05",
       "iso": "2026-08-28T10:41:05.143Z",
       "action": "updated remark for WF-LILY-CHR-S at SHOMES- CHILAW: “Damaged- 85%”"
@@ -63399,13 +63413,6 @@
       "time": "15:54:15",
       "iso": "2026-08-28T10:24:15.614Z",
       "action": "updated remark for SIN-QS-8306 at SHOMES- CHILAW: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:53:56",
-      "iso": "2026-08-28T10:23:56.419Z",
-      "action": "updated remark for SIN-PSVX938 at SHOMES- CHILAW: “Damaged - 70%”"
     }
   ]
 }
