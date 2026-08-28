@@ -59149,6 +59149,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:55:52",
       "lastUpdated": "2026-08-28T06:25:52.192Z"
+    },
+    "WFL-NOC-T009-BU-S||KURUNEGALA C": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:56:07",
+      "lastUpdated": "2026-08-28T06:26:07.872Z"
     }
   },
   "showroomVisits": {
@@ -60515,6 +60522,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:56:07",
+      "iso": "2026-08-28T06:26:07.873Z",
+      "action": "updated remark for WFL-NOC-T009-BU-S at KURUNEGALA C: “Damaged - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:56:00",
       "iso": "2026-08-28T06:26:00.761Z",
       "action": "updated remark for WFL-GRIP-CT01-S at KURUNEGALA C: “Damaged - 60%”"
@@ -60854,13 +60868,6 @@
       "time": "11:38:47",
       "iso": "2026-08-28T06:08:47.489Z",
       "action": "updated remark for SN-SMI-285 at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:38:38",
-      "iso": "2026-08-28T06:08:38.321Z",
-      "action": "updated remark for SMW823AY7 at KURUNEGALA C: “Damage - 20%”"
     }
   ]
 }
