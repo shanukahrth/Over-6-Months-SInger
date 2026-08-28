@@ -60311,6 +60311,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:26:27",
       "lastUpdated": "2026-08-28T07:56:27.011Z"
+    },
+    "TF-SI-EXSP1231||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:26:49",
+      "lastUpdated": "2026-08-28T07:56:49.404Z"
     }
   },
   "showroomVisits": {
@@ -61675,6 +61682,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:26:49",
+      "iso": "2026-08-28T07:56:49.406Z",
+      "action": "updated remark for TF-SI-EXSP1231 at CHILAW: “Can sell”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:26:28",
@@ -62016,13 +62030,6 @@
       "time": "13:17:38",
       "iso": "2026-08-28T07:47:38.840Z",
       "action": "updated remark for SLE43G890 at WARIYAPOLA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:17:44",
-      "iso": "2026-08-28T07:47:44.473Z",
-      "action": "updated remark for SLE32D5000 at CHILAW: “Damaged - 90%”"
     }
   ]
 }
