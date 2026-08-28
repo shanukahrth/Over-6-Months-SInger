@@ -59534,6 +59534,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:57:49",
       "lastUpdated": "2026-08-28T07:27:49.205Z"
+    },
+    "HFPA-GRAVITY-BLU||CHILAW": {
+      "remark": "Report for 24000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:58:03",
+      "lastUpdated": "2026-08-28T07:28:03.278Z"
     }
   },
   "showroomVisits": {
@@ -60900,6 +60907,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:58:03",
+      "iso": "2026-08-28T07:28:03.279Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at CHILAW: “Report for 24000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:57:49",
       "iso": "2026-08-28T07:27:49.206Z",
       "action": "updated remark for H-RSQG018MFEOE at CHILAW: “Sold out”"
@@ -61239,13 +61253,6 @@
       "time": "12:11:40",
       "iso": "2026-08-28T06:41:40.759Z",
       "action": "updated remark for TF-NIDFP24-170 at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:10:56",
-      "iso": "2026-08-28T06:40:56.398Z",
-      "action": "updated remark for SIN-DEC-DCWL at KURUNEGALA C: “Damage - 30%”"
     }
   ]
 }
