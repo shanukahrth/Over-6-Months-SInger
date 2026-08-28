@@ -60577,6 +60577,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:41:32",
       "lastUpdated": "2026-08-28T08:11:32.663Z"
+    },
+    "FAN-P-1605H||SHOMES- CHILAW": {
+      "remark": "Display / Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:41:53",
+      "lastUpdated": "2026-08-28T08:11:53.073Z"
+    },
+    "FAN-WF1608R||SHOMES- CHILAW": {
+      "remark": "Display / Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:41:55",
+      "lastUpdated": "2026-08-28T08:11:55.064Z"
     }
   },
   "showroomVisits": {
@@ -61943,6 +61957,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:41:55",
+      "iso": "2026-08-28T08:11:55.065Z",
+      "action": "updated remark for FAN-WF1608R at SHOMES- CHILAW: “Display / Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:41:53",
+      "iso": "2026-08-28T08:11:53.075Z",
+      "action": "updated remark for FAN-P-1605H at SHOMES- CHILAW: “Display / Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:41:32",
       "iso": "2026-08-28T08:11:32.665Z",
       "action": "updated remark for DAV-TZ140 at SHOMES- CHILAW: “Damaged - 80%”"
@@ -62275,20 +62303,6 @@
       "time": "13:25:41",
       "iso": "2026-08-28T07:55:41.113Z",
       "action": "updated remark for WP-JUN-E-S at WARIYAPOLA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:25:05",
-      "iso": "2026-08-28T07:55:05.578Z",
-      "action": "updated remark for R-BWS-02 at WARIYAPOLA: “10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:24:53",
-      "iso": "2026-08-28T07:54:53.782Z",
-      "action": "updated remark for SBI-60M19-T at CHILAW: “Can sell”"
     }
   ]
 }
