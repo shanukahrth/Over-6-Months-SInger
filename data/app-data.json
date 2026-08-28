@@ -59919,6 +59919,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:14:57",
       "lastUpdated": "2026-08-28T07:44:57.514Z"
+    },
+    "RIYLTA-MF12V4||CHILAW": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:15:05",
+      "lastUpdated": "2026-08-28T07:45:05.093Z"
     }
   },
   "showroomVisits": {
@@ -61285,6 +61292,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:15:05",
+      "iso": "2026-08-28T07:45:05.094Z",
+      "action": "updated remark for RIYLTA-MF12V4 at CHILAW: “Damaged - 90%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:14:57",
       "iso": "2026-08-28T07:44:57.516Z",
       "action": "updated remark for RIYLTA-MF12V35A at CHILAW: “Damaged - 90%”"
@@ -61624,13 +61638,6 @@
       "time": "13:01:27",
       "iso": "2026-08-28T07:31:27.314Z",
       "action": "updated remark for LF-MONT-BSC-SHW-S at CHILAW: “Display - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:01:17",
-      "iso": "2026-08-28T07:31:17.440Z",
-      "action": "updated remark for SLE55GENR at WARIYAPOLA: “Revert Damaged - 90%”"
     }
   ]
 }
