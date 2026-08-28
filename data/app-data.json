@@ -59905,6 +59905,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:14:26",
       "lastUpdated": "2026-08-28T07:44:26.227Z"
+    },
+    "PT-SCD12S2||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:14:36",
+      "lastUpdated": "2026-08-28T07:44:36.130Z"
     }
   },
   "showroomVisits": {
@@ -61271,6 +61278,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:14:36",
+      "iso": "2026-08-28T07:44:36.132Z",
+      "action": "updated remark for PT-SCD12S2 at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:14:26",
       "iso": "2026-08-28T07:44:26.229Z",
       "action": "updated remark for PN-TH-65MX740N at CHILAW: “Can sell”"
@@ -61610,13 +61624,6 @@
       "time": "13:01:11",
       "iso": "2026-08-28T07:31:11.976Z",
       "action": "updated remark for LF-LEO-HCUP-WNG-S at CHILAW: “Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:00:55",
-      "iso": "2026-08-28T07:30:55.352Z",
-      "action": "updated remark for LF-3D-WD-CHY-S at CHILAW: “Damaged - 80%”"
     }
   ]
 }
