@@ -60178,6 +60178,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:20:53",
       "lastUpdated": "2026-08-28T07:50:53.566Z"
+    },
+    "SWH-118E||CHILAW": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:21:06",
+      "lastUpdated": "2026-08-28T07:51:06.633Z"
     }
   },
   "showroomVisits": {
@@ -61542,6 +61549,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:21:06",
+      "iso": "2026-08-28T07:51:06.634Z",
+      "action": "updated remark for SWH-118E at CHILAW: “Damaged - 70%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:20:53",
@@ -61883,13 +61897,6 @@
       "time": "13:12:43",
       "iso": "2026-08-28T07:42:43.124Z",
       "action": "updated remark for PH-S1121 at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:12:14",
-      "iso": "2026-08-28T07:42:14.705Z",
-      "action": "updated remark for PF-MONDY-BLACK at CHILAW: “Sold out”"
     }
   ]
 }
