@@ -61135,8 +61135,8 @@
       "remark": "Okay",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-28",
-      "commentTime": "15:34:18",
-      "lastUpdated": "2026-08-28T10:04:18.908Z"
+      "commentTime": "15:34:29",
+      "lastUpdated": "2026-08-28T10:04:29.564Z"
     },
     "PN-TH-32J401N||BINGIRIYA": {
       "remark": "Damaged - 60%",
@@ -61144,6 +61144,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:34:23",
       "lastUpdated": "2026-08-28T10:04:23.165Z"
+    },
+    "MID-MJ-KM6001W||SHOMES- CHILAW": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:34:39",
+      "lastUpdated": "2026-08-28T10:04:39.539Z"
     }
   },
   "showroomVisits": {
@@ -62508,6 +62515,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:34:39",
+      "iso": "2026-08-28T10:04:39.541Z",
+      "action": "updated remark for MID-MJ-KM6001W at SHOMES- CHILAW: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:34:29",
+      "iso": "2026-08-28T10:04:29.566Z",
+      "action": "updated remark for MB-SAFARI4S-RED at SHOMES- CHILAW: “Okay”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "15:34:23",
@@ -62842,20 +62863,6 @@
       "time": "15:16:13",
       "iso": "2026-08-28T09:46:13.054Z",
       "action": "updated remark for SINTEK-SS-MS-16 at BINGIRIYA: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:16:04",
-      "iso": "2026-08-28T09:46:04.539Z",
-      "action": "updated remark for SIN-RFC-1819 at BINGIRIYA: “Damaged - 10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:15:35",
-      "iso": "2026-08-28T09:45:35.899Z",
-      "action": "updated remark for SIN-BS30 at BINGIRIYA: “Can sell”"
     }
   ]
 }
