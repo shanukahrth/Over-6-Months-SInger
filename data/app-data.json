@@ -58491,6 +58491,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:05:22",
       "lastUpdated": "2026-08-28T05:35:22.010Z"
+    },
+    "LF-ORGN-DTO-WHT||KURUNEGALA C": {
+      "remark": "Damage - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:06:15",
+      "lastUpdated": "2026-08-28T05:36:15.266Z"
     }
   },
   "showroomVisits": {
@@ -59857,6 +59864,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:06:15",
+      "iso": "2026-08-28T05:36:15.267Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at KURUNEGALA C: “Damage - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:05:22",
       "iso": "2026-08-28T05:35:22.012Z",
       "action": "updated remark for LF-ORGN-BSC-WHT at KURUNEGALA C: “Damage - 50%”"
@@ -60196,13 +60210,6 @@
       "time": "10:51:36",
       "iso": "2026-08-28T05:21:36.055Z",
       "action": "updated remark for BRP-TW30 at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:49:17",
-      "iso": "2026-08-28T05:19:17.363Z",
-      "action": "updated remark for BES-WP15T at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
