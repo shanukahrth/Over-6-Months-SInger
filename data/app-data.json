@@ -58862,6 +58862,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:39:53",
       "lastUpdated": "2026-08-28T06:09:53.581Z"
+    },
+    "STO-28||KURUNEGALA C": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:40:12",
+      "lastUpdated": "2026-08-28T06:10:12.827Z"
     }
   },
   "showroomVisits": {
@@ -60228,6 +60235,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:40:12",
+      "iso": "2026-08-28T06:10:12.828Z",
+      "action": "updated remark for STO-28 at KURUNEGALA C: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:39:53",
       "iso": "2026-08-28T06:09:53.582Z",
       "action": "updated remark for SN-SMI-305G at KURUNEGALA C: “Exchange”"
@@ -60567,13 +60581,6 @@
       "time": "11:10:35",
       "iso": "2026-08-28T05:40:35.092Z",
       "action": "updated remark for PN-CS-XU12XKYW-8 at KURUNEGALA C: “Damage - 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:10:18",
-      "iso": "2026-08-28T05:40:18.645Z",
-      "action": "updated remark for PN-CS-U13XKH at KURUNEGALA C: “Damage - 5%”"
     }
   ]
 }
