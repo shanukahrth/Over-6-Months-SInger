@@ -58918,6 +58918,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:42:51",
       "lastUpdated": "2026-08-28T06:12:51.770Z"
+    },
+    "TF-IDFP24-170||KURUNEGALA C": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:43:03",
+      "lastUpdated": "2026-08-28T06:13:03.084Z"
     }
   },
   "showroomVisits": {
@@ -60284,6 +60291,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:43:03",
+      "iso": "2026-08-28T06:13:03.085Z",
+      "action": "updated remark for TF-IDFP24-170 at KURUNEGALA C: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:42:51",
       "iso": "2026-08-28T06:12:51.771Z",
       "action": "updated remark for TF-GS-SPKT302 at KURUNEGALA C: “Damaged - 60%”"
@@ -60623,13 +60637,6 @@
       "time": "11:23:51",
       "iso": "2026-08-28T05:53:51.330Z",
       "action": "updated remark for PH-NHC3505 at KURUNEGALA C: “Damage - Additional5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:23:49",
-      "iso": "2026-08-28T05:53:49.125Z",
-      "action": "updated remark for PF-STRG-BX-20L-S at KURUNEGALA C: “Damage - Additional 5%”"
     }
   ]
 }
