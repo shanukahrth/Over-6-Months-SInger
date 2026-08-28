@@ -59177,6 +59177,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:58:40",
       "lastUpdated": "2026-08-28T06:28:40.855Z"
+    },
+    "BES-CRS-51||KURUNEGALA C": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:59:08",
+      "lastUpdated": "2026-08-28T06:29:08.425Z"
     }
   },
   "showroomVisits": {
@@ -60543,6 +60550,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:59:08",
+      "iso": "2026-08-28T06:29:08.426Z",
+      "action": "updated remark for BES-CRS-51 at KURUNEGALA C: “Damaged - 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:58:40",
       "iso": "2026-08-28T06:28:40.855Z",
       "action": "updated remark for U-BS8816 at KURUNEGALA C: “Damaged - 50%”"
@@ -60882,13 +60896,6 @@
       "time": "11:43:18",
       "iso": "2026-08-28T06:13:18.612Z",
       "action": "updated remark for TF-KD24-061 at KURUNEGALA C: “Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:43:03",
-      "iso": "2026-08-28T06:13:03.085Z",
-      "action": "updated remark for TF-IDFP24-170 at KURUNEGALA C: “Damaged - 70%”"
     }
   ]
 }
