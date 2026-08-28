@@ -60248,6 +60248,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:22:47",
       "lastUpdated": "2026-08-28T07:52:47.485Z"
+    },
+    "WF-CLASSIC-BR-S||WARIYAPOLA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:23:43",
+      "lastUpdated": "2026-08-28T07:53:43.210Z"
     }
   },
   "showroomVisits": {
@@ -61612,6 +61619,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:23:43",
+      "iso": "2026-08-28T07:53:43.212Z",
+      "action": "updated remark for WF-CLASSIC-BR-S at WARIYAPOLA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:23:41",
+      "iso": "2026-08-28T07:53:41.325Z",
+      "action": "updated remark for WF-CLASSIC-BR-S at WARIYAPOLA: “Damadged - 75%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:22:47",
@@ -61946,20 +61967,6 @@
       "time": "13:16:05",
       "iso": "2026-08-28T07:46:05.194Z",
       "action": "updated remark for SDV3605K at CHILAW: “Sold out”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:15:53",
-      "iso": "2026-08-28T07:45:53.126Z",
-      "action": "updated remark for SLE24D1000 at WARIYAPOLA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:15:35",
-      "iso": "2026-08-28T07:45:35.863Z",
-      "action": "updated remark for SAS24TCNR at CHILAW: “Damaged - 50%”"
     }
   ]
 }
