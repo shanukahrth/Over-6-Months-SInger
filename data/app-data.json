@@ -58078,6 +58078,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:37:02",
       "lastUpdated": "2026-08-28T05:07:02.928Z"
+    },
+    "WF-NOR-CHR-S||NUWARAELIYA A": {
+      "remark": "RTNWH",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:37:10",
+      "lastUpdated": "2026-08-28T05:07:10.694Z"
     }
   },
   "showroomVisits": {
@@ -59444,6 +59451,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:37:10",
+      "iso": "2026-08-28T05:07:10.695Z",
+      "action": "updated remark for WF-NOR-CHR-S at NUWARAELIYA A: “RTNWH”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:37:02",
       "iso": "2026-08-28T05:07:02.929Z",
       "action": "updated remark for WF-MAHO-TBL-S at NUWARAELIYA A: “40%”"
@@ -59783,13 +59797,6 @@
       "time": "17:25:45",
       "iso": "2026-08-26T11:55:45.877Z",
       "action": "updated remark for SLE43G890 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:25:29",
-      "iso": "2026-08-26T11:55:29.412Z",
-      "action": "updated remark for STT-200K at KADAWATHA A: “Damaged - 80%”"
     }
   ]
 }
