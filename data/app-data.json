@@ -58715,6 +58715,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:29:02",
       "lastUpdated": "2026-08-28T05:59:02.076Z"
+    },
+    "SAS-12V-INV||KURUNEGALA C": {
+      "remark": "Okay for given discount",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:29:34",
+      "lastUpdated": "2026-08-28T05:59:34.086Z"
     }
   },
   "showroomVisits": {
@@ -60081,6 +60088,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:29:34",
+      "iso": "2026-08-28T05:59:34.087Z",
+      "action": "updated remark for SAS-12V-INV at KURUNEGALA C: “Okay for given discount”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "11:29:31",
+      "iso": "2026-08-28T05:59:31.297Z",
+      "action": "updated remark for SAS-12V-INV at KURUNEGALA C: “Okay  for given discount”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:29:02",
       "iso": "2026-08-28T05:59:02.077Z",
       "action": "updated remark for RMG-SMART at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -60413,20 +60434,6 @@
       "time": "11:05:14",
       "iso": "2026-08-28T05:35:14.965Z",
       "action": "updated remark for LF-ORGN-BSC-WHT at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:05:06",
-      "iso": "2026-08-28T05:35:06.942Z",
-      "action": "updated remark for LF-MONT-BDQ-SHW-S at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:04:56",
-      "iso": "2026-08-28T05:34:56.620Z",
-      "action": "updated remark for LF-LEO-LTAB-WNG-S at KURUNEGALA C: “Damage - 50%”"
     }
   ]
 }
