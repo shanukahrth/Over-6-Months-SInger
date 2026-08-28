@@ -57842,11 +57842,11 @@
       "lastUpdated": "2026-08-28T04:51:36.996Z"
     },
     "PN-SC-UA30GS-K||NUWARAELIYA A": {
-      "remark": "40",
+      "remark": "40% -",
       "commentedBy": "Rashmi",
       "commentDate": "2026-08-28",
-      "commentTime": "10:21:41",
-      "lastUpdated": "2026-08-28T04:51:41.559Z"
+      "commentTime": "10:22:17",
+      "lastUpdated": "2026-08-28T04:52:17.821Z"
     }
   },
   "showroomVisits": {
@@ -59213,6 +59213,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:22:17",
+      "iso": "2026-08-28T04:52:17.830Z",
+      "action": "updated remark for PN-SC-UA30GS-K at NUWARAELIYA A: “40% -”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:21:41",
       "iso": "2026-08-28T04:51:41.561Z",
       "action": "updated remark for PN-SC-UA30GS-K at NUWARAELIYA A: “40”"
@@ -59552,13 +59559,6 @@
       "time": "17:11:23",
       "iso": "2026-08-26T11:41:23.976Z",
       "action": "updated remark for SLE40E910 at KADAWATHA A: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:11:18",
-      "iso": "2026-08-26T11:41:18.112Z",
-      "action": "updated remark for SLE40D600A at KADAWATHA A: “1 - Panel Damage 1 - 60%”"
     }
   ]
 }
