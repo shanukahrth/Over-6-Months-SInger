@@ -61746,6 +61746,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:16:46",
       "lastUpdated": "2026-08-28T10:46:46.382Z"
+    },
+    "WFL-CF-78X48X4-SS||SHOMES- CHILAW": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:17:14",
+      "lastUpdated": "2026-08-28T10:47:14.867Z"
+    },
+    "WFL-CF-78X36X4-SS||SHOMES- CHILAW": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:17:18",
+      "lastUpdated": "2026-08-28T10:47:18.730Z"
     }
   },
   "showroomVisits": {
@@ -63144,6 +63158,27 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "16:17:18",
+      "iso": "2026-08-28T10:47:18.731Z",
+      "action": "updated remark for WFL-CF-78X36X4-SS at SHOMES- CHILAW: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:17:16",
+      "iso": "2026-08-28T10:47:16.767Z",
+      "action": "updated remark for WFL-CF-78X36X4-SS at SHOMES- CHILAW: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:17:14",
+      "iso": "2026-08-28T10:47:14.869Z",
+      "action": "updated remark for WFL-CF-78X48X4-SS at SHOMES- CHILAW: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "16:16:46",
       "iso": "2026-08-28T10:46:46.384Z",
       "action": "updated remark for WFI-SOC-H007-BU-S at SHOMES- CHILAW: “Damaged- 40%”"
@@ -63469,27 +63504,6 @@
       "time": "16:01:38",
       "iso": "2026-08-28T10:31:38.326Z",
       "action": "updated remark for SWM-FA70R at SHOMES- CHILAW: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:01:04",
-      "iso": "2026-08-28T10:31:04.108Z",
-      "action": "updated remark for SVX6002 at SHOMES- CHILAW: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:00:52",
-      "iso": "2026-08-28T10:30:52.444Z",
-      "action": "updated remark for STT-200K at SHOMES- CHILAW: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:00:41",
-      "iso": "2026-08-28T10:30:41.579Z",
-      "action": "updated remark for SS-PS16-AG at SHOMES- CHILAW: “Damaged - 60%”"
     }
   ]
 }
