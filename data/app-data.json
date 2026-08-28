@@ -59102,11 +59102,11 @@
       "lastUpdated": "2026-08-28T06:26:25.569Z"
     },
     "WFL-SPM-78X60X7-S||KURUNEGALA C": {
-      "remark": "Display - 70%",
+      "remark": "Damaged - 70%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:52:06",
-      "lastUpdated": "2026-08-28T06:22:06.673Z"
+      "commentTime": "11:56:31",
+      "lastUpdated": "2026-08-28T06:26:31.864Z"
     },
     "WFL-SPM-78X72X8-S||KURUNEGALA C": {
       "remark": "Display - 70%",
@@ -60536,6 +60536,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:56:31",
+      "iso": "2026-08-28T06:26:31.865Z",
+      "action": "updated remark for WFL-SPM-78X60X7-S at KURUNEGALA C: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:56:25",
       "iso": "2026-08-28T06:26:25.570Z",
       "action": "updated remark for WFL-SPM-72X72X8-S at KURUNEGALA C: “Damaged - 70%”"
@@ -60875,13 +60882,6 @@
       "time": "11:41:52",
       "iso": "2026-08-28T06:11:52.822Z",
       "action": "updated remark for TCL65C655 at KURUNEGALA C: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:41:31",
-      "iso": "2026-08-28T06:11:31.558Z",
-      "action": "updated remark for SW-ST19025BLK at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
