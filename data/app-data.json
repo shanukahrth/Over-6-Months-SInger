@@ -57903,6 +57903,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:24:49",
       "lastUpdated": "2026-08-28T04:54:49.154Z"
+    },
+    "SBI-60M19-T||NUWARAELIYA A": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:26:50",
+      "lastUpdated": "2026-08-28T04:56:50.414Z"
+    },
+    "NETAC-128GB-NVME-SSD||NUWARAELIYA A": {
+      "remark": "To be dropped",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:26:56",
+      "lastUpdated": "2026-08-28T04:56:56.605Z"
     }
   },
   "showroomVisits": {
@@ -59269,6 +59283,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:26:56",
+      "iso": "2026-08-28T04:56:56.605Z",
+      "action": "updated remark for NETAC-128GB-NVME-SSD at NUWARAELIYA A: “To be dropped”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
+      "time": "10:26:50",
+      "iso": "2026-08-28T04:56:50.415Z",
+      "action": "updated remark for SBI-60M19-T at NUWARAELIYA A: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:24:49",
       "iso": "2026-08-28T04:54:49.156Z",
       "action": "updated remark for IND-IHPC64LMX at NUWARAELIYA A: “Sellable at existing price”"
@@ -59601,20 +59629,6 @@
       "time": "17:19:42",
       "iso": "2026-08-26T11:49:42.025Z",
       "action": "updated remark for SL-SWMFR72 at KADAWATHA A: “Damaged - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:18:48",
-      "iso": "2026-08-26T11:48:48.175Z",
-      "action": "updated remark for SWM-FA70R at KADAWATHA A: “Damaged - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:17:00",
-      "iso": "2026-08-26T11:47:00.271Z",
-      "action": "updated remark for SWD-MFC120 at KADAWATHA A: “Damaged - 70%”"
     }
   ]
 }
