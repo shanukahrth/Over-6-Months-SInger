@@ -58113,6 +58113,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:39:21",
       "lastUpdated": "2026-08-28T05:09:21.714Z"
+    },
+    "WFI-HELENA-CHR-S||NUWARAELIYA A": {
+      "remark": "60% - Display unit",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:39:35",
+      "lastUpdated": "2026-08-28T05:09:35.756Z"
+    },
+    "WFI-HELENA-TBL-S||NUWARAELIYA A": {
+      "remark": "60% - Display unit",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:39:42",
+      "lastUpdated": "2026-08-28T05:09:42.921Z"
     }
   },
   "showroomVisits": {
@@ -59479,6 +59493,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:39:42",
+      "iso": "2026-08-28T05:09:42.921Z",
+      "action": "updated remark for WFI-HELENA-TBL-S at NUWARAELIYA A: “60% - Display unit”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
+      "time": "10:39:35",
+      "iso": "2026-08-28T05:09:35.757Z",
+      "action": "updated remark for WFI-HELENA-CHR-S at NUWARAELIYA A: “60% - Display unit”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:39:21",
       "iso": "2026-08-28T05:09:21.716Z",
       "action": "updated remark for WF-OSLO-BL-S at NUWARAELIYA A: “60% - Display unit”"
@@ -59811,20 +59839,6 @@
       "time": "17:26:29",
       "iso": "2026-08-26T11:56:29.875Z",
       "action": "updated remark for SPAS81 at KADAWATHA A: “Damaged - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:26:02",
-      "iso": "2026-08-26T11:56:02.977Z",
-      "action": "updated remark for SLE40E710 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:25:52",
-      "iso": "2026-08-26T11:55:52.520Z",
-      "action": "updated remark for SLE40D600A at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
