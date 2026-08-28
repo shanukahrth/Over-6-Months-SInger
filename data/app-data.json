@@ -59072,6 +59072,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:51:15",
       "lastUpdated": "2026-08-28T06:21:15.873Z"
+    },
+    "WFL-NOC-T011-BL-S||KURUNEGALA C": {
+      "remark": "Display - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:51:23",
+      "lastUpdated": "2026-08-28T06:21:23.630Z"
     }
   },
   "showroomVisits": {
@@ -60438,6 +60445,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:51:23",
+      "iso": "2026-08-28T06:21:23.631Z",
+      "action": "updated remark for WFL-NOC-T011-BL-S at KURUNEGALA C: “Display - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:51:15",
       "iso": "2026-08-28T06:21:15.874Z",
       "action": "updated remark for WFL-GRIP-CT02-S at KURUNEGALA C: “Display - 60%”"
@@ -60777,13 +60791,6 @@
       "time": "11:34:47",
       "iso": "2026-08-28T06:04:47.513Z",
       "action": "updated remark for SKS-1089 at KURUNEGALA C: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:33:37",
-      "iso": "2026-08-28T06:03:37.182Z",
-      "action": "updated remark for SIN-RFC-1819 at KURUNEGALA C: “Damaged - 40%”"
     }
   ]
 }
