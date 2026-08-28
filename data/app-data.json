@@ -61452,6 +61452,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:57:16",
       "lastUpdated": "2026-08-28T10:27:16.808Z"
+    },
+    "SLE50H1100||SHOMES- CHILAW": {
+      "remark": "Exchange",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:57:29",
+      "lastUpdated": "2026-08-28T10:27:29.858Z"
+    },
+    "SLE55GENR||SHOMES- CHILAW": {
+      "remark": "Exchange",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:57:31",
+      "lastUpdated": "2026-08-28T10:27:31.132Z"
     }
   },
   "showroomVisits": {
@@ -62850,6 +62864,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:57:31",
+      "iso": "2026-08-28T10:27:31.133Z",
+      "action": "updated remark for SLE55GENR at SHOMES- CHILAW: “Exchange”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:57:29",
+      "iso": "2026-08-28T10:27:29.859Z",
+      "action": "updated remark for SLE50H1100 at SHOMES- CHILAW: “Exchange”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:57:16",
       "iso": "2026-08-28T10:27:16.810Z",
       "action": "updated remark for SLE43G890 at SHOMES- CHILAW: “Revert / Damaged - 50%”"
@@ -63182,20 +63210,6 @@
       "time": "15:37:03",
       "iso": "2026-08-28T10:07:03.484Z",
       "action": "updated remark for PF-4DWR-BU-S at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:36:15",
-      "iso": "2026-08-28T10:06:15.600Z",
-      "action": "updated remark for PCP50 at SHOMES- CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:36:05",
-      "iso": "2026-08-28T10:06:05.885Z",
-      "action": "updated remark for OF-SWSLIDCUP-S at SHOMES- CHILAW: “Damaged - 80%”"
     }
   ]
 }
