@@ -59597,6 +59597,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:00:43",
       "lastUpdated": "2026-08-28T07:30:43.079Z"
+    },
+    "LF-3D-WD-CHY-S||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:00:55",
+      "lastUpdated": "2026-08-28T07:30:55.350Z"
     }
   },
   "showroomVisits": {
@@ -60963,6 +60970,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:00:55",
+      "iso": "2026-08-28T07:30:55.352Z",
+      "action": "updated remark for LF-3D-WD-CHY-S at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:00:43",
       "iso": "2026-08-28T07:30:43.080Z",
       "action": "updated remark for KV-FPA-13A at CHILAW: “Damaged - 50%”"
@@ -61302,13 +61316,6 @@
       "time": "12:30:48",
       "iso": "2026-08-28T07:00:48.564Z",
       "action": "updated remark for DELL3501-11G-I3W10-BLU at CHILAW: “Exchange”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:30:37",
-      "iso": "2026-08-28T07:00:37.486Z",
-      "action": "updated remark for DELL-5502-512-I5-SIL at CHILAW: “Damaged - 70% No parts available”"
     }
   ]
 }
