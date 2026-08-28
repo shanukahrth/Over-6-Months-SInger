@@ -62536,7 +62536,7 @@
     },
     "MEGA -KADUWELA||MEGA NORTH ZONE-": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-24",
       "team": "",
       "remark": "",
       "updatedBy": "Sanduni Hansika",
@@ -62686,6 +62686,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Sanduni Hansika",
+      "date": "2026-08-28",
+      "time": "15:42:34",
+      "iso": "2026-08-28T10:12:34.769Z",
+      "action": "updated MEGA -KADUWELA showroom (visitDate: 2026-08-24)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-28",
@@ -63028,13 +63035,6 @@
       "time": "15:28:33",
       "iso": "2026-08-28T09:58:33.008Z",
       "action": "updated remark for KA-SDT26HW at SHOMES- CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:27:37",
-      "iso": "2026-08-28T09:57:37.676Z",
-      "action": "updated remark for KA-PRISMA-1.2 at SHOMES- CHILAW: “Damaged - 85%”"
     }
   ]
 }
