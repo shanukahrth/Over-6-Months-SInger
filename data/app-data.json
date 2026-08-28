@@ -58318,11 +58318,11 @@
       "lastUpdated": "2026-08-28T05:24:36.368Z"
     },
     "FAN-VIERA-TEAK-WL||KURUNEGALA C": {
-      "remark": "Damage - 10%",
+      "remark": "Damage - 50%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "10:56:22",
-      "lastUpdated": "2026-08-28T05:26:22.233Z"
+      "commentTime": "10:56:47",
+      "lastUpdated": "2026-08-28T05:26:47.506Z"
     },
     "WFL-NEW-ATHENS-BG-S||NUWARAELIYA A": {
       "remark": "50%",
@@ -59694,6 +59694,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "10:56:47",
+      "iso": "2026-08-28T05:26:47.508Z",
+      "action": "updated remark for FAN-VIERA-TEAK-WL at KURUNEGALA C: “Damage - 50%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-08-28",
       "time": "10:56:34",
@@ -60035,13 +60042,6 @@
       "time": "10:37:17",
       "iso": "2026-08-28T05:07:17.219Z",
       "action": "updated remark for 123453224 at NUWARAELIYA A: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:37:10",
-      "iso": "2026-08-28T05:07:10.695Z",
-      "action": "updated remark for WF-NOR-CHR-S at NUWARAELIYA A: “RTNWH”"
     }
   ]
 }
