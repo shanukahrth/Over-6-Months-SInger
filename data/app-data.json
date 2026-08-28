@@ -60353,6 +60353,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:28:08",
       "lastUpdated": "2026-08-28T07:58:08.191Z"
+    },
+    "WF-CLASSIC-MH||WARIYAPOLA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:28:13",
+      "lastUpdated": "2026-08-28T07:58:13.783Z"
     }
   },
   "showroomVisits": {
@@ -61717,6 +61724,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:28:13",
+      "iso": "2026-08-28T07:58:13.785Z",
+      "action": "updated remark for WF-CLASSIC-MH at WARIYAPOLA: “Damaged - 75%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:28:08",
@@ -62057,13 +62071,6 @@
       "date": "2026-08-28",
       "time": "13:19:05",
       "iso": "2026-08-28T07:49:05.461Z",
-      "action": "updated remark for SLE43G890 at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:18:51",
-      "iso": "2026-08-28T07:48:51.115Z",
       "action": "updated remark for SLE43G890 at CHILAW: “Damaged - 50%”"
     }
   ]
