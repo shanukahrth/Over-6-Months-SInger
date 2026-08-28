@@ -63289,9 +63289,22 @@
       "comment": "Sold",
       "updatedBy": "Sajeevkanth",
       "updatedDate": "2026-08-28"
+    },
+    "NUBIA-V70MAX-6-128GB-GRY||BATTICALOA B": {
+      "sold": false,
+      "comment": "Sold",
+      "updatedBy": "Sajeevkanth",
+      "updatedDate": "2026-08-28"
     }
   },
   "activity": [
+    {
+      "user": "Sajeevkanth",
+      "date": "2026-08-28",
+      "time": "17:25:46",
+      "iso": "2026-08-28T16:25:46.301Z",
+      "action": "updated sold comment for NUBIA-V70MAX-6-128GB-GRY at BATTICALOA B: “Sold”"
+    },
     {
       "user": "Sajeevkanth",
       "date": "2026-08-28",
@@ -63634,13 +63647,6 @@
       "time": "16:12:39",
       "iso": "2026-08-28T10:42:39.269Z",
       "action": "updated remark for MB-LIMA-ELO7-WHT at CHILAW: “Sold out”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:12:40",
-      "iso": "2026-08-28T10:42:40.917Z",
-      "action": "updated remark for WF-OF-CHR008-S at SHOMES- CHILAW: “Display / Damaged - 50%”"
     }
   ]
 }
