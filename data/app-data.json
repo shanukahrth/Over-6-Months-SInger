@@ -57973,6 +57973,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:31:37",
       "lastUpdated": "2026-08-28T05:01:37.306Z"
+    },
+    "QT-SITUP||NUWARAELIYA A": {
+      "remark": "80% - Parts missing",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:31:46",
+      "lastUpdated": "2026-08-28T05:01:46.094Z"
     }
   },
   "showroomVisits": {
@@ -59339,6 +59346,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:31:46",
+      "iso": "2026-08-28T05:01:46.095Z",
+      "action": "updated remark for QT-SITUP at NUWARAELIYA A: “80% - Parts missing”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:31:37",
       "iso": "2026-08-28T05:01:37.306Z",
       "action": "updated remark for FAN-P-SF1605HR at NUWARAELIYA A: “50%”"
@@ -59678,13 +59692,6 @@
       "time": "17:23:08",
       "iso": "2026-08-26T11:53:08.213Z",
       "action": "updated remark for SLE24E910 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:23:07",
-      "iso": "2026-08-26T11:53:07.068Z",
-      "action": "updated remark for SMGUA32N4010 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
