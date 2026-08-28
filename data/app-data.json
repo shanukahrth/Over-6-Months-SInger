@@ -59744,6 +59744,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:08:44",
       "lastUpdated": "2026-08-28T07:38:44.001Z"
+    },
+    "PN-SC-BMAX10E-K||WARIYAPOLA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:09:03",
+      "lastUpdated": "2026-08-28T07:39:03.815Z"
     }
   },
   "showroomVisits": {
@@ -61110,6 +61117,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:09:03",
+      "iso": "2026-08-28T07:39:03.816Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at WARIYAPOLA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:08:44",
       "iso": "2026-08-28T07:38:44.003Z",
       "action": "updated remark for PF-MONDY-BLACK at WARIYAPOLA: “Damaged - 50%”"
@@ -61449,13 +61463,6 @@
       "time": "12:41:47",
       "iso": "2026-08-28T07:11:47.218Z",
       "action": "updated remark for CAN-I-MG2570S at CHILAW: “Damaged - 85%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:41:44",
-      "iso": "2026-08-28T07:11:44.519Z",
-      "action": "updated remark for CAN-I-E410 at CHILAW: “Damaged - 85%”"
     }
   ]
 }
