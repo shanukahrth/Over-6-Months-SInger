@@ -61347,6 +61347,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:51:19",
       "lastUpdated": "2026-08-28T10:21:19.613Z"
+    },
+    "SB-AA||SHOMES- CHILAW": {
+      "remark": "Display / Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:51:57",
+      "lastUpdated": "2026-08-28T10:21:57.135Z"
+    },
+    "SB-DTYPE||SHOMES- CHILAW": {
+      "remark": "Display / Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:51:59",
+      "lastUpdated": "2026-08-28T10:21:59.012Z"
     }
   },
   "showroomVisits": {
@@ -62745,6 +62759,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:51:59",
+      "iso": "2026-08-28T10:21:59.012Z",
+      "action": "updated remark for SB-DTYPE at SHOMES- CHILAW: “Display / Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:51:57",
+      "iso": "2026-08-28T10:21:57.136Z",
+      "action": "updated remark for SB-AA at SHOMES- CHILAW: “Display / Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:51:19",
       "iso": "2026-08-28T10:21:19.615Z",
       "action": "updated remark for SAS24TCNR at SHOMES- CHILAW: “Damaged - 30%”"
@@ -63077,20 +63105,6 @@
       "time": "15:31:58",
       "iso": "2026-08-28T10:01:58.641Z",
       "action": "updated remark for LFI-DENVER-TVS-BL-S at SHOMES- CHILAW: “10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:31:37",
-      "iso": "2026-08-28T10:01:37.005Z",
-      "action": "updated remark for SL-24VNF at BINGIRIYA: “Can sell”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:31:30",
-      "iso": "2026-08-28T10:01:30.796Z",
-      "action": "updated remark for LF-OX-BR-M-S at SHOMES- CHILAW: “Damaged - 75%”"
     }
   ]
 }
