@@ -61702,8 +61702,8 @@
       "remark": "Damaged- 40%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-28",
-      "commentTime": "16:13:18",
-      "lastUpdated": "2026-08-28T10:43:18.865Z"
+      "commentTime": "16:14:30",
+      "lastUpdated": "2026-08-28T10:44:30.082Z"
     },
     "SLE75G6E||CHILAW": {
       "remark": "Sold out",
@@ -63107,6 +63107,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:14:30",
+      "iso": "2026-08-28T10:44:30.084Z",
+      "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged- 40%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "16:13:17",
@@ -63448,13 +63455,6 @@
       "time": "15:57:29",
       "iso": "2026-08-28T10:27:29.859Z",
       "action": "updated remark for SLE50H1100 at SHOMES- CHILAW: “Exchange”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:57:16",
-      "iso": "2026-08-28T10:27:16.810Z",
-      "action": "updated remark for SLE43G890 at SHOMES- CHILAW: “Revert / Damaged - 50%”"
     }
   ]
 }
