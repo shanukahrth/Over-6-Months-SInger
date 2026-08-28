@@ -58591,18 +58591,18 @@
       "lastUpdated": "2026-08-28T05:39:22.815Z"
     },
     "NCPO-FP280||KURUNEGALA C": {
-      "remark": "Damage - 5%",
+      "remark": "Damage -Additional 5%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:09:37",
-      "lastUpdated": "2026-08-28T05:39:37.228Z"
+      "commentTime": "11:24:46",
+      "lastUpdated": "2026-08-28T05:54:46.242Z"
     },
     "PCR-FP28-264||KURUNEGALA C": {
-      "remark": "Damage - 5%",
+      "remark": "Damage -Additional 5%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:09:53",
-      "lastUpdated": "2026-08-28T05:39:53.273Z"
+      "commentTime": "11:24:39",
+      "lastUpdated": "2026-08-28T05:54:39.290Z"
     },
     "PF-ENVISION-BL-S||KURUNEGALA C": {
       "remark": "Damage - 5%",
@@ -58673,6 +58673,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:24:33",
       "lastUpdated": "2026-08-28T05:54:33.107Z"
+    },
+    "NWD1900C||KURUNEGALA C": {
+      "remark": "Damage -Additional 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:24:41",
+      "lastUpdated": "2026-08-28T05:54:41.621Z"
     }
   },
   "showroomVisits": {
@@ -60039,6 +60046,27 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:24:46",
+      "iso": "2026-08-28T05:54:46.244Z",
+      "action": "updated remark for NCPO-FP280 at KURUNEGALA C: “Damage -Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "11:24:41",
+      "iso": "2026-08-28T05:54:41.622Z",
+      "action": "updated remark for NWD1900C at KURUNEGALA C: “Damage -Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "11:24:39",
+      "iso": "2026-08-28T05:54:39.291Z",
+      "action": "updated remark for PCR-FP28-264 at KURUNEGALA C: “Damage -Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:24:33",
       "iso": "2026-08-28T05:54:33.108Z",
       "action": "updated remark for PH-NHC3505 at KURUNEGALA C: “Damage - Additional 5%”"
@@ -60364,27 +60392,6 @@
       "time": "11:01:32",
       "iso": "2026-08-28T05:31:32.777Z",
       "action": "updated remark for HU-WATCH-GT6-GRY at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:00:54",
-      "iso": "2026-08-28T05:30:54.258Z",
-      "action": "updated remark for HU-WATCH-GT6-B at KURUNEGALA C: “Damage - 25%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:00:09",
-      "iso": "2026-08-28T05:30:09.623Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KURUNEGALA C: “Damage - 25%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:00:04",
-      "iso": "2026-08-28T05:30:04.939Z",
-      "action": "updated remark for HON-BUDS-X6 at KURUNEGALA C: “Damage - 25%”"
     }
   ]
 }
