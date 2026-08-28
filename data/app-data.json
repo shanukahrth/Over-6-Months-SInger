@@ -63048,10 +63048,10 @@
     },
     "MEGA -MALABE||MEGA NORTH ZONE-": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-24",
       "team": "",
       "remark": "",
-      "updatedBy": "Sanduni Hansika",
+      "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-28"
     },
     "AKUREGODA - SLAF||KADUWELA": {
@@ -63278,6 +63278,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:08:01",
+      "iso": "2026-08-28T14:38:01.707Z",
+      "action": "updated MEGA -MALABE showroom (visitDate: 2026-08-24)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-28",
@@ -63620,13 +63627,6 @@
       "time": "16:10:07",
       "iso": "2026-08-28T10:40:07.054Z",
       "action": "updated remark for STT-100K at BINGIRIYA: “H/O”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "16:09:35",
-      "iso": "2026-08-28T10:39:35.615Z",
-      "action": "updated remark for HON-CH-EARBUDS-X7E at BINGIRIYA: “can sell”"
     }
   ]
 }
