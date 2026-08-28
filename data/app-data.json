@@ -60829,6 +60829,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:16:04",
       "lastUpdated": "2026-08-28T09:46:04.538Z"
+    },
+    "SINTEK-SS-MS-16||BINGIRIYA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:16:13",
+      "lastUpdated": "2026-08-28T09:46:13.052Z"
     }
   },
   "showroomVisits": {
@@ -62195,6 +62202,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "15:16:13",
+      "iso": "2026-08-28T09:46:13.054Z",
+      "action": "updated remark for SINTEK-SS-MS-16 at BINGIRIYA: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "15:16:04",
       "iso": "2026-08-28T09:46:04.539Z",
       "action": "updated remark for SIN-RFC-1819 at BINGIRIYA: “Damaged - 10%”"
@@ -62534,13 +62548,6 @@
       "time": "13:35:59",
       "iso": "2026-08-28T08:05:59.354Z",
       "action": "updated remark for BC-KNP-AG at WARIYAPOLA: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:35:56",
-      "iso": "2026-08-28T08:05:56.335Z",
-      "action": "updated remark for BC-KNP-AG at WARIYAPOLA: “Damadged - 60%”"
     }
   ]
 }
