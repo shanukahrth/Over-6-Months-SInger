@@ -58261,13 +58261,6 @@
       "commentTime": "10:51:55",
       "lastUpdated": "2026-08-28T05:21:55.769Z"
     },
-    "BTS-10KG||KURUNEGALA C": {
-      "remark": "Damage - 80%",
-      "commentedBy": "Sulani",
-      "commentDate": "2026-08-28",
-      "commentTime": "10:52:55",
-      "lastUpdated": "2026-08-28T05:22:55.008Z"
-    },
     "BY-ST-26SS||KURUNEGALA C": {
       "remark": "Damage - 70%",
       "commentedBy": "Sulani",
@@ -58281,6 +58274,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:52:56",
       "lastUpdated": "2026-08-28T05:22:56.767Z"
+    },
+    "DH-I-F22FP-36B-IMOU||KURUNEGALA C": {
+      "remark": "Damage - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:53:10",
+      "lastUpdated": "2026-08-28T05:23:10.842Z"
     }
   },
   "showroomVisits": {
@@ -59647,6 +59647,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "10:53:13",
+      "iso": "2026-08-28T05:23:13.793Z",
+      "action": "updated remark for BTS-10KG at KURUNEGALA C (cleared)"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "10:53:10",
+      "iso": "2026-08-28T05:23:10.844Z",
+      "action": "updated remark for DH-I-F22FP-36B-IMOU at KURUNEGALA C: “Damage - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "10:52:56",
       "iso": "2026-08-28T05:22:56.767Z",
       "action": "updated remark for DH-A-HFW1209CP-LED-36B at KURUNEGALA C: “Damage - 80%”"
@@ -59979,20 +59993,6 @@
       "time": "10:32:12",
       "iso": "2026-08-28T05:02:12.167Z",
       "action": "updated remark for OF-COM-T-S at NUWARAELIYA A: “RTNWH”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:32:03",
-      "iso": "2026-08-28T05:02:03.803Z",
-      "action": "updated remark for LF-LEO-18023-WNG-S at NUWARAELIYA A: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:32:01",
-      "iso": "2026-08-28T05:02:01.470Z",
-      "action": "updated remark for LF-LEO-18023-WNG-S at NUWARAELIYA A: “50%”"
     }
   ]
 }
