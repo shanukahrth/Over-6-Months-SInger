@@ -61319,6 +61319,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:47:01",
       "lastUpdated": "2026-08-28T10:17:01.575Z"
+    },
+    "SAIL180101||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:50:28",
+      "lastUpdated": "2026-08-28T10:20:28.463Z"
     }
   },
   "showroomVisits": {
@@ -62715,6 +62722,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:50:28",
+      "iso": "2026-08-28T10:20:28.464Z",
+      "action": "updated remark for SAIL180101 at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "15:47:02",
@@ -63056,13 +63070,6 @@
       "time": "15:30:22",
       "iso": "2026-08-28T10:00:22.741Z",
       "action": "updated remark for LF-13753-S at SHOMES- CHILAW: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:30:18",
-      "iso": "2026-08-28T10:00:18.207Z",
-      "action": "updated remark for LF-13753-S at SHOMES- CHILAW: “Damaged - 85%”"
     }
   ]
 }
