@@ -58099,6 +58099,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:38:51",
       "lastUpdated": "2026-08-28T05:08:51.790Z"
+    },
+    "WF-CLASSIC-BL-S||NUWARAELIYA A": {
+      "remark": "80% - Revert",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:39:09",
+      "lastUpdated": "2026-08-28T05:09:09.582Z"
     }
   },
   "showroomVisits": {
@@ -59465,6 +59472,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:39:09",
+      "iso": "2026-08-28T05:09:09.583Z",
+      "action": "updated remark for WF-CLASSIC-BL-S at NUWARAELIYA A: “80% - Revert”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:38:51",
       "iso": "2026-08-28T05:08:51.791Z",
       "action": "updated remark for LF-ORBIT-CT-WNG-S at NUWARAELIYA A: “60% - Display unit”"
@@ -59804,13 +59818,6 @@
       "time": "17:25:50",
       "iso": "2026-08-26T11:55:50.909Z",
       "action": "updated remark for SLE32E930 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:25:49",
-      "iso": "2026-08-26T11:55:49.322Z",
-      "action": "updated remark for SLE32E810 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
