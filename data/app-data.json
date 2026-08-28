@@ -60045,6 +60045,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:17:56",
       "lastUpdated": "2026-08-28T07:47:56.022Z"
+    },
+    "SLE32G690||CHILAW": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:18:04",
+      "lastUpdated": "2026-08-28T07:48:04.154Z"
     }
   },
   "showroomVisits": {
@@ -61411,6 +61418,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:18:04",
+      "iso": "2026-08-28T07:48:04.155Z",
+      "action": "updated remark for SLE32G690 at CHILAW: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:17:56",
       "iso": "2026-08-28T07:47:56.023Z",
       "action": "updated remark for SLE32E930 at CHILAW: “Can sell”"
@@ -61750,13 +61764,6 @@
       "time": "13:08:44",
       "iso": "2026-08-28T07:38:44.003Z",
       "action": "updated remark for PF-MONDY-BLACK at WARIYAPOLA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:08:32",
-      "iso": "2026-08-28T07:38:32.972Z",
-      "action": "updated remark for NGT323D at WARIYAPOLA: “Okay”"
     }
   ]
 }
