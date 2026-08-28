@@ -58262,11 +58262,11 @@
       "lastUpdated": "2026-08-28T05:21:55.769Z"
     },
     "BTS-10KG||KURUNEGALA C": {
-      "remark": "Damage - 20%",
+      "remark": "Damage - 80%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "10:52:30",
-      "lastUpdated": "2026-08-28T05:22:30.321Z"
+      "commentTime": "10:52:55",
+      "lastUpdated": "2026-08-28T05:22:55.008Z"
     },
     "BY-ST-26SS||KURUNEGALA C": {
       "remark": "Damage - 70%",
@@ -58274,6 +58274,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:52:38",
       "lastUpdated": "2026-08-28T05:22:38.984Z"
+    },
+    "DH-A-HFW1209CP-LED-36B||KURUNEGALA C": {
+      "remark": "Damage - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:52:56",
+      "lastUpdated": "2026-08-28T05:22:56.767Z"
     }
   },
   "showroomVisits": {
@@ -59640,6 +59647,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "10:52:56",
+      "iso": "2026-08-28T05:22:56.767Z",
+      "action": "updated remark for DH-A-HFW1209CP-LED-36B at KURUNEGALA C: “Damage - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "10:52:55",
+      "iso": "2026-08-28T05:22:55.009Z",
+      "action": "updated remark for BTS-10KG at KURUNEGALA C: “Damage - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "10:52:38",
       "iso": "2026-08-28T05:22:38.986Z",
       "action": "updated remark for BY-ST-26SS at KURUNEGALA C: “Damage - 70%”"
@@ -59972,20 +59993,6 @@
       "time": "10:32:01",
       "iso": "2026-08-28T05:02:01.470Z",
       "action": "updated remark for LF-LEO-18023-WNG-S at NUWARAELIYA A: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:31:56",
-      "iso": "2026-08-28T05:01:56.481Z",
-      "action": "updated remark for GRIP-8201-S at NUWARAELIYA A: “RTNWH”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:31:46",
-      "iso": "2026-08-28T05:01:46.095Z",
-      "action": "updated remark for QT-SITUP at NUWARAELIYA A: “80% - Parts missing”"
     }
   ]
 }
