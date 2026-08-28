@@ -58904,6 +58904,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:42:23",
       "lastUpdated": "2026-08-28T06:12:23.536Z"
+    },
+    "TF-FP24-SCR342||KURUNEGALA C": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:42:32",
+      "lastUpdated": "2026-08-28T06:12:32.721Z"
     }
   },
   "showroomVisits": {
@@ -60270,6 +60277,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:42:32",
+      "iso": "2026-08-28T06:12:32.722Z",
+      "action": "updated remark for TF-FP24-SCR342 at KURUNEGALA C: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:42:23",
       "iso": "2026-08-28T06:12:23.538Z",
       "action": "updated remark for TF-CM-APR737 at KURUNEGALA C: “Damaged - 30%”"
@@ -60609,13 +60623,6 @@
       "time": "11:23:39",
       "iso": "2026-08-28T05:53:39.883Z",
       "action": "updated remark for PN-CS-XU12XKYW-8 at KURUNEGALA C: “Additional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:23:09",
-      "iso": "2026-08-28T05:53:09.077Z",
-      "action": "updated remark for PN-MC-CG370GS47 at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
