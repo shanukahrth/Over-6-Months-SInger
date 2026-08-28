@@ -58435,6 +58435,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:03:14",
       "lastUpdated": "2026-08-28T05:33:14.129Z"
+    },
+    "LF-BUDGET-DT-CRW-S||KURUNEGALA C": {
+      "remark": "Damage - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:03:59",
+      "lastUpdated": "2026-08-28T05:33:59.222Z"
     }
   },
   "showroomVisits": {
@@ -59801,6 +59808,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:03:59",
+      "iso": "2026-08-28T05:33:59.223Z",
+      "action": "updated remark for LF-BUDGET-DT-CRW-S at KURUNEGALA C: “Damage - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:03:14",
       "iso": "2026-08-28T05:33:14.130Z",
       "action": "updated remark for KN-HFP72 at KURUNEGALA C: “Damage - 75%”"
@@ -60140,13 +60154,6 @@
       "time": "10:43:17",
       "iso": "2026-08-28T05:13:17.474Z",
       "action": "updated remark for WFL-MONACO-10-S at NUWARAELIYA A: “80% - Discolor”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:43:04",
-      "iso": "2026-08-28T05:13:04.441Z",
-      "action": "updated remark for WF-MILAN-BR-S at NUWARAELIYA A: “60% - Discolor”"
     }
   ]
 }
