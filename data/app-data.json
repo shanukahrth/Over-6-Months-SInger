@@ -61326,6 +61326,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:50:28",
       "lastUpdated": "2026-08-28T10:20:28.463Z"
+    },
+    "SAIL180102||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:50:42",
+      "lastUpdated": "2026-08-28T10:20:42.207Z"
+    },
+    "SAIL180103||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:50:45",
+      "lastUpdated": "2026-08-28T10:20:45.950Z"
     }
   },
   "showroomVisits": {
@@ -62724,6 +62738,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:50:45",
+      "iso": "2026-08-28T10:20:45.951Z",
+      "action": "updated remark for SAIL180103 at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:50:42",
+      "iso": "2026-08-28T10:20:42.209Z",
+      "action": "updated remark for SAIL180102 at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:50:28",
       "iso": "2026-08-28T10:20:28.464Z",
       "action": "updated remark for SAIL180101 at SHOMES- CHILAW: “Damaged - 95%”"
@@ -63056,20 +63084,6 @@
       "time": "15:31:06",
       "iso": "2026-08-28T10:01:06.174Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at SHOMES- CHILAW: “Damaged - 20%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:30:42",
-      "iso": "2026-08-28T10:00:42.440Z",
-      "action": "updated remark for LF-COAST-TVS-SWW-S at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:30:22",
-      "iso": "2026-08-28T10:00:22.741Z",
-      "action": "updated remark for LF-13753-S at SHOMES- CHILAW: “Damaged - 70%”"
     }
   ]
 }
