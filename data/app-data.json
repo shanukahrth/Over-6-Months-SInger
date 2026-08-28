@@ -60022,8 +60022,8 @@
       "remark": "Revert / Damaged - 90%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-28",
-      "commentTime": "13:17:23",
-      "lastUpdated": "2026-08-28T07:47:23.609Z"
+      "commentTime": "13:17:38",
+      "lastUpdated": "2026-08-28T07:47:38.838Z"
     },
     "SLE32D2010TC||CHILAW": {
       "remark": "Damaged - 90%",
@@ -61402,6 +61402,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:17:38",
+      "iso": "2026-08-28T07:47:38.840Z",
+      "action": "updated remark for SLE43G890 at WARIYAPOLA: “Revert / Damaged - 90%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:17:44",
@@ -61743,13 +61750,6 @@
       "time": "13:08:03",
       "iso": "2026-08-28T07:38:03.609Z",
       "action": "updated remark for MID-MC-ID351 at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:07:54",
-      "iso": "2026-08-28T07:37:54.716Z",
-      "action": "updated remark for MB-SAFARI4S-RED at WARIYAPOLA: “Okay”"
     }
   ]
 }
