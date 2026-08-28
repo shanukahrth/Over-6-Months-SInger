@@ -61137,6 +61137,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:34:18",
       "lastUpdated": "2026-08-28T10:04:18.908Z"
+    },
+    "PN-TH-32J401N||BINGIRIYA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:34:23",
+      "lastUpdated": "2026-08-28T10:04:23.165Z"
     }
   },
   "showroomVisits": {
@@ -62501,6 +62508,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "15:34:23",
+      "iso": "2026-08-28T10:04:23.167Z",
+      "action": "updated remark for PN-TH-32J401N at BINGIRIYA: “Damaged - 60%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "15:34:18",
@@ -62842,13 +62856,6 @@
       "time": "15:15:35",
       "iso": "2026-08-28T09:45:35.899Z",
       "action": "updated remark for SIN-BS30 at BINGIRIYA: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:15:10",
-      "iso": "2026-08-28T09:45:10.861Z",
-      "action": "updated remark for SIN-AIRPKO1B at BINGIRIYA: “H/O”"
     }
   ]
 }
