@@ -59009,6 +59009,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:47:20",
       "lastUpdated": "2026-08-28T06:17:20.466Z"
+    },
+    "WF-PRESTON-2D-S||KURUNEGALA C": {
+      "remark": "Display - 90%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:48:08",
+      "lastUpdated": "2026-08-28T06:18:08.240Z"
     }
   },
   "showroomVisits": {
@@ -60375,6 +60382,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:48:08",
+      "iso": "2026-08-28T06:18:08.242Z",
+      "action": "updated remark for WF-PRESTON-2D-S at KURUNEGALA C: “Display - 90%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:47:37",
       "iso": "2026-08-28T06:17:37.522Z",
       "action": "updated remark for WF-MOSCOW-ST-S at KURUNEGALA C (cleared)"
@@ -60714,13 +60728,6 @@
       "time": "11:29:31",
       "iso": "2026-08-28T05:59:31.297Z",
       "action": "updated remark for SAS-12V-INV at KURUNEGALA C: “Okay  for given discount”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:29:02",
-      "iso": "2026-08-28T05:59:02.077Z",
-      "action": "updated remark for RMG-SMART at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
