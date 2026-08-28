@@ -61697,6 +61697,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:12:39",
       "lastUpdated": "2026-08-28T10:42:39.268Z"
+    },
+    "WF-PRST-BDQ-W-S||SHOMES- CHILAW": {
+      "remark": "Damaged- 40%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:13:18",
+      "lastUpdated": "2026-08-28T10:43:18.865Z"
     }
   },
   "showroomVisits": {
@@ -63093,6 +63100,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:13:18",
+      "iso": "2026-08-28T10:43:18.866Z",
+      "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged- 40%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:13:16",
+      "iso": "2026-08-28T10:43:16.803Z",
+      "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged- 40%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "16:12:39",
@@ -63427,20 +63448,6 @@
       "time": "15:56:34",
       "iso": "2026-08-28T10:26:34.896Z",
       "action": "updated remark for SLE32E810 at SHOMES- CHILAW: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:56:24",
-      "iso": "2026-08-28T10:26:24.953Z",
-      "action": "updated remark for SLE32E710 at SHOMES- CHILAW: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:55:30",
-      "iso": "2026-08-28T10:25:30.698Z",
-      "action": "updated remark for SL-WD7004 at SHOMES- CHILAW: “Damaged - 75%”"
     }
   ]
 }
