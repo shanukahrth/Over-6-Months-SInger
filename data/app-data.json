@@ -59030,6 +59030,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:48:36",
       "lastUpdated": "2026-08-28T06:18:36.022Z"
+    },
+    "WFI-DELPHI-TBL-S||KURUNEGALA C": {
+      "remark": "Display - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:49:43",
+      "lastUpdated": "2026-08-28T06:19:43.280Z"
     }
   },
   "showroomVisits": {
@@ -60396,6 +60403,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:49:43",
+      "iso": "2026-08-28T06:19:43.282Z",
+      "action": "updated remark for WFI-DELPHI-TBL-S at KURUNEGALA C: “Display - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:48:36",
       "iso": "2026-08-28T06:18:36.023Z",
       "action": "updated remark for WF-VENICE-PI-S at KURUNEGALA C: “Display - 60%”"
@@ -60735,13 +60749,6 @@
       "time": "11:31:05",
       "iso": "2026-08-28T06:01:05.854Z",
       "action": "updated remark for SBI-60M19-T at KURUNEGALA C: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:30:31",
-      "iso": "2026-08-28T06:00:31.821Z",
-      "action": "updated remark for SAS24TCNR at KURUNEGALA C: “Okay for given discount”"
     }
   ]
 }
