@@ -61571,6 +61571,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:05:17",
       "lastUpdated": "2026-08-28T10:35:17.648Z"
+    },
+    "WC-RT9920||SHOMES- CHILAW": {
+      "remark": "Damaged- 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:05:39",
+      "lastUpdated": "2026-08-28T10:35:39.073Z"
     }
   },
   "showroomVisits": {
@@ -62969,6 +62976,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "16:05:39",
+      "iso": "2026-08-28T10:35:39.075Z",
+      "action": "updated remark for WC-RT9920 at SHOMES- CHILAW: “Damaged- 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "16:05:17",
       "iso": "2026-08-28T10:35:17.650Z",
       "action": "updated remark for WC-IK609 at SHOMES- CHILAW: “Damaged- 95%”"
@@ -63308,13 +63322,6 @@
       "time": "15:42:34",
       "iso": "2026-08-28T10:12:34.769Z",
       "action": "updated MEGA -KADUWELA showroom (visitDate: 2026-08-24)"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:42:14",
-      "iso": "2026-08-28T10:12:14.467Z",
-      "action": "updated remark for RIYLTA-MF12V35A at SHOMES- CHILAW: “Damaged - 95%”"
     }
   ]
 }
