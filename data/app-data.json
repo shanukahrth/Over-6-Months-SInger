@@ -59763,8 +59763,8 @@
       "remark": "10%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-28",
-      "commentTime": "13:09:34",
-      "lastUpdated": "2026-08-28T07:39:34.465Z"
+      "commentTime": "13:25:05",
+      "lastUpdated": "2026-08-28T07:55:05.577Z"
     },
     "LF-WIN-S-S||CHILAW": {
       "remark": "Damaged - 60% EOL",
@@ -61661,6 +61661,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:25:05",
+      "iso": "2026-08-28T07:55:05.578Z",
+      "action": "updated remark for R-BWS-02 at WARIYAPOLA: “10%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:24:53",
@@ -62002,13 +62009,6 @@
       "time": "13:16:52",
       "iso": "2026-08-28T07:46:52.179Z",
       "action": "updated remark for SIN-RFC-1819 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:16:46",
-      "iso": "2026-08-28T07:46:46.044Z",
-      "action": "updated remark for SLE40D600A at WARIYAPOLA: “Revert / Damaged - 90%”"
     }
   ]
 }
