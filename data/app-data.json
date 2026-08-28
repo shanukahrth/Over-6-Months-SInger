@@ -60745,6 +60745,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "14:05:40",
       "lastUpdated": "2026-08-28T08:35:40.016Z"
+    },
+    "NCPO-DC200||BINGIRIYA": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "14:06:05",
+      "lastUpdated": "2026-08-28T08:36:05.600Z"
     }
   },
   "showroomVisits": {
@@ -62111,6 +62118,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "14:06:05",
+      "iso": "2026-08-28T08:36:05.602Z",
+      "action": "updated remark for NCPO-DC200 at BINGIRIYA: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "14:05:40",
       "iso": "2026-08-28T08:35:40.018Z",
       "action": "updated remark for MX-AF123127 at BINGIRIYA: “Damaged - 40%”"
@@ -62450,13 +62464,6 @@
       "time": "13:30:02",
       "iso": "2026-08-28T08:00:02.449Z",
       "action": "updated remark for WFL-GLACIER-01-S at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:29:47",
-      "iso": "2026-08-28T07:59:47.970Z",
-      "action": "updated remark for WF-DOC-T009-BU-S at WARIYAPOLA: “Damaged - 75%”"
     }
   ]
 }
