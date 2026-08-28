@@ -58456,6 +58456,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:04:26",
       "lastUpdated": "2026-08-28T05:34:26.709Z"
+    },
+    "LF-EUSTON-TVS-WH-S||KURUNEGALA C": {
+      "remark": "Damage - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:04:36",
+      "lastUpdated": "2026-08-28T05:34:36.477Z"
     }
   },
   "showroomVisits": {
@@ -59822,6 +59829,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:04:36",
+      "iso": "2026-08-28T05:34:36.479Z",
+      "action": "updated remark for LF-EUSTON-TVS-WH-S at KURUNEGALA C: “Damage - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:04:26",
       "iso": "2026-08-28T05:34:26.710Z",
       "action": "updated remark for LF-ECO-2WD-SHW-S at KURUNEGALA C: “Damage - 50%”"
@@ -60161,13 +60175,6 @@
       "time": "10:47:31",
       "iso": "2026-08-28T05:17:31.088Z",
       "action": "updated remark for ALU-CL-5FT-S at KURUNEGALA C: “Damage - 20%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:47:14",
-      "iso": "2026-08-28T05:17:14.979Z",
-      "action": "updated remark for ALU-CPH001E-PHNE-STND at KURUNEGALA C: “Damage - 50%”"
     }
   ]
 }
