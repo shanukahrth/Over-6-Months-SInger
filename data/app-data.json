@@ -58015,6 +58015,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:32:28",
       "lastUpdated": "2026-08-28T05:02:28.968Z"
+    },
+    "WF-OF-CHR15-S||NUWARAELIYA A": {
+      "remark": "Damaged",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:33:16",
+      "lastUpdated": "2026-08-28T05:03:16.735Z"
     }
   },
   "showroomVisits": {
@@ -59381,6 +59388,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:33:16",
+      "iso": "2026-08-28T05:03:16.736Z",
+      "action": "updated remark for WF-OF-CHR15-S at NUWARAELIYA A: “Damaged”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:32:28",
       "iso": "2026-08-28T05:02:28.969Z",
       "action": "updated remark for OF-SW22-BCH-S at NUWARAELIYA A: “80% - Shop use”"
@@ -59720,13 +59734,6 @@
       "time": "17:23:24",
       "iso": "2026-08-26T11:53:24.504Z",
       "action": "updated remark for SLE40D600A at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:23:23",
-      "iso": "2026-08-26T11:53:23.297Z",
-      "action": "updated remark for SLE32E930 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
