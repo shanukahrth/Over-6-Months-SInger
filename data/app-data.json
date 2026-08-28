@@ -59417,11 +59417,11 @@
       "lastUpdated": "2026-08-28T07:09:01.891Z"
     },
     "AES-HAV-30S||CHILAW": {
-      "remark": "Damaaged - 10%",
+      "remark": "Damaged - 10%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "12:39:41",
-      "lastUpdated": "2026-08-28T07:09:41.407Z"
+      "commentTime": "12:39:50",
+      "lastUpdated": "2026-08-28T07:09:50.536Z"
     }
   },
   "showroomVisits": {
@@ -60788,6 +60788,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:39:50",
+      "iso": "2026-08-28T07:09:50.537Z",
+      "action": "updated remark for AES-HAV-30S at CHILAW: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:39:41",
       "iso": "2026-08-28T07:09:41.409Z",
       "action": "updated remark for AES-HAV-30S at CHILAW: “Damaaged - 10%”"
@@ -61127,13 +61134,6 @@
       "time": "11:58:02",
       "iso": "2026-08-28T06:28:02.442Z",
       "action": "updated remark for WP-WFC105604RT-G at KURUNEGALA C: “Damaged - 35%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:57:52",
-      "iso": "2026-08-28T06:27:52.808Z",
-      "action": "updated remark for WP-WDC11704RG-G at KURUNEGALA C: “Damaged - 25%”"
     }
   ]
 }
