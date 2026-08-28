@@ -59464,6 +59464,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:44:08",
       "lastUpdated": "2026-08-28T07:14:08.640Z"
+    },
+    "DH-I-A22EP-G-IMOU||CHILAW": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:55:19",
+      "lastUpdated": "2026-08-28T07:25:19.427Z"
     }
   },
   "showroomVisits": {
@@ -60830,6 +60837,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:55:19",
+      "iso": "2026-08-28T07:25:19.429Z",
+      "action": "updated remark for DH-I-A22EP-G-IMOU at CHILAW: “Damaged - 85%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:44:08",
       "iso": "2026-08-28T07:14:08.642Z",
       "action": "updated remark for CAN-I-MG2570S at CHILAW: “Damaged - 85%”"
@@ -61169,13 +61183,6 @@
       "time": "12:02:59",
       "iso": "2026-08-28T06:32:59.023Z",
       "action": "updated remark for LF-BUDGET-ST-AGO-S at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:02:07",
-      "iso": "2026-08-28T06:32:07.115Z",
-      "action": "updated remark for KV-FPAU5A at KURUNEGALA C: “Damaged - Additional 5%”"
     }
   ]
 }
