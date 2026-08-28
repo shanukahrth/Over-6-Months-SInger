@@ -60416,6 +60416,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:29:31",
       "lastUpdated": "2026-08-28T07:59:31.623Z"
+    },
+    "WFL-DIANA-CHR-S||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:29:40",
+      "lastUpdated": "2026-08-28T07:59:40.172Z"
     }
   },
   "showroomVisits": {
@@ -61782,6 +61789,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:29:40",
+      "iso": "2026-08-28T07:59:40.174Z",
+      "action": "updated remark for WFL-DIANA-CHR-S at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:29:31",
       "iso": "2026-08-28T07:59:31.625Z",
       "action": "updated remark for WF-OSLO-BL-S at CHILAW: “Damaged - 50%”"
@@ -62121,13 +62135,6 @@
       "time": "13:20:36",
       "iso": "2026-08-28T07:50:36.778Z",
       "action": "updated remark for STARLINK-HP at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:20:30",
-      "iso": "2026-08-28T07:50:30.697Z",
-      "action": "updated remark for SRS-XV500 at CHILAW: “Can sell”"
     }
   ]
 }
