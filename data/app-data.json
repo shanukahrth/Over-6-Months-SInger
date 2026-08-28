@@ -58960,6 +58960,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:45:10",
       "lastUpdated": "2026-08-28T06:15:10.079Z"
+    },
+    "TF-TY9086HO||KURUNEGALA C": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:45:18",
+      "lastUpdated": "2026-08-28T06:15:18.390Z"
     }
   },
   "showroomVisits": {
@@ -60326,6 +60333,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:45:18",
+      "iso": "2026-08-28T06:15:18.391Z",
+      "action": "updated remark for TF-TY9086HO at KURUNEGALA C: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:45:10",
       "iso": "2026-08-28T06:15:10.081Z",
       "action": "updated remark for TF-TW26-064 at KURUNEGALA C: “Damaged - 50%”"
@@ -60665,13 +60679,6 @@
       "time": "11:24:56",
       "iso": "2026-08-28T05:54:56.744Z",
       "action": "updated remark for NCPDG-MP160 at KURUNEGALA C: “Damage -Additional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:24:50",
-      "iso": "2026-08-28T05:54:50.437Z",
-      "action": "updated remark for NCPO-DC200 at KURUNEGALA C: “Damage -Additional 5%”"
     }
   ]
 }
