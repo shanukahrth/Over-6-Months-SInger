@@ -59310,6 +59310,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:23:45",
       "lastUpdated": "2026-08-28T06:53:45.645Z"
+    },
+    "DELL-5502-512-I5-SIL||CHILAW": {
+      "remark": "Damaged - 70% No parts available",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:30:37",
+      "lastUpdated": "2026-08-28T07:00:37.485Z"
     }
   },
   "showroomVisits": {
@@ -60676,6 +60683,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:30:37",
+      "iso": "2026-08-28T07:00:37.486Z",
+      "action": "updated remark for DELL-5502-512-I5-SIL at CHILAW: “Damaged - 70% No parts available”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:23:45",
       "iso": "2026-08-28T06:53:45.646Z",
       "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at CHILAW: “Sold out”"
@@ -61015,13 +61029,6 @@
       "time": "11:51:59",
       "iso": "2026-08-28T06:21:59.878Z",
       "action": "updated remark for WFL-SPM-72X72X8-S at KURUNEGALA C: “Display - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:51:49",
-      "iso": "2026-08-28T06:21:49.476Z",
-      "action": "updated remark for WFL-SPM-72X48X7-S at KURUNEGALA C: “Display - 70%”"
     }
   ]
 }
