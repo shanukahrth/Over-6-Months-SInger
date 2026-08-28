@@ -60003,6 +60003,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:16:46",
       "lastUpdated": "2026-08-28T07:46:46.043Z"
+    },
+    "SIN-RFC-1819||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:16:52",
+      "lastUpdated": "2026-08-28T07:46:52.177Z"
     }
   },
   "showroomVisits": {
@@ -61367,6 +61374,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:16:52",
+      "iso": "2026-08-28T07:46:52.179Z",
+      "action": "updated remark for SIN-RFC-1819 at CHILAW: “Can sell”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:16:46",
@@ -61708,13 +61722,6 @@
       "time": "13:06:56",
       "iso": "2026-08-28T07:36:56.734Z",
       "action": "updated remark for LF-PROMO-CT-S at WARIYAPOLA: “Damaged  - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:06:55",
-      "iso": "2026-08-28T07:36:55.948Z",
-      "action": "updated remark for LF-PROMO-CT-S at WARIYAPOLA: “Damadged  - 50%”"
     }
   ]
 }
