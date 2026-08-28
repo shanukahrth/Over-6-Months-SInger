@@ -63283,9 +63283,22 @@
       "comment": "System Discount 40%",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-08-26"
+    },
+    "HON-X9CSMART-12-256-CYAN||KALAWANCHIKUDY": {
+      "sold": false,
+      "comment": "Sold",
+      "updatedBy": "Sajeevkanth",
+      "updatedDate": "2026-08-28"
     }
   },
   "activity": [
+    {
+      "user": "Sajeevkanth",
+      "date": "2026-08-28",
+      "time": "17:23:48",
+      "iso": "2026-08-28T16:23:48.609Z",
+      "action": "updated sold comment for HON-X9CSMART-12-256-CYAN at KALAWANCHIKUDY: “Sold”"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-28",
@@ -63628,13 +63641,6 @@
       "time": "16:12:06",
       "iso": "2026-08-28T10:42:06.014Z",
       "action": "updated remark for SLE-75IFPDT at CHILAW: “60% Damaged”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:11:52",
-      "iso": "2026-08-28T10:41:52.601Z",
-      "action": "updated remark for WF-OF-CHR007-S at SHOMES- CHILAW: “Revert / Damaged- 85%”"
     }
   ]
 }
