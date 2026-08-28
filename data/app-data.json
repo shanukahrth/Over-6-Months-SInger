@@ -60255,6 +60255,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:23:43",
       "lastUpdated": "2026-08-28T07:53:43.210Z"
+    },
+    "WF-PARIS-BL-S||WARIYAPOLA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:24:15",
+      "lastUpdated": "2026-08-28T07:54:15.898Z"
     }
   },
   "showroomVisits": {
@@ -61621,6 +61628,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:24:15",
+      "iso": "2026-08-28T07:54:15.901Z",
+      "action": "updated remark for WF-PARIS-BL-S at WARIYAPOLA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:23:43",
       "iso": "2026-08-28T07:53:43.212Z",
       "action": "updated remark for WF-CLASSIC-BR-S at WARIYAPOLA: “Damaged - 75%”"
@@ -61960,13 +61974,6 @@
       "time": "13:16:05",
       "iso": "2026-08-28T07:46:05.522Z",
       "action": "updated remark for SLE32E920 at WARIYAPOLA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:16:05",
-      "iso": "2026-08-28T07:46:05.194Z",
-      "action": "updated remark for SDV3605K at CHILAW: “Sold out”"
     }
   ]
 }
