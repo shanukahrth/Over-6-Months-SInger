@@ -59604,6 +59604,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:00:55",
       "lastUpdated": "2026-08-28T07:30:55.350Z"
+    },
+    "LF-LEO-HCUP-WNG-S||CHILAW": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:01:11",
+      "lastUpdated": "2026-08-28T07:31:11.974Z"
     }
   },
   "showroomVisits": {
@@ -60970,6 +60977,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:01:11",
+      "iso": "2026-08-28T07:31:11.976Z",
+      "action": "updated remark for LF-LEO-HCUP-WNG-S at CHILAW: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:00:55",
       "iso": "2026-08-28T07:30:55.352Z",
       "action": "updated remark for LF-3D-WD-CHY-S at CHILAW: “Damaged - 80%”"
@@ -61309,13 +61323,6 @@
       "time": "12:31:44",
       "iso": "2026-08-28T07:01:44.712Z",
       "action": "updated remark for HON-MAGIC-6PRO-BLK at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:30:48",
-      "iso": "2026-08-28T07:00:48.564Z",
-      "action": "updated remark for DELL3501-11G-I3W10-BLU at CHILAW: “Exchange”"
     }
   ]
 }
