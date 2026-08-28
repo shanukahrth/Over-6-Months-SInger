@@ -59240,6 +59240,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:07:15",
       "lastUpdated": "2026-08-28T06:37:15.779Z"
+    },
+    "WF-ROM-DTO-S||KURUNEGALA C": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:07:46",
+      "lastUpdated": "2026-08-28T06:37:46.705Z"
     }
   },
   "showroomVisits": {
@@ -60606,6 +60613,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:07:46",
+      "iso": "2026-08-28T06:37:46.706Z",
+      "action": "updated remark for WF-ROM-DTO-S at KURUNEGALA C: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:07:32",
       "iso": "2026-08-28T06:37:32.940Z",
       "action": "updated remark for USHA-AVTR56 at KURUNEGALA C: “Damaged - 60%”"
@@ -60945,13 +60959,6 @@
       "time": "11:47:25",
       "iso": "2026-08-28T06:17:25.876Z",
       "action": "updated remark for WF-MOSCOW-ST-S at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:47:20",
-      "iso": "2026-08-28T06:17:20.467Z",
-      "action": "updated remark for WF-GRACE-3S-BU-S at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
