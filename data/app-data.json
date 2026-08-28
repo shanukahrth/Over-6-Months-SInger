@@ -60605,6 +60605,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:52:09",
       "lastUpdated": "2026-08-28T08:22:09.235Z"
+    },
+    "DELL3502-PNTMSIL-W10-BLK||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:58:12",
+      "lastUpdated": "2026-08-28T08:28:12.223Z"
     }
   },
   "showroomVisits": {
@@ -61969,6 +61976,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:58:12",
+      "iso": "2026-08-28T08:28:12.224Z",
+      "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at BINGIRIYA: “H/O”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:52:09",
@@ -62310,13 +62324,6 @@
       "time": "13:26:28",
       "iso": "2026-08-28T07:56:28.186Z",
       "action": "updated remark for SLE43G890 at WARIYAPOLA: “Revert / Damadged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:26:27",
-      "iso": "2026-08-28T07:56:27.013Z",
-      "action": "updated remark for TF-NIGP26-119 at CHILAW: “Damaged - 30%”"
     }
   ]
 }
