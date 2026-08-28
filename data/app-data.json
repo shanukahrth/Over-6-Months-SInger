@@ -59583,6 +59583,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:00:09",
       "lastUpdated": "2026-08-28T07:30:09.393Z"
+    },
+    "KV-3WFPA-13A||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:00:28",
+      "lastUpdated": "2026-08-28T07:30:28.585Z"
     }
   },
   "showroomVisits": {
@@ -60949,6 +60956,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:00:28",
+      "iso": "2026-08-28T07:30:28.586Z",
+      "action": "updated remark for KV-3WFPA-13A at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:00:09",
       "iso": "2026-08-28T07:30:09.394Z",
       "action": "updated remark for KA-SST032BKI at CHILAW: “Can sell”"
@@ -61288,13 +61302,6 @@
       "time": "12:23:45",
       "iso": "2026-08-28T06:53:45.646Z",
       "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at CHILAW: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:17:34",
-      "iso": "2026-08-28T06:47:34.624Z",
-      "action": "updated remark for FAN-VIERA-TEAK-WL at KURUNEGALA C: “Damaged - 50%”"
     }
   ]
 }
