@@ -58633,11 +58633,11 @@
       "lastUpdated": "2026-08-28T05:54:30.860Z"
     },
     "PN-CS-XU12XKYW-8||KURUNEGALA C": {
-      "remark": "Additional 5%",
+      "remark": "Additional",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:23:39",
-      "lastUpdated": "2026-08-28T05:53:39.882Z"
+      "commentTime": "11:25:22",
+      "lastUpdated": "2026-08-28T05:55:22.500Z"
     },
     "PN-SC-TMAX5GSK||KURUNEGALA C": {
       "remark": "Can sell by 31st of Aug",
@@ -60046,6 +60046,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:25:22",
+      "iso": "2026-08-28T05:55:22.502Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at KURUNEGALA C: “Additional”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:24:56",
       "iso": "2026-08-28T05:54:56.744Z",
       "action": "updated remark for NCPDG-MP160 at KURUNEGALA C: “Damage -Additional 5%”"
@@ -60385,13 +60392,6 @@
       "time": "11:03:05",
       "iso": "2026-08-28T05:33:05.327Z",
       "action": "updated remark for KA-TXG-DS11A at KURUNEGALA C: “Damage - 75%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:02:23",
-      "iso": "2026-08-28T05:32:23.718Z",
-      "action": "updated remark for IFPSTANDAU at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
