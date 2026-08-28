@@ -59954,6 +59954,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:16:05",
       "lastUpdated": "2026-08-28T07:46:05.192Z"
+    },
+    "SLE32E920||WARIYAPOLA": {
+      "remark": "Revert / Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:16:05",
+      "lastUpdated": "2026-08-28T07:46:05.521Z"
+    },
+    "SLE32E930||WARIYAPOLA": {
+      "remark": "Revert / Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:16:15",
+      "lastUpdated": "2026-08-28T07:46:15.277Z"
     }
   },
   "showroomVisits": {
@@ -61318,6 +61332,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:16:15",
+      "iso": "2026-08-28T07:46:15.279Z",
+      "action": "updated remark for SLE32E930 at WARIYAPOLA: “Revert / Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:16:05",
+      "iso": "2026-08-28T07:46:05.522Z",
+      "action": "updated remark for SLE32E920 at WARIYAPOLA: “Revert / Damaged - 90%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:16:05",
@@ -61652,20 +61680,6 @@
       "time": "13:03:24",
       "iso": "2026-08-28T07:33:24.789Z",
       "action": "updated remark for AES-HAV-615T at WARIYAPOLA: “10%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:03:23",
-      "iso": "2026-08-28T07:33:23.820Z",
-      "action": "updated remark for AES-HAV-30S at WARIYAPOLA: “10%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:02:45",
-      "iso": "2026-08-28T07:32:45.552Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at WARIYAPOLA: “Okay”"
     }
   ]
 }
