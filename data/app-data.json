@@ -59268,6 +59268,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:10:56",
       "lastUpdated": "2026-08-28T06:40:56.397Z"
+    },
+    "TF-NIDFP24-170||KURUNEGALA C": {
+      "remark": "Damage - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:11:40",
+      "lastUpdated": "2026-08-28T06:41:40.756Z"
     }
   },
   "showroomVisits": {
@@ -60634,6 +60641,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:11:40",
+      "iso": "2026-08-28T06:41:40.759Z",
+      "action": "updated remark for TF-NIDFP24-170 at KURUNEGALA C: “Damage - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:10:56",
       "iso": "2026-08-28T06:40:56.398Z",
       "action": "updated remark for SIN-DEC-DCWL at KURUNEGALA C: “Damage - 30%”"
@@ -60973,13 +60987,6 @@
       "time": "11:49:43",
       "iso": "2026-08-28T06:19:43.282Z",
       "action": "updated remark for WFI-DELPHI-TBL-S at KURUNEGALA C: “Display - 60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:48:36",
-      "iso": "2026-08-28T06:18:36.023Z",
-      "action": "updated remark for WF-VENICE-PI-S at KURUNEGALA C: “Display - 60%”"
     }
   ]
 }
