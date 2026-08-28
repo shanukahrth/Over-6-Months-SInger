@@ -60458,6 +60458,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:30:16",
       "lastUpdated": "2026-08-28T08:00:16.862Z"
+    },
+    "WFL-NELBED||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:30:22",
+      "lastUpdated": "2026-08-28T08:00:22.181Z"
     }
   },
   "showroomVisits": {
@@ -61822,6 +61829,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:30:22",
+      "iso": "2026-08-28T08:00:22.182Z",
+      "action": "updated remark for WFL-NELBED at CHILAW: “Can sell”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:30:16",
@@ -62163,13 +62177,6 @@
       "time": "13:21:06",
       "iso": "2026-08-28T07:51:06.634Z",
       "action": "updated remark for SWH-118E at CHILAW: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:20:53",
-      "iso": "2026-08-28T07:50:53.568Z",
-      "action": "updated remark for TF-SI-ESS-242 at WARIYAPOLA: “30%”"
     }
   ]
 }
