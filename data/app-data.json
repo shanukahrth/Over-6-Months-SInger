@@ -60332,6 +60332,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:27:03",
       "lastUpdated": "2026-08-28T07:57:03.093Z"
+    },
+    "TF-TW26-064||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:27:23",
+      "lastUpdated": "2026-08-28T07:57:23.957Z"
+    },
+    "TH-TC-351||CHILAW": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:27:27",
+      "lastUpdated": "2026-08-28T07:57:27.738Z"
     }
   },
   "showroomVisits": {
@@ -61698,6 +61712,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:27:27",
+      "iso": "2026-08-28T07:57:27.739Z",
+      "action": "updated remark for TH-TC-351 at CHILAW: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:27:23",
+      "iso": "2026-08-28T07:57:23.959Z",
+      "action": "updated remark for TF-TW26-064 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:27:03",
       "iso": "2026-08-28T07:57:03.095Z",
       "action": "updated remark for TF-TT357170 at CHILAW: “Damaged - 80%”"
@@ -62030,20 +62058,6 @@
       "time": "13:18:30",
       "iso": "2026-08-28T07:48:30.722Z",
       "action": "updated remark for SPAS81BT at WARIYAPOLA: “Revert / Damaged - 85%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:18:28",
-      "iso": "2026-08-28T07:48:28.859Z",
-      "action": "updated remark for SLE40D600A at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:18:23",
-      "iso": "2026-08-28T07:48:23.839Z",
-      "action": "updated remark for SLE32G690 at CHILAW: “Damaged - 90%”"
     }
   ]
 }
