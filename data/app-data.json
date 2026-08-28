@@ -61081,6 +61081,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:31:06",
       "lastUpdated": "2026-08-28T10:01:06.173Z"
+    },
+    "LF-OX-BR-M-S||SHOMES- CHILAW": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:31:30",
+      "lastUpdated": "2026-08-28T10:01:30.795Z"
     }
   },
   "showroomVisits": {
@@ -62447,6 +62454,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:31:30",
+      "iso": "2026-08-28T10:01:30.796Z",
+      "action": "updated remark for LF-OX-BR-M-S at SHOMES- CHILAW: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:31:06",
       "iso": "2026-08-28T10:01:06.174Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at SHOMES- CHILAW: “Damaged - 20%”"
@@ -62786,13 +62800,6 @@
       "time": "15:08:36",
       "iso": "2026-08-28T09:38:36.941Z",
       "action": "updated remark for PF-ENVISION-BL-S at BINGIRIYA: “Damaged - 10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "14:06:24",
-      "iso": "2026-08-28T08:36:24.786Z",
-      "action": "updated remark for PCP50 at BINGIRIYA: “Can sell”"
     }
   ]
 }
