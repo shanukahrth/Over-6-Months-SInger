@@ -59821,6 +59821,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:10:24",
       "lastUpdated": "2026-08-28T07:40:24.530Z"
+    },
+    "MHC-M40D||CHILAW": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:10:31",
+      "lastUpdated": "2026-08-28T07:40:31.569Z"
     }
   },
   "showroomVisits": {
@@ -61187,6 +61194,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:10:31",
+      "iso": "2026-08-28T07:40:31.571Z",
+      "action": "updated remark for MHC-M40D at CHILAW: “Damaged - 75%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:10:24",
       "iso": "2026-08-28T07:40:24.532Z",
       "action": "updated remark for MC984-HO at CHILAW: “Damaged - 50%”"
@@ -61526,13 +61540,6 @@
       "time": "12:57:20",
       "iso": "2026-08-28T07:27:20.860Z",
       "action": "updated remark for H-RMRG024HFEOE at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:57:05",
-      "iso": "2026-08-28T07:27:05.344Z",
-      "action": "updated remark for H-HMR-DG2312 at CHILAW: “Sold out”"
     }
   ]
 }
