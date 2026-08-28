@@ -58624,6 +58624,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:10:11",
       "lastUpdated": "2026-08-28T05:40:11.477Z"
+    },
+    "PN-CS-U13XKH||KURUNEGALA C": {
+      "remark": "Damage - 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:10:18",
+      "lastUpdated": "2026-08-28T05:40:18.644Z"
     }
   },
   "showroomVisits": {
@@ -59990,6 +59997,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:10:18",
+      "iso": "2026-08-28T05:40:18.645Z",
+      "action": "updated remark for PN-CS-U13XKH at KURUNEGALA C: “Damage - 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:10:11",
       "iso": "2026-08-28T05:40:11.479Z",
       "action": "updated remark for PF-STRG-BX-20L-S at KURUNEGALA C: “Damage - 5%”"
@@ -60329,13 +60343,6 @@
       "time": "10:56:10",
       "iso": "2026-08-28T05:26:10.887Z",
       "action": "updated remark for FAN-VIERA-TEAK-WL at KURUNEGALA C: “Damage - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:56:01",
-      "iso": "2026-08-28T05:26:01.290Z",
-      "action": "updated remark for ENG-UE10054 at KURUNEGALA C: “Damage - 80%”"
     }
   ]
 }
