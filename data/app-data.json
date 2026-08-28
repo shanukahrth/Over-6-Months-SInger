@@ -61648,6 +61648,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:10:07",
       "lastUpdated": "2026-08-28T10:40:07.052Z"
+    },
+    "WF-HARPER-DRS||SHOMES- CHILAW": {
+      "remark": "Damaged- 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:10:35",
+      "lastUpdated": "2026-08-28T10:40:35.528Z"
     }
   },
   "showroomVisits": {
@@ -63044,6 +63051,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:10:35",
+      "iso": "2026-08-28T10:40:35.529Z",
+      "action": "updated remark for WF-HARPER-DRS at SHOMES- CHILAW: “Damaged- 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:10:28",
+      "iso": "2026-08-28T10:40:28.200Z",
+      "action": "updated remark for WF-HARPER-DRS at SHOMES- CHILAW: “Damaged- 20%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "16:10:07",
@@ -63378,20 +63399,6 @@
       "time": "15:53:39",
       "iso": "2026-08-28T10:23:39.093Z",
       "action": "updated remark for SIN-PR-K340 at SHOMES- CHILAW: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:53:27",
-      "iso": "2026-08-28T10:23:27.390Z",
-      "action": "updated remark for SIN-MH51SW at SHOMES- CHILAW: “Revert / Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:52:40",
-      "iso": "2026-08-28T10:22:40.198Z",
-      "action": "updated remark for SIN-AIRPKO6A at SHOMES- CHILAW: “Damaged - 60%”"
     }
   ]
 }
