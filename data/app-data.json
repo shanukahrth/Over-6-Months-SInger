@@ -58141,6 +58141,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:40:38",
       "lastUpdated": "2026-08-28T05:10:38.401Z"
+    },
+    "WF-DOC-M003-BU-S||NUWARAELIYA A": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:40:58",
+      "lastUpdated": "2026-08-28T05:10:58.568Z"
+    },
+    "WF-DOC-M003-MR-S||NUWARAELIYA A": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:41:00",
+      "lastUpdated": "2026-08-28T05:11:00.416Z"
     }
   },
   "showroomVisits": {
@@ -59507,6 +59521,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:41:00",
+      "iso": "2026-08-28T05:11:00.417Z",
+      "action": "updated remark for WF-DOC-M003-MR-S at NUWARAELIYA A: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
+      "time": "10:40:58",
+      "iso": "2026-08-28T05:10:58.569Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at NUWARAELIYA A: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:40:38",
       "iso": "2026-08-28T05:10:38.402Z",
       "action": "updated remark for WFL-SPM-72X60X7-S at NUWARAELIYA A: “70%”"
@@ -59839,20 +59867,6 @@
       "time": "20:20:58",
       "iso": "2026-08-26T14:50:58.298Z",
       "action": "updated remark for PH-MG7715 at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:30:42",
-      "iso": "2026-08-26T12:00:42.396Z",
-      "action": "updated remark for NCPO-OT275 at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:29:42",
-      "iso": "2026-08-26T11:59:42.695Z",
-      "action": "updated remark for NCPO-DC200 at KADAWATHA A: “45%”"
     }
   ]
 }
