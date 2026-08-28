@@ -60444,6 +60444,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:30:10",
       "lastUpdated": "2026-08-28T08:00:10.407Z"
+    },
+    "WF-DOC-M003-BU-S||WARIYAPOLA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:30:08",
+      "lastUpdated": "2026-08-28T08:00:08.364Z"
+    },
+    "SIN-BS30||WARIYAPOLA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:30:16",
+      "lastUpdated": "2026-08-28T08:00:16.862Z"
     }
   },
   "showroomVisits": {
@@ -61808,6 +61822,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:30:16",
+      "iso": "2026-08-28T08:00:16.864Z",
+      "action": "updated remark for SIN-BS30 at WARIYAPOLA: “Okay”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:30:08",
+      "iso": "2026-08-28T08:00:08.365Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at WARIYAPOLA: “Damaged - 75%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:30:10",
@@ -62142,20 +62170,6 @@
       "time": "13:20:53",
       "iso": "2026-08-28T07:50:53.568Z",
       "action": "updated remark for TF-SI-ESS-242 at WARIYAPOLA: “30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:20:48",
-      "iso": "2026-08-28T07:50:48.843Z",
-      "action": "updated remark for STT-1BSS at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:20:43",
-      "iso": "2026-08-28T07:50:43.242Z",
-      "action": "updated remark for STT-100K at CHILAW: “Damaged - 80%”"
     }
   ]
 }
