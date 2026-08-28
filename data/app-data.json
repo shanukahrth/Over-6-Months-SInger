@@ -59835,6 +59835,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:10:46",
       "lastUpdated": "2026-08-28T07:40:46.788Z"
+    },
+    "NCPDG-SET3||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:10:59",
+      "lastUpdated": "2026-08-28T07:40:59.952Z"
     }
   },
   "showroomVisits": {
@@ -61199,6 +61206,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:10:59",
+      "iso": "2026-08-28T07:40:59.953Z",
+      "action": "updated remark for NCPDG-SET3 at CHILAW: “Damaged - 80%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:10:46",
@@ -61540,13 +61554,6 @@
       "time": "12:58:03",
       "iso": "2026-08-28T07:28:03.279Z",
       "action": "updated remark for HFPA-GRAVITY-BLU at CHILAW: “Report for 24000”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:57:49",
-      "iso": "2026-08-28T07:27:49.206Z",
-      "action": "updated remark for H-RSQG018MFEOE at CHILAW: “Sold out”"
     }
   ]
 }
