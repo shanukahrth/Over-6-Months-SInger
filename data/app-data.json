@@ -58318,11 +58318,11 @@
       "lastUpdated": "2026-08-28T05:24:36.368Z"
     },
     "FAN-VIERA-TEAK-WL||KURUNEGALA C": {
-      "remark": "Damage - 50%",
+      "remark": "Damaged - 50%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "10:56:47",
-      "lastUpdated": "2026-08-28T05:26:47.506Z"
+      "commentTime": "12:17:34",
+      "lastUpdated": "2026-08-28T06:47:34.623Z"
     },
     "WFL-NEW-ATHENS-BG-S||NUWARAELIYA A": {
       "remark": "50%",
@@ -60669,6 +60669,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:17:34",
+      "iso": "2026-08-28T06:47:34.624Z",
+      "action": "updated remark for FAN-VIERA-TEAK-WL at KURUNEGALA C: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:16:52",
       "iso": "2026-08-28T06:46:52.381Z",
       "action": "updated remark for SIN-DEC-DCWL at KURUNEGALA C: “Damaged - 30%”"
@@ -61008,13 +61015,6 @@
       "time": "11:51:28",
       "iso": "2026-08-28T06:21:28.294Z",
       "action": "updated remark for WFL-NOC-T011-BU-S at KURUNEGALA C: “Display - 60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:51:23",
-      "iso": "2026-08-28T06:21:23.631Z",
-      "action": "updated remark for WFL-NOC-T011-BL-S at KURUNEGALA C: “Display - 60%”"
     }
   ]
 }
