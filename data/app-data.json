@@ -59450,6 +59450,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:41:04",
       "lastUpdated": "2026-08-28T07:11:04.870Z"
+    },
+    "CAN-I-E410||CHILAW": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:41:44",
+      "lastUpdated": "2026-08-28T07:11:44.518Z"
+    },
+    "CAN-I-MG2570S||CHILAW": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:41:47",
+      "lastUpdated": "2026-08-28T07:11:47.216Z"
     }
   },
   "showroomVisits": {
@@ -60816,6 +60830,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:41:47",
+      "iso": "2026-08-28T07:11:47.218Z",
+      "action": "updated remark for CAN-I-MG2570S at CHILAW: “Damaged - 85%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "12:41:44",
+      "iso": "2026-08-28T07:11:44.519Z",
+      "action": "updated remark for CAN-I-E410 at CHILAW: “Damaged - 85%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:41:04",
       "iso": "2026-08-28T07:11:04.872Z",
       "action": "updated remark for BES-CRS-51 at CHILAW: “Display - 30%”"
@@ -61148,20 +61176,6 @@
       "time": "12:01:47",
       "iso": "2026-08-28T06:31:47.870Z",
       "action": "updated remark for KV-13APT at KURUNEGALA C: “Damaged - Additional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:01:45",
-      "iso": "2026-08-28T06:31:45.892Z",
-      "action": "updated remark for KV-13APT at KURUNEGALA C: “Damamged - Additional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:01:43",
-      "iso": "2026-08-28T06:31:43.276Z",
-      "action": "updated remark for KV-13APT at KURUNEGALA C: “Damamged - Aditional 5%”"
     }
   ]
 }
