@@ -59877,6 +59877,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:12:59",
       "lastUpdated": "2026-08-28T07:42:59.342Z"
+    },
+    "PN-SC-BMAX10E-K||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:13:33",
+      "lastUpdated": "2026-08-28T07:43:33.594Z"
     }
   },
   "showroomVisits": {
@@ -61243,6 +61250,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:13:33",
+      "iso": "2026-08-28T07:43:33.596Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:12:59",
       "iso": "2026-08-28T07:42:59.343Z",
       "action": "updated remark for PN-CS-SU12XKY-8 at CHILAW: “Can sell”"
@@ -61582,13 +61596,6 @@
       "time": "13:00:09",
       "iso": "2026-08-28T07:30:09.394Z",
       "action": "updated remark for KA-SST032BKI at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:59:25",
-      "iso": "2026-08-28T07:29:25.308Z",
-      "action": "updated remark for HP-INKTANK-415 at CHILAW: “Damaged - 75%”"
     }
   ]
 }
