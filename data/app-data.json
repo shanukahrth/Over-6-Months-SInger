@@ -63041,9 +63041,9 @@
     "MEGA -KADUWELA||MEGA NORTH ZONE-": {
       "visited": "Yes",
       "visitDate": "2026-08-24",
-      "team": "",
+      "team": "Metro/Mega Team",
       "remark": "",
-      "updatedBy": "Sanduni Hansika",
+      "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-28"
     },
     "MEGA -MALABE||MEGA NORTH ZONE-": {
@@ -63278,6 +63278,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:05:13",
+      "iso": "2026-08-28T14:35:13.772Z",
+      "action": "updated MEGA -KADUWELA showroom (team: Metro/Mega Team)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-28",
@@ -63620,13 +63627,6 @@
       "time": "16:09:15",
       "iso": "2026-08-28T10:39:15.621Z",
       "action": "updated remark for WF-CHAIR-B-S at SHOMES- CHILAW: “Damaged- 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "16:08:41",
-      "iso": "2026-08-28T10:38:41.614Z",
-      "action": "updated remark for UDV3618SY at BINGIRIYA: “Sold out”"
     }
   ]
 }
