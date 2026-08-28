@@ -59471,6 +59471,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:55:19",
       "lastUpdated": "2026-08-28T07:25:19.427Z"
+    },
+    "DVP-SR370||CHILAW": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:55:27",
+      "lastUpdated": "2026-08-28T07:25:27.457Z"
     }
   },
   "showroomVisits": {
@@ -60837,6 +60844,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:55:27",
+      "iso": "2026-08-28T07:25:27.459Z",
+      "action": "updated remark for DVP-SR370 at CHILAW: “Damaged - 85%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:55:19",
       "iso": "2026-08-28T07:25:19.429Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at CHILAW: “Damaged - 85%”"
@@ -61176,13 +61190,6 @@
       "time": "12:03:47",
       "iso": "2026-08-28T06:33:47.033Z",
       "action": "updated remark for RIYLTA-MF12V25 at KURUNEGALA C: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:02:59",
-      "iso": "2026-08-28T06:32:59.023Z",
-      "action": "updated remark for LF-BUDGET-ST-AGO-S at KURUNEGALA C: “Damaged - 50%”"
     }
   ]
 }
