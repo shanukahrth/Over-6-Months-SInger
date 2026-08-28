@@ -59359,6 +59359,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:32:48",
       "lastUpdated": "2026-08-28T07:02:48.036Z"
+    },
+    "HON-X9C-12-256-BLK||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:33:21",
+      "lastUpdated": "2026-08-28T07:03:21.632Z"
     }
   },
   "showroomVisits": {
@@ -60725,6 +60732,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:33:21",
+      "iso": "2026-08-28T07:03:21.632Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "12:33:19",
+      "iso": "2026-08-28T07:03:19.239Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at CHILAW: “Damged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:32:48",
       "iso": "2026-08-28T07:02:48.037Z",
       "action": "updated remark for HON-X8C-8-512-WHT at CHILAW: “Damaged - 90%”"
@@ -61057,20 +61078,6 @@
       "time": "11:55:52",
       "iso": "2026-08-28T06:25:52.193Z",
       "action": "updated remark for WFL-ALP-HS-LDL-S at KURUNEGALA C: “Damaged - 60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:55:36",
-      "iso": "2026-08-28T06:25:36.459Z",
-      "action": "updated remark for WF-VENICE-PI-S at KURUNEGALA C: “Damaged - 60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:53:28",
-      "iso": "2026-08-28T06:23:28.504Z",
-      "action": "updated remark for WP-WFC105604RT-G at KURUNEGALA C: “Display - 35%”"
     }
   ]
 }
