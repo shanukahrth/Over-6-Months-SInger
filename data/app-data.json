@@ -59345,6 +59345,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:32:15",
       "lastUpdated": "2026-08-28T07:02:15.705Z"
+    },
+    "HON-X8C-8-512-GRN||CHILAW": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:32:29",
+      "lastUpdated": "2026-08-28T07:02:29.672Z"
     }
   },
   "showroomVisits": {
@@ -60711,6 +60718,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:32:29",
+      "iso": "2026-08-28T07:02:29.673Z",
+      "action": "updated remark for HON-X8C-8-512-GRN at CHILAW: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:32:15",
       "iso": "2026-08-28T07:02:15.706Z",
       "action": "updated remark for HON-X7A-6-128-SIL at CHILAW: “Damaged - 80%”"
@@ -61050,13 +61064,6 @@
       "time": "11:53:18",
       "iso": "2026-08-28T06:23:18.535Z",
       "action": "updated remark for WP-WDC11704RG-G at KURUNEGALA C: “Display - 25%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:53:00",
-      "iso": "2026-08-28T06:23:00.193Z",
-      "action": "updated remark for WP-12KINV at KURUNEGALA C: “Display - 10%”"
     }
   ]
 }
