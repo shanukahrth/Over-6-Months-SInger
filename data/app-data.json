@@ -59401,6 +59401,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:38:27",
       "lastUpdated": "2026-08-28T07:08:27.652Z"
+    },
+    "SMG-A36-5G-8-256-BLK||CHILAW": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:38:48",
+      "lastUpdated": "2026-08-28T07:08:48.014Z"
     }
   },
   "showroomVisits": {
@@ -60767,6 +60774,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:38:48",
+      "iso": "2026-08-28T07:08:48.014Z",
+      "action": "updated remark for SMG-A36-5G-8-256-BLK at CHILAW: “Damaged - 20%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:38:27",
       "iso": "2026-08-28T07:08:27.652Z",
       "action": "updated remark for SMG-A36-5G-12-256-BLK at CHILAW: “Sold out”"
@@ -61106,13 +61120,6 @@
       "time": "11:57:19",
       "iso": "2026-08-28T06:27:19.271Z",
       "action": "updated remark for WFL-SWSTK-MPL-20FT at KURUNEGALA C: “Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:56:31",
-      "iso": "2026-08-28T06:26:31.865Z",
-      "action": "updated remark for WFL-SPM-78X60X7-S at KURUNEGALA C: “Damaged - 70%”"
     }
   ]
 }
