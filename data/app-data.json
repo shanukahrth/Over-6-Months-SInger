@@ -61291,6 +61291,27 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:42:14",
       "lastUpdated": "2026-08-28T10:12:14.466Z"
+    },
+    "RIYLTA-MF12V4||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:42:34",
+      "lastUpdated": "2026-08-28T10:12:34.914Z"
+    },
+    "RIYLTA-MF12V51A||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:42:41",
+      "lastUpdated": "2026-08-28T10:12:41.382Z"
+    },
+    "RIYLTA-MF12V53B||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:42:44",
+      "lastUpdated": "2026-08-28T10:12:44.665Z"
     }
   },
   "showroomVisits": {
@@ -62687,6 +62708,27 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:42:44",
+      "iso": "2026-08-28T10:12:44.665Z",
+      "action": "updated remark for RIYLTA-MF12V53B at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:42:41",
+      "iso": "2026-08-28T10:12:41.383Z",
+      "action": "updated remark for RIYLTA-MF12V51A at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:42:34",
+      "iso": "2026-08-28T10:12:34.916Z",
+      "action": "updated remark for RIYLTA-MF12V4 at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
       "user": "Sanduni Hansika",
       "date": "2026-08-28",
       "time": "15:42:34",
@@ -63014,27 +63056,6 @@
       "time": "15:30:05",
       "iso": "2026-08-28T10:00:05.503Z",
       "action": "updated remark for LF-13754-S at SHOMES- CHILAW: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:29:38",
-      "iso": "2026-08-28T09:59:38.449Z",
-      "action": "updated remark for KN-JE280 at SHOMES- CHILAW: “Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:28:55",
-      "iso": "2026-08-28T09:58:55.437Z",
-      "action": "updated remark for KDL-50W660G at SHOMES- CHILAW: “Exchange Product”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:28:33",
-      "iso": "2026-08-28T09:58:33.008Z",
-      "action": "updated remark for KA-SDT26HW at SHOMES- CHILAW: “Damaged - 80%”"
     }
   ]
 }
