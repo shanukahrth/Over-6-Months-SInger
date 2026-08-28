@@ -4971,11 +4971,11 @@
       "lastUpdated": "2026-08-17T06:28:47.146Z"
     },
     "ALU-CL-5FT-S||KURUNEGALA C": {
-      "remark": "Damage - 50%",
-      "commentedBy": "Mihini Perera",
-      "commentDate": "2026-08-17",
-      "commentTime": "12:09:09",
-      "lastUpdated": "2026-08-17T06:39:09.526Z"
+      "remark": "Damage - 20%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:47:31",
+      "lastUpdated": "2026-08-28T05:17:31.087Z"
     },
     "WF-XB700||KURUNEGALA C": {
       "remark": "Damage - 50% (Battery Issue)",
@@ -59584,6 +59584,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "10:47:31",
+      "iso": "2026-08-28T05:17:31.088Z",
+      "action": "updated remark for ALU-CL-5FT-S at KURUNEGALA C: “Damage - 20%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "10:47:14",
       "iso": "2026-08-28T05:17:14.979Z",
       "action": "updated remark for ALU-CPH001E-PHNE-STND at KURUNEGALA C: “Damage - 50%”"
@@ -59923,13 +59930,6 @@
       "time": "10:24:38",
       "iso": "2026-08-28T04:54:38.804Z",
       "action": "updated remark for B-BMGB25332BG at NUWARAELIYA A: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:24:26",
-      "iso": "2026-08-28T04:54:26.564Z",
-      "action": "updated remark for B-BICT22100X at NUWARAELIYA A: “40% - Display”"
     }
   ]
 }
