@@ -59492,6 +59492,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:56:10",
       "lastUpdated": "2026-08-28T07:26:10.262Z"
+    },
+    "GEO-242D-SV||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:56:21",
+      "lastUpdated": "2026-08-28T07:26:21.443Z"
     }
   },
   "showroomVisits": {
@@ -60858,6 +60865,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:56:21",
+      "iso": "2026-08-28T07:26:21.444Z",
+      "action": "updated remark for GEO-242D-SV at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:56:10",
       "iso": "2026-08-28T07:26:10.263Z",
       "action": "updated remark for G-STC3900N at CHILAW: “Damaged - 70%”"
@@ -61197,13 +61211,6 @@
       "time": "12:07:15",
       "iso": "2026-08-28T06:37:15.781Z",
       "action": "updated remark for TF-NIGP26-119 at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:07:05",
-      "iso": "2026-08-28T06:37:05.083Z",
-      "action": "updated remark for TF-IT30-169 at KURUNEGALA C: “Damaged - 70%”"
     }
   ]
 }
