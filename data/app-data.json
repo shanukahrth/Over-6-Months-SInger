@@ -60304,6 +60304,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:26:09",
       "lastUpdated": "2026-08-28T07:56:09.314Z"
+    },
+    "TF-NIGP26-119||CHILAW": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:26:27",
+      "lastUpdated": "2026-08-28T07:56:27.011Z"
     }
   },
   "showroomVisits": {
@@ -61670,6 +61677,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:26:27",
+      "iso": "2026-08-28T07:56:27.013Z",
+      "action": "updated remark for TF-NIGP26-119 at CHILAW: “Damaged - 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:26:09",
       "iso": "2026-08-28T07:56:09.315Z",
       "action": "updated remark for TF-NIDFP24-170 at CHILAW: “Can sell”"
@@ -62009,13 +62023,6 @@
       "time": "13:17:23",
       "iso": "2026-08-28T07:47:23.611Z",
       "action": "updated remark for SLE43G890 at WARIYAPOLA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:17:01",
-      "iso": "2026-08-28T07:47:01.979Z",
-      "action": "updated remark for SLE40D600A at WARIYAPOLA: “Revert / Damaged - 90%”"
     }
   ]
 }
