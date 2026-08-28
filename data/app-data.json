@@ -59625,6 +59625,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:01:27",
       "lastUpdated": "2026-08-28T07:31:27.313Z"
+    },
+    "LF-OX-BR-S-S||CHILAW": {
+      "remark": "Display - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:01:48",
+      "lastUpdated": "2026-08-28T07:31:48.296Z"
     }
   },
   "showroomVisits": {
@@ -60991,6 +60998,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:01:48",
+      "iso": "2026-08-28T07:31:48.297Z",
+      "action": "updated remark for LF-OX-BR-S-S at CHILAW: “Display - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:01:27",
       "iso": "2026-08-28T07:31:27.314Z",
       "action": "updated remark for LF-MONT-BSC-SHW-S at CHILAW: “Display - 50%”"
@@ -61330,13 +61344,6 @@
       "time": "12:32:29",
       "iso": "2026-08-28T07:02:29.673Z",
       "action": "updated remark for HON-X8C-8-512-GRN at CHILAW: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:32:15",
-      "iso": "2026-08-28T07:02:15.706Z",
-      "action": "updated remark for HON-X7A-6-128-SIL at CHILAW: “Damaged - 80%”"
     }
   ]
 }
