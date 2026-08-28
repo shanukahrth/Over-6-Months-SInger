@@ -60864,6 +60864,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:17:24",
       "lastUpdated": "2026-08-28T09:47:24.227Z"
+    },
+    "SLE40E710||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:17:39",
+      "lastUpdated": "2026-08-28T09:47:39.875Z"
     }
   },
   "showroomVisits": {
@@ -62230,6 +62237,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "15:17:39",
+      "iso": "2026-08-28T09:47:39.877Z",
+      "action": "updated remark for SLE40E710 at BINGIRIYA: “H/O”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "15:17:24",
       "iso": "2026-08-28T09:47:24.229Z",
       "action": "updated remark for SLE32F590 at BINGIRIYA: “H/O”"
@@ -62569,13 +62583,6 @@
       "time": "13:39:56",
       "iso": "2026-08-28T08:09:56.971Z",
       "action": "updated remark for B-HCP61310X at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:39:40",
-      "iso": "2026-08-28T08:09:40.313Z",
-      "action": "updated remark for B-CFB9433X at SHOMES- CHILAW: “Damaged - 50%”"
     }
   ]
 }
