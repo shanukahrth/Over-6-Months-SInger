@@ -63057,7 +63057,7 @@
     "AKUREGODA - SLAF||KADUWELA": {
       "visited": "Yes",
       "visitDate": "2026-08-28",
-      "team": "",
+      "team": "Metro Team",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-28"
@@ -63113,7 +63113,7 @@
     "ANGODA||KADUWELA": {
       "visited": "Yes",
       "visitDate": "2026-08-28",
-      "team": "",
+      "team": "Metro Team",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-28"
@@ -63278,6 +63278,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:05:28",
+      "iso": "2026-08-28T14:35:28.596Z",
+      "action": "updated ANGODA showroom (team: Metro Team)"
+    },
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:05:25",
+      "iso": "2026-08-28T14:35:25.596Z",
+      "action": "updated AKUREGODA - SLAF showroom (team: Metro Team)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-28",
@@ -63613,20 +63627,6 @@
       "time": "16:09:44",
       "iso": "2026-08-28T10:39:44.826Z",
       "action": "updated remark for WF-CLAYTON-TBL-S at SHOMES- CHILAW: “Damaged- 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:09:31",
-      "iso": "2026-08-28T10:39:31.035Z",
-      "action": "updated remark for WF-CLASSIC-S at SHOMES- CHILAW: “Free Issue”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:09:15",
-      "iso": "2026-08-28T10:39:15.621Z",
-      "action": "updated remark for WF-CHAIR-B-S at SHOMES- CHILAW: “Damaged- 70%”"
     }
   ]
 }
