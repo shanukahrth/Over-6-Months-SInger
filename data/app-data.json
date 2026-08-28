@@ -60430,6 +60430,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:29:47",
       "lastUpdated": "2026-08-28T07:59:47.968Z"
+    },
+    "WFL-GLACIER-01-S||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:30:02",
+      "lastUpdated": "2026-08-28T08:00:02.447Z"
     }
   },
   "showroomVisits": {
@@ -61794,6 +61801,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:30:02",
+      "iso": "2026-08-28T08:00:02.449Z",
+      "action": "updated remark for WFL-GLACIER-01-S at CHILAW: “Damaged - 50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:29:47",
@@ -62135,13 +62149,6 @@
       "time": "13:20:47",
       "iso": "2026-08-28T07:50:47.032Z",
       "action": "updated remark for TF-NIGP26-119 at WARIYAPOLA: “30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:20:42",
-      "iso": "2026-08-28T07:50:42.159Z",
-      "action": "updated remark for TF-NIFP28-042 at WARIYAPOLA: “30%”"
     }
   ]
 }
