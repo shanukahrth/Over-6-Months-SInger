@@ -58106,6 +58106,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:39:09",
       "lastUpdated": "2026-08-28T05:09:09.582Z"
+    },
+    "WF-OSLO-BL-S||NUWARAELIYA A": {
+      "remark": "60% - Display unit",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:39:21",
+      "lastUpdated": "2026-08-28T05:09:21.714Z"
     }
   },
   "showroomVisits": {
@@ -59472,6 +59479,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:39:21",
+      "iso": "2026-08-28T05:09:21.716Z",
+      "action": "updated remark for WF-OSLO-BL-S at NUWARAELIYA A: “60% - Display unit”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:39:09",
       "iso": "2026-08-28T05:09:09.583Z",
       "action": "updated remark for WF-CLASSIC-BL-S at NUWARAELIYA A: “80% - Revert”"
@@ -59811,13 +59825,6 @@
       "time": "17:25:52",
       "iso": "2026-08-26T11:55:52.520Z",
       "action": "updated remark for SLE40D600A at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:25:50",
-      "iso": "2026-08-26T11:55:50.909Z",
-      "action": "updated remark for SLE32E930 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
