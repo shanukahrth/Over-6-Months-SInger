@@ -58064,6 +58064,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:36:07",
       "lastUpdated": "2026-08-28T05:06:07.112Z"
+    },
+    "PF-4DWR-BU-S||NUWARAELIYA A": {
+      "remark": "70% - Discolor",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:36:56",
+      "lastUpdated": "2026-08-28T05:06:56.165Z"
+    },
+    "WF-MAHO-TBL-S||NUWARAELIYA A": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:37:02",
+      "lastUpdated": "2026-08-28T05:07:02.928Z"
     }
   },
   "showroomVisits": {
@@ -59430,6 +59444,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:37:02",
+      "iso": "2026-08-28T05:07:02.929Z",
+      "action": "updated remark for WF-MAHO-TBL-S at NUWARAELIYA A: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
+      "time": "10:36:56",
+      "iso": "2026-08-28T05:06:56.166Z",
+      "action": "updated remark for PF-4DWR-BU-S at NUWARAELIYA A: “70% - Discolor”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:36:07",
       "iso": "2026-08-28T05:06:07.113Z",
       "action": "updated remark for PU-SP-1710 at NUWARAELIYA A: “Pantry - Shop display”"
@@ -59762,20 +59790,6 @@
       "time": "17:25:29",
       "iso": "2026-08-26T11:55:29.412Z",
       "action": "updated remark for STT-200K at KADAWATHA A: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:25:11",
-      "iso": "2026-08-26T11:55:11.180Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at KADAWATHA A: “MOP - 30,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:25:02",
-      "iso": "2026-08-26T11:55:02.193Z",
-      "action": "updated remark for SPAS81 at KADAWATHA A: “Damaged - 90%”"
     }
   ]
 }
