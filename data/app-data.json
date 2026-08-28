@@ -60591,6 +60591,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:41:55",
       "lastUpdated": "2026-08-28T08:11:55.064Z"
+    },
+    "GEO-182S-SV||SHOMES- CHILAW": {
+      "remark": "Display / Damaged - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:42:11",
+      "lastUpdated": "2026-08-28T08:12:11.952Z"
     }
   },
   "showroomVisits": {
@@ -61957,6 +61964,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:42:11",
+      "iso": "2026-08-28T08:12:11.954Z",
+      "action": "updated remark for GEO-182S-SV at SHOMES- CHILAW: “Display / Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:41:55",
       "iso": "2026-08-28T08:11:55.065Z",
       "action": "updated remark for FAN-WF1608R at SHOMES- CHILAW: “Display / Damaged - 50%”"
@@ -62296,13 +62310,6 @@
       "time": "13:26:09",
       "iso": "2026-08-28T07:56:09.315Z",
       "action": "updated remark for TF-NIDFP24-170 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:25:41",
-      "iso": "2026-08-28T07:55:41.113Z",
-      "action": "updated remark for WP-JUN-E-S at WARIYAPOLA: “Damaged - 75%”"
     }
   ]
 }
