@@ -61704,6 +61704,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:13:18",
       "lastUpdated": "2026-08-28T10:43:18.865Z"
+    },
+    "SLE75G6E||CHILAW": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:13:17",
+      "lastUpdated": "2026-08-28T10:43:17.023Z"
     }
   },
   "showroomVisits": {
@@ -63100,6 +63107,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "16:13:17",
+      "iso": "2026-08-28T10:43:17.026Z",
+      "action": "updated remark for SLE75G6E at CHILAW: “Sold out”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "16:13:18",
@@ -63441,13 +63455,6 @@
       "time": "15:57:16",
       "iso": "2026-08-28T10:27:16.810Z",
       "action": "updated remark for SLE43G890 at SHOMES- CHILAW: “Revert / Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:56:34",
-      "iso": "2026-08-28T10:26:34.896Z",
-      "action": "updated remark for SLE32E810 at SHOMES- CHILAW: “Revert / Damaged - 90%”"
     }
   ]
 }
