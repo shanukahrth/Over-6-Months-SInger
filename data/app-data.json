@@ -58953,6 +58953,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:44:48",
       "lastUpdated": "2026-08-28T06:14:48.561Z"
+    },
+    "TF-TW26-064||KURUNEGALA C": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:45:10",
+      "lastUpdated": "2026-08-28T06:15:10.079Z"
     }
   },
   "showroomVisits": {
@@ -60319,6 +60326,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:45:10",
+      "iso": "2026-08-28T06:15:10.081Z",
+      "action": "updated remark for TF-TW26-064 at KURUNEGALA C: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:44:48",
       "iso": "2026-08-28T06:14:48.562Z",
       "action": "updated remark for TF-SI-ESS-242 at KURUNEGALA C: “Damaged - 50%”"
@@ -60658,13 +60672,6 @@
       "time": "11:24:50",
       "iso": "2026-08-28T05:54:50.437Z",
       "action": "updated remark for NCPO-DC200 at KURUNEGALA C: “Damage -Additional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:24:46",
-      "iso": "2026-08-28T05:54:46.244Z",
-      "action": "updated remark for NCPO-FP280 at KURUNEGALA C: “Damage -Additional 5%”"
     }
   ]
 }
