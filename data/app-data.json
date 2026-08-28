@@ -59870,6 +59870,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:12:43",
       "lastUpdated": "2026-08-28T07:42:43.123Z"
+    },
+    "PN-CS-SU12XKY-8||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:12:59",
+      "lastUpdated": "2026-08-28T07:42:59.342Z"
     }
   },
   "showroomVisits": {
@@ -61236,6 +61243,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:12:59",
+      "iso": "2026-08-28T07:42:59.343Z",
+      "action": "updated remark for PN-CS-SU12XKY-8 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:12:43",
       "iso": "2026-08-28T07:42:43.124Z",
       "action": "updated remark for PH-S1121 at CHILAW: “Damaged - 80%”"
@@ -61575,13 +61589,6 @@
       "time": "12:59:25",
       "iso": "2026-08-28T07:29:25.308Z",
       "action": "updated remark for HP-INKTANK-415 at CHILAW: “Damaged - 75%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:58:55",
-      "iso": "2026-08-28T07:28:55.464Z",
-      "action": "updated remark for HON-CH-WATCH-2I-WH at CHILAW: “Sold out”"
     }
   ]
 }
