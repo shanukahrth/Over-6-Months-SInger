@@ -63049,7 +63049,7 @@
     "MEGA -MALABE||MEGA NORTH ZONE-": {
       "visited": "Yes",
       "visitDate": "2026-08-24",
-      "team": "",
+      "team": "Metro/Mega Team",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-28"
@@ -63278,6 +63278,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:08:28",
+      "iso": "2026-08-28T14:38:28.464Z",
+      "action": "updated MEGA -MALABE showroom (team: Metro/Mega Team)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-28",
@@ -63620,13 +63627,6 @@
       "time": "16:10:28",
       "iso": "2026-08-28T10:40:28.200Z",
       "action": "updated remark for WF-HARPER-DRS at SHOMES- CHILAW: “Damaged- 20%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "16:10:07",
-      "iso": "2026-08-28T10:40:07.054Z",
-      "action": "updated remark for STT-100K at BINGIRIYA: “H/O”"
     }
   ]
 }
