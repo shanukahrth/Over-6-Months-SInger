@@ -58533,6 +58533,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:07:40",
       "lastUpdated": "2026-08-28T05:37:40.453Z"
+    },
+    "LFI-BREE-CT-BR-S||KURUNEGALA C": {
+      "remark": "Damage - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:07:49",
+      "lastUpdated": "2026-08-28T05:37:49.816Z"
     }
   },
   "showroomVisits": {
@@ -59899,6 +59906,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:07:49",
+      "iso": "2026-08-28T05:37:49.817Z",
+      "action": "updated remark for LFI-BREE-CT-BR-S at KURUNEGALA C: “Damage - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:07:40",
       "iso": "2026-08-28T05:37:40.454Z",
       "action": "updated remark for LF-RUBY-3WD-SHW-S at KURUNEGALA C: “Damage - 40%”"
@@ -60238,13 +60252,6 @@
       "time": "10:52:55",
       "iso": "2026-08-28T05:22:55.009Z",
       "action": "updated remark for BTS-10KG at KURUNEGALA C: “Damage - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:52:38",
-      "iso": "2026-08-28T05:22:38.986Z",
-      "action": "updated remark for BY-ST-26SS at KURUNEGALA C: “Damage - 70%”"
     }
   ]
 }
