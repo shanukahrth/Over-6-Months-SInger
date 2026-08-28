@@ -58092,6 +58092,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:37:17",
       "lastUpdated": "2026-08-28T05:07:17.218Z"
+    },
+    "LF-ORBIT-CT-WNG-S||NUWARAELIYA A": {
+      "remark": "60% - Display unit",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:38:51",
+      "lastUpdated": "2026-08-28T05:08:51.790Z"
     }
   },
   "showroomVisits": {
@@ -59458,6 +59465,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:38:51",
+      "iso": "2026-08-28T05:08:51.791Z",
+      "action": "updated remark for LF-ORBIT-CT-WNG-S at NUWARAELIYA A: “60% - Display unit”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:37:17",
       "iso": "2026-08-28T05:07:17.219Z",
       "action": "updated remark for 123453224 at NUWARAELIYA A: “50%”"
@@ -59797,13 +59811,6 @@
       "time": "17:25:49",
       "iso": "2026-08-26T11:55:49.322Z",
       "action": "updated remark for SLE32E810 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:25:47",
-      "iso": "2026-08-26T11:55:47.483Z",
-      "action": "updated remark for SLE32E910 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
