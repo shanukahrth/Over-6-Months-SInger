@@ -60262,6 +60262,27 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:24:15",
       "lastUpdated": "2026-08-28T07:54:15.898Z"
+    },
+    "WFL-DBM-75X75||WARIYAPOLA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:24:26",
+      "lastUpdated": "2026-08-28T07:54:26.193Z"
+    },
+    "WFL-SPM-72X60X7-S||WARIYAPOLA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:24:29",
+      "lastUpdated": "2026-08-28T07:54:29.168Z"
+    },
+    "WFL-NOC-T011-BL-S||WARIYAPOLA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:24:32",
+      "lastUpdated": "2026-08-28T07:54:32.167Z"
     }
   },
   "showroomVisits": {
@@ -61628,6 +61649,27 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:24:32",
+      "iso": "2026-08-28T07:54:32.168Z",
+      "action": "updated remark for WFL-NOC-T011-BL-S at WARIYAPOLA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:24:29",
+      "iso": "2026-08-28T07:54:29.169Z",
+      "action": "updated remark for WFL-SPM-72X60X7-S at WARIYAPOLA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:24:26",
+      "iso": "2026-08-28T07:54:26.194Z",
+      "action": "updated remark for WFL-DBM-75X75 at WARIYAPOLA: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:24:15",
       "iso": "2026-08-28T07:54:15.901Z",
       "action": "updated remark for WF-PARIS-BL-S at WARIYAPOLA: “Damaged - 75%”"
@@ -61953,27 +61995,6 @@
       "time": "13:16:21",
       "iso": "2026-08-28T07:46:21.597Z",
       "action": "updated remark for SIN-EP170 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:16:16",
-      "iso": "2026-08-28T07:46:16.797Z",
-      "action": "updated remark for SIN-AIRPKO6A at CHILAW: “Damaged - 70%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:16:15",
-      "iso": "2026-08-28T07:46:15.279Z",
-      "action": "updated remark for SLE32E930 at WARIYAPOLA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:16:05",
-      "iso": "2026-08-28T07:46:05.522Z",
-      "action": "updated remark for SLE32E920 at WARIYAPOLA: “Revert / Damaged - 90%”"
     }
   ]
 }
