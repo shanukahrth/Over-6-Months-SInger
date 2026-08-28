@@ -59422,6 +59422,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:39:50",
       "lastUpdated": "2026-08-28T07:09:50.536Z"
+    },
+    "AVERY-300KG||CHILAW": {
+      "remark": "10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:40:00",
+      "lastUpdated": "2026-08-28T07:10:00.586Z"
     }
   },
   "showroomVisits": {
@@ -60788,6 +60795,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:40:00",
+      "iso": "2026-08-28T07:10:00.588Z",
+      "action": "updated remark for AVERY-300KG at CHILAW: “10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:39:50",
       "iso": "2026-08-28T07:09:50.537Z",
       "action": "updated remark for AES-HAV-30S at CHILAW: “Damaged - 10%”"
@@ -61127,13 +61141,6 @@
       "time": "11:58:40",
       "iso": "2026-08-28T06:28:40.855Z",
       "action": "updated remark for U-BS8816 at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:58:02",
-      "iso": "2026-08-28T06:28:02.442Z",
-      "action": "updated remark for WP-WFC105604RT-G at KURUNEGALA C: “Damaged - 35%”"
     }
   ]
 }
