@@ -59443,6 +59443,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:40:40",
       "lastUpdated": "2026-08-28T07:10:40.754Z"
+    },
+    "BES-CRS-51||CHILAW": {
+      "remark": "Display - 30%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:41:04",
+      "lastUpdated": "2026-08-28T07:11:04.870Z"
     }
   },
   "showroomVisits": {
@@ -60809,6 +60816,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:41:04",
+      "iso": "2026-08-28T07:11:04.872Z",
+      "action": "updated remark for BES-CRS-51 at CHILAW: “Display - 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:40:40",
       "iso": "2026-08-28T07:10:40.756Z",
       "action": "updated remark for B-RDNI315XIB300P at CHILAW: “Display - 50%”"
@@ -61148,13 +61162,6 @@
       "time": "12:01:43",
       "iso": "2026-08-28T06:31:43.276Z",
       "action": "updated remark for KV-13APT at KURUNEGALA C: “Damamged - Aditional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:00:37",
-      "iso": "2026-08-28T06:30:37.227Z",
-      "action": "updated remark for ENG-UB2608 at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
