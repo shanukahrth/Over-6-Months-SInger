@@ -60500,6 +60500,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:33:40",
       "lastUpdated": "2026-08-28T08:03:40.198Z"
+    },
+    "BC-KNP-AG||WARIYAPOLA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:35:59",
+      "lastUpdated": "2026-08-28T08:05:59.353Z"
     }
   },
   "showroomVisits": {
@@ -61864,6 +61871,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:35:59",
+      "iso": "2026-08-28T08:05:59.354Z",
+      "action": "updated remark for BC-KNP-AG at WARIYAPOLA: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:35:56",
+      "iso": "2026-08-28T08:05:56.335Z",
+      "action": "updated remark for BC-KNP-AG at WARIYAPOLA: “Damadged - 60%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:33:40",
@@ -62198,20 +62219,6 @@
       "time": "13:22:15",
       "iso": "2026-08-28T07:52:15.452Z",
       "action": "updated remark for TF-GCA-1336 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:22:06",
-      "iso": "2026-08-28T07:52:06.795Z",
-      "action": "updated remark for TF-FX100028 at CHILAW: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:21:56",
-      "iso": "2026-08-28T07:51:56.623Z",
-      "action": "updated remark for TH-TC-351 at WARIYAPOLA: “Okay”"
     }
   ]
 }
