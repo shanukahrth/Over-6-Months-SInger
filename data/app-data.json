@@ -60535,6 +60535,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:39:40",
       "lastUpdated": "2026-08-28T08:09:40.312Z"
+    },
+    "B-HCP61310X||SHOMES- CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:39:56",
+      "lastUpdated": "2026-08-28T08:09:56.969Z"
     }
   },
   "showroomVisits": {
@@ -61901,6 +61908,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:39:56",
+      "iso": "2026-08-28T08:09:56.971Z",
+      "action": "updated remark for B-HCP61310X at SHOMES- CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:39:40",
       "iso": "2026-08-28T08:09:40.313Z",
       "action": "updated remark for B-CFB9433X at SHOMES- CHILAW: “Damaged - 50%”"
@@ -62240,13 +62254,6 @@
       "time": "13:24:26",
       "iso": "2026-08-28T07:54:26.194Z",
       "action": "updated remark for WFL-DBM-75X75 at WARIYAPOLA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:24:15",
-      "iso": "2026-08-28T07:54:15.901Z",
-      "action": "updated remark for WF-PARIS-BL-S at WARIYAPOLA: “Damaged - 75%”"
     }
   ]
 }
