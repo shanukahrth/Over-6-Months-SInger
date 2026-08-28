@@ -58701,6 +58701,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:27:09",
       "lastUpdated": "2026-08-28T05:57:09.279Z"
+    },
+    "RIYLTA-MF12V53B||KURUNEGALA C": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:28:33",
+      "lastUpdated": "2026-08-28T05:58:33.678Z"
     }
   },
   "showroomVisits": {
@@ -60067,6 +60074,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:28:33",
+      "iso": "2026-08-28T05:58:33.680Z",
+      "action": "updated remark for RIYLTA-MF12V53B at KURUNEGALA C: “Damaged - 90%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:27:09",
       "iso": "2026-08-28T05:57:09.280Z",
       "action": "updated remark for RIYLTA-MF12V51A at KURUNEGALA C: “Damaged - 80%”"
@@ -60406,13 +60420,6 @@
       "time": "11:04:41",
       "iso": "2026-08-28T05:34:41.422Z",
       "action": "updated remark for LF-LEO-BRM-WNG at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:04:36",
-      "iso": "2026-08-28T05:34:36.479Z",
-      "action": "updated remark for LF-EUSTON-TVS-WH-S at KURUNEGALA C: “Damage - 50%”"
     }
   ]
 }
