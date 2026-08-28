@@ -59205,6 +59205,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:02:07",
       "lastUpdated": "2026-08-28T06:32:07.113Z"
+    },
+    "LF-BUDGET-ST-AGO-S||KURUNEGALA C": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:02:59",
+      "lastUpdated": "2026-08-28T06:32:59.022Z"
     }
   },
   "showroomVisits": {
@@ -60571,6 +60578,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:02:59",
+      "iso": "2026-08-28T06:32:59.023Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at KURUNEGALA C: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:02:07",
       "iso": "2026-08-28T06:32:07.115Z",
       "action": "updated remark for KV-FPAU5A at KURUNEGALA C: “Damaged - Additional 5%”"
@@ -60910,13 +60924,6 @@
       "time": "11:45:18",
       "iso": "2026-08-28T06:15:18.391Z",
       "action": "updated remark for TF-TY9086HO at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:45:10",
-      "iso": "2026-08-28T06:15:10.081Z",
-      "action": "updated remark for TF-TW26-064 at KURUNEGALA C: “Damaged - 50%”"
     }
   ]
 }
