@@ -59779,6 +59779,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:09:47",
       "lastUpdated": "2026-08-28T07:39:47.615Z"
+    },
+    "LG-001||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:09:48",
+      "lastUpdated": "2026-08-28T07:39:48.498Z"
+    },
+    "LG-002||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:09:54",
+      "lastUpdated": "2026-08-28T07:39:54.507Z"
     }
   },
   "showroomVisits": {
@@ -61143,6 +61157,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:09:54",
+      "iso": "2026-08-28T07:39:54.508Z",
+      "action": "updated remark for LG-002 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:09:48",
+      "iso": "2026-08-28T07:39:48.500Z",
+      "action": "updated remark for LG-001 at CHILAW: “Can sell”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:09:47",
@@ -61477,20 +61505,6 @@
       "time": "12:56:21",
       "iso": "2026-08-28T07:26:21.444Z",
       "action": "updated remark for GEO-242D-SV at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:56:10",
-      "iso": "2026-08-28T07:26:10.263Z",
-      "action": "updated remark for G-STC3900N at CHILAW: “Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:55:47",
-      "iso": "2026-08-28T07:25:47.147Z",
-      "action": "updated remark for FAN-VIERA-TEAK at CHILAW: “Damaged - 20%”"
     }
   ]
 }
