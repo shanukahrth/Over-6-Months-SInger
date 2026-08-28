@@ -61613,6 +61613,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:09:31",
       "lastUpdated": "2026-08-28T10:39:31.033Z"
+    },
+    "WF-CLAYTON-TBL-S||SHOMES- CHILAW": {
+      "remark": "Damaged- 70%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:09:44",
+      "lastUpdated": "2026-08-28T10:39:44.825Z"
     }
   },
   "showroomVisits": {
@@ -63011,6 +63018,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "16:09:44",
+      "iso": "2026-08-28T10:39:44.826Z",
+      "action": "updated remark for WF-CLAYTON-TBL-S at SHOMES- CHILAW: “Damaged- 70%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "16:09:31",
       "iso": "2026-08-28T10:39:31.035Z",
       "action": "updated remark for WF-CLASSIC-S at SHOMES- CHILAW: “Free Issue”"
@@ -63350,13 +63364,6 @@
       "time": "15:51:19",
       "iso": "2026-08-28T10:21:19.615Z",
       "action": "updated remark for SAS24TCNR at SHOMES- CHILAW: “Damaged - 30%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:50:45",
-      "iso": "2026-08-28T10:20:45.951Z",
-      "action": "updated remark for SAIL180103 at SHOMES- CHILAW: “Damaged - 95%”"
     }
   ]
 }
