@@ -59863,6 +59863,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:12:14",
       "lastUpdated": "2026-08-28T07:42:14.704Z"
+    },
+    "PH-S1121||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:12:43",
+      "lastUpdated": "2026-08-28T07:42:43.123Z"
     }
   },
   "showroomVisits": {
@@ -61229,6 +61236,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:12:43",
+      "iso": "2026-08-28T07:42:43.124Z",
+      "action": "updated remark for PH-S1121 at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:12:14",
       "iso": "2026-08-28T07:42:14.705Z",
       "action": "updated remark for PF-MONDY-BLACK at CHILAW: “Sold out”"
@@ -61568,13 +61582,6 @@
       "time": "12:58:55",
       "iso": "2026-08-28T07:28:55.464Z",
       "action": "updated remark for HON-CH-WATCH-2I-WH at CHILAW: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:58:44",
-      "iso": "2026-08-28T07:28:44.459Z",
-      "action": "updated remark for HON-CH-EARBUDS-X7E at CHILAW: “Free issue”"
     }
   ]
 }
