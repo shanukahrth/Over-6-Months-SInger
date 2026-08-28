@@ -58764,6 +58764,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:33:26",
       "lastUpdated": "2026-08-28T06:03:26.072Z"
+    },
+    "SIN-RFC-1819||KURUNEGALA C": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:33:37",
+      "lastUpdated": "2026-08-28T06:03:37.181Z"
     }
   },
   "showroomVisits": {
@@ -60130,6 +60137,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:33:37",
+      "iso": "2026-08-28T06:03:37.182Z",
+      "action": "updated remark for SIN-RFC-1819 at KURUNEGALA C: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:33:26",
       "iso": "2026-08-28T06:03:26.075Z",
       "action": "updated remark for SIN-PSVX938N at KURUNEGALA C: “Damaged - 45%”"
@@ -60469,13 +60483,6 @@
       "time": "11:07:22",
       "iso": "2026-08-28T05:37:22.150Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:07:17",
-      "iso": "2026-08-28T05:37:17.787Z",
-      "action": "updated remark for LF-OX-BR-M-WNT-S at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
