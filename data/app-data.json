@@ -58883,6 +58883,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:41:31",
       "lastUpdated": "2026-08-28T06:11:31.557Z"
+    },
+    "TCL65C655||KURUNEGALA C": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:41:52",
+      "lastUpdated": "2026-08-28T06:11:52.820Z"
     }
   },
   "showroomVisits": {
@@ -60249,6 +60256,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:41:52",
+      "iso": "2026-08-28T06:11:52.822Z",
+      "action": "updated remark for TCL65C655 at KURUNEGALA C: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:41:31",
       "iso": "2026-08-28T06:11:31.558Z",
       "action": "updated remark for SW-ST19025BLK at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -60588,13 +60602,6 @@
       "time": "11:22:32",
       "iso": "2026-08-28T05:52:32.931Z",
       "action": "updated remark for PN-SC-BMAX5E-K at KURUNEGALA C: “Damaged - 10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:22:31",
-      "iso": "2026-08-28T05:52:31.106Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at KURUNEGALA C: “Damaged - 10%”"
     }
   ]
 }
