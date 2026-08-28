@@ -58610,6 +58610,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:09:57",
       "lastUpdated": "2026-08-28T05:39:57.588Z"
+    },
+    "PF-FLAP-PY-S||KURUNEGALA C": {
+      "remark": "Damage - 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:10:02",
+      "lastUpdated": "2026-08-28T05:40:02.160Z"
     }
   },
   "showroomVisits": {
@@ -59976,6 +59983,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:10:02",
+      "iso": "2026-08-28T05:40:02.162Z",
+      "action": "updated remark for PF-FLAP-PY-S at KURUNEGALA C: “Damage - 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:09:57",
       "iso": "2026-08-28T05:39:57.588Z",
       "action": "updated remark for PF-ENVISION-BL-S at KURUNEGALA C: “Damage - 5%”"
@@ -60315,13 +60329,6 @@
       "time": "10:55:36",
       "iso": "2026-08-28T05:25:36.042Z",
       "action": "updated remark for DUM - SMGAR50F24D1J at KURUNEGALA C (cleared)"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:54:36",
-      "iso": "2026-08-28T05:24:36.369Z",
-      "action": "updated remark for ENG-UE20012 at KURUNEGALA C: “Damage - 80%”"
     }
   ]
 }
