@@ -60241,6 +60241,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:22:28",
       "lastUpdated": "2026-08-28T07:52:28.133Z"
+    },
+    "TF-KD24-061||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:22:47",
+      "lastUpdated": "2026-08-28T07:52:47.485Z"
     }
   },
   "showroomVisits": {
@@ -61607,6 +61614,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:22:47",
+      "iso": "2026-08-28T07:52:47.487Z",
+      "action": "updated remark for TF-KD24-061 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:22:28",
       "iso": "2026-08-28T07:52:28.134Z",
       "action": "updated remark for TF-GS-SPKT302 at CHILAW: “Can sell”"
@@ -61946,13 +61960,6 @@
       "time": "13:15:35",
       "iso": "2026-08-28T07:45:35.863Z",
       "action": "updated remark for SAS24TCNR at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:15:21",
-      "iso": "2026-08-28T07:45:21.149Z",
-      "action": "updated remark for RIYLTA-MF12V53B at CHILAW: “Damaged - 90%”"
     }
   ]
 }
