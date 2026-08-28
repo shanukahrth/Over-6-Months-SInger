@@ -61109,6 +61109,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:32:07",
       "lastUpdated": "2026-08-28T10:02:07.058Z"
+    },
+    "WP-SP-SG-S||BINGIRIYA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:32:44",
+      "lastUpdated": "2026-08-28T10:02:44.779Z"
     }
   },
   "showroomVisits": {
@@ -62475,6 +62482,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "15:32:44",
+      "iso": "2026-08-28T10:02:44.782Z",
+      "action": "updated remark for WP-SP-SG-S at BINGIRIYA: “Damaged - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "15:32:07",
       "iso": "2026-08-28T10:02:07.060Z",
       "action": "updated remark for BES-CRS-51 at BINGIRIYA: “10%”"
@@ -62814,13 +62828,6 @@
       "time": "15:10:02",
       "iso": "2026-08-28T09:40:02.694Z",
       "action": "updated remark for SAIL180102 at BINGIRIYA: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:09:52",
-      "iso": "2026-08-28T09:39:52.173Z",
-      "action": "updated remark for RCS-04 at BINGIRIYA: “Can sell”"
     }
   ]
 }
