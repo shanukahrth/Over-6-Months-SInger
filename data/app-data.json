@@ -60717,6 +60717,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "14:04:23",
       "lastUpdated": "2026-08-28T08:34:23.651Z"
+    },
+    "LP-AP01||BINGIRIYA": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "14:04:54",
+      "lastUpdated": "2026-08-28T08:34:54.734Z"
     }
   },
   "showroomVisits": {
@@ -62083,6 +62090,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "14:04:54",
+      "iso": "2026-08-28T08:34:54.735Z",
+      "action": "updated remark for LP-AP01 at BINGIRIYA: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "14:04:23",
       "iso": "2026-08-28T08:34:23.653Z",
       "action": "updated remark for KLV-32W602D at BINGIRIYA: “H/O”"
@@ -62422,13 +62436,6 @@
       "time": "13:29:23",
       "iso": "2026-08-28T07:59:23.536Z",
       "action": "updated remark for TF-NIDFP24-170 at WARIYAPOLA: “30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:29:11",
-      "iso": "2026-08-28T07:59:11.658Z",
-      "action": "updated remark for WF-COD-B-S at CHILAW: “Damaged - 50%”"
     }
   ]
 }
