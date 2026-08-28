@@ -58750,6 +58750,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:31:43",
       "lastUpdated": "2026-08-28T06:01:43.316Z"
+    },
+    "SIN-DEC-FDC||KURUNEGALA C": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:32:23",
+      "lastUpdated": "2026-08-28T06:02:23.385Z"
     }
   },
   "showroomVisits": {
@@ -60116,6 +60123,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:32:23",
+      "iso": "2026-08-28T06:02:23.388Z",
+      "action": "updated remark for SIN-DEC-FDC at KURUNEGALA C: “Damaged - 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:31:43",
       "iso": "2026-08-28T06:01:43.318Z",
       "action": "updated remark for SIN-BS30 at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -60455,13 +60469,6 @@
       "time": "11:06:34",
       "iso": "2026-08-28T05:36:34.121Z",
       "action": "updated remark for LF-ORGN-BDQ-WHT at KURUNEGALA C: “Damage - 55%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:06:27",
-      "iso": "2026-08-28T05:36:27.589Z",
-      "action": "updated remark for LF-MANEL-IC-AGO at KURUNEGALA C: “Damage - 55%”"
     }
   ]
 }
