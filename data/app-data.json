@@ -60633,6 +60633,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:59:12",
       "lastUpdated": "2026-08-28T08:29:12.809Z"
+    },
+    "SIN-DELTA-DC||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:59:42",
+      "lastUpdated": "2026-08-28T08:29:42.246Z"
+    },
+    "SIN-DUO-W10||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:59:51",
+      "lastUpdated": "2026-08-28T08:29:51.332Z"
     }
   },
   "showroomVisits": {
@@ -61999,6 +62013,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:59:51",
+      "iso": "2026-08-28T08:29:51.333Z",
+      "action": "updated remark for SIN-DUO-W10 at BINGIRIYA: “H/O”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:59:42",
+      "iso": "2026-08-28T08:29:42.246Z",
+      "action": "updated remark for SIN-DELTA-DC at BINGIRIYA: “H/O”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:59:12",
       "iso": "2026-08-28T08:29:12.809Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRY at BINGIRIYA: “Can sell”"
@@ -62331,20 +62359,6 @@
       "time": "13:27:03",
       "iso": "2026-08-28T07:57:03.095Z",
       "action": "updated remark for TF-TT357170 at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:27:01",
-      "iso": "2026-08-28T07:57:01.165Z",
-      "action": "updated remark for SLE40D600A at WARIYAPOLA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:26:45",
-      "iso": "2026-08-28T07:56:45.482Z",
-      "action": "updated remark for B-HIAG64223SXL at WARIYAPOLA: “Okay”"
     }
   ]
 }
