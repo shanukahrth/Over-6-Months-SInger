@@ -60472,6 +60472,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:30:56",
       "lastUpdated": "2026-08-28T08:00:56.656Z"
+    },
+    "WP-CHLX-100-S||CHILAW": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:31:29",
+      "lastUpdated": "2026-08-28T08:01:29.790Z"
     }
   },
   "showroomVisits": {
@@ -61838,6 +61845,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:31:29",
+      "iso": "2026-08-28T08:01:29.791Z",
+      "action": "updated remark for WP-CHLX-100-S at CHILAW: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:30:56",
       "iso": "2026-08-28T08:00:56.658Z",
       "action": "updated remark for WFL-SPM-78X72X7-S at CHILAW: “Damaged - 85% Exchange rate”"
@@ -62177,13 +62191,6 @@
       "time": "13:21:45",
       "iso": "2026-08-28T07:51:45.514Z",
       "action": "updated remark for TF-CM-APR737 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:21:40",
-      "iso": "2026-08-28T07:51:40.587Z",
-      "action": "updated remark for TF-AF32-577 at CHILAW: “Can sell”"
     }
   ]
 }
