@@ -59674,6 +59674,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:04:31",
       "lastUpdated": "2026-08-28T07:34:31.691Z"
+    },
+    "LF-EUSTON-TVS-WH-S||WARIYAPOLA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:05:47",
+      "lastUpdated": "2026-08-28T07:35:47.299Z"
     }
   },
   "showroomVisits": {
@@ -61040,6 +61047,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:05:47",
+      "iso": "2026-08-28T07:35:47.301Z",
+      "action": "updated remark for LF-EUSTON-TVS-WH-S at WARIYAPOLA: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:04:31",
       "iso": "2026-08-28T07:34:31.692Z",
       "action": "updated remark for APS-300KG at WARIYAPOLA: “10%”"
@@ -61379,13 +61393,6 @@
       "time": "12:36:57",
       "iso": "2026-08-28T07:06:57.465Z",
       "action": "updated remark for NUBIA-NEO3-5G-8-256-BLK at CHILAW: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:36:22",
-      "iso": "2026-08-28T07:06:22.014Z",
-      "action": "updated remark for NUBIA-NEO3-5G-8-256-BLK at CHILAW: “Display - 30%”"
     }
   ]
 }
