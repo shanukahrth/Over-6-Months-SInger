@@ -60073,6 +60073,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:18:41",
       "lastUpdated": "2026-08-28T07:48:41.791Z"
+    },
+    "SLE43G890||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:18:51",
+      "lastUpdated": "2026-08-28T07:48:51.114Z"
     }
   },
   "showroomVisits": {
@@ -61437,6 +61444,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:18:51",
+      "iso": "2026-08-28T07:48:51.115Z",
+      "action": "updated remark for SLE43G890 at CHILAW: “Damaged - 50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:18:41",
@@ -61778,13 +61792,6 @@
       "time": "13:09:38",
       "iso": "2026-08-28T07:39:38.579Z",
       "action": "updated remark for LF-WIN-S-S at CHILAW: “Damaged - 60% EOL”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:09:34",
-      "iso": "2026-08-28T07:39:34.466Z",
-      "action": "updated remark for R-BWS-02 at WARIYAPOLA: “10%”"
     }
   ]
 }
