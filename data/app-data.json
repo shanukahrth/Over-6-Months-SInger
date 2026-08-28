@@ -61242,6 +61242,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:40:17",
       "lastUpdated": "2026-08-28T10:10:17.322Z"
+    },
+    "TF-GS-SPKT302||BINGIRIYA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:40:19",
+      "lastUpdated": "2026-08-28T10:10:19.154Z"
     }
   },
   "showroomVisits": {
@@ -62622,6 +62629,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "15:40:19",
+      "iso": "2026-08-28T10:10:19.157Z",
+      "action": "updated remark for TF-GS-SPKT302 at BINGIRIYA: “Damaged - 10%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "15:40:17",
@@ -62963,13 +62977,6 @@
       "time": "15:20:39",
       "iso": "2026-08-28T09:50:39.372Z",
       "action": "updated remark for WFL-SWSTK-SL-6FT at BINGIRIYA: “Damaged - 20%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:20:21",
-      "iso": "2026-08-28T09:50:21.277Z",
-      "action": "updated remark for WFL-SPM-78X72X8-S at BINGIRIYA: “Exchange”"
     }
   ]
 }
