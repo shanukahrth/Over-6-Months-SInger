@@ -57896,6 +57896,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:24:44",
       "lastUpdated": "2026-08-28T04:54:44.835Z"
+    },
+    "IND-IHPC64LMX||NUWARAELIYA A": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:24:49",
+      "lastUpdated": "2026-08-28T04:54:49.154Z"
     }
   },
   "showroomVisits": {
@@ -59262,6 +59269,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:24:49",
+      "iso": "2026-08-28T04:54:49.156Z",
+      "action": "updated remark for IND-IHPC64LMX at NUWARAELIYA A: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:24:44",
       "iso": "2026-08-28T04:54:44.836Z",
       "action": "updated remark for B-CFB9433X at NUWARAELIYA A: “Sellable at existing price”"
@@ -59601,13 +59615,6 @@
       "time": "17:17:00",
       "iso": "2026-08-26T11:47:00.271Z",
       "action": "updated remark for SWD-MFC120 at KADAWATHA A: “Damaged - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:16:30",
-      "iso": "2026-08-26T11:46:30.214Z",
-      "action": "updated remark for WC-XR1605 at KADAWATHA A: “Active SKU”"
     }
   ]
 }
