@@ -63053,6 +63053,14 @@
       "remark": "",
       "updatedBy": "Sanduni Hansika",
       "updatedDate": "2026-08-28"
+    },
+    "AKUREGODA - SLAF||KADUWELA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-28"
     }
   },
   "soldMarks": {
@@ -63190,6 +63198,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:01:00",
+      "iso": "2026-08-28T14:31:00.457Z",
+      "action": "updated AKUREGODA - SLAF showroom (visited: Yes)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-28",
@@ -63532,13 +63547,6 @@
       "time": "16:03:29",
       "iso": "2026-08-28T10:33:29.379Z",
       "action": "updated remark for UPU-ULTIMA418 at SHOMES- CHILAW: “Damaged- 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:02:56",
-      "iso": "2026-08-28T10:32:56.201Z",
-      "action": "updated remark for ULED32D60A at SHOMES- CHILAW: “sold”"
     }
   ]
 }
