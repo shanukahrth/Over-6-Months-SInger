@@ -59130,11 +59130,11 @@
       "lastUpdated": "2026-08-28T06:27:35.391Z"
     },
     "WP-WDC11704RG-G||KURUNEGALA C": {
-      "remark": "Display - 25%",
+      "remark": "Damaged - 25%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:53:18",
-      "lastUpdated": "2026-08-28T06:23:18.533Z"
+      "commentTime": "11:57:52",
+      "lastUpdated": "2026-08-28T06:27:52.808Z"
     },
     "WP-WFC105604RT-G||KURUNEGALA C": {
       "remark": "Display - 35%",
@@ -60536,6 +60536,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:57:52",
+      "iso": "2026-08-28T06:27:52.808Z",
+      "action": "updated remark for WP-WDC11704RG-G at KURUNEGALA C: “Damaged - 25%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:57:35",
       "iso": "2026-08-28T06:27:35.393Z",
       "action": "updated remark for WP-12KINV at KURUNEGALA C: “Damaged - 10%”"
@@ -60875,13 +60882,6 @@
       "time": "11:42:32",
       "iso": "2026-08-28T06:12:32.722Z",
       "action": "updated remark for TF-FP24-SCR342 at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:42:23",
-      "iso": "2026-08-28T06:12:23.538Z",
-      "action": "updated remark for TF-CM-APR737 at KURUNEGALA C: “Damaged - 30%”"
     }
   ]
 }
