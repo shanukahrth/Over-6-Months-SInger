@@ -60738,6 +60738,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "14:05:18",
       "lastUpdated": "2026-08-28T08:35:18.655Z"
+    },
+    "MX-AF123127||BINGIRIYA": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "14:05:28",
+      "lastUpdated": "2026-08-28T08:35:28.688Z"
     }
   },
   "showroomVisits": {
@@ -62104,6 +62111,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "14:05:28",
+      "iso": "2026-08-28T08:35:28.690Z",
+      "action": "updated remark for MX-AF123127 at BINGIRIYA: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "14:05:18",
       "iso": "2026-08-28T08:35:18.656Z",
       "action": "updated remark for MID-MC-ID351 at BINGIRIYA: “Can sell”"
@@ -62443,13 +62457,6 @@
       "time": "13:29:40",
       "iso": "2026-08-28T07:59:40.174Z",
       "action": "updated remark for WFL-DIANA-CHR-S at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:29:31",
-      "iso": "2026-08-28T07:59:31.625Z",
-      "action": "updated remark for WF-OSLO-BL-S at CHILAW: “Damaged - 50%”"
     }
   ]
 }
