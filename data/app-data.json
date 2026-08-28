@@ -59891,6 +59891,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:13:44",
       "lastUpdated": "2026-08-28T07:43:44.333Z"
+    },
+    "PN-TH-32P401N||CHILAW": {
+      "remark": "Revert Damaged - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:14:20",
+      "lastUpdated": "2026-08-28T07:44:20.884Z"
+    },
+    "PN-TH-65MX740N||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:14:26",
+      "lastUpdated": "2026-08-28T07:44:26.227Z"
     }
   },
   "showroomVisits": {
@@ -61257,6 +61271,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:14:26",
+      "iso": "2026-08-28T07:44:26.229Z",
+      "action": "updated remark for PN-TH-65MX740N at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:14:20",
+      "iso": "2026-08-28T07:44:20.886Z",
+      "action": "updated remark for PN-TH-32P401N at CHILAW: “Revert Damaged - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:13:44",
       "iso": "2026-08-28T07:43:44.335Z",
       "action": "updated remark for PN-SC-TMAX5GSK at CHILAW: “Damaged - 75%”"
@@ -61589,20 +61617,6 @@
       "time": "13:00:55",
       "iso": "2026-08-28T07:30:55.352Z",
       "action": "updated remark for LF-3D-WD-CHY-S at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:00:43",
-      "iso": "2026-08-28T07:30:43.080Z",
-      "action": "updated remark for KV-FPA-13A at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:00:28",
-      "iso": "2026-08-28T07:30:28.586Z",
-      "action": "updated remark for KV-3WFPA-13A at CHILAW: “Damaged - 50%”"
     }
   ]
 }
