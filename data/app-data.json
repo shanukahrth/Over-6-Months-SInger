@@ -59947,6 +59947,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:15:53",
       "lastUpdated": "2026-08-28T07:45:53.124Z"
+    },
+    "SDV3605K||CHILAW": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:16:05",
+      "lastUpdated": "2026-08-28T07:46:05.192Z"
     }
   },
   "showroomVisits": {
@@ -61311,6 +61318,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:16:05",
+      "iso": "2026-08-28T07:46:05.194Z",
+      "action": "updated remark for SDV3605K at CHILAW: “Sold out”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:15:53",
@@ -61652,13 +61666,6 @@
       "time": "13:02:45",
       "iso": "2026-08-28T07:32:45.552Z",
       "action": "updated remark for HON-X9C-12-256-PPL at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:02:07",
-      "iso": "2026-08-28T07:32:07.394Z",
-      "action": "updated remark for EDU-HDMI at WARIYAPOLA: “Okay”"
     }
   ]
 }
