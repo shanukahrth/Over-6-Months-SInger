@@ -58169,6 +58169,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:41:17",
       "lastUpdated": "2026-08-28T05:11:17.140Z"
+    },
+    "LF-LOUVRE-BSC-L-S||NUWARAELIYA A": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:41:31",
+      "lastUpdated": "2026-08-28T05:11:31.003Z"
+    },
+    "LF-MONT-BSC-SHW-S||NUWARAELIYA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:41:36",
+      "lastUpdated": "2026-08-28T05:11:36.740Z"
     }
   },
   "showroomVisits": {
@@ -59535,6 +59549,20 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:41:36",
+      "iso": "2026-08-28T05:11:36.741Z",
+      "action": "updated remark for LF-MONT-BSC-SHW-S at NUWARAELIYA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
+      "time": "10:41:31",
+      "iso": "2026-08-28T05:11:31.004Z",
+      "action": "updated remark for LF-LOUVRE-BSC-L-S at NUWARAELIYA A: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:41:17",
       "iso": "2026-08-28T05:11:17.141Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at NUWARAELIYA A: “10%”"
@@ -59867,20 +59895,6 @@
       "time": "10:23:41",
       "iso": "2026-08-28T04:53:41.176Z",
       "action": "updated remark for PN-SC-UA30GS-K at NUWARAELIYA A: “40% - Parts missing”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:22:17",
-      "iso": "2026-08-28T04:52:17.830Z",
-      "action": "updated remark for PN-SC-UA30GS-K at NUWARAELIYA A: “40% -”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:21:41",
-      "iso": "2026-08-28T04:51:41.561Z",
-      "action": "updated remark for PN-SC-UA30GS-K at NUWARAELIYA A: “40”"
     }
   ]
 }
