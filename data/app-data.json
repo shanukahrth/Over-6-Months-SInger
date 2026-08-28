@@ -59765,6 +59765,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:09:34",
       "lastUpdated": "2026-08-28T07:39:34.465Z"
+    },
+    "LF-WIN-S-S||CHILAW": {
+      "remark": "Damaged - 60% EOL",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:09:38",
+      "lastUpdated": "2026-08-28T07:39:38.577Z"
     }
   },
   "showroomVisits": {
@@ -61129,6 +61136,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:09:38",
+      "iso": "2026-08-28T07:39:38.579Z",
+      "action": "updated remark for LF-WIN-S-S at CHILAW: “Damaged - 60% EOL”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:09:34",
@@ -61470,13 +61484,6 @@
       "time": "12:55:38",
       "iso": "2026-08-28T07:25:38.886Z",
       "action": "updated remark for FAN-VIERA-TEAK at CHILAW: “Damaged - 20%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:55:27",
-      "iso": "2026-08-28T07:25:27.459Z",
-      "action": "updated remark for DVP-SR370 at CHILAW: “Damaged - 85%”"
     }
   ]
 }
