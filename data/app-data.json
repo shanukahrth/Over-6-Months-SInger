@@ -59709,6 +59709,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:07:30",
       "lastUpdated": "2026-08-28T07:37:30.402Z"
+    },
+    "LFLCDCHAMP-BLK-S||WARIYAPOLA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:07:43",
+      "lastUpdated": "2026-08-28T07:37:43.994Z"
     }
   },
   "showroomVisits": {
@@ -61075,6 +61082,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:07:43",
+      "iso": "2026-08-28T07:37:43.995Z",
+      "action": "updated remark for LFLCDCHAMP-BLK-S at WARIYAPOLA: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:07:30",
       "iso": "2026-08-28T07:37:30.404Z",
       "action": "updated remark for LFLCDCHAMP-AGO-S at WARIYAPOLA: “Damaged - 80%”"
@@ -61414,13 +61428,6 @@
       "time": "12:40:00",
       "iso": "2026-08-28T07:10:00.588Z",
       "action": "updated remark for AVERY-300KG at CHILAW: “10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:39:50",
-      "iso": "2026-08-28T07:09:50.537Z",
-      "action": "updated remark for AES-HAV-30S at CHILAW: “Damaged - 10%”"
     }
   ]
 }
