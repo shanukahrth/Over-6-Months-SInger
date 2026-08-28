@@ -59198,6 +59198,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:01:47",
       "lastUpdated": "2026-08-28T06:31:47.870Z"
+    },
+    "KV-FPAU5A||KURUNEGALA C": {
+      "remark": "Damaged - Additional 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:02:07",
+      "lastUpdated": "2026-08-28T06:32:07.113Z"
     }
   },
   "showroomVisits": {
@@ -60564,6 +60571,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:02:07",
+      "iso": "2026-08-28T06:32:07.115Z",
+      "action": "updated remark for KV-FPAU5A at KURUNEGALA C: “Damaged - Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:01:47",
       "iso": "2026-08-28T06:31:47.870Z",
       "action": "updated remark for KV-13APT at KURUNEGALA C: “Damaged - Additional 5%”"
@@ -60903,13 +60917,6 @@
       "time": "11:45:10",
       "iso": "2026-08-28T06:15:10.081Z",
       "action": "updated remark for TF-TW26-064 at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:44:48",
-      "iso": "2026-08-28T06:14:48.562Z",
-      "action": "updated remark for TF-SI-ESS-242 at KURUNEGALA C: “Damaged - 50%”"
     }
   ]
 }
