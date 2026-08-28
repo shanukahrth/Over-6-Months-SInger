@@ -58085,6 +58085,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:37:10",
       "lastUpdated": "2026-08-28T05:07:10.694Z"
+    },
+    "123453224||NUWARAELIYA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:37:17",
+      "lastUpdated": "2026-08-28T05:07:17.218Z"
     }
   },
   "showroomVisits": {
@@ -59451,6 +59458,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:37:17",
+      "iso": "2026-08-28T05:07:17.219Z",
+      "action": "updated remark for 123453224 at NUWARAELIYA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:37:10",
       "iso": "2026-08-28T05:07:10.695Z",
       "action": "updated remark for WF-NOR-CHR-S at NUWARAELIYA A: “RTNWH”"
@@ -59790,13 +59804,6 @@
       "time": "17:25:47",
       "iso": "2026-08-26T11:55:47.483Z",
       "action": "updated remark for SLE32E910 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:25:45",
-      "iso": "2026-08-26T11:55:45.877Z",
-      "action": "updated remark for SLE43G890 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
