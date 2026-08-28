@@ -57966,6 +57966,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:31:27",
       "lastUpdated": "2026-08-28T05:01:27.532Z"
+    },
+    "FAN-P-SF1605HR||NUWARAELIYA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:31:37",
+      "lastUpdated": "2026-08-28T05:01:37.306Z"
     }
   },
   "showroomVisits": {
@@ -59332,6 +59339,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:31:37",
+      "iso": "2026-08-28T05:01:37.306Z",
+      "action": "updated remark for FAN-P-SF1605HR at NUWARAELIYA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:31:27",
       "iso": "2026-08-28T05:01:27.533Z",
       "action": "updated remark for FAN-P-1605H at NUWARAELIYA A: “40%”"
@@ -59671,13 +59685,6 @@
       "time": "17:23:07",
       "iso": "2026-08-26T11:53:07.068Z",
       "action": "updated remark for SMGUA32N4010 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:23:05",
-      "iso": "2026-08-26T11:53:05.946Z",
-      "action": "updated remark for SMGUA32J5100 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
