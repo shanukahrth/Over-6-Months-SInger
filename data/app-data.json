@@ -59298,11 +59298,11 @@
       "lastUpdated": "2026-08-28T06:45:13.769Z"
     },
     "WFI-DELPHI-CHR-S||KURUNEGALA C": {
-      "remark": "Display - 60%",
+      "remark": "Damaged - 60%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "12:16:17",
-      "lastUpdated": "2026-08-28T06:46:17.260Z"
+      "commentTime": "12:16:44",
+      "lastUpdated": "2026-08-28T06:46:44.854Z"
     }
   },
   "showroomVisits": {
@@ -60669,6 +60669,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:16:44",
+      "iso": "2026-08-28T06:46:44.855Z",
+      "action": "updated remark for WFI-DELPHI-CHR-S at KURUNEGALA C: “Damaged - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:16:37",
       "iso": "2026-08-28T06:46:37.687Z",
       "action": "updated remark for TF-NIDFP24-170 at KURUNEGALA C: “Damaged - 50%”"
@@ -61008,13 +61015,6 @@
       "time": "11:51:15",
       "iso": "2026-08-28T06:21:15.874Z",
       "action": "updated remark for WFL-GRIP-CT02-S at KURUNEGALA C: “Display - 60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:51:05",
-      "iso": "2026-08-28T06:21:05.921Z",
-      "action": "updated remark for WFL-GRIP-CT01-S at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
