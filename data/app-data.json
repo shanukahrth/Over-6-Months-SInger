@@ -60022,8 +60022,8 @@
       "remark": "Revert / Damaged - 90%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-28",
-      "commentTime": "13:17:38",
-      "lastUpdated": "2026-08-28T07:47:38.838Z"
+      "commentTime": "13:26:28",
+      "lastUpdated": "2026-08-28T07:56:28.601Z"
     },
     "SLE32D2010TC||CHILAW": {
       "remark": "Damaged - 90%",
@@ -61675,6 +61675,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:26:28",
+      "iso": "2026-08-28T07:56:28.603Z",
+      "action": "updated remark for SLE43G890 at WARIYAPOLA: “Revert / Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:26:28",
+      "iso": "2026-08-28T07:56:28.186Z",
+      "action": "updated remark for SLE43G890 at WARIYAPOLA: “Revert / Damadged - 90%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:26:27",
@@ -62009,20 +62023,6 @@
       "time": "13:17:44",
       "iso": "2026-08-28T07:47:44.473Z",
       "action": "updated remark for SLE32D5000 at CHILAW: “Damaged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:17:36",
-      "iso": "2026-08-28T07:47:36.756Z",
-      "action": "updated remark for SLE32D2010TC at CHILAW: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:17:23",
-      "iso": "2026-08-28T07:47:23.611Z",
-      "action": "updated remark for SLE43G890 at WARIYAPOLA: “Revert / Damaged - 90%”"
     }
   ]
 }
