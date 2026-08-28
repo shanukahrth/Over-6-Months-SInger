@@ -60010,6 +60010,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:16:52",
       "lastUpdated": "2026-08-28T07:46:52.177Z"
+    },
+    "SIN-VBS-90PA||CHILAW": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:17:00",
+      "lastUpdated": "2026-08-28T07:47:00.815Z"
     }
   },
   "showroomVisits": {
@@ -61376,6 +61383,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:17:00",
+      "iso": "2026-08-28T07:47:00.816Z",
+      "action": "updated remark for SIN-VBS-90PA at CHILAW: “Damaged - 75%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:16:52",
       "iso": "2026-08-28T07:46:52.179Z",
       "action": "updated remark for SIN-RFC-1819 at CHILAW: “Can sell”"
@@ -61715,13 +61729,6 @@
       "time": "13:07:12",
       "iso": "2026-08-28T07:37:12.146Z",
       "action": "updated remark for LF-SP-1868 at WARIYAPOLA: “Damadged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:06:56",
-      "iso": "2026-08-28T07:36:56.734Z",
-      "action": "updated remark for LF-PROMO-CT-S at WARIYAPOLA: “Damaged  - 50%”"
     }
   ]
 }
