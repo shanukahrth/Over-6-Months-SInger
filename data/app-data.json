@@ -59884,6 +59884,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:13:33",
       "lastUpdated": "2026-08-28T07:43:33.594Z"
+    },
+    "PN-SC-TMAX5GSK||CHILAW": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:13:44",
+      "lastUpdated": "2026-08-28T07:43:44.333Z"
     }
   },
   "showroomVisits": {
@@ -61250,6 +61257,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:13:44",
+      "iso": "2026-08-28T07:43:44.335Z",
+      "action": "updated remark for PN-SC-TMAX5GSK at CHILAW: “Damaged - 75%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:13:33",
       "iso": "2026-08-28T07:43:33.596Z",
       "action": "updated remark for PN-SC-BMAX10E-K at CHILAW: “Can sell”"
@@ -61589,13 +61603,6 @@
       "time": "13:00:28",
       "iso": "2026-08-28T07:30:28.586Z",
       "action": "updated remark for KV-3WFPA-13A at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:00:09",
-      "iso": "2026-08-28T07:30:09.394Z",
-      "action": "updated remark for KA-SST032BKI at CHILAW: “Can sell”"
     }
   ]
 }
