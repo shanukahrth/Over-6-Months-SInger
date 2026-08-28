@@ -57987,6 +57987,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:31:56",
       "lastUpdated": "2026-08-28T05:01:56.480Z"
+    },
+    "LF-LEO-18023-WNG-S||NUWARAELIYA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:32:03",
+      "lastUpdated": "2026-08-28T05:02:03.803Z"
+    },
+    "OF-COM-T-S||NUWARAELIYA A": {
+      "remark": "RTNWH",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:32:12",
+      "lastUpdated": "2026-08-28T05:02:12.166Z"
     }
   },
   "showroomVisits": {
@@ -59353,6 +59367,27 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:32:12",
+      "iso": "2026-08-28T05:02:12.167Z",
+      "action": "updated remark for OF-COM-T-S at NUWARAELIYA A: “RTNWH”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
+      "time": "10:32:03",
+      "iso": "2026-08-28T05:02:03.803Z",
+      "action": "updated remark for LF-LEO-18023-WNG-S at NUWARAELIYA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
+      "time": "10:32:01",
+      "iso": "2026-08-28T05:02:01.470Z",
+      "action": "updated remark for LF-LEO-18023-WNG-S at NUWARAELIYA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:31:56",
       "iso": "2026-08-28T05:01:56.481Z",
       "action": "updated remark for GRIP-8201-S at NUWARAELIYA A: “RTNWH”"
@@ -59678,27 +59713,6 @@
       "time": "17:23:18",
       "iso": "2026-08-26T11:53:18.567Z",
       "action": "updated remark for SLE32E910 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:23:17",
-      "iso": "2026-08-26T11:53:17.365Z",
-      "action": "updated remark for SLE32E810 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:23:12",
-      "iso": "2026-08-26T11:53:12.447Z",
-      "action": "updated remark for SLE32D1800 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:23:10",
-      "iso": "2026-08-26T11:53:10.780Z",
-      "action": "updated remark for SLE28D2730 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
