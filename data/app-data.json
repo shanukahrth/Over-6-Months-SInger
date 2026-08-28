@@ -59025,11 +59025,11 @@
       "lastUpdated": "2026-08-28T06:18:22.989Z"
     },
     "WF-VENICE-PI-S||KURUNEGALA C": {
-      "remark": "Display - 60%",
+      "remark": "Damaged - 60%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:48:36",
-      "lastUpdated": "2026-08-28T06:18:36.022Z"
+      "commentTime": "11:55:36",
+      "lastUpdated": "2026-08-28T06:25:36.457Z"
     },
     "WFI-DELPHI-TBL-S||KURUNEGALA C": {
       "remark": "Display - 60%",
@@ -60508,6 +60508,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:55:36",
+      "iso": "2026-08-28T06:25:36.459Z",
+      "action": "updated remark for WF-VENICE-PI-S at KURUNEGALA C: “Damaged - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:53:28",
       "iso": "2026-08-28T06:23:28.504Z",
       "action": "updated remark for WP-WFC105604RT-G at KURUNEGALA C: “Display - 35%”"
@@ -60847,13 +60854,6 @@
       "time": "11:38:14",
       "iso": "2026-08-28T06:08:14.566Z",
       "action": "updated remark for SMGUA55DU7500 at KURUNEGALA C: “Damage - 35%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:37:31",
-      "iso": "2026-08-28T06:07:31.657Z",
-      "action": "updated remark for SLE75H4000 at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
