@@ -59142,6 +59142,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:53:28",
       "lastUpdated": "2026-08-28T06:23:28.500Z"
+    },
+    "WFL-ALP-HS-LDL-S||KURUNEGALA C": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:55:52",
+      "lastUpdated": "2026-08-28T06:25:52.192Z"
     }
   },
   "showroomVisits": {
@@ -60508,6 +60515,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:55:52",
+      "iso": "2026-08-28T06:25:52.193Z",
+      "action": "updated remark for WFL-ALP-HS-LDL-S at KURUNEGALA C: “Damaged - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:55:36",
       "iso": "2026-08-28T06:25:36.459Z",
       "action": "updated remark for WF-VENICE-PI-S at KURUNEGALA C: “Damaged - 60%”"
@@ -60847,13 +60861,6 @@
       "time": "11:38:25",
       "iso": "2026-08-28T06:08:25.196Z",
       "action": "updated remark for SMW823AY7 at KURUNEGALA C: “Damage - 20%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:38:14",
-      "iso": "2026-08-28T06:08:14.566Z",
-      "action": "updated remark for SMGUA55DU7500 at KURUNEGALA C: “Damage - 35%”"
     }
   ]
 }
