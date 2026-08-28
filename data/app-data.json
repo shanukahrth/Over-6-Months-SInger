@@ -58043,6 +58043,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:33:53",
       "lastUpdated": "2026-08-28T05:03:53.583Z"
+    },
+    "LF-ECO-BDS-BON||NUWARAELIYA A": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:35:09",
+      "lastUpdated": "2026-08-28T05:05:09.156Z"
     }
   },
   "showroomVisits": {
@@ -59409,6 +59416,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:35:09",
+      "iso": "2026-08-28T05:05:09.158Z",
+      "action": "updated remark for LF-ECO-BDS-BON at NUWARAELIYA A: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:33:53",
       "iso": "2026-08-28T05:03:53.584Z",
       "action": "updated remark for LF-BUDGET-BDQ-CRW-S at NUWARAELIYA A: “50%”"
@@ -59748,13 +59762,6 @@
       "time": "17:24:20",
       "iso": "2026-08-26T11:54:20.809Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at KADAWATHA A: “MOP - 30,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:23:38",
-      "iso": "2026-08-26T11:53:38.147Z",
-      "action": "updated remark for SLE43G790 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
