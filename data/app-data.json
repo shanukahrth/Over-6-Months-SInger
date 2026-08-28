@@ -60647,6 +60647,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:59:51",
       "lastUpdated": "2026-08-28T08:29:51.332Z"
+    },
+    "SIN-NOTE-W10||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "14:00:12",
+      "lastUpdated": "2026-08-28T08:30:12.950Z"
     }
   },
   "showroomVisits": {
@@ -62013,6 +62020,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "14:00:12",
+      "iso": "2026-08-28T08:30:12.950Z",
+      "action": "updated remark for SIN-NOTE-W10 at BINGIRIYA: “H/O”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:59:51",
       "iso": "2026-08-28T08:29:51.333Z",
       "action": "updated remark for SIN-DUO-W10 at BINGIRIYA: “H/O”"
@@ -62352,13 +62366,6 @@
       "time": "13:27:23",
       "iso": "2026-08-28T07:57:23.959Z",
       "action": "updated remark for TF-TW26-064 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:27:03",
-      "iso": "2026-08-28T07:57:03.095Z",
-      "action": "updated remark for TF-TT357170 at CHILAW: “Damaged - 80%”"
     }
   ]
 }
