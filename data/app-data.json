@@ -60423,6 +60423,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:29:40",
       "lastUpdated": "2026-08-28T07:59:40.172Z"
+    },
+    "WF-DOC-T009-BU-S||WARIYAPOLA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:29:47",
+      "lastUpdated": "2026-08-28T07:59:47.968Z"
     }
   },
   "showroomVisits": {
@@ -61787,6 +61794,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:29:47",
+      "iso": "2026-08-28T07:59:47.970Z",
+      "action": "updated remark for WF-DOC-T009-BU-S at WARIYAPOLA: “Damaged - 75%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:29:40",
@@ -62128,13 +62142,6 @@
       "time": "13:20:42",
       "iso": "2026-08-28T07:50:42.159Z",
       "action": "updated remark for TF-NIFP28-042 at WARIYAPOLA: “30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:20:36",
-      "iso": "2026-08-28T07:50:36.778Z",
-      "action": "updated remark for STARLINK-HP at CHILAW: “Can sell”"
     }
   ]
 }
