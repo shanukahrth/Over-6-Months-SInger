@@ -61221,6 +61221,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:38:06",
       "lastUpdated": "2026-08-28T10:08:06.809Z"
+    },
+    "PN-CS-XU12XKYW-8||SHOMES- CHILAW": {
+      "remark": "Damaged - 65%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:38:23",
+      "lastUpdated": "2026-08-28T10:08:23.250Z"
     }
   },
   "showroomVisits": {
@@ -62593,6 +62600,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:38:23",
+      "iso": "2026-08-28T10:08:23.252Z",
+      "action": "updated remark for PN-CS-XU12XKYW-8 at SHOMES- CHILAW: “Damaged - 65%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "15:38:06",
@@ -62934,13 +62948,6 @@
       "time": "15:19:22",
       "iso": "2026-08-28T09:49:22.700Z",
       "action": "updated remark for UR591SW at BINGIRIYA: “Damaged - 30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:19:16",
-      "iso": "2026-08-28T09:49:16.684Z",
-      "action": "updated remark for UJB-LB6027 at BINGIRIYA: “Damaged - 30%”"
     }
   ]
 }
