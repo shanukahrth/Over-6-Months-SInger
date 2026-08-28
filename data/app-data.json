@@ -58050,6 +58050,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:35:09",
       "lastUpdated": "2026-08-28T05:05:09.156Z"
+    },
+    "LF-NIKO-CT||NUWARAELIYA A": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:35:24",
+      "lastUpdated": "2026-08-28T05:05:24.009Z"
     }
   },
   "showroomVisits": {
@@ -59416,6 +59423,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:35:24",
+      "iso": "2026-08-28T05:05:24.010Z",
+      "action": "updated remark for LF-NIKO-CT at NUWARAELIYA A: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:35:09",
       "iso": "2026-08-28T05:05:09.158Z",
       "action": "updated remark for LF-ECO-BDS-BON at NUWARAELIYA A: “70%”"
@@ -59755,13 +59769,6 @@
       "time": "17:24:39",
       "iso": "2026-08-26T11:54:39.159Z",
       "action": "updated remark for TF-FP24-SCR342 at KADAWATHA A: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:24:20",
-      "iso": "2026-08-26T11:54:20.809Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at KADAWATHA A: “MOP - 30,000”"
     }
   ]
 }
