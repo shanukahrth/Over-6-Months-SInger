@@ -59226,6 +59226,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:04:10",
       "lastUpdated": "2026-08-28T06:34:10.999Z"
+    },
+    "TF-IT30-169||KURUNEGALA C": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:07:05",
+      "lastUpdated": "2026-08-28T06:37:05.081Z"
     }
   },
   "showroomVisits": {
@@ -60592,6 +60599,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:07:05",
+      "iso": "2026-08-28T06:37:05.083Z",
+      "action": "updated remark for TF-IT30-169 at KURUNEGALA C: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:05:37",
       "iso": "2026-08-28T06:35:37.862Z",
       "action": "updated remark for SLE40D600A at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -60931,13 +60945,6 @@
       "time": "11:46:50",
       "iso": "2026-08-28T06:16:50.215Z",
       "action": "updated remark for WF-BALTIC-01-S at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:46:32",
-      "iso": "2026-08-28T06:16:32.928Z",
-      "action": "updated remark for WF-AWANA-09-S at KURUNEGALA C: “Damaged - 75%”"
     }
   ]
 }
