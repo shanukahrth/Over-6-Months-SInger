@@ -61074,6 +61074,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:30:42",
       "lastUpdated": "2026-08-28T10:00:42.440Z"
+    },
+    "LF-OFI-ST-001-SHW-S||SHOMES- CHILAW": {
+      "remark": "Damaged - 20%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:31:06",
+      "lastUpdated": "2026-08-28T10:01:06.173Z"
     }
   },
   "showroomVisits": {
@@ -62440,6 +62447,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:31:06",
+      "iso": "2026-08-28T10:01:06.174Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at SHOMES- CHILAW: “Damaged - 20%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:30:42",
       "iso": "2026-08-28T10:00:42.440Z",
       "action": "updated remark for LF-COAST-TVS-SWW-S at SHOMES- CHILAW: “Damaged - 50%”"
@@ -62779,13 +62793,6 @@
       "time": "14:06:24",
       "iso": "2026-08-28T08:36:24.786Z",
       "action": "updated remark for PCP50 at BINGIRIYA: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "14:06:05",
-      "iso": "2026-08-28T08:36:05.602Z",
-      "action": "updated remark for NCPO-DC200 at BINGIRIYA: “Can sell”"
     }
   ]
 }
