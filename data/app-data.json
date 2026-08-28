@@ -60556,6 +60556,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:40:38",
       "lastUpdated": "2026-08-28T08:10:38.383Z"
+    },
+    "BTS-5KG||SHOMES- CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:40:56",
+      "lastUpdated": "2026-08-28T08:10:56.896Z"
     }
   },
   "showroomVisits": {
@@ -61922,6 +61929,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:40:56",
+      "iso": "2026-08-28T08:10:56.898Z",
+      "action": "updated remark for BTS-5KG at SHOMES- CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:40:38",
       "iso": "2026-08-28T08:10:38.384Z",
       "action": "updated remark for BTS-10KG at SHOMES- CHILAW: “Damaged - 60%”"
@@ -62261,13 +62275,6 @@
       "time": "13:24:38",
       "iso": "2026-08-28T07:54:38.241Z",
       "action": "updated remark for WP-JUN-E-S at WARIYAPOLA: “Damaged - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:24:32",
-      "iso": "2026-08-28T07:54:32.168Z",
-      "action": "updated remark for WFL-NOC-T011-BL-S at WARIYAPOLA: “Damaged - 75%”"
     }
   ]
 }
