@@ -63061,6 +63061,30 @@
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-28"
+    },
+    "BATTARAMULLA||KADUWELA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-28"
+    },
+    "DELGODA||KADUWELA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-28"
+    },
+    "GOTHATUWA||KADUWELA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-28"
     }
   },
   "soldMarks": {
@@ -63198,6 +63222,27 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:01:31",
+      "iso": "2026-08-28T14:31:31.969Z",
+      "action": "updated GOTHATUWA showroom (visited: Yes)"
+    },
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:01:29",
+      "iso": "2026-08-28T14:31:29.813Z",
+      "action": "updated DELGODA showroom (visited: Yes)"
+    },
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:01:27",
+      "iso": "2026-08-28T14:31:27.192Z",
+      "action": "updated BATTARAMULLA showroom (visited: Yes)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-28",
@@ -63526,27 +63571,6 @@
       "time": "16:04:17",
       "iso": "2026-08-28T10:34:17.721Z",
       "action": "updated remark for WC-IK609 at SHOMES- CHILAW: “Damaged- 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:04:12",
-      "iso": "2026-08-28T10:34:12.941Z",
-      "action": "updated remark for WC-IK609 at SHOMES- CHILAW: “Damaged- 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:03:44",
-      "iso": "2026-08-28T10:33:44.261Z",
-      "action": "updated remark for UR591SW at SHOMES- CHILAW: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:03:29",
-      "iso": "2026-08-28T10:33:29.379Z",
-      "action": "updated remark for UPU-ULTIMA418 at SHOMES- CHILAW: “Damaged- 40%”"
     }
   ]
 }
