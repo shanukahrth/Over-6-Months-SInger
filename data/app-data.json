@@ -59590,6 +59590,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:00:28",
       "lastUpdated": "2026-08-28T07:30:28.585Z"
+    },
+    "KV-FPA-13A||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:00:43",
+      "lastUpdated": "2026-08-28T07:30:43.079Z"
     }
   },
   "showroomVisits": {
@@ -60956,6 +60963,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:00:43",
+      "iso": "2026-08-28T07:30:43.080Z",
+      "action": "updated remark for KV-FPA-13A at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:00:28",
       "iso": "2026-08-28T07:30:28.586Z",
       "action": "updated remark for KV-3WFPA-13A at CHILAW: “Damaged - 50%”"
@@ -61295,13 +61309,6 @@
       "time": "12:30:37",
       "iso": "2026-08-28T07:00:37.486Z",
       "action": "updated remark for DELL-5502-512-I5-SIL at CHILAW: “Damaged - 70% No parts available”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:23:45",
-      "iso": "2026-08-28T06:53:45.646Z",
-      "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at CHILAW: “Sold out”"
     }
   ]
 }
