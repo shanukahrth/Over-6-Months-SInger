@@ -58505,6 +58505,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:06:27",
       "lastUpdated": "2026-08-28T05:36:27.588Z"
+    },
+    "LF-ORGN-BDQ-WHT||KURUNEGALA C": {
+      "remark": "Damage - 55%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:06:34",
+      "lastUpdated": "2026-08-28T05:36:34.120Z"
     }
   },
   "showroomVisits": {
@@ -59871,6 +59878,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:06:34",
+      "iso": "2026-08-28T05:36:34.121Z",
+      "action": "updated remark for LF-ORGN-BDQ-WHT at KURUNEGALA C: “Damage - 55%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:06:27",
       "iso": "2026-08-28T05:36:27.589Z",
       "action": "updated remark for LF-MANEL-IC-AGO at KURUNEGALA C: “Damage - 55%”"
@@ -60210,13 +60224,6 @@
       "time": "10:51:55",
       "iso": "2026-08-28T05:21:55.770Z",
       "action": "updated remark for BES-WP15T at KURUNEGALA C: “Damage - 30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:51:46",
-      "iso": "2026-08-28T05:21:46.201Z",
-      "action": "updated remark for B-WTV11512XS0 at KURUNEGALA C: “Damage - 30%”"
     }
   ]
 }
