@@ -58619,11 +58619,11 @@
       "lastUpdated": "2026-08-28T05:40:02.160Z"
     },
     "PF-STRG-BX-20L-S||KURUNEGALA C": {
-      "remark": "Damage - 5%",
+      "remark": "Damage - Additional 5%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:10:11",
-      "lastUpdated": "2026-08-28T05:40:11.477Z"
+      "commentTime": "11:23:49",
+      "lastUpdated": "2026-08-28T05:53:49.124Z"
     },
     "PN-CS-U13XKH||KURUNEGALA C": {
       "remark": "Damage - 5%",
@@ -58666,6 +58666,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:23:09",
       "lastUpdated": "2026-08-28T05:53:09.076Z"
+    },
+    "PH-NHC3505||KURUNEGALA C": {
+      "remark": "Damage - Additional5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:23:51",
+      "lastUpdated": "2026-08-28T05:53:51.329Z"
     }
   },
   "showroomVisits": {
@@ -60032,6 +60039,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:23:51",
+      "iso": "2026-08-28T05:53:51.330Z",
+      "action": "updated remark for PH-NHC3505 at KURUNEGALA C: “Damage - Additional5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "11:23:49",
+      "iso": "2026-08-28T05:53:49.125Z",
+      "action": "updated remark for PF-STRG-BX-20L-S at KURUNEGALA C: “Damage - Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:23:39",
       "iso": "2026-08-28T05:53:39.883Z",
       "action": "updated remark for PN-CS-XU12XKYW-8 at KURUNEGALA C: “Additional 5%”"
@@ -60364,20 +60385,6 @@
       "time": "10:59:48",
       "iso": "2026-08-28T05:29:48.793Z",
       "action": "updated remark for HFPA-GRAVITY-BLC at KURUNEGALA C: “Damage - 25%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:58:33",
-      "iso": "2026-08-28T05:28:33.955Z",
-      "action": "updated remark for H-RSB018HB at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:57:50",
-      "iso": "2026-08-28T05:27:50.787Z",
-      "action": "updated remark for H-RMRG024MFEOE at KURUNEGALA C: “Damage - 20%”"
     }
   ]
 }
