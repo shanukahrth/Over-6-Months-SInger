@@ -60766,6 +60766,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:08:36",
       "lastUpdated": "2026-08-28T09:38:36.939Z"
+    },
+    "PN-NF-GW1WSK||BINGIRIYA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:08:58",
+      "lastUpdated": "2026-08-28T09:38:58.916Z"
     }
   },
   "showroomVisits": {
@@ -62132,6 +62139,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "15:08:58",
+      "iso": "2026-08-28T09:38:58.917Z",
+      "action": "updated remark for PN-NF-GW1WSK at BINGIRIYA: “Damaged - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "15:08:36",
       "iso": "2026-08-28T09:38:36.941Z",
       "action": "updated remark for PF-ENVISION-BL-S at BINGIRIYA: “Damaged - 10%”"
@@ -62471,13 +62485,6 @@
       "time": "13:30:16",
       "iso": "2026-08-28T08:00:16.864Z",
       "action": "updated remark for SIN-BS30 at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:30:08",
-      "iso": "2026-08-28T08:00:08.365Z",
-      "action": "updated remark for WF-DOC-M003-BU-S at WARIYAPOLA: “Damaged - 75%”"
     }
   ]
 }
