@@ -60437,6 +60437,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:30:02",
       "lastUpdated": "2026-08-28T08:00:02.447Z"
+    },
+    "WFL-MONACO-10-S||CHILAW": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:30:10",
+      "lastUpdated": "2026-08-28T08:00:10.407Z"
     }
   },
   "showroomVisits": {
@@ -61803,6 +61810,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:30:10",
+      "iso": "2026-08-28T08:00:10.409Z",
+      "action": "updated remark for WFL-MONACO-10-S at CHILAW: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:30:02",
       "iso": "2026-08-28T08:00:02.449Z",
       "action": "updated remark for WFL-GLACIER-01-S at CHILAW: “Damaged - 50%”"
@@ -62142,13 +62156,6 @@
       "time": "13:20:43",
       "iso": "2026-08-28T07:50:43.242Z",
       "action": "updated remark for STT-100K at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:20:47",
-      "iso": "2026-08-28T07:50:47.032Z",
-      "action": "updated remark for TF-NIGP26-119 at WARIYAPOLA: “30%”"
     }
   ]
 }
