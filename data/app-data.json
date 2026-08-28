@@ -58029,6 +58029,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:33:27",
       "lastUpdated": "2026-08-28T05:03:27.955Z"
+    },
+    "LF-13754-S||NUWARAELIYA A": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:33:43",
+      "lastUpdated": "2026-08-28T05:03:43.273Z"
     }
   },
   "showroomVisits": {
@@ -59395,6 +59402,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:33:43",
+      "iso": "2026-08-28T05:03:43.274Z",
+      "action": "updated remark for LF-13754-S at NUWARAELIYA A: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:33:27",
       "iso": "2026-08-28T05:03:27.957Z",
       "action": "updated remark for WF-CB75X36-S at NUWARAELIYA A: “WH issue”"
@@ -59734,13 +59748,6 @@
       "time": "17:23:31",
       "iso": "2026-08-26T11:53:31.304Z",
       "action": "updated remark for SLE43E710 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:23:29",
-      "iso": "2026-08-26T11:53:29.467Z",
-      "action": "updated remark for SLE40E810C at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
