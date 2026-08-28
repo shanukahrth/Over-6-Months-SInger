@@ -57980,6 +57980,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:31:46",
       "lastUpdated": "2026-08-28T05:01:46.094Z"
+    },
+    "GRIP-8201-S||NUWARAELIYA A": {
+      "remark": "RTNWH",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:31:56",
+      "lastUpdated": "2026-08-28T05:01:56.480Z"
     }
   },
   "showroomVisits": {
@@ -59346,6 +59353,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:31:56",
+      "iso": "2026-08-28T05:01:56.481Z",
+      "action": "updated remark for GRIP-8201-S at NUWARAELIYA A: “RTNWH”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:31:46",
       "iso": "2026-08-28T05:01:46.095Z",
       "action": "updated remark for QT-SITUP at NUWARAELIYA A: “80% - Parts missing”"
@@ -59685,13 +59699,6 @@
       "time": "17:23:10",
       "iso": "2026-08-26T11:53:10.780Z",
       "action": "updated remark for SLE28D2730 at KADAWATHA A: “Panel Damage”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:23:08",
-      "iso": "2026-08-26T11:53:08.213Z",
-      "action": "updated remark for SLE24E910 at KADAWATHA A: “Panel Damage”"
     }
   ]
 }
