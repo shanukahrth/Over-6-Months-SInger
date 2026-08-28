@@ -59116,11 +59116,11 @@
       "lastUpdated": "2026-08-28T06:22:13.110Z"
     },
     "WFL-SWSTK-MPL-20FT||KURUNEGALA C": {
-      "remark": "Display - 70%",
+      "remark": "Damaged - 70%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:52:38",
-      "lastUpdated": "2026-08-28T06:22:38.265Z"
+      "commentTime": "11:57:19",
+      "lastUpdated": "2026-08-28T06:27:19.267Z"
     },
     "WP-12KINV||KURUNEGALA C": {
       "remark": "Display - 10%",
@@ -60536,6 +60536,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:57:19",
+      "iso": "2026-08-28T06:27:19.271Z",
+      "action": "updated remark for WFL-SWSTK-MPL-20FT at KURUNEGALA C: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:56:31",
       "iso": "2026-08-28T06:26:31.865Z",
       "action": "updated remark for WFL-SPM-78X60X7-S at KURUNEGALA C: “Damaged - 70%”"
@@ -60875,13 +60882,6 @@
       "time": "11:42:00",
       "iso": "2026-08-28T06:12:00.985Z",
       "action": "updated remark for TCL65P615 at KURUNEGALA C: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:41:52",
-      "iso": "2026-08-28T06:11:52.822Z",
-      "action": "updated remark for TCL65C655 at KURUNEGALA C: “Damaged - 40%”"
     }
   ]
 }
