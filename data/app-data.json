@@ -60122,6 +60122,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:20:24",
       "lastUpdated": "2026-08-28T07:50:24.612Z"
+    },
+    "TF-FP24-SCR342||WARIYAPOLA": {
+      "remark": "30%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:20:18",
+      "lastUpdated": "2026-08-28T07:50:18.639Z"
     }
   },
   "showroomVisits": {
@@ -61486,6 +61493,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:20:18",
+      "iso": "2026-08-28T07:50:18.641Z",
+      "action": "updated remark for TF-FP24-SCR342 at WARIYAPOLA: “30%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:20:24",
@@ -61827,13 +61841,6 @@
       "time": "13:10:31",
       "iso": "2026-08-28T07:40:31.571Z",
       "action": "updated remark for MHC-M40D at CHILAW: “Damaged - 75%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:10:24",
-      "iso": "2026-08-28T07:40:24.532Z",
-      "action": "updated remark for MC984-HO at CHILAW: “Damaged - 50%”"
     }
   ]
 }
