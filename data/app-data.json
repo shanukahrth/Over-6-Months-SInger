@@ -59940,6 +59940,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:15:35",
       "lastUpdated": "2026-08-28T07:45:35.861Z"
+    },
+    "SLE24D1000||WARIYAPOLA": {
+      "remark": "Revert / Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:15:53",
+      "lastUpdated": "2026-08-28T07:45:53.124Z"
     }
   },
   "showroomVisits": {
@@ -61304,6 +61311,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:15:53",
+      "iso": "2026-08-28T07:45:53.126Z",
+      "action": "updated remark for SLE24D1000 at WARIYAPOLA: “Revert / Damaged - 90%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:15:35",
@@ -61645,13 +61659,6 @@
       "time": "13:02:07",
       "iso": "2026-08-28T07:32:07.394Z",
       "action": "updated remark for EDU-HDMI at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:02:00",
-      "iso": "2026-08-28T07:32:00.282Z",
-      "action": "updated remark for LF-PODIUM-MWNT-S at CHILAW: “Damaged - 50%”"
     }
   ]
 }
