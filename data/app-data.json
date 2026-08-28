@@ -61676,6 +61676,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:11:52",
       "lastUpdated": "2026-08-28T10:41:52.600Z"
+    },
+    "SLE-75IFPDT||CHILAW": {
+      "remark": "60% Damaged",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:12:06",
+      "lastUpdated": "2026-08-28T10:42:06.013Z"
     }
   },
   "showroomVisits": {
@@ -63072,6 +63079,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "16:12:06",
+      "iso": "2026-08-28T10:42:06.014Z",
+      "action": "updated remark for SLE-75IFPDT at CHILAW: “60% Damaged”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "16:11:52",
@@ -63413,13 +63427,6 @@
       "time": "15:54:55",
       "iso": "2026-08-28T10:24:55.067Z",
       "action": "updated remark for SKY-32E2 at SHOMES- CHILAW: “Damaged - 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:54:32",
-      "iso": "2026-08-28T10:24:32.674Z",
-      "action": "updated remark for SIN-VAC8515 at SHOMES- CHILAW: “Damaged - 85%”"
     }
   ]
 }
