@@ -57875,6 +57875,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:24:16",
       "lastUpdated": "2026-08-28T04:54:16.726Z"
+    },
+    "B-BICT22100X||NUWARAELIYA A": {
+      "remark": "40% - Display",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:24:26",
+      "lastUpdated": "2026-08-28T04:54:26.562Z"
     }
   },
   "showroomVisits": {
@@ -59241,6 +59248,13 @@
     {
       "user": "Rashmi",
       "date": "2026-08-28",
+      "time": "10:24:26",
+      "iso": "2026-08-28T04:54:26.564Z",
+      "action": "updated remark for B-BICT22100X at NUWARAELIYA A: “40% - Display”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-08-28",
       "time": "10:24:16",
       "iso": "2026-08-28T04:54:16.727Z",
       "action": "updated remark for UR591SW at NUWARAELIYA A: “MOP - 5,000”"
@@ -59580,13 +59594,6 @@
       "time": "17:16:12",
       "iso": "2026-08-26T11:46:12.355Z",
       "action": "updated remark for H-CVW1600 at KADAWATHA A: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-26",
-      "time": "17:14:08",
-      "iso": "2026-08-26T11:44:08.349Z",
-      "action": "updated remark for SLE86G6E at KADAWATHA A: “Active SKU”"
     }
   ]
 }
