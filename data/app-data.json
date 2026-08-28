@@ -60346,6 +60346,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:27:44",
       "lastUpdated": "2026-08-28T07:57:44.647Z"
+    },
+    "UJB-LB6027||CHILAW": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:28:08",
+      "lastUpdated": "2026-08-28T07:58:08.191Z"
     }
   },
   "showroomVisits": {
@@ -61712,6 +61719,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:28:08",
+      "iso": "2026-08-28T07:58:08.193Z",
+      "action": "updated remark for UJB-LB6027 at CHILAW: “Damaged - 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:27:44",
       "iso": "2026-08-28T07:57:44.649Z",
       "action": "updated remark for TH-TC-351 at CHILAW: “Sold out”"
@@ -62051,13 +62065,6 @@
       "time": "13:18:51",
       "iso": "2026-08-28T07:48:51.115Z",
       "action": "updated remark for SLE43G890 at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:18:41",
-      "iso": "2026-08-28T07:48:41.793Z",
-      "action": "updated remark for SVX6002 at WARIYAPOLA: “Revert / Damaged - 85%”"
     }
   ]
 }
