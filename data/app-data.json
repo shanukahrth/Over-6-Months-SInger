@@ -60047,11 +60047,18 @@
       "lastUpdated": "2026-08-28T07:47:56.022Z"
     },
     "SLE32G690||CHILAW": {
-      "remark": "Damaged - 40%",
+      "remark": "Damaged - 90%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "13:18:04",
-      "lastUpdated": "2026-08-28T07:48:04.154Z"
+      "commentTime": "13:18:23",
+      "lastUpdated": "2026-08-28T07:48:23.831Z"
+    },
+    "SLE40D600A||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:18:28",
+      "lastUpdated": "2026-08-28T07:48:28.857Z"
     }
   },
   "showroomVisits": {
@@ -61418,6 +61425,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:18:28",
+      "iso": "2026-08-28T07:48:28.859Z",
+      "action": "updated remark for SLE40D600A at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:18:23",
+      "iso": "2026-08-28T07:48:23.839Z",
+      "action": "updated remark for SLE32G690 at CHILAW: “Damaged - 90%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:18:04",
       "iso": "2026-08-28T07:48:04.155Z",
       "action": "updated remark for SLE32G690 at CHILAW: “Damaged - 40%”"
@@ -61750,20 +61771,6 @@
       "time": "13:09:13",
       "iso": "2026-08-28T07:39:13.722Z",
       "action": "updated remark for PN-TH-32MS670N at WARIYAPOLA: “Revert /Damaged - 60%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:09:03",
-      "iso": "2026-08-28T07:39:03.816Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:08:44",
-      "iso": "2026-08-28T07:38:44.003Z",
-      "action": "updated remark for PF-MONDY-BLACK at WARIYAPOLA: “Damaged - 50%”"
     }
   ]
 }
