@@ -60668,6 +60668,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "14:01:56",
       "lastUpdated": "2026-08-28T08:31:56.951Z"
+    },
+    "DAV-DZ650||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "14:02:18",
+      "lastUpdated": "2026-08-28T08:32:18.599Z"
     }
   },
   "showroomVisits": {
@@ -62034,6 +62041,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "14:02:18",
+      "iso": "2026-08-28T08:32:18.600Z",
+      "action": "updated remark for DAV-DZ650 at BINGIRIYA: “H/O”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "14:01:56",
       "iso": "2026-08-28T08:31:56.953Z",
       "action": "updated remark for BC-KNP-AG at BINGIRIYA: “H/O”"
@@ -62373,13 +62387,6 @@
       "time": "13:28:08",
       "iso": "2026-08-28T07:58:08.193Z",
       "action": "updated remark for UJB-LB6027 at CHILAW: “Damaged - 30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:27:44",
-      "iso": "2026-08-28T07:57:44.649Z",
-      "action": "updated remark for TH-TC-351 at CHILAW: “Sold out”"
     }
   ]
 }
