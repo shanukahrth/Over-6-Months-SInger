@@ -61284,6 +61284,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:41:53",
       "lastUpdated": "2026-08-28T10:11:53.623Z"
+    },
+    "RIYLTA-MF12V35A||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:42:14",
+      "lastUpdated": "2026-08-28T10:12:14.466Z"
     }
   },
   "showroomVisits": {
@@ -62682,6 +62689,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:42:14",
+      "iso": "2026-08-28T10:12:14.467Z",
+      "action": "updated remark for RIYLTA-MF12V35A at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:41:53",
       "iso": "2026-08-28T10:11:53.624Z",
       "action": "updated remark for R-FGAQ010 at SHOMES- CHILAW: “Okay”"
@@ -63021,13 +63035,6 @@
       "time": "15:27:37",
       "iso": "2026-08-28T09:57:37.676Z",
       "action": "updated remark for KA-PRISMA-1.2 at SHOMES- CHILAW: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:27:17",
-      "iso": "2026-08-28T09:57:17.507Z",
-      "action": "updated remark for KA-PRISMA-1.7 at SHOMES- CHILAW: “Damaged - 85%”"
     }
   ]
 }
