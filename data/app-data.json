@@ -61361,6 +61361,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:51:59",
       "lastUpdated": "2026-08-28T10:21:59.012Z"
+    },
+    "SIN-AIRPKO1B||SHOMES- CHILAW": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:52:38",
+      "lastUpdated": "2026-08-28T10:22:38.344Z"
+    },
+    "SIN-AIRPKO6A||SHOMES- CHILAW": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:52:40",
+      "lastUpdated": "2026-08-28T10:22:40.197Z"
     }
   },
   "showroomVisits": {
@@ -62759,6 +62773,20 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:52:40",
+      "iso": "2026-08-28T10:22:40.198Z",
+      "action": "updated remark for SIN-AIRPKO6A at SHOMES- CHILAW: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "15:52:38",
+      "iso": "2026-08-28T10:22:38.345Z",
+      "action": "updated remark for SIN-AIRPKO1B at SHOMES- CHILAW: “Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:51:59",
       "iso": "2026-08-28T10:21:59.012Z",
       "action": "updated remark for SB-DTYPE at SHOMES- CHILAW: “Display / Damaged - 80%”"
@@ -63091,20 +63119,6 @@
       "time": "15:32:44",
       "iso": "2026-08-28T10:02:44.782Z",
       "action": "updated remark for WP-SP-SG-S at BINGIRIYA: “Damaged - 60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "15:32:07",
-      "iso": "2026-08-28T10:02:07.060Z",
-      "action": "updated remark for BES-CRS-51 at BINGIRIYA: “10%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:31:58",
-      "iso": "2026-08-28T10:01:58.641Z",
-      "action": "updated remark for LFI-DENVER-TVS-BL-S at SHOMES- CHILAW: “10%”"
     }
   ]
 }
