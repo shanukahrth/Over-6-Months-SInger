@@ -61417,6 +61417,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:54:55",
       "lastUpdated": "2026-08-28T10:24:55.066Z"
+    },
+    "SL-12VNF||SHOMES- CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:55:16",
+      "lastUpdated": "2026-08-28T10:25:16.368Z"
     }
   },
   "showroomVisits": {
@@ -62815,6 +62822,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:55:16",
+      "iso": "2026-08-28T10:25:16.370Z",
+      "action": "updated remark for SL-12VNF at SHOMES- CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:54:55",
       "iso": "2026-08-28T10:24:55.067Z",
       "action": "updated remark for SKY-32E2 at SHOMES- CHILAW: “Damaged - 90%”"
@@ -63154,13 +63168,6 @@
       "time": "15:34:46",
       "iso": "2026-08-28T10:04:46.542Z",
       "action": "updated remark for MID-BL1190 at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:34:39",
-      "iso": "2026-08-28T10:04:39.541Z",
-      "action": "updated remark for MID-MJ-KM6001W at SHOMES- CHILAW: “Okay”"
     }
   ]
 }
