@@ -60570,6 +60570,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:41:22",
       "lastUpdated": "2026-08-28T08:11:22.960Z"
+    },
+    "DAV-TZ140||SHOMES- CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:41:32",
+      "lastUpdated": "2026-08-28T08:11:32.663Z"
     }
   },
   "showroomVisits": {
@@ -61936,6 +61943,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:41:32",
+      "iso": "2026-08-28T08:11:32.665Z",
+      "action": "updated remark for DAV-TZ140 at SHOMES- CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:41:22",
       "iso": "2026-08-28T08:11:22.962Z",
       "action": "updated remark for CAN-I-MG2570S at SHOMES- CHILAW: “Damaged - 50%”"
@@ -62275,13 +62289,6 @@
       "time": "13:24:53",
       "iso": "2026-08-28T07:54:53.782Z",
       "action": "updated remark for SBI-60M19-T at CHILAW: “Can sell”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:24:39",
-      "iso": "2026-08-28T07:54:39.020Z",
-      "action": "updated remark for WP-JUN-E-S at WARIYAPOLA: “Damaged - 75%”"
     }
   ]
 }
