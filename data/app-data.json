@@ -59639,6 +59639,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:02:00",
       "lastUpdated": "2026-08-28T07:32:00.280Z"
+    },
+    "EDU-HDMI||WARIYAPOLA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:02:07",
+      "lastUpdated": "2026-08-28T07:32:07.393Z"
     }
   },
   "showroomVisits": {
@@ -61003,6 +61010,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:02:07",
+      "iso": "2026-08-28T07:32:07.394Z",
+      "action": "updated remark for EDU-HDMI at WARIYAPOLA: “Okay”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:02:00",
@@ -61344,13 +61358,6 @@
       "time": "12:33:19",
       "iso": "2026-08-28T07:03:19.239Z",
       "action": "updated remark for HON-X9C-12-256-BLK at CHILAW: “Damged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:32:48",
-      "iso": "2026-08-28T07:02:48.037Z",
-      "action": "updated remark for HON-X8C-8-512-WHT at CHILAW: “Damaged - 90%”"
     }
   ]
 }
