@@ -60024,6 +60024,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:17:23",
       "lastUpdated": "2026-08-28T07:47:23.609Z"
+    },
+    "SLE32D2010TC||CHILAW": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:17:36",
+      "lastUpdated": "2026-08-28T07:47:36.754Z"
     }
   },
   "showroomVisits": {
@@ -61388,6 +61395,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:17:36",
+      "iso": "2026-08-28T07:47:36.756Z",
+      "action": "updated remark for SLE32D2010TC at CHILAW: “Damaged - 90%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:17:23",
@@ -61729,13 +61743,6 @@
       "time": "13:07:43",
       "iso": "2026-08-28T07:37:43.995Z",
       "action": "updated remark for LFLCDCHAMP-BLK-S at WARIYAPOLA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:07:30",
-      "iso": "2026-08-28T07:37:30.404Z",
-      "action": "updated remark for LFLCDCHAMP-AGO-S at WARIYAPOLA: “Damaged - 80%”"
     }
   ]
 }
