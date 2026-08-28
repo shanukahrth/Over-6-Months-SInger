@@ -63085,6 +63085,22 @@
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-28"
+    },
+    "KADUWELA -  B||KADUWELA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-28"
+    },
+    "MALABE||KADUWELA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Chanuka Obeyesekere",
+      "updatedDate": "2026-08-28"
     }
   },
   "soldMarks": {
@@ -63222,6 +63238,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:01:40",
+      "iso": "2026-08-28T14:31:40.193Z",
+      "action": "updated MALABE showroom (visited: Yes)"
+    },
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:01:37",
+      "iso": "2026-08-28T14:31:37.585Z",
+      "action": "updated KADUWELA -  B showroom (visited: Yes)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-28",
@@ -63557,20 +63587,6 @@
       "time": "16:04:45",
       "iso": "2026-08-28T10:34:45.751Z",
       "action": "updated remark for WC-IK609 at SHOMES- CHILAW: “Damaged- 95%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:04:31",
-      "iso": "2026-08-28T10:34:31.328Z",
-      "action": "updated remark for WC-IK609 at SHOMES- CHILAW: “Damaged- 90%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:04:17",
-      "iso": "2026-08-28T10:34:17.721Z",
-      "action": "updated remark for WC-IK609 at SHOMES- CHILAW: “Damaged- 90%”"
     }
   ]
 }
