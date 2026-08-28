@@ -59485,6 +59485,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:55:47",
       "lastUpdated": "2026-08-28T07:25:47.146Z"
+    },
+    "G-STC3900N||CHILAW": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:56:10",
+      "lastUpdated": "2026-08-28T07:26:10.262Z"
     }
   },
   "showroomVisits": {
@@ -60851,6 +60858,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:56:10",
+      "iso": "2026-08-28T07:26:10.263Z",
+      "action": "updated remark for G-STC3900N at CHILAW: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:55:47",
       "iso": "2026-08-28T07:25:47.147Z",
       "action": "updated remark for FAN-VIERA-TEAK at CHILAW: “Damaged - 20%”"
@@ -61190,13 +61204,6 @@
       "time": "12:07:05",
       "iso": "2026-08-28T06:37:05.083Z",
       "action": "updated remark for TF-IT30-169 at KURUNEGALA C: “Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:05:37",
-      "iso": "2026-08-28T06:35:37.862Z",
-      "action": "updated remark for SLE40D600A at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
