@@ -58577,18 +58577,18 @@
       "lastUpdated": "2026-08-28T05:38:58.099Z"
     },
     "NCPDG-MP160||KURUNEGALA C": {
-      "remark": "Damage - 5%",
+      "remark": "Damage -Additional 5%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:09:20",
-      "lastUpdated": "2026-08-28T05:39:20.420Z"
+      "commentTime": "11:24:56",
+      "lastUpdated": "2026-08-28T05:54:56.742Z"
     },
     "NCPO-DC200||KURUNEGALA C": {
-      "remark": "Damage - 5%",
+      "remark": "Damage -Additional 5%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:09:22",
-      "lastUpdated": "2026-08-28T05:39:22.815Z"
+      "commentTime": "11:24:50",
+      "lastUpdated": "2026-08-28T05:54:50.436Z"
     },
     "NCPO-FP280||KURUNEGALA C": {
       "remark": "Damage -Additional 5%",
@@ -60046,6 +60046,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:24:56",
+      "iso": "2026-08-28T05:54:56.744Z",
+      "action": "updated remark for NCPDG-MP160 at KURUNEGALA C: “Damage -Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "11:24:50",
+      "iso": "2026-08-28T05:54:50.437Z",
+      "action": "updated remark for NCPO-DC200 at KURUNEGALA C: “Damage -Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:24:46",
       "iso": "2026-08-28T05:54:46.244Z",
       "action": "updated remark for NCPO-FP280 at KURUNEGALA C: “Damage -Additional 5%”"
@@ -60378,20 +60392,6 @@
       "time": "11:02:23",
       "iso": "2026-08-28T05:32:23.718Z",
       "action": "updated remark for IFPSTANDAU at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:02:13",
-      "iso": "2026-08-28T05:32:13.042Z",
-      "action": "updated remark for HU-WATCHFIT4-BLK at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:01:32",
-      "iso": "2026-08-28T05:31:32.777Z",
-      "action": "updated remark for HU-WATCH-GT6-GRY at KURUNEGALA C: “Damage - 50%”"
     }
   ]
 }
