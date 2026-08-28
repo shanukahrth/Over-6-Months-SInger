@@ -58799,6 +58799,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:35:56",
       "lastUpdated": "2026-08-28T06:05:56.059Z"
+    },
+    "SLE-55IFPZB-15||KURUNEGALA C": {
+      "remark": "Damage - Additional 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:36:25",
+      "lastUpdated": "2026-08-28T06:06:25.428Z"
     }
   },
   "showroomVisits": {
@@ -60165,6 +60172,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:36:25",
+      "iso": "2026-08-28T06:06:25.429Z",
+      "action": "updated remark for SLE-55IFPZB-15 at KURUNEGALA C: “Damage - Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:35:56",
       "iso": "2026-08-28T06:05:56.060Z",
       "action": "updated remark for SL-VAR-90P-C at KURUNEGALA C: “Damage - Additional 5%”"
@@ -60504,13 +60518,6 @@
       "time": "11:08:42",
       "iso": "2026-08-28T05:38:42.973Z",
       "action": "updated remark for MID-D15-20EVN1 at KURUNEGALA C: “Damage - 30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:08:16",
-      "iso": "2026-08-28T05:38:16.443Z",
-      "action": "updated remark for MB-LIMA-ELO7-RED at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
