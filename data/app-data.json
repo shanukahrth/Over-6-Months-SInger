@@ -60402,6 +60402,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:29:23",
       "lastUpdated": "2026-08-28T07:59:23.534Z"
+    },
+    "WF-DEVON-311-BR-S||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:29:25",
+      "lastUpdated": "2026-08-28T07:59:25.402Z"
+    },
+    "WF-OSLO-BL-S||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:29:31",
+      "lastUpdated": "2026-08-28T07:59:31.623Z"
     }
   },
   "showroomVisits": {
@@ -61766,6 +61780,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:29:31",
+      "iso": "2026-08-28T07:59:31.625Z",
+      "action": "updated remark for WF-OSLO-BL-S at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:29:25",
+      "iso": "2026-08-28T07:59:25.404Z",
+      "action": "updated remark for WF-DEVON-311-BR-S at CHILAW: “Damaged - 50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:29:23",
@@ -62100,20 +62128,6 @@
       "time": "13:20:30",
       "iso": "2026-08-28T07:50:30.697Z",
       "action": "updated remark for SRS-XV500 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:20:18",
-      "iso": "2026-08-28T07:50:18.641Z",
-      "action": "updated remark for TF-FP24-SCR342 at WARIYAPOLA: “30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:20:24",
-      "iso": "2026-08-28T07:50:24.614Z",
-      "action": "updated remark for SMW823AY7 at CHILAW: “Can sell”"
     }
   ]
 }
