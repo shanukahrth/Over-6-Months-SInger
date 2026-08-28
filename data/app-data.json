@@ -61711,6 +61711,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:13:17",
       "lastUpdated": "2026-08-28T10:43:17.023Z"
+    },
+    "PN-NR-BK468BQKX||CHILAW": {
+      "remark": "Display - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:15:02",
+      "lastUpdated": "2026-08-28T10:45:02.859Z"
     }
   },
   "showroomVisits": {
@@ -63107,6 +63114,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "16:15:02",
+      "iso": "2026-08-28T10:45:02.860Z",
+      "action": "updated remark for PN-NR-BK468BQKX at CHILAW: “Display - 75%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "16:14:30",
@@ -63448,13 +63462,6 @@
       "time": "15:57:31",
       "iso": "2026-08-28T10:27:31.133Z",
       "action": "updated remark for SLE55GENR at SHOMES- CHILAW: “Exchange”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:57:29",
-      "iso": "2026-08-28T10:27:29.859Z",
-      "action": "updated remark for SLE50H1100 at SHOMES- CHILAW: “Exchange”"
     }
   ]
 }
