@@ -63128,8 +63128,8 @@
     },
     "ATHURUGIRIYA||KADUWELA": {
       "visited": "Yes",
-      "visitDate": "2026-08-24",
-      "team": "",
+      "visitDate": "2026-08-21",
+      "team": "Metro Team",
       "remark": "",
       "updatedBy": "Chanuka Obeyesekere",
       "updatedDate": "2026-08-28"
@@ -63278,6 +63278,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Chanuka Obeyesekere",
+      "date": "2026-08-28",
+      "time": "20:09:01",
+      "iso": "2026-08-28T14:39:01.355Z",
+      "action": "updated ATHURUGIRIYA showroom (visitDate: 2026-08-21)"
+    },
     {
       "user": "Chanuka Obeyesekere",
       "date": "2026-08-28",
@@ -63619,13 +63626,6 @@
       "date": "2026-08-28",
       "time": "16:10:35",
       "iso": "2026-08-28T10:40:35.529Z",
-      "action": "updated remark for WF-HARPER-DRS at SHOMES- CHILAW: “Damaged- 20%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:10:28",
-      "iso": "2026-08-28T10:40:28.200Z",
       "action": "updated remark for WF-HARPER-DRS at SHOMES- CHILAW: “Damaged- 20%”"
     }
   ]
