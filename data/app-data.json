@@ -58617,6 +58617,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:10:02",
       "lastUpdated": "2026-08-28T05:40:02.160Z"
+    },
+    "PF-STRG-BX-20L-S||KURUNEGALA C": {
+      "remark": "Damage - 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:10:11",
+      "lastUpdated": "2026-08-28T05:40:11.477Z"
     }
   },
   "showroomVisits": {
@@ -59983,6 +59990,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:10:11",
+      "iso": "2026-08-28T05:40:11.479Z",
+      "action": "updated remark for PF-STRG-BX-20L-S at KURUNEGALA C: “Damage - 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:10:02",
       "iso": "2026-08-28T05:40:02.162Z",
       "action": "updated remark for PF-FLAP-PY-S at KURUNEGALA C: “Damage - 5%”"
@@ -60322,13 +60336,6 @@
       "time": "10:56:01",
       "iso": "2026-08-28T05:26:01.290Z",
       "action": "updated remark for ENG-UE10054 at KURUNEGALA C: “Damage - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:55:36",
-      "iso": "2026-08-28T05:25:36.042Z",
-      "action": "updated remark for DUM - SMGAR50F24D1J at KURUNEGALA C (cleared)"
     }
   ]
 }
