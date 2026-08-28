@@ -58372,6 +58372,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:59:48",
       "lastUpdated": "2026-08-28T05:29:48.792Z"
+    },
+    "HFPA-GRAVITY-BLU||KURUNEGALA C": {
+      "remark": "Damage - 25%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:59:57",
+      "lastUpdated": "2026-08-28T05:29:57.032Z"
     }
   },
   "showroomVisits": {
@@ -59738,6 +59745,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "10:59:57",
+      "iso": "2026-08-28T05:29:57.033Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at KURUNEGALA C: “Damage - 25%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "10:59:48",
       "iso": "2026-08-28T05:29:48.793Z",
       "action": "updated remark for HFPA-GRAVITY-BLC at KURUNEGALA C: “Damage - 25%”"
@@ -60077,13 +60091,6 @@
       "time": "10:40:38",
       "iso": "2026-08-28T05:10:38.402Z",
       "action": "updated remark for WFL-SPM-72X60X7-S at NUWARAELIYA A: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:39:59",
-      "iso": "2026-08-28T05:09:59.526Z",
-      "action": "updated remark for LF-ORGN-DTO-WHT at NUWARAELIYA A: “50%”"
     }
   ]
 }
