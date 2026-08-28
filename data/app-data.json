@@ -59261,6 +59261,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:10:31",
       "lastUpdated": "2026-08-28T06:40:31.959Z"
+    },
+    "SIN-DEC-DCWL||KURUNEGALA C": {
+      "remark": "Damage - 30%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:10:56",
+      "lastUpdated": "2026-08-28T06:40:56.397Z"
     }
   },
   "showroomVisits": {
@@ -60627,6 +60634,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:10:56",
+      "iso": "2026-08-28T06:40:56.398Z",
+      "action": "updated remark for SIN-DEC-DCWL at KURUNEGALA C: “Damage - 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:10:31",
       "iso": "2026-08-28T06:40:31.961Z",
       "action": "updated remark for R-BWS-02 at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -60966,13 +60980,6 @@
       "time": "11:48:36",
       "iso": "2026-08-28T06:18:36.023Z",
       "action": "updated remark for WF-VENICE-PI-S at KURUNEGALA C: “Display - 60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:48:22",
-      "iso": "2026-08-28T06:18:22.990Z",
-      "action": "updated remark for WF-PRST-BDQ-W-S at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
