@@ -59968,6 +59968,27 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:16:15",
       "lastUpdated": "2026-08-28T07:46:15.277Z"
+    },
+    "SIN-AIRPKO6A||CHILAW": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:16:16",
+      "lastUpdated": "2026-08-28T07:46:16.795Z"
+    },
+    "SIN-EP170||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:16:21",
+      "lastUpdated": "2026-08-28T07:46:21.595Z"
+    },
+    "SIN-HPW0317||CHILAW": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:16:27",
+      "lastUpdated": "2026-08-28T07:46:27.642Z"
     }
   },
   "showroomVisits": {
@@ -61332,6 +61353,27 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:16:27",
+      "iso": "2026-08-28T07:46:27.643Z",
+      "action": "updated remark for SIN-HPW0317 at CHILAW: “Damaged - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:16:21",
+      "iso": "2026-08-28T07:46:21.597Z",
+      "action": "updated remark for SIN-EP170 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:16:16",
+      "iso": "2026-08-28T07:46:16.797Z",
+      "action": "updated remark for SIN-AIRPKO6A at CHILAW: “Damaged - 70%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:16:15",
@@ -61659,27 +61701,6 @@
       "time": "13:06:04",
       "iso": "2026-08-28T07:36:04.201Z",
       "action": "updated remark for LF-OX-BR-M-CHY-S at WARIYAPOLA: “Damaged - 505”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:05:47",
-      "iso": "2026-08-28T07:35:47.301Z",
-      "action": "updated remark for LF-EUSTON-TVS-WH-S at WARIYAPOLA: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:04:31",
-      "iso": "2026-08-28T07:34:31.692Z",
-      "action": "updated remark for APS-300KG at WARIYAPOLA: “10%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:03:24",
-      "iso": "2026-08-28T07:33:24.789Z",
-      "action": "updated remark for AES-HAV-615T at WARIYAPOLA: “10%”"
     }
   ]
 }
