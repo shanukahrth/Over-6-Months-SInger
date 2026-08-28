@@ -59632,6 +59632,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:01:48",
       "lastUpdated": "2026-08-28T07:31:48.296Z"
+    },
+    "LF-PODIUM-MWNT-S||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:02:00",
+      "lastUpdated": "2026-08-28T07:32:00.280Z"
     }
   },
   "showroomVisits": {
@@ -60998,6 +61005,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:02:00",
+      "iso": "2026-08-28T07:32:00.282Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:01:48",
       "iso": "2026-08-28T07:31:48.297Z",
       "action": "updated remark for LF-OX-BR-S-S at CHILAW: “Display - 50%”"
@@ -61337,13 +61351,6 @@
       "time": "12:32:48",
       "iso": "2026-08-28T07:02:48.037Z",
       "action": "updated remark for HON-X8C-8-512-WHT at CHILAW: “Damaged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:32:29",
-      "iso": "2026-08-28T07:02:29.673Z",
-      "action": "updated remark for HON-X8C-8-512-GRN at CHILAW: “Sold out”"
     }
   ]
 }
