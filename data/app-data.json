@@ -60190,8 +60190,15 @@
       "remark": "Can sell",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "13:21:28",
-      "lastUpdated": "2026-08-28T07:51:28.388Z"
+      "commentTime": "13:21:40",
+      "lastUpdated": "2026-08-28T07:51:40.585Z"
+    },
+    "TF-CM-APR737||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:21:45",
+      "lastUpdated": "2026-08-28T07:51:45.513Z"
     }
   },
   "showroomVisits": {
@@ -61558,6 +61565,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:21:45",
+      "iso": "2026-08-28T07:51:45.514Z",
+      "action": "updated remark for TF-CM-APR737 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:21:40",
+      "iso": "2026-08-28T07:51:40.587Z",
+      "action": "updated remark for TF-AF32-577 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:21:28",
       "iso": "2026-08-28T07:51:28.389Z",
       "action": "updated remark for TF-AF32-577 at CHILAW: “Can sell”"
@@ -61890,20 +61911,6 @@
       "time": "13:13:44",
       "iso": "2026-08-28T07:43:44.335Z",
       "action": "updated remark for PN-SC-TMAX5GSK at CHILAW: “Damaged - 75%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:13:33",
-      "iso": "2026-08-28T07:43:33.596Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at CHILAW: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:12:59",
-      "iso": "2026-08-28T07:42:59.343Z",
-      "action": "updated remark for PN-CS-SU12XKY-8 at CHILAW: “Can sell”"
     }
   ]
 }
