@@ -59933,6 +59933,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:15:21",
       "lastUpdated": "2026-08-28T07:45:21.147Z"
+    },
+    "SAS24TCNR||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:15:35",
+      "lastUpdated": "2026-08-28T07:45:35.861Z"
     }
   },
   "showroomVisits": {
@@ -61299,6 +61306,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:15:35",
+      "iso": "2026-08-28T07:45:35.863Z",
+      "action": "updated remark for SAS24TCNR at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:15:21",
       "iso": "2026-08-28T07:45:21.149Z",
       "action": "updated remark for RIYLTA-MF12V53B at CHILAW: “Damaged - 90%”"
@@ -61638,13 +61652,6 @@
       "time": "13:02:00",
       "iso": "2026-08-28T07:32:00.282Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:01:48",
-      "iso": "2026-08-28T07:31:48.297Z",
-      "action": "updated remark for LF-OX-BR-S-S at CHILAW: “Display - 50%”"
     }
   ]
 }
