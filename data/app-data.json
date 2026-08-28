@@ -58911,6 +58911,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:42:32",
       "lastUpdated": "2026-08-28T06:12:32.721Z"
+    },
+    "TF-GS-SPKT302||KURUNEGALA C": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:42:51",
+      "lastUpdated": "2026-08-28T06:12:51.770Z"
     }
   },
   "showroomVisits": {
@@ -60277,6 +60284,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:42:51",
+      "iso": "2026-08-28T06:12:51.771Z",
+      "action": "updated remark for TF-GS-SPKT302 at KURUNEGALA C: “Damaged - 60%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:42:32",
       "iso": "2026-08-28T06:12:32.722Z",
       "action": "updated remark for TF-FP24-SCR342 at KURUNEGALA C: “Damaged - 50%”"
@@ -60616,13 +60630,6 @@
       "time": "11:23:49",
       "iso": "2026-08-28T05:53:49.125Z",
       "action": "updated remark for PF-STRG-BX-20L-S at KURUNEGALA C: “Damage - Additional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:23:39",
-      "iso": "2026-08-28T05:53:39.883Z",
-      "action": "updated remark for PN-CS-XU12XKYW-8 at KURUNEGALA C: “Additional 5%”"
     }
   ]
 }
