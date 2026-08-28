@@ -58722,6 +58722,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:29:34",
       "lastUpdated": "2026-08-28T05:59:34.086Z"
+    },
+    "SAS24TCNR||KURUNEGALA C": {
+      "remark": "Okay for given discount",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:30:31",
+      "lastUpdated": "2026-08-28T06:00:31.819Z"
     }
   },
   "showroomVisits": {
@@ -60088,6 +60095,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:30:31",
+      "iso": "2026-08-28T06:00:31.821Z",
+      "action": "updated remark for SAS24TCNR at KURUNEGALA C: “Okay for given discount”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:29:34",
       "iso": "2026-08-28T05:59:34.087Z",
       "action": "updated remark for SAS-12V-INV at KURUNEGALA C: “Okay for given discount”"
@@ -60426,13 +60440,6 @@
       "date": "2026-08-28",
       "time": "11:05:22",
       "iso": "2026-08-28T05:35:22.012Z",
-      "action": "updated remark for LF-ORGN-BSC-WHT at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:05:14",
-      "iso": "2026-08-28T05:35:14.965Z",
       "action": "updated remark for LF-ORGN-BSC-WHT at KURUNEGALA C: “Damage - 50%”"
     }
   ]
