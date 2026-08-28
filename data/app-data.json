@@ -59800,6 +59800,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:10:07",
       "lastUpdated": "2026-08-28T07:40:07.061Z"
+    },
+    "MB-SAFARI4S-RED||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:10:08",
+      "lastUpdated": "2026-08-28T07:40:08.443Z"
+    },
+    "MC8280||CHILAW": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:10:16",
+      "lastUpdated": "2026-08-28T07:40:16.679Z"
     }
   },
   "showroomVisits": {
@@ -61164,6 +61178,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:10:16",
+      "iso": "2026-08-28T07:40:16.681Z",
+      "action": "updated remark for MC8280 at CHILAW: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:10:08",
+      "iso": "2026-08-28T07:40:08.444Z",
+      "action": "updated remark for MB-SAFARI4S-RED at CHILAW: “Can sell”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:10:07",
@@ -61498,20 +61526,6 @@
       "time": "12:57:00",
       "iso": "2026-08-28T07:27:00.342Z",
       "action": "updated remark for H-HMR-DG2312 at CHILAW: “So;d out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:56:51",
-      "iso": "2026-08-28T07:26:51.317Z",
-      "action": "updated remark for H-CVW1600 at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:56:31",
-      "iso": "2026-08-28T07:26:31.114Z",
-      "action": "updated remark for GEO-242D-TG at CHILAW: “Damaged - 50%”"
     }
   ]
 }
