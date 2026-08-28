@@ -60892,6 +60892,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:18:19",
       "lastUpdated": "2026-08-28T09:48:19.674Z"
+    },
+    "TF-KD24-061||BINGIRIYA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:18:30",
+      "lastUpdated": "2026-08-28T09:48:30.795Z"
+    },
+    "U-HRW-S11||BINGIRIYA": {
+      "remark": "H/O",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:18:36",
+      "lastUpdated": "2026-08-28T09:48:36.100Z"
     }
   },
   "showroomVisits": {
@@ -62258,6 +62272,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "15:18:36",
+      "iso": "2026-08-28T09:48:36.102Z",
+      "action": "updated remark for U-HRW-S11 at BINGIRIYA: “H/O”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "15:18:30",
+      "iso": "2026-08-28T09:48:30.797Z",
+      "action": "updated remark for TF-KD24-061 at BINGIRIYA: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "15:18:19",
       "iso": "2026-08-28T09:48:19.676Z",
       "action": "updated remark for SWM-FA70R at BINGIRIYA: “Damaged - 50%”"
@@ -62590,20 +62618,6 @@
       "time": "13:41:32",
       "iso": "2026-08-28T08:11:32.665Z",
       "action": "updated remark for DAV-TZ140 at SHOMES- CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:41:22",
-      "iso": "2026-08-28T08:11:22.962Z",
-      "action": "updated remark for CAN-I-MG2570S at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:40:56",
-      "iso": "2026-08-28T08:10:56.898Z",
-      "action": "updated remark for BTS-5KG at SHOMES- CHILAW: “Damaged - 50%”"
     }
   ]
 }
