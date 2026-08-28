@@ -59191,6 +59191,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:00:37",
       "lastUpdated": "2026-08-28T06:30:37.224Z"
+    },
+    "KV-13APT||KURUNEGALA C": {
+      "remark": "Damaged - Additional 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:01:47",
+      "lastUpdated": "2026-08-28T06:31:47.870Z"
     }
   },
   "showroomVisits": {
@@ -60557,6 +60564,27 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:01:47",
+      "iso": "2026-08-28T06:31:47.870Z",
+      "action": "updated remark for KV-13APT at KURUNEGALA C: “Damaged - Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "12:01:45",
+      "iso": "2026-08-28T06:31:45.892Z",
+      "action": "updated remark for KV-13APT at KURUNEGALA C: “Damamged - Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "12:01:43",
+      "iso": "2026-08-28T06:31:43.276Z",
+      "action": "updated remark for KV-13APT at KURUNEGALA C: “Damamged - Aditional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:00:37",
       "iso": "2026-08-28T06:30:37.227Z",
       "action": "updated remark for ENG-UB2608 at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -60882,27 +60910,6 @@
       "time": "11:44:48",
       "iso": "2026-08-28T06:14:48.562Z",
       "action": "updated remark for TF-SI-ESS-242 at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:44:19",
-      "iso": "2026-08-28T06:14:19.867Z",
-      "action": "updated remark for TF-SI-ESS-242 at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:43:57",
-      "iso": "2026-08-28T06:13:57.079Z",
-      "action": "updated remark for TF-NIK26-045 at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:43:37",
-      "iso": "2026-08-28T06:13:37.042Z",
-      "action": "updated remark for TF-NIFP28-042 at KURUNEGALA C: “Damaged - 50%”"
     }
   ]
 }
