@@ -59263,11 +59263,11 @@
       "lastUpdated": "2026-08-28T06:40:31.959Z"
     },
     "SIN-DEC-DCWL||KURUNEGALA C": {
-      "remark": "Damage - 30%",
+      "remark": "Damaged - 30%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "12:10:56",
-      "lastUpdated": "2026-08-28T06:40:56.397Z"
+      "commentTime": "12:16:52",
+      "lastUpdated": "2026-08-28T06:46:52.380Z"
     },
     "TF-NIDFP24-170||KURUNEGALA C": {
       "remark": "Damaged - 50%",
@@ -60669,6 +60669,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:16:52",
+      "iso": "2026-08-28T06:46:52.381Z",
+      "action": "updated remark for SIN-DEC-DCWL at KURUNEGALA C: “Damaged - 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:16:44",
       "iso": "2026-08-28T06:46:44.855Z",
       "action": "updated remark for WFI-DELPHI-CHR-S at KURUNEGALA C: “Damaged - 60%”"
@@ -61008,13 +61015,6 @@
       "time": "11:51:23",
       "iso": "2026-08-28T06:21:23.631Z",
       "action": "updated remark for WFL-NOC-T011-BL-S at KURUNEGALA C: “Display - 60%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:51:15",
-      "iso": "2026-08-28T06:21:15.874Z",
-      "action": "updated remark for WFL-GRIP-CT02-S at KURUNEGALA C: “Display - 60%”"
     }
   ]
 }
