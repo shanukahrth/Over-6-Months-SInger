@@ -58771,6 +58771,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:33:37",
       "lastUpdated": "2026-08-28T06:03:37.181Z"
+    },
+    "SKS-1089||KURUNEGALA C": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:34:47",
+      "lastUpdated": "2026-08-28T06:04:47.512Z"
     }
   },
   "showroomVisits": {
@@ -60137,6 +60144,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:34:47",
+      "iso": "2026-08-28T06:04:47.513Z",
+      "action": "updated remark for SKS-1089 at KURUNEGALA C: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:33:37",
       "iso": "2026-08-28T06:03:37.182Z",
       "action": "updated remark for SIN-RFC-1819 at KURUNEGALA C: “Damaged - 40%”"
@@ -60476,13 +60490,6 @@
       "time": "11:07:40",
       "iso": "2026-08-28T05:37:40.454Z",
       "action": "updated remark for LF-RUBY-3WD-SHW-S at KURUNEGALA C: “Damage - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:07:22",
-      "iso": "2026-08-28T05:37:22.150Z",
-      "action": "updated remark for LF-PODIUM-MWNT-S at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
