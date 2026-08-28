@@ -61312,6 +61312,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:42:44",
       "lastUpdated": "2026-08-28T10:12:44.665Z"
+    },
+    "PN-TH-32P401N||BINGIRIYA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:47:01",
+      "lastUpdated": "2026-08-28T10:17:01.575Z"
     }
   },
   "showroomVisits": {
@@ -62708,6 +62715,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "15:47:02",
+      "iso": "2026-08-28T10:17:02.268Z",
+      "action": "updated remark for PN-TH-32P401N at BINGIRIYA: “Damaged - 60%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "15:42:44",
@@ -63049,13 +63063,6 @@
       "time": "15:30:18",
       "iso": "2026-08-28T10:00:18.207Z",
       "action": "updated remark for LF-13753-S at SHOMES- CHILAW: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:30:05",
-      "iso": "2026-08-28T10:00:05.503Z",
-      "action": "updated remark for LF-13754-S at SHOMES- CHILAW: “Damaged - 70%”"
     }
   ]
 }
