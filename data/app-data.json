@@ -59751,6 +59751,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:09:03",
       "lastUpdated": "2026-08-28T07:39:03.815Z"
+    },
+    "PN-TH-32MS670N||WARIYAPOLA": {
+      "remark": "Revert /Damaged - 60%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:09:13",
+      "lastUpdated": "2026-08-28T07:39:13.720Z"
     }
   },
   "showroomVisits": {
@@ -61117,6 +61124,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:09:13",
+      "iso": "2026-08-28T07:39:13.722Z",
+      "action": "updated remark for PN-TH-32MS670N at WARIYAPOLA: “Revert /Damaged - 60%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:09:03",
       "iso": "2026-08-28T07:39:03.816Z",
       "action": "updated remark for PN-SC-BMAX10E-K at WARIYAPOLA: “Okay”"
@@ -61455,13 +61469,6 @@
       "date": "2026-08-28",
       "time": "12:44:08",
       "iso": "2026-08-28T07:14:08.642Z",
-      "action": "updated remark for CAN-I-MG2570S at CHILAW: “Damaged - 85%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:41:47",
-      "iso": "2026-08-28T07:11:47.218Z",
       "action": "updated remark for CAN-I-MG2570S at CHILAW: “Damaged - 85%”"
     }
   ]
