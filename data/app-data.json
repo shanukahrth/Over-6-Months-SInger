@@ -58596,6 +58596,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:09:37",
       "lastUpdated": "2026-08-28T05:39:37.228Z"
+    },
+    "PCR-FP28-264||KURUNEGALA C": {
+      "remark": "Damage - 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:09:53",
+      "lastUpdated": "2026-08-28T05:39:53.273Z"
+    },
+    "PF-ENVISION-BL-S||KURUNEGALA C": {
+      "remark": "Damage - 5%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:09:57",
+      "lastUpdated": "2026-08-28T05:39:57.588Z"
     }
   },
   "showroomVisits": {
@@ -59962,6 +59976,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:09:57",
+      "iso": "2026-08-28T05:39:57.588Z",
+      "action": "updated remark for PF-ENVISION-BL-S at KURUNEGALA C: “Damage - 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "11:09:53",
+      "iso": "2026-08-28T05:39:53.274Z",
+      "action": "updated remark for PCR-FP28-264 at KURUNEGALA C: “Damage - 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:09:37",
       "iso": "2026-08-28T05:39:37.228Z",
       "action": "updated remark for NCPO-FP280 at KURUNEGALA C: “Damage - 5%”"
@@ -60294,20 +60322,6 @@
       "time": "10:54:36",
       "iso": "2026-08-28T05:24:36.369Z",
       "action": "updated remark for ENG-UE20012 at KURUNEGALA C: “Damage - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:54:16",
-      "iso": "2026-08-28T05:24:16.754Z",
-      "action": "updated remark for ENG-UE20012 at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:53:56",
-      "iso": "2026-08-28T05:23:56.361Z",
-      "action": "updated remark for ENG-UE10054 at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
