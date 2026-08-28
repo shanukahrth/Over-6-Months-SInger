@@ -58981,6 +58981,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:46:14",
       "lastUpdated": "2026-08-28T06:16:14.132Z"
+    },
+    "WF-AWANA-09-S||KURUNEGALA C": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:46:32",
+      "lastUpdated": "2026-08-28T06:16:32.926Z"
     }
   },
   "showroomVisits": {
@@ -60347,6 +60354,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:46:32",
+      "iso": "2026-08-28T06:16:32.928Z",
+      "action": "updated remark for WF-AWANA-09-S at KURUNEGALA C: “Damaged - 75%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:46:14",
       "iso": "2026-08-28T06:16:14.134Z",
       "action": "updated remark for USI-ATC-302 at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -60686,13 +60700,6 @@
       "time": "11:26:04",
       "iso": "2026-08-28T05:56:04.430Z",
       "action": "updated remark for PN-SC-BMAX5E-K at KURUNEGALA C: “Damaged - 10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:25:51",
-      "iso": "2026-08-28T05:55:51.664Z",
-      "action": "updated remark for PN-CS-XU12XKYW-8 at KURUNEGALA C: “Damage - Additional 5%”"
     }
   ]
 }
