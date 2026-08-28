@@ -60325,6 +60325,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:26:45",
       "lastUpdated": "2026-08-28T07:56:45.480Z"
+    },
+    "TF-TT357170||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:27:03",
+      "lastUpdated": "2026-08-28T07:57:03.093Z"
     }
   },
   "showroomVisits": {
@@ -61689,6 +61696,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:27:03",
+      "iso": "2026-08-28T07:57:03.095Z",
+      "action": "updated remark for TF-TT357170 at CHILAW: “Damaged - 80%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:27:01",
@@ -62030,13 +62044,6 @@
       "time": "13:18:23",
       "iso": "2026-08-28T07:48:23.839Z",
       "action": "updated remark for SLE32G690 at CHILAW: “Damaged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:18:04",
-      "iso": "2026-08-28T07:48:04.155Z",
-      "action": "updated remark for SLE32G690 at CHILAW: “Damaged - 40%”"
     }
   ]
 }
