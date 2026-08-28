@@ -60388,6 +60388,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:28:53",
       "lastUpdated": "2026-08-28T07:58:53.742Z"
+    },
+    "WF-COD-B-S||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:29:11",
+      "lastUpdated": "2026-08-28T07:59:11.656Z"
     }
   },
   "showroomVisits": {
@@ -61752,6 +61759,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:29:11",
+      "iso": "2026-08-28T07:59:11.658Z",
+      "action": "updated remark for WF-COD-B-S at CHILAW: “Damaged - 50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:28:53",
@@ -62093,13 +62107,6 @@
       "time": "13:19:57",
       "iso": "2026-08-28T07:49:57.297Z",
       "action": "updated remark for TF-CM-APR737 at WARIYAPOLA: “Okay”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:19:57",
-      "iso": "2026-08-28T07:49:57.728Z",
-      "action": "updated remark for SMGRT28A3021GS at CHILAW: “Exchange”"
     }
   ]
 }
