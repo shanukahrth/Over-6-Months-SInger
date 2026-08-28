@@ -60920,6 +60920,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:19:22",
       "lastUpdated": "2026-08-28T09:49:22.699Z"
+    },
+    "USI-ATC-302||BINGIRIYA": {
+      "remark": "Damaged - 45%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:19:41",
+      "lastUpdated": "2026-08-28T09:49:41.493Z"
     }
   },
   "showroomVisits": {
@@ -62286,6 +62293,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "15:19:41",
+      "iso": "2026-08-28T09:49:41.494Z",
+      "action": "updated remark for USI-ATC-302 at BINGIRIYA: “Damaged - 45%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "15:19:22",
       "iso": "2026-08-28T09:49:22.700Z",
       "action": "updated remark for UR591SW at BINGIRIYA: “Damaged - 30%”"
@@ -62625,13 +62639,6 @@
       "time": "13:52:09",
       "iso": "2026-08-28T08:22:09.242Z",
       "action": "updated remark for GEO-242D-SV at SHOMES- CHILAW: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:42:11",
-      "iso": "2026-08-28T08:12:11.954Z",
-      "action": "updated remark for GEO-182S-SV at SHOMES- CHILAW: “Display / Damaged - 20%”"
     }
   ]
 }
