@@ -58295,6 +58295,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "10:53:27",
       "lastUpdated": "2026-08-28T05:23:27.996Z"
+    },
+    "DH-SD2A200HB-GN-AW-PV-S2||KURUNEGALA C": {
+      "remark": "Damage - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "10:53:44",
+      "lastUpdated": "2026-08-28T05:23:44.259Z"
     }
   },
   "showroomVisits": {
@@ -59661,6 +59668,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "10:53:44",
+      "iso": "2026-08-28T05:23:44.261Z",
+      "action": "updated remark for DH-SD2A200HB-GN-AW-PV-S2 at KURUNEGALA C: “Damage - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "10:53:27",
       "iso": "2026-08-28T05:23:27.997Z",
       "action": "updated remark for DH-4-CAMERA-PACK at KURUNEGALA C: “Damage - 80%”"
@@ -60000,13 +60014,6 @@
       "time": "10:33:16",
       "iso": "2026-08-28T05:03:16.736Z",
       "action": "updated remark for WF-OF-CHR15-S at NUWARAELIYA A: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:32:28",
-      "iso": "2026-08-28T05:02:28.969Z",
-      "action": "updated remark for OF-SW22-BCH-S at NUWARAELIYA A: “80% - Shop use”"
     }
   ]
 }
