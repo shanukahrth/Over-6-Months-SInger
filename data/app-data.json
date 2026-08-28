@@ -61760,6 +61760,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:17:18",
       "lastUpdated": "2026-08-28T10:47:18.730Z"
+    },
+    "WFL-PILWFB-16X24-S||SHOMES- CHILAW": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:17:39",
+      "lastUpdated": "2026-08-28T10:47:39.781Z"
     }
   },
   "showroomVisits": {
@@ -63158,6 +63165,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "16:17:39",
+      "iso": "2026-08-28T10:47:39.782Z",
+      "action": "updated remark for WFL-PILWFB-16X24-S at SHOMES- CHILAW: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "16:17:18",
       "iso": "2026-08-28T10:47:18.731Z",
       "action": "updated remark for WFL-CF-78X36X4-SS at SHOMES- CHILAW: “Damaged - 20%”"
@@ -63497,13 +63511,6 @@
       "time": "16:01:40",
       "iso": "2026-08-28T10:31:40.521Z",
       "action": "updated remark for SWM-FAR75 at SHOMES- CHILAW: “Sold”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:01:38",
-      "iso": "2026-08-28T10:31:38.326Z",
-      "action": "updated remark for SWM-FA70R at SHOMES- CHILAW: “Sold”"
     }
   ]
 }
