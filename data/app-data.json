@@ -58303,13 +58303,6 @@
       "commentTime": "10:53:44",
       "lastUpdated": "2026-08-28T05:23:44.259Z"
     },
-    "DUM - SMGAR50F24D1J||KURUNEGALA C": {
-      "remark": "Can sell by 31st of Aug",
-      "commentedBy": "Sulani",
-      "commentDate": "2026-08-28",
-      "commentTime": "10:53:53",
-      "lastUpdated": "2026-08-28T05:23:53.732Z"
-    },
     "ENG-UE10054||KURUNEGALA C": {
       "remark": "Can sell by 31st of Aug",
       "commentedBy": "Sulani",
@@ -59689,6 +59682,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "10:55:36",
+      "iso": "2026-08-28T05:25:36.042Z",
+      "action": "updated remark for DUM - SMGAR50F24D1J at KURUNEGALA C (cleared)"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "10:54:36",
       "iso": "2026-08-28T05:24:36.369Z",
       "action": "updated remark for ENG-UE20012 at KURUNEGALA C: “Damage - 80%”"
@@ -60028,13 +60028,6 @@
       "time": "10:35:24",
       "iso": "2026-08-28T05:05:24.010Z",
       "action": "updated remark for LF-NIKO-CT at NUWARAELIYA A: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-08-28",
-      "time": "10:35:09",
-      "iso": "2026-08-28T05:05:09.158Z",
-      "action": "updated remark for LF-ECO-BDS-BON at NUWARAELIYA A: “70%”"
     }
   ]
 }
