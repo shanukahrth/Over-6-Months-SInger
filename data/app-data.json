@@ -58472,11 +58472,11 @@
       "lastUpdated": "2026-08-28T05:34:41.421Z"
     },
     "LF-LEO-LTAB-WNG-S||KURUNEGALA C": {
-      "remark": "Damage - 50%",
+      "remark": "Damage - 55%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:04:56",
-      "lastUpdated": "2026-08-28T05:34:56.618Z"
+      "commentTime": "11:06:23",
+      "lastUpdated": "2026-08-28T05:36:23.921Z"
     },
     "LF-MONT-BDQ-SHW-S||KURUNEGALA C": {
       "remark": "Damage - 50%",
@@ -58498,6 +58498,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:06:15",
       "lastUpdated": "2026-08-28T05:36:15.266Z"
+    },
+    "LF-MANEL-IC-AGO||KURUNEGALA C": {
+      "remark": "Damage - 55%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:06:27",
+      "lastUpdated": "2026-08-28T05:36:27.588Z"
     }
   },
   "showroomVisits": {
@@ -59864,6 +59871,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:06:27",
+      "iso": "2026-08-28T05:36:27.589Z",
+      "action": "updated remark for LF-MANEL-IC-AGO at KURUNEGALA C: “Damage - 55%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "11:06:23",
+      "iso": "2026-08-28T05:36:23.923Z",
+      "action": "updated remark for LF-LEO-LTAB-WNG-S at KURUNEGALA C: “Damage - 55%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:06:15",
       "iso": "2026-08-28T05:36:15.267Z",
       "action": "updated remark for LF-ORGN-DTO-WHT at KURUNEGALA C: “Damage - 50%”"
@@ -60196,20 +60217,6 @@
       "time": "10:51:46",
       "iso": "2026-08-28T05:21:46.201Z",
       "action": "updated remark for B-WTV11512XS0 at KURUNEGALA C: “Damage - 30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:51:40",
-      "iso": "2026-08-28T05:21:40.936Z",
-      "action": "updated remark for BES-WP15T at KURUNEGALA C (cleared)"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:51:36",
-      "iso": "2026-08-28T05:21:36.055Z",
-      "action": "updated remark for BRP-TW30 at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
