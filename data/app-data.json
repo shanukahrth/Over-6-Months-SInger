@@ -61732,6 +61732,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:15:52",
       "lastUpdated": "2026-08-28T10:45:52.034Z"
+    },
+    "WF-VENICE-PI-S||SHOMES- CHILAW": {
+      "remark": "Damaged- 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:16:34",
+      "lastUpdated": "2026-08-28T10:46:34.196Z"
     }
   },
   "showroomVisits": {
@@ -63128,6 +63135,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:16:34",
+      "iso": "2026-08-28T10:46:34.198Z",
+      "action": "updated remark for WF-VENICE-PI-S at SHOMES- CHILAW: “Damaged- 75%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "16:15:52",
@@ -63468,13 +63482,6 @@
       "date": "2026-08-28",
       "time": "16:00:14",
       "iso": "2026-08-28T10:30:14.848Z",
-      "action": "updated remark for SPAS81 at SHOMES- CHILAW: “Revert / Damaged- 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:00:14",
-      "iso": "2026-08-28T10:30:14.242Z",
       "action": "updated remark for SPAS81 at SHOMES- CHILAW: “Revert / Damaged- 85%”"
     }
   ]
