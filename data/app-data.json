@@ -59814,6 +59814,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:10:16",
       "lastUpdated": "2026-08-28T07:40:16.679Z"
+    },
+    "MC984-HO||CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:10:24",
+      "lastUpdated": "2026-08-28T07:40:24.530Z"
     }
   },
   "showroomVisits": {
@@ -61180,6 +61187,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:10:24",
+      "iso": "2026-08-28T07:40:24.532Z",
+      "action": "updated remark for MC984-HO at CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:10:16",
       "iso": "2026-08-28T07:40:16.681Z",
       "action": "updated remark for MC8280 at CHILAW: “Damaged - 40%”"
@@ -61519,13 +61533,6 @@
       "time": "12:57:05",
       "iso": "2026-08-28T07:27:05.344Z",
       "action": "updated remark for H-HMR-DG2312 at CHILAW: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:57:00",
-      "iso": "2026-08-28T07:27:00.342Z",
-      "action": "updated remark for H-HMR-DG2312 at CHILAW: “So;d out”"
     }
   ]
 }
