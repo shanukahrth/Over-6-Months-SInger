@@ -58626,11 +58626,11 @@
       "lastUpdated": "2026-08-28T05:53:49.124Z"
     },
     "PN-CS-U13XKH||KURUNEGALA C": {
-      "remark": "Damage - 5%",
+      "remark": "Damage - Additional 5%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:10:18",
-      "lastUpdated": "2026-08-28T05:40:18.644Z"
+      "commentTime": "11:24:30",
+      "lastUpdated": "2026-08-28T05:54:30.860Z"
     },
     "PN-CS-XU12XKYW-8||KURUNEGALA C": {
       "remark": "Additional 5%",
@@ -58668,11 +58668,11 @@
       "lastUpdated": "2026-08-28T05:53:09.076Z"
     },
     "PH-NHC3505||KURUNEGALA C": {
-      "remark": "Damage - Additional5%",
+      "remark": "Damage - Additional 5%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "11:23:51",
-      "lastUpdated": "2026-08-28T05:53:51.329Z"
+      "commentTime": "11:24:33",
+      "lastUpdated": "2026-08-28T05:54:33.107Z"
     }
   },
   "showroomVisits": {
@@ -60039,6 +60039,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:24:33",
+      "iso": "2026-08-28T05:54:33.108Z",
+      "action": "updated remark for PH-NHC3505 at KURUNEGALA C: “Damage - Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "11:24:30",
+      "iso": "2026-08-28T05:54:30.862Z",
+      "action": "updated remark for PN-CS-U13XKH at KURUNEGALA C: “Damage - Additional 5%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:23:51",
       "iso": "2026-08-28T05:53:51.330Z",
       "action": "updated remark for PH-NHC3505 at KURUNEGALA C: “Damage - Additional5%”"
@@ -60371,20 +60385,6 @@
       "time": "11:00:04",
       "iso": "2026-08-28T05:30:04.939Z",
       "action": "updated remark for HON-BUDS-X6 at KURUNEGALA C: “Damage - 25%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:59:57",
-      "iso": "2026-08-28T05:29:57.033Z",
-      "action": "updated remark for HFPA-GRAVITY-BLU at KURUNEGALA C: “Damage - 25%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:59:48",
-      "iso": "2026-08-28T05:29:48.793Z",
-      "action": "updated remark for HFPA-GRAVITY-BLC at KURUNEGALA C: “Damage - 25%”"
     }
   ]
 }
