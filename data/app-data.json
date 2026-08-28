@@ -61431,6 +61431,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:55:30",
       "lastUpdated": "2026-08-28T10:25:30.697Z"
+    },
+    "SLE32E710||SHOMES- CHILAW": {
+      "remark": "Revert / Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:56:24",
+      "lastUpdated": "2026-08-28T10:26:24.951Z"
     }
   },
   "showroomVisits": {
@@ -62829,6 +62836,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:56:24",
+      "iso": "2026-08-28T10:26:24.953Z",
+      "action": "updated remark for SLE32E710 at SHOMES- CHILAW: “Revert / Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:55:30",
       "iso": "2026-08-28T10:25:30.698Z",
       "action": "updated remark for SL-WD7004 at SHOMES- CHILAW: “Damaged - 75%”"
@@ -63168,13 +63182,6 @@
       "time": "15:35:28",
       "iso": "2026-08-28T10:05:28.108Z",
       "action": "updated remark for MXLM1A0D27 at SHOMES- CHILAW: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:35:13",
-      "iso": "2026-08-28T10:05:13.668Z",
-      "action": "updated remark for MB-SAFARI4S-RED at SHOMES- CHILAW: “Okay”"
     }
   ]
 }
