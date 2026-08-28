@@ -59842,6 +59842,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:10:59",
       "lastUpdated": "2026-08-28T07:40:59.952Z"
+    },
+    "NCPO-FP280||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:11:17",
+      "lastUpdated": "2026-08-28T07:41:17.376Z"
     }
   },
   "showroomVisits": {
@@ -61208,6 +61215,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:11:17",
+      "iso": "2026-08-28T07:41:17.378Z",
+      "action": "updated remark for NCPO-FP280 at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:10:59",
       "iso": "2026-08-28T07:40:59.953Z",
       "action": "updated remark for NCPDG-SET3 at CHILAW: “Damaged - 80%”"
@@ -61546,13 +61560,6 @@
       "date": "2026-08-28",
       "time": "12:58:13",
       "iso": "2026-08-28T07:28:13.030Z",
-      "action": "updated remark for HFPA-GRAVITY-BLU at CHILAW: “Report for 24000”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:58:03",
-      "iso": "2026-08-28T07:28:03.279Z",
       "action": "updated remark for HFPA-GRAVITY-BLU at CHILAW: “Report for 24000”"
     }
   ]
