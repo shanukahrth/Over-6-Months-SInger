@@ -60227,6 +60227,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:22:06",
       "lastUpdated": "2026-08-28T07:52:06.794Z"
+    },
+    "TF-GCA-1336||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:22:15",
+      "lastUpdated": "2026-08-28T07:52:15.450Z"
     }
   },
   "showroomVisits": {
@@ -61593,6 +61600,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:22:15",
+      "iso": "2026-08-28T07:52:15.452Z",
+      "action": "updated remark for TF-GCA-1336 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:22:06",
       "iso": "2026-08-28T07:52:06.795Z",
       "action": "updated remark for TF-FX100028 at CHILAW: “Damaged - 75%”"
@@ -61932,13 +61946,6 @@
       "time": "13:15:05",
       "iso": "2026-08-28T07:45:05.094Z",
       "action": "updated remark for RIYLTA-MF12V4 at CHILAW: “Damaged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:14:57",
-      "iso": "2026-08-28T07:44:57.516Z",
-      "action": "updated remark for RIYLTA-MF12V35A at CHILAW: “Damaged - 90%”"
     }
   ]
 }
