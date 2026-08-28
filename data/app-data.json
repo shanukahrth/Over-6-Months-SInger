@@ -58477,6 +58477,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:04:56",
       "lastUpdated": "2026-08-28T05:34:56.618Z"
+    },
+    "LF-MONT-BDQ-SHW-S||KURUNEGALA C": {
+      "remark": "Damage - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:05:06",
+      "lastUpdated": "2026-08-28T05:35:06.941Z"
     }
   },
   "showroomVisits": {
@@ -59843,6 +59850,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:05:06",
+      "iso": "2026-08-28T05:35:06.942Z",
+      "action": "updated remark for LF-MONT-BDQ-SHW-S at KURUNEGALA C: “Damage - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:04:56",
       "iso": "2026-08-28T05:34:56.620Z",
       "action": "updated remark for LF-LEO-LTAB-WNG-S at KURUNEGALA C: “Damage - 50%”"
@@ -60182,13 +60196,6 @@
       "time": "10:48:37",
       "iso": "2026-08-28T05:18:37.073Z",
       "action": "updated remark for B-RDNT231I50S at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "10:48:31",
-      "iso": "2026-08-28T05:18:31.944Z",
-      "action": "updated remark for B-CWB6441XN at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
