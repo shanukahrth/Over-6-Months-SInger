@@ -60001,8 +60001,8 @@
       "remark": "Revert / Damaged - 90%",
       "commentedBy": "SHENULI",
       "commentDate": "2026-08-28",
-      "commentTime": "13:17:01",
-      "lastUpdated": "2026-08-28T07:47:01.978Z"
+      "commentTime": "13:27:01",
+      "lastUpdated": "2026-08-28T07:57:01.164Z"
     },
     "SIN-RFC-1819||CHILAW": {
       "remark": "Can sell",
@@ -60318,6 +60318,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:26:49",
       "lastUpdated": "2026-08-28T07:56:49.404Z"
+    },
+    "B-HIAG64223SXL||WARIYAPOLA": {
+      "remark": "Okay",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:26:45",
+      "lastUpdated": "2026-08-28T07:56:45.480Z"
     }
   },
   "showroomVisits": {
@@ -61682,6 +61689,20 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:27:01",
+      "iso": "2026-08-28T07:57:01.165Z",
+      "action": "updated remark for SLE40D600A at WARIYAPOLA: “Revert / Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "13:26:45",
+      "iso": "2026-08-28T07:56:45.482Z",
+      "action": "updated remark for B-HIAG64223SXL at WARIYAPOLA: “Okay”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "13:26:49",
@@ -62016,20 +62037,6 @@
       "time": "13:18:04",
       "iso": "2026-08-28T07:48:04.155Z",
       "action": "updated remark for SLE32G690 at CHILAW: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:17:56",
-      "iso": "2026-08-28T07:47:56.023Z",
-      "action": "updated remark for SLE32E930 at CHILAW: “Can sell”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:17:38",
-      "iso": "2026-08-28T07:47:38.840Z",
-      "action": "updated remark for SLE43G890 at WARIYAPOLA: “Revert / Damaged - 90%”"
     }
   ]
 }
