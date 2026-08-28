@@ -59618,6 +59618,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:01:17",
       "lastUpdated": "2026-08-28T07:31:17.437Z"
+    },
+    "LF-MONT-BSC-SHW-S||CHILAW": {
+      "remark": "Display - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:01:27",
+      "lastUpdated": "2026-08-28T07:31:27.313Z"
     }
   },
   "showroomVisits": {
@@ -60982,6 +60989,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:01:27",
+      "iso": "2026-08-28T07:31:27.314Z",
+      "action": "updated remark for LF-MONT-BSC-SHW-S at CHILAW: “Display - 50%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:01:17",
@@ -61323,13 +61337,6 @@
       "time": "12:32:15",
       "iso": "2026-08-28T07:02:15.706Z",
       "action": "updated remark for HON-X7A-6-128-SIL at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:31:58",
-      "iso": "2026-08-28T07:01:58.240Z",
-      "action": "updated remark for HON-PAD-X7-4-128 at CHILAW: “Sold out”"
     }
   ]
 }
