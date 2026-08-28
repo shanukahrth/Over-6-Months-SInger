@@ -60017,6 +60017,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:17:00",
       "lastUpdated": "2026-08-28T07:47:00.815Z"
+    },
+    "SLE43G890||WARIYAPOLA": {
+      "remark": "Revert / Damaged - 90%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:17:23",
+      "lastUpdated": "2026-08-28T07:47:23.609Z"
     }
   },
   "showroomVisits": {
@@ -61383,6 +61390,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "13:17:23",
+      "iso": "2026-08-28T07:47:23.611Z",
+      "action": "updated remark for SLE43G890 at WARIYAPOLA: “Revert / Damaged - 90%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "13:17:01",
       "iso": "2026-08-28T07:47:01.979Z",
       "action": "updated remark for SLE40D600A at WARIYAPOLA: “Revert / Damaged - 90%”"
@@ -61722,13 +61736,6 @@
       "time": "13:07:30",
       "iso": "2026-08-28T07:37:30.404Z",
       "action": "updated remark for LFLCDCHAMP-AGO-S at WARIYAPOLA: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:07:14",
-      "iso": "2026-08-28T07:37:14.068Z",
-      "action": "updated remark for LF-SP-1868 at WARIYAPOLA: “Damaged - 50%”"
     }
   ]
 }
