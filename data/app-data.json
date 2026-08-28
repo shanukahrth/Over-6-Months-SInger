@@ -58729,6 +58729,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:30:31",
       "lastUpdated": "2026-08-28T06:00:31.819Z"
+    },
+    "SBI-60M19-T||KURUNEGALA C": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:31:05",
+      "lastUpdated": "2026-08-28T06:01:05.852Z"
     }
   },
   "showroomVisits": {
@@ -60095,6 +60102,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:31:05",
+      "iso": "2026-08-28T06:01:05.854Z",
+      "action": "updated remark for SBI-60M19-T at KURUNEGALA C: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:30:31",
       "iso": "2026-08-28T06:00:31.821Z",
       "action": "updated remark for SAS24TCNR at KURUNEGALA C: “Okay for given discount”"
@@ -60434,13 +60448,6 @@
       "time": "11:06:15",
       "iso": "2026-08-28T05:36:15.267Z",
       "action": "updated remark for LF-ORGN-DTO-WHT at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:05:22",
-      "iso": "2026-08-28T05:35:22.012Z",
-      "action": "updated remark for LF-ORGN-BSC-WHT at KURUNEGALA C: “Damage - 50%”"
     }
   ]
 }
