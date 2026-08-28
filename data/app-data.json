@@ -59847,8 +59847,8 @@
       "remark": "Damaged - 80%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-28",
-      "commentTime": "13:11:17",
-      "lastUpdated": "2026-08-28T07:41:17.376Z"
+      "commentTime": "13:11:27",
+      "lastUpdated": "2026-08-28T07:41:27.289Z"
     }
   },
   "showroomVisits": {
@@ -61215,6 +61215,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "13:11:27",
+      "iso": "2026-08-28T07:41:27.291Z",
+      "action": "updated remark for NCPO-FP280 at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "13:11:17",
       "iso": "2026-08-28T07:41:17.378Z",
       "action": "updated remark for NCPO-FP280 at CHILAW: “Damaged - 80%”"
@@ -61554,13 +61561,6 @@
       "time": "12:58:21",
       "iso": "2026-08-28T07:28:21.581Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at CHILAW: “Report for 30000”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:58:13",
-      "iso": "2026-08-28T07:28:13.030Z",
-      "action": "updated remark for HFPA-GRAVITY-BLU at CHILAW: “Report for 24000”"
     }
   ]
 }
