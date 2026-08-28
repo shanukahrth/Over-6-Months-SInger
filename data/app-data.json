@@ -59506,6 +59506,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:56:31",
       "lastUpdated": "2026-08-28T07:26:31.113Z"
+    },
+    "H-CVW1600||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:56:51",
+      "lastUpdated": "2026-08-28T07:26:51.316Z"
     }
   },
   "showroomVisits": {
@@ -60872,6 +60879,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:56:51",
+      "iso": "2026-08-28T07:26:51.317Z",
+      "action": "updated remark for H-CVW1600 at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:56:31",
       "iso": "2026-08-28T07:26:31.114Z",
       "action": "updated remark for GEO-242D-TG at CHILAW: “Damaged - 50%”"
@@ -61211,13 +61225,6 @@
       "time": "12:07:46",
       "iso": "2026-08-28T06:37:46.706Z",
       "action": "updated remark for WF-ROM-DTO-S at KURUNEGALA C: “Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:07:32",
-      "iso": "2026-08-28T06:37:32.940Z",
-      "action": "updated remark for USHA-AVTR56 at KURUNEGALA C: “Damaged - 60%”"
     }
   ]
 }
