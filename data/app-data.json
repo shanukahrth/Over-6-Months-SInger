@@ -60129,6 +60129,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:20:18",
       "lastUpdated": "2026-08-28T07:50:18.639Z"
+    },
+    "SRS-XV500||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:20:30",
+      "lastUpdated": "2026-08-28T07:50:30.695Z"
+    },
+    "STARLINK-HP||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:20:36",
+      "lastUpdated": "2026-08-28T07:50:36.776Z"
     }
   },
   "showroomVisits": {
@@ -61493,6 +61507,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:20:36",
+      "iso": "2026-08-28T07:50:36.778Z",
+      "action": "updated remark for STARLINK-HP at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:20:30",
+      "iso": "2026-08-28T07:50:30.697Z",
+      "action": "updated remark for SRS-XV500 at CHILAW: “Can sell”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:20:18",
@@ -61827,20 +61855,6 @@
       "time": "13:10:59",
       "iso": "2026-08-28T07:40:59.953Z",
       "action": "updated remark for NCPDG-SET3 at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "13:10:46",
-      "iso": "2026-08-28T07:40:46.790Z",
-      "action": "updated remark for SKY32TB1000 at WARIYAPOLA: “Revert / Damaged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:10:31",
-      "iso": "2026-08-28T07:40:31.571Z",
-      "action": "updated remark for MHC-M40D at CHILAW: “Damaged - 75%”"
     }
   ]
 }
