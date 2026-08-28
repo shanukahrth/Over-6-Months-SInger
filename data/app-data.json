@@ -60157,6 +60157,20 @@
       "commentDate": "2026-08-28",
       "commentTime": "13:20:47",
       "lastUpdated": "2026-08-28T07:50:47.030Z"
+    },
+    "STT-100K||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:20:43",
+      "lastUpdated": "2026-08-28T07:50:43.241Z"
+    },
+    "STT-1BSS||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "13:20:48",
+      "lastUpdated": "2026-08-28T07:50:48.842Z"
     }
   },
   "showroomVisits": {
@@ -61521,6 +61535,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:20:48",
+      "iso": "2026-08-28T07:50:48.843Z",
+      "action": "updated remark for STT-1BSS at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
+      "time": "13:20:43",
+      "iso": "2026-08-28T07:50:43.242Z",
+      "action": "updated remark for STT-100K at CHILAW: “Damaged - 80%”"
+    },
+    {
       "user": "SHENULI",
       "date": "2026-08-28",
       "time": "13:20:47",
@@ -61855,20 +61883,6 @@
       "time": "13:12:04",
       "iso": "2026-08-28T07:42:04.039Z",
       "action": "updated remark for PF-MONDY-BLACK at CHILAW: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:11:48",
-      "iso": "2026-08-28T07:41:48.058Z",
-      "action": "updated remark for OF-COMT-S-S at CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:11:27",
-      "iso": "2026-08-28T07:41:27.291Z",
-      "action": "updated remark for NCPO-FP280 at CHILAW: “Damaged - 80%”"
     }
   ]
 }
