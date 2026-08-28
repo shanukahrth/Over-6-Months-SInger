@@ -61424,6 +61424,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "15:55:16",
       "lastUpdated": "2026-08-28T10:25:16.368Z"
+    },
+    "SL-WD7004||SHOMES- CHILAW": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:55:30",
+      "lastUpdated": "2026-08-28T10:25:30.697Z"
     }
   },
   "showroomVisits": {
@@ -62822,6 +62829,13 @@
     {
       "user": "SHENULI",
       "date": "2026-08-28",
+      "time": "15:55:30",
+      "iso": "2026-08-28T10:25:30.698Z",
+      "action": "updated remark for SL-WD7004 at SHOMES- CHILAW: “Damaged - 75%”"
+    },
+    {
+      "user": "SHENULI",
+      "date": "2026-08-28",
       "time": "15:55:16",
       "iso": "2026-08-28T10:25:16.370Z",
       "action": "updated remark for SL-12VNF at SHOMES- CHILAW: “Damaged - 50%”"
@@ -63161,13 +63175,6 @@
       "time": "15:35:13",
       "iso": "2026-08-28T10:05:13.668Z",
       "action": "updated remark for MB-SAFARI4S-RED at SHOMES- CHILAW: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:34:46",
-      "iso": "2026-08-28T10:04:46.542Z",
-      "action": "updated remark for MID-BL1190 at SHOMES- CHILAW: “Damaged - 50%”"
     }
   ]
 }
