@@ -62512,6 +62512,22 @@
       "remark": "",
       "updatedBy": "Sanduni Hansika",
       "updatedDate": "2026-08-28"
+    },
+    "MEGA -KADUWELA||MEGA NORTH ZONE-": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Sanduni Hansika",
+      "updatedDate": "2026-08-28"
+    },
+    "MEGA -MALABE||MEGA NORTH ZONE-": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Sanduni Hansika",
+      "updatedDate": "2026-08-28"
     }
   },
   "soldMarks": {
@@ -62649,6 +62665,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Sanduni Hansika",
+      "date": "2026-08-28",
+      "time": "15:40:54",
+      "iso": "2026-08-28T10:10:54.780Z",
+      "action": "updated MEGA -MALABE showroom (visited: Yes)"
+    },
+    {
+      "user": "Sanduni Hansika",
+      "date": "2026-08-28",
+      "time": "15:40:49",
+      "iso": "2026-08-28T10:10:49.050Z",
+      "action": "updated MEGA -KADUWELA showroom (visited: Yes)"
+    },
     {
       "user": "SHENULI",
       "date": "2026-08-28",
@@ -62984,20 +63014,6 @@
       "time": "15:26:19",
       "iso": "2026-08-28T09:56:19.073Z",
       "action": "updated remark for KA-ELITE at SHOMES- CHILAW: “Damaged - 85%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:25:59",
-      "iso": "2026-08-28T09:55:59.179Z",
-      "action": "updated remark for IWH-1000WS at SHOMES- CHILAW: “Damadged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:25:45",
-      "iso": "2026-08-28T09:55:45.225Z",
-      "action": "updated remark for HFPA-MUSICBOX200-BLK at SHOMES- CHILAW: “Sold”"
     }
   ]
 }
