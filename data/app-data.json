@@ -58932,6 +58932,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "11:43:18",
       "lastUpdated": "2026-08-28T06:13:18.611Z"
+    },
+    "TF-NIFP28-042||KURUNEGALA C": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "11:43:37",
+      "lastUpdated": "2026-08-28T06:13:37.040Z"
     }
   },
   "showroomVisits": {
@@ -60298,6 +60305,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "11:43:37",
+      "iso": "2026-08-28T06:13:37.042Z",
+      "action": "updated remark for TF-NIFP28-042 at KURUNEGALA C: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "11:43:18",
       "iso": "2026-08-28T06:13:18.612Z",
       "action": "updated remark for TF-KD24-061 at KURUNEGALA C: “Damaged - 70%”"
@@ -60637,13 +60651,6 @@
       "time": "11:24:33",
       "iso": "2026-08-28T05:54:33.108Z",
       "action": "updated remark for PH-NHC3505 at KURUNEGALA C: “Damage - Additional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "11:24:30",
-      "iso": "2026-08-28T05:54:30.862Z",
-      "action": "updated remark for PN-CS-U13XKH at KURUNEGALA C: “Damage - Additional 5%”"
     }
   ]
 }
