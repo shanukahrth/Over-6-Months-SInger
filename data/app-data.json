@@ -60759,6 +60759,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "14:06:24",
       "lastUpdated": "2026-08-28T08:36:24.784Z"
+    },
+    "PF-ENVISION-BL-S||BINGIRIYA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "15:08:36",
+      "lastUpdated": "2026-08-28T09:38:36.939Z"
     }
   },
   "showroomVisits": {
@@ -62125,6 +62132,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "15:08:36",
+      "iso": "2026-08-28T09:38:36.941Z",
+      "action": "updated remark for PF-ENVISION-BL-S at BINGIRIYA: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "14:06:24",
       "iso": "2026-08-28T08:36:24.786Z",
       "action": "updated remark for PCP50 at BINGIRIYA: “Can sell”"
@@ -62464,13 +62478,6 @@
       "time": "13:30:08",
       "iso": "2026-08-28T08:00:08.365Z",
       "action": "updated remark for WF-DOC-M003-BU-S at WARIYAPOLA: “Damaged - 75%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "13:30:10",
-      "iso": "2026-08-28T08:00:10.409Z",
-      "action": "updated remark for WFL-MONACO-10-S at CHILAW: “Sold out”"
     }
   ]
 }
