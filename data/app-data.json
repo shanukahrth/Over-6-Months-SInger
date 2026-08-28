@@ -61683,6 +61683,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "16:12:06",
       "lastUpdated": "2026-08-28T10:42:06.013Z"
+    },
+    "WF-OF-CHR008-S||SHOMES- CHILAW": {
+      "remark": "Display / Damaged - 50%",
+      "commentedBy": "SHENULI",
+      "commentDate": "2026-08-28",
+      "commentTime": "16:12:40",
+      "lastUpdated": "2026-08-28T10:42:40.915Z"
     }
   },
   "showroomVisits": {
@@ -63079,6 +63086,13 @@
   },
   "activity": [
     {
+      "user": "SHENULI",
+      "date": "2026-08-28",
+      "time": "16:12:40",
+      "iso": "2026-08-28T10:42:40.917Z",
+      "action": "updated remark for WF-OF-CHR008-S at SHOMES- CHILAW: “Display / Damaged - 50%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-28",
       "time": "16:12:06",
@@ -63420,13 +63434,6 @@
       "time": "15:55:16",
       "iso": "2026-08-28T10:25:16.370Z",
       "action": "updated remark for SL-12VNF at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "15:54:55",
-      "iso": "2026-08-28T10:24:55.067Z",
-      "action": "updated remark for SKY-32E2 at SHOMES- CHILAW: “Damaged - 90%”"
     }
   ]
 }
