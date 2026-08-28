@@ -59569,6 +59569,13 @@
       "commentDate": "2026-08-28",
       "commentTime": "12:58:55",
       "lastUpdated": "2026-08-28T07:28:55.463Z"
+    },
+    "HP-INKTANK-415||CHILAW": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-28",
+      "commentTime": "12:59:25",
+      "lastUpdated": "2026-08-28T07:29:25.305Z"
     }
   },
   "showroomVisits": {
@@ -60935,6 +60942,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-28",
+      "time": "12:59:25",
+      "iso": "2026-08-28T07:29:25.308Z",
+      "action": "updated remark for HP-INKTANK-415 at CHILAW: “Damaged - 75%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-28",
       "time": "12:58:55",
       "iso": "2026-08-28T07:28:55.464Z",
       "action": "updated remark for HON-CH-WATCH-2I-WH at CHILAW: “Sold out”"
@@ -61274,13 +61288,6 @@
       "time": "12:16:52",
       "iso": "2026-08-28T06:46:52.381Z",
       "action": "updated remark for SIN-DEC-DCWL at KURUNEGALA C: “Damaged - 30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "12:16:44",
-      "iso": "2026-08-28T06:46:44.855Z",
-      "action": "updated remark for WFI-DELPHI-CHR-S at KURUNEGALA C: “Damaged - 60%”"
     }
   ]
 }
