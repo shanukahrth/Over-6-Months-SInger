@@ -66987,8 +66987,8 @@
       "remark": "95%",
       "commentedBy": "Kaveesha",
       "commentDate": "2026-08-31",
-      "commentTime": "15:34:00",
-      "lastUpdated": "2026-08-31T10:04:00.830Z"
+      "commentTime": "15:34:11",
+      "lastUpdated": "2026-08-31T10:04:11.963Z"
     },
     "WFL-SPM-78X75X7-S||JAFFNA PANNAI BRANCH": {
       "remark": "70 % OFF",
@@ -66996,6 +66996,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:33:23",
       "lastUpdated": "2026-08-31T10:03:23.126Z"
+    },
+    "SLE32E910||HATTON": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:34:23",
+      "lastUpdated": "2026-08-31T10:04:23.604Z"
     }
   },
   "showroomVisits": {
@@ -68842,6 +68849,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:34:23",
+      "iso": "2026-08-31T10:04:23.609Z",
+      "action": "updated remark for SLE32E910 at HATTON: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:34:11",
+      "iso": "2026-08-31T10:04:11.965Z",
+      "action": "updated remark for SLE32E710 at HATTON: “95%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:33:23",
@@ -69176,20 +69197,6 @@
       "time": "15:18:55",
       "iso": "2026-08-31T09:48:55.052Z",
       "action": "updated remark for B-BDFN26530B at MATARA-B: “-”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:18:54",
-      "iso": "2026-08-31T09:48:54.222Z",
-      "action": "updated remark for SL-S203 at HATTON: “90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:18:21",
-      "iso": "2026-08-31T09:48:21.092Z",
-      "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at MATARA-B: “Can sell”"
     }
   ]
 }
