@@ -64728,6 +64728,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:59:32",
       "lastUpdated": "2026-08-31T06:29:32.297Z"
+    },
+    "HFPA-GRAVITY-BLC||MEGA -KATUBEDDA": {
+      "remark": "Report for 24000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "12:01:28",
+      "lastUpdated": "2026-08-31T06:31:28.155Z"
     }
   },
   "showroomVisits": {
@@ -66346,6 +66353,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "12:01:28",
+      "iso": "2026-08-31T06:31:28.156Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at MEGA -KATUBEDDA: “Report for 24000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "12:01:24",
+      "iso": "2026-08-31T06:31:24.450Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at MEGA -KATUBEDDA: “Report for 24000”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "11:59:32",
@@ -66680,20 +66701,6 @@
       "time": "11:45:52",
       "iso": "2026-08-31T06:15:52.285Z",
       "action": "updated remark for DELL-3580-PQC-W10 at MEGA -KATUBEDDA: “Not in the system (some error from ICD)”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:46:14",
-      "iso": "2026-08-31T06:16:14.548Z",
-      "action": "updated remark for SLE32E390 at NUWARAELIYA A: “90% - Panel Damage”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:45:21",
-      "iso": "2026-08-31T06:15:21.310Z",
-      "action": "updated remark for SLE32E610 at NELLIADY: “80% Damage”"
     }
   ]
 }
