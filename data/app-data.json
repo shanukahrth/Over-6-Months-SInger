@@ -64401,18 +64401,18 @@
       "lastUpdated": "2026-08-31T06:10:16.544Z"
     },
     "SLE32D2010TC||NELLIADY": {
-      "remark": "80%",
+      "remark": "80% Damage",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "11:41:05",
-      "lastUpdated": "2026-08-31T06:11:05.925Z"
+      "commentTime": "11:41:35",
+      "lastUpdated": "2026-08-31T06:11:35.921Z"
     },
     "SLE32D5000||NELLIADY": {
-      "remark": "80%",
+      "remark": "80% Damage",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "11:41:09",
-      "lastUpdated": "2026-08-31T06:11:09.606Z"
+      "commentTime": "11:41:31",
+      "lastUpdated": "2026-08-31T06:11:31.394Z"
     }
   },
   "showroomVisits": {
@@ -66033,6 +66033,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "11:41:35",
+      "iso": "2026-08-31T06:11:35.922Z",
+      "action": "updated remark for SLE32D2010TC at NELLIADY: “80% Damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:41:31",
+      "iso": "2026-08-31T06:11:31.397Z",
+      "action": "updated remark for SLE32D5000 at NELLIADY: “80% Damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "11:41:09",
       "iso": "2026-08-31T06:11:09.606Z",
       "action": "updated remark for SLE32D5000 at NELLIADY: “80%”"
@@ -66365,20 +66379,6 @@
       "time": "11:26:26",
       "iso": "2026-08-31T05:56:26.245Z",
       "action": "updated remark for WF-JUPITER-04-S at NELLIADY: “50% off”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:26:16",
-      "iso": "2026-08-31T05:56:16.005Z",
-      "action": "updated remark for SLE55D5010TC at NELLIADY: “80% off”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:26:05",
-      "iso": "2026-08-31T05:56:05.749Z",
-      "action": "updated remark for LF-ORGN-BDQ-WHT at NELLIADY: “Damaged 80%, Normal- 80%”"
     }
   ]
 }
