@@ -66926,6 +66926,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:30:42",
       "lastUpdated": "2026-08-31T10:00:42.129Z"
+    },
+    "SDV3605K||JAFFNA-HOSPITAL ROAD": {
+      "remark": "80% Off from mark price",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:30:04",
+      "lastUpdated": "2026-08-31T10:00:04.302Z"
     }
   },
   "showroomVisits": {
@@ -68766,6 +68773,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:30:04",
+      "iso": "2026-08-31T10:00:04.303Z",
+      "action": "updated remark for SDV3605K at JAFFNA-HOSPITAL ROAD: “80% Off from mark price”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "15:30:42",
@@ -69107,13 +69121,6 @@
       "time": "15:16:59",
       "iso": "2026-08-31T09:46:59.118Z",
       "action": "updated remark for PMG-TEON at HATTON: “90%- defective”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:16:00",
-      "iso": "2026-08-31T09:46:00.910Z",
-      "action": "updated remark for WF-QUEEN-311-BR-S at JAFFNA-HOSPITAL ROAD: “35% Off from mark price”"
     }
   ]
 }
