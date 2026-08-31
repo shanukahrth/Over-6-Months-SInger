@@ -66536,7 +66536,7 @@
     "HIKKADUWA||AMBALANGODA": {
       "visited": "Yes",
       "visitDate": "2026-08-07",
-      "team": "",
+      "team": "White Goods Team",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
@@ -66803,6 +66803,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "12:48:48",
+      "iso": "2026-08-31T07:18:48.049Z",
+      "action": "updated HIKKADUWA showroom (team: White Goods Team)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-31",
@@ -67145,13 +67152,6 @@
       "time": "12:18:19",
       "iso": "2026-08-31T06:48:19.248Z",
       "action": "updated remark for B-BMGB25332BG at MEGA -KATUBEDDA: “35% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:18:15",
-      "iso": "2026-08-31T06:48:15.932Z",
-      "action": "updated remark for B-BMGB25332BG at MEGA -KATUBEDDA: “45% OFF”"
     }
   ]
 }
