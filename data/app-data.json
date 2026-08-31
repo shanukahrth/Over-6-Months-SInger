@@ -66044,6 +66044,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:50:09",
       "lastUpdated": "2026-08-31T09:20:09.795Z"
+    },
+    "WP-CHTW-100-S||JAFFNA-HOSPITAL ROAD": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:50:32",
+      "lastUpdated": "2026-08-31T09:20:32.185Z"
     }
   },
   "showroomVisits": {
@@ -67862,6 +67869,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "14:50:32",
+      "iso": "2026-08-31T09:20:32.186Z",
+      "action": "updated remark for WP-CHTW-100-S at JAFFNA-HOSPITAL ROAD: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "14:50:09",
       "iso": "2026-08-31T09:20:09.907Z",
       "action": "marked NUBIA-AIR-8-256GB-ST-BLK at JAFFNA-HOSPITAL ROAD as Sold"
@@ -68201,13 +68215,6 @@
       "time": "14:15:10",
       "iso": "2026-08-31T08:45:10.194Z",
       "action": "updated remark for SAS-18V-INV at HATTON: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:14:11",
-      "iso": "2026-08-31T08:44:11.709Z",
-      "action": "marked TCL85C655 at JAFFNA-HOSPITAL ROAD as Sold"
     }
   ]
 }
