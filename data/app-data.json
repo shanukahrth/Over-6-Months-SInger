@@ -67294,9 +67294,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "SL-RFA75||CHANKANI": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "13:49:44",
+      "iso": "2026-08-31T08:19:44.218Z",
+      "action": "marked SL-RFA75 at CHANKANI as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -67639,13 +67652,6 @@
       "time": "13:13:30",
       "iso": "2026-08-31T07:43:30.787Z",
       "action": "updated remark for TF-NIK26-045 at MEGA -KATUBEDDA: “20% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:13:14",
-      "iso": "2026-08-31T07:43:14.357Z",
-      "action": "updated remark for TF-NIGP26-119 at MEGA -KATUBEDDA: “35% OFF”"
     }
   ]
 }
