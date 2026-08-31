@@ -66212,6 +66212,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:03:01",
       "lastUpdated": "2026-08-31T09:33:01.659Z"
+    },
+    "WF-PRST-BDQ-W-S||MEGA -KATUBEDDA": {
+      "remark": "Damage 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:02:32",
+      "lastUpdated": "2026-08-31T09:32:32.342Z"
     }
   },
   "showroomVisits": {
@@ -68040,6 +68047,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "15:02:32",
+      "iso": "2026-08-31T09:32:32.344Z",
+      "action": "updated remark for WF-PRST-BDQ-W-S at MEGA -KATUBEDDA: “Damage 50%”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "15:03:01",
@@ -68381,13 +68395,6 @@
       "time": "14:23:02",
       "iso": "2026-08-31T08:53:02.139Z",
       "action": "updated remark for OF-COMT-S-S at HATTON: “70% - Shop use”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:22:34",
-      "iso": "2026-08-31T08:52:34.524Z",
-      "action": "updated remark for SL-TF313 at HATTON: “70%”"
     }
   ]
 }
