@@ -66583,6 +66583,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:16:16",
       "lastUpdated": "2026-08-31T09:46:16.500Z"
+    },
+    "MID-BL1190||HATTON": {
+      "remark": "defective",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:16:27",
+      "lastUpdated": "2026-08-31T09:46:27.485Z"
     }
   },
   "showroomVisits": {
@@ -68413,6 +68420,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:16:27",
+      "iso": "2026-08-31T09:46:27.486Z",
+      "action": "updated remark for MID-BL1190 at HATTON: “defective”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:16:16",
       "iso": "2026-08-31T09:46:16.501Z",
       "action": "updated remark for KA-ELITE at HATTON: “1- defective 1-90%”"
@@ -68752,13 +68766,6 @@
       "time": "15:06:50",
       "iso": "2026-08-31T09:36:50.910Z",
       "action": "updated remark for WF-BALTIC-01-S at HATTON: “70%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:06:31",
-      "iso": "2026-08-31T09:36:31.135Z",
-      "action": "updated remark for PF-ENVISION-BL-S at HATTON: “80%”"
     }
   ]
 }
