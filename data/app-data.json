@@ -64399,6 +64399,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:40:16",
       "lastUpdated": "2026-08-31T06:10:16.544Z"
+    },
+    "SLE32D2010TC||NELLIADY": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:41:05",
+      "lastUpdated": "2026-08-31T06:11:05.925Z"
+    },
+    "SLE32D5000||NELLIADY": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:41:09",
+      "lastUpdated": "2026-08-31T06:11:09.606Z"
     }
   },
   "showroomVisits": {
@@ -66017,6 +66031,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:41:09",
+      "iso": "2026-08-31T06:11:09.606Z",
+      "action": "updated remark for SLE32D5000 at NELLIADY: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:41:05",
+      "iso": "2026-08-31T06:11:05.926Z",
+      "action": "updated remark for SLE32D2010TC at NELLIADY: “80%”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "11:41:02",
@@ -66351,20 +66379,6 @@
       "time": "11:26:05",
       "iso": "2026-08-31T05:56:05.749Z",
       "action": "updated remark for LF-ORGN-BDQ-WHT at NELLIADY: “Damaged 80%, Normal- 80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:25:41",
-      "iso": "2026-08-31T05:55:41.773Z",
-      "action": "updated remark for WF-ROME-01-S at NELLIADY: “50% off”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:26:17",
-      "iso": "2026-08-31T05:56:17.852Z",
-      "action": "updated remark for WP-JUN-E-S at NUWARAELIYA A: “50% - Slow moving”"
     }
   ]
 }
