@@ -63167,6 +63167,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:38:11",
       "lastUpdated": "2026-08-31T05:08:11.429Z"
+    },
+    "TF-TT365027||NUWARAELIYA A": {
+      "remark": "80% -Damaged",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:39:02",
+      "lastUpdated": "2026-08-31T05:09:02.255Z"
     }
   },
   "showroomVisits": {
@@ -64743,6 +64750,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "10:39:02",
+      "iso": "2026-08-31T05:09:02.256Z",
+      "action": "updated remark for TF-TT365027 at NUWARAELIYA A: “80% -Damaged”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "10:38:57",
+      "iso": "2026-08-31T05:08:57.087Z",
+      "action": "updated remark for TF-TT365027 at NUWARAELIYA A: “80% -Damaged”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "10:38:11",
@@ -65077,20 +65098,6 @@
       "time": "10:20:01",
       "iso": "2026-08-31T04:50:01.626Z",
       "action": "updated remark for SN-SMI-305 at CHAVAKACHCHERI: “80%- service issue wont work”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "10:19:37",
-      "iso": "2026-08-31T04:49:37.364Z",
-      "action": "updated remark for SAIL180106 at SHOMES- CHILAW: “Damaged - 95%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "10:19:32",
-      "iso": "2026-08-31T04:49:32.870Z",
-      "action": "updated remark for SAIL180105 at SHOMES- CHILAW: “Damaged - 95%”"
     }
   ]
 }
