@@ -64128,11 +64128,11 @@
       "lastUpdated": "2026-08-31T05:54:42.424Z"
     },
     "WP-WM31278||NUWARAELIYA A": {
-      "remark": "Saleable",
+      "remark": "60%",
       "commentedBy": "Kaveesha",
       "commentDate": "2026-08-31",
-      "commentTime": "11:25:09",
-      "lastUpdated": "2026-08-31T05:55:09.309Z"
+      "commentTime": "11:25:31",
+      "lastUpdated": "2026-08-31T05:55:31.253Z"
     },
     "MID-D30-20EVN1||NUWARAELIYA A": {
       "remark": "Saleable",
@@ -65752,6 +65752,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:25:31",
+      "iso": "2026-08-31T05:55:31.254Z",
+      "action": "updated remark for WP-WM31278 at NUWARAELIYA A: “60%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "11:24:42",
@@ -66093,13 +66100,6 @@
       "time": "11:18:24",
       "iso": "2026-08-31T05:48:24.504Z",
       "action": "updated remark for WF-TRITON-01-S at NELLIADY: “30% off”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:18:12",
-      "iso": "2026-08-31T05:48:12.977Z",
-      "action": "updated remark for SMGRT34M5532S8 at NELLIADY: “80% Gas to be filled”"
     }
   ]
 }
