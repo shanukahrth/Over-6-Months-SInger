@@ -63636,6 +63636,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:06:51",
       "lastUpdated": "2026-08-31T05:36:51.853Z"
+    },
+    "UPS-KSTAR-650V||NUWARAELIYA A": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:07:10",
+      "lastUpdated": "2026-08-31T05:37:10.661Z"
     }
   },
   "showroomVisits": {
@@ -65220,6 +65227,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "11:07:10",
+      "iso": "2026-08-31T05:37:10.663Z",
+      "action": "updated remark for UPS-KSTAR-650V at NUWARAELIYA A: “70%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "11:06:51",
       "iso": "2026-08-31T05:36:51.854Z",
       "action": "updated remark for MCS-730-8 at NUWARAELIYA A: “70%”"
@@ -65559,13 +65573,6 @@
       "time": "10:45:43",
       "iso": "2026-08-31T05:15:43.021Z",
       "action": "updated remark for BES-WP15-ECO at CHAVAKACHCHERI: “70%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:46:02",
-      "iso": "2026-08-31T05:16:02.568Z",
-      "action": "updated remark for HU-SECURITY at NUWARAELIYA A: “Shop use”"
     }
   ]
 }
