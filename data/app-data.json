@@ -61823,6 +61823,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:34:15",
       "lastUpdated": "2026-08-31T03:04:15.288Z"
+    },
+    "SPMA9501||WENNAPPUWA": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:35:22",
+      "lastUpdated": "2026-08-31T03:05:22.241Z"
     }
   },
   "showroomVisits": {
@@ -63335,6 +63342,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:35:22",
+      "iso": "2026-08-31T03:05:22.243Z",
+      "action": "updated remark for SPMA9501 at WENNAPPUWA: “Damaged - 95%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:34:15",
       "iso": "2026-08-31T03:04:15.290Z",
       "action": "updated remark for SLE42D2070TC at WENNAPPUWA: “Damaged - 85%”"
@@ -63674,13 +63688,6 @@
       "time": "16:15:11",
       "iso": "2026-08-28T10:45:11.461Z",
       "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "16:15:02",
-      "iso": "2026-08-28T10:45:02.860Z",
-      "action": "updated remark for PN-NR-BK468BQKX at CHILAW: “Display - 75%”"
     }
   ]
 }
