@@ -67033,11 +67033,11 @@
       "lastUpdated": "2026-08-31T10:05:33.706Z"
     },
     "SLE40D600A||HATTON": {
-      "remark": "retern",
+      "remark": "return",
       "commentedBy": "Kaveesha",
       "commentDate": "2026-08-31",
-      "commentTime": "15:35:51",
-      "lastUpdated": "2026-08-31T10:05:51.672Z"
+      "commentTime": "15:36:18",
+      "lastUpdated": "2026-08-31T10:06:18.551Z"
     },
     "GEO-182S-SV||JAFFNA PANNAI BRANCH": {
       "remark": "15% Off from mark price",
@@ -68891,6 +68891,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:36:18",
+      "iso": "2026-08-31T10:06:18.555Z",
+      "action": "updated remark for SLE40D600A at HATTON: “return”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:36:14",
+      "iso": "2026-08-31T10:06:14.803Z",
+      "action": "updated remark for SLE40D600A at HATTON: “return”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:35:22",
@@ -69225,20 +69239,6 @@
       "time": "15:21:33",
       "iso": "2026-08-31T09:51:33.134Z",
       "action": "marked PN-TH-32P401N at JAFFNA-HOSPITAL ROAD as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:21:31",
-      "iso": "2026-08-31T09:51:31.807Z",
-      "action": "updated remark for PN-TH-32P401N at JAFFNA-HOSPITAL ROAD: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:21:11",
-      "iso": "2026-08-31T09:51:11.457Z",
-      "action": "updated remark for SMG-SM-X115-GRY at JAFFNA-HOSPITAL ROAD: “27% Off from mark price”"
     }
   ]
 }
