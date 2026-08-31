@@ -62859,6 +62859,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:18:43",
       "lastUpdated": "2026-08-31T04:48:43.291Z"
+    },
+    "PN-SC-UA30GS-K||SHOMES- CHILAW": {
+      "remark": "Damaged - 35%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:19:00",
+      "lastUpdated": "2026-08-31T04:49:00.641Z"
     }
   },
   "showroomVisits": {
@@ -64419,6 +64426,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "10:19:00",
+      "iso": "2026-08-31T04:49:00.642Z",
+      "action": "updated remark for PN-SC-UA30GS-K at SHOMES- CHILAW: “Damaged - 35%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "10:18:43",
       "iso": "2026-08-31T04:48:43.292Z",
       "action": "updated remark for PN-SC-AKX520E-K at SHOMES- CHILAW: “Damaged - 60%”"
@@ -64758,13 +64772,6 @@
       "time": "10:00:39",
       "iso": "2026-08-31T04:30:39.848Z",
       "action": "updated remark for CAN-I-G1730 at JAFFNA: “Rs. 22,000 off”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:00:05",
-      "iso": "2026-08-31T04:30:05.168Z",
-      "action": "updated remark for SYM-HIC-26I at JAFFNA: “75% (not working)”"
     }
   ]
 }
