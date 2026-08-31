@@ -66457,6 +66457,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:11:39",
       "lastUpdated": "2026-08-31T09:41:39.308Z"
+    },
+    "TF-IFP24-174||HATTON": {
+      "remark": "Flat 40%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:12:24",
+      "lastUpdated": "2026-08-31T09:42:24.744Z"
+    },
+    "TF-KD24-061||HATTON": {
+      "remark": "Flat 40%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:12:37",
+      "lastUpdated": "2026-08-31T09:42:37.608Z"
     }
   },
   "showroomVisits": {
@@ -68285,6 +68299,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:12:37",
+      "iso": "2026-08-31T09:42:37.609Z",
+      "action": "updated remark for TF-KD24-061 at HATTON: “Flat 40%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:12:24",
+      "iso": "2026-08-31T09:42:24.746Z",
+      "action": "updated remark for TF-IFP24-174 at HATTON: “Flat 40%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "15:11:39",
@@ -68619,20 +68647,6 @@
       "time": "15:03:18",
       "iso": "2026-08-31T09:33:18.266Z",
       "action": "updated remark for WF-JUPITER-06-S at HATTON: “1- 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:02:32",
-      "iso": "2026-08-31T09:32:32.344Z",
-      "action": "updated remark for WF-PRST-BDQ-W-S at MEGA -KATUBEDDA: “Damage 50%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:03:01",
-      "iso": "2026-08-31T09:33:01.660Z",
-      "action": "updated remark for WF-JUPITER-05-S at HATTON: “80%- Damaged”"
     }
   ]
 }
