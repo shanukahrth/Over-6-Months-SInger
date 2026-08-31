@@ -66723,6 +66723,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:21:11",
       "lastUpdated": "2026-08-31T09:51:11.457Z"
+    },
+    "PN-TH-32P401N||JAFFNA-HOSPITAL ROAD": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:21:31",
+      "lastUpdated": "2026-08-31T09:51:31.805Z"
     }
   },
   "showroomVisits": {
@@ -68553,9 +68560,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "PN-TH-32P401N||JAFFNA-HOSPITAL ROAD": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:21:33",
+      "iso": "2026-08-31T09:51:33.134Z",
+      "action": "marked PN-TH-32P401N at JAFFNA-HOSPITAL ROAD as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:21:31",
+      "iso": "2026-08-31T09:51:31.807Z",
+      "action": "updated remark for PN-TH-32P401N at JAFFNA-HOSPITAL ROAD: “SOLD”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -68891,20 +68918,6 @@
       "time": "15:10:15",
       "iso": "2026-08-31T09:40:15.921Z",
       "action": "marked GEO-242D-SV at JAFFNA-HOSPITAL ROAD as Not Sold"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:10:17",
-      "iso": "2026-08-31T09:40:17.976Z",
-      "action": "updated remark for TF-SI-ESS-242 at MEGA -KATUBEDDA: “20% OFF”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:10:54",
-      "iso": "2026-08-31T09:40:54.337Z",
-      "action": "updated remark for TF-FP24-SCR342 at HATTON: “Flat 40%”"
     }
   ]
 }
