@@ -62250,6 +62250,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:15:23",
       "lastUpdated": "2026-08-31T03:45:23.603Z"
+    },
+    "WF-CF-75X36-S||CHILAW": {
+      "remark": "50% - EOL",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:17:36",
+      "lastUpdated": "2026-08-31T03:47:36.179Z"
     }
   },
   "showroomVisits": {
@@ -63762,6 +63769,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:17:36",
+      "iso": "2026-08-31T03:47:36.181Z",
+      "action": "updated remark for WF-CF-75X36-S at CHILAW: “50% - EOL”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:15:23",
       "iso": "2026-08-31T03:45:23.604Z",
       "action": "updated remark for URC-220 at CHILAW: “Can sell”"
@@ -64101,13 +64115,6 @@
       "time": "08:54:33",
       "iso": "2026-08-31T03:24:33.424Z",
       "action": "updated remark for LF-ECO-BDS-SHW-S at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:53:46",
-      "iso": "2026-08-31T03:23:46.863Z",
-      "action": "updated remark for LF-LEO-HDBC-BCH at KURUNEGALA C: “Damage - 50%”"
     }
   ]
 }
