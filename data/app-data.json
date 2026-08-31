@@ -62117,6 +62117,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:08:12",
       "lastUpdated": "2026-08-31T03:38:12.253Z"
+    },
+    "LF-COD-S||CHILAW": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:08:44",
+      "lastUpdated": "2026-08-31T03:38:44.993Z"
     }
   },
   "showroomVisits": {
@@ -63629,6 +63636,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:08:44",
+      "iso": "2026-08-31T03:38:44.994Z",
+      "action": "updated remark for LF-COD-S at CHILAW: “Damaged - 75%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:08:12",
       "iso": "2026-08-31T03:38:12.254Z",
       "action": "updated remark for KA-LW-185A at CHILAW: “Can sell”"
@@ -63968,13 +63982,6 @@
       "time": "08:31:01",
       "iso": "2026-08-31T03:01:01.883Z",
       "action": "updated remark for SMGRS64R5304B4 at WENNAPPUWA: “Sold out”"
-    },
-    {
-      "user": "Sajeevkanth",
-      "date": "2026-08-28",
-      "time": "17:28:59",
-      "iso": "2026-08-28T16:28:59.808Z",
-      "action": "updated sold comment for SL-SST082 at KATTANKUDY: “Sold”"
     }
   ]
 }
