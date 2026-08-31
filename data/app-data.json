@@ -66037,6 +66037,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:49:52",
       "lastUpdated": "2026-08-31T09:19:52.042Z"
+    },
+    "NUBIA-AIR-8-256GB-ST-BLK||JAFFNA-HOSPITAL ROAD": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:50:09",
+      "lastUpdated": "2026-08-31T09:20:09.795Z"
     }
   },
   "showroomVisits": {
@@ -67843,9 +67850,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "NUBIA-AIR-8-256GB-ST-BLK||JAFFNA-HOSPITAL ROAD": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:50:09",
+      "iso": "2026-08-31T09:20:09.907Z",
+      "action": "marked NUBIA-AIR-8-256GB-ST-BLK at JAFFNA-HOSPITAL ROAD as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:50:09",
+      "iso": "2026-08-31T09:20:09.795Z",
+      "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at JAFFNA-HOSPITAL ROAD: “SOLD”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -68181,20 +68208,6 @@
       "time": "14:14:11",
       "iso": "2026-08-31T08:44:11.709Z",
       "action": "marked TCL85C655 at JAFFNA-HOSPITAL ROAD as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:14:11",
-      "iso": "2026-08-31T08:44:11.480Z",
-      "action": "updated remark for TCL85C655 at JAFFNA-HOSPITAL ROAD: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:12:06",
-      "iso": "2026-08-31T08:42:06.086Z",
-      "action": "updated remark for WC-IK609 at CHANKANI: “70% OFF”"
     }
   ]
 }
