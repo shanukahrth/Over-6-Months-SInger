@@ -62124,6 +62124,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:08:44",
       "lastUpdated": "2026-08-31T03:38:44.993Z"
+    },
+    "R-BWS-02||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:09:31",
+      "lastUpdated": "2026-08-31T03:39:31.114Z"
     }
   },
   "showroomVisits": {
@@ -63636,6 +63643,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:09:31",
+      "iso": "2026-08-31T03:39:31.115Z",
+      "action": "updated remark for R-BWS-02 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:08:44",
       "iso": "2026-08-31T03:38:44.994Z",
       "action": "updated remark for LF-COD-S at CHILAW: “Damaged - 75%”"
@@ -63975,13 +63989,6 @@
       "time": "08:31:45",
       "iso": "2026-08-31T03:01:45.579Z",
       "action": "updated remark for WFL-FLORAC-09-YL-S at WENNAPPUWA: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:31:01",
-      "iso": "2026-08-31T03:01:01.883Z",
-      "action": "updated remark for SMGRS64R5304B4 at WENNAPPUWA: “Sold out”"
     }
   ]
 }
