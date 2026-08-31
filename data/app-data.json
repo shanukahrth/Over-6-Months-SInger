@@ -65827,6 +65827,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:17:17",
       "lastUpdated": "2026-08-31T08:47:17.856Z"
+    },
+    "SRS-XV500||HATTON": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:18:00",
+      "lastUpdated": "2026-08-31T08:48:00.769Z"
+    },
+    "SXLC7371K||HATTON": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:18:10",
+      "lastUpdated": "2026-08-31T08:48:10.113Z"
     }
   },
   "showroomVisits": {
@@ -67637,6 +67651,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:18:10",
+      "iso": "2026-08-31T08:48:10.115Z",
+      "action": "updated remark for SXLC7371K at HATTON: “80%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:18:00",
+      "iso": "2026-08-31T08:48:00.771Z",
+      "action": "updated remark for SRS-XV500 at HATTON: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "14:17:17",
@@ -67971,20 +67999,6 @@
       "time": "13:54:00",
       "iso": "2026-08-31T08:24:00.403Z",
       "action": "updated remark for SWM-FA70R at CHANKANI: “SOLD OUT”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:53:14",
-      "iso": "2026-08-31T08:23:14.105Z",
-      "action": "updated remark for LF-ORGN-W4B-CLM-S at CHANKANI: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:52:53",
-      "iso": "2026-08-31T08:22:53.583Z",
-      "action": "updated remark for WP-CHTW-100-S at CHANKANI: “70%”"
     }
   ]
 }
