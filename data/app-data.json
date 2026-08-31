@@ -61900,6 +61900,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:46:45",
       "lastUpdated": "2026-08-31T03:16:45.934Z"
+    },
+    "HAVIT-MS851-MOUSE||KURUNEGALA C": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:48:00",
+      "lastUpdated": "2026-08-31T03:18:00.576Z"
     }
   },
   "showroomVisits": {
@@ -63412,6 +63419,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:48:00",
+      "iso": "2026-08-31T03:18:00.576Z",
+      "action": "updated remark for HAVIT-MS851-MOUSE at KURUNEGALA C: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:46:45",
       "iso": "2026-08-31T03:16:45.938Z",
       "action": "updated remark for G-STC3900N at KURUNEGALA C: “Damaged - 50%”"
@@ -63751,13 +63765,6 @@
       "time": "16:18:11",
       "iso": "2026-08-28T10:48:11.579Z",
       "action": "updated remark for WG-FAN-BXS at SHOMES- CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:17:49",
-      "iso": "2026-08-28T10:47:49.308Z",
-      "action": "updated remark for WFL-SPM-75X60X8-S at SHOMES- CHILAW: “Sold”"
     }
   ]
 }
