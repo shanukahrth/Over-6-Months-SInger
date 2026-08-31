@@ -65877,12 +65877,12 @@
       "commentTime": "14:18:48",
       "lastUpdated": "2026-08-31T08:48:48.488Z"
     },
-    "DELL3510-PNT-128-RCH-BLK||HATTON": {
+    "DELL3510-PNTMSIL-BLK||HATTON": {
       "remark": "90% - Unsaleable",
       "commentedBy": "Kaveesha",
       "commentDate": "2026-08-31",
-      "commentTime": "14:19:30",
-      "lastUpdated": "2026-08-31T08:49:30.089Z"
+      "commentTime": "14:20:03",
+      "lastUpdated": "2026-08-31T08:50:03.241Z"
     }
   },
   "showroomVisits": {
@@ -67695,6 +67695,20 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "14:20:05",
+      "iso": "2026-08-31T08:50:05.855Z",
+      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at HATTON (cleared)"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:20:03",
+      "iso": "2026-08-31T08:50:03.242Z",
+      "action": "updated remark for DELL3510-PNTMSIL-BLK at HATTON: “90% - Unsaleable”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "14:19:30",
       "iso": "2026-08-31T08:49:30.089Z",
       "action": "updated remark for DELL3510-PNT-128-RCH-BLK at HATTON: “90% - Unsaleable”"
@@ -68027,20 +68041,6 @@
       "time": "13:58:21",
       "iso": "2026-08-31T08:28:21.287Z",
       "action": "updated remark for SLE32E930 at CHANKANI: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:57:38",
-      "iso": "2026-08-31T08:27:38.005Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at CHANKANI: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:56:51",
-      "iso": "2026-08-31T08:26:51.056Z",
-      "action": "updated remark for WFI-BOSHWELL-TBL-S at CHANKANI: “50% To be displayed and cleared”"
     }
   ]
 }
