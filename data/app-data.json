@@ -67024,6 +67024,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:35:08",
       "lastUpdated": "2026-08-31T10:05:08.573Z"
+    },
+    "SLE40D4000||HATTON": {
+      "remark": "90%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:35:33",
+      "lastUpdated": "2026-08-31T10:05:33.706Z"
     }
   },
   "showroomVisits": {
@@ -68872,6 +68879,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:35:33",
+      "iso": "2026-08-31T10:05:33.707Z",
+      "action": "updated remark for SLE40D4000 at HATTON: “90%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:35:08",
       "iso": "2026-08-31T10:05:08.575Z",
       "action": "updated remark for TCL65C655 at HATTON: “panel damege”"
@@ -69211,13 +69225,6 @@
       "time": "15:21:26",
       "iso": "2026-08-31T09:51:26.602Z",
       "action": "updated remark for RIYLTA-MF12V51A at HATTON: “Mail to chamalg”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:21:20",
-      "iso": "2026-08-31T09:51:20.955Z",
-      "action": "updated remark for RIYLTA-MF12V4 at HATTON: “Mail to chamalg”"
     }
   ]
 }
