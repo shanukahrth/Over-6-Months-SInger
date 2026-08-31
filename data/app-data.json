@@ -64296,11 +64296,11 @@
       "lastUpdated": "2026-08-31T06:00:17.405Z"
     },
     "SLE32E930||NELLIADY": {
-      "remark": "80% damage",
+      "remark": "60%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "11:31:33",
-      "lastUpdated": "2026-08-31T06:01:33.915Z"
+      "commentTime": "11:32:26",
+      "lastUpdated": "2026-08-31T06:02:26.637Z"
     },
     "LF-GALANT-AGO-S||NUWARAELIYA A": {
       "remark": "80% - Parts case",
@@ -65933,6 +65933,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:32:26",
+      "iso": "2026-08-31T06:02:26.639Z",
+      "action": "updated remark for SLE32E930 at NELLIADY: “60%”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "11:32:54",
@@ -66274,13 +66281,6 @@
       "time": "11:22:57",
       "iso": "2026-08-31T05:52:57.122Z",
       "action": "updated remark for WFL-NOBEL-MR1-S at NELLIADY: “60% off”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:22:46",
-      "iso": "2026-08-31T05:52:46.964Z",
-      "action": "updated remark for TCL70P635 at NELLIADY: “70% off - damaged”"
     }
   ]
 }
