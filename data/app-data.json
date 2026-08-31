@@ -66513,6 +66513,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:13:36",
       "lastUpdated": "2026-08-31T09:43:36.831Z"
+    },
+    "KA-SM-602||HATTON": {
+      "remark": "90%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:14:27",
+      "lastUpdated": "2026-08-31T09:44:27.097Z"
+    },
+    "MID-MJ-KM6001W||HATTON": {
+      "remark": "55%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:14:31",
+      "lastUpdated": "2026-08-31T09:44:31.180Z"
     }
   },
   "showroomVisits": {
@@ -68341,6 +68355,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:14:31",
+      "iso": "2026-08-31T09:44:31.181Z",
+      "action": "updated remark for MID-MJ-KM6001W at HATTON: “55%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:14:27",
+      "iso": "2026-08-31T09:44:27.098Z",
+      "action": "updated remark for KA-SM-602 at HATTON: “90%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "15:13:36",
@@ -68675,20 +68703,6 @@
       "time": "15:03:48",
       "iso": "2026-08-31T09:33:48.490Z",
       "action": "marked GEO-242D-SV at JAFFNA-HOSPITAL ROAD as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:03:47",
-      "iso": "2026-08-31T09:33:47.721Z",
-      "action": "marked GEO-242D-SV at JAFFNA-HOSPITAL ROAD as Not Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:03:46",
-      "iso": "2026-08-31T09:33:46.858Z",
-      "action": "updated remark for GEO-242D-SV at JAFFNA-HOSPITAL ROAD: “% Off from mark price”"
     }
   ]
 }
