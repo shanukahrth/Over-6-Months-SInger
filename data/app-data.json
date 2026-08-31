@@ -63377,6 +63377,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:48:07",
       "lastUpdated": "2026-08-31T05:18:07.581Z"
+    },
+    "BES-WPGR15M||CHAVAKACHCHERI": {
+      "remark": "80% Damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:48:33",
+      "lastUpdated": "2026-08-31T05:18:33.750Z"
+    },
+    "SIN-MRG-1008C||CHAVAKACHCHERI": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:48:37",
+      "lastUpdated": "2026-08-31T05:18:37.881Z"
     }
   },
   "showroomVisits": {
@@ -64961,6 +64975,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "10:48:37",
+      "iso": "2026-08-31T05:18:37.882Z",
+      "action": "updated remark for SIN-MRG-1008C at CHAVAKACHCHERI: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:48:33",
+      "iso": "2026-08-31T05:18:33.751Z",
+      "action": "updated remark for BES-WPGR15M at CHAVAKACHCHERI: “80% Damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "10:48:07",
       "iso": "2026-08-31T05:18:07.582Z",
       "action": "updated remark for SMW25GCQ6 at CHAVAKACHCHERI: “90% Damaged beacuse of the flood”"
@@ -65293,20 +65321,6 @@
       "time": "10:36:00",
       "iso": "2026-08-31T05:06:00.823Z",
       "action": "updated remark for BR-SR01 at NUWARAELIYA A: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:34:38",
-      "iso": "2026-08-31T05:04:38.493Z",
-      "action": "marked NUBIA-AIR-8-256GB-ST-BLK at CHAVAKACHCHERI as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:34:38",
-      "iso": "2026-08-31T05:04:38.443Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at CHAVAKACHCHERI: “SOLD”"
     }
   ]
 }
