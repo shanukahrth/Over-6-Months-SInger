@@ -67269,6 +67269,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "16:00:33",
       "lastUpdated": "2026-08-31T10:30:33.495Z"
+    },
+    "SL-INV-305H||JAFFNA PANNAI BRANCH": {
+      "remark": "160,000 Special price",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "16:01:08",
+      "lastUpdated": "2026-08-31T10:31:08.015Z"
     }
   },
   "showroomVisits": {
@@ -69123,6 +69130,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "16:01:08",
+      "iso": "2026-08-31T10:31:08.016Z",
+      "action": "updated remark for SL-INV-305H at JAFFNA PANNAI BRANCH: “160,000 Special price”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "16:00:33",
       "iso": "2026-08-31T10:30:33.496Z",
       "action": "updated remark for SMGAR50F12D0J at JAFFNA PANNAI BRANCH: “30% Off from mark price”"
@@ -69462,13 +69476,6 @@
       "time": "15:34:23",
       "iso": "2026-08-31T10:04:23.609Z",
       "action": "updated remark for SLE32E910 at HATTON: “95%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:34:11",
-      "iso": "2026-08-31T10:04:11.965Z",
-      "action": "updated remark for SLE32E710 at HATTON: “95%”"
     }
   ]
 }
