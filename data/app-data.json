@@ -66177,6 +66177,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:59:06",
       "lastUpdated": "2026-08-31T09:29:06.579Z"
+    },
+    "SL-XLS150||JAFFNA-HOSPITAL ROAD": {
+      "remark": "K.NO. Return - gas leak",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:00:05",
+      "lastUpdated": "2026-08-31T09:30:05.015Z"
     }
   },
   "showroomVisits": {
@@ -68001,6 +68008,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "15:00:05",
+      "iso": "2026-08-31T09:30:05.016Z",
+      "action": "updated remark for SL-XLS150 at JAFFNA-HOSPITAL ROAD: “K.NO. Return - gas leak”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "14:59:06",
       "iso": "2026-08-31T09:29:06.580Z",
       "action": "updated remark for B-BMGB25332BG at JAFFNA-HOSPITAL ROAD: “50% & 31%”"
@@ -68340,13 +68354,6 @@
       "time": "14:20:03",
       "iso": "2026-08-31T08:50:03.242Z",
       "action": "updated remark for DELL3510-PNTMSIL-BLK at HATTON: “90% - Unsaleable”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:19:30",
-      "iso": "2026-08-31T08:49:30.089Z",
-      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at HATTON: “90% - Unsaleable”"
     }
   ]
 }
