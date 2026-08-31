@@ -62222,6 +62222,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:14:15",
       "lastUpdated": "2026-08-31T03:44:15.425Z"
+    },
+    "SW-SF21020N||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:14:23",
+      "lastUpdated": "2026-08-31T03:44:23.811Z"
     }
   },
   "showroomVisits": {
@@ -63734,6 +63741,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:14:23",
+      "iso": "2026-08-31T03:44:23.813Z",
+      "action": "updated remark for SW-SF21020N at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:14:15",
       "iso": "2026-08-31T03:44:15.426Z",
       "action": "updated remark for SWH-118EP at CHILAW: “Damaged - 70%”"
@@ -64073,13 +64087,6 @@
       "time": "08:51:50",
       "iso": "2026-08-31T03:21:50.274Z",
       "action": "updated remark for HON-PAD-X7-CV at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:51:21",
-      "iso": "2026-08-31T03:21:21.270Z",
-      "action": "updated remark for HFPA-EVENT-BLC at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
