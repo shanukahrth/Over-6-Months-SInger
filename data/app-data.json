@@ -63909,6 +63909,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:18:57",
       "lastUpdated": "2026-08-31T05:48:57.569Z"
+    },
+    "SLE32F490||NUWARAELIYA A": {
+      "remark": "Exchange",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:16:34",
+      "lastUpdated": "2026-08-31T05:46:34.469Z"
+    },
+    "SLE32F590||NUWARAELIYA A": {
+      "remark": "90% - Panel Damage",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:19:51",
+      "lastUpdated": "2026-08-31T05:49:51.181Z"
     }
   },
   "showroomVisits": {
@@ -65515,6 +65529,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:19:51",
+      "iso": "2026-08-31T05:49:51.183Z",
+      "action": "updated remark for SLE32F590 at NUWARAELIYA A: “90% - Panel Damage”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:16:34",
+      "iso": "2026-08-31T05:46:34.470Z",
+      "action": "updated remark for SLE32F490 at NUWARAELIYA A: “Exchange”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "11:18:57",
@@ -65849,20 +65877,6 @@
       "time": "11:07:41",
       "iso": "2026-08-31T05:37:41.022Z",
       "action": "updated remark for SM-MC3368 at NUWARAELIYA A: “80% - Sewing scl”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:06:42",
-      "iso": "2026-08-31T05:36:42.756Z",
-      "action": "marked PN-TH-65MX740N at NELLIADY as Sold"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:07:10",
-      "iso": "2026-08-31T05:37:10.663Z",
-      "action": "updated remark for UPS-KSTAR-650V at NUWARAELIYA A: “70%”"
     }
   ]
 }
