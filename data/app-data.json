@@ -61844,6 +61844,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:36:46",
       "lastUpdated": "2026-08-31T03:06:46.301Z"
+    },
+    "TF-SI-EXS1230||WENNAPPUWA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:37:37",
+      "lastUpdated": "2026-08-31T03:07:37.963Z"
     }
   },
   "showroomVisits": {
@@ -63356,6 +63363,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:37:37",
+      "iso": "2026-08-31T03:07:37.965Z",
+      "action": "updated remark for TF-SI-EXS1230 at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:36:46",
       "iso": "2026-08-31T03:06:46.302Z",
       "action": "updated remark for WF-CF-75X36-S at WENNAPPUWA: “Damaged - 50%”"
@@ -63695,13 +63709,6 @@
       "time": "16:15:52",
       "iso": "2026-08-28T10:45:52.035Z",
       "action": "updated remark for PN-NR-BK418BQKX at CHILAW: “Display - 75%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "16:15:16",
-      "iso": "2026-08-28T10:45:16.843Z",
-      "action": "updated remark for WP-12KINV at CHILAW: “Can sell”"
     }
   ]
 }
