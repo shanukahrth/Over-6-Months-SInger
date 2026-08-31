@@ -63790,6 +63790,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:14:32",
       "lastUpdated": "2026-08-31T05:44:32.612Z"
+    },
+    "SLE32E710||NUWARAELIYA A": {
+      "remark": "90% - Panel Damage",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:15:27",
+      "lastUpdated": "2026-08-31T05:45:27.861Z"
     }
   },
   "showroomVisits": {
@@ -65384,6 +65391,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:15:27",
+      "iso": "2026-08-31T05:45:27.863Z",
+      "action": "updated remark for SLE32E710 at NUWARAELIYA A: “90% - Panel Damage”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:15:17",
+      "iso": "2026-08-31T05:45:17.296Z",
+      "action": "updated remark for SLE32E710 at NUWARAELIYA A: “90% - Panel Damage”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "11:14:32",
@@ -65718,20 +65739,6 @@
       "time": "10:56:43",
       "iso": "2026-08-31T05:26:43.265Z",
       "action": "updated remark for RIYLTA-MF12V51A at CHAVAKACHCHERI (cleared)"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:56:26",
-      "iso": "2026-08-31T05:26:26.914Z",
-      "action": "updated remark for RIYLTA-MF12V5 at CHAVAKACHCHERI: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:56:23",
-      "iso": "2026-08-31T05:26:23.128Z",
-      "action": "updated remark for RIYLTA-MF12V51A at CHAVAKACHCHERI: “85%”"
     }
   ]
 }
