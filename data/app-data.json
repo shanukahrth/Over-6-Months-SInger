@@ -66331,6 +66331,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:06:16",
       "lastUpdated": "2026-08-31T09:36:16.656Z"
+    },
+    "WF-SP-10345-S||HATTON": {
+      "remark": "Reported",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:07:38",
+      "lastUpdated": "2026-08-31T09:37:38.896Z"
+    },
+    "PN-DH-3JP2WK||HATTON": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:07:52",
+      "lastUpdated": "2026-08-31T09:37:52.350Z"
     }
   },
   "showroomVisits": {
@@ -68159,6 +68173,34 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:07:52",
+      "iso": "2026-08-31T09:37:52.352Z",
+      "action": "updated remark for PN-DH-3JP2WK at HATTON: “80%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:07:41",
+      "iso": "2026-08-31T09:37:41.017Z",
+      "action": "updated remark for WF-PARIS-BL-S at HATTON (cleared)"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:07:38",
+      "iso": "2026-08-31T09:37:38.897Z",
+      "action": "updated remark for WF-SP-10345-S at HATTON: “Reported”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:07:37",
+      "iso": "2026-08-31T09:37:37.216Z",
+      "action": "updated remark for WF-PARIS-BL-S at HATTON: “Reported”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:06:57",
@@ -68479,34 +68521,6 @@
       "time": "14:53:13",
       "iso": "2026-08-31T09:23:13.496Z",
       "action": "updated remark for B-HIAG64223SXL at JAFFNA-HOSPITAL ROAD: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:52:36",
-      "iso": "2026-08-31T09:22:36.877Z",
-      "action": "updated remark for HON-X9CSMART-12-256-BLK at JAFFNA-HOSPITAL ROAD: “30% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:51:51",
-      "iso": "2026-08-31T09:21:51.502Z",
-      "action": "updated remark for GEO-182S at JAFFNA-HOSPITAL ROAD: “80% OFF MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:51:20",
-      "iso": "2026-08-31T09:21:20.783Z",
-      "action": "updated remark for WF-PRESTON-2D-S at JAFFNA-HOSPITAL ROAD: “No accessories”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:50:53",
-      "iso": "2026-08-31T09:20:53.388Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at JAFFNA-HOSPITAL ROAD: “SOLD”"
     }
   ]
 }
