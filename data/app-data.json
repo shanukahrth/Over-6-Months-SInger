@@ -65757,6 +65757,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:14:42",
       "lastUpdated": "2026-08-31T08:44:42.050Z"
+    },
+    "SLE86G6E||JAFFNA-HOSPITAL ROAD": {
+      "remark": "16% from MRP",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:15:01",
+      "lastUpdated": "2026-08-31T08:45:01.975Z"
     }
   },
   "showroomVisits": {
@@ -67569,6 +67576,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "14:15:01",
+      "iso": "2026-08-31T08:45:01.976Z",
+      "action": "updated remark for SLE86G6E at JAFFNA-HOSPITAL ROAD: “16% from MRP”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "14:14:42",
       "iso": "2026-08-31T08:44:42.050Z",
       "action": "updated remark for AS-ZEN-15G-U5-1TB-328-SIL at JAFFNA-HOSPITAL ROAD: “MRP- 500,000 Special product”"
@@ -67908,13 +67922,6 @@
       "time": "13:48:05",
       "iso": "2026-08-31T08:18:05.734Z",
       "action": "updated remark for WF-PARIS-BL-S at CHANKANI: “45%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:47:22",
-      "iso": "2026-08-31T08:17:22.218Z",
-      "action": "updated remark for MM-9TT at CHANKANI: “To be drained”"
     }
   ]
 }
