@@ -65953,6 +65953,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:23:25",
       "lastUpdated": "2026-08-31T08:53:25.921Z"
+    },
+    "WFL-FLORAC||JAFFNA-HOSPITAL ROAD": {
+      "remark": "75% Off from mark price",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:23:00",
+      "lastUpdated": "2026-08-31T08:53:00.700Z"
     }
   },
   "showroomVisits": {
@@ -67763,6 +67770,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:23:00",
+      "iso": "2026-08-31T08:53:00.702Z",
+      "action": "updated remark for WFL-FLORAC at JAFFNA-HOSPITAL ROAD: “75% Off from mark price”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "14:23:25",
@@ -68104,13 +68118,6 @@
       "time": "14:04:44",
       "iso": "2026-08-31T08:34:44.984Z",
       "action": "updated remark for MC8280 at CHANKANI: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:04:33",
-      "iso": "2026-08-31T08:34:33.869Z",
-      "action": "updated remark for AES-HAV-30S at CHANKANI: “10%”"
     }
   ]
 }
