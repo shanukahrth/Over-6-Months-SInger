@@ -63153,6 +63153,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:36:57",
       "lastUpdated": "2026-08-31T05:06:57.462Z"
+    },
+    "HFPA-EVENT-BLC||CHAVAKACHCHERI": {
+      "remark": "80% Damage won't work",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:36:54",
+      "lastUpdated": "2026-08-31T05:06:54.038Z"
     }
   },
   "showroomVisits": {
@@ -64729,6 +64736,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:36:54",
+      "iso": "2026-08-31T05:06:54.040Z",
+      "action": "updated remark for HFPA-EVENT-BLC at CHAVAKACHCHERI: “80% Damage won't work”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "10:36:57",
@@ -65070,13 +65084,6 @@
       "time": "10:19:03",
       "iso": "2026-08-31T04:49:03.535Z",
       "action": "updated remark for SN-SMI-305 at CHAVAKACHCHERI: “80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "10:19:00",
-      "iso": "2026-08-31T04:49:00.642Z",
-      "action": "updated remark for PN-SC-UA30GS-K at SHOMES- CHILAW: “Damaged - 35%”"
     }
   ]
 }
