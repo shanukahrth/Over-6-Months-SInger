@@ -66704,6 +66704,14 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "THALGASWALA||AMBALANGODA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-12",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -66967,6 +66975,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:07:08",
+      "iso": "2026-08-31T07:37:08.595Z",
+      "action": "updated THALGASWALA showroom (visitDate: 2026-08-12)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:07:05",
+      "iso": "2026-08-31T07:37:05.994Z",
+      "action": "updated THALGASWALA showroom (visited: Yes)"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -67302,20 +67324,6 @@
       "time": "12:40:42",
       "iso": "2026-08-31T07:10:42.855Z",
       "action": "updated remark for NCPO-FP200 at MEGA -KATUBEDDA: “25% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:40:32",
-      "iso": "2026-08-31T07:10:32.817Z",
-      "action": "updated remark for NB1700T3 at MEGA -KATUBEDDA: “Exchange”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:39:26",
-      "iso": "2026-08-31T07:09:26.670Z",
-      "action": "updated remark for MID-MJ-KM6001W at MEGA -KATUBEDDA: “60% OFF”"
     }
   ]
 }
