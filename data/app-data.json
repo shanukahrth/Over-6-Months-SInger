@@ -63041,6 +63041,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:30:28",
       "lastUpdated": "2026-08-31T05:00:28.295Z"
+    },
+    "TF-GS-SPKT302||NUWARAELIYA A": {
+      "remark": "15%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:31:11",
+      "lastUpdated": "2026-08-31T05:01:11.702Z"
     }
   },
   "showroomVisits": {
@@ -64599,6 +64606,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "10:31:11",
+      "iso": "2026-08-31T05:01:11.703Z",
+      "action": "updated remark for TF-GS-SPKT302 at NUWARAELIYA A: “15%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "10:31:06",
+      "iso": "2026-08-31T05:01:06.615Z",
+      "action": "updated remark for TF-GS-SPKT302 at NUWARAELIYA A: “15%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "10:30:04",
@@ -64933,20 +64954,6 @@
       "time": "10:11:47",
       "iso": "2026-08-31T04:41:47.549Z",
       "action": "marked H-RMRG024HFEOE at CHAVAKACHCHERI as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:11:46",
-      "iso": "2026-08-31T04:41:46.541Z",
-      "action": "updated remark for H-RMRG024HFEOE at CHAVAKACHCHERI: “Sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:11:14",
-      "iso": "2026-08-31T04:41:14.385Z",
-      "action": "updated remark for SKY65X8700G at CHAVAKACHCHERI: “30%”"
     }
   ]
 }
