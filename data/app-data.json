@@ -64280,6 +64280,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:30:14",
       "lastUpdated": "2026-08-31T06:00:14.404Z"
+    },
+    "FAN-P-SF1605HL||NUWARAELIYA A": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:30:54",
+      "lastUpdated": "2026-08-31T06:00:54.453Z"
     }
   },
   "showroomVisits": {
@@ -65900,6 +65907,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "11:30:54",
+      "iso": "2026-08-31T06:00:54.454Z",
+      "action": "updated remark for FAN-P-SF1605HL at NUWARAELIYA A: “50%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "11:30:14",
       "iso": "2026-08-31T06:00:14.404Z",
       "action": "updated remark for SDV3605K at NUWARAELIYA A: “MOP - 2,000”"
@@ -66239,13 +66253,6 @@
       "time": "11:21:59",
       "iso": "2026-08-31T05:51:59.694Z",
       "action": "updated remark for SLE49F490 at NUWARAELIYA A: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:21:18",
-      "iso": "2026-08-31T05:51:18.133Z",
-      "action": "updated remark for SKY55Q6700G at NELLIADY: “55% off”"
     }
   ]
 }
