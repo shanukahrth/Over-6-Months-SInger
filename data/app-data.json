@@ -66088,11 +66088,11 @@
       "lastUpdated": "2026-08-31T09:23:13.495Z"
     },
     "PN-SC-BMAX10E-K||JAFFNA-HOSPITAL ROAD": {
-      "remark": "50% Off from mark price",
+      "remark": "40% Off from mark price",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "14:54:07",
-      "lastUpdated": "2026-08-31T09:24:07.889Z"
+      "commentTime": "15:10:40",
+      "lastUpdated": "2026-08-31T09:40:40.181Z"
     },
     "MX-QA611D27||JAFFNA-HOSPITAL ROAD": {
       "remark": "80% Off from mark price",
@@ -66200,11 +66200,11 @@
       "lastUpdated": "2026-08-31T09:30:37.909Z"
     },
     "GEO-242D-SV||JAFFNA-HOSPITAL ROAD": {
-      "remark": "3% Off from mark price (LEG DAMAGE)",
+      "remark": "SOLD",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "15:09:08",
-      "lastUpdated": "2026-08-31T09:39:08.769Z"
+      "commentTime": "15:10:22",
+      "lastUpdated": "2026-08-31T09:40:22.082Z"
     },
     "WF-JUPITER-05-S||HATTON": {
       "remark": "80%- Damaged",
@@ -68256,13 +68256,34 @@
       "updatedDate": "2026-08-31"
     },
     "GEO-242D-SV||JAFFNA-HOSPITAL ROAD": {
-      "sold": true,
+      "sold": false,
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:10:40",
+      "iso": "2026-08-31T09:40:40.182Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at JAFFNA-HOSPITAL ROAD: “40% Off from mark price”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:10:22",
+      "iso": "2026-08-31T09:40:22.084Z",
+      "action": "updated remark for GEO-242D-SV at JAFFNA-HOSPITAL ROAD: “SOLD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:10:15",
+      "iso": "2026-08-31T09:40:15.921Z",
+      "action": "marked GEO-242D-SV at JAFFNA-HOSPITAL ROAD as Not Sold"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -68591,27 +68612,6 @@
       "time": "15:01:47",
       "iso": "2026-08-31T09:31:47.906Z",
       "action": "updated remark for LF-PROMO-CT-S at HATTON: “part missing”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:00:37",
-      "iso": "2026-08-31T09:30:37.910Z",
-      "action": "updated remark for WF-VENICE-PI-S at MEGA -KATUBEDDA: “60% OFF”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:01:11",
-      "iso": "2026-08-31T09:31:11.843Z",
-      "action": "updated remark for LF-PROMO-CT-S at HATTON: “1”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:00:05",
-      "iso": "2026-08-31T09:30:05.016Z",
-      "action": "updated remark for SL-XLS150 at JAFFNA-HOSPITAL ROAD: “K.NO. Return - gas leak”"
     }
   ]
 }
