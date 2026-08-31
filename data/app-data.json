@@ -66800,6 +66800,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:24:48",
       "lastUpdated": "2026-08-31T09:54:48.058Z"
+    },
+    "HFPA-MUSICBOX-BLC||JAFFNA-HOSPITAL ROAD": {
+      "remark": "SPECIAL PRICE 30,000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:24:30",
+      "lastUpdated": "2026-08-31T09:54:30.056Z"
     }
   },
   "showroomVisits": {
@@ -68640,6 +68647,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:24:30",
+      "iso": "2026-08-31T09:54:30.059Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at JAFFNA-HOSPITAL ROAD: “SPECIAL PRICE 30,000”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "15:24:48",
@@ -68981,13 +68995,6 @@
       "time": "15:12:59",
       "iso": "2026-08-31T09:42:59.578Z",
       "action": "updated remark for TF-NIGP26-119 at HATTON: “Flat 40%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:12:55",
-      "iso": "2026-08-31T09:42:55.963Z",
-      "action": "updated remark for TF-NIDFP24-170 at HATTON: “Flat 40%”"
     }
   ]
 }
