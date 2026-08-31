@@ -62061,6 +62061,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:00:58",
       "lastUpdated": "2026-08-31T03:30:58.148Z"
+    },
+    "WF-MOSCOW-ST-S||KURUNEGALA C": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:01:23",
+      "lastUpdated": "2026-08-31T03:31:23.461Z"
     }
   },
   "showroomVisits": {
@@ -63573,6 +63580,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:01:23",
+      "iso": "2026-08-31T03:31:23.462Z",
+      "action": "updated remark for WF-MOSCOW-ST-S at KURUNEGALA C: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:00:58",
       "iso": "2026-08-31T03:30:58.149Z",
       "action": "updated remark for WF-GALAXY-S at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -63912,13 +63926,6 @@
       "time": "20:08:01",
       "iso": "2026-08-28T14:38:01.707Z",
       "action": "updated MEGA -MALABE showroom (visitDate: 2026-08-24)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:05:44",
-      "iso": "2026-08-28T14:35:44.136Z",
-      "action": "updated KADUWELA -  B showroom (team: Metro Team)"
     }
   ]
 }
