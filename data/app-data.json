@@ -65841,6 +65841,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:18:10",
       "lastUpdated": "2026-08-31T08:48:10.113Z"
+    },
+    "DIALOG-HSPA||HATTON": {
+      "remark": "Shop use",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:18:23",
+      "lastUpdated": "2026-08-31T08:48:23.088Z"
     }
   },
   "showroomVisits": {
@@ -67653,6 +67660,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "14:18:23",
+      "iso": "2026-08-31T08:48:23.089Z",
+      "action": "updated remark for DIALOG-HSPA at HATTON: “Shop use”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "14:18:10",
       "iso": "2026-08-31T08:48:10.115Z",
       "action": "updated remark for SXLC7371K at HATTON: “80%”"
@@ -67992,13 +68006,6 @@
       "time": "13:54:00",
       "iso": "2026-08-31T08:24:00.469Z",
       "action": "marked SWM-FA70R at CHANKANI as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:54:00",
-      "iso": "2026-08-31T08:24:00.403Z",
-      "action": "updated remark for SWM-FA70R at CHANKANI: “SOLD OUT”"
     }
   ]
 }
