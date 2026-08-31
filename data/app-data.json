@@ -65750,6 +65750,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:15:10",
       "lastUpdated": "2026-08-31T08:45:10.193Z"
+    },
+    "AS-ZEN-15G-U5-1TB-328-SIL||JAFFNA-HOSPITAL ROAD": {
+      "remark": "MRP- 500,000 Special product",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:14:42",
+      "lastUpdated": "2026-08-31T08:44:42.050Z"
     }
   },
   "showroomVisits": {
@@ -67560,6 +67567,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:14:42",
+      "iso": "2026-08-31T08:44:42.050Z",
+      "action": "updated remark for AS-ZEN-15G-U5-1TB-328-SIL at JAFFNA-HOSPITAL ROAD: “MRP- 500,000 Special product”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "14:15:10",
@@ -67901,13 +67915,6 @@
       "time": "13:47:22",
       "iso": "2026-08-31T08:17:22.218Z",
       "action": "updated remark for MM-9TT at CHANKANI: “To be drained”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:42:28",
-      "iso": "2026-08-31T08:12:28.285Z",
-      "action": "updated remark for KLV-40R352E at CHANKANI: “80%”"
     }
   ]
 }
