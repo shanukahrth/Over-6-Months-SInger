@@ -61851,6 +61851,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:37:37",
       "lastUpdated": "2026-08-31T03:07:37.963Z"
+    },
+    "STT-200K||WENNAPPUWA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:38:13",
+      "lastUpdated": "2026-08-31T03:08:13.506Z"
     }
   },
   "showroomVisits": {
@@ -63363,6 +63370,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:38:13",
+      "iso": "2026-08-31T03:08:13.508Z",
+      "action": "updated remark for STT-200K at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:37:37",
       "iso": "2026-08-31T03:07:37.965Z",
       "action": "updated remark for TF-SI-EXS1230 at WENNAPPUWA: “Damaged - 10%”"
@@ -63702,13 +63716,6 @@
       "time": "16:16:34",
       "iso": "2026-08-28T10:46:34.198Z",
       "action": "updated remark for WF-VENICE-PI-S at SHOMES- CHILAW: “Damaged- 75%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "16:15:52",
-      "iso": "2026-08-28T10:45:52.035Z",
-      "action": "updated remark for PN-NR-BK418BQKX at CHILAW: “Display - 75%”"
     }
   ]
 }
