@@ -66492,6 +66492,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:12:37",
       "lastUpdated": "2026-08-31T09:42:37.214Z"
+    },
+    "TF-SP16-063||HATTON": {
+      "remark": "Flat 40%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:13:34",
+      "lastUpdated": "2026-08-31T09:43:34.272Z"
     }
   },
   "showroomVisits": {
@@ -68320,6 +68327,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:13:34",
+      "iso": "2026-08-31T09:43:34.273Z",
+      "action": "updated remark for TF-SP16-063 at HATTON: “Flat 40%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "15:12:37",
@@ -68661,13 +68675,6 @@
       "time": "15:04:03",
       "iso": "2026-08-31T09:34:03.810Z",
       "action": "updated remark for LF-ORGN-DTO-WHT at HATTON: “70% -Discolor”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:03:58",
-      "iso": "2026-08-31T09:33:58.858Z",
-      "action": "updated remark for LF-ORGN-DTO-WHT at HATTON: “70% -Dis colour”"
     }
   ]
 }
