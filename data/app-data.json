@@ -62621,6 +62621,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:00:05",
       "lastUpdated": "2026-08-31T04:30:05.166Z"
+    },
+    "CAN-I-G1730||JAFFNA": {
+      "remark": "Rs. 22,000 off",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:00:39",
+      "lastUpdated": "2026-08-31T04:30:39.847Z"
     }
   },
   "showroomVisits": {
@@ -64157,9 +64164,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "SBI-60M19-T||JAFFNA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:00:39",
+      "iso": "2026-08-31T04:30:39.925Z",
+      "action": "marked SBI-60M19-T at JAFFNA as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:00:39",
+      "iso": "2026-08-31T04:30:39.848Z",
+      "action": "updated remark for CAN-I-G1730 at JAFFNA: “Rs. 22,000 off”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -64495,20 +64522,6 @@
       "time": "09:36:22",
       "iso": "2026-08-31T04:06:22.829Z",
       "action": "updated remark for SKY65X8700G at JAFFNA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:34:20",
-      "iso": "2026-08-31T04:04:20.116Z",
-      "action": "updated remark for SKY65X8700G at JAFFNA: “20% off MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:34:05",
-      "iso": "2026-08-31T04:04:05.561Z",
-      "action": "marked MB-SAFARI4S-RED at JAFFNA as Sold"
     }
   ]
 }
