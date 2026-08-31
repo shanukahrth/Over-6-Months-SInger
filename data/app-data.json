@@ -65869,6 +65869,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:18:55",
       "lastUpdated": "2026-08-31T08:48:55.690Z"
+    },
+    "SMGUA55CU8000||JAFFNA-HOSPITAL ROAD": {
+      "remark": "K.NO.",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:18:48",
+      "lastUpdated": "2026-08-31T08:48:48.488Z"
     }
   },
   "showroomVisits": {
@@ -67679,6 +67686,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:18:48",
+      "iso": "2026-08-31T08:48:48.490Z",
+      "action": "updated remark for SMGUA55CU8000 at JAFFNA-HOSPITAL ROAD: “K.NO.”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "14:18:55",
@@ -68020,13 +68034,6 @@
       "time": "13:55:46",
       "iso": "2026-08-31T08:25:46.053Z",
       "action": "updated remark for WF-SKY-211-MR-S at CHANKANI: “25% OFF”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:54:47",
-      "iso": "2026-08-31T08:24:47.798Z",
-      "action": "updated remark for WFI-LYON-TBL-S at CHANKANI: “40% OFF”"
     }
   ]
 }
