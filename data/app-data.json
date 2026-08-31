@@ -66051,6 +66051,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:50:32",
       "lastUpdated": "2026-08-31T09:20:32.185Z"
+    },
+    "HON-X8C-8-512-BLK||JAFFNA-HOSPITAL ROAD": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:50:53",
+      "lastUpdated": "2026-08-31T09:20:53.387Z"
     }
   },
   "showroomVisits": {
@@ -67863,9 +67870,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "HON-X8C-8-512-BLK||JAFFNA-HOSPITAL ROAD": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:50:53",
+      "iso": "2026-08-31T09:20:53.388Z",
+      "action": "updated remark for HON-X8C-8-512-BLK at JAFFNA-HOSPITAL ROAD: “SOLD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:50:48",
+      "iso": "2026-08-31T09:20:48.589Z",
+      "action": "marked HON-X8C-8-512-BLK at JAFFNA-HOSPITAL ROAD as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -68201,20 +68228,6 @@
       "time": "14:15:01",
       "iso": "2026-08-31T08:45:01.976Z",
       "action": "updated remark for SLE86G6E at JAFFNA-HOSPITAL ROAD: “16% from MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:14:42",
-      "iso": "2026-08-31T08:44:42.050Z",
-      "action": "updated remark for AS-ZEN-15G-U5-1TB-328-SIL at JAFFNA-HOSPITAL ROAD: “MRP- 500,000 Special product”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:15:10",
-      "iso": "2026-08-31T08:45:10.194Z",
-      "action": "updated remark for SAS-18V-INV at HATTON: “70%”"
     }
   ]
 }
