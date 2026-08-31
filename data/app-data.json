@@ -66937,6 +66937,14 @@
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-31"
+    },
+    "DARGA TOWN||AMBALANGODA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-07",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -67200,6 +67208,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:34:42",
+      "iso": "2026-08-31T08:04:42.227Z",
+      "action": "updated DARGA TOWN showroom (visitDate: 2026-08-07)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:34:39",
+      "iso": "2026-08-31T08:04:39.726Z",
+      "action": "updated DARGA TOWN showroom (visited: Yes)"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -67535,20 +67557,6 @@
       "time": "13:09:06",
       "iso": "2026-08-31T07:39:06.510Z",
       "action": "updated remark for SMW823AY7 at MEGA -KATUBEDDA: “15% OFF”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-31",
-      "time": "13:07:15",
-      "iso": "2026-08-31T07:37:15.392Z",
-      "action": "updated THALGASWALA showroom (team: Colombo South MKT)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-31",
-      "time": "13:07:08",
-      "iso": "2026-08-31T07:37:08.595Z",
-      "action": "updated THALGASWALA showroom (visitDate: 2026-08-12)"
     }
   ]
 }
