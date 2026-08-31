@@ -68868,6 +68868,22 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "BULATHKOHUPITIYA||KEGALLE": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
+    },
+    "DEHIOWITA||KEGALLE": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -69198,6 +69214,34 @@
   },
   "activity": [
     {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "18:03:58",
+      "iso": "2026-08-31T12:33:58.928Z",
+      "action": "updated DEHIOWITA showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "18:03:56",
+      "iso": "2026-08-31T12:33:56.791Z",
+      "action": "updated BULATHKOHUPITIYA showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:25:48",
+      "iso": "2026-08-31T07:55:48.230Z",
+      "action": "updated HINGURANA showroom (remark: Closed Down)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:25:38",
+      "iso": "2026-08-31T07:55:38.983Z",
+      "action": "updated HINGURANA showroom (visited: Yes)"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "16:21:08",
@@ -69518,34 +69562,6 @@
       "time": "15:43:58",
       "iso": "2026-08-31T10:13:58.109Z",
       "action": "updated remark for SL-ECO192-TG at JAFFNA PANNAI BRANCH: “25% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:43:31",
-      "iso": "2026-08-31T10:13:31.323Z",
-      "action": "updated remark for SWH-118E-D at JAFFNA PANNAI BRANCH: “INVOICE AND CLEAR”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:42:37",
-      "iso": "2026-08-31T10:12:37.945Z",
-      "action": "updated remark for HON-X9CSMART-12-256-BLK at JAFFNA PANNAI BRANCH: “If all sold together, 30% off from MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:41:22",
-      "iso": "2026-08-31T10:11:22.456Z",
-      "action": "updated remark for HON-X9CSMART-12-256-CYAN at JAFFNA PANNAI BRANCH: “1 sold to be replaced, 30% off from MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:39:45",
-      "iso": "2026-08-31T10:09:45.709Z",
-      "action": "updated remark for WF-MILAN-BR-S at JAFFNA PANNAI BRANCH: “50% Off from mark price”"
     }
   ]
 }
