@@ -66186,11 +66186,11 @@
       "lastUpdated": "2026-08-31T09:30:05.015Z"
     },
     "LF-PROMO-CT-S||HATTON": {
-      "remark": "1",
+      "remark": "part missing",
       "commentedBy": "Kaveesha",
       "commentDate": "2026-08-31",
-      "commentTime": "15:01:11",
-      "lastUpdated": "2026-08-31T09:31:11.841Z"
+      "commentTime": "15:01:47",
+      "lastUpdated": "2026-08-31T09:31:47.905Z"
     },
     "WF-VENICE-PI-S||MEGA -KATUBEDDA": {
       "remark": "60% OFF",
@@ -68020,6 +68020,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:01:47",
+      "iso": "2026-08-31T09:31:47.906Z",
+      "action": "updated remark for LF-PROMO-CT-S at HATTON: “part missing”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "15:00:37",
@@ -68361,13 +68368,6 @@
       "time": "14:20:44",
       "iso": "2026-08-31T08:50:44.548Z",
       "action": "updated remark for SDV3605K at HATTON: “MOP- 2000/=”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:19:23",
-      "iso": "2026-08-31T08:49:23.315Z",
-      "action": "updated remark for H-RMRG024MFEOE at JAFFNA-HOSPITAL ROAD: “No discount”"
     }
   ]
 }
