@@ -61991,6 +61991,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:57:20",
       "lastUpdated": "2026-08-31T03:27:20.437Z"
+    },
+    "SAS-24V-INV||KURUNEGALA C": {
+      "remark": "Okay for given discount",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:57:39",
+      "lastUpdated": "2026-08-31T03:27:39.463Z"
     }
   },
   "showroomVisits": {
@@ -63503,6 +63510,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:57:39",
+      "iso": "2026-08-31T03:27:39.464Z",
+      "action": "updated remark for SAS-24V-INV at KURUNEGALA C: “Okay for given discount”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:57:20",
       "iso": "2026-08-31T03:27:20.439Z",
       "action": "updated remark for SAS-18V-INV at KURUNEGALA C: “Okay for given discount”"
@@ -63842,13 +63856,6 @@
       "time": "20:02:53",
       "iso": "2026-08-28T14:32:53.284Z",
       "action": "updated PELAWATTA showroom (visitDate: 2026-08-28)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:02:41",
-      "iso": "2026-08-28T14:32:41.644Z",
-      "action": "updated BATTARAMULLA showroom (visitDate: 2026-08-28)"
     }
   ]
 }
