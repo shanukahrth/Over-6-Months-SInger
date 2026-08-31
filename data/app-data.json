@@ -66821,6 +66821,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:25:40",
       "lastUpdated": "2026-08-31T09:55:40.374Z"
+    },
+    "ENG-UE20012||HATTON": {
+      "remark": "90%- defective",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:25:56",
+      "lastUpdated": "2026-08-31T09:55:56.034Z"
     }
   },
   "showroomVisits": {
@@ -68663,6 +68670,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:25:56",
+      "iso": "2026-08-31T09:55:56.038Z",
+      "action": "updated remark for ENG-UE20012 at HATTON: “90%- defective”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:25:40",
       "iso": "2026-08-31T09:55:40.374Z",
       "action": "updated remark for SY-F3116 at HATTON: “95%”"
@@ -69002,13 +69016,6 @@
       "time": "15:13:34",
       "iso": "2026-08-31T09:43:34.273Z",
       "action": "updated remark for TF-SP16-063 at HATTON: “Flat 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:12:37",
-      "iso": "2026-08-31T09:42:37.215Z",
-      "action": "updated remark for PCR-CASRL20-256 at MEGA -KATUBEDDA: “25% OFF”"
     }
   ]
 }
