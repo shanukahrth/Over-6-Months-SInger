@@ -63538,6 +63538,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:59:25",
       "lastUpdated": "2026-08-31T05:29:25.864Z"
+    },
+    "CAN-I-IP2870S||CHAVAKACHCHERI": {
+      "remark": "80%- Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:00:38",
+      "lastUpdated": "2026-08-31T05:30:38.120Z"
     }
   },
   "showroomVisits": {
@@ -65122,6 +65129,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "11:00:38",
+      "iso": "2026-08-31T05:30:38.121Z",
+      "action": "updated remark for CAN-I-IP2870S at CHAVAKACHCHERI: “80%- Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "10:59:25",
       "iso": "2026-08-31T05:29:25.865Z",
       "action": "updated remark for RIYLTA-MF12V25 at CHAVAKACHCHERI: “85%”"
@@ -65461,13 +65475,6 @@
       "time": "10:42:39",
       "iso": "2026-08-31T05:12:39.747Z",
       "action": "updated remark for ZTE-V50DESIGN-4-256GB-B at CHAVAKACHCHERI: “sent/sold”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:43:10",
-      "iso": "2026-08-31T05:13:10.880Z",
-      "action": "updated remark for SLMC-18DSLHS at NUWARAELIYA A: “80% -Demo”"
     }
   ]
 }
