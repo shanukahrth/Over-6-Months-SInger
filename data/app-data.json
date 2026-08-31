@@ -66618,6 +66618,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:17:18",
       "lastUpdated": "2026-08-31T09:47:18.887Z"
+    },
+    "SL-PB-426||HATTON": {
+      "remark": "80%- discolred",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:17:39",
+      "lastUpdated": "2026-08-31T09:47:39.635Z"
     }
   },
   "showroomVisits": {
@@ -68448,6 +68455,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:17:39",
+      "iso": "2026-08-31T09:47:39.636Z",
+      "action": "updated remark for SL-PB-426 at HATTON: “80%- discolred”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:17:18",
       "iso": "2026-08-31T09:47:18.888Z",
       "action": "updated remark for RMG-3JAR550 at HATTON: “80%- defective”"
@@ -68787,13 +68801,6 @@
       "time": "15:07:41",
       "iso": "2026-08-31T09:37:41.017Z",
       "action": "updated remark for WF-PARIS-BL-S at HATTON (cleared)"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:07:38",
-      "iso": "2026-08-31T09:37:38.897Z",
-      "action": "updated remark for WF-SP-10345-S at HATTON: “Reported”"
     }
   ]
 }
