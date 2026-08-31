@@ -66527,8 +66527,8 @@
     },
     "AMBALANGODA||AMBALANGODA": {
       "visited": "Yes",
-      "visitDate": "",
-      "team": "",
+      "visitDate": "2026-08-07",
+      "team": "White Goods Team",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
@@ -66795,6 +66795,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "12:48:31",
+      "iso": "2026-08-31T07:18:31.697Z",
+      "action": "updated AMBALANGODA showroom (team: White Goods Team)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "12:48:25",
+      "iso": "2026-08-31T07:18:25.159Z",
+      "action": "updated AMBALANGODA showroom (visitDate: 2026-08-07)"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -67130,20 +67144,6 @@
       "time": "12:18:03",
       "iso": "2026-08-31T06:48:03.724Z",
       "action": "updated remark for B-BMGB25332BG at MEGA -KATUBEDDA: “45% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:17:28",
-      "iso": "2026-08-31T06:47:28.723Z",
-      "action": "updated remark for B-CFB6433XH at MEGA -KATUBEDDA: “45% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:17:14",
-      "iso": "2026-08-31T06:47:14.773Z",
-      "action": "updated remark for BES-TOUCH-41 at MEGA -KATUBEDDA: “50% OFF”"
     }
   ]
 }
