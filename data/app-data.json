@@ -64721,6 +64721,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:59:00",
       "lastUpdated": "2026-08-31T06:29:00.347Z"
+    },
+    "BES-CRS-51||CHANKANI": {
+      "remark": "10% OFF MRP",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:59:32",
+      "lastUpdated": "2026-08-31T06:29:32.297Z"
     }
   },
   "showroomVisits": {
@@ -66341,6 +66348,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "11:59:32",
+      "iso": "2026-08-31T06:29:32.299Z",
+      "action": "updated remark for BES-CRS-51 at CHANKANI: “10% OFF MRP”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "11:59:00",
       "iso": "2026-08-31T06:29:00.349Z",
       "action": "updated remark for NCF210N8 at CHANKANI: “80% MRP”"
@@ -66680,13 +66694,6 @@
       "time": "11:45:21",
       "iso": "2026-08-31T06:15:21.310Z",
       "action": "updated remark for SLE32E610 at NELLIADY: “80% Damage”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:45:56",
-      "iso": "2026-08-31T06:15:56.486Z",
-      "action": "updated remark for SLE32D2010TC at NUWARAELIYA A: “90% - Panel Damage”"
     }
   ]
 }
