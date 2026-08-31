@@ -62810,6 +62810,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:17:04",
       "lastUpdated": "2026-08-31T04:47:04.434Z"
+    },
+    "KA-SM-602||SHOMES- CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:17:22",
+      "lastUpdated": "2026-08-31T04:47:22.187Z"
     }
   },
   "showroomVisits": {
@@ -64370,6 +64377,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "10:17:22",
+      "iso": "2026-08-31T04:47:22.188Z",
+      "action": "updated remark for KA-SM-602 at SHOMES- CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "10:17:04",
       "iso": "2026-08-31T04:47:04.436Z",
       "action": "updated remark for H-HRTN5275MFPSVSG at SHOMES- CHILAW: “Damaged - 40%”"
@@ -64709,13 +64723,6 @@
       "time": "09:57:13",
       "iso": "2026-08-31T04:27:13.291Z",
       "action": "updated remark for PN-TH-32M401N at JAFFNA: “70% off MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:57:02",
-      "iso": "2026-08-31T04:27:02.310Z",
-      "action": "updated remark for SLE32E930 at JAFFNA: “70% off MRP”"
     }
   ]
 }
