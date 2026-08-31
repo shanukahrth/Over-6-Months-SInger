@@ -29597,11 +29597,11 @@
       "lastUpdated": "2026-08-20T05:54:49.224Z"
     },
     "SLE32G690||JA-ELA": {
-      "remark": "exchange",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-20",
-      "commentTime": "11:25:19",
-      "lastUpdated": "2026-08-20T05:55:19.224Z"
+      "remark": "exchange 90%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-31",
+      "commentTime": "19:55:33",
+      "lastUpdated": "2026-08-31T14:25:33.900Z"
     },
     "WFL-RIO-03-S||KATUGASTOTA - B": {
       "remark": "70%",
@@ -69248,6 +69248,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-31",
+      "time": "19:55:33",
+      "iso": "2026-08-31T14:25:33.903Z",
+      "action": "updated remark for SLE32G690 at JA-ELA: “exchange 90%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
       "time": "18:05:07",
       "iso": "2026-08-31T12:35:07.720Z",
       "action": "updated YATIYANTHOTA showroom (team: Team Sabaragamuwa)"
@@ -69587,13 +69594,6 @@
       "time": "15:51:45",
       "iso": "2026-08-31T10:21:45.480Z",
       "action": "updated remark for WC-IK518 at HATTON: “95%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:50:13",
-      "iso": "2026-08-31T10:20:13.023Z",
-      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at JAFFNA PANNAI BRANCH: “90% Off from mark price, Technica issues, Dm to cross check”"
     }
   ]
 }
