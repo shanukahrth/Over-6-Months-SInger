@@ -66200,11 +66200,11 @@
       "lastUpdated": "2026-08-31T09:30:37.909Z"
     },
     "GEO-242D-SV||JAFFNA-HOSPITAL ROAD": {
-      "remark": "30% Off from mark price- Leg damage",
+      "remark": "% Off from mark price",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "15:03:02",
-      "lastUpdated": "2026-08-31T09:33:02.577Z"
+      "commentTime": "15:03:46",
+      "lastUpdated": "2026-08-31T09:33:46.855Z"
     },
     "WF-JUPITER-05-S||HATTON": {
       "remark": "80%- Damaged",
@@ -68089,6 +68089,27 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:03:48",
+      "iso": "2026-08-31T09:33:48.490Z",
+      "action": "marked GEO-242D-SV at JAFFNA-HOSPITAL ROAD as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:03:47",
+      "iso": "2026-08-31T09:33:47.721Z",
+      "action": "marked GEO-242D-SV at JAFFNA-HOSPITAL ROAD as Not Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:03:46",
+      "iso": "2026-08-31T09:33:46.858Z",
+      "action": "updated remark for GEO-242D-SV at JAFFNA-HOSPITAL ROAD: “% Off from mark price”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "15:03:35",
@@ -68416,27 +68437,6 @@
       "time": "14:24:50",
       "iso": "2026-08-31T08:54:50.237Z",
       "action": "updated remark for B-DFN28J21X at JAFFNA-HOSPITAL ROAD: “50% OFF Damaged”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:25:48",
-      "iso": "2026-08-31T08:55:48.543Z",
-      "action": "updated remark for LF-CT-WNT-S at HATTON: “50%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:25:38",
-      "iso": "2026-08-31T08:55:38.770Z",
-      "action": "updated remark for LF-COD-S at HATTON: “80%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:25:28",
-      "iso": "2026-08-31T08:55:28.504Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at HATTON: “50%”"
     }
   ]
 }
