@@ -66953,6 +66953,14 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "BERUWELA SHOP||AMBALANGODA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -67216,6 +67224,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:35:07",
+      "iso": "2026-08-31T08:05:07.671Z",
+      "action": "updated BERUWELA SHOP showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-31",
@@ -67558,13 +67573,6 @@
       "time": "13:10:04",
       "iso": "2026-08-31T07:40:04.952Z",
       "action": "updated remark for SPM-78X60 at MEGA -KATUBEDDA: “25% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:09:17",
-      "iso": "2026-08-31T07:39:17.359Z",
-      "action": "updated remark for SMW823AY7 at MEGA -KATUBEDDA: “15% OFF”"
     }
   ]
 }
