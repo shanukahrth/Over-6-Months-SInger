@@ -63482,6 +63482,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:53:11",
       "lastUpdated": "2026-08-31T05:23:11.636Z"
+    },
+    "SMG-F16-5G-6-128-BLK||NUWARAELIYA A": {
+      "remark": "Reported",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:54:34",
+      "lastUpdated": "2026-08-31T05:24:34.293Z"
     }
   },
   "showroomVisits": {
@@ -65064,6 +65071,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "10:54:34",
+      "iso": "2026-08-31T05:24:34.293Z",
+      "action": "updated remark for SMG-F16-5G-6-128-BLK at NUWARAELIYA A: “Reported”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "10:53:41",
@@ -65405,13 +65419,6 @@
       "time": "10:40:27",
       "iso": "2026-08-31T05:10:27.031Z",
       "action": "updated remark for SL-PB-426 at NUWARAELIYA A: “70% - Display”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:40:07",
-      "iso": "2026-08-31T05:10:07.008Z",
-      "action": "updated remark for GCB8401F at NUWARAELIYA A: “Revert”"
     }
   ]
 }
