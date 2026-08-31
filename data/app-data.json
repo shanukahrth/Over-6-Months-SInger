@@ -63462,13 +63462,6 @@
       "commentTime": "10:51:21",
       "lastUpdated": "2026-08-31T05:21:21.334Z"
     },
-    "TF-IFP28-042||CHAVAKACHCHERI": {
-      "remark": "90%",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-31",
-      "commentTime": "10:51:32",
-      "lastUpdated": "2026-08-31T05:21:32.365Z"
-    },
     "SMG-A06-6-128-BLK||NUWARAELIYA A": {
       "remark": "Reported",
       "commentedBy": "Kaveesha",
@@ -65071,6 +65064,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:53:41",
+      "iso": "2026-08-31T05:23:41.823Z",
+      "action": "updated remark for TF-IFP28-042 at CHAVAKACHCHERI (cleared)"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "10:53:11",
@@ -65412,13 +65412,6 @@
       "time": "10:40:07",
       "iso": "2026-08-31T05:10:07.008Z",
       "action": "updated remark for GCB8401F at NUWARAELIYA A: “Revert”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:39:25",
-      "iso": "2026-08-31T05:09:25.319Z",
-      "action": "updated remark for PN-TH-32M402N at CHAVAKACHCHERI: “50% 6 months warranty will work”"
     }
   ]
 }
