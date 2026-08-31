@@ -57947,11 +57947,11 @@
       "lastUpdated": "2026-08-28T04:58:16.647Z"
     },
     "UDV3618SY||NUWARAELIYA A": {
-      "remark": "MOP - 2,0000",
-      "commentedBy": "Rashmi",
-      "commentDate": "2026-08-28",
-      "commentTime": "10:28:38",
-      "lastUpdated": "2026-08-28T04:58:38.249Z"
+      "remark": "MOP - 2,000",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:30:11",
+      "lastUpdated": "2026-08-31T06:00:11.627Z"
     },
     "OXY-FACEMASK||NUWARAELIYA A": {
       "remark": "To be reported",
@@ -64273,6 +64273,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:29:11",
       "lastUpdated": "2026-08-31T05:59:11.923Z"
+    },
+    "SDV3605K||NUWARAELIYA A": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:30:14",
+      "lastUpdated": "2026-08-31T06:00:14.404Z"
     }
   },
   "showroomVisits": {
@@ -65891,6 +65898,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:30:14",
+      "iso": "2026-08-31T06:00:14.404Z",
+      "action": "updated remark for SDV3605K at NUWARAELIYA A: “MOP - 2,000”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:30:11",
+      "iso": "2026-08-31T06:00:11.628Z",
+      "action": "updated remark for UDV3618SY at NUWARAELIYA A: “MOP - 2,000”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "11:29:11",
@@ -66225,20 +66246,6 @@
       "time": "11:21:18",
       "iso": "2026-08-31T05:51:18.133Z",
       "action": "updated remark for SKY55Q6700G at NELLIADY: “55% off”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:21:00",
-      "iso": "2026-08-31T05:51:00.872Z",
-      "action": "updated remark for B-RDNI295XIB100P at NELLIADY: “45% off”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:21:34",
-      "iso": "2026-08-31T05:51:34.220Z",
-      "action": "updated remark for SLE49F490 at NUWARAELIYA A: “RTWH”"
     }
   ]
 }
