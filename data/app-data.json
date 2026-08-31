@@ -62033,6 +62033,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:59:41",
       "lastUpdated": "2026-08-31T03:29:41.165Z"
+    },
+    "TCL65V6B||KURUNEGALA C": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:00:05",
+      "lastUpdated": "2026-08-31T03:30:05.092Z"
     }
   },
   "showroomVisits": {
@@ -63545,6 +63552,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:00:05",
+      "iso": "2026-08-31T03:30:05.093Z",
+      "action": "updated remark for TCL65V6B at KURUNEGALA C: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:59:41",
       "iso": "2026-08-31T03:29:41.167Z",
       "action": "updated remark for SS-PS16-AG at KURUNEGALA C: “Sold out”"
@@ -63884,13 +63898,6 @@
       "time": "20:05:28",
       "iso": "2026-08-28T14:35:28.596Z",
       "action": "updated ANGODA showroom (team: Metro Team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:05:25",
-      "iso": "2026-08-28T14:35:25.596Z",
-      "action": "updated AKUREGODA - SLAF showroom (team: Metro Team)"
     }
   ]
 }
