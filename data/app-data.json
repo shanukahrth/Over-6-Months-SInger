@@ -66865,6 +66865,30 @@
     "MEDAWACHCHIYA||MEDAWACHCHIYA": {
       "visited": "Yes",
       "visitDate": "",
+      "team": "Naveen, Adeesha, Thusitha",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
+    },
+    "RAMBEWA||MEDAWACHCHIYA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "Naveen, Adeesha, Thusitha",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
+    },
+    "SETTIKULAM||MEDAWACHCHIYA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "Naveen, Adeesha, Thusitha",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
+    },
+    "THIRAPPANE||MEDAWACHCHIYA": {
+      "visited": "Yes",
+      "visitDate": "",
       "team": "",
       "remark": "",
       "updatedBy": "Shanuka",
@@ -67132,6 +67156,48 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:20:11",
+      "iso": "2026-08-31T07:50:11.388Z",
+      "action": "updated THIRAPPANE showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:20:09",
+      "iso": "2026-08-31T07:50:09.063Z",
+      "action": "updated SETTIKULAM showroom (team: Naveen, Adeesha, Thusitha)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:20:06",
+      "iso": "2026-08-31T07:50:06.353Z",
+      "action": "updated SETTIKULAM showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:20:03",
+      "iso": "2026-08-31T07:50:03.548Z",
+      "action": "updated RAMBEWA showroom (team: Naveen, Adeesha, Thusitha)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:20:00",
+      "iso": "2026-08-31T07:50:00.445Z",
+      "action": "updated RAMBEWA showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:19:59",
+      "iso": "2026-08-31T07:49:59.082Z",
+      "action": "updated MEDAWACHCHIYA showroom (team: Naveen, Adeesha, Thusitha)"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -67439,48 +67505,6 @@
       "time": "13:03:27",
       "iso": "2026-08-31T07:33:27.863Z",
       "action": "updated remark for SLE75G6E at MEGA -KATUBEDDA: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:03:07",
-      "iso": "2026-08-31T07:33:07.990Z",
-      "action": "updated remark for SLE32G690 at MEGA -KATUBEDDA: “Non sellable - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:02:42",
-      "iso": "2026-08-31T07:32:42.371Z",
-      "action": "updated remark for SL-ST350NP-W at MEGA -KATUBEDDA: “50% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:02:22",
-      "iso": "2026-08-31T07:32:22.380Z",
-      "action": "updated remark for SL-ST350NP-W at MEGA -KATUBEDDA: “60% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:02:13",
-      "iso": "2026-08-31T07:32:13.255Z",
-      "action": "updated remark for SKY55Q6700G at MEGA -KATUBEDDA: “35% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:02:00",
-      "iso": "2026-08-31T07:32:00.761Z",
-      "action": "updated remark for SKS-1089 at MEGA -KATUBEDDA: “10% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:59:31",
-      "iso": "2026-08-31T07:29:31.580Z",
-      "action": "updated remark for SIN-DEC-DCWL at MEGA -KATUBEDDA: “-”"
     }
   ]
 }
