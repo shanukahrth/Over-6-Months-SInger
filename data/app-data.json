@@ -65603,6 +65603,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "13:58:21",
       "lastUpdated": "2026-08-31T08:28:21.284Z"
+    },
+    "SMGUA32N4010||CHANKANI": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "13:59:13",
+      "lastUpdated": "2026-08-31T08:29:13.515Z"
     }
   },
   "showroomVisits": {
@@ -67403,6 +67410,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "13:59:13",
+      "iso": "2026-08-31T08:29:13.516Z",
+      "action": "updated remark for SMGUA32N4010 at CHANKANI: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "13:58:21",
       "iso": "2026-08-31T08:28:21.287Z",
       "action": "updated remark for SLE32E930 at CHANKANI: “70%”"
@@ -67742,13 +67756,6 @@
       "time": "13:20:06",
       "iso": "2026-08-31T07:50:06.353Z",
       "action": "updated SETTIKULAM showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "13:20:03",
-      "iso": "2026-08-31T07:50:03.548Z",
-      "action": "updated RAMBEWA showroom (team: Naveen, Adeesha, Thusitha)"
     }
   ]
 }
