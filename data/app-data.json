@@ -65645,6 +65645,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:04:11",
       "lastUpdated": "2026-08-31T08:34:11.328Z"
+    },
+    "AES-HAV-30S||CHANKANI": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:04:33",
+      "lastUpdated": "2026-08-31T08:34:33.867Z"
     }
   },
   "showroomVisits": {
@@ -67445,6 +67452,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "14:04:33",
+      "iso": "2026-08-31T08:34:33.869Z",
+      "action": "updated remark for AES-HAV-30S at CHANKANI: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "14:04:11",
       "iso": "2026-08-31T08:34:11.329Z",
       "action": "updated remark for WF-CLASSIC-S at CHANKANI: “40%”"
@@ -67784,13 +67798,6 @@
       "time": "13:21:49",
       "iso": "2026-08-31T07:51:49.645Z",
       "action": "updated GALENBIDUNUWEWA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "13:20:59",
-      "iso": "2026-08-31T07:50:59.352Z",
-      "action": "updated KEBITHIGOLLEWA showroom (team: Naveen, Adeesha, Thusitha)"
     }
   ]
 }
