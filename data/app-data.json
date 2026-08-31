@@ -63274,11 +63274,11 @@
       "lastUpdated": "2026-08-31T05:13:35.709Z"
     },
     "SLE32T3520TC||CHAVAKACHCHERI": {
-      "remark": "80%",
+      "remark": "80% damaged display",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "10:42:56",
-      "lastUpdated": "2026-08-31T05:12:56.825Z"
+      "commentTime": "10:43:36",
+      "lastUpdated": "2026-08-31T05:13:36.239Z"
     },
     "RIYLTA-MF12V35A||NUWARAELIYA A": {
       "remark": "DM- Mail",
@@ -63286,6 +63286,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:43:53",
       "lastUpdated": "2026-08-31T05:13:53.821Z"
+    },
+    "SHT-PHT505L||CHAVAKACHCHERI": {
+      "remark": "25% damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:43:26",
+      "lastUpdated": "2026-08-31T05:13:26.031Z"
     }
   },
   "showroomVisits": {
@@ -64868,6 +64875,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:43:36",
+      "iso": "2026-08-31T05:13:36.241Z",
+      "action": "updated remark for SLE32T3520TC at CHAVAKACHCHERI: “80% damaged display”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:43:26",
+      "iso": "2026-08-31T05:13:26.033Z",
+      "action": "updated remark for SHT-PHT505L at CHAVAKACHCHERI: “25% damaged”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "10:43:53",
@@ -65202,20 +65223,6 @@
       "time": "10:28:13",
       "iso": "2026-08-31T04:58:13.852Z",
       "action": "updated remark for MHC-M40D at CHAVAKACHCHERI: “80% Damaged can't issue”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:27:36",
-      "iso": "2026-08-31T04:57:36.536Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at CHAVAKACHCHERI: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:27:07",
-      "iso": "2026-08-31T04:57:07.927Z",
-      "action": "updated remark for LF-ORGN-BDQ-WHT at CHAVAKACHCHERI: “20%”"
     }
   ]
 }
