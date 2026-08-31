@@ -66709,6 +66709,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:21:26",
       "lastUpdated": "2026-08-31T09:51:26.601Z"
+    },
+    "WF-TRITON-05-1S-S||JAFFNA-HOSPITAL ROAD": {
+      "remark": "30% Off from mark price",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:20:40",
+      "lastUpdated": "2026-08-31T09:50:40.932Z"
     }
   },
   "showroomVisits": {
@@ -68543,6 +68550,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:20:40",
+      "iso": "2026-08-31T09:50:40.934Z",
+      "action": "updated remark for WF-TRITON-05-1S-S at JAFFNA-HOSPITAL ROAD: “30% Off from mark price”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "15:21:26",
@@ -68884,13 +68898,6 @@
       "time": "15:10:51",
       "iso": "2026-08-31T09:40:51.643Z",
       "action": "updated remark for PCR-FP20-249 at HATTON: “Flat 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:09:40",
-      "iso": "2026-08-31T09:39:40.793Z",
-      "action": "updated remark for TF-SI-EXSP1231 at MEGA -KATUBEDDA: “10% OFF”"
     }
   ]
 }
