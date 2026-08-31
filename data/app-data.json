@@ -63125,6 +63125,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:35:36",
       "lastUpdated": "2026-08-31T05:05:36.977Z"
+    },
+    "NUBIA-NEO3-5G-8-256-YLW||CHAVAKACHCHERI": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:35:49",
+      "lastUpdated": "2026-08-31T05:05:49.281Z"
     }
   },
   "showroomVisits": {
@@ -64685,9 +64692,42 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "NUBIA-NEO3-5G-8-256-YLW||CHAVAKACHCHERI": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
+    },
+    "LF-COAST-TVS-SWW-S||CHAVAKACHCHERI": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:35:50",
+      "iso": "2026-08-31T05:05:50.213Z",
+      "action": "marked LF-COAST-TVS-SWW-S at CHAVAKACHCHERI as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:35:49",
+      "iso": "2026-08-31T05:05:49.387Z",
+      "action": "marked NUBIA-NEO3-5G-8-256-YLW at CHAVAKACHCHERI as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:35:49",
+      "iso": "2026-08-31T05:05:49.281Z",
+      "action": "updated remark for NUBIA-NEO3-5G-8-256-YLW at CHAVAKACHCHERI: “SOLD”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -65016,27 +65056,6 @@
       "time": "10:18:10",
       "iso": "2026-08-31T04:48:10.392Z",
       "action": "updated remark for B-RDNI315XIB300P at CHAVAKACHCHERI: “Special price 140,000”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "10:18:09",
-      "iso": "2026-08-31T04:48:09.303Z",
-      "action": "updated remark for PF-SIGNA-BL-S at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "10:18:03",
-      "iso": "2026-08-31T04:48:03.949Z",
-      "action": "updated remark for PF-MONDY-RED at SHOMES- CHILAW: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "10:17:41",
-      "iso": "2026-08-31T04:47:41.380Z",
-      "action": "updated remark for MXSW612543 at SHOMES- CHILAW: “Can sell”"
     }
   ]
 }
