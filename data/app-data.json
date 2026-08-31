@@ -66842,6 +66842,22 @@
     "HOROWPATHANA||MEDAWACHCHIYA": {
       "visited": "Yes",
       "visitDate": "",
+      "team": "Naveen, Adeesha, Thusitha",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
+    },
+    "KAHATAGASDIGILIYA||MEDAWACHCHIYA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "Naveen, Adeesha, Thusitha",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
+    },
+    "MEDAWACHCHIYA||MEDAWACHCHIYA": {
+      "visited": "Yes",
+      "visitDate": "",
       "team": "",
       "remark": "",
       "updatedBy": "Shanuka",
@@ -67109,6 +67125,34 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:19:53",
+      "iso": "2026-08-31T07:49:53.981Z",
+      "action": "updated MEDAWACHCHIYA showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:19:52",
+      "iso": "2026-08-31T07:49:52.174Z",
+      "action": "updated KAHATAGASDIGILIYA showroom (team: Naveen, Adeesha, Thusitha)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:19:48",
+      "iso": "2026-08-31T07:49:48.695Z",
+      "action": "updated KAHATAGASDIGILIYA showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:19:46",
+      "iso": "2026-08-31T07:49:46.605Z",
+      "action": "updated HOROWPATHANA showroom (team: Naveen, Adeesha, Thusitha)"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -67430,34 +67474,6 @@
       "time": "12:52:52",
       "iso": "2026-08-31T07:22:52.714Z",
       "action": "updated remark for SBI-QX60ED at MEGA -KATUBEDDA: “5% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:52:42",
-      "iso": "2026-08-31T07:22:42.965Z",
-      "action": "updated remark for SBI-60M19-T at MEGA -KATUBEDDA: “40% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:51:42",
-      "iso": "2026-08-31T07:21:42.614Z",
-      "action": "updated remark for QT-Q2SPLUS at MEGA -KATUBEDDA: “60% OFF”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-31",
-      "time": "12:51:36",
-      "iso": "2026-08-31T07:21:36.557Z",
-      "action": "updated WADDUWA showroom (visitDate: 2026-08-07)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-31",
-      "time": "12:51:33",
-      "iso": "2026-08-31T07:21:33.839Z",
-      "action": "updated WADDUWA showroom (visited: Yes)"
     }
   ]
 }
