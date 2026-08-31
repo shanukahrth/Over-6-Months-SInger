@@ -63711,8 +63711,8 @@
       "remark": "Exchange",
       "commentedBy": "Kaveesha",
       "commentDate": "2026-08-31",
-      "commentTime": "11:12:20",
-      "lastUpdated": "2026-08-31T05:42:20.389Z"
+      "commentTime": "11:45:17",
+      "lastUpdated": "2026-08-31T06:15:17.588Z"
     },
     "SLE32D1800||NUWARAELIYA A": {
       "remark": "90% - Panel Damage",
@@ -66059,6 +66059,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:45:17",
+      "iso": "2026-08-31T06:15:17.590Z",
+      "action": "updated remark for SLE24E810 at NUWARAELIYA A: “Exchange”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "11:44:16",
@@ -66400,13 +66407,6 @@
       "time": "11:27:37",
       "iso": "2026-08-31T05:57:37.034Z",
       "action": "marked HON-X8C-8-512-WHT at NELLIADY as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:27:36",
-      "iso": "2026-08-31T05:57:36.980Z",
-      "action": "updated remark for HON-X8C-8-512-WHT at NELLIADY: “SOLD”"
     }
   ]
 }
