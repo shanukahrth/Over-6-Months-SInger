@@ -65443,9 +65443,22 @@
       "comment": "OF",
       "updatedBy": "Sulani",
       "updatedDate": "2026-08-31"
+    },
+    "H-RMRG024HFEOE||NELLIADY": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:17:04",
+      "iso": "2026-08-31T05:47:04.247Z",
+      "action": "marked H-RMRG024HFEOE at NELLIADY as Sold"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -65788,13 +65801,6 @@
       "time": "11:03:35",
       "iso": "2026-08-31T05:33:35.894Z",
       "action": "updated remark for SMG-SM-A042F-128GB-B at NUWARAELIYA A: “90% - Revert”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:03:09",
-      "iso": "2026-08-31T05:33:09.079Z",
-      "action": "updated remark for SMG-SM-A032F-B at NUWARAELIYA A: “80% - Display”"
     }
   ]
 }
