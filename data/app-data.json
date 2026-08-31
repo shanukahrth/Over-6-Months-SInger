@@ -62243,6 +62243,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:14:55",
       "lastUpdated": "2026-08-31T03:44:55.978Z"
+    },
+    "URC-220||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:15:23",
+      "lastUpdated": "2026-08-31T03:45:23.603Z"
     }
   },
   "showroomVisits": {
@@ -63755,6 +63762,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:15:23",
+      "iso": "2026-08-31T03:45:23.604Z",
+      "action": "updated remark for URC-220 at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:14:55",
       "iso": "2026-08-31T03:44:55.980Z",
       "action": "updated remark for TF-SI-ESS-242 at CHILAW: “Sold out”"
@@ -64094,13 +64108,6 @@
       "time": "08:53:46",
       "iso": "2026-08-31T03:23:46.863Z",
       "action": "updated remark for LF-LEO-HDBC-BCH at KURUNEGALA C: “Damage - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:53:12",
-      "iso": "2026-08-31T03:23:12.628Z",
-      "action": "updated remark for KV-4WTS3M at KURUNEGALA C: “Additional 5%”"
     }
   ]
 }
