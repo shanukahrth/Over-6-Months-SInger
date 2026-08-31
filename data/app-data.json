@@ -63300,6 +63300,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:44:28",
       "lastUpdated": "2026-08-31T05:14:28.998Z"
+    },
+    "SIN-RFC-1819||NUWARAELIYA A": {
+      "remark": "35%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:44:47",
+      "lastUpdated": "2026-08-31T05:14:47.261Z"
     }
   },
   "showroomVisits": {
@@ -64884,6 +64891,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "10:44:47",
+      "iso": "2026-08-31T05:14:47.263Z",
+      "action": "updated remark for SIN-RFC-1819 at NUWARAELIYA A: “35%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "10:44:28",
       "iso": "2026-08-31T05:14:28.999Z",
       "action": "updated remark for CM-VIR-GUARD at NUWARAELIYA A: “80% -BM report”"
@@ -65223,13 +65237,6 @@
       "time": "10:30:04",
       "iso": "2026-08-31T05:00:04.713Z",
       "action": "updated remark for LF-ORGN-BDQ-WHT at CHAVAKACHCHERI: “20% Dead on arrival”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:30:28",
-      "iso": "2026-08-31T05:00:28.297Z",
-      "action": "updated remark for SIS277CU at NUWARAELIYA A: “Unsaleable”"
     }
   ]
 }
