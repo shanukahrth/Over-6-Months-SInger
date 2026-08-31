@@ -62614,6 +62614,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:59:40",
       "lastUpdated": "2026-08-31T04:29:40.151Z"
+    },
+    "SYM-HIC-26I||JAFFNA": {
+      "remark": "75% (not working)",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:00:05",
+      "lastUpdated": "2026-08-31T04:30:05.166Z"
     }
   },
   "showroomVisits": {
@@ -64156,6 +64163,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "10:00:05",
+      "iso": "2026-08-31T04:30:05.168Z",
+      "action": "updated remark for SYM-HIC-26I at JAFFNA: “75% (not working)”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "09:59:40",
       "iso": "2026-08-31T04:29:40.153Z",
       "action": "updated remark for WFL-SPM-75X60X7-S at JAFFNA: “80% off MRP”"
@@ -64495,13 +64509,6 @@
       "time": "09:34:05",
       "iso": "2026-08-31T04:04:05.561Z",
       "action": "marked MB-SAFARI4S-RED at JAFFNA as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:34:05",
-      "iso": "2026-08-31T04:04:05.444Z",
-      "action": "updated remark for MB-SAFARI4S-RED at JAFFNA: “Sold”"
     }
   ]
 }
