@@ -61830,6 +61830,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:35:22",
       "lastUpdated": "2026-08-31T03:05:22.241Z"
+    },
+    "TF-SI-ESS-242||WENNAPPUWA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:36:08",
+      "lastUpdated": "2026-08-31T03:06:08.258Z"
     }
   },
   "showroomVisits": {
@@ -63342,6 +63349,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:36:08",
+      "iso": "2026-08-31T03:06:08.260Z",
+      "action": "updated remark for TF-SI-ESS-242 at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:35:22",
       "iso": "2026-08-31T03:05:22.243Z",
       "action": "updated remark for SPMA9501 at WENNAPPUWA: “Damaged - 95%”"
@@ -63680,13 +63694,6 @@
       "date": "2026-08-28",
       "time": "16:15:23",
       "iso": "2026-08-28T10:45:23.938Z",
-      "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged - 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:15:11",
-      "iso": "2026-08-28T10:45:11.461Z",
       "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged - 40%”"
     }
   ]
