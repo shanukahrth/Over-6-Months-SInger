@@ -66977,6 +66977,14 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "MATUGAMA - B||KALUTARA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-13",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -67240,6 +67248,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:39:16",
+      "iso": "2026-08-31T08:09:16.455Z",
+      "action": "updated MATUGAMA - B showroom (visitDate: 2026-08-13)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:39:14",
+      "iso": "2026-08-31T08:09:14.090Z",
+      "action": "updated MATUGAMA - B showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-31",
@@ -67575,20 +67597,6 @@
       "time": "13:12:26",
       "iso": "2026-08-31T07:42:26.822Z",
       "action": "updated remark for TF-GCA-1336 at MEGA -KATUBEDDA: “15% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:12:13",
-      "iso": "2026-08-31T07:42:13.865Z",
-      "action": "updated remark for TF-FP24-SCR342 at MEGA -KATUBEDDA: “10% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:12:00",
-      "iso": "2026-08-31T07:42:00.586Z",
-      "action": "updated remark for TF-FP24-SCR342 at MEGA -KATUBEDDA: “10% OFF”"
     }
   ]
 }
