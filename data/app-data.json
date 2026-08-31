@@ -62026,6 +62026,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:59:28",
       "lastUpdated": "2026-08-31T03:29:28.444Z"
+    },
+    "SS-PS16-AG||KURUNEGALA C": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:59:41",
+      "lastUpdated": "2026-08-31T03:29:41.165Z"
     }
   },
   "showroomVisits": {
@@ -63538,6 +63545,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:59:41",
+      "iso": "2026-08-31T03:29:41.167Z",
+      "action": "updated remark for SS-PS16-AG at KURUNEGALA C: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:59:28",
       "iso": "2026-08-31T03:29:28.445Z",
       "action": "updated remark for SMGUA43T5400 at KURUNEGALA C: “Damage - 25%”"
@@ -63877,13 +63891,6 @@
       "time": "20:05:25",
       "iso": "2026-08-28T14:35:25.596Z",
       "action": "updated AKUREGODA - SLAF showroom (team: Metro Team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:05:13",
-      "iso": "2026-08-28T14:35:13.772Z",
-      "action": "updated MEGA -KADUWELA showroom (team: Metro/Mega Team)"
     }
   ]
 }
