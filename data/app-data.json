@@ -63748,6 +63748,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:13:22",
       "lastUpdated": "2026-08-31T05:43:22.960Z"
+    },
+    "SLE32D5000||NUWARAELIYA A": {
+      "remark": "Exchange",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:14:18",
+      "lastUpdated": "2026-08-31T05:44:18.749Z"
     }
   },
   "showroomVisits": {
@@ -65342,6 +65349,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:14:18",
+      "iso": "2026-08-31T05:44:18.750Z",
+      "action": "updated remark for SLE32D5000 at NUWARAELIYA A: “Exchange”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "11:13:22",
@@ -65683,13 +65697,6 @@
       "time": "10:52:19",
       "iso": "2026-08-31T05:22:19.784Z",
       "action": "updated remark for SMG-A06-6-128-BLK at NUWARAELIYA A: “Reported”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:51:32",
-      "iso": "2026-08-31T05:21:32.366Z",
-      "action": "updated remark for TF-IFP28-042 at CHAVAKACHCHERI: “90%”"
     }
   ]
 }
