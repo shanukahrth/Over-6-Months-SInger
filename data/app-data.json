@@ -61858,6 +61858,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:38:13",
       "lastUpdated": "2026-08-31T03:08:13.506Z"
+    },
+    "TFFV1320MO||WENNAPPUWA": {
+      "remark": "Damaged - 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:39:28",
+      "lastUpdated": "2026-08-31T03:09:28.680Z"
     }
   },
   "showroomVisits": {
@@ -63370,6 +63377,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:39:28",
+      "iso": "2026-08-31T03:09:28.682Z",
+      "action": "updated remark for TFFV1320MO at WENNAPPUWA: “Damaged - 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:38:13",
       "iso": "2026-08-31T03:08:13.508Z",
       "action": "updated remark for STT-200K at WENNAPPUWA: “Damaged - 85%”"
@@ -63709,13 +63723,6 @@
       "time": "16:16:46",
       "iso": "2026-08-28T10:46:46.384Z",
       "action": "updated remark for WFI-SOC-H007-BU-S at SHOMES- CHILAW: “Damaged- 40%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:16:34",
-      "iso": "2026-08-28T10:46:34.198Z",
-      "action": "updated remark for WF-VENICE-PI-S at SHOMES- CHILAW: “Damaged- 75%”"
     }
   ]
 }
