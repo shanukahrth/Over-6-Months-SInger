@@ -66831,6 +66831,14 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "HOROWPATHANA||MEDAWACHCHIYA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -67094,6 +67102,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "13:19:32",
+      "iso": "2026-08-31T07:49:32.358Z",
+      "action": "updated HOROWPATHANA showroom (visited: Yes)"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -67436,13 +67451,6 @@
       "time": "12:51:10",
       "iso": "2026-08-31T07:21:10.886Z",
       "action": "updated KALUTARA A showroom (team: White Goods Team)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-31",
-      "time": "12:50:58",
-      "iso": "2026-08-31T07:20:58.423Z",
-      "action": "updated KALUTARA A showroom (visitDate: 2026-08-07)"
     }
   ]
 }
