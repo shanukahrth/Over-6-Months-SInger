@@ -66982,6 +66982,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:33:38",
       "lastUpdated": "2026-08-31T10:03:38.443Z"
+    },
+    "SLE32E710||HATTON": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:34:00",
+      "lastUpdated": "2026-08-31T10:04:00.830Z"
     }
   },
   "showroomVisits": {
@@ -68830,6 +68837,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:34:00",
+      "iso": "2026-08-31T10:04:00.833Z",
+      "action": "updated remark for SLE32E710 at HATTON: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:33:38",
       "iso": "2026-08-31T10:03:38.445Z",
       "action": "updated remark for SLE32D5000 at HATTON: “95%”"
@@ -69169,13 +69183,6 @@
       "time": "15:18:14",
       "iso": "2026-08-31T09:48:14.424Z",
       "action": "updated remark for AGC-PC3GHZ at MATARA-B: “Report for 5000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:18:00",
-      "iso": "2026-08-31T09:48:00.029Z",
-      "action": "updated remark for PN-CS-XU18XKYW-8 at JAFFNA-HOSPITAL ROAD: “SOLD”"
     }
   ]
 }
