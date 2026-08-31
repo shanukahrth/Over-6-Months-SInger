@@ -66819,7 +66819,7 @@
       "updatedDate": "2026-08-28"
     },
     "PANADURA||PANADURA": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "",
       "team": "Colombo South MKT ",
       "remark": "Not visited physically but hv shared all the discounts",
@@ -66973,7 +66973,7 @@
     "SHOMES-KALUTARA||KALUTARA": {
       "visited": "Yes",
       "visitDate": "2026-08-07",
-      "team": "",
+      "team": "White Goods Team",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
@@ -67240,6 +67240,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:37:47",
+      "iso": "2026-08-31T08:07:47.766Z",
+      "action": "updated PANADURA showroom (visited: Yes)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:37:46",
+      "iso": "2026-08-31T08:07:46.260Z",
+      "action": "updated SHOMES-KALUTARA showroom (team: White Goods Team)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-31",
@@ -67575,20 +67589,6 @@
       "time": "13:12:00",
       "iso": "2026-08-31T07:42:00.586Z",
       "action": "updated remark for TF-FP24-SCR342 at MEGA -KATUBEDDA: “10% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:11:54",
-      "iso": "2026-08-31T07:41:54.072Z",
-      "action": "updated remark for TF-CM-APR737 at MEGA -KATUBEDDA: “20% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:11:47",
-      "iso": "2026-08-31T07:41:47.877Z",
-      "action": "updated remark for TF-AF32-577 at MEGA -KATUBEDDA: “30% OFF”"
     }
   ]
 }
