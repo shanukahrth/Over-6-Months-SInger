@@ -121,6 +121,60 @@ window.Showroom = (function () {
     });
   }
 
+  // ---- Detailed Pending-by-Area / Pending-by-District tables --------------
+  // Same underlying numbers as the coverage charts, but as a sortable table
+  // so it's easy to see exactly how many showrooms are still pending in
+  // each area/district, not just a visual coverage percentage.
+  const pendingSort = { area: { field: "pending", dir: "desc" }, district: { field: "pending", dir: "desc" } };
+  const PENDING_COLUMNS = [
+    { key: "label", label: "Name" },
+    { key: "total", label: "Total", numeric: true },
+    { key: "visited", label: "Visited", numeric: true },
+    { key: "pending", label: "Pending", numeric: true },
+    { key: "pct", label: "Coverage %", numeric: true }
+  ];
+
+  function pendingTableData(field) {
+    return coverageByField(field).map((d) => ({ label: d.label, total: d.total, visited: d.visited, pending: d.total - d.visited, pct: d.pct }));
+  }
+
+  function renderPendingTable(kind, field) {
+    const sort = pendingSort[kind];
+    const rows = pendingTableData(field).sort((a, b) => {
+      const mult = sort.dir === "asc" ? 1 : -1;
+      if (sort.field === "label") return String(a.label).localeCompare(String(b.label)) * mult;
+      return (a[sort.field] - b[sort.field]) * mult;
+    });
+    const headEl = document.getElementById(kind === "area" ? "pendingByAreaHead" : "pendingByDistrictHead");
+    const bodyEl = document.getElementById(kind === "area" ? "pendingByAreaBody" : "pendingByDistrictBody");
+
+    headEl.innerHTML = PENDING_COLUMNS.map((c) => {
+      const isSorted = sort.field === c.key;
+      const arrow = isSorted ? (sort.dir === "asc" ? "\u25B2" : "\u25BC") : "";
+      return `<th data-key="${c.key}" class="${c.numeric ? "num" : ""}" style="cursor:pointer;">${c.label}${arrow}</th>`;
+    }).join("");
+    headEl.querySelectorAll("th[data-key]").forEach((th) => {
+      th.addEventListener("click", () => {
+        if (sort.field === th.dataset.key) sort.dir = sort.dir === "asc" ? "desc" : "asc";
+        else { sort.field = th.dataset.key; sort.dir = "desc"; }
+        renderPendingTable(kind, field);
+      });
+    });
+
+    if (!rows.length) {
+      bodyEl.innerHTML = `<tr class="empty-row"><td colspan="${PENDING_COLUMNS.length}">No data.</td></tr>`;
+      return;
+    }
+    bodyEl.innerHTML = rows.map((r) => `
+      <tr>
+        <td>${S.escapeHtml(r.label)}</td>
+        <td class="num">${S.fmtInt(r.total)}</td>
+        <td class="num">${S.fmtInt(r.visited)}</td>
+        <td class="num" style="${r.pending > 0 ? "color:var(--red-600);font-weight:700;" : ""}">${S.fmtInt(r.pending)}</td>
+        <td class="num">${r.pct}%</td>
+      </tr>`).join("");
+  }
+
   function filteredRows() {
     let rows = state.rows;
     if (state.visitedFilter) rows = rows.filter((r) => String(r.visited) === state.visitedFilter);
@@ -180,6 +234,40 @@ window.Showroom = (function () {
   function wireControls() {
     document.getElementById("showroomSearch").addEventListener("input", S.debounce((e) => { state.search = e.target.value; renderTable(); }, 200));
     document.getElementById("showroomVisitedFilter").addEventListener("change", (e) => { state.visitedFilter = e.target.value; renderTable(); });
+    document.getElementById("showroomExportXlsxBtn").addEventListener("click", exportExcel);
+    document.getElementById("showroomExportCsvBtn").addEventListener("click", exportCsv);
+  }
+
+  // ---- Export (current search/filter scope, all columns) ------------------
+  function exportRowsToAOA() {
+    const rows = filteredRows();
+    const header = ["Area", "District", "Showroom", "Store Type", "Visited", "Visit Date", "Team", "Remark", "Updated By", "Updated Date"];
+    const body = rows.map((r) => [r.area, r.district, r.showroom, r.storeType, r.visited, r.visitDate, r.team, r.remark, r.updatedBy, r.updatedDate]);
+    return [header, ...body];
+  }
+
+  function exportExcel() {
+    const aoa = exportRowsToAOA();
+    if (aoa.length <= 1) { alert("There is no data in the current view to export."); return; }
+    const ws = XLSX.utils.aoa_to_sheet(aoa);
+    ws["!cols"] = aoa[0].map(() => ({ wch: 18 }));
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "Showroom Tracker");
+    XLSX.writeFile(wb, `Singer_Showroom_Tracker_${new Date().toISOString().slice(0, 10)}.xlsx`);
+  }
+
+  function exportCsv() {
+    const aoa = exportRowsToAOA();
+    if (aoa.length <= 1) { alert("There is no data in the current view to export."); return; }
+    const csv = aoa.map((line) => line.map((cell) => {
+      const s = cell === null || cell === undefined ? "" : String(cell);
+      return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+    }).join(",")).join("\r\n");
+    const blob = new Blob(["\uFEFF" + csv], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url; a.download = `Singer_Showroom_Tracker_${new Date().toISOString().slice(0, 10)}.csv`; a.click();
+    URL.revokeObjectURL(url);
   }
 
   function renderError(message) {
@@ -196,6 +284,10 @@ window.Showroom = (function () {
     kpiSection.parentElement.insertBefore(err, kpiSection.nextSibling);
     document.getElementById("showroomHeadRow").innerHTML = "";
     document.getElementById("showroomBody").innerHTML = "";
+    ["pendingByAreaHead", "pendingByAreaBody", "pendingByDistrictHead", "pendingByDistrictBody"].forEach((id) => {
+      const el = document.getElementById(id);
+      if (el) el.innerHTML = "";
+    });
   }
 
   function clearError() {
@@ -207,6 +299,8 @@ window.Showroom = (function () {
     renderKpis();
     renderCoverageChart("areaCoverageChart", coverageByField("area"));
     renderCoverageChart("districtCoverageChart", coverageByField("district"));
+    renderPendingTable("area", "area");
+    renderPendingTable("district", "district");
     renderTable();
   }
 
