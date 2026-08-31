@@ -65890,6 +65890,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:19:23",
       "lastUpdated": "2026-08-31T08:49:23.313Z"
+    },
+    "SDV3605K||HATTON": {
+      "remark": "MOP- 2000/=",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:20:44",
+      "lastUpdated": "2026-08-31T08:50:44.547Z"
     }
   },
   "showroomVisits": {
@@ -67700,6 +67707,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:20:44",
+      "iso": "2026-08-31T08:50:44.548Z",
+      "action": "updated remark for SDV3605K at HATTON: “MOP- 2000/=”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "14:19:23",
@@ -68041,13 +68055,6 @@
       "time": "14:00:10",
       "iso": "2026-08-31T08:30:10.963Z",
       "action": "updated remark for LF-LEO-15023-WNG-S at CHANKANI: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:59:13",
-      "iso": "2026-08-31T08:29:13.516Z",
-      "action": "updated remark for SMGUA32N4010 at CHANKANI: “80%”"
     }
   ]
 }
