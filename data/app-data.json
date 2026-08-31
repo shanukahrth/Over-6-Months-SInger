@@ -66394,6 +66394,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:09:13",
       "lastUpdated": "2026-08-31T09:39:13.521Z"
+    },
+    "NCPDG-FP240||HATTON": {
+      "remark": "Flat 40%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:10:09",
+      "lastUpdated": "2026-08-31T09:40:09.512Z"
+    },
+    "NCPO-FP250||HATTON": {
+      "remark": "Flat 40%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:10:11",
+      "lastUpdated": "2026-08-31T09:40:11.809Z"
     }
   },
   "showroomVisits": {
@@ -68222,6 +68236,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:10:11",
+      "iso": "2026-08-31T09:40:11.810Z",
+      "action": "updated remark for NCPO-FP250 at HATTON: “Flat 40%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:10:09",
+      "iso": "2026-08-31T09:40:09.514Z",
+      "action": "updated remark for NCPDG-FP240 at HATTON: “Flat 40%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "15:09:13",
@@ -68556,20 +68584,6 @@
       "time": "14:58:14",
       "iso": "2026-08-31T09:28:14.503Z",
       "action": "updated remark for HON-X9C-12-256-PPL at JAFFNA-HOSPITAL ROAD: “15% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:58:12",
-      "iso": "2026-08-31T09:28:12.175Z",
-      "action": "updated remark for HON-X9C-12-256-GRN at JAFFNA-HOSPITAL ROAD: “15% Off from mark price”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "14:58:01",
-      "iso": "2026-08-31T09:28:01.653Z",
-      "action": "updated remark for WP-12KINV at MEGA -KATUBEDDA: “-”"
     }
   ]
 }
