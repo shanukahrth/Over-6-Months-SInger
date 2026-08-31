@@ -63027,6 +63027,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:27:36",
       "lastUpdated": "2026-08-31T04:57:36.535Z"
+    },
+    "MHC-M40D||CHAVAKACHCHERI": {
+      "remark": "80% Damaged can't issue",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:28:13",
+      "lastUpdated": "2026-08-31T04:58:13.851Z"
     }
   },
   "showroomVisits": {
@@ -64587,6 +64594,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "10:28:13",
+      "iso": "2026-08-31T04:58:13.852Z",
+      "action": "updated remark for MHC-M40D at CHAVAKACHCHERI: “80% Damaged can't issue”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "10:27:36",
       "iso": "2026-08-31T04:57:36.536Z",
       "action": "updated remark for PN-SC-BMAX5E-K at CHAVAKACHCHERI: “20%”"
@@ -64926,13 +64940,6 @@
       "time": "10:10:13",
       "iso": "2026-08-31T04:40:13.753Z",
       "action": "updated remark for WF-VICTORIA-BR-S at CHAVAKACHCHERI: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:10:03",
-      "iso": "2026-08-31T04:40:03.460Z",
-      "action": "updated remark for PN-CS-U18XKH at CHAVAKACHCHERI: “50%”"
     }
   ]
 }
