@@ -62544,6 +62544,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:55:25",
       "lastUpdated": "2026-08-31T04:25:25.670Z"
+    },
+    "HON-X8C-8-512-BLK||JAFFNA": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:55:45",
+      "lastUpdated": "2026-08-31T04:25:45.689Z"
     }
   },
   "showroomVisits": {
@@ -64068,9 +64075,42 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "HON-X8C-8-512-BLK||JAFFNA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
+    },
+    "HON-X8C-8-512-GRN||JAFFNA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "09:55:45",
+      "iso": "2026-08-31T04:25:45.689Z",
+      "action": "updated remark for HON-X8C-8-512-BLK at JAFFNA: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "09:55:40",
+      "iso": "2026-08-31T04:25:40.695Z",
+      "action": "marked HON-X8C-8-512-GRN at JAFFNA as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "09:55:39",
+      "iso": "2026-08-31T04:25:39.608Z",
+      "action": "marked HON-X8C-8-512-BLK at JAFFNA as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -64399,27 +64439,6 @@
       "time": "09:18:52",
       "iso": "2026-08-31T03:48:52.454Z",
       "action": "updated remark for WFL-SPM-75X75X7-S at CHILAW: “Damaged - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:18:15",
-      "iso": "2026-08-31T03:48:15.076Z",
-      "action": "updated remark for WFL-FLORAC-03-S at CHILAW: “Damaged (Rvt) - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:17:36",
-      "iso": "2026-08-31T03:47:36.181Z",
-      "action": "updated remark for WF-CF-75X36-S at CHILAW: “50% - EOL”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:15:23",
-      "iso": "2026-08-31T03:45:23.604Z",
-      "action": "updated remark for URC-220 at CHILAW: “Can sell”"
     }
   ]
 }
