@@ -66653,6 +66653,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:18:00",
       "lastUpdated": "2026-08-31T09:48:00.026Z"
+    },
+    "AGC-PC3GHZ||MATARA-B": {
+      "remark": "Report for 5000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:18:14",
+      "lastUpdated": "2026-08-31T09:48:14.423Z"
+    },
+    "AS-14G-I5-8-512-B5850-SIL||MATARA-B": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:18:21",
+      "lastUpdated": "2026-08-31T09:48:21.091Z"
     }
   },
   "showroomVisits": {
@@ -68487,6 +68501,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "15:18:21",
+      "iso": "2026-08-31T09:48:21.092Z",
+      "action": "updated remark for AS-14G-I5-8-512-B5850-SIL at MATARA-B: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "15:18:14",
+      "iso": "2026-08-31T09:48:14.424Z",
+      "action": "updated remark for AGC-PC3GHZ at MATARA-B: “Report for 5000”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:18:00",
@@ -68821,20 +68849,6 @@
       "time": "15:09:18",
       "iso": "2026-08-31T09:39:18.744Z",
       "action": "updated remark for TF-GS-SPKT302 at HATTON: “15%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:09:07",
-      "iso": "2026-08-31T09:39:07.459Z",
-      "action": "updated remark for SIS277CU at HATTON: “50% Discolor”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:08:40",
-      "iso": "2026-08-31T09:38:40.233Z",
-      "action": "updated remark for SWH-338EP at HATTON: “90%”"
     }
   ]
 }
