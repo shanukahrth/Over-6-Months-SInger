@@ -66261,6 +66261,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:03:35",
       "lastUpdated": "2026-08-31T09:33:35.369Z"
+    },
+    "WF-ROM-DTO-S||HATTON": {
+      "remark": "MOP- 20,000/=",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:04:30",
+      "lastUpdated": "2026-08-31T09:34:30.778Z"
     }
   },
   "showroomVisits": {
@@ -68089,6 +68096,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:04:30",
+      "iso": "2026-08-31T09:34:30.779Z",
+      "action": "updated remark for WF-ROM-DTO-S at HATTON: “MOP- 20,000/=”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:03:48",
@@ -68430,13 +68444,6 @@
       "time": "14:25:25",
       "iso": "2026-08-31T08:55:25.859Z",
       "action": "updated remark for PN-NR-BG272DALK at JAFFNA-HOSPITAL ROAD: “70% Off from MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:24:50",
-      "iso": "2026-08-31T08:54:50.237Z",
-      "action": "updated remark for B-DFN28J21X at JAFFNA-HOSPITAL ROAD: “50% OFF Damaged”"
     }
   ]
 }
