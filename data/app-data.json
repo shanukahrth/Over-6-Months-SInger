@@ -62313,6 +62313,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:33:56",
       "lastUpdated": "2026-08-31T04:03:56.122Z"
+    },
+    "MB-SAFARI4S-RED||JAFFNA": {
+      "remark": "Sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:34:05",
+      "lastUpdated": "2026-08-31T04:04:05.443Z"
     }
   },
   "showroomVisits": {
@@ -63819,9 +63826,29 @@
       "comment": "Sold",
       "updatedBy": "Sajeevkanth",
       "updatedDate": "2026-08-28"
+    },
+    "MB-SAFARI4S-RED||JAFFNA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "09:34:05",
+      "iso": "2026-08-31T04:04:05.561Z",
+      "action": "marked MB-SAFARI4S-RED at JAFFNA as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "09:34:05",
+      "iso": "2026-08-31T04:04:05.444Z",
+      "action": "updated remark for MB-SAFARI4S-RED at JAFFNA: “Sold”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -64157,20 +64184,6 @@
       "time": "08:59:28",
       "iso": "2026-08-31T03:29:28.445Z",
       "action": "updated remark for SMGUA43T5400 at KURUNEGALA C: “Damage - 25%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:58:50",
-      "iso": "2026-08-31T03:28:50.775Z",
-      "action": "updated remark for SL-18VNF at KURUNEGALA C: “Damage - Additional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:58:32",
-      "iso": "2026-08-31T03:28:32.425Z",
-      "action": "updated remark for SIN-RFC-2012 at KURUNEGALA C: “Damaged - 40%”"
     }
   ]
 }
