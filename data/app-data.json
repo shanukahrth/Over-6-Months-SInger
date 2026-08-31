@@ -66582,6 +66582,14 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "KALUTARA A||KALUTARA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-07",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -66845,6 +66853,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "12:50:58",
+      "iso": "2026-08-31T07:20:58.423Z",
+      "action": "updated KALUTARA A showroom (visitDate: 2026-08-07)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "12:50:55",
+      "iso": "2026-08-31T07:20:55.560Z",
+      "action": "updated KALUTARA A showroom (visited: Yes)"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -67180,20 +67202,6 @@
       "time": "12:24:06",
       "iso": "2026-08-31T06:54:06.262Z",
       "action": "updated remark for IND-PR752WIWH at MEGA -KATUBEDDA: “70% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:23:45",
-      "iso": "2026-08-31T06:53:45.854Z",
-      "action": "updated remark for IND-IHVP66LMK at MEGA -KATUBEDDA: “70% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:23:33",
-      "iso": "2026-08-31T06:53:33.106Z",
-      "action": "updated remark for IND-IHGC94FLMX at MEGA -KATUBEDDA: “50% OFF”"
     }
   ]
 }
