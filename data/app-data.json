@@ -64121,11 +64121,11 @@
       "lastUpdated": "2026-08-31T05:54:46.125Z"
     },
     "SLE43G890||NELLIADY": {
-      "remark": "80%",
+      "remark": "60% working condition",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "11:24:42",
-      "lastUpdated": "2026-08-31T05:54:42.424Z"
+      "commentTime": "11:24:52",
+      "lastUpdated": "2026-08-31T05:54:52.542Z"
     },
     "WP-WM31278||NUWARAELIYA A": {
       "remark": "60%",
@@ -65752,6 +65752,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:24:52",
+      "iso": "2026-08-31T05:54:52.544Z",
+      "action": "updated remark for SLE43G890 at NELLIADY: “60% working condition”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "11:25:31",
@@ -66093,13 +66100,6 @@
       "time": "11:18:26",
       "iso": "2026-08-31T05:48:26.326Z",
       "action": "marked PN-TH-55MX740N at NELLIADY as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:18:24",
-      "iso": "2026-08-31T05:48:24.504Z",
-      "action": "updated remark for WF-TRITON-01-S at NELLIADY: “30% off”"
     }
   ]
 }
