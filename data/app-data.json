@@ -63881,9 +63881,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "H-RSQG018MFEOE||JAFFNA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "09:46:26",
+      "iso": "2026-08-31T04:16:26.193Z",
+      "action": "marked H-RSQG018MFEOE at JAFFNA as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -64226,13 +64239,6 @@
       "time": "09:03:16",
       "iso": "2026-08-31T03:33:16.965Z",
       "action": "updated remark for SASI12INFI at KURUNEGALA C: “Okay for given discount”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:02:17",
-      "iso": "2026-08-31T03:32:17.358Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at KURUNEGALA C: “Damaged - 20%”"
     }
   ]
 }
