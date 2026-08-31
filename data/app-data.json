@@ -65561,6 +65561,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "13:53:14",
       "lastUpdated": "2026-08-31T08:23:14.102Z"
+    },
+    "SWM-FA70R||CHANKANI": {
+      "remark": "SOLD OUT",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "13:54:00",
+      "lastUpdated": "2026-08-31T08:24:00.401Z"
     }
   },
   "showroomVisits": {
@@ -67349,9 +67356,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "SWM-FA70R||CHANKANI": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "13:54:00",
+      "iso": "2026-08-31T08:24:00.469Z",
+      "action": "marked SWM-FA70R at CHANKANI as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "13:54:00",
+      "iso": "2026-08-31T08:24:00.403Z",
+      "action": "updated remark for SWM-FA70R at CHANKANI: “SOLD OUT”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -67687,20 +67714,6 @@
       "time": "13:19:48",
       "iso": "2026-08-31T07:49:48.695Z",
       "action": "updated KAHATAGASDIGILIYA showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "13:19:46",
-      "iso": "2026-08-31T07:49:46.605Z",
-      "action": "updated HOROWPATHANA showroom (team: Naveen, Adeesha, Thusitha)"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:19:34",
-      "iso": "2026-08-31T07:49:34.638Z",
-      "action": "updated remark for SLE100A4F at MEGA -KATUBEDDA: “9% OFF”"
     }
   ]
 }
