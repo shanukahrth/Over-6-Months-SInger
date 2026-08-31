@@ -62152,6 +62152,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:10:33",
       "lastUpdated": "2026-08-31T03:40:33.337Z"
+    },
+    "PN-CS-U10XKH||CHILAW": {
+      "remark": "Display - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:11:00",
+      "lastUpdated": "2026-08-31T03:41:00.385Z"
     }
   },
   "showroomVisits": {
@@ -63664,6 +63671,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:11:00",
+      "iso": "2026-08-31T03:41:00.386Z",
+      "action": "updated remark for PN-CS-U10XKH at CHILAW: “Display - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:10:33",
       "iso": "2026-08-31T03:40:33.339Z",
       "action": "updated remark for PH-BT3216 at CHILAW: “Damaged - 80%”"
@@ -64003,13 +64017,6 @@
       "time": "08:36:08",
       "iso": "2026-08-31T03:06:08.260Z",
       "action": "updated remark for TF-SI-ESS-242 at WENNAPPUWA: “Damaged - 10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:35:22",
-      "iso": "2026-08-31T03:05:22.243Z",
-      "action": "updated remark for SPMA9501 at WENNAPPUWA: “Damaged - 95%”"
     }
   ]
 }
