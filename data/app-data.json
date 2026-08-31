@@ -61907,6 +61907,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:48:00",
       "lastUpdated": "2026-08-31T03:18:00.576Z"
+    },
+    "HFPA-EVENT-BLC||KURUNEGALA C": {
+      "remark": "Can sell by 31st of Aug",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:51:21",
+      "lastUpdated": "2026-08-31T03:21:21.267Z"
     }
   },
   "showroomVisits": {
@@ -63419,6 +63426,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:51:21",
+      "iso": "2026-08-31T03:21:21.270Z",
+      "action": "updated remark for HFPA-EVENT-BLC at KURUNEGALA C: “Can sell by 31st of Aug”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:48:00",
       "iso": "2026-08-31T03:18:00.576Z",
       "action": "updated remark for HAVIT-MS851-MOUSE at KURUNEGALA C: “Damaged - 50%”"
@@ -63758,13 +63772,6 @@
       "time": "16:18:29",
       "iso": "2026-08-28T10:48:29.130Z",
       "action": "updated remark for WP-CHTW-050-S at SHOMES- CHILAW: “Okay”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:18:11",
-      "iso": "2026-08-28T10:48:11.579Z",
-      "action": "updated remark for WG-FAN-BXS at SHOMES- CHILAW: “Damaged - 80%”"
     }
   ]
 }
