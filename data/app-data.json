@@ -66527,6 +66527,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:14:31",
       "lastUpdated": "2026-08-31T09:44:31.180Z"
+    },
+    "SL-PSM-8017||HATTON": {
+      "remark": "60%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:14:49",
+      "lastUpdated": "2026-08-31T09:44:49.219Z"
     }
   },
   "showroomVisits": {
@@ -68357,6 +68364,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:14:49",
+      "iso": "2026-08-31T09:44:49.220Z",
+      "action": "updated remark for SL-PSM-8017 at HATTON: “60%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:14:31",
       "iso": "2026-08-31T09:44:31.181Z",
       "action": "updated remark for MID-MJ-KM6001W at HATTON: “55%”"
@@ -68696,13 +68710,6 @@
       "time": "15:04:30",
       "iso": "2026-08-31T09:34:30.779Z",
       "action": "updated remark for WF-ROM-DTO-S at HATTON: “MOP- 20,000/=”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:03:48",
-      "iso": "2026-08-31T09:33:48.490Z",
-      "action": "marked GEO-242D-SV at JAFFNA-HOSPITAL ROAD as Sold"
     }
   ]
 }
