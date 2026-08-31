@@ -62187,6 +62187,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:12:31",
       "lastUpdated": "2026-08-31T03:42:31.870Z"
+    },
+    "SL-TF313||CHILAW": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:12:42",
+      "lastUpdated": "2026-08-31T03:42:42.426Z"
     }
   },
   "showroomVisits": {
@@ -63699,6 +63706,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:12:42",
+      "iso": "2026-08-31T03:42:42.427Z",
+      "action": "updated remark for SL-TF313 at CHILAW: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:12:31",
       "iso": "2026-08-31T03:42:31.871Z",
       "action": "updated remark for SL-S203 at CHILAW: “Damaged - 80%”"
@@ -64038,13 +64052,6 @@
       "time": "08:45:57",
       "iso": "2026-08-31T03:15:57.922Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at KURUNEGALA C: “Damage - 80%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:42:13",
-      "iso": "2026-08-31T03:12:13.514Z",
-      "action": "updated remark for KD-55X80J at WENNAPPUWA: “Can sell”"
     }
   ]
 }
