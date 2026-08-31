@@ -66548,6 +66548,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:15:14",
       "lastUpdated": "2026-08-31T09:45:14.292Z"
+    },
+    "R-FGAQ010||HATTON": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:15:25",
+      "lastUpdated": "2026-08-31T09:45:25.563Z"
     }
   },
   "showroomVisits": {
@@ -68378,6 +68385,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:15:25",
+      "iso": "2026-08-31T09:45:25.565Z",
+      "action": "updated remark for R-FGAQ010 at HATTON: “80%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:15:14",
       "iso": "2026-08-31T09:45:14.293Z",
       "action": "updated remark for TF-CM-APR737 at HATTON: “40%”"
@@ -68717,13 +68731,6 @@
       "time": "15:04:25",
       "iso": "2026-08-31T09:34:25.906Z",
       "action": "updated remark for WF-DOC-M003-BU-S at MEGA -KATUBEDDA: “-”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:04:55",
-      "iso": "2026-08-31T09:34:55.402Z",
-      "action": "updated remark for WFL-SPM-75X60X8-S at HATTON: “70%”"
     }
   ]
 }
