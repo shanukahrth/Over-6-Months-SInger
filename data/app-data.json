@@ -63022,11 +63022,11 @@
       "lastUpdated": "2026-08-31T05:00:04.712Z"
     },
     "PN-SC-BMAX5E-K||CHAVAKACHCHERI": {
-      "remark": "20%",
+      "remark": "50%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "10:27:36",
-      "lastUpdated": "2026-08-31T04:57:36.535Z"
+      "commentTime": "10:30:47",
+      "lastUpdated": "2026-08-31T05:00:47.905Z"
     },
     "MHC-M40D||CHAVAKACHCHERI": {
       "remark": "80% Damaged can't issue",
@@ -64606,6 +64606,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:30:47",
+      "iso": "2026-08-31T05:00:47.906Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at CHAVAKACHCHERI: “50%”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "10:31:11",
@@ -64947,13 +64954,6 @@
       "time": "10:12:04",
       "iso": "2026-08-31T04:42:04.024Z",
       "action": "updated remark for M-SRK18YXP-W7 at CHAVAKACHCHERI: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:11:47",
-      "iso": "2026-08-31T04:41:47.549Z",
-      "action": "marked H-RMRG024HFEOE at CHAVAKACHCHERI as Sold"
     }
   ]
 }
