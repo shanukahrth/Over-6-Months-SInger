@@ -64735,6 +64735,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "12:01:28",
       "lastUpdated": "2026-08-31T06:31:28.155Z"
+    },
+    "HFPA-GRAVITY-BLU||MEGA -KATUBEDDA": {
+      "remark": "Report for 24000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "12:01:37",
+      "lastUpdated": "2026-08-31T06:31:37.174Z"
     }
   },
   "showroomVisits": {
@@ -66355,6 +66362,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "12:01:37",
+      "iso": "2026-08-31T06:31:37.175Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at MEGA -KATUBEDDA: “Report for 24000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "12:01:28",
       "iso": "2026-08-31T06:31:28.156Z",
       "action": "updated remark for HFPA-GRAVITY-BLC at MEGA -KATUBEDDA: “Report for 24000”"
@@ -66694,13 +66708,6 @@
       "time": "11:46:00",
       "iso": "2026-08-31T06:16:00.783Z",
       "action": "updated remark for FAN-WF1608R at NELLIADY: “30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "11:45:52",
-      "iso": "2026-08-31T06:15:52.285Z",
-      "action": "updated remark for DELL-3580-PQC-W10 at MEGA -KATUBEDDA: “Not in the system (some error from ICD)”"
     }
   ]
 }
