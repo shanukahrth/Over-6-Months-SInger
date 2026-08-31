@@ -62824,6 +62824,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:17:41",
       "lastUpdated": "2026-08-31T04:47:41.378Z"
+    },
+    "PF-MONDY-RED||SHOMES- CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:18:03",
+      "lastUpdated": "2026-08-31T04:48:03.947Z"
+    },
+    "PF-SIGNA-BL-S||SHOMES- CHILAW": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:18:09",
+      "lastUpdated": "2026-08-31T04:48:09.301Z"
     }
   },
   "showroomVisits": {
@@ -64384,6 +64398,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "10:18:09",
+      "iso": "2026-08-31T04:48:09.303Z",
+      "action": "updated remark for PF-SIGNA-BL-S at SHOMES- CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "10:18:03",
+      "iso": "2026-08-31T04:48:03.949Z",
+      "action": "updated remark for PF-MONDY-RED at SHOMES- CHILAW: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "10:17:41",
       "iso": "2026-08-31T04:47:41.380Z",
       "action": "updated remark for MXSW612543 at SHOMES- CHILAW: “Can sell”"
@@ -64716,20 +64744,6 @@
       "time": "09:58:36",
       "iso": "2026-08-31T04:28:36.909Z",
       "action": "updated remark for SYM-DIET-35I at JAFFNA: “80% Off MRP - Damage”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:58:14",
-      "iso": "2026-08-31T04:28:14.545Z",
-      "action": "updated remark for SMGUA32N4010 at JAFFNA: “70% MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:57:24",
-      "iso": "2026-08-31T04:27:24.483Z",
-      "action": "updated remark for LF-OREGON-WD4B at JAFFNA: “85% off MRP”"
     }
   ]
 }
