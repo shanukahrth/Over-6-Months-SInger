@@ -62138,6 +62138,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:09:51",
       "lastUpdated": "2026-08-31T03:39:51.843Z"
+    },
+    "PH-BT1215||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:10:18",
+      "lastUpdated": "2026-08-31T03:40:18.753Z"
     }
   },
   "showroomVisits": {
@@ -63650,6 +63657,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:10:18",
+      "iso": "2026-08-31T03:40:18.754Z",
+      "action": "updated remark for PH-BT1215 at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:09:51",
       "iso": "2026-08-31T03:39:51.844Z",
       "action": "updated remark for MID-D15-20EVN1 at CHILAW: “Can sell”"
@@ -63989,13 +64003,6 @@
       "time": "08:34:15",
       "iso": "2026-08-31T03:04:15.290Z",
       "action": "updated remark for SLE42D2070TC at WENNAPPUWA: “Damaged - 85%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:32:34",
-      "iso": "2026-08-31T03:02:34.967Z",
-      "action": "updated remark for WF-LEXUS-DTO-S at WENNAPPUWA: “Damaged - 75%”"
     }
   ]
 }
