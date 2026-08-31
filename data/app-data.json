@@ -62292,6 +62292,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:19:43",
       "lastUpdated": "2026-08-31T03:49:43.097Z"
+    },
+    "MID-MJ-KM6001W||CHILAW": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:22:57",
+      "lastUpdated": "2026-08-31T03:52:57.283Z"
     }
   },
   "showroomVisits": {
@@ -63804,6 +63811,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:22:57",
+      "iso": "2026-08-31T03:52:57.284Z",
+      "action": "updated remark for MID-MJ-KM6001W at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:20:35",
       "iso": "2026-08-31T03:50:35.331Z",
       "action": "updated remark for R-BWS-02 at CHILAW: “Can sell”"
@@ -64143,13 +64157,6 @@
       "time": "08:57:39",
       "iso": "2026-08-31T03:27:39.464Z",
       "action": "updated remark for SAS-24V-INV at KURUNEGALA C: “Okay for given discount”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:57:20",
-      "iso": "2026-08-31T03:27:20.439Z",
-      "action": "updated remark for SAS-18V-INV at KURUNEGALA C: “Okay for given discount”"
     }
   ]
 }
