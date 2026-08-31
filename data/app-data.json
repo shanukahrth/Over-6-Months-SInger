@@ -63867,6 +63867,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:18:12",
       "lastUpdated": "2026-08-31T05:48:12.975Z"
+    },
+    "WF-TRITON-01-S||NELLIADY": {
+      "remark": "30% off",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:18:24",
+      "lastUpdated": "2026-08-31T05:48:24.503Z"
+    },
+    "PN-TH-55MX740N||NELLIADY": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:18:32",
+      "lastUpdated": "2026-08-31T05:48:32.852Z"
     }
   },
   "showroomVisits": {
@@ -65463,9 +65477,43 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "PN-TH-55MX740N||NELLIADY": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:18:32",
+      "iso": "2026-08-31T05:48:32.853Z",
+      "action": "updated remark for PN-TH-55MX740N at NELLIADY: “SOLD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:18:27",
+      "iso": "2026-08-31T05:48:27.465Z",
+      "action": "marked PN-TH-55MX740N at NELLIADY as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:18:26",
+      "iso": "2026-08-31T05:48:26.326Z",
+      "action": "marked PN-TH-55MX740N at NELLIADY as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:18:24",
+      "iso": "2026-08-31T05:48:24.504Z",
+      "action": "updated remark for WF-TRITON-01-S at NELLIADY: “30% off”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -65787,34 +65835,6 @@
       "time": "11:05:27",
       "iso": "2026-08-31T05:35:27.326Z",
       "action": "updated remark for HU-FREEBUD-4-SIL at NUWARAELIYA A: “RTWH”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:05:13",
-      "iso": "2026-08-31T05:35:13.076Z",
-      "action": "updated remark for HON-CH-WATCH-WHT at NUWARAELIYA A: “Saleable”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:04:39",
-      "iso": "2026-08-31T05:34:39.150Z",
-      "action": "updated remark for ZTE-V50DESIGN-4-256GB-GRE at NUWARAELIYA A: “80% -Display”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:04:13",
-      "iso": "2026-08-31T05:34:13.036Z",
-      "action": "updated remark for ZTE-A75-4GB-256GB-GRN at NUWARAELIYA A: “50%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:04:08",
-      "iso": "2026-08-31T05:34:08.390Z",
-      "action": "updated remark for ZTE-A73-4GB-128GB-SB at NUWARAELIYA A: “80%”"
     }
   ]
 }
