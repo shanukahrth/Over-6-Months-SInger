@@ -62740,6 +62740,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:12:04",
       "lastUpdated": "2026-08-31T04:42:04.023Z"
+    },
+    "PN-CS-U13XKH||CHAVAKACHCHERI": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:13:15",
+      "lastUpdated": "2026-08-31T04:43:15.407Z"
+    },
+    "MSI-14G-I7-512-F1M-GRY||CHAVAKACHCHERI": {
+      "remark": "Sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:13:18",
+      "lastUpdated": "2026-08-31T04:43:18.850Z"
     }
   },
   "showroomVisits": {
@@ -64288,9 +64302,36 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "MSI-14G-I7-512-F1M-GRY||CHAVAKACHCHERI": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:13:20",
+      "iso": "2026-08-31T04:43:20.026Z",
+      "action": "marked MSI-14G-I7-512-F1M-GRY at CHAVAKACHCHERI as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:13:18",
+      "iso": "2026-08-31T04:43:18.851Z",
+      "action": "updated remark for MSI-14G-I7-512-F1M-GRY at CHAVAKACHCHERI: “Sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:13:15",
+      "iso": "2026-08-31T04:43:15.409Z",
+      "action": "updated remark for PN-CS-U13XKH at CHAVAKACHCHERI: “50%”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -64619,27 +64660,6 @@
       "time": "09:54:59",
       "iso": "2026-08-31T04:24:59.304Z",
       "action": "updated remark for HON-H400LITE-12-256-GRY at JAFFNA: “30% off MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:54:33",
-      "iso": "2026-08-31T04:24:33.910Z",
-      "action": "updated remark for SWM-FATL7R-BB at JAFFNA: “75% off”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:54:14",
-      "iso": "2026-08-31T04:24:14.273Z",
-      "action": "updated remark for LF-SLVY-W4B-CLM-S at JAFFNA: “50% off MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:53:56",
-      "iso": "2026-08-31T04:23:56.777Z",
-      "action": "updated remark for DELL-3593-I3W10-BLK at JAFFNA: “80% off MRP”"
     }
   ]
 }
