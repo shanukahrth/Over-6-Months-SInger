@@ -65463,13 +65463,6 @@
       "commentDate": "2026-08-31",
       "commentTime": "13:20:48",
       "lastUpdated": "2026-08-31T07:50:48.123Z"
-    },
-    "GEO-242D-SV||MAHIYANGANA": {
-      "remark": "80%",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-31",
-      "commentTime": "13:31:12",
-      "lastUpdated": "2026-08-31T08:01:12.011Z"
     }
   },
   "showroomVisits": {
@@ -67210,6 +67203,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "13:31:47",
+      "iso": "2026-08-31T08:01:47.632Z",
+      "action": "updated remark for GEO-242D-SV at MAHIYANGANA (cleared)"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "13:31:12",
       "iso": "2026-08-31T08:01:12.013Z",
       "action": "updated remark for GEO-242D-SV at MAHIYANGANA: “80%”"
@@ -67549,13 +67549,6 @@
       "time": "13:07:08",
       "iso": "2026-08-31T07:37:08.595Z",
       "action": "updated THALGASWALA showroom (visitDate: 2026-08-12)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-31",
-      "time": "13:07:05",
-      "iso": "2026-08-31T07:37:05.994Z",
-      "action": "updated THALGASWALA showroom (visited: Yes)"
     }
   ]
 }
