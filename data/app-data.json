@@ -62495,6 +62495,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:53:15",
       "lastUpdated": "2026-08-31T04:23:15.708Z"
+    },
+    "SLE43G890||JAFFNA": {
+      "remark": "AR pending - furniture team",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:53:44",
+      "lastUpdated": "2026-08-31T04:23:44.717Z"
     }
   },
   "showroomVisits": {
@@ -64025,6 +64032,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "09:53:44",
+      "iso": "2026-08-31T04:23:44.719Z",
+      "action": "updated remark for SLE43G890 at JAFFNA: “AR pending - furniture team”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "09:53:15",
       "iso": "2026-08-31T04:23:15.709Z",
       "action": "updated remark for QT-PF105 at JAFFNA: “70% off MRP”"
@@ -64364,13 +64378,6 @@
       "time": "09:13:24",
       "iso": "2026-08-31T03:43:24.781Z",
       "action": "updated remark for SMGUA32N4010 at CHILAW: “Damaged - 75% (Revert)”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:12:54",
-      "iso": "2026-08-31T03:42:54.700Z",
-      "action": "updated remark for SLE40E810C at CHILAW: “Damaged - 90%”"
     }
   ]
 }
