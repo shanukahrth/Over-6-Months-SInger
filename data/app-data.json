@@ -63545,6 +63545,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:00:38",
       "lastUpdated": "2026-08-31T05:30:38.120Z"
+    },
+    "NOR-MUG-6TW||CHAVAKACHCHERI": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:01:40",
+      "lastUpdated": "2026-08-31T05:31:40.829Z"
     }
   },
   "showroomVisits": {
@@ -65129,6 +65136,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "11:01:40",
+      "iso": "2026-08-31T05:31:40.830Z",
+      "action": "updated remark for NOR-MUG-6TW at CHAVAKACHCHERI: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "11:00:38",
       "iso": "2026-08-31T05:30:38.121Z",
       "action": "updated remark for CAN-I-IP2870S at CHAVAKACHCHERI: “80%- Damaged”"
@@ -65468,13 +65482,6 @@
       "time": "10:42:39",
       "iso": "2026-08-31T05:12:39.824Z",
       "action": "marked ZTE-V50DESIGN-4-256GB-B at CHAVAKACHCHERI as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:42:39",
-      "iso": "2026-08-31T05:12:39.747Z",
-      "action": "updated remark for ZTE-V50DESIGN-4-256GB-B at CHAVAKACHCHERI: “sent/sold”"
     }
   ]
 }
