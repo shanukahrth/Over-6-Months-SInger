@@ -30227,11 +30227,11 @@
       "lastUpdated": "2026-08-20T06:18:26.559Z"
     },
     "SKY32STD1000||JA-ELA": {
-      "remark": "exchange",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-20",
-      "commentTime": "11:48:42",
-      "lastUpdated": "2026-08-20T06:18:42.207Z"
+      "remark": "exchange 90%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-31",
+      "commentTime": "19:58:46",
+      "lastUpdated": "2026-08-31T14:28:46.073Z"
     },
     "SLE32D2010TC||JA-ELA": {
       "remark": "exchange",
@@ -69248,6 +69248,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-31",
+      "time": "19:58:46",
+      "iso": "2026-08-31T14:28:46.074Z",
+      "action": "updated remark for SKY32STD1000 at JA-ELA: “exchange 90%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
       "time": "19:58:18",
       "iso": "2026-08-31T14:28:18.428Z",
       "action": "updated remark for TCLED32D65A at JA-ELA: “Exchange 90% Damaged”"
@@ -69587,13 +69594,6 @@
       "time": "15:52:10",
       "iso": "2026-08-31T10:22:10.340Z",
       "action": "updated remark for HON-X9C-12-256-BLK at JAFFNA PANNAI BRANCH: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:51:59",
-      "iso": "2026-08-31T10:21:59.898Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at JAFFNA PANNAI BRANCH: “20% Off from mark price”"
     }
   ]
 }
