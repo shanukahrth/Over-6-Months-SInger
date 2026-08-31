@@ -64357,6 +64357,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:37:07",
       "lastUpdated": "2026-08-31T06:07:07.258Z"
+    },
+    "SYM-HIC-26I||NELLIADY": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:37:18",
+      "lastUpdated": "2026-08-31T06:07:18.301Z"
     }
   },
   "showroomVisits": {
@@ -65977,6 +65984,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "11:37:18",
+      "iso": "2026-08-31T06:07:18.303Z",
+      "action": "updated remark for SYM-HIC-26I at NELLIADY: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "11:37:07",
       "iso": "2026-08-31T06:07:07.260Z",
       "action": "updated remark for WF-LILY-TBL-S at NELLIADY: “80% fully damaged”"
@@ -66316,13 +66330,6 @@
       "time": "11:24:20",
       "iso": "2026-08-31T05:54:20.657Z",
       "action": "marked SLE43G890 at NELLIADY as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:24:20",
-      "iso": "2026-08-31T05:54:20.595Z",
-      "action": "updated remark for SLE43G890 at NELLIADY: “SOLD”"
     }
   ]
 }
