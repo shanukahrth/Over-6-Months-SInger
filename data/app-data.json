@@ -66956,6 +66956,14 @@
     },
     "BERUWELA SHOP||AMBALANGODA": {
       "visited": "Yes",
+      "visitDate": "2026-08-07",
+      "team": "White Goods team",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
+    },
+    "KARANDENIYA||AMBALANGODA": {
+      "visited": "Yes",
       "visitDate": "",
       "team": "",
       "remark": "",
@@ -67224,6 +67232,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:35:22",
+      "iso": "2026-08-31T08:05:22.727Z",
+      "action": "updated KARANDENIYA showroom (visited: Yes)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:35:19",
+      "iso": "2026-08-31T08:05:19.426Z",
+      "action": "updated BERUWELA SHOP showroom (team: White Goods team)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-31",
@@ -67559,20 +67581,6 @@
       "time": "13:11:00",
       "iso": "2026-08-31T07:41:00.223Z",
       "action": "updated remark for SWH-SLIM228EP at MEGA -KATUBEDDA: “40% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:10:26",
-      "iso": "2026-08-31T07:40:26.913Z",
-      "action": "updated remark for SW-SK14016BLK at MEGA -KATUBEDDA: “20% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:10:04",
-      "iso": "2026-08-31T07:40:04.952Z",
-      "action": "updated remark for SPM-78X60 at MEGA -KATUBEDDA: “25% OFF”"
     }
   ]
 }
