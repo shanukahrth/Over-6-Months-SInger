@@ -62047,6 +62047,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:00:17",
       "lastUpdated": "2026-08-31T03:30:17.804Z"
+    },
+    "UJB-LB6027||KURUNEGALA C": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:00:39",
+      "lastUpdated": "2026-08-31T03:30:39.350Z"
     }
   },
   "showroomVisits": {
@@ -63559,6 +63566,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:00:39",
+      "iso": "2026-08-31T03:30:39.351Z",
+      "action": "updated remark for UJB-LB6027 at KURUNEGALA C: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:00:17",
       "iso": "2026-08-31T03:30:17.805Z",
       "action": "updated remark for TF-AF32-577 at KURUNEGALA C: “Damaged - 30%”"
@@ -63898,13 +63912,6 @@
       "time": "20:05:41",
       "iso": "2026-08-28T14:35:41.613Z",
       "action": "updated KADUWELA showroom (team: Metro Team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:05:36",
-      "iso": "2026-08-28T14:35:36.455Z",
-      "action": "updated DELGODA showroom (team: Metro Team)"
     }
   ]
 }
