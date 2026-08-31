@@ -66317,6 +66317,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:06:31",
       "lastUpdated": "2026-08-31T09:36:31.134Z"
+    },
+    "WF-BALTIC-01-S||HATTON": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:06:50",
+      "lastUpdated": "2026-08-31T09:36:50.908Z"
     }
   },
   "showroomVisits": {
@@ -68147,6 +68154,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:06:50",
+      "iso": "2026-08-31T09:36:50.910Z",
+      "action": "updated remark for WF-BALTIC-01-S at HATTON: “70%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:06:31",
       "iso": "2026-08-31T09:36:31.135Z",
       "action": "updated remark for PF-ENVISION-BL-S at HATTON: “80%”"
@@ -68486,13 +68500,6 @@
       "time": "14:50:32",
       "iso": "2026-08-31T09:20:32.186Z",
       "action": "updated remark for WP-CHTW-100-S at JAFFNA-HOSPITAL ROAD: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:50:09",
-      "iso": "2026-08-31T09:20:09.907Z",
-      "action": "marked NUBIA-AIR-8-256GB-ST-BLK at JAFFNA-HOSPITAL ROAD as Sold"
     }
   ]
 }
