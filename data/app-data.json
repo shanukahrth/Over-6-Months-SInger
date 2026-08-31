@@ -30241,11 +30241,11 @@
       "lastUpdated": "2026-08-20T06:21:19.743Z"
     },
     "SLE32E920||JA-ELA": {
-      "remark": "70%",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-20",
-      "commentTime": "11:52:29",
-      "lastUpdated": "2026-08-20T06:22:29.683Z"
+      "remark": "90% Damaged location exchange",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-31",
+      "commentTime": "19:58:00",
+      "lastUpdated": "2026-08-31T14:28:00.516Z"
     },
     "FAN-P-1605H||JA-ELA": {
       "remark": "60%",
@@ -69248,6 +69248,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-31",
+      "time": "19:58:00",
+      "iso": "2026-08-31T14:28:00.516Z",
+      "action": "updated remark for SLE32E920 at JA-ELA: “90% Damaged location exchange”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
       "time": "19:57:24",
       "iso": "2026-08-31T14:27:24.204Z",
       "action": "updated remark for KD-55X80J at JA-ELA: “exchange 90% Damaged location”"
@@ -69587,13 +69594,6 @@
       "time": "15:52:37",
       "iso": "2026-08-31T10:22:37.474Z",
       "action": "updated remark for ULED32D5000 at HATTON: “95%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:52:25",
-      "iso": "2026-08-31T10:22:25.636Z",
-      "action": "updated remark for SIN-VAC8515 at HATTON: “90% -Damaged”"
     }
   ]
 }
