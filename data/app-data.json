@@ -62159,6 +62159,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:11:00",
       "lastUpdated": "2026-08-31T03:41:00.385Z"
+    },
+    "PN-SC-UA30GS-K||CHILAW": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:11:16",
+      "lastUpdated": "2026-08-31T03:41:16.168Z"
     }
   },
   "showroomVisits": {
@@ -63671,6 +63678,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:11:16",
+      "iso": "2026-08-31T03:41:16.169Z",
+      "action": "updated remark for PN-SC-UA30GS-K at CHILAW: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:11:00",
       "iso": "2026-08-31T03:41:00.386Z",
       "action": "updated remark for PN-CS-U10XKH at CHILAW: “Display - 50%”"
@@ -64010,13 +64024,6 @@
       "time": "08:36:46",
       "iso": "2026-08-31T03:06:46.302Z",
       "action": "updated remark for WF-CF-75X36-S at WENNAPPUWA: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:36:08",
-      "iso": "2026-08-31T03:06:08.260Z",
-      "action": "updated remark for TF-SI-ESS-242 at WENNAPPUWA: “Damaged - 10%”"
     }
   ]
 }
