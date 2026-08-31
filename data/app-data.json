@@ -66744,6 +66744,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:22:04",
       "lastUpdated": "2026-08-31T09:52:04.720Z"
+    },
+    "SIN-RFC-2012||HATTON": {
+      "remark": "80%- defective",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:22:56",
+      "lastUpdated": "2026-08-31T09:52:56.657Z"
     }
   },
   "showroomVisits": {
@@ -68584,6 +68591,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:22:56",
+      "iso": "2026-08-31T09:52:56.658Z",
+      "action": "updated remark for SIN-RFC-2012 at HATTON: “80%- defective”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:22:04",
@@ -68925,13 +68939,6 @@
       "time": "15:11:22",
       "iso": "2026-08-31T09:41:22.274Z",
       "action": "updated remark for TF-IDFP24-170 at HATTON: “Flat 40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:10:40",
-      "iso": "2026-08-31T09:40:40.182Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at JAFFNA-HOSPITAL ROAD: “40% Off from mark price”"
     }
   ]
 }
