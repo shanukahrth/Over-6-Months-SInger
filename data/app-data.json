@@ -67045,6 +67045,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:35:22",
       "lastUpdated": "2026-08-31T10:05:22.981Z"
+    },
+    "HON-X8C-8-512-BLK||JAFFNA PANNAI BRANCH": {
+      "remark": "3 SOLD TO BE REPORTED",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:35:59",
+      "lastUpdated": "2026-08-31T10:05:59.879Z"
     }
   },
   "showroomVisits": {
@@ -68891,6 +68898,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:35:59",
+      "iso": "2026-08-31T10:05:59.880Z",
+      "action": "updated remark for HON-X8C-8-512-BLK at JAFFNA PANNAI BRANCH: “3 SOLD TO BE REPORTED”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "15:36:18",
@@ -69232,13 +69246,6 @@
       "time": "15:22:29",
       "iso": "2026-08-31T09:52:29.847Z",
       "action": "updated remark for SIN-RFC-1819 at HATTON: “35%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:21:33",
-      "iso": "2026-08-31T09:51:33.134Z",
-      "action": "marked PN-TH-32P401N at JAFFNA-HOSPITAL ROAD as Sold"
     }
   ]
 }
