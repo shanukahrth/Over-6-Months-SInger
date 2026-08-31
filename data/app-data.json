@@ -65736,6 +65736,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:12:06",
       "lastUpdated": "2026-08-31T08:42:06.086Z"
+    },
+    "TCL85C655||JAFFNA-HOSPITAL ROAD": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:14:11",
+      "lastUpdated": "2026-08-31T08:44:11.479Z"
     }
   },
   "showroomVisits": {
@@ -67536,9 +67543,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "TCL85C655||JAFFNA-HOSPITAL ROAD": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:14:11",
+      "iso": "2026-08-31T08:44:11.709Z",
+      "action": "marked TCL85C655 at JAFFNA-HOSPITAL ROAD as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:14:11",
+      "iso": "2026-08-31T08:44:11.480Z",
+      "action": "updated remark for TCL85C655 at JAFFNA-HOSPITAL ROAD: “SOLD”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -67874,20 +67901,6 @@
       "time": "13:39:32",
       "iso": "2026-08-31T08:09:32.314Z",
       "action": "updated remark for SLE43G890 at CHANKANI: “40%”"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-31",
-      "time": "13:39:16",
-      "iso": "2026-08-31T08:09:16.455Z",
-      "action": "updated MATUGAMA - B showroom (visitDate: 2026-08-13)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-31",
-      "time": "13:39:14",
-      "iso": "2026-08-31T08:09:14.090Z",
-      "action": "updated MATUGAMA - B showroom (visited: Yes)"
     }
   ]
 }
