@@ -63722,11 +63722,11 @@
       "lastUpdated": "2026-08-31T05:43:20.125Z"
     },
     "SLE32D2010TC||NUWARAELIYA A": {
-      "remark": "70%",
+      "remark": "90% - Panel Damage",
       "commentedBy": "Kaveesha",
       "commentDate": "2026-08-31",
-      "commentTime": "11:13:31",
-      "lastUpdated": "2026-08-31T05:43:31.285Z"
+      "commentTime": "11:14:01",
+      "lastUpdated": "2026-08-31T05:44:01.908Z"
     },
     "WP-WFC105604RT-G||MORATUWA": {
       "remark": "20% OFF",
@@ -65335,6 +65335,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:14:01",
+      "iso": "2026-08-31T05:44:01.909Z",
+      "action": "updated remark for SLE32D2010TC at NUWARAELIYA A: “90% - Panel Damage”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "11:13:11",
@@ -65676,13 +65683,6 @@
       "time": "10:51:21",
       "iso": "2026-08-31T05:21:21.336Z",
       "action": "updated remark for SLE24E810 at CHAVAKACHCHERI: “90%- damaged”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:51:58",
-      "iso": "2026-08-31T05:21:58.422Z",
-      "action": "updated remark for SMG-A06-4-64-BLU at NUWARAELIYA A: “55%”"
     }
   ]
 }
