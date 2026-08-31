@@ -27812,11 +27812,11 @@
       "lastUpdated": "2026-08-20T04:50:24.475Z"
     },
     "KD-55X80J||JA-ELA": {
-      "remark": "exchange",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-20",
-      "commentTime": "10:20:41",
-      "lastUpdated": "2026-08-20T04:50:41.691Z"
+      "remark": "exchange 90% Damaged location",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-31",
+      "commentTime": "19:57:24",
+      "lastUpdated": "2026-08-31T14:27:24.203Z"
     },
     "KD-55X75K||JA-ELA": {
       "remark": "45%",
@@ -69248,6 +69248,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-31",
+      "time": "19:57:24",
+      "iso": "2026-08-31T14:27:24.204Z",
+      "action": "updated remark for KD-55X80J at JA-ELA: “exchange 90% Damaged location”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
       "time": "19:56:14",
       "iso": "2026-08-31T14:26:14.059Z",
       "action": "updated remark for SLE55D5010TC at JA-ELA: “exchange 90% Special disc. Damaged”"
@@ -69587,13 +69594,6 @@
       "time": "15:52:25",
       "iso": "2026-08-31T10:22:25.636Z",
       "action": "updated remark for SIN-VAC8515 at HATTON: “90% -Damaged”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:52:08",
-      "iso": "2026-08-31T10:22:08.176Z",
-      "action": "updated remark for WC-XR1605 at HATTON: “95%”"
     }
   ]
 }
