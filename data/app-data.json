@@ -61837,6 +61837,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:36:08",
       "lastUpdated": "2026-08-31T03:06:08.258Z"
+    },
+    "WF-CF-75X36-S||WENNAPPUWA": {
+      "remark": "Damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:36:46",
+      "lastUpdated": "2026-08-31T03:06:46.301Z"
     }
   },
   "showroomVisits": {
@@ -63349,6 +63356,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:36:46",
+      "iso": "2026-08-31T03:06:46.302Z",
+      "action": "updated remark for WF-CF-75X36-S at WENNAPPUWA: “Damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:36:08",
       "iso": "2026-08-31T03:06:08.260Z",
       "action": "updated remark for TF-SI-ESS-242 at WENNAPPUWA: “Damaged - 10%”"
@@ -63688,13 +63702,6 @@
       "time": "16:15:16",
       "iso": "2026-08-28T10:45:16.843Z",
       "action": "updated remark for WP-12KINV at CHILAW: “Can sell”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:15:23",
-      "iso": "2026-08-28T10:45:23.938Z",
-      "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged - 40%”"
     }
   ]
 }
