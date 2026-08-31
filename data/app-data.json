@@ -66247,6 +66247,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:03:02",
       "lastUpdated": "2026-08-31T09:33:02.920Z"
+    },
+    "LF-ORGN-DTO-WHT||HATTON": {
+      "remark": "70% -Discolor",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:04:03",
+      "lastUpdated": "2026-08-31T09:34:03.809Z"
     }
   },
   "showroomVisits": {
@@ -68075,6 +68082,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:04:03",
+      "iso": "2026-08-31T09:34:03.810Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at HATTON: “70% -Discolor”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:03:58",
+      "iso": "2026-08-31T09:33:58.858Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at HATTON: “70% -Dis colour”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "15:03:02",
@@ -68409,20 +68430,6 @@
       "time": "14:23:51",
       "iso": "2026-08-31T08:53:51.778Z",
       "action": "updated remark for B-RDNI315XIB300P at JAFFNA-HOSPITAL ROAD: “50% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:23:49",
-      "iso": "2026-08-31T08:53:49.742Z",
-      "action": "updated remark for B-RDNI315XIB300P at JAFFNA-HOSPITAL ROAD: “50% Off from mark price”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:23:51",
-      "iso": "2026-08-31T08:53:51.595Z",
-      "action": "updated remark for LF-BUDGET-DT-CLM-S at HATTON: “50%”"
     }
   ]
 }
