@@ -66961,6 +66961,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:32:57",
       "lastUpdated": "2026-08-31T10:02:57.695Z"
+    },
+    "SLE32D1800||HATTON": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:33:15",
+      "lastUpdated": "2026-08-31T10:03:15.064Z"
     }
   },
   "showroomVisits": {
@@ -68809,6 +68816,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:33:15",
+      "iso": "2026-08-31T10:03:15.065Z",
+      "action": "updated remark for SLE32D1800 at HATTON: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:32:57",
       "iso": "2026-08-31T10:02:57.700Z",
       "action": "updated remark for SLE24B2520 at HATTON: “95%”"
@@ -69148,13 +69162,6 @@
       "time": "15:18:38",
       "iso": "2026-08-31T09:48:38.339Z",
       "action": "updated remark for RCW-1528 at HATTON: “80%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:18:30",
-      "iso": "2026-08-31T09:48:30.179Z",
-      "action": "updated remark for RCW-1018 at HATTON: “80%”"
     }
   ]
 }
