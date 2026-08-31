@@ -66877,6 +66877,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:28:30",
       "lastUpdated": "2026-08-31T09:58:30.018Z"
+    },
+    "DH-8-CAMERA-PACK||HATTON": {
+      "remark": "reported",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:28:59",
+      "lastUpdated": "2026-08-31T09:58:59.377Z"
     }
   },
   "showroomVisits": {
@@ -68719,6 +68726,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:28:59",
+      "iso": "2026-08-31T09:58:59.381Z",
+      "action": "updated remark for DH-8-CAMERA-PACK at HATTON: “reported”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:28:30",
       "iso": "2026-08-31T09:58:30.024Z",
       "action": "updated remark for SL-ECO72 at HATTON: “90%”"
@@ -69058,13 +69072,6 @@
       "time": "15:15:25",
       "iso": "2026-08-31T09:45:25.565Z",
       "action": "updated remark for R-FGAQ010 at HATTON: “80%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:15:14",
-      "iso": "2026-08-31T09:45:14.293Z",
-      "action": "updated remark for TF-CM-APR737 at HATTON: “40%”"
     }
   ]
 }
