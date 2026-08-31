@@ -65596,6 +65596,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "13:57:38",
       "lastUpdated": "2026-08-31T08:27:38.004Z"
+    },
+    "SLE32E930||CHANKANI": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "13:58:21",
+      "lastUpdated": "2026-08-31T08:28:21.284Z"
     }
   },
   "showroomVisits": {
@@ -67396,6 +67403,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "13:58:21",
+      "iso": "2026-08-31T08:28:21.287Z",
+      "action": "updated remark for SLE32E930 at CHANKANI: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "13:57:38",
       "iso": "2026-08-31T08:27:38.005Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at CHANKANI: “25%”"
@@ -67735,13 +67749,6 @@
       "time": "13:20:03",
       "iso": "2026-08-31T07:50:03.548Z",
       "action": "updated RAMBEWA showroom (team: Naveen, Adeesha, Thusitha)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "13:20:00",
-      "iso": "2026-08-31T07:50:00.445Z",
-      "action": "updated RAMBEWA showroom (visited: Yes)"
     }
   ]
 }
