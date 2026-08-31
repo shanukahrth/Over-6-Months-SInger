@@ -63069,6 +63069,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:33:27",
       "lastUpdated": "2026-08-31T05:03:27.302Z"
+    },
+    "LF-R90-2S-CLM-S||CHAVAKACHCHERI": {
+      "remark": "80% DOA",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:33:13",
+      "lastUpdated": "2026-08-31T05:03:13.270Z"
     }
   },
   "showroomVisits": {
@@ -64627,6 +64634,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:33:13",
+      "iso": "2026-08-31T05:03:13.271Z",
+      "action": "updated remark for LF-R90-2S-CLM-S at CHAVAKACHCHERI: “80% DOA”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "10:33:27",
@@ -64968,13 +64982,6 @@
       "time": "10:13:38",
       "iso": "2026-08-31T04:43:38.719Z",
       "action": "updated remark for PN-CS-U10XKH at CHAVAKACHCHERI: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:13:20",
-      "iso": "2026-08-31T04:43:20.026Z",
-      "action": "marked MSI-14G-I7-512-F1M-GRY at CHAVAKACHCHERI as Sold"
     }
   ]
 }
