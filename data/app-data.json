@@ -65666,6 +65666,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:05:30",
       "lastUpdated": "2026-08-31T08:35:30.440Z"
+    },
+    "LF-LEO-BRL-BCH||CHANKANI": {
+      "remark": "Damaged one part maximum 80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:06:42",
+      "lastUpdated": "2026-08-31T08:36:42.032Z"
     }
   },
   "showroomVisits": {
@@ -67472,6 +67479,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "14:06:42",
+      "iso": "2026-08-31T08:36:42.035Z",
+      "action": "updated remark for LF-LEO-BRL-BCH at CHANKANI: “Damaged one part maximum 80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "14:05:30",
       "iso": "2026-08-31T08:35:30.441Z",
       "action": "updated remark for HU-WATCHFIT4-BLK at CHANKANI: “30%”"
@@ -67811,13 +67825,6 @@
       "time": "13:34:39",
       "iso": "2026-08-31T08:04:39.726Z",
       "action": "updated DARGA TOWN showroom (visited: Yes)"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:31:47",
-      "iso": "2026-08-31T08:01:47.632Z",
-      "action": "updated remark for GEO-242D-SV at MAHIYANGANA (cleared)"
     }
   ]
 }
