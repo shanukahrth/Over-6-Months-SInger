@@ -62096,6 +62096,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:06:06",
       "lastUpdated": "2026-08-31T03:36:06.715Z"
+    },
+    "HU-E303S-1||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:07:48",
+      "lastUpdated": "2026-08-31T03:37:48.282Z"
     }
   },
   "showroomVisits": {
@@ -63608,6 +63615,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:07:48",
+      "iso": "2026-08-31T03:37:48.283Z",
+      "action": "updated remark for HU-E303S-1 at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:06:06",
       "iso": "2026-08-31T03:36:06.717Z",
       "action": "updated remark for PU-W60-PB-S at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -63947,13 +63961,6 @@
       "time": "17:24:15",
       "iso": "2026-08-28T16:24:15.542Z",
       "action": "updated remark for HON-X9CSMART-12-256-CYAN at KALAWANCHIKUDY: “BNF-H26246 - 40% Discount”"
-    },
-    {
-      "user": "Sajeevkanth",
-      "date": "2026-08-28",
-      "time": "17:23:48",
-      "iso": "2026-08-28T16:23:48.609Z",
-      "action": "updated sold comment for HON-X9CSMART-12-256-CYAN at KALAWANCHIKUDY: “Sold”"
     }
   ]
 }
