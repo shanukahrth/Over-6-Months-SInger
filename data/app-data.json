@@ -61984,6 +61984,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:56:57",
       "lastUpdated": "2026-08-31T03:26:57.517Z"
+    },
+    "SAS-18V-INV||KURUNEGALA C": {
+      "remark": "Okay for given discount",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:57:20",
+      "lastUpdated": "2026-08-31T03:27:20.437Z"
     }
   },
   "showroomVisits": {
@@ -63496,6 +63503,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:57:20",
+      "iso": "2026-08-31T03:27:20.439Z",
+      "action": "updated remark for SAS-18V-INV at KURUNEGALA C: “Okay for given discount”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:56:57",
       "iso": "2026-08-31T03:26:57.518Z",
       "action": "updated remark for RIYLTA-MF12V4 at KURUNEGALA C: “Damaged - 80%”"
@@ -63835,13 +63849,6 @@
       "time": "20:02:41",
       "iso": "2026-08-28T14:32:41.644Z",
       "action": "updated BATTARAMULLA showroom (visitDate: 2026-08-28)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:02:34",
-      "iso": "2026-08-28T14:32:34.487Z",
-      "action": "updated ANGODA showroom (visitDate: 2026-08-28)"
     }
   ]
 }
