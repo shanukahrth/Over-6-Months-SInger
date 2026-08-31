@@ -68884,6 +68884,22 @@
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-31"
+    },
+    "KEGALLE||KEGALLE": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
+    },
+    "KEGALLE - C||KEGALLE": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -69213,6 +69229,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "18:04:11",
+      "iso": "2026-08-31T12:34:11.363Z",
+      "action": "updated KEGALLE - C showroom (visited: Yes)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "18:04:09",
+      "iso": "2026-08-31T12:34:09.457Z",
+      "action": "updated KEGALLE showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-31",
@@ -69548,20 +69578,6 @@
       "time": "15:44:56",
       "iso": "2026-08-31T10:14:56.146Z",
       "action": "updated remark for WF-LITE-01-S at JAFFNA PANNAI BRANCH: “Not seen, 50% off from MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:44:14",
-      "iso": "2026-08-31T10:14:14.908Z",
-      "action": "updated remark for LF-SLVY-W4A-CLM-S at JAFFNA PANNAI BRANCH: “52%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:43:58",
-      "iso": "2026-08-31T10:13:58.109Z",
-      "action": "updated remark for SL-ECO192-TG at JAFFNA PANNAI BRANCH: “25% Off from mark price”"
     }
   ]
 }
