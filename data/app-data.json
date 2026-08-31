@@ -65862,6 +65862,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:18:01",
       "lastUpdated": "2026-08-31T08:48:01.103Z"
+    },
+    "NETAC-128GB-NVME-SSD||HATTON": {
+      "remark": "To be dropped",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:18:55",
+      "lastUpdated": "2026-08-31T08:48:55.690Z"
     }
   },
   "showroomVisits": {
@@ -67672,6 +67679,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:18:55",
+      "iso": "2026-08-31T08:48:55.690Z",
+      "action": "updated remark for NETAC-128GB-NVME-SSD at HATTON: “To be dropped”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "14:18:01",
@@ -68013,13 +68027,6 @@
       "time": "13:54:47",
       "iso": "2026-08-31T08:24:47.798Z",
       "action": "updated remark for WFI-LYON-TBL-S at CHANKANI: “40% OFF”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:54:42",
-      "iso": "2026-08-31T08:24:42.925Z",
-      "action": "updated remark for WFI-LYON-TBL-S at CHANKANI: “4O% OFF”"
     }
   ]
 }
