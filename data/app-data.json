@@ -68900,6 +68900,14 @@
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-31"
+    },
+    "NELUNDENIYA-LITE||KEGALLE": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -69229,6 +69237,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "18:04:17",
+      "iso": "2026-08-31T12:34:17.424Z",
+      "action": "updated NELUNDENIYA-LITE showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-31",
@@ -69571,13 +69586,6 @@
       "time": "15:45:15",
       "iso": "2026-08-31T10:15:15.908Z",
       "action": "updated remark for SLE43G890 at JAFFNA PANNAI BRANCH: “55% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:44:56",
-      "iso": "2026-08-31T10:14:56.146Z",
-      "action": "updated remark for WF-LITE-01-S at JAFFNA PANNAI BRANCH: “Not seen, 50% off from MRP”"
     }
   ]
 }
