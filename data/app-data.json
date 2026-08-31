@@ -67320,11 +67320,18 @@
       "lastUpdated": "2026-08-31T10:35:22.287Z"
     },
     "H-RMRG024HFEOE||JAFFNA PANNAI BRANCH": {
+      "remark": "NEW",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "16:06:13",
+      "lastUpdated": "2026-08-31T10:36:13.111Z"
+    },
+    "H-RMRG024MFEOE||JAFFNA PANNAI BRANCH": {
       "remark": "NEW-10%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "16:05:40",
-      "lastUpdated": "2026-08-31T10:35:40.840Z"
+      "commentTime": "16:06:10",
+      "lastUpdated": "2026-08-31T10:36:10.573Z"
     }
   },
   "showroomVisits": {
@@ -69179,6 +69186,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "16:06:13",
+      "iso": "2026-08-31T10:36:13.112Z",
+      "action": "updated remark for H-RMRG024HFEOE at JAFFNA PANNAI BRANCH: “NEW”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "16:06:10",
+      "iso": "2026-08-31T10:36:10.574Z",
+      "action": "updated remark for H-RMRG024MFEOE at JAFFNA PANNAI BRANCH: “NEW-10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "16:05:40",
       "iso": "2026-08-31T10:35:40.843Z",
       "action": "updated remark for H-RMRG024HFEOE at JAFFNA PANNAI BRANCH: “NEW-10%”"
@@ -69511,20 +69532,6 @@
       "time": "15:35:59",
       "iso": "2026-08-31T10:05:59.880Z",
       "action": "updated remark for HON-X8C-8-512-BLK at JAFFNA PANNAI BRANCH: “3 SOLD TO BE REPORTED”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:36:18",
-      "iso": "2026-08-31T10:06:18.555Z",
-      "action": "updated remark for SLE40D600A at HATTON: “return”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:36:14",
-      "iso": "2026-08-31T10:06:14.803Z",
-      "action": "updated remark for SLE40D600A at HATTON: “return”"
     }
   ]
 }
