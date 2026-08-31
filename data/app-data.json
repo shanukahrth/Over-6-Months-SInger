@@ -66646,6 +66646,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:18:38",
       "lastUpdated": "2026-08-31T09:48:38.338Z"
+    },
+    "PN-CS-XU18XKYW-8||JAFFNA-HOSPITAL ROAD": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:18:00",
+      "lastUpdated": "2026-08-31T09:48:00.026Z"
     }
   },
   "showroomVisits": {
@@ -68470,9 +68477,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "PN-CS-XU18XKYW-8||JAFFNA-HOSPITAL ROAD": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:18:00",
+      "iso": "2026-08-31T09:48:00.029Z",
+      "action": "updated remark for PN-CS-XU18XKYW-8 at JAFFNA-HOSPITAL ROAD: “SOLD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:17:56",
+      "iso": "2026-08-31T09:47:56.035Z",
+      "action": "marked PN-CS-XU18XKYW-8 at JAFFNA-HOSPITAL ROAD as Sold"
+    },
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
@@ -68808,20 +68835,6 @@
       "time": "15:08:40",
       "iso": "2026-08-31T09:38:40.233Z",
       "action": "updated remark for SWH-338EP at HATTON: “90%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:07:59",
-      "iso": "2026-08-31T09:37:59.599Z",
-      "action": "updated remark for GCB8402F at JAFFNA-HOSPITAL ROAD: “70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:07:49",
-      "iso": "2026-08-31T09:37:49.802Z",
-      "action": "updated remark for SIN-RFC-2012 at MEGA -KATUBEDDA: “35% OFF”"
     }
   ]
 }
