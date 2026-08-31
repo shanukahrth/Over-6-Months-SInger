@@ -63497,19 +63497,19 @@
       "commentTime": "10:55:34",
       "lastUpdated": "2026-08-31T05:25:34.094Z"
     },
-    "RIYLTA-MF12V51A||CHAVAKACHCHERI": {
-      "remark": "85%",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-31",
-      "commentTime": "10:56:23",
-      "lastUpdated": "2026-08-31T05:26:23.127Z"
-    },
     "RIYLTA-MF12V5||CHAVAKACHCHERI": {
       "remark": "85%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
       "commentTime": "10:56:26",
       "lastUpdated": "2026-08-31T05:26:26.913Z"
+    },
+    "RIYLTA-MF12V53B||CHAVAKACHCHERI": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:56:45",
+      "lastUpdated": "2026-08-31T05:26:45.554Z"
     }
   },
   "showroomVisits": {
@@ -65094,6 +65094,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "10:56:45",
+      "iso": "2026-08-31T05:26:45.555Z",
+      "action": "updated remark for RIYLTA-MF12V53B at CHAVAKACHCHERI: “85%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:56:43",
+      "iso": "2026-08-31T05:26:43.265Z",
+      "action": "updated remark for RIYLTA-MF12V51A at CHAVAKACHCHERI (cleared)"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "10:56:26",
       "iso": "2026-08-31T05:26:26.914Z",
       "action": "updated remark for RIYLTA-MF12V5 at CHAVAKACHCHERI: “85%”"
@@ -65426,20 +65440,6 @@
       "time": "10:41:41",
       "iso": "2026-08-31T05:11:41.365Z",
       "action": "updated remark for PCP30 at NUWARAELIYA A: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:40:42",
-      "iso": "2026-08-31T05:10:42.974Z",
-      "action": "updated remark for CAN-L-LBP6030 at CHAVAKACHCHERI: “80% off (shop use)”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:41:04",
-      "iso": "2026-08-31T05:11:04.607Z",
-      "action": "updated remark for IWH-2500WL at NUWARAELIYA A: “60%”"
     }
   ]
 }
