@@ -66828,6 +66828,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:25:56",
       "lastUpdated": "2026-08-31T09:55:56.034Z"
+    },
+    "CAN-C-57-C||HATTON": {
+      "remark": "95% defective",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:26:37",
+      "lastUpdated": "2026-08-31T09:56:37.625Z"
     }
   },
   "showroomVisits": {
@@ -68670,6 +68677,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:26:37",
+      "iso": "2026-08-31T09:56:37.629Z",
+      "action": "updated remark for CAN-C-57-C at HATTON: “95% defective”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:25:56",
       "iso": "2026-08-31T09:55:56.038Z",
       "action": "updated remark for ENG-UE20012 at HATTON: “90%- defective”"
@@ -69009,13 +69023,6 @@
       "time": "15:13:59",
       "iso": "2026-08-31T09:43:59.418Z",
       "action": "updated remark for KA-LW-185A at HATTON: “60%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:13:34",
-      "iso": "2026-08-31T09:43:34.273Z",
-      "action": "updated remark for TF-SP16-063 at HATTON: “Flat 40%”"
     }
   ]
 }
