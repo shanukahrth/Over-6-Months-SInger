@@ -66835,6 +66835,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:26:37",
       "lastUpdated": "2026-08-31T09:56:37.625Z"
+    },
+    "CAN-I-E560||HATTON": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:27:14",
+      "lastUpdated": "2026-08-31T09:57:14.294Z"
     }
   },
   "showroomVisits": {
@@ -68677,6 +68684,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:27:14",
+      "iso": "2026-08-31T09:57:14.297Z",
+      "action": "updated remark for CAN-I-E560 at HATTON: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:26:37",
       "iso": "2026-08-31T09:56:37.629Z",
       "action": "updated remark for CAN-C-57-C at HATTON: “95% defective”"
@@ -69016,13 +69030,6 @@
       "time": "15:13:36",
       "iso": "2026-08-31T09:43:36.832Z",
       "action": "updated remark for Y-LP1442 at MEGA -KATUBEDDA: “No price”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:13:59",
-      "iso": "2026-08-31T09:43:59.418Z",
-      "action": "updated remark for KA-LW-185A at HATTON: “60%”"
     }
   ]
 }
