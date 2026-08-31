@@ -66688,6 +66688,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:20:28",
       "lastUpdated": "2026-08-31T09:50:28.623Z"
+    },
+    "SIN-MH51SW||JAFFNA-HOSPITAL ROAD": {
+      "remark": "80% OFF MRP",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:20:14",
+      "lastUpdated": "2026-08-31T09:50:14.145Z"
     }
   },
   "showroomVisits": {
@@ -68522,6 +68529,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:20:14",
+      "iso": "2026-08-31T09:50:14.146Z",
+      "action": "updated remark for SIN-MH51SW at JAFFNA-HOSPITAL ROAD: “80% OFF MRP”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "15:20:28",
@@ -68863,13 +68877,6 @@
       "time": "15:10:11",
       "iso": "2026-08-31T09:40:11.810Z",
       "action": "updated remark for NCPO-FP250 at HATTON: “Flat 40%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:10:09",
-      "iso": "2026-08-31T09:40:09.514Z",
-      "action": "updated remark for NCPDG-FP240 at HATTON: “Flat 40%”"
     }
   ]
 }
