@@ -62180,6 +62180,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:12:21",
       "lastUpdated": "2026-08-31T03:42:21.095Z"
+    },
+    "SL-S203||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:12:31",
+      "lastUpdated": "2026-08-31T03:42:31.870Z"
     }
   },
   "showroomVisits": {
@@ -63692,6 +63699,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:12:31",
+      "iso": "2026-08-31T03:42:31.871Z",
+      "action": "updated remark for SL-S203 at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:12:21",
       "iso": "2026-08-31T03:42:21.097Z",
       "action": "updated remark for SKY65X8700G at CHILAW: “Sold out”"
@@ -64031,13 +64045,6 @@
       "time": "08:42:13",
       "iso": "2026-08-31T03:12:13.514Z",
       "action": "updated remark for KD-55X80J at WENNAPPUWA: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:40:32",
-      "iso": "2026-08-31T03:10:32.068Z",
-      "action": "updated remark for WFL-SPM-72X60X7-S at WENNAPPUWA: “Can sell”"
     }
   ]
 }
