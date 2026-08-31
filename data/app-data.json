@@ -65911,6 +65911,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:21:32",
       "lastUpdated": "2026-08-31T08:51:32.890Z"
+    },
+    "FAN-WF1608R||HATTON": {
+      "remark": "1- Reported 1- 80%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:21:58",
+      "lastUpdated": "2026-08-31T08:51:58.040Z"
     }
   },
   "showroomVisits": {
@@ -67723,6 +67730,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "14:21:58",
+      "iso": "2026-08-31T08:51:58.042Z",
+      "action": "updated remark for FAN-WF1608R at HATTON: “1- Reported 1- 80%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "14:21:32",
       "iso": "2026-08-31T08:51:32.891Z",
       "action": "updated remark for OXY-FACEMASK at HATTON: “To be dropped”"
@@ -68062,13 +68076,6 @@
       "time": "14:02:22",
       "iso": "2026-08-31T08:32:22.432Z",
       "action": "updated remark for SACL-LLQ8A1-20L at CHANKANI: “80% no product”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:01:50",
-      "iso": "2026-08-31T08:31:50.957Z",
-      "action": "updated remark for SACL-LLQ8A1-20L at CHANKANI: “80% No product”"
     }
   ]
 }
