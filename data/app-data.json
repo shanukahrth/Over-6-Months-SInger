@@ -63034,6 +63034,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:28:13",
       "lastUpdated": "2026-08-31T04:58:13.851Z"
+    },
+    "SIS277CU||NUWARAELIYA A": {
+      "remark": "Unsaleable",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:30:28",
+      "lastUpdated": "2026-08-31T05:00:28.295Z"
     }
   },
   "showroomVisits": {
@@ -64592,6 +64599,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "10:30:28",
+      "iso": "2026-08-31T05:00:28.297Z",
+      "action": "updated remark for SIS277CU at NUWARAELIYA A: “Unsaleable”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "10:28:13",
@@ -64933,13 +64947,6 @@
       "time": "10:11:09",
       "iso": "2026-08-31T04:41:09.348Z",
       "action": "updated remark for MB-SAFARI4S-RED at CHAVAKACHCHERI: “No Additional Discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:10:13",
-      "iso": "2026-08-31T04:40:13.753Z",
-      "action": "updated remark for WF-VICTORIA-BR-S at CHAVAKACHCHERI: “60%”"
     }
   ]
 }
