@@ -62010,8 +62010,8 @@
       "remark": "Damaged - 40%",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-31",
-      "commentTime": "08:58:32",
-      "lastUpdated": "2026-08-31T03:28:32.424Z"
+      "commentTime": "09:03:31",
+      "lastUpdated": "2026-08-31T03:33:31.461Z"
     },
     "SL-18VNF||KURUNEGALA C": {
       "remark": "Damage - Additional 5%",
@@ -63601,6 +63601,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:03:31",
+      "iso": "2026-08-31T03:33:31.462Z",
+      "action": "updated remark for SIN-RFC-2012 at KURUNEGALA C: “Damaged - 40%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:03:16",
       "iso": "2026-08-31T03:33:16.965Z",
       "action": "updated remark for SASI12INFI at KURUNEGALA C: “Okay for given discount”"
@@ -63940,13 +63947,6 @@
       "time": "20:11:52",
       "iso": "2026-08-28T14:41:52.264Z",
       "action": "updated WARD PLACE showroom (visitDate: 2026-08-25)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:11:35",
-      "iso": "2026-08-28T14:41:35.019Z",
-      "action": "updated WARD PLACE showroom (visited: Yes)"
     }
   ]
 }
