@@ -68872,7 +68872,7 @@
     "BULATHKOHUPITIYA||KEGALLE": {
       "visited": "Yes",
       "visitDate": "",
-      "team": "",
+      "team": "Team Sabaragamuwa",
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-31"
@@ -68880,7 +68880,7 @@
     "DEHIOWITA||KEGALLE": {
       "visited": "Yes",
       "visitDate": "",
-      "team": "",
+      "team": "Team Sabaragamuwa",
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-31"
@@ -69248,6 +69248,20 @@
     {
       "user": "Shanuka",
       "date": "2026-08-31",
+      "time": "18:04:46",
+      "iso": "2026-08-31T12:34:46.626Z",
+      "action": "updated DEHIOWITA showroom (team: Team Sabaragamuwa)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "18:04:44",
+      "iso": "2026-08-31T12:34:44.047Z",
+      "action": "updated BULATHKOHUPITIYA showroom (team: Team Sabaragamuwa)"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
       "time": "18:04:28",
       "iso": "2026-08-31T12:34:28.212Z",
       "action": "updated YATIYANTHOTA showroom (visited: Yes)"
@@ -69580,20 +69594,6 @@
       "time": "15:50:02",
       "iso": "2026-08-31T10:20:02.764Z",
       "action": "updated remark for SWM-FA70R at HATTON: “70%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:49:13",
-      "iso": "2026-08-31T10:19:13.700Z",
-      "action": "updated remark for SWT-6SA at HATTON: “95% -FIO”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:45:48",
-      "iso": "2026-08-31T10:15:48.193Z",
-      "action": "updated remark for GEO-242D-TG at JAFFNA PANNAI BRANCH: “50% Off from mark price”"
     }
   ]
 }
