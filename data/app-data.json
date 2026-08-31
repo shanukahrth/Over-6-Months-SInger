@@ -65743,6 +65743,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:14:11",
       "lastUpdated": "2026-08-31T08:44:11.479Z"
+    },
+    "SAS-18V-INV||HATTON": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:15:10",
+      "lastUpdated": "2026-08-31T08:45:10.193Z"
     }
   },
   "showroomVisits": {
@@ -67553,6 +67560,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:15:10",
+      "iso": "2026-08-31T08:45:10.194Z",
+      "action": "updated remark for SAS-18V-INV at HATTON: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "14:14:11",
@@ -67894,13 +67908,6 @@
       "time": "13:42:28",
       "iso": "2026-08-31T08:12:28.285Z",
       "action": "updated remark for KLV-40R352E at CHANKANI: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:39:32",
-      "iso": "2026-08-31T08:09:32.314Z",
-      "action": "updated remark for SLE43G890 at CHANKANI: “40%”"
     }
   ]
 }
