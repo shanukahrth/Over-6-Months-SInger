@@ -62075,6 +62075,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:01:58",
       "lastUpdated": "2026-08-31T03:31:58.125Z"
+    },
+    "WFL-SPM-84X72X7-S||KURUNEGALA C": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:02:07",
+      "lastUpdated": "2026-08-31T03:32:07.628Z"
     }
   },
   "showroomVisits": {
@@ -63587,6 +63594,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:02:07",
+      "iso": "2026-08-31T03:32:07.629Z",
+      "action": "updated remark for WFL-SPM-84X72X7-S at KURUNEGALA C: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:01:58",
       "iso": "2026-08-31T03:31:58.126Z",
       "action": "updated remark for WFL-SPM-75X72X7-S at KURUNEGALA C: “Damaged - 70%”"
@@ -63926,13 +63940,6 @@
       "time": "20:09:01",
       "iso": "2026-08-28T14:39:01.355Z",
       "action": "updated ATHURUGIRIYA showroom (visitDate: 2026-08-21)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:08:28",
-      "iso": "2026-08-28T14:38:28.464Z",
-      "action": "updated MEGA -MALABE showroom (team: Metro/Mega Team)"
     }
   ]
 }
