@@ -66905,6 +66905,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:30:13",
       "lastUpdated": "2026-08-31T10:00:13.625Z"
+    },
+    "SIN-PSVX938N||JAFFNA-HOSPITAL ROAD": {
+      "remark": "Special price 18.500",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:29:51",
+      "lastUpdated": "2026-08-31T09:59:51.203Z"
     }
   },
   "showroomVisits": {
@@ -68745,6 +68752,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:29:51",
+      "iso": "2026-08-31T09:59:51.204Z",
+      "action": "updated remark for SIN-PSVX938N at JAFFNA-HOSPITAL ROAD: “Special price 18.500”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "15:30:13",
@@ -69086,13 +69100,6 @@
       "time": "15:16:16",
       "iso": "2026-08-31T09:46:16.501Z",
       "action": "updated remark for KA-ELITE at HATTON: “1- defective 1-90%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:15:19",
-      "iso": "2026-08-31T09:45:19.037Z",
-      "action": "updated remark for SIN-W66PA28 at JAFFNA-HOSPITAL ROAD: “80% Off from mark price”"
     }
   ]
 }
