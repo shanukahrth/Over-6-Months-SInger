@@ -62236,6 +62236,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:14:39",
       "lastUpdated": "2026-08-31T03:44:39.731Z"
+    },
+    "TF-SI-ESS-242||CHILAW": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:14:55",
+      "lastUpdated": "2026-08-31T03:44:55.978Z"
     }
   },
   "showroomVisits": {
@@ -63748,6 +63755,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:14:55",
+      "iso": "2026-08-31T03:44:55.980Z",
+      "action": "updated remark for TF-SI-ESS-242 at CHILAW: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:14:39",
       "iso": "2026-08-31T03:44:39.732Z",
       "action": "updated remark for TF-K1330404 at CHILAW: “Can sell”"
@@ -64087,13 +64101,6 @@
       "time": "08:53:12",
       "iso": "2026-08-31T03:23:12.628Z",
       "action": "updated remark for KV-4WTS3M at KURUNEGALA C: “Additional 5%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:52:50",
-      "iso": "2026-08-31T03:22:50.211Z",
-      "action": "updated remark for KD-50X75K at KURUNEGALA C: “Can sell by 31st of Aug”"
     }
   ]
 }
