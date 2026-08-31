@@ -63258,6 +63258,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:43:10",
       "lastUpdated": "2026-08-31T05:13:10.877Z"
+    },
+    "ZTE-V50DESIGN-4-256GB-B||CHAVAKACHCHERI": {
+      "remark": "sent/sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:42:39",
+      "lastUpdated": "2026-08-31T05:12:39.747Z"
     }
   },
   "showroomVisits": {
@@ -64830,9 +64837,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "ZTE-V50DESIGN-4-256GB-B||CHAVAKACHCHERI": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:42:39",
+      "iso": "2026-08-31T05:12:39.824Z",
+      "action": "marked ZTE-V50DESIGN-4-256GB-B at CHAVAKACHCHERI as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:42:39",
+      "iso": "2026-08-31T05:12:39.747Z",
+      "action": "updated remark for ZTE-V50DESIGN-4-256GB-B at CHAVAKACHCHERI: “sent/sold”"
+    },
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
@@ -65168,20 +65195,6 @@
       "time": "10:26:07",
       "iso": "2026-08-31T04:56:07.927Z",
       "action": "updated remark for SIN-MRG-1008C at NUWARAELIYA A: “Exchange”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:25:47",
-      "iso": "2026-08-31T04:55:47.169Z",
-      "action": "updated remark for SWH-338EP at NUWARAELIYA A: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:24:51",
-      "iso": "2026-08-31T04:54:51.613Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at CHAVAKACHCHERI: “12.5%”"
     }
   ]
 }
