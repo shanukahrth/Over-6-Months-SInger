@@ -62369,6 +62369,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:46:14",
       "lastUpdated": "2026-08-31T04:16:14.702Z"
+    },
+    "H-RSQG018MFEOE||JAFFNA": {
+      "remark": "Sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:46:38",
+      "lastUpdated": "2026-08-31T04:16:38.956Z"
     }
   },
   "showroomVisits": {
@@ -63893,6 +63900,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "09:46:38",
+      "iso": "2026-08-31T04:16:38.957Z",
+      "action": "updated remark for H-RSQG018MFEOE at JAFFNA: “Sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "09:46:26",
       "iso": "2026-08-31T04:16:26.193Z",
       "action": "marked H-RSQG018MFEOE at JAFFNA as Sold"
@@ -64232,13 +64246,6 @@
       "time": "09:03:31",
       "iso": "2026-08-31T03:33:31.462Z",
       "action": "updated remark for SIN-RFC-2012 at KURUNEGALA C: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:03:16",
-      "iso": "2026-08-31T03:33:16.965Z",
-      "action": "updated remark for SASI12INFI at KURUNEGALA C: “Okay for given discount”"
     }
   ]
 }
