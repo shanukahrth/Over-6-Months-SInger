@@ -62215,6 +62215,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:13:58",
       "lastUpdated": "2026-08-31T03:43:58.058Z"
+    },
+    "SWH-118EP||CHILAW": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:14:15",
+      "lastUpdated": "2026-08-31T03:44:15.425Z"
     }
   },
   "showroomVisits": {
@@ -63727,6 +63734,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:14:15",
+      "iso": "2026-08-31T03:44:15.426Z",
+      "action": "updated remark for SWH-118EP at CHILAW: “Damaged - 70%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:13:58",
       "iso": "2026-08-31T03:43:58.060Z",
       "action": "updated remark for SMGUA32T4400 at CHILAW: “Display damaged - 50%”"
@@ -64066,13 +64080,6 @@
       "time": "08:51:21",
       "iso": "2026-08-31T03:21:21.270Z",
       "action": "updated remark for HFPA-EVENT-BLC at KURUNEGALA C: “Can sell by 31st of Aug”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:48:00",
-      "iso": "2026-08-31T03:18:00.576Z",
-      "action": "updated remark for HAVIT-MS851-MOUSE at KURUNEGALA C: “Damaged - 50%”"
     }
   ]
 }
