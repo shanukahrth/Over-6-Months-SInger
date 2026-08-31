@@ -62432,6 +62432,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:48:58",
       "lastUpdated": "2026-08-31T04:18:58.455Z"
+    },
+    "B-BBIS14300XCSE||JAFFNA": {
+      "remark": "Sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:50:32",
+      "lastUpdated": "2026-08-31T04:20:32.333Z"
     }
   },
   "showroomVisits": {
@@ -63962,6 +63969,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "09:50:32",
+      "iso": "2026-08-31T04:20:32.334Z",
+      "action": "updated remark for B-BBIS14300XCSE at JAFFNA: “Sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "09:50:22",
       "iso": "2026-08-31T04:20:22.262Z",
       "action": "marked B-BBIS14300XCSE at JAFFNA as Sold"
@@ -64301,13 +64315,6 @@
       "time": "09:11:00",
       "iso": "2026-08-31T03:41:00.386Z",
       "action": "updated remark for PN-CS-U10XKH at CHILAW: “Display - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:10:33",
-      "iso": "2026-08-31T03:40:33.339Z",
-      "action": "updated remark for PH-BT3216 at CHILAW: “Damaged - 80%”"
     }
   ]
 }
