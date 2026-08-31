@@ -64035,6 +64035,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:22:06",
       "lastUpdated": "2026-08-31T05:52:06.541Z"
+    },
+    "TCLED32D65A||NUWARAELIYA A": {
+      "remark": "90% - Panel Damage",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:22:55",
+      "lastUpdated": "2026-08-31T05:52:55.997Z"
     }
   },
   "showroomVisits": {
@@ -65641,6 +65648,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:22:55",
+      "iso": "2026-08-31T05:52:55.999Z",
+      "action": "updated remark for TCLED32D65A at NUWARAELIYA A: “90% - Panel Damage”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "11:22:06",
@@ -65982,13 +65996,6 @@
       "time": "11:14:18",
       "iso": "2026-08-31T05:44:18.750Z",
       "action": "updated remark for SLE32D5000 at NUWARAELIYA A: “Exchange”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "11:13:22",
-      "iso": "2026-08-31T05:43:22.961Z",
-      "action": "updated remark for WP-SS-SUB1-S at MORATUWA: “5% OFF”"
     }
   ]
 }
