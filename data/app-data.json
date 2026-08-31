@@ -66678,7 +66678,7 @@
     },
     "ALUTHGAMA||AMBALANGODA": {
       "visited": "Yes",
-      "visitDate": "2026-08-07",
+      "visitDate": "",
       "team": "",
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
@@ -66946,6 +66946,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:05:01",
+      "iso": "2026-08-31T07:35:01.208Z",
+      "action": "updated ALUTHGAMA showroom (team: cleared)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:04:57",
+      "iso": "2026-08-31T07:34:57.486Z",
+      "action": "updated ALUTHGAMA showroom (visitDate: cleared)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-31",
@@ -67281,20 +67295,6 @@
       "time": "12:38:35",
       "iso": "2026-08-31T07:08:35.609Z",
       "action": "updated remark for MID-D15-20EVN1 at MEGA -KATUBEDDA: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:38:19",
-      "iso": "2026-08-31T07:08:19.654Z",
-      "action": "updated remark for MB-SAFARI4S-BLU at MEGA -KATUBEDDA: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:38:15",
-      "iso": "2026-08-31T07:08:15.846Z",
-      "action": "updated remark for M-SRK10YXP-W7 at MEGA -KATUBEDDA: “Sold out”"
     }
   ]
 }
