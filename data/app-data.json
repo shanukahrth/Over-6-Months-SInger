@@ -62166,6 +62166,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:11:16",
       "lastUpdated": "2026-08-31T03:41:16.168Z"
+    },
+    "RIYLTA-MF12V51A||CHILAW": {
+      "remark": "Damaged - 90%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:11:53",
+      "lastUpdated": "2026-08-31T03:41:53.102Z"
     }
   },
   "showroomVisits": {
@@ -63678,6 +63685,20 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:11:53",
+      "iso": "2026-08-31T03:41:53.104Z",
+      "action": "updated remark for RIYLTA-MF12V51A at CHILAW: “Damaged - 90%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "09:11:49",
+      "iso": "2026-08-31T03:41:49.205Z",
+      "action": "updated remark for RIYLTA-MF12V51A at CHILAW: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:11:31",
       "iso": "2026-08-31T03:41:31.746Z",
       "action": "updated remark for R-BWS-02 at CHILAW: “Can sell”"
@@ -64010,20 +64031,6 @@
       "time": "08:39:28",
       "iso": "2026-08-31T03:09:28.682Z",
       "action": "updated remark for TFFV1320MO at WENNAPPUWA: “Damaged - 10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:38:13",
-      "iso": "2026-08-31T03:08:13.508Z",
-      "action": "updated remark for STT-200K at WENNAPPUWA: “Damaged - 85%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:37:37",
-      "iso": "2026-08-31T03:07:37.965Z",
-      "action": "updated remark for TF-SI-EXS1230 at WENNAPPUWA: “Damaged - 10%”"
     }
   ]
 }
