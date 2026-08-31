@@ -66758,6 +66758,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:22:41",
       "lastUpdated": "2026-08-31T09:52:41.118Z"
+    },
+    "SIN-RFC-2058||HATTON": {
+      "remark": "80%- defective",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:23:25",
+      "lastUpdated": "2026-08-31T09:53:25.248Z"
+    },
+    "HU-SECURITY||HATTON": {
+      "remark": "shop use",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:23:35",
+      "lastUpdated": "2026-08-31T09:53:35.727Z"
     }
   },
   "showroomVisits": {
@@ -68598,6 +68612,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:23:35",
+      "iso": "2026-08-31T09:53:35.728Z",
+      "action": "updated remark for HU-SECURITY at HATTON: “shop use”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:23:25",
+      "iso": "2026-08-31T09:53:25.249Z",
+      "action": "updated remark for SIN-RFC-2058 at HATTON: “80%- defective”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:22:41",
@@ -68932,20 +68960,6 @@
       "time": "15:11:39",
       "iso": "2026-08-31T09:41:39.309Z",
       "action": "updated remark for TF-TW26-064 at MEGA -KATUBEDDA: “15% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:11:14",
-      "iso": "2026-08-31T09:41:14.276Z",
-      "action": "updated remark for TF-SP16-063 at MEGA -KATUBEDDA: “10% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:11:03",
-      "iso": "2026-08-31T09:41:03.315Z",
-      "action": "updated remark for TF-SP16-063 at MEGA -KATUBEDDA: “15% OFF”"
     }
   ]
 }
