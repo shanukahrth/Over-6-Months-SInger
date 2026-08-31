@@ -65652,6 +65652,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:04:33",
       "lastUpdated": "2026-08-31T08:34:33.867Z"
+    },
+    "MC8280||CHANKANI": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:04:44",
+      "lastUpdated": "2026-08-31T08:34:44.982Z"
     }
   },
   "showroomVisits": {
@@ -67446,9 +67453,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "MC8280||CHANKANI": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:04:45",
+      "iso": "2026-08-31T08:34:45.198Z",
+      "action": "marked MC8280 at CHANKANI as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:04:44",
+      "iso": "2026-08-31T08:34:44.984Z",
+      "action": "updated remark for MC8280 at CHANKANI: “SOLD”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -67784,20 +67811,6 @@
       "time": "13:31:12",
       "iso": "2026-08-31T08:01:12.013Z",
       "action": "updated remark for GEO-242D-SV at MAHIYANGANA: “80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "13:21:52",
-      "iso": "2026-08-31T07:51:52.943Z",
-      "action": "updated GALENBIDUNUWEWA showroom (team: Naveen, Adeesha, Thusitha)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "13:21:49",
-      "iso": "2026-08-31T07:51:49.645Z",
-      "action": "updated GALENBIDUNUWEWA showroom (visited: Yes)"
     }
   ]
 }
