@@ -62145,6 +62145,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:10:18",
       "lastUpdated": "2026-08-31T03:40:18.753Z"
+    },
+    "PH-BT3216||CHILAW": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:10:33",
+      "lastUpdated": "2026-08-31T03:40:33.337Z"
     }
   },
   "showroomVisits": {
@@ -63657,6 +63664,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:10:33",
+      "iso": "2026-08-31T03:40:33.339Z",
+      "action": "updated remark for PH-BT3216 at CHILAW: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:10:18",
       "iso": "2026-08-31T03:40:18.754Z",
       "action": "updated remark for PH-BT1215 at CHILAW: “Damaged - 80%”"
@@ -63996,13 +64010,6 @@
       "time": "08:35:22",
       "iso": "2026-08-31T03:05:22.243Z",
       "action": "updated remark for SPMA9501 at WENNAPPUWA: “Damaged - 95%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:34:15",
-      "iso": "2026-08-31T03:04:15.290Z",
-      "action": "updated remark for SLE42D2070TC at WENNAPPUWA: “Damaged - 85%”"
     }
   ]
 }
