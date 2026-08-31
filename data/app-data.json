@@ -65771,6 +65771,27 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:15:47",
       "lastUpdated": "2026-08-31T08:45:47.240Z"
+    },
+    "MHC-M60D||HATTON": {
+      "remark": "Unsaleable",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:16:31",
+      "lastUpdated": "2026-08-31T08:46:31.433Z"
+    },
+    "SHAKE-X10D||HATTON": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:16:45",
+      "lastUpdated": "2026-08-31T08:46:45.593Z"
+    },
+    "SIN-BS30||HATTON": {
+      "remark": "MOP - 8500/=",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:17:13",
+      "lastUpdated": "2026-08-31T08:47:13.722Z"
     }
   },
   "showroomVisits": {
@@ -67583,6 +67604,27 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "14:17:13",
+      "iso": "2026-08-31T08:47:13.723Z",
+      "action": "updated remark for SIN-BS30 at HATTON: “MOP - 8500/=”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:16:45",
+      "iso": "2026-08-31T08:46:45.595Z",
+      "action": "updated remark for SHAKE-X10D at HATTON: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:16:31",
+      "iso": "2026-08-31T08:46:31.434Z",
+      "action": "updated remark for MHC-M60D at HATTON: “Unsaleable”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "14:15:47",
       "iso": "2026-08-31T08:45:47.241Z",
       "action": "updated remark for PN-SC-BMAX5E-K at HATTON: “60%”"
@@ -67908,27 +67950,6 @@
       "time": "13:49:44",
       "iso": "2026-08-31T08:19:44.218Z",
       "action": "marked SL-RFA75 at CHANKANI as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:49:23",
-      "iso": "2026-08-31T08:19:23.740Z",
-      "action": "updated remark for B-HIAG64223SXL at CHANKANI: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:49:00",
-      "iso": "2026-08-31T08:19:00.076Z",
-      "action": "updated remark for BC-DWHA68G60I at CHANKANI: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:48:32",
-      "iso": "2026-08-31T08:18:32.070Z",
-      "action": "updated remark for WF-JUPITER-06-S at CHANKANI: “80%”"
     }
   ]
 }
