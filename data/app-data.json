@@ -65764,6 +65764,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:15:01",
       "lastUpdated": "2026-08-31T08:45:01.975Z"
+    },
+    "PN-SC-BMAX5E-K||HATTON": {
+      "remark": "60%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:15:47",
+      "lastUpdated": "2026-08-31T08:45:47.240Z"
     }
   },
   "showroomVisits": {
@@ -67574,6 +67581,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:15:47",
+      "iso": "2026-08-31T08:45:47.241Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at HATTON: “60%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "14:15:01",
@@ -67915,13 +67929,6 @@
       "time": "13:48:32",
       "iso": "2026-08-31T08:18:32.070Z",
       "action": "updated remark for WF-JUPITER-06-S at CHANKANI: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:48:05",
-      "iso": "2026-08-31T08:18:05.734Z",
-      "action": "updated remark for WF-PARIS-BL-S at CHANKANI: “45%”"
     }
   ]
 }
