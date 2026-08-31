@@ -62866,6 +62866,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:19:00",
       "lastUpdated": "2026-08-31T04:49:00.641Z"
+    },
+    "SN-SMI-305||CHAVAKACHCHERI": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:19:03",
+      "lastUpdated": "2026-08-31T04:49:03.534Z"
     }
   },
   "showroomVisits": {
@@ -64424,6 +64431,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:19:03",
+      "iso": "2026-08-31T04:49:03.535Z",
+      "action": "updated remark for SN-SMI-305 at CHAVAKACHCHERI: “80%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "10:19:00",
@@ -64765,13 +64779,6 @@
       "time": "10:00:39",
       "iso": "2026-08-31T04:30:39.925Z",
       "action": "marked SBI-60M19-T at JAFFNA as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:00:39",
-      "iso": "2026-08-31T04:30:39.848Z",
-      "action": "updated remark for CAN-I-G1730 at JAFFNA: “Rs. 22,000 off”"
     }
   ]
 }
