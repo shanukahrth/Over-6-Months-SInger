@@ -67178,6 +67178,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:52:25",
       "lastUpdated": "2026-08-31T10:22:25.631Z"
+    },
+    "ULED32D5000||HATTON": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:52:37",
+      "lastUpdated": "2026-08-31T10:22:37.470Z"
     }
   },
   "showroomVisits": {
@@ -69026,6 +69033,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:52:37",
+      "iso": "2026-08-31T10:22:37.474Z",
+      "action": "updated remark for ULED32D5000 at HATTON: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:52:25",
       "iso": "2026-08-31T10:22:25.636Z",
       "action": "updated remark for SIN-VAC8515 at HATTON: “90% -Damaged”"
@@ -69365,13 +69379,6 @@
       "time": "15:28:59",
       "iso": "2026-08-31T09:58:59.381Z",
       "action": "updated remark for DH-8-CAMERA-PACK at HATTON: “reported”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:28:30",
-      "iso": "2026-08-31T09:58:30.024Z",
-      "action": "updated remark for SL-ECO72 at HATTON: “90%”"
     }
   ]
 }
