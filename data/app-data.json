@@ -66200,11 +66200,11 @@
       "lastUpdated": "2026-08-31T09:30:37.909Z"
     },
     "GEO-242D-SV||JAFFNA-HOSPITAL ROAD": {
-      "remark": "% Off from mark price",
+      "remark": "3% Off from mark price (LEG DAMAGE)",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "15:03:46",
-      "lastUpdated": "2026-08-31T09:33:46.855Z"
+      "commentTime": "15:09:08",
+      "lastUpdated": "2026-08-31T09:39:08.769Z"
     },
     "WF-JUPITER-05-S||HATTON": {
       "remark": "80%- Damaged",
@@ -68215,6 +68215,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:09:08",
+      "iso": "2026-08-31T09:39:08.771Z",
+      "action": "updated remark for GEO-242D-SV at JAFFNA-HOSPITAL ROAD: “3% Off from mark price (LEG DAMAGE)”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "15:09:18",
@@ -68556,13 +68563,6 @@
       "time": "14:57:10",
       "iso": "2026-08-31T09:27:10.276Z",
       "action": "updated remark for LF-IMP-BDQ-SHW-S at MEGA -KATUBEDDA: “80% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "14:56:33",
-      "iso": "2026-08-31T09:26:33.045Z",
-      "action": "updated remark for WF-VIENNA-3S-GR-S at MEGA -KATUBEDDA: “60% OFF”"
     }
   ]
 }
