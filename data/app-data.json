@@ -66479,13 +66479,6 @@
       "commentTime": "15:11:55",
       "lastUpdated": "2026-08-31T09:41:55.108Z"
     },
-    "TF-NIDFP24-170||HATTON": {
-      "remark": "Flat 40%",
-      "commentedBy": "Kaveesha",
-      "commentDate": "2026-08-31",
-      "commentTime": "15:12:55",
-      "lastUpdated": "2026-08-31T09:42:55.962Z"
-    },
     "TF-NIGP26-119||HATTON": {
       "remark": "Flat 40%",
       "commentedBy": "Kaveesha",
@@ -68322,6 +68315,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:13:15",
+      "iso": "2026-08-31T09:43:15.419Z",
+      "action": "updated remark for TF-NIDFP24-170 at HATTON (cleared)"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:12:59",
       "iso": "2026-08-31T09:42:59.578Z",
       "action": "updated remark for TF-NIGP26-119 at HATTON: “Flat 40%”"
@@ -68661,13 +68661,6 @@
       "time": "15:03:02",
       "iso": "2026-08-31T09:33:02.921Z",
       "action": "updated remark for TF-SI-EXS1230 at MEGA -KATUBEDDA: “10% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "15:02:45",
-      "iso": "2026-08-31T09:32:45.545Z",
-      "action": "updated remark for WFI-SOC-M005-BU-S at MEGA -KATUBEDDA: “-”"
     }
   ]
 }
