@@ -237,6 +237,20 @@
           <div class="chart-wrap chart-wrap-tall"><canvas id="districtCoverageChart"></canvas></div>
         </div>
       </section>
+      <section class="charts-grid charts-grid-2">
+        <div class="card">
+          <div class="card-head"><h2>Pending by Area</h2><span class="card-sub">Click a column to sort</span></div>
+          <div class="table-scroll" style="max-height:340px;">
+            <table><thead><tr id="pendingByAreaHead"></tr></thead><tbody id="pendingByAreaBody"></tbody></table>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-head"><h2>Pending by District</h2><span class="card-sub">Click a column to sort</span></div>
+          <div class="table-scroll" style="max-height:340px;">
+            <table><thead><tr id="pendingByDistrictHead"></tr></thead><tbody id="pendingByDistrictBody"></tbody></table>
+          </div>
+        </div>
+      </section>
       <section class="card table-card">
         <div class="card-head table-head">
           <h2>Showroom Visit Tracker</h2>
@@ -247,6 +261,8 @@
               <option value="Yes">Visited</option>
               <option value="No">Pending</option>
             </select>
+            <button class="btn btn-primary btn-sm" id="showroomExportXlsxBtn">Export Excel</button>
+            <button class="btn btn-primary-alt btn-sm" id="showroomExportCsvBtn">Export CSV</button>
           </div>
         </div>
         <div class="table-scroll" id="showroomTableScroll">
