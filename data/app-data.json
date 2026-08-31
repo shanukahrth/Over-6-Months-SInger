@@ -63818,6 +63818,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:15:02",
       "lastUpdated": "2026-08-31T05:45:02.503Z"
+    },
+    "SLE32E910||NUWARAELIYA A": {
+      "remark": "90% - Panel Damage",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:15:48",
+      "lastUpdated": "2026-08-31T05:45:48.454Z"
     }
   },
   "showroomVisits": {
@@ -65412,6 +65419,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:15:48",
+      "iso": "2026-08-31T05:45:48.455Z",
+      "action": "updated remark for SLE32E910 at NUWARAELIYA A: “90% - Panel Damage”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "11:15:02",
@@ -65753,13 +65767,6 @@
       "time": "10:58:47",
       "iso": "2026-08-31T05:28:47.551Z",
       "action": "updated remark for 123453223 at CHAVAKACHCHERI: “90%-  8 Years- faded”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:58:02",
-      "iso": "2026-08-31T05:28:02.425Z",
-      "action": "updated remark for BTS-10KG at CHAVAKACHCHERI: “80%”"
     }
   ]
 }
