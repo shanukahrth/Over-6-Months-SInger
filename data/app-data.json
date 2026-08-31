@@ -64324,11 +64324,11 @@
       "lastUpdated": "2026-08-31T06:02:46.064Z"
     },
     "SLE40D4000||NELLIADY": {
-      "remark": "70% damaged weather",
+      "remark": "70% damage",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "11:33:08",
-      "lastUpdated": "2026-08-31T06:03:08.060Z"
+      "commentTime": "11:33:27",
+      "lastUpdated": "2026-08-31T06:03:27.671Z"
     }
   },
   "showroomVisits": {
@@ -65949,6 +65949,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "11:33:27",
+      "iso": "2026-08-31T06:03:27.673Z",
+      "action": "updated remark for SLE40D4000 at NELLIADY: “70% damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "11:33:08",
       "iso": "2026-08-31T06:03:08.061Z",
       "action": "updated remark for SLE40D4000 at NELLIADY: “70% damaged weather”"
@@ -66288,13 +66295,6 @@
       "time": "11:23:28",
       "iso": "2026-08-31T05:53:28.501Z",
       "action": "updated remark for WP-NEO258NF at NELLIADY: “25% off”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:23:52",
-      "iso": "2026-08-31T05:53:52.973Z",
-      "action": "updated remark for SWM-FA70R at NUWARAELIYA A: “60% -Revert”"
     }
   ]
 }
