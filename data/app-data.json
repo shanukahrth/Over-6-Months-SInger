@@ -62040,6 +62040,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:00:05",
       "lastUpdated": "2026-08-31T03:30:05.092Z"
+    },
+    "TF-AF32-577||KURUNEGALA C": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:00:17",
+      "lastUpdated": "2026-08-31T03:30:17.804Z"
     }
   },
   "showroomVisits": {
@@ -63552,6 +63559,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:00:17",
+      "iso": "2026-08-31T03:30:17.805Z",
+      "action": "updated remark for TF-AF32-577 at KURUNEGALA C: “Damaged - 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:00:05",
       "iso": "2026-08-31T03:30:05.093Z",
       "action": "updated remark for TCL65V6B at KURUNEGALA C: “Damaged - 40%”"
@@ -63891,13 +63905,6 @@
       "time": "20:05:36",
       "iso": "2026-08-28T14:35:36.455Z",
       "action": "updated DELGODA showroom (team: Metro Team)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:05:28",
-      "iso": "2026-08-28T14:35:28.596Z",
-      "action": "updated ANGODA showroom (team: Metro Team)"
     }
   ]
 }
