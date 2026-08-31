@@ -65932,6 +65932,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:23:02",
       "lastUpdated": "2026-08-31T08:53:02.137Z"
+    },
+    "H-RSQG018MFEOE||JAFFNA-HOSPITAL ROAD": {
+      "remark": "No discount",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:22:18",
+      "lastUpdated": "2026-08-31T08:52:18.947Z"
+    },
+    "H-RSQG018HFEOE||JAFFNA-HOSPITAL ROAD": {
+      "remark": "No discount",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:22:20",
+      "lastUpdated": "2026-08-31T08:52:20.784Z"
     }
   },
   "showroomVisits": {
@@ -67742,6 +67756,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:22:20",
+      "iso": "2026-08-31T08:52:20.785Z",
+      "action": "updated remark for H-RSQG018HFEOE at JAFFNA-HOSPITAL ROAD: “No discount”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "14:22:18",
+      "iso": "2026-08-31T08:52:18.949Z",
+      "action": "updated remark for H-RSQG018MFEOE at JAFFNA-HOSPITAL ROAD: “No discount”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "14:23:02",
@@ -68076,20 +68104,6 @@
       "time": "14:04:11",
       "iso": "2026-08-31T08:34:11.329Z",
       "action": "updated remark for WF-CLASSIC-S at CHANKANI: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:03:41",
-      "iso": "2026-08-31T08:33:41.077Z",
-      "action": "updated remark for SYM-HIC-26I at CHANKANI: “80%- damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:02:53",
-      "iso": "2026-08-31T08:32:53.564Z",
-      "action": "updated remark for SACL-LLQ8A1-20L at CHANKANI: “80% no product available”"
     }
   ]
 }
