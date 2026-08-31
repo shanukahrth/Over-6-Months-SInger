@@ -65540,6 +65540,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "13:51:56",
       "lastUpdated": "2026-08-31T08:21:56.273Z"
+    },
+    "SLE55G22N||CHANKANI": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "13:52:21",
+      "lastUpdated": "2026-08-31T08:22:21.659Z"
     }
   },
   "showroomVisits": {
@@ -67334,6 +67341,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "13:52:21",
+      "iso": "2026-08-31T08:22:21.661Z",
+      "action": "updated remark for SLE55G22N at CHANKANI: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "13:51:56",
       "iso": "2026-08-31T08:21:56.274Z",
       "action": "updated remark for GEO-182S-BU1 at CHANKANI: “15%”"
@@ -67673,13 +67687,6 @@
       "time": "13:18:23",
       "iso": "2026-08-31T07:48:23.637Z",
       "action": "updated remark for SIN-RFC-2058 at MEGA -KATUBEDDA: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:18:11",
-      "iso": "2026-08-31T07:48:11.300Z",
-      "action": "updated remark for SIN-RFC-1819 at MEGA -KATUBEDDA: “-”"
     }
   ]
 }
