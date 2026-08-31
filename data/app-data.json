@@ -62868,11 +62868,11 @@
       "lastUpdated": "2026-08-31T04:49:00.641Z"
     },
     "SN-SMI-305||CHAVAKACHCHERI": {
-      "remark": "80%",
+      "remark": "80%- service issue wont work",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "10:19:03",
-      "lastUpdated": "2026-08-31T04:49:03.534Z"
+      "commentTime": "10:20:01",
+      "lastUpdated": "2026-08-31T04:50:01.625Z"
     },
     "SAIL180104||SHOMES- CHILAW": {
       "remark": "Damaged - 95%",
@@ -64452,6 +64452,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:20:01",
+      "iso": "2026-08-31T04:50:01.626Z",
+      "action": "updated remark for SN-SMI-305 at CHAVAKACHCHERI: “80%- service issue wont work”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "10:19:37",
@@ -64793,13 +64800,6 @@
       "time": "10:01:50",
       "iso": "2026-08-31T04:31:50.064Z",
       "action": "updated remark for WFL-SPM-78X48X7-S at JAFFNA: “80% off MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:01:39",
-      "iso": "2026-08-31T04:31:39.909Z",
-      "action": "updated remark for SMGUA32N4000 at JAFFNA: “80% off MRP”"
     }
   ]
 }
