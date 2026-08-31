@@ -62329,11 +62329,11 @@
       "lastUpdated": "2026-08-31T04:06:22.827Z"
     },
     "SASI24INFI||JAFFNA": {
-      "remark": "80%",
+      "remark": "80% send note to Esala",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "09:36:26",
-      "lastUpdated": "2026-08-31T04:06:26.834Z"
+      "commentTime": "09:36:44",
+      "lastUpdated": "2026-08-31T04:06:44.802Z"
     }
   },
   "showroomVisits": {
@@ -63852,6 +63852,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "09:36:44",
+      "iso": "2026-08-31T04:06:44.804Z",
+      "action": "updated remark for SASI24INFI at JAFFNA: “80% send note to Esala”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "09:36:26",
       "iso": "2026-08-31T04:06:26.835Z",
       "action": "updated remark for SASI24INFI at JAFFNA: “80%”"
@@ -64191,13 +64198,6 @@
       "time": "09:00:39",
       "iso": "2026-08-31T03:30:39.351Z",
       "action": "updated remark for UJB-LB6027 at KURUNEGALA C: “Damaged - 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:00:17",
-      "iso": "2026-08-31T03:30:17.805Z",
-      "action": "updated remark for TF-AF32-577 at KURUNEGALA C: “Damaged - 30%”"
     }
   ]
 }
