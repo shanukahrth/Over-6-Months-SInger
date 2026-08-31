@@ -63223,6 +63223,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:40:42",
       "lastUpdated": "2026-08-31T05:10:42.972Z"
+    },
+    "PCP30||NUWARAELIYA A": {
+      "remark": "40%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:41:41",
+      "lastUpdated": "2026-08-31T05:11:41.365Z"
     }
   },
   "showroomVisits": {
@@ -64799,6 +64806,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "10:41:41",
+      "iso": "2026-08-31T05:11:41.365Z",
+      "action": "updated remark for PCP30 at NUWARAELIYA A: “40%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "10:40:42",
@@ -65140,13 +65154,6 @@
       "time": "10:23:22",
       "iso": "2026-08-31T04:53:22.440Z",
       "action": "updated remark for SMGUA43T5400 at CHAVAKACHCHERI: “80% damaged, working Tv”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:22:57",
-      "iso": "2026-08-31T04:52:57.024Z",
-      "action": "updated remark for WP-NEO258NF at CHAVAKACHCHERI: “25%”"
     }
   ]
 }
