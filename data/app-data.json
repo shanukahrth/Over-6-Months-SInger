@@ -68908,6 +68908,14 @@
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-31"
+    },
+    "YATIYANTHOTA||KEGALLE": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Shanuka",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -69237,6 +69245,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
+      "time": "18:04:28",
+      "iso": "2026-08-31T12:34:28.212Z",
+      "action": "updated YATIYANTHOTA showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-31",
@@ -69579,13 +69594,6 @@
       "time": "15:45:48",
       "iso": "2026-08-31T10:15:48.193Z",
       "action": "updated remark for GEO-242D-TG at JAFFNA PANNAI BRANCH: “50% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:45:15",
-      "iso": "2026-08-31T10:15:15.908Z",
-      "action": "updated remark for SLE43G890 at JAFFNA PANNAI BRANCH: “55% Off from mark price”"
     }
   ]
 }
