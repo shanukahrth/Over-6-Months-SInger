@@ -61942,6 +61942,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:53:46",
       "lastUpdated": "2026-08-31T03:23:46.861Z"
+    },
+    "LF-ECO-BDS-SHW-S||KURUNEGALA C": {
+      "remark": "Damage - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:54:33",
+      "lastUpdated": "2026-08-31T03:24:33.421Z"
     }
   },
   "showroomVisits": {
@@ -63454,6 +63461,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:54:33",
+      "iso": "2026-08-31T03:24:33.424Z",
+      "action": "updated remark for LF-ECO-BDS-SHW-S at KURUNEGALA C: “Damage - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:53:46",
       "iso": "2026-08-31T03:23:46.863Z",
       "action": "updated remark for LF-LEO-HDBC-BCH at KURUNEGALA C: “Damage - 50%”"
@@ -63793,13 +63807,6 @@
       "time": "20:01:31",
       "iso": "2026-08-28T14:31:31.969Z",
       "action": "updated GOTHATUWA showroom (visited: Yes)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:01:29",
-      "iso": "2026-08-28T14:31:29.813Z",
-      "action": "updated DELGODA showroom (visited: Yes)"
     }
   ]
 }
