@@ -61816,6 +61816,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:32:34",
       "lastUpdated": "2026-08-31T03:02:34.966Z"
+    },
+    "SLE42D2070TC||WENNAPPUWA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:34:15",
+      "lastUpdated": "2026-08-31T03:04:15.288Z"
     }
   },
   "showroomVisits": {
@@ -63328,6 +63335,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:34:15",
+      "iso": "2026-08-31T03:04:15.290Z",
+      "action": "updated remark for SLE42D2070TC at WENNAPPUWA: “Damaged - 85%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:32:34",
       "iso": "2026-08-31T03:02:34.967Z",
       "action": "updated remark for WF-LEXUS-DTO-S at WENNAPPUWA: “Damaged - 75%”"
@@ -63667,13 +63681,6 @@
       "time": "16:15:02",
       "iso": "2026-08-28T10:45:02.860Z",
       "action": "updated remark for PN-NR-BK468BQKX at CHILAW: “Display - 75%”"
-    },
-    {
-      "user": "SHENULI",
-      "date": "2026-08-28",
-      "time": "16:14:30",
-      "iso": "2026-08-28T10:44:30.084Z",
-      "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged- 40%”"
     }
   ]
 }
