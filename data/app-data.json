@@ -66590,6 +66590,14 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "WADDUWA||KALUTARA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-07",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -66853,6 +66861,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "12:51:36",
+      "iso": "2026-08-31T07:21:36.557Z",
+      "action": "updated WADDUWA showroom (visitDate: 2026-08-07)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "12:51:33",
+      "iso": "2026-08-31T07:21:33.839Z",
+      "action": "updated WADDUWA showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-31",
@@ -67188,20 +67210,6 @@
       "time": "12:24:59",
       "iso": "2026-08-31T06:54:59.857Z",
       "action": "updated remark for KV-FPA-13A at MEGA -KATUBEDDA: “80% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:24:39",
-      "iso": "2026-08-31T06:54:39.916Z",
-      "action": "updated remark for KA-OPTIMA at MEGA -KATUBEDDA: “Non sellable”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:24:26",
-      "iso": "2026-08-31T06:54:26.574Z",
-      "action": "updated remark for KA-LW-185A at MEGA -KATUBEDDA: “Non sellable”"
     }
   ]
 }
