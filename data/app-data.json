@@ -63314,6 +63314,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:45:06",
       "lastUpdated": "2026-08-31T05:15:06.262Z"
+    },
+    "VT-1047CN||NUWARAELIYA A": {
+      "remark": "80% -RTWH",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:45:26",
+      "lastUpdated": "2026-08-31T05:15:26.046Z"
+    },
+    "VT-EL31109CN||NUWARAELIYA A": {
+      "remark": "80% - RTWH",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:45:39",
+      "lastUpdated": "2026-08-31T05:15:39.238Z"
     }
   },
   "showroomVisits": {
@@ -64896,6 +64910,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "10:45:39",
+      "iso": "2026-08-31T05:15:39.238Z",
+      "action": "updated remark for VT-EL31109CN at NUWARAELIYA A: “80% - RTWH”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "10:45:26",
+      "iso": "2026-08-31T05:15:26.046Z",
+      "action": "updated remark for VT-1047CN at NUWARAELIYA A: “80% -RTWH”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "10:44:34",
@@ -65230,20 +65258,6 @@
       "time": "10:32:10",
       "iso": "2026-08-31T05:02:10.752Z",
       "action": "updated remark for LF-SLVY-DTO-CKT-S at CHAVAKACHCHERI: “60% Mirror broken”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:30:47",
-      "iso": "2026-08-31T05:00:47.906Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at CHAVAKACHCHERI: “50%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:31:11",
-      "iso": "2026-08-31T05:01:11.703Z",
-      "action": "updated remark for TF-GS-SPKT302 at NUWARAELIYA A: “15%”"
     }
   ]
 }
