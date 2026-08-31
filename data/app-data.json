@@ -63162,11 +63162,11 @@
       "lastUpdated": "2026-08-31T05:06:54.038Z"
     },
     "SLE32E930||CHAVAKACHCHERI": {
-      "remark": "90%",
+      "remark": "90% Damaged won't work",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "10:38:11",
-      "lastUpdated": "2026-08-31T05:08:11.429Z"
+      "commentTime": "10:38:35",
+      "lastUpdated": "2026-08-31T05:08:35.372Z"
     },
     "TF-TT365027||NUWARAELIYA A": {
       "remark": "80% -Damaged",
@@ -64750,6 +64750,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:38:35",
+      "iso": "2026-08-31T05:08:35.373Z",
+      "action": "updated remark for SLE32E930 at CHAVAKACHCHERI: “90% Damaged won't work”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "10:39:02",
@@ -65091,13 +65098,6 @@
       "time": "10:20:29",
       "iso": "2026-08-31T04:50:29.796Z",
       "action": "updated remark for SMGAR50F12D0J at CHAVAKACHCHERI: “30%- service issues wont work”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:20:01",
-      "iso": "2026-08-31T04:50:01.626Z",
-      "action": "updated remark for SN-SMI-305 at CHAVAKACHCHERI: “80%- service issue wont work”"
     }
   ]
 }
