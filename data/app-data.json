@@ -65960,6 +65960,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:23:00",
       "lastUpdated": "2026-08-31T08:53:00.700Z"
+    },
+    "LF-BUDGET-DT-CLM-S||HATTON": {
+      "remark": "50%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:23:51",
+      "lastUpdated": "2026-08-31T08:53:51.593Z"
     }
   },
   "showroomVisits": {
@@ -67770,6 +67777,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:23:51",
+      "iso": "2026-08-31T08:53:51.595Z",
+      "action": "updated remark for LF-BUDGET-DT-CLM-S at HATTON: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "14:23:00",
@@ -68111,13 +68125,6 @@
       "time": "14:04:45",
       "iso": "2026-08-31T08:34:45.198Z",
       "action": "marked MC8280 at CHANKANI as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:04:44",
-      "iso": "2026-08-31T08:34:44.984Z",
-      "action": "updated remark for MC8280 at CHANKANI: “SOLD”"
     }
   ]
 }
