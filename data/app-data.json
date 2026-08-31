@@ -61977,6 +61977,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:56:20",
       "lastUpdated": "2026-08-31T03:26:20.340Z"
+    },
+    "RIYLTA-MF12V4||KURUNEGALA C": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:56:57",
+      "lastUpdated": "2026-08-31T03:26:57.517Z"
     }
   },
   "showroomVisits": {
@@ -63489,6 +63496,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:56:57",
+      "iso": "2026-08-31T03:26:57.518Z",
+      "action": "updated remark for RIYLTA-MF12V4 at KURUNEGALA C: “Damaged - 80%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:56:20",
       "iso": "2026-08-31T03:26:20.342Z",
       "action": "updated remark for PN-TH-32MS670N at KURUNEGALA C: “Can sell by 31st of Aug”"
@@ -63828,13 +63842,6 @@
       "time": "20:02:34",
       "iso": "2026-08-28T14:32:34.487Z",
       "action": "updated ANGODA showroom (visitDate: 2026-08-28)"
-    },
-    {
-      "user": "Chanuka Obeyesekere",
-      "date": "2026-08-28",
-      "time": "20:02:30",
-      "iso": "2026-08-28T14:32:30.408Z",
-      "action": "updated AKUREGODA - SLAF showroom (visitDate: 2026-08-28)"
     }
   ]
 }
