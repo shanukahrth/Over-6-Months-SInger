@@ -62481,6 +62481,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:52:49",
       "lastUpdated": "2026-08-31T04:22:49.155Z"
+    },
+    "KLV-40W652D||JAFFNA": {
+      "remark": "90% off MRP",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:53:03",
+      "lastUpdated": "2026-08-31T04:23:03.060Z"
+    },
+    "QT-PF105||JAFFNA": {
+      "remark": "70% off MRP",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:53:15",
+      "lastUpdated": "2026-08-31T04:23:15.708Z"
     }
   },
   "showroomVisits": {
@@ -64011,6 +64025,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "09:53:15",
+      "iso": "2026-08-31T04:23:15.709Z",
+      "action": "updated remark for QT-PF105 at JAFFNA: “70% off MRP”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "09:53:03",
+      "iso": "2026-08-31T04:23:03.061Z",
+      "action": "updated remark for KLV-40W652D at JAFFNA: “90% off MRP”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "09:52:49",
       "iso": "2026-08-31T04:22:49.156Z",
       "action": "updated remark for B-BMGB25332BG at JAFFNA: “50% off MRP”"
@@ -64343,20 +64371,6 @@
       "time": "09:12:54",
       "iso": "2026-08-31T03:42:54.700Z",
       "action": "updated remark for SLE40E810C at CHILAW: “Damaged - 90%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:12:42",
-      "iso": "2026-08-31T03:42:42.427Z",
-      "action": "updated remark for SL-TF313 at CHILAW: “Damaged - 70%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "09:12:31",
-      "iso": "2026-08-31T03:42:31.871Z",
-      "action": "updated remark for SL-S203 at CHILAW: “Damaged - 80%”"
     }
   ]
 }
