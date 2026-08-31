@@ -30115,11 +30115,11 @@
       "lastUpdated": "2026-08-20T06:14:24.634Z"
     },
     "TCLED32D65A||JA-ELA": {
-      "remark": "Exchange",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-20",
-      "commentTime": "11:44:43",
-      "lastUpdated": "2026-08-20T06:14:43.541Z"
+      "remark": "Exchange 90% Damaged",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-31",
+      "commentTime": "19:58:18",
+      "lastUpdated": "2026-08-31T14:28:18.427Z"
     },
     "LF-BILLY-S||JA-ELA": {
       "remark": "50%",
@@ -69248,6 +69248,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-31",
+      "time": "19:58:18",
+      "iso": "2026-08-31T14:28:18.428Z",
+      "action": "updated remark for TCLED32D65A at JA-ELA: “Exchange 90% Damaged”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
       "time": "19:58:00",
       "iso": "2026-08-31T14:28:00.516Z",
       "action": "updated remark for SLE32E920 at JA-ELA: “90% Damaged location exchange”"
@@ -69587,13 +69594,6 @@
       "time": "15:51:59",
       "iso": "2026-08-31T10:21:59.898Z",
       "action": "updated remark for HON-X9C-12-256-PPL at JAFFNA PANNAI BRANCH: “20% Off from mark price”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:52:37",
-      "iso": "2026-08-31T10:22:37.474Z",
-      "action": "updated remark for ULED32D5000 at HATTON: “95%”"
     }
   ]
 }
