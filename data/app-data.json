@@ -62726,6 +62726,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:11:14",
       "lastUpdated": "2026-08-31T04:41:14.384Z"
+    },
+    "H-RMRG024HFEOE||CHAVAKACHCHERI": {
+      "remark": "Sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:11:46",
+      "lastUpdated": "2026-08-31T04:41:46.539Z"
     }
   },
   "showroomVisits": {
@@ -64268,9 +64275,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "H-RMRG024HFEOE||CHAVAKACHCHERI": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:11:47",
+      "iso": "2026-08-31T04:41:47.549Z",
+      "action": "marked H-RMRG024HFEOE at CHAVAKACHCHERI as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:11:46",
+      "iso": "2026-08-31T04:41:46.541Z",
+      "action": "updated remark for H-RMRG024HFEOE at CHAVAKACHCHERI: “Sold”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -64606,20 +64633,6 @@
       "time": "09:53:44",
       "iso": "2026-08-31T04:23:44.719Z",
       "action": "updated remark for SLE43G890 at JAFFNA: “AR pending - furniture team”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:53:15",
-      "iso": "2026-08-31T04:23:15.709Z",
-      "action": "updated remark for QT-PF105 at JAFFNA: “70% off MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "09:53:03",
-      "iso": "2026-08-31T04:23:03.061Z",
-      "action": "updated remark for KLV-40W652D at JAFFNA: “90% off MRP”"
     }
   ]
 }
