@@ -66058,6 +66058,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:50:53",
       "lastUpdated": "2026-08-31T09:20:53.387Z"
+    },
+    "WF-PRESTON-2D-S||JAFFNA-HOSPITAL ROAD": {
+      "remark": "No accessories",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:51:20",
+      "lastUpdated": "2026-08-31T09:21:20.780Z"
     }
   },
   "showroomVisits": {
@@ -67882,6 +67889,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "14:51:20",
+      "iso": "2026-08-31T09:21:20.783Z",
+      "action": "updated remark for WF-PRESTON-2D-S at JAFFNA-HOSPITAL ROAD: “No accessories”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "14:50:53",
       "iso": "2026-08-31T09:20:53.388Z",
       "action": "updated remark for HON-X8C-8-512-BLK at JAFFNA-HOSPITAL ROAD: “SOLD”"
@@ -68221,13 +68235,6 @@
       "time": "14:15:47",
       "iso": "2026-08-31T08:45:47.241Z",
       "action": "updated remark for PN-SC-BMAX5E-K at HATTON: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:15:01",
-      "iso": "2026-08-31T08:45:01.976Z",
-      "action": "updated remark for SLE86G6E at JAFFNA-HOSPITAL ROAD: “16% from MRP”"
     }
   ]
 }
