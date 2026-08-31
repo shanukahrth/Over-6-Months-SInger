@@ -66947,6 +66947,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:32:08",
       "lastUpdated": "2026-08-31T10:02:08.182Z"
+    },
+    "NUBIA-NEO3-5G-8-256-BLK||JAFFNA PANNAI BRANCH": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:31:56",
+      "lastUpdated": "2026-08-31T10:01:56.507Z"
     }
   },
   "showroomVisits": {
@@ -68783,9 +68790,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "NUBIA-NEO3-5G-8-256-BLK||JAFFNA PANNAI BRANCH": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:32:00",
+      "iso": "2026-08-31T10:02:00.398Z",
+      "action": "marked NUBIA-NEO3-5G-8-256-BLK at JAFFNA PANNAI BRANCH as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:31:56",
+      "iso": "2026-08-31T10:01:56.507Z",
+      "action": "updated remark for NUBIA-NEO3-5G-8-256-BLK at JAFFNA PANNAI BRANCH: “SOLD”"
+    },
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
@@ -69121,20 +69148,6 @@
       "time": "15:17:12",
       "iso": "2026-08-31T09:47:12.747Z",
       "action": "updated remark for WP-WDC11704RG-G at JAFFNA-HOSPITAL ROAD: “24% OFF MRP”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:17:39",
-      "iso": "2026-08-31T09:47:39.636Z",
-      "action": "updated remark for SL-PB-426 at HATTON: “80%- discolred”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:17:18",
-      "iso": "2026-08-31T09:47:18.888Z",
-      "action": "updated remark for RMG-3JAR550 at HATTON: “80%- defective”"
     }
   ]
 }
