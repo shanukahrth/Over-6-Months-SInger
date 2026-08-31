@@ -66198,6 +66198,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:00:37",
       "lastUpdated": "2026-08-31T09:30:37.909Z"
+    },
+    "GEO-242D-SV||JAFFNA-HOSPITAL ROAD": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:01:17",
+      "lastUpdated": "2026-08-31T09:31:17.411Z"
     }
   },
   "showroomVisits": {
@@ -68016,9 +68023,36 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "GEO-242D-SV||JAFFNA-HOSPITAL ROAD": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:01:17",
+      "iso": "2026-08-31T09:31:17.640Z",
+      "action": "marked GEO-242D-SV at JAFFNA-HOSPITAL ROAD as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:01:17",
+      "iso": "2026-08-31T09:31:17.413Z",
+      "action": "updated remark for GEO-242D-SV at JAFFNA-HOSPITAL ROAD: “SOLD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:01:07",
+      "iso": "2026-08-31T09:31:07.828Z",
+      "action": "updated remark for GEO-242D-SV at JAFFNA-HOSPITAL ROAD: “30% Off from mark price- LEG DAMAGE”"
+    },
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
@@ -68347,27 +68381,6 @@
       "time": "14:21:58",
       "iso": "2026-08-31T08:51:58.042Z",
       "action": "updated remark for FAN-WF1608R at HATTON: “1- Reported 1- 80%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:21:32",
-      "iso": "2026-08-31T08:51:32.891Z",
-      "action": "updated remark for OXY-FACEMASK at HATTON: “To be dropped”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:21:03",
-      "iso": "2026-08-31T08:51:03.234Z",
-      "action": "updated remark for UDV3618SY at HATTON: “MOP- 2000/=”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:20:44",
-      "iso": "2026-08-31T08:50:44.548Z",
-      "action": "updated remark for SDV3605K at HATTON: “MOP- 2000/=”"
     }
   ]
 }
