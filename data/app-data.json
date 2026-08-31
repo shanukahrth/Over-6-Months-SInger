@@ -65610,6 +65610,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "13:59:13",
       "lastUpdated": "2026-08-31T08:29:13.515Z"
+    },
+    "LF-LEO-15023-WNG-S||CHANKANI": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:00:10",
+      "lastUpdated": "2026-08-31T08:30:10.962Z"
     }
   },
   "showroomVisits": {
@@ -67410,6 +67417,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "14:00:10",
+      "iso": "2026-08-31T08:30:10.963Z",
+      "action": "updated remark for LF-LEO-15023-WNG-S at CHANKANI: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "13:59:13",
       "iso": "2026-08-31T08:29:13.516Z",
       "action": "updated remark for SMGUA32N4010 at CHANKANI: “80%”"
@@ -67749,13 +67763,6 @@
       "time": "13:20:09",
       "iso": "2026-08-31T07:50:09.063Z",
       "action": "updated SETTIKULAM showroom (team: Naveen, Adeesha, Thusitha)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "13:20:06",
-      "iso": "2026-08-31T07:50:06.353Z",
-      "action": "updated SETTIKULAM showroom (visited: Yes)"
     }
   ]
 }
