@@ -65673,6 +65673,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:06:42",
       "lastUpdated": "2026-08-31T08:36:42.032Z"
+    },
+    "SIN-PSVX938N||CHANKANI": {
+      "remark": "70% Not working",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:07:53",
+      "lastUpdated": "2026-08-31T08:37:53.077Z"
     }
   },
   "showroomVisits": {
@@ -67479,6 +67486,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "14:07:53",
+      "iso": "2026-08-31T08:37:53.078Z",
+      "action": "updated remark for SIN-PSVX938N at CHANKANI: “70% Not working”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "14:06:42",
       "iso": "2026-08-31T08:36:42.035Z",
       "action": "updated remark for LF-LEO-BRL-BCH at CHANKANI: “Damaged one part maximum 80%”"
@@ -67818,13 +67832,6 @@
       "time": "13:34:42",
       "iso": "2026-08-31T08:04:42.227Z",
       "action": "updated DARGA TOWN showroom (visitDate: 2026-08-07)"
-    },
-    {
-      "user": "Pabodha Rasanjalee",
-      "date": "2026-08-31",
-      "time": "13:34:39",
-      "iso": "2026-08-31T08:04:39.726Z",
-      "action": "updated DARGA TOWN showroom (visited: Yes)"
     }
   ]
 }
