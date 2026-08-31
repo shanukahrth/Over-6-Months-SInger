@@ -64203,6 +64203,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:26:47",
       "lastUpdated": "2026-08-31T05:56:47.867Z"
+    },
+    "WF-MILAN-BR-S||NELLIADY": {
+      "remark": "Rs. 30,000 off",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:27:31",
+      "lastUpdated": "2026-08-31T05:57:31.959Z"
+    },
+    "HON-X8C-8-512-WHT||NELLIADY": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:27:36",
+      "lastUpdated": "2026-08-31T05:57:36.980Z"
     }
   },
   "showroomVisits": {
@@ -65811,9 +65825,36 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "HON-X8C-8-512-WHT||NELLIADY": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:27:37",
+      "iso": "2026-08-31T05:57:37.034Z",
+      "action": "marked HON-X8C-8-512-WHT at NELLIADY as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:27:36",
+      "iso": "2026-08-31T05:57:36.980Z",
+      "action": "updated remark for HON-X8C-8-512-WHT at NELLIADY: “SOLD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:27:31",
+      "iso": "2026-08-31T05:57:31.960Z",
+      "action": "updated remark for WF-MILAN-BR-S at NELLIADY: “Rs. 30,000 off”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
@@ -66142,27 +66183,6 @@
       "time": "11:19:36",
       "iso": "2026-08-31T05:49:36.245Z",
       "action": "updated remark for AS-I3-11G-256-K513-670-SL at NELLIADY: “90% damage”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:20:12",
-      "iso": "2026-08-31T05:50:12.596Z",
-      "action": "updated remark for SLE32G690 at NUWARAELIYA A: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:19:23",
-      "iso": "2026-08-31T05:49:23.991Z",
-      "action": "updated remark for SMGUA55DU7500 at NELLIADY: “Special price 200,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:19:19",
-      "iso": "2026-08-31T05:49:19.160Z",
-      "action": "updated remark for SMGUA55DU7500 at NELLIADY: “SPecial price 200,000”"
     }
   ]
 }
