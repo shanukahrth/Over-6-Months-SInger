@@ -64448,6 +64448,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:45:21",
       "lastUpdated": "2026-08-31T06:15:21.308Z"
+    },
+    "DELL-3580-PQC-W10||MEGA -KATUBEDDA": {
+      "remark": "Not in the system (some error from ICD)",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:45:52",
+      "lastUpdated": "2026-08-31T06:15:52.284Z"
     }
   },
   "showroomVisits": {
@@ -66066,6 +66073,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "11:45:52",
+      "iso": "2026-08-31T06:15:52.285Z",
+      "action": "updated remark for DELL-3580-PQC-W10 at MEGA -KATUBEDDA: “Not in the system (some error from ICD)”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "11:46:14",
@@ -66407,13 +66421,6 @@
       "time": "11:29:25",
       "iso": "2026-08-31T05:59:25.893Z",
       "action": "updated remark for SLFEGATE-CT101W at NUWARAELIYA A: “Handing over”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:29:11",
-      "iso": "2026-08-31T05:59:11.100Z",
-      "action": "updated remark for SIN-DUO-W10 at NUWARAELIYA A: “Handing over”"
     }
   ]
 }
