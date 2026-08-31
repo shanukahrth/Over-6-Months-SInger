@@ -63601,6 +63601,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:05:13",
       "lastUpdated": "2026-08-31T05:35:13.076Z"
+    },
+    "HU-FREEBUD-4-SIL||NUWARAELIYA A": {
+      "remark": "RTWH",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:05:27",
+      "lastUpdated": "2026-08-31T05:35:27.325Z"
     }
   },
   "showroomVisits": {
@@ -65185,6 +65192,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "11:05:27",
+      "iso": "2026-08-31T05:35:27.326Z",
+      "action": "updated remark for HU-FREEBUD-4-SIL at NUWARAELIYA A: “RTWH”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "11:05:13",
       "iso": "2026-08-31T05:35:13.076Z",
       "action": "updated remark for HON-CH-WATCH-WHT at NUWARAELIYA A: “Saleable”"
@@ -65524,13 +65538,6 @@
       "time": "10:45:06",
       "iso": "2026-08-31T05:15:06.263Z",
       "action": "updated remark for SIN-RFC-2058 at NUWARAELIYA A: “Saleable”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:44:47",
-      "iso": "2026-08-31T05:14:47.263Z",
-      "action": "updated remark for SIN-RFC-1819 at NUWARAELIYA A: “35%”"
     }
   ]
 }
