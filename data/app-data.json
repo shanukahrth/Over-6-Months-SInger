@@ -66730,6 +66730,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:21:31",
       "lastUpdated": "2026-08-31T09:51:31.805Z"
+    },
+    "SIN-RFC-1819||HATTON": {
+      "remark": "35%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:22:29",
+      "lastUpdated": "2026-08-31T09:52:29.846Z"
     }
   },
   "showroomVisits": {
@@ -68570,6 +68577,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:22:29",
+      "iso": "2026-08-31T09:52:29.847Z",
+      "action": "updated remark for SIN-RFC-1819 at HATTON: “35%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:21:33",
@@ -68911,13 +68925,6 @@
       "time": "15:10:22",
       "iso": "2026-08-31T09:40:22.084Z",
       "action": "updated remark for GEO-242D-SV at JAFFNA-HOSPITAL ROAD: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:10:15",
-      "iso": "2026-08-31T09:40:15.921Z",
-      "action": "marked GEO-242D-SV at JAFFNA-HOSPITAL ROAD as Not Sold"
     }
   ]
 }
