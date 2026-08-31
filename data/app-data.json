@@ -64119,6 +64119,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:24:46",
       "lastUpdated": "2026-08-31T05:54:46.125Z"
+    },
+    "SLE43G890||NELLIADY": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:24:20",
+      "lastUpdated": "2026-08-31T05:54:20.593Z"
     }
   },
   "showroomVisits": {
@@ -65721,9 +65728,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "SLE43G890||NELLIADY": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:24:20",
+      "iso": "2026-08-31T05:54:20.657Z",
+      "action": "marked SLE43G890 at NELLIADY as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:24:20",
+      "iso": "2026-08-31T05:54:20.595Z",
+      "action": "updated remark for SLE43G890 at NELLIADY: “SOLD”"
+    },
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
@@ -66059,20 +66086,6 @@
       "time": "11:16:01",
       "iso": "2026-08-31T05:46:01.291Z",
       "action": "updated remark for WFL-KINGSTON-MR-S at MORATUWA: “20% OFF”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:15:48",
-      "iso": "2026-08-31T05:45:48.963Z",
-      "action": "updated remark for MB-SAFARI4S-RED at NELLIADY: “No discount”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "11:15:39",
-      "iso": "2026-08-31T05:45:39.338Z",
-      "action": "updated remark for WFL-NELBED at MORATUWA: “80% OFF - Damaged”"
     }
   ]
 }
