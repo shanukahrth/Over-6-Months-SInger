@@ -67171,6 +67171,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:52:08",
       "lastUpdated": "2026-08-31T10:22:08.170Z"
+    },
+    "SIN-VAC8515||HATTON": {
+      "remark": "90% -Damaged",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:52:25",
+      "lastUpdated": "2026-08-31T10:22:25.631Z"
     }
   },
   "showroomVisits": {
@@ -69019,6 +69026,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:52:25",
+      "iso": "2026-08-31T10:22:25.636Z",
+      "action": "updated remark for SIN-VAC8515 at HATTON: “90% -Damaged”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:52:08",
       "iso": "2026-08-31T10:22:08.176Z",
       "action": "updated remark for WC-XR1605 at HATTON: “95%”"
@@ -69358,13 +69372,6 @@
       "time": "15:28:30",
       "iso": "2026-08-31T09:58:30.024Z",
       "action": "updated remark for SL-ECO72 at HATTON: “90%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:27:42",
-      "iso": "2026-08-31T09:57:42.067Z",
-      "action": "updated remark for LF-BILLY-S at JAFFNA-HOSPITAL ROAD: “60% Off from mark price”"
     }
   ]
 }
