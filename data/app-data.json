@@ -63762,6 +63762,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:13:46",
       "lastUpdated": "2026-08-31T05:43:46.631Z"
+    },
+    "SLE32E390||NUWARAELIYA A": {
+      "remark": "90% - Panel Damage",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:14:38",
+      "lastUpdated": "2026-08-31T05:44:38.693Z"
     }
   },
   "showroomVisits": {
@@ -65356,6 +65363,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:14:38",
+      "iso": "2026-08-31T05:44:38.694Z",
+      "action": "updated remark for SLE32E390 at NUWARAELIYA A: “90% - Panel Damage”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:14:34",
+      "iso": "2026-08-31T05:44:34.998Z",
+      "action": "updated remark for SLE32E390 at NUWARAELIYA A: “90% - Panel Damage”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "11:13:46",
@@ -65690,20 +65711,6 @@
       "time": "10:53:41",
       "iso": "2026-08-31T05:23:41.823Z",
       "action": "updated remark for TF-IFP28-042 at CHAVAKACHCHERI (cleared)"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:53:11",
-      "iso": "2026-08-31T05:23:11.636Z",
-      "action": "updated remark for SMG-A36-5G-8-256-BLK at NUWARAELIYA A: “25%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:53:00",
-      "iso": "2026-08-31T05:23:00.734Z",
-      "action": "updated remark for SMG-A36-5G-8-128-BLK at NUWARAELIYA A: “25%”"
     }
   ]
 }
