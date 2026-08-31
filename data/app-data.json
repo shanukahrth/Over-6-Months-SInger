@@ -63015,11 +63015,11 @@
       "lastUpdated": "2026-08-31T04:56:49.442Z"
     },
     "LF-ORGN-BDQ-WHT||CHAVAKACHCHERI": {
-      "remark": "20%",
+      "remark": "20% Dead on arrival",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-08-31",
-      "commentTime": "10:27:07",
-      "lastUpdated": "2026-08-31T04:57:07.926Z"
+      "commentTime": "10:30:04",
+      "lastUpdated": "2026-08-31T05:00:04.712Z"
     },
     "PN-SC-BMAX5E-K||CHAVAKACHCHERI": {
       "remark": "20%",
@@ -64599,6 +64599,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:30:04",
+      "iso": "2026-08-31T05:00:04.713Z",
+      "action": "updated remark for LF-ORGN-BDQ-WHT at CHAVAKACHCHERI: “20% Dead on arrival”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "10:30:28",
@@ -64940,13 +64947,6 @@
       "time": "10:11:14",
       "iso": "2026-08-31T04:41:14.385Z",
       "action": "updated remark for SKY65X8700G at CHAVAKACHCHERI: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:11:09",
-      "iso": "2026-08-31T04:41:09.348Z",
-      "action": "updated remark for MB-SAFARI4S-RED at CHAVAKACHCHERI: “No Additional Discount”"
     }
   ]
 }
