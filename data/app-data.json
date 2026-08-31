@@ -66233,6 +66233,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:03:33",
       "lastUpdated": "2026-08-31T09:33:33.536Z"
+    },
+    "WFI-SOC-M005-BU-S||MEGA -KATUBEDDA": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:02:45",
+      "lastUpdated": "2026-08-31T09:32:45.545Z"
+    },
+    "TF-SI-EXS1230||MEGA -KATUBEDDA": {
+      "remark": "10% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:03:02",
+      "lastUpdated": "2026-08-31T09:33:02.920Z"
     }
   },
   "showroomVisits": {
@@ -68061,6 +68075,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "15:03:02",
+      "iso": "2026-08-31T09:33:02.921Z",
+      "action": "updated remark for TF-SI-EXS1230 at MEGA -KATUBEDDA: “10% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "15:02:45",
+      "iso": "2026-08-31T09:32:45.545Z",
+      "action": "updated remark for WFI-SOC-M005-BU-S at MEGA -KATUBEDDA: “-”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:03:02",
@@ -68395,20 +68423,6 @@
       "time": "14:23:51",
       "iso": "2026-08-31T08:53:51.595Z",
       "action": "updated remark for LF-BUDGET-DT-CLM-S at HATTON: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:23:00",
-      "iso": "2026-08-31T08:53:00.702Z",
-      "action": "updated remark for WFL-FLORAC at JAFFNA-HOSPITAL ROAD: “75% Off from mark price”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "14:23:25",
-      "iso": "2026-08-31T08:53:25.923Z",
-      "action": "updated remark for LF-BUDGET-2WD-AGO-S at HATTON: “80%”"
     }
   ]
 }
