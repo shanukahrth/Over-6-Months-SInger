@@ -63666,11 +63666,11 @@
       "lastUpdated": "2026-08-31T05:38:12.755Z"
     },
     "ZTE-NUBIA-5G-8-256-YLW||MORATUWA": {
-      "remark": "45%",
+      "remark": "45% o",
       "commentedBy": "Sulani",
       "commentDate": "2026-08-31",
-      "commentTime": "11:08:26",
-      "lastUpdated": "2026-08-31T05:38:26.902Z"
+      "commentTime": "11:08:43",
+      "lastUpdated": "2026-08-31T05:38:43.142Z"
     }
   },
   "showroomVisits": {
@@ -65255,9 +65255,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "ZTE-NUBIA-5G-8-256-YLW||MORATUWA": {
+      "sold": false,
+      "comment": "OF",
+      "updatedBy": "Sulani",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "11:08:43",
+      "iso": "2026-08-31T05:38:43.142Z",
+      "action": "updated remark for ZTE-NUBIA-5G-8-256-YLW at MORATUWA: “45% o”"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -65600,13 +65613,6 @@
       "time": "10:48:26",
       "iso": "2026-08-31T05:18:26.910Z",
       "action": "updated remark for HON-X6B-6-128-GRN at NUWARAELIYA A: “50% - Display”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:48:03",
-      "iso": "2026-08-31T05:18:03.924Z",
-      "action": "updated remark for HON-X6B-6-128-BLK at NUWARAELIYA A: “Reported”"
     }
   ]
 }
