@@ -65221,9 +65221,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-08-31"
+    },
+    "PN-TH-65MX740N||NELLIADY": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-08-31"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "11:06:42",
+      "iso": "2026-08-31T05:36:42.756Z",
+      "action": "marked PN-TH-65MX740N at NELLIADY as Sold"
+    },
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
@@ -65566,13 +65579,6 @@
       "time": "10:46:45",
       "iso": "2026-08-31T05:16:45.608Z",
       "action": "updated remark for HON-X7C-8-256-BLK at NUWARAELIYA A: “50% - Display”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:45:43",
-      "iso": "2026-08-31T05:15:43.021Z",
-      "action": "updated remark for BES-WP15-ECO at CHAVAKACHCHERI: “70%”"
     }
   ]
 }
