@@ -62873,6 +62873,27 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:19:03",
       "lastUpdated": "2026-08-31T04:49:03.534Z"
+    },
+    "SAIL180104||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:19:28",
+      "lastUpdated": "2026-08-31T04:49:28.666Z"
+    },
+    "SAIL180105||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:19:32",
+      "lastUpdated": "2026-08-31T04:49:32.868Z"
+    },
+    "SAIL180106||SHOMES- CHILAW": {
+      "remark": "Damaged - 95%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:19:37",
+      "lastUpdated": "2026-08-31T04:49:37.363Z"
     }
   },
   "showroomVisits": {
@@ -64431,6 +64452,27 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "10:19:37",
+      "iso": "2026-08-31T04:49:37.364Z",
+      "action": "updated remark for SAIL180106 at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "10:19:32",
+      "iso": "2026-08-31T04:49:32.870Z",
+      "action": "updated remark for SAIL180105 at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
+      "time": "10:19:28",
+      "iso": "2026-08-31T04:49:28.668Z",
+      "action": "updated remark for SAIL180104 at SHOMES- CHILAW: “Damaged - 95%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "10:19:03",
@@ -64758,27 +64800,6 @@
       "time": "10:01:39",
       "iso": "2026-08-31T04:31:39.909Z",
       "action": "updated remark for SMGUA32N4000 at JAFFNA: “80% off MRP”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:01:30",
-      "iso": "2026-08-31T04:31:30.075Z",
-      "action": "updated remark for MC8280 at JAFFNA: “Special Price 12,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:00:54",
-      "iso": "2026-08-31T04:30:54.300Z",
-      "action": "updated remark for SBI-60M19-T at JAFFNA: “Sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:00:39",
-      "iso": "2026-08-31T04:30:39.925Z",
-      "action": "marked SBI-60M19-T at JAFFNA as Sold"
     }
   ]
 }
