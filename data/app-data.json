@@ -66945,6 +66945,14 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "ELPITIYA||AMBALANGODA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -67208,6 +67216,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:34:50",
+      "iso": "2026-08-31T08:04:50.961Z",
+      "action": "updated ELPITIYA showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-31",
@@ -67549,13 +67564,6 @@
       "date": "2026-08-31",
       "time": "13:09:17",
       "iso": "2026-08-31T07:39:17.359Z",
-      "action": "updated remark for SMW823AY7 at MEGA -KATUBEDDA: “15% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:09:06",
-      "iso": "2026-08-31T07:39:06.510Z",
       "action": "updated remark for SMW823AY7 at MEGA -KATUBEDDA: “15% OFF”"
     }
   ]
