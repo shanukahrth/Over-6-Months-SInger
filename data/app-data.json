@@ -61809,6 +61809,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "08:31:45",
       "lastUpdated": "2026-08-31T03:01:45.578Z"
+    },
+    "WF-LEXUS-DTO-S||WENNAPPUWA": {
+      "remark": "Damaged - 75%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "08:32:34",
+      "lastUpdated": "2026-08-31T03:02:34.966Z"
     }
   },
   "showroomVisits": {
@@ -63321,6 +63328,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "08:32:34",
+      "iso": "2026-08-31T03:02:34.967Z",
+      "action": "updated remark for WF-LEXUS-DTO-S at WENNAPPUWA: “Damaged - 75%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "08:31:45",
       "iso": "2026-08-31T03:01:45.579Z",
       "action": "updated remark for WFL-FLORAC-09-YL-S at WENNAPPUWA: “Damaged - 40%”"
@@ -63660,13 +63674,6 @@
       "time": "16:14:30",
       "iso": "2026-08-28T10:44:30.084Z",
       "action": "updated remark for WF-PRST-BDQ-W-S at SHOMES- CHILAW: “Damaged- 40%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-28",
-      "time": "16:13:17",
-      "iso": "2026-08-28T10:43:17.026Z",
-      "action": "updated remark for SLE75G6E at CHILAW: “Sold out”"
     }
   ]
 }
