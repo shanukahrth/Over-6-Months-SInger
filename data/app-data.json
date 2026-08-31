@@ -66478,6 +66478,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:11:55",
       "lastUpdated": "2026-08-31T09:41:55.108Z"
+    },
+    "TF-NIDFP24-170||HATTON": {
+      "remark": "Flat 40%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:12:55",
+      "lastUpdated": "2026-08-31T09:42:55.962Z"
+    },
+    "TF-NIGP26-119||HATTON": {
+      "remark": "Flat 40%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:12:59",
+      "lastUpdated": "2026-08-31T09:42:59.577Z"
     }
   },
   "showroomVisits": {
@@ -68306,6 +68320,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:12:59",
+      "iso": "2026-08-31T09:42:59.578Z",
+      "action": "updated remark for TF-NIGP26-119 at HATTON: “Flat 40%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:12:55",
+      "iso": "2026-08-31T09:42:55.963Z",
+      "action": "updated remark for TF-NIDFP24-170 at HATTON: “Flat 40%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "15:11:55",
@@ -68640,20 +68668,6 @@
       "time": "15:02:45",
       "iso": "2026-08-31T09:32:45.545Z",
       "action": "updated remark for WFI-SOC-M005-BU-S at MEGA -KATUBEDDA: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:03:02",
-      "iso": "2026-08-31T09:33:02.578Z",
-      "action": "updated remark for GEO-242D-SV at JAFFNA-HOSPITAL ROAD: “30% Off from mark price- Leg damage”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:03:33",
-      "iso": "2026-08-31T09:33:33.537Z",
-      "action": "updated remark for WF-JUPITER-S at HATTON: “80%”"
     }
   ]
 }
