@@ -65813,6 +65813,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:16:52",
       "lastUpdated": "2026-08-31T08:46:52.548Z"
+    },
+    "SIN-PSVX938N||HATTON": {
+      "remark": "MOP- 18,500/=",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:17:46",
+      "lastUpdated": "2026-08-31T08:47:46.777Z"
     }
   },
   "showroomVisits": {
@@ -67623,6 +67630,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:17:46",
+      "iso": "2026-08-31T08:47:46.778Z",
+      "action": "updated remark for SIN-PSVX938N at HATTON: “MOP- 18,500/=”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "14:17:44",
+      "iso": "2026-08-31T08:47:44.812Z",
+      "action": "updated remark for SIN-PSVX938N at HATTON: “MOP- 18,500/=”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "14:16:52",
@@ -67957,20 +67978,6 @@
       "time": "13:52:21",
       "iso": "2026-08-31T08:22:21.661Z",
       "action": "updated remark for SLE55G22N at CHANKANI: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:51:56",
-      "iso": "2026-08-31T08:21:56.274Z",
-      "action": "updated remark for GEO-182S-BU1 at CHANKANI: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "13:51:28",
-      "iso": "2026-08-31T08:21:28.358Z",
-      "action": "updated remark for WFL-CRYSTAL-75X60-S at CHANKANI: “60%”"
     }
   ]
 }
