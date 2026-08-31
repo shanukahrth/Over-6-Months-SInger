@@ -66517,6 +66517,14 @@
       "remark": "Not visited physically but hv shared all the discounts",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "AMBALANGODA||AMBALANGODA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -66780,6 +66788,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "12:48:12",
+      "iso": "2026-08-31T07:18:12.184Z",
+      "action": "updated AMBALANGODA showroom (visited: Yes)"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -67122,13 +67137,6 @@
       "time": "12:17:09",
       "iso": "2026-08-31T06:47:09.460Z",
       "action": "updated remark for BES-TOUCH-41 at MEGA -KATUBEDDA: “50% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:17:05",
-      "iso": "2026-08-31T06:47:05.091Z",
-      "action": "updated remark for BES-WP15-ECO at MEGA -KATUBEDDA: “30% OFF”"
     }
   ]
 }
