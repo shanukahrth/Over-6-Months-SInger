@@ -65631,6 +65631,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:02:53",
       "lastUpdated": "2026-08-31T08:32:53.562Z"
+    },
+    "SYM-HIC-26I||CHANKANI": {
+      "remark": "80%- damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:03:41",
+      "lastUpdated": "2026-08-31T08:33:41.074Z"
     }
   },
   "showroomVisits": {
@@ -67431,6 +67438,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "14:03:41",
+      "iso": "2026-08-31T08:33:41.077Z",
+      "action": "updated remark for SYM-HIC-26I at CHANKANI: “80%- damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "14:02:53",
       "iso": "2026-08-31T08:32:53.564Z",
       "action": "updated remark for SACL-LLQ8A1-20L at CHANKANI: “80% no product available”"
@@ -67770,13 +67784,6 @@
       "time": "13:20:56",
       "iso": "2026-08-31T07:50:56.868Z",
       "action": "updated KEBITHIGOLLEWA showroom (visited: Yes)"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:20:48",
-      "iso": "2026-08-31T07:50:48.124Z",
-      "action": "updated remark for TCL85C655 at MEGA -KATUBEDDA: “40% OFF”"
     }
   ]
 }
