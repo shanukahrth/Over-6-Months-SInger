@@ -62208,6 +62208,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "09:13:24",
       "lastUpdated": "2026-08-31T03:43:24.780Z"
+    },
+    "SMGUA32T4400||CHILAW": {
+      "remark": "Display damaged - 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-08-31",
+      "commentTime": "09:13:58",
+      "lastUpdated": "2026-08-31T03:43:58.058Z"
     }
   },
   "showroomVisits": {
@@ -63720,6 +63727,13 @@
     {
       "user": "Sulani",
       "date": "2026-08-31",
+      "time": "09:13:58",
+      "iso": "2026-08-31T03:43:58.060Z",
+      "action": "updated remark for SMGUA32T4400 at CHILAW: “Display damaged - 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-08-31",
       "time": "09:13:24",
       "iso": "2026-08-31T03:43:24.781Z",
       "action": "updated remark for SMGUA32N4010 at CHILAW: “Damaged - 75% (Revert)”"
@@ -64059,13 +64073,6 @@
       "time": "08:48:00",
       "iso": "2026-08-31T03:18:00.576Z",
       "action": "updated remark for HAVIT-MS851-MOUSE at KURUNEGALA C: “Damaged - 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "08:46:45",
-      "iso": "2026-08-31T03:16:45.938Z",
-      "action": "updated remark for G-STC3900N at KURUNEGALA C: “Damaged - 50%”"
     }
   ]
 }
