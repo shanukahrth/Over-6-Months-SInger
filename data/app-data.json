@@ -66969,6 +66969,14 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "SHOMES-KALUTARA||KALUTARA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-07",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -67232,6 +67240,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:37:29",
+      "iso": "2026-08-31T08:07:29.474Z",
+      "action": "updated SHOMES-KALUTARA showroom (visitDate: 2026-08-07)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:37:27",
+      "iso": "2026-08-31T08:07:27.334Z",
+      "action": "updated SHOMES-KALUTARA showroom (visited: Yes)"
+    },
     {
       "user": "Pabodha Rasanjalee",
       "date": "2026-08-31",
@@ -67567,20 +67589,6 @@
       "time": "13:11:47",
       "iso": "2026-08-31T07:41:47.877Z",
       "action": "updated remark for TF-AF32-577 at MEGA -KATUBEDDA: “30% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:11:22",
-      "iso": "2026-08-31T07:41:22.467Z",
-      "action": "updated remark for TCL65C655 at MEGA -KATUBEDDA: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:11:00",
-      "iso": "2026-08-31T07:41:00.223Z",
-      "action": "updated remark for SWH-SLIM228EP at MEGA -KATUBEDDA: “40% OFF”"
     }
   ]
 }
