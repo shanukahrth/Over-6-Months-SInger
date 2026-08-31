@@ -66675,6 +66675,14 @@
       "remark": "",
       "updatedBy": "Pabodha Rasanjalee",
       "updatedDate": "2026-08-31"
+    },
+    "ALUTHGAMA||AMBALANGODA": {
+      "visited": "Yes",
+      "visitDate": "2026-08-07",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Pabodha Rasanjalee",
+      "updatedDate": "2026-08-31"
     }
   },
   "soldMarks": {
@@ -66938,6 +66946,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:04:37",
+      "iso": "2026-08-31T07:34:37.781Z",
+      "action": "updated ALUTHGAMA showroom (visitDate: 2026-08-07)"
+    },
+    {
+      "user": "Pabodha Rasanjalee",
+      "date": "2026-08-31",
+      "time": "13:04:35",
+      "iso": "2026-08-31T07:34:35.667Z",
+      "action": "updated ALUTHGAMA showroom (visited: Yes)"
+    },
     {
       "user": "Sulani",
       "date": "2026-08-31",
@@ -67273,20 +67295,6 @@
       "time": "12:38:15",
       "iso": "2026-08-31T07:08:15.846Z",
       "action": "updated remark for M-SRK10YXP-W7 at MEGA -KATUBEDDA: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:37:52",
-      "iso": "2026-08-31T07:07:52.132Z",
-      "action": "updated remark for LF-SLVY-DTO-WHT-S at MEGA -KATUBEDDA: “65% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "12:37:47",
-      "iso": "2026-08-31T07:07:47.296Z",
-      "action": "updated remark for LF-SLVY-BDQ-WHT-S at MEGA -KATUBEDDA: “65% OFF”"
     }
   ]
 }
