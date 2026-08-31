@@ -64427,6 +64427,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:42:35",
       "lastUpdated": "2026-08-31T06:12:35.272Z"
+    },
+    "SLE24D1000||NELLIADY": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:42:57",
+      "lastUpdated": "2026-08-31T06:12:57.301Z"
     }
   },
   "showroomVisits": {
@@ -66047,6 +66054,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "11:42:57",
+      "iso": "2026-08-31T06:12:57.303Z",
+      "action": "updated remark for SLE24D1000 at NELLIADY: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "11:42:35",
       "iso": "2026-08-31T06:12:35.273Z",
       "action": "updated remark for SLE32E920 at NELLIADY: “80% Damage”"
@@ -66386,13 +66400,6 @@
       "time": "11:27:31",
       "iso": "2026-08-31T05:57:31.960Z",
       "action": "updated remark for WF-MILAN-BR-S at NELLIADY: “Rs. 30,000 off”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "11:26:47",
-      "iso": "2026-08-31T05:56:47.868Z",
-      "action": "updated remark for WF-AUSTIN-SB-BG-S at NELLIADY: “35%”"
     }
   ]
 }
