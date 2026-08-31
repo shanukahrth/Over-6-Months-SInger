@@ -66933,6 +66933,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:30:04",
       "lastUpdated": "2026-08-31T10:00:04.302Z"
+    },
+    "SLE32E930||HATTON": {
+      "remark": "90%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:32:03",
+      "lastUpdated": "2026-08-31T10:02:03.927Z"
+    },
+    "SLE32G690||HATTON": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:32:08",
+      "lastUpdated": "2026-08-31T10:02:08.182Z"
     }
   },
   "showroomVisits": {
@@ -68773,6 +68787,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:32:08",
+      "iso": "2026-08-31T10:02:08.186Z",
+      "action": "updated remark for SLE32G690 at HATTON: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:32:03",
+      "iso": "2026-08-31T10:02:03.932Z",
+      "action": "updated remark for SLE32E930 at HATTON: “90%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:30:04",
@@ -69107,20 +69135,6 @@
       "time": "15:17:18",
       "iso": "2026-08-31T09:47:18.888Z",
       "action": "updated remark for RMG-3JAR550 at HATTON: “80%- defective”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:16:37",
-      "iso": "2026-08-31T09:46:37.072Z",
-      "action": "updated remark for SLE55GENR at JAFFNA-HOSPITAL ROAD: “40% Off from mark price”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:16:59",
-      "iso": "2026-08-31T09:46:59.118Z",
-      "action": "updated remark for PMG-TEON at HATTON: “90%- defective”"
     }
   ]
 }
