@@ -66807,6 +66807,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:24:30",
       "lastUpdated": "2026-08-31T09:54:30.056Z"
+    },
+    "SMG-A36-5G-8-256-BLK||HATTON": {
+      "remark": "25%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:25:35",
+      "lastUpdated": "2026-08-31T09:55:35.682Z"
+    },
+    "SY-F3116||HATTON": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:25:40",
+      "lastUpdated": "2026-08-31T09:55:40.374Z"
     }
   },
   "showroomVisits": {
@@ -68647,6 +68661,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:25:40",
+      "iso": "2026-08-31T09:55:40.374Z",
+      "action": "updated remark for SY-F3116 at HATTON: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:25:35",
+      "iso": "2026-08-31T09:55:35.683Z",
+      "action": "updated remark for SMG-A36-5G-8-256-BLK at HATTON: “25%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
       "time": "15:24:30",
@@ -68981,20 +69009,6 @@
       "time": "15:12:37",
       "iso": "2026-08-31T09:42:37.215Z",
       "action": "updated remark for PCR-CASRL20-256 at MEGA -KATUBEDDA: “25% OFF”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:13:15",
-      "iso": "2026-08-31T09:43:15.419Z",
-      "action": "updated remark for TF-NIDFP24-170 at HATTON (cleared)"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:12:59",
-      "iso": "2026-08-31T09:42:59.578Z",
-      "action": "updated remark for TF-NIGP26-119 at HATTON: “Flat 40%”"
     }
   ]
 }
