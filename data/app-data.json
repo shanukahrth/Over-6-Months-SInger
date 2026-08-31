@@ -64114,11 +64114,11 @@
       "lastUpdated": "2026-08-31T05:53:55.816Z"
     },
     "SWM-FA70R||NUWARAELIYA A": {
-      "remark": "60% -Revert",
+      "remark": "50%",
       "commentedBy": "Kaveesha",
       "commentDate": "2026-08-31",
-      "commentTime": "11:48:30",
-      "lastUpdated": "2026-08-31T06:18:30.060Z"
+      "commentTime": "11:48:57",
+      "lastUpdated": "2026-08-31T06:18:57.093Z"
     },
     "SLE43G890||NELLIADY": {
       "remark": "60% working condition",
@@ -66129,6 +66129,13 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "11:48:57",
+      "iso": "2026-08-31T06:18:57.095Z",
+      "action": "updated remark for SWM-FA70R at NUWARAELIYA A: “50%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-08-31",
       "time": "11:48:14",
@@ -66470,13 +66477,6 @@
       "time": "11:32:54",
       "iso": "2026-08-31T06:02:54.590Z",
       "action": "updated remark for PU-SINK-N-S at NUWARAELIYA A: “Pantry”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:32:21",
-      "iso": "2026-08-31T06:02:21.796Z",
-      "action": "updated remark for LF-GALANT-AGO-S at NUWARAELIYA A: “80% - Parts case”"
     }
   ]
 }
