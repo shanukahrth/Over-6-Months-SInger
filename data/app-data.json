@@ -64308,6 +64308,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:32:21",
       "lastUpdated": "2026-08-31T06:02:21.795Z"
+    },
+    "PU-SINK-N-S||NUWARAELIYA A": {
+      "remark": "Pantry",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:32:54",
+      "lastUpdated": "2026-08-31T06:02:54.589Z"
     }
   },
   "showroomVisits": {
@@ -65928,6 +65935,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "11:32:54",
+      "iso": "2026-08-31T06:02:54.590Z",
+      "action": "updated remark for PU-SINK-N-S at NUWARAELIYA A: “Pantry”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "11:32:21",
       "iso": "2026-08-31T06:02:21.796Z",
       "action": "updated remark for LF-GALANT-AGO-S at NUWARAELIYA A: “80% - Parts case”"
@@ -66267,13 +66281,6 @@
       "time": "11:22:46",
       "iso": "2026-08-31T05:52:46.964Z",
       "action": "updated remark for TCL70P635 at NELLIADY: “70% off - damaged”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "11:23:23",
-      "iso": "2026-08-31T05:53:23.703Z",
-      "action": "updated remark for TCLED40D65A at NUWARAELIYA A: “Exchange”"
     }
   ]
 }
