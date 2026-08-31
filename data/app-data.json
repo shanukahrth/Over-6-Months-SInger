@@ -63713,6 +63713,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "11:12:20",
       "lastUpdated": "2026-08-31T05:42:20.389Z"
+    },
+    "SLE32D1800||NUWARAELIYA A": {
+      "remark": "90% - Panel Damage",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "11:13:20",
+      "lastUpdated": "2026-08-31T05:43:20.125Z"
     }
   },
   "showroomVisits": {
@@ -65309,6 +65316,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "11:13:20",
+      "iso": "2026-08-31T05:43:20.126Z",
+      "action": "updated remark for SLE32D1800 at NUWARAELIYA A: “90% - Panel Damage”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "11:12:20",
       "iso": "2026-08-31T05:42:20.390Z",
       "action": "updated remark for SLE24E810 at NUWARAELIYA A: “Exchange”"
@@ -65648,13 +65662,6 @@
       "time": "10:51:13",
       "iso": "2026-08-31T05:21:13.892Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-ONG at NUWARAELIYA A: “35%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:51:00",
-      "iso": "2026-08-31T05:21:00.926Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at NUWARAELIYA A: “35%”"
     }
   ]
 }
