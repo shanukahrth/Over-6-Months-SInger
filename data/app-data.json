@@ -63454,6 +63454,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "10:51:58",
       "lastUpdated": "2026-08-31T05:21:58.421Z"
+    },
+    "SLE24E810||CHAVAKACHCHERI": {
+      "remark": "90%- damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:51:21",
+      "lastUpdated": "2026-08-31T05:21:21.334Z"
+    },
+    "TF-IFP28-042||CHAVAKACHCHERI": {
+      "remark": "90%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "10:51:32",
+      "lastUpdated": "2026-08-31T05:21:32.365Z"
     }
   },
   "showroomVisits": {
@@ -65036,6 +65050,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:51:32",
+      "iso": "2026-08-31T05:21:32.366Z",
+      "action": "updated remark for TF-IFP28-042 at CHAVAKACHCHERI: “90%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "10:51:21",
+      "iso": "2026-08-31T05:21:21.336Z",
+      "action": "updated remark for SLE24E810 at CHAVAKACHCHERI: “90%- damaged”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "10:51:58",
@@ -65370,20 +65398,6 @@
       "time": "10:38:57",
       "iso": "2026-08-31T05:08:57.087Z",
       "action": "updated remark for TF-TT365027 at NUWARAELIYA A: “80% -Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "10:38:11",
-      "iso": "2026-08-31T05:08:11.430Z",
-      "action": "updated remark for SLE32E930 at CHAVAKACHCHERI: “90%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "10:37:36",
-      "iso": "2026-08-31T05:07:36.814Z",
-      "action": "updated remark for MID-MJ-KM6001W at NUWARAELIYA A: “25%”"
     }
   ]
 }
