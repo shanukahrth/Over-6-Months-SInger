@@ -27826,11 +27826,11 @@
       "lastUpdated": "2026-08-20T04:51:03.400Z"
     },
     "SLE55D5010TC||JA-ELA": {
-      "remark": "exchange",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-20",
-      "commentTime": "10:21:20",
-      "lastUpdated": "2026-08-20T04:51:20.400Z"
+      "remark": "exchange 90% Special disc. Damaged",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-08-31",
+      "commentTime": "19:56:14",
+      "lastUpdated": "2026-08-31T14:26:14.057Z"
     },
     "LF-MIKO-WD-SHW||KATUGASTOTA": {
       "remark": "50%",
@@ -69248,6 +69248,13 @@
     {
       "user": "Shanuka",
       "date": "2026-08-31",
+      "time": "19:56:14",
+      "iso": "2026-08-31T14:26:14.059Z",
+      "action": "updated remark for SLE55D5010TC at JA-ELA: “exchange 90% Special disc. Damaged”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-08-31",
       "time": "19:55:33",
       "iso": "2026-08-31T14:25:33.903Z",
       "action": "updated remark for SLE32G690 at JA-ELA: “exchange 90%”"
@@ -69587,13 +69594,6 @@
       "time": "15:52:08",
       "iso": "2026-08-31T10:22:08.176Z",
       "action": "updated remark for WC-XR1605 at HATTON: “95%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:51:45",
-      "iso": "2026-08-31T10:21:45.480Z",
-      "action": "updated remark for WC-IK518 at HATTON: “95%”"
     }
   ]
 }
