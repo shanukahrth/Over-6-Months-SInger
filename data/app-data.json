@@ -65533,6 +65533,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "13:51:28",
       "lastUpdated": "2026-08-31T08:21:28.357Z"
+    },
+    "GEO-182S-BU1||CHANKANI": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "13:51:56",
+      "lastUpdated": "2026-08-31T08:21:56.273Z"
     }
   },
   "showroomVisits": {
@@ -67327,6 +67334,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-08-31",
+      "time": "13:51:56",
+      "iso": "2026-08-31T08:21:56.274Z",
+      "action": "updated remark for GEO-182S-BU1 at CHANKANI: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
       "time": "13:51:28",
       "iso": "2026-08-31T08:21:28.358Z",
       "action": "updated remark for WFL-CRYSTAL-75X60-S at CHANKANI: “60%”"
@@ -67666,13 +67680,6 @@
       "time": "13:18:11",
       "iso": "2026-08-31T07:48:11.300Z",
       "action": "updated remark for SIN-RFC-1819 at MEGA -KATUBEDDA: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-08-31",
-      "time": "13:17:37",
-      "iso": "2026-08-31T07:47:37.236Z",
-      "action": "updated remark for SBI-QX60VDSS at MEGA -KATUBEDDA: “5% OFF”"
     }
   ]
 }
