@@ -66737,6 +66737,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:22:29",
       "lastUpdated": "2026-08-31T09:52:29.846Z"
+    },
+    "LF-ORGN-DTO-WHT||JAFFNA-HOSPITAL ROAD": {
+      "remark": "40% Off from mark price",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:22:04",
+      "lastUpdated": "2026-08-31T09:52:04.720Z"
     }
   },
   "showroomVisits": {
@@ -68577,6 +68584,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-08-31",
+      "time": "15:22:04",
+      "iso": "2026-08-31T09:52:04.721Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at JAFFNA-HOSPITAL ROAD: “40% Off from mark price”"
+    },
+    {
       "user": "Kaveesha",
       "date": "2026-08-31",
       "time": "15:22:29",
@@ -68918,13 +68932,6 @@
       "time": "15:10:40",
       "iso": "2026-08-31T09:40:40.182Z",
       "action": "updated remark for PN-SC-BMAX10E-K at JAFFNA-HOSPITAL ROAD: “40% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:10:22",
-      "iso": "2026-08-31T09:40:22.084Z",
-      "action": "updated remark for GEO-242D-SV at JAFFNA-HOSPITAL ROAD: “SOLD”"
     }
   ]
 }
