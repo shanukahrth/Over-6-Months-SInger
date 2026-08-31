@@ -66303,6 +66303,20 @@
       "commentDate": "2026-08-31",
       "commentTime": "15:06:04",
       "lastUpdated": "2026-08-31T09:36:04.995Z"
+    },
+    "WF-BERLIN-ST-WW-S||HATTON": {
+      "remark": "70%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:06:26",
+      "lastUpdated": "2026-08-31T09:36:26.999Z"
+    },
+    "PF-ENVISION-BL-S||HATTON": {
+      "remark": "80%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "15:06:31",
+      "lastUpdated": "2026-08-31T09:36:31.134Z"
     }
   },
   "showroomVisits": {
@@ -68133,6 +68147,20 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "15:06:31",
+      "iso": "2026-08-31T09:36:31.135Z",
+      "action": "updated remark for PF-ENVISION-BL-S at HATTON: “80%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
+      "time": "15:06:27",
+      "iso": "2026-08-31T09:36:27.000Z",
+      "action": "updated remark for WF-BERLIN-ST-WW-S at HATTON: “70%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "15:06:04",
       "iso": "2026-08-31T09:36:04.997Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at HATTON: “50%”"
@@ -68465,20 +68493,6 @@
       "time": "14:50:09",
       "iso": "2026-08-31T09:20:09.907Z",
       "action": "marked NUBIA-AIR-8-256GB-ST-BLK at JAFFNA-HOSPITAL ROAD as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:50:09",
-      "iso": "2026-08-31T09:20:09.795Z",
-      "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at JAFFNA-HOSPITAL ROAD: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:49:52",
-      "iso": "2026-08-31T09:19:52.043Z",
-      "action": "updated remark for B-CWB6441XN at JAFFNA-HOSPITAL ROAD: “50% Off from mark price”"
     }
   ]
 }
