@@ -66016,6 +66016,13 @@
       "commentDate": "2026-08-31",
       "commentTime": "14:26:11",
       "lastUpdated": "2026-08-31T08:56:11.941Z"
+    },
+    "LF-MILFORD-SB-S||HATTON": {
+      "remark": "RTWH",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-08-31",
+      "commentTime": "14:26:32",
+      "lastUpdated": "2026-08-31T08:56:32.484Z"
     }
   },
   "showroomVisits": {
@@ -67828,6 +67835,13 @@
     {
       "user": "Kaveesha",
       "date": "2026-08-31",
+      "time": "14:26:32",
+      "iso": "2026-08-31T08:56:32.485Z",
+      "action": "updated remark for LF-MILFORD-SB-S at HATTON: “RTWH”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-08-31",
       "time": "14:26:11",
       "iso": "2026-08-31T08:56:11.943Z",
       "action": "updated remark for LF-GALANT-CLM-S at HATTON: “Revert”"
@@ -68167,13 +68181,6 @@
       "time": "14:10:50",
       "iso": "2026-08-31T08:40:50.766Z",
       "action": "updated remark for TF-IFP28-042 at CHANKANI: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "14:10:35",
-      "iso": "2026-08-31T08:40:35.675Z",
-      "action": "updated remark for TF-NIK26-045 at CHANKANI: “50%”"
     }
   ]
 }
