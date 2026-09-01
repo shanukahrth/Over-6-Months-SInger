@@ -70321,6 +70321,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:23:15",
       "lastUpdated": "2026-09-01T09:53:15.448Z"
+    },
+    "SN-SMI-285||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:24:07",
+      "lastUpdated": "2026-09-01T09:54:07.655Z"
     }
   },
   "showroomVisits": {
@@ -72263,6 +72270,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:24:07",
+      "iso": "2026-09-01T09:54:07.657Z",
+      "action": "updated remark for SN-SMI-285 at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:23:15",
       "iso": "2026-09-01T09:53:15.449Z",
       "action": "updated remark for HON-CH-EARBUDS-X7E at KATANA: “Active SKU, No Discounts applicable”"
@@ -72602,13 +72616,6 @@
       "time": "13:58:07",
       "iso": "2026-09-01T08:28:07.300Z",
       "action": "updated remark for TF-NIDFP24-170 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:57:50",
-      "iso": "2026-09-01T08:27:50.047Z",
-      "action": "updated remark for ULED32D5000 at SEEDUWA: “Return to warehouse”"
     }
   ]
 }
