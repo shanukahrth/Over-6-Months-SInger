@@ -69005,6 +69005,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:26:57",
       "lastUpdated": "2026-09-01T06:56:57.798Z"
+    },
+    "LF-EUSTON-TVS-WH-S||SEEDUWA": {
+      "remark": "active location extra 10%, increase based on the condition",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:27:51",
+      "lastUpdated": "2026-09-01T06:57:51.454Z"
     }
   },
   "showroomVisits": {
@@ -70947,6 +70954,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:27:51",
+      "iso": "2026-09-01T06:57:51.458Z",
+      "action": "updated remark for LF-EUSTON-TVS-WH-S at SEEDUWA: “active location extra 10%, increase based on the condition”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:26:57",
       "iso": "2026-09-01T06:56:57.799Z",
       "action": "updated remark for LF-ECO-BDS-BON-S at SEEDUWA: “50%”"
@@ -71286,13 +71300,6 @@
       "time": "12:13:56",
       "iso": "2026-09-01T06:43:56.685Z",
       "action": "updated remark for SA200 at DANKOTUWA: “0”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:13:44",
-      "iso": "2026-09-01T06:43:44.934Z",
-      "action": "updated remark for PWRMAX at DANKOTUWA: “0”"
     }
   ]
 }
