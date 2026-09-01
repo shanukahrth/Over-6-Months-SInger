@@ -70195,6 +70195,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:13:54",
       "lastUpdated": "2026-09-01T09:43:54.540Z"
+    },
+    "SISIL-RC180||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:14:52",
+      "lastUpdated": "2026-09-01T09:44:52.481Z"
     }
   },
   "showroomVisits": {
@@ -72137,6 +72144,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:14:52",
+      "iso": "2026-09-01T09:44:52.482Z",
+      "action": "updated remark for SISIL-RC180 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:13:54",
       "iso": "2026-09-01T09:43:54.541Z",
       "action": "updated remark for SLMC-18DSLHS at KATANA: “Already provided”"
@@ -72476,13 +72490,6 @@
       "time": "13:54:16",
       "iso": "2026-09-01T08:24:16.966Z",
       "action": "updated remark for TFFV4964MO at KATANA: “20%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:54:11",
-      "iso": "2026-09-01T08:24:11.998Z",
-      "action": "updated remark for TF-NIK26-045 at SEEDUWA: “Discounts already given to the shop”"
     }
   ]
 }
