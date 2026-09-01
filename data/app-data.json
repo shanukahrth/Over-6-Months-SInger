@@ -69803,6 +69803,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:49:13",
       "lastUpdated": "2026-09-01T08:19:13.513Z"
+    },
+    "STT-2BGT||SEEDUWA": {
+      "remark": "Discounts already given to the shop",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:49:33",
+      "lastUpdated": "2026-09-01T08:19:33.578Z"
     }
   },
   "showroomVisits": {
@@ -71745,6 +71752,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:49:33",
+      "iso": "2026-09-01T08:19:33.579Z",
+      "action": "updated remark for STT-2BGT at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:49:13",
       "iso": "2026-09-01T08:19:13.514Z",
       "action": "updated remark for SS-PS16-AG at SEEDUWA: “75%”"
@@ -72084,13 +72098,6 @@
       "time": "13:22:03",
       "iso": "2026-09-01T07:52:03.744Z",
       "action": "updated remark for UDV3618SY at KATANA: “2500”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:21:42",
-      "iso": "2026-09-01T07:51:42.763Z",
-      "action": "updated remark for IFCG157NC at KATANA: “85%”"
     }
   ]
 }
