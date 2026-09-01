@@ -67850,6 +67850,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "10:18:26",
       "lastUpdated": "2026-09-01T04:48:26.284Z"
+    },
+    "SAS09TCN||DANKOTUWA": {
+      "remark": "OBSOLETE - OFFER FLAT 90%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:46:48",
+      "lastUpdated": "2026-09-01T05:16:48.156Z"
     }
   },
   "showroomVisits": {
@@ -69766,6 +69773,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "10:46:48",
+      "iso": "2026-09-01T05:16:48.156Z",
+      "action": "updated remark for SAS09TCN at DANKOTUWA: “OBSOLETE - OFFER FLAT 90%”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-09-01",
       "time": "10:18:26",
@@ -70107,13 +70121,6 @@
       "time": "09:49:01",
       "iso": "2026-09-01T04:19:01.832Z",
       "action": "updated remark for KA-SM-602 at MATARA-B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:48:57",
-      "iso": "2026-09-01T04:18:57.929Z",
-      "action": "updated remark for KA-PRISMA-1.7 at MATARA-B: “-”"
     }
   ]
 }
