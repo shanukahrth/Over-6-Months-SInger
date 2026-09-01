@@ -68424,6 +68424,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:01:21",
       "lastUpdated": "2026-09-01T06:31:21.422Z"
+    },
+    "SW-SK14016BLK||DANKOTUWA": {
+      "remark": "Already given",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:01:28",
+      "lastUpdated": "2026-09-01T06:31:28.061Z"
     }
   },
   "showroomVisits": {
@@ -70346,6 +70353,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:01:28",
+      "iso": "2026-09-01T06:31:28.063Z",
+      "action": "updated remark for SW-SK14016BLK at DANKOTUWA: “Already given”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:01:24",
+      "iso": "2026-09-01T06:31:24.584Z",
+      "action": "updated remark for SW-SK14016BLK at DANKOTUWA: “Already given”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:01:21",
@@ -70680,20 +70701,6 @@
       "time": "11:35:35",
       "iso": "2026-09-01T06:05:35.672Z",
       "action": "updated remark for WFL-SPM-75X75X8-S at DANKOTUWA: “80% - Already systemized”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:35:08",
-      "iso": "2026-09-01T06:05:08.531Z",
-      "action": "updated remark for LFI-BREE-CT-BR-S at DANKOTUWA: “return to WH6”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:34:35",
-      "iso": "2026-09-01T06:04:35.355Z",
-      "action": "updated remark for WFI-NAPOLEAN at DANKOTUWA: “90% - damaged”"
     }
   ]
 }
