@@ -69971,6 +69971,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:56:44",
       "lastUpdated": "2026-09-01T08:26:44.728Z"
+    },
+    "TF-TW26-064||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:56:48",
+      "lastUpdated": "2026-09-01T08:26:48.527Z"
     }
   },
   "showroomVisits": {
@@ -71911,6 +71918,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:56:48",
+      "iso": "2026-09-01T08:26:48.529Z",
+      "action": "updated remark for TF-TW26-064 at KATANA: “Already provided”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:56:44",
@@ -72252,13 +72266,6 @@
       "time": "13:39:02",
       "iso": "2026-09-01T08:09:02.911Z",
       "action": "updated remark for SL-VAR-90P-C at KATANA: “50% - Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:38:46",
-      "iso": "2026-09-01T08:08:46.557Z",
-      "action": "updated remark for SIN-VBS-90PA at KATANA: “50% - Damaged”"
     }
   ]
 }
