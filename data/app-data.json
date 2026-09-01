@@ -70433,6 +70433,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:36:40",
       "lastUpdated": "2026-09-01T10:06:40.286Z"
+    },
+    "SLE32E910||KATANA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:37:33",
+      "lastUpdated": "2026-09-01T10:07:33.836Z"
     }
   },
   "showroomVisits": {
@@ -72375,6 +72382,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:37:33",
+      "iso": "2026-09-01T10:07:33.838Z",
+      "action": "updated remark for SLE32E910 at KATANA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:36:40",
       "iso": "2026-09-01T10:06:40.288Z",
       "action": "updated remark for SLE32E810 at KATANA: “70%”"
@@ -72714,13 +72728,6 @@
       "time": "15:00:13",
       "iso": "2026-09-01T09:30:13.472Z",
       "action": "updated remark for BR-HT1010BK at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "14:59:23",
-      "iso": "2026-09-01T09:29:23.601Z",
-      "action": "updated remark for TF-CM-APR737 at KATANA: “Already provided”"
     }
   ]
 }
