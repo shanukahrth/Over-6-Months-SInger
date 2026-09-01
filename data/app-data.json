@@ -70741,6 +70741,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:19:45",
       "lastUpdated": "2026-09-01T10:49:45.538Z"
+    },
+    "ACER-AL15-I5-8GB-512-SIL||KATANA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:20:00",
+      "lastUpdated": "2026-09-01T10:50:00.410Z"
     }
   },
   "showroomVisits": {
@@ -72681,6 +72688,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:20:00",
+      "iso": "2026-09-01T10:50:00.411Z",
+      "action": "updated remark for ACER-AL15-I5-8GB-512-SIL at KATANA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "16:19:45",
@@ -73022,13 +73036,6 @@
       "time": "15:45:32",
       "iso": "2026-09-01T10:15:32.614Z",
       "action": "updated remark for SLE43G690 at KATANA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:45:07",
-      "iso": "2026-09-01T10:15:07.278Z",
-      "action": "updated remark for SLE43F590 at KATANA: “40%”"
     }
   ]
 }
