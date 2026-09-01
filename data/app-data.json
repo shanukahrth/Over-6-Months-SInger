@@ -69649,6 +69649,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:28:42",
       "lastUpdated": "2026-09-01T07:58:42.686Z"
+    },
+    "WFL-SPM-78X48X8-S||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:29:01",
+      "lastUpdated": "2026-09-01T07:59:01.521Z"
     }
   },
   "showroomVisits": {
@@ -71591,6 +71598,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:29:01",
+      "iso": "2026-09-01T07:59:01.523Z",
+      "action": "updated remark for WFL-SPM-78X48X8-S at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:28:42",
       "iso": "2026-09-01T07:58:42.688Z",
       "action": "updated remark for WFL-SPM-75X60X7-S at KATANA: “50%”"
@@ -71930,13 +71944,6 @@
       "time": "13:09:03",
       "iso": "2026-09-01T07:39:03.386Z",
       "action": "updated remark for SIN-MH51SW at KATANA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:08:44",
-      "iso": "2026-09-01T07:38:44.842Z",
-      "action": "updated remark for SRS-XP500 at KATANA: “60%”"
     }
   ]
 }
