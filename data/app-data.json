@@ -69292,6 +69292,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:53:53",
       "lastUpdated": "2026-09-01T07:23:53.815Z"
+    },
+    "R-BWS-02||SEEDUWA": {
+      "remark": "Discounts already given to the shop",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:55:28",
+      "lastUpdated": "2026-09-01T07:25:28.519Z"
     }
   },
   "showroomVisits": {
@@ -71234,6 +71241,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:55:28",
+      "iso": "2026-09-01T07:25:28.520Z",
+      "action": "updated remark for R-BWS-02 at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:53:53",
       "iso": "2026-09-01T07:23:53.817Z",
       "action": "updated remark for PN-TH-32M402N at SEEDUWA: “Return to warehouse”"
@@ -71573,13 +71587,6 @@
       "time": "12:31:16",
       "iso": "2026-09-01T07:01:16.868Z",
       "action": "updated remark for WP-1-75N-S at DANKOTUWA: “Additional 10%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:31:05",
-      "iso": "2026-09-01T07:01:05.388Z",
-      "action": "updated remark for LF-OPENSR-CKT-S at SEEDUWA: “50%”"
     }
   ]
 }
