@@ -68851,6 +68851,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:18:54",
       "lastUpdated": "2026-09-01T06:48:54.903Z"
+    },
+    "SKY32STD1000||DANKOTUWA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:19:08",
+      "lastUpdated": "2026-09-01T06:49:08.037Z"
     }
   },
   "showroomVisits": {
@@ -70791,6 +70798,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:19:08",
+      "iso": "2026-09-01T06:49:08.039Z",
+      "action": "updated remark for SKY32STD1000 at DANKOTUWA: “80%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:18:54",
@@ -71132,13 +71146,6 @@
       "time": "12:07:45",
       "iso": "2026-09-01T06:37:45.092Z",
       "action": "marked ZTE-V50DESIGN-8-256GB-V at DANKOTUWA as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:07:28",
-      "iso": "2026-09-01T06:37:28.900Z",
-      "action": "updated remark for ZTE-A36-2-64GB-BLK at DANKOTUWA: “15% Additional”"
     }
   ]
 }
