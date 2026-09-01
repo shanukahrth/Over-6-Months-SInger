@@ -69348,6 +69348,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:08:24",
       "lastUpdated": "2026-09-01T07:38:24.913Z"
+    },
+    "SRS-XP500||KATANA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:08:44",
+      "lastUpdated": "2026-09-01T07:38:44.824Z"
     }
   },
   "showroomVisits": {
@@ -71290,6 +71297,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:08:44",
+      "iso": "2026-09-01T07:38:44.842Z",
+      "action": "updated remark for SRS-XP500 at KATANA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:08:24",
       "iso": "2026-09-01T07:38:24.918Z",
       "action": "updated remark for PN-CS-XU18XKYW-8 at KATANA: “OFFER FLAT 60%”"
@@ -71629,13 +71643,6 @@
       "time": "12:33:46",
       "iso": "2026-09-01T07:03:46.847Z",
       "action": "updated remark for MB-SAFARI4S-RED at SEEDUWA: “Promotion already offered”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:33:44",
-      "iso": "2026-09-01T07:03:44.307Z",
-      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at DANKOTUWA: “revert and damaged- total 90% discount”"
     }
   ]
 }
