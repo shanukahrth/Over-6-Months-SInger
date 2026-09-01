@@ -67416,6 +67416,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:37:54",
       "lastUpdated": "2026-09-01T04:07:54.051Z"
+    },
+    "DELL3502-PNTMSIL-W10-BLK||MATARA-B": {
+      "remark": "Report for 1000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:39:42",
+      "lastUpdated": "2026-09-01T04:09:42.805Z"
     }
   },
   "showroomVisits": {
@@ -69334,6 +69341,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:39:42",
+      "iso": "2026-09-01T04:09:42.806Z",
+      "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at MATARA-B: “Report for 1000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:37:54",
       "iso": "2026-09-01T04:07:54.054Z",
       "action": "updated remark for CM-LQ300 at MATARA-B: “Damage 500 off”"
@@ -69673,13 +69687,6 @@
       "time": "16:00:33",
       "iso": "2026-08-31T10:30:33.496Z",
       "action": "updated remark for SMGAR50F12D0J at JAFFNA PANNAI BRANCH: “30% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "16:00:23",
-      "iso": "2026-08-31T10:30:23.722Z",
-      "action": "updated remark for SMGAR50F12D0J at JAFFNA PANNAI BRANCH: “50% Off from mark price”"
     }
   ]
 }
