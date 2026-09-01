@@ -70713,6 +70713,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:16:27",
       "lastUpdated": "2026-09-01T10:46:27.879Z"
+    },
+    "MX-FP824H27||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:17:23",
+      "lastUpdated": "2026-09-01T10:47:23.502Z"
     }
   },
   "showroomVisits": {
@@ -72655,6 +72662,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:17:23",
+      "iso": "2026-09-01T10:47:23.503Z",
+      "action": "updated remark for MX-FP824H27 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:16:27",
       "iso": "2026-09-01T10:46:27.881Z",
       "action": "updated remark for MXSW612543 at KATANA: “Already provided”"
@@ -72994,13 +73008,6 @@
       "time": "15:42:18",
       "iso": "2026-09-01T10:12:18.480Z",
       "action": "updated remark for SLE40D600A at KATANA: “Free Issue”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:41:49",
-      "iso": "2026-09-01T10:11:49.540Z",
-      "action": "updated remark for SLE32G690 at KATANA: “Exchange”"
     }
   ]
 }
