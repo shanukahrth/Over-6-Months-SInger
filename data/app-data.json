@@ -69621,6 +69621,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:26:54",
       "lastUpdated": "2026-09-01T07:56:54.800Z"
+    },
+    "WF-JUPITER-05-S||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:27:28",
+      "lastUpdated": "2026-09-01T07:57:28.197Z"
     }
   },
   "showroomVisits": {
@@ -71563,6 +71570,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:27:28",
+      "iso": "2026-09-01T07:57:28.199Z",
+      "action": "updated remark for WF-JUPITER-05-S at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:26:54",
       "iso": "2026-09-01T07:56:54.801Z",
       "action": "updated remark for LF-DEO-CT-S at KATANA: “50%”"
@@ -71902,13 +71916,6 @@
       "time": "12:58:20",
       "iso": "2026-09-01T07:28:20.159Z",
       "action": "updated remark for WF-OSLO-S at DANKOTUWA: “80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:57:57",
-      "iso": "2026-09-01T07:27:57.079Z",
-      "action": "updated remark for SDV3605K at SEEDUWA: “Rs.2500.00”"
     }
   ]
 }
