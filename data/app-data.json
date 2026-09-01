@@ -69509,6 +69509,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:19:59",
       "lastUpdated": "2026-09-01T07:49:59.229Z"
+    },
+    "SLE32D1800||SEEDUWA": {
+      "remark": "panel damager 85%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:20:01",
+      "lastUpdated": "2026-09-01T07:50:01.113Z"
     }
   },
   "showroomVisits": {
@@ -71449,6 +71456,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "13:20:01",
+      "iso": "2026-09-01T07:50:01.114Z",
+      "action": "updated remark for SLE32D1800 at SEEDUWA: “panel damager 85%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "13:19:59",
@@ -71790,13 +71804,6 @@
       "time": "12:41:39",
       "iso": "2026-09-01T07:11:39.715Z",
       "action": "updated remark for PF-CAFE-NEW-WF-S at SEEDUWA: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:41:29",
-      "iso": "2026-09-01T07:11:29.478Z",
-      "action": "updated remark for FAN-WF1608R at DANKOTUWA: “5% additional discount - display”"
     }
   ]
 }
