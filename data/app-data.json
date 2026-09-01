@@ -70636,6 +70636,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:06:39",
       "lastUpdated": "2026-09-01T10:36:39.493Z"
+    },
+    "WP-1R-.75T||KATANA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:07:01",
+      "lastUpdated": "2026-09-01T10:37:01.271Z"
     }
   },
   "showroomVisits": {
@@ -72578,6 +72585,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:07:01",
+      "iso": "2026-09-01T10:37:01.280Z",
+      "action": "updated remark for WP-1R-.75T at KATANA: “-”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:06:39",
       "iso": "2026-09-01T10:36:39.496Z",
       "action": "updated remark for MID-D15-20EVN1 at KATANA: “-”"
@@ -72917,13 +72931,6 @@
       "time": "15:32:28",
       "iso": "2026-09-01T10:02:28.889Z",
       "action": "updated remark for ULED32D2070 at KATANA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:31:56",
-      "iso": "2026-09-01T10:01:56.736Z",
-      "action": "updated remark for SMGHWT450 at KATANA: “80%”"
     }
   ]
 }
