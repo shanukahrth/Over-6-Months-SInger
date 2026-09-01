@@ -68081,6 +68081,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:24:10",
       "lastUpdated": "2026-09-01T05:54:10.520Z"
+    },
+    "OF-SW180-S||DANKOTUWA": {
+      "remark": "90% - damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:28:58",
+      "lastUpdated": "2026-09-01T05:58:58.642Z"
     }
   },
   "showroomVisits": {
@@ -69999,6 +70006,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:28:58",
+      "iso": "2026-09-01T05:58:58.647Z",
+      "action": "updated remark for OF-SW180-S at DANKOTUWA: “90% - damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:24:10",
       "iso": "2026-09-01T05:54:10.521Z",
       "action": "updated remark for QT-SITUP at DANKOTUWA: “60% total discount”"
@@ -70338,13 +70352,6 @@
       "time": "10:09:30",
       "iso": "2026-09-01T04:39:30.267Z",
       "action": "updated remark for PCP75-SS at MATARA-B: “75% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "10:09:23",
-      "iso": "2026-09-01T04:39:23.837Z",
-      "action": "updated remark for OF-SWSLIDCUP-S at MATARA-B: “75% OFF”"
     }
   ]
 }
