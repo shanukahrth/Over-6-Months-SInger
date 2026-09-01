@@ -70655,8 +70655,8 @@
       "remark": "Already provided",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-01",
-      "commentTime": "16:21:49",
-      "lastUpdated": "2026-09-01T10:51:49.893Z"
+      "commentTime": "16:24:01",
+      "lastUpdated": "2026-09-01T10:54:01.997Z"
     },
     "RCS-04||KATANA": {
       "remark": "Already provided",
@@ -72723,6 +72723,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:24:01",
+      "iso": "2026-09-01T10:54:01.998Z",
+      "action": "updated remark for NCPO-FP250 at KATANA: “Already provided”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "16:23:59",
@@ -73064,13 +73071,6 @@
       "time": "15:49:42",
       "iso": "2026-09-01T10:19:42.666Z",
       "action": "updated remark for SLE32D2010TC at KATANA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:48:57",
-      "iso": "2026-09-01T10:18:57.354Z",
-      "action": "updated remark for SLE32D1800 at KATANA: “50%”"
     }
   ]
 }
