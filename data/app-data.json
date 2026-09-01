@@ -67465,6 +67465,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:42:19",
       "lastUpdated": "2026-09-01T04:12:19.121Z"
+    },
+    "H-LE24T05A||MATARA-B": {
+      "remark": "MOP 3500",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:42:37",
+      "lastUpdated": "2026-09-01T04:12:37.230Z"
     }
   },
   "showroomVisits": {
@@ -69383,6 +69390,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:42:37",
+      "iso": "2026-09-01T04:12:37.233Z",
+      "action": "updated remark for H-LE24T05A at MATARA-B: “MOP 3500”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:42:19",
       "iso": "2026-09-01T04:12:19.122Z",
       "action": "updated remark for GRIP-G86-S at MATARA-B: “80% OFF”"
@@ -69722,13 +69736,6 @@
       "time": "16:06:10",
       "iso": "2026-08-31T10:36:10.574Z",
       "action": "updated remark for H-RMRG024MFEOE at JAFFNA PANNAI BRANCH: “NEW-10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "16:05:40",
-      "iso": "2026-08-31T10:35:40.843Z",
-      "action": "updated remark for H-RMRG024HFEOE at JAFFNA PANNAI BRANCH: “NEW-10%”"
     }
   ]
 }
