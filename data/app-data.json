@@ -69397,6 +69397,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:10:58",
       "lastUpdated": "2026-09-01T07:40:58.535Z"
+    },
+    "MHC-M60D||KATANA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:11:25",
+      "lastUpdated": "2026-09-01T07:41:25.913Z"
     }
   },
   "showroomVisits": {
@@ -71339,6 +71346,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:11:25",
+      "iso": "2026-09-01T07:41:25.916Z",
+      "action": "updated remark for MHC-M60D at KATANA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:10:58",
       "iso": "2026-09-01T07:40:58.536Z",
       "action": "updated remark for SIN-BS30 at KATANA: “Rs.8,500/- Special Price”"
@@ -71678,13 +71692,6 @@
       "time": "12:36:42",
       "iso": "2026-09-01T07:06:42.628Z",
       "action": "updated remark for NCPO-DC200 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:36:13",
-      "iso": "2026-09-01T07:06:13.599Z",
-      "action": "updated remark for WP-CHTW-075-S at DANKOTUWA: “Additional 10%”"
     }
   ]
 }
