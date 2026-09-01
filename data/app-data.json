@@ -70370,6 +70370,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:30:15",
       "lastUpdated": "2026-09-01T10:00:15.533Z"
+    },
+    "MC8280||KATANA": {
+      "remark": "70% discoloured",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:30:48",
+      "lastUpdated": "2026-09-01T10:00:48.418Z"
     }
   },
   "showroomVisits": {
@@ -72312,6 +72319,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:30:48",
+      "iso": "2026-09-01T10:00:48.419Z",
+      "action": "updated remark for MC8280 at KATANA: “70% discoloured”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:30:15",
       "iso": "2026-09-01T10:00:15.534Z",
       "action": "updated remark for BES-WP15T at KATANA: “Damaged / Handing Over - 85%”"
@@ -72651,13 +72665,6 @@
       "time": "14:00:51",
       "iso": "2026-09-01T08:30:51.595Z",
       "action": "updated remark for NCPDG-KD240 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "14:00:27",
-      "iso": "2026-09-01T08:30:27.576Z",
-      "action": "updated remark for TF-NIK26-045 at KATANA: “Already provided”"
     }
   ]
 }
