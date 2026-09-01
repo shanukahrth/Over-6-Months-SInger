@@ -69488,6 +69488,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:18:50",
       "lastUpdated": "2026-09-01T07:48:50.762Z"
+    },
+    "SINX-M173H||SEEDUWA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:19:08",
+      "lastUpdated": "2026-09-01T07:49:08.601Z"
     }
   },
   "showroomVisits": {
@@ -71430,6 +71437,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:19:08",
+      "iso": "2026-09-01T07:49:08.601Z",
+      "action": "updated remark for SINX-M173H at SEEDUWA: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:18:50",
       "iso": "2026-09-01T07:48:50.763Z",
       "action": "updated remark for SIN-RFC-2058 at SEEDUWA: “Additional 15%”"
@@ -71769,13 +71783,6 @@
       "time": "12:40:35",
       "iso": "2026-09-01T07:10:35.795Z",
       "action": "updated remark for PCR-SP16-255 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:40:04",
-      "iso": "2026-09-01T07:10:04.442Z",
-      "action": "updated remark for SMW823AY7 at DANKOTUWA: “Already given”"
     }
   ]
 }
