@@ -68214,6 +68214,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:41:23",
       "lastUpdated": "2026-09-01T06:11:23.714Z"
+    },
+    "SIS253CU||DANKOTUWA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:41:51",
+      "lastUpdated": "2026-09-01T06:11:51.527Z"
     }
   },
   "showroomVisits": {
@@ -70132,6 +70139,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:41:51",
+      "iso": "2026-09-01T06:11:51.529Z",
+      "action": "updated remark for SIS253CU at DANKOTUWA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:41:23",
       "iso": "2026-09-01T06:11:23.715Z",
       "action": "updated remark for SIN-MRG-1008C at DANKOTUWA: “10%”"
@@ -70471,13 +70485,6 @@
       "time": "10:51:29",
       "iso": "2026-09-01T05:21:29.868Z",
       "action": "updated remark for H-RAPG012HFEOE at DANKOTUWA: “OBSOLETE - OFFER FLAT 50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "10:50:22",
-      "iso": "2026-09-01T05:20:22.310Z",
-      "action": "updated remark for PN-CS-XU18XKYW-8 at DANKOTUWA: “OFFER FLAT 60%”"
     }
   ]
 }
