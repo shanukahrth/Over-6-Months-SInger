@@ -68916,6 +68916,22 @@
       "remark": "",
       "updatedBy": "Shanuka",
       "updatedDate": "2026-08-31"
+    },
+    "MEGA-NEGOMBO||MEGA NORTH ZONE-": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Sanduni Hansika",
+      "updatedDate": "2026-09-01"
+    },
+    "SINGER HOMES-NEGOMBO||MEGA NORTH ZONE-": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Sanduni Hansika",
+      "updatedDate": "2026-09-01"
     }
   },
   "soldMarks": {
@@ -69245,6 +69261,20 @@
     }
   },
   "activity": [
+    {
+      "user": "Sanduni Hansika",
+      "date": "2026-09-01",
+      "time": "09:04:27",
+      "iso": "2026-09-01T03:34:27.635Z",
+      "action": "updated SINGER HOMES-NEGOMBO showroom (visited: Yes)"
+    },
+    {
+      "user": "Sanduni Hansika",
+      "date": "2026-09-01",
+      "time": "09:04:25",
+      "iso": "2026-09-01T03:34:25.832Z",
+      "action": "updated MEGA-NEGOMBO showroom (visited: Yes)"
+    },
     {
       "user": "Shanuka",
       "date": "2026-08-31",
@@ -69580,20 +69610,6 @@
       "time": "15:53:35",
       "iso": "2026-08-31T10:23:35.775Z",
       "action": "updated remark for SWM-FA70R at HATTON: “70%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:53:22",
-      "iso": "2026-08-31T10:23:22.624Z",
-      "action": "updated remark for SWM-FA70R at HATTON: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:52:14",
-      "iso": "2026-08-31T10:22:14.543Z",
-      "action": "marked HON-X9C-12-256-BLK at JAFFNA PANNAI BRANCH as Sold"
     }
   ]
 }
