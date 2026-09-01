@@ -70790,6 +70790,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:24:25",
       "lastUpdated": "2026-09-01T10:54:25.369Z"
+    },
+    "FT-FED-35001||KOCHCHIKADE": {
+      "remark": "75%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:24:52",
+      "lastUpdated": "2026-09-01T10:54:52.024Z"
     }
   },
   "showroomVisits": {
@@ -72732,6 +72739,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "16:24:52",
+      "iso": "2026-09-01T10:54:52.027Z",
+      "action": "updated remark for FT-FED-35001 at KOCHCHIKADE: “75%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "16:24:25",
       "iso": "2026-09-01T10:54:25.372Z",
       "action": "updated remark for FT-FAG-10002-BS at KOCHCHIKADE: “75%”"
@@ -73071,13 +73085,6 @@
       "time": "15:51:37",
       "iso": "2026-09-01T10:21:37.845Z",
       "action": "updated remark for SLE32D2100 at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:51:04",
-      "iso": "2026-09-01T10:21:04.312Z",
-      "action": "updated remark for SLE32D2010TC at KATANA: “70%”"
     }
   ]
 }
