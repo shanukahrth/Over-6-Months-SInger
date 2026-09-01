@@ -69677,6 +69677,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:36:46",
       "lastUpdated": "2026-09-01T08:06:46.915Z"
+    },
+    "LF-CLARA-STU-SWW-S||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:37:14",
+      "lastUpdated": "2026-09-01T08:07:14.390Z"
     }
   },
   "showroomVisits": {
@@ -71619,6 +71626,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:37:14",
+      "iso": "2026-09-01T08:07:14.393Z",
+      "action": "updated remark for LF-CLARA-STU-SWW-S at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:36:46",
       "iso": "2026-09-01T08:06:46.919Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at KATANA: “10%”"
@@ -71958,13 +71972,6 @@
       "time": "13:10:12",
       "iso": "2026-09-01T07:40:12.047Z",
       "action": "updated remark for PN-SC-UA30GS-K at KATANA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:09:52",
-      "iso": "2026-09-01T07:39:52.519Z",
-      "action": "updated remark for PN-SC-AKX520E-K at KATANA: “50%”"
     }
   ]
 }
