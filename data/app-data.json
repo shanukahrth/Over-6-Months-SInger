@@ -69313,6 +69313,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:56:12",
       "lastUpdated": "2026-09-01T07:26:12.806Z"
+    },
+    "SB-DTYPE||SEEDUWA": {
+      "remark": "80%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:57:21",
+      "lastUpdated": "2026-09-01T07:27:21.590Z"
     }
   },
   "showroomVisits": {
@@ -71255,6 +71262,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:57:21",
+      "iso": "2026-09-01T07:27:21.591Z",
+      "action": "updated remark for SB-DTYPE at SEEDUWA: “80%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:56:12",
       "iso": "2026-09-01T07:26:12.807Z",
       "action": "updated remark for SB-AAA at SEEDUWA: “80%”"
@@ -71594,13 +71608,6 @@
       "time": "12:32:05",
       "iso": "2026-09-01T07:02:05.960Z",
       "action": "updated remark for WP-CHTW-075-S at DANKOTUWA: “Additional 10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:31:45",
-      "iso": "2026-09-01T07:01:45.776Z",
-      "action": "updated remark for WP-1R-100-S at DANKOTUWA: “Additional 10%”"
     }
   ]
 }
