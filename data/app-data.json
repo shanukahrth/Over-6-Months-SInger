@@ -68118,11 +68118,11 @@
       "lastUpdated": "2026-09-01T06:01:26.628Z"
     },
     "WF-OSLO-S||DANKOTUWA": {
-      "remark": "80%",
+      "remark": "50%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-01",
-      "commentTime": "11:33:26",
-      "lastUpdated": "2026-09-01T06:03:26.143Z"
+      "commentTime": "11:33:57",
+      "lastUpdated": "2026-09-01T06:03:57.498Z"
     }
   },
   "showroomVisits": {
@@ -70041,6 +70041,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:33:57",
+      "iso": "2026-09-01T06:03:57.499Z",
+      "action": "updated remark for WF-OSLO-S at DANKOTUWA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:33:26",
       "iso": "2026-09-01T06:03:26.145Z",
       "action": "updated remark for WF-OSLO-S at DANKOTUWA: “80%”"
@@ -70380,13 +70387,6 @@
       "time": "10:16:09",
       "iso": "2026-09-01T04:46:09.365Z",
       "action": "updated remark for SDC-ST66 at MATARA-B: “80% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "10:15:56",
-      "iso": "2026-09-01T04:45:56.324Z",
-      "action": "updated remark for SB-AAA at MATARA-B: “Can sell”"
     }
   ]
 }
