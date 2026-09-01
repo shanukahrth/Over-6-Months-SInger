@@ -69040,6 +69040,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:30:28",
       "lastUpdated": "2026-09-01T07:00:28.324Z"
+    },
+    "MID-D30-20EVN1||DANKOTUWA": {
+      "remark": "0",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:30:35",
+      "lastUpdated": "2026-09-01T07:00:35.970Z"
     }
   },
   "showroomVisits": {
@@ -70980,6 +70987,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:30:35",
+      "iso": "2026-09-01T07:00:35.971Z",
+      "action": "updated remark for MID-D30-20EVN1 at DANKOTUWA: “0”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:30:28",
@@ -71321,13 +71335,6 @@
       "time": "12:15:07",
       "iso": "2026-09-01T06:45:07.901Z",
       "action": "updated remark for CLIP-MCW at DANKOTUWA: “0”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:14:57",
-      "iso": "2026-09-01T06:44:57.018Z",
-      "action": "updated remark for BR-1 at DANKOTUWA: “0”"
     }
   ]
 }
