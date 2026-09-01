@@ -70566,6 +70566,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:02:24",
       "lastUpdated": "2026-09-01T10:32:24.274Z"
+    },
+    "H-CV950F24CDSPG||KATANA": {
+      "remark": "0%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:02:49",
+      "lastUpdated": "2026-09-01T10:32:49.826Z"
     }
   },
   "showroomVisits": {
@@ -72506,6 +72513,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:02:49",
+      "iso": "2026-09-01T10:32:49.828Z",
+      "action": "updated remark for H-CV950F24CDSPG at KATANA: “0%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "16:02:49",
@@ -72847,13 +72861,6 @@
       "time": "15:22:12",
       "iso": "2026-09-01T09:52:12.613Z",
       "action": "updated remark for HON-X7C-8-256-BLK at KATANA: “Exchange”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "15:22:12",
-      "iso": "2026-09-01T09:52:12.207Z",
-      "action": "updated remark for WF-PACIFIC-BR-S at SEEDUWA: “50%”"
     }
   ]
 }
