@@ -69201,6 +69201,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:39:58",
       "lastUpdated": "2026-09-01T07:09:58.346Z"
+    },
+    "PCR-SP16-255||SEEDUWA": {
+      "remark": "Discounts already given to the shop",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:40:35",
+      "lastUpdated": "2026-09-01T07:10:35.794Z"
     }
   },
   "showroomVisits": {
@@ -71141,6 +71148,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:40:35",
+      "iso": "2026-09-01T07:10:35.795Z",
+      "action": "updated remark for PCR-SP16-255 at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:40:04",
@@ -71482,13 +71496,6 @@
       "time": "12:25:46",
       "iso": "2026-09-01T06:55:46.721Z",
       "action": "updated remark for KLV-40R352C at DANKOTUWA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:25:27",
-      "iso": "2026-09-01T06:55:27.740Z",
-      "action": "updated remark for KLV-32R326E at DANKOTUWA: “80%”"
     }
   ]
 }
