@@ -70363,6 +70363,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:29:24",
       "lastUpdated": "2026-09-01T09:59:24.544Z"
+    },
+    "BES-WP15T||KATANA": {
+      "remark": "Damaged / Handing Over - 85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:30:15",
+      "lastUpdated": "2026-09-01T10:00:15.533Z"
     }
   },
   "showroomVisits": {
@@ -72305,6 +72312,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:30:15",
+      "iso": "2026-09-01T10:00:15.534Z",
+      "action": "updated remark for BES-WP15T at KATANA: “Damaged / Handing Over - 85%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:29:24",
       "iso": "2026-09-01T09:59:24.546Z",
       "action": "updated remark for GEO-260NF at KATANA: “Obsolete - Offer flat 80%”"
@@ -72644,13 +72658,6 @@
       "time": "14:00:27",
       "iso": "2026-09-01T08:30:27.576Z",
       "action": "updated remark for TF-NIK26-045 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:59:53",
-      "iso": "2026-09-01T08:29:53.102Z",
-      "action": "updated remark for TF-NIGP26-119 at KATANA: “Already provided”"
     }
   ]
 }
