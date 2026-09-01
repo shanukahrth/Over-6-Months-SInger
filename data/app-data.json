@@ -67479,6 +67479,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:42:49",
       "lastUpdated": "2026-09-01T04:12:49.649Z"
+    },
+    "HFPA-MUSICBOX-BLC||MATARA-B": {
+      "remark": "Report for 30000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:43:24",
+      "lastUpdated": "2026-09-01T04:13:24.065Z"
     }
   },
   "showroomVisits": {
@@ -69397,6 +69404,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:43:24",
+      "iso": "2026-09-01T04:13:24.067Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at MATARA-B: “Report for 30000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:43:00",
       "iso": "2026-09-01T04:13:00.651Z",
       "action": "updated remark for H-LE24T05A at MATARA-B: “MOP 35000”"
@@ -69736,13 +69750,6 @@
       "time": "16:18:53",
       "iso": "2026-08-31T10:48:53.236Z",
       "action": "updated remark for PN-CS-SU12XKY-8 at JAFFNA PANNAI BRANCH: “From MRP 80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "16:09:39",
-      "iso": "2026-08-31T10:39:39.980Z",
-      "action": "updated remark for PN-CS-U10XKH at JAFFNA PANNAI BRANCH: “NEW”"
     }
   ]
 }
