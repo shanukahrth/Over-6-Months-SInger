@@ -69670,6 +69670,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:29:47",
       "lastUpdated": "2026-09-01T07:59:47.615Z"
+    },
+    "LF-OFI-ST-001-SHW-S||KATANA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:36:46",
+      "lastUpdated": "2026-09-01T08:06:46.915Z"
     }
   },
   "showroomVisits": {
@@ -71612,6 +71619,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:36:46",
+      "iso": "2026-09-01T08:06:46.919Z",
+      "action": "updated remark for LF-OFI-ST-001-SHW-S at KATANA: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:29:47",
       "iso": "2026-09-01T07:59:47.617Z",
       "action": "updated remark for WFI-SOC-M005-BU-S at KATANA: “-”"
@@ -71951,13 +71965,6 @@
       "time": "13:09:52",
       "iso": "2026-09-01T07:39:52.519Z",
       "action": "updated remark for PN-SC-AKX520E-K at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:09:34",
-      "iso": "2026-09-01T07:39:34.752Z",
-      "action": "updated remark for SIN-W66PA28 at KATANA: “80%”"
     }
   ]
 }
