@@ -70384,6 +70384,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:31:56",
       "lastUpdated": "2026-09-01T10:01:56.734Z"
+    },
+    "ULED32D2070||KATANA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:32:28",
+      "lastUpdated": "2026-09-01T10:02:28.887Z"
     }
   },
   "showroomVisits": {
@@ -72326,6 +72333,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:32:28",
+      "iso": "2026-09-01T10:02:28.889Z",
+      "action": "updated remark for ULED32D2070 at KATANA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:31:56",
       "iso": "2026-09-01T10:01:56.736Z",
       "action": "updated remark for SMGHWT450 at KATANA: “80%”"
@@ -72665,13 +72679,6 @@
       "time": "14:02:25",
       "iso": "2026-09-01T08:32:25.977Z",
       "action": "updated remark for NCPDG-SET3 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "14:01:45",
-      "iso": "2026-09-01T08:31:45.229Z",
-      "action": "updated remark for NCPDG-OT250 at KATANA: “Already provided”"
     }
   ]
 }
