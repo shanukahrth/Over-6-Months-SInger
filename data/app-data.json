@@ -70069,6 +70069,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "14:01:45",
       "lastUpdated": "2026-09-01T08:31:45.227Z"
+    },
+    "NCPDG-SET3||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "14:02:25",
+      "lastUpdated": "2026-09-01T08:32:25.975Z"
     }
   },
   "showroomVisits": {
@@ -72011,6 +72018,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "14:02:25",
+      "iso": "2026-09-01T08:32:25.977Z",
+      "action": "updated remark for NCPDG-SET3 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "14:01:45",
       "iso": "2026-09-01T08:31:45.229Z",
       "action": "updated remark for NCPDG-OT250 at KATANA: “Already provided”"
@@ -72350,13 +72364,6 @@
       "time": "13:48:22",
       "iso": "2026-09-01T08:18:22.178Z",
       "action": "updated remark for SMW823AY7 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:48:06",
-      "iso": "2026-09-01T08:18:06.348Z",
-      "action": "updated remark for SMG-A17-8-256-BLU at SEEDUWA: “15% Additional”"
     }
   ]
 }
