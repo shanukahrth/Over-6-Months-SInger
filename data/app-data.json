@@ -68375,6 +68375,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:59:31",
       "lastUpdated": "2026-09-01T06:29:31.498Z"
+    },
+    "CM-VIR-GUARD||SEEDUWA": {
+      "remark": "free issue",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:59:42",
+      "lastUpdated": "2026-09-01T06:29:42.695Z"
     }
   },
   "showroomVisits": {
@@ -70297,6 +70304,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "11:59:42",
+      "iso": "2026-09-01T06:29:42.699Z",
+      "action": "updated remark for CM-VIR-GUARD at SEEDUWA: “free issue”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "11:59:31",
@@ -70638,13 +70652,6 @@
       "time": "11:28:58",
       "iso": "2026-09-01T05:58:58.647Z",
       "action": "updated remark for OF-SW180-S at DANKOTUWA: “90% - damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:24:10",
-      "iso": "2026-09-01T05:54:10.521Z",
-      "action": "updated remark for QT-SITUP at DANKOTUWA: “60% total discount”"
     }
   ]
 }
