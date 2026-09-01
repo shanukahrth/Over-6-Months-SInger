@@ -69712,6 +69712,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:39:05",
       "lastUpdated": "2026-09-01T08:09:05.641Z"
+    },
+    "SLE32E810||SEEDUWA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:40:43",
+      "lastUpdated": "2026-09-01T08:10:43.580Z"
     }
   },
   "showroomVisits": {
@@ -71652,6 +71659,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "13:40:43",
+      "iso": "2026-09-01T08:10:43.581Z",
+      "action": "updated remark for SLE32E810 at SEEDUWA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "13:39:05",
@@ -71993,13 +72007,6 @@
       "time": "13:14:29",
       "iso": "2026-09-01T07:44:29.745Z",
       "action": "updated remark for B-CWB6441XN at KATANA: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:14:04",
-      "iso": "2026-09-01T07:44:04.118Z",
-      "action": "updated remark for PN-MIC-W-107 at KATANA: “70%”"
     }
   ]
 }
