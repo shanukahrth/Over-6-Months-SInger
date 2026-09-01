@@ -67423,6 +67423,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:39:42",
       "lastUpdated": "2026-09-01T04:09:42.805Z"
+    },
+    "DIALOG-HSPA||MATARA-B": {
+      "remark": "Report for 500",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:40:12",
+      "lastUpdated": "2026-09-01T04:10:12.674Z"
     }
   },
   "showroomVisits": {
@@ -69341,6 +69348,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:40:12",
+      "iso": "2026-09-01T04:10:12.677Z",
+      "action": "updated remark for DIALOG-HSPA at MATARA-B: “Report for 500”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:39:42",
       "iso": "2026-09-01T04:09:42.806Z",
       "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at MATARA-B: “Report for 1000”"
@@ -69680,13 +69694,6 @@
       "time": "16:01:08",
       "iso": "2026-08-31T10:31:08.016Z",
       "action": "updated remark for SL-INV-305H at JAFFNA PANNAI BRANCH: “160,000 Special price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "16:00:33",
-      "iso": "2026-08-31T10:30:33.496Z",
-      "action": "updated remark for SMGAR50F12D0J at JAFFNA PANNAI BRANCH: “30% Off from mark price”"
     }
   ]
 }
