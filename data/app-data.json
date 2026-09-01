@@ -70083,6 +70083,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "14:02:46",
       "lastUpdated": "2026-09-01T08:32:46.305Z"
+    },
+    "KA-SST032BKI||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "14:05:03",
+      "lastUpdated": "2026-09-01T08:35:03.949Z"
     }
   },
   "showroomVisits": {
@@ -72025,6 +72032,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "14:05:03",
+      "iso": "2026-09-01T08:35:03.958Z",
+      "action": "updated remark for KA-SST032BKI at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "14:02:46",
       "iso": "2026-09-01T08:32:46.309Z",
       "action": "updated remark for NCPDG-SP240 at KATANA: “Already provided”"
@@ -72364,13 +72378,6 @@
       "time": "13:48:53",
       "iso": "2026-09-01T08:18:53.946Z",
       "action": "updated remark for SN-SMI-285 at SEEDUWA: “sold”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:48:32",
-      "iso": "2026-09-01T08:18:32.939Z",
-      "action": "updated remark for SMW823AY7 at SEEDUWA: “Discounts already given to the shop”"
     }
   ]
 }
