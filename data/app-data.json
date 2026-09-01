@@ -68788,6 +68788,20 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:17:17",
       "lastUpdated": "2026-09-01T06:47:17.764Z"
+    },
+    "SLE55D1800TC||DANKOTUWA": {
+      "remark": "return to WH",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:17:07",
+      "lastUpdated": "2026-09-01T06:47:07.885Z"
+    },
+    "SLE55GENR||DANKOTUWA": {
+      "remark": "0",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:17:24",
+      "lastUpdated": "2026-09-01T06:47:24.193Z"
     }
   },
   "showroomVisits": {
@@ -70728,6 +70742,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:17:24",
+      "iso": "2026-09-01T06:47:24.196Z",
+      "action": "updated remark for SLE55GENR at DANKOTUWA: “0”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:17:07",
+      "iso": "2026-09-01T06:47:07.892Z",
+      "action": "updated remark for SLE55D1800TC at DANKOTUWA: “return to WH”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:17:17",
@@ -71062,20 +71090,6 @@
       "time": "12:04:57",
       "iso": "2026-09-01T06:34:57.228Z",
       "action": "updated remark for SL-S203 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:04:40",
-      "iso": "2026-09-01T06:34:40.083Z",
-      "action": "updated remark for STT-KHT009 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:04:22",
-      "iso": "2026-09-01T06:34:22.853Z",
-      "action": "updated remark for STT-2BSS at DANKOTUWA: “Already given”"
     }
   ]
 }
