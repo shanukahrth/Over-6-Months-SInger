@@ -69859,6 +69859,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:52:40",
       "lastUpdated": "2026-09-01T08:22:40.458Z"
+    },
+    "TF-FP24-SCR342||SEEDUWA": {
+      "remark": "Discounts already given to the shop",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:52:47",
+      "lastUpdated": "2026-09-01T08:22:47.483Z"
     }
   },
   "showroomVisits": {
@@ -71799,6 +71806,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "13:52:47",
+      "iso": "2026-09-01T08:22:47.484Z",
+      "action": "updated remark for TF-FP24-SCR342 at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "13:52:40",
@@ -72140,13 +72154,6 @@
       "time": "13:25:00",
       "iso": "2026-09-01T07:55:00.109Z",
       "action": "updated remark for FAN-C-NR at KATANA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:24:28",
-      "iso": "2026-09-01T07:54:28.441Z",
-      "action": "updated remark for FAN-WF1608R at KATANA: “Exchange 2 units  / 1 unit sold”"
     }
   ]
 }
