@@ -67941,6 +67941,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "10:57:23",
       "lastUpdated": "2026-09-01T05:27:23.806Z"
+    },
+    "DIALOG-HSPA||DANKOTUWA": {
+      "remark": "Free issue - Dm should give the approval to drop from the inventory",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:57:58",
+      "lastUpdated": "2026-09-01T05:27:58.742Z"
     }
   },
   "showroomVisits": {
@@ -69859,6 +69866,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "10:57:58",
+      "iso": "2026-09-01T05:27:58.743Z",
+      "action": "updated remark for DIALOG-HSPA at DANKOTUWA: “Free issue - Dm should give the approval to drop from the inventory”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "10:57:23",
       "iso": "2026-09-01T05:27:23.808Z",
       "action": "updated remark for MHC-V13 at DANKOTUWA: “80%”"
@@ -70198,13 +70212,6 @@
       "time": "09:58:30",
       "iso": "2026-09-01T04:28:30.048Z",
       "action": "updated remark for NCPO-DC200 at MATARA-B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:58:21",
-      "iso": "2026-09-01T04:28:21.703Z",
-      "action": "updated remark for MHC-V21D at MATARA-B: “Report for 50000”"
     }
   ]
 }
