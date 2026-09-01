@@ -67955,6 +67955,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:03:30",
       "lastUpdated": "2026-09-01T05:33:30.987Z"
+    },
+    "SIN-DUO-W10||DANKOTUWA": {
+      "remark": "Revert - 5% Additional to bill and drop from the inventory (Product damaged)",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:05:59",
+      "lastUpdated": "2026-09-01T05:35:59.288Z"
     }
   },
   "showroomVisits": {
@@ -69873,6 +69880,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:05:59",
+      "iso": "2026-09-01T05:35:59.288Z",
+      "action": "updated remark for SIN-DUO-W10 at DANKOTUWA: “Revert - 5% Additional to bill and drop from the inventory (Product damaged)”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:03:31",
       "iso": "2026-09-01T05:33:31.009Z",
       "action": "updated remark for B-BMGB25332BG at DANKOTUWA: “Display - Extra 10%”"
@@ -70212,13 +70226,6 @@
       "time": "09:59:20",
       "iso": "2026-09-01T04:29:20.207Z",
       "action": "updated remark for FAN-VIERA-TEAK-WL at MATARA-B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:59:09",
-      "iso": "2026-09-01T04:29:09.912Z",
-      "action": "updated remark for GEO-242D at MATARA-B: “80% OFF”"
     }
   ]
 }
