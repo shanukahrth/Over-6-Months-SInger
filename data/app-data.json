@@ -69383,6 +69383,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:10:12",
       "lastUpdated": "2026-09-01T07:40:12.043Z"
+    },
+    "SHAKE-X10D||KATANA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:10:34",
+      "lastUpdated": "2026-09-01T07:40:34.292Z"
     }
   },
   "showroomVisits": {
@@ -71325,6 +71332,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:10:34",
+      "iso": "2026-09-01T07:40:34.302Z",
+      "action": "updated remark for SHAKE-X10D at KATANA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:10:12",
       "iso": "2026-09-01T07:40:12.047Z",
       "action": "updated remark for PN-SC-UA30GS-K at KATANA: “40%”"
@@ -71664,13 +71678,6 @@
       "time": "12:36:16",
       "iso": "2026-09-01T07:06:16.525Z",
       "action": "updated remark for NCPDG-SET3 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:35:40",
-      "iso": "2026-09-01T07:05:40.794Z",
-      "action": "updated remark for WFL-FLORAC-02-S at DANKOTUWA: “50%”"
     }
   ]
 }
