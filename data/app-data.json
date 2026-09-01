@@ -68683,6 +68683,20 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:13:27",
       "lastUpdated": "2026-09-01T06:43:27.628Z"
+    },
+    "PWRMAX||DANKOTUWA": {
+      "remark": "0",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:13:44",
+      "lastUpdated": "2026-09-01T06:43:44.927Z"
+    },
+    "SA200||DANKOTUWA": {
+      "remark": "0",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:13:56",
+      "lastUpdated": "2026-09-01T06:43:56.678Z"
     }
   },
   "showroomVisits": {
@@ -70623,6 +70637,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:13:56",
+      "iso": "2026-09-01T06:43:56.685Z",
+      "action": "updated remark for SA200 at DANKOTUWA: “0”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:13:44",
+      "iso": "2026-09-01T06:43:44.934Z",
+      "action": "updated remark for PWRMAX at DANKOTUWA: “0”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:13:27",
@@ -70956,20 +70984,6 @@
       "date": "2026-09-01",
       "time": "12:01:08",
       "iso": "2026-09-01T06:31:08.306Z",
-      "action": "updated remark for IWH-2500WL at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:01:00",
-      "iso": "2026-09-01T06:31:00.525Z",
-      "action": "updated remark for DUM-SMGAR50F12D0J at SEEDUWA: “Dummy”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:00:51",
-      "iso": "2026-09-01T06:30:51.871Z",
       "action": "updated remark for IWH-2500WL at DANKOTUWA: “Already given”"
     }
   ]
