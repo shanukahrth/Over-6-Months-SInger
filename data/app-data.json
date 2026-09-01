@@ -68221,6 +68221,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:41:51",
       "lastUpdated": "2026-09-01T06:11:51.527Z"
+    },
+    "SIS277CU||DANKOTUWA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:42:13",
+      "lastUpdated": "2026-09-01T06:12:13.196Z"
     }
   },
   "showroomVisits": {
@@ -70139,6 +70146,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:42:13",
+      "iso": "2026-09-01T06:12:13.198Z",
+      "action": "updated remark for SIS277CU at DANKOTUWA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:41:51",
       "iso": "2026-09-01T06:11:51.529Z",
       "action": "updated remark for SIS253CU at DANKOTUWA: “60%”"
@@ -70478,13 +70492,6 @@
       "time": "10:53:38",
       "iso": "2026-09-01T05:23:38.410Z",
       "action": "updated remark for SIN-MH51SW at DANKOTUWA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "10:51:29",
-      "iso": "2026-09-01T05:21:29.868Z",
-      "action": "updated remark for H-RAPG012HFEOE at DANKOTUWA: “OBSOLETE - OFFER FLAT 50%”"
     }
   ]
 }
