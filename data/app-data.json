@@ -69593,6 +69593,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:25:00",
       "lastUpdated": "2026-09-01T07:55:00.106Z"
+    },
+    "LF-LEO-HCUP-WNG-S||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:25:17",
+      "lastUpdated": "2026-09-01T07:55:17.785Z"
     }
   },
   "showroomVisits": {
@@ -71535,6 +71542,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:25:17",
+      "iso": "2026-09-01T07:55:17.789Z",
+      "action": "updated remark for LF-LEO-HCUP-WNG-S at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:25:00",
       "iso": "2026-09-01T07:55:00.109Z",
       "action": "updated remark for FAN-C-NR at KATANA: “85%”"
@@ -71874,13 +71888,6 @@
       "time": "12:56:12",
       "iso": "2026-09-01T07:26:12.807Z",
       "action": "updated remark for SB-AAA at SEEDUWA: “80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:55:51",
-      "iso": "2026-09-01T07:25:51.083Z",
-      "action": "updated remark for R-FGAQ010 at SEEDUWA: “Discounts already given to the shop”"
     }
   ]
 }
