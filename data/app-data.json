@@ -70412,6 +70412,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:34:21",
       "lastUpdated": "2026-09-01T10:04:21.348Z"
+    },
+    "TCLED32D65A||KATANA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:35:06",
+      "lastUpdated": "2026-09-01T10:05:06.271Z"
     }
   },
   "showroomVisits": {
@@ -72354,6 +72361,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:35:06",
+      "iso": "2026-09-01T10:05:06.276Z",
+      "action": "updated remark for TCLED32D65A at KATANA: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:34:21",
       "iso": "2026-09-01T10:04:21.353Z",
       "action": "updated remark for TCL55V6B at KATANA: “50%”"
@@ -72693,13 +72707,6 @@
       "time": "14:05:46",
       "iso": "2026-09-01T08:35:46.266Z",
       "action": "updated remark for WB-C45 at SEEDUWA: “Shop use -90%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "14:05:35",
-      "iso": "2026-09-01T08:35:35.521Z",
-      "action": "updated remark for IWH-1500WL at KATANA: “Already provided”"
     }
   ]
 }
