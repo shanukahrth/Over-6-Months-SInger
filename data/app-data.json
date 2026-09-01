@@ -68291,6 +68291,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:50:40",
       "lastUpdated": "2026-09-01T06:20:40.041Z"
+    },
+    "ALU-DSL-7FT-S||SEEDUWA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:50:54",
+      "lastUpdated": "2026-09-01T06:20:54.213Z"
     }
   },
   "showroomVisits": {
@@ -70207,6 +70214,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "11:50:54",
+      "iso": "2026-09-01T06:20:54.214Z",
+      "action": "updated remark for ALU-DSL-7FT-S at SEEDUWA: “0%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "11:50:40",
@@ -70548,13 +70562,6 @@
       "time": "11:14:09",
       "iso": "2026-09-01T05:44:09.603Z",
       "action": "updated remark for DELL-3573-PQC-W10 at DANKOTUWA: “revert and damaged- total 90% discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:12:29",
-      "iso": "2026-09-01T05:42:29.210Z",
-      "action": "updated remark for AS-CEL-WIN10-DC at DANKOTUWA: “80% already discounted”"
     }
   ]
 }
