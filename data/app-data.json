@@ -70573,6 +70573,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:02:49",
       "lastUpdated": "2026-09-01T10:32:49.826Z"
+    },
+    "H-CVW1600||KATANA": {
+      "remark": "0%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:03:23",
+      "lastUpdated": "2026-09-01T10:33:23.485Z"
     }
   },
   "showroomVisits": {
@@ -72513,6 +72520,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:03:23",
+      "iso": "2026-09-01T10:33:23.488Z",
+      "action": "updated remark for H-CVW1600 at KATANA: “0%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:03:11",
+      "iso": "2026-09-01T10:33:11.758Z",
+      "action": "updated remark for H-CVW1600 at KATANA: “0%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "16:03:07",
@@ -72847,20 +72868,6 @@
       "time": "15:22:55",
       "iso": "2026-09-01T09:52:55.276Z",
       "action": "updated remark for WFI-SOC-H007-BU-S at SEEDUWA: “N/A”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:22:45",
-      "iso": "2026-09-01T09:52:45.842Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KATANA: “Active SKU, No Discounts applicable”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "15:22:36",
-      "iso": "2026-09-01T09:52:36.419Z",
-      "action": "updated remark for WF-ROM-S-S at SEEDUWA: “50%”"
     }
   ]
 }
