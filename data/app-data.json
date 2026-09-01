@@ -70610,11 +70610,11 @@
       "lastUpdated": "2026-09-01T10:35:17.267Z"
     },
     "SWM-FA70R||KATANA": {
-      "remark": "75% - Damaged",
+      "remark": "60%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-01",
-      "commentTime": "16:05:32",
-      "lastUpdated": "2026-09-01T10:35:32.007Z"
+      "commentTime": "16:05:46",
+      "lastUpdated": "2026-09-01T10:35:46.411Z"
     }
   },
   "showroomVisits": {
@@ -72557,6 +72557,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:05:46",
+      "iso": "2026-09-01T10:35:46.413Z",
+      "action": "updated remark for SWM-FA70R at KATANA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:05:32",
       "iso": "2026-09-01T10:35:32.026Z",
       "action": "updated remark for SWM-FA70R at KATANA: “75% - Damaged”"
@@ -72896,13 +72903,6 @@
       "time": "15:27:58",
       "iso": "2026-09-01T09:57:58.391Z",
       "action": "updated remark for GEO-242D-SV at KATANA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:27:25",
-      "iso": "2026-09-01T09:57:25.773Z",
-      "action": "updated remark for GEO-182S-SV at KATANA: “25%”"
     }
   ]
 }
