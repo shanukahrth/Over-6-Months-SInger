@@ -67815,6 +67815,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "10:16:09",
       "lastUpdated": "2026-09-01T04:46:09.364Z"
+    },
+    "SDV3605K||MATARA-B": {
+      "remark": "MOP 500",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:16:44",
+      "lastUpdated": "2026-09-01T04:46:44.776Z"
     }
   },
   "showroomVisits": {
@@ -69733,6 +69740,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:16:44",
+      "iso": "2026-09-01T04:46:44.778Z",
+      "action": "updated remark for SDV3605K at MATARA-B: “MOP 500”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "10:16:09",
       "iso": "2026-09-01T04:46:09.365Z",
       "action": "updated remark for SDC-ST66 at MATARA-B: “80% OFF”"
@@ -70072,13 +70086,6 @@
       "time": "09:47:39",
       "iso": "2026-09-01T04:17:39.823Z",
       "action": "updated remark for HU-SECURITY at MATARA-B: “Discounts already have given”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:47:34",
-      "iso": "2026-09-01T04:17:34.440Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at MATARA-B: “Discounts already have given”"
     }
   ]
 }
