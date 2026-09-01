@@ -70755,6 +70755,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:20:14",
       "lastUpdated": "2026-09-01T10:50:14.678Z"
+    },
+    "SIN-PR-K340||KATANA": {
+      "remark": "Sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:20:34",
+      "lastUpdated": "2026-09-01T10:50:34.678Z"
     }
   },
   "showroomVisits": {
@@ -72695,6 +72702,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:20:34",
+      "iso": "2026-09-01T10:50:34.679Z",
+      "action": "updated remark for SIN-PR-K340 at KATANA: “Sold”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "16:20:14",
@@ -73036,13 +73050,6 @@
       "time": "15:46:35",
       "iso": "2026-09-01T10:16:35.922Z",
       "action": "updated remark for SLE55D5010TC at KATANA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:46:10",
-      "iso": "2026-09-01T10:16:10.464Z",
-      "action": "updated remark for SLE43G890 at KATANA: “60%”"
     }
   ]
 }
