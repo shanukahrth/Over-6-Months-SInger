@@ -67346,6 +67346,34 @@
       "commentDate": "2026-08-31",
       "commentTime": "16:18:53",
       "lastUpdated": "2026-08-31T10:48:53.234Z"
+    },
+    "WG-FAN-BXS||GALAHA": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:24:38",
+      "lastUpdated": "2026-09-01T03:54:38.497Z"
+    },
+    "SL-PB-426||GALAHA": {
+      "remark": "90% -Damaged",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:24:38",
+      "lastUpdated": "2026-09-01T03:54:38.502Z"
+    },
+    "PMG-TEON||GALAHA": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:24:38",
+      "lastUpdated": "2026-09-01T03:54:38.504Z"
+    },
+    "RIYLTA-MF12V51A||GALAHA": {
+      "remark": "95%",
+      "commentedBy": "Kaveesha",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:24:38",
+      "lastUpdated": "2026-09-01T03:54:38.506Z"
     }
   },
   "showroomVisits": {
@@ -69262,6 +69290,34 @@
   },
   "activity": [
     {
+      "user": "Kaveesha",
+      "date": "2026-09-01",
+      "time": "09:24:38",
+      "iso": "2026-09-01T03:54:38.507Z",
+      "action": "updated remark for RIYLTA-MF12V51A at GALAHA: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-09-01",
+      "time": "09:24:38",
+      "iso": "2026-09-01T03:54:38.505Z",
+      "action": "updated remark for PMG-TEON at GALAHA: “95%”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-09-01",
+      "time": "09:24:38",
+      "iso": "2026-09-01T03:54:38.502Z",
+      "action": "updated remark for SL-PB-426 at GALAHA: “90% -Damaged”"
+    },
+    {
+      "user": "Kaveesha",
+      "date": "2026-09-01",
+      "time": "09:24:38",
+      "iso": "2026-09-01T03:54:38.498Z",
+      "action": "updated remark for WG-FAN-BXS at GALAHA: “95%”"
+    },
+    {
       "user": "Sanduni Hansika",
       "date": "2026-09-01",
       "time": "09:05:13",
@@ -69582,34 +69638,6 @@
       "time": "15:57:25",
       "iso": "2026-08-31T10:27:25.161Z",
       "action": "updated remark for SN-SMI-285G at JAFFNA PANNAI BRANCH: “60% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:57:19",
-      "iso": "2026-08-31T10:27:19.424Z",
-      "action": "updated remark for SN-SMI-285G at JAFFNA PANNAI BRANCH: “50% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:56:53",
-      "iso": "2026-08-31T10:26:53.023Z",
-      "action": "updated remark for DELLC-VOS3420-I5DOS at JAFFNA PANNAI BRANCH: “60% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:55:31",
-      "iso": "2026-08-31T10:25:31.134Z",
-      "action": "updated remark for LF-GALANT-CRW-S at JAFFNA PANNAI BRANCH: “60% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:54:42",
-      "iso": "2026-08-31T10:24:42.811Z",
-      "action": "updated remark for WP-NEO258NF at JAFFNA PANNAI BRANCH: “20% Off from mark price”"
     }
   ]
 }
