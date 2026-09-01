@@ -69327,6 +69327,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:57:57",
       "lastUpdated": "2026-09-01T07:27:57.078Z"
+    },
+    "SID-ATC-15||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:58:22",
+      "lastUpdated": "2026-09-01T07:28:22.863Z"
     }
   },
   "showroomVisits": {
@@ -71267,6 +71274,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:58:22",
+      "iso": "2026-09-01T07:28:22.864Z",
+      "action": "updated remark for SID-ATC-15 at SEEDUWA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:58:20",
@@ -71608,13 +71622,6 @@
       "time": "12:32:29",
       "iso": "2026-09-01T07:02:29.088Z",
       "action": "updated remark for WP-JUN-E-S at DANKOTUWA: “60%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:32:23",
-      "iso": "2026-09-01T07:02:23.749Z",
-      "action": "updated remark for LF-PODIUM-MWNT-S at SEEDUWA: “to be dropped”"
     }
   ]
 }
