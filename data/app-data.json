@@ -70467,9 +70467,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-01"
+    },
+    "ZTE-V50DESIGN-8-256GB-V||DANKOTUWA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-01"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:07:45",
+      "iso": "2026-09-01T06:37:45.092Z",
+      "action": "marked ZTE-V50DESIGN-8-256GB-V at DANKOTUWA as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
@@ -70812,13 +70825,6 @@
       "time": "11:50:40",
       "iso": "2026-09-01T06:20:40.043Z",
       "action": "updated remark for TF-CM-APR737 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:50:09",
-      "iso": "2026-09-01T06:20:09.895Z",
-      "action": "updated remark for KN-SMP01 at DANKOTUWA: “Already given”"
     }
   ]
 }
