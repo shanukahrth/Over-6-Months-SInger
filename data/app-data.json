@@ -68403,6 +68403,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:00:40",
       "lastUpdated": "2026-09-01T06:30:40.744Z"
+    },
+    "IWH-2500WL||DANKOTUWA": {
+      "remark": "Already given",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:00:51",
+      "lastUpdated": "2026-09-01T06:30:51.870Z"
     }
   },
   "showroomVisits": {
@@ -70325,6 +70332,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:00:51",
+      "iso": "2026-09-01T06:30:51.871Z",
+      "action": "updated remark for IWH-2500WL at DANKOTUWA: “Already given”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:00:49",
+      "iso": "2026-09-01T06:30:49.213Z",
+      "action": "updated remark for IWH-2500WL at DANKOTUWA: “Already given”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:00:40",
@@ -70659,20 +70680,6 @@
       "time": "11:32:28",
       "iso": "2026-09-01T06:02:28.908Z",
       "action": "updated remark for WF-OSLO-S at DANKOTUWA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:31:26",
-      "iso": "2026-09-01T06:01:26.629Z",
-      "action": "updated remark for WF-CLASSIC-S at DANKOTUWA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:30:21",
-      "iso": "2026-09-01T06:00:21.376Z",
-      "action": "updated remark for LF-BUDGET-DT-AGO-S at DANKOTUWA: “50%”"
     }
   ]
 }
