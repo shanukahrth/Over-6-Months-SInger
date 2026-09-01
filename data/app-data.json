@@ -69684,6 +69684,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:37:14",
       "lastUpdated": "2026-09-01T08:07:14.390Z"
+    },
+    "PF-ENVISION-BL-S||KATANA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:37:30",
+      "lastUpdated": "2026-09-01T08:07:30.284Z"
     }
   },
   "showroomVisits": {
@@ -71626,6 +71633,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:37:30",
+      "iso": "2026-09-01T08:07:30.286Z",
+      "action": "updated remark for PF-ENVISION-BL-S at KATANA: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:37:14",
       "iso": "2026-09-01T08:07:14.393Z",
       "action": "updated remark for LF-CLARA-STU-SWW-S at KATANA: “50%”"
@@ -71965,13 +71979,6 @@
       "time": "13:10:34",
       "iso": "2026-09-01T07:40:34.302Z",
       "action": "updated remark for SHAKE-X10D at KATANA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:10:12",
-      "iso": "2026-09-01T07:40:12.047Z",
-      "action": "updated remark for PN-SC-UA30GS-K at KATANA: “40%”"
     }
   ]
 }
