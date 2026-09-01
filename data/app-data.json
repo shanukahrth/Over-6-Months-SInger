@@ -67654,6 +67654,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:57:59",
       "lastUpdated": "2026-09-01T04:27:59.646Z"
+    },
+    "MHC-V21D||MATARA-B": {
+      "remark": "Report for 50000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:58:21",
+      "lastUpdated": "2026-09-01T04:28:21.701Z"
     }
   },
   "showroomVisits": {
@@ -69572,6 +69579,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:58:21",
+      "iso": "2026-09-01T04:28:21.703Z",
+      "action": "updated remark for MHC-V21D at MATARA-B: “Report for 50000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:57:59",
       "iso": "2026-09-01T04:27:59.647Z",
       "action": "updated remark for KD-50X75K at MATARA-B: “40% OFF”"
@@ -69911,13 +69925,6 @@
       "time": "09:05:07",
       "iso": "2026-09-01T03:35:07.158Z",
       "action": "updated MEGA-NEGOMBO showroom (visitDate: 2026-08-25)"
-    },
-    {
-      "user": "Sanduni Hansika",
-      "date": "2026-09-01",
-      "time": "09:04:27",
-      "iso": "2026-09-01T03:34:27.635Z",
-      "action": "updated SINGER HOMES-NEGOMBO showroom (visited: Yes)"
     }
   ]
 }
