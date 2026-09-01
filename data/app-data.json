@@ -69467,6 +69467,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:17:46",
       "lastUpdated": "2026-09-01T07:47:46.995Z"
+    },
+    "SIN-RFC-1819||SEEDUWA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:18:04",
+      "lastUpdated": "2026-09-01T07:48:04.565Z"
     }
   },
   "showroomVisits": {
@@ -71409,6 +71416,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:18:04",
+      "iso": "2026-09-01T07:48:04.567Z",
+      "action": "updated remark for SIN-RFC-1819 at SEEDUWA: “Additional 15%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:17:46",
       "iso": "2026-09-01T07:47:46.997Z",
       "action": "updated remark for SIN-PR-K340 at SEEDUWA: “0%”"
@@ -71748,13 +71762,6 @@
       "time": "12:39:47",
       "iso": "2026-09-01T07:09:47.441Z",
       "action": "updated remark for SLMC-18DSLHS at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:39:33",
-      "iso": "2026-09-01T07:09:33.744Z",
-      "action": "updated remark for OF-COM-T-S at SEEDUWA: “50%”"
     }
   ]
 }
