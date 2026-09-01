@@ -69502,6 +69502,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:19:25",
       "lastUpdated": "2026-09-01T07:49:25.569Z"
+    },
+    "DELL-3580-PQC-W10||KATANA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:19:59",
+      "lastUpdated": "2026-09-01T07:49:59.229Z"
     }
   },
   "showroomVisits": {
@@ -71442,6 +71449,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:19:59",
+      "iso": "2026-09-01T07:49:59.230Z",
+      "action": "updated remark for DELL-3580-PQC-W10 at KATANA: “Exchange”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:19:25",
@@ -71783,13 +71797,6 @@
       "time": "12:41:29",
       "iso": "2026-09-01T07:11:29.478Z",
       "action": "updated remark for FAN-WF1608R at DANKOTUWA: “5% additional discount - display”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:41:09",
-      "iso": "2026-09-01T07:11:09.747Z",
-      "action": "updated remark for PF-CAFE-NEW-RW-S at SEEDUWA: “0%”"
     }
   ]
 }
