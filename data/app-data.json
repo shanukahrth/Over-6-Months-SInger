@@ -69642,6 +69642,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:28:22",
       "lastUpdated": "2026-09-01T07:58:22.933Z"
+    },
+    "WFL-SPM-75X60X7-S||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:28:42",
+      "lastUpdated": "2026-09-01T07:58:42.686Z"
     }
   },
   "showroomVisits": {
@@ -71584,6 +71591,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:28:42",
+      "iso": "2026-09-01T07:58:42.688Z",
+      "action": "updated remark for WFL-SPM-75X60X7-S at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:28:22",
       "iso": "2026-09-01T07:58:22.935Z",
       "action": "updated remark for WFL-SPM-75X48X8-S at KATANA: “50%”"
@@ -71923,13 +71937,6 @@
       "time": "13:08:44",
       "iso": "2026-09-01T07:38:44.842Z",
       "action": "updated remark for SRS-XP500 at KATANA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:08:24",
-      "iso": "2026-09-01T07:38:24.918Z",
-      "action": "updated remark for PN-CS-XU18XKYW-8 at KATANA: “OFFER FLAT 60%”"
     }
   ]
 }
