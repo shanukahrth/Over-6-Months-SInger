@@ -69523,6 +69523,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:20:19",
       "lastUpdated": "2026-09-01T07:50:19.924Z"
+    },
+    "DELL3530-I3-8GB512-BLK||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:20:41",
+      "lastUpdated": "2026-09-01T07:50:41.050Z"
     }
   },
   "showroomVisits": {
@@ -71465,6 +71472,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:20:41",
+      "iso": "2026-09-01T07:50:41.050Z",
+      "action": "updated remark for DELL3530-I3-8GB512-BLK at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:20:38",
+      "iso": "2026-09-01T07:50:38.485Z",
+      "action": "updated remark for DELL3530-I3-8GB512-BLK at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:20:19",
       "iso": "2026-09-01T07:50:19.924Z",
       "action": "updated remark for DELL3530-I7-8GB512-SIL at KATANA: “-”"
@@ -71797,20 +71818,6 @@
       "time": "12:42:15",
       "iso": "2026-09-01T07:12:15.744Z",
       "action": "updated remark for IWH-2500WL at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:42:05",
-      "iso": "2026-09-01T07:12:05.651Z",
-      "action": "updated remark for PF-MONDY-BLACK at SEEDUWA: “exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:41:46",
-      "iso": "2026-09-01T07:11:46.572Z",
-      "action": "updated remark for KA-LW-185A at DANKOTUWA: “Already given”"
     }
   ]
 }
