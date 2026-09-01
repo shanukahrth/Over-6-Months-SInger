@@ -70671,6 +70671,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:13:29",
       "lastUpdated": "2026-09-01T10:43:29.893Z"
+    },
+    "MID-MF-TN40D2||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:13:57",
+      "lastUpdated": "2026-09-01T10:43:57.510Z"
     }
   },
   "showroomVisits": {
@@ -72613,6 +72620,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:13:57",
+      "iso": "2026-09-01T10:43:57.511Z",
+      "action": "updated remark for MID-MF-TN40D2 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:13:29",
       "iso": "2026-09-01T10:43:29.895Z",
       "action": "updated remark for SID129CU at KATANA: “85%”"
@@ -72952,13 +72966,6 @@
       "time": "15:35:46",
       "iso": "2026-09-01T10:05:46.291Z",
       "action": "updated remark for SLE32E710 at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:35:06",
-      "iso": "2026-09-01T10:05:06.276Z",
-      "action": "updated remark for TCLED32D65A at KATANA: “40%”"
     }
   ]
 }
