@@ -69096,6 +69096,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:32:09",
       "lastUpdated": "2026-09-01T07:02:09.252Z"
+    },
+    "LF-PODIUM-MWNT-S||SEEDUWA": {
+      "remark": "to be dropped",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:32:23",
+      "lastUpdated": "2026-09-01T07:02:23.747Z"
     }
   },
   "showroomVisits": {
@@ -71036,6 +71043,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:32:23",
+      "iso": "2026-09-01T07:02:23.749Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at SEEDUWA: “to be dropped”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:32:09",
+      "iso": "2026-09-01T07:02:09.325Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at SEEDUWA: “to be dropped”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:32:09",
@@ -71370,20 +71391,6 @@
       "time": "12:17:17",
       "iso": "2026-09-01T06:47:17.765Z",
       "action": "updated remark for HON-PAD-X9-CV at SEEDUWA: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:16:58",
-      "iso": "2026-09-01T06:46:58.704Z",
-      "action": "updated remark for HON-PAD-X8A-128GB at SEEDUWA: “15% Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:16:48",
-      "iso": "2026-09-01T06:46:48.232Z",
-      "action": "updated remark for SLE40E810C at DANKOTUWA: “return to WH”"
     }
   ]
 }
