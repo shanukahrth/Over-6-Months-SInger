@@ -69257,6 +69257,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:46:33",
       "lastUpdated": "2026-09-01T07:16:33.025Z"
+    },
+    "PN-MIC-W-107||SEEDUWA": {
+      "remark": "Free",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:46:56",
+      "lastUpdated": "2026-09-01T07:16:56.288Z"
     }
   },
   "showroomVisits": {
@@ -71199,6 +71206,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:46:56",
+      "iso": "2026-09-01T07:16:56.290Z",
+      "action": "updated remark for PN-MIC-W-107 at SEEDUWA: “Free”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:46:33",
       "iso": "2026-09-01T07:16:33.026Z",
       "action": "updated remark for PN-F-409UNBAMKH at SEEDUWA: “40%”"
@@ -71538,13 +71552,6 @@
       "time": "12:30:28",
       "iso": "2026-09-01T07:00:28.325Z",
       "action": "updated remark for LF-LEO-15023-WNG-S at SEEDUWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:29:59",
-      "iso": "2026-09-01T06:59:59.829Z",
-      "action": "updated remark for MID-D15-20EVN1 at DANKOTUWA: “0”"
     }
   ]
 }
