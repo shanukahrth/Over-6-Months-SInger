@@ -69894,6 +69894,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:53:55",
       "lastUpdated": "2026-09-01T08:23:55.192Z"
+    },
+    "TF-SI-ESS-242||KATANA": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:53:58",
+      "lastUpdated": "2026-09-01T08:23:58.943Z"
     }
   },
   "showroomVisits": {
@@ -71834,6 +71841,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:53:58",
+      "iso": "2026-09-01T08:23:58.951Z",
+      "action": "updated remark for TF-SI-ESS-242 at KATANA: “15%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:53:55",
@@ -72175,13 +72189,6 @@
       "time": "13:27:28",
       "iso": "2026-09-01T07:57:28.199Z",
       "action": "updated remark for WF-JUPITER-05-S at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:26:54",
-      "iso": "2026-09-01T07:56:54.801Z",
-      "action": "updated remark for LF-DEO-CT-S at KATANA: “50%”"
     }
   ]
 }
