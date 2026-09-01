@@ -70776,6 +70776,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:23:35",
       "lastUpdated": "2026-09-01T10:53:35.640Z"
+    },
+    "DELL3530-I3-8GB512-BLK||KOCHCHIKADE": {
+      "remark": "80%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:23:59",
+      "lastUpdated": "2026-09-01T10:53:59.850Z"
     }
   },
   "showroomVisits": {
@@ -72718,6 +72725,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "16:23:59",
+      "iso": "2026-09-01T10:53:59.851Z",
+      "action": "updated remark for DELL3530-I3-8GB512-BLK at KOCHCHIKADE: “80%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "16:23:35",
       "iso": "2026-09-01T10:53:35.641Z",
       "action": "updated remark for DELL3510-PNT-128-RCH-BLK at KOCHCHIKADE: “0%”"
@@ -73057,13 +73071,6 @@
       "time": "15:48:57",
       "iso": "2026-09-01T10:18:57.354Z",
       "action": "updated remark for SLE32D1800 at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:48:27",
-      "iso": "2026-09-01T10:18:27.699Z",
-      "action": "updated remark for SLE32B3800 at KATANA: “50%”"
     }
   ]
 }
