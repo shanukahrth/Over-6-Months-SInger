@@ -69999,6 +69999,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:57:41",
       "lastUpdated": "2026-09-01T08:27:41.716Z"
+    },
+    "ULED32D5000||SEEDUWA": {
+      "remark": "Return to warehouse",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:57:50",
+      "lastUpdated": "2026-09-01T08:27:50.044Z"
     }
   },
   "showroomVisits": {
@@ -71939,6 +71946,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "13:57:50",
+      "iso": "2026-09-01T08:27:50.047Z",
+      "action": "updated remark for ULED32D5000 at SEEDUWA: “Return to warehouse”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "13:57:41",
@@ -72280,13 +72294,6 @@
       "time": "13:43:29",
       "iso": "2026-09-01T08:13:29.793Z",
       "action": "updated remark for SLE32E910 at SEEDUWA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:42:17",
-      "iso": "2026-09-01T08:12:17.507Z",
-      "action": "updated remark for MCZJ8500C at KATANA: “0%”"
     }
   ]
 }
