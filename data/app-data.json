@@ -67612,6 +67612,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:49:58",
       "lastUpdated": "2026-09-01T04:19:58.565Z"
+    },
+    "MCT-302N-4||MATARA-B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:50:04",
+      "lastUpdated": "2026-09-01T04:20:04.863Z"
     }
   },
   "showroomVisits": {
@@ -69530,6 +69537,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:50:04",
+      "iso": "2026-09-01T04:20:04.865Z",
+      "action": "updated remark for MCT-302N-4 at MATARA-B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:49:58",
       "iso": "2026-09-01T04:19:58.569Z",
       "action": "updated remark for MCT-302N at MATARA-B: “-”"
@@ -69869,13 +69883,6 @@
       "time": "19:58:00",
       "iso": "2026-08-31T14:28:00.516Z",
       "action": "updated remark for SLE32E920 at JA-ELA: “90% Damaged location exchange”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "19:57:24",
-      "iso": "2026-08-31T14:27:24.204Z",
-      "action": "updated remark for KD-55X80J at JA-ELA: “exchange 90% Damaged location”"
     }
   ]
 }
