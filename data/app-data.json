@@ -69285,6 +69285,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:53:13",
       "lastUpdated": "2026-09-01T07:23:13.079Z"
+    },
+    "PN-TH-32M402N||SEEDUWA": {
+      "remark": "Return to warehouse",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:53:53",
+      "lastUpdated": "2026-09-01T07:23:53.815Z"
     }
   },
   "showroomVisits": {
@@ -71227,6 +71234,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:53:53",
+      "iso": "2026-09-01T07:23:53.817Z",
+      "action": "updated remark for PN-TH-32M402N at SEEDUWA: “Return to warehouse”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:53:13",
       "iso": "2026-09-01T07:23:13.080Z",
       "action": "updated remark for PN-TH-32J401N at SEEDUWA: “Panel Damage 85%”"
@@ -71566,13 +71580,6 @@
       "time": "12:31:05",
       "iso": "2026-09-01T07:01:05.388Z",
       "action": "updated remark for LF-OPENSR-CKT-S at SEEDUWA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:30:49",
-      "iso": "2026-09-01T07:00:49.584Z",
-      "action": "updated remark for LF-LEO-18023-WNG-S at SEEDUWA: “50%”"
     }
   ]
 }
