@@ -68718,6 +68718,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:14:44",
       "lastUpdated": "2026-09-01T06:44:44.754Z"
+    },
+    "BR-1||DANKOTUWA": {
+      "remark": "0",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:14:57",
+      "lastUpdated": "2026-09-01T06:44:57.016Z"
     }
   },
   "showroomVisits": {
@@ -70660,6 +70667,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:14:57",
+      "iso": "2026-09-01T06:44:57.018Z",
+      "action": "updated remark for BR-1 at DANKOTUWA: “0”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:14:44",
       "iso": "2026-09-01T06:44:44.755Z",
       "action": "updated remark for PM-OS-BAT at DANKOTUWA: “0”"
@@ -70999,13 +71013,6 @@
       "time": "12:01:50",
       "iso": "2026-09-01T06:31:50.973Z",
       "action": "updated remark for R-BWS-02 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:01:28",
-      "iso": "2026-09-01T06:31:28.063Z",
-      "action": "updated remark for SW-SK14016BLK at DANKOTUWA: “Already given”"
     }
   ]
 }
