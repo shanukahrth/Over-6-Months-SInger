@@ -69145,6 +69145,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:35:23",
       "lastUpdated": "2026-09-01T07:05:23.441Z"
+    },
+    "WFL-FLORAC-02-S||DANKOTUWA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:35:40",
+      "lastUpdated": "2026-09-01T07:05:40.792Z"
     }
   },
   "showroomVisits": {
@@ -71087,6 +71094,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:35:40",
+      "iso": "2026-09-01T07:05:40.794Z",
+      "action": "updated remark for WFL-FLORAC-02-S at DANKOTUWA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:35:23",
       "iso": "2026-09-01T07:05:23.442Z",
       "action": "updated remark for WF-PRESTON-BSC-S at DANKOTUWA: “50%”"
@@ -71426,13 +71440,6 @@
       "time": "12:18:54",
       "iso": "2026-09-01T06:48:54.903Z",
       "action": "updated remark for HON-X9C-12-256-PPL at SEEDUWA: “N/A”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:18:52",
-      "iso": "2026-09-01T06:48:52.370Z",
-      "action": "updated remark for SMGUA32N4010 at DANKOTUWA: “0”"
     }
   ]
 }
