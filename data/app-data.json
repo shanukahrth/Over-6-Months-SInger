@@ -69278,6 +69278,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:51:44",
       "lastUpdated": "2026-09-01T07:21:44.129Z"
+    },
+    "PN-TH-32J401N||SEEDUWA": {
+      "remark": "Panel Damage 85%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:53:13",
+      "lastUpdated": "2026-09-01T07:23:13.079Z"
     }
   },
   "showroomVisits": {
@@ -71220,6 +71227,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:53:13",
+      "iso": "2026-09-01T07:23:13.080Z",
+      "action": "updated remark for PN-TH-32J401N at SEEDUWA: “Panel Damage 85%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:51:44",
       "iso": "2026-09-01T07:21:44.130Z",
       "action": "updated remark for PN-SC-UA3GS-K at SEEDUWA: “70%”"
@@ -71559,13 +71573,6 @@
       "time": "12:30:49",
       "iso": "2026-09-01T07:00:49.584Z",
       "action": "updated remark for LF-LEO-18023-WNG-S at SEEDUWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:30:59",
-      "iso": "2026-09-01T07:00:59.125Z",
-      "action": "updated remark for WP-SS-SUB1-S at DANKOTUWA: “Exchange”"
     }
   ]
 }
