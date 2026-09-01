@@ -70111,6 +70111,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "14:58:58",
       "lastUpdated": "2026-09-01T09:28:58.733Z"
+    },
+    "TF-CM-APR737||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "14:59:23",
+      "lastUpdated": "2026-09-01T09:29:23.599Z"
     }
   },
   "showroomVisits": {
@@ -72053,6 +72060,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "14:59:23",
+      "iso": "2026-09-01T09:29:23.601Z",
+      "action": "updated remark for TF-CM-APR737 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "14:58:58",
       "iso": "2026-09-01T09:28:58.736Z",
       "action": "updated remark for NT655RX-65 at KATANA: “Already provided”"
@@ -72392,13 +72406,6 @@
       "time": "13:51:17",
       "iso": "2026-09-01T08:21:17.901Z",
       "action": "updated remark for TCL30E-3-64-GRY at SEEDUWA: “85% Batter swollen”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:50:54",
-      "iso": "2026-09-01T08:20:54.505Z",
-      "action": "updated remark for TCL306-3-32-GRAY at SEEDUWA: “85% Batter swollen”"
     }
   ]
 }
