@@ -69600,6 +69600,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:25:17",
       "lastUpdated": "2026-09-01T07:55:17.785Z"
+    },
+    "LF-OX-BR-M-S||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:25:49",
+      "lastUpdated": "2026-09-01T07:55:49.199Z"
     }
   },
   "showroomVisits": {
@@ -71542,6 +71549,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:25:49",
+      "iso": "2026-09-01T07:55:49.202Z",
+      "action": "updated remark for LF-OX-BR-M-S at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:25:17",
       "iso": "2026-09-01T07:55:17.789Z",
       "action": "updated remark for LF-LEO-HCUP-WNG-S at KATANA: “50%”"
@@ -71881,13 +71895,6 @@
       "time": "12:57:21",
       "iso": "2026-09-01T07:27:21.591Z",
       "action": "updated remark for SB-DTYPE at SEEDUWA: “80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:56:12",
-      "iso": "2026-09-01T07:26:12.807Z",
-      "action": "updated remark for SB-AAA at SEEDUWA: “80%”"
     }
   ]
 }
