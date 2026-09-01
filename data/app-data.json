@@ -68900,6 +68900,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:21:08",
       "lastUpdated": "2026-09-01T06:51:08.040Z"
+    },
+    "LF-BR-001-DWN-S||SEEDUWA": {
+      "remark": "N/A",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:21:29",
+      "lastUpdated": "2026-09-01T06:51:29.843Z"
     }
   },
   "showroomVisits": {
@@ -70842,6 +70849,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:21:29",
+      "iso": "2026-09-01T06:51:29.845Z",
+      "action": "updated remark for LF-BR-001-DWN-S at SEEDUWA: “N/A”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:21:08",
       "iso": "2026-09-01T06:51:08.043Z",
       "action": "updated remark for KA-T-601 at SEEDUWA: “Discounts already given to the shop”"
@@ -71181,13 +71195,6 @@
       "time": "12:10:00",
       "iso": "2026-09-01T06:40:00.975Z",
       "action": "updated remark for HON-X7C-8-256-BLK at DANKOTUWA: “no discounts”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:09:45",
-      "iso": "2026-09-01T06:39:45.191Z",
-      "action": "updated remark for HON-X5PLUS-4-64-CYAN at DANKOTUWA: “60%”"
     }
   ]
 }
