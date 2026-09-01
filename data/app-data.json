@@ -68305,6 +68305,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:51:17",
       "lastUpdated": "2026-09-01T06:21:17.892Z"
+    },
+    "B-HII64200MT||SEEDUWA": {
+      "remark": "10%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:51:48",
+      "lastUpdated": "2026-09-01T06:21:48.646Z"
     }
   },
   "showroomVisits": {
@@ -70221,6 +70228,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "11:51:48",
+      "iso": "2026-09-01T06:21:48.648Z",
+      "action": "updated remark for B-HII64200MT at SEEDUWA: “10%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "11:51:17",
@@ -70562,13 +70576,6 @@
       "time": "11:15:22",
       "iso": "2026-09-01T05:45:22.703Z",
       "action": "updated remark for DELL-3580-PQC-W10 at DANKOTUWA: “revert and damaged- total 90% discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:14:49",
-      "iso": "2026-09-01T05:44:49.833Z",
-      "action": "updated remark for DELL-3580-I3W10-SIL at DANKOTUWA: “revert and damaged- 70% total discount”"
     }
   ]
 }
