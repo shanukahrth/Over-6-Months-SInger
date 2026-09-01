@@ -68753,6 +68753,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:15:49",
       "lastUpdated": "2026-09-01T06:45:49.850Z"
+    },
+    "TCLED32D65A||DANKOTUWA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:16:07",
+      "lastUpdated": "2026-09-01T06:46:07.528Z"
     }
   },
   "showroomVisits": {
@@ -70695,6 +70702,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:16:07",
+      "iso": "2026-09-01T06:46:07.537Z",
+      "action": "updated remark for TCLED32D65A at DANKOTUWA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:15:49",
       "iso": "2026-09-01T06:45:49.855Z",
       "action": "updated remark for SIN-PR-K340 at DANKOTUWA: “0”"
@@ -71034,13 +71048,6 @@
       "time": "12:02:45",
       "iso": "2026-09-01T06:32:45.057Z",
       "action": "updated remark for FAN-P-1605H at SEEDUWA: “60%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:02:06",
-      "iso": "2026-09-01T06:32:06.066Z",
-      "action": "updated remark for FAN-FS40-10DR at SEEDUWA: “85%”"
     }
   ]
 }
