@@ -68669,6 +68669,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:13:06",
       "lastUpdated": "2026-09-01T06:43:06.424Z"
+    },
+    "BES-CRS-51||DANKOTUWA": {
+      "remark": "Maximum 10% additional discount based on the condition.",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:13:21",
+      "lastUpdated": "2026-09-01T06:43:21.484Z"
     }
   },
   "showroomVisits": {
@@ -70611,6 +70618,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:13:21",
+      "iso": "2026-09-01T06:43:21.491Z",
+      "action": "updated remark for BES-CRS-51 at DANKOTUWA: “Maximum 10% additional discount based on the condition.”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:13:06",
       "iso": "2026-09-01T06:43:06.427Z",
       "action": "updated remark for SN-SMI-285 at DANKOTUWA: “Obsolete - Offer flat 50%”"
@@ -70950,13 +70964,6 @@
       "time": "12:00:40",
       "iso": "2026-09-01T06:30:40.748Z",
       "action": "updated remark for DH-I-F22FP-36B-IMOU at SEEDUWA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:00:18",
-      "iso": "2026-09-01T06:30:18.744Z",
-      "action": "updated remark for DELL3510-PNTMSIL-BLK at SEEDUWA: “Return to Microchip”"
     }
   ]
 }
