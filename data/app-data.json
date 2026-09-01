@@ -68970,6 +68970,20 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:25:57",
       "lastUpdated": "2026-09-01T06:55:57.241Z"
+    },
+    "LF-BUDGET-ST-CRW-S||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:25:43",
+      "lastUpdated": "2026-09-01T06:55:43.159Z"
+    },
+    "LF-DEO-CT-S||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:26:14",
+      "lastUpdated": "2026-09-01T06:56:14.199Z"
     }
   },
   "showroomVisits": {
@@ -70910,6 +70924,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:26:14",
+      "iso": "2026-09-01T06:56:14.201Z",
+      "action": "updated remark for LF-DEO-CT-S at SEEDUWA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:25:43",
+      "iso": "2026-09-01T06:55:43.162Z",
+      "action": "updated remark for LF-BUDGET-ST-CRW-S at SEEDUWA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:25:57",
@@ -71244,20 +71272,6 @@
       "time": "12:13:06",
       "iso": "2026-09-01T06:43:06.427Z",
       "action": "updated remark for SN-SMI-285 at DANKOTUWA: “Obsolete - Offer flat 50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:12:36",
-      "iso": "2026-09-01T06:42:36.053Z",
-      "action": "updated remark for HON-CH-EARBUDS-X7E at DANKOTUWA: “Active SKU, No Discounts applicable”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:12:32",
-      "iso": "2026-09-01T06:42:32.793Z",
-      "action": "updated remark for H-BD-1054HVOS at SEEDUWA: “10%”"
     }
   ]
 }
