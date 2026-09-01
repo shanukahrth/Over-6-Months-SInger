@@ -68550,6 +68550,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:08:06",
       "lastUpdated": "2026-09-01T06:38:06.810Z"
+    },
+    "SMG-A06-4-64-BLK||DANKOTUWA": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:08:26",
+      "lastUpdated": "2026-09-01T06:38:26.051Z"
     }
   },
   "showroomVisits": {
@@ -70480,9 +70487,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-01"
+    },
+    "SMG-A06-4-64-BLK||DANKOTUWA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-01"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:08:26",
+      "iso": "2026-09-01T06:38:26.051Z",
+      "action": "updated remark for SMG-A06-4-64-BLK at DANKOTUWA: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:08:22",
+      "iso": "2026-09-01T06:38:22.376Z",
+      "action": "marked SMG-A06-4-64-BLK at DANKOTUWA as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
@@ -70818,20 +70845,6 @@
       "time": "11:51:48",
       "iso": "2026-09-01T06:21:48.648Z",
       "action": "updated remark for B-HII64200MT at SEEDUWA: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:51:17",
-      "iso": "2026-09-01T06:21:17.898Z",
-      "action": "updated remark for ST038 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "11:50:54",
-      "iso": "2026-09-01T06:20:54.214Z",
-      "action": "updated remark for ALU-DSL-7FT-S at SEEDUWA: “0%”"
     }
   ]
 }
