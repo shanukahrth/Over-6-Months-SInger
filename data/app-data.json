@@ -69796,6 +69796,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:48:53",
       "lastUpdated": "2026-09-01T08:18:53.941Z"
+    },
+    "SS-PS16-AG||SEEDUWA": {
+      "remark": "75%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:49:13",
+      "lastUpdated": "2026-09-01T08:19:13.513Z"
     }
   },
   "showroomVisits": {
@@ -71738,6 +71745,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:49:13",
+      "iso": "2026-09-01T08:19:13.514Z",
+      "action": "updated remark for SS-PS16-AG at SEEDUWA: “75%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:48:53",
       "iso": "2026-09-01T08:18:53.946Z",
       "action": "updated remark for SN-SMI-285 at SEEDUWA: “sold”"
@@ -72077,13 +72091,6 @@
       "time": "13:21:42",
       "iso": "2026-09-01T07:51:42.763Z",
       "action": "updated remark for IFCG157NC at KATANA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:21:06",
-      "iso": "2026-09-01T07:51:06.185Z",
-      "action": "updated remark for DELL3530-I3-8GB512-BLK at KATANA: “50%”"
     }
   ]
 }
