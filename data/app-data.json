@@ -70650,6 +70650,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:09:36",
       "lastUpdated": "2026-09-01T10:39:36.324Z"
+    },
+    "NCPO-FP250||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:12:51",
+      "lastUpdated": "2026-09-01T10:42:51.450Z"
     }
   },
   "showroomVisits": {
@@ -72592,6 +72599,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:12:51",
+      "iso": "2026-09-01T10:42:51.452Z",
+      "action": "updated remark for NCPO-FP250 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:09:36",
       "iso": "2026-09-01T10:39:36.327Z",
       "action": "updated remark for WP-CHTW-075-S at KATANA: “Damaged - 30%”"
@@ -72931,13 +72945,6 @@
       "time": "15:33:42",
       "iso": "2026-09-01T10:03:42.756Z",
       "action": "updated remark for ULED32D60A at KATANA: “Sell at Rs.24,999”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:33:11",
-      "iso": "2026-09-01T10:03:11.907Z",
-      "action": "updated remark for ULED32D4100 at KATANA: “80% - Pannel Damaged”"
     }
   ]
 }
