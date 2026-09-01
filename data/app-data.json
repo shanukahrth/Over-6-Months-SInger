@@ -69950,6 +69950,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:55:57",
       "lastUpdated": "2026-09-01T08:25:57.096Z"
+    },
+    "SID261CU||KATANA": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:56:13",
+      "lastUpdated": "2026-09-01T08:26:13.627Z"
     }
   },
   "showroomVisits": {
@@ -71890,6 +71897,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:56:13",
+      "iso": "2026-09-01T08:26:13.629Z",
+      "action": "updated remark for SID261CU at KATANA: “85%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:55:57",
@@ -72231,13 +72245,6 @@
       "time": "13:37:30",
       "iso": "2026-09-01T08:07:30.286Z",
       "action": "updated remark for PF-ENVISION-BL-S at KATANA: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:37:14",
-      "iso": "2026-09-01T08:07:14.393Z",
-      "action": "updated remark for LF-CLARA-STU-SWW-S at KATANA: “50%”"
     }
   ]
 }
