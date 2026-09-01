@@ -70027,6 +70027,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:58:36",
       "lastUpdated": "2026-09-01T08:28:36.240Z"
+    },
+    "TF-NIFP28-042||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:58:55",
+      "lastUpdated": "2026-09-01T08:28:55.800Z"
     }
   },
   "showroomVisits": {
@@ -71967,6 +71974,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:58:55",
+      "iso": "2026-09-01T08:28:55.814Z",
+      "action": "updated remark for TF-NIFP28-042 at KATANA: “Already provided”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:58:36",
@@ -72308,13 +72322,6 @@
       "time": "13:45:02",
       "iso": "2026-09-01T08:15:02.447Z",
       "action": "updated remark for SLE42D2070TC at SEEDUWA: “exchange”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:44:40",
-      "iso": "2026-09-01T08:14:40.740Z",
-      "action": "updated remark for SLE40D600A at SEEDUWA: “50%”"
     }
   ]
 }
