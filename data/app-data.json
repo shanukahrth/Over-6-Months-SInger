@@ -69362,6 +69362,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:09:07",
       "lastUpdated": "2026-09-01T07:39:07.295Z"
+    },
+    "SIN-W66PA28||KATANA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:09:34",
+      "lastUpdated": "2026-09-01T07:39:34.750Z"
     }
   },
   "showroomVisits": {
@@ -71304,6 +71311,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:09:34",
+      "iso": "2026-09-01T07:39:34.752Z",
+      "action": "updated remark for SIN-W66PA28 at KATANA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:09:07",
       "iso": "2026-09-01T07:39:07.296Z",
       "action": "updated remark for SIN-MH51SW at KATANA: “80%”"
@@ -71643,13 +71657,6 @@
       "time": "12:34:36",
       "iso": "2026-09-01T07:04:36.407Z",
       "action": "updated remark for WF-OSLO-S at DANKOTUWA: “80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:34:15",
-      "iso": "2026-09-01T07:04:15.061Z",
-      "action": "updated remark for MID-MF-TN40D2 at SEEDUWA: “Discounts already given to the shop”"
     }
   ]
 }
