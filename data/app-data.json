@@ -69831,6 +69831,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:51:17",
       "lastUpdated": "2026-09-01T08:21:17.900Z"
+    },
+    "TCLTB10-3-64-BLK||SEEDUWA": {
+      "remark": "85% Batter swollen",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:51:45",
+      "lastUpdated": "2026-09-01T08:21:45.130Z"
     }
   },
   "showroomVisits": {
@@ -71773,6 +71780,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:51:45",
+      "iso": "2026-09-01T08:21:45.131Z",
+      "action": "updated remark for TCLTB10-3-64-BLK at SEEDUWA: “85% Batter swollen”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:51:17",
       "iso": "2026-09-01T08:21:17.901Z",
       "action": "updated remark for TCL30E-3-64-GRY at SEEDUWA: “85% Batter swollen”"
@@ -72112,13 +72126,6 @@
       "time": "13:23:16",
       "iso": "2026-09-01T07:53:16.630Z",
       "action": "updated remark for SDV838HDVT at KATANA: “2500”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:22:47",
-      "iso": "2026-09-01T07:52:47.502Z",
-      "action": "updated remark for SDV837HDVT at KATANA: “2500”"
     }
   ]
 }
