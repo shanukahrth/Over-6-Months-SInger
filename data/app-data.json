@@ -70622,6 +70622,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:05:58",
       "lastUpdated": "2026-09-01T10:35:58.139Z"
+    },
+    "SWM-MET80PL||KATANA": {
+      "remark": "20%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:06:06",
+      "lastUpdated": "2026-09-01T10:36:06.958Z"
     }
   },
   "showroomVisits": {
@@ -72562,6 +72569,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:06:06",
+      "iso": "2026-09-01T10:36:06.962Z",
+      "action": "updated remark for SWM-MET80PL at KATANA: “20%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "16:05:58",
@@ -72903,13 +72917,6 @@
       "time": "15:30:15",
       "iso": "2026-09-01T10:00:15.534Z",
       "action": "updated remark for BES-WP15T at KATANA: “Damaged / Handing Over - 85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:29:24",
-      "iso": "2026-09-01T09:59:24.546Z",
-      "action": "updated remark for GEO-260NF at KATANA: “Obsolete - Offer flat 80%”"
     }
   ]
 }
