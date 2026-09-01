@@ -68417,6 +68417,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:01:00",
       "lastUpdated": "2026-09-01T06:31:00.523Z"
+    },
+    "EPSON-B-L130-CYN||SEEDUWA": {
+      "remark": "10%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:01:21",
+      "lastUpdated": "2026-09-01T06:31:21.422Z"
     }
   },
   "showroomVisits": {
@@ -70339,6 +70346,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:01:21",
+      "iso": "2026-09-01T06:31:21.426Z",
+      "action": "updated remark for EPSON-B-L130-CYN at SEEDUWA: “10%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:01:08",
@@ -70680,13 +70694,6 @@
       "time": "11:34:35",
       "iso": "2026-09-01T06:04:35.355Z",
       "action": "updated remark for WFI-NAPOLEAN at DANKOTUWA: “90% - damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:33:57",
-      "iso": "2026-09-01T06:03:57.499Z",
-      "action": "updated remark for WF-OSLO-S at DANKOTUWA: “50%”"
     }
   ]
 }
