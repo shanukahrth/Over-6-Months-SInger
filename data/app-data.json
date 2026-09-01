@@ -70538,6 +70538,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:51:04",
       "lastUpdated": "2026-09-01T10:21:04.310Z"
+    },
+    "SLE32D2100||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:51:37",
+      "lastUpdated": "2026-09-01T10:21:37.843Z"
     }
   },
   "showroomVisits": {
@@ -72480,6 +72487,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:51:37",
+      "iso": "2026-09-01T10:21:37.845Z",
+      "action": "updated remark for SLE32D2100 at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:51:04",
       "iso": "2026-09-01T10:21:04.312Z",
       "action": "updated remark for SLE32D2010TC at KATANA: “70%”"
@@ -72819,13 +72833,6 @@
       "time": "15:18:01",
       "iso": "2026-09-01T09:48:01.411Z",
       "action": "updated remark for SIN-BY605 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:17:26",
-      "iso": "2026-09-01T09:47:26.860Z",
-      "action": "updated remark for SIN-BY526 at KATANA: “Already provided”"
     }
   ]
 }
