@@ -68641,6 +68641,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:12:13",
       "lastUpdated": "2026-09-01T06:42:13.783Z"
+    },
+    "HON-X5-2-32-BLK||DANKOTUWA": {
+      "remark": "15% Additional",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:12:20",
+      "lastUpdated": "2026-09-01T06:42:20.550Z"
     }
   },
   "showroomVisits": {
@@ -70581,6 +70588,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:12:20",
+      "iso": "2026-09-01T06:42:20.550Z",
+      "action": "updated remark for HON-X5-2-32-BLK at DANKOTUWA: “15% Additional”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:12:13",
@@ -70922,13 +70936,6 @@
       "time": "11:59:31",
       "iso": "2026-09-01T06:29:31.499Z",
       "action": "updated remark for SL-PB-426 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "11:59:18",
-      "iso": "2026-09-01T06:29:18.370Z",
-      "action": "updated remark for CM-LX300 at SEEDUWA: “0%”"
     }
   ]
 }
