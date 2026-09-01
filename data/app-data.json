@@ -70307,6 +70307,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:22:45",
       "lastUpdated": "2026-09-01T09:52:45.841Z"
+    },
+    "WFI-SOC-H007-BU-S||SEEDUWA": {
+      "remark": "N/A",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:22:55",
+      "lastUpdated": "2026-09-01T09:52:55.274Z"
     }
   },
   "showroomVisits": {
@@ -72247,6 +72254,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "15:22:55",
+      "iso": "2026-09-01T09:52:55.276Z",
+      "action": "updated remark for WFI-SOC-H007-BU-S at SEEDUWA: “N/A”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "15:22:45",
@@ -72587,13 +72601,6 @@
       "date": "2026-09-01",
       "time": "13:57:41",
       "iso": "2026-09-01T08:27:41.717Z",
-      "action": "updated remark for TF-KD24-061 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:57:35",
-      "iso": "2026-09-01T08:27:35.488Z",
       "action": "updated remark for TF-KD24-061 at KATANA: “Already provided”"
     }
   ]
