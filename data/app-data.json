@@ -68662,6 +68662,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:12:36",
       "lastUpdated": "2026-09-01T06:42:36.052Z"
+    },
+    "SN-SMI-285||DANKOTUWA": {
+      "remark": "Obsolete - Offer flat 50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:13:06",
+      "lastUpdated": "2026-09-01T06:43:06.424Z"
     }
   },
   "showroomVisits": {
@@ -70604,6 +70611,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:13:06",
+      "iso": "2026-09-01T06:43:06.427Z",
+      "action": "updated remark for SN-SMI-285 at DANKOTUWA: “Obsolete - Offer flat 50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:12:36",
       "iso": "2026-09-01T06:42:36.053Z",
       "action": "updated remark for HON-CH-EARBUDS-X7E at DANKOTUWA: “Active SKU, No Discounts applicable”"
@@ -70943,13 +70957,6 @@
       "time": "12:00:18",
       "iso": "2026-09-01T06:30:18.744Z",
       "action": "updated remark for DELL3510-PNTMSIL-BLK at SEEDUWA: “Return to Microchip”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:00:09",
-      "iso": "2026-09-01T06:30:09.016Z",
-      "action": "updated remark for PWG05 at DANKOTUWA: “Already given”"
     }
   ]
 }
