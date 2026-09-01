@@ -69740,6 +69740,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:43:56",
       "lastUpdated": "2026-09-01T08:13:56.510Z"
+    },
+    "SLE40D600A||SEEDUWA": {
+      "remark": "Return to warehouse",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:44:24",
+      "lastUpdated": "2026-09-01T08:14:24.450Z"
     }
   },
   "showroomVisits": {
@@ -71682,6 +71689,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:44:24",
+      "iso": "2026-09-01T08:14:24.452Z",
+      "action": "updated remark for SLE40D600A at SEEDUWA: “Return to warehouse”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:43:56",
       "iso": "2026-09-01T08:13:56.511Z",
       "action": "updated remark for SLE32E930 at SEEDUWA: “sold”"
@@ -72020,13 +72034,6 @@
       "date": "2026-09-01",
       "time": "13:17:46",
       "iso": "2026-09-01T07:47:46.997Z",
-      "action": "updated remark for SIN-PR-K340 at SEEDUWA: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:17:42",
-      "iso": "2026-09-01T07:47:42.124Z",
       "action": "updated remark for SIN-PR-K340 at SEEDUWA: “0%”"
     }
   ]
