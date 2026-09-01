@@ -69474,6 +69474,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:18:04",
       "lastUpdated": "2026-09-01T07:48:04.565Z"
+    },
+    "SIN-RFC-2012||SEEDUWA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:18:30",
+      "lastUpdated": "2026-09-01T07:48:30.722Z"
     }
   },
   "showroomVisits": {
@@ -71416,6 +71423,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:18:30",
+      "iso": "2026-09-01T07:48:30.723Z",
+      "action": "updated remark for SIN-RFC-2012 at SEEDUWA: “Additional 15%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:18:04",
       "iso": "2026-09-01T07:48:04.567Z",
       "action": "updated remark for SIN-RFC-1819 at SEEDUWA: “Additional 15%”"
@@ -71755,13 +71769,6 @@
       "time": "12:39:58",
       "iso": "2026-09-01T07:09:58.347Z",
       "action": "updated remark for PCR-FP20-249 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:39:47",
-      "iso": "2026-09-01T07:09:47.441Z",
-      "action": "updated remark for SLMC-18DSLHS at DANKOTUWA: “Already given”"
     }
   ]
 }
