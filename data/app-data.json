@@ -69264,6 +69264,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:46:56",
       "lastUpdated": "2026-09-01T07:16:56.288Z"
+    },
+    "PN-SC-BMAX10E-K||SEEDUWA": {
+      "remark": "40%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:47:28",
+      "lastUpdated": "2026-09-01T07:17:28.612Z"
     }
   },
   "showroomVisits": {
@@ -71206,6 +71213,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:47:28",
+      "iso": "2026-09-01T07:17:28.615Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at SEEDUWA: “40%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:46:56",
       "iso": "2026-09-01T07:16:56.290Z",
       "action": "updated remark for PN-MIC-W-107 at SEEDUWA: “Free”"
@@ -71545,13 +71559,6 @@
       "time": "12:30:35",
       "iso": "2026-09-01T07:00:35.971Z",
       "action": "updated remark for MID-D30-20EVN1 at DANKOTUWA: “0”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:30:28",
-      "iso": "2026-09-01T07:00:28.325Z",
-      "action": "updated remark for LF-LEO-15023-WNG-S at SEEDUWA: “50%”"
     }
   ]
 }
