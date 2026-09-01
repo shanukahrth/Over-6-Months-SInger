@@ -68123,6 +68123,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:33:57",
       "lastUpdated": "2026-09-01T06:03:57.498Z"
+    },
+    "WFI-NAPOLEAN||DANKOTUWA": {
+      "remark": "90% - damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:34:35",
+      "lastUpdated": "2026-09-01T06:04:35.353Z"
     }
   },
   "showroomVisits": {
@@ -70041,6 +70048,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:34:35",
+      "iso": "2026-09-01T06:04:35.355Z",
+      "action": "updated remark for WFI-NAPOLEAN at DANKOTUWA: “90% - damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:33:57",
       "iso": "2026-09-01T06:03:57.499Z",
       "action": "updated remark for WF-OSLO-S at DANKOTUWA: “50%”"
@@ -70380,13 +70394,6 @@
       "time": "10:16:44",
       "iso": "2026-09-01T04:46:44.778Z",
       "action": "updated remark for SDV3605K at MATARA-B: “MOP 500”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "10:16:09",
-      "iso": "2026-09-01T04:46:09.365Z",
-      "action": "updated remark for SDC-ST66 at MATARA-B: “80% OFF”"
     }
   ]
 }
