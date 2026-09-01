@@ -68522,6 +68522,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:06:32",
       "lastUpdated": "2026-09-01T06:36:32.169Z"
+    },
+    "SIN-RFC-1819||DANKOTUWA": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:06:53",
+      "lastUpdated": "2026-09-01T06:36:53.277Z"
     }
   },
   "showroomVisits": {
@@ -70446,6 +70453,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:06:53",
+      "iso": "2026-09-01T06:36:53.280Z",
+      "action": "updated remark for SIN-RFC-1819 at DANKOTUWA: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:06:32",
       "iso": "2026-09-01T06:36:32.170Z",
       "action": "updated remark for SIN-RFC-0836 at DANKOTUWA: “40%”"
@@ -70785,13 +70799,6 @@
       "time": "11:47:42",
       "iso": "2026-09-01T06:17:42.253Z",
       "action": "updated remark for IWH-1500WL at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:44:35",
-      "iso": "2026-09-01T06:14:35.655Z",
-      "action": "updated remark for IWH-1000WS at DANKOTUWA: “Already given”"
     }
   ]
 }
