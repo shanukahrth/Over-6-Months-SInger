@@ -68109,6 +68109,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:30:21",
       "lastUpdated": "2026-09-01T06:00:21.375Z"
+    },
+    "WF-CLASSIC-S||DANKOTUWA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:31:26",
+      "lastUpdated": "2026-09-01T06:01:26.628Z"
     }
   },
   "showroomVisits": {
@@ -70027,6 +70034,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:31:26",
+      "iso": "2026-09-01T06:01:26.629Z",
+      "action": "updated remark for WF-CLASSIC-S at DANKOTUWA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:30:21",
       "iso": "2026-09-01T06:00:21.376Z",
       "action": "updated remark for LF-BUDGET-DT-AGO-S at DANKOTUWA: “50%”"
@@ -70366,13 +70380,6 @@
       "time": "10:11:10",
       "iso": "2026-09-01T04:41:10.854Z",
       "action": "updated remark for SA200 at MATARA-B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "10:09:56",
-      "iso": "2026-09-01T04:39:56.021Z",
-      "action": "updated remark for R-BWS-02 at MATARA-B: “35% OFF”"
     }
   ]
 }
