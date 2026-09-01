@@ -69411,6 +69411,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:11:47",
       "lastUpdated": "2026-09-01T07:41:47.414Z"
+    },
+    "PN-MIC-W-107||KATANA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:14:04",
+      "lastUpdated": "2026-09-01T07:44:04.116Z"
     }
   },
   "showroomVisits": {
@@ -71353,6 +71360,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:14:04",
+      "iso": "2026-09-01T07:44:04.118Z",
+      "action": "updated remark for PN-MIC-W-107 at KATANA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:11:47",
       "iso": "2026-09-01T07:41:47.415Z",
       "action": "updated remark for MHC-V13 at KATANA: “80%”"
@@ -71692,13 +71706,6 @@
       "time": "12:37:43",
       "iso": "2026-09-01T07:07:43.393Z",
       "action": "updated remark for NCPO-FP280 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:37:22",
-      "iso": "2026-09-01T07:07:22.360Z",
-      "action": "updated remark for SW-SK14016BLK at DANKOTUWA: “Already given”"
     }
   ]
 }
