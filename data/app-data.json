@@ -70202,6 +70202,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:14:52",
       "lastUpdated": "2026-09-01T09:44:52.481Z"
+    },
+    "STT-100K||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:15:21",
+      "lastUpdated": "2026-09-01T09:45:21.407Z"
     }
   },
   "showroomVisits": {
@@ -72144,6 +72151,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:15:21",
+      "iso": "2026-09-01T09:45:21.408Z",
+      "action": "updated remark for STT-100K at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:14:52",
       "iso": "2026-09-01T09:44:52.482Z",
       "action": "updated remark for SISIL-RC180 at KATANA: “Already provided”"
@@ -72483,13 +72497,6 @@
       "time": "13:54:35",
       "iso": "2026-09-01T08:24:35.478Z",
       "action": "updated remark for USI-ATC-302 at KATANA: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:54:16",
-      "iso": "2026-09-01T08:24:16.966Z",
-      "action": "updated remark for TFFV4964MO at KATANA: “20%”"
     }
   ]
 }
