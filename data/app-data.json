@@ -70391,6 +70391,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:32:28",
       "lastUpdated": "2026-09-01T10:02:28.887Z"
+    },
+    "ULED32D4100||KATANA": {
+      "remark": "80% - Pannel Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:33:11",
+      "lastUpdated": "2026-09-01T10:03:11.906Z"
     }
   },
   "showroomVisits": {
@@ -72333,6 +72340,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:33:11",
+      "iso": "2026-09-01T10:03:11.907Z",
+      "action": "updated remark for ULED32D4100 at KATANA: “80% - Pannel Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:32:28",
       "iso": "2026-09-01T10:02:28.889Z",
       "action": "updated remark for ULED32D2070 at KATANA: “Exchange”"
@@ -72672,13 +72686,6 @@
       "time": "14:02:46",
       "iso": "2026-09-01T08:32:46.309Z",
       "action": "updated remark for NCPDG-SP240 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "14:02:25",
-      "iso": "2026-09-01T08:32:25.977Z",
-      "action": "updated remark for NCPDG-SET3 at KATANA: “Already provided”"
     }
   ]
 }
