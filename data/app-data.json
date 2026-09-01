@@ -69747,6 +69747,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:44:40",
       "lastUpdated": "2026-09-01T08:14:40.739Z"
+    },
+    "SLE42D2070TC||SEEDUWA": {
+      "remark": "exchange",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:45:02",
+      "lastUpdated": "2026-09-01T08:15:02.445Z"
     }
   },
   "showroomVisits": {
@@ -71689,6 +71696,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:45:02",
+      "iso": "2026-09-01T08:15:02.447Z",
+      "action": "updated remark for SLE42D2070TC at SEEDUWA: “exchange”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:44:40",
       "iso": "2026-09-01T08:14:40.740Z",
       "action": "updated remark for SLE40D600A at SEEDUWA: “50%”"
@@ -72028,13 +72042,6 @@
       "time": "13:18:30",
       "iso": "2026-09-01T07:48:30.723Z",
       "action": "updated remark for SIN-RFC-2012 at SEEDUWA: “Additional 15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:18:04",
-      "iso": "2026-09-01T07:48:04.567Z",
-      "action": "updated remark for SIN-RFC-1819 at SEEDUWA: “Additional 15%”"
     }
   ]
 }
