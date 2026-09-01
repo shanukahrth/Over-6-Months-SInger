@@ -69586,6 +69586,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:24:28",
       "lastUpdated": "2026-09-01T07:54:28.439Z"
+    },
+    "FAN-C-NR||KATANA": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:25:00",
+      "lastUpdated": "2026-09-01T07:55:00.106Z"
     }
   },
   "showroomVisits": {
@@ -71528,6 +71535,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:25:00",
+      "iso": "2026-09-01T07:55:00.109Z",
+      "action": "updated remark for FAN-C-NR at KATANA: “85%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:24:28",
       "iso": "2026-09-01T07:54:28.441Z",
       "action": "updated remark for FAN-WF1608R at KATANA: “Exchange 2 units  / 1 unit sold”"
@@ -71867,13 +71881,6 @@
       "time": "12:55:51",
       "iso": "2026-09-01T07:25:51.083Z",
       "action": "updated remark for R-FGAQ010 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:55:28",
-      "iso": "2026-09-01T07:25:28.520Z",
-      "action": "updated remark for R-BWS-02 at SEEDUWA: “Discounts already given to the shop”"
     }
   ]
 }
