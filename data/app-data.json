@@ -70545,6 +70545,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:51:37",
       "lastUpdated": "2026-09-01T10:21:37.843Z"
+    },
+    "SLE32D5000||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:52:43",
+      "lastUpdated": "2026-09-01T10:22:43.341Z"
     }
   },
   "showroomVisits": {
@@ -72487,6 +72494,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:52:43",
+      "iso": "2026-09-01T10:22:43.343Z",
+      "action": "updated remark for SLE32D5000 at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:51:37",
       "iso": "2026-09-01T10:21:37.845Z",
       "action": "updated remark for SLE32D2100 at KATANA: “50%”"
@@ -72826,13 +72840,6 @@
       "time": "15:18:32",
       "iso": "2026-09-01T09:48:32.464Z",
       "action": "updated remark for ZTE-A35E-2-32GB-GRN at KATANA: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:18:01",
-      "iso": "2026-09-01T09:48:01.411Z",
-      "action": "updated remark for SIN-BY605 at KATANA: “Already provided”"
     }
   ]
 }
