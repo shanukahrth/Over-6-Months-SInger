@@ -70300,6 +70300,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:22:36",
       "lastUpdated": "2026-09-01T09:52:36.418Z"
+    },
+    "HON-CH-BUDS-X7LITE-WHT||KATANA": {
+      "remark": "Active SKU, No Discounts applicable",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:22:45",
+      "lastUpdated": "2026-09-01T09:52:45.841Z"
     }
   },
   "showroomVisits": {
@@ -72240,6 +72247,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "15:22:45",
+      "iso": "2026-09-01T09:52:45.842Z",
+      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KATANA: “Active SKU, No Discounts applicable”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "15:22:36",
@@ -72581,13 +72595,6 @@
       "time": "13:57:35",
       "iso": "2026-09-01T08:27:35.488Z",
       "action": "updated remark for TF-KD24-061 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:57:18",
-      "iso": "2026-09-01T08:27:18.780Z",
-      "action": "updated remark for TF-FP24-SCR342 at KATANA: “Already provided”"
     }
   ]
 }
