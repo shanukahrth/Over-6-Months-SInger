@@ -69964,6 +69964,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:56:27",
       "lastUpdated": "2026-09-01T08:26:27.920Z"
+    },
+    "TF-SP16-063||SEEDUWA": {
+      "remark": "Discounts already given to the shop",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:56:44",
+      "lastUpdated": "2026-09-01T08:26:44.728Z"
     }
   },
   "showroomVisits": {
@@ -71906,6 +71913,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:56:44",
+      "iso": "2026-09-01T08:26:44.730Z",
+      "action": "updated remark for TF-SP16-063 at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:56:27",
       "iso": "2026-09-01T08:26:27.922Z",
       "action": "updated remark for TF-SI-EXSP1231 at SEEDUWA: “Additional 20%”"
@@ -72245,13 +72259,6 @@
       "time": "13:38:46",
       "iso": "2026-09-01T08:08:46.557Z",
       "action": "updated remark for SIN-VBS-90PA at KATANA: “50% - Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:37:58",
-      "iso": "2026-09-01T08:07:58.151Z",
-      "action": "updated remark for WF-PARIS-BL-S at KATANA: “Exchange”"
     }
   ]
 }
