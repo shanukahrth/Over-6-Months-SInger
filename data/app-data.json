@@ -69754,6 +69754,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:45:02",
       "lastUpdated": "2026-09-01T08:15:02.445Z"
+    },
+    "SLE43G890||SEEDUWA": {
+      "remark": "Return to warehouse",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:46:45",
+      "lastUpdated": "2026-09-01T08:16:45.642Z"
     }
   },
   "showroomVisits": {
@@ -71696,6 +71703,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:46:45",
+      "iso": "2026-09-01T08:16:45.644Z",
+      "action": "updated remark for SLE43G890 at SEEDUWA: “Return to warehouse”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:46:21",
       "iso": "2026-09-01T08:16:21.523Z",
       "action": "updated remark for SLE40D600A at SEEDUWA: “50%”"
@@ -72035,13 +72049,6 @@
       "time": "13:19:25",
       "iso": "2026-09-01T07:49:25.570Z",
       "action": "updated remark for SKS-1024 at SEEDUWA: “15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:19:08",
-      "iso": "2026-09-01T07:49:08.601Z",
-      "action": "updated remark for SINX-M173H at SEEDUWA: “0%”"
     }
   ]
 }
