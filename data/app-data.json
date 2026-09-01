@@ -70517,6 +70517,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:47:43",
       "lastUpdated": "2026-09-01T10:17:43.949Z"
+    },
+    "SLE32B3800||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:48:27",
+      "lastUpdated": "2026-09-01T10:18:27.697Z"
     }
   },
   "showroomVisits": {
@@ -72459,6 +72466,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:48:27",
+      "iso": "2026-09-01T10:18:27.699Z",
+      "action": "updated remark for SLE32B3800 at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:47:43",
       "iso": "2026-09-01T10:17:43.950Z",
       "action": "updated remark for SLE24E810 at KATANA: “50%”"
@@ -72798,13 +72812,6 @@
       "time": "15:15:21",
       "iso": "2026-09-01T09:45:21.408Z",
       "action": "updated remark for STT-100K at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:14:52",
-      "iso": "2026-09-01T09:44:52.482Z",
-      "action": "updated remark for SISIL-RC180 at KATANA: “Already provided”"
     }
   ]
 }
