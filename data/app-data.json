@@ -70468,6 +70468,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:43:46",
       "lastUpdated": "2026-09-01T10:13:46.993Z"
+    },
+    "SLE40E810C||KATANA": {
+      "remark": "1 unit 60% for Damaged and Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:44:22",
+      "lastUpdated": "2026-09-01T10:14:22.863Z"
     }
   },
   "showroomVisits": {
@@ -72410,6 +72417,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:44:22",
+      "iso": "2026-09-01T10:14:22.865Z",
+      "action": "updated remark for SLE40E810C at KATANA: “1 unit 60% for Damaged and Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:43:46",
       "iso": "2026-09-01T10:13:46.995Z",
       "action": "updated remark for SLE40E710 at KATANA: “50%”"
@@ -72749,13 +72763,6 @@
       "time": "15:07:22",
       "iso": "2026-09-01T09:37:22.637Z",
       "action": "updated remark for R-BWS-02 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:06:39",
-      "iso": "2026-09-01T09:36:39.715Z",
-      "action": "updated remark for KA-ELITE at KATANA: “Already provided”"
     }
   ]
 }
