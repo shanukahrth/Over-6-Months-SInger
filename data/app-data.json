@@ -69054,6 +69054,20 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:30:59",
       "lastUpdated": "2026-09-01T07:00:59.122Z"
+    },
+    "LF-LEO-18023-WNG-S||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:30:49",
+      "lastUpdated": "2026-09-01T07:00:49.581Z"
+    },
+    "LF-OPENSR-CKT-S||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:31:05",
+      "lastUpdated": "2026-09-01T07:01:05.387Z"
     }
   },
   "showroomVisits": {
@@ -70994,6 +71008,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:31:05",
+      "iso": "2026-09-01T07:01:05.388Z",
+      "action": "updated remark for LF-OPENSR-CKT-S at SEEDUWA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:30:49",
+      "iso": "2026-09-01T07:00:49.584Z",
+      "action": "updated remark for LF-LEO-18023-WNG-S at SEEDUWA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:30:59",
@@ -71328,20 +71356,6 @@
       "time": "12:15:49",
       "iso": "2026-09-01T06:45:49.855Z",
       "action": "updated remark for SIN-PR-K340 at DANKOTUWA: “0”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:15:38",
-      "iso": "2026-09-01T06:45:38.052Z",
-      "action": "updated remark for MC8280 at DANKOTUWA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:15:12",
-      "iso": "2026-09-01T06:45:12.085Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at SEEDUWA: “15% Additional”"
     }
   ]
 }
