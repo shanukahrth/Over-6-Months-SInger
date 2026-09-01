@@ -70552,6 +70552,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:52:43",
       "lastUpdated": "2026-09-01T10:22:43.341Z"
+    },
+    "PN-TH-32MS670N||KATANA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:54:05",
+      "lastUpdated": "2026-09-01T10:24:05.898Z"
     }
   },
   "showroomVisits": {
@@ -72494,6 +72501,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:54:05",
+      "iso": "2026-09-01T10:24:05.899Z",
+      "action": "updated remark for PN-TH-32MS670N at KATANA: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:52:43",
       "iso": "2026-09-01T10:22:43.343Z",
       "action": "updated remark for SLE32D5000 at KATANA: “50%”"
@@ -72833,13 +72847,6 @@
       "time": "15:19:10",
       "iso": "2026-09-01T09:49:10.966Z",
       "action": "updated remark for ZTE-A36-2-64GB-GLD at KATANA: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:18:32",
-      "iso": "2026-09-01T09:48:32.464Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRN at KATANA: “15%”"
     }
   ]
 }
