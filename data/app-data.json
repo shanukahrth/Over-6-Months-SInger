@@ -68396,6 +68396,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:00:18",
       "lastUpdated": "2026-09-01T06:30:18.743Z"
+    },
+    "DH-I-F22FP-36B-IMOU||SEEDUWA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:00:40",
+      "lastUpdated": "2026-09-01T06:30:40.744Z"
     }
   },
   "showroomVisits": {
@@ -70320,6 +70327,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:00:40",
+      "iso": "2026-09-01T06:30:40.748Z",
+      "action": "updated remark for DH-I-F22FP-36B-IMOU at SEEDUWA: “70%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:00:18",
       "iso": "2026-09-01T06:30:18.744Z",
       "action": "updated remark for DELL3510-PNTMSIL-BLK at SEEDUWA: “Return to Microchip”"
@@ -70659,13 +70673,6 @@
       "time": "11:30:21",
       "iso": "2026-09-01T06:00:21.376Z",
       "action": "updated remark for LF-BUDGET-DT-AGO-S at DANKOTUWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:29:54",
-      "iso": "2026-09-01T05:59:54.087Z",
-      "action": "updated remark for LF-BUDGET-2WD-AGO-S at DANKOTUWA: “50%”"
     }
   ]
 }
