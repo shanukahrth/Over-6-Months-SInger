@@ -69152,6 +69152,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:35:40",
       "lastUpdated": "2026-09-01T07:05:40.792Z"
+    },
+    "NCPDG-SET3||SEEDUWA": {
+      "remark": "Discounts already given to the shop",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:36:16",
+      "lastUpdated": "2026-09-01T07:06:16.523Z"
     }
   },
   "showroomVisits": {
@@ -71092,6 +71099,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:36:16",
+      "iso": "2026-09-01T07:06:16.525Z",
+      "action": "updated remark for NCPDG-SET3 at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:35:40",
@@ -71433,13 +71447,6 @@
       "time": "12:19:08",
       "iso": "2026-09-01T06:49:08.039Z",
       "action": "updated remark for SKY32STD1000 at DANKOTUWA: “80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:18:54",
-      "iso": "2026-09-01T06:48:54.903Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at SEEDUWA: “N/A”"
     }
   ]
 }
