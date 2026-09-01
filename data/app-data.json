@@ -70377,6 +70377,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:30:48",
       "lastUpdated": "2026-09-01T10:00:48.418Z"
+    },
+    "SMGHWT450||KATANA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:31:56",
+      "lastUpdated": "2026-09-01T10:01:56.734Z"
     }
   },
   "showroomVisits": {
@@ -72319,6 +72326,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:31:56",
+      "iso": "2026-09-01T10:01:56.736Z",
+      "action": "updated remark for SMGHWT450 at KATANA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:30:48",
       "iso": "2026-09-01T10:00:48.419Z",
       "action": "updated remark for MC8280 at KATANA: “70% discoloured”"
@@ -72658,13 +72672,6 @@
       "time": "14:01:45",
       "iso": "2026-09-01T08:31:45.229Z",
       "action": "updated remark for NCPDG-OT250 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "14:00:51",
-      "iso": "2026-09-01T08:30:51.595Z",
-      "action": "updated remark for NCPDG-KD240 at KATANA: “Already provided”"
     }
   ]
 }
