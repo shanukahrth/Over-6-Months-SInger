@@ -69614,6 +69614,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:26:07",
       "lastUpdated": "2026-09-01T07:56:07.664Z"
+    },
+    "LF-DEO-CT-S||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:26:54",
+      "lastUpdated": "2026-09-01T07:56:54.800Z"
     }
   },
   "showroomVisits": {
@@ -71556,6 +71563,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:26:54",
+      "iso": "2026-09-01T07:56:54.801Z",
+      "action": "updated remark for LF-DEO-CT-S at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:26:07",
       "iso": "2026-09-01T07:56:07.665Z",
       "action": "updated remark for LF-BUDGET-ST-CLM-S at KATANA: “50%”"
@@ -71895,13 +71909,6 @@
       "time": "12:57:57",
       "iso": "2026-09-01T07:27:57.079Z",
       "action": "updated remark for SDV3605K at SEEDUWA: “Rs.2500.00”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:57:53",
-      "iso": "2026-09-01T07:27:53.258Z",
-      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at DANKOTUWA: “revert and damaged- total 90% discount”"
     }
   ]
 }
