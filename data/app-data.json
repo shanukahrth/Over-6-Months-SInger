@@ -70055,6 +70055,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "14:00:27",
       "lastUpdated": "2026-09-01T08:30:27.574Z"
+    },
+    "NCPDG-KD240||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "14:00:51",
+      "lastUpdated": "2026-09-01T08:30:51.593Z"
     }
   },
   "showroomVisits": {
@@ -71997,6 +72004,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "14:00:51",
+      "iso": "2026-09-01T08:30:51.595Z",
+      "action": "updated remark for NCPDG-KD240 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "14:00:27",
       "iso": "2026-09-01T08:30:27.576Z",
       "action": "updated remark for TF-NIK26-045 at KATANA: “Already provided”"
@@ -72336,13 +72350,6 @@
       "time": "13:47:37",
       "iso": "2026-09-01T08:17:37.386Z",
       "action": "updated remark for SMG-A06-6-128-BLK at SEEDUWA: “15% Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:47:16",
-      "iso": "2026-09-01T08:17:16.433Z",
-      "action": "updated remark for SLE55G3EN at SEEDUWA: “50%”"
     }
   ]
 }
