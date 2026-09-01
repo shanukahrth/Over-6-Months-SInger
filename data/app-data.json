@@ -70699,6 +70699,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:14:58",
       "lastUpdated": "2026-09-01T10:44:58.380Z"
+    },
+    "SMGUA32T4400||KATANA": {
+      "remark": "0%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:16:02",
+      "lastUpdated": "2026-09-01T10:46:02.586Z"
     }
   },
   "showroomVisits": {
@@ -72641,6 +72648,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:16:02",
+      "iso": "2026-09-01T10:46:02.587Z",
+      "action": "updated remark for SMGUA32T4400 at KATANA: “0%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:14:58",
       "iso": "2026-09-01T10:44:58.381Z",
       "action": "updated remark for SLE32E920 at KATANA: “50%”"
@@ -72980,13 +72994,6 @@
       "time": "15:41:11",
       "iso": "2026-09-01T10:11:11.887Z",
       "action": "updated remark for SLE32E930 at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:37:33",
-      "iso": "2026-09-01T10:07:33.838Z",
-      "action": "updated remark for SLE32E910 at KATANA: “70%”"
     }
   ]
 }
