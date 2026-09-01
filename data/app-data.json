@@ -70475,6 +70475,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:44:22",
       "lastUpdated": "2026-09-01T10:14:22.863Z"
+    },
+    "SLE43F590||KATANA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:45:07",
+      "lastUpdated": "2026-09-01T10:15:07.276Z"
     }
   },
   "showroomVisits": {
@@ -72417,6 +72424,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:45:07",
+      "iso": "2026-09-01T10:15:07.278Z",
+      "action": "updated remark for SLE43F590 at KATANA: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:44:22",
       "iso": "2026-09-01T10:14:22.865Z",
       "action": "updated remark for SLE40E810C at KATANA: “1 unit 60% for Damaged and Exchange”"
@@ -72756,13 +72770,6 @@
       "time": "15:07:53",
       "iso": "2026-09-01T09:37:53.457Z",
       "action": "updated remark for SMW823AY7 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:07:22",
-      "iso": "2026-09-01T09:37:22.637Z",
-      "action": "updated remark for R-BWS-02 at KATANA: “Already provided”"
     }
   ]
 }
