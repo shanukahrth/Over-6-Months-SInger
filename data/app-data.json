@@ -68648,6 +68648,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:12:20",
       "lastUpdated": "2026-09-01T06:42:20.550Z"
+    },
+    "H-BD-1054HVOS||SEEDUWA": {
+      "remark": "10%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:12:32",
+      "lastUpdated": "2026-09-01T06:42:32.789Z"
     }
   },
   "showroomVisits": {
@@ -70588,6 +70595,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:12:32",
+      "iso": "2026-09-01T06:42:32.793Z",
+      "action": "updated remark for H-BD-1054HVOS at SEEDUWA: “10%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:12:20",
@@ -70929,13 +70943,6 @@
       "time": "11:59:42",
       "iso": "2026-09-01T06:29:42.699Z",
       "action": "updated remark for CM-VIR-GUARD at SEEDUWA: “free issue”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:59:31",
-      "iso": "2026-09-01T06:29:31.499Z",
-      "action": "updated remark for SL-PB-426 at DANKOTUWA: “Already given”"
     }
   ]
 }
