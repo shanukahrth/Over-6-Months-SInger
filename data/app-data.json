@@ -70006,6 +70006,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:57:50",
       "lastUpdated": "2026-09-01T08:27:50.044Z"
+    },
+    "TF-NIDFP24-170||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:58:07",
+      "lastUpdated": "2026-09-01T08:28:07.295Z"
     }
   },
   "showroomVisits": {
@@ -71946,6 +71953,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:58:07",
+      "iso": "2026-09-01T08:28:07.300Z",
+      "action": "updated remark for TF-NIDFP24-170 at KATANA: “Already provided”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:57:50",
@@ -72287,13 +72301,6 @@
       "time": "13:43:56",
       "iso": "2026-09-01T08:13:56.511Z",
       "action": "updated remark for SLE32E930 at SEEDUWA: “sold”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:43:29",
-      "iso": "2026-09-01T08:13:29.793Z",
-      "action": "updated remark for SLE32E910 at SEEDUWA: “70%”"
     }
   ]
 }
