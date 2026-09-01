@@ -70419,6 +70419,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:35:06",
       "lastUpdated": "2026-09-01T10:05:06.271Z"
+    },
+    "SLE32E710||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:35:46",
+      "lastUpdated": "2026-09-01T10:05:46.289Z"
     }
   },
   "showroomVisits": {
@@ -72361,6 +72368,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:35:46",
+      "iso": "2026-09-01T10:05:46.291Z",
+      "action": "updated remark for SLE32E710 at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:35:06",
       "iso": "2026-09-01T10:05:06.276Z",
       "action": "updated remark for TCLED32D65A at KATANA: “40%”"
@@ -72700,13 +72714,6 @@
       "time": "14:58:39",
       "iso": "2026-09-01T09:28:39.724Z",
       "action": "updated remark for LP-AP01 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "14:05:46",
-      "iso": "2026-09-01T08:35:46.266Z",
-      "action": "updated remark for WB-C45 at SEEDUWA: “Shop use -90%”"
     }
   ]
 }
