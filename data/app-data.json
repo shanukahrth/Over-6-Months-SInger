@@ -70041,6 +70041,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:59:20",
       "lastUpdated": "2026-09-01T08:29:20.664Z"
+    },
+    "TF-NIGP26-119||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:59:53",
+      "lastUpdated": "2026-09-01T08:29:53.098Z"
     }
   },
   "showroomVisits": {
@@ -71981,6 +71988,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:59:53",
+      "iso": "2026-09-01T08:29:53.102Z",
+      "action": "updated remark for TF-NIGP26-119 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:59:51",
+      "iso": "2026-09-01T08:29:51.099Z",
+      "action": "updated remark for TF-NIGP26-119 at KATANA: “Already provided”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:59:20",
@@ -72315,20 +72336,6 @@
       "time": "13:46:45",
       "iso": "2026-09-01T08:16:45.644Z",
       "action": "updated remark for SLE43G890 at SEEDUWA: “Return to warehouse”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:46:21",
-      "iso": "2026-09-01T08:16:21.523Z",
-      "action": "updated remark for SLE40D600A at SEEDUWA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:46:03",
-      "iso": "2026-09-01T08:16:03.893Z",
-      "action": "updated remark for SLE40D600A at SEEDUWA: “Return to warehouse”"
     }
   ]
 }
