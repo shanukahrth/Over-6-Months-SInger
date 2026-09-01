@@ -69705,6 +69705,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:38:46",
       "lastUpdated": "2026-09-01T08:08:46.550Z"
+    },
+    "SL-VAR-90P-C||KATANA": {
+      "remark": "50% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:39:05",
+      "lastUpdated": "2026-09-01T08:09:05.641Z"
     }
   },
   "showroomVisits": {
@@ -71647,6 +71654,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:39:05",
+      "iso": "2026-09-01T08:09:05.643Z",
+      "action": "updated remark for SL-VAR-90P-C at KATANA: “50% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:39:02",
+      "iso": "2026-09-01T08:09:02.911Z",
+      "action": "updated remark for SL-VAR-90P-C at KATANA: “50% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:38:46",
       "iso": "2026-09-01T08:08:46.557Z",
       "action": "updated remark for SIN-VBS-90PA at KATANA: “50% - Damaged”"
@@ -71979,20 +72000,6 @@
       "time": "13:14:04",
       "iso": "2026-09-01T07:44:04.118Z",
       "action": "updated remark for PN-MIC-W-107 at KATANA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:11:47",
-      "iso": "2026-09-01T07:41:47.415Z",
-      "action": "updated remark for MHC-V13 at KATANA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:11:25",
-      "iso": "2026-09-01T07:41:25.916Z",
-      "action": "updated remark for MHC-M60D at KATANA: “70%”"
     }
   ]
 }
