@@ -70428,11 +70428,11 @@
       "lastUpdated": "2026-09-01T10:05:46.289Z"
     },
     "SLE32E810||KATANA": {
-      "remark": "50%",
+      "remark": "70%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-01",
-      "commentTime": "15:36:26",
-      "lastUpdated": "2026-09-01T10:06:26.033Z"
+      "commentTime": "15:36:40",
+      "lastUpdated": "2026-09-01T10:06:40.286Z"
     }
   },
   "showroomVisits": {
@@ -72375,6 +72375,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:36:40",
+      "iso": "2026-09-01T10:06:40.288Z",
+      "action": "updated remark for SLE32E810 at KATANA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:36:26",
       "iso": "2026-09-01T10:06:26.035Z",
       "action": "updated remark for SLE32E810 at KATANA: “50%”"
@@ -72714,13 +72721,6 @@
       "time": "14:59:23",
       "iso": "2026-09-01T09:29:23.601Z",
       "action": "updated remark for TF-CM-APR737 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "14:58:58",
-      "iso": "2026-09-01T09:28:58.736Z",
-      "action": "updated remark for NT655RX-65 at KATANA: “Already provided”"
     }
   ]
 }
