@@ -70629,6 +70629,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:06:06",
       "lastUpdated": "2026-09-01T10:36:06.958Z"
+    },
+    "MID-D15-20EVN1||KATANA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:06:39",
+      "lastUpdated": "2026-09-01T10:36:39.493Z"
     }
   },
   "showroomVisits": {
@@ -72571,6 +72578,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:06:39",
+      "iso": "2026-09-01T10:36:39.496Z",
+      "action": "updated remark for MID-D15-20EVN1 at KATANA: “-”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:06:36",
+      "iso": "2026-09-01T10:36:36.488Z",
+      "action": "updated remark for MID-D15-20EVN1 at KATANA: “-”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:06:06",
       "iso": "2026-09-01T10:36:06.962Z",
       "action": "updated remark for SWM-MET80PL at KATANA: “20%”"
@@ -72903,20 +72924,6 @@
       "time": "15:31:56",
       "iso": "2026-09-01T10:01:56.736Z",
       "action": "updated remark for SMGHWT450 at KATANA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:30:48",
-      "iso": "2026-09-01T10:00:48.419Z",
-      "action": "updated remark for MC8280 at KATANA: “70% discoloured”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:30:15",
-      "iso": "2026-09-01T10:00:15.534Z",
-      "action": "updated remark for BES-WP15T at KATANA: “Damaged / Handing Over - 85%”"
     }
   ]
 }
