@@ -68410,6 +68410,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:00:51",
       "lastUpdated": "2026-09-01T06:30:51.870Z"
+    },
+    "DUM-SMGAR50F12D0J||SEEDUWA": {
+      "remark": "Dummy",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:01:00",
+      "lastUpdated": "2026-09-01T06:31:00.523Z"
     }
   },
   "showroomVisits": {
@@ -70332,6 +70339,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:01:00",
+      "iso": "2026-09-01T06:31:00.525Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at SEEDUWA: “Dummy”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:00:51",
@@ -70672,13 +70686,6 @@
       "date": "2026-09-01",
       "time": "11:33:26",
       "iso": "2026-09-01T06:03:26.145Z",
-      "action": "updated remark for WF-OSLO-S at DANKOTUWA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:32:28",
-      "iso": "2026-09-01T06:02:28.908Z",
       "action": "updated remark for WF-OSLO-S at DANKOTUWA: “80%”"
     }
   ]
