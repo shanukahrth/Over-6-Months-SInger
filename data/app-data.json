@@ -70839,6 +70839,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:30:12",
       "lastUpdated": "2026-09-01T11:00:12.244Z"
+    },
+    "HON-CH-WATCH-BLK||KOCHCHIKADE": {
+      "remark": "Active SKU, No Discounts applicable",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:30:39",
+      "lastUpdated": "2026-09-01T11:00:39.542Z"
     }
   },
   "showroomVisits": {
@@ -72781,6 +72788,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "16:30:39",
+      "iso": "2026-09-01T11:00:39.545Z",
+      "action": "updated remark for HON-CH-WATCH-BLK at KOCHCHIKADE: “Active SKU, No Discounts applicable”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "16:30:12",
       "iso": "2026-09-01T11:00:12.246Z",
       "action": "updated remark for HON-CH-EARBUDS-X7E at KOCHCHIKADE: “Active SKU, No Discounts applicable”"
@@ -73120,13 +73134,6 @@
       "time": "16:02:49",
       "iso": "2026-09-01T10:32:49.611Z",
       "action": "updated remark for WF-ROM-S-S at SEEDUWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "16:02:24",
-      "iso": "2026-09-01T10:32:24.276Z",
-      "action": "updated remark for NVC990T at KATANA: “30%”"
     }
   ]
 }
