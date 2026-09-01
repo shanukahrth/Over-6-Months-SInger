@@ -70482,6 +70482,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:45:07",
       "lastUpdated": "2026-09-01T10:15:07.276Z"
+    },
+    "SLE43G690||KATANA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:45:32",
+      "lastUpdated": "2026-09-01T10:15:32.607Z"
     }
   },
   "showroomVisits": {
@@ -72424,6 +72431,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:45:32",
+      "iso": "2026-09-01T10:15:32.614Z",
+      "action": "updated remark for SLE43G690 at KATANA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:45:07",
       "iso": "2026-09-01T10:15:07.278Z",
       "action": "updated remark for SLE43F590 at KATANA: “40%”"
@@ -72763,13 +72777,6 @@
       "time": "15:10:45",
       "iso": "2026-09-01T09:40:45.682Z",
       "action": "updated remark for PCP30 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:07:53",
-      "iso": "2026-09-01T09:37:53.457Z",
-      "action": "updated remark for SMW823AY7 at KATANA: “Already provided”"
     }
   ]
 }
