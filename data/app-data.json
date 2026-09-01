@@ -67446,11 +67446,11 @@
       "lastUpdated": "2026-09-01T04:10:55.158Z"
     },
     "ETEL-K20MINIPC-SITS||MATARA-B": {
-      "remark": "Discounts already has given",
+      "remark": "Discounts already have given",
       "commentedBy": "Sulani",
       "commentDate": "2026-09-01",
-      "commentTime": "09:41:41",
-      "lastUpdated": "2026-09-01T04:11:41.584Z"
+      "commentTime": "10:05:37",
+      "lastUpdated": "2026-09-01T04:35:37.968Z"
     },
     "GEO-182S-BU1||MATARA-B": {
       "remark": "25%",
@@ -69614,6 +69614,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:05:37",
+      "iso": "2026-09-01T04:35:37.969Z",
+      "action": "updated remark for ETEL-K20MINIPC-SITS at MATARA-B: “Discounts already have given”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "10:04:44",
       "iso": "2026-09-01T04:34:44.317Z",
       "action": "updated remark for NCPO-FP280 at MATARA-B: “46% OFF”"
@@ -69953,13 +69960,6 @@
       "time": "09:35:40",
       "iso": "2026-09-01T04:05:40.660Z",
       "action": "updated remark for BC-WGA264AXIN at MATARA-B: “-”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-09-01",
-      "time": "09:24:38",
-      "iso": "2026-09-01T03:54:38.507Z",
-      "action": "updated remark for RIYLTA-MF12V51A at GALAHA: “95%”"
     }
   ]
 }
