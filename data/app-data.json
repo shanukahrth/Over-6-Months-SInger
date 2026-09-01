@@ -70251,6 +70251,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:19:33",
       "lastUpdated": "2026-09-01T09:49:33.204Z"
+    },
+    "WF-CALION-S||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:20:58",
+      "lastUpdated": "2026-09-01T09:50:58.350Z"
     }
   },
   "showroomVisits": {
@@ -72191,6 +72198,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "15:20:58",
+      "iso": "2026-09-01T09:50:58.355Z",
+      "action": "updated remark for WF-CALION-S at SEEDUWA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "15:19:33",
@@ -72532,13 +72546,6 @@
       "time": "13:56:27",
       "iso": "2026-09-01T08:26:27.922Z",
       "action": "updated remark for TF-SI-EXSP1231 at SEEDUWA: “Additional 20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:56:13",
-      "iso": "2026-09-01T08:26:13.629Z",
-      "action": "updated remark for SID261CU at KATANA: “85%”"
     }
   ]
 }
