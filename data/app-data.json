@@ -68494,6 +68494,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:04:40",
       "lastUpdated": "2026-09-01T06:34:40.082Z"
+    },
+    "SL-S203||DANKOTUWA": {
+      "remark": "Already given",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:04:57",
+      "lastUpdated": "2026-09-01T06:34:57.226Z"
     }
   },
   "showroomVisits": {
@@ -70418,6 +70425,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:04:57",
+      "iso": "2026-09-01T06:34:57.228Z",
+      "action": "updated remark for SL-S203 at DANKOTUWA: “Already given”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:04:40",
       "iso": "2026-09-01T06:34:40.083Z",
       "action": "updated remark for STT-KHT009 at DANKOTUWA: “Already given”"
@@ -70757,13 +70771,6 @@
       "time": "11:43:20",
       "iso": "2026-09-01T06:13:20.547Z",
       "action": "updated remark for SL-SST082 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:42:38",
-      "iso": "2026-09-01T06:12:38.083Z",
-      "action": "updated remark for TF-SP16-063 at DANKOTUWA: “Already given”"
     }
   ]
 }
