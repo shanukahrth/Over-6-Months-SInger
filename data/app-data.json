@@ -69943,6 +69943,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:55:36",
       "lastUpdated": "2026-09-01T08:25:36.539Z"
+    },
+    "TF-SI-EXS1230||SEEDUWA": {
+      "remark": "Additional 20%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:55:57",
+      "lastUpdated": "2026-09-01T08:25:57.096Z"
     }
   },
   "showroomVisits": {
@@ -71883,6 +71890,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "13:55:57",
+      "iso": "2026-09-01T08:25:57.098Z",
+      "action": "updated remark for TF-SI-EXS1230 at SEEDUWA: “Additional 20%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "13:55:36",
@@ -72224,13 +72238,6 @@
       "time": "13:37:14",
       "iso": "2026-09-01T08:07:14.393Z",
       "action": "updated remark for LF-CLARA-STU-SWW-S at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:36:46",
-      "iso": "2026-09-01T08:06:46.919Z",
-      "action": "updated remark for LF-OFI-ST-001-SHW-S at KATANA: “10%”"
     }
   ]
 }
