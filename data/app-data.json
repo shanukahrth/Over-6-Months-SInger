@@ -69936,6 +69936,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:55:34",
       "lastUpdated": "2026-09-01T08:25:34.497Z"
+    },
+    "SID-2432||KATANA": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:55:36",
+      "lastUpdated": "2026-09-01T08:25:36.539Z"
     }
   },
   "showroomVisits": {
@@ -71876,6 +71883,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:55:36",
+      "iso": "2026-09-01T08:25:36.540Z",
+      "action": "updated remark for SID-2432 at KATANA: “85%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:55:34",
@@ -72217,13 +72231,6 @@
       "time": "13:36:46",
       "iso": "2026-09-01T08:06:46.919Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at KATANA: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:29:47",
-      "iso": "2026-09-01T07:59:47.617Z",
-      "action": "updated remark for WFI-SOC-M005-BU-S at KATANA: “-”"
     }
   ]
 }
