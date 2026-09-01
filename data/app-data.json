@@ -67381,6 +67381,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:35:40",
       "lastUpdated": "2026-09-01T04:05:40.655Z"
+    },
+    "BES-CRS-51||MATARA-B": {
+      "remark": "15%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:36:16",
+      "lastUpdated": "2026-09-01T04:06:16.066Z"
     }
   },
   "showroomVisits": {
@@ -69299,6 +69306,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:36:16",
+      "iso": "2026-09-01T04:06:16.069Z",
+      "action": "updated remark for BES-CRS-51 at MATARA-B: “15%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:35:40",
       "iso": "2026-09-01T04:05:40.660Z",
       "action": "updated remark for BC-WGA264AXIN at MATARA-B: “-”"
@@ -69638,13 +69652,6 @@
       "time": "15:58:02",
       "iso": "2026-08-31T10:28:02.475Z",
       "action": "updated remark for WP-WDC11704RG-G at JAFFNA PANNAI BRANCH: “24% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:57:57",
-      "iso": "2026-08-31T10:27:57.484Z",
-      "action": "updated remark for WP-WDC11704RG-G at JAFFNA PANNAI BRANCH: “50% Off from mark price”"
     }
   ]
 }
