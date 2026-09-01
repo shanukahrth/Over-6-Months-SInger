@@ -70678,6 +70678,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:13:57",
       "lastUpdated": "2026-09-01T10:43:57.510Z"
+    },
+    "LF-PROMO-CT-S||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:14:16",
+      "lastUpdated": "2026-09-01T10:44:16.199Z"
     }
   },
   "showroomVisits": {
@@ -72620,6 +72627,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:14:16",
+      "iso": "2026-09-01T10:44:16.201Z",
+      "action": "updated remark for LF-PROMO-CT-S at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:13:57",
       "iso": "2026-09-01T10:43:57.511Z",
       "action": "updated remark for MID-MF-TN40D2 at KATANA: “Already provided”"
@@ -72959,13 +72973,6 @@
       "time": "15:36:26",
       "iso": "2026-09-01T10:06:26.035Z",
       "action": "updated remark for SLE32E810 at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:35:46",
-      "iso": "2026-09-01T10:05:46.291Z",
-      "action": "updated remark for SLE32E710 at KATANA: “50%”"
     }
   ]
 }
