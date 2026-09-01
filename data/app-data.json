@@ -68914,6 +68914,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:23:46",
       "lastUpdated": "2026-09-01T06:53:46.174Z"
+    },
+    "LF-BUDGET-DT-CLM-S||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:23:55",
+      "lastUpdated": "2026-09-01T06:53:55.906Z"
     }
   },
   "showroomVisits": {
@@ -70854,6 +70861,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:23:55",
+      "iso": "2026-09-01T06:53:55.908Z",
+      "action": "updated remark for LF-BUDGET-DT-CLM-S at SEEDUWA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:23:46",
@@ -71195,13 +71209,6 @@
       "time": "12:11:02",
       "iso": "2026-09-01T06:41:02.640Z",
       "action": "updated remark for HON-X9C-12-256-BLK at DANKOTUWA: “System error”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:10:29",
-      "iso": "2026-09-01T06:40:29.709Z",
-      "action": "updated remark for HON-X7C-8-256-GRN at DANKOTUWA: “15% Additional”"
     }
   ]
 }
