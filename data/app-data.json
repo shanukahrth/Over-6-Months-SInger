@@ -67682,6 +67682,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:59:20",
       "lastUpdated": "2026-09-01T04:29:20.206Z"
+    },
+    "NCPO-FP250||MATARA-B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:04:33",
+      "lastUpdated": "2026-09-01T04:34:33.296Z"
     }
   },
   "showroomVisits": {
@@ -69600,6 +69607,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:04:33",
+      "iso": "2026-09-01T04:34:33.298Z",
+      "action": "updated remark for NCPO-FP250 at MATARA-B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:59:20",
       "iso": "2026-09-01T04:29:20.207Z",
       "action": "updated remark for FAN-VIERA-TEAK-WL at MATARA-B: “-”"
@@ -69939,13 +69953,6 @@
       "time": "09:24:38",
       "iso": "2026-09-01T03:54:38.505Z",
       "action": "updated remark for PMG-TEON at GALAHA: “95%”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-09-01",
-      "time": "09:24:38",
-      "iso": "2026-09-01T03:54:38.502Z",
-      "action": "updated remark for SL-PB-426 at GALAHA: “90% -Damaged”"
     }
   ]
 }
