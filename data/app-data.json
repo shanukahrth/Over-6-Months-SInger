@@ -70048,6 +70048,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:59:53",
       "lastUpdated": "2026-09-01T08:29:53.098Z"
+    },
+    "TF-NIK26-045||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "14:00:27",
+      "lastUpdated": "2026-09-01T08:30:27.574Z"
     }
   },
   "showroomVisits": {
@@ -71990,6 +71997,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "14:00:27",
+      "iso": "2026-09-01T08:30:27.576Z",
+      "action": "updated remark for TF-NIK26-045 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:59:53",
       "iso": "2026-09-01T08:29:53.102Z",
       "action": "updated remark for TF-NIGP26-119 at KATANA: “Already provided”"
@@ -72329,13 +72343,6 @@
       "time": "13:47:16",
       "iso": "2026-09-01T08:17:16.433Z",
       "action": "updated remark for SLE55G3EN at SEEDUWA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:46:45",
-      "iso": "2026-09-01T08:16:45.644Z",
-      "action": "updated remark for SLE43G890 at SEEDUWA: “Return to warehouse”"
     }
   ]
 }
