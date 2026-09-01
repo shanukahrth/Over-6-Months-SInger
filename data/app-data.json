@@ -68529,6 +68529,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:06:53",
       "lastUpdated": "2026-09-01T06:36:53.277Z"
+    },
+    "ZTE-A31-LITE-GRY||DANKOTUWA": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:07:08",
+      "lastUpdated": "2026-09-01T06:37:08.939Z"
     }
   },
   "showroomVisits": {
@@ -70447,9 +70454,29 @@
       "comment": "Already given",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-01"
+    },
+    "ZTE-A31-LITE-GRY||DANKOTUWA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-01"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:07:09",
+      "iso": "2026-09-01T06:37:09.164Z",
+      "action": "marked ZTE-A31-LITE-GRY at DANKOTUWA as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:07:08",
+      "iso": "2026-09-01T06:37:08.939Z",
+      "action": "updated remark for ZTE-A31-LITE-GRY at DANKOTUWA: “sold”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
@@ -70785,20 +70812,6 @@
       "time": "11:49:46",
       "iso": "2026-09-01T06:19:46.820Z",
       "action": "updated remark for 123453213 at SEEDUWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:49:24",
-      "iso": "2026-09-01T06:19:24.452Z",
-      "action": "updated remark for KA-TXG-DS11A at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:47:42",
-      "iso": "2026-09-01T06:17:42.253Z",
-      "action": "updated remark for IWH-1500WL at DANKOTUWA: “Already given”"
     }
   ]
 }
