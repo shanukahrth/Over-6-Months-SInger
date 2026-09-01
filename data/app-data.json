@@ -68118,11 +68118,11 @@
       "lastUpdated": "2026-09-01T06:01:26.628Z"
     },
     "WF-OSLO-S||DANKOTUWA": {
-      "remark": "50%",
+      "remark": "80%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-01",
-      "commentTime": "11:33:57",
-      "lastUpdated": "2026-09-01T06:03:57.498Z"
+      "commentTime": "12:34:36",
+      "lastUpdated": "2026-09-01T07:04:36.406Z"
     },
     "WFI-NAPOLEAN||DANKOTUWA": {
       "remark": "90% - damaged",
@@ -71078,6 +71078,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:34:36",
+      "iso": "2026-09-01T07:04:36.407Z",
+      "action": "updated remark for WF-OSLO-S at DANKOTUWA: “80%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:34:15",
@@ -71419,13 +71426,6 @@
       "time": "12:18:33",
       "iso": "2026-09-01T06:48:33.507Z",
       "action": "updated remark for HON-X8C-8-512-GRN at SEEDUWA: “Phone camera issue 30% Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:18:00",
-      "iso": "2026-09-01T06:48:00.775Z",
-      "action": "updated remark for HON-X5B-4-64-BLU at SEEDUWA: “N/A”"
     }
   ]
 }
