@@ -67437,6 +67437,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:40:36",
       "lastUpdated": "2026-09-01T04:10:36.253Z"
+    },
+    "ENG-UE20012||MATARA-B": {
+      "remark": "Report for 500",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:40:55",
+      "lastUpdated": "2026-09-01T04:10:55.158Z"
     }
   },
   "showroomVisits": {
@@ -69355,6 +69362,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:40:55",
+      "iso": "2026-09-01T04:10:55.160Z",
+      "action": "updated remark for ENG-UE20012 at MATARA-B: “Report for 500”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:40:36",
       "iso": "2026-09-01T04:10:36.256Z",
       "action": "updated remark for EDU-HDMI at MATARA-B: “Report for 200”"
@@ -69694,13 +69708,6 @@
       "time": "16:01:57",
       "iso": "2026-08-31T10:31:57.311Z",
       "action": "updated remark for KD-43X75K at JAFFNA PANNAI BRANCH: “40% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "16:01:28",
-      "iso": "2026-08-31T10:31:28.738Z",
-      "action": "updated remark for SMGRT34B4542S8 at JAFFNA PANNAI BRANCH: “50% Off from mark price”"
     }
   ]
 }
