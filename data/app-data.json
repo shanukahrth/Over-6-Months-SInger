@@ -70685,6 +70685,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:14:16",
       "lastUpdated": "2026-09-01T10:44:16.199Z"
+    },
+    "MX-HM310127||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:14:30",
+      "lastUpdated": "2026-09-01T10:44:30.265Z"
     }
   },
   "showroomVisits": {
@@ -72627,6 +72634,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:14:30",
+      "iso": "2026-09-01T10:44:30.267Z",
+      "action": "updated remark for MX-HM310127 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:14:16",
       "iso": "2026-09-01T10:44:16.201Z",
       "action": "updated remark for LF-PROMO-CT-S at KATANA: “50%”"
@@ -72966,13 +72980,6 @@
       "time": "15:36:40",
       "iso": "2026-09-01T10:06:40.288Z",
       "action": "updated remark for SLE32E810 at KATANA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:36:26",
-      "iso": "2026-09-01T10:06:26.035Z",
-      "action": "updated remark for SLE32E810 at KATANA: “50%”"
     }
   ]
 }
