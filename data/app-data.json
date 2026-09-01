@@ -70146,6 +70146,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:05:12",
       "lastUpdated": "2026-09-01T09:35:12.424Z"
+    },
+    "PN-MX-AC210||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:05:28",
+      "lastUpdated": "2026-09-01T09:35:28.317Z"
     }
   },
   "showroomVisits": {
@@ -72088,6 +72095,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:05:28",
+      "iso": "2026-09-01T09:35:28.320Z",
+      "action": "updated remark for PN-MX-AC210 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:05:12",
       "iso": "2026-09-01T09:35:12.428Z",
       "action": "updated remark for MID-BL1192 at KATANA: “Already provided”"
@@ -72426,13 +72440,6 @@
       "date": "2026-09-01",
       "time": "13:52:40",
       "iso": "2026-09-01T08:22:40.459Z",
-      "action": "updated remark for SWH-118E at KATANA: “Damaged 60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:52:37",
-      "iso": "2026-09-01T08:22:37.484Z",
       "action": "updated remark for SWH-118E at KATANA: “Damaged 60%”"
     }
   ]
