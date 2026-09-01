@@ -68130,6 +68130,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:34:35",
       "lastUpdated": "2026-09-01T06:04:35.353Z"
+    },
+    "LFI-BREE-CT-BR-S||DANKOTUWA": {
+      "remark": "return to WH6",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:35:08",
+      "lastUpdated": "2026-09-01T06:05:08.529Z"
     }
   },
   "showroomVisits": {
@@ -70048,6 +70055,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:35:08",
+      "iso": "2026-09-01T06:05:08.531Z",
+      "action": "updated remark for LFI-BREE-CT-BR-S at DANKOTUWA: “return to WH6”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:34:35",
       "iso": "2026-09-01T06:04:35.355Z",
       "action": "updated remark for WFI-NAPOLEAN at DANKOTUWA: “90% - damaged”"
@@ -70387,13 +70401,6 @@
       "time": "10:16:58",
       "iso": "2026-09-01T04:46:58.300Z",
       "action": "updated remark for SKY-24E65 at MATARA-B: “90% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "10:16:44",
-      "iso": "2026-09-01T04:46:44.778Z",
-      "action": "updated remark for SDV3605K at MATARA-B: “MOP 500”"
     }
   ]
 }
