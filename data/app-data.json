@@ -69047,6 +69047,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:30:35",
       "lastUpdated": "2026-09-01T07:00:35.970Z"
+    },
+    "WP-SS-SUB1-S||DANKOTUWA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:30:59",
+      "lastUpdated": "2026-09-01T07:00:59.122Z"
     }
   },
   "showroomVisits": {
@@ -70989,6 +70996,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:30:59",
+      "iso": "2026-09-01T07:00:59.125Z",
+      "action": "updated remark for WP-SS-SUB1-S at DANKOTUWA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:30:35",
       "iso": "2026-09-01T07:00:35.971Z",
       "action": "updated remark for MID-D30-20EVN1 at DANKOTUWA: “0”"
@@ -71328,13 +71342,6 @@
       "time": "12:15:12",
       "iso": "2026-09-01T06:45:12.085Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at SEEDUWA: “15% Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:15:07",
-      "iso": "2026-09-01T06:45:07.901Z",
-      "action": "updated remark for CLIP-MCW at DANKOTUWA: “0”"
     }
   ]
 }
