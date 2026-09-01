@@ -69880,6 +69880,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:53:39",
       "lastUpdated": "2026-09-01T08:23:39.018Z"
+    },
+    "SWH-338EP||KATANA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:53:41",
+      "lastUpdated": "2026-09-01T08:23:41.314Z"
     }
   },
   "showroomVisits": {
@@ -71820,6 +71827,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:53:41",
+      "iso": "2026-09-01T08:23:41.326Z",
+      "action": "updated remark for SWH-338EP at KATANA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:53:39",
@@ -72161,13 +72175,6 @@
       "time": "13:26:07",
       "iso": "2026-09-01T07:56:07.665Z",
       "action": "updated remark for LF-BUDGET-ST-CLM-S at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:25:49",
-      "iso": "2026-09-01T07:55:49.202Z",
-      "action": "updated remark for LF-OX-BR-M-S at KATANA: “50%”"
     }
   ]
 }
