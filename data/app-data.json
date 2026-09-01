@@ -70608,6 +70608,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:05:17",
       "lastUpdated": "2026-09-01T10:35:17.267Z"
+    },
+    "SWM-FA70R||KATANA": {
+      "remark": "75% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:05:32",
+      "lastUpdated": "2026-09-01T10:35:32.007Z"
     }
   },
   "showroomVisits": {
@@ -72548,6 +72555,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:05:32",
+      "iso": "2026-09-01T10:35:32.026Z",
+      "action": "updated remark for SWM-FA70R at KATANA: “75% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:05:16",
+      "iso": "2026-09-01T10:35:16.824Z",
+      "action": "updated remark for SWM-FA70R at KATANA: “75% - Flat Bed”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "16:05:17",
@@ -72882,20 +72903,6 @@
       "time": "15:27:25",
       "iso": "2026-09-01T09:57:25.773Z",
       "action": "updated remark for GEO-182S-SV at KATANA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:26:51",
-      "iso": "2026-09-01T09:56:51.862Z",
-      "action": "updated remark for SL-ECO55-SV at KATANA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:25:32",
-      "iso": "2026-09-01T09:55:32.403Z",
-      "action": "updated remark for SL-ECO192-TG at KATANA: “25%”"
     }
   ]
 }
