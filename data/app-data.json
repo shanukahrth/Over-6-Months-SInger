@@ -67787,6 +67787,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "10:09:38",
       "lastUpdated": "2026-09-01T04:39:38.852Z"
+    },
+    "R-BWS-02||MATARA-B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:09:44",
+      "lastUpdated": "2026-09-01T04:39:44.060Z"
     }
   },
   "showroomVisits": {
@@ -69705,6 +69712,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:09:44",
+      "iso": "2026-09-01T04:39:44.061Z",
+      "action": "updated remark for R-BWS-02 at MATARA-B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "10:09:38",
       "iso": "2026-09-01T04:39:38.854Z",
       "action": "updated remark for PN-SC-TMAX5GSK at MATARA-B: “50% OFF”"
@@ -70044,13 +70058,6 @@
       "time": "09:43:43",
       "iso": "2026-09-01T04:13:43.141Z",
       "action": "updated remark for HON-BUDS-X6 at MATARA-B: “Free issue”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:43:24",
-      "iso": "2026-09-01T04:13:24.067Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at MATARA-B: “Report for 30000”"
     }
   ]
 }
