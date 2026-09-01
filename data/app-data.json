@@ -69425,6 +69425,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:14:29",
       "lastUpdated": "2026-09-01T07:44:29.743Z"
+    },
+    "BC-KNP-AG||KATANA": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:15:07",
+      "lastUpdated": "2026-09-01T07:45:07.511Z"
     }
   },
   "showroomVisits": {
@@ -71367,6 +71374,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:15:07",
+      "iso": "2026-09-01T07:45:07.515Z",
+      "action": "updated remark for BC-KNP-AG at KATANA: “85%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:14:29",
       "iso": "2026-09-01T07:44:29.745Z",
       "action": "updated remark for B-CWB6441XN at KATANA: “10%”"
@@ -71706,13 +71720,6 @@
       "time": "12:38:14",
       "iso": "2026-09-01T07:08:14.607Z",
       "action": "updated remark for UJB-LB6027 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:37:50",
-      "iso": "2026-09-01T07:07:50.033Z",
-      "action": "updated remark for SWM-FA70R at DANKOTUWA: “85%”"
     }
   ]
 }
