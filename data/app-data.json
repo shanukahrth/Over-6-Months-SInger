@@ -69173,6 +69173,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:37:43",
       "lastUpdated": "2026-09-01T07:07:43.390Z"
+    },
+    "NCPO-OT275||SEEDUWA": {
+      "remark": "Discounts already given to the shop",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:38:31",
+      "lastUpdated": "2026-09-01T07:08:31.390Z"
     }
   },
   "showroomVisits": {
@@ -71113,6 +71120,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:38:31",
+      "iso": "2026-09-01T07:08:31.392Z",
+      "action": "updated remark for NCPO-OT275 at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:38:22",
+      "iso": "2026-09-01T07:08:22.188Z",
+      "action": "updated remark for NCPO-OT275 at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:38:14",
@@ -71447,20 +71468,6 @@
       "time": "12:21:29",
       "iso": "2026-09-01T06:51:29.845Z",
       "action": "updated remark for LF-BR-001-DWN-S at SEEDUWA: “N/A”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:21:08",
-      "iso": "2026-09-01T06:51:08.043Z",
-      "action": "updated remark for KA-T-601 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:20:43",
-      "iso": "2026-09-01T06:50:43.361Z",
-      "action": "updated remark for IMPO-LAPTOP-STAND at SEEDUWA: “50%”"
     }
   ]
 }
