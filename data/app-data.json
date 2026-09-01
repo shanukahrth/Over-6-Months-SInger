@@ -68921,6 +68921,20 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:23:55",
       "lastUpdated": "2026-09-01T06:53:55.906Z"
+    },
+    "SLE32E810||DANKOTUWA": {
+      "remark": "90%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:24:02",
+      "lastUpdated": "2026-09-01T06:54:02.955Z"
+    },
+    "SLE32E930||DANKOTUWA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:24:25",
+      "lastUpdated": "2026-09-01T06:54:25.154Z"
     }
   },
   "showroomVisits": {
@@ -70861,6 +70875,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:24:25",
+      "iso": "2026-09-01T06:54:25.156Z",
+      "action": "updated remark for SLE32E930 at DANKOTUWA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:24:02",
+      "iso": "2026-09-01T06:54:02.963Z",
+      "action": "updated remark for SLE32E810 at DANKOTUWA: “90%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:23:55",
@@ -71195,20 +71223,6 @@
       "time": "12:11:44",
       "iso": "2026-09-01T06:41:44.659Z",
       "action": "updated remark for HON-X9C-12-256-PPL at DANKOTUWA: “15% Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:11:18",
-      "iso": "2026-09-01T06:41:18.106Z",
-      "action": "updated remark for HON-X9C-12-256-GRN at DANKOTUWA: “no discounts”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:11:02",
-      "iso": "2026-09-01T06:41:02.640Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at DANKOTUWA: “System error”"
     }
   ]
 }
