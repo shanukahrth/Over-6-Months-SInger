@@ -68333,6 +68333,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:53:12",
       "lastUpdated": "2026-09-01T06:23:12.310Z"
+    },
+    "CAN-L-LBP6030||SEEDUWA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:53:51",
+      "lastUpdated": "2026-09-01T06:23:51.386Z"
     }
   },
   "showroomVisits": {
@@ -70249,6 +70256,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "11:53:51",
+      "iso": "2026-09-01T06:23:51.389Z",
+      "action": "updated remark for CAN-L-LBP6030 at SEEDUWA: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "11:53:47",
+      "iso": "2026-09-01T06:23:47.165Z",
+      "action": "updated remark for CAN-L-LBP6030 at SEEDUWA: “0%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "11:53:12",
@@ -70583,20 +70604,6 @@
       "time": "11:18:04",
       "iso": "2026-09-01T05:48:04.374Z",
       "action": "updated remark for USHA-FS40-13B at DANKOTUWA: “WH Return”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:17:28",
-      "iso": "2026-09-01T05:47:28.942Z",
-      "action": "updated remark for SDV3605K at DANKOTUWA: “Special price - 2,500”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:16:41",
-      "iso": "2026-09-01T05:46:41.446Z",
-      "action": "updated remark for UDV3618SY at DANKOTUWA: “Special price - 2,500”"
     }
   ]
 }
