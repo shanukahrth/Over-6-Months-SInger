@@ -67780,6 +67780,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "10:09:30",
       "lastUpdated": "2026-09-01T04:39:30.265Z"
+    },
+    "PN-SC-TMAX5GSK||MATARA-B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:09:38",
+      "lastUpdated": "2026-09-01T04:39:38.852Z"
     }
   },
   "showroomVisits": {
@@ -69698,6 +69705,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:09:38",
+      "iso": "2026-09-01T04:39:38.854Z",
+      "action": "updated remark for PN-SC-TMAX5GSK at MATARA-B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "10:09:30",
       "iso": "2026-09-01T04:39:30.267Z",
       "action": "updated remark for PCP75-SS at MATARA-B: “75% OFF”"
@@ -70037,13 +70051,6 @@
       "time": "09:43:24",
       "iso": "2026-09-01T04:13:24.067Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at MATARA-B: “Report for 30000”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:43:00",
-      "iso": "2026-09-01T04:13:00.651Z",
-      "action": "updated remark for H-LE24T05A at MATARA-B: “MOP 35000”"
     }
   ]
 }
