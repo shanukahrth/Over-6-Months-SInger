@@ -70664,6 +70664,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:13:07",
       "lastUpdated": "2026-09-01T10:43:07.652Z"
+    },
+    "SID129CU||KATANA": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:13:29",
+      "lastUpdated": "2026-09-01T10:43:29.893Z"
     }
   },
   "showroomVisits": {
@@ -72606,6 +72613,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:13:29",
+      "iso": "2026-09-01T10:43:29.895Z",
+      "action": "updated remark for SID129CU at KATANA: “85%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:13:07",
       "iso": "2026-09-01T10:43:07.654Z",
       "action": "updated remark for RCS-04 at KATANA: “Already provided”"
@@ -72945,13 +72959,6 @@
       "time": "15:35:06",
       "iso": "2026-09-01T10:05:06.276Z",
       "action": "updated remark for TCLED32D65A at KATANA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:34:21",
-      "iso": "2026-09-01T10:04:21.353Z",
-      "action": "updated remark for TCL55V6B at KATANA: “50%”"
     }
   ]
 }
