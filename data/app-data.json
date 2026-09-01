@@ -69124,6 +69124,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:33:46",
       "lastUpdated": "2026-09-01T07:03:46.846Z"
+    },
+    "WF-CAMELIA-ST-S||DANKOTUWA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:34:06",
+      "lastUpdated": "2026-09-01T07:04:06.363Z"
     }
   },
   "showroomVisits": {
@@ -71064,6 +71071,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:34:06",
+      "iso": "2026-09-01T07:04:06.365Z",
+      "action": "updated remark for WF-CAMELIA-ST-S at DANKOTUWA: “50%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:33:46",
@@ -71405,13 +71419,6 @@
       "time": "12:18:08",
       "iso": "2026-09-01T06:48:08.968Z",
       "action": "updated remark for SMGUA32EH4003 at DANKOTUWA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:17:44",
-      "iso": "2026-09-01T06:47:44.571Z",
-      "action": "updated remark for SLE58G2 at DANKOTUWA: “Exchange”"
     }
   ]
 }
