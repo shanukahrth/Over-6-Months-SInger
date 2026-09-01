@@ -69565,6 +69565,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:23:16",
       "lastUpdated": "2026-09-01T07:53:16.627Z"
+    },
+    "DVP-SR370||KATANA": {
+      "remark": "2500",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:23:39",
+      "lastUpdated": "2026-09-01T07:53:39.828Z"
     }
   },
   "showroomVisits": {
@@ -71507,6 +71514,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:23:39",
+      "iso": "2026-09-01T07:53:39.831Z",
+      "action": "updated remark for DVP-SR370 at KATANA: “2500”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:23:16",
       "iso": "2026-09-01T07:53:16.630Z",
       "action": "updated remark for SDV838HDVT at KATANA: “2500”"
@@ -71846,13 +71860,6 @@
       "time": "12:51:44",
       "iso": "2026-09-01T07:21:44.130Z",
       "action": "updated remark for PN-SC-UA3GS-K at SEEDUWA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:47:28",
-      "iso": "2026-09-01T07:17:28.615Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at SEEDUWA: “40%”"
     }
   ]
 }
