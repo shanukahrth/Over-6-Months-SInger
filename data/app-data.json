@@ -68627,6 +68627,20 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:12:00",
       "lastUpdated": "2026-09-01T06:42:00.385Z"
+    },
+    "FAN-WF1608R||SEEDUWA": {
+      "remark": "Part Request",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:11:52",
+      "lastUpdated": "2026-09-01T06:41:52.324Z"
+    },
+    "FT-FED-35001||SEEDUWA": {
+      "remark": "60%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:12:13",
+      "lastUpdated": "2026-09-01T06:42:13.783Z"
     }
   },
   "showroomVisits": {
@@ -70567,6 +70581,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:12:13",
+      "iso": "2026-09-01T06:42:13.784Z",
+      "action": "updated remark for FT-FED-35001 at SEEDUWA: “60%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:11:52",
+      "iso": "2026-09-01T06:41:52.327Z",
+      "action": "updated remark for FAN-WF1608R at SEEDUWA: “Part Request”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:12:00",
@@ -70901,20 +70929,6 @@
       "time": "11:59:18",
       "iso": "2026-09-01T06:29:18.370Z",
       "action": "updated remark for CM-LX300 at SEEDUWA: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "11:58:52",
-      "iso": "2026-09-01T06:28:52.306Z",
-      "action": "updated remark for CLOTHLINE-35PVC at SEEDUWA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:58:37",
-      "iso": "2026-09-01T06:28:37.675Z",
-      "action": "updated remark for UJB-LB6027 at DANKOTUWA: “Already given”"
     }
   ]
 }
