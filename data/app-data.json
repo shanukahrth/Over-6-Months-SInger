@@ -69404,6 +69404,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:11:25",
       "lastUpdated": "2026-09-01T07:41:25.913Z"
+    },
+    "MHC-V13||KATANA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:11:47",
+      "lastUpdated": "2026-09-01T07:41:47.414Z"
     }
   },
   "showroomVisits": {
@@ -71346,6 +71353,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:11:47",
+      "iso": "2026-09-01T07:41:47.415Z",
+      "action": "updated remark for MHC-V13 at KATANA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:11:25",
       "iso": "2026-09-01T07:41:25.916Z",
       "action": "updated remark for MHC-M60D at KATANA: “70%”"
@@ -71685,13 +71699,6 @@
       "time": "12:37:22",
       "iso": "2026-09-01T07:07:22.360Z",
       "action": "updated remark for SW-SK14016BLK at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:36:42",
-      "iso": "2026-09-01T07:06:42.628Z",
-      "action": "updated remark for NCPO-DC200 at SEEDUWA: “Discounts already given to the shop”"
     }
   ]
 }
