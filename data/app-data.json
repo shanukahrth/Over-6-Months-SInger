@@ -69306,6 +69306,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:55:51",
       "lastUpdated": "2026-09-01T07:25:51.080Z"
+    },
+    "SB-AAA||SEEDUWA": {
+      "remark": "80%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:56:12",
+      "lastUpdated": "2026-09-01T07:26:12.806Z"
     }
   },
   "showroomVisits": {
@@ -71248,6 +71255,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:56:12",
+      "iso": "2026-09-01T07:26:12.807Z",
+      "action": "updated remark for SB-AAA at SEEDUWA: “80%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:55:51",
       "iso": "2026-09-01T07:25:51.083Z",
       "action": "updated remark for R-FGAQ010 at SEEDUWA: “Discounts already given to the shop”"
@@ -71587,13 +71601,6 @@
       "time": "12:31:45",
       "iso": "2026-09-01T07:01:45.776Z",
       "action": "updated remark for WP-1R-100-S at DANKOTUWA: “Additional 10%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:31:37",
-      "iso": "2026-09-01T07:01:37.087Z",
-      "action": "updated remark for LF-OX-BR-M-CLM-S at SEEDUWA: “50%”"
     }
   ]
 }
