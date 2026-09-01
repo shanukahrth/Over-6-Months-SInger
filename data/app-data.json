@@ -68599,6 +68599,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:10:29",
       "lastUpdated": "2026-09-01T06:40:29.708Z"
+    },
+    "HON-X9C-12-256-BLK||DANKOTUWA": {
+      "remark": "System error",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:11:02",
+      "lastUpdated": "2026-09-01T06:41:02.639Z"
     }
   },
   "showroomVisits": {
@@ -70541,6 +70548,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:11:02",
+      "iso": "2026-09-01T06:41:02.640Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at DANKOTUWA: “System error”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:10:29",
       "iso": "2026-09-01T06:40:29.709Z",
       "action": "updated remark for HON-X7C-8-256-GRN at DANKOTUWA: “15% Additional”"
@@ -70879,13 +70893,6 @@
       "date": "2026-09-01",
       "time": "11:54:41",
       "iso": "2026-09-01T06:24:41.670Z",
-      "action": "updated sold comment for UJB-LB6027 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:53:53",
-      "iso": "2026-09-01T06:23:53.356Z",
       "action": "updated sold comment for UJB-LB6027 at DANKOTUWA: “Already given”"
     }
   ]
