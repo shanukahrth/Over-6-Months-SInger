@@ -68179,6 +68179,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:39:00",
       "lastUpdated": "2026-09-01T06:09:00.748Z"
+    },
+    "SWH-118E-D||DANKOTUWA": {
+      "remark": "Dummy Units",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:39:25",
+      "lastUpdated": "2026-09-01T06:09:25.755Z"
     }
   },
   "showroomVisits": {
@@ -70097,6 +70104,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:39:25",
+      "iso": "2026-09-01T06:09:25.756Z",
+      "action": "updated remark for SWH-118E-D at DANKOTUWA: “Dummy Units”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:39:00",
       "iso": "2026-09-01T06:09:00.749Z",
       "action": "updated remark for WFL-SWSTK-SL-6FT at DANKOTUWA: “20% - display”"
@@ -70436,13 +70450,6 @@
       "time": "10:48:38",
       "iso": "2026-09-01T05:18:38.436Z",
       "action": "updated remark for M-SRK18CS-S at DANKOTUWA: “OFFER FLAT 30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "10:48:01",
-      "iso": "2026-09-01T05:18:01.899Z",
-      "action": "updated remark for M-SRK13YXP-W7 at DANKOTUWA: “OFFER FLAT 30%”"
     }
   ]
 }
