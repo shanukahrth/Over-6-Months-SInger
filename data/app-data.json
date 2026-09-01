@@ -69579,6 +69579,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:24:10",
       "lastUpdated": "2026-09-01T07:54:10.627Z"
+    },
+    "FAN-WF1608R||KATANA": {
+      "remark": "Exchange 2 units  / 1 unit sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:24:28",
+      "lastUpdated": "2026-09-01T07:54:28.439Z"
     }
   },
   "showroomVisits": {
@@ -71521,6 +71528,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:24:28",
+      "iso": "2026-09-01T07:54:28.441Z",
+      "action": "updated remark for FAN-WF1608R at KATANA: “Exchange 2 units  / 1 unit sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:24:10",
       "iso": "2026-09-01T07:54:10.628Z",
       "action": "updated remark for SL-SF1607 at KATANA: “60%”"
@@ -71860,13 +71874,6 @@
       "time": "12:55:28",
       "iso": "2026-09-01T07:25:28.520Z",
       "action": "updated remark for R-BWS-02 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:53:53",
-      "iso": "2026-09-01T07:23:53.817Z",
-      "action": "updated remark for PN-TH-32M402N at SEEDUWA: “Return to warehouse”"
     }
   ]
 }
