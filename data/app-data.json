@@ -70748,6 +70748,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:20:00",
       "lastUpdated": "2026-09-01T10:50:00.410Z"
+    },
+    "CAN-L-LBP6030||KOCHCHIKADE": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:20:14",
+      "lastUpdated": "2026-09-01T10:50:14.678Z"
     }
   },
   "showroomVisits": {
@@ -72688,6 +72695,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "16:20:14",
+      "iso": "2026-09-01T10:50:14.682Z",
+      "action": "updated remark for CAN-L-LBP6030 at KOCHCHIKADE: “0%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "16:20:00",
@@ -73029,13 +73043,6 @@
       "time": "15:46:10",
       "iso": "2026-09-01T10:16:10.464Z",
       "action": "updated remark for SLE43G890 at KATANA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:45:32",
-      "iso": "2026-09-01T10:15:32.614Z",
-      "action": "updated remark for SLE43G690 at KATANA: “Exchange”"
     }
   ]
 }
