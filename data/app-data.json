@@ -67458,6 +67458,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:41:56",
       "lastUpdated": "2026-09-01T04:11:56.830Z"
+    },
+    "GRIP-G86-S||MATARA-B": {
+      "remark": "Report for 500",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:42:15",
+      "lastUpdated": "2026-09-01T04:12:15.263Z"
     }
   },
   "showroomVisits": {
@@ -69376,6 +69383,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:42:15",
+      "iso": "2026-09-01T04:12:15.265Z",
+      "action": "updated remark for GRIP-G86-S at MATARA-B: “Report for 500”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:41:56",
       "iso": "2026-09-01T04:11:56.831Z",
       "action": "updated remark for GEO-182S-BU1 at MATARA-B: “25%”"
@@ -69715,13 +69729,6 @@
       "time": "16:05:22",
       "iso": "2026-08-31T10:35:22.288Z",
       "action": "updated remark for MB-TLG-F71-WHT at JAFFNA PANNAI BRANCH: “10,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "16:05:09",
-      "iso": "2026-08-31T10:35:09.988Z",
-      "action": "updated remark for TCL75C655 at JAFFNA PANNAI BRANCH: “NEW”"
     }
   ]
 }
