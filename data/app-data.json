@@ -68270,6 +68270,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:49:24",
       "lastUpdated": "2026-09-01T06:19:24.451Z"
+    },
+    "123453213||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:49:46",
+      "lastUpdated": "2026-09-01T06:19:46.810Z"
     }
   },
   "showroomVisits": {
@@ -70186,6 +70193,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "11:49:46",
+      "iso": "2026-09-01T06:19:46.820Z",
+      "action": "updated remark for 123453213 at SEEDUWA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "11:49:24",
@@ -70527,13 +70541,6 @@
       "time": "11:06:32",
       "iso": "2026-09-01T05:36:32.690Z",
       "action": "updated remark for DELL3511-I5-8GB1TBXE-SIL at DANKOTUWA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:05:59",
-      "iso": "2026-09-01T05:35:59.288Z",
-      "action": "updated remark for SIN-DUO-W10 at DANKOTUWA: “Revert - 5% Additional to bill and drop from the inventory (Product damaged)”"
     }
   ]
 }
