@@ -70559,6 +70559,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:54:05",
       "lastUpdated": "2026-09-01T10:24:05.898Z"
+    },
+    "NVC990T||KATANA": {
+      "remark": "30%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:01:30",
+      "lastUpdated": "2026-09-01T10:31:30.501Z"
     }
   },
   "showroomVisits": {
@@ -72499,6 +72506,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "16:01:30",
+      "iso": "2026-09-01T10:31:30.504Z",
+      "action": "updated remark for NVC990T at KATANA: “30%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "16:01:25",
@@ -72840,13 +72854,6 @@
       "time": "15:20:59",
       "iso": "2026-09-01T09:50:59.511Z",
       "action": "updated remark for HON-X9C-12-256-BLK at KATANA: “15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "15:20:58",
-      "iso": "2026-09-01T09:50:58.355Z",
-      "action": "updated remark for WF-CALION-S at SEEDUWA: “50%”"
     }
   ]
 }
