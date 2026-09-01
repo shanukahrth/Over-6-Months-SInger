@@ -67661,6 +67661,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:58:21",
       "lastUpdated": "2026-09-01T04:28:21.701Z"
+    },
+    "NCPO-DC200||MATARA-B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:58:30",
+      "lastUpdated": "2026-09-01T04:28:30.046Z"
     }
   },
   "showroomVisits": {
@@ -69579,6 +69586,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:58:30",
+      "iso": "2026-09-01T04:28:30.048Z",
+      "action": "updated remark for NCPO-DC200 at MATARA-B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:58:21",
       "iso": "2026-09-01T04:28:21.703Z",
       "action": "updated remark for MHC-V21D at MATARA-B: “Report for 50000”"
@@ -69918,13 +69932,6 @@
       "time": "09:05:13",
       "iso": "2026-09-01T03:35:13.239Z",
       "action": "updated SINGER HOMES-NEGOMBO showroom (visitDate: 2026-08-25)"
-    },
-    {
-      "user": "Sanduni Hansika",
-      "date": "2026-09-01",
-      "time": "09:05:07",
-      "iso": "2026-09-01T03:35:07.158Z",
-      "action": "updated MEGA-NEGOMBO showroom (visitDate: 2026-08-25)"
     }
   ]
 }
