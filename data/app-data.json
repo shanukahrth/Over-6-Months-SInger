@@ -67395,6 +67395,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:36:28",
       "lastUpdated": "2026-09-01T04:06:28.397Z"
+    },
+    "BTS-5KG||MATARA-B": {
+      "remark": "Damage 500 off",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:36:48",
+      "lastUpdated": "2026-09-01T04:06:48.224Z"
     }
   },
   "showroomVisits": {
@@ -69313,6 +69320,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:36:48",
+      "iso": "2026-09-01T04:06:48.225Z",
+      "action": "updated remark for BTS-5KG at MATARA-B: “Damage 500 off”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:36:28",
       "iso": "2026-09-01T04:06:28.400Z",
       "action": "updated remark for BR-1 at MATARA-B: “Report for 500”"
@@ -69652,13 +69666,6 @@
       "time": "15:58:41",
       "iso": "2026-08-31T10:28:41.830Z",
       "action": "updated remark for B-RDNI295XIB100P at JAFFNA PANNAI BRANCH: “50% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:58:22",
-      "iso": "2026-08-31T10:28:22.234Z",
-      "action": "updated remark for SRS-XP500 at JAFFNA PANNAI BRANCH: “70% Off from mark price”"
     }
   ]
 }
