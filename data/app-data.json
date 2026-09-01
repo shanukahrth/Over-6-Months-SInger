@@ -67801,6 +67801,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "10:11:10",
       "lastUpdated": "2026-09-01T04:41:10.852Z"
+    },
+    "SB-AAA||MATARA-B": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:11:33",
+      "lastUpdated": "2026-09-01T04:41:33.415Z"
     }
   },
   "showroomVisits": {
@@ -69719,6 +69726,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:11:33",
+      "iso": "2026-09-01T04:41:33.417Z",
+      "action": "updated remark for SB-AAA at MATARA-B: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "10:11:10",
       "iso": "2026-09-01T04:41:10.854Z",
       "action": "updated remark for SA200 at MATARA-B: “-”"
@@ -70058,13 +70072,6 @@
       "time": "09:46:58",
       "iso": "2026-09-01T04:16:58.362Z",
       "action": "updated remark for HON-H90-12-512-BLU at MATARA-B: “Discounts already have given”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:46:53",
-      "iso": "2026-09-01T04:16:53.473Z",
-      "action": "updated remark for HON-H200SMART-8-256-WHT at MATARA-B: “Discounts already have given”"
     }
   ]
 }
