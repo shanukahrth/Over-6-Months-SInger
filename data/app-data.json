@@ -67803,11 +67803,11 @@
       "lastUpdated": "2026-09-01T04:41:10.852Z"
     },
     "SB-AAA||MATARA-B": {
-      "remark": "Sold out",
+      "remark": "Can sell",
       "commentedBy": "Sulani",
       "commentDate": "2026-09-01",
-      "commentTime": "10:11:33",
-      "lastUpdated": "2026-09-01T04:41:33.415Z"
+      "commentTime": "10:15:56",
+      "lastUpdated": "2026-09-01T04:45:56.321Z"
     }
   },
   "showroomVisits": {
@@ -69726,6 +69726,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:15:56",
+      "iso": "2026-09-01T04:45:56.324Z",
+      "action": "updated remark for SB-AAA at MATARA-B: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "10:11:33",
       "iso": "2026-09-01T04:41:33.417Z",
       "action": "updated remark for SB-AAA at MATARA-B: “Sold out”"
@@ -70065,13 +70072,6 @@
       "time": "09:47:19",
       "iso": "2026-09-01T04:17:19.821Z",
       "action": "updated remark for HON-WATCH-4 at MATARA-B: “Free issue”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:46:58",
-      "iso": "2026-09-01T04:16:58.362Z",
-      "action": "updated remark for HON-H90-12-512-BLU at MATARA-B: “Discounts already have given”"
     }
   ]
 }
