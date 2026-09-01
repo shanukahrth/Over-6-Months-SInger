@@ -69544,6 +69544,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:22:03",
       "lastUpdated": "2026-09-01T07:52:03.741Z"
+    },
+    "SDV3605K||KATANA": {
+      "remark": "2500",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:22:26",
+      "lastUpdated": "2026-09-01T07:52:26.708Z"
     }
   },
   "showroomVisits": {
@@ -71486,6 +71493,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:22:26",
+      "iso": "2026-09-01T07:52:26.710Z",
+      "action": "updated remark for SDV3605K at KATANA: “2500”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:22:23",
+      "iso": "2026-09-01T07:52:23.561Z",
+      "action": "updated remark for SDV3605K at KATANA: “2500”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:22:03",
       "iso": "2026-09-01T07:52:03.744Z",
       "action": "updated remark for UDV3618SY at KATANA: “2500”"
@@ -71818,20 +71839,6 @@
       "time": "12:46:33",
       "iso": "2026-09-01T07:16:33.026Z",
       "action": "updated remark for PN-F-409UNBAMKH at SEEDUWA: “40%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:46:29",
-      "iso": "2026-09-01T07:16:29.346Z",
-      "action": "updated remark for PN-F-409UNBAMKH at SEEDUWA: “40%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:43:21",
-      "iso": "2026-09-01T07:13:21.217Z",
-      "action": "updated remark for PN-DH-3JP2WK at SEEDUWA: “80%”"
     }
   ]
 }
