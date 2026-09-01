@@ -70440,6 +70440,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:37:33",
       "lastUpdated": "2026-09-01T10:07:33.836Z"
+    },
+    "SLE32E930||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:41:11",
+      "lastUpdated": "2026-09-01T10:11:11.885Z"
     }
   },
   "showroomVisits": {
@@ -72382,6 +72389,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:41:11",
+      "iso": "2026-09-01T10:11:11.887Z",
+      "action": "updated remark for SLE32E930 at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:37:33",
       "iso": "2026-09-01T10:07:33.838Z",
       "action": "updated remark for SLE32E910 at KATANA: “70%”"
@@ -72721,13 +72735,6 @@
       "time": "15:04:15",
       "iso": "2026-09-01T09:34:15.438Z",
       "action": "updated remark for UJB-LB6027 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:00:13",
-      "iso": "2026-09-01T09:30:13.472Z",
-      "action": "updated remark for BR-HT1010BK at KATANA: “Already provided”"
     }
   ]
 }
