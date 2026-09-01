@@ -68277,6 +68277,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:49:46",
       "lastUpdated": "2026-09-01T06:19:46.810Z"
+    },
+    "KN-SMP01||DANKOTUWA": {
+      "remark": "Already given",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:50:09",
+      "lastUpdated": "2026-09-01T06:20:09.894Z"
     }
   },
   "showroomVisits": {
@@ -70193,6 +70200,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "11:50:09",
+      "iso": "2026-09-01T06:20:09.895Z",
+      "action": "updated remark for KN-SMP01 at DANKOTUWA: “Already given”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "11:49:46",
@@ -70534,13 +70548,6 @@
       "time": "11:10:17",
       "iso": "2026-09-01T05:40:17.442Z",
       "action": "updated remark for DELL3511-I3-4GB256-SIL at DANKOTUWA: “Damage - 50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:06:32",
-      "iso": "2026-09-01T05:36:32.690Z",
-      "action": "updated remark for DELL3511-I5-8GB1TBXE-SIL at DANKOTUWA: “Exchange”"
     }
   ]
 }
