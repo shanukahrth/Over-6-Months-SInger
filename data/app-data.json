@@ -67619,6 +67619,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:50:04",
       "lastUpdated": "2026-09-01T04:20:04.863Z"
+    },
+    "NCPDG-KD240||MATARA-B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:50:32",
+      "lastUpdated": "2026-09-01T04:20:32.017Z"
     }
   },
   "showroomVisits": {
@@ -69537,6 +69544,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:50:32",
+      "iso": "2026-09-01T04:20:32.019Z",
+      "action": "updated remark for NCPDG-KD240 at MATARA-B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:50:04",
       "iso": "2026-09-01T04:20:04.865Z",
       "action": "updated remark for MCT-302N-4 at MATARA-B: “-”"
@@ -69876,13 +69890,6 @@
       "time": "19:58:18",
       "iso": "2026-08-31T14:28:18.428Z",
       "action": "updated remark for TCLED32D65A at JA-ELA: “Exchange 90% Damaged”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "19:58:00",
-      "iso": "2026-08-31T14:28:00.516Z",
-      "action": "updated remark for SLE32E920 at JA-ELA: “90% Damaged location exchange”"
     }
   ]
 }
