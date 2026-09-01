@@ -68515,6 +68515,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:06:15",
       "lastUpdated": "2026-09-01T06:36:15.504Z"
+    },
+    "SIN-RFC-0836||DANKOTUWA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:06:32",
+      "lastUpdated": "2026-09-01T06:36:32.169Z"
     }
   },
   "showroomVisits": {
@@ -70439,6 +70446,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:06:32",
+      "iso": "2026-09-01T06:36:32.170Z",
+      "action": "updated remark for SIN-RFC-0836 at DANKOTUWA: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:06:15",
       "iso": "2026-09-01T06:36:15.505Z",
       "action": "updated remark for PTT-200GT at DANKOTUWA: “Already given”"
@@ -70778,13 +70792,6 @@
       "time": "11:44:35",
       "iso": "2026-09-01T06:14:35.655Z",
       "action": "updated remark for IWH-1000WS at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:43:49",
-      "iso": "2026-09-01T06:13:49.622Z",
-      "action": "updated remark for MID-MF-TN40D2 at DANKOTUWA: “Already given”"
     }
   ]
 }
