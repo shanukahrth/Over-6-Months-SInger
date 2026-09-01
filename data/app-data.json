@@ -70265,6 +70265,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:20:59",
       "lastUpdated": "2026-09-01T09:50:59.510Z"
+    },
+    "WF-NAMAL-CT-S||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:21:45",
+      "lastUpdated": "2026-09-01T09:51:45.745Z"
     }
   },
   "showroomVisits": {
@@ -72205,6 +72212,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "15:21:45",
+      "iso": "2026-09-01T09:51:45.746Z",
+      "action": "updated remark for WF-NAMAL-CT-S at SEEDUWA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "15:20:59",
@@ -72546,13 +72560,6 @@
       "time": "13:56:48",
       "iso": "2026-09-01T08:26:48.529Z",
       "action": "updated remark for TF-TW26-064 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:56:44",
-      "iso": "2026-09-01T08:26:44.730Z",
-      "action": "updated remark for TF-SP16-063 at SEEDUWA: “Discounts already given to the shop”"
     }
   ]
 }
