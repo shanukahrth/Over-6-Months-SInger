@@ -69742,11 +69742,11 @@
       "lastUpdated": "2026-09-01T08:13:56.510Z"
     },
     "SLE40D600A||SEEDUWA": {
-      "remark": "Return to warehouse",
+      "remark": "50%",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-09-01",
-      "commentTime": "13:46:03",
-      "lastUpdated": "2026-09-01T08:16:03.892Z"
+      "commentTime": "13:46:21",
+      "lastUpdated": "2026-09-01T08:16:21.522Z"
     },
     "SLE42D2070TC||SEEDUWA": {
       "remark": "exchange",
@@ -71696,6 +71696,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:46:21",
+      "iso": "2026-09-01T08:16:21.523Z",
+      "action": "updated remark for SLE40D600A at SEEDUWA: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:46:03",
       "iso": "2026-09-01T08:16:03.893Z",
       "action": "updated remark for SLE40D600A at SEEDUWA: “Return to warehouse”"
@@ -72035,13 +72042,6 @@
       "time": "13:19:08",
       "iso": "2026-09-01T07:49:08.601Z",
       "action": "updated remark for SINX-M173H at SEEDUWA: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:18:50",
-      "iso": "2026-09-01T07:48:50.763Z",
-      "action": "updated remark for SIN-RFC-2058 at SEEDUWA: “Additional 15%”"
     }
   ]
 }
