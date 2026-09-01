@@ -69516,6 +69516,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:20:01",
       "lastUpdated": "2026-09-01T07:50:01.113Z"
+    },
+    "DELL3530-I7-8GB512-SIL||KATANA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:20:19",
+      "lastUpdated": "2026-09-01T07:50:19.924Z"
     }
   },
   "showroomVisits": {
@@ -71456,6 +71463,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:20:19",
+      "iso": "2026-09-01T07:50:19.924Z",
+      "action": "updated remark for DELL3530-I7-8GB512-SIL at KATANA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:20:01",
@@ -71797,13 +71811,6 @@
       "time": "12:41:46",
       "iso": "2026-09-01T07:11:46.572Z",
       "action": "updated remark for KA-LW-185A at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:41:39",
-      "iso": "2026-09-01T07:11:39.715Z",
-      "action": "updated remark for PF-CAFE-NEW-WF-S at SEEDUWA: “10%”"
     }
   ]
 }
