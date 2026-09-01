@@ -70706,6 +70706,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:16:02",
       "lastUpdated": "2026-09-01T10:46:02.586Z"
+    },
+    "MXSW612543||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:16:27",
+      "lastUpdated": "2026-09-01T10:46:27.879Z"
     }
   },
   "showroomVisits": {
@@ -72648,6 +72655,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:16:27",
+      "iso": "2026-09-01T10:46:27.881Z",
+      "action": "updated remark for MXSW612543 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:16:02",
       "iso": "2026-09-01T10:46:02.587Z",
       "action": "updated remark for SMGUA32T4400 at KATANA: “0%”"
@@ -72987,13 +73001,6 @@
       "time": "15:41:49",
       "iso": "2026-09-01T10:11:49.540Z",
       "action": "updated remark for SLE32G690 at KATANA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:41:11",
-      "iso": "2026-09-01T10:11:11.887Z",
-      "action": "updated remark for SLE32E930 at KATANA: “50%”"
     }
   ]
 }
