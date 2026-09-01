@@ -69026,6 +69026,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:28:48",
       "lastUpdated": "2026-09-01T06:58:48.138Z"
+    },
+    "MID-D15-20EVN1||DANKOTUWA": {
+      "remark": "0",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:29:59",
+      "lastUpdated": "2026-09-01T06:59:59.827Z"
     }
   },
   "showroomVisits": {
@@ -70966,6 +70973,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:29:59",
+      "iso": "2026-09-01T06:59:59.829Z",
+      "action": "updated remark for MID-D15-20EVN1 at DANKOTUWA: “0”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:28:48",
@@ -71307,13 +71321,6 @@
       "time": "12:14:44",
       "iso": "2026-09-01T06:44:44.755Z",
       "action": "updated remark for PM-OS-BAT at DANKOTUWA: “0”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:14:26",
-      "iso": "2026-09-01T06:44:26.343Z",
-      "action": "updated remark for MCT-302N at DANKOTUWA: “0”"
     }
   ]
 }
