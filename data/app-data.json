@@ -70272,6 +70272,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:21:45",
       "lastUpdated": "2026-09-01T09:51:45.745Z"
+    },
+    "HON-X7B-8-256-SIL||KATANA": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:21:45",
+      "lastUpdated": "2026-09-01T09:51:45.538Z"
     }
   },
   "showroomVisits": {
@@ -72212,6 +72219,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "15:21:45",
+      "iso": "2026-09-01T09:51:45.538Z",
+      "action": "updated remark for HON-X7B-8-256-SIL at KATANA: “sold”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "15:21:45",
@@ -72553,13 +72567,6 @@
       "time": "13:56:55",
       "iso": "2026-09-01T08:26:55.321Z",
       "action": "updated remark for TF-SP16-063 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:56:48",
-      "iso": "2026-09-01T08:26:48.529Z",
-      "action": "updated remark for TF-TW26-064 at KATANA: “Already provided”"
     }
   ]
 }
