@@ -70216,6 +70216,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:16:22",
       "lastUpdated": "2026-09-01T09:46:22.577Z"
+    },
+    "SIN-BY526||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:17:26",
+      "lastUpdated": "2026-09-01T09:47:26.858Z"
     }
   },
   "showroomVisits": {
@@ -72158,6 +72165,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:17:26",
+      "iso": "2026-09-01T09:47:26.860Z",
+      "action": "updated remark for SIN-BY526 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:16:22",
       "iso": "2026-09-01T09:46:22.578Z",
       "action": "updated remark for STT-200K at KATANA: “Already provided”"
@@ -72497,13 +72511,6 @@
       "time": "13:55:26",
       "iso": "2026-09-01T08:25:26.105Z",
       "action": "updated remark for TF-SI-ESS-242 at SEEDUWA: “Additional 20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:55:05",
-      "iso": "2026-09-01T08:25:05.042Z",
-      "action": "updated remark for TF-GS-SPKT302 at KATANA: “15%”"
     }
   ]
 }
