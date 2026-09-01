@@ -67794,6 +67794,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "10:09:56",
       "lastUpdated": "2026-09-01T04:39:56.020Z"
+    },
+    "SA200||MATARA-B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:11:10",
+      "lastUpdated": "2026-09-01T04:41:10.852Z"
     }
   },
   "showroomVisits": {
@@ -69712,6 +69719,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:11:10",
+      "iso": "2026-09-01T04:41:10.854Z",
+      "action": "updated remark for SA200 at MATARA-B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "10:09:56",
       "iso": "2026-09-01T04:39:56.021Z",
       "action": "updated remark for R-BWS-02 at MATARA-B: “35% OFF”"
@@ -70051,13 +70065,6 @@
       "time": "09:46:53",
       "iso": "2026-09-01T04:16:53.473Z",
       "action": "updated remark for HON-H200SMART-8-256-WHT at MATARA-B: “Discounts already have given”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:43:55",
-      "iso": "2026-09-01T04:13:55.297Z",
-      "action": "updated remark for HON-CH-WATCH-BLK at MATARA-B: “Free issue”"
     }
   ]
 }
