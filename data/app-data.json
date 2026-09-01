@@ -69887,6 +69887,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:53:41",
       "lastUpdated": "2026-09-01T08:23:41.314Z"
+    },
+    "TF-NIGP26-119||SEEDUWA": {
+      "remark": "Discounts already given to the shop",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:53:55",
+      "lastUpdated": "2026-09-01T08:23:55.192Z"
     }
   },
   "showroomVisits": {
@@ -71827,6 +71834,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "13:53:55",
+      "iso": "2026-09-01T08:23:55.193Z",
+      "action": "updated remark for TF-NIGP26-119 at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "13:53:41",
@@ -72168,13 +72182,6 @@
       "time": "13:26:54",
       "iso": "2026-09-01T07:56:54.801Z",
       "action": "updated remark for LF-DEO-CT-S at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:26:07",
-      "iso": "2026-09-01T07:56:07.665Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at KATANA: “50%”"
     }
   ]
 }
