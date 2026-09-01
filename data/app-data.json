@@ -70181,6 +70181,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:10:45",
       "lastUpdated": "2026-09-01T09:40:45.681Z"
+    },
+    "PCP50||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:12:29",
+      "lastUpdated": "2026-09-01T09:42:29.654Z"
     }
   },
   "showroomVisits": {
@@ -72123,6 +72130,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:12:29",
+      "iso": "2026-09-01T09:42:29.655Z",
+      "action": "updated remark for PCP50 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:10:45",
       "iso": "2026-09-01T09:40:45.682Z",
       "action": "updated remark for PCP30 at KATANA: “Already provided”"
@@ -72462,13 +72476,6 @@
       "time": "13:53:55",
       "iso": "2026-09-01T08:23:55.193Z",
       "action": "updated remark for TF-NIGP26-119 at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:53:41",
-      "iso": "2026-09-01T08:23:41.326Z",
-      "action": "updated remark for SWH-338EP at KATANA: “-”"
     }
   ]
 }
