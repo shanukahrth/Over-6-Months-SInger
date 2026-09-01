@@ -70097,6 +70097,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "14:05:35",
       "lastUpdated": "2026-09-01T08:35:35.514Z"
+    },
+    "LP-AP01||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "14:58:39",
+      "lastUpdated": "2026-09-01T09:28:39.716Z"
     }
   },
   "showroomVisits": {
@@ -72037,6 +72044,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "14:58:39",
+      "iso": "2026-09-01T09:28:39.724Z",
+      "action": "updated remark for LP-AP01 at KATANA: “Already provided”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "14:05:46",
@@ -72378,13 +72392,6 @@
       "time": "13:50:32",
       "iso": "2026-09-01T08:20:32.786Z",
       "action": "updated remark for SW-SF21020N at SEEDUWA: “Discounts already given to the shop”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:49:33",
-      "iso": "2026-09-01T08:19:33.579Z",
-      "action": "updated remark for STT-2BGT at SEEDUWA: “Discounts already given to the shop”"
     }
   ]
 }
