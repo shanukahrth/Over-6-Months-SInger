@@ -70657,6 +70657,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:12:51",
       "lastUpdated": "2026-09-01T10:42:51.450Z"
+    },
+    "RCS-04||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:13:07",
+      "lastUpdated": "2026-09-01T10:43:07.652Z"
     }
   },
   "showroomVisits": {
@@ -72599,6 +72606,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:13:07",
+      "iso": "2026-09-01T10:43:07.654Z",
+      "action": "updated remark for RCS-04 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:12:51",
       "iso": "2026-09-01T10:42:51.452Z",
       "action": "updated remark for NCPO-FP250 at KATANA: “Already provided”"
@@ -72938,13 +72952,6 @@
       "time": "15:34:21",
       "iso": "2026-09-01T10:04:21.353Z",
       "action": "updated remark for TCL55V6B at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:33:42",
-      "iso": "2026-09-01T10:03:42.756Z",
-      "action": "updated remark for ULED32D60A at KATANA: “Sell at Rs.24,999”"
     }
   ]
 }
