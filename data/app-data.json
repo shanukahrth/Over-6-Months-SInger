@@ -68193,6 +68193,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:39:55",
       "lastUpdated": "2026-09-01T06:09:55.465Z"
+    },
+    "USI-ATC-302||DANKOTUWA": {
+      "remark": "10% discount display",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:40:21",
+      "lastUpdated": "2026-09-01T06:10:21.443Z"
     }
   },
   "showroomVisits": {
@@ -70111,6 +70118,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:40:21",
+      "iso": "2026-09-01T06:10:21.445Z",
+      "action": "updated remark for USI-ATC-302 at DANKOTUWA: “10% discount display”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:39:55",
       "iso": "2026-09-01T06:09:55.470Z",
       "action": "updated remark for SWH-118EP-D at DANKOTUWA: “Dummy Units”"
@@ -70450,13 +70464,6 @@
       "time": "10:49:44",
       "iso": "2026-09-01T05:19:44.693Z",
       "action": "updated remark for PN-CS-U18XKH at DANKOTUWA: “OFFER FLAT 60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "10:49:13",
-      "iso": "2026-09-01T05:19:13.896Z",
-      "action": "updated remark for PN-CS-U13XKH at DANKOTUWA: “OFFER FLAT 60%”"
     }
   ]
 }
