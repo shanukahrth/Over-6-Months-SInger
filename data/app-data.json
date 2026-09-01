@@ -70510,6 +70510,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:46:56",
       "lastUpdated": "2026-09-01T10:16:56.075Z"
+    },
+    "SLE24E810||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:47:43",
+      "lastUpdated": "2026-09-01T10:17:43.949Z"
     }
   },
   "showroomVisits": {
@@ -72452,6 +72459,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:47:43",
+      "iso": "2026-09-01T10:17:43.950Z",
+      "action": "updated remark for SLE24E810 at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:46:56",
       "iso": "2026-09-01T10:16:56.076Z",
       "action": "updated remark for SMGUA32N4010 at KATANA: “50%”"
@@ -72791,13 +72805,6 @@
       "time": "15:14:52",
       "iso": "2026-09-01T09:44:52.482Z",
       "action": "updated remark for SISIL-RC180 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:13:54",
-      "iso": "2026-09-01T09:43:54.541Z",
-      "action": "updated remark for SLMC-18DSLHS at KATANA: “Already provided”"
     }
   ]
 }
