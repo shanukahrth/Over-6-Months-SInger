@@ -69075,6 +69075,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:31:16",
       "lastUpdated": "2026-09-01T07:01:16.866Z"
+    },
+    "LF-OX-BR-M-CLM-S||SEEDUWA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:31:37",
+      "lastUpdated": "2026-09-01T07:01:37.085Z"
     }
   },
   "showroomVisits": {
@@ -71015,6 +71022,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:31:37",
+      "iso": "2026-09-01T07:01:37.087Z",
+      "action": "updated remark for LF-OX-BR-M-CLM-S at SEEDUWA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:31:16",
@@ -71356,13 +71370,6 @@
       "time": "12:16:23",
       "iso": "2026-09-01T06:46:23.211Z",
       "action": "updated remark for SLE40D600A at DANKOTUWA: “free issue given for motorbike”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:16:07",
-      "iso": "2026-09-01T06:46:07.537Z",
-      "action": "updated remark for TCLED32D65A at DANKOTUWA: “Exchange”"
     }
   ]
 }
