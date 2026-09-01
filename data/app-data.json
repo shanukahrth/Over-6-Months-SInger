@@ -70734,6 +70734,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:19:12",
       "lastUpdated": "2026-09-01T10:49:12.646Z"
+    },
+    "BES-CRS-51||KOCHCHIKADE": {
+      "remark": "10%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:19:45",
+      "lastUpdated": "2026-09-01T10:49:45.538Z"
     }
   },
   "showroomVisits": {
@@ -72676,6 +72683,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "16:19:45",
+      "iso": "2026-09-01T10:49:45.540Z",
+      "action": "updated remark for BES-CRS-51 at KOCHCHIKADE: “10%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "16:19:12",
       "iso": "2026-09-01T10:49:12.649Z",
       "action": "updated remark for BC-KNP-AG at KOCHCHIKADE: “30%”"
@@ -73015,13 +73029,6 @@
       "time": "15:45:07",
       "iso": "2026-09-01T10:15:07.278Z",
       "action": "updated remark for SLE43F590 at KATANA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:44:22",
-      "iso": "2026-09-01T10:14:22.865Z",
-      "action": "updated remark for SLE40E810C at KATANA: “1 unit 60% for Damaged and Exchange”"
     }
   ]
 }
