@@ -67962,6 +67962,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:05:59",
       "lastUpdated": "2026-09-01T05:35:59.288Z"
+    },
+    "DELL3511-I5-8GB1TBXE-SIL||DANKOTUWA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:06:32",
+      "lastUpdated": "2026-09-01T05:36:32.690Z"
     }
   },
   "showroomVisits": {
@@ -69880,6 +69887,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:06:32",
+      "iso": "2026-09-01T05:36:32.690Z",
+      "action": "updated remark for DELL3511-I5-8GB1TBXE-SIL at DANKOTUWA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:05:59",
       "iso": "2026-09-01T05:35:59.288Z",
       "action": "updated remark for SIN-DUO-W10 at DANKOTUWA: “Revert - 5% Additional to bill and drop from the inventory (Product damaged)”"
@@ -70219,13 +70233,6 @@
       "time": "10:04:33",
       "iso": "2026-09-01T04:34:33.298Z",
       "action": "updated remark for NCPO-FP250 at MATARA-B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:59:20",
-      "iso": "2026-09-01T04:29:20.207Z",
-      "action": "updated remark for FAN-VIERA-TEAK-WL at MATARA-B: “-”"
     }
   ]
 }
