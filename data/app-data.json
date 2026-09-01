@@ -70643,6 +70643,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:07:01",
       "lastUpdated": "2026-09-01T10:37:01.271Z"
+    },
+    "WP-CHTW-075-S||KATANA": {
+      "remark": "Damaged - 30%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:09:36",
+      "lastUpdated": "2026-09-01T10:39:36.324Z"
     }
   },
   "showroomVisits": {
@@ -72585,6 +72592,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:09:36",
+      "iso": "2026-09-01T10:39:36.327Z",
+      "action": "updated remark for WP-CHTW-075-S at KATANA: “Damaged - 30%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:07:01",
       "iso": "2026-09-01T10:37:01.280Z",
       "action": "updated remark for WP-1R-.75T at KATANA: “-”"
@@ -72924,13 +72938,6 @@
       "time": "15:33:11",
       "iso": "2026-09-01T10:03:11.907Z",
       "action": "updated remark for ULED32D4100 at KATANA: “80% - Pannel Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:32:28",
-      "iso": "2026-09-01T10:02:28.889Z",
-      "action": "updated remark for ULED32D2070 at KATANA: “Exchange”"
     }
   ]
 }
