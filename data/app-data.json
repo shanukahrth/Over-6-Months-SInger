@@ -70454,6 +70454,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:41:49",
       "lastUpdated": "2026-09-01T10:11:49.537Z"
+    },
+    "SLE40D600A||KATANA": {
+      "remark": "Free Issue",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:42:18",
+      "lastUpdated": "2026-09-01T10:12:18.478Z"
     }
   },
   "showroomVisits": {
@@ -72396,6 +72403,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:42:18",
+      "iso": "2026-09-01T10:12:18.480Z",
+      "action": "updated remark for SLE40D600A at KATANA: “Free Issue”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:41:49",
       "iso": "2026-09-01T10:11:49.540Z",
       "action": "updated remark for SLE32G690 at KATANA: “Exchange”"
@@ -72735,13 +72749,6 @@
       "time": "15:05:12",
       "iso": "2026-09-01T09:35:12.428Z",
       "action": "updated remark for MID-BL1192 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:04:50",
-      "iso": "2026-09-01T09:34:50.740Z",
-      "action": "updated remark for GCB8401F-N at KATANA: “Already provided”"
     }
   ]
 }
