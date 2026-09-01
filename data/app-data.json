@@ -69138,6 +69138,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:34:15",
       "lastUpdated": "2026-09-01T07:04:15.060Z"
+    },
+    "WF-PRESTON-BSC-S||DANKOTUWA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:35:23",
+      "lastUpdated": "2026-09-01T07:05:23.441Z"
     }
   },
   "showroomVisits": {
@@ -71080,6 +71087,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:35:23",
+      "iso": "2026-09-01T07:05:23.442Z",
+      "action": "updated remark for WF-PRESTON-BSC-S at DANKOTUWA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:34:36",
       "iso": "2026-09-01T07:04:36.407Z",
       "action": "updated remark for WF-OSLO-S at DANKOTUWA: “80%”"
@@ -71419,13 +71433,6 @@
       "time": "12:18:52",
       "iso": "2026-09-01T06:48:52.370Z",
       "action": "updated remark for SMGUA32N4010 at DANKOTUWA: “0”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:18:33",
-      "iso": "2026-09-01T06:48:33.507Z",
-      "action": "updated remark for HON-X8C-8-512-GRN at SEEDUWA: “Phone camera issue 30% Additional”"
     }
   ]
 }
