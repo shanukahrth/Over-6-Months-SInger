@@ -69271,6 +69271,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:47:28",
       "lastUpdated": "2026-09-01T07:17:28.612Z"
+    },
+    "PN-SC-UA3GS-K||SEEDUWA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:51:44",
+      "lastUpdated": "2026-09-01T07:21:44.129Z"
     }
   },
   "showroomVisits": {
@@ -71213,6 +71220,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "12:51:44",
+      "iso": "2026-09-01T07:21:44.130Z",
+      "action": "updated remark for PN-SC-UA3GS-K at SEEDUWA: “70%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "12:47:28",
       "iso": "2026-09-01T07:17:28.615Z",
       "action": "updated remark for PN-SC-BMAX10E-K at SEEDUWA: “40%”"
@@ -71552,13 +71566,6 @@
       "time": "12:30:59",
       "iso": "2026-09-01T07:00:59.125Z",
       "action": "updated remark for WP-SS-SUB1-S at DANKOTUWA: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:30:35",
-      "iso": "2026-09-01T07:00:35.971Z",
-      "action": "updated remark for MID-D30-20EVN1 at DANKOTUWA: “0”"
     }
   ]
 }
