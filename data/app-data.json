@@ -69866,6 +69866,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:52:47",
       "lastUpdated": "2026-09-01T08:22:47.483Z"
+    },
+    "TF-GS-SPKT302||SEEDUWA": {
+      "remark": "Additional 20%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:53:17",
+      "lastUpdated": "2026-09-01T08:23:17.018Z"
     }
   },
   "showroomVisits": {
@@ -71808,6 +71815,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:53:17",
+      "iso": "2026-09-01T08:23:17.021Z",
+      "action": "updated remark for TF-GS-SPKT302 at SEEDUWA: “Additional 20%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:52:47",
       "iso": "2026-09-01T08:22:47.484Z",
       "action": "updated remark for TF-FP24-SCR342 at SEEDUWA: “Discounts already given to the shop”"
@@ -72147,13 +72161,6 @@
       "time": "13:25:17",
       "iso": "2026-09-01T07:55:17.789Z",
       "action": "updated remark for LF-LEO-HCUP-WNG-S at KATANA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:25:00",
-      "iso": "2026-09-01T07:55:00.109Z",
-      "action": "updated remark for FAN-C-NR at KATANA: “85%”"
     }
   ]
 }
