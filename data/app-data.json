@@ -68879,6 +68879,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:20:06",
       "lastUpdated": "2026-09-01T06:50:06.646Z"
+    },
+    "HU-SECURITY||SEEDUWA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:20:02",
+      "lastUpdated": "2026-09-01T06:50:02.118Z"
     }
   },
   "showroomVisits": {
@@ -70819,6 +70826,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:20:02",
+      "iso": "2026-09-01T06:50:02.118Z",
+      "action": "updated remark for HU-SECURITY at SEEDUWA: “0%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:20:06",
@@ -71160,13 +71174,6 @@
       "time": "12:09:03",
       "iso": "2026-09-01T06:39:03.479Z",
       "action": "updated remark for NUBIA-V70MAX-6-128GB-GRN at DANKOTUWA: “15% Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:08:45",
-      "iso": "2026-09-01T06:38:45.276Z",
-      "action": "updated remark for NUBIA-V70DSGN-8-128GB-ONG at DANKOTUWA: “15% Additional”"
     }
   ]
 }
