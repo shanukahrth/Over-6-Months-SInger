@@ -67640,6 +67640,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:56:58",
       "lastUpdated": "2026-09-01T04:26:58.254Z"
+    },
+    "KA-PRISMA-1.2||MATARA-B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:57:29",
+      "lastUpdated": "2026-09-01T04:27:29.422Z"
     }
   },
   "showroomVisits": {
@@ -69558,6 +69565,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:57:29",
+      "iso": "2026-09-01T04:27:29.424Z",
+      "action": "updated remark for KA-PRISMA-1.2 at MATARA-B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:56:58",
       "iso": "2026-09-01T04:26:58.256Z",
       "action": "updated remark for IWH-2500WL at MATARA-B: “80% OFF”"
@@ -69897,13 +69911,6 @@
       "time": "09:04:25",
       "iso": "2026-09-01T03:34:25.832Z",
       "action": "updated MEGA-NEGOMBO showroom (visited: Yes)"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "19:59:02",
-      "iso": "2026-08-31T14:29:02.733Z",
-      "action": "updated remark for ULED32D2070 at JA-ELA: “Exchange 90% Damaged”"
     }
   ]
 }
