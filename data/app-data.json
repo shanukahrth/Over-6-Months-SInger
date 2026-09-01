@@ -69691,6 +69691,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:37:30",
       "lastUpdated": "2026-09-01T08:07:30.284Z"
+    },
+    "WF-PARIS-BL-S||KATANA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:37:58",
+      "lastUpdated": "2026-09-01T08:07:58.148Z"
     }
   },
   "showroomVisits": {
@@ -71633,6 +71640,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:37:58",
+      "iso": "2026-09-01T08:07:58.151Z",
+      "action": "updated remark for WF-PARIS-BL-S at KATANA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:37:30",
       "iso": "2026-09-01T08:07:30.286Z",
       "action": "updated remark for PF-ENVISION-BL-S at KATANA: “10%”"
@@ -71972,13 +71986,6 @@
       "time": "13:10:58",
       "iso": "2026-09-01T07:40:58.536Z",
       "action": "updated remark for SIN-BS30 at KATANA: “Rs.8,500/- Special Price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:10:34",
-      "iso": "2026-09-01T07:40:34.302Z",
-      "action": "updated remark for SHAKE-X10D at KATANA: “80%”"
     }
   ]
 }
