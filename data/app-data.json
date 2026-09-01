@@ -69572,6 +69572,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:23:50",
       "lastUpdated": "2026-09-01T07:53:50.610Z"
+    },
+    "SL-SF1607||KATANA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:24:10",
+      "lastUpdated": "2026-09-01T07:54:10.627Z"
     }
   },
   "showroomVisits": {
@@ -71514,6 +71521,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:24:10",
+      "iso": "2026-09-01T07:54:10.628Z",
+      "action": "updated remark for SL-SF1607 at KATANA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:23:50",
       "iso": "2026-09-01T07:53:50.612Z",
       "action": "updated remark for DVP-SR370 at KATANA: “2500”"
@@ -71853,13 +71867,6 @@
       "time": "12:53:53",
       "iso": "2026-09-01T07:23:53.817Z",
       "action": "updated remark for PN-TH-32M402N at SEEDUWA: “Return to warehouse”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:53:13",
-      "iso": "2026-09-01T07:23:13.080Z",
-      "action": "updated remark for PN-TH-32J401N at SEEDUWA: “Panel Damage 85%”"
     }
   ]
 }
