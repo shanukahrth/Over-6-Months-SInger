@@ -67759,6 +67759,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "10:08:47",
       "lastUpdated": "2026-09-01T04:38:47.689Z"
+    },
+    "OF-COMT-S-S||MATARA-B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:09:12",
+      "lastUpdated": "2026-09-01T04:39:12.189Z"
     }
   },
   "showroomVisits": {
@@ -69677,6 +69684,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:09:12",
+      "iso": "2026-09-01T04:39:12.191Z",
+      "action": "updated remark for OF-COMT-S-S at MATARA-B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "10:08:47",
       "iso": "2026-09-01T04:38:47.689Z",
       "action": "updated remark for NUBIA-V70MAX-4-128GB-GRY at MATARA-B: “Discounts already have given”"
@@ -70016,13 +70030,6 @@
       "time": "09:42:37",
       "iso": "2026-09-01T04:12:37.233Z",
       "action": "updated remark for H-LE24T05A at MATARA-B: “MOP 3500”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:42:19",
-      "iso": "2026-09-01T04:12:19.122Z",
-      "action": "updated remark for GRIP-G86-S at MATARA-B: “80% OFF”"
     }
   ]
 }
