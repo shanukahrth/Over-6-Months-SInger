@@ -67467,11 +67467,11 @@
       "lastUpdated": "2026-09-01T04:12:19.121Z"
     },
     "H-LE24T05A||MATARA-B": {
-      "remark": "MOP 3500",
+      "remark": "MOP 35000",
       "commentedBy": "Sulani",
       "commentDate": "2026-09-01",
-      "commentTime": "09:42:37",
-      "lastUpdated": "2026-09-01T04:12:37.230Z"
+      "commentTime": "09:43:00",
+      "lastUpdated": "2026-09-01T04:13:00.648Z"
     },
     "HFPA-GRAVITY-BLU||MATARA-B": {
       "remark": "Report for 24000",
@@ -69397,6 +69397,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:43:00",
+      "iso": "2026-09-01T04:13:00.651Z",
+      "action": "updated remark for H-LE24T05A at MATARA-B: “MOP 35000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:42:49",
       "iso": "2026-09-01T04:12:49.651Z",
       "action": "updated remark for HFPA-GRAVITY-BLU at MATARA-B: “Report for 24000”"
@@ -69736,13 +69743,6 @@
       "time": "16:09:39",
       "iso": "2026-08-31T10:39:39.980Z",
       "action": "updated remark for PN-CS-U10XKH at JAFFNA PANNAI BRANCH: “NEW”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "16:06:13",
-      "iso": "2026-08-31T10:36:13.112Z",
-      "action": "updated remark for H-RMRG024HFEOE at JAFFNA PANNAI BRANCH: “NEW”"
     }
   ]
 }
