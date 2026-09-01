@@ -68480,6 +68480,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:04:01",
       "lastUpdated": "2026-09-01T06:34:01.789Z"
+    },
+    "STT-2BSS||DANKOTUWA": {
+      "remark": "Already given",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:04:22",
+      "lastUpdated": "2026-09-01T06:34:22.851Z"
     }
   },
   "showroomVisits": {
@@ -70404,6 +70411,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:04:22",
+      "iso": "2026-09-01T06:34:22.853Z",
+      "action": "updated remark for STT-2BSS at DANKOTUWA: “Already given”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:04:01",
       "iso": "2026-09-01T06:34:01.798Z",
       "action": "updated remark for SLMC-18DSLHS at DANKOTUWA: “Already given”"
@@ -70743,13 +70757,6 @@
       "time": "11:42:13",
       "iso": "2026-09-01T06:12:13.198Z",
       "action": "updated remark for SIS277CU at DANKOTUWA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:41:51",
-      "iso": "2026-09-01T06:11:51.529Z",
-      "action": "updated remark for SIS253CU at DANKOTUWA: “60%”"
     }
   ]
 }
