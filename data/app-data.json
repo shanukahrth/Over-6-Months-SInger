@@ -69551,6 +69551,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:22:26",
       "lastUpdated": "2026-09-01T07:52:26.708Z"
+    },
+    "SDV837HDVT||KATANA": {
+      "remark": "2500",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:22:47",
+      "lastUpdated": "2026-09-01T07:52:47.498Z"
     }
   },
   "showroomVisits": {
@@ -71493,6 +71500,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:22:47",
+      "iso": "2026-09-01T07:52:47.502Z",
+      "action": "updated remark for SDV837HDVT at KATANA: “2500”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:22:26",
       "iso": "2026-09-01T07:52:26.710Z",
       "action": "updated remark for SDV3605K at KATANA: “2500”"
@@ -71832,13 +71846,6 @@
       "time": "12:46:56",
       "iso": "2026-09-01T07:16:56.290Z",
       "action": "updated remark for PN-MIC-W-107 at SEEDUWA: “Free”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:46:33",
-      "iso": "2026-09-01T07:16:33.026Z",
-      "action": "updated remark for PN-F-409UNBAMKH at SEEDUWA: “40%”"
     }
   ]
 }
