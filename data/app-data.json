@@ -70463,11 +70463,11 @@
       "lastUpdated": "2026-09-01T10:12:18.478Z"
     },
     "SLE40E710||KATANA": {
-      "remark": "70%",
+      "remark": "50%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-01",
-      "commentTime": "15:43:00",
-      "lastUpdated": "2026-09-01T10:13:00.142Z"
+      "commentTime": "15:43:46",
+      "lastUpdated": "2026-09-01T10:13:46.993Z"
     }
   },
   "showroomVisits": {
@@ -72410,6 +72410,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:43:46",
+      "iso": "2026-09-01T10:13:46.995Z",
+      "action": "updated remark for SLE40E710 at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:43:00",
       "iso": "2026-09-01T10:13:00.144Z",
       "action": "updated remark for SLE40E710 at KATANA: “70%”"
@@ -72749,13 +72756,6 @@
       "time": "15:06:39",
       "iso": "2026-09-01T09:36:39.715Z",
       "action": "updated remark for KA-ELITE at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:05:28",
-      "iso": "2026-09-01T09:35:28.320Z",
-      "action": "updated remark for PN-MX-AC210 at KATANA: “Already provided”"
     }
   ]
 }
