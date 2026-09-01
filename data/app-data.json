@@ -69530,6 +69530,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:21:06",
       "lastUpdated": "2026-09-01T07:51:06.185Z"
+    },
+    "IFCG157NC||KATANA": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:21:42",
+      "lastUpdated": "2026-09-01T07:51:42.754Z"
     }
   },
   "showroomVisits": {
@@ -71472,6 +71479,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "13:21:42",
+      "iso": "2026-09-01T07:51:42.763Z",
+      "action": "updated remark for IFCG157NC at KATANA: “85%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "13:21:06",
       "iso": "2026-09-01T07:51:06.185Z",
       "action": "updated remark for DELL3530-I3-8GB512-BLK at KATANA: “50%”"
@@ -71811,13 +71825,6 @@
       "time": "12:42:45",
       "iso": "2026-09-01T07:12:45.280Z",
       "action": "updated remark for PN-CS-U18XKH at DANKOTUWA: “OFFER FLAT 60%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:42:35",
-      "iso": "2026-09-01T07:12:35.234Z",
-      "action": "updated remark for PF-OLIVIA-BR-S at SEEDUWA: “Add 10%”"
     }
   ]
 }
