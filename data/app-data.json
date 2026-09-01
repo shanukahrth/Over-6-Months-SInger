@@ -70349,6 +70349,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "15:27:25",
       "lastUpdated": "2026-09-01T09:57:25.771Z"
+    },
+    "GEO-242D-SV||KATANA": {
+      "remark": "25%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "15:27:58",
+      "lastUpdated": "2026-09-01T09:57:58.389Z"
     }
   },
   "showroomVisits": {
@@ -72291,6 +72298,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "15:27:58",
+      "iso": "2026-09-01T09:57:58.391Z",
+      "action": "updated remark for GEO-242D-SV at KATANA: “25%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "15:27:25",
       "iso": "2026-09-01T09:57:25.773Z",
       "action": "updated remark for GEO-182S-SV at KATANA: “25%”"
@@ -72630,13 +72644,6 @@
       "time": "13:59:51",
       "iso": "2026-09-01T08:29:51.099Z",
       "action": "updated remark for TF-NIGP26-119 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:59:20",
-      "iso": "2026-09-01T08:29:20.665Z",
-      "action": "updated remark for WB-C45 at SEEDUWA: “Shop use -90%”"
     }
   ]
 }
