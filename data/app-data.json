@@ -68263,6 +68263,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:47:42",
       "lastUpdated": "2026-09-01T06:17:42.252Z"
+    },
+    "KA-TXG-DS11A||DANKOTUWA": {
+      "remark": "Already given",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:49:24",
+      "lastUpdated": "2026-09-01T06:19:24.451Z"
     }
   },
   "showroomVisits": {
@@ -70181,6 +70188,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:49:24",
+      "iso": "2026-09-01T06:19:24.452Z",
+      "action": "updated remark for KA-TXG-DS11A at DANKOTUWA: “Already given”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:47:42",
       "iso": "2026-09-01T06:17:42.253Z",
       "action": "updated remark for IWH-1500WL at DANKOTUWA: “Already given”"
@@ -70520,13 +70534,6 @@
       "time": "11:05:59",
       "iso": "2026-09-01T05:35:59.288Z",
       "action": "updated remark for SIN-DUO-W10 at DANKOTUWA: “Revert - 5% Additional to bill and drop from the inventory (Product damaged)”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:03:31",
-      "iso": "2026-09-01T05:33:31.009Z",
-      "action": "updated remark for B-BMGB25332BG at DANKOTUWA: “Display - Extra 10%”"
     }
   ]
 }
