@@ -70692,6 +70692,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:14:30",
       "lastUpdated": "2026-09-01T10:44:30.265Z"
+    },
+    "SLE32E920||KATANA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "16:14:58",
+      "lastUpdated": "2026-09-01T10:44:58.380Z"
     }
   },
   "showroomVisits": {
@@ -72634,6 +72641,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "16:14:58",
+      "iso": "2026-09-01T10:44:58.381Z",
+      "action": "updated remark for SLE32E920 at KATANA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "16:14:30",
       "iso": "2026-09-01T10:44:30.267Z",
       "action": "updated remark for MX-HM310127 at KATANA: “Already provided”"
@@ -72973,13 +72987,6 @@
       "time": "15:37:33",
       "iso": "2026-09-01T10:07:33.838Z",
       "action": "updated remark for SLE32E910 at KATANA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "15:36:40",
-      "iso": "2026-09-01T10:06:40.288Z",
-      "action": "updated remark for SLE32E810 at KATANA: “70%”"
     }
   ]
 }
