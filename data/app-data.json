@@ -69714,11 +69714,11 @@
       "lastUpdated": "2026-09-01T08:09:05.641Z"
     },
     "SLE32E810||SEEDUWA": {
-      "remark": "70%",
+      "remark": "panel damager 85%",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-09-01",
-      "commentTime": "13:40:43",
-      "lastUpdated": "2026-09-01T08:10:43.580Z"
+      "commentTime": "13:41:00",
+      "lastUpdated": "2026-09-01T08:11:00.258Z"
     }
   },
   "showroomVisits": {
@@ -71661,6 +71661,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-01",
+      "time": "13:41:00",
+      "iso": "2026-09-01T08:11:00.259Z",
+      "action": "updated remark for SLE32E810 at SEEDUWA: “panel damager 85%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
       "time": "13:40:43",
       "iso": "2026-09-01T08:10:43.581Z",
       "action": "updated remark for SLE32E810 at SEEDUWA: “70%”"
@@ -72000,13 +72007,6 @@
       "time": "13:15:07",
       "iso": "2026-09-01T07:45:07.515Z",
       "action": "updated remark for BC-KNP-AG at KATANA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "13:14:29",
-      "iso": "2026-09-01T07:44:29.745Z",
-      "action": "updated remark for B-CWB6441XN at KATANA: “10%”"
     }
   ]
 }
