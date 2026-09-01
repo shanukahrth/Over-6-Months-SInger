@@ -67402,6 +67402,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:36:48",
       "lastUpdated": "2026-09-01T04:06:48.224Z"
+    },
+    "CM-D1000||MATARA-B": {
+      "remark": "Damage 500 off",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:37:16",
+      "lastUpdated": "2026-09-01T04:07:16.971Z"
     }
   },
   "showroomVisits": {
@@ -69320,6 +69327,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:37:16",
+      "iso": "2026-09-01T04:07:16.973Z",
+      "action": "updated remark for CM-D1000 at MATARA-B: “Damage 500 off”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:36:48",
       "iso": "2026-09-01T04:06:48.225Z",
       "action": "updated remark for BTS-5KG at MATARA-B: “Damage 500 off”"
@@ -69659,13 +69673,6 @@
       "time": "15:59:19",
       "iso": "2026-08-31T10:29:19.523Z",
       "action": "updated remark for SMGUA50AU7700 at JAFFNA PANNAI BRANCH: “Rs.150,000 special price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:58:41",
-      "iso": "2026-08-31T10:28:41.830Z",
-      "action": "updated remark for B-RDNI295XIB100P at JAFFNA PANNAI BRANCH: “50% Off from mark price”"
     }
   ]
 }
