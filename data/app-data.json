@@ -68592,6 +68592,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:10:00",
       "lastUpdated": "2026-09-01T06:40:00.974Z"
+    },
+    "HON-X7C-8-256-GRN||DANKOTUWA": {
+      "remark": "15% Additional",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:10:29",
+      "lastUpdated": "2026-09-01T06:40:29.708Z"
     }
   },
   "showroomVisits": {
@@ -70534,6 +70541,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "12:10:29",
+      "iso": "2026-09-01T06:40:29.709Z",
+      "action": "updated remark for HON-X7C-8-256-GRN at DANKOTUWA: “15% Additional”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "12:10:00",
       "iso": "2026-09-01T06:40:00.975Z",
       "action": "updated remark for HON-X7C-8-256-BLK at DANKOTUWA: “no discounts”"
@@ -70873,13 +70887,6 @@
       "time": "11:53:53",
       "iso": "2026-09-01T06:23:53.356Z",
       "action": "updated sold comment for UJB-LB6027 at DANKOTUWA: “Already given”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "11:53:51",
-      "iso": "2026-09-01T06:23:51.389Z",
-      "action": "updated remark for CAN-L-LBP6030 at SEEDUWA: “0%”"
     }
   ]
 }
