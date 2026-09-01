@@ -69726,6 +69726,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:42:17",
       "lastUpdated": "2026-09-01T08:12:17.504Z"
+    },
+    "SLE32E910||SEEDUWA": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:43:29",
+      "lastUpdated": "2026-09-01T08:13:29.789Z"
     }
   },
   "showroomVisits": {
@@ -71666,6 +71673,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "13:43:29",
+      "iso": "2026-09-01T08:13:29.793Z",
+      "action": "updated remark for SLE32E910 at SEEDUWA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "13:42:17",
@@ -72007,13 +72021,6 @@
       "time": "13:17:36",
       "iso": "2026-09-01T07:47:36.299Z",
       "action": "updated remark for AS-13G-I7-512GB-957-BLU at KATANA: “60%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:17:19",
-      "iso": "2026-09-01T07:47:19.819Z",
-      "action": "updated remark for SIN-K13 at SEEDUWA: “80%”"
     }
   ]
 }
