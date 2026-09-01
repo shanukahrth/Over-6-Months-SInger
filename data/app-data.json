@@ -68919,7 +68919,7 @@
     },
     "MEGA-NEGOMBO||MEGA NORTH ZONE-": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-25",
       "team": "",
       "remark": "",
       "updatedBy": "Sanduni Hansika",
@@ -68927,7 +68927,7 @@
     },
     "SINGER HOMES-NEGOMBO||MEGA NORTH ZONE-": {
       "visited": "Yes",
-      "visitDate": "",
+      "visitDate": "2026-08-25",
       "team": "",
       "remark": "",
       "updatedBy": "Sanduni Hansika",
@@ -69264,6 +69264,20 @@
     {
       "user": "Sanduni Hansika",
       "date": "2026-09-01",
+      "time": "09:05:13",
+      "iso": "2026-09-01T03:35:13.239Z",
+      "action": "updated SINGER HOMES-NEGOMBO showroom (visitDate: 2026-08-25)"
+    },
+    {
+      "user": "Sanduni Hansika",
+      "date": "2026-09-01",
+      "time": "09:05:07",
+      "iso": "2026-09-01T03:35:07.158Z",
+      "action": "updated MEGA-NEGOMBO showroom (visitDate: 2026-08-25)"
+    },
+    {
+      "user": "Sanduni Hansika",
+      "date": "2026-09-01",
       "time": "09:04:27",
       "iso": "2026-09-01T03:34:27.635Z",
       "action": "updated SINGER HOMES-NEGOMBO showroom (visited: Yes)"
@@ -69596,20 +69610,6 @@
       "time": "15:54:42",
       "iso": "2026-08-31T10:24:42.811Z",
       "action": "updated remark for WP-NEO258NF at JAFFNA PANNAI BRANCH: “20% Off from mark price”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-08-31",
-      "time": "15:53:45",
-      "iso": "2026-08-31T10:23:45.476Z",
-      "action": "updated remark for AVERY-300KG at JAFFNA PANNAI BRANCH: “15% Off from mark price”"
-    },
-    {
-      "user": "Kaveesha",
-      "date": "2026-08-31",
-      "time": "15:53:35",
-      "iso": "2026-08-31T10:23:35.775Z",
-      "action": "updated remark for SWM-FA70R at HATTON: “70%”"
     }
   ]
 }
