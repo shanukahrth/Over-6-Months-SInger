@@ -67598,6 +67598,20 @@
       "commentDate": "2026-09-01",
       "commentTime": "09:49:38",
       "lastUpdated": "2026-09-01T04:19:38.032Z"
+    },
+    "LF-PODIUM-MWNT-S||MATARA-B": {
+      "remark": "Non sellable",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:49:53",
+      "lastUpdated": "2026-09-01T04:19:53.408Z"
+    },
+    "MCT-302N||MATARA-B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "09:49:58",
+      "lastUpdated": "2026-09-01T04:19:58.565Z"
     }
   },
   "showroomVisits": {
@@ -69516,6 +69530,20 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "09:49:58",
+      "iso": "2026-09-01T04:19:58.569Z",
+      "action": "updated remark for MCT-302N at MATARA-B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
+      "time": "09:49:53",
+      "iso": "2026-09-01T04:19:53.410Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at MATARA-B: “Non sellable”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "09:49:38",
       "iso": "2026-09-01T04:19:38.034Z",
       "action": "updated remark for LF-OX-BR-S-S at MATARA-B: “70% OFF”"
@@ -69848,20 +69876,6 @@
       "time": "19:57:24",
       "iso": "2026-08-31T14:27:24.204Z",
       "action": "updated remark for KD-55X80J at JA-ELA: “exchange 90% Damaged location”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "19:56:14",
-      "iso": "2026-08-31T14:26:14.059Z",
-      "action": "updated remark for SLE55D5010TC at JA-ELA: “exchange 90% Special disc. Damaged”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-08-31",
-      "time": "19:55:33",
-      "iso": "2026-08-31T14:25:33.903Z",
-      "action": "updated remark for SLE32G690 at JA-ELA: “exchange 90%”"
     }
   ]
 }
