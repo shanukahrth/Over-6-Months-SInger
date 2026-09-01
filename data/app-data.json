@@ -68408,8 +68408,8 @@
       "remark": "Already given",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-01",
-      "commentTime": "12:00:51",
-      "lastUpdated": "2026-09-01T06:30:51.870Z"
+      "commentTime": "12:01:08",
+      "lastUpdated": "2026-09-01T06:31:08.304Z"
     },
     "DUM-SMGAR50F12D0J||SEEDUWA": {
       "remark": "Dummy",
@@ -70339,6 +70339,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "12:01:08",
+      "iso": "2026-09-01T06:31:08.306Z",
+      "action": "updated remark for IWH-2500WL at DANKOTUWA: “Already given”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "12:01:00",
@@ -70680,13 +70687,6 @@
       "time": "11:33:57",
       "iso": "2026-09-01T06:03:57.499Z",
       "action": "updated remark for WF-OSLO-S at DANKOTUWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:33:26",
-      "iso": "2026-09-01T06:03:26.145Z",
-      "action": "updated remark for WF-OSLO-S at DANKOTUWA: “80%”"
     }
   ]
 }
