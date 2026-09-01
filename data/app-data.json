@@ -67829,6 +67829,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "10:16:58",
       "lastUpdated": "2026-09-01T04:46:58.299Z"
+    },
+    "SL-SR242||MATARA-B": {
+      "remark": "MOP 2000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-01",
+      "commentTime": "10:17:30",
+      "lastUpdated": "2026-09-01T04:47:30.901Z"
     }
   },
   "showroomVisits": {
@@ -69747,6 +69754,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-01",
+      "time": "10:17:30",
+      "iso": "2026-09-01T04:47:30.903Z",
+      "action": "updated remark for SL-SR242 at MATARA-B: “MOP 2000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-01",
       "time": "10:16:58",
       "iso": "2026-09-01T04:46:58.300Z",
       "action": "updated remark for SKY-24E65 at MATARA-B: “90% OFF”"
@@ -70086,13 +70100,6 @@
       "time": "09:48:07",
       "iso": "2026-09-01T04:18:07.580Z",
       "action": "updated remark for HW-LDR-112D at MATARA-B: “Shop use”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-01",
-      "time": "09:47:46",
-      "iso": "2026-09-01T04:17:46.226Z",
-      "action": "updated remark for HU-Y5-LITE-B at MATARA-B: “Discounts already have given”"
     }
   ]
 }
