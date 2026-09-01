@@ -68319,6 +68319,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "11:52:10",
       "lastUpdated": "2026-09-01T06:22:10.589Z"
+    },
+    "STO-EO45C||DANKOTUWA": {
+      "remark": "Already given",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "11:52:48",
+      "lastUpdated": "2026-09-01T06:22:48.532Z"
     }
   },
   "showroomVisits": {
@@ -70237,6 +70244,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
+      "time": "11:52:48",
+      "iso": "2026-09-01T06:22:48.533Z",
+      "action": "updated remark for STO-EO45C at DANKOTUWA: “Already given”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
       "time": "11:52:10",
       "iso": "2026-09-01T06:22:10.591Z",
       "action": "updated remark for STO-EO30C at DANKOTUWA: “Already given”"
@@ -70576,13 +70590,6 @@
       "time": "11:16:14",
       "iso": "2026-09-01T05:46:14.015Z",
       "action": "updated remark for DELL3510-PNT-128-RCH-BLK at DANKOTUWA: “Damage - 60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "11:15:53",
-      "iso": "2026-09-01T05:45:53.110Z",
-      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at DANKOTUWA: “revert and damaged- total 90% discount”"
     }
   ]
 }
