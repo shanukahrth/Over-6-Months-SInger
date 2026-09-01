@@ -69985,6 +69985,20 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:57:13",
       "lastUpdated": "2026-09-01T08:27:13.965Z"
+    },
+    "TF-FP24-SCR342||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:57:18",
+      "lastUpdated": "2026-09-01T08:27:18.777Z"
+    },
+    "TF-KD24-061||KATANA": {
+      "remark": "Already provided",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:57:35",
+      "lastUpdated": "2026-09-01T08:27:35.486Z"
     }
   },
   "showroomVisits": {
@@ -71925,6 +71939,27 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:57:35",
+      "iso": "2026-09-01T08:27:35.488Z",
+      "action": "updated remark for TF-KD24-061 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:57:18",
+      "iso": "2026-09-01T08:27:18.780Z",
+      "action": "updated remark for TF-FP24-SCR342 at KATANA: “Already provided”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-01",
+      "time": "13:57:15",
+      "iso": "2026-09-01T08:27:15.414Z",
+      "action": "updated remark for TF-FP24-SCR342 at KATANA: “Already provided”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "13:57:13",
@@ -72252,27 +72287,6 @@
       "time": "13:41:48",
       "iso": "2026-09-01T08:11:48.402Z",
       "action": "updated remark for SL-VAR-90P-C at KATANA: “50% - Damaged”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:41:23",
-      "iso": "2026-09-01T08:11:23.701Z",
-      "action": "updated remark for SLE32E810 at SEEDUWA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:41:00",
-      "iso": "2026-09-01T08:11:00.259Z",
-      "action": "updated remark for SLE32E810 at SEEDUWA: “panel damager 85%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "13:40:43",
-      "iso": "2026-09-01T08:10:43.581Z",
-      "action": "updated remark for SLE32E810 at SEEDUWA: “70%”"
     }
   ]
 }
