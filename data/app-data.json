@@ -69131,6 +69131,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:34:06",
       "lastUpdated": "2026-09-01T07:04:06.363Z"
+    },
+    "MID-MF-TN40D2||SEEDUWA": {
+      "remark": "Discounts already given to the shop",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:34:15",
+      "lastUpdated": "2026-09-01T07:04:15.060Z"
     }
   },
   "showroomVisits": {
@@ -71071,6 +71078,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:34:15",
+      "iso": "2026-09-01T07:04:15.061Z",
+      "action": "updated remark for MID-MF-TN40D2 at SEEDUWA: “Discounts already given to the shop”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:34:06",
@@ -71412,13 +71426,6 @@
       "time": "12:18:00",
       "iso": "2026-09-01T06:48:00.775Z",
       "action": "updated remark for HON-X5B-4-64-BLU at SEEDUWA: “N/A”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:18:08",
-      "iso": "2026-09-01T06:48:08.968Z",
-      "action": "updated remark for SMGUA32EH4003 at DANKOTUWA: “60%”"
     }
   ]
 }
