@@ -69460,6 +69460,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "13:17:36",
       "lastUpdated": "2026-09-01T07:47:36.298Z"
+    },
+    "SIN-PR-K340||SEEDUWA": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "13:17:46",
+      "lastUpdated": "2026-09-01T07:47:46.995Z"
     }
   },
   "showroomVisits": {
@@ -71400,6 +71407,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "13:17:46",
+      "iso": "2026-09-01T07:47:46.997Z",
+      "action": "updated remark for SIN-PR-K340 at SEEDUWA: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "13:17:42",
+      "iso": "2026-09-01T07:47:42.124Z",
+      "action": "updated remark for SIN-PR-K340 at SEEDUWA: “0%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "13:17:36",
@@ -71734,20 +71755,6 @@
       "time": "12:39:33",
       "iso": "2026-09-01T07:09:33.744Z",
       "action": "updated remark for OF-COM-T-S at SEEDUWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:39:07",
-      "iso": "2026-09-01T07:09:07.972Z",
-      "action": "updated remark for SLE40E810C at DANKOTUWA: “return to WH”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "12:39:11",
-      "iso": "2026-09-01T07:09:11.021Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at SEEDUWA: “Free Issue”"
     }
   ]
 }
