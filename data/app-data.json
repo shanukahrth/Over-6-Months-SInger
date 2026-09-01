@@ -69320,6 +69320,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "12:57:21",
       "lastUpdated": "2026-09-01T07:27:21.590Z"
+    },
+    "SDV3605K||SEEDUWA": {
+      "remark": "Rs.2500.00",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-01",
+      "commentTime": "12:57:57",
+      "lastUpdated": "2026-09-01T07:27:57.078Z"
     }
   },
   "showroomVisits": {
@@ -71260,6 +71267,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-01",
+      "time": "12:57:57",
+      "iso": "2026-09-01T07:27:57.079Z",
+      "action": "updated remark for SDV3605K at SEEDUWA: “Rs.2500.00”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-01",
       "time": "12:57:53",
@@ -71601,13 +71615,6 @@
       "time": "12:32:09",
       "iso": "2026-09-01T07:02:09.325Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at SEEDUWA: “to be dropped”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "12:32:09",
-      "iso": "2026-09-01T07:02:09.253Z",
-      "action": "updated remark for WP-CHTW-075-S at DANKOTUWA: “Additional 10%”"
     }
   ]
 }
