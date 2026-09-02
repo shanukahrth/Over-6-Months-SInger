@@ -71875,6 +71875,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:35:11",
       "lastUpdated": "2026-09-02T05:05:11.372Z"
+    },
+    "WFL-SPM-78X72X8-S||NEGOMBO": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:35:26",
+      "lastUpdated": "2026-09-02T05:05:26.809Z"
     }
   },
   "showroomVisits": {
@@ -73873,6 +73880,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:35:26",
+      "iso": "2026-09-02T05:05:26.811Z",
+      "action": "updated remark for WFL-SPM-78X72X8-S at NEGOMBO: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:35:11",
       "iso": "2026-09-02T05:05:11.373Z",
       "action": "updated remark for WFL-SPM-75X75X8-S at NEGOMBO: “70%”"
@@ -74212,13 +74226,6 @@
       "time": "10:09:29",
       "iso": "2026-09-02T04:39:29.958Z",
       "action": "updated remark for ULED40D5000 at KOCHCHIKADE: “Exchange”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:09:03",
-      "iso": "2026-09-02T04:39:03.219Z",
-      "action": "updated remark for TF-SI-ESS-242 at KOCHCHIKADE: “15%”"
     }
   ]
 }
