@@ -71406,6 +71406,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:58:06",
       "lastUpdated": "2026-09-02T04:28:06.481Z"
+    },
+    "SVX6008||NEGOMBO": {
+      "remark": "Exchange - PO pending",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:58:33",
+      "lastUpdated": "2026-09-02T04:28:33.050Z"
     }
   },
   "showroomVisits": {
@@ -73404,6 +73411,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "09:58:33",
+      "iso": "2026-09-02T04:28:33.051Z",
+      "action": "updated remark for SVX6008 at NEGOMBO: “Exchange - PO pending”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "09:58:06",
       "iso": "2026-09-02T04:28:06.482Z",
       "action": "updated remark for SRS-XV500 at NEGOMBO: “60%”"
@@ -73742,13 +73756,6 @@
       "date": "2026-09-02",
       "time": "08:49:34",
       "iso": "2026-09-02T03:19:34.676Z",
-      "action": "updated remark for RCS-04 at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:49:27",
-      "iso": "2026-09-02T03:19:27.338Z",
       "action": "updated remark for RCS-04 at KOCHCHIKADE: “Already provided”"
     }
   ]
