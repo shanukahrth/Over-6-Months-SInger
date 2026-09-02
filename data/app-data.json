@@ -72344,6 +72344,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:21:53",
       "lastUpdated": "2026-09-02T06:51:53.137Z"
+    },
+    "PWRMAX||NEGOMBO": {
+      "remark": "shop use",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:22:37",
+      "lastUpdated": "2026-09-02T06:52:37.012Z"
     }
   },
   "showroomVisits": {
@@ -74350,6 +74357,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:22:37",
+      "iso": "2026-09-02T06:52:37.013Z",
+      "action": "updated remark for PWRMAX at NEGOMBO: “shop use”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:21:53",
       "iso": "2026-09-02T06:51:53.139Z",
       "action": "updated remark for WS-300B at NEGOMBO: “shop use”"
@@ -74689,13 +74703,6 @@
       "time": "11:04:19",
       "iso": "2026-09-02T05:34:19.342Z",
       "action": "updated remark for RIYLTA-MF12V53B at NEGOMBO: “90%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "11:03:38",
-      "iso": "2026-09-02T05:33:38.315Z",
-      "action": "updated remark for RIYLTA-MF12V51A at NEGOMBO: “90%”"
     }
   ]
 }
