@@ -71574,6 +71574,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:09:44",
       "lastUpdated": "2026-09-02T04:39:44.459Z"
+    },
+    "USHA-FS40-13B||KOCHCHIKADE": {
+      "remark": "10% -Additional",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:15:03",
+      "lastUpdated": "2026-09-02T04:45:03.458Z"
     }
   },
   "showroomVisits": {
@@ -73572,6 +73579,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "10:15:03",
+      "iso": "2026-09-02T04:45:03.461Z",
+      "action": "updated remark for USHA-FS40-13B at KOCHCHIKADE: “10% -Additional”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "10:09:44",
       "iso": "2026-09-02T04:39:44.463Z",
       "action": "updated remark for UPRO-12000 at KOCHCHIKADE: “0%”"
@@ -73911,13 +73925,6 @@
       "time": "09:50:03",
       "iso": "2026-09-02T04:20:03.945Z",
       "action": "updated remark for SLMC-18DSLHS at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:49:08",
-      "iso": "2026-09-02T04:19:08.816Z",
-      "action": "updated remark for SLE55G6 at KOCHCHIKADE: “Exchange”"
     }
   ]
 }
