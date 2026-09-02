@@ -70902,6 +70902,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:28:22",
       "lastUpdated": "2026-09-02T02:58:22.672Z"
+    },
+    "LF-BUDGET-DT-CRW-S||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:28:48",
+      "lastUpdated": "2026-09-02T02:58:48.783Z"
     }
   },
   "showroomVisits": {
@@ -72844,6 +72851,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:28:48",
+      "iso": "2026-09-02T02:58:48.784Z",
+      "action": "updated remark for LF-BUDGET-DT-CRW-S at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:28:22",
       "iso": "2026-09-02T02:58:22.674Z",
       "action": "updated remark for LF-BUDGET-DT-AGO-S at KOCHCHIKADE: “50%”"
@@ -73183,13 +73197,6 @@
       "time": "16:05:32",
       "iso": "2026-09-01T10:35:32.026Z",
       "action": "updated remark for SWM-FA70R at KATANA: “75% - Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "16:05:16",
-      "iso": "2026-09-01T10:35:16.824Z",
-      "action": "updated remark for SWM-FA70R at KATANA: “75% - Flat Bed”"
     }
   ]
 }
