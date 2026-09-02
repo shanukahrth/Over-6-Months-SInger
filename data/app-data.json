@@ -72071,6 +72071,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:01:48",
       "lastUpdated": "2026-09-02T06:31:48.823Z"
+    },
+    "HU-SECURITY||NEGOMBO": {
+      "remark": "Shop use",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:02:09",
+      "lastUpdated": "2026-09-02T06:32:09.560Z"
     }
   },
   "showroomVisits": {
@@ -74077,6 +74084,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:02:09",
+      "iso": "2026-09-02T06:32:09.561Z",
+      "action": "updated remark for HU-SECURITY at NEGOMBO: “Shop use”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:01:48",
       "iso": "2026-09-02T06:31:48.823Z",
       "action": "updated remark for HON-PAD-X7-CV at NEGOMBO: “sold”"
@@ -74416,13 +74430,6 @@
       "time": "10:28:50",
       "iso": "2026-09-02T04:58:50.364Z",
       "action": "updated remark for LF-SLVY-DTO-CLM-S at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:28:10",
-      "iso": "2026-09-02T04:58:10.792Z",
-      "action": "updated remark for LF-PROMO-CT-S at NEGOMBO: “50%”"
     }
   ]
 }
