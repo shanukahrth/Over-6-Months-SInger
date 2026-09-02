@@ -71476,6 +71476,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:03:41",
       "lastUpdated": "2026-09-02T04:33:41.026Z"
+    },
+    "SWM-FAR75||KOCHCHIKADE": {
+      "remark": "60% Total - Wire damaged",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:03:47",
+      "lastUpdated": "2026-09-02T04:33:47.718Z"
     }
   },
   "showroomVisits": {
@@ -73472,6 +73479,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "10:03:47",
+      "iso": "2026-09-02T04:33:47.722Z",
+      "action": "updated remark for SWM-FAR75 at KOCHCHIKADE: “60% Total - Wire damaged”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "10:03:41",
@@ -73813,13 +73827,6 @@
       "time": "09:37:47",
       "iso": "2026-09-02T04:07:47.585Z",
       "action": "updated remark for SIN-PSVX938N at KOCHCHIKADE: “Rs.18,500/- Special Price”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:36:29",
-      "iso": "2026-09-02T04:06:29.995Z",
-      "action": "updated remark for SIN-PR-K340 at KOCHCHIKADE: “80%”"
     }
   ]
 }
