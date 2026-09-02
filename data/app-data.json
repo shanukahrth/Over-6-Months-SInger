@@ -72358,6 +72358,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:23:05",
       "lastUpdated": "2026-09-02T06:53:05.227Z"
+    },
+    "HG-120||NEGOMBO": {
+      "remark": "shop use",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:25:07",
+      "lastUpdated": "2026-09-02T06:55:07.256Z"
     }
   },
   "showroomVisits": {
@@ -74364,6 +74371,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:25:07",
+      "iso": "2026-09-02T06:55:07.257Z",
+      "action": "updated remark for HG-120 at NEGOMBO: “shop use”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:23:05",
       "iso": "2026-09-02T06:53:05.229Z",
       "action": "updated remark for NEXT-K9-85 at NEGOMBO: “shop use”"
@@ -74703,13 +74717,6 @@
       "time": "11:05:21",
       "iso": "2026-09-02T05:35:21.688Z",
       "action": "updated remark for SIN-RFC-1819 at NEGOMBO: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "11:04:38",
-      "iso": "2026-09-02T05:34:38.705Z",
-      "action": "updated remark for SIN-QS-8306 at NEGOMBO: “PO pending from service center”"
     }
   ]
 }
