@@ -72400,6 +72400,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:26:57",
       "lastUpdated": "2026-09-02T06:56:57.610Z"
+    },
+    "TCL55P615||NEGOMBO": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:27:29",
+      "lastUpdated": "2026-09-02T06:57:29.031Z"
     }
   },
   "showroomVisits": {
@@ -74406,6 +74413,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:27:29",
+      "iso": "2026-09-02T06:57:29.032Z",
+      "action": "updated remark for TCL55P615 at NEGOMBO: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:26:57",
       "iso": "2026-09-02T06:56:57.612Z",
       "action": "updated remark for SIN-PR-K340 at NEGOMBO: “Part missing - Remote”"
@@ -74745,13 +74759,6 @@
       "time": "12:02:09",
       "iso": "2026-09-02T06:32:09.561Z",
       "action": "updated remark for HU-SECURITY at NEGOMBO: “Shop use”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:01:48",
-      "iso": "2026-09-02T06:31:48.823Z",
-      "action": "updated remark for HON-PAD-X7-CV at NEGOMBO: “sold”"
     }
   ]
 }
