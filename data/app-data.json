@@ -71945,6 +71945,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:47:44",
       "lastUpdated": "2026-09-02T05:17:44.152Z"
+    },
+    "SLE-75IFPD||NEGOMBO": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:48:02",
+      "lastUpdated": "2026-09-02T05:18:02.756Z"
     }
   },
   "showroomVisits": {
@@ -73951,6 +73958,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:48:02",
+      "iso": "2026-09-02T05:18:02.757Z",
+      "action": "updated remark for SLE-75IFPD at NEGOMBO: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:47:44",
       "iso": "2026-09-02T05:17:44.155Z",
       "action": "updated remark for PN-DH-3JP2WK at NEGOMBO: “85%”"
@@ -74290,13 +74304,6 @@
       "time": "10:21:21",
       "iso": "2026-09-02T04:51:21.876Z",
       "action": "updated remark for WFL-MONACO-10-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:21:01",
-      "iso": "2026-09-02T04:51:01.755Z",
-      "action": "updated remark for WFL-GRIP-CT01-S at KOCHCHIKADE: “50%”"
     }
   ]
 }
