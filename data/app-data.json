@@ -73702,6 +73702,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "13:53:41",
       "lastUpdated": "2026-09-02T08:23:41.555Z"
+    },
+    "KDL-43W660G||SERVICE -PANEL RC": {
+      "remark": "Pannel DOA-50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:54:08",
+      "lastUpdated": "2026-09-02T08:24:08.687Z"
     }
   },
   "showroomVisits": {
@@ -75714,6 +75721,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "13:54:08",
+      "iso": "2026-09-02T08:24:08.689Z",
+      "action": "updated remark for KDL-43W660G at SERVICE -PANEL RC: “Pannel DOA-50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "13:53:41",
       "iso": "2026-09-02T08:23:41.557Z",
       "action": "updated remark for KDL-43W660G at NEGOMBO: “Pannel DOA-50%”"
@@ -76053,13 +76067,6 @@
       "time": "13:46:55",
       "iso": "2026-09-02T08:16:55.132Z",
       "action": "updated remark for KD-50X75K at MEGA -JA-ELA: “10% Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:46:53",
-      "iso": "2026-09-02T08:16:53.227Z",
-      "action": "updated remark for KD-50X75K at MEGA-GAMPAHA: “10% Additional”"
     }
   ]
 }
