@@ -72211,6 +72211,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:12:25",
       "lastUpdated": "2026-09-02T06:42:25.624Z"
+    },
+    "FT-FED-35001||NEGOMBO": {
+      "remark": "0%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:12:49",
+      "lastUpdated": "2026-09-02T06:42:49.048Z"
     }
   },
   "showroomVisits": {
@@ -74217,6 +74224,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:12:49",
+      "iso": "2026-09-02T06:42:49.049Z",
+      "action": "updated remark for FT-FED-35001 at NEGOMBO: “0%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:12:25",
       "iso": "2026-09-02T06:42:25.625Z",
       "action": "updated remark for ENG-UE20012 at NEGOMBO: “85% battary damage”"
@@ -74556,13 +74570,6 @@
       "time": "10:39:28",
       "iso": "2026-09-02T05:09:28.531Z",
       "action": "updated remark for SIN-VBS-90PA at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:36:41",
-      "iso": "2026-09-02T05:06:41.736Z",
-      "action": "updated remark for LF-MONTN-WD-SHW-S at NEGOMBO: “50%”"
     }
   ]
 }
