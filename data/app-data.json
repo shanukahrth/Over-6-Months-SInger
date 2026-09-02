@@ -72484,6 +72484,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:44:19",
       "lastUpdated": "2026-09-02T07:14:19.173Z"
+    },
+    "SLE49U5||SERVICE-KANDY": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:44:50",
+      "lastUpdated": "2026-09-02T07:14:50.291Z"
     }
   },
   "showroomVisits": {
@@ -74496,6 +74503,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:44:50",
+      "iso": "2026-09-02T07:14:50.293Z",
+      "action": "updated remark for SLE49U5 at SERVICE-KANDY: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:44:19",
       "iso": "2026-09-02T07:14:19.175Z",
       "action": "updated remark for SLE42D2070TC at GAMPOLA - C: “exchange”"
@@ -74835,13 +74849,6 @@
       "time": "12:13:11",
       "iso": "2026-09-02T06:43:11.424Z",
       "action": "updated remark for FT-FSD-036L01 at NEGOMBO: “0%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:12:49",
-      "iso": "2026-09-02T06:42:49.049Z",
-      "action": "updated remark for FT-FED-35001 at NEGOMBO: “0%”"
     }
   ]
 }
