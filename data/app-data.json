@@ -71427,6 +71427,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:59:29",
       "lastUpdated": "2026-09-02T04:29:29.025Z"
+    },
+    "PN-SC-BMAX10E-K||NEGOMBO": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:59:55",
+      "lastUpdated": "2026-09-02T04:29:55.180Z"
     }
   },
   "showroomVisits": {
@@ -73425,6 +73432,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "09:59:55",
+      "iso": "2026-09-02T04:29:55.182Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at NEGOMBO: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "09:59:29",
       "iso": "2026-09-02T04:29:29.026Z",
       "action": "updated remark for PN-MIC-W-107 at NEGOMBO: “Drop”"
@@ -73764,13 +73778,6 @@
       "time": "08:50:28",
       "iso": "2026-09-02T03:20:28.765Z",
       "action": "updated BIBILE showroom (team: Team Furniture , Lakshan & Janitha )"
-    },
-    {
-      "user": "Janitha Sudugodage",
-      "date": "2026-09-02",
-      "time": "08:50:12",
-      "iso": "2026-09-02T03:20:12.721Z",
-      "action": "updated WILGAMUWA showroom (team: Team Furniture , Lakshan & Janitha )"
     }
   ]
 }
