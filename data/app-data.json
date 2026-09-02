@@ -72519,6 +72519,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:45:46",
       "lastUpdated": "2026-09-02T07:15:46.987Z"
+    },
+    "SLE55G3A||BUDGET SHOP-E-GODA": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:45:52",
+      "lastUpdated": "2026-09-02T07:15:52.096Z"
     }
   },
   "showroomVisits": {
@@ -74531,6 +74538,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:45:52",
+      "iso": "2026-09-02T07:15:52.098Z",
+      "action": "updated remark for SLE55G3A at BUDGET SHOP-E-GODA: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:45:46",
       "iso": "2026-09-02T07:15:46.989Z",
       "action": "updated remark for SLE55G3A at SERVICE-COLOMBO: “85% - Damaged”"
@@ -74870,13 +74884,6 @@
       "time": "12:17:06",
       "iso": "2026-09-02T06:47:06.481Z",
       "action": "updated remark for GEO-242D-BR at NEGOMBO: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:16:35",
-      "iso": "2026-09-02T06:46:35.272Z",
-      "action": "updated remark for SL-ECO55-SV at NEGOMBO: “30%”"
     }
   ]
 }
