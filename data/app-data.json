@@ -71903,6 +71903,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:36:41",
       "lastUpdated": "2026-09-02T05:06:41.731Z"
+    },
+    "SIN-VBS-90PA||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:39:28",
+      "lastUpdated": "2026-09-02T05:09:28.529Z"
     }
   },
   "showroomVisits": {
@@ -73901,6 +73908,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:39:28",
+      "iso": "2026-09-02T05:09:28.531Z",
+      "action": "updated remark for SIN-VBS-90PA at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:36:41",
       "iso": "2026-09-02T05:06:41.736Z",
       "action": "updated remark for LF-MONTN-WD-SHW-S at NEGOMBO: “50%”"
@@ -74240,13 +74254,6 @@
       "time": "10:15:51",
       "iso": "2026-09-02T04:45:51.574Z",
       "action": "updated remark for WF-CAMELIA-DTO-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:15:44",
-      "iso": "2026-09-02T04:45:44.693Z",
-      "action": "updated remark for UDV3618SY at NEGOMBO: “1,500.00”"
     }
   ]
 }
