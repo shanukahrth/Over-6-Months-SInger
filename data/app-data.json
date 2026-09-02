@@ -72603,6 +72603,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:48:53",
       "lastUpdated": "2026-09-02T07:18:53.535Z"
+    },
+    "SLE32D3010TC||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:50:29",
+      "lastUpdated": "2026-09-02T07:20:29.896Z"
     }
   },
   "showroomVisits": {
@@ -74615,6 +74622,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:50:29",
+      "iso": "2026-09-02T07:20:29.899Z",
+      "action": "updated remark for SLE32D3010TC at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:48:53",
       "iso": "2026-09-02T07:18:53.536Z",
       "action": "updated remark for SLE32D3010TC at MEGA-MOUNT LAVINIA: “70%”"
@@ -74954,13 +74968,6 @@
       "time": "12:22:37",
       "iso": "2026-09-02T06:52:37.013Z",
       "action": "updated remark for PWRMAX at NEGOMBO: “shop use”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:21:53",
-      "iso": "2026-09-02T06:51:53.139Z",
-      "action": "updated remark for WS-300B at NEGOMBO: “shop use”"
     }
   ]
 }
