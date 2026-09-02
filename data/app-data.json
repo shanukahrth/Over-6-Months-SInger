@@ -72127,6 +72127,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:06:09",
       "lastUpdated": "2026-09-02T06:36:09.815Z"
+    },
+    "HON-X9C-12-256-BLK||NEGOMBO": {
+      "remark": "Sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:06:31",
+      "lastUpdated": "2026-09-02T06:36:31.709Z"
     }
   },
   "showroomVisits": {
@@ -74133,6 +74140,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:06:31",
+      "iso": "2026-09-02T06:36:31.710Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at NEGOMBO: “Sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:06:09",
       "iso": "2026-09-02T06:36:09.815Z",
       "action": "updated remark for HON-X9B-12-256-ORG at NEGOMBO: “70% Display issue”"
@@ -74472,13 +74486,6 @@
       "time": "10:32:03",
       "iso": "2026-09-02T05:02:03.161Z",
       "action": "updated remark for WF-DUBLIN-BDQ-S at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:31:43",
-      "iso": "2026-09-02T05:01:43.290Z",
-      "action": "updated remark for PU-WG90 at NEGOMBO: “sold”"
     }
   ]
 }
