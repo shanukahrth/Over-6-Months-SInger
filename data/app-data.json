@@ -71042,6 +71042,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:44:19",
       "lastUpdated": "2026-09-02T03:14:19.526Z"
+    },
+    "NWD1300C||KOCHCHIKADE": {
+      "remark": "85%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:44:50",
+      "lastUpdated": "2026-09-02T03:14:50.228Z"
     }
   },
   "showroomVisits": {
@@ -72984,6 +72991,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:44:50",
+      "iso": "2026-09-02T03:14:50.230Z",
+      "action": "updated remark for NWD1300C at KOCHCHIKADE: “85%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:44:19",
       "iso": "2026-09-02T03:14:19.529Z",
       "action": "updated remark for NGT323D at KOCHCHIKADE: “Already provided”"
@@ -73323,13 +73337,6 @@
       "time": "16:20:34",
       "iso": "2026-09-01T10:50:34.679Z",
       "action": "updated remark for SIN-PR-K340 at KATANA: “Sold”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:20:14",
-      "iso": "2026-09-01T10:50:14.682Z",
-      "action": "updated remark for CAN-L-LBP6030 at KOCHCHIKADE: “0%”"
     }
   ]
 }
