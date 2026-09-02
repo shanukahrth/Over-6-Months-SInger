@@ -71581,6 +71581,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:15:03",
       "lastUpdated": "2026-09-02T04:45:03.458Z"
+    },
+    "UDV3618SY||NEGOMBO": {
+      "remark": "1,500.00",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:15:44",
+      "lastUpdated": "2026-09-02T04:45:44.690Z"
     }
   },
   "showroomVisits": {
@@ -73577,6 +73584,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "10:15:44",
+      "iso": "2026-09-02T04:45:44.693Z",
+      "action": "updated remark for UDV3618SY at NEGOMBO: “1,500.00”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "10:15:03",
@@ -73918,13 +73932,6 @@
       "time": "09:50:40",
       "iso": "2026-09-02T04:20:40.863Z",
       "action": "updated remark for SMG-A06-6-128-BLK at KOCHCHIKADE: “sold”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:50:03",
-      "iso": "2026-09-02T04:20:03.945Z",
-      "action": "updated remark for SLMC-18DSLHS at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
