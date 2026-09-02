@@ -72470,6 +72470,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:43:13",
       "lastUpdated": "2026-09-02T07:13:13.171Z"
+    },
+    "SLE42D2070TC||SERVICE-COLOMBO": {
+      "remark": "exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:43:52",
+      "lastUpdated": "2026-09-02T07:13:52.727Z"
     }
   },
   "showroomVisits": {
@@ -74482,6 +74489,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:43:52",
+      "iso": "2026-09-02T07:13:52.729Z",
+      "action": "updated remark for SLE42D2070TC at SERVICE-COLOMBO: “exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:43:13",
       "iso": "2026-09-02T07:13:13.176Z",
       "action": "updated remark for SLE40D600A at SHOMES-RATHNAPURA: “sold”"
@@ -74820,13 +74834,6 @@
       "date": "2026-09-02",
       "time": "12:12:25",
       "iso": "2026-09-02T06:42:25.625Z",
-      "action": "updated remark for ENG-UE20012 at NEGOMBO: “85% battary damage”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:11:51",
-      "iso": "2026-09-02T06:41:51.053Z",
       "action": "updated remark for ENG-UE20012 at NEGOMBO: “85% battary damage”"
     }
   ]
