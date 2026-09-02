@@ -73653,6 +73653,27 @@
       "commentDate": "2026-09-02",
       "commentTime": "13:51:24",
       "lastUpdated": "2026-09-02T08:21:24.760Z"
+    },
+    "KD-55X75K||SERVICE -MAHARAGAMA": {
+      "remark": "75%- Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:51:31",
+      "lastUpdated": "2026-09-02T08:21:31.664Z"
+    },
+    "KD-55X75K||COLPETTY": {
+      "remark": "75%- Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:51:34",
+      "lastUpdated": "2026-09-02T08:21:34.568Z"
+    },
+    "KD-55X75K||SHOMES-RATHNAPURA": {
+      "remark": "75%- Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:51:36",
+      "lastUpdated": "2026-09-02T08:21:36.598Z"
     }
   },
   "showroomVisits": {
@@ -75665,6 +75686,27 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "13:51:36",
+      "iso": "2026-09-02T08:21:36.600Z",
+      "action": "updated remark for KD-55X75K at SHOMES-RATHNAPURA: “75%- Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "13:51:34",
+      "iso": "2026-09-02T08:21:34.571Z",
+      "action": "updated remark for KD-55X75K at COLPETTY: “75%- Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "13:51:31",
+      "iso": "2026-09-02T08:21:31.666Z",
+      "action": "updated remark for KD-55X75K at SERVICE -MAHARAGAMA: “75%- Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "13:51:24",
       "iso": "2026-09-02T08:21:24.762Z",
       "action": "updated remark for KD-55X75K at SERVICE-COLOMBO: “75%- Damaged”"
@@ -75990,27 +76032,6 @@
       "time": "13:43:52",
       "iso": "2026-09-02T08:13:52.380Z",
       "action": "updated remark for PN-TH-65MX740N at DERANIYAGALA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:43:50",
-      "iso": "2026-09-02T08:13:50.568Z",
-      "action": "updated remark for PN-TH-65MX740N at KOTAHENA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:43:42",
-      "iso": "2026-09-02T08:13:42.012Z",
-      "action": "updated remark for PN-TH-65MX740N at NAWALA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:43:37",
-      "iso": "2026-09-02T08:13:37.294Z",
-      "action": "updated remark for PN-TH-65MX740N at NAWALA: “85%”"
     }
   ]
 }
