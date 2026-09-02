@@ -72656,6 +72656,14 @@
       "remark": "",
       "updatedBy": "Sanduni Hansika",
       "updatedDate": "2026-09-01"
+    },
+    "DEHIATTAKANDIYA||MAHIYANGANA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Janitha Sudugodage",
+      "updatedDate": "2026-09-02"
     }
   },
   "soldMarks": {
@@ -73010,6 +73018,13 @@
   },
   "activity": [
     {
+      "user": "Janitha Sudugodage",
+      "date": "2026-09-02",
+      "time": "08:47:14",
+      "iso": "2026-09-02T03:17:14.051Z",
+      "action": "updated DEHIATTAKANDIYA showroom (visited: Yes)"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "08:46:34",
@@ -73351,13 +73366,6 @@
       "time": "16:23:59",
       "iso": "2026-09-01T10:53:59.851Z",
       "action": "updated remark for DELL3530-I3-8GB512-BLK at KOCHCHIKADE: “80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:23:35",
-      "iso": "2026-09-01T10:53:35.641Z",
-      "action": "updated remark for DELL3510-PNT-128-RCH-BLK at KOCHCHIKADE: “0%”"
     }
   ]
 }
