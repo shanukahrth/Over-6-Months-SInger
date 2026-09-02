@@ -71441,6 +71441,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:01:29",
       "lastUpdated": "2026-09-02T04:31:29.242Z"
+    },
+    "SWM-FA70R||KOCHCHIKADE": {
+      "remark": "60% Total - Wire damaged",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:01:25",
+      "lastUpdated": "2026-09-02T04:31:25.173Z"
     }
   },
   "showroomVisits": {
@@ -73437,6 +73444,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "10:01:25",
+      "iso": "2026-09-02T04:31:25.177Z",
+      "action": "updated remark for SWM-FA70R at KOCHCHIKADE: “60% Total - Wire damaged”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "10:01:29",
@@ -73778,13 +73792,6 @@
       "time": "09:33:57",
       "iso": "2026-09-02T04:03:57.019Z",
       "action": "updated remark for SBI-60M19-T at KOCHCHIKADE: “Extra 15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:33:38",
-      "iso": "2026-09-02T04:03:38.766Z",
-      "action": "updated remark for SBI-60M19-T at KOCHCHIKADE: “0%”"
     }
   ]
 }
