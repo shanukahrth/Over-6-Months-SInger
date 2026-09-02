@@ -72442,6 +72442,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:31:20",
       "lastUpdated": "2026-09-02T07:01:20.908Z"
+    },
+    "SLE32E910||NEGOMBO": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:37:31",
+      "lastUpdated": "2026-09-02T07:07:31.587Z"
     }
   },
   "showroomVisits": {
@@ -74454,6 +74461,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:37:31",
+      "iso": "2026-09-02T07:07:31.589Z",
+      "action": "updated remark for SLE32E910 at NEGOMBO: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:31:20",
       "iso": "2026-09-02T07:01:20.916Z",
       "action": "updated remark for SLE32E710 at NEGOMBO: “DOA-85%”"
@@ -74793,13 +74807,6 @@
       "time": "12:09:47",
       "iso": "2026-09-02T06:39:47.360Z",
       "action": "updated remark for HON-BUDS-X6 at NEGOMBO: “Free issue”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:08:46",
-      "iso": "2026-09-02T06:38:46.777Z",
-      "action": "updated remark for U-HRW-S11 at NEGOMBO: “0%”"
     }
   ]
 }
