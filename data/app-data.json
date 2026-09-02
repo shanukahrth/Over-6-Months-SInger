@@ -73688,6 +73688,20 @@
       "commentDate": "2026-09-02",
       "commentTime": "13:51:44",
       "lastUpdated": "2026-09-02T08:21:44.003Z"
+    },
+    "KDL-43W660G||SERVICE -PASYALA": {
+      "remark": "Pannel DOA-50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:53:37",
+      "lastUpdated": "2026-09-02T08:23:37.185Z"
+    },
+    "KDL-43W660G||NEGOMBO": {
+      "remark": "Pannel DOA-50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:53:41",
+      "lastUpdated": "2026-09-02T08:23:41.555Z"
     }
   },
   "showroomVisits": {
@@ -75700,6 +75714,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "13:53:41",
+      "iso": "2026-09-02T08:23:41.557Z",
+      "action": "updated remark for KDL-43W660G at NEGOMBO: “Pannel DOA-50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "13:53:37",
+      "iso": "2026-09-02T08:23:37.186Z",
+      "action": "updated remark for KDL-43W660G at SERVICE -PASYALA: “Pannel DOA-50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "13:51:44",
       "iso": "2026-09-02T08:21:44.004Z",
       "action": "updated remark for KD-55X75K at NELUWA: “75%- Damaged”"
@@ -76032,20 +76060,6 @@
       "time": "13:46:53",
       "iso": "2026-09-02T08:16:53.227Z",
       "action": "updated remark for KD-50X75K at MEGA-GAMPAHA: “10% Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:46:48",
-      "iso": "2026-09-02T08:16:48.063Z",
-      "action": "updated remark for KD-50X75K at MEGA -THURSTAN ROAD: “10% Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:46:44",
-      "iso": "2026-09-02T08:16:44.227Z",
-      "action": "updated remark for KD-50X75K at DUTY FREE: “10% Additional”"
     }
   ]
 }
