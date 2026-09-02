@@ -71301,6 +71301,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:52:02",
       "lastUpdated": "2026-09-02T04:22:02.119Z"
+    },
+    "SASMCD18CRN||NEGOMBO": {
+      "remark": "OBSOLETE - OFFER FLAT 70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:52:15",
+      "lastUpdated": "2026-09-02T04:22:15.280Z"
     }
   },
   "showroomVisits": {
@@ -73297,6 +73304,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "09:52:15",
+      "iso": "2026-09-02T04:22:15.282Z",
+      "action": "updated remark for SASMCD18CRN at NEGOMBO: “OBSOLETE - OFFER FLAT 70%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "09:52:02",
@@ -73638,13 +73652,6 @@
       "time": "08:44:15",
       "iso": "2026-09-02T03:14:15.764Z",
       "action": "updated remark for NGT323D at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:43:06",
-      "iso": "2026-09-02T03:13:06.926Z",
-      "action": "updated remark for NGT323D at KOCHCHIKADE: “0%”"
     }
   ]
 }
