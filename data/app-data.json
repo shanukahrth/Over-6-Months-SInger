@@ -72239,6 +72239,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:14:13",
       "lastUpdated": "2026-09-02T06:44:13.628Z"
+    },
+    "SMGRT28A3021GS||NEGOMBO": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:15:15",
+      "lastUpdated": "2026-09-02T06:45:15.151Z"
     }
   },
   "showroomVisits": {
@@ -74245,6 +74252,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:15:15",
+      "iso": "2026-09-02T06:45:15.153Z",
+      "action": "updated remark for SMGRT28A3021GS at NEGOMBO: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:14:13",
       "iso": "2026-09-02T06:44:13.629Z",
       "action": "updated remark for UPU-MARVELLAUV at NEGOMBO: “shop use”"
@@ -74584,13 +74598,6 @@
       "time": "10:44:26",
       "iso": "2026-09-02T05:14:26.153Z",
       "action": "updated NEGOMBO showroom (team: COLOMBO NOTH AREA)"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:41:40",
-      "iso": "2026-09-02T05:11:40.139Z",
-      "action": "updated remark for SWH-118E at NEGOMBO: “60% Damage”"
     }
   ]
 }
