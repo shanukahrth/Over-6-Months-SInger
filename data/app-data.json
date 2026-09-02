@@ -73646,6 +73646,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "13:51:10",
       "lastUpdated": "2026-09-02T08:21:10.623Z"
+    },
+    "KD-55X75K||SERVICE-COLOMBO": {
+      "remark": "75%- Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:51:24",
+      "lastUpdated": "2026-09-02T08:21:24.760Z"
     }
   },
   "showroomVisits": {
@@ -75658,6 +75665,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "13:51:24",
+      "iso": "2026-09-02T08:21:24.762Z",
+      "action": "updated remark for KD-55X75K at SERVICE-COLOMBO: “75%- Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "13:51:10",
       "iso": "2026-09-02T08:21:10.624Z",
       "action": "updated remark for KD-55X75K at KILINOCHCHI - B: “75%- Damaged”"
@@ -75997,13 +76011,6 @@
       "time": "13:43:37",
       "iso": "2026-09-02T08:13:37.294Z",
       "action": "updated remark for PN-TH-65MX740N at NAWALA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:43:32",
-      "iso": "2026-09-02T08:13:32.448Z",
-      "action": "updated remark for PN-TH-65MX740N at KESBEWA: “85%”"
     }
   ]
 }
