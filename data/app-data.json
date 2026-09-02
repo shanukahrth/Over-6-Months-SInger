@@ -71735,6 +71735,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:26:35",
       "lastUpdated": "2026-09-02T04:56:35.544Z"
+    },
+    "WFL-GRIP-CT02-S||NEGOMBO": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:26:56",
+      "lastUpdated": "2026-09-02T04:56:56.353Z"
     }
   },
   "showroomVisits": {
@@ -73733,6 +73740,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:26:56",
+      "iso": "2026-09-02T04:56:56.354Z",
+      "action": "updated remark for WFL-GRIP-CT02-S at NEGOMBO: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:26:35",
       "iso": "2026-09-02T04:56:35.546Z",
       "action": "updated remark for LF-LEO-HCUP-WNG-S at NEGOMBO: “50%”"
@@ -74071,13 +74085,6 @@
       "date": "2026-09-02",
       "time": "10:01:23",
       "iso": "2026-09-02T04:31:23.647Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at NEGOMBO: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:00:21",
-      "iso": "2026-09-02T04:30:21.047Z",
       "action": "updated remark for PN-SC-BMAX5E-K at NEGOMBO: “60%”"
     }
   ]
