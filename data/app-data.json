@@ -71224,6 +71224,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:40:34",
       "lastUpdated": "2026-09-02T04:10:34.009Z"
+    },
+    "SISIL-RC180||KOCHCHIKADE": {
+      "remark": "Already provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:45:18",
+      "lastUpdated": "2026-09-02T04:15:18.940Z"
     }
   },
   "showroomVisits": {
@@ -73220,6 +73227,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "09:45:18",
+      "iso": "2026-09-02T04:15:18.944Z",
+      "action": "updated remark for SISIL-RC180 at KOCHCHIKADE: “Already provided”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "09:40:34",
@@ -73561,13 +73575,6 @@
       "time": "08:35:17",
       "iso": "2026-09-02T03:05:17.448Z",
       "action": "updated remark for LP-AP01 at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:34:13",
-      "iso": "2026-09-02T03:04:13.954Z",
-      "action": "updated remark for LF-WIN-S-S at KOCHCHIKADE: “50%”"
     }
   ]
 }
