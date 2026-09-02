@@ -71847,6 +71847,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:34:01",
       "lastUpdated": "2026-09-02T05:04:01.061Z"
+    },
+    "WFL-CF-78X36X4-SS||NEGOMBO": {
+      "remark": "10% Additional",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:34:18",
+      "lastUpdated": "2026-09-02T05:04:18.271Z"
     }
   },
   "showroomVisits": {
@@ -73845,6 +73852,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:34:18",
+      "iso": "2026-09-02T05:04:18.273Z",
+      "action": "updated remark for WFL-CF-78X36X4-SS at NEGOMBO: “10% Additional”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:34:01",
       "iso": "2026-09-02T05:04:01.062Z",
       "action": "updated remark for WF-PERTH-CT-MH at NEGOMBO: “70%”"
@@ -74184,13 +74198,6 @@
       "time": "10:06:30",
       "iso": "2026-09-02T04:36:30.222Z",
       "action": "updated remark for AS-ZEN-15G-U5-1TB-328-SIL at NEGOMBO: “Return to WH”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:06:31",
-      "iso": "2026-09-02T04:36:31.499Z",
-      "action": "updated remark for TF-FP24-SCR342 at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
