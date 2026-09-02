@@ -72386,6 +72386,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:26:14",
       "lastUpdated": "2026-09-02T06:56:14.771Z"
+    },
+    "SM-MC3368||NEGOMBO": {
+      "remark": "Discount already offered",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:26:37",
+      "lastUpdated": "2026-09-02T06:56:37.128Z"
     }
   },
   "showroomVisits": {
@@ -74392,6 +74399,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:26:37",
+      "iso": "2026-09-02T06:56:37.129Z",
+      "action": "updated remark for SM-MC3368 at NEGOMBO: “Discount already offered”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:26:14",
       "iso": "2026-09-02T06:56:14.778Z",
       "action": "updated remark for DH-I-F22FP-36B-IMOU at NEGOMBO: “85%”"
@@ -74731,13 +74745,6 @@
       "time": "11:08:35",
       "iso": "2026-09-02T05:38:35.490Z",
       "action": "updated remark for HON-PAD-X7-4-128 at NEGOMBO: “sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "11:07:54",
-      "iso": "2026-09-02T05:37:54.847Z",
-      "action": "updated remark for U-BS8816 at NEGOMBO: “90% - Damaged”"
     }
   ]
 }
