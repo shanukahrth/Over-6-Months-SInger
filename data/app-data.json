@@ -71296,11 +71296,11 @@
       "lastUpdated": "2026-09-02T04:20:40.862Z"
     },
     "SMG-A17-8-128-BLU||KOCHCHIKADE": {
-      "remark": "Additional 15%",
+      "remark": "0%",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-09-02",
-      "commentTime": "09:51:49",
-      "lastUpdated": "2026-09-02T04:21:49.777Z"
+      "commentTime": "09:52:02",
+      "lastUpdated": "2026-09-02T04:22:02.119Z"
     }
   },
   "showroomVisits": {
@@ -73299,6 +73299,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "09:52:02",
+      "iso": "2026-09-02T04:22:02.120Z",
+      "action": "updated remark for SMG-A17-8-128-BLU at KOCHCHIKADE: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "09:51:49",
       "iso": "2026-09-02T04:21:49.778Z",
       "action": "updated remark for SMG-A17-8-128-BLU at KOCHCHIKADE: “Additional 15%”"
@@ -73638,13 +73645,6 @@
       "time": "08:43:06",
       "iso": "2026-09-02T03:13:06.926Z",
       "action": "updated remark for NGT323D at KOCHCHIKADE: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:41:33",
-      "iso": "2026-09-02T03:11:33.188Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at KOCHCHIKADE: “0%”"
     }
   ]
 }
