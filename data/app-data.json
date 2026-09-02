@@ -70846,6 +70846,13 @@
       "commentDate": "2026-09-01",
       "commentTime": "16:30:39",
       "lastUpdated": "2026-09-01T11:00:39.542Z"
+    },
+    "HON-H200SMART-8-256-GRN||KOCHCHIKADE": {
+      "remark": "sold",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:23:22",
+      "lastUpdated": "2026-09-02T02:53:22.209Z"
     }
   },
   "showroomVisits": {
@@ -72787,6 +72794,13 @@
   "activity": [
     {
       "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "08:23:22",
+      "iso": "2026-09-02T02:53:22.209Z",
+      "action": "updated remark for HON-H200SMART-8-256-GRN at KOCHCHIKADE: “sold”"
+    },
+    {
+      "user": "Maria Fernando",
       "date": "2026-09-01",
       "time": "16:30:39",
       "iso": "2026-09-01T11:00:39.545Z",
@@ -73127,13 +73141,6 @@
       "time": "16:02:49",
       "iso": "2026-09-01T10:32:49.828Z",
       "action": "updated remark for H-CV950F24CDSPG at KATANA: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:02:49",
-      "iso": "2026-09-01T10:32:49.611Z",
-      "action": "updated remark for WF-ROM-S-S at SEEDUWA: “50%”"
     }
   ]
 }
