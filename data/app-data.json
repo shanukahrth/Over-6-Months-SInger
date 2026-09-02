@@ -72281,6 +72281,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:17:54",
       "lastUpdated": "2026-09-02T06:47:54.827Z"
+    },
+    "H-HRSN9552DDXKH||NEGOMBO": {
+      "remark": "20%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:18:17",
+      "lastUpdated": "2026-09-02T06:48:17.558Z"
     }
   },
   "showroomVisits": {
@@ -74287,6 +74294,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:18:17",
+      "iso": "2026-09-02T06:48:17.561Z",
+      "action": "updated remark for H-HRSN9552DDXKH at NEGOMBO: “20%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:17:54",
       "iso": "2026-09-02T06:47:54.828Z",
       "action": "updated remark for GEO-242D-TG at NEGOMBO: “50%”"
@@ -74626,13 +74640,6 @@
       "time": "10:48:42",
       "iso": "2026-09-02T05:18:42.413Z",
       "action": "updated remark for TF-SI-ESS-242 at NEGOMBO: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:48:21",
-      "iso": "2026-09-02T05:18:21.306Z",
-      "action": "updated remark for TF-GS-SPKT302 at NEGOMBO: “20%”"
     }
   ]
 }
