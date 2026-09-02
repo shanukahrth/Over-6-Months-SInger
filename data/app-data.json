@@ -71084,6 +71084,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:47:39",
       "lastUpdated": "2026-09-02T03:17:39.721Z"
+    },
+    "PN-NF-GW1WSK||KOCHCHIKADE": {
+      "remark": "Already provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:47:56",
+      "lastUpdated": "2026-09-02T03:17:56.254Z"
     }
   },
   "showroomVisits": {
@@ -73034,6 +73041,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:47:56",
+      "iso": "2026-09-02T03:17:56.256Z",
+      "action": "updated remark for PN-NF-GW1WSK at KOCHCHIKADE: “Already provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:47:39",
       "iso": "2026-09-02T03:17:39.724Z",
       "action": "updated remark for PF-RTN-ST-BU-S at KOCHCHIKADE: “50%”"
@@ -73373,13 +73387,6 @@
       "time": "16:24:52",
       "iso": "2026-09-01T10:54:52.027Z",
       "action": "updated remark for FT-FED-35001 at KOCHCHIKADE: “75%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:24:25",
-      "iso": "2026-09-01T10:54:25.372Z",
-      "action": "updated remark for FT-FAG-10002-BS at KOCHCHIKADE: “75%”"
     }
   ]
 }
