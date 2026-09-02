@@ -71497,6 +71497,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:04:36",
       "lastUpdated": "2026-09-02T04:34:36.411Z"
+    },
+    "SWM-FAR75||KOCHCHIKADE": {
+      "remark": "20% Additional - Wire damaged",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:05:29",
+      "lastUpdated": "2026-09-02T04:35:29.469Z"
     }
   },
   "showroomVisits": {
@@ -73493,6 +73500,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "10:05:29",
+      "iso": "2026-09-02T04:35:29.474Z",
+      "action": "updated remark for SWM-FAR75 at KOCHCHIKADE: “20% Additional - Wire damaged”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "10:04:36",
@@ -73834,13 +73848,6 @@
       "time": "09:39:32",
       "iso": "2026-09-02T04:09:32.609Z",
       "action": "updated remark for SL-18VNF at NEGOMBO: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "09:39:13",
-      "iso": "2026-09-02T04:09:13.648Z",
-      "action": "updated remark for SL-12VNF at NEGOMBO: “Exchange - 85%”"
     }
   ]
 }
