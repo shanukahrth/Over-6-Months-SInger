@@ -72260,6 +72260,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:16:35",
       "lastUpdated": "2026-09-02T06:46:35.270Z"
+    },
+    "GEO-242D-BR||NEGOMBO": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:17:06",
+      "lastUpdated": "2026-09-02T06:47:06.479Z"
     }
   },
   "showroomVisits": {
@@ -74266,6 +74273,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:17:06",
+      "iso": "2026-09-02T06:47:06.481Z",
+      "action": "updated remark for GEO-242D-BR at NEGOMBO: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:16:35",
       "iso": "2026-09-02T06:46:35.272Z",
       "action": "updated remark for SL-ECO55-SV at NEGOMBO: “30%”"
@@ -74605,13 +74619,6 @@
       "time": "10:47:44",
       "iso": "2026-09-02T05:17:44.155Z",
       "action": "updated remark for PN-DH-3JP2WK at NEGOMBO: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:47:23",
-      "iso": "2026-09-02T05:17:23.325Z",
-      "action": "updated remark for SWH-338EP at NEGOMBO: “60% Damage”"
     }
   ]
 }
