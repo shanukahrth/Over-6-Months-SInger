@@ -71399,6 +71399,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:57:47",
       "lastUpdated": "2026-09-02T04:27:47.367Z"
+    },
+    "SRS-XV500||NEGOMBO": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:58:06",
+      "lastUpdated": "2026-09-02T04:28:06.481Z"
     }
   },
   "showroomVisits": {
@@ -73397,6 +73404,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "09:58:06",
+      "iso": "2026-09-02T04:28:06.482Z",
+      "action": "updated remark for SRS-XV500 at NEGOMBO: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "09:57:47",
       "iso": "2026-09-02T04:27:47.369Z",
       "action": "updated remark for SXLC7371K at NEGOMBO: “80%”"
@@ -73736,13 +73750,6 @@
       "time": "08:49:27",
       "iso": "2026-09-02T03:19:27.338Z",
       "action": "updated remark for RCS-04 at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Janitha Sudugodage",
-      "date": "2026-09-02",
-      "time": "08:49:15",
-      "iso": "2026-09-02T03:19:15.318Z",
-      "action": "updated MAHIYANGANA showroom (team: Team Furniture , Lakshan & Janitha )"
     }
   ]
 }
