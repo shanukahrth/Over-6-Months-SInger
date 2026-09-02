@@ -72491,6 +72491,20 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:44:50",
       "lastUpdated": "2026-09-02T07:14:50.291Z"
+    },
+    "SLE55G3A||MEGA -WAREHOUSE": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:45:32",
+      "lastUpdated": "2026-09-02T07:15:32.326Z"
+    },
+    "SLE55G3A||MEGA-WATTALA": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:45:35",
+      "lastUpdated": "2026-09-02T07:15:35.706Z"
     }
   },
   "showroomVisits": {
@@ -74503,6 +74517,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:45:35",
+      "iso": "2026-09-02T07:15:35.707Z",
+      "action": "updated remark for SLE55G3A at MEGA-WATTALA: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:45:32",
+      "iso": "2026-09-02T07:15:32.327Z",
+      "action": "updated remark for SLE55G3A at MEGA -WAREHOUSE: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:44:50",
       "iso": "2026-09-02T07:14:50.293Z",
       "action": "updated remark for SLE49U5 at SERVICE-KANDY: “85% - Damaged”"
@@ -74835,20 +74863,6 @@
       "time": "12:14:13",
       "iso": "2026-09-02T06:44:13.629Z",
       "action": "updated remark for UPU-MARVELLAUV at NEGOMBO: “shop use”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:13:51",
-      "iso": "2026-09-02T06:43:51.157Z",
-      "action": "updated remark for CAN-I-GM2070 at NEGOMBO: “15% - Box damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:13:11",
-      "iso": "2026-09-02T06:43:11.424Z",
-      "action": "updated remark for FT-FSD-036L01 at NEGOMBO: “0%”"
     }
   ]
 }
