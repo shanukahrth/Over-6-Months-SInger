@@ -71161,6 +71161,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:35:46",
       "lastUpdated": "2026-09-02T04:05:46.797Z"
+    },
+    "SIN-PR-K340||KOCHCHIKADE": {
+      "remark": "80%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:36:29",
+      "lastUpdated": "2026-09-02T04:06:29.990Z"
     }
   },
   "showroomVisits": {
@@ -73159,6 +73166,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "09:36:29",
+      "iso": "2026-09-02T04:06:29.995Z",
+      "action": "updated remark for SIN-PR-K340 at KOCHCHIKADE: “80%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "09:35:46",
       "iso": "2026-09-02T04:05:46.802Z",
       "action": "updated remark for SIN-MH51SW at KOCHCHIKADE: “80%”"
@@ -73498,13 +73512,6 @@
       "time": "08:29:09",
       "iso": "2026-09-02T02:59:09.303Z",
       "action": "updated remark for LF-BUDGET-ST-AGO-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:28:48",
-      "iso": "2026-09-02T02:58:48.784Z",
-      "action": "updated remark for LF-BUDGET-DT-CRW-S at KOCHCHIKADE: “50%”"
     }
   ]
 }
