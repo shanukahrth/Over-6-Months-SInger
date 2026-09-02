@@ -72323,6 +72323,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:20:26",
       "lastUpdated": "2026-09-02T06:50:26.900Z"
+    },
+    "AES-HAV-30S||NEGOMBO": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:20:48",
+      "lastUpdated": "2026-09-02T06:50:48.570Z"
     }
   },
   "showroomVisits": {
@@ -74329,6 +74336,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:20:48",
+      "iso": "2026-09-02T06:50:48.571Z",
+      "action": "updated remark for AES-HAV-30S at NEGOMBO: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:20:26",
       "iso": "2026-09-02T06:50:26.902Z",
       "action": "updated remark for BES-WP15-ECO at NEGOMBO: “50% - Battary damage”"
@@ -74668,13 +74682,6 @@
       "time": "11:03:16",
       "iso": "2026-09-02T05:33:16.453Z",
       "action": "updated remark for RIYLTA-MF12V25 at NEGOMBO: “90%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "11:02:52",
-      "iso": "2026-09-02T05:32:52.792Z",
-      "action": "updated remark for MD-GSE-L004 at NEGOMBO: “shop use”"
     }
   ]
 }
