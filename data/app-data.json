@@ -72435,6 +72435,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:30:34",
       "lastUpdated": "2026-09-02T07:00:34.979Z"
+    },
+    "SLE32E710||NEGOMBO": {
+      "remark": "DOA-85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:31:20",
+      "lastUpdated": "2026-09-02T07:01:20.908Z"
     }
   },
   "showroomVisits": {
@@ -74447,6 +74454,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:31:20",
+      "iso": "2026-09-02T07:01:20.916Z",
+      "action": "updated remark for SLE32E710 at NEGOMBO: “DOA-85%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:30:34",
       "iso": "2026-09-02T07:00:34.980Z",
       "action": "updated remark for SMGUA55DU7500 at NEGOMBO: “Exchange - PO pending”"
@@ -74786,13 +74800,6 @@
       "time": "12:08:46",
       "iso": "2026-09-02T06:38:46.777Z",
       "action": "updated remark for U-HRW-S11 at NEGOMBO: “0%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:08:22",
-      "iso": "2026-09-02T06:38:22.525Z",
-      "action": "updated remark for HON-MAGIC-6PRO-BLK at NEGOMBO: “sold”"
     }
   ]
 }
