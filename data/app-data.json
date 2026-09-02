@@ -71378,6 +71378,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:55:06",
       "lastUpdated": "2026-09-02T04:25:06.981Z"
+    },
+    "CEL-A4-HSET||NEGOMBO": {
+      "remark": "500 rupees",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:56:45",
+      "lastUpdated": "2026-09-02T04:26:45.165Z"
     }
   },
   "showroomVisits": {
@@ -73374,6 +73381,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "09:56:45",
+      "iso": "2026-09-02T04:26:45.166Z",
+      "action": "updated remark for CEL-A4-HSET at NEGOMBO: “500 rupees”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "09:55:06",
@@ -73715,13 +73729,6 @@
       "time": "08:48:46",
       "iso": "2026-09-02T03:18:46.710Z",
       "action": "updated remark for PN-SC-UA30GS-K at KOCHCHIKADE: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:48:26",
-      "iso": "2026-09-02T03:18:26.414Z",
-      "action": "updated remark for PN-SC-AKX520E-K at KOCHCHIKADE: “0%”"
     }
   ]
 }
