@@ -73058,6 +73058,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "13:39:43",
       "lastUpdated": "2026-09-02T08:09:43.588Z"
+    },
+    "PN-TH-55MX740N||WELLAWATTA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:39:50",
+      "lastUpdated": "2026-09-02T08:09:50.226Z"
     }
   },
   "showroomVisits": {
@@ -75070,6 +75077,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "13:39:50",
+      "iso": "2026-09-02T08:09:50.228Z",
+      "action": "updated remark for PN-TH-55MX740N at WELLAWATTA: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "13:39:43",
       "iso": "2026-09-02T08:09:43.589Z",
       "action": "updated remark for PN-TH-55MX740N at WELLAMPITIYA: “40%”"
@@ -75409,13 +75423,6 @@
       "time": "12:54:03",
       "iso": "2026-09-02T07:24:03.386Z",
       "action": "updated remark for PN-TH-32M402N at PILIMATHALAWA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:54:00",
-      "iso": "2026-09-02T07:24:00.330Z",
-      "action": "updated remark for PN-TH-32M402N at MEGA-NUGEGODA: “70%”"
     }
   ]
 }
