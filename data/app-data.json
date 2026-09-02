@@ -71035,6 +71035,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:41:33",
       "lastUpdated": "2026-09-02T03:11:33.188Z"
+    },
+    "NGT323D||KOCHCHIKADE": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:43:06",
+      "lastUpdated": "2026-09-02T03:13:06.925Z"
     }
   },
   "showroomVisits": {
@@ -72977,6 +72984,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:43:06",
+      "iso": "2026-09-02T03:13:06.926Z",
+      "action": "updated remark for NGT323D at KOCHCHIKADE: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:41:33",
       "iso": "2026-09-02T03:11:33.188Z",
       "action": "updated remark for NETAC-128GB-NVME-SSD at KOCHCHIKADE: “0%”"
@@ -73316,13 +73330,6 @@
       "time": "16:19:45",
       "iso": "2026-09-01T10:49:45.540Z",
       "action": "updated remark for BES-CRS-51 at KOCHCHIKADE: “10%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:19:12",
-      "iso": "2026-09-01T10:49:12.649Z",
-      "action": "updated remark for BC-KNP-AG at KOCHCHIKADE: “30%”"
     }
   ]
 }
