@@ -71336,6 +71336,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:53:03",
       "lastUpdated": "2026-09-02T04:23:03.726Z"
+    },
+    "STO-EO30C||KOCHCHIKADE": {
+      "remark": "Already provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:53:03",
+      "lastUpdated": "2026-09-02T04:23:03.920Z"
     }
   },
   "showroomVisits": {
@@ -73332,6 +73339,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "09:53:03",
+      "iso": "2026-09-02T04:23:03.923Z",
+      "action": "updated remark for STO-EO30C at KOCHCHIKADE: “Already provided”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "09:53:03",
@@ -73673,13 +73687,6 @@
       "time": "08:46:34",
       "iso": "2026-09-02T03:16:34.249Z",
       "action": "updated remark for PF-JAVA-CT-BR-S at KOCHCHIKADE: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:46:11",
-      "iso": "2026-09-02T03:16:11.790Z",
-      "action": "updated remark for PF-CAFE-NEW-WF-S at KOCHCHIKADE: “10% -Additional”"
     }
   ]
 }
