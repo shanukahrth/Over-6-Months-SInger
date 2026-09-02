@@ -71595,6 +71595,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:15:51",
       "lastUpdated": "2026-09-02T04:45:51.570Z"
+    },
+    "SDV3605K||NEGOMBO": {
+      "remark": "1,500.00",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:16:06",
+      "lastUpdated": "2026-09-02T04:46:06.382Z"
     }
   },
   "showroomVisits": {
@@ -73591,6 +73598,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "10:16:06",
+      "iso": "2026-09-02T04:46:06.384Z",
+      "action": "updated remark for SDV3605K at NEGOMBO: “1,500.00”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "10:15:51",
@@ -73932,13 +73946,6 @@
       "time": "09:52:02",
       "iso": "2026-09-02T04:22:02.120Z",
       "action": "updated remark for SMG-A17-8-128-BLU at KOCHCHIKADE: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:51:49",
-      "iso": "2026-09-02T04:21:49.778Z",
-      "action": "updated remark for SMG-A17-8-128-BLU at KOCHCHIKADE: “Additional 15%”"
     }
   ]
 }
