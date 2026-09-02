@@ -72036,6 +72036,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "11:05:21",
       "lastUpdated": "2026-09-02T05:35:21.685Z"
+    },
+    "SIN-RFC-2012||NEGOMBO": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "11:05:56",
+      "lastUpdated": "2026-09-02T05:35:56.026Z"
     }
   },
   "showroomVisits": {
@@ -74042,6 +74049,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "11:05:56",
+      "iso": "2026-09-02T05:35:56.028Z",
+      "action": "updated remark for SIN-RFC-2012 at NEGOMBO: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "11:05:21",
       "iso": "2026-09-02T05:35:21.688Z",
       "action": "updated remark for SIN-RFC-1819 at NEGOMBO: “15%”"
@@ -74381,13 +74395,6 @@
       "time": "10:26:15",
       "iso": "2026-09-02T04:56:15.128Z",
       "action": "updated remark for LF-LEO-15023-WNG-S at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:25:44",
-      "iso": "2026-09-02T04:55:44.622Z",
-      "action": "updated remark for PN-NF-GW1WSK at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
