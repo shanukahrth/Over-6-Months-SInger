@@ -72197,6 +72197,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:11:03",
       "lastUpdated": "2026-09-02T06:41:03.152Z"
+    },
+    "ENG-PUVPB01-WH||NEGOMBO": {
+      "remark": "85% - battary damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:11:31",
+      "lastUpdated": "2026-09-02T06:41:31.327Z"
     }
   },
   "showroomVisits": {
@@ -74203,6 +74210,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:11:31",
+      "iso": "2026-09-02T06:41:31.328Z",
+      "action": "updated remark for ENG-PUVPB01-WH at NEGOMBO: “85% - battary damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:11:03",
       "iso": "2026-09-02T06:41:03.153Z",
       "action": "updated remark for HON-CH-PEN-WH9 at NEGOMBO: “Active SKU, No Discounts applicable”"
@@ -74542,13 +74556,6 @@
       "time": "10:35:46",
       "iso": "2026-09-02T05:05:46.744Z",
       "action": "updated remark for WF-DOC-M003-BU-S at NEGOMBO: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:35:26",
-      "iso": "2026-09-02T05:05:26.811Z",
-      "action": "updated remark for WFL-SPM-78X72X8-S at NEGOMBO: “70%”"
     }
   ]
 }
