@@ -72547,6 +72547,34 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:46:39",
       "lastUpdated": "2026-09-02T07:16:39.772Z"
+    },
+    "SLE55Q21||SERVICE -PASYALA": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:47:07",
+      "lastUpdated": "2026-09-02T07:17:07.617Z"
+    },
+    "SLE55Q21||KADAWATHA B": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:47:09",
+      "lastUpdated": "2026-09-02T07:17:09.792Z"
+    },
+    "SLE55Q21||NEGOMBO": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:47:13",
+      "lastUpdated": "2026-09-02T07:17:13.022Z"
+    },
+    "SLE55Q21||SERVICE-COLOMBO": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:47:15",
+      "lastUpdated": "2026-09-02T07:17:15.265Z"
     }
   },
   "showroomVisits": {
@@ -74559,6 +74587,34 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:47:15",
+      "iso": "2026-09-02T07:17:15.267Z",
+      "action": "updated remark for SLE55Q21 at SERVICE-COLOMBO: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:47:13",
+      "iso": "2026-09-02T07:17:13.023Z",
+      "action": "updated remark for SLE55Q21 at NEGOMBO: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:47:09",
+      "iso": "2026-09-02T07:17:09.794Z",
+      "action": "updated remark for SLE55Q21 at KADAWATHA B: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:47:07",
+      "iso": "2026-09-02T07:17:07.619Z",
+      "action": "updated remark for SLE55Q21 at SERVICE -PASYALA: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:46:39",
       "iso": "2026-09-02T07:16:39.778Z",
       "action": "updated remark for SLE49U5 at KEGALLE: “85% - Damaged”"
@@ -74877,34 +74933,6 @@
       "time": "12:19:49",
       "iso": "2026-09-02T06:49:49.648Z",
       "action": "updated remark for BES-CRS-51 at NEGOMBO: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:19:19",
-      "iso": "2026-09-02T06:49:19.242Z",
-      "action": "updated remark for APS-300KG at NEGOMBO: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:18:57",
-      "iso": "2026-09-02T06:48:57.172Z",
-      "action": "updated remark for GEO-182S-SV at NEGOMBO: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:18:35",
-      "iso": "2026-09-02T06:48:35.505Z",
-      "action": "updated remark for B-RDNI295XIB100P at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:18:17",
-      "iso": "2026-09-02T06:48:17.561Z",
-      "action": "updated remark for H-HRSN9552DDXKH at NEGOMBO: “20%”"
     }
   ]
 }
