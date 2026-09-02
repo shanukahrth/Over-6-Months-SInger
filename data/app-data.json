@@ -71063,6 +71063,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:46:11",
       "lastUpdated": "2026-09-02T03:16:11.790Z"
+    },
+    "PF-JAVA-CT-BR-S||KOCHCHIKADE": {
+      "remark": "70%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:46:34",
+      "lastUpdated": "2026-09-02T03:16:34.247Z"
     }
   },
   "showroomVisits": {
@@ -73005,6 +73012,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:46:34",
+      "iso": "2026-09-02T03:16:34.249Z",
+      "action": "updated remark for PF-JAVA-CT-BR-S at KOCHCHIKADE: “70%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:46:11",
       "iso": "2026-09-02T03:16:11.790Z",
       "action": "updated remark for PF-CAFE-NEW-WF-S at KOCHCHIKADE: “10% -Additional”"
@@ -73344,13 +73358,6 @@
       "time": "16:23:35",
       "iso": "2026-09-01T10:53:35.641Z",
       "action": "updated remark for DELL3510-PNT-128-RCH-BLK at KOCHCHIKADE: “0%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "16:21:49",
-      "iso": "2026-09-01T10:51:49.895Z",
-      "action": "updated remark for NCPO-FP250 at KATANA: “Already provided”"
     }
   ]
 }
