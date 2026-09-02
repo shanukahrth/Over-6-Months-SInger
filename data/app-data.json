@@ -72750,6 +72750,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:54:03",
       "lastUpdated": "2026-09-02T07:24:03.385Z"
+    },
+    "PN-TH-32M402N||POOJAPITIYA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:54:25",
+      "lastUpdated": "2026-09-02T07:24:25.424Z"
     }
   },
   "showroomVisits": {
@@ -74762,6 +74769,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:54:25",
+      "iso": "2026-09-02T07:24:25.425Z",
+      "action": "updated remark for PN-TH-32M402N at POOJAPITIYA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:54:03",
       "iso": "2026-09-02T07:24:03.386Z",
       "action": "updated remark for PN-TH-32M402N at PILIMATHALAWA: “70%”"
@@ -75101,13 +75115,6 @@
       "time": "12:37:31",
       "iso": "2026-09-02T07:07:31.589Z",
       "action": "updated remark for SLE32E910 at NEGOMBO: “Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:31:20",
-      "iso": "2026-09-02T07:01:20.916Z",
-      "action": "updated remark for SLE32E710 at NEGOMBO: “DOA-85%”"
     }
   ]
 }
