@@ -71203,6 +71203,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:39:13",
       "lastUpdated": "2026-09-02T04:09:13.646Z"
+    },
+    "SL-18VNF||NEGOMBO": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:39:32",
+      "lastUpdated": "2026-09-02T04:09:32.608Z"
     }
   },
   "showroomVisits": {
@@ -73201,6 +73208,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "09:39:32",
+      "iso": "2026-09-02T04:09:32.609Z",
+      "action": "updated remark for SL-18VNF at NEGOMBO: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "09:39:13",
       "iso": "2026-09-02T04:09:13.648Z",
       "action": "updated remark for SL-12VNF at NEGOMBO: “Exchange - 85%”"
@@ -73540,13 +73554,6 @@
       "time": "08:32:58",
       "iso": "2026-09-02T03:02:58.322Z",
       "action": "updated remark for LF-OX-BR-M-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:32:32",
-      "iso": "2026-09-02T03:02:32.320Z",
-      "action": "updated remark for LF-LEO-120-SHW at KOCHCHIKADE: “50%”"
     }
   ]
 }
