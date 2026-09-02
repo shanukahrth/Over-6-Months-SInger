@@ -70951,6 +70951,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:32:32",
       "lastUpdated": "2026-09-02T03:02:32.316Z"
+    },
+    "LF-OX-BR-M-S||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:32:58",
+      "lastUpdated": "2026-09-02T03:02:58.318Z"
     }
   },
   "showroomVisits": {
@@ -72893,6 +72900,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:32:58",
+      "iso": "2026-09-02T03:02:58.322Z",
+      "action": "updated remark for LF-OX-BR-M-S at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:32:32",
       "iso": "2026-09-02T03:02:32.320Z",
       "action": "updated remark for LF-LEO-120-SHW at KOCHCHIKADE: “50%”"
@@ -73232,13 +73246,6 @@
       "time": "16:09:36",
       "iso": "2026-09-01T10:39:36.327Z",
       "action": "updated remark for WP-CHTW-075-S at KATANA: “Damaged - 30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "16:07:01",
-      "iso": "2026-09-01T10:37:01.280Z",
-      "action": "updated remark for WP-1R-.75T at KATANA: “-”"
     }
   ]
 }
