@@ -71812,6 +71812,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:31:43",
       "lastUpdated": "2026-09-02T05:01:43.289Z"
+    },
+    "WF-DUBLIN-BDQ-S||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:32:03",
+      "lastUpdated": "2026-09-02T05:02:03.160Z"
     }
   },
   "showroomVisits": {
@@ -73810,6 +73817,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:32:03",
+      "iso": "2026-09-02T05:02:03.161Z",
+      "action": "updated remark for WF-DUBLIN-BDQ-S at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:31:43",
       "iso": "2026-09-02T05:01:43.290Z",
       "action": "updated remark for PU-WG90 at NEGOMBO: “sold”"
@@ -74149,13 +74163,6 @@
       "time": "10:04:36",
       "iso": "2026-09-02T04:34:36.412Z",
       "action": "updated remark for B-CWB6441XN at NEGOMBO: “Additional -15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:04:17",
-      "iso": "2026-09-02T04:34:17.106Z",
-      "action": "updated remark for B-CFB9433XH at NEGOMBO: “Additional -15%”"
     }
   ]
 }
