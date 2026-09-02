@@ -72421,6 +72421,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:28:36",
       "lastUpdated": "2026-09-02T06:58:36.172Z"
+    },
+    "SMGUA32N4010||NEGOMBO": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:30:08",
+      "lastUpdated": "2026-09-02T07:00:08.141Z"
     }
   },
   "showroomVisits": {
@@ -74421,9 +74428,43 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-01"
+    },
+    "SMGUA32N4010||NEGOMBO": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-02"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:30:10",
+      "iso": "2026-09-02T07:00:10.923Z",
+      "action": "marked SMGUA32N4010 at NEGOMBO as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:30:09",
+      "iso": "2026-09-02T07:00:09.889Z",
+      "action": "marked SMGUA32N4010 at NEGOMBO as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:30:08",
+      "iso": "2026-09-02T07:00:08.142Z",
+      "action": "updated remark for SMGUA32N4010 at NEGOMBO: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:30:05",
+      "iso": "2026-09-02T07:00:05.848Z",
+      "action": "updated remark for SMGUA32N4010 at NEGOMBO: “sold”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
@@ -74745,34 +74786,6 @@
       "time": "12:07:54",
       "iso": "2026-09-02T06:37:54.002Z",
       "action": "updated remark for HON-X9CSMART-12-256-CYAN at NEGOMBO: “sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:07:33",
-      "iso": "2026-09-02T06:37:33.026Z",
-      "action": "updated remark for HON-X9CSMART-12-256-BLK at NEGOMBO: “sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:07:10",
-      "iso": "2026-09-02T06:37:10.732Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at NEGOMBO: “15% additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:06:31",
-      "iso": "2026-09-02T06:36:31.710Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at NEGOMBO: “Sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:06:09",
-      "iso": "2026-09-02T06:36:09.815Z",
-      "action": "updated remark for HON-X9B-12-256-ORG at NEGOMBO: “70% Display issue”"
     }
   ]
 }
