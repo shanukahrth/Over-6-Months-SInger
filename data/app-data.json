@@ -72043,6 +72043,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "11:05:56",
       "lastUpdated": "2026-09-02T05:35:56.026Z"
+    },
+    "SIN-RFC-2058||NEGOMBO": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "11:07:33",
+      "lastUpdated": "2026-09-02T05:37:33.153Z"
     }
   },
   "showroomVisits": {
@@ -74049,6 +74056,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "11:07:33",
+      "iso": "2026-09-02T05:37:33.162Z",
+      "action": "updated remark for SIN-RFC-2058 at NEGOMBO: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "11:05:56",
       "iso": "2026-09-02T05:35:56.028Z",
       "action": "updated remark for SIN-RFC-2012 at NEGOMBO: “15%”"
@@ -74388,13 +74402,6 @@
       "time": "10:26:35",
       "iso": "2026-09-02T04:56:35.546Z",
       "action": "updated remark for LF-LEO-HCUP-WNG-S at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:26:15",
-      "iso": "2026-09-02T04:56:15.128Z",
-      "action": "updated remark for LF-LEO-15023-WNG-S at NEGOMBO: “50%”"
     }
   ]
 }
