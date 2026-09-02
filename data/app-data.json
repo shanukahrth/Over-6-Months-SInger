@@ -70923,6 +70923,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:29:34",
       "lastUpdated": "2026-09-02T02:59:34.564Z"
+    },
+    "LF-CT-AGO-S||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:29:56",
+      "lastUpdated": "2026-09-02T02:59:56.948Z"
     }
   },
   "showroomVisits": {
@@ -72865,6 +72872,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:29:56",
+      "iso": "2026-09-02T02:59:56.949Z",
+      "action": "updated remark for LF-CT-AGO-S at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:29:34",
       "iso": "2026-09-02T02:59:34.565Z",
       "action": "updated remark for LF-BUDGET-ST-CLM-S at KOCHCHIKADE: “50%”"
@@ -73204,13 +73218,6 @@
       "time": "16:06:06",
       "iso": "2026-09-01T10:36:06.962Z",
       "action": "updated remark for SWM-MET80PL at KATANA: “20%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:05:58",
-      "iso": "2026-09-01T10:35:58.142Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at SEEDUWA: “Discounts already given to the shop”"
     }
   ]
 }
