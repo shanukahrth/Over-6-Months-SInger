@@ -72162,6 +72162,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:08:22",
       "lastUpdated": "2026-09-02T06:38:22.524Z"
+    },
+    "U-HRW-S11||NEGOMBO": {
+      "remark": "0%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:08:46",
+      "lastUpdated": "2026-09-02T06:38:46.776Z"
     }
   },
   "showroomVisits": {
@@ -74168,6 +74175,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:08:46",
+      "iso": "2026-09-02T06:38:46.777Z",
+      "action": "updated remark for U-HRW-S11 at NEGOMBO: “0%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:08:22",
       "iso": "2026-09-02T06:38:22.525Z",
       "action": "updated remark for HON-MAGIC-6PRO-BLK at NEGOMBO: “sold”"
@@ -74507,13 +74521,6 @@
       "time": "10:34:01",
       "iso": "2026-09-02T05:04:01.062Z",
       "action": "updated remark for WF-PERTH-CT-MH at NEGOMBO: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:33:33",
-      "iso": "2026-09-02T05:03:33.913Z",
-      "action": "updated remark for WF-CLASSIC-BL-S at NEGOMBO: “70%”"
     }
   ]
 }
