@@ -71798,6 +71798,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:30:34",
       "lastUpdated": "2026-09-02T05:00:34.939Z"
+    },
+    "LF-LCDRIO-CHY-S||NEGOMBO": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:31:00",
+      "lastUpdated": "2026-09-02T05:01:00.742Z"
     }
   },
   "showroomVisits": {
@@ -73796,6 +73803,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:31:00",
+      "iso": "2026-09-02T05:01:00.743Z",
+      "action": "updated remark for LF-LCDRIO-CHY-S at NEGOMBO: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:30:34",
       "iso": "2026-09-02T05:00:34.940Z",
       "action": "updated remark for LF-ECO-BDQ-SHW-S at NEGOMBO: “50%”"
@@ -74135,13 +74149,6 @@
       "time": "10:04:00",
       "iso": "2026-09-02T04:34:00.121Z",
       "action": "updated remark for SWM-FAR75 at KOCHCHIKADE (cleared)"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:03:59",
-      "iso": "2026-09-02T04:33:59.225Z",
-      "action": "updated remark for B-BMGB25332BG at NEGOMBO: “Additional -15%”"
     }
   ]
 }
