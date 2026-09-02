@@ -72113,6 +72113,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:05:21",
       "lastUpdated": "2026-09-02T06:35:21.401Z"
+    },
+    "HON-X8C-8-512-BLK||NEGOMBO": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:05:43",
+      "lastUpdated": "2026-09-02T06:35:43.764Z"
     }
   },
   "showroomVisits": {
@@ -74119,6 +74126,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:05:43",
+      "iso": "2026-09-02T06:35:43.764Z",
+      "action": "updated remark for HON-X8C-8-512-BLK at NEGOMBO: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:05:21",
       "iso": "2026-09-02T06:35:21.402Z",
       "action": "updated remark for HON-X7C-8-256-BLK at NEGOMBO: “sold”"
@@ -74458,13 +74472,6 @@
       "time": "10:31:00",
       "iso": "2026-09-02T05:01:00.743Z",
       "action": "updated remark for LF-LCDRIO-CHY-S at NEGOMBO: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:30:34",
-      "iso": "2026-09-02T05:00:34.940Z",
-      "action": "updated remark for LF-ECO-BDQ-SHW-S at NEGOMBO: “50%”"
     }
   ]
 }
