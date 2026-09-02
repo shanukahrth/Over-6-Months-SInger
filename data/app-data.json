@@ -71826,6 +71826,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:32:24",
       "lastUpdated": "2026-09-02T05:02:24.806Z"
+    },
+    "WFL-STBED-72X36-S||NEGOMBO": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:32:53",
+      "lastUpdated": "2026-09-02T05:02:53.214Z"
     }
   },
   "showroomVisits": {
@@ -73824,6 +73831,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:32:53",
+      "iso": "2026-09-02T05:02:53.217Z",
+      "action": "updated remark for WFL-STBED-72X36-S at NEGOMBO: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:32:24",
       "iso": "2026-09-02T05:02:24.808Z",
       "action": "updated remark for WF-LILY-CHR-S at NEGOMBO: “50%”"
@@ -74163,13 +74177,6 @@
       "time": "10:05:34",
       "iso": "2026-09-02T04:35:34.387Z",
       "action": "updated remark for B-HII64200MT at NEGOMBO: “Damaged - 80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:05:29",
-      "iso": "2026-09-02T04:35:29.474Z",
-      "action": "updated remark for SWM-FAR75 at KOCHCHIKADE: “20% Additional - Wire damaged”"
     }
   ]
 }
