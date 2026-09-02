@@ -72078,6 +72078,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:02:09",
       "lastUpdated": "2026-09-02T06:32:09.560Z"
+    },
+    "SMG-SM-A055F-4-128-G||NEGOMBO": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:02:31",
+      "lastUpdated": "2026-09-02T06:32:31.884Z"
     }
   },
   "showroomVisits": {
@@ -74084,6 +74091,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:02:31",
+      "iso": "2026-09-02T06:32:31.884Z",
+      "action": "updated remark for SMG-SM-A055F-4-128-G at NEGOMBO: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:02:09",
       "iso": "2026-09-02T06:32:09.561Z",
       "action": "updated remark for HU-SECURITY at NEGOMBO: “Shop use”"
@@ -74423,13 +74437,6 @@
       "time": "10:29:09",
       "iso": "2026-09-02T04:59:09.783Z",
       "action": "updated remark for LF-BUDGET-2WD-EC-S at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:28:50",
-      "iso": "2026-09-02T04:58:50.364Z",
-      "action": "updated remark for LF-SLVY-DTO-CLM-S at NEGOMBO: “50%”"
     }
   ]
 }
