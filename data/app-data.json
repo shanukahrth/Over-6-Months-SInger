@@ -73919,6 +73919,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "14:09:47",
       "lastUpdated": "2026-09-02T08:39:47.822Z"
+    },
+    "NVC990T||BADULLA B": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "14:09:59",
+      "lastUpdated": "2026-09-02T08:39:59.663Z"
     }
   },
   "showroomVisits": {
@@ -75931,6 +75938,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "14:09:59",
+      "iso": "2026-09-02T08:39:59.671Z",
+      "action": "updated remark for NVC990T at BADULLA B: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "14:09:47",
       "iso": "2026-09-02T08:39:47.823Z",
       "action": "updated remark for NVC990T at SHOMES-BADULLA: “70%”"
@@ -76270,13 +76284,6 @@
       "time": "13:50:46",
       "iso": "2026-09-02T08:20:46.562Z",
       "action": "updated remark for KD-55X75K at MEGA-MATARA: “75%- Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:50:38",
-      "iso": "2026-09-02T08:20:38.227Z",
-      "action": "updated remark for KD-55X75K at MEGA - PELIYAGODA: “75%- Damaged”"
     }
   ]
 }
