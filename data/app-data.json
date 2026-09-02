@@ -72379,6 +72379,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:25:53",
       "lastUpdated": "2026-09-02T06:55:53.443Z"
+    },
+    "DH-I-F22FP-36B-IMOU||NEGOMBO": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:26:14",
+      "lastUpdated": "2026-09-02T06:56:14.771Z"
     }
   },
   "showroomVisits": {
@@ -74385,6 +74392,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:26:14",
+      "iso": "2026-09-02T06:56:14.778Z",
+      "action": "updated remark for DH-I-F22FP-36B-IMOU at NEGOMBO: “85%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:25:53",
       "iso": "2026-09-02T06:55:53.445Z",
       "action": "updated remark for HG-SILVER-TW at NEGOMBO: “shop use”"
@@ -74724,13 +74738,6 @@
       "time": "11:07:54",
       "iso": "2026-09-02T05:37:54.847Z",
       "action": "updated remark for U-BS8816 at NEGOMBO: “90% - Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "11:07:33",
-      "iso": "2026-09-02T05:37:33.162Z",
-      "action": "updated remark for SIN-RFC-2058 at NEGOMBO: “15%”"
     }
   ]
 }
