@@ -70895,6 +70895,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:27:26",
       "lastUpdated": "2026-09-02T02:57:26.546Z"
+    },
+    "LF-BUDGET-DT-AGO-S||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:28:22",
+      "lastUpdated": "2026-09-02T02:58:22.672Z"
     }
   },
   "showroomVisits": {
@@ -72837,6 +72844,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:28:22",
+      "iso": "2026-09-02T02:58:22.674Z",
+      "action": "updated remark for LF-BUDGET-DT-AGO-S at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:27:26",
       "iso": "2026-09-02T02:57:26.547Z",
       "action": "updated remark for KA-LW-185A at KOCHCHIKADE: “Already provided”"
@@ -73176,13 +73190,6 @@
       "time": "16:05:16",
       "iso": "2026-09-01T10:35:16.824Z",
       "action": "updated remark for SWM-FA70R at KATANA: “75% - Flat Bed”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:05:17",
-      "iso": "2026-09-01T10:35:17.270Z",
-      "action": "updated remark for WFL-SPM-78X60X8-S at SEEDUWA: “50%”"
     }
   ]
 }
