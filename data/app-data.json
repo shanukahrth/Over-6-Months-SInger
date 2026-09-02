@@ -72372,6 +72372,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:25:33",
       "lastUpdated": "2026-09-02T06:55:33.081Z"
+    },
+    "HG-SILVER-TW||NEGOMBO": {
+      "remark": "shop use",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:25:53",
+      "lastUpdated": "2026-09-02T06:55:53.443Z"
     }
   },
   "showroomVisits": {
@@ -74378,6 +74385,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:25:53",
+      "iso": "2026-09-02T06:55:53.445Z",
+      "action": "updated remark for HG-SILVER-TW at NEGOMBO: “shop use”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:25:33",
       "iso": "2026-09-02T06:55:33.083Z",
       "action": "updated remark for HG-122 at NEGOMBO: “shop use”"
@@ -74717,13 +74731,6 @@
       "time": "11:07:33",
       "iso": "2026-09-02T05:37:33.162Z",
       "action": "updated remark for SIN-RFC-2058 at NEGOMBO: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "11:05:56",
-      "iso": "2026-09-02T05:35:56.028Z",
-      "action": "updated remark for SIN-RFC-2012 at NEGOMBO: “15%”"
     }
   ]
 }
