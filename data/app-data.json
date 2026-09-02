@@ -71112,6 +71112,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:49:03",
       "lastUpdated": "2026-09-02T03:19:03.637Z"
+    },
+    "RCS-04||KOCHCHIKADE": {
+      "remark": "Already provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:49:34",
+      "lastUpdated": "2026-09-02T03:19:34.673Z"
     }
   },
   "showroomVisits": {
@@ -73068,6 +73075,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "08:49:34",
+      "iso": "2026-09-02T03:19:34.676Z",
+      "action": "updated remark for RCS-04 at KOCHCHIKADE: “Already provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "08:49:27",
+      "iso": "2026-09-02T03:19:27.338Z",
+      "action": "updated remark for RCS-04 at KOCHCHIKADE: “Already provided”"
+    },
+    {
       "user": "Janitha Sudugodage",
       "date": "2026-09-02",
       "time": "08:49:15",
@@ -73402,20 +73423,6 @@
       "time": "16:28:38",
       "iso": "2026-09-01T10:58:38.515Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KOCHCHIKADE: “Active SKU, No Discounts applicable”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:26:39",
-      "iso": "2026-09-01T10:56:39.450Z",
-      "action": "updated remark for HON-CH-BUDS-CLIP-BLK at KOCHCHIKADE: “Active SKU, No Discounts applicable”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:26:09",
-      "iso": "2026-09-01T10:56:09.479Z",
-      "action": "updated remark for HFPA-MUSICBOX100-SIL at KOCHCHIKADE: “70%”"
     }
   ]
 }
