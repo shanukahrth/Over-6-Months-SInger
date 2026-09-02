@@ -72302,6 +72302,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:18:57",
       "lastUpdated": "2026-09-02T06:48:57.171Z"
+    },
+    "APS-300KG||NEGOMBO": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:19:19",
+      "lastUpdated": "2026-09-02T06:49:19.241Z"
     }
   },
   "showroomVisits": {
@@ -74308,6 +74315,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:19:19",
+      "iso": "2026-09-02T06:49:19.242Z",
+      "action": "updated remark for APS-300KG at NEGOMBO: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:18:57",
       "iso": "2026-09-02T06:48:57.172Z",
       "action": "updated remark for GEO-182S-SV at NEGOMBO: “25%”"
@@ -74647,13 +74661,6 @@
       "time": "10:53:37",
       "iso": "2026-09-02T05:23:37.866Z",
       "action": "updated remark for SIN-MRG-1008C at NEGOMBO: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:53:16",
-      "iso": "2026-09-02T05:23:16.694Z",
-      "action": "updated remark for TF-SI-EXSP1231 at NEGOMBO: “20%”"
     }
   ]
 }
