@@ -71525,6 +71525,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:06:10",
       "lastUpdated": "2026-09-02T04:36:10.805Z"
+    },
+    "TF-FP24-SCR342||KOCHCHIKADE": {
+      "remark": "Already provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:06:31",
+      "lastUpdated": "2026-09-02T04:36:31.496Z"
     }
   },
   "showroomVisits": {
@@ -73521,6 +73528,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "10:06:31",
+      "iso": "2026-09-02T04:36:31.499Z",
+      "action": "updated remark for TF-FP24-SCR342 at KOCHCHIKADE: “Already provided”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "10:06:10",
@@ -73862,13 +73876,6 @@
       "time": "09:45:51",
       "iso": "2026-09-02T04:15:51.370Z",
       "action": "updated remark for SL-12VNF at KOCHCHIKADE: “OBSOLETE - OFFER FLAT 80%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:45:18",
-      "iso": "2026-09-02T04:15:18.944Z",
-      "action": "updated remark for SISIL-RC180 at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
