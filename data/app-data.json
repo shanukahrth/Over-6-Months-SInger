@@ -71126,6 +71126,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:49:52",
       "lastUpdated": "2026-09-02T03:19:52.019Z"
+    },
+    "SB-DTYPE||KOCHCHIKADE": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:33:14",
+      "lastUpdated": "2026-09-02T04:03:14.619Z"
     }
   },
   "showroomVisits": {
@@ -73122,6 +73129,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "09:33:14",
+      "iso": "2026-09-02T04:03:14.621Z",
+      "action": "updated remark for SB-DTYPE at KOCHCHIKADE: “0%”"
+    },
+    {
       "user": "Janitha Sudugodage",
       "date": "2026-09-02",
       "time": "08:51:11",
@@ -73463,13 +73477,6 @@
       "time": "08:25:53",
       "iso": "2026-09-02T02:55:53.066Z",
       "action": "updated remark for HON-X9CSMART-12-256-CYAN at KOCHCHIKADE: “Additional 15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:25:18",
-      "iso": "2026-09-02T02:55:18.021Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at KOCHCHIKADE: “Additional 15%”"
     }
   ]
 }
