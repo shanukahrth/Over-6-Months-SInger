@@ -71266,6 +71266,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:48:22",
       "lastUpdated": "2026-09-02T04:18:22.690Z"
+    },
+    "SLE40E910||KOCHCHIKADE": {
+      "remark": "Exchange",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:48:45",
+      "lastUpdated": "2026-09-02T04:18:45.740Z"
     }
   },
   "showroomVisits": {
@@ -73264,6 +73271,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "09:48:45",
+      "iso": "2026-09-02T04:18:45.742Z",
+      "action": "updated remark for SLE40E910 at KOCHCHIKADE: “Exchange”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "09:48:22",
       "iso": "2026-09-02T04:18:22.692Z",
       "action": "updated remark for SLE40D600A at KOCHCHIKADE: “Revert - To be return to the customer”"
@@ -73603,13 +73617,6 @@
       "time": "08:39:33",
       "iso": "2026-09-02T03:09:33.189Z",
       "action": "updated remark for NCPO-FP250 at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:38:41",
-      "iso": "2026-09-02T03:08:41.911Z",
-      "action": "updated remark for NCPDG-SET3 at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
