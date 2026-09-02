@@ -71994,6 +71994,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "11:00:48",
       "lastUpdated": "2026-09-02T05:30:48.410Z"
+    },
+    "MD-GSE-L004||NEGOMBO": {
+      "remark": "shop use",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "11:02:52",
+      "lastUpdated": "2026-09-02T05:32:52.790Z"
     }
   },
   "showroomVisits": {
@@ -74000,6 +74007,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "11:02:52",
+      "iso": "2026-09-02T05:32:52.792Z",
+      "action": "updated remark for MD-GSE-L004 at NEGOMBO: “shop use”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "11:00:48",
       "iso": "2026-09-02T05:30:48.411Z",
       "action": "updated remark for SL-GSE-S001 at NEGOMBO: “shop use - Rack parts”"
@@ -74339,13 +74353,6 @@
       "time": "10:23:40",
       "iso": "2026-09-02T04:53:40.957Z",
       "action": "updated remark for FAN-VIERA-TEAK at NEGOMBO: “5%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:23:06",
-      "iso": "2026-09-02T04:53:06.809Z",
-      "action": "updated remark for PN-F-409MNBHMKH at NEGOMBO: “40%”"
     }
   ]
 }
