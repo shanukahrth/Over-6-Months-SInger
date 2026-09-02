@@ -72288,6 +72288,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:18:17",
       "lastUpdated": "2026-09-02T06:48:17.558Z"
+    },
+    "B-RDNI295XIB100P||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:18:35",
+      "lastUpdated": "2026-09-02T06:48:35.503Z"
     }
   },
   "showroomVisits": {
@@ -74294,6 +74301,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:18:35",
+      "iso": "2026-09-02T06:48:35.505Z",
+      "action": "updated remark for B-RDNI295XIB100P at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:18:17",
       "iso": "2026-09-02T06:48:17.561Z",
       "action": "updated remark for H-HRSN9552DDXKH at NEGOMBO: “20%”"
@@ -74633,13 +74647,6 @@
       "time": "10:52:59",
       "iso": "2026-09-02T05:22:59.686Z",
       "action": "updated remark for TF-SI-EXS1230 at NEGOMBO: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:48:42",
-      "iso": "2026-09-02T05:18:42.413Z",
-      "action": "updated remark for TF-SI-ESS-242 at NEGOMBO: “20%”"
     }
   ]
 }
