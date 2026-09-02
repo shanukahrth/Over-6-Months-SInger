@@ -72085,6 +72085,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:02:31",
       "lastUpdated": "2026-09-02T06:32:31.884Z"
+    },
+    "SMG-SM-A055F-6-128-G||NEGOMBO": {
+      "remark": "70% - Battary issue",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:03:00",
+      "lastUpdated": "2026-09-02T06:33:00.499Z"
     }
   },
   "showroomVisits": {
@@ -74091,6 +74098,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:03:00",
+      "iso": "2026-09-02T06:33:00.500Z",
+      "action": "updated remark for SMG-SM-A055F-6-128-G at NEGOMBO: “70% - Battary issue”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:02:31",
       "iso": "2026-09-02T06:32:31.884Z",
       "action": "updated remark for SMG-SM-A055F-4-128-G at NEGOMBO: “sold”"
@@ -74430,13 +74444,6 @@
       "time": "10:29:28",
       "iso": "2026-09-02T04:59:28.252Z",
       "action": "updated remark for LF-BUDGET-ST-AGO-S at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:29:09",
-      "iso": "2026-09-02T04:59:09.783Z",
-      "action": "updated remark for LF-BUDGET-2WD-EC-S at NEGOMBO: “50%”"
     }
   ]
 }
