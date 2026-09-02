@@ -72246,6 +72246,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:15:15",
       "lastUpdated": "2026-09-02T06:45:15.151Z"
+    },
+    "SN-SMI-305G||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:16:00",
+      "lastUpdated": "2026-09-02T06:46:00.680Z"
     }
   },
   "showroomVisits": {
@@ -74252,6 +74259,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:16:00",
+      "iso": "2026-09-02T06:46:00.682Z",
+      "action": "updated remark for SN-SMI-305G at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:15:15",
       "iso": "2026-09-02T06:45:15.153Z",
       "action": "updated remark for SMGRT28A3021GS at NEGOMBO: “60%”"
@@ -74591,13 +74605,6 @@
       "time": "10:44:30",
       "iso": "2026-09-02T05:14:30.097Z",
       "action": "updated NEGOMBO showroom (visited: Yes)"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:44:26",
-      "iso": "2026-09-02T05:14:26.153Z",
-      "action": "updated NEGOMBO showroom (team: COLOMBO NOTH AREA)"
     }
   ]
 }
