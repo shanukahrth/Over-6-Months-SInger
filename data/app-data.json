@@ -71413,6 +71413,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:58:33",
       "lastUpdated": "2026-09-02T04:28:33.050Z"
+    },
+    "SIN-PSVX938N||NEGOMBO": {
+      "remark": "15,000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:59:08",
+      "lastUpdated": "2026-09-02T04:29:08.879Z"
     }
   },
   "showroomVisits": {
@@ -73411,6 +73418,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "09:59:08",
+      "iso": "2026-09-02T04:29:08.883Z",
+      "action": "updated remark for SIN-PSVX938N at NEGOMBO: “15,000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "09:58:33",
       "iso": "2026-09-02T04:28:33.051Z",
       "action": "updated remark for SVX6008 at NEGOMBO: “Exchange - PO pending”"
@@ -73750,13 +73764,6 @@
       "time": "08:49:52",
       "iso": "2026-09-02T03:19:52.023Z",
       "action": "updated remark for SAS18TCN at KOCHCHIKADE: “OBSOLETE - OFFER FLAT 90%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:49:34",
-      "iso": "2026-09-02T03:19:34.676Z",
-      "action": "updated remark for RCS-04 at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
