@@ -72029,6 +72029,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "11:04:38",
       "lastUpdated": "2026-09-02T05:34:38.703Z"
+    },
+    "SIN-RFC-1819||NEGOMBO": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "11:05:21",
+      "lastUpdated": "2026-09-02T05:35:21.685Z"
     }
   },
   "showroomVisits": {
@@ -74035,6 +74042,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "11:05:21",
+      "iso": "2026-09-02T05:35:21.688Z",
+      "action": "updated remark for SIN-RFC-1819 at NEGOMBO: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "11:04:38",
       "iso": "2026-09-02T05:34:38.705Z",
       "action": "updated remark for SIN-QS-8306 at NEGOMBO: “PO pending from service center”"
@@ -74374,13 +74388,6 @@
       "time": "10:25:44",
       "iso": "2026-09-02T04:55:44.622Z",
       "action": "updated remark for PN-NF-GW1WSK at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:24:22",
-      "iso": "2026-09-02T04:54:22.944Z",
-      "action": "updated remark for LF-STUDY-T-AGO-S at NEGOMBO: “60%”"
     }
   ]
 }
