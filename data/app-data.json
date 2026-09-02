@@ -71000,6 +71000,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:38:21",
       "lastUpdated": "2026-09-02T03:08:21.919Z"
+    },
+    "NCPDG-SET3||KOCHCHIKADE": {
+      "remark": "Already provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:38:41",
+      "lastUpdated": "2026-09-02T03:08:41.909Z"
     }
   },
   "showroomVisits": {
@@ -72942,6 +72949,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:38:41",
+      "iso": "2026-09-02T03:08:41.911Z",
+      "action": "updated remark for NCPDG-SET3 at KOCHCHIKADE: “Already provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:38:21",
       "iso": "2026-09-02T03:08:21.920Z",
       "action": "updated remark for NCPDG-KD240 at KOCHCHIKADE: “Already provided”"
@@ -73281,13 +73295,6 @@
       "time": "16:16:02",
       "iso": "2026-09-01T10:46:02.587Z",
       "action": "updated remark for SMGUA32T4400 at KATANA: “0%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "16:14:58",
-      "iso": "2026-09-01T10:44:58.381Z",
-      "action": "updated remark for SLE32E920 at KATANA: “50%”"
     }
   ]
 }
