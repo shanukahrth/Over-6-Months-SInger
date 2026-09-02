@@ -71371,6 +71371,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:53:56",
       "lastUpdated": "2026-09-02T04:23:56.372Z"
+    },
+    "SVX6002||KOCHCHIKADE": {
+      "remark": "85%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:55:06",
+      "lastUpdated": "2026-09-02T04:25:06.981Z"
     }
   },
   "showroomVisits": {
@@ -73367,6 +73374,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "09:55:06",
+      "iso": "2026-09-02T04:25:06.983Z",
+      "action": "updated remark for SVX6002 at KOCHCHIKADE: “85%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "09:53:56",
@@ -73708,13 +73722,6 @@
       "time": "08:48:26",
       "iso": "2026-09-02T03:18:26.414Z",
       "action": "updated remark for PN-SC-AKX520E-K at KOCHCHIKADE: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:47:56",
-      "iso": "2026-09-02T03:17:56.256Z",
-      "action": "updated remark for PN-NF-GW1WSK at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
