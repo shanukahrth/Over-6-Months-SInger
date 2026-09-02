@@ -72022,6 +72022,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "11:04:19",
       "lastUpdated": "2026-09-02T05:34:19.339Z"
+    },
+    "SIN-QS-8306||NEGOMBO": {
+      "remark": "PO pending from service center",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "11:04:38",
+      "lastUpdated": "2026-09-02T05:34:38.703Z"
     }
   },
   "showroomVisits": {
@@ -74028,6 +74035,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "11:04:38",
+      "iso": "2026-09-02T05:34:38.705Z",
+      "action": "updated remark for SIN-QS-8306 at NEGOMBO: “PO pending from service center”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "11:04:19",
       "iso": "2026-09-02T05:34:19.342Z",
       "action": "updated remark for RIYLTA-MF12V53B at NEGOMBO: “90%”"
@@ -74367,13 +74381,6 @@
       "time": "10:24:22",
       "iso": "2026-09-02T04:54:22.944Z",
       "action": "updated remark for LF-STUDY-T-AGO-S at NEGOMBO: “60%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:24:12",
-      "iso": "2026-09-02T04:54:12.444Z",
-      "action": "updated remark for WP-18KINV at KOCHCHIKADE: “ACTIVE MODEL - NO ADDITIONAL DISCOUNT”"
     }
   ]
 }
