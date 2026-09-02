@@ -72428,6 +72428,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:30:08",
       "lastUpdated": "2026-09-02T07:00:08.141Z"
+    },
+    "SMGUA55DU7500||NEGOMBO": {
+      "remark": "Exchange - PO pending",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:30:34",
+      "lastUpdated": "2026-09-02T07:00:34.979Z"
     }
   },
   "showroomVisits": {
@@ -74440,6 +74447,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:30:34",
+      "iso": "2026-09-02T07:00:34.980Z",
+      "action": "updated remark for SMGUA55DU7500 at NEGOMBO: “Exchange - PO pending”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:30:10",
       "iso": "2026-09-02T07:00:10.923Z",
       "action": "marked SMGUA32N4010 at NEGOMBO as Sold"
@@ -74779,13 +74793,6 @@
       "time": "12:08:22",
       "iso": "2026-09-02T06:38:22.525Z",
       "action": "updated remark for HON-MAGIC-6PRO-BLK at NEGOMBO: “sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:07:54",
-      "iso": "2026-09-02T06:37:54.002Z",
-      "action": "updated remark for HON-X9CSMART-12-256-CYAN at NEGOMBO: “sold”"
     }
   ]
 }
