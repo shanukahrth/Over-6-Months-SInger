@@ -73674,6 +73674,20 @@
       "commentDate": "2026-09-02",
       "commentTime": "13:51:36",
       "lastUpdated": "2026-09-02T08:21:36.598Z"
+    },
+    "KD-55X75K||DERANIYAGALA": {
+      "remark": "75%- Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:51:41",
+      "lastUpdated": "2026-09-02T08:21:41.211Z"
+    },
+    "KD-55X75K||NELUWA": {
+      "remark": "75%- Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:51:44",
+      "lastUpdated": "2026-09-02T08:21:44.003Z"
     }
   },
   "showroomVisits": {
@@ -75686,6 +75700,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "13:51:44",
+      "iso": "2026-09-02T08:21:44.004Z",
+      "action": "updated remark for KD-55X75K at NELUWA: “75%- Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "13:51:41",
+      "iso": "2026-09-02T08:21:41.213Z",
+      "action": "updated remark for KD-55X75K at DERANIYAGALA: “75%- Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "13:51:36",
       "iso": "2026-09-02T08:21:36.600Z",
       "action": "updated remark for KD-55X75K at SHOMES-RATHNAPURA: “75%- Damaged”"
@@ -76018,20 +76046,6 @@
       "time": "13:46:44",
       "iso": "2026-09-02T08:16:44.227Z",
       "action": "updated remark for KD-50X75K at DUTY FREE: “10% Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:44:03",
-      "iso": "2026-09-02T08:14:03.243Z",
-      "action": "updated remark for PN-TH-65MX740N at DAMBUL LOGISTICS HUB: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:43:52",
-      "iso": "2026-09-02T08:13:52.380Z",
-      "action": "updated remark for PN-TH-65MX740N at DERANIYAGALA: “85%”"
     }
   ]
 }
