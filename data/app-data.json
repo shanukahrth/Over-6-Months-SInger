@@ -72218,6 +72218,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:12:49",
       "lastUpdated": "2026-09-02T06:42:49.048Z"
+    },
+    "FT-FSD-036L01||NEGOMBO": {
+      "remark": "0%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:13:11",
+      "lastUpdated": "2026-09-02T06:43:11.421Z"
     }
   },
   "showroomVisits": {
@@ -74224,6 +74231,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:13:11",
+      "iso": "2026-09-02T06:43:11.424Z",
+      "action": "updated remark for FT-FSD-036L01 at NEGOMBO: “0%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:12:49",
       "iso": "2026-09-02T06:42:49.049Z",
       "action": "updated remark for FT-FED-35001 at NEGOMBO: “0%”"
@@ -74563,13 +74577,6 @@
       "time": "10:39:48",
       "iso": "2026-09-02T05:09:48.543Z",
       "action": "updated remark for SL-VAR-90P-C at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:39:28",
-      "iso": "2026-09-02T05:09:28.531Z",
-      "action": "updated remark for SIN-VBS-90PA at NEGOMBO: “50%”"
     }
   ]
 }
