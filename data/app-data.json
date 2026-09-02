@@ -72421,13 +72421,6 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:28:36",
       "lastUpdated": "2026-09-02T06:58:36.172Z"
-    },
-    "SMGUA32N4010||NEGOMBO": {
-      "remark": "85% pannel damage",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "12:29:33",
-      "lastUpdated": "2026-09-02T06:59:33.416Z"
     }
   },
   "showroomVisits": {
@@ -74434,6 +74427,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:29:42",
+      "iso": "2026-09-02T06:59:42.554Z",
+      "action": "updated remark for SMGUA32N4010 at NEGOMBO (cleared)"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:29:33",
       "iso": "2026-09-02T06:59:33.417Z",
       "action": "updated remark for SMGUA32N4010 at NEGOMBO: “85% pannel damage”"
@@ -74773,13 +74773,6 @@
       "time": "12:06:09",
       "iso": "2026-09-02T06:36:09.815Z",
       "action": "updated remark for HON-X9B-12-256-ORG at NEGOMBO: “70% Display issue”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:05:43",
-      "iso": "2026-09-02T06:35:43.764Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at NEGOMBO: “sold”"
     }
   ]
 }
