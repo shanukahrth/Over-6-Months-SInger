@@ -71518,6 +71518,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:05:53",
       "lastUpdated": "2026-09-02T04:35:53.695Z"
+    },
+    "AS-I3-11G-256-X513-1060-L||NEGOMBO": {
+      "remark": "System Discount",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:06:10",
+      "lastUpdated": "2026-09-02T04:36:10.805Z"
     }
   },
   "showroomVisits": {
@@ -73514,6 +73521,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "10:06:10",
+      "iso": "2026-09-02T04:36:10.806Z",
+      "action": "updated remark for AS-I3-11G-256-X513-1060-L at NEGOMBO: “System Discount”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "10:05:53",
@@ -73855,13 +73869,6 @@
       "time": "09:45:18",
       "iso": "2026-09-02T04:15:18.944Z",
       "action": "updated remark for SISIL-RC180 at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "09:40:34",
-      "iso": "2026-09-02T04:10:34.010Z",
-      "action": "updated remark for SASI12INFI at NEGOMBO: “OFFER FLAT 60%”"
     }
   ]
 }
