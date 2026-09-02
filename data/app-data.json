@@ -71553,6 +71553,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:07:37",
       "lastUpdated": "2026-09-02T04:37:37.728Z"
+    },
+    "TF-SI-ESS-242||KOCHCHIKADE": {
+      "remark": "15%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:09:03",
+      "lastUpdated": "2026-09-02T04:39:03.213Z"
     }
   },
   "showroomVisits": {
@@ -73549,6 +73556,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "10:09:03",
+      "iso": "2026-09-02T04:39:03.219Z",
+      "action": "updated remark for TF-SI-ESS-242 at KOCHCHIKADE: “15%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "10:07:37",
@@ -73890,13 +73904,6 @@
       "time": "09:48:22",
       "iso": "2026-09-02T04:18:22.692Z",
       "action": "updated remark for SLE40D600A at KOCHCHIKADE: “Revert - To be return to the customer”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:47:51",
-      "iso": "2026-09-02T04:17:51.433Z",
-      "action": "updated remark for SL-XLS215 at KOCHCHIKADE: “70%”"
     }
   ]
 }
