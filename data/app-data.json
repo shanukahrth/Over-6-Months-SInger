@@ -71910,6 +71910,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:39:28",
       "lastUpdated": "2026-09-02T05:09:28.529Z"
+    },
+    "SL-VAR-90P-C||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:39:48",
+      "lastUpdated": "2026-09-02T05:09:48.533Z"
     }
   },
   "showroomVisits": {
@@ -73908,6 +73915,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:39:48",
+      "iso": "2026-09-02T05:09:48.543Z",
+      "action": "updated remark for SL-VAR-90P-C at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:39:28",
       "iso": "2026-09-02T05:09:28.531Z",
       "action": "updated remark for SIN-VBS-90PA at NEGOMBO: “50%”"
@@ -74247,13 +74261,6 @@
       "time": "10:16:06",
       "iso": "2026-09-02T04:46:06.384Z",
       "action": "updated remark for SDV3605K at NEGOMBO: “1,500.00”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:15:51",
-      "iso": "2026-09-02T04:45:51.574Z",
-      "action": "updated remark for WF-CAMELIA-DTO-S at KOCHCHIKADE: “50%”"
     }
   ]
 }
