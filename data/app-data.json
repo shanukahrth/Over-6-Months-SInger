@@ -71532,6 +71532,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:06:31",
       "lastUpdated": "2026-09-02T04:36:31.496Z"
+    },
+    "AS-ZEN-15G-U5-1TB-328-SIL||NEGOMBO": {
+      "remark": "Return to WH",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:06:30",
+      "lastUpdated": "2026-09-02T04:36:30.221Z"
     }
   },
   "showroomVisits": {
@@ -73528,6 +73535,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "10:06:30",
+      "iso": "2026-09-02T04:36:30.222Z",
+      "action": "updated remark for AS-ZEN-15G-U5-1TB-328-SIL at NEGOMBO: “Return to WH”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "10:06:31",
@@ -73869,13 +73883,6 @@
       "time": "09:46:26",
       "iso": "2026-09-02T04:16:26.703Z",
       "action": "updated remark for SL-PB-426 at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:45:51",
-      "iso": "2026-09-02T04:15:51.370Z",
-      "action": "updated remark for SL-12VNF at KOCHCHIKADE: “OBSOLETE - OFFER FLAT 80%”"
     }
   ]
 }
