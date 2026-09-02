@@ -71231,6 +71231,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:45:18",
       "lastUpdated": "2026-09-02T04:15:18.940Z"
+    },
+    "SL-12VNF||KOCHCHIKADE": {
+      "remark": "OBSOLETE - OFFER FLAT 80%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:45:51",
+      "lastUpdated": "2026-09-02T04:15:51.368Z"
     }
   },
   "showroomVisits": {
@@ -73229,6 +73236,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "09:45:51",
+      "iso": "2026-09-02T04:15:51.370Z",
+      "action": "updated remark for SL-12VNF at KOCHCHIKADE: “OBSOLETE - OFFER FLAT 80%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "09:45:18",
       "iso": "2026-09-02T04:15:18.944Z",
       "action": "updated remark for SISIL-RC180 at KOCHCHIKADE: “Already provided”"
@@ -73568,13 +73582,6 @@
       "time": "08:36:12",
       "iso": "2026-09-02T03:06:12.948Z",
       "action": "updated remark for MID-MF-TN40D2 at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:35:17",
-      "iso": "2026-09-02T03:05:17.448Z",
-      "action": "updated remark for LP-AP01 at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
