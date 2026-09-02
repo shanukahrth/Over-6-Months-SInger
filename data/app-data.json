@@ -72822,11 +72822,11 @@
       "lastUpdated": "2026-09-02T07:25:49.009Z"
     },
     "PN-TH-55MX740N||MEGA -COLPETTY": {
-      "remark": "70%",
+      "remark": "40%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-02",
-      "commentTime": "12:55:51",
-      "lastUpdated": "2026-09-02T07:25:51.168Z"
+      "commentTime": "13:38:23",
+      "lastUpdated": "2026-09-02T08:08:23.274Z"
     },
     "PN-TH-55MX740N||MEGA-WATTALA": {
       "remark": "70%",
@@ -72995,6 +72995,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "13:37:24",
       "lastUpdated": "2026-09-02T08:07:24.534Z"
+    },
+    "PN-TH-55MX740N||DUTY FREE": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:38:20",
+      "lastUpdated": "2026-09-02T08:08:20.586Z"
     }
   },
   "showroomVisits": {
@@ -75007,6 +75014,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "13:38:23",
+      "iso": "2026-09-02T08:08:23.275Z",
+      "action": "updated remark for PN-TH-55MX740N at MEGA -COLPETTY: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "13:38:20",
+      "iso": "2026-09-02T08:08:20.587Z",
+      "action": "updated remark for PN-TH-55MX740N at DUTY FREE: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "13:37:24",
       "iso": "2026-09-02T08:07:24.535Z",
       "action": "updated remark for PN-TH-55MX740N at SHOMES- ANURADHAPURA: “70%”"
@@ -75339,20 +75360,6 @@
       "time": "12:53:22",
       "iso": "2026-09-02T07:23:22.986Z",
       "action": "updated remark for PN-TH-32M402N at AKURESSA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:53:02",
-      "iso": "2026-09-02T07:23:02.710Z",
-      "action": "updated remark for PN-TH-32M402N at PELMADULLA - B: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:52:54",
-      "iso": "2026-09-02T07:22:54.323Z",
-      "action": "updated remark for PN-TH-32M402N at RATHNAPURA A: “70%”"
     }
   ]
 }
