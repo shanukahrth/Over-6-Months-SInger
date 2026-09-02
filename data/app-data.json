@@ -71630,6 +71630,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:20:41",
       "lastUpdated": "2026-09-02T04:50:41.312Z"
+    },
+    "WFL-GRIP-CT01-S||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:21:01",
+      "lastUpdated": "2026-09-02T04:51:01.753Z"
     }
   },
   "showroomVisits": {
@@ -73628,6 +73635,20 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "10:21:01",
+      "iso": "2026-09-02T04:51:01.755Z",
+      "action": "updated remark for WFL-GRIP-CT01-S at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "10:20:57",
+      "iso": "2026-09-02T04:50:57.147Z",
+      "action": "updated remark for WFL-GRIP-CT01-S at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "10:20:41",
       "iso": "2026-09-02T04:50:41.317Z",
       "action": "updated remark for WFL-CF-78X36X4-SS at KOCHCHIKADE: “10% -Additional”"
@@ -73960,20 +73981,6 @@
       "time": "09:53:03",
       "iso": "2026-09-02T04:23:03.923Z",
       "action": "updated remark for STO-EO30C at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "09:53:03",
-      "iso": "2026-09-02T04:23:03.730Z",
-      "action": "updated remark for DUM - SMGAR50F24D1J at NEGOMBO: “Dummy”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:52:45",
-      "iso": "2026-09-02T04:22:45.710Z",
-      "action": "updated remark for SRS-XP700 at KOCHCHIKADE: “30%”"
     }
   ]
 }
