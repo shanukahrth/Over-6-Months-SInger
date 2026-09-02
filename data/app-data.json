@@ -71924,6 +71924,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:40:19",
       "lastUpdated": "2026-09-02T05:10:19.600Z"
+    },
+    "SWH-118E||NEGOMBO": {
+      "remark": "60% Damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:41:40",
+      "lastUpdated": "2026-09-02T05:11:40.138Z"
     }
   },
   "showroomVisits": {
@@ -73922,6 +73929,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:41:40",
+      "iso": "2026-09-02T05:11:40.139Z",
+      "action": "updated remark for SWH-118E at NEGOMBO: “60% Damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:40:19",
       "iso": "2026-09-02T05:10:19.600Z",
       "action": "updated remark for SWH-118EP at NEGOMBO: “60% Damage”"
@@ -74261,13 +74275,6 @@
       "time": "10:17:00",
       "iso": "2026-09-02T04:47:00.181Z",
       "action": "updated remark for WF-DOC-T011-BU-S at KOCHCHIKADE: “10% -Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:16:40",
-      "iso": "2026-09-02T04:46:40.836Z",
-      "action": "updated remark for WF-DEVON-311-BU-S at KOCHCHIKADE: “50%”"
     }
   ]
 }
