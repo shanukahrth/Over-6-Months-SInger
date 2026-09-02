@@ -71021,6 +71021,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:40:00",
       "lastUpdated": "2026-09-02T03:10:00.498Z"
+    },
+    "NCPO-SP200||KOCHCHIKADE": {
+      "remark": "Already provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:40:21",
+      "lastUpdated": "2026-09-02T03:10:21.715Z"
     }
   },
   "showroomVisits": {
@@ -72963,6 +72970,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:40:21",
+      "iso": "2026-09-02T03:10:21.718Z",
+      "action": "updated remark for NCPO-SP200 at KOCHCHIKADE: “Already provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:40:00",
       "iso": "2026-09-02T03:10:00.501Z",
       "action": "updated remark for NCPO-FP280 at KOCHCHIKADE: “Already provided”"
@@ -73302,13 +73316,6 @@
       "time": "16:17:55",
       "iso": "2026-09-01T10:47:55.497Z",
       "action": "updated remark for NCPO-FP250 at KATANA: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "16:17:23",
-      "iso": "2026-09-01T10:47:23.503Z",
-      "action": "updated remark for MX-FP824H27 at KATANA: “Already provided”"
     }
   ]
 }
