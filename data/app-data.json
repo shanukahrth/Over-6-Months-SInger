@@ -72225,6 +72225,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:13:11",
       "lastUpdated": "2026-09-02T06:43:11.421Z"
+    },
+    "CAN-I-GM2070||NEGOMBO": {
+      "remark": "15% - Box damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:13:51",
+      "lastUpdated": "2026-09-02T06:43:51.155Z"
     }
   },
   "showroomVisits": {
@@ -74231,6 +74238,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:13:51",
+      "iso": "2026-09-02T06:43:51.157Z",
+      "action": "updated remark for CAN-I-GM2070 at NEGOMBO: “15% - Box damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:13:11",
       "iso": "2026-09-02T06:43:11.424Z",
       "action": "updated remark for FT-FSD-036L01 at NEGOMBO: “0%”"
@@ -74570,13 +74584,6 @@
       "time": "10:40:19",
       "iso": "2026-09-02T05:10:19.600Z",
       "action": "updated remark for SWH-118EP at NEGOMBO: “60% Damage”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:39:48",
-      "iso": "2026-09-02T05:09:48.543Z",
-      "action": "updated remark for SL-VAR-90P-C at NEGOMBO: “50%”"
     }
   ]
 }
