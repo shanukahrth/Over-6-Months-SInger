@@ -72505,6 +72505,20 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:45:35",
       "lastUpdated": "2026-09-02T07:15:35.706Z"
+    },
+    "SLE55G3A||FIELD SERVICE-COLOMB": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:45:45",
+      "lastUpdated": "2026-09-02T07:15:45.026Z"
+    },
+    "SLE55G3A||SERVICE-COLOMBO": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:45:46",
+      "lastUpdated": "2026-09-02T07:15:46.987Z"
     }
   },
   "showroomVisits": {
@@ -74517,6 +74531,27 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:45:46",
+      "iso": "2026-09-02T07:15:46.989Z",
+      "action": "updated remark for SLE55G3A at SERVICE-COLOMBO: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:45:45",
+      "iso": "2026-09-02T07:15:45.028Z",
+      "action": "updated remark for SLE55G3A at FIELD SERVICE-COLOMB: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:45:40",
+      "iso": "2026-09-02T07:15:40.959Z",
+      "action": "updated remark for SLE55G3A at FIELD SERVICE-COLOMB: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:45:35",
       "iso": "2026-09-02T07:15:35.707Z",
       "action": "updated remark for SLE55G3A at MEGA-WATTALA: “85% - Damaged”"
@@ -74842,27 +74877,6 @@
       "time": "12:16:35",
       "iso": "2026-09-02T06:46:35.272Z",
       "action": "updated remark for SL-ECO55-SV at NEGOMBO: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:16:00",
-      "iso": "2026-09-02T06:46:00.682Z",
-      "action": "updated remark for SN-SMI-305G at NEGOMBO: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:15:15",
-      "iso": "2026-09-02T06:45:15.153Z",
-      "action": "updated remark for SMGRT28A3021GS at NEGOMBO: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:14:13",
-      "iso": "2026-09-02T06:44:13.629Z",
-      "action": "updated remark for UPU-MARVELLAUV at NEGOMBO: “shop use”"
     }
   ]
 }
