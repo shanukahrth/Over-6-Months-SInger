@@ -71189,6 +71189,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:38:30",
       "lastUpdated": "2026-09-02T04:08:30.661Z"
+    },
+    "SIN-RFC-1819||KOCHCHIKADE": {
+      "remark": "15%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:39:02",
+      "lastUpdated": "2026-09-02T04:09:02.068Z"
     }
   },
   "showroomVisits": {
@@ -73187,6 +73194,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "09:39:02",
+      "iso": "2026-09-02T04:09:02.070Z",
+      "action": "updated remark for SIN-RFC-1819 at KOCHCHIKADE: “15%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "09:38:30",
       "iso": "2026-09-02T04:08:30.664Z",
       "action": "updated remark for SIN-QS-8306 at KOCHCHIKADE: “15%”"
@@ -73526,13 +73540,6 @@
       "time": "08:32:08",
       "iso": "2026-09-02T03:02:08.127Z",
       "action": "updated remark for LF-ECO-WU-SHW-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:31:27",
-      "iso": "2026-09-02T03:01:27.831Z",
-      "action": "updated remark for LF-ECO-2WD-BON-S at KOCHCHIKADE: “50%”"
     }
   ]
 }
