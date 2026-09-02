@@ -71644,6 +71644,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:21:21",
       "lastUpdated": "2026-09-02T04:51:21.872Z"
+    },
+    "WFL-SPM-72X60X7-S||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:21:43",
+      "lastUpdated": "2026-09-02T04:51:43.912Z"
     }
   },
   "showroomVisits": {
@@ -73642,6 +73649,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "10:21:43",
+      "iso": "2026-09-02T04:51:43.918Z",
+      "action": "updated remark for WFL-SPM-72X60X7-S at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "10:21:21",
       "iso": "2026-09-02T04:51:21.876Z",
       "action": "updated remark for WFL-MONACO-10-S at KOCHCHIKADE: “50%”"
@@ -73981,13 +73995,6 @@
       "time": "09:53:32",
       "iso": "2026-09-02T04:23:32.195Z",
       "action": "updated remark for DUM-SMGAR50F12D0J at NEGOMBO: “Dummy”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:53:31",
-      "iso": "2026-09-02T04:23:31.335Z",
-      "action": "updated remark for STT-200K at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
