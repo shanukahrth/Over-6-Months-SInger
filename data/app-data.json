@@ -71504,6 +71504,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:05:29",
       "lastUpdated": "2026-09-02T04:35:29.469Z"
+    },
+    "B-HII64200MT||NEGOMBO": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:05:34",
+      "lastUpdated": "2026-09-02T04:35:34.386Z"
     }
   },
   "showroomVisits": {
@@ -73500,6 +73507,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "10:05:34",
+      "iso": "2026-09-02T04:35:34.387Z",
+      "action": "updated remark for B-HII64200MT at NEGOMBO: “Damaged - 80%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "10:05:29",
@@ -73841,13 +73855,6 @@
       "time": "09:40:06",
       "iso": "2026-09-02T04:10:06.538Z",
       "action": "updated remark for SASI12AUR at NEGOMBO: “Exchange - OBSOLETE - OFFER FLAT 90%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "09:39:32",
-      "iso": "2026-09-02T04:09:32.609Z",
-      "action": "updated remark for SL-18VNF at NEGOMBO: “80%”"
     }
   ]
 }
