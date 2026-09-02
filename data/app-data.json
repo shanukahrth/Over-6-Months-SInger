@@ -71896,6 +71896,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:36:13",
       "lastUpdated": "2026-09-02T05:06:13.761Z"
+    },
+    "LF-MONTN-WD-SHW-S||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:36:41",
+      "lastUpdated": "2026-09-02T05:06:41.731Z"
     }
   },
   "showroomVisits": {
@@ -73894,6 +73901,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:36:41",
+      "iso": "2026-09-02T05:06:41.736Z",
+      "action": "updated remark for LF-MONTN-WD-SHW-S at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:36:13",
       "iso": "2026-09-02T05:06:13.762Z",
       "action": "updated remark for LF-FELI-TVS-SWW-S at NEGOMBO: “10%”"
@@ -74233,13 +74247,6 @@
       "time": "10:15:44",
       "iso": "2026-09-02T04:45:44.693Z",
       "action": "updated remark for UDV3618SY at NEGOMBO: “1,500.00”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:15:03",
-      "iso": "2026-09-02T04:45:03.461Z",
-      "action": "updated remark for USHA-FS40-13B at KOCHCHIKADE: “10% -Additional”"
     }
   ]
 }
