@@ -71917,6 +71917,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:39:48",
       "lastUpdated": "2026-09-02T05:09:48.533Z"
+    },
+    "SWH-118EP||NEGOMBO": {
+      "remark": "60% Damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:40:19",
+      "lastUpdated": "2026-09-02T05:10:19.600Z"
     }
   },
   "showroomVisits": {
@@ -73915,6 +73922,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:40:19",
+      "iso": "2026-09-02T05:10:19.600Z",
+      "action": "updated remark for SWH-118EP at NEGOMBO: “60% Damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:39:48",
       "iso": "2026-09-02T05:09:48.543Z",
       "action": "updated remark for SL-VAR-90P-C at NEGOMBO: “50%”"
@@ -74254,13 +74268,6 @@
       "time": "10:16:40",
       "iso": "2026-09-02T04:46:40.836Z",
       "action": "updated remark for WF-DEVON-311-BU-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:16:06",
-      "iso": "2026-09-02T04:46:06.384Z",
-      "action": "updated remark for SDV3605K at NEGOMBO: “1,500.00”"
     }
   ]
 }
