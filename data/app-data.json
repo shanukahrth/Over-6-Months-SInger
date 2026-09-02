@@ -71567,6 +71567,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:09:29",
       "lastUpdated": "2026-09-02T04:39:29.954Z"
+    },
+    "UPRO-12000||KOCHCHIKADE": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:09:44",
+      "lastUpdated": "2026-09-02T04:39:44.459Z"
     }
   },
   "showroomVisits": {
@@ -73565,6 +73572,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "10:09:44",
+      "iso": "2026-09-02T04:39:44.463Z",
+      "action": "updated remark for UPRO-12000 at KOCHCHIKADE: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "10:09:29",
       "iso": "2026-09-02T04:39:29.958Z",
       "action": "updated remark for ULED40D5000 at KOCHCHIKADE: “Exchange”"
@@ -73904,13 +73918,6 @@
       "time": "09:49:08",
       "iso": "2026-09-02T04:19:08.816Z",
       "action": "updated remark for SLE55G6 at KOCHCHIKADE: “Exchange”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:48:45",
-      "iso": "2026-09-02T04:18:45.742Z",
-      "action": "updated remark for SLE40E910 at KOCHCHIKADE: “Exchange”"
     }
   ]
 }
