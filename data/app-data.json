@@ -71175,6 +71175,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:37:47",
       "lastUpdated": "2026-09-02T04:07:47.581Z"
+    },
+    "SYM-HIC-26I||NEGOMBO": {
+      "remark": "85% - Cannot sell Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:38:20",
+      "lastUpdated": "2026-09-02T04:08:20.984Z"
     }
   },
   "showroomVisits": {
@@ -73171,6 +73178,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "09:38:20",
+      "iso": "2026-09-02T04:08:20.984Z",
+      "action": "updated remark for SYM-HIC-26I at NEGOMBO: “85% - Cannot sell Damaged”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "09:37:47",
@@ -73512,13 +73526,6 @@
       "time": "08:29:56",
       "iso": "2026-09-02T02:59:56.949Z",
       "action": "updated remark for LF-CT-AGO-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:29:34",
-      "iso": "2026-09-02T02:59:34.565Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at KOCHCHIKADE: “50%”"
     }
   ]
 }
