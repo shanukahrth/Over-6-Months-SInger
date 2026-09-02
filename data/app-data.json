@@ -72393,6 +72393,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:26:37",
       "lastUpdated": "2026-09-02T06:56:37.128Z"
+    },
+    "SIN-PR-K340||NEGOMBO": {
+      "remark": "Part missing - Remote",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:26:57",
+      "lastUpdated": "2026-09-02T06:56:57.610Z"
     }
   },
   "showroomVisits": {
@@ -74399,6 +74406,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:26:57",
+      "iso": "2026-09-02T06:56:57.612Z",
+      "action": "updated remark for SIN-PR-K340 at NEGOMBO: “Part missing - Remote”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:26:37",
       "iso": "2026-09-02T06:56:37.129Z",
       "action": "updated remark for SM-MC3368 at NEGOMBO: “Discount already offered”"
@@ -74738,13 +74752,6 @@
       "time": "12:01:48",
       "iso": "2026-09-02T06:31:48.823Z",
       "action": "updated remark for HON-PAD-X7-CV at NEGOMBO: “sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "11:08:35",
-      "iso": "2026-09-02T05:38:35.490Z",
-      "action": "updated remark for HON-PAD-X7-4-128 at NEGOMBO: “sold”"
     }
   ]
 }
