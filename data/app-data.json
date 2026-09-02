@@ -71477,13 +71477,6 @@
       "commentTime": "10:03:41",
       "lastUpdated": "2026-09-02T04:33:41.026Z"
     },
-    "SWM-FAR75||KOCHCHIKADE": {
-      "remark": "60% Total - Wire damaged",
-      "commentedBy": "Maria Fernando",
-      "commentDate": "2026-09-02",
-      "commentTime": "10:03:47",
-      "lastUpdated": "2026-09-02T04:33:47.718Z"
-    },
     "B-BMGB25332BG||NEGOMBO": {
       "remark": "Additional -15%",
       "commentedBy": "Chanthuli Ramawickrama",
@@ -73486,6 +73479,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "10:04:00",
+      "iso": "2026-09-02T04:34:00.121Z",
+      "action": "updated remark for SWM-FAR75 at KOCHCHIKADE (cleared)"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "10:03:59",
@@ -73827,13 +73827,6 @@
       "time": "09:38:30",
       "iso": "2026-09-02T04:08:30.664Z",
       "action": "updated remark for SIN-QS-8306 at KOCHCHIKADE: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "09:38:20",
-      "iso": "2026-09-02T04:08:20.984Z",
-      "action": "updated remark for SYM-HIC-26I at NEGOMBO: “85% - Cannot sell Damaged”"
     }
   ]
 }
