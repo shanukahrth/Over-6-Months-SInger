@@ -72444,11 +72444,11 @@
       "lastUpdated": "2026-09-02T07:01:20.908Z"
     },
     "SLE32E910||NEGOMBO": {
-      "remark": "Exchange",
+      "remark": "70%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-02",
-      "commentTime": "12:37:31",
-      "lastUpdated": "2026-09-02T07:07:31.587Z"
+      "commentTime": "12:37:44",
+      "lastUpdated": "2026-09-02T07:07:44.452Z"
     }
   },
   "showroomVisits": {
@@ -74461,6 +74461,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:37:44",
+      "iso": "2026-09-02T07:07:44.453Z",
+      "action": "updated remark for SLE32E910 at NEGOMBO: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:37:31",
       "iso": "2026-09-02T07:07:31.589Z",
       "action": "updated remark for SLE32E910 at NEGOMBO: “Exchange”"
@@ -74800,13 +74807,6 @@
       "time": "12:10:13",
       "iso": "2026-09-02T06:40:13.802Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at NEGOMBO: “Active SKU, No Discounts applicable”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:09:47",
-      "iso": "2026-09-02T06:39:47.360Z",
-      "action": "updated remark for HON-BUDS-X6 at NEGOMBO: “Free issue”"
     }
   ]
 }
