@@ -71784,6 +71784,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:29:54",
       "lastUpdated": "2026-09-02T04:59:54.255Z"
+    },
+    "LF-COD-S||NEGOMBO": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:30:13",
+      "lastUpdated": "2026-09-02T05:00:13.572Z"
     }
   },
   "showroomVisits": {
@@ -73782,6 +73789,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:30:13",
+      "iso": "2026-09-02T05:00:13.573Z",
+      "action": "updated remark for LF-COD-S at NEGOMBO: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:29:54",
       "iso": "2026-09-02T04:59:54.260Z",
       "action": "updated remark for LF-CFGL1-BSC-S at NEGOMBO: “80%”"
@@ -74121,13 +74135,6 @@
       "time": "10:03:47",
       "iso": "2026-09-02T04:33:47.722Z",
       "action": "updated remark for SWM-FAR75 at KOCHCHIKADE: “60% Total - Wire damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:03:41",
-      "iso": "2026-09-02T04:33:41.028Z",
-      "action": "updated remark for IND-IHPC64LMX at NEGOMBO: “70%”"
     }
   ]
 }
