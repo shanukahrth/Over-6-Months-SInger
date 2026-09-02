@@ -71140,6 +71140,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:33:57",
       "lastUpdated": "2026-09-02T04:03:57.014Z"
+    },
+    "SDV3605K||KOCHCHIKADE": {
+      "remark": "2500. special price %",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:34:32",
+      "lastUpdated": "2026-09-02T04:04:32.720Z"
     }
   },
   "showroomVisits": {
@@ -73138,6 +73145,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "09:34:32",
+      "iso": "2026-09-02T04:04:32.724Z",
+      "action": "updated remark for SDV3605K at KOCHCHIKADE: “2500. special price %”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "09:33:57",
       "iso": "2026-09-02T04:03:57.019Z",
       "action": "updated remark for SBI-60M19-T at KOCHCHIKADE: “Extra 15%”"
@@ -73477,13 +73491,6 @@
       "time": "08:27:26",
       "iso": "2026-09-02T02:57:26.547Z",
       "action": "updated remark for KA-LW-185A at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:26:59",
-      "iso": "2026-09-02T02:56:59.286Z",
-      "action": "updated remark for IWH-2500WL at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
