@@ -71840,6 +71840,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:33:33",
       "lastUpdated": "2026-09-02T05:03:33.912Z"
+    },
+    "WF-PERTH-CT-MH||NEGOMBO": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:34:01",
+      "lastUpdated": "2026-09-02T05:04:01.061Z"
     }
   },
   "showroomVisits": {
@@ -73838,6 +73845,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:34:01",
+      "iso": "2026-09-02T05:04:01.062Z",
+      "action": "updated remark for WF-PERTH-CT-MH at NEGOMBO: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:33:33",
       "iso": "2026-09-02T05:03:33.913Z",
       "action": "updated remark for WF-CLASSIC-BL-S at NEGOMBO: “70%”"
@@ -74177,13 +74191,6 @@
       "time": "10:06:31",
       "iso": "2026-09-02T04:36:31.499Z",
       "action": "updated remark for TF-FP24-SCR342 at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:06:10",
-      "iso": "2026-09-02T04:36:10.806Z",
-      "action": "updated remark for AS-I3-11G-256-X513-1060-L at NEGOMBO: “System Discount”"
     }
   ]
 }
