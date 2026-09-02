@@ -72456,6 +72456,20 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:38:34",
       "lastUpdated": "2026-09-02T07:08:34.911Z"
+    },
+    "SLE40D600A||BUDGET SHOP-HORANA": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:43:09",
+      "lastUpdated": "2026-09-02T07:13:09.532Z"
+    },
+    "SLE40D600A||SHOMES-RATHNAPURA": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:43:13",
+      "lastUpdated": "2026-09-02T07:13:13.171Z"
     }
   },
   "showroomVisits": {
@@ -74468,6 +74482,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:43:13",
+      "iso": "2026-09-02T07:13:13.176Z",
+      "action": "updated remark for SLE40D600A at SHOMES-RATHNAPURA: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "12:43:09",
+      "iso": "2026-09-02T07:13:09.534Z",
+      "action": "updated remark for SLE40D600A at BUDGET SHOP-HORANA: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:38:34",
       "iso": "2026-09-02T07:08:34.912Z",
       "action": "updated remark for SLE32E930 at NEGOMBO: “Exchange”"
@@ -74800,20 +74828,6 @@
       "time": "12:11:51",
       "iso": "2026-09-02T06:41:51.053Z",
       "action": "updated remark for ENG-UE20012 at NEGOMBO: “85% battary damage”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:11:31",
-      "iso": "2026-09-02T06:41:31.328Z",
-      "action": "updated remark for ENG-PUVPB01-WH at NEGOMBO: “85% - battary damage”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:11:03",
-      "iso": "2026-09-02T06:41:03.153Z",
-      "action": "updated remark for HON-CH-PEN-WH9 at NEGOMBO: “Active SKU, No Discounts applicable”"
     }
   ]
 }
