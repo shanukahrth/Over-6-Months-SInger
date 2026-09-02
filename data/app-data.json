@@ -70944,6 +70944,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:32:08",
       "lastUpdated": "2026-09-02T03:02:08.126Z"
+    },
+    "LF-LEO-120-SHW||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:32:32",
+      "lastUpdated": "2026-09-02T03:02:32.316Z"
     }
   },
   "showroomVisits": {
@@ -72886,6 +72893,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:32:32",
+      "iso": "2026-09-02T03:02:32.320Z",
+      "action": "updated remark for LF-LEO-120-SHW at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:32:08",
       "iso": "2026-09-02T03:02:08.127Z",
       "action": "updated remark for LF-ECO-WU-SHW-S at KOCHCHIKADE: “50%”"
@@ -73225,13 +73239,6 @@
       "time": "16:07:01",
       "iso": "2026-09-01T10:37:01.280Z",
       "action": "updated remark for WP-1R-.75T at KATANA: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "16:06:39",
-      "iso": "2026-09-01T10:36:39.496Z",
-      "action": "updated remark for MID-D15-20EVN1 at KATANA: “-”"
     }
   ]
 }
