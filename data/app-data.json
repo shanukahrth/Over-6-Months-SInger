@@ -71854,6 +71854,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:34:18",
       "lastUpdated": "2026-09-02T05:04:18.271Z"
+    },
+    "WFL-SPM-72X48X7-S||NEGOMBO": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:34:36",
+      "lastUpdated": "2026-09-02T05:04:36.299Z"
     }
   },
   "showroomVisits": {
@@ -73852,6 +73859,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:34:36",
+      "iso": "2026-09-02T05:04:36.305Z",
+      "action": "updated remark for WFL-SPM-72X48X7-S at NEGOMBO: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:34:18",
       "iso": "2026-09-02T05:04:18.273Z",
       "action": "updated remark for WFL-CF-78X36X4-SS at NEGOMBO: “10% Additional”"
@@ -74191,13 +74205,6 @@
       "time": "10:07:04",
       "iso": "2026-09-02T04:37:04.642Z",
       "action": "updated remark for DELL3520-I3-8GB256-SIL at NEGOMBO: “Total 65%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:06:30",
-      "iso": "2026-09-02T04:36:30.222Z",
-      "action": "updated remark for AS-ZEN-15G-U5-1TB-328-SIL at NEGOMBO: “Return to WH”"
     }
   ]
 }
