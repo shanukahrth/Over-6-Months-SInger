@@ -73849,6 +73849,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "14:06:14",
       "lastUpdated": "2026-09-02T08:36:14.062Z"
+    },
+    "NVC990T||AMPARA - C": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "14:06:23",
+      "lastUpdated": "2026-09-02T08:36:23.491Z"
     }
   },
   "showroomVisits": {
@@ -75861,6 +75868,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "14:06:23",
+      "iso": "2026-09-02T08:36:23.493Z",
+      "action": "updated remark for NVC990T at AMPARA - C: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "14:06:14",
       "iso": "2026-09-02T08:36:14.063Z",
       "action": "updated remark for NVC990T at VEYANGODA - B: “70%”"
@@ -76200,13 +76214,6 @@
       "time": "13:49:00",
       "iso": "2026-09-02T08:19:00.050Z",
       "action": "updated remark for KD-50X75K at PELAWATTA-MATU: “10% Additional”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "13:48:58",
-      "iso": "2026-09-02T08:18:58.055Z",
-      "action": "updated remark for KD-50X75K at HORANA: “10% Additional”"
     }
   ]
 }
