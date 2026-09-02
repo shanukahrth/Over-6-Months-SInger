@@ -71420,6 +71420,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:59:08",
       "lastUpdated": "2026-09-02T04:29:08.879Z"
+    },
+    "PN-MIC-W-107||NEGOMBO": {
+      "remark": "Drop",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:59:29",
+      "lastUpdated": "2026-09-02T04:29:29.025Z"
     }
   },
   "showroomVisits": {
@@ -73418,6 +73425,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "09:59:29",
+      "iso": "2026-09-02T04:29:29.026Z",
+      "action": "updated remark for PN-MIC-W-107 at NEGOMBO: “Drop”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "09:59:08",
       "iso": "2026-09-02T04:29:08.883Z",
       "action": "updated remark for SIN-PSVX938N at NEGOMBO: “15,000”"
@@ -73757,13 +73771,6 @@
       "time": "08:50:12",
       "iso": "2026-09-02T03:20:12.721Z",
       "action": "updated WILGAMUWA showroom (team: Team Furniture , Lakshan & Janitha )"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:49:52",
-      "iso": "2026-09-02T03:19:52.023Z",
-      "action": "updated remark for SAS18TCN at KOCHCHIKADE: “OBSOLETE - OFFER FLAT 90%”"
     }
   ]
 }
