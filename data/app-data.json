@@ -71329,6 +71329,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:52:45",
       "lastUpdated": "2026-09-02T04:22:45.706Z"
+    },
+    "DUM - SMGAR50F24D1J||NEGOMBO": {
+      "remark": "Dummy",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:53:03",
+      "lastUpdated": "2026-09-02T04:23:03.726Z"
     }
   },
   "showroomVisits": {
@@ -73325,6 +73332,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "09:53:03",
+      "iso": "2026-09-02T04:23:03.730Z",
+      "action": "updated remark for DUM - SMGAR50F24D1J at NEGOMBO: “Dummy”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "09:52:45",
@@ -73666,13 +73680,6 @@
       "time": "08:46:11",
       "iso": "2026-09-02T03:16:11.790Z",
       "action": "updated remark for PF-CAFE-NEW-WF-S at KOCHCHIKADE: “10% -Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:45:13",
-      "iso": "2026-09-02T03:15:13.768Z",
-      "action": "updated remark for PF-CAFE-NEW-RW-S at KOCHCHIKADE: “10% -Additional”"
     }
   ]
 }
