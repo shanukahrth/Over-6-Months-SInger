@@ -71119,6 +71119,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:49:34",
       "lastUpdated": "2026-09-02T03:19:34.673Z"
+    },
+    "SAS18TCN||KOCHCHIKADE": {
+      "remark": "OBSOLETE - OFFER FLAT 90%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:49:52",
+      "lastUpdated": "2026-09-02T03:19:52.019Z"
     }
   },
   "showroomVisits": {
@@ -73077,6 +73084,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:49:52",
+      "iso": "2026-09-02T03:19:52.023Z",
+      "action": "updated remark for SAS18TCN at KOCHCHIKADE: “OBSOLETE - OFFER FLAT 90%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:49:34",
       "iso": "2026-09-02T03:19:34.676Z",
       "action": "updated remark for RCS-04 at KOCHCHIKADE: “Already provided”"
@@ -73416,13 +73430,6 @@
       "time": "16:30:12",
       "iso": "2026-09-01T11:00:12.246Z",
       "action": "updated remark for HON-CH-EARBUDS-X7E at KOCHCHIKADE: “Active SKU, No Discounts applicable”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-01",
-      "time": "16:28:38",
-      "iso": "2026-09-01T10:58:38.515Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KOCHCHIKADE: “Active SKU, No Discounts applicable”"
     }
   ]
 }
