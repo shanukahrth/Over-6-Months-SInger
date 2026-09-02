@@ -71602,6 +71602,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:16:06",
       "lastUpdated": "2026-09-02T04:46:06.382Z"
+    },
+    "WF-DEVON-311-BU-S||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:16:40",
+      "lastUpdated": "2026-09-02T04:46:40.833Z"
     }
   },
   "showroomVisits": {
@@ -73598,6 +73605,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "10:16:40",
+      "iso": "2026-09-02T04:46:40.836Z",
+      "action": "updated remark for WF-DEVON-311-BU-S at KOCHCHIKADE: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "10:16:06",
@@ -73939,13 +73953,6 @@
       "time": "09:52:15",
       "iso": "2026-09-02T04:22:15.282Z",
       "action": "updated remark for SASMCD18CRN at NEGOMBO: “OBSOLETE - OFFER FLAT 70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:52:02",
-      "iso": "2026-09-02T04:22:02.120Z",
-      "action": "updated remark for SMG-A17-8-128-BLU at KOCHCHIKADE: “0%”"
     }
   ]
 }
