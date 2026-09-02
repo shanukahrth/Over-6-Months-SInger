@@ -71777,6 +71777,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:29:28",
       "lastUpdated": "2026-09-02T04:59:28.250Z"
+    },
+    "LF-CFGL1-BSC-S||NEGOMBO": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:29:54",
+      "lastUpdated": "2026-09-02T04:59:54.255Z"
     }
   },
   "showroomVisits": {
@@ -73775,6 +73782,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:29:54",
+      "iso": "2026-09-02T04:59:54.260Z",
+      "action": "updated remark for LF-CFGL1-BSC-S at NEGOMBO: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:29:28",
       "iso": "2026-09-02T04:59:28.252Z",
       "action": "updated remark for LF-BUDGET-ST-AGO-S at NEGOMBO: “50%”"
@@ -74114,13 +74128,6 @@
       "time": "10:03:41",
       "iso": "2026-09-02T04:33:41.028Z",
       "action": "updated remark for IND-IHPC64LMX at NEGOMBO: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:03:13",
-      "iso": "2026-09-02T04:33:13.887Z",
-      "action": "updated remark for HFPA-MUSICBOX100-SIL at NEGOMBO: “70%”"
     }
   ]
 }
