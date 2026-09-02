@@ -71028,6 +71028,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:40:32",
       "lastUpdated": "2026-09-02T03:10:32.256Z"
+    },
+    "NETAC-128GB-NVME-SSD||KOCHCHIKADE": {
+      "remark": "0%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:41:33",
+      "lastUpdated": "2026-09-02T03:11:33.188Z"
     }
   },
   "showroomVisits": {
@@ -72970,6 +72977,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:41:33",
+      "iso": "2026-09-02T03:11:33.188Z",
+      "action": "updated remark for NETAC-128GB-NVME-SSD at KOCHCHIKADE: “0%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:40:32",
       "iso": "2026-09-02T03:10:32.257Z",
       "action": "updated remark for NCPO-SP200 at KOCHCHIKADE: “Already provided”"
@@ -73309,13 +73323,6 @@
       "time": "16:19:12",
       "iso": "2026-09-01T10:49:12.649Z",
       "action": "updated remark for BC-KNP-AG at KOCHCHIKADE: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "16:19:01",
-      "iso": "2026-09-01T10:49:01.282Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KATANA: “Already provided”"
     }
   ]
 }
