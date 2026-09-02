@@ -72050,6 +72050,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "11:07:33",
       "lastUpdated": "2026-09-02T05:37:33.153Z"
+    },
+    "U-BS8816||NEGOMBO": {
+      "remark": "90% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "11:07:54",
+      "lastUpdated": "2026-09-02T05:37:54.847Z"
     }
   },
   "showroomVisits": {
@@ -74056,6 +74063,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "11:07:54",
+      "iso": "2026-09-02T05:37:54.847Z",
+      "action": "updated remark for U-BS8816 at NEGOMBO: “90% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "11:07:33",
       "iso": "2026-09-02T05:37:33.162Z",
       "action": "updated remark for SIN-RFC-2058 at NEGOMBO: “15%”"
@@ -74395,13 +74409,6 @@
       "time": "10:26:56",
       "iso": "2026-09-02T04:56:56.354Z",
       "action": "updated remark for WFL-GRIP-CT02-S at NEGOMBO: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:26:35",
-      "iso": "2026-09-02T04:56:35.546Z",
-      "action": "updated remark for LF-LEO-HCUP-WNG-S at NEGOMBO: “50%”"
     }
   ]
 }
