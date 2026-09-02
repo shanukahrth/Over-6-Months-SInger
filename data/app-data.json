@@ -72624,6 +72624,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:51:30",
       "lastUpdated": "2026-09-02T07:21:30.990Z"
+    },
+    "SLE32D3010TC||JAYANTHIPURA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:51:42",
+      "lastUpdated": "2026-09-02T07:21:42.305Z"
     }
   },
   "showroomVisits": {
@@ -74636,6 +74643,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:51:42",
+      "iso": "2026-09-02T07:21:42.307Z",
+      "action": "updated remark for SLE32D3010TC at JAYANTHIPURA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:51:30",
       "iso": "2026-09-02T07:21:30.991Z",
       "action": "updated remark for SLE32D3010TC at NEGOMBO: “70%”"
@@ -74975,13 +74989,6 @@
       "time": "12:25:33",
       "iso": "2026-09-02T06:55:33.083Z",
       "action": "updated remark for HG-122 at NEGOMBO: “shop use”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:25:07",
-      "iso": "2026-09-02T06:55:07.257Z",
-      "action": "updated remark for HG-120 at NEGOMBO: “shop use”"
     }
   ]
 }
