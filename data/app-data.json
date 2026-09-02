@@ -70972,6 +70972,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "08:34:13",
       "lastUpdated": "2026-09-02T03:04:13.952Z"
+    },
+    "LP-AP01||KOCHCHIKADE": {
+      "remark": "Already provided",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "08:35:17",
+      "lastUpdated": "2026-09-02T03:05:17.446Z"
     }
   },
   "showroomVisits": {
@@ -72914,6 +72921,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "08:35:17",
+      "iso": "2026-09-02T03:05:17.448Z",
+      "action": "updated remark for LP-AP01 at KOCHCHIKADE: “Already provided”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "08:34:13",
       "iso": "2026-09-02T03:04:13.954Z",
       "action": "updated remark for LF-WIN-S-S at KOCHCHIKADE: “50%”"
@@ -73253,13 +73267,6 @@
       "time": "16:13:29",
       "iso": "2026-09-01T10:43:29.895Z",
       "action": "updated remark for SID129CU at KATANA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-01",
-      "time": "16:13:07",
-      "iso": "2026-09-01T10:43:07.654Z",
-      "action": "updated remark for RCS-04 at KATANA: “Already provided”"
     }
   ]
 }
