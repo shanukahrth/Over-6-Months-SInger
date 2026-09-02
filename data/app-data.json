@@ -71791,6 +71791,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:30:13",
       "lastUpdated": "2026-09-02T05:00:13.572Z"
+    },
+    "LF-ECO-BDQ-SHW-S||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:30:34",
+      "lastUpdated": "2026-09-02T05:00:34.939Z"
     }
   },
   "showroomVisits": {
@@ -73789,6 +73796,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:30:34",
+      "iso": "2026-09-02T05:00:34.940Z",
+      "action": "updated remark for LF-ECO-BDQ-SHW-S at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:30:13",
       "iso": "2026-09-02T05:00:13.573Z",
       "action": "updated remark for LF-COD-S at NEGOMBO: “70%”"
@@ -74128,13 +74142,6 @@
       "time": "10:03:59",
       "iso": "2026-09-02T04:33:59.225Z",
       "action": "updated remark for B-BMGB25332BG at NEGOMBO: “Additional -15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:03:47",
-      "iso": "2026-09-02T04:33:47.722Z",
-      "action": "updated remark for SWM-FAR75 at KOCHCHIKADE: “60% Total - Wire damaged”"
     }
   ]
 }
