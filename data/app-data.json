@@ -72092,6 +72092,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:03:00",
       "lastUpdated": "2026-09-02T06:33:00.499Z"
+    },
+    "SMG-SM-X115-GRY||NEGOMBO": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:03:28",
+      "lastUpdated": "2026-09-02T06:33:28.474Z"
     }
   },
   "showroomVisits": {
@@ -74098,6 +74105,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:03:28",
+      "iso": "2026-09-02T06:33:28.474Z",
+      "action": "updated remark for SMG-SM-X115-GRY at NEGOMBO: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:03:00",
       "iso": "2026-09-02T06:33:00.500Z",
       "action": "updated remark for SMG-SM-A055F-6-128-G at NEGOMBO: “70% - Battary issue”"
@@ -74437,13 +74451,6 @@
       "time": "10:29:54",
       "iso": "2026-09-02T04:59:54.260Z",
       "action": "updated remark for LF-CFGL1-BSC-S at NEGOMBO: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:29:28",
-      "iso": "2026-09-02T04:59:28.252Z",
-      "action": "updated remark for LF-BUDGET-ST-AGO-S at NEGOMBO: “50%”"
     }
   ]
 }
