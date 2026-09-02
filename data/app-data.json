@@ -71728,6 +71728,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:26:15",
       "lastUpdated": "2026-09-02T04:56:15.126Z"
+    },
+    "LF-LEO-HCUP-WNG-S||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:26:35",
+      "lastUpdated": "2026-09-02T04:56:35.544Z"
     }
   },
   "showroomVisits": {
@@ -73726,6 +73733,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:26:35",
+      "iso": "2026-09-02T04:56:35.546Z",
+      "action": "updated remark for LF-LEO-HCUP-WNG-S at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:26:15",
       "iso": "2026-09-02T04:56:15.128Z",
       "action": "updated remark for LF-LEO-15023-WNG-S at NEGOMBO: “50%”"
@@ -74064,13 +74078,6 @@
       "date": "2026-09-02",
       "time": "10:00:21",
       "iso": "2026-09-02T04:30:21.047Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at NEGOMBO: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:00:18",
-      "iso": "2026-09-02T04:30:18.506Z",
       "action": "updated remark for PN-SC-BMAX5E-K at NEGOMBO: “60%”"
     }
   ]
