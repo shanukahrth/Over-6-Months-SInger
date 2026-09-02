@@ -71637,6 +71637,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:21:01",
       "lastUpdated": "2026-09-02T04:51:01.753Z"
+    },
+    "WFL-MONACO-10-S||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:21:21",
+      "lastUpdated": "2026-09-02T04:51:21.872Z"
     }
   },
   "showroomVisits": {
@@ -73635,6 +73642,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "10:21:21",
+      "iso": "2026-09-02T04:51:21.876Z",
+      "action": "updated remark for WFL-MONACO-10-S at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "10:21:01",
       "iso": "2026-09-02T04:51:01.755Z",
       "action": "updated remark for WFL-GRIP-CT01-S at KOCHCHIKADE: “50%”"
@@ -73974,13 +73988,6 @@
       "time": "09:53:31",
       "iso": "2026-09-02T04:23:31.335Z",
       "action": "updated remark for STT-200K at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:53:03",
-      "iso": "2026-09-02T04:23:03.923Z",
-      "action": "updated remark for STO-EO30C at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
