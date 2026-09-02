@@ -71714,6 +71714,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:24:12",
       "lastUpdated": "2026-09-02T04:54:12.443Z"
+    },
+    "LF-STUDY-T-AGO-S||NEGOMBO": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:24:22",
+      "lastUpdated": "2026-09-02T04:54:22.943Z"
     }
   },
   "showroomVisits": {
@@ -73710,6 +73717,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "10:24:22",
+      "iso": "2026-09-02T04:54:22.944Z",
+      "action": "updated remark for LF-STUDY-T-AGO-S at NEGOMBO: “60%”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "10:24:12",
@@ -74051,13 +74065,6 @@
       "time": "09:59:55",
       "iso": "2026-09-02T04:29:55.182Z",
       "action": "updated remark for PN-SC-BMAX10E-K at NEGOMBO: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "09:59:29",
-      "iso": "2026-09-02T04:29:29.026Z",
-      "action": "updated remark for PN-MIC-W-107 at NEGOMBO: “Drop”"
     }
   ]
 }
