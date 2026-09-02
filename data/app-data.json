@@ -72316,6 +72316,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:19:49",
       "lastUpdated": "2026-09-02T06:49:49.647Z"
+    },
+    "BES-WP15-ECO||NEGOMBO": {
+      "remark": "50% - Battary damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:20:26",
+      "lastUpdated": "2026-09-02T06:50:26.900Z"
     }
   },
   "showroomVisits": {
@@ -74322,6 +74329,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:20:26",
+      "iso": "2026-09-02T06:50:26.902Z",
+      "action": "updated remark for BES-WP15-ECO at NEGOMBO: “50% - Battary damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:19:49",
       "iso": "2026-09-02T06:49:49.648Z",
       "action": "updated remark for BES-CRS-51 at NEGOMBO: “10%”"
@@ -74661,13 +74675,6 @@
       "time": "11:02:52",
       "iso": "2026-09-02T05:32:52.792Z",
       "action": "updated remark for MD-GSE-L004 at NEGOMBO: “shop use”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "11:00:48",
-      "iso": "2026-09-02T05:30:48.411Z",
-      "action": "updated remark for SL-GSE-S001 at NEGOMBO: “shop use - Rack parts”"
     }
   ]
 }
