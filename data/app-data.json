@@ -72120,6 +72120,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:05:43",
       "lastUpdated": "2026-09-02T06:35:43.764Z"
+    },
+    "HON-X9B-12-256-ORG||NEGOMBO": {
+      "remark": "70% Display issue",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:06:09",
+      "lastUpdated": "2026-09-02T06:36:09.815Z"
     }
   },
   "showroomVisits": {
@@ -74126,6 +74133,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:06:09",
+      "iso": "2026-09-02T06:36:09.815Z",
+      "action": "updated remark for HON-X9B-12-256-ORG at NEGOMBO: “70% Display issue”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:05:43",
       "iso": "2026-09-02T06:35:43.764Z",
       "action": "updated remark for HON-X8C-8-512-BLK at NEGOMBO: “sold”"
@@ -74465,13 +74479,6 @@
       "time": "10:31:43",
       "iso": "2026-09-02T05:01:43.290Z",
       "action": "updated remark for PU-WG90 at NEGOMBO: “sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:31:00",
-      "iso": "2026-09-02T05:01:00.743Z",
-      "action": "updated remark for LF-LCDRIO-CHY-S at NEGOMBO: “80%”"
     }
   ]
 }
