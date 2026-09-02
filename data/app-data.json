@@ -71805,6 +71805,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:31:00",
       "lastUpdated": "2026-09-02T05:01:00.742Z"
+    },
+    "PU-WG90||NEGOMBO": {
+      "remark": "sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:31:43",
+      "lastUpdated": "2026-09-02T05:01:43.289Z"
     }
   },
   "showroomVisits": {
@@ -73803,6 +73810,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:31:43",
+      "iso": "2026-09-02T05:01:43.290Z",
+      "action": "updated remark for PU-WG90 at NEGOMBO: “sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:31:00",
       "iso": "2026-09-02T05:01:00.743Z",
       "action": "updated remark for LF-LCDRIO-CHY-S at NEGOMBO: “80%”"
@@ -74142,13 +74156,6 @@
       "time": "10:04:17",
       "iso": "2026-09-02T04:34:17.106Z",
       "action": "updated remark for B-CFB9433XH at NEGOMBO: “Additional -15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:04:00",
-      "iso": "2026-09-02T04:34:00.121Z",
-      "action": "updated remark for SWM-FAR75 at KOCHCHIKADE (cleared)"
     }
   ]
 }
