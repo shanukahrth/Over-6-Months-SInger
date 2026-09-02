@@ -71539,6 +71539,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:06:30",
       "lastUpdated": "2026-09-02T04:36:30.221Z"
+    },
+    "DELL3520-I3-8GB256-SIL||NEGOMBO": {
+      "remark": "Total 65%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:07:04",
+      "lastUpdated": "2026-09-02T04:37:04.642Z"
     }
   },
   "showroomVisits": {
@@ -73537,6 +73544,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:07:04",
+      "iso": "2026-09-02T04:37:04.642Z",
+      "action": "updated remark for DELL3520-I3-8GB256-SIL at NEGOMBO: “Total 65%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:06:30",
       "iso": "2026-09-02T04:36:30.222Z",
       "action": "updated remark for AS-ZEN-15G-U5-1TB-328-SIL at NEGOMBO: “Return to WH”"
@@ -73876,13 +73890,6 @@
       "time": "09:47:00",
       "iso": "2026-09-02T04:17:00.400Z",
       "action": "updated remark for SL-SST082 at KOCHCHIKADE: “Already provided”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:46:26",
-      "iso": "2026-09-02T04:16:26.703Z",
-      "action": "updated remark for SL-PB-426 at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
