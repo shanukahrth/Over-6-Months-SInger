@@ -71952,6 +71952,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:48:02",
       "lastUpdated": "2026-09-02T05:18:02.756Z"
+    },
+    "TF-GS-SPKT302||NEGOMBO": {
+      "remark": "20%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:48:21",
+      "lastUpdated": "2026-09-02T05:18:21.304Z"
     }
   },
   "showroomVisits": {
@@ -73958,6 +73965,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:48:21",
+      "iso": "2026-09-02T05:18:21.306Z",
+      "action": "updated remark for TF-GS-SPKT302 at NEGOMBO: “20%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:48:02",
       "iso": "2026-09-02T05:18:02.757Z",
       "action": "updated remark for SLE-75IFPD at NEGOMBO: “70%”"
@@ -74297,13 +74311,6 @@
       "time": "10:21:43",
       "iso": "2026-09-02T04:51:43.918Z",
       "action": "updated remark for WFL-SPM-72X60X7-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:21:21",
-      "iso": "2026-09-02T04:51:21.876Z",
-      "action": "updated remark for WFL-MONACO-10-S at KOCHCHIKADE: “50%”"
     }
   ]
 }
