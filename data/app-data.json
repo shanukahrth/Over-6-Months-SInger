@@ -71322,6 +71322,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:52:38",
       "lastUpdated": "2026-09-02T04:22:38.085Z"
+    },
+    "SRS-XP700||KOCHCHIKADE": {
+      "remark": "30%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:52:45",
+      "lastUpdated": "2026-09-02T04:22:45.706Z"
     }
   },
   "showroomVisits": {
@@ -73318,6 +73325,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
+      "time": "09:52:45",
+      "iso": "2026-09-02T04:22:45.710Z",
+      "action": "updated remark for SRS-XP700 at KOCHCHIKADE: “30%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
       "time": "09:52:38",
@@ -73659,13 +73673,6 @@
       "time": "08:45:13",
       "iso": "2026-09-02T03:15:13.768Z",
       "action": "updated remark for PF-CAFE-NEW-RW-S at KOCHCHIKADE: “10% -Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:44:50",
-      "iso": "2026-09-02T03:14:50.230Z",
-      "action": "updated remark for NWD1300C at KOCHCHIKADE: “85%”"
     }
   ]
 }
