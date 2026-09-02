@@ -71973,6 +71973,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:52:59",
       "lastUpdated": "2026-09-02T05:22:59.684Z"
+    },
+    "TF-SI-EXSP1231||NEGOMBO": {
+      "remark": "20%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:53:16",
+      "lastUpdated": "2026-09-02T05:23:16.692Z"
     }
   },
   "showroomVisits": {
@@ -73979,6 +73986,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:53:16",
+      "iso": "2026-09-02T05:23:16.694Z",
+      "action": "updated remark for TF-SI-EXSP1231 at NEGOMBO: “20%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:52:59",
       "iso": "2026-09-02T05:22:59.686Z",
       "action": "updated remark for TF-SI-EXS1230 at NEGOMBO: “20%”"
@@ -74318,13 +74332,6 @@
       "time": "10:22:32",
       "iso": "2026-09-02T04:52:32.676Z",
       "action": "updated remark for WFL-SPM-78X60X8-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:22:17",
-      "iso": "2026-09-02T04:52:17.183Z",
-      "action": "updated remark for WFL-SPM-78X48X8-S at KOCHCHIKADE: “50%”"
     }
   ]
 }
