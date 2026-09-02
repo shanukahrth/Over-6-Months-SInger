@@ -72477,6 +72477,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:43:52",
       "lastUpdated": "2026-09-02T07:13:52.727Z"
+    },
+    "SLE42D2070TC||GAMPOLA - C": {
+      "remark": "exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:44:19",
+      "lastUpdated": "2026-09-02T07:14:19.173Z"
     }
   },
   "showroomVisits": {
@@ -74489,6 +74496,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:44:19",
+      "iso": "2026-09-02T07:14:19.175Z",
+      "action": "updated remark for SLE42D2070TC at GAMPOLA - C: “exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:43:52",
       "iso": "2026-09-02T07:13:52.729Z",
       "action": "updated remark for SLE42D2070TC at SERVICE-COLOMBO: “exchange”"
@@ -74828,13 +74842,6 @@
       "time": "12:12:49",
       "iso": "2026-09-02T06:42:49.049Z",
       "action": "updated remark for FT-FED-35001 at NEGOMBO: “0%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:12:25",
-      "iso": "2026-09-02T06:42:25.625Z",
-      "action": "updated remark for ENG-UE20012 at NEGOMBO: “85% battary damage”"
     }
   ]
 }
