@@ -71560,6 +71560,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:09:03",
       "lastUpdated": "2026-09-02T04:39:03.213Z"
+    },
+    "ULED40D5000||KOCHCHIKADE": {
+      "remark": "Exchange",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:09:29",
+      "lastUpdated": "2026-09-02T04:39:29.954Z"
     }
   },
   "showroomVisits": {
@@ -73558,6 +73565,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "10:09:29",
+      "iso": "2026-09-02T04:39:29.958Z",
+      "action": "updated remark for ULED40D5000 at KOCHCHIKADE: “Exchange”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "10:09:03",
       "iso": "2026-09-02T04:39:03.219Z",
       "action": "updated remark for TF-SI-ESS-242 at KOCHCHIKADE: “15%”"
@@ -73897,13 +73911,6 @@
       "time": "09:48:45",
       "iso": "2026-09-02T04:18:45.742Z",
       "action": "updated remark for SLE40E910 at KOCHCHIKADE: “Exchange”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:48:22",
-      "iso": "2026-09-02T04:18:22.692Z",
-      "action": "updated remark for SLE40D600A at KOCHCHIKADE: “Revert - To be return to the customer”"
     }
   ]
 }
