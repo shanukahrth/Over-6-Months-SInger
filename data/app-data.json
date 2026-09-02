@@ -72744,6 +72744,22 @@
       "remark": "",
       "updatedBy": "Janitha Sudugodage",
       "updatedDate": "2026-09-02"
+    },
+    "PADIYATHALAWA||MAHIYANGANA": {
+      "visited": "No",
+      "visitDate": "",
+      "team": "Team Furniture , Lakshan & Janitha ",
+      "remark": "",
+      "updatedBy": "Janitha Sudugodage",
+      "updatedDate": "2026-09-02"
+    },
+    "SIRIPURA-LITE||MAHIYANGANA": {
+      "visited": "No",
+      "visitDate": "",
+      "team": "Team Furniture , Lakshan & Janitha ",
+      "remark": "",
+      "updatedBy": "Janitha Sudugodage",
+      "updatedDate": "2026-09-02"
     }
   },
   "soldMarks": {
@@ -73100,6 +73116,20 @@
     {
       "user": "Janitha Sudugodage",
       "date": "2026-09-02",
+      "time": "08:50:56",
+      "iso": "2026-09-02T03:20:56.553Z",
+      "action": "updated SIRIPURA-LITE showroom (team: Team Furniture , Lakshan & Janitha )"
+    },
+    {
+      "user": "Janitha Sudugodage",
+      "date": "2026-09-02",
+      "time": "08:50:51",
+      "iso": "2026-09-02T03:20:51.192Z",
+      "action": "updated PADIYATHALAWA showroom (team: Team Furniture , Lakshan & Janitha )"
+    },
+    {
+      "user": "Janitha Sudugodage",
+      "date": "2026-09-02",
       "time": "08:50:28",
       "iso": "2026-09-02T03:20:28.765Z",
       "action": "updated BIBILE showroom (team: Team Furniture , Lakshan & Janitha )"
@@ -73432,20 +73462,6 @@
       "time": "08:24:25",
       "iso": "2026-09-02T02:54:25.946Z",
       "action": "updated remark for HON-X7C-8-256-GRN at KOCHCHIKADE: “Additional 15%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:23:50",
-      "iso": "2026-09-02T02:53:50.598Z",
-      "action": "updated remark for HON-WATCH-4 at KOCHCHIKADE: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "08:23:22",
-      "iso": "2026-09-02T02:53:22.209Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at KOCHCHIKADE: “sold”"
     }
   ]
 }
