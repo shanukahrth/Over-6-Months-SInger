@@ -71931,6 +71931,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:41:40",
       "lastUpdated": "2026-09-02T05:11:40.138Z"
+    },
+    "SWH-338EP||NEGOMBO": {
+      "remark": "60% Damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:47:23",
+      "lastUpdated": "2026-09-02T05:17:23.319Z"
     }
   },
   "showroomVisits": {
@@ -73937,6 +73944,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:47:23",
+      "iso": "2026-09-02T05:17:23.325Z",
+      "action": "updated remark for SWH-338EP at NEGOMBO: “60% Damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:44:30",
       "iso": "2026-09-02T05:14:30.097Z",
       "action": "updated NEGOMBO showroom (visited: Yes)"
@@ -74276,13 +74290,6 @@
       "time": "10:20:57",
       "iso": "2026-09-02T04:50:57.147Z",
       "action": "updated remark for WFL-GRIP-CT01-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:20:41",
-      "iso": "2026-09-02T04:50:41.317Z",
-      "action": "updated remark for WFL-CF-78X36X4-SS at KOCHCHIKADE: “10% -Additional”"
     }
   ]
 }
