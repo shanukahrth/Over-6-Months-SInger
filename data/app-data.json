@@ -71350,6 +71350,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "09:53:31",
       "lastUpdated": "2026-09-02T04:23:31.332Z"
+    },
+    "DUM-SMGAR50F12D0J||NEGOMBO": {
+      "remark": "Dummy",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "09:53:32",
+      "lastUpdated": "2026-09-02T04:23:32.194Z"
     }
   },
   "showroomVisits": {
@@ -73346,6 +73353,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "09:53:32",
+      "iso": "2026-09-02T04:23:32.195Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at NEGOMBO: “Dummy”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "09:53:31",
@@ -73687,13 +73701,6 @@
       "time": "08:47:17",
       "iso": "2026-09-02T03:17:17.511Z",
       "action": "updated remark for PF-MONDY-BLUE at KOCHCHIKADE: “60% - Damaged”"
-    },
-    {
-      "user": "Janitha Sudugodage",
-      "date": "2026-09-02",
-      "time": "08:47:14",
-      "iso": "2026-09-02T03:17:14.051Z",
-      "action": "updated DEHIATTAKANDIYA showroom (visited: Yes)"
     }
   ]
 }
