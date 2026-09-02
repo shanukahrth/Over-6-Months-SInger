@@ -71770,6 +71770,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:29:09",
       "lastUpdated": "2026-09-02T04:59:09.780Z"
+    },
+    "LF-BUDGET-ST-AGO-S||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:29:28",
+      "lastUpdated": "2026-09-02T04:59:28.250Z"
     }
   },
   "showroomVisits": {
@@ -73768,6 +73775,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:29:28",
+      "iso": "2026-09-02T04:59:28.252Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:29:09",
       "iso": "2026-09-02T04:59:09.783Z",
       "action": "updated remark for LF-BUDGET-2WD-EC-S at NEGOMBO: “50%”"
@@ -74107,13 +74121,6 @@
       "time": "10:03:13",
       "iso": "2026-09-02T04:33:13.887Z",
       "action": "updated remark for HFPA-MUSICBOX100-SIL at NEGOMBO: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:02:38",
-      "iso": "2026-09-02T04:32:38.379Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at NEGOMBO: “Rs.30,000/- Special Price”"
     }
   ]
 }
