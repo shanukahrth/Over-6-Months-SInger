@@ -71616,6 +71616,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:17:00",
       "lastUpdated": "2026-09-02T04:47:00.177Z"
+    },
+    "WF-ROM-SC-S||KOCHCHIKADE": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:17:30",
+      "lastUpdated": "2026-09-02T04:47:30.344Z"
     }
   },
   "showroomVisits": {
@@ -73614,6 +73621,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-02",
+      "time": "10:17:30",
+      "iso": "2026-09-02T04:47:30.345Z",
+      "action": "updated remark for WF-ROM-SC-S at KOCHCHIKADE: “50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-02",
       "time": "10:17:00",
       "iso": "2026-09-02T04:47:00.181Z",
       "action": "updated remark for WF-DOC-T011-BU-S at KOCHCHIKADE: “10% -Additional”"
@@ -73953,13 +73967,6 @@
       "time": "09:52:38",
       "iso": "2026-09-02T04:22:38.087Z",
       "action": "updated remark for H-RMRG024HFEOE at NEGOMBO: “EOL - OFFER FLAT 40%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "09:52:28",
-      "iso": "2026-09-02T04:22:28.485Z",
-      "action": "updated remark for SMW928AS3 at KOCHCHIKADE: “Already provided”"
     }
   ]
 }
