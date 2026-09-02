@@ -73573,6 +73573,14 @@
       "remark": "",
       "updatedBy": "Janitha Sudugodage",
       "updatedDate": "2026-09-02"
+    },
+    "NEGOMBO||NEGOMBO": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "COLOMBO NOTH AREA",
+      "remark": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-02"
     }
   },
   "soldMarks": {
@@ -73929,6 +73937,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:44:30",
+      "iso": "2026-09-02T05:14:30.097Z",
+      "action": "updated NEGOMBO showroom (visited: Yes)"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "10:44:26",
+      "iso": "2026-09-02T05:14:26.153Z",
+      "action": "updated NEGOMBO showroom (team: COLOMBO NOTH AREA)"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:41:40",
       "iso": "2026-09-02T05:11:40.139Z",
       "action": "updated remark for SWH-118E at NEGOMBO: “60% Damage”"
@@ -74261,20 +74283,6 @@
       "time": "10:20:41",
       "iso": "2026-09-02T04:50:41.317Z",
       "action": "updated remark for WFL-CF-78X36X4-SS at KOCHCHIKADE: “10% -Additional”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:17:30",
-      "iso": "2026-09-02T04:47:30.345Z",
-      "action": "updated remark for WF-ROM-SC-S at KOCHCHIKADE: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:17:00",
-      "iso": "2026-09-02T04:47:00.181Z",
-      "action": "updated remark for WF-DOC-T011-BU-S at KOCHCHIKADE: “10% -Additional”"
     }
   ]
 }
