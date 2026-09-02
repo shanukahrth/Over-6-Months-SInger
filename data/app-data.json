@@ -72274,6 +72274,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:17:27",
       "lastUpdated": "2026-09-02T06:47:27.132Z"
+    },
+    "GEO-242D-TG||NEGOMBO": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:17:54",
+      "lastUpdated": "2026-09-02T06:47:54.827Z"
     }
   },
   "showroomVisits": {
@@ -74280,6 +74287,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:17:54",
+      "iso": "2026-09-02T06:47:54.828Z",
+      "action": "updated remark for GEO-242D-TG at NEGOMBO: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:17:27",
       "iso": "2026-09-02T06:47:27.133Z",
       "action": "updated remark for GEO-242D-SV at NEGOMBO: “25%”"
@@ -74619,13 +74633,6 @@
       "time": "10:48:21",
       "iso": "2026-09-02T05:18:21.306Z",
       "action": "updated remark for TF-GS-SPKT302 at NEGOMBO: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:48:02",
-      "iso": "2026-09-02T05:18:02.757Z",
-      "action": "updated remark for SLE-75IFPD at NEGOMBO: “70%”"
     }
   ]
 }
