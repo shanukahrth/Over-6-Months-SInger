@@ -72575,6 +72575,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:47:15",
       "lastUpdated": "2026-09-02T07:17:15.265Z"
+    },
+    "SLE55Q21||HALI-ELA": {
+      "remark": "85% - Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:47:38",
+      "lastUpdated": "2026-09-02T07:17:38.614Z"
     }
   },
   "showroomVisits": {
@@ -74587,6 +74594,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:47:38",
+      "iso": "2026-09-02T07:17:38.624Z",
+      "action": "updated remark for SLE55Q21 at HALI-ELA: “85% - Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:47:15",
       "iso": "2026-09-02T07:17:15.267Z",
       "action": "updated remark for SLE55Q21 at SERVICE-COLOMBO: “85% - Damaged”"
@@ -74926,13 +74940,6 @@
       "time": "12:20:26",
       "iso": "2026-09-02T06:50:26.902Z",
       "action": "updated remark for BES-WP15-ECO at NEGOMBO: “50% - Battary damage”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:19:49",
-      "iso": "2026-09-02T06:49:49.648Z",
-      "action": "updated remark for BES-CRS-51 at NEGOMBO: “10%”"
     }
   ]
 }
