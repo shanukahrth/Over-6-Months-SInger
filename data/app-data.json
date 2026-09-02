@@ -72953,6 +72953,20 @@
       "commentDate": "2026-09-02",
       "commentTime": "13:02:24",
       "lastUpdated": "2026-09-02T07:32:24.616Z"
+    },
+    "PN-TH-55MX740N||KALMUNAI": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:36:23",
+      "lastUpdated": "2026-09-02T08:06:23.993Z"
+    },
+    "PN-TH-55MX740N||TRINCOMALEE B": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "13:36:26",
+      "lastUpdated": "2026-09-02T08:06:26.892Z"
     }
   },
   "showroomVisits": {
@@ -74965,6 +74979,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "13:36:26",
+      "iso": "2026-09-02T08:06:26.893Z",
+      "action": "updated remark for PN-TH-55MX740N at TRINCOMALEE B: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "13:36:23",
+      "iso": "2026-09-02T08:06:23.995Z",
+      "action": "updated remark for PN-TH-55MX740N at KALMUNAI: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "13:02:24",
       "iso": "2026-09-02T07:32:24.724Z",
       "action": "updated remark for PN-TH-55MX740N at NITTAMBUWA: “70%”"
@@ -75297,20 +75325,6 @@
       "time": "12:52:20",
       "iso": "2026-09-02T07:22:20.943Z",
       "action": "updated remark for PN-TH-32M402N at AKURANA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:51:42",
-      "iso": "2026-09-02T07:21:42.307Z",
-      "action": "updated remark for SLE32D3010TC at JAYANTHIPURA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:51:30",
-      "iso": "2026-09-02T07:21:30.991Z",
-      "action": "updated remark for SLE32D3010TC at NEGOMBO: “70%”"
     }
   ]
 }
