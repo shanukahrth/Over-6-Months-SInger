@@ -72610,6 +72610,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:50:29",
       "lastUpdated": "2026-09-02T07:20:29.896Z"
+    },
+    "SLE32D3010TC||WALAPANE": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:51:14",
+      "lastUpdated": "2026-09-02T07:21:14.961Z"
     }
   },
   "showroomVisits": {
@@ -74622,6 +74629,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:51:14",
+      "iso": "2026-09-02T07:21:14.962Z",
+      "action": "updated remark for SLE32D3010TC at WALAPANE: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:50:29",
       "iso": "2026-09-02T07:20:29.899Z",
       "action": "updated remark for SLE32D3010TC at RIKILLAGASKADA: “70%”"
@@ -74961,13 +74975,6 @@
       "time": "12:23:05",
       "iso": "2026-09-02T06:53:05.229Z",
       "action": "updated remark for NEXT-K9-85 at NEGOMBO: “shop use”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "12:22:37",
-      "iso": "2026-09-02T06:52:37.013Z",
-      "action": "updated remark for PWRMAX at NEGOMBO: “shop use”"
     }
   ]
 }
