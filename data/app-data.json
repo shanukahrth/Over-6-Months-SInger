@@ -71700,6 +71700,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:23:53",
       "lastUpdated": "2026-09-02T04:53:53.110Z"
+    },
+    "SIN-8404||NEGOMBO": {
+      "remark": "Special price 17,500",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:24:02",
+      "lastUpdated": "2026-09-02T04:54:02.416Z"
     }
   },
   "showroomVisits": {
@@ -73696,6 +73703,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
+      "time": "10:24:02",
+      "iso": "2026-09-02T04:54:02.417Z",
+      "action": "updated remark for SIN-8404 at NEGOMBO: “Special price 17,500”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-02",
       "time": "10:23:53",
@@ -74037,13 +74051,6 @@
       "time": "09:59:08",
       "iso": "2026-09-02T04:29:08.883Z",
       "action": "updated remark for SIN-PSVX938N at NEGOMBO: “15,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "09:58:33",
-      "iso": "2026-09-02T04:28:33.051Z",
-      "action": "updated remark for SVX6008 at NEGOMBO: “Exchange - PO pending”"
     }
   ]
 }
