@@ -72204,6 +72204,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "12:11:31",
       "lastUpdated": "2026-09-02T06:41:31.327Z"
+    },
+    "ENG-UE20012||NEGOMBO": {
+      "remark": "85% battary damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "12:11:51",
+      "lastUpdated": "2026-09-02T06:41:51.052Z"
     }
   },
   "showroomVisits": {
@@ -74210,6 +74217,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "12:11:51",
+      "iso": "2026-09-02T06:41:51.053Z",
+      "action": "updated remark for ENG-UE20012 at NEGOMBO: “85% battary damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "12:11:31",
       "iso": "2026-09-02T06:41:31.328Z",
       "action": "updated remark for ENG-PUVPB01-WH at NEGOMBO: “85% - battary damage”"
@@ -74549,13 +74563,6 @@
       "time": "10:36:13",
       "iso": "2026-09-02T05:06:13.762Z",
       "action": "updated remark for LF-FELI-TVS-SWW-S at NEGOMBO: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "10:35:46",
-      "iso": "2026-09-02T05:05:46.744Z",
-      "action": "updated remark for WF-DOC-M003-BU-S at NEGOMBO: “10%”"
     }
   ]
 }
