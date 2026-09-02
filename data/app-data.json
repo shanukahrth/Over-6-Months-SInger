@@ -71882,6 +71882,13 @@
       "commentDate": "2026-09-02",
       "commentTime": "10:35:26",
       "lastUpdated": "2026-09-02T05:05:26.809Z"
+    },
+    "WF-DOC-M003-BU-S||NEGOMBO": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-02",
+      "commentTime": "10:35:46",
+      "lastUpdated": "2026-09-02T05:05:46.743Z"
     }
   },
   "showroomVisits": {
@@ -73880,6 +73887,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-02",
+      "time": "10:35:46",
+      "iso": "2026-09-02T05:05:46.744Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at NEGOMBO: “10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-02",
       "time": "10:35:26",
       "iso": "2026-09-02T05:05:26.811Z",
       "action": "updated remark for WFL-SPM-78X72X8-S at NEGOMBO: “70%”"
@@ -74219,13 +74233,6 @@
       "time": "10:09:44",
       "iso": "2026-09-02T04:39:44.463Z",
       "action": "updated remark for UPRO-12000 at KOCHCHIKADE: “0%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-02",
-      "time": "10:09:29",
-      "iso": "2026-09-02T04:39:29.958Z",
-      "action": "updated remark for ULED40D5000 at KOCHCHIKADE: “Exchange”"
     }
   ]
 }
