@@ -74472,6 +74472,13 @@
       "commentDate": "2026-09-03",
       "commentTime": "09:57:49",
       "lastUpdated": "2026-09-03T04:27:49.283Z"
+    },
+    "SIN-PR-K340||BALANGODA": {
+      "remark": "29,000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-03",
+      "commentTime": "09:59:53",
+      "lastUpdated": "2026-09-03T04:29:53.165Z"
     }
   },
   "showroomVisits": {
@@ -76484,6 +76491,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-03",
+      "time": "09:59:53",
+      "iso": "2026-09-03T04:29:53.167Z",
+      "action": "updated remark for SIN-PR-K340 at BALANGODA: “29,000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-03",
       "time": "09:57:49",
       "iso": "2026-09-03T04:27:49.287Z",
       "action": "updated remark for SLE32E930 at BALANGODA: “20,000”"
@@ -76823,13 +76837,6 @@
       "time": "14:34:22",
       "iso": "2026-09-02T09:04:22.949Z",
       "action": "updated remark for HU-WATCHFIT4-BLK at MEGA -KADUWELA: “Sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "14:33:37",
-      "iso": "2026-09-02T09:03:37.278Z",
-      "action": "updated remark for SMG-WATCH-ACTIVE2-B at NEGOMBO: “Return to WH”"
     }
   ]
 }
