@@ -74486,6 +74486,13 @@
       "commentDate": "2026-09-03",
       "commentTime": "10:09:20",
       "lastUpdated": "2026-09-03T04:39:20.160Z"
+    },
+    "PN-TH-32M402N||BALANGODA C": {
+      "remark": "upto 40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-03",
+      "commentTime": "10:19:45",
+      "lastUpdated": "2026-09-03T04:49:45.122Z"
     }
   },
   "showroomVisits": {
@@ -76498,6 +76505,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-03",
+      "time": "10:19:45",
+      "iso": "2026-09-03T04:49:45.125Z",
+      "action": "updated remark for PN-TH-32M402N at BALANGODA C: “upto 40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-03",
       "time": "10:09:20",
       "iso": "2026-09-03T04:39:20.162Z",
       "action": "updated remark for TF-NIGP26-119 at BALANGODA: “12,000”"
@@ -76837,13 +76851,6 @@
       "time": "14:34:34",
       "iso": "2026-09-02T09:04:34.516Z",
       "action": "updated remark for HU-WATCHFIT4-BLK at TRINCOMALEE B: “Sold”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-02",
-      "time": "14:34:28",
-      "iso": "2026-09-02T09:04:28.109Z",
-      "action": "updated remark for HU-WATCHFIT4-BLK at HAYLEYS WELFARE-MEGA: “Sold”"
     }
   ]
 }
