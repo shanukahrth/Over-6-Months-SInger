@@ -75179,6 +75179,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "10:25:32",
       "lastUpdated": "2026-09-04T04:55:32.950Z"
+    },
+    "SLE32D5000||BAKAMOONA": {
+      "remark": "90% (Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "10:25:47",
+      "lastUpdated": "2026-09-04T04:55:47.910Z"
     }
   },
   "showroomVisits": {
@@ -77191,6 +77198,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "10:25:47",
+      "iso": "2026-09-04T04:55:47.911Z",
+      "action": "updated remark for SLE32D5000 at BAKAMOONA: “90% (Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "10:25:32",
       "iso": "2026-09-04T04:55:32.952Z",
       "action": "updated remark for FAN-P-1605H at BAKAMOONA: “70% Discount”"
@@ -77530,13 +77544,6 @@
       "time": "09:53:54",
       "iso": "2026-09-04T04:23:54.861Z",
       "action": "updated remark for SLE32E930 at BAKAMOONA: “90%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "09:53:39",
-      "iso": "2026-09-04T04:23:39.785Z",
-      "action": "updated remark for SL-XLS150 at BAKAMOONA: “70% Discount”"
     }
   ]
 }
