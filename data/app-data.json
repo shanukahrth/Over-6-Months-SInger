@@ -74843,6 +74843,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "09:52:15",
       "lastUpdated": "2026-09-04T04:22:15.992Z"
+    },
+    "SIN-W66PA28||BAKAMOONA": {
+      "remark": "80% (Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "09:52:35",
+      "lastUpdated": "2026-09-04T04:22:35.346Z"
     }
   },
   "showroomVisits": {
@@ -76855,6 +76862,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "09:52:35",
+      "iso": "2026-09-04T04:22:35.348Z",
+      "action": "updated remark for SIN-W66PA28 at BAKAMOONA: “80% (Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "09:52:15",
       "iso": "2026-09-04T04:22:15.993Z",
       "action": "updated remark for AS-13G-I3-512GB-3851-SIL at BAKAMOONA: “60%”"
@@ -77194,13 +77208,6 @@
       "time": "09:43:24",
       "iso": "2026-09-04T04:13:24.235Z",
       "action": "updated remark for SASI60CM at RATHNAPURA - C: “29000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-04",
-      "time": "09:43:24",
-      "iso": "2026-09-04T04:13:24.232Z",
-      "action": "updated remark for SMGRT28A3021GS at SHOMES-RATHNAPURA: “Flat 60%”"
     }
   ]
 }
