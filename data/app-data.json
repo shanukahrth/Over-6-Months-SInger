@@ -74822,6 +74822,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "09:50:45",
       "lastUpdated": "2026-09-04T04:20:45.224Z"
+    },
+    "DELL3520-I3-8GB256-SIL||BAKAMOONA": {
+      "remark": "80%( Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "09:51:17",
+      "lastUpdated": "2026-09-04T04:21:17.997Z"
     }
   },
   "showroomVisits": {
@@ -76834,6 +76841,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "09:51:17",
+      "iso": "2026-09-04T04:21:17.997Z",
+      "action": "updated remark for DELL3520-I3-8GB256-SIL at BAKAMOONA: “80%( Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "09:50:45",
       "iso": "2026-09-04T04:20:45.224Z",
       "action": "updated remark for SLE40D600A at BAKAMOONA: “60% (Packing damage)”"
@@ -77173,13 +77187,6 @@
       "time": "10:20:33",
       "iso": "2026-09-03T04:50:33.437Z",
       "action": "updated remark for LG-002 at BALANGODA C: “Additional  30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-03",
-      "time": "10:19:45",
-      "iso": "2026-09-03T04:49:45.125Z",
-      "action": "updated remark for PN-TH-32M402N at BALANGODA C: “upto 40%”"
     }
   ]
 }
