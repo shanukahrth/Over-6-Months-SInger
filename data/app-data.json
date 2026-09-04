@@ -75242,6 +75242,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "10:29:34",
       "lastUpdated": "2026-09-04T04:59:34.869Z"
+    },
+    "SDV3605K||BAKAMOONA": {
+      "remark": "30% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "10:30:29",
+      "lastUpdated": "2026-09-04T05:00:29.620Z"
     }
   },
   "showroomVisits": {
@@ -77254,6 +77261,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "10:30:29",
+      "iso": "2026-09-04T05:00:29.622Z",
+      "action": "updated remark for SDV3605K at BAKAMOONA: “30% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "10:29:34",
       "iso": "2026-09-04T04:59:34.871Z",
       "action": "updated remark for TCLED32D3000 at BAKAMOONA: “90% Discount (Damage)”"
@@ -77593,13 +77607,6 @@
       "time": "09:56:12",
       "iso": "2026-09-04T04:26:12.330Z",
       "action": "updated remark for WP-DI-SG-S at BAKAMOONA: “70%”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "09:55:52",
-      "iso": "2026-09-04T04:25:52.885Z",
-      "action": "updated remark for WF-PARIS-BL-S at BAKAMOONA: “Sold”"
     }
   ]
 }
