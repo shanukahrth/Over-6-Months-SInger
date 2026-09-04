@@ -74885,6 +74885,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "09:54:20",
       "lastUpdated": "2026-09-04T04:24:20.738Z"
+    },
+    "BES-CRS-51||BAKAMOONA": {
+      "remark": "70% (Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "09:54:38",
+      "lastUpdated": "2026-09-04T04:24:38.773Z"
     }
   },
   "showroomVisits": {
@@ -76895,6 +76902,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
+      "time": "09:54:38",
+      "iso": "2026-09-04T04:24:38.775Z",
+      "action": "updated remark for BES-CRS-51 at BAKAMOONA: “70% (Damage)”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-04",
       "time": "09:54:20",
@@ -77236,13 +77250,6 @@
       "time": "09:43:24",
       "iso": "2026-09-04T04:13:24.265Z",
       "action": "updated remark for MB-SAFARI4S-RED at KOTIYAKUMBURA: “Sellable”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-04",
-      "time": "09:43:24",
-      "iso": "2026-09-04T04:13:24.259Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KEGALLE B: “5%”"
     }
   ]
 }
