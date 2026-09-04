@@ -75032,6 +75032,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "10:03:43",
       "lastUpdated": "2026-09-04T04:33:43.395Z"
+    },
+    "PN-TH-32M402N||BAKAMOONA": {
+      "remark": "90% (Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "10:03:56",
+      "lastUpdated": "2026-09-04T04:33:56.688Z"
     }
   },
   "showroomVisits": {
@@ -77042,6 +77049,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
+      "time": "10:03:56",
+      "iso": "2026-09-04T04:33:56.693Z",
+      "action": "updated remark for PN-TH-32M402N at BAKAMOONA: “90% (Damage)”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-04",
       "time": "10:03:43",
@@ -77383,13 +77397,6 @@
       "time": "09:43:24",
       "iso": "2026-09-04T04:13:24.349Z",
       "action": "updated remark for MB-LIMA-ELO7-WHT at KAHAWATTA: “18500”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-04",
-      "time": "09:43:24",
-      "iso": "2026-09-04T04:13:24.345Z",
-      "action": "updated remark for WFL-STBED-75X48-S at EHELIYAGODA: “25000”"
     }
   ]
 }
