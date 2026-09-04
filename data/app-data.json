@@ -75284,6 +75284,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "10:32:00",
       "lastUpdated": "2026-09-04T05:02:00.065Z"
+    },
+    "PCP30||BAKAMOONA": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "10:32:11",
+      "lastUpdated": "2026-09-04T05:02:11.053Z"
     }
   },
   "showroomVisits": {
@@ -77296,6 +77303,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "10:32:11",
+      "iso": "2026-09-04T05:02:11.054Z",
+      "action": "updated remark for PCP30 at BAKAMOONA: “70% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "10:32:00",
       "iso": "2026-09-04T05:02:00.066Z",
       "action": "updated remark for SISIL-RC180 at BAKAMOONA: “90% Discount”"
@@ -77635,13 +77649,6 @@
       "time": "09:59:29",
       "iso": "2026-09-04T04:29:29.404Z",
       "action": "updated remark for SWM-FA70R at BAKAMOONA: “60% (Discoloured)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "09:58:30",
-      "iso": "2026-09-04T04:28:30.628Z",
-      "action": "updated remark for SL-ECO55 at BAKAMOONA: “80% Discount”"
     }
   ]
 }
