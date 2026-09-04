@@ -75004,6 +75004,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "10:02:00",
       "lastUpdated": "2026-09-04T04:32:00.563Z"
+    },
+    "SIN-BS30||BAKAMOONA": {
+      "remark": "Rs 8500.00",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "10:02:21",
+      "lastUpdated": "2026-09-04T04:32:21.835Z"
     }
   },
   "showroomVisits": {
@@ -77016,6 +77023,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "10:02:21",
+      "iso": "2026-09-04T04:32:21.836Z",
+      "action": "updated remark for SIN-BS30 at BAKAMOONA: “Rs 8500.00”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "10:02:00",
       "iso": "2026-09-04T04:32:00.564Z",
       "action": "updated remark for SIN-PR-K340 at BAKAMOONA: “40% Discount”"
@@ -77355,13 +77369,6 @@
       "time": "09:43:24",
       "iso": "2026-09-04T04:13:24.336Z",
       "action": "updated remark for SLE43G890 at BUDGET SHOP-E-GODA: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-04",
-      "time": "09:43:24",
-      "iso": "2026-09-04T04:13:24.333Z",
-      "action": "updated remark for ULED32D60A at BUDGET SHOP-E-GODA: “30%”"
     }
   ]
 }
