@@ -75326,6 +75326,20 @@
       "commentDate": "2026-09-04",
       "commentTime": "10:33:09",
       "lastUpdated": "2026-09-04T05:03:09.046Z"
+    },
+    "SB-DTYPE||BAKAMOONA": {
+      "remark": "90% Discount (Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "10:33:29",
+      "lastUpdated": "2026-09-04T05:03:29.385Z"
+    },
+    "HU-SECURITY||BAKAMOONA": {
+      "remark": "15% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "10:33:36",
+      "lastUpdated": "2026-09-04T05:03:36.618Z"
     }
   },
   "showroomVisits": {
@@ -77338,6 +77352,20 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "10:33:36",
+      "iso": "2026-09-04T05:03:36.618Z",
+      "action": "updated remark for HU-SECURITY at BAKAMOONA: “15% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
+      "time": "10:33:29",
+      "iso": "2026-09-04T05:03:29.387Z",
+      "action": "updated remark for SB-DTYPE at BAKAMOONA: “90% Discount (Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "10:33:09",
       "iso": "2026-09-04T05:03:09.048Z",
       "action": "updated remark for R-BWS-02 at BAKAMOONA: “35% Discount”"
@@ -77670,20 +77698,6 @@
       "time": "10:02:35",
       "iso": "2026-09-04T04:32:35.707Z",
       "action": "updated remark for EPSON-I-L130 at BAKAMOONA: “50% (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:02:21",
-      "iso": "2026-09-04T04:32:21.836Z",
-      "action": "updated remark for SIN-BS30 at BAKAMOONA: “Rs 8500.00”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:02:00",
-      "iso": "2026-09-04T04:32:00.564Z",
-      "action": "updated remark for SIN-PR-K340 at BAKAMOONA: “40% Discount”"
     }
   ]
 }
