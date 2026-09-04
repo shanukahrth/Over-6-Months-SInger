@@ -74873,11 +74873,11 @@
       "lastUpdated": "2026-09-04T04:23:39.784Z"
     },
     "SLE32E930||BAKAMOONA": {
-      "remark": "90%",
+      "remark": "90% (Damage)",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-09-04",
-      "commentTime": "09:53:58",
-      "lastUpdated": "2026-09-04T04:23:58.410Z"
+      "commentTime": "09:54:08",
+      "lastUpdated": "2026-09-04T04:24:08.149Z"
     }
   },
   "showroomVisits": {
@@ -76890,6 +76890,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "09:54:08",
+      "iso": "2026-09-04T04:24:08.150Z",
+      "action": "updated remark for SLE32E930 at BAKAMOONA: “90% (Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "09:53:58",
       "iso": "2026-09-04T04:23:58.412Z",
       "action": "updated remark for SLE32E930 at BAKAMOONA: “90%”"
@@ -77229,13 +77236,6 @@
       "time": "09:43:24",
       "iso": "2026-09-04T04:13:24.254Z",
       "action": "updated remark for SASI12INFI at RATHNAPURA A: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-04",
-      "time": "09:43:24",
-      "iso": "2026-09-04T04:13:24.251Z",
-      "action": "updated remark for SAS48BMDN at RATHNAPURA - C: “10%”"
     }
   ]
 }
