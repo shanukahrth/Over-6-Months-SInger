@@ -74801,6 +74801,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "09:48:04",
       "lastUpdated": "2026-09-04T04:18:04.610Z"
+    },
+    "SIN-RFC-2058||BALANGODA - B": {
+      "remark": "30%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-04",
+      "commentTime": "09:48:39",
+      "lastUpdated": "2026-09-04T04:18:39.936Z"
     }
   },
   "showroomVisits": {
@@ -76811,6 +76818,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-04",
+      "time": "09:48:39",
+      "iso": "2026-09-04T04:18:39.939Z",
+      "action": "updated remark for SIN-RFC-2058 at BALANGODA - B: “30%”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
       "time": "09:48:04",
@@ -77152,13 +77166,6 @@
       "time": "09:59:53",
       "iso": "2026-09-03T04:29:53.167Z",
       "action": "updated remark for SIN-PR-K340 at BALANGODA: “29,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-03",
-      "time": "09:57:49",
-      "iso": "2026-09-03T04:27:49.287Z",
-      "action": "updated remark for SLE32E930 at BALANGODA: “20,000”"
     }
   ]
 }
