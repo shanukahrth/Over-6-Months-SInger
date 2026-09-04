@@ -74892,6 +74892,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "09:54:38",
       "lastUpdated": "2026-09-04T04:24:38.773Z"
+    },
+    "GEO-242D||BAKAMOONA": {
+      "remark": "80% (Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "09:54:59",
+      "lastUpdated": "2026-09-04T04:24:59.549Z"
     }
   },
   "showroomVisits": {
@@ -76904,6 +76911,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "09:54:59",
+      "iso": "2026-09-04T04:24:59.550Z",
+      "action": "updated remark for GEO-242D at BAKAMOONA: “80% (Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "09:54:38",
       "iso": "2026-09-04T04:24:38.775Z",
       "action": "updated remark for BES-CRS-51 at BAKAMOONA: “70% (Damage)”"
@@ -77243,13 +77257,6 @@
       "time": "09:43:24",
       "iso": "2026-09-04T04:13:24.270Z",
       "action": "updated remark for MB-SAFARI4S-RED at KEGALLE - C: “Sellable”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-04",
-      "time": "09:43:24",
-      "iso": "2026-09-04T04:13:24.265Z",
-      "action": "updated remark for MB-SAFARI4S-RED at KOTIYAKUMBURA: “Sellable”"
     }
   ]
 }
