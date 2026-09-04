@@ -74857,6 +74857,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "09:53:00",
       "lastUpdated": "2026-09-04T04:23:00.361Z"
+    },
+    "SMGUA43T5400||BAKAMOONA": {
+      "remark": "Rs100,000",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "09:53:22",
+      "lastUpdated": "2026-09-04T04:23:22.824Z"
     }
   },
   "showroomVisits": {
@@ -76869,6 +76876,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "09:53:22",
+      "iso": "2026-09-04T04:23:22.826Z",
+      "action": "updated remark for SMGUA43T5400 at BAKAMOONA: “Rs100,000”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "09:53:00",
       "iso": "2026-09-04T04:23:00.362Z",
       "action": "updated remark for MHC-V13 at BAKAMOONA: “80%(Damage)”"
@@ -77208,13 +77222,6 @@
       "time": "09:43:24",
       "iso": "2026-09-04T04:13:24.242Z",
       "action": "updated remark for SLE32E930 at RATHNAPURA A: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-04",
-      "time": "09:43:24",
-      "iso": "2026-09-04T04:13:24.239Z",
-      "action": "updated remark for SLE100A5D at NIVITHIGALA: “Flat 50%”"
     }
   ]
 }
