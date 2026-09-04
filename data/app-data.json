@@ -74815,6 +74815,13 @@
       "commentDate": "2026-09-04",
       "commentTime": "09:50:12",
       "lastUpdated": "2026-09-04T04:20:12.898Z"
+    },
+    "SLE40D600A||BAKAMOONA": {
+      "remark": "60% (Packing damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-04",
+      "commentTime": "09:50:45",
+      "lastUpdated": "2026-09-04T04:20:45.224Z"
     }
   },
   "showroomVisits": {
@@ -76827,6 +76834,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
+      "time": "09:50:45",
+      "iso": "2026-09-04T04:20:45.224Z",
+      "action": "updated remark for SLE40D600A at BAKAMOONA: “60% (Packing damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-04",
       "time": "09:50:12",
       "iso": "2026-09-04T04:20:12.899Z",
       "action": "updated remark for HON-X9C-12-256-BLK at BAKAMOONA: “75% (01 unit only) & 30%”"
@@ -77166,13 +77180,6 @@
       "time": "10:19:45",
       "iso": "2026-09-03T04:49:45.125Z",
       "action": "updated remark for PN-TH-32M402N at BALANGODA C: “upto 40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-03",
-      "time": "10:09:20",
-      "iso": "2026-09-03T04:39:20.162Z",
-      "action": "updated remark for TF-NIGP26-119 at BALANGODA: “12,000”"
     }
   ]
 }
