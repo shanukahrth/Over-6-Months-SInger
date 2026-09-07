@@ -75389,6 +75389,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:06:20",
       "lastUpdated": "2026-09-07T05:36:20.945Z"
+    },
+    "SB-DTYPE||MATARA-B": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:06:45",
+      "lastUpdated": "2026-09-07T05:36:45.784Z"
     }
   },
   "showroomVisits": {
@@ -77401,6 +77408,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "11:06:45",
+      "iso": "2026-09-07T05:36:45.788Z",
+      "action": "updated remark for SB-DTYPE at MATARA-B: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "11:06:20",
       "iso": "2026-09-07T05:36:20.948Z",
       "action": "updated remark for SAS24TCNR at MATARA-B: “50% OFF”"
@@ -77740,13 +77754,6 @@
       "time": "10:17:25",
       "iso": "2026-09-04T04:47:25.032Z",
       "action": "updated remark for MC8280 at BAKAMOONA: “75% Discount (Discoloured)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:17:01",
-      "iso": "2026-09-04T04:47:01.591Z",
-      "action": "updated remark for MC8280 at BAKAMOONA: “75% Discount”"
     }
   ]
 }
