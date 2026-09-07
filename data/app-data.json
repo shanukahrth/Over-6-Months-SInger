@@ -77132,6 +77132,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "13:17:12",
       "lastUpdated": "2026-09-07T07:47:12.101Z"
+    },
+    "SID-ATC-15||KEKIRAWA - B": {
+      "remark": "10% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "13:18:54",
+      "lastUpdated": "2026-09-07T07:48:54.369Z"
     }
   },
   "showroomVisits": {
@@ -79144,6 +79151,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "13:18:54",
+      "iso": "2026-09-07T07:48:54.371Z",
+      "action": "updated remark for SID-ATC-15 at KEKIRAWA - B: “10% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "13:17:12",
       "iso": "2026-09-07T07:47:12.103Z",
       "action": "updated remark for RCS-04 at KEKIRAWA - B: “90% Discount”"
@@ -79483,13 +79497,6 @@
       "time": "12:53:24",
       "iso": "2026-09-07T07:23:24.627Z",
       "action": "updated remark for ULED32D2070 at KEKIRAWA - B: “90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:52:46",
-      "iso": "2026-09-07T07:22:46.356Z",
-      "action": "updated remark for BES-WP15-ECO at KEKIRAWA - B: “70% Discount”"
     }
   ]
 }
