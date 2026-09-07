@@ -76782,6 +76782,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "12:48:03",
       "lastUpdated": "2026-09-07T07:18:03.166Z"
+    },
+    "AC-TEMP-Y7-18||YATIYANTHOTA": {
+      "remark": "Rs.200 per unit offered",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:48:31",
+      "lastUpdated": "2026-09-07T07:18:31.490Z"
     }
   },
   "showroomVisits": {
@@ -78792,6 +78799,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-07",
+      "time": "12:48:31",
+      "iso": "2026-09-07T07:18:31.492Z",
+      "action": "updated remark for AC-TEMP-Y7-18 at YATIYANTHOTA: “Rs.200 per unit offered”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
       "time": "12:48:03",
@@ -79133,13 +79147,6 @@
       "time": "12:27:05",
       "iso": "2026-09-07T06:57:05.927Z",
       "action": "updated remark for SIN-RFC-2058 at DIYABEDUMA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:26:54",
-      "iso": "2026-09-07T06:56:54.479Z",
-      "action": "updated remark for SIS277CU at DIYABEDUMA: “90% Discount (Damage)”"
     }
   ]
 }
