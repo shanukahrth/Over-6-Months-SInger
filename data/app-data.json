@@ -77384,6 +77384,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:22:28",
       "lastUpdated": "2026-09-07T08:52:28.641Z"
+    },
+    "WF-CAMELIA-DTO-S||KEKIRAWA": {
+      "remark": "75% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:22:43",
+      "lastUpdated": "2026-09-07T08:52:43.726Z"
     }
   },
   "showroomVisits": {
@@ -79402,6 +79409,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:22:43",
+      "iso": "2026-09-07T08:52:43.728Z",
+      "action": "updated remark for WF-CAMELIA-DTO-S at KEKIRAWA: “75% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:22:28",
       "iso": "2026-09-07T08:52:28.642Z",
       "action": "updated remark for WP-CHTW-075-S at KEKIRAWA: “80% Discount”"
@@ -79741,13 +79755,6 @@
       "time": "13:17:12",
       "iso": "2026-09-07T07:47:12.103Z",
       "action": "updated remark for RCS-04 at KEKIRAWA - B: “90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "13:15:52",
-      "iso": "2026-09-07T07:45:52.086Z",
-      "action": "updated remark for R-BWS-02 at KEKIRAWA - B: “35% Discount”"
     }
   ]
 }
