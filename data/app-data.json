@@ -77622,6 +77622,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:41:27",
       "lastUpdated": "2026-09-07T09:11:27.496Z"
+    },
+    "SLE32E910||KEKIRAWA": {
+      "remark": "Exchange",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:41:44",
+      "lastUpdated": "2026-09-07T09:11:44.875Z"
     }
   },
   "showroomVisits": {
@@ -79640,6 +79647,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:41:44",
+      "iso": "2026-09-07T09:11:44.877Z",
+      "action": "updated remark for SLE32E910 at KEKIRAWA: “Exchange”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:41:27",
       "iso": "2026-09-07T09:11:27.498Z",
       "action": "updated remark for FAN-P-1605H at KEKIRAWA: “50% Discount”"
@@ -79979,13 +79993,6 @@
       "time": "14:19:40",
       "iso": "2026-09-07T08:49:40.975Z",
       "action": "updated remark for LF-BED-001-S at KEKIRAWA: “75% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:19:13",
-      "iso": "2026-09-07T08:49:13.943Z",
-      "action": "updated remark for WP-NSP-SG-S at KEKIRAWA: “80% Discount”"
     }
   ]
 }
