@@ -77883,11 +77883,18 @@
       "lastUpdated": "2026-09-07T10:06:00.233Z"
     },
     "NCPDG-SET3||MORATUWA - B": {
+      "remark": "Can sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:36:35",
+      "lastUpdated": "2026-09-07T10:06:35.416Z"
+    },
+    "NCPO-DC200||MORATUWA - B": {
       "remark": "30% Additional",
       "commentedBy": "Sulani",
       "commentDate": "2026-09-07",
-      "commentTime": "15:36:19",
-      "lastUpdated": "2026-09-07T10:06:19.310Z"
+      "commentTime": "15:36:41",
+      "lastUpdated": "2026-09-07T10:06:41.182Z"
     }
   },
   "showroomVisits": {
@@ -79906,6 +79913,20 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "15:36:41",
+      "iso": "2026-09-07T10:06:41.185Z",
+      "action": "updated remark for NCPO-DC200 at MORATUWA - B: “30% Additional”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "15:36:35",
+      "iso": "2026-09-07T10:06:35.418Z",
+      "action": "updated remark for NCPDG-SET3 at MORATUWA - B: “Can sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "15:36:19",
       "iso": "2026-09-07T10:06:19.311Z",
       "action": "updated remark for NCPDG-SET3 at MORATUWA - B: “30% Additional”"
@@ -80238,20 +80259,6 @@
       "time": "14:59:36",
       "iso": "2026-09-07T09:29:36.241Z",
       "action": "updated remark for NCPO-DC200 at KEKIRAWA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:59:25",
-      "iso": "2026-09-07T09:29:25.983Z",
-      "action": "updated remark for FAN-ND-16A at KEKIRAWA: “90% Dis Damage”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:58:27",
-      "iso": "2026-09-07T09:28:27.741Z",
-      "action": "updated remark for UJB-LB6027 at KEKIRAWA: “50% Discount”"
     }
   ]
 }
