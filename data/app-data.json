@@ -77755,6 +77755,20 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:55:21",
       "lastUpdated": "2026-09-07T09:25:21.775Z"
+    },
+    "CLOTHLINE-35PVC||KEKIRAWA": {
+      "remark": "90% D",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:55:40",
+      "lastUpdated": "2026-09-07T09:25:40.494Z"
+    },
+    "SIS277CU||KEKIRAWA": {
+      "remark": "I",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:55:43",
+      "lastUpdated": "2026-09-07T09:25:43.878Z"
     }
   },
   "showroomVisits": {
@@ -79773,6 +79787,20 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:55:43",
+      "iso": "2026-09-07T09:25:43.879Z",
+      "action": "updated remark for SIS277CU at KEKIRAWA: “I”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
+      "time": "14:55:40",
+      "iso": "2026-09-07T09:25:40.496Z",
+      "action": "updated remark for CLOTHLINE-35PVC at KEKIRAWA: “90% D”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:55:21",
       "iso": "2026-09-07T09:25:21.777Z",
       "action": "updated remark for PN-NI-S430RSD at KEKIRAWA: “80% Discount (Damage)”"
@@ -80105,20 +80133,6 @@
       "time": "14:35:36",
       "iso": "2026-09-07T09:05:36.035Z",
       "action": "updated remark for LF-ORGN-W4B-CKT-S at KEKIRAWA: “85% Discount (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:35:20",
-      "iso": "2026-09-07T09:05:20.353Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at KEKIRAWA: “60% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:35:08",
-      "iso": "2026-09-07T09:05:08.255Z",
-      "action": "updated remark for WF-LEEDS-CT-S at KEKIRAWA: “75% Discount”"
     }
   ]
 }
