@@ -40482,11 +40482,11 @@
       "lastUpdated": "2026-08-24T08:21:30.295Z"
     },
     "ACER-AG15-14G-I5-16-512-S||BULATHKOHUPITIYA": {
-      "remark": "Cleared.",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-24",
-      "commentTime": "13:52:21",
-      "lastUpdated": "2026-08-24T08:22:21.816Z"
+      "remark": "Cleared, Released to service centre on 21/08",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-07",
+      "commentTime": "13:25:40",
+      "lastUpdated": "2026-09-07T07:55:40.365Z"
     },
     "LF-BUDGET-ST-AGO-S||RAGAMA": {
       "remark": "50%",
@@ -79163,6 +79163,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-07",
+      "time": "13:25:40",
+      "iso": "2026-09-07T07:55:40.365Z",
+      "action": "updated remark for ACER-AG15-14G-I5-16-512-S at BULATHKOHUPITIYA: “Cleared, Released to service centre on 21/08”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
       "time": "13:24:15",
@@ -79504,13 +79511,6 @@
       "time": "12:55:06",
       "iso": "2026-09-07T07:25:06.398Z",
       "action": "updated remark for HFPA-GRAVITY-BLC at KEKIRAWA - B: “Rs 24000.00”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:54:54",
-      "iso": "2026-09-07T07:24:54.356Z",
-      "action": "updated remark for SLE32D2010TC at KEKIRAWA - B: “90% Discount (Damage)”"
     }
   ]
 }
