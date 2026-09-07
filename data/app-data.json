@@ -77881,6 +77881,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "15:36:00",
       "lastUpdated": "2026-09-07T10:06:00.233Z"
+    },
+    "NCPDG-SET3||MORATUWA - B": {
+      "remark": "30% Additional",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:36:19",
+      "lastUpdated": "2026-09-07T10:06:19.310Z"
     }
   },
   "showroomVisits": {
@@ -79899,6 +79906,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "15:36:19",
+      "iso": "2026-09-07T10:06:19.311Z",
+      "action": "updated remark for NCPDG-SET3 at MORATUWA - B: “30% Additional”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "15:36:00",
       "iso": "2026-09-07T10:06:00.236Z",
       "action": "updated remark for MID-MF-TN40D2 at MORATUWA - B: “30% Additional”"
@@ -80238,13 +80252,6 @@
       "time": "14:58:27",
       "iso": "2026-09-07T09:28:27.741Z",
       "action": "updated remark for UJB-LB6027 at KEKIRAWA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:57:56",
-      "iso": "2026-09-07T09:27:56.676Z",
-      "action": "updated remark for FAN-ND-16A at KEKIRAWA: “90% Damage”"
     }
   ]
 }
