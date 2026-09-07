@@ -77944,6 +77944,20 @@
       "commentDate": "2026-09-07",
       "commentTime": "15:39:31",
       "lastUpdated": "2026-09-07T10:09:31.413Z"
+    },
+    "SIN-RFC-1819||MORATUWA - B": {
+      "remark": "Additional 30%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:41:57",
+      "lastUpdated": "2026-09-07T10:11:57.514Z"
+    },
+    "SIN-RFC-2058||MORATUWA - B": {
+      "remark": "Additional 30%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:42:05",
+      "lastUpdated": "2026-09-07T10:12:05.749Z"
     }
   },
   "showroomVisits": {
@@ -79962,6 +79976,20 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "15:42:05",
+      "iso": "2026-09-07T10:12:05.751Z",
+      "action": "updated remark for SIN-RFC-2058 at MORATUWA - B: “Additional 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "15:41:57",
+      "iso": "2026-09-07T10:11:57.516Z",
+      "action": "updated remark for SIN-RFC-1819 at MORATUWA - B: “Additional 30%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "15:39:31",
       "iso": "2026-09-07T10:09:31.415Z",
       "action": "updated remark for SIN-10000 at MORATUWA - B: “Damaged”"
@@ -80294,20 +80322,6 @@
       "time": "15:06:32",
       "iso": "2026-09-07T09:36:32.383Z",
       "action": "updated remark for WP-1R-.75T at KEKIRAWA: “80% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:06:02",
-      "iso": "2026-09-07T09:36:02.845Z",
-      "action": "updated remark for SLE40E810C at KEKIRAWA: “Exchange”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:04:40",
-      "iso": "2026-09-07T09:34:40.673Z",
-      "action": "updated remark for SMGUA32N4010 at KEKIRAWA: “60% Discount”"
     }
   ]
 }
