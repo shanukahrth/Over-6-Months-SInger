@@ -76740,6 +76740,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "12:43:52",
       "lastUpdated": "2026-09-07T07:13:52.107Z"
+    },
+    "WF-PRESTON-DTO-S||KEKIRAWA - B": {
+      "remark": "Sold",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:45:50",
+      "lastUpdated": "2026-09-07T07:15:50.904Z"
     }
   },
   "showroomVisits": {
@@ -78752,6 +78759,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "12:45:50",
+      "iso": "2026-09-07T07:15:50.907Z",
+      "action": "updated remark for WF-PRESTON-DTO-S at KEKIRAWA - B: “Sold”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "12:43:52",
       "iso": "2026-09-07T07:13:52.108Z",
       "action": "updated remark for SLE32F590 at KEKIRAWA - B: “90% Discount (Damage)”"
@@ -79091,13 +79105,6 @@
       "time": "12:25:05",
       "iso": "2026-09-07T06:55:05.761Z",
       "action": "updated remark for PN-NI-S530ASD at DIYABEDUMA: “35% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:23:53",
-      "iso": "2026-09-07T06:53:53.242Z",
-      "action": "updated remark for KA-TXG-DS11A at DIYABEDUMA: “70% Discount”"
     }
   ]
 }
