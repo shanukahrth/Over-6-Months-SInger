@@ -79166,9 +79166,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-02"
+    },
+    "RCS-04||BULATHKOHUPITIYA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-07"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-07",
+      "time": "13:35:07",
+      "iso": "2026-09-07T08:05:07.248Z",
+      "action": "marked RCS-04 at BULATHKOHUPITIYA as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-07",
@@ -79511,13 +79524,6 @@
       "time": "12:56:00",
       "iso": "2026-09-07T07:26:00.425Z",
       "action": "updated remark for SLE32F590 at KEKIRAWA - B: “90% Discount( Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:55:39",
-      "iso": "2026-09-07T07:25:39.259Z",
-      "action": "updated remark for SLE32E810 at KEKIRAWA - B: “90% Discount (Damage)”"
     }
   ]
 }
