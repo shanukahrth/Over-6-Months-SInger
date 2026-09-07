@@ -77659,11 +77659,11 @@
       "lastUpdated": "2026-09-07T09:13:43.010Z"
     },
     "SLE32F590||KEKIRAWA": {
-      "remark": "Exchange",
+      "remark": "90% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-09-07",
-      "commentTime": "14:50:42",
-      "lastUpdated": "2026-09-07T09:20:42.347Z"
+      "commentTime": "15:10:15",
+      "lastUpdated": "2026-09-07T09:40:15.759Z"
     },
     "SLE32E810||KEKIRAWA": {
       "remark": "90% Discount (Damage)",
@@ -79836,6 +79836,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "15:10:15",
+      "iso": "2026-09-07T09:40:15.760Z",
+      "action": "updated remark for SLE32F590 at KEKIRAWA: “90% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "15:08:22",
       "iso": "2026-09-07T09:38:22.466Z",
       "action": "updated remark for SS-PS16-AG at KEKIRAWA: “80% Discount”"
@@ -80175,13 +80182,6 @@
       "time": "14:46:06",
       "iso": "2026-09-07T09:16:06.412Z",
       "action": "updated remark for WP-1R-.75T at KEKIRAWA: “80% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:45:03",
-      "iso": "2026-09-07T09:15:03.419Z",
-      "action": "updated remark for SLE32F590 at KEKIRAWA: “90% Discount (Damage)”"
     }
   ]
 }
