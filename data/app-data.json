@@ -75746,6 +75746,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:40:00",
       "lastUpdated": "2026-09-07T06:10:00.472Z"
+    },
+    "SIN-BS30||DIYABEDUMA": {
+      "remark": "90% Damage",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:40:20",
+      "lastUpdated": "2026-09-07T06:10:20.567Z"
     }
   },
   "showroomVisits": {
@@ -77758,6 +77765,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "11:40:20",
+      "iso": "2026-09-07T06:10:20.569Z",
+      "action": "updated remark for SIN-BS30 at DIYABEDUMA: “90% Damage”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "11:40:00",
       "iso": "2026-09-07T06:10:00.474Z",
       "action": "updated remark for WP-JUN-E-S at DIYABEDUMA: “70% Discount”"
@@ -78097,13 +78111,6 @@
       "time": "11:16:59",
       "iso": "2026-09-07T05:46:59.789Z",
       "action": "updated remark for SLE32F590 at MATARA-B: “70% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:16:55",
-      "iso": "2026-09-07T05:46:55.569Z",
-      "action": "updated remark for SLE32E910 at MATARA-B: “70% OFF”"
     }
   ]
 }
