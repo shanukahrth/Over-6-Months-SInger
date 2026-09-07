@@ -77832,6 +77832,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "15:18:10",
       "lastUpdated": "2026-09-07T09:48:10.507Z"
+    },
+    "HFPA-EVENT-BLC||MORATUWA - B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:33:30",
+      "lastUpdated": "2026-09-07T10:03:30.771Z"
     }
   },
   "showroomVisits": {
@@ -79848,6 +79855,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "15:33:30",
+      "iso": "2026-09-07T10:03:30.774Z",
+      "action": "updated remark for HFPA-EVENT-BLC at MORATUWA - B: “-”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
       "time": "15:18:33",
@@ -80189,13 +80203,6 @@
       "time": "14:56:11",
       "iso": "2026-09-07T09:26:11.570Z",
       "action": "updated remark for SIS277CU at KEKIRAWA: “605”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:55:52",
-      "iso": "2026-09-07T09:25:52.847Z",
-      "action": "updated remark for CLOTHLINE-35PVC at KEKIRAWA: “90% Discount”"
     }
   ]
 }
