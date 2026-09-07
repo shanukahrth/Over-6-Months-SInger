@@ -75501,6 +75501,20 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:18:13",
       "lastUpdated": "2026-09-07T05:48:13.254Z"
+    },
+    "SMGBDE5200||MATARA-B": {
+      "remark": "MRP 1000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:21:34",
+      "lastUpdated": "2026-09-07T05:51:34.143Z"
+    },
+    "SMGHTH5550||MATARA-B": {
+      "remark": "Report for 3000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:21:47",
+      "lastUpdated": "2026-09-07T05:51:47.811Z"
     }
   },
   "showroomVisits": {
@@ -77513,6 +77527,20 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "11:21:47",
+      "iso": "2026-09-07T05:51:47.812Z",
+      "action": "updated remark for SMGHTH5550 at MATARA-B: “Report for 3000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:21:34",
+      "iso": "2026-09-07T05:51:34.146Z",
+      "action": "updated remark for SMGBDE5200 at MATARA-B: “MRP 1000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "11:18:13",
       "iso": "2026-09-07T05:48:13.254Z",
       "action": "updated remark for SMG-A06-4-64-BLK at MATARA-B: “Service center”"
@@ -77845,20 +77873,6 @@
       "time": "10:28:30",
       "iso": "2026-09-04T04:58:30.708Z",
       "action": "updated remark for RIYLTA-MF12V5 at BAKAMOONA: “90% Discount (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:28:27",
-      "iso": "2026-09-04T04:58:27.401Z",
-      "action": "updated remark for RIYLTA-MF12V35A at BAKAMOONA: “90% Discount (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:27:28",
-      "iso": "2026-09-04T04:57:28.262Z",
-      "action": "updated remark for SLE32E810 at BAKAMOONA: “90%(Damage)”"
     }
   ]
 }
