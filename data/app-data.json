@@ -39915,11 +39915,11 @@
       "lastUpdated": "2026-08-24T07:09:42.446Z"
     },
     "KA-ELITE||YATIYANTHOTA": {
-      "remark": "Part missing. Flat 75% offered",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-24",
-      "commentTime": "12:41:23",
-      "lastUpdated": "2026-08-24T07:11:23.014Z"
+      "remark": "Part missing[Cups]. Flat 75% offered",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-07",
+      "commentTime": "13:20:30",
+      "lastUpdated": "2026-09-07T07:50:30.900Z"
     },
     "NCPO-DC200||SHOMES- MATALE": {
       "remark": "Can Sell",
@@ -77139,6 +77139,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "13:18:54",
       "lastUpdated": "2026-09-07T07:48:54.369Z"
+    },
+    "BRP-GTW30||YATIYANTHOTA": {
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-07",
+      "commentTime": "13:14:36",
+      "lastUpdated": "2026-09-07T07:44:36.764Z"
     }
   },
   "showroomVisits": {
@@ -79149,6 +79156,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-07",
+      "time": "13:20:30",
+      "iso": "2026-09-07T07:50:30.902Z",
+      "action": "updated remark for KA-ELITE at YATIYANTHOTA: “Part missing[Cups]. Flat 75% offered”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-07",
+      "time": "13:14:36",
+      "iso": "2026-09-07T07:44:36.766Z",
+      "action": "updated remark for BRP-GTW30 at YATIYANTHOTA: “-”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
       "time": "13:18:54",
@@ -79483,20 +79504,6 @@
       "time": "12:54:28",
       "iso": "2026-09-07T07:24:28.731Z",
       "action": "updated remark for SL-PB-426 at KEKIRAWA - B: “90% Discount ( Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:53:38",
-      "iso": "2026-09-07T07:23:38.054Z",
-      "action": "updated remark for ULED32D2070 at KEKIRAWA - B: “90% Discount (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:53:24",
-      "iso": "2026-09-07T07:23:24.627Z",
-      "action": "updated remark for ULED32D2070 at KEKIRAWA - B: “90% Discount”"
     }
   ]
 }
