@@ -75459,6 +75459,41 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:12:11",
       "lastUpdated": "2026-09-07T05:42:11.252Z"
+    },
+    "SLE32E910||MATARA-B": {
+      "remark": "70% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:16:55",
+      "lastUpdated": "2026-09-07T05:46:55.568Z"
+    },
+    "SLE32F590||MATARA-B": {
+      "remark": "70% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:16:59",
+      "lastUpdated": "2026-09-07T05:46:59.787Z"
+    },
+    "SLE40D600A||MATARA-B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:17:16",
+      "lastUpdated": "2026-09-07T05:47:16.293Z"
+    },
+    "SLE42D2070TC||MATARA-B": {
+      "remark": "70% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:17:19",
+      "lastUpdated": "2026-09-07T05:47:19.995Z"
+    },
+    "SLE42T3520TC||MATARA-B": {
+      "remark": "90% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:17:31",
+      "lastUpdated": "2026-09-07T05:47:31.237Z"
     }
   },
   "showroomVisits": {
@@ -77469,6 +77504,48 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:17:31",
+      "iso": "2026-09-07T05:47:31.238Z",
+      "action": "updated remark for SLE42T3520TC at MATARA-B: “90% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:17:19",
+      "iso": "2026-09-07T05:47:19.997Z",
+      "action": "updated remark for SLE42D2070TC at MATARA-B: “70% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:17:16",
+      "iso": "2026-09-07T05:47:16.296Z",
+      "action": "updated remark for SLE40D600A at MATARA-B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:17:07",
+      "iso": "2026-09-07T05:47:07.803Z",
+      "action": "updated remark for SLE40D600A at MATARA-B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:16:59",
+      "iso": "2026-09-07T05:46:59.789Z",
+      "action": "updated remark for SLE32F590 at MATARA-B: “70% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:16:55",
+      "iso": "2026-09-07T05:46:55.569Z",
+      "action": "updated remark for SLE32E910 at MATARA-B: “70% OFF”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
       "time": "11:12:11",
@@ -77775,48 +77852,6 @@
       "time": "10:26:23",
       "iso": "2026-09-04T04:56:23.105Z",
       "action": "updated remark for SLE32E910 at BAKAMOONA: “90%(Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:25:47",
-      "iso": "2026-09-04T04:55:47.911Z",
-      "action": "updated remark for SLE32D5000 at BAKAMOONA: “90% (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:25:32",
-      "iso": "2026-09-04T04:55:32.952Z",
-      "action": "updated remark for FAN-P-1605H at BAKAMOONA: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:25:20",
-      "iso": "2026-09-04T04:55:20.987Z",
-      "action": "updated remark for FAN-P-SF1605HR at BAKAMOONA: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:25:12",
-      "iso": "2026-09-04T04:55:12.612Z",
-      "action": "updated remark for FAN-P-SF1605HR at BAKAMOONA: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:24:50",
-      "iso": "2026-09-04T04:54:50.763Z",
-      "action": "updated remark for LF-BUDGET-DT-AGO-S at BAKAMOONA: “Sold”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:21:20",
-      "iso": "2026-09-04T04:51:20.830Z",
-      "action": "updated remark for SLMC-18DSLHS at BAKAMOONA: “80% Discount”"
     }
   ]
 }
