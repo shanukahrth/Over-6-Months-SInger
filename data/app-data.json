@@ -67789,11 +67789,11 @@
       "lastUpdated": "2026-09-01T04:39:38.852Z"
     },
     "R-BWS-02||MATARA-B": {
-      "remark": "35% OFF",
+      "remark": "Discounts already have given",
       "commentedBy": "Sulani",
-      "commentDate": "2026-09-01",
-      "commentTime": "10:09:56",
-      "lastUpdated": "2026-09-01T04:39:56.020Z"
+      "commentDate": "2026-09-07",
+      "commentTime": "11:06:08",
+      "lastUpdated": "2026-09-07T05:36:08.398Z"
     },
     "SA200||MATARA-B": {
       "remark": "-",
@@ -75382,6 +75382,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:01:55",
       "lastUpdated": "2026-09-07T05:31:55.598Z"
+    },
+    "SAS24TCNR||MATARA-B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:06:20",
+      "lastUpdated": "2026-09-07T05:36:20.945Z"
     }
   },
   "showroomVisits": {
@@ -77394,6 +77401,27 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "11:06:20",
+      "iso": "2026-09-07T05:36:20.948Z",
+      "action": "updated remark for SAS24TCNR at MATARA-B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:06:13",
+      "iso": "2026-09-07T05:36:13.069Z",
+      "action": "updated remark for SAS24TCNR at MATARA-B: “Discounts already have given”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:06:08",
+      "iso": "2026-09-07T05:36:08.401Z",
+      "action": "updated remark for R-BWS-02 at MATARA-B: “Discounts already have given”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "11:01:55",
       "iso": "2026-09-07T05:31:55.599Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at MATARA-B: “Discounts already have given”"
@@ -77719,27 +77747,6 @@
       "time": "10:17:01",
       "iso": "2026-09-04T04:47:01.591Z",
       "action": "updated remark for MC8280 at BAKAMOONA: “75% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:16:26",
-      "iso": "2026-09-04T04:46:26.255Z",
-      "action": "updated remark for HU-T10S-2-32-BLU at BAKAMOONA: “95% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:16:14",
-      "iso": "2026-09-04T04:46:14.470Z",
-      "action": "updated remark for SMG-SM-A045F-32GB-B at BAKAMOONA: “Sold”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:16:05",
-      "iso": "2026-09-04T04:46:05.395Z",
-      "action": "updated remark for SACL-LLQ8A1-20L at BAKAMOONA: “80% Damage”"
     }
   ]
 }
