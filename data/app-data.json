@@ -76866,6 +76866,20 @@
       "commentDate": "2026-09-07",
       "commentTime": "12:54:58",
       "lastUpdated": "2026-09-07T07:24:58.306Z"
+    },
+    "SLE32D2010TC||KEKIRAWA - B": {
+      "remark": "90% Discount (Damage)",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:54:54",
+      "lastUpdated": "2026-09-07T07:24:54.354Z"
+    },
+    "HFPA-GRAVITY-BLC||KEKIRAWA - B": {
+      "remark": "Rs 24000.00",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:55:06",
+      "lastUpdated": "2026-09-07T07:25:06.396Z"
     }
   },
   "showroomVisits": {
@@ -78876,6 +78890,20 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
+      "time": "12:55:06",
+      "iso": "2026-09-07T07:25:06.398Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at KEKIRAWA - B: “Rs 24000.00”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
+      "time": "12:54:54",
+      "iso": "2026-09-07T07:24:54.356Z",
+      "action": "updated remark for SLE32D2010TC at KEKIRAWA - B: “90% Discount (Damage)”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-07",
       "time": "12:54:58",
@@ -79210,20 +79238,6 @@
       "time": "12:34:39",
       "iso": "2026-09-07T07:04:39.561Z",
       "action": "updated remark for BES-WP15-ECO at MATUGAMA - B: “40% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "12:30:28",
-      "iso": "2026-09-07T07:00:28.397Z",
-      "action": "updated remark for BES-WP15T at MATUGAMA - B: “10% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "12:30:22",
-      "iso": "2026-09-07T07:00:22.434Z",
-      "action": "updated remark for CM-LQ300 at MATUGAMA - B: “Shop use”"
     }
   ]
 }
