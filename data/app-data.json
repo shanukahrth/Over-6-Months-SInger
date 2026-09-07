@@ -75195,18 +75195,18 @@
       "lastUpdated": "2026-09-07T09:47:20.678Z"
     },
     "SIN-VBS-90PA||BAKAMOONA": {
-      "remark": "80% (Damage)",
+      "remark": "80% Discount  (Damage)",
       "commentedBy": "Gayan Sooriyaarachchi",
-      "commentDate": "2026-09-04",
-      "commentTime": "10:27:07",
-      "lastUpdated": "2026-09-04T04:57:07.817Z"
+      "commentDate": "2026-09-07",
+      "commentTime": "15:17:46",
+      "lastUpdated": "2026-09-07T09:47:46.670Z"
     },
     "SLE32E810||BAKAMOONA": {
-      "remark": "90%(Damage)",
+      "remark": "90 % Discount -Damage",
       "commentedBy": "Gayan Sooriyaarachchi",
-      "commentDate": "2026-09-04",
-      "commentTime": "10:27:28",
-      "lastUpdated": "2026-09-04T04:57:28.259Z"
+      "commentDate": "2026-09-07",
+      "commentTime": "15:17:41",
+      "lastUpdated": "2026-09-07T09:47:41.770Z"
     },
     "RIYLTA-MF12V35A||BAKAMOONA": {
       "remark": "90% Discount (Damage)",
@@ -79843,6 +79843,20 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "15:17:46",
+      "iso": "2026-09-07T09:47:46.671Z",
+      "action": "updated remark for SIN-VBS-90PA at BAKAMOONA: “80% Discount  (Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
+      "time": "15:17:41",
+      "iso": "2026-09-07T09:47:41.774Z",
+      "action": "updated remark for SLE32E810 at BAKAMOONA: “90 % Discount -Damage”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "15:17:20",
       "iso": "2026-09-07T09:47:20.680Z",
       "action": "updated remark for SLE32E910 at BAKAMOONA: “90% Discount (Damage)”"
@@ -80175,20 +80189,6 @@
       "time": "14:55:21",
       "iso": "2026-09-07T09:25:21.777Z",
       "action": "updated remark for PN-NI-S430RSD at KEKIRAWA: “80% Discount (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:54:51",
-      "iso": "2026-09-07T09:24:51.416Z",
-      "action": "updated remark for PN-NI-S530ASD at KEKIRAWA: “80% Discount (Dmage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:54:34",
-      "iso": "2026-09-07T09:24:34.095Z",
-      "action": "updated remark for TF-FP24-SCR342 at KEKIRAWA: “80% Discount”"
     }
   ]
 }
