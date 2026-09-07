@@ -77979,6 +77979,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "15:42:35",
       "lastUpdated": "2026-09-07T10:12:35.354Z"
+    },
+    "TF-SI-ESS-242||MORATUWA - B": {
+      "remark": "Additional 50%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:43:36",
+      "lastUpdated": "2026-09-07T10:13:36.928Z"
     }
   },
   "showroomVisits": {
@@ -79997,6 +80004,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "15:43:36",
+      "iso": "2026-09-07T10:13:36.930Z",
+      "action": "updated remark for TF-SI-ESS-242 at MORATUWA - B: “Additional 50%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "15:42:35",
       "iso": "2026-09-07T10:12:35.355Z",
       "action": "updated remark for SLE32E930 at MORATUWA - B: “-”"
@@ -80336,13 +80350,6 @@
       "time": "15:11:24",
       "iso": "2026-09-07T09:41:24.999Z",
       "action": "updated remark for SLE32D1800 at KEKIRAWA: “90% Discount - Damage”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:11:04",
-      "iso": "2026-09-07T09:41:04.491Z",
-      "action": "updated remark for SLE24D1000 at KEKIRAWA: “90% Discount -Damage”"
     }
   ]
 }
