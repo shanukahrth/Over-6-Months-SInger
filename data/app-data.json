@@ -76735,11 +76735,11 @@
       "lastUpdated": "2026-09-07T07:13:41.884Z"
     },
     "SLE32F590||KEKIRAWA - B": {
-      "remark": "90% Discount (Damage)",
+      "remark": "90% Discount (DAMAGE)",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-09-07",
-      "commentTime": "16:10:20",
-      "lastUpdated": "2026-09-07T10:40:20.637Z"
+      "commentTime": "16:10:31",
+      "lastUpdated": "2026-09-07T10:40:31.521Z"
     },
     "WF-PRESTON-DTO-S||KEKIRAWA - B": {
       "remark": "Sold",
@@ -80088,6 +80088,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "16:10:31",
+      "iso": "2026-09-07T10:40:31.522Z",
+      "action": "updated remark for SLE32F590 at KEKIRAWA - B: “90% Discount (DAMAGE)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "16:10:20",
       "iso": "2026-09-07T10:40:20.639Z",
       "action": "updated remark for SLE32F590 at KEKIRAWA - B: “90% Discount (Damage)”"
@@ -80427,13 +80434,6 @@
       "time": "15:38:05",
       "iso": "2026-09-07T10:08:05.600Z",
       "action": "updated remark for R-BWS-02 at MORATUWA - B: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:38:03",
-      "iso": "2026-09-07T10:08:03.493Z",
-      "action": "updated remark for R-BWS-02 at MORATUWA - B: “Can sell”"
     }
   ]
 }
