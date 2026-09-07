@@ -75914,6 +75914,27 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:53:03",
       "lastUpdated": "2026-09-07T06:23:03.583Z"
+    },
+    "WB-F65||MATUGAMA - B": {
+      "remark": "Sold out",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:53:38",
+      "lastUpdated": "2026-09-07T06:23:38.143Z"
+    },
+    "WB-B110||MATUGAMA - B": {
+      "remark": "-",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:53:43",
+      "lastUpdated": "2026-09-07T06:23:43.923Z"
+    },
+    "USI-ATC-302||MATUGAMA - B": {
+      "remark": "10% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:53:51",
+      "lastUpdated": "2026-09-07T06:23:51.367Z"
     }
   },
   "showroomVisits": {
@@ -77926,6 +77947,27 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "11:53:51",
+      "iso": "2026-09-07T06:23:51.369Z",
+      "action": "updated remark for USI-ATC-302 at MATUGAMA - B: “10% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:53:43",
+      "iso": "2026-09-07T06:23:43.924Z",
+      "action": "updated remark for WB-B110 at MATUGAMA - B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:53:38",
+      "iso": "2026-09-07T06:23:38.144Z",
+      "action": "updated remark for WB-F65 at MATUGAMA - B: “Sold out”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "11:53:03",
       "iso": "2026-09-07T06:23:03.585Z",
       "action": "updated remark for WF-PARIS-BR-S at MATUGAMA - B: “35% OFF”"
@@ -78251,27 +78293,6 @@
       "time": "11:29:57",
       "iso": "2026-09-07T05:59:57.716Z",
       "action": "updated remark for TF-TW26-064 at MATARA-B: “Report for 500”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:29:53",
-      "iso": "2026-09-07T05:59:53.269Z",
-      "action": "updated remark for WF-JUPITER-04-S at MATARA-B: “Report for 500”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:29:21",
-      "iso": "2026-09-07T05:59:21.137Z",
-      "action": "updated remark for WC-IK609 at MATARA-B: “Report for 200”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:26:26",
-      "iso": "2026-09-07T05:56:26.521Z",
-      "action": "updated remark for UDV3618SY at MATARA-B: “Report for 500”"
     }
   ]
 }
