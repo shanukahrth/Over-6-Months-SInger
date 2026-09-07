@@ -77624,11 +77624,11 @@
       "lastUpdated": "2026-09-07T09:11:27.496Z"
     },
     "SLE32E910||KEKIRAWA": {
-      "remark": "90% Discount",
+      "remark": "90% Discount (Damage)",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-09-07",
-      "commentTime": "14:48:33",
-      "lastUpdated": "2026-09-07T09:18:33.948Z"
+      "commentTime": "14:48:53",
+      "lastUpdated": "2026-09-07T09:18:53.270Z"
     },
     "SLE32E920||KEKIRAWA": {
       "remark": "90% Discount",
@@ -79696,6 +79696,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:48:53",
+      "iso": "2026-09-07T09:18:53.271Z",
+      "action": "updated remark for SLE32E910 at KEKIRAWA: “90% Discount (Damage)”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:48:33",
       "iso": "2026-09-07T09:18:33.951Z",
       "action": "updated remark for SLE32E910 at KEKIRAWA: “90% Discount”"
@@ -80035,13 +80042,6 @@
       "time": "14:23:20",
       "iso": "2026-09-07T08:53:20.399Z",
       "action": "updated remark for SMGUA32T4400 at KEKIRAWA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:23:14",
-      "iso": "2026-09-07T08:53:14.878Z",
-      "action": "updated remark for SMGUA32T4400 at KEKIRAWA: “20% Discount”"
     }
   ]
 }
