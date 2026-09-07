@@ -77195,6 +77195,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:04:40",
       "lastUpdated": "2026-09-07T08:34:40.518Z"
+    },
+    "SAS24TCNR||KEKIRAWA": {
+      "remark": "50% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:04:53",
+      "lastUpdated": "2026-09-07T08:34:53.215Z"
     }
   },
   "showroomVisits": {
@@ -79213,6 +79220,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:04:53",
+      "iso": "2026-09-07T08:34:53.216Z",
+      "action": "updated remark for SAS24TCNR at KEKIRAWA: “50% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:04:40",
       "iso": "2026-09-07T08:34:40.521Z",
       "action": "updated remark for SAS-24V-INV at KEKIRAWA: “80% Discount”"
@@ -79552,13 +79566,6 @@
       "time": "12:58:57",
       "iso": "2026-09-07T07:28:57.081Z",
       "action": "updated remark for WF-CF-75X36-S at KEKIRAWA - B: “80% Damage”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:58:42",
-      "iso": "2026-09-07T07:28:42.808Z",
-      "action": "updated remark for FAN-P-MSF160 at KEKIRAWA - B: “70% Discount”"
     }
   ]
 }
