@@ -77937,6 +77937,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "15:39:12",
       "lastUpdated": "2026-09-07T10:09:12.646Z"
+    },
+    "SIN-10000||MORATUWA - B": {
+      "remark": "Damaged",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:39:31",
+      "lastUpdated": "2026-09-07T10:09:31.413Z"
     }
   },
   "showroomVisits": {
@@ -79955,6 +79962,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "15:39:31",
+      "iso": "2026-09-07T10:09:31.415Z",
+      "action": "updated remark for SIN-10000 at MORATUWA - B: “Damaged”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "15:39:24",
       "iso": "2026-09-07T10:09:24.793Z",
       "action": "updated remark for SB-DTYPE at MORATUWA - B: “Up to 10%”"
@@ -80294,13 +80308,6 @@
       "time": "15:04:40",
       "iso": "2026-09-07T09:34:40.673Z",
       "action": "updated remark for SMGUA32N4010 at KEKIRAWA: “60% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:03:57",
-      "iso": "2026-09-07T09:33:57.251Z",
-      "action": "updated remark for WP-CHTW-050-S at KEKIRAWA: “80% Discount”"
     }
   ]
 }
