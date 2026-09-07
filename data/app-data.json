@@ -77804,6 +77804,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:59:36",
       "lastUpdated": "2026-09-07T09:29:36.240Z"
+    },
+    "SED-2432A||KEKIRAWA": {
+      "remark": "75% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:00:01",
+      "lastUpdated": "2026-09-07T09:30:01.933Z"
     }
   },
   "showroomVisits": {
@@ -79822,6 +79829,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "15:00:01",
+      "iso": "2026-09-07T09:30:01.934Z",
+      "action": "updated remark for SED-2432A at KEKIRAWA: “75% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:59:36",
       "iso": "2026-09-07T09:29:36.241Z",
       "action": "updated remark for NCPO-DC200 at KEKIRAWA: “50% Discount”"
@@ -80161,13 +80175,6 @@
       "time": "14:39:44",
       "iso": "2026-09-07T09:09:44.907Z",
       "action": "updated remark for SLMC-18DSLHS at KEKIRAWA: “80% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:39:30",
-      "iso": "2026-09-07T09:09:30.306Z",
-      "action": "updated remark for WF-PERTH-CT-S at KEKIRAWA: “75% Discount”"
     }
   ]
 }
