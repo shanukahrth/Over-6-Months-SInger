@@ -76259,11 +76259,18 @@
       "lastUpdated": "2026-09-07T06:45:41.612Z"
     },
     "MID-MG-GP45B||MATUGAMA - B": {
+      "remark": "55% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:16:03",
+      "lastUpdated": "2026-09-07T06:46:03.489Z"
+    },
+    "MID-MF-TN40D2||MATUGAMA - B": {
       "remark": "50% OFF",
       "commentedBy": "Sulani",
       "commentDate": "2026-09-07",
-      "commentTime": "12:15:47",
-      "lastUpdated": "2026-09-07T06:45:47.665Z"
+      "commentTime": "12:16:10",
+      "lastUpdated": "2026-09-07T06:46:10.407Z"
     }
   },
   "showroomVisits": {
@@ -78276,6 +78283,20 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "12:16:10",
+      "iso": "2026-09-07T06:46:10.409Z",
+      "action": "updated remark for MID-MF-TN40D2 at MATUGAMA - B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "12:16:03",
+      "iso": "2026-09-07T06:46:03.491Z",
+      "action": "updated remark for MID-MG-GP45B at MATUGAMA - B: “55% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "12:15:47",
       "iso": "2026-09-07T06:45:47.666Z",
       "action": "updated remark for MID-MG-GP45B at MATUGAMA - B: “50% OFF”"
@@ -78608,20 +78629,6 @@
       "time": "11:55:54",
       "iso": "2026-09-07T06:25:54.770Z",
       "action": "updated remark for STO-EO30C at MATUGAMA - B: “60% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:55:46",
-      "iso": "2026-09-07T06:25:46.947Z",
-      "action": "updated remark for STT-200K at MATUGAMA - B: “60% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:55:38",
-      "iso": "2026-09-07T06:25:38.734Z",
-      "action": "updated remark for SW-SK13130N at MATUGAMA - B: “25% OFF”"
     }
   ]
 }
