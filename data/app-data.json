@@ -78007,6 +78007,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "15:45:28",
       "lastUpdated": "2026-09-07T10:15:28.530Z"
+    },
+    "WF-DOC-T011-MR-S||MORATUWA - B": {
+      "remark": "Additional 10%",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:46:31",
+      "lastUpdated": "2026-09-07T10:16:31.476Z"
     }
   },
   "showroomVisits": {
@@ -80025,6 +80032,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "15:46:31",
+      "iso": "2026-09-07T10:16:31.478Z",
+      "action": "updated remark for WF-DOC-T011-MR-S at MORATUWA - B: “Additional 10%”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "15:45:28",
       "iso": "2026-09-07T10:15:28.532Z",
       "action": "updated remark for WC-RT3019 at MORATUWA - B: “Shop use”"
@@ -80364,13 +80378,6 @@
       "time": "15:12:25",
       "iso": "2026-09-07T09:42:25.952Z",
       "action": "updated remark for R-BWS-02 at KEKIRAWA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:12:04",
-      "iso": "2026-09-07T09:42:04.827Z",
-      "action": "updated remark for NCPDG-SP240 at KEKIRAWA: “60% Discount”"
     }
   ]
 }
