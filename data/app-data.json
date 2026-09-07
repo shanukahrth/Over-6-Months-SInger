@@ -75902,11 +75902,18 @@
       "lastUpdated": "2026-09-07T06:22:34.430Z"
     },
     "WFI-SOC-M005-BU-S||MATUGAMA - B": {
-      "remark": "Exchange",
+      "remark": "20% OFF",
       "commentedBy": "Sulani",
       "commentDate": "2026-09-07",
-      "commentTime": "11:52:44",
-      "lastUpdated": "2026-09-07T06:22:44.552Z"
+      "commentTime": "11:52:56",
+      "lastUpdated": "2026-09-07T06:22:56.992Z"
+    },
+    "WF-PARIS-BR-S||MATUGAMA - B": {
+      "remark": "35% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:53:03",
+      "lastUpdated": "2026-09-07T06:23:03.583Z"
     }
   },
   "showroomVisits": {
@@ -77919,6 +77926,20 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "11:53:03",
+      "iso": "2026-09-07T06:23:03.585Z",
+      "action": "updated remark for WF-PARIS-BR-S at MATUGAMA - B: “35% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:52:56",
+      "iso": "2026-09-07T06:22:56.994Z",
+      "action": "updated remark for WFI-SOC-M005-BU-S at MATUGAMA - B: “20% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "11:52:44",
       "iso": "2026-09-07T06:22:44.554Z",
       "action": "updated remark for WFI-SOC-M005-BU-S at MATUGAMA - B: “Exchange”"
@@ -78251,20 +78272,6 @@
       "time": "11:26:26",
       "iso": "2026-09-07T05:56:26.521Z",
       "action": "updated remark for UDV3618SY at MATARA-B: “Report for 500”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:26:22",
-      "iso": "2026-09-07T05:56:22.165Z",
-      "action": "updated remark for UDV3618SY at MATARA-B: “15% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:26:16",
-      "iso": "2026-09-07T05:56:16.403Z",
-      "action": "updated remark for U-HRW-S6 at MATARA-B: “Report for 500”"
     }
   ]
 }
