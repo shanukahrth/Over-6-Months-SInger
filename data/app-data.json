@@ -76663,6 +76663,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "12:40:05",
       "lastUpdated": "2026-09-07T07:10:05.813Z"
+    },
+    "GEO-182S-BU1||KEKIRAWA - B": {
+      "remark": "30% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:40:19",
+      "lastUpdated": "2026-09-07T07:10:19.578Z"
     }
   },
   "showroomVisits": {
@@ -78675,6 +78682,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "12:40:19",
+      "iso": "2026-09-07T07:10:19.579Z",
+      "action": "updated remark for GEO-182S-BU1 at KEKIRAWA - B: “30% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "12:40:05",
       "iso": "2026-09-07T07:10:05.814Z",
       "action": "updated remark for SL-SWMFR72 at KEKIRAWA - B: “80% Discount (Damage)”"
@@ -79014,13 +79028,6 @@
       "time": "12:19:47",
       "iso": "2026-09-07T06:49:47.468Z",
       "action": "updated remark for HON-X9C-12-256-GRN at MATUGAMA - B: “5% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "12:19:42",
-      "iso": "2026-09-07T06:49:42.851Z",
-      "action": "updated remark for HON-X9C-12-256-GRN at MATUGAMA - B: “15% OFF”"
     }
   ]
 }
