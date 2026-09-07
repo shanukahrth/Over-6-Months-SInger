@@ -77244,6 +77244,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:13:09",
       "lastUpdated": "2026-09-07T08:43:09.068Z"
+    },
+    "SLE32E930||KEKIRAWA": {
+      "remark": "90% discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:13:31",
+      "lastUpdated": "2026-09-07T08:43:31.513Z"
     }
   },
   "showroomVisits": {
@@ -79262,6 +79269,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:13:31",
+      "iso": "2026-09-07T08:43:31.514Z",
+      "action": "updated remark for SLE32E930 at KEKIRAWA: “90% discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:13:09",
       "iso": "2026-09-07T08:43:09.070Z",
       "action": "updated remark for AVERY-150KG at KEKIRAWA: “15% Discount”"
@@ -79601,13 +79615,6 @@
       "time": "13:04:58",
       "iso": "2026-09-07T07:34:58.683Z",
       "action": "updated remark for STT-200K at KEKIRAWA - B: “80% Discount”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-07",
-      "time": "13:04:53",
-      "iso": "2026-09-07T07:34:53.797Z",
-      "action": "updated remark for PF-JAVA-CT-BL-S at YATIYANTHOTA: “50% off”"
     }
   ]
 }
