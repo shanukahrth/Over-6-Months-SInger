@@ -75748,11 +75748,11 @@
       "lastUpdated": "2026-09-07T06:10:00.472Z"
     },
     "SIN-BS30||DIYABEDUMA": {
-      "remark": "90% Damage",
+      "remark": "70% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-09-07",
-      "commentTime": "11:40:20",
-      "lastUpdated": "2026-09-07T06:10:20.567Z"
+      "commentTime": "11:55:30",
+      "lastUpdated": "2026-09-07T06:25:30.475Z"
     },
     "SMW928AS3||DIYABEDUMA": {
       "remark": "70% Discount",
@@ -77959,6 +77959,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
+      "time": "11:55:30",
+      "iso": "2026-09-07T06:25:30.480Z",
+      "action": "updated remark for SIN-BS30 at DIYABEDUMA: “70% Discount”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-09-07",
       "time": "11:54:13",
@@ -78300,13 +78307,6 @@
       "time": "11:31:43",
       "iso": "2026-09-07T06:01:43.102Z",
       "action": "updated remark for WP-12KINV at MATARA-B: “Can sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:30:18",
-      "iso": "2026-09-07T06:00:18.869Z",
-      "action": "updated remark for WF-MILAN-BR-S at MATARA-B: “50% OFF”"
     }
   ]
 }
