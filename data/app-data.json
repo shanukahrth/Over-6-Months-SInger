@@ -77013,6 +77013,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "13:06:59",
       "lastUpdated": "2026-09-07T07:36:59.500Z"
+    },
+    "SIN-RFC-2058||KEKIRAWA - B": {
+      "remark": "30% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "13:07:35",
+      "lastUpdated": "2026-09-07T07:37:35.954Z"
     }
   },
   "showroomVisits": {
@@ -79025,6 +79032,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "13:07:35",
+      "iso": "2026-09-07T07:37:35.955Z",
+      "action": "updated remark for SIN-RFC-2058 at KEKIRAWA - B: “30% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "13:06:59",
       "iso": "2026-09-07T07:36:59.501Z",
       "action": "updated remark for TH-TC-351 at KEKIRAWA - B: “90% Discount”"
@@ -79364,13 +79378,6 @@
       "time": "12:45:50",
       "iso": "2026-09-07T07:15:50.907Z",
       "action": "updated remark for WF-PRESTON-DTO-S at KEKIRAWA - B: “Sold”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:43:52",
-      "iso": "2026-09-07T07:13:52.108Z",
-      "action": "updated remark for SLE32F590 at KEKIRAWA - B: “90% Discount (Damage)”"
     }
   ]
 }
