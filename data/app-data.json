@@ -78035,6 +78035,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "15:50:30",
       "lastUpdated": "2026-09-07T10:20:30.168Z"
+    },
+    "RMG-SMART||MORATUWA - B": {
+      "remark": "Damaged",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:51:08",
+      "lastUpdated": "2026-09-07T10:21:08.584Z"
     }
   },
   "showroomVisits": {
@@ -80053,6 +80060,20 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "15:51:08",
+      "iso": "2026-09-07T10:21:08.586Z",
+      "action": "updated remark for RMG-SMART at MORATUWA - B: “Damaged”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "15:51:04",
+      "iso": "2026-09-07T10:21:04.660Z",
+      "action": "updated remark for RMG-SMART at MORATUWA - B: “Dmaged”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "15:50:30",
       "iso": "2026-09-07T10:20:30.178Z",
       "action": "updated remark for LF-OX-BR-M-S at MORATUWA - B: “Shop use”"
@@ -80385,20 +80406,6 @@
       "time": "15:15:07",
       "iso": "2026-09-07T09:45:07.284Z",
       "action": "updated remark for SLE43G890 at BAKAMOONA: “80% Discount  (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:15:01",
-      "iso": "2026-09-07T09:45:01.258Z",
-      "action": "updated remark for SMG-A17-8-256-GRY at BAKAMOONA: “20% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:14:38",
-      "iso": "2026-09-07T09:44:38.713Z",
-      "action": "updated remark for SLE32E930 at BAKAMOONA: “90%”"
     }
   ]
 }
