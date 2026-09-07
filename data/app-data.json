@@ -75431,6 +75431,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:10:11",
       "lastUpdated": "2026-09-07T05:40:11.376Z"
+    },
+    "SLE55GENR||DIYABEDUMA": {
+      "remark": "35%",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:10:26",
+      "lastUpdated": "2026-09-07T05:40:26.689Z"
     }
   },
   "showroomVisits": {
@@ -77443,6 +77450,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "11:10:26",
+      "iso": "2026-09-07T05:40:26.691Z",
+      "action": "updated remark for SLE55GENR at DIYABEDUMA: “35%”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "11:10:11",
       "iso": "2026-09-07T05:40:11.378Z",
       "action": "updated remark for SAS-GRI18V at DIYABEDUMA: “Exchange”"
@@ -77782,13 +77796,6 @@
       "time": "10:19:07",
       "iso": "2026-09-04T04:49:07.300Z",
       "action": "updated remark for SLE32G690 at BAKAMOONA: “90% (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:18:38",
-      "iso": "2026-09-04T04:48:38.960Z",
-      "action": "updated remark for SWH-118E at BAKAMOONA: “60% Discount”"
     }
   ]
 }
