@@ -76929,6 +76929,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "12:58:57",
       "lastUpdated": "2026-09-07T07:28:57.080Z"
+    },
+    "WF-NAMAL-CT-S||KEKIRAWA - B": {
+      "remark": "805",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "13:00:23",
+      "lastUpdated": "2026-09-07T07:30:23.888Z"
     }
   },
   "showroomVisits": {
@@ -78941,6 +78948,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "13:00:23",
+      "iso": "2026-09-07T07:30:23.889Z",
+      "action": "updated remark for WF-NAMAL-CT-S at KEKIRAWA - B: “805”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "12:58:57",
       "iso": "2026-09-07T07:28:57.081Z",
       "action": "updated remark for WF-CF-75X36-S at KEKIRAWA - B: “80% Damage”"
@@ -79280,13 +79294,6 @@
       "time": "12:39:12",
       "iso": "2026-09-07T07:09:12.343Z",
       "action": "updated remark for WF-PARIS-BR-S at KEKIRAWA - B: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:38:55",
-      "iso": "2026-09-07T07:08:55.601Z",
-      "action": "updated remark for SLE43G890 at KEKIRAWA - B: “80% Discount (Damage)”"
     }
   ]
 }
