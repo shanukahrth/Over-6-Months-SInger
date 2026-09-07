@@ -76565,6 +76565,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "12:34:39",
       "lastUpdated": "2026-09-07T07:04:39.560Z"
+    },
+    "RCS-04||DIYABEDUMA": {
+      "remark": "90% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:36:17",
+      "lastUpdated": "2026-09-07T07:06:17.283Z"
     }
   },
   "showroomVisits": {
@@ -78575,6 +78582,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
+      "time": "12:36:17",
+      "iso": "2026-09-07T07:06:17.286Z",
+      "action": "updated remark for RCS-04 at DIYABEDUMA: “90% Discount”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-09-07",
       "time": "12:34:39",
@@ -78916,13 +78930,6 @@
       "time": "12:15:41",
       "iso": "2026-09-07T06:45:41.613Z",
       "action": "updated remark for MID-MJ-KM6001W at MATUGAMA - B: “55% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "12:15:30",
-      "iso": "2026-09-07T06:45:30.812Z",
-      "action": "updated remark for MID-MJ-KM6001W at MATUGAMA - B: “35% OFF”"
     }
   ]
 }
