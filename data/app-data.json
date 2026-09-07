@@ -77314,6 +77314,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:17:24",
       "lastUpdated": "2026-09-07T08:47:24.466Z"
+    },
+    "WFL-RIO-03-S||KEKIRAWA": {
+      "remark": "60",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:17:41",
+      "lastUpdated": "2026-09-07T08:47:41.715Z"
     }
   },
   "showroomVisits": {
@@ -79332,6 +79339,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:17:41",
+      "iso": "2026-09-07T08:47:41.716Z",
+      "action": "updated remark for WFL-RIO-03-S at KEKIRAWA: “60”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:17:24",
       "iso": "2026-09-07T08:47:24.469Z",
       "action": "updated remark for WF-PRESTON-2D-S at KEKIRAWA: “80% Damage”"
@@ -79671,13 +79685,6 @@
       "time": "13:07:35",
       "iso": "2026-09-07T07:37:35.955Z",
       "action": "updated remark for SIN-RFC-2058 at KEKIRAWA - B: “30% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "13:06:59",
-      "iso": "2026-09-07T07:36:59.501Z",
-      "action": "updated remark for TH-TC-351 at KEKIRAWA - B: “90% Discount”"
     }
   ]
 }
