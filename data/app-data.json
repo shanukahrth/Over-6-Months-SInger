@@ -77587,6 +77587,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:39:30",
       "lastUpdated": "2026-09-07T09:09:30.305Z"
+    },
+    "SLMC-18DSLHS||KEKIRAWA": {
+      "remark": "80% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:39:44",
+      "lastUpdated": "2026-09-07T09:09:44.906Z"
     }
   },
   "showroomVisits": {
@@ -79605,6 +79612,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:39:44",
+      "iso": "2026-09-07T09:09:44.907Z",
+      "action": "updated remark for SLMC-18DSLHS at KEKIRAWA: “80% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:39:30",
       "iso": "2026-09-07T09:09:30.306Z",
       "action": "updated remark for WF-PERTH-CT-S at KEKIRAWA: “75% Discount”"
@@ -79944,13 +79958,6 @@
       "time": "14:17:41",
       "iso": "2026-09-07T08:47:41.716Z",
       "action": "updated remark for WFL-RIO-03-S at KEKIRAWA: “60”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:17:24",
-      "iso": "2026-09-07T08:47:24.469Z",
-      "action": "updated remark for WF-PRESTON-2D-S at KEKIRAWA: “80% Damage”"
     }
   ]
 }
