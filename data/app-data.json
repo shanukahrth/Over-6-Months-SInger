@@ -75494,6 +75494,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:17:31",
       "lastUpdated": "2026-09-07T05:47:31.237Z"
+    },
+    "SMG-A06-4-64-BLK||MATARA-B": {
+      "remark": "Service center",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:18:13",
+      "lastUpdated": "2026-09-07T05:48:13.254Z"
     }
   },
   "showroomVisits": {
@@ -77506,6 +77513,27 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "11:18:13",
+      "iso": "2026-09-07T05:48:13.254Z",
+      "action": "updated remark for SMG-A06-4-64-BLK at MATARA-B: “Service center”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:18:10",
+      "iso": "2026-09-07T05:48:10.569Z",
+      "action": "updated remark for SMG-A06-4-64-BLK at MATARA-B: “SErvice center”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:17:58",
+      "iso": "2026-09-07T05:47:58.753Z",
+      "action": "updated remark for SMG-A06-4-64-BLK at MATARA-B: “Service cenger”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "11:17:31",
       "iso": "2026-09-07T05:47:31.238Z",
       "action": "updated remark for SLE42T3520TC at MATARA-B: “90% OFF”"
@@ -77831,27 +77859,6 @@
       "time": "10:27:28",
       "iso": "2026-09-04T04:57:28.262Z",
       "action": "updated remark for SLE32E810 at BAKAMOONA: “90%(Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:27:07",
-      "iso": "2026-09-04T04:57:07.819Z",
-      "action": "updated remark for SIN-VBS-90PA at BAKAMOONA: “80% (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:26:36",
-      "iso": "2026-09-04T04:56:36.592Z",
-      "action": "updated remark for SLE32E910 at BAKAMOONA: “90%(Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:26:23",
-      "iso": "2026-09-04T04:56:23.105Z",
-      "action": "updated remark for SLE32E910 at BAKAMOONA: “90%(Damage)”"
     }
   ]
 }
