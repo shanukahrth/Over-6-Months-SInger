@@ -77477,11 +77477,11 @@
       "lastUpdated": "2026-09-07T09:04:00.656Z"
     },
     "SLE40E810C||KEKIRAWA": {
-      "remark": "EXCHANGE",
+      "remark": "Exchange",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-09-07",
-      "commentTime": "14:34:14",
-      "lastUpdated": "2026-09-07T09:04:14.232Z"
+      "commentTime": "15:06:02",
+      "lastUpdated": "2026-09-07T09:36:02.843Z"
     },
     "WFL-SPM-75X60X7-S||KEKIRAWA": {
       "remark": "SOLD",
@@ -79836,6 +79836,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "15:06:02",
+      "iso": "2026-09-07T09:36:02.845Z",
+      "action": "updated remark for SLE40E810C at KEKIRAWA: “Exchange”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "15:04:40",
       "iso": "2026-09-07T09:34:40.673Z",
       "action": "updated remark for SMGUA32N4010 at KEKIRAWA: “60% Discount”"
@@ -80175,13 +80182,6 @@
       "time": "14:44:44",
       "iso": "2026-09-07T09:14:44.589Z",
       "action": "updated remark for SLE32F590 at KEKIRAWA: “90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:43:43",
-      "iso": "2026-09-07T09:13:43.011Z",
-      "action": "updated remark for NB3900GEB at KEKIRAWA: “70% Discount”"
     }
   ]
 }
