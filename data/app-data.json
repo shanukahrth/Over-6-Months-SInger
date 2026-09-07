@@ -77785,11 +77785,11 @@
       "lastUpdated": "2026-09-07T09:27:35.867Z"
     },
     "FAN-ND-16A||KEKIRAWA": {
-      "remark": "90% Damage",
+      "remark": "90% Dis Damage",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-09-07",
-      "commentTime": "14:57:56",
-      "lastUpdated": "2026-09-07T09:27:56.674Z"
+      "commentTime": "14:59:25",
+      "lastUpdated": "2026-09-07T09:29:25.979Z"
     },
     "UJB-LB6027||KEKIRAWA": {
       "remark": "50% Discount",
@@ -79815,6 +79815,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:59:25",
+      "iso": "2026-09-07T09:29:25.983Z",
+      "action": "updated remark for FAN-ND-16A at KEKIRAWA: “90% Dis Damage”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:58:27",
       "iso": "2026-09-07T09:28:27.741Z",
       "action": "updated remark for UJB-LB6027 at KEKIRAWA: “50% Discount”"
@@ -80154,13 +80161,6 @@
       "time": "14:39:12",
       "iso": "2026-09-07T09:09:12.274Z",
       "action": "updated remark for WF-OSLO-MH-S at KEKIRAWA: “75% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:39:09",
-      "iso": "2026-09-07T09:09:09.515Z",
-      "action": "updated remark for WF-OSLO-BL-S at KEKIRAWA: “75%Discount”"
     }
   ]
 }
