@@ -75424,6 +75424,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:09:58",
       "lastUpdated": "2026-09-07T05:39:58.033Z"
+    },
+    "SAS-GRI18V||DIYABEDUMA": {
+      "remark": "Exchange",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:10:11",
+      "lastUpdated": "2026-09-07T05:40:11.376Z"
     }
   },
   "showroomVisits": {
@@ -77434,6 +77441,13 @@
   },
   "activity": [
     {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
+      "time": "11:10:11",
+      "iso": "2026-09-07T05:40:11.378Z",
+      "action": "updated remark for SAS-GRI18V at DIYABEDUMA: “Exchange”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-09-07",
       "time": "11:09:58",
@@ -77775,13 +77789,6 @@
       "time": "10:18:38",
       "iso": "2026-09-04T04:48:38.960Z",
       "action": "updated remark for SWH-118E at BAKAMOONA: “60% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:18:22",
-      "iso": "2026-09-04T04:48:22.836Z",
-      "action": "updated remark for SPAS81BT at BAKAMOONA: “80% Discount”"
     }
   ]
 }
