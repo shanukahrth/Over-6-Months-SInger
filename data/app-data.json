@@ -77274,11 +77274,11 @@
       "lastUpdated": "2026-09-07T08:44:43.778Z"
     },
     "WF-OSLO-MH-S||KEKIRAWA": {
-      "remark": "60% Discount",
+      "remark": "75% Discount",
       "commentedBy": "Gayan Sooriyaarachchi",
       "commentDate": "2026-09-07",
-      "commentTime": "14:15:06",
-      "lastUpdated": "2026-09-07T08:45:06.983Z"
+      "commentTime": "14:39:12",
+      "lastUpdated": "2026-09-07T09:09:12.272Z"
     },
     "WF-PARIS-BR-S||KEKIRAWA": {
       "remark": "60% Discount",
@@ -77573,6 +77573,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:38:52",
       "lastUpdated": "2026-09-07T09:08:52.844Z"
+    },
+    "WF-OSLO-BL-S||KEKIRAWA": {
+      "remark": "75%Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:39:09",
+      "lastUpdated": "2026-09-07T09:09:09.513Z"
     }
   },
   "showroomVisits": {
@@ -79591,6 +79598,20 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:39:12",
+      "iso": "2026-09-07T09:09:12.274Z",
+      "action": "updated remark for WF-OSLO-MH-S at KEKIRAWA: “75% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
+      "time": "14:39:09",
+      "iso": "2026-09-07T09:09:09.515Z",
+      "action": "updated remark for WF-OSLO-BL-S at KEKIRAWA: “75%Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:38:52",
       "iso": "2026-09-07T09:08:52.844Z",
       "action": "updated remark for WP-1-75N-S at KEKIRAWA: “80% Discount”"
@@ -79923,20 +79944,6 @@
       "time": "14:16:54",
       "iso": "2026-09-07T08:46:54.273Z",
       "action": "updated remark for PN-SC-AKX320GSK at KEKIRAWA: “75% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:16:44",
-      "iso": "2026-09-07T08:46:44.243Z",
-      "action": "updated remark for WF-CARLO-S at KEKIRAWA: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:16:20",
-      "iso": "2026-09-07T08:46:20.616Z",
-      "action": "updated remark for WP-SS-SUB1-S at KEKIRAWA: “80% Discount”"
     }
   ]
 }
