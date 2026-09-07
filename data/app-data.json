@@ -75627,6 +75627,27 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:26:26",
       "lastUpdated": "2026-09-07T05:56:26.519Z"
+    },
+    "WC-IK609||MATARA-B": {
+      "remark": "Report for 200",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:29:21",
+      "lastUpdated": "2026-09-07T05:59:21.133Z"
+    },
+    "WF-JUPITER-04-S||MATARA-B": {
+      "remark": "Report for 500",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:29:53",
+      "lastUpdated": "2026-09-07T05:59:53.268Z"
+    },
+    "TF-TW26-064||MATARA-B": {
+      "remark": "Report for 500",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:29:57",
+      "lastUpdated": "2026-09-07T05:59:57.715Z"
     }
   },
   "showroomVisits": {
@@ -77639,6 +77660,27 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "11:29:57",
+      "iso": "2026-09-07T05:59:57.716Z",
+      "action": "updated remark for TF-TW26-064 at MATARA-B: “Report for 500”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:29:53",
+      "iso": "2026-09-07T05:59:53.269Z",
+      "action": "updated remark for WF-JUPITER-04-S at MATARA-B: “Report for 500”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:29:21",
+      "iso": "2026-09-07T05:59:21.137Z",
+      "action": "updated remark for WC-IK609 at MATARA-B: “Report for 200”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "11:26:26",
       "iso": "2026-09-07T05:56:26.521Z",
       "action": "updated remark for UDV3618SY at MATARA-B: “Report for 500”"
@@ -77964,27 +78006,6 @@
       "time": "11:01:49",
       "iso": "2026-09-07T05:31:49.912Z",
       "action": "updated remark for NUBIA-V60DSGN-6-256GB-GLD at MATARA-B: “Discounts already have given”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:00:59",
-      "iso": "2026-09-07T05:30:59.410Z",
-      "action": "updated remark for CP-QAC-DC90L2-D at MATARA-B: “Report for 2000”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:00:34",
-      "iso": "2026-09-07T05:30:34.845Z",
-      "action": "updated remark for CP-LAC-DC85L2 at MATARA-B: “Report for 2000”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "12:01:33",
-      "iso": "2026-09-04T06:31:33.105Z",
-      "action": "updated remark for LF-LEENA-CT-WN-S at BAKAMOONA: “50% Discount pv”"
     }
   ]
 }
