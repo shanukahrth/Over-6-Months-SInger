@@ -77993,6 +77993,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "15:44:18",
       "lastUpdated": "2026-09-07T10:14:18.274Z"
+    },
+    "USI-ATC-302||MORATUWA - B": {
+      "remark": "Cn sell",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:44:33",
+      "lastUpdated": "2026-09-07T10:14:33.407Z"
     }
   },
   "showroomVisits": {
@@ -80011,6 +80018,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "15:44:33",
+      "iso": "2026-09-07T10:14:33.409Z",
+      "action": "updated remark for USI-ATC-302 at MORATUWA - B: “Cn sell”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "15:44:18",
       "iso": "2026-09-07T10:14:18.275Z",
       "action": "updated remark for U-BS8816 at MORATUWA - B: “Not sellable”"
@@ -80350,13 +80364,6 @@
       "time": "15:11:53",
       "iso": "2026-09-07T09:41:53.494Z",
       "action": "updated remark for SIS277CU at KEKIRAWA: “60% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:11:35",
-      "iso": "2026-09-07T09:41:35.329Z",
-      "action": "updated remark for SL-4MIXGR-N at KEKIRAWA: “90% Discountb”"
     }
   ]
 }
