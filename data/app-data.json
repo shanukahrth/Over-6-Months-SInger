@@ -76572,6 +76572,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "12:36:17",
       "lastUpdated": "2026-09-07T07:06:17.283Z"
+    },
+    "SRS-XP700||KEKIRAWA - B": {
+      "remark": "70% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:36:45",
+      "lastUpdated": "2026-09-07T07:06:45.014Z"
     }
   },
   "showroomVisits": {
@@ -78584,6 +78591,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "12:36:45",
+      "iso": "2026-09-07T07:06:45.016Z",
+      "action": "updated remark for SRS-XP700 at KEKIRAWA - B: “70% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "12:36:17",
       "iso": "2026-09-07T07:06:17.286Z",
       "action": "updated remark for RCS-04 at DIYABEDUMA: “90% Discount”"
@@ -78923,13 +78937,6 @@
       "time": "12:15:47",
       "iso": "2026-09-07T06:45:47.666Z",
       "action": "updated remark for MID-MG-GP45B at MATUGAMA - B: “50% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "12:15:41",
-      "iso": "2026-09-07T06:45:41.613Z",
-      "action": "updated remark for MID-MJ-KM6001W at MATUGAMA - B: “55% OFF”"
     }
   ]
 }
