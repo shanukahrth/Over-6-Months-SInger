@@ -76355,6 +76355,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "12:20:21",
       "lastUpdated": "2026-09-07T06:50:21.092Z"
+    },
+    "HFPA-GRAVITY-BLC||DIYABEDUMA": {
+      "remark": "Rs.24000",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:20:32",
+      "lastUpdated": "2026-09-07T06:50:32.825Z"
     }
   },
   "showroomVisits": {
@@ -78367,6 +78374,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "12:20:32",
+      "iso": "2026-09-07T06:50:32.827Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at DIYABEDUMA: “Rs.24000”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "12:20:21",
       "iso": "2026-09-07T06:50:21.094Z",
       "action": "updated remark for SLE32E920 at DIYABEDUMA: “90% Discount (Damage)”"
@@ -78706,13 +78720,6 @@
       "time": "11:58:46",
       "iso": "2026-09-07T06:28:46.743Z",
       "action": "updated remark for RMG-3JAR550 at MATUGAMA - B: “70% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "11:58:40",
-      "iso": "2026-09-07T06:28:40.643Z",
-      "action": "updated remark for SB-DTYPE at MATUGAMA - B: “Report for 100”"
     }
   ]
 }
