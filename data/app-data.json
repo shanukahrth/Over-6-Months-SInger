@@ -76082,6 +76082,27 @@
       "commentDate": "2026-09-07",
       "commentTime": "11:59:08",
       "lastUpdated": "2026-09-07T06:29:08.721Z"
+    },
+    "R-BWS-02||MATUGAMA - B": {
+      "remark": "5% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:04:09",
+      "lastUpdated": "2026-09-07T06:34:09.682Z"
+    },
+    "PN-NF-GW1WSK||MATUGAMA - B": {
+      "remark": "60% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:04:36",
+      "lastUpdated": "2026-09-07T06:34:36.135Z"
+    },
+    "PN-MX-AC210||MATUGAMA - B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "12:04:44",
+      "lastUpdated": "2026-09-07T06:34:44.620Z"
     }
   },
   "showroomVisits": {
@@ -78094,6 +78115,34 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "12:04:44",
+      "iso": "2026-09-07T06:34:44.621Z",
+      "action": "updated remark for PN-MX-AC210 at MATUGAMA - B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "12:04:36",
+      "iso": "2026-09-07T06:34:36.136Z",
+      "action": "updated remark for PN-NF-GW1WSK at MATUGAMA - B: “60% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "12:04:27",
+      "iso": "2026-09-07T06:34:27.546Z",
+      "action": "updated remark for PN-NF-GW1WSK at MATUGAMA - B: “60% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "12:04:09",
+      "iso": "2026-09-07T06:34:09.684Z",
+      "action": "updated remark for R-BWS-02 at MATUGAMA - B: “5% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "11:59:08",
       "iso": "2026-09-07T06:29:08.723Z",
       "action": "updated remark for R-RGS150-SV at MATUGAMA - B: “Can sell”"
@@ -78412,34 +78461,6 @@
       "time": "11:45:04",
       "iso": "2026-09-07T06:15:04.721Z",
       "action": "updated remark for SS-PS16-AG at DIYABEDUMA: “90% Damage”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "11:44:45",
-      "iso": "2026-09-07T06:14:45.547Z",
-      "action": "updated remark for SS-PS16-AG at DIYABEDUMA: “90% Damage”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "11:44:33",
-      "iso": "2026-09-07T06:14:33.528Z",
-      "action": "updated remark for SLE32G690 at DIYABEDUMA: “90% Damage”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "11:44:19",
-      "iso": "2026-09-07T06:14:19.219Z",
-      "action": "updated remark for SMG-A06-4-128-BLK at DIYABEDUMA: “SOLD”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "11:43:57",
-      "iso": "2026-09-07T06:13:57.810Z",
-      "action": "updated remark for MC8280 at DIYABEDUMA: “50% Discount”"
     }
   ]
 }
