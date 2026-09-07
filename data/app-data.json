@@ -77475,6 +77475,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:34:00",
       "lastUpdated": "2026-09-07T09:04:00.656Z"
+    },
+    "SLE40E810C||KEKIRAWA": {
+      "remark": "EXCHANGE",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:34:14",
+      "lastUpdated": "2026-09-07T09:04:14.232Z"
     }
   },
   "showroomVisits": {
@@ -79493,6 +79500,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:34:14",
+      "iso": "2026-09-07T09:04:14.234Z",
+      "action": "updated remark for SLE40E810C at KEKIRAWA: “EXCHANGE”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:34:00",
       "iso": "2026-09-07T09:04:00.658Z",
       "action": "updated remark for WP-2-S at KEKIRAWA: “80% Discount”"
@@ -79832,13 +79846,6 @@
       "time": "14:04:53",
       "iso": "2026-09-07T08:34:53.216Z",
       "action": "updated remark for SAS24TCNR at KEKIRAWA: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:04:40",
-      "iso": "2026-09-07T08:34:40.521Z",
-      "action": "updated remark for SAS-24V-INV at KEKIRAWA: “80% Discount”"
     }
   ]
 }
