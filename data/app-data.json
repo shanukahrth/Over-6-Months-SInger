@@ -77160,6 +77160,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "13:27:43",
       "lastUpdated": "2026-09-07T07:57:43.440Z"
+    },
+    "RCS-04||BULATHKOHUPITIYA": {
+      "remark": "Sold",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-07",
+      "commentTime": "13:35:23",
+      "lastUpdated": "2026-09-07T08:05:23.289Z"
     }
   },
   "showroomVisits": {
@@ -79178,6 +79185,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-07",
+      "time": "13:35:23",
+      "iso": "2026-09-07T08:05:23.291Z",
+      "action": "updated remark for RCS-04 at BULATHKOHUPITIYA: “Sold”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-07",
       "time": "13:35:07",
       "iso": "2026-09-07T08:05:07.248Z",
       "action": "marked RCS-04 at BULATHKOHUPITIYA as Sold"
@@ -79517,13 +79531,6 @@
       "time": "12:56:16",
       "iso": "2026-09-07T07:26:16.286Z",
       "action": "updated remark for SLE32F590 at KEKIRAWA - B: “90% Discount ( Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "12:56:00",
-      "iso": "2026-09-07T07:26:00.425Z",
-      "action": "updated remark for SLE32F590 at KEKIRAWA - B: “90% Discount( Damage)”"
     }
   ]
 }
