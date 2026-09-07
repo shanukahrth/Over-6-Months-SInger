@@ -77391,6 +77391,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:22:43",
       "lastUpdated": "2026-09-07T08:52:43.726Z"
+    },
+    "SIN-DELTA-DC||KEKIRAWA": {
+      "remark": "90% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:22:57",
+      "lastUpdated": "2026-09-07T08:52:57.066Z"
     }
   },
   "showroomVisits": {
@@ -79409,6 +79416,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:22:57",
+      "iso": "2026-09-07T08:52:57.066Z",
+      "action": "updated remark for SIN-DELTA-DC at KEKIRAWA: “90% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:22:43",
       "iso": "2026-09-07T08:52:43.728Z",
       "action": "updated remark for WF-CAMELIA-DTO-S at KEKIRAWA: “75% Discount”"
@@ -79748,13 +79762,6 @@
       "time": "13:18:54",
       "iso": "2026-09-07T07:48:54.371Z",
       "action": "updated remark for SID-ATC-15 at KEKIRAWA - B: “10% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "13:17:12",
-      "iso": "2026-09-07T07:47:12.103Z",
-      "action": "updated remark for RCS-04 at KEKIRAWA - B: “90% Discount”"
     }
   ]
 }
