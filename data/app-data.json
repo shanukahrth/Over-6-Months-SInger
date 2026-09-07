@@ -77846,6 +77846,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "15:34:03",
       "lastUpdated": "2026-09-07T10:04:03.503Z"
+    },
+    "HFPA-GRAVITY-BLC||MORATUWA - B": {
+      "remark": "MOP 24,000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "15:34:23",
+      "lastUpdated": "2026-09-07T10:04:23.558Z"
     }
   },
   "showroomVisits": {
@@ -79864,6 +79871,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-07",
+      "time": "15:34:23",
+      "iso": "2026-09-07T10:04:23.559Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at MORATUWA - B: “MOP 24,000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
       "time": "15:34:03",
       "iso": "2026-09-07T10:04:03.504Z",
       "action": "updated remark for FAN-P-1605H at MORATUWA - B: “Can sell”"
@@ -80203,13 +80217,6 @@
       "time": "14:56:40",
       "iso": "2026-09-07T09:26:40.827Z",
       "action": "updated remark for TF-SI-ESS-242 at KEKIRAWA (cleared)"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:56:39",
-      "iso": "2026-09-07T09:26:39.144Z",
-      "action": "updated remark for SIS277CU at KEKIRAWA: “605”"
     }
   ]
 }
