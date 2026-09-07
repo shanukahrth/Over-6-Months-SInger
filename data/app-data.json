@@ -75347,6 +75347,20 @@
       "commentDate": "2026-09-04",
       "commentTime": "12:01:33",
       "lastUpdated": "2026-09-04T06:31:33.103Z"
+    },
+    "CP-LAC-DC85L2||MATARA-B": {
+      "remark": "Report for 2000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:00:34",
+      "lastUpdated": "2026-09-07T05:30:34.842Z"
+    },
+    "CP-QAC-DC90L2-D||MATARA-B": {
+      "remark": "Report for 2000",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-07",
+      "commentTime": "11:00:59",
+      "lastUpdated": "2026-09-07T05:30:59.408Z"
     }
   },
   "showroomVisits": {
@@ -77357,6 +77371,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:00:59",
+      "iso": "2026-09-07T05:30:59.410Z",
+      "action": "updated remark for CP-QAC-DC90L2-D at MATARA-B: “Report for 2000”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-07",
+      "time": "11:00:34",
+      "iso": "2026-09-07T05:30:34.845Z",
+      "action": "updated remark for CP-LAC-DC85L2 at MATARA-B: “Report for 2000”"
+    },
+    {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-04",
       "time": "12:01:33",
@@ -77691,20 +77719,6 @@
       "time": "10:13:47",
       "iso": "2026-09-04T04:43:47.814Z",
       "action": "updated remark for HON-X5BPLUS-4-128-BLU at BAKAMOONA: “80% (Damage)”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-04",
-      "time": "10:03:56",
-      "iso": "2026-09-04T04:33:56.693Z",
-      "action": "updated remark for PN-TH-32M402N at BAKAMOONA: “90% (Damage)”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-04",
-      "time": "10:03:43",
-      "iso": "2026-09-04T04:33:43.396Z",
-      "action": "updated remark for SLE32D5000 at NIVITHIGALA: “80%”"
     }
   ]
 }
