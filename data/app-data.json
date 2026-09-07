@@ -77496,6 +77496,13 @@
       "commentDate": "2026-09-07",
       "commentTime": "14:34:57",
       "lastUpdated": "2026-09-07T09:04:57.208Z"
+    },
+    "WF-LEEDS-CT-S||KEKIRAWA": {
+      "remark": "75% Discount",
+      "commentedBy": "Gayan Sooriyaarachchi",
+      "commentDate": "2026-09-07",
+      "commentTime": "14:35:08",
+      "lastUpdated": "2026-09-07T09:05:08.253Z"
     }
   },
   "showroomVisits": {
@@ -79514,6 +79521,13 @@
     {
       "user": "Gayan Sooriyaarachchi",
       "date": "2026-09-07",
+      "time": "14:35:08",
+      "iso": "2026-09-07T09:05:08.255Z",
+      "action": "updated remark for WF-LEEDS-CT-S at KEKIRAWA: “75% Discount”"
+    },
+    {
+      "user": "Gayan Sooriyaarachchi",
+      "date": "2026-09-07",
       "time": "14:34:57",
       "iso": "2026-09-07T09:04:57.209Z",
       "action": "updated remark for WF-LILY-TBL-S at KEKIRAWA: “75% Discount (Damage)”"
@@ -79853,13 +79867,6 @@
       "time": "14:11:53",
       "iso": "2026-09-07T08:41:53.955Z",
       "action": "updated remark for WFL-RUSH-BL-S at KEKIRAWA: “Transfer Dambulla”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "14:11:29",
-      "iso": "2026-09-07T08:41:29.030Z",
-      "action": "updated remark for SLE55GENR at KEKIRAWA: “38% Discount”"
     }
   ]
 }
