@@ -80005,7 +80005,7 @@
       "visited": "Yes",
       "visitDate": "2026-09-08",
       "team": "Team Central ",
-      "remark": "",
+      "remark": "Discounts given over the phone ",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-08"
     }
@@ -80376,6 +80376,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:23:19",
+      "iso": "2026-09-08T06:53:19.925Z",
+      "action": "updated UDUDUMBARA showroom (remark: Discounts given over the phone )"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:23:06",
       "iso": "2026-09-08T06:53:06.147Z",
       "action": "updated UDUDUMBARA showroom (team: Team Central )"
@@ -80715,13 +80722,6 @@
       "time": "12:01:15",
       "iso": "2026-09-08T06:31:15.633Z",
       "action": "updated remark for SIN-MH44SW at UDUDUMBARA: “Damaged - 85%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:00:27",
-      "iso": "2026-09-08T06:30:27.335Z",
-      "action": "updated remark for SDM1120S at UDUDUMBARA: “Damaged - 80%”"
     }
   ]
 }
