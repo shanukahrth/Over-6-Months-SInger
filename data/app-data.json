@@ -78490,6 +78490,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:35:46",
       "lastUpdated": "2026-09-08T07:05:46.311Z"
+    },
+    "SLE32E390||UDUDUMBARA": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:36:32",
+      "lastUpdated": "2026-09-08T07:06:32.710Z"
     }
   },
   "showroomVisits": {
@@ -80516,6 +80523,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:36:32",
+      "iso": "2026-09-08T07:06:32.711Z",
+      "action": "updated remark for SLE32E390 at UDUDUMBARA: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:35:46",
       "iso": "2026-09-08T07:05:46.312Z",
       "action": "updated remark for SLE28D2730 at UDUDUMBARA: “Pending Exchange”"
@@ -80855,13 +80869,6 @@
       "time": "12:10:57",
       "iso": "2026-09-08T06:40:57.208Z",
       "action": "updated remark for WFL-CRYSTAL-72X60-S at UDUDUMBARA: “1 - PO transferred / 1 - Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:09:44",
-      "iso": "2026-09-08T06:39:44.584Z",
-      "action": "updated remark for WF-ORIENT-TBL-S at UDUDUMBARA: “Damaged - 80%”"
     }
   ]
 }
