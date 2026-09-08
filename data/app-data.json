@@ -78588,6 +78588,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:42:41",
       "lastUpdated": "2026-09-08T07:12:41.263Z"
+    },
+    "SIN-RFC-2058||YATIYANTHOTA": {
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-08",
+      "commentTime": "14:33:14",
+      "lastUpdated": "2026-09-08T09:03:14.218Z"
     }
   },
   "showroomVisits": {
@@ -80612,6 +80619,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
+      "time": "14:33:14",
+      "iso": "2026-09-08T09:03:14.222Z",
+      "action": "updated remark for SIN-RFC-2058 at YATIYANTHOTA: “-”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-08",
       "time": "12:42:41",
@@ -80953,13 +80967,6 @@
       "time": "12:17:25",
       "iso": "2026-09-08T06:47:25.390Z",
       "action": "updated remark for SMW823AY7 at UDUDUMBARA: “Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:16:57",
-      "iso": "2026-09-08T06:46:57.986Z",
-      "action": "updated remark for R-BWS-02 at UDUDUMBARA: “35%”"
     }
   ]
 }
