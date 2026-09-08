@@ -78723,11 +78723,11 @@
       "lastUpdated": "2026-09-08T17:20:01.938Z"
     },
     "LF-PROMO-CT-S||SHOMES-KEGALLE": {
-      "remark": "Damaged",
+      "remark": "Damaged 75%",
       "commentedBy": "Maria Fernando",
       "commentDate": "2026-09-08",
-      "commentTime": "22:50:41",
-      "lastUpdated": "2026-09-08T17:20:41.190Z"
+      "commentTime": "22:51:29",
+      "lastUpdated": "2026-09-08T17:21:29.642Z"
     }
   },
   "showroomVisits": {
@@ -80770,6 +80770,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-08",
+      "time": "22:51:29",
+      "iso": "2026-09-08T17:21:29.644Z",
+      "action": "updated remark for LF-PROMO-CT-S at SHOMES-KEGALLE: “Damaged 75%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
       "time": "22:50:41",
       "iso": "2026-09-08T17:20:41.196Z",
       "action": "updated remark for LF-PROMO-CT-S at SHOMES-KEGALLE: “Damaged”"
@@ -81109,13 +81116,6 @@
       "time": "12:37:41",
       "iso": "2026-09-08T07:07:41.412Z",
       "action": "updated remark for SLE40D600A at UDUDUMBARA: “1 - Reported / 1 -  Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:36:59",
-      "iso": "2026-09-08T07:06:59.288Z",
-      "action": "updated remark for SLE32G690 at UDUDUMBARA: “Panel Damage - 90%”"
     }
   ]
 }
