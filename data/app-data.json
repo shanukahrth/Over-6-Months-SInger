@@ -78658,6 +78658,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "22:32:53",
       "lastUpdated": "2026-09-08T17:02:53.178Z"
+    },
+    "WFL-NOC-LC02PR-BL-S||SHOMES-KEGALLE": {
+      "remark": "60% Off.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-08",
+      "commentTime": "22:33:44",
+      "lastUpdated": "2026-09-08T17:03:44.553Z"
     }
   },
   "showroomVisits": {
@@ -80700,6 +80707,20 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-08",
+      "time": "22:33:44",
+      "iso": "2026-09-08T17:03:44.555Z",
+      "action": "updated remark for WFL-NOC-LC02PR-BL-S at SHOMES-KEGALLE: “60% Off.”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
+      "time": "22:33:39",
+      "iso": "2026-09-08T17:03:39.909Z",
+      "action": "updated remark for WFL-NOC-LC02PR-BL-S at SHOMES-KEGALLE: “60% Off”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
       "time": "22:32:53",
       "iso": "2026-09-08T17:02:53.184Z",
       "action": "updated remark for QT-T110 at SHOMES-KEGALLE: “50% Off.Display”"
@@ -81032,20 +81053,6 @@
       "time": "12:34:18",
       "iso": "2026-09-08T07:04:18.259Z",
       "action": "updated remark for SKY-32E2 at UDUDUMBARA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:34:16",
-      "iso": "2026-09-08T07:04:16.569Z",
-      "action": "updated remark for H-LD43SY at UDUDUMBARA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:33:48",
-      "iso": "2026-09-08T07:03:48.015Z",
-      "action": "updated remark for H-LD43SY at UDUDUMBARA: “90%”"
     }
   ]
 }
