@@ -78576,11 +78576,11 @@
       "lastUpdated": "2026-09-08T07:11:18.970Z"
     },
     "WP-CHTW-100-S||UDUDUMBARA": {
-      "remark": "70%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-08",
-      "commentTime": "12:41:42",
-      "lastUpdated": "2026-09-08T07:11:42.998Z"
+      "commentTime": "12:42:06",
+      "lastUpdated": "2026-09-08T07:12:06.766Z"
     }
   },
   "showroomVisits": {
@@ -80607,6 +80607,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:42:06",
+      "iso": "2026-09-08T07:12:06.768Z",
+      "action": "updated remark for WP-CHTW-100-S at UDUDUMBARA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:41:42",
       "iso": "2026-09-08T07:11:42.999Z",
       "action": "updated remark for WP-CHTW-100-S at UDUDUMBARA: “70%”"
@@ -80946,13 +80953,6 @@
       "time": "12:16:27",
       "iso": "2026-09-08T06:46:27.273Z",
       "action": "updated remark for SL-PB-426 at UDUDUMBARA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:16:07",
-      "iso": "2026-09-08T06:46:07.290Z",
-      "action": "updated remark for UJB-LB6027 at UDUDUMBARA: “45% - Display”"
     }
   ]
 }
