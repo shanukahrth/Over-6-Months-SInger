@@ -78252,6 +78252,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:12:28",
       "lastUpdated": "2026-09-08T06:42:28.059Z"
+    },
+    "USI-ATC-302||UDUDUMBARA": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:12:54",
+      "lastUpdated": "2026-09-08T06:42:54.711Z"
     }
   },
   "showroomVisits": {
@@ -80270,6 +80277,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:12:54",
+      "iso": "2026-09-08T06:42:54.712Z",
+      "action": "updated remark for USI-ATC-302 at UDUDUMBARA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:12:28",
       "iso": "2026-09-08T06:42:28.060Z",
       "action": "updated remark for SIS253CU at UDUDUMBARA: “40%”"
@@ -80609,13 +80623,6 @@
       "time": "16:05:10",
       "iso": "2026-09-07T10:35:10.495Z",
       "action": "updated remark for SMW823AY7 at KEKIRAWA - B: “50% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "16:04:53",
-      "iso": "2026-09-07T10:34:53.103Z",
-      "action": "updated remark for SMGUA32N4010 at KEKIRAWA - B: “50% Discount”"
     }
   ]
 }
