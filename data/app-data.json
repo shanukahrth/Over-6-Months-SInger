@@ -78238,6 +78238,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:11:42",
       "lastUpdated": "2026-09-08T06:41:42.650Z"
+    },
+    "SIN-VBS-90PA||UDUDUMBARA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:12:08",
+      "lastUpdated": "2026-09-08T06:42:08.760Z"
     }
   },
   "showroomVisits": {
@@ -80256,6 +80263,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:12:08",
+      "iso": "2026-09-08T06:42:08.762Z",
+      "action": "updated remark for SIN-VBS-90PA at UDUDUMBARA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:11:42",
       "iso": "2026-09-08T06:41:42.651Z",
       "action": "updated remark for WF-PARIS-BR-S at UDUDUMBARA: “Reported”"
@@ -80595,13 +80609,6 @@
       "time": "16:04:36",
       "iso": "2026-09-07T10:34:36.228Z",
       "action": "updated remark for SLE40D600A at KEKIRAWA - B: “90% Discount -Damage”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "16:02:46",
-      "iso": "2026-09-07T10:32:46.890Z",
-      "action": "updated remark for UR591SW at DIYABEDUMA: “Rs 5000.00”"
     }
   ]
 }
