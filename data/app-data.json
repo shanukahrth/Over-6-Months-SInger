@@ -78203,6 +78203,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:07:41",
       "lastUpdated": "2026-09-08T06:37:41.765Z"
+    },
+    "WF-JUPITER-04-S||UDUDUMBARA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:08:00",
+      "lastUpdated": "2026-09-08T06:38:00.793Z"
     }
   },
   "showroomVisits": {
@@ -80221,6 +80228,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:08:00",
+      "iso": "2026-09-08T06:38:00.794Z",
+      "action": "updated remark for WF-JUPITER-04-S at UDUDUMBARA: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:07:41",
       "iso": "2026-09-08T06:37:41.766Z",
       "action": "updated remark for WF-PRESTON-BSC-S at UDUDUMBARA: “50%”"
@@ -80560,13 +80574,6 @@
       "time": "15:59:36",
       "iso": "2026-09-07T10:29:36.954Z",
       "action": "updated remark for SS-PS16-AG at DIYABEDUMA: “90% D”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:59:25",
-      "iso": "2026-09-07T10:29:25.835Z",
-      "action": "updated remark for WP-JUN-E-S at DIYABEDUMA: “70% Discount”"
     }
   ]
 }
