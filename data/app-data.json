@@ -78434,6 +78434,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:32:26",
       "lastUpdated": "2026-09-08T07:02:26.637Z"
+    },
+    "SIN-PR-K340||UDUDUMBARA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:32:43",
+      "lastUpdated": "2026-09-08T07:02:43.855Z"
     }
   },
   "showroomVisits": {
@@ -80460,6 +80467,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:32:43",
+      "iso": "2026-09-08T07:02:43.855Z",
+      "action": "updated remark for SIN-PR-K340 at UDUDUMBARA: “Additional 15%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:32:26",
       "iso": "2026-09-08T07:02:26.639Z",
       "action": "updated remark for BES-WP15-ECO at UDUDUMBARA: “Revert - Unsellable”"
@@ -80799,13 +80813,6 @@
       "time": "12:06:25",
       "iso": "2026-09-08T06:36:25.094Z",
       "action": "updated remark for SL-SF1607RC at UDUDUMBARA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:06:21",
-      "iso": "2026-09-08T06:36:21.837Z",
-      "action": "updated remark for SL-SF1607 at UDUDUMBARA: “70%”"
     }
   ]
 }
