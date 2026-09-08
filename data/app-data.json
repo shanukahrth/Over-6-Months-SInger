@@ -78896,6 +78896,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "23:25:33",
       "lastUpdated": "2026-09-08T17:55:33.765Z"
+    },
+    "SIN-RFC-2012||SHOMES-KEGALLE": {
+      "remark": "Not Working.75%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-08",
+      "commentTime": "23:26:10",
+      "lastUpdated": "2026-09-08T17:56:10.034Z"
     }
   },
   "showroomVisits": {
@@ -80938,6 +80945,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-08",
+      "time": "23:26:10",
+      "iso": "2026-09-08T17:56:10.040Z",
+      "action": "updated remark for SIN-RFC-2012 at SHOMES-KEGALLE: “Not Working.75%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
       "time": "23:25:33",
       "iso": "2026-09-08T17:55:33.767Z",
       "action": "updated remark for MB-SAFARI4S-RED at SHOMES-KEGALLE: “-”"
@@ -81277,13 +81291,6 @@
       "time": "17:19:31",
       "iso": "2026-09-08T11:49:31.286Z",
       "action": "updated remark for SIN-RFC-2012 at HETTIMULLA LITE: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "17:17:53",
-      "iso": "2026-09-08T11:47:53.976Z",
-      "action": "updated remark for R-BWS-02 at HETTIMULLA LITE: “-”"
     }
   ]
 }
