@@ -78077,6 +78077,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "11:59:30",
       "lastUpdated": "2026-09-08T06:29:30.644Z"
+    },
+    "SDM1120S||UDUDUMBARA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "11:59:54",
+      "lastUpdated": "2026-09-08T06:29:54.801Z"
     }
   },
   "showroomVisits": {
@@ -80095,6 +80102,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "11:59:54",
+      "iso": "2026-09-08T06:29:54.801Z",
+      "action": "updated remark for SDM1120S at UDUDUMBARA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "11:59:53",
+      "iso": "2026-09-08T06:29:53.276Z",
+      "action": "updated remark for SDM1120S at UDUDUMBARA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "11:59:30",
       "iso": "2026-09-08T06:29:30.646Z",
       "action": "updated remark for MHC-M40D at UDUDUMBARA: “Pending Exchanges”"
@@ -80427,20 +80448,6 @@
       "time": "15:39:31",
       "iso": "2026-09-07T10:09:31.415Z",
       "action": "updated remark for SIN-10000 at MORATUWA - B: “Damaged”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:39:24",
-      "iso": "2026-09-07T10:09:24.793Z",
-      "action": "updated remark for SB-DTYPE at MORATUWA - B: “Up to 10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:39:12",
-      "iso": "2026-09-07T10:09:12.648Z",
-      "action": "updated remark for SDV3605K at MORATUWA - B: “Upto 70%”"
     }
   ]
 }
