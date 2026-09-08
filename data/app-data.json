@@ -78413,6 +78413,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:31:33",
       "lastUpdated": "2026-09-08T07:01:33.078Z"
+    },
+    "GEO-182S-SV||UDUDUMBARA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:31:46",
+      "lastUpdated": "2026-09-08T07:01:46.207Z"
     }
   },
   "showroomVisits": {
@@ -80439,6 +80446,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:31:46",
+      "iso": "2026-09-08T07:01:46.207Z",
+      "action": "updated remark for GEO-182S-SV at UDUDUMBARA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:31:33",
       "iso": "2026-09-08T07:01:33.079Z",
       "action": "updated remark for GEO-182S-BU1 at UDUDUMBARA: “25%”"
@@ -80778,13 +80792,6 @@
       "time": "12:05:36",
       "iso": "2026-09-08T06:35:36.301Z",
       "action": "updated remark for FAN-P-SF1605HR at UDUDUMBARA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:05:33",
-      "iso": "2026-09-08T06:35:33.290Z",
-      "action": "updated remark for FAN-P-SF1605HL at UDUDUMBARA: “50%”"
     }
   ]
 }
