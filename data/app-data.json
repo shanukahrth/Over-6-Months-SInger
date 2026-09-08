@@ -78119,6 +78119,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:02:41",
       "lastUpdated": "2026-09-08T06:32:41.930Z"
+    },
+    "BC-KNP-AG||UDUDUMBARA": {
+      "remark": "Parts Missing - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:03:18",
+      "lastUpdated": "2026-09-08T06:33:18.676Z"
     }
   },
   "showroomVisits": {
@@ -80137,6 +80144,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:03:18",
+      "iso": "2026-09-08T06:33:18.677Z",
+      "action": "updated remark for BC-KNP-AG at UDUDUMBARA: “Parts Missing - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:02:41",
       "iso": "2026-09-08T06:32:41.931Z",
       "action": "updated remark for SXLC7371K at UDUDUMBARA: “Pending Exchange”"
@@ -80476,13 +80490,6 @@
       "time": "15:44:18",
       "iso": "2026-09-07T10:14:18.275Z",
       "action": "updated remark for U-BS8816 at MORATUWA - B: “Not sellable”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:43:36",
-      "iso": "2026-09-07T10:13:36.930Z",
-      "action": "updated remark for TF-SI-ESS-242 at MORATUWA - B: “Additional 50%”"
     }
   ]
 }
