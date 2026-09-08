@@ -78091,6 +78091,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:00:22",
       "lastUpdated": "2026-09-08T06:30:22.688Z"
+    },
+    "SIN-MH44SW||UDUDUMBARA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:01:15",
+      "lastUpdated": "2026-09-08T06:31:15.632Z"
     }
   },
   "showroomVisits": {
@@ -80109,6 +80116,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:01:15",
+      "iso": "2026-09-08T06:31:15.633Z",
+      "action": "updated remark for SIN-MH44SW at UDUDUMBARA: “Damaged - 85%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:00:27",
       "iso": "2026-09-08T06:30:27.335Z",
       "action": "updated remark for SDM1120S at UDUDUMBARA: “Damaged - 80%”"
@@ -80448,13 +80462,6 @@
       "time": "15:42:21",
       "iso": "2026-09-07T10:12:21.077Z",
       "action": "updated remark for SL-ECO251NF at MORATUWA - B: “Up to 25%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:42:05",
-      "iso": "2026-09-07T10:12:05.751Z",
-      "action": "updated remark for SIN-RFC-2058 at MORATUWA - B: “Additional 30%”"
     }
   ]
 }
