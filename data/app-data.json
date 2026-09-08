@@ -78231,6 +78231,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:11:02",
       "lastUpdated": "2026-09-08T06:41:02.722Z"
+    },
+    "WF-PARIS-BR-S||UDUDUMBARA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:11:42",
+      "lastUpdated": "2026-09-08T06:41:42.650Z"
     }
   },
   "showroomVisits": {
@@ -80249,6 +80256,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:11:42",
+      "iso": "2026-09-08T06:41:42.651Z",
+      "action": "updated remark for WF-PARIS-BR-S at UDUDUMBARA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:11:02",
       "iso": "2026-09-08T06:41:02.724Z",
       "action": "updated remark for WFL-CRYSTAL-72X60-S at UDUDUMBARA: “1 - PO transferred / 1 - Unsellable”"
@@ -80588,13 +80602,6 @@
       "time": "16:02:46",
       "iso": "2026-09-07T10:32:46.890Z",
       "action": "updated remark for UR591SW at DIYABEDUMA: “Rs 5000.00”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "16:02:32",
-      "iso": "2026-09-07T10:32:32.406Z",
-      "action": "updated remark for SDV3605K at DIYABEDUMA: “50% Discount”"
     }
   ]
 }
