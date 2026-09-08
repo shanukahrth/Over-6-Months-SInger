@@ -78450,11 +78450,18 @@
       "lastUpdated": "2026-09-08T07:02:55.414Z"
     },
     "H-LD43SY||UDUDUMBARA": {
-      "remark": "90%",
+      "remark": "Panel Damage - 90%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-08",
-      "commentTime": "12:33:48",
-      "lastUpdated": "2026-09-08T07:03:48.014Z"
+      "commentTime": "12:34:16",
+      "lastUpdated": "2026-09-08T07:04:16.567Z"
+    },
+    "SKY-32E2||UDUDUMBARA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:34:18",
+      "lastUpdated": "2026-09-08T07:04:18.258Z"
     }
   },
   "showroomVisits": {
@@ -80481,6 +80488,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:34:18",
+      "iso": "2026-09-08T07:04:18.259Z",
+      "action": "updated remark for SKY-32E2 at UDUDUMBARA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:34:16",
+      "iso": "2026-09-08T07:04:16.569Z",
+      "action": "updated remark for H-LD43SY at UDUDUMBARA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:33:48",
       "iso": "2026-09-08T07:03:48.015Z",
       "action": "updated remark for H-LD43SY at UDUDUMBARA: “90%”"
@@ -80813,20 +80834,6 @@
       "time": "12:07:41",
       "iso": "2026-09-08T06:37:41.766Z",
       "action": "updated remark for WF-PRESTON-BSC-S at UDUDUMBARA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:07:21",
-      "iso": "2026-09-08T06:37:21.520Z",
-      "action": "updated remark for LF-BUDGET-2WD-CLM-S at UDUDUMBARA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:06:37",
-      "iso": "2026-09-08T06:36:37.776Z",
-      "action": "updated remark for SL-SF1607RC at UDUDUMBARA: “Remote missing - 70%”"
     }
   ]
 }
