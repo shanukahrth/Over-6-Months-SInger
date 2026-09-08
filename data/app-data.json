@@ -78441,6 +78441,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:32:43",
       "lastUpdated": "2026-09-08T07:02:43.855Z"
+    },
+    "SS-PS16-AG||UDUDUMBARA": {
+      "remark": "75%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:32:55",
+      "lastUpdated": "2026-09-08T07:02:55.414Z"
     }
   },
   "showroomVisits": {
@@ -80467,6 +80474,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:32:55",
+      "iso": "2026-09-08T07:02:55.415Z",
+      "action": "updated remark for SS-PS16-AG at UDUDUMBARA: “75%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:32:43",
       "iso": "2026-09-08T07:02:43.855Z",
       "action": "updated remark for SIN-PR-K340 at UDUDUMBARA: “Additional 15%”"
@@ -80806,13 +80820,6 @@
       "time": "12:06:34",
       "iso": "2026-09-08T06:36:34.638Z",
       "action": "updated remark for SL-SF1607 at UDUDUMBARA: “Remote missing - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:06:25",
-      "iso": "2026-09-08T06:36:25.094Z",
-      "action": "updated remark for SL-SF1607RC at UDUDUMBARA: “70%”"
     }
   ]
 }
