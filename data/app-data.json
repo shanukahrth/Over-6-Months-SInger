@@ -78847,6 +78847,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "23:18:14",
       "lastUpdated": "2026-09-08T17:48:14.963Z"
+    },
+    "UJB-LB6027||SHOMES-KEGALLE": {
+      "remark": "Exchange.Return to Service.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-08",
+      "commentTime": "23:19:17",
+      "lastUpdated": "2026-09-08T17:49:17.322Z"
     }
   },
   "showroomVisits": {
@@ -80889,6 +80896,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-08",
+      "time": "23:19:17",
+      "iso": "2026-09-08T17:49:17.325Z",
+      "action": "updated remark for UJB-LB6027 at SHOMES-KEGALLE: “Exchange.Return to Service.”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
       "time": "23:18:14",
       "iso": "2026-09-08T17:48:14.966Z",
       "action": "updated remark for GCB8401F-N at SHOMES-KEGALLE: “Display.60%”"
@@ -81228,13 +81242,6 @@
       "time": "14:45:10",
       "iso": "2026-09-08T09:15:10.897Z",
       "action": "updated remark for SLE40D600A at YATIYANTHOTA: “Damage products[Display Issue]. Return to wearhouse”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "14:42:56",
-      "iso": "2026-09-08T09:12:56.873Z",
-      "action": "updated remark for SLE32D3010TC at YATIYANTHOTA: “Panel damage. Flood [Return to WH]”"
     }
   ]
 }
