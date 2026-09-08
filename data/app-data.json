@@ -78742,6 +78742,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "22:52:59",
       "lastUpdated": "2026-09-08T17:22:59.066Z"
+    },
+    "WF-CARLO-S||SHOMES-KEGALLE": {
+      "remark": "Display 50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-08",
+      "commentTime": "22:53:54",
+      "lastUpdated": "2026-09-08T17:23:54.618Z"
     }
   },
   "showroomVisits": {
@@ -80784,6 +80791,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-08",
+      "time": "22:53:54",
+      "iso": "2026-09-08T17:23:54.625Z",
+      "action": "updated remark for WF-CARLO-S at SHOMES-KEGALLE: “Display 50%”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
       "time": "22:52:59",
       "iso": "2026-09-08T17:22:59.069Z",
       "action": "updated remark for PF-CAFE-RW-S at SHOMES-KEGALLE: “50%  Off.”"
@@ -81123,13 +81137,6 @@
       "time": "12:39:07",
       "iso": "2026-09-08T07:09:07.550Z",
       "action": "updated remark for TCLED32D3000 at UDUDUMBARA: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:38:25",
-      "iso": "2026-09-08T07:08:25.411Z",
-      "action": "updated remark for SLE43G890 at UDUDUMBARA: “Reported”"
     }
   ]
 }
