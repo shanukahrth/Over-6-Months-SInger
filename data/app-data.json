@@ -78882,6 +78882,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "23:24:00",
       "lastUpdated": "2026-09-08T17:54:00.259Z"
+    },
+    "MID-MG-GP45B||SHOMES-KEGALLE": {
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-08",
+      "commentTime": "23:24:52",
+      "lastUpdated": "2026-09-08T17:54:52.783Z"
     }
   },
   "showroomVisits": {
@@ -80924,6 +80931,20 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-08",
+      "time": "23:24:52",
+      "iso": "2026-09-08T17:54:52.787Z",
+      "action": "updated remark for MID-MG-GP45B at SHOMES-KEGALLE: “-”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
+      "time": "23:24:50",
+      "iso": "2026-09-08T17:54:50.524Z",
+      "action": "updated remark for MID-MG-GP45B at SHOMES-KEGALLE: “-”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
       "time": "23:24:00",
       "iso": "2026-09-08T17:54:00.266Z",
       "action": "updated remark for PCP30 at SHOMES-KEGALLE: “Display Item.50%”"
@@ -81256,20 +81277,6 @@
       "time": "17:17:43",
       "iso": "2026-09-08T11:47:43.584Z",
       "action": "updated remark for R-BWS-02 at HETTIMULLA LITE: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "17:17:10",
-      "iso": "2026-09-08T11:47:10.910Z",
-      "action": "updated remark for BRP-TW30 at HETTIMULLA LITE: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "17:15:59",
-      "iso": "2026-09-08T11:45:59.160Z",
-      "action": "updated remark for LF-PODIUM-MWNT-S at HETTIMULLA LITE: “Shop Use”"
     }
   ]
 }
