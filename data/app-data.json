@@ -78126,6 +78126,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:03:18",
       "lastUpdated": "2026-09-08T06:33:18.676Z"
+    },
+    "BC-BG328A||UDUDUMBARA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:03:35",
+      "lastUpdated": "2026-09-08T06:33:35.971Z"
     }
   },
   "showroomVisits": {
@@ -80144,6 +80151,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:03:35",
+      "iso": "2026-09-08T06:33:35.972Z",
+      "action": "updated remark for BC-BG328A at UDUDUMBARA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:03:18",
       "iso": "2026-09-08T06:33:18.677Z",
       "action": "updated remark for BC-KNP-AG at UDUDUMBARA: “Parts Missing - 70%”"
@@ -80483,13 +80497,6 @@
       "time": "15:44:33",
       "iso": "2026-09-07T10:14:33.409Z",
       "action": "updated remark for USI-ATC-302 at MORATUWA - B: “Cn sell”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:44:18",
-      "iso": "2026-09-07T10:14:18.275Z",
-      "action": "updated remark for U-BS8816 at MORATUWA - B: “Not sellable”"
     }
   ]
 }
