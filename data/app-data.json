@@ -78175,6 +78175,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:05:36",
       "lastUpdated": "2026-09-08T06:35:36.300Z"
+    },
+    "SL-SF1607RC||UDUDUMBARA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:05:51",
+      "lastUpdated": "2026-09-08T06:35:51.301Z"
     }
   },
   "showroomVisits": {
@@ -80193,6 +80200,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:05:51",
+      "iso": "2026-09-08T06:35:51.302Z",
+      "action": "updated remark for SL-SF1607RC at UDUDUMBARA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:05:36",
       "iso": "2026-09-08T06:35:36.301Z",
       "action": "updated remark for FAN-P-SF1605HR at UDUDUMBARA: “50%”"
@@ -80532,13 +80546,6 @@
       "time": "15:51:04",
       "iso": "2026-09-07T10:21:04.660Z",
       "action": "updated remark for RMG-SMART at MORATUWA - B: “Dmaged”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:50:30",
-      "iso": "2026-09-07T10:20:30.178Z",
-      "action": "updated remark for LF-OX-BR-M-S at MORATUWA - B: “Shop use”"
     }
   ]
 }
