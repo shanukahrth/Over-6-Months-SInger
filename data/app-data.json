@@ -78154,6 +78154,27 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:05:18",
       "lastUpdated": "2026-09-08T06:35:18.748Z"
+    },
+    "FAN-P-1605H||UDUDUMBARA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:05:30",
+      "lastUpdated": "2026-09-08T06:35:30.481Z"
+    },
+    "FAN-P-SF1605HL||UDUDUMBARA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:05:33",
+      "lastUpdated": "2026-09-08T06:35:33.289Z"
+    },
+    "FAN-P-SF1605HR||UDUDUMBARA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:05:36",
+      "lastUpdated": "2026-09-08T06:35:36.300Z"
     }
   },
   "showroomVisits": {
@@ -80172,6 +80193,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:05:36",
+      "iso": "2026-09-08T06:35:36.301Z",
+      "action": "updated remark for FAN-P-SF1605HR at UDUDUMBARA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:05:33",
+      "iso": "2026-09-08T06:35:33.290Z",
+      "action": "updated remark for FAN-P-SF1605HL at UDUDUMBARA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:05:30",
+      "iso": "2026-09-08T06:35:30.483Z",
+      "action": "updated remark for FAN-P-1605H at UDUDUMBARA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:05:18",
       "iso": "2026-09-08T06:35:18.750Z",
       "action": "updated remark for UDV3618SY at UDUDUMBARA: “MOP - 2,000”"
@@ -80497,27 +80539,6 @@
       "time": "15:50:30",
       "iso": "2026-09-07T10:20:30.178Z",
       "action": "updated remark for LF-OX-BR-M-S at MORATUWA - B: “Shop use”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:47:40",
-      "iso": "2026-09-07T10:17:40.211Z",
-      "action": "updated remark for ZTE-A55-4-128GB-BLK at MORATUWA - B: “Additional 15%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:47:29",
-      "iso": "2026-09-07T10:17:29.943Z",
-      "action": "updated remark for ZTE-A54-4-64GB-BU at MORATUWA - B: “Sold out”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:46:50",
-      "iso": "2026-09-07T10:16:50.271Z",
-      "action": "updated remark for ZTE-A54-4-64GB-BU at MORATUWA - B: “Additional 10%”"
     }
   ]
 }
