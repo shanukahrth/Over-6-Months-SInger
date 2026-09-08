@@ -78329,6 +78329,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:17:25",
       "lastUpdated": "2026-09-08T06:47:25.389Z"
+    },
+    "PCP50||UDUDUMBARA": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:17:54",
+      "lastUpdated": "2026-09-08T06:47:54.615Z"
     }
   },
   "showroomVisits": {
@@ -80347,6 +80354,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:17:54",
+      "iso": "2026-09-08T06:47:54.617Z",
+      "action": "updated remark for PCP50 at UDUDUMBARA: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:17:25",
       "iso": "2026-09-08T06:47:25.390Z",
       "action": "updated remark for SMW823AY7 at UDUDUMBARA: “Damaged”"
@@ -80686,13 +80700,6 @@
       "time": "11:57:29",
       "iso": "2026-09-08T06:27:29.488Z",
       "action": "updated remark for SMGAR50F12D0J at DIPPITIYA (cleared)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "11:57:26",
-      "iso": "2026-09-08T06:27:26.231Z",
-      "action": "updated remark for SIN-BS30 at DIPPITIYA (cleared)"
     }
   ]
 }
