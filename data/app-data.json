@@ -78385,6 +78385,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:30:07",
       "lastUpdated": "2026-09-08T07:00:07.883Z"
+    },
+    "SMG-SM-A057F-4-128-B||UDUDUMBARA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:30:33",
+      "lastUpdated": "2026-09-08T07:00:33.612Z"
     }
   },
   "showroomVisits": {
@@ -80411,6 +80418,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:30:33",
+      "iso": "2026-09-08T07:00:33.613Z",
+      "action": "updated remark for SMG-SM-A057F-4-128-B at UDUDUMBARA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:30:07",
       "iso": "2026-09-08T07:00:07.884Z",
       "action": "updated remark for SMG-SM-A042F-32GB-B at UDUDUMBARA: “Unsellable”"
@@ -80750,13 +80764,6 @@
       "time": "12:04:39",
       "iso": "2026-09-08T06:34:39.428Z",
       "action": "updated remark for DELL3530-I3-8GB512-BLK at UDUDUMBARA: “Battery issue - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:03:35",
-      "iso": "2026-09-08T06:33:35.972Z",
-      "action": "updated remark for BC-BG328A at UDUDUMBARA: “70%”"
     }
   ]
 }
