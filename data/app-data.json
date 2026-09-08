@@ -78644,6 +78644,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "22:30:47",
       "lastUpdated": "2026-09-08T17:00:47.819Z"
+    },
+    "QT-SITUP||SHOMES-KEGALLE": {
+      "remark": "50% Off.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-08",
+      "commentTime": "22:31:37",
+      "lastUpdated": "2026-09-08T17:01:37.953Z"
     }
   },
   "showroomVisits": {
@@ -80686,6 +80693,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-08",
+      "time": "22:31:37",
+      "iso": "2026-09-08T17:01:37.955Z",
+      "action": "updated remark for QT-SITUP at SHOMES-KEGALLE: “50% Off.”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
       "time": "22:30:47",
       "iso": "2026-09-08T17:00:47.827Z",
       "action": "updated remark for FAN-WF1608R at SHOMES-KEGALLE: “Shop Use -2 -AR Pending”"
@@ -81025,13 +81039,6 @@
       "time": "12:32:43",
       "iso": "2026-09-08T07:02:43.855Z",
       "action": "updated remark for SIN-PR-K340 at UDUDUMBARA: “Additional 15%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:32:26",
-      "iso": "2026-09-08T07:02:26.639Z",
-      "action": "updated remark for BES-WP15-ECO at UDUDUMBARA: “Revert - Unsellable”"
     }
   ]
 }
