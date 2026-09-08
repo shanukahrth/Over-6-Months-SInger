@@ -78469,6 +78469,20 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:34:51",
       "lastUpdated": "2026-09-08T07:04:51.686Z"
+    },
+    "SLE24E810||UDUDUMBARA": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:35:19",
+      "lastUpdated": "2026-09-08T07:05:19.929Z"
+    },
+    "SLE24S1300||UDUDUMBARA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:35:25",
+      "lastUpdated": "2026-09-08T07:05:25.987Z"
     }
   },
   "showroomVisits": {
@@ -80495,6 +80509,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:35:25",
+      "iso": "2026-09-08T07:05:25.988Z",
+      "action": "updated remark for SLE24S1300 at UDUDUMBARA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:35:19",
+      "iso": "2026-09-08T07:05:19.931Z",
+      "action": "updated remark for SLE24E810 at UDUDUMBARA: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:34:51",
       "iso": "2026-09-08T07:04:51.687Z",
       "action": "updated remark for SLE24E510A at UDUDUMBARA: “To be transferred”"
@@ -80827,20 +80855,6 @@
       "time": "12:08:43",
       "iso": "2026-09-08T06:38:43.953Z",
       "action": "updated remark for WF-MAHO-TBL-S at UDUDUMBARA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:08:30",
-      "iso": "2026-09-08T06:38:30.133Z",
-      "action": "updated remark for WF-JUPITER-04-S at UDUDUMBARA: “Damaged - 75%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:08:00",
-      "iso": "2026-09-08T06:38:00.794Z",
-      "action": "updated remark for WF-JUPITER-04-S at UDUDUMBARA: “Damaged - 70%”"
     }
   ]
 }
