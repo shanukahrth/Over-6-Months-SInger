@@ -78112,6 +78112,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:01:51",
       "lastUpdated": "2026-09-08T06:31:51.895Z"
+    },
+    "SXLC7371K||UDUDUMBARA": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:02:41",
+      "lastUpdated": "2026-09-08T06:32:41.930Z"
     }
   },
   "showroomVisits": {
@@ -80130,6 +80137,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:02:41",
+      "iso": "2026-09-08T06:32:41.931Z",
+      "action": "updated remark for SXLC7371K at UDUDUMBARA: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:01:51",
       "iso": "2026-09-08T06:31:51.896Z",
       "action": "updated remark for SIN-W66PA28 at UDUDUMBARA: “Pending Exchanges”"
@@ -80469,13 +80483,6 @@
       "time": "15:43:36",
       "iso": "2026-09-07T10:13:36.930Z",
       "action": "updated remark for TF-SI-ESS-242 at MORATUWA - B: “Additional 50%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:42:35",
-      "iso": "2026-09-07T10:12:35.355Z",
-      "action": "updated remark for SLE32E930 at MORATUWA - B: “-”"
     }
   ]
 }
