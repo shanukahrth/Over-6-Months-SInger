@@ -78483,6 +78483,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:35:25",
       "lastUpdated": "2026-09-08T07:05:25.987Z"
+    },
+    "SLE28D2730||UDUDUMBARA": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:35:46",
+      "lastUpdated": "2026-09-08T07:05:46.311Z"
     }
   },
   "showroomVisits": {
@@ -80509,6 +80516,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:35:46",
+      "iso": "2026-09-08T07:05:46.312Z",
+      "action": "updated remark for SLE28D2730 at UDUDUMBARA: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:35:25",
       "iso": "2026-09-08T07:05:25.988Z",
       "action": "updated remark for SLE24S1300 at UDUDUMBARA: “Panel Damage - 90%”"
@@ -80848,13 +80862,6 @@
       "time": "12:09:44",
       "iso": "2026-09-08T06:39:44.584Z",
       "action": "updated remark for WF-ORIENT-TBL-S at UDUDUMBARA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:08:43",
-      "iso": "2026-09-08T06:38:43.953Z",
-      "action": "updated remark for WF-MAHO-TBL-S at UDUDUMBARA: “50%”"
     }
   ]
 }
