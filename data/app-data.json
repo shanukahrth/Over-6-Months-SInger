@@ -78280,6 +78280,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:14:26",
       "lastUpdated": "2026-09-08T06:44:26.414Z"
+    },
+    "LP-AP01||UDUDUMBARA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:14:59",
+      "lastUpdated": "2026-09-08T06:44:59.308Z"
     }
   },
   "showroomVisits": {
@@ -80298,6 +80305,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:14:59",
+      "iso": "2026-09-08T06:44:59.309Z",
+      "action": "updated remark for LP-AP01 at UDUDUMBARA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:14:26",
       "iso": "2026-09-08T06:44:26.415Z",
       "action": "updated remark for TH-TC-500 at UDUDUMBARA: “70%”"
@@ -80637,13 +80651,6 @@
       "time": "16:07:48",
       "iso": "2026-09-07T10:37:48.571Z",
       "action": "updated remark for KA-LW-185A at KEKIRAWA - B: “90% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "16:07:36",
-      "iso": "2026-09-07T10:37:36.271Z",
-      "action": "updated remark for FAN-W-4801R at KEKIRAWA - B: “80% Discount”"
     }
   ]
 }
