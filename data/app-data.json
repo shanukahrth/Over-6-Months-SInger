@@ -78497,6 +78497,20 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:36:32",
       "lastUpdated": "2026-09-08T07:06:32.710Z"
+    },
+    "SLE32E930||UDUDUMBARA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:36:45",
+      "lastUpdated": "2026-09-08T07:06:45.665Z"
+    },
+    "SLE32E910||UDUDUMBARA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:36:46",
+      "lastUpdated": "2026-09-08T07:06:46.386Z"
     }
   },
   "showroomVisits": {
@@ -80523,6 +80537,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:36:46",
+      "iso": "2026-09-08T07:06:46.387Z",
+      "action": "updated remark for SLE32E910 at UDUDUMBARA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:36:45",
+      "iso": "2026-09-08T07:06:45.666Z",
+      "action": "updated remark for SLE32E930 at UDUDUMBARA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:36:32",
       "iso": "2026-09-08T07:06:32.711Z",
       "action": "updated remark for SLE32E390 at UDUDUMBARA: “Pending Exchange”"
@@ -80855,20 +80883,6 @@
       "time": "12:11:42",
       "iso": "2026-09-08T06:41:42.651Z",
       "action": "updated remark for WF-PARIS-BR-S at UDUDUMBARA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:11:02",
-      "iso": "2026-09-08T06:41:02.724Z",
-      "action": "updated remark for WFL-CRYSTAL-72X60-S at UDUDUMBARA: “1 - PO transferred / 1 - Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:10:57",
-      "iso": "2026-09-08T06:40:57.208Z",
-      "action": "updated remark for WFL-CRYSTAL-72X60-S at UDUDUMBARA: “1 - PO transferred / 1 - Damaged”"
     }
   ]
 }
