@@ -78714,6 +78714,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "22:40:08",
       "lastUpdated": "2026-09-08T17:10:08.678Z"
+    },
+    "LF-ORGN-DTO-CLM-S||SHOMES-KEGALLE": {
+      "remark": "Damaged.80% Off.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-08",
+      "commentTime": "22:50:01",
+      "lastUpdated": "2026-09-08T17:20:01.938Z"
     }
   },
   "showroomVisits": {
@@ -80756,6 +80763,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-08",
+      "time": "22:50:01",
+      "iso": "2026-09-08T17:20:01.941Z",
+      "action": "updated remark for LF-ORGN-DTO-CLM-S at SHOMES-KEGALLE: “Damaged.80% Off.”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
       "time": "22:40:08",
       "iso": "2026-09-08T17:10:08.683Z",
       "action": "updated remark for WF-CF-75X60-S at SHOMES-KEGALLE: “50%  Off.”"
@@ -81095,13 +81109,6 @@
       "time": "12:36:58",
       "iso": "2026-09-08T07:06:58.168Z",
       "action": "updated remark for SLE32G690 at UDUDUMBARA: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:36:46",
-      "iso": "2026-09-08T07:06:46.387Z",
-      "action": "updated remark for SLE32E910 at UDUDUMBARA: “Panel Damage - 90%”"
     }
   ]
 }
