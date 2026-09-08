@@ -78511,6 +78511,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:36:46",
       "lastUpdated": "2026-09-08T07:06:46.386Z"
+    },
+    "SLE32G690||UDUDUMBARA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:36:59",
+      "lastUpdated": "2026-09-08T07:06:59.287Z"
     }
   },
   "showroomVisits": {
@@ -80537,6 +80544,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:36:59",
+      "iso": "2026-09-08T07:06:59.288Z",
+      "action": "updated remark for SLE32G690 at UDUDUMBARA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:36:58",
+      "iso": "2026-09-08T07:06:58.168Z",
+      "action": "updated remark for SLE32G690 at UDUDUMBARA: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:36:46",
       "iso": "2026-09-08T07:06:46.387Z",
       "action": "updated remark for SLE32E910 at UDUDUMBARA: “Panel Damage - 90%”"
@@ -80869,20 +80890,6 @@
       "time": "12:12:28",
       "iso": "2026-09-08T06:42:28.060Z",
       "action": "updated remark for SIS253CU at UDUDUMBARA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:12:08",
-      "iso": "2026-09-08T06:42:08.762Z",
-      "action": "updated remark for SIN-VBS-90PA at UDUDUMBARA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:11:42",
-      "iso": "2026-09-08T06:41:42.651Z",
-      "action": "updated remark for WF-PARIS-BR-S at UDUDUMBARA: “Reported”"
     }
   ]
 }
