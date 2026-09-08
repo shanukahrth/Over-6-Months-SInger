@@ -78518,6 +78518,20 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:36:59",
       "lastUpdated": "2026-09-08T07:06:59.287Z"
+    },
+    "SLE40D600A||UDUDUMBARA": {
+      "remark": "1 - Reported / 1 -  Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:37:41",
+      "lastUpdated": "2026-09-08T07:07:41.411Z"
+    },
+    "SLE40E710||UDUDUMBARA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:37:42",
+      "lastUpdated": "2026-09-08T07:07:42.976Z"
     }
   },
   "showroomVisits": {
@@ -80544,6 +80558,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:37:42",
+      "iso": "2026-09-08T07:07:42.977Z",
+      "action": "updated remark for SLE40E710 at UDUDUMBARA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:37:41",
+      "iso": "2026-09-08T07:07:41.412Z",
+      "action": "updated remark for SLE40D600A at UDUDUMBARA: “1 - Reported / 1 -  Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:36:59",
       "iso": "2026-09-08T07:06:59.288Z",
       "action": "updated remark for SLE32G690 at UDUDUMBARA: “Panel Damage - 90%”"
@@ -80876,20 +80904,6 @@
       "time": "12:13:15",
       "iso": "2026-09-08T06:43:15.114Z",
       "action": "updated remark for KA-LW-185A at UDUDUMBARA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:12:54",
-      "iso": "2026-09-08T06:42:54.712Z",
-      "action": "updated remark for USI-ATC-302 at UDUDUMBARA: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:12:28",
-      "iso": "2026-09-08T06:42:28.060Z",
-      "action": "updated remark for SIS253CU at UDUDUMBARA: “40%”"
     }
   ]
 }
