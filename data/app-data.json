@@ -80000,6 +80000,14 @@
       "remark": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-02"
+    },
+    "UDUDUMBARA||DIGANA": {
+      "visited": "Yes",
+      "visitDate": "2026-09-08",
+      "team": "Team Central ",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-09-08"
     }
   },
   "soldMarks": {
@@ -80368,6 +80376,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:23:06",
+      "iso": "2026-09-08T06:53:06.147Z",
+      "action": "updated UDUDUMBARA showroom (team: Team Central )"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:23:00",
+      "iso": "2026-09-08T06:53:00.779Z",
+      "action": "updated UDUDUMBARA showroom (visited: Yes)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:22:59",
+      "iso": "2026-09-08T06:52:59.501Z",
+      "action": "updated UDUDUMBARA showroom (visitDate: 2026-09-08)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:18:45",
       "iso": "2026-09-08T06:48:45.152Z",
       "action": "updated remark for STT-200K at UDUDUMBARA: “80%”"
@@ -80693,27 +80722,6 @@
       "time": "12:00:27",
       "iso": "2026-09-08T06:30:27.335Z",
       "action": "updated remark for SDM1120S at UDUDUMBARA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:00:22",
-      "iso": "2026-09-08T06:30:22.690Z",
-      "action": "updated remark for SHAKE-X10D at UDUDUMBARA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "11:59:54",
-      "iso": "2026-09-08T06:29:54.801Z",
-      "action": "updated remark for SDM1120S at UDUDUMBARA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "11:59:53",
-      "iso": "2026-09-08T06:29:53.276Z",
-      "action": "updated remark for SDM1120S at UDUDUMBARA: “80%”"
     }
   ]
 }
