@@ -78079,11 +78079,18 @@
       "lastUpdated": "2026-09-08T06:29:30.644Z"
     },
     "SDM1120S||UDUDUMBARA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:00:27",
+      "lastUpdated": "2026-09-08T06:30:27.334Z"
+    },
+    "SHAKE-X10D||UDUDUMBARA": {
       "remark": "80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-08",
-      "commentTime": "11:59:54",
-      "lastUpdated": "2026-09-08T06:29:54.801Z"
+      "commentTime": "12:00:22",
+      "lastUpdated": "2026-09-08T06:30:22.688Z"
     }
   },
   "showroomVisits": {
@@ -80102,6 +80109,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:00:27",
+      "iso": "2026-09-08T06:30:27.335Z",
+      "action": "updated remark for SDM1120S at UDUDUMBARA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:00:22",
+      "iso": "2026-09-08T06:30:22.690Z",
+      "action": "updated remark for SHAKE-X10D at UDUDUMBARA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "11:59:54",
       "iso": "2026-09-08T06:29:54.801Z",
       "action": "updated remark for SDM1120S at UDUDUMBARA: “80%”"
@@ -80434,20 +80455,6 @@
       "time": "15:42:05",
       "iso": "2026-09-07T10:12:05.751Z",
       "action": "updated remark for SIN-RFC-2058 at MORATUWA - B: “Additional 30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:41:57",
-      "iso": "2026-09-07T10:11:57.516Z",
-      "action": "updated remark for SIN-RFC-1819 at MORATUWA - B: “Additional 30%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:39:31",
-      "iso": "2026-09-07T10:09:31.415Z",
-      "action": "updated remark for SIN-10000 at MORATUWA - B: “Damaged”"
     }
   ]
 }
