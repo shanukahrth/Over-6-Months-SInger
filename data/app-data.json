@@ -78140,6 +78140,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:04:39",
       "lastUpdated": "2026-09-08T06:34:39.428Z"
+    },
+    "SDV838HDVT||UDUDUMBARA": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:04:49",
+      "lastUpdated": "2026-09-08T06:34:49.043Z"
     }
   },
   "showroomVisits": {
@@ -80158,6 +80165,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:04:49",
+      "iso": "2026-09-08T06:34:49.044Z",
+      "action": "updated remark for SDV838HDVT at UDUDUMBARA: “MOP - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:04:39",
       "iso": "2026-09-08T06:34:39.428Z",
       "action": "updated remark for DELL3530-I3-8GB512-BLK at UDUDUMBARA: “Battery issue - 70%”"
@@ -80497,13 +80511,6 @@
       "time": "15:46:31",
       "iso": "2026-09-07T10:16:31.478Z",
       "action": "updated remark for WF-DOC-T011-MR-S at MORATUWA - B: “Additional 10%”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:45:28",
-      "iso": "2026-09-07T10:15:28.532Z",
-      "action": "updated remark for WC-RT3019 at MORATUWA - B: “Shop use”"
     }
   ]
 }
