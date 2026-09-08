@@ -78217,6 +78217,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:08:43",
       "lastUpdated": "2026-09-08T06:38:43.952Z"
+    },
+    "WF-ORIENT-TBL-S||UDUDUMBARA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:09:44",
+      "lastUpdated": "2026-09-08T06:39:44.583Z"
     }
   },
   "showroomVisits": {
@@ -80235,6 +80242,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:09:44",
+      "iso": "2026-09-08T06:39:44.584Z",
+      "action": "updated remark for WF-ORIENT-TBL-S at UDUDUMBARA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:08:43",
       "iso": "2026-09-08T06:38:43.953Z",
       "action": "updated remark for WF-MAHO-TBL-S at UDUDUMBARA: “50%”"
@@ -80574,13 +80588,6 @@
       "time": "16:00:34",
       "iso": "2026-09-07T10:30:34.365Z",
       "action": "updated remark for SIN-BS30 at DIYABEDUMA: “90% DISCOUNT”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "16:00:04",
-      "iso": "2026-09-07T10:30:04.505Z",
-      "action": "updated remark for SS-PS16-AG at DIYABEDUMA: “90% Discount -Damage”"
     }
   ]
 }
