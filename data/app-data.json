@@ -78133,6 +78133,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:03:35",
       "lastUpdated": "2026-09-08T06:33:35.971Z"
+    },
+    "DELL3530-I3-8GB512-BLK||UDUDUMBARA": {
+      "remark": "Battery issue - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:04:39",
+      "lastUpdated": "2026-09-08T06:34:39.428Z"
     }
   },
   "showroomVisits": {
@@ -80151,6 +80158,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:04:39",
+      "iso": "2026-09-08T06:34:39.428Z",
+      "action": "updated remark for DELL3530-I3-8GB512-BLK at UDUDUMBARA: “Battery issue - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:03:35",
       "iso": "2026-09-08T06:33:35.972Z",
       "action": "updated remark for BC-BG328A at UDUDUMBARA: “70%”"
@@ -80490,13 +80504,6 @@
       "time": "15:45:28",
       "iso": "2026-09-07T10:15:28.532Z",
       "action": "updated remark for WC-RT3019 at MORATUWA - B: “Shop use”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-07",
-      "time": "15:44:33",
-      "iso": "2026-09-07T10:14:33.409Z",
-      "action": "updated remark for USI-ATC-302 at MORATUWA - B: “Cn sell”"
     }
   ]
 }
