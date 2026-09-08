@@ -78210,6 +78210,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:08:30",
       "lastUpdated": "2026-09-08T06:38:30.132Z"
+    },
+    "WF-MAHO-TBL-S||UDUDUMBARA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:08:43",
+      "lastUpdated": "2026-09-08T06:38:43.952Z"
     }
   },
   "showroomVisits": {
@@ -80228,6 +80235,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:08:43",
+      "iso": "2026-09-08T06:38:43.953Z",
+      "action": "updated remark for WF-MAHO-TBL-S at UDUDUMBARA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:08:30",
       "iso": "2026-09-08T06:38:30.133Z",
       "action": "updated remark for WF-JUPITER-04-S at UDUDUMBARA: “Damaged - 75%”"
@@ -80567,13 +80581,6 @@
       "time": "16:00:04",
       "iso": "2026-09-07T10:30:04.505Z",
       "action": "updated remark for SS-PS16-AG at DIYABEDUMA: “90% Discount -Damage”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:59:48",
-      "iso": "2026-09-07T10:29:48.303Z",
-      "action": "updated remark for SLE32G690 at DIYABEDUMA: “90% Discount -Damage”"
     }
   ]
 }
