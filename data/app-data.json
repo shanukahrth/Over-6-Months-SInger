@@ -78392,6 +78392,20 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:30:33",
       "lastUpdated": "2026-09-08T07:00:33.612Z"
+    },
+    "ZTE-A31-GRY||UDUDUMBARA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:30:49",
+      "lastUpdated": "2026-09-08T07:00:49.787Z"
+    },
+    "ZTE-A31-LITE-BLU||UDUDUMBARA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:30:55",
+      "lastUpdated": "2026-09-08T07:00:55.200Z"
     }
   },
   "showroomVisits": {
@@ -80418,6 +80432,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:30:55",
+      "iso": "2026-09-08T07:00:55.200Z",
+      "action": "updated remark for ZTE-A31-LITE-BLU at UDUDUMBARA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:30:49",
+      "iso": "2026-09-08T07:00:49.787Z",
+      "action": "updated remark for ZTE-A31-GRY at UDUDUMBARA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:30:33",
       "iso": "2026-09-08T07:00:33.613Z",
       "action": "updated remark for SMG-SM-A057F-4-128-B at UDUDUMBARA: “Unsellable”"
@@ -80750,20 +80778,6 @@
       "time": "12:05:18",
       "iso": "2026-09-08T06:35:18.750Z",
       "action": "updated remark for UDV3618SY at UDUDUMBARA: “MOP - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:04:49",
-      "iso": "2026-09-08T06:34:49.044Z",
-      "action": "updated remark for SDV838HDVT at UDUDUMBARA: “MOP - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:04:39",
-      "iso": "2026-09-08T06:34:39.428Z",
-      "action": "updated remark for DELL3530-I3-8GB512-BLK at UDUDUMBARA: “Battery issue - 70%”"
     }
   ]
 }
