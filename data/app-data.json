@@ -78189,6 +78189,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:06:34",
       "lastUpdated": "2026-09-08T06:36:34.636Z"
+    },
+    "LF-BUDGET-2WD-CLM-S||UDUDUMBARA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:07:21",
+      "lastUpdated": "2026-09-08T06:37:21.519Z"
     }
   },
   "showroomVisits": {
@@ -80207,6 +80214,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:07:21",
+      "iso": "2026-09-08T06:37:21.520Z",
+      "action": "updated remark for LF-BUDGET-2WD-CLM-S at UDUDUMBARA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:06:37",
       "iso": "2026-09-08T06:36:37.776Z",
       "action": "updated remark for SL-SF1607RC at UDUDUMBARA: “Remote missing - 70%”"
@@ -80546,13 +80560,6 @@
       "time": "15:59:03",
       "iso": "2026-09-07T10:29:03.765Z",
       "action": "updated remark for SLE32E930 at DIYABEDUMA: “70% Discount”"
-    },
-    {
-      "user": "Gayan Sooriyaarachchi",
-      "date": "2026-09-07",
-      "time": "15:57:38",
-      "iso": "2026-09-07T10:27:38.797Z",
-      "action": "updated remark for SLE55GENR at DIYABEDUMA: “35% Discount”"
     }
   ]
 }
