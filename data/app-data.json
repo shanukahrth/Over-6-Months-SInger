@@ -78406,6 +78406,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:30:55",
       "lastUpdated": "2026-09-08T07:00:55.200Z"
+    },
+    "GEO-182S-BU1||UDUDUMBARA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:31:33",
+      "lastUpdated": "2026-09-08T07:01:33.078Z"
     }
   },
   "showroomVisits": {
@@ -80432,6 +80439,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:31:33",
+      "iso": "2026-09-08T07:01:33.079Z",
+      "action": "updated remark for GEO-182S-BU1 at UDUDUMBARA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
+      "time": "12:31:31",
+      "iso": "2026-09-08T07:01:31.612Z",
+      "action": "updated remark for GEO-182S-BU1 at UDUDUMBARA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:30:55",
       "iso": "2026-09-08T07:00:55.200Z",
       "action": "updated remark for ZTE-A31-LITE-BLU at UDUDUMBARA: “Unsellable”"
@@ -80764,20 +80785,6 @@
       "time": "12:05:33",
       "iso": "2026-09-08T06:35:33.290Z",
       "action": "updated remark for FAN-P-SF1605HL at UDUDUMBARA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:05:30",
-      "iso": "2026-09-08T06:35:30.483Z",
-      "action": "updated remark for FAN-P-1605H at UDUDUMBARA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:05:18",
-      "iso": "2026-09-08T06:35:18.750Z",
-      "action": "updated remark for UDV3618SY at UDUDUMBARA: “MOP - 2,000”"
     }
   ]
 }
