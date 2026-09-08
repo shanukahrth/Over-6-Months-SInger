@@ -78553,6 +78553,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "12:39:36",
       "lastUpdated": "2026-09-08T07:09:36.920Z"
+    },
+    "SL-RFA75||UDUDUMBARA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-08",
+      "commentTime": "12:40:17",
+      "lastUpdated": "2026-09-08T07:10:17.321Z"
     }
   },
   "showroomVisits": {
@@ -80579,6 +80586,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-08",
+      "time": "12:40:17",
+      "iso": "2026-09-08T07:10:17.323Z",
+      "action": "updated remark for SL-RFA75 at UDUDUMBARA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-08",
       "time": "12:39:36",
       "iso": "2026-09-08T07:09:36.921Z",
       "action": "updated remark for FMMT-PLOUGH at UDUDUMBARA: “To be dropped”"
@@ -80918,13 +80932,6 @@
       "time": "12:14:59",
       "iso": "2026-09-08T06:44:59.309Z",
       "action": "updated remark for LP-AP01 at UDUDUMBARA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:14:26",
-      "iso": "2026-09-08T06:44:26.415Z",
-      "action": "updated remark for TH-TC-500 at UDUDUMBARA: “70%”"
     }
   ]
 }
