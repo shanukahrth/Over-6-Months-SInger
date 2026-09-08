@@ -78721,6 +78721,13 @@
       "commentDate": "2026-09-08",
       "commentTime": "22:50:01",
       "lastUpdated": "2026-09-08T17:20:01.938Z"
+    },
+    "LF-PROMO-CT-S||SHOMES-KEGALLE": {
+      "remark": "Damaged",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-08",
+      "commentTime": "22:50:41",
+      "lastUpdated": "2026-09-08T17:20:41.190Z"
     }
   },
   "showroomVisits": {
@@ -80763,6 +80770,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-08",
+      "time": "22:50:41",
+      "iso": "2026-09-08T17:20:41.196Z",
+      "action": "updated remark for LF-PROMO-CT-S at SHOMES-KEGALLE: “Damaged”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-08",
       "time": "22:50:01",
       "iso": "2026-09-08T17:20:01.941Z",
       "action": "updated remark for LF-ORGN-DTO-CLM-S at SHOMES-KEGALLE: “Damaged.80% Off.”"
@@ -81102,13 +81116,6 @@
       "time": "12:36:59",
       "iso": "2026-09-08T07:06:59.288Z",
       "action": "updated remark for SLE32G690 at UDUDUMBARA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:36:58",
-      "iso": "2026-09-08T07:06:58.168Z",
-      "action": "updated remark for SLE32G690 at UDUDUMBARA: “Pending Exchange”"
     }
   ]
 }
