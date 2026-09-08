@@ -80253,6 +80253,22 @@
       "remark": "Discounts given over the phone ",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-08"
+    },
+    "KEKIRAWA - B||DAMBULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-09-08"
+    },
+    "KEKIRAWA||DAMBULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Kaveesha De Silva",
+      "updatedDate": "2026-09-08"
     }
   },
   "soldMarks": {
@@ -80619,6 +80635,20 @@
   },
   "activity": [
     {
+      "user": "Kaveesha De Silva",
+      "date": "2026-09-08",
+      "time": "17:03:07",
+      "iso": "2026-09-08T11:33:07.916Z",
+      "action": "updated KEKIRAWA showroom (visited: Yes)"
+    },
+    {
+      "user": "Kaveesha De Silva",
+      "date": "2026-09-08",
+      "time": "17:03:06",
+      "iso": "2026-09-08T11:33:06.168Z",
+      "action": "updated KEKIRAWA - B showroom (visited: Yes)"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-08",
       "time": "14:46:16",
@@ -80953,20 +80983,6 @@
       "time": "12:26:15",
       "iso": "2026-09-08T06:56:15.258Z",
       "action": "updated remark for RIYLTA-MF12V4 at UDUDUMBARA: “Mail to DM”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:26:12",
-      "iso": "2026-09-08T06:56:12.431Z",
-      "action": "updated remark for RIYLTA-MF12V25 at UDUDUMBARA: “Mail to DM”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-08",
-      "time": "12:23:19",
-      "iso": "2026-09-08T06:53:19.925Z",
-      "action": "updated UDUDUMBARA showroom (remark: Discounts given over the phone )"
     }
   ]
 }
