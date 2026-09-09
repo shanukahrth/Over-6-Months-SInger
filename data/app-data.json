@@ -79316,6 +79316,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:00:00",
       "lastUpdated": "2026-09-09T05:30:00.213Z"
+    },
+    "AES-HAV-30S||KEGALLE": {
+      "remark": "10% Off.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:00:27",
+      "lastUpdated": "2026-09-09T05:30:27.946Z"
     }
   },
   "showroomVisits": {
@@ -81364,6 +81371,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-09",
+      "time": "11:00:27",
+      "iso": "2026-09-09T05:30:27.951Z",
+      "action": "updated remark for AES-HAV-30S at KEGALLE: “10% Off.”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
       "time": "11:00:00",
       "iso": "2026-09-09T05:30:00.219Z",
       "action": "updated remark for SKS-1024 at KEGALLE: “Display Unit.15% Off.”"
@@ -81703,13 +81717,6 @@
       "time": "10:25:16",
       "iso": "2026-09-09T04:55:16.067Z",
       "action": "updated remark for R-BWS-02 at KOTIYAKUMBURA: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "10:23:54",
-      "iso": "2026-09-09T04:53:54.818Z",
-      "action": "updated remark for PN-DH-3JL2WH at KEGALLE: “Sold”"
     }
   ]
 }
