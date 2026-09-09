@@ -79960,6 +79960,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "14:47:51",
       "lastUpdated": "2026-09-09T09:17:51.140Z"
+    },
+    "SLE32D2010TC||KEGALLE B": {
+      "remark": "Revert 70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-09",
+      "commentTime": "14:52:56",
+      "lastUpdated": "2026-09-09T09:22:56.328Z"
     }
   },
   "showroomVisits": {
@@ -82008,6 +82015,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-09",
+      "time": "14:52:56",
+      "iso": "2026-09-09T09:22:56.330Z",
+      "action": "updated remark for SLE32D2010TC at KEGALLE B: “Revert 70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-09",
       "time": "14:52:04",
       "iso": "2026-09-09T09:22:04.210Z",
       "action": "updated remark for H-CVW1600 at KEGALLE B: “40%”"
@@ -82347,13 +82361,6 @@
       "time": "11:41:41",
       "iso": "2026-09-09T06:11:41.675Z",
       "action": "updated remark for USHA-FS40-13B at KEGALLE - C: “-”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-09",
-      "time": "11:41:43",
-      "iso": "2026-09-09T06:11:43.114Z",
-      "action": "updated remark for SL-GSE-S001 at PILIYANDALA  B: “-”"
     }
   ]
 }
