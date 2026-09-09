@@ -79274,6 +79274,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "10:50:03",
       "lastUpdated": "2026-09-09T05:20:03.934Z"
+    },
+    "ENG-PUVPB01-WH||KEGALLE": {
+      "remark": "Battery Issue.Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "10:52:56",
+      "lastUpdated": "2026-09-09T05:22:56.218Z"
     }
   },
   "showroomVisits": {
@@ -81322,6 +81329,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-09",
+      "time": "10:52:56",
+      "iso": "2026-09-09T05:22:56.220Z",
+      "action": "updated remark for ENG-PUVPB01-WH at KEGALLE: “Battery Issue.Return to WH”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
       "time": "10:50:03",
       "iso": "2026-09-09T05:20:03.939Z",
       "action": "updated remark for HON-CH-WATCH-2I-WH at KEGALLE: “Free Issue”"
@@ -81661,13 +81675,6 @@
       "time": "10:20:57",
       "iso": "2026-09-09T04:50:57.086Z",
       "action": "updated remark for PF-STRG-BX-20L-S at KOTIYAKUMBURA: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "10:20:36",
-      "iso": "2026-09-09T04:50:36.866Z",
-      "action": "updated remark for PF-CAFE-NEW-RW-S at KOTIYAKUMBURA: “-”"
     }
   ]
 }
