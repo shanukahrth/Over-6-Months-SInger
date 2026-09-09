@@ -79624,6 +79624,20 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:34:28",
       "lastUpdated": "2026-09-09T06:04:28.362Z"
+    },
+    "TF-TW26-064||PILIYANDALA  B": {
+      "remark": "10% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:34:28",
+      "lastUpdated": "2026-09-09T06:04:28.308Z"
+    },
+    "TF-SP16-063||PILIYANDALA  B": {
+      "remark": "20% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:34:40",
+      "lastUpdated": "2026-09-09T06:04:40.105Z"
     }
   },
   "showroomVisits": {
@@ -81670,6 +81684,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-09-09",
+      "time": "11:34:40",
+      "iso": "2026-09-09T06:04:40.108Z",
+      "action": "updated remark for TF-SP16-063 at PILIYANDALA  B: “20% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-09",
+      "time": "11:34:28",
+      "iso": "2026-09-09T06:04:28.311Z",
+      "action": "updated remark for TF-TW26-064 at PILIYANDALA  B: “10% OFF”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-09",
       "time": "11:34:28",
@@ -82004,20 +82032,6 @@
       "time": "11:03:14",
       "iso": "2026-09-09T05:33:14.645Z",
       "action": "updated remark for DH-I-C22EP-IMOU at KEGALLE: “90% Off.”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "11:03:09",
-      "iso": "2026-09-09T05:33:09.580Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at RUWANWELLA: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "11:02:56",
-      "iso": "2026-09-09T05:32:56.940Z",
-      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at RUWANWELLA: “-”"
     }
   ]
 }
