@@ -53138,11 +53138,11 @@
       "lastUpdated": "2026-08-25T08:02:11.158Z"
     },
     "SL-9VNF||KEGALLE - C": {
-      "remark": "Advance payment. Will report this month",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-25",
-      "commentTime": "14:04:29",
-      "lastUpdated": "2026-08-25T08:34:29.117Z"
+      "remark": "Sold",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:31:34",
+      "lastUpdated": "2026-09-09T06:01:34.035Z"
     },
     "UR591SW||KEGALLE - C": {
       "remark": "Rs. 5,000 special price",
@@ -81621,6 +81621,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "11:31:34",
+      "iso": "2026-09-09T06:01:34.038Z",
+      "action": "updated remark for SL-9VNF at KEGALLE - C: “Sold”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-09-09",
       "time": "11:31:16",
@@ -81962,13 +81969,6 @@
       "time": "10:59:29",
       "iso": "2026-09-09T05:29:29.309Z",
       "action": "updated remark for GEO-200D at KEGALLE: “Exchange Issue.90% Off.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "10:58:28",
-      "iso": "2026-09-09T05:28:28.325Z",
-      "action": "updated remark for SMGRT30K3322S8 at KEGALLE: “Transferred to another shop”"
     }
   ]
 }
