@@ -79141,6 +79141,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "10:34:02",
       "lastUpdated": "2026-09-09T05:04:02.572Z"
+    },
+    "HU-SECURITY||KEGALLE": {
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "10:40:43",
+      "lastUpdated": "2026-09-09T05:10:43.512Z"
     }
   },
   "showroomVisits": {
@@ -81183,6 +81190,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-09",
+      "time": "10:40:43",
+      "iso": "2026-09-09T05:10:43.512Z",
+      "action": "updated remark for HU-SECURITY at KEGALLE: “-”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
       "time": "10:39:01",
       "iso": "2026-09-09T05:09:01.581Z",
       "action": "updated remark for SMW823AY7 at KEGALLE: “25% flat.Display Unit.”"
@@ -81522,13 +81536,6 @@
       "time": "10:09:33",
       "iso": "2026-09-09T04:39:33.155Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at KOTIYAKUMBURA: “Sold”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "09:53:31",
-      "iso": "2026-09-09T04:23:31.493Z",
-      "action": "updated remark for FMCG-PPM26 at KEGALLE: “25% flat”"
     }
   ]
 }
