@@ -47755,11 +47755,11 @@
       "lastUpdated": "2026-08-25T04:57:01.246Z"
     },
     "SMW823AY7||KEGALLE": {
-      "remark": "25% flat",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-25",
-      "commentTime": "10:27:48",
-      "lastUpdated": "2026-08-25T04:57:48.546Z"
+      "remark": "25% flat.Display Unit.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "10:39:01",
+      "lastUpdated": "2026-09-09T05:09:01.579Z"
     },
     "SLMC-18DSLHS||KEGALLE": {
       "remark": "damaged. 75% flat",
@@ -81181,6 +81181,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "10:39:01",
+      "iso": "2026-09-09T05:09:01.581Z",
+      "action": "updated remark for SMW823AY7 at KEGALLE: “25% flat.Display Unit.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-09",
       "time": "10:37:47",
@@ -81522,13 +81529,6 @@
       "time": "09:53:31",
       "iso": "2026-09-09T04:23:31.493Z",
       "action": "updated remark for FMCG-PPM26 at KEGALLE: “25% flat”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "23:42:10",
-      "iso": "2026-09-08T18:12:10.641Z",
-      "action": "updated remark for KD-50X75K at SHOMES-KEGALLE: “40% Off.”"
     }
   ]
 }
