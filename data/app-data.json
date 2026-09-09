@@ -79078,6 +79078,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "10:21:43",
       "lastUpdated": "2026-09-09T04:51:43.686Z"
+    },
+    "WFL-RIO-03-S||KEGALLE": {
+      "remark": "4",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "10:22:12",
+      "lastUpdated": "2026-09-09T04:52:12.400Z"
     }
   },
   "showroomVisits": {
@@ -81120,6 +81127,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-09",
+      "time": "10:22:12",
+      "iso": "2026-09-09T04:52:12.404Z",
+      "action": "updated remark for WFL-RIO-03-S at KEGALLE: “4”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
       "time": "10:21:43",
       "iso": "2026-09-09T04:51:43.693Z",
       "action": "updated remark for WFL-NOC-T011-BU-S at KEGALLE: “25% Off.”"
@@ -81459,13 +81473,6 @@
       "time": "23:17:25",
       "iso": "2026-09-08T17:47:25.359Z",
       "action": "updated remark for KA-LW-185A at SHOMES-KEGALLE: “Damaged.80% Off.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "23:15:40",
-      "iso": "2026-09-08T17:45:40.989Z",
-      "action": "updated remark for SL-PM-8017 at SHOMES-KEGALLE: “-”"
     }
   ]
 }
