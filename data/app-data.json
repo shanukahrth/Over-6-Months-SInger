@@ -74635,11 +74635,11 @@
       "lastUpdated": "2026-09-04T04:13:24.302Z"
     },
     "DELL3530-I7-8GB512-SIL||KEGALLE - C": {
-      "remark": "85% flat",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-04",
-      "commentTime": "09:43:24",
-      "lastUpdated": "2026-09-04T04:13:24.309Z"
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:40:07",
+      "lastUpdated": "2026-09-09T06:10:07.703Z"
     },
     "DELL3530-I7-8GB512-SIL||DEHIOWITA": {
       "remark": "Flat 40%",
@@ -81782,6 +81782,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "11:40:07",
+      "iso": "2026-09-09T06:10:07.704Z",
+      "action": "updated remark for DELL3530-I7-8GB512-SIL at KEGALLE - C: “-”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-09-09",
       "time": "11:40:03",
@@ -82123,13 +82130,6 @@
       "time": "11:09:15",
       "iso": "2026-09-09T05:39:15.255Z",
       "action": "updated remark for PF-MONDY-BLUE at RUWANWELLA: “10% offered flat. Fade”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "11:09:20",
-      "iso": "2026-09-09T05:39:20.979Z",
-      "action": "updated remark for SLE40D600A at KEGALLE: “Free Issue”"
     }
   ]
 }
