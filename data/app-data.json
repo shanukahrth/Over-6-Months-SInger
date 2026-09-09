@@ -79841,6 +79841,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "14:13:28",
       "lastUpdated": "2026-09-09T08:43:28.661Z"
+    },
+    "LF-BUDGET-DT-AGO-S||KEGALLE B": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-09",
+      "commentTime": "14:23:19",
+      "lastUpdated": "2026-09-09T08:53:19.274Z"
     }
   },
   "showroomVisits": {
@@ -81889,6 +81896,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-09",
+      "time": "14:23:19",
+      "iso": "2026-09-09T08:53:19.276Z",
+      "action": "updated remark for LF-BUDGET-DT-AGO-S at KEGALLE B: “-”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-09",
       "time": "14:22:32",
       "iso": "2026-09-09T08:52:32.129Z",
       "action": "updated remark for WFL-MONACO-08-S at KEGALLE B: “Damage 70%”"
@@ -82228,13 +82242,6 @@
       "time": "11:31:47",
       "iso": "2026-09-09T06:01:47.233Z",
       "action": "updated remark for V-WCDMA-3G-433 at PILIYANDALA  B: “50% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-09",
-      "time": "11:31:35",
-      "iso": "2026-09-09T06:01:35.881Z",
-      "action": "updated remark for WF-CLASSIC-MH at PILIYANDALA  B: “50% OFF”"
     }
   ]
 }
