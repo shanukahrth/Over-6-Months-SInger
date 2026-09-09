@@ -79449,6 +79449,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:07:58",
       "lastUpdated": "2026-09-09T05:37:58.688Z"
+    },
+    "SLE32G690||KEGALLE": {
+      "remark": "Pending PRf.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:08:19",
+      "lastUpdated": "2026-09-09T05:38:19.148Z"
     }
   },
   "showroomVisits": {
@@ -81495,6 +81502,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "11:08:19",
+      "iso": "2026-09-09T05:38:19.154Z",
+      "action": "updated remark for SLE32G690 at KEGALLE: “Pending PRf.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-09",
       "time": "11:07:58",
@@ -81836,13 +81850,6 @@
       "time": "10:40:43",
       "iso": "2026-09-09T05:10:43.512Z",
       "action": "updated remark for HU-SECURITY at KEGALLE: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "10:39:01",
-      "iso": "2026-09-09T05:09:01.581Z",
-      "action": "updated remark for SMW823AY7 at KEGALLE: “25% flat.Display Unit.”"
     }
   ]
 }
