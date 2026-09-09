@@ -79029,6 +79029,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "10:17:13",
       "lastUpdated": "2026-09-09T04:47:13.789Z"
+    },
+    "LF-BUDGET-ST-AGO-S||KEGALLE": {
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "10:17:32",
+      "lastUpdated": "2026-09-09T04:47:32.106Z"
     }
   },
   "showroomVisits": {
@@ -81071,6 +81078,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-09",
+      "time": "10:17:32",
+      "iso": "2026-09-09T04:47:32.108Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at KEGALLE: “-”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
       "time": "10:17:13",
       "iso": "2026-09-09T04:47:13.791Z",
       "action": "updated remark for WF-CF-75X75-S at KEGALLE: “Damaged.60% Off.”"
@@ -81410,13 +81424,6 @@
       "time": "23:12:04",
       "iso": "2026-09-08T17:42:04.473Z",
       "action": "updated remark for USI-ATC-302 at SHOMES-KEGALLE: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "23:11:25",
-      "iso": "2026-09-08T17:41:25.161Z",
-      "action": "updated remark for ALU-CL-6FT-S at SHOMES-KEGALLE: “90% Off.”"
     }
   ]
 }
