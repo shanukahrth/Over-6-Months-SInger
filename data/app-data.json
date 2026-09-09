@@ -53173,11 +53173,11 @@
       "lastUpdated": "2026-08-25T08:37:14.632Z"
     },
     "HFPA-GRAVITY-BLC||KEGALLE - C": {
-      "remark": "rs.24,000",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-25",
-      "commentTime": "14:08:05",
-      "lastUpdated": "2026-08-25T08:38:05.772Z"
+      "remark": "Rs.24,000/=",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:34:09",
+      "lastUpdated": "2026-09-09T06:04:09.465Z"
     },
     "B-CFB9433X||KEGALLE - C": {
       "remark": "Product damaged. 60% flat offered",
@@ -81663,6 +81663,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "11:34:09",
+      "iso": "2026-09-09T06:04:09.467Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at KEGALLE - C: “Rs.24,000/=”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-09-09",
       "time": "11:34:01",
@@ -82004,13 +82011,6 @@
       "time": "11:02:23",
       "iso": "2026-09-09T05:32:23.329Z",
       "action": "updated remark for DH-A-B1A21P-6B at KEGALLE: “90% Off.”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "11:01:52",
-      "iso": "2026-09-09T05:31:52.513Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at RUWANWELLA: “1 sold, 30,000”"
     }
   ]
 }
