@@ -72542,11 +72542,11 @@
       "lastUpdated": "2026-09-02T07:16:35.990Z"
     },
     "SLE49U5||KEGALLE": {
-      "remark": "85% - Damaged",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "12:46:39",
-      "lastUpdated": "2026-09-02T07:16:39.772Z"
+      "remark": "85% - Damaged. Service Center.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:13:30",
+      "lastUpdated": "2026-09-09T05:43:30.559Z"
     },
     "SLE55Q21||SERVICE -PASYALA": {
       "remark": "85% - Damaged",
@@ -81530,6 +81530,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "11:13:30",
+      "iso": "2026-09-09T05:43:30.563Z",
+      "action": "updated remark for SLE49U5 at KEGALLE: “85% - Damaged. Service Center.”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-09",
       "time": "11:12:20",
@@ -81871,13 +81878,6 @@
       "time": "10:44:40",
       "iso": "2026-09-09T05:14:40.031Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRN at KEGALLE: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "10:44:29",
-      "iso": "2026-09-09T05:14:29.637Z",
-      "action": "updated remark for NUBIA-V70-8-256GB-GRY at KEGALLE: “Sold”"
     }
   ]
 }
