@@ -79407,6 +79407,20 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:05:40",
       "lastUpdated": "2026-09-09T05:35:40.726Z"
+    },
+    "LF-BUDGET-ST-CRW-S||RUWANWELLA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:05:46",
+      "lastUpdated": "2026-09-09T05:35:46.660Z"
+    },
+    "LF-BUDGET-DT-AGO-S||RUWANWELLA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:05:48",
+      "lastUpdated": "2026-09-09T05:35:48.680Z"
     }
   },
   "showroomVisits": {
@@ -81453,6 +81467,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-09",
+      "time": "11:05:48",
+      "iso": "2026-09-09T05:35:48.682Z",
+      "action": "updated remark for LF-BUDGET-DT-AGO-S at RUWANWELLA: “-”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-09",
+      "time": "11:05:46",
+      "iso": "2026-09-09T05:35:46.663Z",
+      "action": "updated remark for LF-BUDGET-ST-CRW-S at RUWANWELLA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-09",
       "time": "11:05:40",
@@ -81787,20 +81815,6 @@
       "time": "10:33:46",
       "iso": "2026-09-09T05:03:46.336Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at KOTIYAKUMBURA: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "10:33:27",
-      "iso": "2026-09-09T05:03:27.658Z",
-      "action": "updated remark for HON-X6B-6-128-GRN at KOTIYAKUMBURA: “Damaged.not working, 50% Off”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "10:32:44",
-      "iso": "2026-09-09T05:02:44.894Z",
-      "action": "updated remark for SMG-SM-A055F-64-G at KOTIYAKUMBURA: “Not working, Rs.5000”"
     }
   ]
 }
