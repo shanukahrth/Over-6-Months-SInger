@@ -53348,11 +53348,11 @@
       "lastUpdated": "2026-08-25T08:49:43.695Z"
     },
     "FAN-WF1608R||KEGALLE - C": {
-      "remark": "Exchange",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-25",
-      "commentTime": "14:21:03",
-      "lastUpdated": "2026-08-25T08:51:03.864Z"
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:46:16",
+      "lastUpdated": "2026-09-09T06:16:16.782Z"
     },
     "LF-LEO-LTAB-WNG-S||KEGALLE - C": {
       "remark": "Display.",
@@ -81866,6 +81866,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "11:46:16",
+      "iso": "2026-09-09T06:16:16.784Z",
+      "action": "updated remark for FAN-WF1608R at KEGALLE - C: “-”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-09-09",
       "time": "11:44:15",
@@ -82207,13 +82214,6 @@
       "time": "11:23:11",
       "iso": "2026-09-09T05:53:11.468Z",
       "action": "updated remark for WP-CHTW-050-S at KEGALLE: “75% flat  offered.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "11:21:45",
-      "iso": "2026-09-09T05:51:45.813Z",
-      "action": "updated remark for WP-1-TI-S at KEGALLE: “Return to WH.75% flat  offered.”"
     }
   ]
 }
