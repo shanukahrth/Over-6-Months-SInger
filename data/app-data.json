@@ -79022,6 +79022,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "10:15:25",
       "lastUpdated": "2026-09-09T04:45:25.910Z"
+    },
+    "WF-CF-75X75-S||KEGALLE": {
+      "remark": "Damaged.60% Off.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "10:17:13",
+      "lastUpdated": "2026-09-09T04:47:13.789Z"
     }
   },
   "showroomVisits": {
@@ -81062,6 +81069,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "10:17:13",
+      "iso": "2026-09-09T04:47:13.791Z",
+      "action": "updated remark for WF-CF-75X75-S at KEGALLE: “Damaged.60% Off.”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "10:17:05",
+      "iso": "2026-09-09T04:47:05.550Z",
+      "action": "updated remark for WF-CF-75X75-S at KEGALLE: “Damaged.6”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-09",
       "time": "10:15:34",
@@ -81396,20 +81417,6 @@
       "time": "23:11:25",
       "iso": "2026-09-08T17:41:25.161Z",
       "action": "updated remark for ALU-CL-6FT-S at SHOMES-KEGALLE: “90% Off.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "23:09:57",
-      "iso": "2026-09-08T17:39:57.109Z",
-      "action": "updated remark for WF-PARIS-BL-S at SHOMES-KEGALLE: “65% Off.Revert Damaged.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "23:00:47",
-      "iso": "2026-09-08T17:30:47.322Z",
-      "action": "updated remark for PF-OLIVIA-BR-S at SHOMES-KEGALLE: “Discoloured.Rs.990/= offered.”"
     }
   ]
 }
