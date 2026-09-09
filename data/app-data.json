@@ -79745,11 +79745,11 @@
       "lastUpdated": "2026-09-09T06:10:36.865Z"
     },
     "SLE40D600A||PILIYANDALA  B": {
-      "remark": "55% OFF",
+      "remark": "-",
       "commentedBy": "Sulani",
       "commentDate": "2026-09-09",
-      "commentTime": "11:41:17",
-      "lastUpdated": "2026-09-09T06:11:17.930Z"
+      "commentTime": "11:41:26",
+      "lastUpdated": "2026-09-09T06:11:26.326Z"
     }
   },
   "showroomVisits": {
@@ -81798,6 +81798,13 @@
     {
       "user": "Sulani",
       "date": "2026-09-09",
+      "time": "11:41:26",
+      "iso": "2026-09-09T06:11:26.329Z",
+      "action": "updated remark for SLE40D600A at PILIYANDALA  B: “-”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-09",
       "time": "11:41:17",
       "iso": "2026-09-09T06:11:17.933Z",
       "action": "updated remark for SLE40D600A at PILIYANDALA  B: “55% OFF”"
@@ -82137,13 +82144,6 @@
       "time": "11:11:55",
       "iso": "2026-09-09T05:41:55.439Z",
       "action": "updated remark for SLE40E910 at KEGALLE: “Damaged.Return to WH”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "11:10:57",
-      "iso": "2026-09-09T05:40:57.448Z",
-      "action": "updated remark for WFL-MONACO-11-S at RUWANWELLA: “80% off, Revert .discoloured”"
     }
   ]
 }
