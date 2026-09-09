@@ -79575,6 +79575,20 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:31:16",
       "lastUpdated": "2026-09-09T06:01:16.614Z"
+    },
+    "WF-CLASSIC-MH||PILIYANDALA  B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:31:35",
+      "lastUpdated": "2026-09-09T06:01:35.879Z"
+    },
+    "V-WCDMA-3G-433||PILIYANDALA  B": {
+      "remark": "50% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:31:47",
+      "lastUpdated": "2026-09-09T06:01:47.231Z"
     }
   },
   "showroomVisits": {
@@ -81621,6 +81635,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-09-09",
+      "time": "11:31:47",
+      "iso": "2026-09-09T06:01:47.233Z",
+      "action": "updated remark for V-WCDMA-3G-433 at PILIYANDALA  B: “50% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-09",
+      "time": "11:31:35",
+      "iso": "2026-09-09T06:01:35.881Z",
+      "action": "updated remark for WF-CLASSIC-MH at PILIYANDALA  B: “50% OFF”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-09",
       "time": "11:31:34",
@@ -81955,20 +81983,6 @@
       "time": "11:00:27",
       "iso": "2026-09-09T05:30:27.951Z",
       "action": "updated remark for AES-HAV-30S at KEGALLE: “10% Off.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "11:00:00",
-      "iso": "2026-09-09T05:30:00.219Z",
-      "action": "updated remark for SKS-1024 at KEGALLE: “Display Unit.15% Off.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "10:59:29",
-      "iso": "2026-09-09T05:29:29.309Z",
-      "action": "updated remark for GEO-200D at KEGALLE: “Exchange Issue.90% Off.”"
     }
   ]
 }
