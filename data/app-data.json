@@ -34602,11 +34602,11 @@
       "lastUpdated": "2026-08-24T03:39:19.478Z"
     },
     "DPE-NUC-MINIPC-SSD120||RUWANWELLA": {
-      "remark": "Shop use",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-24",
-      "commentTime": "09:09:37",
-      "lastUpdated": "2026-08-24T03:39:37.702Z"
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:02:56",
+      "lastUpdated": "2026-09-09T05:32:56.940Z"
     },
     "PN-SC-UA7GS-K||MIRIGAMA": {
       "remark": "80%",
@@ -79358,6 +79358,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:02:23",
       "lastUpdated": "2026-09-09T05:32:23.323Z"
+    },
+    "NETAC-128GB-NVME-SSD||RUWANWELLA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:03:09",
+      "lastUpdated": "2026-09-09T05:33:09.580Z"
     }
   },
   "showroomVisits": {
@@ -81404,6 +81411,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-09",
+      "time": "11:03:09",
+      "iso": "2026-09-09T05:33:09.580Z",
+      "action": "updated remark for NETAC-128GB-NVME-SSD at RUWANWELLA: “-”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-09",
+      "time": "11:02:56",
+      "iso": "2026-09-09T05:32:56.940Z",
+      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at RUWANWELLA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-09",
       "time": "11:02:23",
@@ -81738,20 +81759,6 @@
       "time": "10:27:29",
       "iso": "2026-09-09T04:57:29.882Z",
       "action": "updated remark for SMW823AY7 at KOTIYAKUMBURA: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "10:27:27",
-      "iso": "2026-09-09T04:57:27.718Z",
-      "action": "updated remark for SMW823AY7 at KOTIYAKUMBURA: “30% only for the display unit”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "10:27:24",
-      "iso": "2026-09-09T04:57:24.627Z",
-      "action": "updated remark for SMW823AY7 at KOTIYAKUMBURA (cleared)"
     }
   ]
 }
