@@ -79281,6 +79281,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "10:52:56",
       "lastUpdated": "2026-09-09T05:22:56.218Z"
+    },
+    "ENG-UB2607||KEGALLE": {
+      "remark": "Battery Issue.Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "10:55:03",
+      "lastUpdated": "2026-09-09T05:25:03.544Z"
     }
   },
   "showroomVisits": {
@@ -81329,6 +81336,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-09",
+      "time": "10:55:03",
+      "iso": "2026-09-09T05:25:03.550Z",
+      "action": "updated remark for ENG-UB2607 at KEGALLE: “Battery Issue.Return to WH”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
       "time": "10:52:56",
       "iso": "2026-09-09T05:22:56.220Z",
       "action": "updated remark for ENG-PUVPB01-WH at KEGALLE: “Battery Issue.Return to WH”"
@@ -81668,13 +81682,6 @@
       "time": "10:21:27",
       "iso": "2026-09-09T04:51:27.278Z",
       "action": "updated remark for SHT-PHT505L at KOTIYAKUMBURA: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "10:20:57",
-      "iso": "2026-09-09T04:50:57.086Z",
-      "action": "updated remark for PF-STRG-BX-20L-S at KOTIYAKUMBURA: “-”"
     }
   ]
 }
