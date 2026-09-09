@@ -79470,6 +79470,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:10:57",
       "lastUpdated": "2026-09-09T05:40:57.444Z"
+    },
+    "SLE40E910||KEGALLE": {
+      "remark": "Damaged.Return to WH",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:11:55",
+      "lastUpdated": "2026-09-09T05:41:55.437Z"
     }
   },
   "showroomVisits": {
@@ -81516,6 +81523,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "11:11:55",
+      "iso": "2026-09-09T05:41:55.439Z",
+      "action": "updated remark for SLE40E910 at KEGALLE: “Damaged.Return to WH”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-09",
       "time": "11:10:57",
@@ -81857,13 +81871,6 @@
       "time": "10:44:02",
       "iso": "2026-09-09T05:14:02.989Z",
       "action": "updated remark for SMG-SM-A356E-128-B at KEGALLE: “Sold”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "10:43:53",
-      "iso": "2026-09-09T05:13:53.656Z",
-      "action": "updated remark for SMG-SM-A057F-4-128-G at KEGALLE: “Additional 5% Off.”"
     }
   ]
 }
