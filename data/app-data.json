@@ -79106,6 +79106,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "10:26:07",
       "lastUpdated": "2026-09-09T04:56:07.074Z"
+    },
+    "SID-ATC-15||KEGALLE": {
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "10:26:26",
+      "lastUpdated": "2026-09-09T04:56:26.158Z"
     }
   },
   "showroomVisits": {
@@ -81148,6 +81155,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-09",
+      "time": "10:26:26",
+      "iso": "2026-09-09T04:56:26.161Z",
+      "action": "updated remark for SID-ATC-15 at KEGALLE: “-”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
       "time": "10:26:07",
       "iso": "2026-09-09T04:56:07.076Z",
       "action": "updated remark for USI-ATC-302 at KEGALLE: “-”"
@@ -81486,13 +81500,6 @@
       "date": "2026-09-08",
       "time": "23:24:52",
       "iso": "2026-09-08T17:54:52.787Z",
-      "action": "updated remark for MID-MG-GP45B at SHOMES-KEGALLE: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "23:24:50",
-      "iso": "2026-09-08T17:54:50.524Z",
       "action": "updated remark for MID-MG-GP45B at SHOMES-KEGALLE: “-”"
     }
   ]
