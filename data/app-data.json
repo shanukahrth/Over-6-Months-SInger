@@ -79519,6 +79519,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:17:48",
       "lastUpdated": "2026-09-09T05:47:48.984Z"
+    },
+    "MID-D15-20EVN1||KEGALLE": {
+      "remark": "Sold",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:18:11",
+      "lastUpdated": "2026-09-09T05:48:11.764Z"
     }
   },
   "showroomVisits": {
@@ -81567,6 +81574,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-09",
+      "time": "11:18:11",
+      "iso": "2026-09-09T05:48:11.766Z",
+      "action": "updated remark for MID-D15-20EVN1 at KEGALLE: “Sold”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
       "time": "11:17:48",
       "iso": "2026-09-09T05:47:48.988Z",
       "action": "updated remark for WP-WFC105604RT-G at KEGALLE: “25% Off.”"
@@ -81906,13 +81920,6 @@
       "time": "10:48:25",
       "iso": "2026-09-09T05:18:25.370Z",
       "action": "updated remark for JR-FN2 at KEGALLE: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "10:47:36",
-      "iso": "2026-09-09T05:17:36.134Z",
-      "action": "updated remark for HU-FREEBUD-3I-B at KEGALLE: “Not working.90% Off.”"
     }
   ]
 }
