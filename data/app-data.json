@@ -79764,6 +79764,20 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:41:43",
       "lastUpdated": "2026-09-09T06:11:43.112Z"
+    },
+    "USHA-FS40-13B||KEGALLE - C": {
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:41:41",
+      "lastUpdated": "2026-09-09T06:11:41.673Z"
+    },
+    "KDK-A40B||KEGALLE - C": {
+      "remark": "-",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:41:55",
+      "lastUpdated": "2026-09-09T06:11:55.213Z"
     }
   },
   "showroomVisits": {
@@ -81810,6 +81824,20 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "11:41:55",
+      "iso": "2026-09-09T06:11:55.218Z",
+      "action": "updated remark for KDK-A40B at KEGALLE - C: “-”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
+      "time": "11:41:41",
+      "iso": "2026-09-09T06:11:41.675Z",
+      "action": "updated remark for USHA-FS40-13B at KEGALLE - C: “-”"
+    },
+    {
       "user": "Sulani",
       "date": "2026-09-09",
       "time": "11:41:43",
@@ -82144,20 +82172,6 @@
       "time": "11:16:06",
       "iso": "2026-09-09T05:46:06.770Z",
       "action": "updated remark for PN-TH-32M401N at KEGALLE: “Not Working.80% Off.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "11:13:30",
-      "iso": "2026-09-09T05:43:30.563Z",
-      "action": "updated remark for SLE49U5 at KEGALLE: “85% - Damaged. Service Center.”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "11:12:20",
-      "iso": "2026-09-09T05:42:20.092Z",
-      "action": "updated remark for SWH-118E at RUWANWELLA: “Exchange, sent to service centre”"
     }
   ]
 }
