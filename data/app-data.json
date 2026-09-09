@@ -79015,6 +79015,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "10:15:00",
       "lastUpdated": "2026-09-09T04:45:00.946Z"
+    },
+    "DELL3530-I7-8GB512-SIL||KEGALLE": {
+      "remark": "Display Unit.75% provided.",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-09",
+      "commentTime": "10:15:25",
+      "lastUpdated": "2026-09-09T04:45:25.910Z"
     }
   },
   "showroomVisits": {
@@ -81057,6 +81064,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-09",
+      "time": "10:15:25",
+      "iso": "2026-09-09T04:45:25.911Z",
+      "action": "updated remark for DELL3530-I7-8GB512-SIL at KEGALLE: “Display Unit.75% provided.”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-09",
       "time": "10:15:00",
       "iso": "2026-09-09T04:45:00.947Z",
       "action": "updated remark for DELL3511-I5-4GB1TBMX-SIL at KEGALLE: “Huge issue.75% provided.”"
@@ -81396,13 +81410,6 @@
       "time": "22:56:16",
       "iso": "2026-09-08T17:26:16.322Z",
       "action": "updated remark for WFL-CRYSTAL-78X72-S at SHOMES-KEGALLE: “Damaged.90% Off.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-08",
-      "time": "22:55:32",
-      "iso": "2026-09-08T17:25:32.673Z",
-      "action": "updated remark for 123453223 at SHOMES-KEGALLE: “95% Off.No Clear Out.”"
     }
   ]
 }
