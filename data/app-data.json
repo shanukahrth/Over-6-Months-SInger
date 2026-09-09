@@ -79610,6 +79610,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:33:51",
       "lastUpdated": "2026-09-09T06:03:51.747Z"
+    },
+    "U-B1||PILIYANDALA  B": {
+      "remark": "Non Sellable",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:34:01",
+      "lastUpdated": "2026-09-09T06:04:01.028Z"
     }
   },
   "showroomVisits": {
@@ -81656,6 +81663,13 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-09-09",
+      "time": "11:34:01",
+      "iso": "2026-09-09T06:04:01.029Z",
+      "action": "updated remark for U-B1 at PILIYANDALA  B: “Non Sellable”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-09",
       "time": "11:33:51",
@@ -81997,13 +82011,6 @@
       "time": "11:01:52",
       "iso": "2026-09-09T05:31:52.513Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at RUWANWELLA: “1 sold, 30,000”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "11:01:46",
-      "iso": "2026-09-09T05:31:46.234Z",
-      "action": "updated remark for BTS-5KG at KEGALLE: “75% Off.”"
     }
   ]
 }
