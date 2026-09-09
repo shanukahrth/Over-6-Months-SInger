@@ -79981,6 +79981,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "14:55:28",
       "lastUpdated": "2026-09-09T09:25:28.651Z"
+    },
+    "SIN-BS30||KIRIELLA": {
+      "remark": "7000- Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-09",
+      "commentTime": "16:13:56",
+      "lastUpdated": "2026-09-09T10:43:56.345Z"
     }
   },
   "showroomVisits": {
@@ -82029,6 +82036,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-09",
+      "time": "16:13:56",
+      "iso": "2026-09-09T10:43:56.348Z",
+      "action": "updated remark for SIN-BS30 at KIRIELLA: “7000- Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-09",
       "time": "14:56:15",
       "iso": "2026-09-09T09:26:15.381Z",
       "action": "updated remark for SMGRT28A3021GS at KEGALLE B: “50% damaged . Customer return”"
@@ -82368,13 +82382,6 @@
       "time": "11:42:32",
       "iso": "2026-09-09T06:12:32.154Z",
       "action": "updated remark for SIN-RFC-2058 at PILIYANDALA  B: “5% OFF”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-09",
-      "time": "11:42:02",
-      "iso": "2026-09-09T06:12:02.889Z",
-      "action": "updated remark for SKY24TB1001 at PILIYANDALA  B: “70% OFF”"
     }
   ]
 }
