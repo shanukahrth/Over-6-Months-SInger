@@ -79344,6 +79344,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:01:46",
       "lastUpdated": "2026-09-09T05:31:46.232Z"
+    },
+    "HFPA-MUSICBOX-BLC||RUWANWELLA": {
+      "remark": "1 sold, 30,000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:01:52",
+      "lastUpdated": "2026-09-09T05:31:52.510Z"
     }
   },
   "showroomVisits": {
@@ -81390,6 +81397,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-09",
+      "time": "11:01:52",
+      "iso": "2026-09-09T05:31:52.513Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at RUWANWELLA: “1 sold, 30,000”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-09",
       "time": "11:01:46",
@@ -81731,13 +81745,6 @@
       "time": "10:26:26",
       "iso": "2026-09-09T04:56:26.161Z",
       "action": "updated remark for SID-ATC-15 at KEGALLE: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "10:26:07",
-      "iso": "2026-09-09T04:56:07.076Z",
-      "action": "updated remark for USI-ATC-302 at KEGALLE: “-”"
     }
   ]
 }
