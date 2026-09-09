@@ -79794,11 +79794,11 @@
       "lastUpdated": "2026-09-09T06:12:02.887Z"
     },
     "SIN-RFC-2058||PILIYANDALA  B": {
-      "remark": "5% OFF",
+      "remark": "10% OIFF",
       "commentedBy": "Sulani",
       "commentDate": "2026-09-09",
-      "commentTime": "11:42:32",
-      "lastUpdated": "2026-09-09T06:12:32.146Z"
+      "commentTime": "11:42:57",
+      "lastUpdated": "2026-09-09T06:12:57.294Z"
     },
     "FAN-P-SF1605HL||KEGALLE - C": {
       "remark": "50% Off.",
@@ -79806,6 +79806,13 @@
       "commentDate": "2026-09-09",
       "commentTime": "11:42:59",
       "lastUpdated": "2026-09-09T06:12:59.953Z"
+    },
+    "SIN-QS-8306||PILIYANDALA  B": {
+      "remark": "60% OFF",
+      "commentedBy": "Sulani",
+      "commentDate": "2026-09-09",
+      "commentTime": "11:43:14",
+      "lastUpdated": "2026-09-09T06:13:14.328Z"
     }
   },
   "showroomVisits": {
@@ -81852,6 +81859,20 @@
   },
   "activity": [
     {
+      "user": "Sulani",
+      "date": "2026-09-09",
+      "time": "11:43:14",
+      "iso": "2026-09-09T06:13:14.331Z",
+      "action": "updated remark for SIN-QS-8306 at PILIYANDALA  B: “60% OFF”"
+    },
+    {
+      "user": "Sulani",
+      "date": "2026-09-09",
+      "time": "11:42:57",
+      "iso": "2026-09-09T06:12:57.296Z",
+      "action": "updated remark for SIN-RFC-2058 at PILIYANDALA  B: “10% OIFF”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-09",
       "time": "11:42:59",
@@ -82186,20 +82207,6 @@
       "time": "11:20:30",
       "iso": "2026-09-09T05:50:30.105Z",
       "action": "updated remark for MID-D30-20EVN1 at KEGALLE: “15% Off.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "11:19:26",
-      "iso": "2026-09-09T05:49:26.280Z",
-      "action": "updated remark for MID-D15-20EVN1 at KEGALLE: “15% Off.”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-09",
-      "time": "11:18:11",
-      "iso": "2026-09-09T05:48:11.766Z",
-      "action": "updated remark for MID-D15-20EVN1 at KEGALLE: “Sold”"
     }
   ]
 }
