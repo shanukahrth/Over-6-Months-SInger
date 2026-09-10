@@ -80625,6 +80625,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:14:59",
       "lastUpdated": "2026-09-10T08:44:59.367Z"
+    },
+    "GEO-182S-SV||GALAHA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:16:09",
+      "lastUpdated": "2026-09-10T08:46:09.155Z"
     }
   },
   "showroomVisits": {
@@ -82681,6 +82688,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:16:09",
+      "iso": "2026-09-10T08:46:09.157Z",
+      "action": "updated remark for GEO-182S-SV at GALAHA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:14:59",
       "iso": "2026-09-10T08:44:59.368Z",
       "action": "updated remark for CM-D1000 at GALAHA: “Unsellable”"
@@ -83020,13 +83034,6 @@
       "time": "13:49:36",
       "iso": "2026-09-10T08:19:36.016Z",
       "action": "updated UDUDUMBARA showroom (visited: No)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:44:53",
-      "iso": "2026-09-10T08:14:53.693Z",
-      "action": "updated DIPPITIYA showroom (remark: Discounts given over the phone)"
     }
   ]
 }
