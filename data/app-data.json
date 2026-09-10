@@ -81808,6 +81808,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:32:45",
       "lastUpdated": "2026-09-10T10:02:45.748Z"
+    },
+    "MHC-V13||GALNEWA": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:32:36",
+      "lastUpdated": "2026-09-10T10:02:36.431Z"
     }
   },
   "showroomVisits": {
@@ -83878,6 +83885,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:32:36",
+      "iso": "2026-09-10T10:02:36.432Z",
+      "action": "updated remark for MHC-V13 at GALNEWA: “SOLD”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-10",
       "time": "15:32:45",
@@ -84219,13 +84233,6 @@
       "time": "15:16:26",
       "iso": "2026-09-10T09:46:26.160Z",
       "action": "updated remark for SMGUA32N4010 at POOJAPITIYA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:16:05",
-      "iso": "2026-09-10T09:46:05.104Z",
-      "action": "updated remark for SLE43G890 at POOJAPITIYA: “60%”"
     }
   ]
 }
