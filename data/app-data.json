@@ -81857,6 +81857,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:34:06",
       "lastUpdated": "2026-09-10T10:04:06.019Z"
+    },
+    "DVP-SR370||GALAGEDARA": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:34:29",
+      "lastUpdated": "2026-09-10T10:04:29.248Z"
     }
   },
   "showroomVisits": {
@@ -83933,6 +83940,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:34:29",
+      "iso": "2026-09-10T10:04:29.251Z",
+      "action": "updated remark for DVP-SR370 at GALAGEDARA: “MOP - 2,000”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:34:29",
@@ -84274,13 +84288,6 @@
       "time": "15:18:07",
       "iso": "2026-09-10T09:48:07.842Z",
       "action": "updated remark for PF-JAVA-CT-BR-S at GALNEWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:17:38",
-      "iso": "2026-09-10T09:47:38.760Z",
-      "action": "updated remark for MID-D30-20EVN1 at POOJAPITIYA: “Active SKU”"
     }
   ]
 }
