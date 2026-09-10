@@ -81164,6 +81164,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:00:41",
       "lastUpdated": "2026-09-10T09:30:41.786Z"
+    },
+    "PCP30||POOJAPITIYA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:00:52",
+      "lastUpdated": "2026-09-10T09:30:52.426Z"
     }
   },
   "showroomVisits": {
@@ -83226,6 +83233,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:00:52",
+      "iso": "2026-09-10T09:30:52.426Z",
+      "action": "updated remark for PCP30 at POOJAPITIYA: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:00:47",
+      "iso": "2026-09-10T09:30:47.107Z",
+      "action": "updated remark for PCP30 at POOJAPITIYA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:00:41",
@@ -83560,20 +83581,6 @@
       "time": "14:46:04",
       "iso": "2026-09-10T09:16:04.290Z",
       "action": "updated remark for LF-COD-CRW-S at POOJAPITIYA: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:45:33",
-      "iso": "2026-09-10T09:15:33.937Z",
-      "action": "updated remark for LF-BUDGET-ST-AGO-S at POOJAPITIYA: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:45:04",
-      "iso": "2026-09-10T09:15:04.725Z",
-      "action": "updated remark for WF-DT-B-S at POOJAPITIYA: “Display - 50%”"
     }
   ]
 }
