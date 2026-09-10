@@ -81285,11 +81285,11 @@
       "lastUpdated": "2026-09-10T09:34:16.522Z"
     },
     "HON-X5PLUS-4-64-CYAN||POOJAPITIYA": {
-      "remark": "%",
+      "remark": "50%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "15:04:21",
-      "lastUpdated": "2026-09-10T09:34:21.596Z"
+      "commentTime": "15:04:27",
+      "lastUpdated": "2026-09-10T09:34:27.234Z"
     }
   },
   "showroomVisits": {
@@ -83354,6 +83354,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:04:27",
+      "iso": "2026-09-10T09:34:27.235Z",
+      "action": "updated remark for HON-X5PLUS-4-64-CYAN at POOJAPITIYA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:04:21",
       "iso": "2026-09-10T09:34:21.596Z",
       "action": "updated remark for HON-X5PLUS-4-64-CYAN at POOJAPITIYA: “%”"
@@ -83693,13 +83700,6 @@
       "time": "14:52:43",
       "iso": "2026-09-10T09:22:43.745Z",
       "action": "updated remark for TF-SI-ESS-242 at POOJAPITIYA: “Active SKU”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "14:52:32",
-      "iso": "2026-09-10T09:22:32.014Z",
-      "action": "updated remark for MC8280 at THAMBUTTEGAMA: “50%”"
     }
   ]
 }
