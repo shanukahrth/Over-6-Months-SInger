@@ -83309,6 +83309,14 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-10"
+    },
+    "POOJAPITIYA||DIGANA": {
+      "visited": "Yes",
+      "visitDate": "2026-09-10",
+      "team": "Team Central ",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-09-10"
     }
   },
   "soldMarks": {
@@ -83681,6 +83689,34 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:20:13",
+      "iso": "2026-09-10T09:50:13.122Z",
+      "action": "updated POOJAPITIYA showroom (team: Team Central )"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:20:08",
+      "iso": "2026-09-10T09:50:08.861Z",
+      "action": "updated POOJAPITIYA showroom (visitDate: 2026-09-10)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:20:06",
+      "iso": "2026-09-10T09:50:06.857Z",
+      "action": "updated POOJAPITIYA showroom (visitDate: 2026-09-11)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:20:05",
+      "iso": "2026-09-10T09:50:05.087Z",
+      "action": "updated POOJAPITIYA showroom (visited: Yes)"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:19:56",
@@ -84001,34 +84037,6 @@
       "time": "15:07:34",
       "iso": "2026-09-10T09:37:34.404Z",
       "action": "updated remark for BC-BG328A at THAMBUTTEGAMA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:07:27",
-      "iso": "2026-09-10T09:37:27.499Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at POOJAPITIYA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:06:57",
-      "iso": "2026-09-10T09:36:57.995Z",
-      "action": "updated remark for SMG-SM-A042F-32GB-B at POOJAPITIYA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:06:33",
-      "iso": "2026-09-10T09:36:33.228Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at POOJAPITIYA: “Reported”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:06:21",
-      "iso": "2026-09-10T09:36:21.751Z",
-      "action": "updated remark for SLD24D10TC at THAMBUTTEGAMA: “80%”"
     }
   ]
 }
