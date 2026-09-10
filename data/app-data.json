@@ -80457,6 +80457,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:02:17",
       "lastUpdated": "2026-09-10T08:32:17.170Z"
+    },
+    "QT-SITUP||GALAHA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:04:43",
+      "lastUpdated": "2026-09-10T08:34:43.535Z"
     }
   },
   "showroomVisits": {
@@ -82513,6 +82520,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:04:43",
+      "iso": "2026-09-10T08:34:43.536Z",
+      "action": "updated remark for QT-SITUP at GALAHA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:04:27",
       "iso": "2026-09-10T08:34:27.382Z",
       "action": "updated remark for WG-FAN-BXS at GALAHA: “Damaged - 70%”"
@@ -82852,13 +82866,6 @@
       "time": "13:27:54",
       "iso": "2026-09-10T07:57:54.801Z",
       "action": "updated remark for SIN-PSVX938 at DIPPITIYA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:27:32",
-      "iso": "2026-09-10T07:57:32.703Z",
-      "action": "updated remark for SIN-BS30 at DIPPITIYA: “MOP - 8,500”"
     }
   ]
 }
