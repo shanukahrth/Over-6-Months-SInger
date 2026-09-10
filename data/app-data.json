@@ -80163,6 +80163,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "12:59:59",
       "lastUpdated": "2026-09-10T07:29:59.420Z"
+    },
+    "SWM-MET80GL||THAMBUTTEGAMA": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:00:31",
+      "lastUpdated": "2026-09-10T07:30:31.643Z"
     }
   },
   "showroomVisits": {
@@ -82211,6 +82218,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "13:00:31",
+      "iso": "2026-09-10T07:30:31.644Z",
+      "action": "updated remark for SWM-MET80GL at THAMBUTTEGAMA: “SOLD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "12:59:59",
       "iso": "2026-09-10T07:29:59.422Z",
       "action": "updated remark for SWH-118EP-D at THAMBUTTEGAMA: “DROP”"
@@ -82550,13 +82564,6 @@
       "time": "10:16:43",
       "iso": "2026-09-10T04:46:43.541Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at BALANGODA: “Transferred”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "10:16:27",
-      "iso": "2026-09-10T04:46:27.579Z",
-      "action": "updated remark for HON-H200-12-512-WHT at BALANGODA: “Transferred”"
     }
   ]
 }
