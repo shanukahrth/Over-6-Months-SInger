@@ -80450,6 +80450,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:01:52",
       "lastUpdated": "2026-09-10T08:31:52.706Z"
+    },
+    "FAN-P-SF1605HR||GALAHA": {
+      "remark": "Carton Damage - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:02:17",
+      "lastUpdated": "2026-09-10T08:32:17.170Z"
     }
   },
   "showroomVisits": {
@@ -82506,6 +82513,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:02:17",
+      "iso": "2026-09-10T08:32:17.171Z",
+      "action": "updated remark for FAN-P-SF1605HR at GALAHA: “Carton Damage - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:01:52",
       "iso": "2026-09-10T08:31:52.706Z",
       "action": "updated remark for FAN-P-1605H at GALAHA: “70%”"
@@ -82845,13 +82859,6 @@
       "time": "13:27:15",
       "iso": "2026-09-10T07:57:15.300Z",
       "action": "updated remark for SMGAR50F12D0J at DIPPITIYA: “Sellable - 30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:27:07",
-      "iso": "2026-09-10T07:57:07.973Z",
-      "action": "updated remark for SMGAR50F12D0J at DIPPITIYA: “30%”"
     }
   ]
 }
