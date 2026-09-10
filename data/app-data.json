@@ -80676,11 +80676,11 @@
       "lastUpdated": "2026-09-10T08:52:17.356Z"
     },
     "SLE32E930||GALAHA": {
-      "remark": "Revert - 80%",
+      "remark": "Unsellable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "14:22:44",
-      "lastUpdated": "2026-09-10T08:52:44.746Z"
+      "commentTime": "14:23:49",
+      "lastUpdated": "2026-09-10T08:53:49.435Z"
     }
   },
   "showroomVisits": {
@@ -82737,6 +82737,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:23:49",
+      "iso": "2026-09-10T08:53:49.436Z",
+      "action": "updated remark for SLE32E930 at GALAHA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:22:44",
       "iso": "2026-09-10T08:52:44.748Z",
       "action": "updated remark for SLE32E930 at GALAHA: “Revert - 80%”"
@@ -83076,13 +83083,6 @@
       "time": "13:58:36",
       "iso": "2026-09-10T08:28:36.204Z",
       "action": "updated remark for SB-AAA at GALAHA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:57:58",
-      "iso": "2026-09-10T08:27:58.648Z",
-      "action": "updated remark for UR591SW at GALAHA: “MOP - 5,000”"
     }
   ]
 }
