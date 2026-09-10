@@ -81178,6 +81178,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:01:04",
       "lastUpdated": "2026-09-10T09:31:04.854Z"
+    },
+    "SLMC-18DSLHS||POOJAPITIYA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:01:24",
+      "lastUpdated": "2026-09-10T09:31:24.313Z"
     }
   },
   "showroomVisits": {
@@ -83240,6 +83247,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:01:24",
+      "iso": "2026-09-10T09:31:24.315Z",
+      "action": "updated remark for SLMC-18DSLHS at POOJAPITIYA: “Damaged - 80%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:01:04",
@@ -83581,13 +83595,6 @@
       "time": "14:46:23",
       "iso": "2026-09-10T09:16:23.947Z",
       "action": "updated remark for LF-LCDRIO-S at POOJAPITIYA: “Display - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:46:18",
-      "iso": "2026-09-10T09:16:18.092Z",
-      "action": "updated remark for LF-LCDRIO-S at POOJAPITIYA: “Display - 50%”"
     }
   ]
 }
