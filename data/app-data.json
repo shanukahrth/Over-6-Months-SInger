@@ -81591,6 +81591,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:17:38",
       "lastUpdated": "2026-09-10T09:47:38.759Z"
+    },
+    "PF-JAVA-CT-BR-S||GALNEWA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:18:07",
+      "lastUpdated": "2026-09-10T09:48:07.840Z"
     }
   },
   "showroomVisits": {
@@ -83653,6 +83660,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:18:07",
+      "iso": "2026-09-10T09:48:07.842Z",
+      "action": "updated remark for PF-JAVA-CT-BR-S at GALNEWA: “50%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-10",
       "time": "15:17:38",
@@ -83994,13 +84008,6 @@
       "time": "15:05:43",
       "iso": "2026-09-10T09:35:43.790Z",
       "action": "updated remark for WF-ROM-DTO-S at THAMBUTTEGAMA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:05:37",
-      "iso": "2026-09-10T09:35:37.636Z",
-      "action": "updated remark for HON-X6B-6-128-BLK at POOJAPITIYA: “45%”"
     }
   ]
 }
