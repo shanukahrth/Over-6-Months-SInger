@@ -82398,6 +82398,14 @@
       "remark": "Discounts given over the phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-10"
+    },
+    "GALAHA||KANDY": {
+      "visited": "Yes",
+      "visitDate": "2026-09-10",
+      "team": "Team Central ",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-09-10"
     }
   },
   "soldMarks": {
@@ -82772,6 +82780,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:28:59",
+      "iso": "2026-09-10T08:58:59.312Z",
+      "action": "updated GALAHA showroom (team: Team Central )"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:28:55",
+      "iso": "2026-09-10T08:58:55.215Z",
+      "action": "updated GALAHA showroom (visitDate: 2026-09-10)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:28:53",
+      "iso": "2026-09-10T08:58:53.331Z",
+      "action": "updated GALAHA showroom (visited: Yes)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:26:53",
       "iso": "2026-09-10T08:56:53.886Z",
       "action": "updated remark for WP-NSP-J-S at GALAHA: “50%”"
@@ -83097,27 +83126,6 @@
       "time": "14:04:43",
       "iso": "2026-09-10T08:34:43.536Z",
       "action": "updated remark for QT-SITUP at GALAHA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:04:27",
-      "iso": "2026-09-10T08:34:27.382Z",
-      "action": "updated remark for WG-FAN-BXS at GALAHA: “Damaged - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:02:17",
-      "iso": "2026-09-10T08:32:17.171Z",
-      "action": "updated remark for FAN-P-SF1605HR at GALAHA: “Carton Damage - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:01:52",
-      "iso": "2026-09-10T08:31:52.706Z",
-      "action": "updated remark for FAN-P-1605H at GALAHA: “70%”"
     }
   ]
 }
