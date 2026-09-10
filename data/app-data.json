@@ -80947,6 +80947,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:51:37",
       "lastUpdated": "2026-09-10T09:21:37.568Z"
+    },
+    "WF-PARIS-BL-S||POOJAPITIYA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:51:52",
+      "lastUpdated": "2026-09-10T09:21:52.023Z"
     }
   },
   "showroomVisits": {
@@ -83011,6 +83018,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:51:52",
+      "iso": "2026-09-10T09:21:52.024Z",
+      "action": "updated remark for WF-PARIS-BL-S at POOJAPITIYA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:51:37",
       "iso": "2026-09-10T09:21:37.569Z",
       "action": "updated remark for WF-SKY-211-MR-S at POOJAPITIYA: “25%”"
@@ -83350,13 +83364,6 @@
       "time": "14:22:17",
       "iso": "2026-09-10T08:52:17.357Z",
       "action": "updated remark for SLE32D1800 at GALAHA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:21:54",
-      "iso": "2026-09-10T08:51:54.626Z",
-      "action": "updated remark for SLE20S1300 at GALAHA: “Shop use”"
     }
   ]
 }
