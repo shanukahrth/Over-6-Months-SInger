@@ -80730,6 +80730,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:35:59",
       "lastUpdated": "2026-09-10T09:05:59.260Z"
+    },
+    "SVX6002||POOJAPITIYA": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:36:27",
+      "lastUpdated": "2026-09-10T09:06:27.300Z"
     }
   },
   "showroomVisits": {
@@ -82794,6 +82801,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:36:27",
+      "iso": "2026-09-10T09:06:27.301Z",
+      "action": "updated remark for SVX6002 at POOJAPITIYA: “Damaged - 85%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:35:59",
       "iso": "2026-09-10T09:05:59.261Z",
       "action": "updated remark for SIN-PSVX938N at POOJAPITIYA: “MOP - 18,500”"
@@ -83133,13 +83147,6 @@
       "time": "14:05:31",
       "iso": "2026-09-10T08:35:31.716Z",
       "action": "updated remark for LF-MIKO-WD-SHW at GALAHA: “Damaged - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:05:11",
-      "iso": "2026-09-10T08:35:11.014Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at GALAHA: “Display - 50%”"
     }
   ]
 }
