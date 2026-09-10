@@ -17494,11 +17494,11 @@
       "lastUpdated": "2026-08-19T05:27:43.267Z"
     },
     "SLE40D600A||KIRIELLA": {
-      "remark": "60%",
+      "remark": "40,000",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-10",
-      "commentTime": "11:12:26",
-      "lastUpdated": "2026-09-10T05:42:26.058Z"
+      "commentTime": "11:19:42",
+      "lastUpdated": "2026-09-10T05:49:42.316Z"
     },
     "SKY55Q6700G||KIRIELLA": {
       "remark": "10%",
@@ -82078,6 +82078,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "11:19:42",
+      "iso": "2026-09-10T05:49:42.319Z",
+      "action": "updated remark for SLE40D600A at KIRIELLA: “40,000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "11:12:26",
       "iso": "2026-09-10T05:42:26.062Z",
       "action": "updated remark for SLE40D600A at KIRIELLA: “60%”"
@@ -82417,13 +82424,6 @@
       "time": "08:30:30",
       "iso": "2026-09-10T03:00:30.691Z",
       "action": "updated remark for SLE43G890 at PABAHINNA-LITE: “Rs.69,999/=”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "16:13:56",
-      "iso": "2026-09-09T10:43:56.348Z",
-      "action": "updated remark for SIN-BS30 at KIRIELLA: “7000- Damaged”"
     }
   ]
 }
