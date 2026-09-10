@@ -81500,6 +81500,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:12:34",
       "lastUpdated": "2026-09-10T09:42:34.588Z"
+    },
+    "SLE32E810||POOJAPITIYA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:13:03",
+      "lastUpdated": "2026-09-10T09:43:03.532Z"
     }
   },
   "showroomVisits": {
@@ -83564,6 +83571,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:13:03",
+      "iso": "2026-09-10T09:43:03.533Z",
+      "action": "updated remark for SLE32E810 at POOJAPITIYA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:13:00",
+      "iso": "2026-09-10T09:43:00.504Z",
+      "action": "updated remark for SLE32E810 at POOJAPITIYA: “Panel Damage - 90”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:12:34",
       "iso": "2026-09-10T09:42:34.588Z",
       "action": "updated remark for SLE32D1800 at POOJAPITIYA: “80%”"
@@ -83896,20 +83917,6 @@
       "time": "15:01:42",
       "iso": "2026-09-10T09:31:42.948Z",
       "action": "updated remark for HU-WATCH-GT6-B at THAMBUTTEGAMA: “20%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:01:59",
-      "iso": "2026-09-10T09:31:59.055Z",
-      "action": "updated remark for MB-SAFARI4S-BLK at POOJAPITIYA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:01:50",
-      "iso": "2026-09-10T09:31:50.681Z",
-      "action": "updated remark for RIYLTA-MF12V53B at POOJAPITIYA: “Mail to DM”"
     }
   ]
 }
