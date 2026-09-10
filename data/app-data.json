@@ -80380,6 +80380,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:41:04",
       "lastUpdated": "2026-09-10T08:11:04.332Z"
+    },
+    "HFPA-GRAVITY-BLC||GALAHA": {
+      "remark": "MOP - 24,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:57:24",
+      "lastUpdated": "2026-09-10T08:27:24.987Z"
+    },
+    "HFPA-GRAVITY-BLU||GALAHA": {
+      "remark": "MOP - 24,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:57:26",
+      "lastUpdated": "2026-09-10T08:27:26.544Z"
     }
   },
   "showroomVisits": {
@@ -82436,6 +82450,34 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:57:26",
+      "iso": "2026-09-10T08:27:26.546Z",
+      "action": "updated remark for HFPA-GRAVITY-BLU at GALAHA: “MOP - 24,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "13:57:24",
+      "iso": "2026-09-10T08:27:24.988Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at GALAHA: “MOP - 24,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "13:57:20",
+      "iso": "2026-09-10T08:27:20.481Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at GALAHA: “PN-BR-GY10-K422”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "13:57:19",
+      "iso": "2026-09-10T08:27:19.370Z",
+      "action": "updated remark for HFPA-GRAVITY-BLC at GALAHA: “MOP - 24,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:49:51",
       "iso": "2026-09-10T08:19:51.075Z",
       "action": "updated UDUDUMBARA showroom (visited: Yes)"
@@ -82754,34 +82796,6 @@
       "time": "13:04:56",
       "iso": "2026-09-10T07:34:56.910Z",
       "action": "updated remark for GEO-182S-BU1 at THAMBUTTEGAMA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "13:03:57",
-      "iso": "2026-09-10T07:33:57.685Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at THAMBUTTEGAMA: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "13:02:43",
-      "iso": "2026-09-10T07:32:43.158Z",
-      "action": "updated remark for WF-MILAN-MR-S at THAMBUTTEGAMA: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "13:01:36",
-      "iso": "2026-09-10T07:31:36.190Z",
-      "action": "updated remark for PN-SC-UA3GS-K at THAMBUTTEGAMA: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "13:00:31",
-      "iso": "2026-09-10T07:30:31.644Z",
-      "action": "updated remark for SWM-MET80GL at THAMBUTTEGAMA: “SOLD”"
     }
   ]
 }
