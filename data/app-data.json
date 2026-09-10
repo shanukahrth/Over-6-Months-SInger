@@ -80940,6 +80940,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:50:59",
       "lastUpdated": "2026-09-10T09:20:59.622Z"
+    },
+    "WF-SKY-211-MR-S||POOJAPITIYA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:51:37",
+      "lastUpdated": "2026-09-10T09:21:37.568Z"
     }
   },
   "showroomVisits": {
@@ -83004,6 +83011,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:51:37",
+      "iso": "2026-09-10T09:21:37.569Z",
+      "action": "updated remark for WF-SKY-211-MR-S at POOJAPITIYA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:50:59",
       "iso": "2026-09-10T09:20:59.623Z",
       "action": "updated remark for PF-ENVISION-BL-S at POOJAPITIYA: “Active SKU”"
@@ -83343,13 +83357,6 @@
       "time": "14:21:54",
       "iso": "2026-09-10T08:51:54.626Z",
       "action": "updated remark for SLE20S1300 at GALAHA: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:21:25",
-      "iso": "2026-09-10T08:51:25.042Z",
-      "action": "updated remark for SLE43G890 at GALAHA: “60%”"
     }
   ]
 }
