@@ -81675,6 +81675,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:25:01",
       "lastUpdated": "2026-09-10T09:55:01.100Z"
+    },
+    "MID-MJ-KM6001W||GALNEWA": {
+      "remark": "35%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:25:24",
+      "lastUpdated": "2026-09-10T09:55:24.497Z"
     }
   },
   "showroomVisits": {
@@ -83747,6 +83754,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:25:24",
+      "iso": "2026-09-10T09:55:24.500Z",
+      "action": "updated remark for MID-MJ-KM6001W at GALNEWA: “35%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:25:01",
       "iso": "2026-09-10T09:55:01.104Z",
       "action": "updated remark for BES-WP15-ECO at GALNEWA: “70%”"
@@ -84086,13 +84100,6 @@
       "time": "15:09:32",
       "iso": "2026-09-10T09:39:32.723Z",
       "action": "updated remark for DH-A-HFW1200TLP-A-36B-S5 at POOJAPITIYA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:09:27",
-      "iso": "2026-09-10T09:39:27.916Z",
-      "action": "updated remark for BTS-5KG at POOJAPITIYA: “Damaged - 70%”"
     }
   ]
 }
