@@ -67368,13 +67368,6 @@
       "commentTime": "14:09:32",
       "lastUpdated": "2026-09-10T08:39:32.971Z"
     },
-    "RIYLTA-MF12V51A||GALAHA": {
-      "remark": "95%",
-      "commentedBy": "Kaveesha",
-      "commentDate": "2026-09-01",
-      "commentTime": "09:24:38",
-      "lastUpdated": "2026-09-01T03:54:38.506Z"
-    },
     "BC-WGA264AXIN||MATARA-B": {
       "remark": "-",
       "commentedBy": "Sulani",
@@ -80576,6 +80569,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:11:29",
       "lastUpdated": "2026-09-10T08:41:29.477Z"
+    },
+    "URC-60||GALAHA": {
+      "remark": "Display - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:12:06",
+      "lastUpdated": "2026-09-10T08:42:06.537Z"
     }
   },
   "showroomVisits": {
@@ -82632,6 +82632,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:12:11",
+      "iso": "2026-09-10T08:42:11.448Z",
+      "action": "updated remark for RIYLTA-MF12V51A at GALAHA (cleared)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:12:06",
+      "iso": "2026-09-10T08:42:06.538Z",
+      "action": "updated remark for URC-60 at GALAHA: “Display - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:11:29",
       "iso": "2026-09-10T08:41:29.478Z",
       "action": "updated remark for SLMC-18DSLHS at GALAHA: “Parts Missing - 70%”"
@@ -82964,20 +82978,6 @@
       "time": "13:38:34",
       "iso": "2026-09-10T08:08:34.938Z",
       "action": "updated remark for PN-TH-32J401N at DIPPITIYA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:38:05",
-      "iso": "2026-09-10T08:08:05.268Z",
-      "action": "updated remark for PN-TH-32J401N at DIPPITIYA: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:37:31",
-      "iso": "2026-09-10T08:07:31.945Z",
-      "action": "updated remark for SIN-PR-K340 at DIPPITIYA: “Additional 15%”"
     }
   ]
 }
