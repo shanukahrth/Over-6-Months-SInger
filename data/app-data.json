@@ -81929,11 +81929,11 @@
       "lastUpdated": "2026-09-10T10:07:34.700Z"
     },
     "PF-4DWR-BU-S||GALAGEDARA": {
-      "remark": "50%",
+      "remark": "Damaged - 60%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "15:38:11",
-      "lastUpdated": "2026-09-10T10:08:11.433Z"
+      "commentTime": "15:38:36",
+      "lastUpdated": "2026-09-10T10:08:36.982Z"
     }
   },
   "showroomVisits": {
@@ -84018,6 +84018,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:38:36",
+      "iso": "2026-09-10T10:08:36.984Z",
+      "action": "updated remark for PF-4DWR-BU-S at GALAGEDARA: “Damaged - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:38:11",
       "iso": "2026-09-10T10:08:11.434Z",
       "action": "updated remark for PF-4DWR-BU-S at GALAGEDARA: “50%”"
@@ -84357,13 +84364,6 @@
       "time": "15:21:16",
       "iso": "2026-09-10T09:51:16.940Z",
       "action": "updated remark for SIN-BS30 at GALNEWA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:21:05",
-      "iso": "2026-09-10T09:51:05.080Z",
-      "action": "updated remark for WP-SS-SUB1-S at GALNEWA: “30%”"
     }
   ]
 }
