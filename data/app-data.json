@@ -81899,6 +81899,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:36:26",
       "lastUpdated": "2026-09-10T10:06:26.202Z"
+    },
+    "LF-BUDGET-DT-AGO-S||GALAGEDARA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:36:31",
+      "lastUpdated": "2026-09-10T10:06:31.771Z"
     }
   },
   "showroomVisits": {
@@ -83981,6 +83988,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:36:31",
+      "iso": "2026-09-10T10:06:31.772Z",
+      "action": "updated remark for LF-BUDGET-DT-AGO-S at GALAGEDARA: “Damaged - 60%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:36:26",
@@ -84322,13 +84336,6 @@
       "time": "15:20:06",
       "iso": "2026-09-10T09:50:06.857Z",
       "action": "updated POOJAPITIYA showroom (visitDate: 2026-09-11)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:20:05",
-      "iso": "2026-09-10T09:50:05.087Z",
-      "action": "updated POOJAPITIYA showroom (visited: Yes)"
     }
   ]
 }
