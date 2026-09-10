@@ -82088,6 +82088,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:46:15",
       "lastUpdated": "2026-09-10T10:16:15.737Z"
+    },
+    "HON-X9C-12-256-GRN||GALAGEDARA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:46:54",
+      "lastUpdated": "2026-09-10T10:16:54.590Z"
+    },
+    "HON-X9C-12-256-PPL||GALAGEDARA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:46:56",
+      "lastUpdated": "2026-09-10T10:16:56.399Z"
     }
   },
   "showroomVisits": {
@@ -84170,6 +84184,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:46:56",
+      "iso": "2026-09-10T10:16:56.399Z",
+      "action": "updated remark for HON-X9C-12-256-PPL at GALAGEDARA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:46:54",
+      "iso": "2026-09-10T10:16:54.590Z",
+      "action": "updated remark for HON-X9C-12-256-GRN at GALAGEDARA: “30%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:46:36",
@@ -84504,20 +84532,6 @@
       "time": "15:33:32",
       "iso": "2026-09-10T10:03:32.970Z",
       "action": "updated remark for SBI-60M19-T at GALAGEDARA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:33:14",
-      "iso": "2026-09-10T10:03:14.130Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at GALAGEDARA: “Display - 40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:32:59",
-      "iso": "2026-09-10T10:02:59.702Z",
-      "action": "updated remark for BES-CRS-51 at GALNEWA: “15%”"
     }
   ]
 }
