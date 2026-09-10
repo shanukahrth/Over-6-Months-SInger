@@ -81815,6 +81815,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:32:36",
       "lastUpdated": "2026-09-10T10:02:36.431Z"
+    },
+    "BES-CRS-51||GALNEWA": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:32:59",
+      "lastUpdated": "2026-09-10T10:02:59.700Z"
     }
   },
   "showroomVisits": {
@@ -83887,6 +83894,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:32:59",
+      "iso": "2026-09-10T10:02:59.702Z",
+      "action": "updated remark for BES-CRS-51 at GALNEWA: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:32:36",
       "iso": "2026-09-10T10:02:36.432Z",
       "action": "updated remark for MHC-V13 at GALNEWA: “SOLD”"
@@ -84226,13 +84240,6 @@
       "time": "15:16:31",
       "iso": "2026-09-10T09:46:31.237Z",
       "action": "updated remark for TCL65C655 at POOJAPITIYA: “40%`”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:16:26",
-      "iso": "2026-09-10T09:46:26.160Z",
-      "action": "updated remark for SMGUA32N4010 at POOJAPITIYA: “Unsellable”"
     }
   ]
 }
