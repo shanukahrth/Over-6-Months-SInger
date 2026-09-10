@@ -82054,6 +82054,14 @@
       "remark": "",
       "updatedBy": "Kaveesha De Silva",
       "updatedDate": "2026-09-08"
+    },
+    "DIPPITIYA||KANDY": {
+      "visited": "Yes",
+      "visitDate": "2026-09-10",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-09-10"
     }
   },
   "soldMarks": {
@@ -82428,6 +82436,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:41:46",
+      "iso": "2026-09-10T08:11:46.980Z",
+      "action": "updated DIPPITIYA showroom (visitDate: 2026-09-10)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "13:41:44",
+      "iso": "2026-09-10T08:11:44.885Z",
+      "action": "updated DIPPITIYA showroom (visited: Yes)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:41:04",
       "iso": "2026-09-10T08:11:04.332Z",
       "action": "updated remark for WP-JUN-E-S at DIPPITIYA: “Display - 50%”"
@@ -82760,20 +82782,6 @@
       "time": "12:58:45",
       "iso": "2026-09-10T07:28:45.809Z",
       "action": "updated remark for WF-BERLIN-BDK-S at THAMBUTTEGAMA: “35%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "12:58:07",
-      "iso": "2026-09-10T07:28:07.127Z",
-      "action": "updated remark for APS-300KG at THAMBUTTEGAMA: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "12:57:34",
-      "iso": "2026-09-10T07:27:34.555Z",
-      "action": "updated remark for GEO-242D-SV at THAMBUTTEGAMA: “25%”"
     }
   ]
 }
