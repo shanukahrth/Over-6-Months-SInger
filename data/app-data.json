@@ -81549,6 +81549,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:15:10",
       "lastUpdated": "2026-09-10T09:45:10.973Z"
+    },
+    "SLE43G890||POOJAPITIYA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:16:05",
+      "lastUpdated": "2026-09-10T09:46:05.103Z"
     }
   },
   "showroomVisits": {
@@ -83613,6 +83620,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:16:05",
+      "iso": "2026-09-10T09:46:05.104Z",
+      "action": "updated remark for SLE43G890 at POOJAPITIYA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:15:10",
       "iso": "2026-09-10T09:45:10.974Z",
       "action": "updated remark for SLE40E810C at POOJAPITIYA: “Revert - 80%”"
@@ -83952,13 +83966,6 @@
       "time": "15:03:08",
       "iso": "2026-09-10T09:33:08.880Z",
       "action": "updated remark for HON-X5-2-32-BLK at POOJAPITIYA: “Damaged - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:03:04",
-      "iso": "2026-09-10T09:33:04.759Z",
-      "action": "updated remark for HON-X5-2-32-BLK at POOJAPITIYA: “Damaged - 60%”"
     }
   ]
 }
