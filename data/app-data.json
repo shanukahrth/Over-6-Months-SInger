@@ -80023,6 +80023,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "10:19:31",
       "lastUpdated": "2026-09-10T04:49:31.081Z"
+    },
+    "SLE43G890||BALANGODA": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "10:22:12",
+      "lastUpdated": "2026-09-10T04:52:12.649Z"
     }
   },
   "showroomVisits": {
@@ -82071,6 +82078,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "10:22:12",
+      "iso": "2026-09-10T04:52:12.651Z",
+      "action": "updated remark for SLE43G890 at BALANGODA: “SOLD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "10:21:49",
       "iso": "2026-09-10T04:51:49.247Z",
       "action": "updated remark for PN-TH-32M402N at BALANGODA: “25000”"
@@ -82410,13 +82424,6 @@
       "time": "14:38:08",
       "iso": "2026-09-09T09:08:08.478Z",
       "action": "updated remark for RIYLTA-MF12V25 at KEGALLE B: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "14:37:20",
-      "iso": "2026-09-09T09:07:20.448Z",
-      "action": "updated remark for MID-MG-GP45B at KEGALLE B: “-”"
     }
   ]
 }
