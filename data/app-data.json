@@ -80527,6 +80527,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:07:57",
       "lastUpdated": "2026-09-10T08:37:57.843Z"
+    },
+    "SWH-118E||GALAHA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:08:31",
+      "lastUpdated": "2026-09-10T08:38:31.984Z"
     }
   },
   "showroomVisits": {
@@ -82583,6 +82590,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:08:31",
+      "iso": "2026-09-10T08:38:31.985Z",
+      "action": "updated remark for SWH-118E at GALAHA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:07:57",
       "iso": "2026-09-10T08:37:57.844Z",
       "action": "updated remark for MCZJ8500C at GALAHA: “System discount - 95%”"
@@ -82922,13 +82936,6 @@
       "time": "13:34:26",
       "iso": "2026-09-10T08:04:26.872Z",
       "action": "updated remark for R-BWS-02 at DIPPITIYA: “Display - 35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:34:04",
-      "iso": "2026-09-10T08:04:04.263Z",
-      "action": "updated remark for UJB-LB6027 at DIPPITIYA: “Display - 45%”"
     }
   ]
 }
