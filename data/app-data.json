@@ -81075,11 +81075,11 @@
       "lastUpdated": "2026-09-10T09:26:42.599Z"
     },
     "GCB8402F-N||POOJAPITIYA": {
-      "remark": "50%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "14:57:12",
-      "lastUpdated": "2026-09-10T09:27:12.339Z"
+      "commentTime": "14:57:28",
+      "lastUpdated": "2026-09-10T09:27:28.836Z"
     },
     "HON-PAD-X7-4-128||THAMBUTTEGAMA": {
       "remark": "15%",
@@ -83149,6 +83149,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:57:28",
+      "iso": "2026-09-10T09:27:28.837Z",
+      "action": "updated remark for GCB8402F-N at POOJAPITIYA: “Damaged - 80%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "14:57:15",
@@ -83490,13 +83497,6 @@
       "time": "14:41:36",
       "iso": "2026-09-10T09:11:36.242Z",
       "action": "updated remark for DELL3530-I3-8GB512-SIL at POOJAPITIYA: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:41:30",
-      "iso": "2026-09-10T09:11:30.369Z",
-      "action": "updated remark for DELL3530-I7-8GB512-SIL at POOJAPITIYA: “20%”"
     }
   ]
 }
