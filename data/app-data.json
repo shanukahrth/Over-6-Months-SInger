@@ -81430,6 +81430,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:08:58",
       "lastUpdated": "2026-09-10T09:38:58.596Z"
+    },
+    "BTS-5KG||POOJAPITIYA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:09:27",
+      "lastUpdated": "2026-09-10T09:39:27.915Z"
+    },
+    "DH-A-HFW1200TLP-A-36B-S5||POOJAPITIYA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:09:32",
+      "lastUpdated": "2026-09-10T09:39:32.722Z"
     }
   },
   "showroomVisits": {
@@ -83492,6 +83506,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:09:32",
+      "iso": "2026-09-10T09:39:32.723Z",
+      "action": "updated remark for DH-A-HFW1200TLP-A-36B-S5 at POOJAPITIYA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:09:27",
+      "iso": "2026-09-10T09:39:27.916Z",
+      "action": "updated remark for BTS-5KG at POOJAPITIYA: “Damaged - 70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:08:58",
@@ -83826,20 +83854,6 @@
       "time": "14:59:57",
       "iso": "2026-09-10T09:29:57.037Z",
       "action": "updated remark for SMGUA32N4010 at THAMBUTTEGAMA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:59:46",
-      "iso": "2026-09-10T09:29:46.880Z",
-      "action": "updated remark for R-BWS-02 at POOJAPITIYA: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:59:42",
-      "iso": "2026-09-10T09:29:42.513Z",
-      "action": "updated remark for UJB-LB6027 at POOJAPITIYA: “45%”"
     }
   ]
 }
