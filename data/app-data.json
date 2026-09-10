@@ -81306,11 +81306,11 @@
       "lastUpdated": "2026-09-10T09:34:56.189Z"
     },
     "HON-X6B-6-128-BLK||POOJAPITIYA": {
-      "remark": "45%",
+      "remark": "50%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "15:05:37",
-      "lastUpdated": "2026-09-10T09:35:37.635Z"
+      "commentTime": "15:05:55",
+      "lastUpdated": "2026-09-10T09:35:55.124Z"
     },
     "WF-ROM-DTO-S||THAMBUTTEGAMA": {
       "remark": "40%",
@@ -83380,6 +83380,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:05:55",
+      "iso": "2026-09-10T09:35:55.124Z",
+      "action": "updated remark for HON-X6B-6-128-BLK at POOJAPITIYA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:05:43",
@@ -83721,13 +83728,6 @@
       "time": "14:53:40",
       "iso": "2026-09-10T09:23:40.234Z",
       "action": "updated remark for KA-LW-185A at POOJAPITIYA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:53:26",
-      "iso": "2026-09-10T09:23:26.191Z",
-      "action": "updated remark for PCR-FP28-264 at POOJAPITIYA: “30%”"
     }
   ]
 }
