@@ -80548,6 +80548,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:10:08",
       "lastUpdated": "2026-09-10T08:40:08.869Z"
+    },
+    "SMW823AY7||GALAHA": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:10:49",
+      "lastUpdated": "2026-09-10T08:40:49.399Z"
     }
   },
   "showroomVisits": {
@@ -82604,6 +82611,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:10:49",
+      "iso": "2026-09-10T08:40:49.400Z",
+      "action": "updated remark for SMW823AY7 at GALAHA: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:10:08",
       "iso": "2026-09-10T08:40:08.870Z",
       "action": "updated remark for UJB-LB6027 at GALAHA: “45%”"
@@ -82943,13 +82957,6 @@
       "time": "13:36:23",
       "iso": "2026-09-10T08:06:23.414Z",
       "action": "updated remark for ZTE-A35E-2-32GB-GRN at DIPPITIYA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:36:05",
-      "iso": "2026-09-10T08:06:05.869Z",
-      "action": "updated remark for HON-PAD-X7-CV at DIPPITIYA: “To be dropped”"
     }
   ]
 }
