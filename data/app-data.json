@@ -80737,6 +80737,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:36:27",
       "lastUpdated": "2026-09-10T09:06:27.300Z"
+    },
+    "B-HIAG64223SXL||POOJAPITIYA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:38:01",
+      "lastUpdated": "2026-09-10T09:08:01.516Z"
     }
   },
   "showroomVisits": {
@@ -82801,6 +82808,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:38:01",
+      "iso": "2026-09-10T09:08:01.517Z",
+      "action": "updated remark for B-HIAG64223SXL at POOJAPITIYA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:36:27",
       "iso": "2026-09-10T09:06:27.301Z",
       "action": "updated remark for SVX6002 at POOJAPITIYA: “Damaged - 85%”"
@@ -83140,13 +83154,6 @@
       "time": "14:05:44",
       "iso": "2026-09-10T08:35:44.120Z",
       "action": "updated remark for WF-NAMAL-CT-S at GALAHA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:05:31",
-      "iso": "2026-09-10T08:35:31.716Z",
-      "action": "updated remark for LF-MIKO-WD-SHW at GALAHA: “Damaged - 70%”"
     }
   ]
 }
