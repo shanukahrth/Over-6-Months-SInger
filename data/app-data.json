@@ -80774,11 +80774,11 @@
       "lastUpdated": "2026-09-10T09:10:58.721Z"
     },
     "DELL3530-I3-8GB512-SIL||POOJAPITIYA": {
-      "remark": "20%",
+      "remark": "Revert - 70%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "14:41:26",
-      "lastUpdated": "2026-09-10T09:11:26.176Z"
+      "commentTime": "14:41:36",
+      "lastUpdated": "2026-09-10T09:11:36.242Z"
     },
     "DELL3530-I7-8GB512-SIL||POOJAPITIYA": {
       "remark": "20%",
@@ -82850,6 +82850,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:41:36",
+      "iso": "2026-09-10T09:11:36.242Z",
+      "action": "updated remark for DELL3530-I3-8GB512-SIL at POOJAPITIYA: “Revert - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:41:30",
       "iso": "2026-09-10T09:11:30.369Z",
       "action": "updated remark for DELL3530-I7-8GB512-SIL at POOJAPITIYA: “20%”"
@@ -83189,13 +83196,6 @@
       "time": "14:08:31",
       "iso": "2026-09-10T08:38:31.985Z",
       "action": "updated remark for SWH-118E at GALAHA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:07:57",
-      "iso": "2026-09-10T08:37:57.844Z",
-      "action": "updated remark for MCZJ8500C at GALAHA: “System discount - 95%”"
     }
   ]
 }
