@@ -17347,11 +17347,11 @@
       "lastUpdated": "2026-08-19T05:21:18.787Z"
     },
     "STT-KGT200||KIRIELLA": {
-      "remark": "Parts missing.",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-19",
-      "commentTime": "10:52:14",
-      "lastUpdated": "2026-08-19T05:22:14.025Z"
+      "remark": "Parts missing, 80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "11:05:52",
+      "lastUpdated": "2026-09-10T05:35:52.670Z"
     },
     "RIYLTA-MF12V4||KIRIELLA": {
       "remark": "Rtn",
@@ -82078,6 +82078,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "11:05:52",
+      "iso": "2026-09-10T05:35:52.674Z",
+      "action": "updated remark for STT-KGT200 at KIRIELLA: “Parts missing, 80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "11:04:53",
       "iso": "2026-09-10T05:34:53.005Z",
       "action": "updated remark for UJB-LB6027 at KIRIELLA: “Sellable”"
@@ -82417,13 +82424,6 @@
       "time": "14:49:11",
       "iso": "2026-09-09T09:19:11.858Z",
       "action": "updated remark for HON-X9C-12-256-GRN at KEGALLE B: “lost”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "14:48:38",
-      "iso": "2026-09-09T09:18:38.194Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at KEGALLE B: “Loss”"
     }
   ]
 }
