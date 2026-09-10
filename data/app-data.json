@@ -81822,6 +81822,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:32:59",
       "lastUpdated": "2026-09-10T10:02:59.700Z"
+    },
+    "PN-SC-BMAX10E-K||GALAGEDARA": {
+      "remark": "Display - 40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:33:14",
+      "lastUpdated": "2026-09-10T10:03:14.129Z"
     }
   },
   "showroomVisits": {
@@ -83892,6 +83899,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:33:14",
+      "iso": "2026-09-10T10:03:14.130Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at GALAGEDARA: “Display - 40%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:32:59",
@@ -84233,13 +84247,6 @@
       "time": "15:16:38",
       "iso": "2026-09-10T09:46:38.021Z",
       "action": "updated remark for TCL65C655 at POOJAPITIYA: “Transffered”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:16:31",
-      "iso": "2026-09-10T09:46:31.237Z",
-      "action": "updated remark for TCL65C655 at POOJAPITIYA: “40%`”"
     }
   ]
 }
