@@ -67348,11 +67348,11 @@
       "lastUpdated": "2026-08-31T10:48:53.234Z"
     },
     "WG-FAN-BXS||GALAHA": {
-      "remark": "95%",
-      "commentedBy": "Kaveesha",
-      "commentDate": "2026-09-01",
-      "commentTime": "09:24:38",
-      "lastUpdated": "2026-09-01T03:54:38.497Z"
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:04:27",
+      "lastUpdated": "2026-09-10T08:34:27.381Z"
     },
     "SL-PB-426||GALAHA": {
       "remark": "90% -Damaged",
@@ -82513,6 +82513,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:04:27",
+      "iso": "2026-09-10T08:34:27.382Z",
+      "action": "updated remark for WG-FAN-BXS at GALAHA: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:02:17",
       "iso": "2026-09-10T08:32:17.171Z",
       "action": "updated remark for FAN-P-SF1605HR at GALAHA: “Carton Damage - 60%”"
@@ -82852,13 +82859,6 @@
       "time": "13:27:32",
       "iso": "2026-09-10T07:57:32.703Z",
       "action": "updated remark for SIN-BS30 at DIPPITIYA: “MOP - 8,500”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:27:15",
-      "iso": "2026-09-10T07:57:15.300Z",
-      "action": "updated remark for SMGAR50F12D0J at DIPPITIYA: “Sellable - 30%”"
     }
   ]
 }
