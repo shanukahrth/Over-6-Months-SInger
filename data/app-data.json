@@ -80478,6 +80478,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:05:11",
       "lastUpdated": "2026-09-10T08:35:11.013Z"
+    },
+    "LF-MIKO-WD-SHW||GALAHA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:05:31",
+      "lastUpdated": "2026-09-10T08:35:31.714Z"
     }
   },
   "showroomVisits": {
@@ -82534,6 +82541,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:05:31",
+      "iso": "2026-09-10T08:35:31.716Z",
+      "action": "updated remark for LF-MIKO-WD-SHW at GALAHA: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:05:11",
       "iso": "2026-09-10T08:35:11.014Z",
       "action": "updated remark for LF-BUDGET-ST-CLM-S at GALAHA: “Display - 50%”"
@@ -82873,13 +82887,6 @@
       "time": "13:30:14",
       "iso": "2026-09-10T08:00:14.180Z",
       "action": "updated remark for LF-ECO-3WD-SHW at DIPPITIYA: “Damaged - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:29:20",
-      "iso": "2026-09-10T07:59:20.335Z",
-      "action": "updated remark for FAN-WF1608R at DIPPITIYA: “Shop use”"
     }
   ]
 }
