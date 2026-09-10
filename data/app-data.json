@@ -82067,6 +82067,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:45:02",
       "lastUpdated": "2026-09-10T10:15:02.416Z"
+    },
+    "HON-H200SMART-8-256-GRN||GALAGEDARA": {
+      "remark": "Display - 40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:45:25",
+      "lastUpdated": "2026-09-10T10:15:25.460Z"
     }
   },
   "showroomVisits": {
@@ -84151,6 +84158,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:45:25",
+      "iso": "2026-09-10T10:15:25.460Z",
+      "action": "updated remark for HON-H200SMART-8-256-GRN at GALAGEDARA: “Display - 40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:45:02",
       "iso": "2026-09-10T10:15:02.416Z",
       "action": "updated remark for SIN-RFC-2058 at GALAGEDARA: “Active SKU”"
@@ -84490,13 +84504,6 @@
       "time": "15:32:40",
       "iso": "2026-09-10T10:02:40.603Z",
       "action": "updated remark for MHC-V13 at GALAGEDARA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:32:26",
-      "iso": "2026-09-10T10:02:26.793Z",
-      "action": "updated remark for SMGAR50F12D0J at GALAGEDARA: “30%”"
     }
   ]
 }
