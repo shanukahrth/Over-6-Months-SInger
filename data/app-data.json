@@ -80954,6 +80954,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:51:52",
       "lastUpdated": "2026-09-10T09:21:52.023Z"
+    },
+    "WFL-MONACO-11-S||POOJAPITIYA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:52:11",
+      "lastUpdated": "2026-09-10T09:22:11.125Z"
     }
   },
   "showroomVisits": {
@@ -83018,6 +83025,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:52:11",
+      "iso": "2026-09-10T09:22:11.126Z",
+      "action": "updated remark for WFL-MONACO-11-S at POOJAPITIYA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:51:52",
       "iso": "2026-09-10T09:21:52.024Z",
       "action": "updated remark for WF-PARIS-BL-S at POOJAPITIYA: “40%”"
@@ -83357,13 +83371,6 @@
       "time": "14:22:44",
       "iso": "2026-09-10T08:52:44.748Z",
       "action": "updated remark for SLE32E930 at GALAHA: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:22:17",
-      "iso": "2026-09-10T08:52:17.357Z",
-      "action": "updated remark for SLE32D1800 at GALAHA: “Damaged - 80%”"
     }
   ]
 }
