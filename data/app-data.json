@@ -80429,6 +80429,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:59:12",
       "lastUpdated": "2026-09-10T08:29:12.563Z"
+    },
+    "ACER-AG15-14G-I5-16-512-S||GALAHA": {
+      "remark": "Display -",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:00:00",
+      "lastUpdated": "2026-09-10T08:30:00.466Z"
     }
   },
   "showroomVisits": {
@@ -82485,6 +82492,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:00:00",
+      "iso": "2026-09-10T08:30:00.466Z",
+      "action": "updated remark for ACER-AG15-14G-I5-16-512-S at GALAHA: “Display -”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:59:12",
       "iso": "2026-09-10T08:29:12.563Z",
       "action": "updated remark for NETAC-128GB-NVME-SSD at GALAHA: “Physically not available”"
@@ -82824,13 +82838,6 @@
       "time": "13:20:36",
       "iso": "2026-09-10T07:50:36.434Z",
       "action": "updated remark for WP-CHTW-100-S at RIKILLAGASKADA (cleared)"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "13:06:17",
-      "iso": "2026-09-10T07:36:17.589Z",
-      "action": "updated remark for SWM-FA70R at THAMBUTTEGAMA: “50%”"
     }
   ]
 }
