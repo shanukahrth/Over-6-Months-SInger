@@ -81920,6 +81920,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:37:09",
       "lastUpdated": "2026-09-10T10:07:09.037Z"
+    },
+    "LF-MANEL-IC-BON-S||GALAGEDARA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:37:34",
+      "lastUpdated": "2026-09-10T10:07:34.700Z"
     }
   },
   "showroomVisits": {
@@ -84002,6 +84009,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:37:34",
+      "iso": "2026-09-10T10:07:34.701Z",
+      "action": "updated remark for LF-MANEL-IC-BON-S at GALAGEDARA: “Damaged - 80%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:37:09",
@@ -84343,13 +84357,6 @@
       "time": "15:20:33",
       "iso": "2026-09-10T09:50:33.845Z",
       "action": "updated remark for SLE32E910 at GALNEWA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:20:13",
-      "iso": "2026-09-10T09:50:13.122Z",
-      "action": "updated POOJAPITIYA showroom (team: Team Central )"
     }
   ]
 }
