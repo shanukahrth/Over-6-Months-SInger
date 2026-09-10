@@ -80221,11 +80221,18 @@
       "lastUpdated": "2026-09-10T07:59:20.333Z"
     },
     "LF-ECO-3WD-SHW||DIPPITIYA": {
-      "remark": "Damaged - 60%",
+      "remark": "Damaged - 70%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "13:30:14",
-      "lastUpdated": "2026-09-10T08:00:14.179Z"
+      "commentTime": "13:30:34",
+      "lastUpdated": "2026-09-10T08:00:34.546Z"
+    },
+    "WFL-STBED-72X60-S||DIPPITIYA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:30:41",
+      "lastUpdated": "2026-09-10T08:00:41.458Z"
     }
   },
   "showroomVisits": {
@@ -82274,6 +82281,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:30:41",
+      "iso": "2026-09-10T08:00:41.459Z",
+      "action": "updated remark for WFL-STBED-72X60-S at DIPPITIYA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "13:30:34",
+      "iso": "2026-09-10T08:00:34.547Z",
+      "action": "updated remark for LF-ECO-3WD-SHW at DIPPITIYA: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:30:14",
       "iso": "2026-09-10T08:00:14.180Z",
       "action": "updated remark for LF-ECO-3WD-SHW at DIPPITIYA: “Damaged - 60%”"
@@ -82605,20 +82626,6 @@
       "date": "2026-09-10",
       "time": "11:09:06",
       "iso": "2026-09-10T05:39:06.420Z",
-      "action": "updated remark for SWM-FA70R at KIRIELLA: “Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "11:08:48",
-      "iso": "2026-09-10T05:38:48.999Z",
-      "action": "updated remark for SWM-FA70R at KIRIELLA: “Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "11:08:45",
-      "iso": "2026-09-10T05:38:45.897Z",
       "action": "updated remark for SWM-FA70R at KIRIELLA: “Damaged”"
     }
   ]
