@@ -81780,6 +81780,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:31:33",
       "lastUpdated": "2026-09-10T10:01:33.918Z"
+    },
+    "SAS24TCNR||GALAGEDARA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:32:04",
+      "lastUpdated": "2026-09-10T10:02:04.410Z"
     }
   },
   "showroomVisits": {
@@ -83850,6 +83857,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:32:04",
+      "iso": "2026-09-10T10:02:04.411Z",
+      "action": "updated remark for SAS24TCNR at GALAGEDARA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:31:33",
@@ -84191,13 +84205,6 @@
       "time": "15:13:56",
       "iso": "2026-09-10T09:43:56.139Z",
       "action": "updated remark for SLE40D4000 at POOJAPITIYA: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:13:46",
-      "iso": "2026-09-10T09:43:46.705Z",
-      "action": "updated remark for SLE32F590 at POOJAPITIYA: “Revert - 80%”"
     }
   ]
 }
