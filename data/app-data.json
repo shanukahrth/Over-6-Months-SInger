@@ -82074,6 +82074,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:45:25",
       "lastUpdated": "2026-09-10T10:15:25.460Z"
+    },
+    "HON-X5BPLUS-4-128-BLU||GALAGEDARA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:45:45",
+      "lastUpdated": "2026-09-10T10:15:45.828Z"
     }
   },
   "showroomVisits": {
@@ -84158,6 +84165,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:45:45",
+      "iso": "2026-09-10T10:15:45.828Z",
+      "action": "updated remark for HON-X5BPLUS-4-128-BLU at GALAGEDARA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:45:25",
       "iso": "2026-09-10T10:15:25.460Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at GALAGEDARA: “Display - 40%”"
@@ -84497,13 +84511,6 @@
       "time": "15:32:45",
       "iso": "2026-09-10T10:02:45.748Z",
       "action": "updated remark for MHC-V13 at GALAGEDARA: “Display - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:32:40",
-      "iso": "2026-09-10T10:02:40.603Z",
-      "action": "updated remark for MHC-V13 at GALAGEDARA: “80%”"
     }
   ]
 }
