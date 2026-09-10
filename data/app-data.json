@@ -73605,13 +73605,6 @@
       "commentTime": "13:50:53",
       "lastUpdated": "2026-09-02T08:20:53.690Z"
     },
-    "KD-55X75K||POOJAPITIYA": {
-      "remark": "75%- Damaged",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "13:50:56",
-      "lastUpdated": "2026-09-02T08:20:56.462Z"
-    },
     "KD-55X75K||NEGOMBO": {
       "remark": "75%- Damaged",
       "commentedBy": "Chanthuli Ramawickrama",
@@ -82246,6 +82239,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:21:12",
+      "iso": "2026-09-10T07:51:12.012Z",
+      "action": "updated remark for KD-55X75K at POOJAPITIYA (cleared)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:20:36",
       "iso": "2026-09-10T07:50:36.434Z",
       "action": "updated remark for WP-CHTW-100-S at RIKILLAGASKADA (cleared)"
@@ -82585,13 +82585,6 @@
       "time": "10:58:53",
       "iso": "2026-09-10T05:28:53.408Z",
       "action": "updated remark for QT-SITUP at KIRIELLA: “80% Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "10:57:34",
-      "iso": "2026-09-10T05:27:34.203Z",
-      "action": "updated remark for MID-MC-ID351 at KIRIELLA: “35,00O”"
     }
   ]
 }
