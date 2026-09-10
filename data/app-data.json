@@ -81472,6 +81472,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:10:43",
       "lastUpdated": "2026-09-10T09:40:43.490Z"
+    },
+    "SLE32D5000||POOJAPITIYA": {
+      "remark": "Remote missing - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:11:38",
+      "lastUpdated": "2026-09-10T09:41:38.459Z"
+    },
+    "SLE32E710||POOJAPITIYA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:11:42",
+      "lastUpdated": "2026-09-10T09:41:42.851Z"
     }
   },
   "showroomVisits": {
@@ -83536,6 +83550,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:11:42",
+      "iso": "2026-09-10T09:41:42.852Z",
+      "action": "updated remark for SLE32E710 at POOJAPITIYA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:11:38",
+      "iso": "2026-09-10T09:41:38.460Z",
+      "action": "updated remark for SLE32D5000 at POOJAPITIYA: “Remote missing - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:11:29",
+      "iso": "2026-09-10T09:41:29.881Z",
+      "action": "updated remark for SLE32D5000 at POOJAPITIYA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:10:43",
       "iso": "2026-09-10T09:40:43.491Z",
       "action": "updated remark for KD-55X75K at POOJAPITIYA: “Reported”"
@@ -83861,27 +83896,6 @@
       "time": "15:01:24",
       "iso": "2026-09-10T09:31:24.315Z",
       "action": "updated remark for SLMC-18DSLHS at POOJAPITIYA: “Damaged - 80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:01:04",
-      "iso": "2026-09-10T09:31:04.856Z",
-      "action": "updated remark for SLE32E930 at THAMBUTTEGAMA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:00:52",
-      "iso": "2026-09-10T09:30:52.426Z",
-      "action": "updated remark for PCP30 at POOJAPITIYA: “Damaged - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:00:47",
-      "iso": "2026-09-10T09:30:47.107Z",
-      "action": "updated remark for PCP30 at POOJAPITIYA: “70%”"
     }
   ]
 }
