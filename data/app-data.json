@@ -81976,6 +81976,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:41:03",
       "lastUpdated": "2026-09-10T10:11:03.820Z"
+    },
+    "USI-ATC-302||GALAGEDARA": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:41:12",
+      "lastUpdated": "2026-09-10T10:11:12.433Z"
     }
   },
   "showroomVisits": {
@@ -84060,6 +84067,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:41:12",
+      "iso": "2026-09-10T10:11:12.435Z",
+      "action": "updated remark for USI-ATC-302 at GALAGEDARA: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:41:03",
       "iso": "2026-09-10T10:11:03.821Z",
       "action": "updated remark for SWH-118EP-D at GALAGEDARA: “Dummy unit”"
@@ -84399,13 +84413,6 @@
       "time": "15:25:52",
       "iso": "2026-09-10T09:55:52.949Z",
       "action": "updated remark for SIN-PR-K340 at GALNEWA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:25:36",
-      "iso": "2026-09-10T09:55:36.591Z",
-      "action": "updated remark for MID-MJ-KM6001W at GALNEWA: “40%”"
     }
   ]
 }
