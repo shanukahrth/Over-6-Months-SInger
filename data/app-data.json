@@ -81381,6 +81381,27 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:08:02",
       "lastUpdated": "2026-09-10T09:38:02.928Z"
+    },
+    "GEO-182S-SV||POOJAPITIYA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:08:06",
+      "lastUpdated": "2026-09-10T09:38:06.576Z"
+    },
+    "GEO-200D||POOJAPITIYA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:08:11",
+      "lastUpdated": "2026-09-10T09:38:11.507Z"
+    },
+    "GEO-242D-SV||POOJAPITIYA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:08:15",
+      "lastUpdated": "2026-09-10T09:38:15.843Z"
     }
   },
   "showroomVisits": {
@@ -83443,6 +83464,27 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:08:15",
+      "iso": "2026-09-10T09:38:15.844Z",
+      "action": "updated remark for GEO-242D-SV at POOJAPITIYA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:08:11",
+      "iso": "2026-09-10T09:38:11.507Z",
+      "action": "updated remark for GEO-200D at POOJAPITIYA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:08:06",
+      "iso": "2026-09-10T09:38:06.577Z",
+      "action": "updated remark for GEO-182S-SV at POOJAPITIYA: “25%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:08:02",
@@ -83770,27 +83812,6 @@
       "time": "14:57:43",
       "iso": "2026-09-10T09:27:43.476Z",
       "action": "updated remark for AES-HAV-30S at THAMBUTTEGAMA: “10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:57:28",
-      "iso": "2026-09-10T09:27:28.837Z",
-      "action": "updated remark for GCB8402F-N at POOJAPITIYA: “Damaged - 80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "14:57:15",
-      "iso": "2026-09-10T09:27:15.312Z",
-      "action": "updated remark for HON-PAD-X7-4-128 at THAMBUTTEGAMA: “15%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:57:12",
-      "iso": "2026-09-10T09:27:12.340Z",
-      "action": "updated remark for GCB8402F-N at POOJAPITIYA: “50%”"
     }
   ]
 }
