@@ -80254,6 +80254,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:33:18",
       "lastUpdated": "2026-09-10T08:03:18.585Z"
+    },
+    "LP-AP01||DIPPITIYA": {
+      "remark": "1 - Reported / 2 - 40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:33:43",
+      "lastUpdated": "2026-09-10T08:03:43.011Z"
     }
   },
   "showroomVisits": {
@@ -82302,6 +82309,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:33:43",
+      "iso": "2026-09-10T08:03:43.012Z",
+      "action": "updated remark for LP-AP01 at DIPPITIYA: “1 - Reported / 2 - 40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:33:18",
       "iso": "2026-09-10T08:03:18.587Z",
       "action": "updated remark for PN-NF-GW1WSK at DIPPITIYA: “Sellable at Existing Price - 50%”"
@@ -82641,13 +82655,6 @@
       "time": "11:19:42",
       "iso": "2026-09-10T05:49:42.319Z",
       "action": "updated remark for SLE40D600A at KIRIELLA: “40,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "11:12:26",
-      "iso": "2026-09-10T05:42:26.062Z",
-      "action": "updated remark for SLE40D600A at KIRIELLA: “60%”"
     }
   ]
 }
