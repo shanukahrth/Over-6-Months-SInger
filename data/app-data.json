@@ -82058,8 +82058,8 @@
     "DIPPITIYA||KANDY": {
       "visited": "Yes",
       "visitDate": "2026-09-10",
-      "team": "",
-      "remark": "",
+      "team": "Team Central",
+      "remark": "Discounts given over the phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-10"
     }
@@ -82436,6 +82436,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:44:53",
+      "iso": "2026-09-10T08:14:53.693Z",
+      "action": "updated DIPPITIYA showroom (remark: Discounts given over the phone)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:41:46",
       "iso": "2026-09-10T08:11:46.980Z",
       "action": "updated DIPPITIYA showroom (visitDate: 2026-09-10)"
@@ -82775,13 +82782,6 @@
       "time": "12:59:15",
       "iso": "2026-09-10T07:29:15.396Z",
       "action": "updated remark for SL-ECO192-TG at THAMBUTTEGAMA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "12:58:45",
-      "iso": "2026-09-10T07:28:45.809Z",
-      "action": "updated remark for WF-BERLIN-BDK-S at THAMBUTTEGAMA: “35%”"
     }
   ]
 }
