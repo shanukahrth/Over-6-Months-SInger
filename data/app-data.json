@@ -81157,6 +81157,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:00:21",
       "lastUpdated": "2026-09-10T09:30:21.547Z"
+    },
+    "PN-TH-32M402N||THAMBUTTEGAMA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:00:41",
+      "lastUpdated": "2026-09-10T09:30:41.786Z"
     }
   },
   "showroomVisits": {
@@ -83221,6 +83228,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:00:41",
+      "iso": "2026-09-10T09:30:41.788Z",
+      "action": "updated remark for PN-TH-32M402N at THAMBUTTEGAMA: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:00:21",
       "iso": "2026-09-10T09:30:21.548Z",
       "action": "updated remark for WFL-SPM-75X60X8-S at THAMBUTTEGAMA: “40%”"
@@ -83560,13 +83574,6 @@
       "time": "14:45:04",
       "iso": "2026-09-10T09:15:04.725Z",
       "action": "updated remark for WF-DT-B-S at POOJAPITIYA: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:44:58",
-      "iso": "2026-09-10T09:14:58.101Z",
-      "action": "updated remark for WF-DT-B-S at POOJAPITIYA: “50%”"
     }
   ]
 }
