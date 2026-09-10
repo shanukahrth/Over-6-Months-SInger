@@ -82081,6 +82081,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:45:45",
       "lastUpdated": "2026-09-10T10:15:45.828Z"
+    },
+    "HON-X8C-8-512-GRN||GALAGEDARA": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:46:15",
+      "lastUpdated": "2026-09-10T10:16:15.737Z"
     }
   },
   "showroomVisits": {
@@ -84165,6 +84172,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:46:15",
+      "iso": "2026-09-10T10:16:15.737Z",
+      "action": "updated remark for HON-X8C-8-512-GRN at GALAGEDARA: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:45:45",
       "iso": "2026-09-10T10:15:45.828Z",
       "action": "updated remark for HON-X5BPLUS-4-128-BLU at GALAGEDARA: “Reported”"
@@ -84504,13 +84518,6 @@
       "time": "15:32:36",
       "iso": "2026-09-10T10:02:36.432Z",
       "action": "updated remark for MHC-V13 at GALNEWA: “SOLD”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:32:45",
-      "iso": "2026-09-10T10:02:45.748Z",
-      "action": "updated remark for MHC-V13 at GALAGEDARA: “Display - 80%”"
     }
   ]
 }
