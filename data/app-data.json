@@ -80520,6 +80520,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:07:31",
       "lastUpdated": "2026-09-10T08:37:31.394Z"
+    },
+    "MCZJ8500C||GALAHA": {
+      "remark": "System discount - 95%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:07:57",
+      "lastUpdated": "2026-09-10T08:37:57.843Z"
     }
   },
   "showroomVisits": {
@@ -82576,6 +82583,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:07:57",
+      "iso": "2026-09-10T08:37:57.844Z",
+      "action": "updated remark for MCZJ8500C at GALAHA: “System discount - 95%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:07:31",
       "iso": "2026-09-10T08:37:31.395Z",
       "action": "updated remark for SHDTIB2367 at GALAHA: “Carton damage - 70%”"
@@ -82915,13 +82929,6 @@
       "time": "13:34:04",
       "iso": "2026-09-10T08:04:04.263Z",
       "action": "updated remark for UJB-LB6027 at DIPPITIYA: “Display - 45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:33:43",
-      "iso": "2026-09-10T08:03:43.012Z",
-      "action": "updated remark for LP-AP01 at DIPPITIYA: “1 - Reported / 2 - 40%”"
     }
   ]
 }
