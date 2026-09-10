@@ -80436,6 +80436,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:00:00",
       "lastUpdated": "2026-09-10T08:30:00.466Z"
+    },
+    "SDV3605K||GALAHA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:00:57",
+      "lastUpdated": "2026-09-10T08:30:57.150Z"
     }
   },
   "showroomVisits": {
@@ -82492,6 +82499,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:00:57",
+      "iso": "2026-09-10T08:30:57.151Z",
+      "action": "updated remark for SDV3605K at GALAHA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:00:00",
       "iso": "2026-09-10T08:30:00.466Z",
       "action": "updated remark for ACER-AG15-14G-I5-16-512-S at GALAHA: “Display -”"
@@ -82831,13 +82845,6 @@
       "time": "13:21:12",
       "iso": "2026-09-10T07:51:12.012Z",
       "action": "updated remark for KD-55X75K at POOJAPITIYA (cleared)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:20:36",
-      "iso": "2026-09-10T07:50:36.434Z",
-      "action": "updated remark for WP-CHTW-100-S at RIKILLAGASKADA (cleared)"
     }
   ]
 }
