@@ -72751,13 +72751,6 @@
       "commentTime": "12:54:03",
       "lastUpdated": "2026-09-02T07:24:03.385Z"
     },
-    "PN-TH-32M402N||POOJAPITIYA": {
-      "remark": "70%",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "12:54:25",
-      "lastUpdated": "2026-09-02T07:24:25.424Z"
-    },
     "PN-TH-32M402N||DIGANA": {
       "remark": "70%",
       "commentedBy": "Chanthuli Ramawickrama",
@@ -82239,6 +82232,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:21:30",
+      "iso": "2026-09-10T07:51:30.720Z",
+      "action": "updated remark for PN-TH-32M402N at POOJAPITIYA (cleared)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:21:12",
       "iso": "2026-09-10T07:51:12.012Z",
       "action": "updated remark for KD-55X75K at POOJAPITIYA (cleared)"
@@ -82578,13 +82578,6 @@
       "time": "11:00:28",
       "iso": "2026-09-10T05:30:28.240Z",
       "action": "updated remark for LF-LCD-TV-S at KIRIELLA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "10:58:53",
-      "iso": "2026-09-10T05:28:53.408Z",
-      "action": "updated remark for QT-SITUP at KIRIELLA: “80% Damaged”"
     }
   ]
 }
