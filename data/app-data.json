@@ -81276,6 +81276,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:03:48",
       "lastUpdated": "2026-09-10T09:33:48.066Z"
+    },
+    "HON-X5B-4-64-BLK||POOJAPITIYA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:04:16",
+      "lastUpdated": "2026-09-10T09:34:16.522Z"
+    },
+    "HON-X5PLUS-4-64-CYAN||POOJAPITIYA": {
+      "remark": "%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:04:21",
+      "lastUpdated": "2026-09-10T09:34:21.596Z"
     }
   },
   "showroomVisits": {
@@ -83338,6 +83352,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:04:21",
+      "iso": "2026-09-10T09:34:21.596Z",
+      "action": "updated remark for HON-X5PLUS-4-64-CYAN at POOJAPITIYA: “%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:04:16",
+      "iso": "2026-09-10T09:34:16.523Z",
+      "action": "updated remark for HON-X5B-4-64-BLK at POOJAPITIYA: “Unsellable”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:03:48",
@@ -83672,20 +83700,6 @@
       "time": "14:52:32",
       "iso": "2026-09-10T09:22:32.014Z",
       "action": "updated remark for MC8280 at THAMBUTTEGAMA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:52:27",
-      "iso": "2026-09-10T09:22:27.440Z",
-      "action": "updated remark for SWH-118E at POOJAPITIYA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "14:52:19",
-      "iso": "2026-09-10T09:22:19.778Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at THAMBUTTEGAMA: “Special price 30,000”"
     }
   ]
 }
