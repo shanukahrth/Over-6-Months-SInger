@@ -80128,6 +80128,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "12:57:02",
       "lastUpdated": "2026-09-10T07:27:02.444Z"
+    },
+    "GEO-242D-SV||THAMBUTTEGAMA": {
+      "remark": "25%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "12:57:34",
+      "lastUpdated": "2026-09-10T07:27:34.553Z"
     }
   },
   "showroomVisits": {
@@ -82176,6 +82183,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "12:57:34",
+      "iso": "2026-09-10T07:27:34.555Z",
+      "action": "updated remark for GEO-242D-SV at THAMBUTTEGAMA: “25%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "12:57:02",
       "iso": "2026-09-10T07:27:02.444Z",
       "action": "updated remark for HON-X9C-12-256-PPL at THAMBUTTEGAMA: “12.5%”"
@@ -82515,13 +82529,6 @@
       "time": "10:07:11",
       "iso": "2026-09-10T04:37:11.512Z",
       "action": "updated remark for WF-PARIS-BR-S at BALANGODA: “85,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "09:45:30",
-      "iso": "2026-09-10T04:15:30.847Z",
-      "action": "updated remark for DUM-SMGAR50F12D0J at BALANGODA: “-”"
     }
   ]
 }
