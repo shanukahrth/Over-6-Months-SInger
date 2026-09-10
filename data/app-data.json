@@ -81766,6 +81766,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:30:50",
       "lastUpdated": "2026-09-10T10:00:50.909Z"
+    },
+    "AS-I3-11G-256-X515-941-GR||GALNEWA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:31:17",
+      "lastUpdated": "2026-09-10T10:01:17.955Z"
     }
   },
   "showroomVisits": {
@@ -83838,6 +83845,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:31:17",
+      "iso": "2026-09-10T10:01:17.956Z",
+      "action": "updated remark for AS-I3-11G-256-X515-941-GR at GALNEWA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:30:50",
       "iso": "2026-09-10T10:00:50.910Z",
       "action": "updated remark for PN-CS-XU18XKYW-8 at GALNEWA: “SOLD”"
@@ -84177,13 +84191,6 @@
       "time": "15:13:42",
       "iso": "2026-09-10T09:43:42.734Z",
       "action": "updated remark for SLE32E930 at POOJAPITIYA: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:13:03",
-      "iso": "2026-09-10T09:43:03.533Z",
-      "action": "updated remark for SLE32E810 at POOJAPITIYA: “Panel Damage - 90%”"
     }
   ]
 }
