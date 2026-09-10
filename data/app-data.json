@@ -81493,6 +81493,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:12:06",
       "lastUpdated": "2026-09-10T09:42:06.604Z"
+    },
+    "SLE32D1800||POOJAPITIYA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:12:34",
+      "lastUpdated": "2026-09-10T09:42:34.588Z"
     }
   },
   "showroomVisits": {
@@ -83557,6 +83564,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:12:34",
+      "iso": "2026-09-10T09:42:34.588Z",
+      "action": "updated remark for SLE32D1800 at POOJAPITIYA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:12:31",
+      "iso": "2026-09-10T09:42:31.600Z",
+      "action": "updated remark for SLE32D1800 at POOJAPITIYA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:12:06",
       "iso": "2026-09-10T09:42:06.605Z",
       "action": "updated remark for PN-TH-32M402N at POOJAPITIYA: “40%”"
@@ -83889,20 +83910,6 @@
       "time": "15:01:50",
       "iso": "2026-09-10T09:31:50.681Z",
       "action": "updated remark for RIYLTA-MF12V53B at POOJAPITIYA: “Mail to DM”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:01:43",
-      "iso": "2026-09-10T09:31:43.076Z",
-      "action": "updated remark for RIYLTA-MF12V4 at POOJAPITIYA: “Mail to DM”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:01:38",
-      "iso": "2026-09-10T09:31:38.525Z",
-      "action": "updated remark for SL-S203 at POOJAPITIYA: “Unsellable”"
     }
   ]
 }
