@@ -80156,6 +80156,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "12:59:15",
       "lastUpdated": "2026-09-10T07:29:15.395Z"
+    },
+    "SWH-118EP-D||THAMBUTTEGAMA": {
+      "remark": "DROP",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "12:59:59",
+      "lastUpdated": "2026-09-10T07:29:59.420Z"
     }
   },
   "showroomVisits": {
@@ -82204,6 +82211,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "12:59:59",
+      "iso": "2026-09-10T07:29:59.422Z",
+      "action": "updated remark for SWH-118EP-D at THAMBUTTEGAMA: “DROP”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "12:59:15",
       "iso": "2026-09-10T07:29:15.396Z",
       "action": "updated remark for SL-ECO192-TG at THAMBUTTEGAMA: “25%”"
@@ -82543,13 +82557,6 @@
       "time": "10:16:27",
       "iso": "2026-09-10T04:46:27.579Z",
       "action": "updated remark for HON-H200-12-512-WHT at BALANGODA: “Transferred”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "10:11:59",
-      "iso": "2026-09-10T04:41:59.024Z",
-      "action": "updated remark for MID-MJ-KM6001W at BALANGODA: “15,00O”"
     }
   ]
 }
