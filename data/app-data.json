@@ -81026,11 +81026,18 @@
       "lastUpdated": "2026-09-10T09:23:40.232Z"
     },
     "KA-SKA3002||POOJAPITIYA": {
-      "remark": "60%",
+      "remark": "Unsellable",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "14:53:51",
-      "lastUpdated": "2026-09-10T09:23:51.980Z"
+      "commentTime": "14:54:26",
+      "lastUpdated": "2026-09-10T09:24:26.452Z"
+    },
+    "KA-TXG-DS11A||POOJAPITIYA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:55:04",
+      "lastUpdated": "2026-09-10T09:25:04.669Z"
     }
   },
   "showroomVisits": {
@@ -83095,6 +83102,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:55:04",
+      "iso": "2026-09-10T09:25:04.669Z",
+      "action": "updated remark for KA-TXG-DS11A at POOJAPITIYA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:54:26",
+      "iso": "2026-09-10T09:24:26.454Z",
+      "action": "updated remark for KA-SKA3002 at POOJAPITIYA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:53:51",
       "iso": "2026-09-10T09:23:51.981Z",
       "action": "updated remark for KA-SKA3002 at POOJAPITIYA: “60%”"
@@ -83427,20 +83448,6 @@
       "time": "14:36:27",
       "iso": "2026-09-10T09:06:27.301Z",
       "action": "updated remark for SVX6002 at POOJAPITIYA: “Damaged - 85%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:35:59",
-      "iso": "2026-09-10T09:05:59.261Z",
-      "action": "updated remark for SIN-PSVX938N at POOJAPITIYA: “MOP - 18,500”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:35:32",
-      "iso": "2026-09-10T09:05:32.050Z",
-      "action": "updated remark for MHC-V13 at POOJAPITIYA: “Parts Missing - 80%”"
     }
   ]
 }
