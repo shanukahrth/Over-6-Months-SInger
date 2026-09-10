@@ -81913,6 +81913,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:36:55",
       "lastUpdated": "2026-09-10T10:06:55.666Z"
+    },
+    "GEO-182S-BU1||GALNEWA": {
+      "remark": "25%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:37:09",
+      "lastUpdated": "2026-09-10T10:07:09.037Z"
     }
   },
   "showroomVisits": {
@@ -83995,6 +84002,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:37:09",
+      "iso": "2026-09-10T10:07:09.039Z",
+      "action": "updated remark for GEO-182S-BU1 at GALNEWA: “25%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-10",
       "time": "15:36:55",
@@ -84336,13 +84350,6 @@
       "time": "15:20:13",
       "iso": "2026-09-10T09:50:13.122Z",
       "action": "updated POOJAPITIYA showroom (team: Team Central )"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:20:08",
-      "iso": "2026-09-10T09:50:08.861Z",
-      "action": "updated POOJAPITIYA showroom (visitDate: 2026-09-10)"
     }
   ]
 }
