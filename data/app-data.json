@@ -74270,13 +74270,6 @@
       "commentTime": "14:36:49",
       "lastUpdated": "2026-09-02T09:06:49.664Z"
     },
-    "WP-CHTW-100-S||RIKILLAGASKADA": {
-      "remark": "70% - total",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "14:36:51",
-      "lastUpdated": "2026-09-02T09:06:51.913Z"
-    },
     "WP-CHTW-100-S||NEGOMBO": {
       "remark": "70% - total",
       "commentedBy": "Chanthuli Ramawickrama",
@@ -82251,6 +82244,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "13:20:36",
+      "iso": "2026-09-10T07:50:36.434Z",
+      "action": "updated remark for WP-CHTW-100-S at RIKILLAGASKADA (cleared)"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "13:06:17",
@@ -82592,13 +82592,6 @@
       "time": "10:57:34",
       "iso": "2026-09-10T05:27:34.203Z",
       "action": "updated remark for MID-MC-ID351 at KIRIELLA: “35,00O”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "10:29:17",
-      "iso": "2026-09-10T04:59:17.574Z",
-      "action": "updated remark for SLE43G890 at BALANGODA: “SOLD”"
     }
   ]
 }
