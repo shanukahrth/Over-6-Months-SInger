@@ -81738,6 +81738,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:28:42",
       "lastUpdated": "2026-09-10T09:58:42.045Z"
+    },
+    "AP-16-PRO-256GB-NT||GALNEWA": {
+      "remark": "To be returned to warehouse",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:29:53",
+      "lastUpdated": "2026-09-10T09:59:53.580Z"
     }
   },
   "showroomVisits": {
@@ -83810,6 +83817,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:29:53",
+      "iso": "2026-09-10T09:59:53.581Z",
+      "action": "updated remark for AP-16-PRO-256GB-NT at GALNEWA: “To be returned to warehouse”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:28:42",
       "iso": "2026-09-10T09:58:42.047Z",
       "action": "updated remark for SMGUA32N4010 at GALNEWA: “70%”"
@@ -84149,13 +84163,6 @@
       "time": "15:12:31",
       "iso": "2026-09-10T09:42:31.600Z",
       "action": "updated remark for SLE32D1800 at POOJAPITIYA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:12:06",
-      "iso": "2026-09-10T09:42:06.605Z",
-      "action": "updated remark for PN-TH-32M402N at POOJAPITIYA: “40%”"
     }
   ]
 }
