@@ -80268,6 +80268,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:34:04",
       "lastUpdated": "2026-09-10T08:04:04.262Z"
+    },
+    "R-BWS-02||DIPPITIYA": {
+      "remark": "Display - 35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:34:26",
+      "lastUpdated": "2026-09-10T08:04:26.871Z"
     }
   },
   "showroomVisits": {
@@ -82316,6 +82323,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:34:26",
+      "iso": "2026-09-10T08:04:26.872Z",
+      "action": "updated remark for R-BWS-02 at DIPPITIYA: “Display - 35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:34:04",
       "iso": "2026-09-10T08:04:04.263Z",
       "action": "updated remark for UJB-LB6027 at DIPPITIYA: “Display - 45%”"
@@ -82655,13 +82669,6 @@
       "time": "11:22:13",
       "iso": "2026-09-10T05:52:13.691Z",
       "action": "updated remark for SLE40D600A at KIRIELLA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "11:20:39",
-      "iso": "2026-09-10T05:50:39.578Z",
-      "action": "updated remark for SLE40D600A at KIRIELLA: “40,000”"
     }
   ]
 }
