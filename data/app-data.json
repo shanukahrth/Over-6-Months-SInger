@@ -80653,6 +80653,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:19:14",
       "lastUpdated": "2026-09-10T08:49:14.689Z"
+    },
+    "SLE43G890||GALAHA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:21:25",
+      "lastUpdated": "2026-09-10T08:51:25.039Z"
     }
   },
   "showroomVisits": {
@@ -82709,6 +82716,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:21:25",
+      "iso": "2026-09-10T08:51:25.042Z",
+      "action": "updated remark for SLE43G890 at GALAHA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:19:14",
       "iso": "2026-09-10T08:49:14.690Z",
       "action": "updated remark for MC8280 at GALAHA: “50%”"
@@ -83048,13 +83062,6 @@
       "time": "13:57:26",
       "iso": "2026-09-10T08:27:26.546Z",
       "action": "updated remark for HFPA-GRAVITY-BLU at GALAHA: “MOP - 24,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:57:24",
-      "iso": "2026-09-10T08:27:24.988Z",
-      "action": "updated remark for HFPA-GRAVITY-BLC at GALAHA: “MOP - 24,000”"
     }
   ]
 }
