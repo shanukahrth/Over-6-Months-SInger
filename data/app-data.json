@@ -82046,6 +82046,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:44:15",
       "lastUpdated": "2026-09-10T10:14:15.676Z"
+    },
+    "SIN-RFC-1819||GALAGEDARA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:44:41",
+      "lastUpdated": "2026-09-10T10:14:41.700Z"
     }
   },
   "showroomVisits": {
@@ -84130,6 +84137,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:44:41",
+      "iso": "2026-09-10T10:14:41.701Z",
+      "action": "updated remark for SIN-RFC-1819 at GALAGEDARA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:44:15",
       "iso": "2026-09-10T10:14:15.677Z",
       "action": "updated remark for R-BWS-02 at GALAGEDARA: “35%”"
@@ -84469,13 +84483,6 @@
       "time": "15:32:12",
       "iso": "2026-09-10T10:02:12.618Z",
       "action": "updated remark for WFL-MONACO-08-S at GALNEWA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:32:04",
-      "iso": "2026-09-10T10:02:04.411Z",
-      "action": "updated remark for SAS24TCNR at GALAGEDARA: “50%”"
     }
   ]
 }
