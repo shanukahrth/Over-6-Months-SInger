@@ -81682,6 +81682,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:25:36",
       "lastUpdated": "2026-09-10T09:55:36.589Z"
+    },
+    "SIN-PR-K340||GALNEWA": {
+      "remark": "30%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:25:52",
+      "lastUpdated": "2026-09-10T09:55:52.948Z"
     }
   },
   "showroomVisits": {
@@ -83754,6 +83761,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:25:52",
+      "iso": "2026-09-10T09:55:52.949Z",
+      "action": "updated remark for SIN-PR-K340 at GALNEWA: “30%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:25:36",
       "iso": "2026-09-10T09:55:36.591Z",
       "action": "updated remark for MID-MJ-KM6001W at GALNEWA: “40%”"
@@ -84093,13 +84107,6 @@
       "time": "15:09:51",
       "iso": "2026-09-10T09:39:51.505Z",
       "action": "updated remark for SM-MC3368 at POOJAPITIYA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:09:46",
-      "iso": "2026-09-10T09:39:46.696Z",
-      "action": "updated remark for SM-MC3368 at POOJAPITIYA: “580%”"
     }
   ]
 }
