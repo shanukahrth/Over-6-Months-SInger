@@ -81640,6 +81640,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:21:16",
       "lastUpdated": "2026-09-10T09:51:16.938Z"
+    },
+    "HON-X5BPLUS-4-128-BLK||GALNEWA": {
+      "remark": "SERVICE RETURN",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:21:56",
+      "lastUpdated": "2026-09-10T09:51:56.683Z"
     }
   },
   "showroomVisits": {
@@ -83712,6 +83719,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:21:56",
+      "iso": "2026-09-10T09:51:56.684Z",
+      "action": "updated remark for HON-X5BPLUS-4-128-BLK at GALNEWA: “SERVICE RETURN”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:21:16",
       "iso": "2026-09-10T09:51:16.940Z",
       "action": "updated remark for SIN-BS30 at GALNEWA: “70%”"
@@ -84051,13 +84065,6 @@
       "time": "15:08:15",
       "iso": "2026-09-10T09:38:15.844Z",
       "action": "updated remark for GEO-242D-SV at POOJAPITIYA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:08:11",
-      "iso": "2026-09-10T09:38:11.507Z",
-      "action": "updated remark for GEO-200D at POOJAPITIYA: “80%”"
     }
   ]
 }
