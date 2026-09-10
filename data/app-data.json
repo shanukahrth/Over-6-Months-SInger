@@ -80793,6 +80793,27 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:42:04",
       "lastUpdated": "2026-09-10T09:12:04.495Z"
+    },
+    "DVP-SR370||POOJAPITIYA": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:42:16",
+      "lastUpdated": "2026-09-10T09:12:16.808Z"
+    },
+    "SDV3605K||POOJAPITIYA": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:42:18",
+      "lastUpdated": "2026-09-10T09:12:18.310Z"
+    },
+    "UDV3618SY||POOJAPITIYA": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:42:20",
+      "lastUpdated": "2026-09-10T09:12:20.277Z"
     }
   },
   "showroomVisits": {
@@ -82857,6 +82878,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:42:20",
+      "iso": "2026-09-10T09:12:20.278Z",
+      "action": "updated remark for UDV3618SY at POOJAPITIYA: “MOP - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:42:18",
+      "iso": "2026-09-10T09:12:18.311Z",
+      "action": "updated remark for SDV3605K at POOJAPITIYA: “MOP - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:42:16",
+      "iso": "2026-09-10T09:12:16.809Z",
+      "action": "updated remark for DVP-SR370 at POOJAPITIYA: “MOP - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:42:04",
       "iso": "2026-09-10T09:12:04.496Z",
       "action": "updated remark for MSI-14G-I7-512-F1M-GRY at POOJAPITIYA: “Active SKU”"
@@ -83182,27 +83224,6 @@
       "time": "14:09:48",
       "iso": "2026-09-10T08:39:48.076Z",
       "action": "updated remark for SL-PB-426 at GALAHA: “Display - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:09:32",
-      "iso": "2026-09-10T08:39:32.972Z",
-      "action": "updated remark for PMG-TEON at GALAHA: “90% - Damaged”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:09:17",
-      "iso": "2026-09-10T08:39:17.345Z",
-      "action": "updated remark for PMG-TEON at GALAHA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:08:46",
-      "iso": "2026-09-10T08:38:46.644Z",
-      "action": "updated remark for KA-LW-185A at GALAHA: “Display - 60%”"
     }
   ]
 }
