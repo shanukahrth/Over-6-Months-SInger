@@ -80513,6 +80513,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:06:54",
       "lastUpdated": "2026-09-10T08:36:54.621Z"
+    },
+    "SHDTIB2367||GALAHA": {
+      "remark": "Carton damage - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:07:31",
+      "lastUpdated": "2026-09-10T08:37:31.394Z"
     }
   },
   "showroomVisits": {
@@ -82569,6 +82576,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:07:31",
+      "iso": "2026-09-10T08:37:31.395Z",
+      "action": "updated remark for SHDTIB2367 at GALAHA: “Carton damage - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:06:54",
       "iso": "2026-09-10T08:36:54.622Z",
       "action": "updated remark for DAV-TZ140 at GALAHA: “Unsellable”"
@@ -82908,13 +82922,6 @@
       "time": "13:33:43",
       "iso": "2026-09-10T08:03:43.012Z",
       "action": "updated remark for LP-AP01 at DIPPITIYA: “1 - Reported / 2 - 40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:33:18",
-      "iso": "2026-09-10T08:03:18.587Z",
-      "action": "updated remark for PN-NF-GW1WSK at DIPPITIYA: “Sellable at Existing Price - 50%”"
     }
   ]
 }
