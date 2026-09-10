@@ -81915,11 +81915,11 @@
       "lastUpdated": "2026-09-10T10:06:55.666Z"
     },
     "GEO-182S-BU1||GALNEWA": {
-      "remark": "25%",
+      "remark": "40%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-10",
-      "commentTime": "15:37:09",
-      "lastUpdated": "2026-09-10T10:07:09.037Z"
+      "commentTime": "15:41:42",
+      "lastUpdated": "2026-09-10T10:11:42.696Z"
     },
     "LF-MANEL-IC-BON-S||GALAGEDARA": {
       "remark": "Damaged - 80%",
@@ -84072,6 +84072,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:41:42",
+      "iso": "2026-09-10T10:11:42.699Z",
+      "action": "updated remark for GEO-182S-BU1 at GALNEWA: “40%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-10",
       "time": "15:41:31",
@@ -84413,13 +84420,6 @@
       "time": "15:26:33",
       "iso": "2026-09-10T09:56:33.762Z",
       "action": "updated remark for SS-PS16-AG at GALNEWA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:26:22",
-      "iso": "2026-09-10T09:56:22.030Z",
-      "action": "updated remark for WF-OSLO-S at GALNEWA: “45%”"
     }
   ]
 }
