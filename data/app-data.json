@@ -80184,6 +80184,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:06:17",
       "lastUpdated": "2026-09-10T07:36:17.588Z"
+    },
+    "SMGAR50F12D0J||DIPPITIYA": {
+      "remark": "Sellable - 30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:27:15",
+      "lastUpdated": "2026-09-10T07:57:15.299Z"
     }
   },
   "showroomVisits": {
@@ -82232,6 +82239,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:27:15",
+      "iso": "2026-09-10T07:57:15.300Z",
+      "action": "updated remark for SMGAR50F12D0J at DIPPITIYA: “Sellable - 30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "13:27:07",
+      "iso": "2026-09-10T07:57:07.973Z",
+      "action": "updated remark for SMGAR50F12D0J at DIPPITIYA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:21:30",
       "iso": "2026-09-10T07:51:30.720Z",
       "action": "updated remark for PN-TH-32M402N at POOJAPITIYA (cleared)"
@@ -82564,20 +82585,6 @@
       "time": "11:03:38",
       "iso": "2026-09-10T05:33:38.967Z",
       "action": "updated remark for PN-MX-AC210 at KIRIELLA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "11:00:51",
-      "iso": "2026-09-10T05:30:51.512Z",
-      "action": "updated remark for LF-DEO-CT-S at KIRIELLA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "11:00:28",
-      "iso": "2026-09-10T05:30:28.240Z",
-      "action": "updated remark for LF-LCD-TV-S at KIRIELLA: “70%”"
     }
   ]
 }
