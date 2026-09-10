@@ -80009,6 +80009,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "08:49:06",
       "lastUpdated": "2026-09-10T03:19:06.855Z"
+    },
+    "DUM-SMGAR50F12D0J||BALANGODA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "09:45:30",
+      "lastUpdated": "2026-09-10T04:15:30.845Z"
     }
   },
   "showroomVisits": {
@@ -82055,6 +82062,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "09:45:30",
+      "iso": "2026-09-10T04:15:30.847Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at BALANGODA: “-”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-10",
       "time": "08:58:59",
@@ -82396,13 +82410,6 @@
       "time": "14:32:19",
       "iso": "2026-09-09T09:02:19.576Z",
       "action": "updated remark for MID-MG-GP45B at KEGALLE B: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "14:31:14",
-      "iso": "2026-09-09T09:01:14.853Z",
-      "action": "updated remark for NCPDG-FP240 at KEGALLE B: “20%”"
     }
   ]
 }
