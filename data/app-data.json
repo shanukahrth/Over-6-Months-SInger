@@ -17494,11 +17494,11 @@
       "lastUpdated": "2026-08-19T05:27:43.267Z"
     },
     "SLE40D600A||KIRIELLA": {
-      "remark": "40,000",
+      "remark": "60%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-10",
-      "commentTime": "11:20:39",
-      "lastUpdated": "2026-09-10T05:50:39.572Z"
+      "commentTime": "11:22:13",
+      "lastUpdated": "2026-09-10T05:52:13.683Z"
     },
     "SKY55Q6700G||KIRIELLA": {
       "remark": "10%",
@@ -82078,6 +82078,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "11:22:13",
+      "iso": "2026-09-10T05:52:13.691Z",
+      "action": "updated remark for SLE40D600A at KIRIELLA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "11:20:39",
       "iso": "2026-09-10T05:50:39.578Z",
       "action": "updated remark for SLE40D600A at KIRIELLA: “40,000”"
@@ -82417,13 +82424,6 @@
       "time": "08:37:00",
       "iso": "2026-09-10T03:07:00.875Z",
       "action": "updated remark for DUM-SMGAR50F12D0J at NIVITHIGALA: “-”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-10",
-      "time": "08:32:35",
-      "iso": "2026-09-10T03:02:35.868Z",
-      "action": "updated remark for PN-TH-32M402N at PABAHINNA-LITE: “Rs.39,999/=”"
     }
   ]
 }
