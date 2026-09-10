@@ -80443,6 +80443,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:00:57",
       "lastUpdated": "2026-09-10T08:30:57.150Z"
+    },
+    "FAN-P-1605H||GALAHA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:01:52",
+      "lastUpdated": "2026-09-10T08:31:52.706Z"
     }
   },
   "showroomVisits": {
@@ -82499,6 +82506,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:01:52",
+      "iso": "2026-09-10T08:31:52.706Z",
+      "action": "updated remark for FAN-P-1605H at GALAHA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:01:51",
+      "iso": "2026-09-10T08:31:51.154Z",
+      "action": "updated remark for FAN-P-1605H at GALAHA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:00:57",
       "iso": "2026-09-10T08:30:57.151Z",
       "action": "updated remark for SDV3605K at GALAHA: “Unsellable”"
@@ -82831,20 +82852,6 @@
       "time": "13:27:07",
       "iso": "2026-09-10T07:57:07.973Z",
       "action": "updated remark for SMGAR50F12D0J at DIPPITIYA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:21:30",
-      "iso": "2026-09-10T07:51:30.720Z",
-      "action": "updated remark for PN-TH-32M402N at POOJAPITIYA (cleared)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:21:12",
-      "iso": "2026-09-10T07:51:12.012Z",
-      "action": "updated remark for KD-55X75K at POOJAPITIYA (cleared)"
     }
   ]
 }
