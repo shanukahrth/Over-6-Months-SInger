@@ -81906,6 +81906,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:36:31",
       "lastUpdated": "2026-09-10T10:06:31.771Z"
+    },
+    "LF-CT-S||GALAGEDARA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:36:55",
+      "lastUpdated": "2026-09-10T10:06:55.666Z"
     }
   },
   "showroomVisits": {
@@ -83990,6 +83997,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:36:55",
+      "iso": "2026-09-10T10:06:55.667Z",
+      "action": "updated remark for LF-CT-S at GALAGEDARA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:36:31",
       "iso": "2026-09-10T10:06:31.772Z",
       "action": "updated remark for LF-BUDGET-DT-AGO-S at GALAGEDARA: “Damaged - 60%”"
@@ -84329,13 +84343,6 @@
       "time": "15:20:08",
       "iso": "2026-09-10T09:50:08.861Z",
       "action": "updated POOJAPITIYA showroom (visitDate: 2026-09-10)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:20:06",
-      "iso": "2026-09-10T09:50:06.857Z",
-      "action": "updated POOJAPITIYA showroom (visitDate: 2026-09-11)"
     }
   ]
 }
