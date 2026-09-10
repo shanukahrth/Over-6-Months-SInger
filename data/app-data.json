@@ -80716,6 +80716,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:26:53",
       "lastUpdated": "2026-09-10T08:56:53.885Z"
+    },
+    "MHC-V13||POOJAPITIYA": {
+      "remark": "Parts Missing - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:35:32",
+      "lastUpdated": "2026-09-10T09:05:32.049Z"
     }
   },
   "showroomVisits": {
@@ -82780,6 +82787,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:35:32",
+      "iso": "2026-09-10T09:05:32.050Z",
+      "action": "updated remark for MHC-V13 at POOJAPITIYA: “Parts Missing - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:28:59",
       "iso": "2026-09-10T08:58:59.312Z",
       "action": "updated GALAHA showroom (team: Team Central )"
@@ -83119,13 +83133,6 @@
       "time": "14:04:53",
       "iso": "2026-09-10T08:34:53.748Z",
       "action": "updated remark for LF-OX-BR-M-S at GALAHA: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:04:43",
-      "iso": "2026-09-10T08:34:43.536Z",
-      "action": "updated remark for QT-SITUP at GALAHA: “60%”"
     }
   ]
 }
