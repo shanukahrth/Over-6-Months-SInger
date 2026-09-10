@@ -81528,6 +81528,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:13:56",
       "lastUpdated": "2026-09-10T09:43:56.139Z"
+    },
+    "SLE40D600A||POOJAPITIYA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:14:40",
+      "lastUpdated": "2026-09-10T09:44:40.458Z"
     }
   },
   "showroomVisits": {
@@ -83592,6 +83599,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:14:40",
+      "iso": "2026-09-10T09:44:40.459Z",
+      "action": "updated remark for SLE40D600A at POOJAPITIYA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:13:56",
       "iso": "2026-09-10T09:43:56.139Z",
       "action": "updated remark for SLE40D4000 at POOJAPITIYA: “Revert - 80%”"
@@ -83931,13 +83945,6 @@
       "time": "15:02:41",
       "iso": "2026-09-10T09:32:41.645Z",
       "action": "updated remark for HON-X5-2-32-BLK at POOJAPITIYA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:02:14",
-      "iso": "2026-09-10T09:32:14.545Z",
-      "action": "updated remark for SIN-RFC-1819 at POOJAPITIYA: “35%”"
     }
   ]
 }
