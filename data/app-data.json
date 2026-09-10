@@ -80422,6 +80422,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:58:36",
       "lastUpdated": "2026-09-10T08:28:36.202Z"
+    },
+    "NETAC-128GB-NVME-SSD||GALAHA": {
+      "remark": "Physically not available",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:59:12",
+      "lastUpdated": "2026-09-10T08:29:12.563Z"
     }
   },
   "showroomVisits": {
@@ -82478,6 +82485,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:59:12",
+      "iso": "2026-09-10T08:29:12.563Z",
+      "action": "updated remark for NETAC-128GB-NVME-SSD at GALAHA: “Physically not available”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:58:36",
       "iso": "2026-09-10T08:28:36.204Z",
       "action": "updated remark for SB-AAA at GALAHA: “50%”"
@@ -82816,13 +82830,6 @@
       "date": "2026-09-10",
       "time": "13:06:17",
       "iso": "2026-09-10T07:36:17.589Z",
-      "action": "updated remark for SWM-FA70R at THAMBUTTEGAMA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "13:06:11",
-      "iso": "2026-09-10T07:36:11.421Z",
       "action": "updated remark for SWM-FA70R at THAMBUTTEGAMA: “50%”"
     }
   ]
