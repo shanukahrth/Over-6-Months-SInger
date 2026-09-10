@@ -81243,11 +81243,11 @@
       "lastUpdated": "2026-09-10T09:32:14.544Z"
     },
     "HON-X5-2-32-BLK||POOJAPITIYA": {
-      "remark": "Reported",
+      "remark": "Damaged - 70%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "15:02:41",
-      "lastUpdated": "2026-09-10T09:32:41.645Z"
+      "commentTime": "15:03:08",
+      "lastUpdated": "2026-09-10T09:33:08.880Z"
     },
     "R-RGS150-SV||THAMBUTTEGAMA": {
       "remark": "30%",
@@ -83324,6 +83324,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:03:08",
+      "iso": "2026-09-10T09:33:08.880Z",
+      "action": "updated remark for HON-X5-2-32-BLK at POOJAPITIYA: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:03:04",
+      "iso": "2026-09-10T09:33:04.759Z",
+      "action": "updated remark for HON-X5-2-32-BLK at POOJAPITIYA: “Damaged - 60%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:03:00",
@@ -83658,20 +83672,6 @@
       "time": "14:51:52",
       "iso": "2026-09-10T09:21:52.024Z",
       "action": "updated remark for WF-PARIS-BL-S at POOJAPITIYA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:51:37",
-      "iso": "2026-09-10T09:21:37.569Z",
-      "action": "updated remark for WF-SKY-211-MR-S at POOJAPITIYA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:50:59",
-      "iso": "2026-09-10T09:20:59.623Z",
-      "action": "updated remark for PF-ENVISION-BL-S at POOJAPITIYA: “Active SKU”"
     }
   ]
 }
