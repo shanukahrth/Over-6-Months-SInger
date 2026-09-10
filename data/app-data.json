@@ -81521,6 +81521,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:13:46",
       "lastUpdated": "2026-09-10T09:43:46.703Z"
+    },
+    "SLE40D4000||POOJAPITIYA": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:13:56",
+      "lastUpdated": "2026-09-10T09:43:56.139Z"
     }
   },
   "showroomVisits": {
@@ -83585,6 +83592,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:13:56",
+      "iso": "2026-09-10T09:43:56.139Z",
+      "action": "updated remark for SLE40D4000 at POOJAPITIYA: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:13:46",
       "iso": "2026-09-10T09:43:46.705Z",
       "action": "updated remark for SLE32F590 at POOJAPITIYA: “Revert - 80%”"
@@ -83924,13 +83938,6 @@
       "time": "15:02:14",
       "iso": "2026-09-10T09:32:14.545Z",
       "action": "updated remark for SIN-RFC-1819 at POOJAPITIYA: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:02:11",
-      "iso": "2026-09-10T09:32:11.480Z",
-      "action": "updated remark for SIN-RFC-2058 at POOJAPITIYA: “Active SKU”"
     }
   ]
 }
