@@ -81507,6 +81507,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:13:03",
       "lastUpdated": "2026-09-10T09:43:03.532Z"
+    },
+    "SLE32E930||POOJAPITIYA": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:13:42",
+      "lastUpdated": "2026-09-10T09:43:42.733Z"
+    },
+    "SLE32F590||POOJAPITIYA": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:13:46",
+      "lastUpdated": "2026-09-10T09:43:46.703Z"
     }
   },
   "showroomVisits": {
@@ -83571,6 +83585,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:13:46",
+      "iso": "2026-09-10T09:43:46.705Z",
+      "action": "updated remark for SLE32F590 at POOJAPITIYA: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:13:42",
+      "iso": "2026-09-10T09:43:42.734Z",
+      "action": "updated remark for SLE32E930 at POOJAPITIYA: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:13:03",
       "iso": "2026-09-10T09:43:03.533Z",
       "action": "updated remark for SLE32E810 at POOJAPITIYA: “Panel Damage - 90%”"
@@ -83903,20 +83931,6 @@
       "time": "15:02:11",
       "iso": "2026-09-10T09:32:11.480Z",
       "action": "updated remark for SIN-RFC-2058 at POOJAPITIYA: “Active SKU”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:02:06",
-      "iso": "2026-09-10T09:32:06.152Z",
-      "action": "updated remark for LF-ORGN-DTO-CLM-S at THAMBUTTEGAMA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:01:42",
-      "iso": "2026-09-10T09:31:42.948Z",
-      "action": "updated remark for HU-WATCH-GT6-B at THAMBUTTEGAMA: “20%”"
     }
   ]
 }
