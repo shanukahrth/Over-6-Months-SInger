@@ -81612,6 +81612,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:19:01",
       "lastUpdated": "2026-09-10T09:49:01.290Z"
+    },
+    "SLE32D1800||GALNEWA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:19:56",
+      "lastUpdated": "2026-09-10T09:49:56.428Z"
     }
   },
   "showroomVisits": {
@@ -83676,6 +83683,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:19:56",
+      "iso": "2026-09-10T09:49:56.429Z",
+      "action": "updated remark for SLE32D1800 at GALNEWA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:19:51",
+      "iso": "2026-09-10T09:49:51.889Z",
+      "action": "updated remark for SLE32D1800 at GALNEWA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:19:01",
       "iso": "2026-09-10T09:49:01.292Z",
       "action": "updated remark for WF-CHAIR-B-BU at GALNEWA: “50%”"
@@ -84008,20 +84029,6 @@
       "time": "15:06:21",
       "iso": "2026-09-10T09:36:21.751Z",
       "action": "updated remark for SLD24D10TC at THAMBUTTEGAMA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:06:07",
-      "iso": "2026-09-10T09:36:07.670Z",
-      "action": "updated remark for HON-X9C-12-256-GRN at POOJAPITIYA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:06:04",
-      "iso": "2026-09-10T09:36:04.767Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at POOJAPITIYA: “25%”"
     }
   ]
 }
