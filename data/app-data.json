@@ -10410,11 +10410,11 @@
       "lastUpdated": "2026-08-18T05:16:50.476Z"
     },
     "SLE43G890||PABAHINNA-LITE": {
-      "remark": "69999",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-18",
-      "commentTime": "10:47:00",
-      "lastUpdated": "2026-08-18T05:17:00.790Z"
+      "remark": "Rs.69,999/=",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-10",
+      "commentTime": "08:30:30",
+      "lastUpdated": "2026-09-10T03:00:30.684Z"
     },
     "PN-TH-32M402N||PABAHINNA-LITE": {
       "remark": "39999",
@@ -82034,6 +82034,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-10",
+      "time": "08:30:30",
+      "iso": "2026-09-10T03:00:30.691Z",
+      "action": "updated remark for SLE43G890 at PABAHINNA-LITE: “Rs.69,999/=”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-09",
       "time": "16:13:56",
@@ -82375,13 +82382,6 @@
       "time": "11:42:58",
       "iso": "2026-09-09T06:12:58.664Z",
       "action": "updated remark for FAN-P-SF1605HL at KEGALLE - C: “50% Off.”"
-    },
-    {
-      "user": "Sulani",
-      "date": "2026-09-09",
-      "time": "11:42:32",
-      "iso": "2026-09-09T06:12:32.154Z",
-      "action": "updated remark for SIN-RFC-2058 at PILIYANDALA  B: “5% OFF”"
     }
   ]
 }
