@@ -82130,6 +82130,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:49:08",
       "lastUpdated": "2026-09-10T10:19:08.703Z"
+    },
+    "DH-I-PFS3009-8ET-96||GALAGEDARA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:49:58",
+      "lastUpdated": "2026-09-10T10:19:58.780Z"
     }
   },
   "showroomVisits": {
@@ -84214,6 +84221,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:49:58",
+      "iso": "2026-09-10T10:19:58.781Z",
+      "action": "updated remark for DH-I-PFS3009-8ET-96 at GALAGEDARA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:49:08",
       "iso": "2026-09-10T10:19:08.704Z",
       "action": "updated remark for CM-LQ300 at GALAGEDARA: “Shop use”"
@@ -84553,13 +84567,6 @@
       "time": "15:35:03",
       "iso": "2026-09-10T10:05:03.307Z",
       "action": "updated sold comment for CAN-I-G4010 at GALNEWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:34:29",
-      "iso": "2026-09-10T10:04:29.251Z",
-      "action": "updated remark for DVP-SR370 at GALAGEDARA: “MOP - 2,000”"
     }
   ]
 }
