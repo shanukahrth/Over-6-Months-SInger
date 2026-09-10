@@ -81969,6 +81969,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:40:46",
       "lastUpdated": "2026-09-10T10:10:46.867Z"
+    },
+    "SWH-118EP-D||GALAGEDARA": {
+      "remark": "Dummy unit",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:41:03",
+      "lastUpdated": "2026-09-10T10:11:03.820Z"
     }
   },
   "showroomVisits": {
@@ -84053,6 +84060,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:41:03",
+      "iso": "2026-09-10T10:11:03.821Z",
+      "action": "updated remark for SWH-118EP-D at GALAGEDARA: “Dummy unit”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:41:00",
+      "iso": "2026-09-10T10:11:00.498Z",
+      "action": "updated remark for SWH-118EP-D at GALAGEDARA: “Dummy”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:40:46",
       "iso": "2026-09-10T10:10:46.868Z",
       "action": "updated remark for MID-DSK38EU5 at GALAGEDARA: “50%”"
@@ -84385,20 +84406,6 @@
       "time": "15:25:36",
       "iso": "2026-09-10T09:55:36.591Z",
       "action": "updated remark for MID-MJ-KM6001W at GALNEWA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:25:24",
-      "iso": "2026-09-10T09:55:24.500Z",
-      "action": "updated remark for MID-MJ-KM6001W at GALNEWA: “35%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:25:01",
-      "iso": "2026-09-10T09:55:01.104Z",
-      "action": "updated remark for BES-WP15-ECO at GALNEWA: “70%”"
     }
   ]
 }
