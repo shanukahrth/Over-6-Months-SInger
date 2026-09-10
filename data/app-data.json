@@ -80058,6 +80058,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "12:40:31",
       "lastUpdated": "2026-09-10T07:10:31.663Z"
+    },
+    "SL-INV-305G||THAMBUTTEGAMA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "12:50:49",
+      "lastUpdated": "2026-09-10T07:20:49.872Z"
     }
   },
   "showroomVisits": {
@@ -82106,6 +82113,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "12:50:49",
+      "iso": "2026-09-10T07:20:49.873Z",
+      "action": "updated remark for SL-INV-305G at THAMBUTTEGAMA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "12:40:31",
       "iso": "2026-09-10T07:10:31.679Z",
       "action": "updated remark for KD-43X75K at THAMBUTTEGAMA: “40%”"
@@ -82445,13 +82459,6 @@
       "time": "08:46:46",
       "iso": "2026-09-10T03:16:46.510Z",
       "action": "updated remark for HFPA-GRAVITY-BLC at NIVITHIGALA: “Rs.24000/=”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-10",
-      "time": "08:46:14",
-      "iso": "2026-09-10T03:16:14.379Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at NIVITHIGALA: “Rs.30,000/=”"
     }
   ]
 }
