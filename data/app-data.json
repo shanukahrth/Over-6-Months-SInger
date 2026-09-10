@@ -80681,6 +80681,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:23:49",
       "lastUpdated": "2026-09-10T08:53:49.435Z"
+    },
+    "SMGUA32N4010||GALAHA": {
+      "remark": "reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:24:11",
+      "lastUpdated": "2026-09-10T08:54:11.495Z"
     }
   },
   "showroomVisits": {
@@ -82737,6 +82744,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:24:11",
+      "iso": "2026-09-10T08:54:11.497Z",
+      "action": "updated remark for SMGUA32N4010 at GALAHA: “reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:23:49",
       "iso": "2026-09-10T08:53:49.436Z",
       "action": "updated remark for SLE32E930 at GALAHA: “Unsellable”"
@@ -83076,13 +83090,6 @@
       "time": "13:59:12",
       "iso": "2026-09-10T08:29:12.563Z",
       "action": "updated remark for NETAC-128GB-NVME-SSD at GALAHA: “Physically not available”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:58:36",
-      "iso": "2026-09-10T08:28:36.204Z",
-      "action": "updated remark for SB-AAA at GALAHA: “50%”"
     }
   ]
 }
