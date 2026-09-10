@@ -82039,6 +82039,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:44:03",
       "lastUpdated": "2026-09-10T10:14:03.062Z"
+    },
+    "R-BWS-02||GALAGEDARA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:44:15",
+      "lastUpdated": "2026-09-10T10:14:15.676Z"
     }
   },
   "showroomVisits": {
@@ -84123,6 +84130,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:44:15",
+      "iso": "2026-09-10T10:14:15.677Z",
+      "action": "updated remark for R-BWS-02 at GALAGEDARA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:44:03",
       "iso": "2026-09-10T10:14:03.063Z",
       "action": "updated remark for B-FSGT62111DSL at GALAGEDARA: “Reported”"
@@ -84462,13 +84476,6 @@
       "time": "15:32:04",
       "iso": "2026-09-10T10:02:04.411Z",
       "action": "updated remark for SAS24TCNR at GALAGEDARA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:31:33",
-      "iso": "2026-09-10T10:01:33.921Z",
-      "action": "updated remark for SLE55GENR at GALNEWA: “40%”"
     }
   ]
 }
