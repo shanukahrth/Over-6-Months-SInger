@@ -80233,6 +80233,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:30:41",
       "lastUpdated": "2026-09-10T08:00:41.458Z"
+    },
+    "KN-HFP50||DIPPITIYA": {
+      "remark": "Cookery Demo Product - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:31:35",
+      "lastUpdated": "2026-09-10T08:01:35.592Z"
     }
   },
   "showroomVisits": {
@@ -82281,6 +82288,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:31:35",
+      "iso": "2026-09-10T08:01:35.594Z",
+      "action": "updated remark for KN-HFP50 at DIPPITIYA: “Cookery Demo Product - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:30:41",
       "iso": "2026-09-10T08:00:41.459Z",
       "action": "updated remark for WFL-STBED-72X60-S at DIPPITIYA: “30%”"
@@ -82620,13 +82634,6 @@
       "time": "11:11:06",
       "iso": "2026-09-10T05:41:06.620Z",
       "action": "updated remark for SLE40D600A at KIRIELLA: “40,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "11:09:06",
-      "iso": "2026-09-10T05:39:06.420Z",
-      "action": "updated remark for SWM-FA70R at KIRIELLA: “Damaged”"
     }
   ]
 }
