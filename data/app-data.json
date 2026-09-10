@@ -81073,6 +81073,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:56:42",
       "lastUpdated": "2026-09-10T09:26:42.599Z"
+    },
+    "GCB8402F-N||POOJAPITIYA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:57:12",
+      "lastUpdated": "2026-09-10T09:27:12.339Z"
     }
   },
   "showroomVisits": {
@@ -83137,6 +83144,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:57:12",
+      "iso": "2026-09-10T09:27:12.340Z",
+      "action": "updated remark for GCB8402F-N at POOJAPITIYA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:56:42",
       "iso": "2026-09-10T09:26:42.600Z",
       "action": "updated remark for STO-EO30C at POOJAPITIYA: “60%”"
@@ -83476,13 +83490,6 @@
       "time": "14:41:26",
       "iso": "2026-09-10T09:11:26.176Z",
       "action": "updated remark for DELL3530-I3-8GB512-SIL at POOJAPITIYA: “20%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:40:58",
-      "iso": "2026-09-10T09:10:58.721Z",
-      "action": "updated remark for DELL3511-I3-8GB256-BLK at POOJAPITIYA: “Revert - 70%”"
     }
   ]
 }
