@@ -80555,6 +80555,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:10:49",
       "lastUpdated": "2026-09-10T08:40:49.399Z"
+    },
+    "PCP30||GALAHA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:11:02",
+      "lastUpdated": "2026-09-10T08:41:02.239Z"
+    },
+    "PCP50||GALAHA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:11:03",
+      "lastUpdated": "2026-09-10T08:41:03.798Z"
     }
   },
   "showroomVisits": {
@@ -82611,6 +82625,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:11:03",
+      "iso": "2026-09-10T08:41:03.799Z",
+      "action": "updated remark for PCP50 at GALAHA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:11:02",
+      "iso": "2026-09-10T08:41:02.239Z",
+      "action": "updated remark for PCP30 at GALAHA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:11:00",
+      "iso": "2026-09-10T08:41:00.837Z",
+      "action": "updated remark for PCP30 at GALAHA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:10:49",
       "iso": "2026-09-10T08:40:49.400Z",
       "action": "updated remark for SMW823AY7 at GALAHA: “45%”"
@@ -82936,27 +82971,6 @@
       "time": "13:37:14",
       "iso": "2026-09-10T08:07:14.443Z",
       "action": "updated remark for DH-I-S22FP-36B-IMOU at DIPPITIYA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:36:51",
-      "iso": "2026-09-10T08:06:51.329Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRN at DIPPITIYA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:36:28",
-      "iso": "2026-09-10T08:06:28.631Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRY at DIPPITIYA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:36:23",
-      "iso": "2026-09-10T08:06:23.414Z",
-      "action": "updated remark for ZTE-A35E-2-32GB-GRN at DIPPITIYA: “Reported”"
     }
   ]
 }
