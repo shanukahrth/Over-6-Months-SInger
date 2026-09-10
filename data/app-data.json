@@ -81038,6 +81038,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:55:04",
       "lastUpdated": "2026-09-10T09:25:04.669Z"
+    },
+    "MID-MF-TN40D2||POOJAPITIYA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:55:29",
+      "lastUpdated": "2026-09-10T09:25:29.051Z"
     }
   },
   "showroomVisits": {
@@ -83102,6 +83109,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:55:29",
+      "iso": "2026-09-10T09:25:29.053Z",
+      "action": "updated remark for MID-MF-TN40D2 at POOJAPITIYA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:55:04",
       "iso": "2026-09-10T09:25:04.669Z",
       "action": "updated remark for KA-TXG-DS11A at POOJAPITIYA: “Damaged - 80%”"
@@ -83441,13 +83455,6 @@
       "time": "14:38:01",
       "iso": "2026-09-10T09:08:01.517Z",
       "action": "updated remark for B-HIAG64223SXL at POOJAPITIYA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:36:27",
-      "iso": "2026-09-10T09:06:27.301Z",
-      "action": "updated remark for SVX6002 at POOJAPITIYA: “Damaged - 85%”"
     }
   ]
 }
