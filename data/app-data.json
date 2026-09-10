@@ -80884,6 +80884,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:47:41",
       "lastUpdated": "2026-09-10T09:17:41.267Z"
+    },
+    "WF-ROM-DTO-S||POOJAPITIYA": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:48:05",
+      "lastUpdated": "2026-09-10T09:18:05.022Z"
     }
   },
   "showroomVisits": {
@@ -82948,6 +82955,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:48:05",
+      "iso": "2026-09-10T09:18:05.023Z",
+      "action": "updated remark for WF-ROM-DTO-S at POOJAPITIYA: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:47:41",
       "iso": "2026-09-10T09:17:41.269Z",
       "action": "updated remark for LF-ORGN-DTO-WHT at POOJAPITIYA: “Display - 50%”"
@@ -83287,13 +83301,6 @@
       "time": "14:14:14",
       "iso": "2026-09-10T08:44:14.213Z",
       "action": "updated remark for ENG-UE10054 at GALAHA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:13:45",
-      "iso": "2026-09-10T08:43:45.274Z",
-      "action": "updated remark for HON-X9C-12-256-BLK at GALAHA: “Display and Battery Issue - 70%”"
     }
   ]
 }
