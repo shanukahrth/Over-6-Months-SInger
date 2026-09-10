@@ -81801,6 +81801,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:32:26",
       "lastUpdated": "2026-09-10T10:02:26.793Z"
+    },
+    "MHC-V13||GALAGEDARA": {
+      "remark": "Display - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:32:45",
+      "lastUpdated": "2026-09-10T10:02:45.748Z"
     }
   },
   "showroomVisits": {
@@ -83873,6 +83880,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:32:45",
+      "iso": "2026-09-10T10:02:45.748Z",
+      "action": "updated remark for MHC-V13 at GALAGEDARA: “Display - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:32:40",
+      "iso": "2026-09-10T10:02:40.603Z",
+      "action": "updated remark for MHC-V13 at GALAGEDARA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:32:26",
       "iso": "2026-09-10T10:02:26.793Z",
       "action": "updated remark for SMGAR50F12D0J at GALAGEDARA: “30%”"
@@ -84205,20 +84226,6 @@
       "time": "15:16:05",
       "iso": "2026-09-10T09:46:05.104Z",
       "action": "updated remark for SLE43G890 at POOJAPITIYA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:15:10",
-      "iso": "2026-09-10T09:45:10.974Z",
-      "action": "updated remark for SLE40E810C at POOJAPITIYA: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:15:10",
-      "iso": "2026-09-10T09:45:10.049Z",
-      "action": "updated remark for SLE40E710 at POOJAPITIYA: “Revert - 80%”"
     }
   ]
 }
