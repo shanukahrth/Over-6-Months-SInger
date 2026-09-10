@@ -81115,6 +81115,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:59:40",
       "lastUpdated": "2026-09-10T09:29:40.144Z"
+    },
+    "UJB-LB6027||POOJAPITIYA": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:59:42",
+      "lastUpdated": "2026-09-10T09:29:42.511Z"
+    },
+    "R-BWS-02||POOJAPITIYA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:59:46",
+      "lastUpdated": "2026-09-10T09:29:46.878Z"
     }
   },
   "showroomVisits": {
@@ -83177,6 +83191,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:59:46",
+      "iso": "2026-09-10T09:29:46.880Z",
+      "action": "updated remark for R-BWS-02 at POOJAPITIYA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:59:42",
+      "iso": "2026-09-10T09:29:42.513Z",
+      "action": "updated remark for UJB-LB6027 at POOJAPITIYA: “45%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "14:59:40",
@@ -83511,20 +83539,6 @@
       "time": "14:43:11",
       "iso": "2026-09-10T09:13:11.571Z",
       "action": "updated remark for FAN-P-SF1605HL at POOJAPITIYA: “Display - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:43:05",
-      "iso": "2026-09-10T09:13:05.255Z",
-      "action": "updated remark for FAN-P-SF1605HL at POOJAPITIYA: “System discount - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:42:20",
-      "iso": "2026-09-10T09:12:20.278Z",
-      "action": "updated remark for UDV3618SY at POOJAPITIYA: “MOP - 2,000”"
     }
   ]
 }
