@@ -80618,6 +80618,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:14:38",
       "lastUpdated": "2026-09-10T08:44:38.441Z"
+    },
+    "CM-D1000||GALAHA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:14:59",
+      "lastUpdated": "2026-09-10T08:44:59.367Z"
     }
   },
   "showroomVisits": {
@@ -82674,6 +82681,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:14:59",
+      "iso": "2026-09-10T08:44:59.368Z",
+      "action": "updated remark for CM-D1000 at GALAHA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:14:38",
       "iso": "2026-09-10T08:44:38.442Z",
       "action": "updated remark for HON-BUDS-X6 at GALAHA: “Active SKU”"
@@ -83013,13 +83027,6 @@
       "time": "13:44:53",
       "iso": "2026-09-10T08:14:53.693Z",
       "action": "updated DIPPITIYA showroom (remark: Discounts given over the phone)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:41:46",
-      "iso": "2026-09-10T08:11:46.980Z",
-      "action": "updated DIPPITIYA showroom (visitDate: 2026-09-10)"
     }
   ]
 }
