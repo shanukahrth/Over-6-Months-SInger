@@ -83936,9 +83936,22 @@
       "comment": "5O%",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-10"
+    },
+    "CAN-I-G4010||GALNEWA": {
+      "sold": false,
+      "comment": "50%",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-10"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:35:03",
+      "iso": "2026-09-10T10:05:03.307Z",
+      "action": "updated sold comment for CAN-I-G4010 at GALNEWA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-09-10",
@@ -84280,13 +84293,6 @@
       "date": "2026-09-10",
       "time": "15:18:22",
       "iso": "2026-09-10T09:48:22.666Z",
-      "action": "updated remark for PF-JAVA-CT-BR-S at GALNEWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:18:07",
-      "iso": "2026-09-10T09:48:07.842Z",
       "action": "updated remark for PF-JAVA-CT-BR-S at GALNEWA: “50%”"
     }
   ]
