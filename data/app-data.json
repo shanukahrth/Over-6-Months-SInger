@@ -80877,6 +80877,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:47:01",
       "lastUpdated": "2026-09-10T09:17:01.931Z"
+    },
+    "LF-ORGN-DTO-WHT||POOJAPITIYA": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:47:41",
+      "lastUpdated": "2026-09-10T09:17:41.267Z"
     }
   },
   "showroomVisits": {
@@ -82941,6 +82948,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:47:41",
+      "iso": "2026-09-10T09:17:41.269Z",
+      "action": "updated remark for LF-ORGN-DTO-WHT at POOJAPITIYA: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:47:01",
       "iso": "2026-09-10T09:17:01.933Z",
       "action": "updated remark for WFL-GRIP-CT02-S at POOJAPITIYA: “Display - 50%”"
@@ -83280,13 +83294,6 @@
       "time": "14:13:45",
       "iso": "2026-09-10T08:43:45.274Z",
       "action": "updated remark for HON-X9C-12-256-BLK at GALAHA: “Display and Battery Issue - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:13:09",
-      "iso": "2026-09-10T08:43:09.553Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at GALAHA: “Display - 40%”"
     }
   ]
 }
