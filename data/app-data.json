@@ -80744,6 +80744,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:38:01",
       "lastUpdated": "2026-09-10T09:08:01.516Z"
+    },
+    "AS-14-I7-16-512-B7656-SIL||POOJAPITIYA": {
+      "remark": "Transferred",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:38:56",
+      "lastUpdated": "2026-09-10T09:08:56.240Z"
     }
   },
   "showroomVisits": {
@@ -82808,6 +82815,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:38:56",
+      "iso": "2026-09-10T09:08:56.240Z",
+      "action": "updated remark for AS-14-I7-16-512-B7656-SIL at POOJAPITIYA: “Transferred”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:38:01",
       "iso": "2026-09-10T09:08:01.517Z",
       "action": "updated remark for B-HIAG64223SXL at POOJAPITIYA: “Reported”"
@@ -83147,13 +83161,6 @@
       "time": "14:06:06",
       "iso": "2026-09-10T08:36:06.937Z",
       "action": "updated remark for WF-NAMAL-CT-S at GALAHA: “Unsellable - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:05:44",
-      "iso": "2026-09-10T08:35:44.120Z",
-      "action": "updated remark for WF-NAMAL-CT-S at GALAHA: “Unsellable”"
     }
   ]
 }
