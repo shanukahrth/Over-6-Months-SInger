@@ -81227,6 +81227,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:02:06",
       "lastUpdated": "2026-09-10T09:32:06.150Z"
+    },
+    "SIN-RFC-2058||POOJAPITIYA": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:02:11",
+      "lastUpdated": "2026-09-10T09:32:11.479Z"
+    },
+    "SIN-RFC-1819||POOJAPITIYA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:02:14",
+      "lastUpdated": "2026-09-10T09:32:14.544Z"
     }
   },
   "showroomVisits": {
@@ -83289,6 +83303,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:02:14",
+      "iso": "2026-09-10T09:32:14.545Z",
+      "action": "updated remark for SIN-RFC-1819 at POOJAPITIYA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:02:11",
+      "iso": "2026-09-10T09:32:11.480Z",
+      "action": "updated remark for SIN-RFC-2058 at POOJAPITIYA: “Active SKU”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:02:06",
@@ -83623,20 +83651,6 @@
       "time": "14:50:06",
       "iso": "2026-09-10T09:20:06.196Z",
       "action": "updated remark for LF-ECO-WU-SHW-S at THAMBUTTEGAMA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "14:49:54",
-      "iso": "2026-09-10T09:19:54.568Z",
-      "action": "updated remark for LF-ECO-SD-WNG-S at THAMBUTTEGAMA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "14:49:14",
-      "iso": "2026-09-10T09:19:14.460Z",
-      "action": "updated remark for SLFEGATE-CT101W at THAMBUTTEGAMA: “80%”"
     }
   ]
 }
