@@ -81066,6 +81066,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:56:14",
       "lastUpdated": "2026-09-10T09:26:14.404Z"
+    },
+    "STO-EO30C||POOJAPITIYA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:56:42",
+      "lastUpdated": "2026-09-10T09:26:42.599Z"
     }
   },
   "showroomVisits": {
@@ -83130,6 +83137,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:56:42",
+      "iso": "2026-09-10T09:26:42.600Z",
+      "action": "updated remark for STO-EO30C at POOJAPITIYA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:56:14",
       "iso": "2026-09-10T09:26:14.406Z",
       "action": "updated remark for PN-NF-GW1WSK at POOJAPITIYA: “50%”"
@@ -83469,13 +83483,6 @@
       "time": "14:40:58",
       "iso": "2026-09-10T09:10:58.721Z",
       "action": "updated remark for DELL3511-I3-8GB256-BLK at POOJAPITIYA: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:40:04",
-      "iso": "2026-09-10T09:10:04.750Z",
-      "action": "updated remark for DELL3510-PNTMSIL-BLK at POOJAPITIYA: “System discount - 80%”"
     }
   ]
 }
