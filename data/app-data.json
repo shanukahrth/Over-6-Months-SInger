@@ -80485,6 +80485,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:05:31",
       "lastUpdated": "2026-09-10T08:35:31.714Z"
+    },
+    "WF-NAMAL-CT-S||GALAHA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:05:44",
+      "lastUpdated": "2026-09-10T08:35:44.119Z"
     }
   },
   "showroomVisits": {
@@ -82541,6 +82548,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:05:44",
+      "iso": "2026-09-10T08:35:44.120Z",
+      "action": "updated remark for WF-NAMAL-CT-S at GALAHA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:05:31",
       "iso": "2026-09-10T08:35:31.716Z",
       "action": "updated remark for LF-MIKO-WD-SHW at GALAHA: “Damaged - 70%”"
@@ -82880,13 +82894,6 @@
       "time": "13:30:34",
       "iso": "2026-09-10T08:00:34.547Z",
       "action": "updated remark for LF-ECO-3WD-SHW at DIPPITIYA: “Damaged - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:30:14",
-      "iso": "2026-09-10T08:00:14.180Z",
-      "action": "updated remark for LF-ECO-3WD-SHW at DIPPITIYA: “Damaged - 60%”"
     }
   ]
 }
