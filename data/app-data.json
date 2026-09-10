@@ -80296,6 +80296,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:35:00",
       "lastUpdated": "2026-09-10T08:05:00.058Z"
+    },
+    "SL-TF2GCR||DIPPITIYA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:35:19",
+      "lastUpdated": "2026-09-10T08:05:19.162Z"
     }
   },
   "showroomVisits": {
@@ -82344,6 +82351,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:35:19",
+      "iso": "2026-09-10T08:05:19.163Z",
+      "action": "updated remark for SL-TF2GCR at DIPPITIYA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:35:00",
       "iso": "2026-09-10T08:05:00.060Z",
       "action": "updated remark for PCP50 at DIPPITIYA: “45%”"
@@ -82683,13 +82697,6 @@
       "time": "12:40:31",
       "iso": "2026-09-10T07:10:31.679Z",
       "action": "updated remark for KD-43X75K at THAMBUTTEGAMA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "12:33:47",
-      "iso": "2026-09-10T07:03:47.493Z",
-      "action": "updated remark for MSI-MOD15-B13M-I5-BLK at THAMBUTTEGAMA: “75%”"
     }
   ]
 }
