@@ -80604,6 +80604,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:13:45",
       "lastUpdated": "2026-09-10T08:43:45.273Z"
+    },
+    "ENG-UE10054||GALAHA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:14:14",
+      "lastUpdated": "2026-09-10T08:44:14.211Z"
     }
   },
   "showroomVisits": {
@@ -82660,6 +82667,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:14:14",
+      "iso": "2026-09-10T08:44:14.213Z",
+      "action": "updated remark for ENG-UE10054 at GALAHA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:13:45",
       "iso": "2026-09-10T08:43:45.274Z",
       "action": "updated remark for HON-X9C-12-256-BLK at GALAHA: “Display and Battery Issue - 70%”"
@@ -82999,13 +83013,6 @@
       "time": "13:41:44",
       "iso": "2026-09-10T08:11:44.885Z",
       "action": "updated DIPPITIYA showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:41:04",
-      "iso": "2026-09-10T08:11:04.332Z",
-      "action": "updated remark for WP-JUN-E-S at DIPPITIYA: “Display - 50%”"
     }
   ]
 }
