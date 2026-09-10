@@ -80849,6 +80849,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:45:04",
       "lastUpdated": "2026-09-10T09:15:04.725Z"
+    },
+    "LF-BUDGET-ST-AGO-S||POOJAPITIYA": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:45:33",
+      "lastUpdated": "2026-09-10T09:15:33.936Z"
     }
   },
   "showroomVisits": {
@@ -82913,6 +82920,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:45:33",
+      "iso": "2026-09-10T09:15:33.937Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at POOJAPITIYA: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:45:04",
       "iso": "2026-09-10T09:15:04.725Z",
       "action": "updated remark for WF-DT-B-S at POOJAPITIYA: “Display - 50%”"
@@ -83252,13 +83266,6 @@
       "time": "14:12:06",
       "iso": "2026-09-10T08:42:06.538Z",
       "action": "updated remark for URC-60 at GALAHA: “Display - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:11:29",
-      "iso": "2026-09-10T08:41:29.478Z",
-      "action": "updated remark for SLMC-18DSLHS at GALAHA: “Parts Missing - 70%”"
     }
   ]
 }
