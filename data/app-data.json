@@ -80646,6 +80646,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:18:48",
       "lastUpdated": "2026-09-10T08:48:48.436Z"
+    },
+    "MC8280||GALAHA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:19:14",
+      "lastUpdated": "2026-09-10T08:49:14.689Z"
     }
   },
   "showroomVisits": {
@@ -82702,6 +82709,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:19:14",
+      "iso": "2026-09-10T08:49:14.690Z",
+      "action": "updated remark for MC8280 at GALAHA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:19:11",
+      "iso": "2026-09-10T08:49:11.066Z",
+      "action": "updated remark for MC8280 at GALAHA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:18:48",
       "iso": "2026-09-10T08:48:48.437Z",
       "action": "updated remark for BTS-10KG at GALAHA: “40%”"
@@ -83033,20 +83054,6 @@
       "date": "2026-09-10",
       "time": "13:57:24",
       "iso": "2026-09-10T08:27:24.988Z",
-      "action": "updated remark for HFPA-GRAVITY-BLC at GALAHA: “MOP - 24,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:57:20",
-      "iso": "2026-09-10T08:27:20.481Z",
-      "action": "updated remark for HFPA-GRAVITY-BLC at GALAHA: “PN-BR-GY10-K422”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:57:19",
-      "iso": "2026-09-10T08:27:19.370Z",
       "action": "updated remark for HFPA-GRAVITY-BLC at GALAHA: “MOP - 24,000”"
     }
   ]
