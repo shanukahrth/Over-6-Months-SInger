@@ -80597,6 +80597,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:13:09",
       "lastUpdated": "2026-09-10T08:43:09.552Z"
+    },
+    "HON-X9C-12-256-BLK||GALAHA": {
+      "remark": "Display and Battery Issue - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:13:45",
+      "lastUpdated": "2026-09-10T08:43:45.273Z"
     }
   },
   "showroomVisits": {
@@ -82653,6 +82660,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:13:45",
+      "iso": "2026-09-10T08:43:45.274Z",
+      "action": "updated remark for HON-X9C-12-256-BLK at GALAHA: “Display and Battery Issue - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:13:09",
       "iso": "2026-09-10T08:43:09.553Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at GALAHA: “Display - 40%”"
@@ -82992,13 +83006,6 @@
       "time": "13:41:04",
       "iso": "2026-09-10T08:11:04.332Z",
       "action": "updated remark for WP-JUN-E-S at DIPPITIYA: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:40:52",
-      "iso": "2026-09-10T08:10:52.696Z",
-      "action": "updated remark for SLE55GENR at DIPPITIYA: “Additional 10%”"
     }
   ]
 }
