@@ -81010,6 +81010,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:53:12",
       "lastUpdated": "2026-09-10T09:23:12.849Z"
+    },
+    "PCR-FP28-264||POOJAPITIYA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:53:26",
+      "lastUpdated": "2026-09-10T09:23:26.190Z"
+    },
+    "KA-LW-185A||POOJAPITIYA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:53:40",
+      "lastUpdated": "2026-09-10T09:23:40.232Z"
     }
   },
   "showroomVisits": {
@@ -83074,6 +83088,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:53:40",
+      "iso": "2026-09-10T09:23:40.234Z",
+      "action": "updated remark for KA-LW-185A at POOJAPITIYA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:53:26",
+      "iso": "2026-09-10T09:23:26.191Z",
+      "action": "updated remark for PCR-FP28-264 at POOJAPITIYA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:53:12",
       "iso": "2026-09-10T09:23:12.850Z",
       "action": "updated remark for NCPO-OT275 at POOJAPITIYA: “30%”"
@@ -83406,20 +83434,6 @@
       "time": "14:28:59",
       "iso": "2026-09-10T08:58:59.312Z",
       "action": "updated GALAHA showroom (team: Team Central )"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:28:55",
-      "iso": "2026-09-10T08:58:55.215Z",
-      "action": "updated GALAHA showroom (visitDate: 2026-09-10)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:28:53",
-      "iso": "2026-09-10T08:58:53.331Z",
-      "action": "updated GALAHA showroom (visited: Yes)"
     }
   ]
 }
