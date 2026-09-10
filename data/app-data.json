@@ -81530,11 +81530,25 @@
       "lastUpdated": "2026-09-10T09:43:56.139Z"
     },
     "SLE40D600A||POOJAPITIYA": {
-      "remark": "60%",
+      "remark": "Revert - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-10",
-      "commentTime": "15:14:40",
-      "lastUpdated": "2026-09-10T09:44:40.458Z"
+      "commentTime": "15:15:09",
+      "lastUpdated": "2026-09-10T09:45:09.029Z"
+    },
+    "SLE40E710||POOJAPITIYA": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:15:10",
+      "lastUpdated": "2026-09-10T09:45:10.048Z"
+    },
+    "SLE40E810C||POOJAPITIYA": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:15:10",
+      "lastUpdated": "2026-09-10T09:45:10.973Z"
     }
   },
   "showroomVisits": {
@@ -83599,6 +83613,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:15:10",
+      "iso": "2026-09-10T09:45:10.974Z",
+      "action": "updated remark for SLE40E810C at POOJAPITIYA: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:15:10",
+      "iso": "2026-09-10T09:45:10.049Z",
+      "action": "updated remark for SLE40E710 at POOJAPITIYA: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:15:09",
+      "iso": "2026-09-10T09:45:09.030Z",
+      "action": "updated remark for SLE40D600A at POOJAPITIYA: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:14:40",
       "iso": "2026-09-10T09:44:40.459Z",
       "action": "updated remark for SLE40D600A at POOJAPITIYA: “60%”"
@@ -83924,27 +83959,6 @@
       "time": "15:03:04",
       "iso": "2026-09-10T09:33:04.759Z",
       "action": "updated remark for HON-X5-2-32-BLK at POOJAPITIYA: “Damaged - 60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:03:00",
-      "iso": "2026-09-10T09:33:00.389Z",
-      "action": "updated remark for WP-NSP-J-S at THAMBUTTEGAMA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:02:41",
-      "iso": "2026-09-10T09:32:41.536Z",
-      "action": "updated remark for R-RGS150-SV at THAMBUTTEGAMA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:02:41",
-      "iso": "2026-09-10T09:32:41.645Z",
-      "action": "updated remark for HON-X5-2-32-BLK at POOJAPITIYA: “Reported”"
     }
   ]
 }
