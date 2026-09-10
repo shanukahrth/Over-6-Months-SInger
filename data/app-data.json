@@ -81677,11 +81677,11 @@
       "lastUpdated": "2026-09-10T09:55:01.100Z"
     },
     "MID-MJ-KM6001W||GALNEWA": {
-      "remark": "35%",
+      "remark": "40%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-10",
-      "commentTime": "15:25:24",
-      "lastUpdated": "2026-09-10T09:55:24.497Z"
+      "commentTime": "15:25:36",
+      "lastUpdated": "2026-09-10T09:55:36.589Z"
     }
   },
   "showroomVisits": {
@@ -83754,6 +83754,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:25:36",
+      "iso": "2026-09-10T09:55:36.591Z",
+      "action": "updated remark for MID-MJ-KM6001W at GALNEWA: “40%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:25:24",
       "iso": "2026-09-10T09:55:24.500Z",
       "action": "updated remark for MID-MJ-KM6001W at GALNEWA: “35%”"
@@ -84093,13 +84100,6 @@
       "time": "15:09:46",
       "iso": "2026-09-10T09:39:46.696Z",
       "action": "updated remark for SM-MC3368 at POOJAPITIYA: “580%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:09:32",
-      "iso": "2026-09-10T09:39:32.723Z",
-      "action": "updated remark for DH-A-HFW1200TLP-A-36B-S5 at POOJAPITIYA: “70%”"
     }
   ]
 }
