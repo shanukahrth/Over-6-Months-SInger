@@ -81990,6 +81990,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:41:31",
       "lastUpdated": "2026-09-10T10:11:31.838Z"
+    },
+    "NCPO-DC200||GALAGEDARA": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:41:58",
+      "lastUpdated": "2026-09-10T10:11:58.337Z"
     }
   },
   "showroomVisits": {
@@ -84072,6 +84079,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:41:58",
+      "iso": "2026-09-10T10:11:58.338Z",
+      "action": "updated remark for NCPO-DC200 at GALAGEDARA: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:41:56",
+      "iso": "2026-09-10T10:11:56.972Z",
+      "action": "updated remark for NCPO-DC200 at GALAGEDARA: “45%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:41:42",
@@ -84406,20 +84427,6 @@
       "time": "15:28:01",
       "iso": "2026-09-10T09:58:01.028Z",
       "action": "updated remark for SWH-118E at GALNEWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:27:42",
-      "iso": "2026-09-10T09:57:42.422Z",
-      "action": "updated remark for SLE43D1800TC at GALNEWA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:26:33",
-      "iso": "2026-09-10T09:56:33.762Z",
-      "action": "updated remark for SS-PS16-AG at GALNEWA: “60%”"
     }
   ]
 }
