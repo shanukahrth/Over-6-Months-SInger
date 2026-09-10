@@ -80723,6 +80723,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:35:32",
       "lastUpdated": "2026-09-10T09:05:32.049Z"
+    },
+    "SIN-PSVX938N||POOJAPITIYA": {
+      "remark": "MOP - 18,500",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:35:59",
+      "lastUpdated": "2026-09-10T09:05:59.260Z"
     }
   },
   "showroomVisits": {
@@ -82787,6 +82794,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:35:59",
+      "iso": "2026-09-10T09:05:59.261Z",
+      "action": "updated remark for SIN-PSVX938N at POOJAPITIYA: “MOP - 18,500”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:35:32",
       "iso": "2026-09-10T09:05:32.050Z",
       "action": "updated remark for MHC-V13 at POOJAPITIYA: “Parts Missing - 80%”"
@@ -83126,13 +83140,6 @@
       "time": "14:05:11",
       "iso": "2026-09-10T08:35:11.014Z",
       "action": "updated remark for LF-BUDGET-ST-CLM-S at GALAHA: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:04:53",
-      "iso": "2026-09-10T08:34:53.748Z",
-      "action": "updated remark for LF-OX-BR-M-S at GALAHA: “Shop use”"
     }
   ]
 }
