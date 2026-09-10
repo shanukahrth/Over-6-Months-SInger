@@ -81556,6 +81556,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:16:05",
       "lastUpdated": "2026-09-10T09:46:05.103Z"
+    },
+    "SMGUA32N4010||POOJAPITIYA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:16:26",
+      "lastUpdated": "2026-09-10T09:46:26.159Z"
+    },
+    "TCL65C655||POOJAPITIYA": {
+      "remark": "40%`",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:16:31",
+      "lastUpdated": "2026-09-10T09:46:31.236Z"
     }
   },
   "showroomVisits": {
@@ -83620,6 +83634,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:16:31",
+      "iso": "2026-09-10T09:46:31.237Z",
+      "action": "updated remark for TCL65C655 at POOJAPITIYA: “40%`”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:16:26",
+      "iso": "2026-09-10T09:46:26.160Z",
+      "action": "updated remark for SMGUA32N4010 at POOJAPITIYA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:16:05",
       "iso": "2026-09-10T09:46:05.104Z",
       "action": "updated remark for SLE43G890 at POOJAPITIYA: “60%”"
@@ -83952,20 +83980,6 @@
       "time": "15:03:48",
       "iso": "2026-09-10T09:33:48.067Z",
       "action": "updated remark for SL-ECO55-SV at THAMBUTTEGAMA: “12.5%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:03:19",
-      "iso": "2026-09-10T09:33:19.248Z",
-      "action": "updated remark for SLE40D600A at THAMBUTTEGAMA: “SOLD”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:03:08",
-      "iso": "2026-09-10T09:33:08.880Z",
-      "action": "updated remark for HON-X5-2-32-BLK at POOJAPITIYA: “Damaged - 70%”"
     }
   ]
 }
