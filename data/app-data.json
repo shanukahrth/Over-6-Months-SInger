@@ -81633,6 +81633,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:21:05",
       "lastUpdated": "2026-09-10T09:51:05.076Z"
+    },
+    "SIN-BS30||GALNEWA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:21:16",
+      "lastUpdated": "2026-09-10T09:51:16.938Z"
     }
   },
   "showroomVisits": {
@@ -83705,6 +83712,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "15:21:16",
+      "iso": "2026-09-10T09:51:16.940Z",
+      "action": "updated remark for SIN-BS30 at GALNEWA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "15:21:05",
       "iso": "2026-09-10T09:51:05.080Z",
       "action": "updated remark for WP-SS-SUB1-S at GALNEWA: “30%”"
@@ -84044,13 +84058,6 @@
       "time": "15:08:11",
       "iso": "2026-09-10T09:38:11.507Z",
       "action": "updated remark for GEO-200D at POOJAPITIYA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:08:06",
-      "iso": "2026-09-10T09:38:06.577Z",
-      "action": "updated remark for GEO-182S-SV at POOJAPITIYA: “25%”"
     }
   ]
 }
