@@ -80667,6 +80667,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:21:54",
       "lastUpdated": "2026-09-10T08:51:54.625Z"
+    },
+    "SLE32D1800||GALAHA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:22:17",
+      "lastUpdated": "2026-09-10T08:52:17.356Z"
     }
   },
   "showroomVisits": {
@@ -82723,6 +82730,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:22:17",
+      "iso": "2026-09-10T08:52:17.357Z",
+      "action": "updated remark for SLE32D1800 at GALAHA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:21:54",
       "iso": "2026-09-10T08:51:54.626Z",
       "action": "updated remark for SLE20S1300 at GALAHA: “Shop use”"
@@ -83062,13 +83076,6 @@
       "time": "13:57:49",
       "iso": "2026-09-10T08:27:49.370Z",
       "action": "updated remark for SIN-K13 at GALAHA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:57:46",
-      "iso": "2026-09-10T08:27:46.523Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at GALAHA: “MOP - 30,000”"
     }
   ]
 }
