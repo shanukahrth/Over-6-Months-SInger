@@ -80842,6 +80842,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:44:33",
       "lastUpdated": "2026-09-10T09:14:33.501Z"
+    },
+    "WF-DT-B-S||POOJAPITIYA": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:45:04",
+      "lastUpdated": "2026-09-10T09:15:04.725Z"
     }
   },
   "showroomVisits": {
@@ -82906,6 +82913,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:45:04",
+      "iso": "2026-09-10T09:15:04.725Z",
+      "action": "updated remark for WF-DT-B-S at POOJAPITIYA: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:44:58",
+      "iso": "2026-09-10T09:14:58.101Z",
+      "action": "updated remark for WF-DT-B-S at POOJAPITIYA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:44:33",
       "iso": "2026-09-10T09:14:33.502Z",
       "action": "updated remark for OF-COM-T-S at POOJAPITIYA: “Unsellable”"
@@ -83238,20 +83259,6 @@
       "time": "14:11:29",
       "iso": "2026-09-10T08:41:29.478Z",
       "action": "updated remark for SLMC-18DSLHS at GALAHA: “Parts Missing - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:11:03",
-      "iso": "2026-09-10T08:41:03.799Z",
-      "action": "updated remark for PCP50 at GALAHA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:11:02",
-      "iso": "2026-09-10T08:41:02.239Z",
-      "action": "updated remark for PCP30 at GALAHA: “70%”"
     }
   ]
 }
