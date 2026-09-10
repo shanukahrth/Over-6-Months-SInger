@@ -80499,6 +80499,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:06:26",
       "lastUpdated": "2026-09-10T08:36:26.273Z"
+    },
+    "WFL-SPM-72X72X7-S||GALAHA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:06:37",
+      "lastUpdated": "2026-09-10T08:36:37.213Z"
     }
   },
   "showroomVisits": {
@@ -82555,6 +82562,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:06:37",
+      "iso": "2026-09-10T08:36:37.215Z",
+      "action": "updated remark for WFL-SPM-72X72X7-S at GALAHA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:06:26",
       "iso": "2026-09-10T08:36:26.274Z",
       "action": "updated remark for WF-PRESTON-DTO-S at GALAHA: “Discolor - 70%”"
@@ -82894,13 +82908,6 @@
       "time": "13:32:13",
       "iso": "2026-09-10T08:02:13.293Z",
       "action": "updated remark for MID-MJ-KM6001W at DIPPITIYA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:31:35",
-      "iso": "2026-09-10T08:01:35.594Z",
-      "action": "updated remark for KN-HFP50 at DIPPITIYA: “Cookery Demo Product - 60%”"
     }
   ]
 }
