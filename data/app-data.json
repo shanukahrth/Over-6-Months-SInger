@@ -80394,6 +80394,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:57:26",
       "lastUpdated": "2026-09-10T08:27:26.544Z"
+    },
+    "HFPA-MUSICBOX-BLC||GALAHA": {
+      "remark": "MOP - 30,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:57:46",
+      "lastUpdated": "2026-09-10T08:27:46.522Z"
+    },
+    "SIN-K13||GALAHA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:57:49",
+      "lastUpdated": "2026-09-10T08:27:49.369Z"
     }
   },
   "showroomVisits": {
@@ -82450,6 +82464,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:57:49",
+      "iso": "2026-09-10T08:27:49.370Z",
+      "action": "updated remark for SIN-K13 at GALAHA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "13:57:46",
+      "iso": "2026-09-10T08:27:46.523Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at GALAHA: “MOP - 30,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:57:26",
       "iso": "2026-09-10T08:27:26.546Z",
       "action": "updated remark for HFPA-GRAVITY-BLU at GALAHA: “MOP - 24,000”"
@@ -82782,20 +82810,6 @@
       "time": "13:05:35",
       "iso": "2026-09-10T07:35:35.380Z",
       "action": "updated remark for SWM-FA70R at THAMBUTTEGAMA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "13:05:32",
-      "iso": "2026-09-10T07:35:32.152Z",
-      "action": "updated remark for SWM-FA70R at THAMBUTTEGAMA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "13:04:56",
-      "iso": "2026-09-10T07:34:56.910Z",
-      "action": "updated remark for GEO-182S-BU1 at THAMBUTTEGAMA: “25%”"
     }
   ]
 }
