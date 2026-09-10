@@ -80534,6 +80534,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:08:31",
       "lastUpdated": "2026-09-10T08:38:31.984Z"
+    },
+    "KA-LW-185A||GALAHA": {
+      "remark": "Display - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:08:46",
+      "lastUpdated": "2026-09-10T08:38:46.643Z"
     }
   },
   "showroomVisits": {
@@ -82590,6 +82597,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:08:46",
+      "iso": "2026-09-10T08:38:46.644Z",
+      "action": "updated remark for KA-LW-185A at GALAHA: “Display - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:08:31",
       "iso": "2026-09-10T08:38:31.985Z",
       "action": "updated remark for SWH-118E at GALAHA: “Reported”"
@@ -82929,13 +82943,6 @@
       "time": "13:34:41",
       "iso": "2026-09-10T08:04:41.324Z",
       "action": "updated remark for SMW823AY7 at DIPPITIYA: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:34:26",
-      "iso": "2026-09-10T08:04:26.872Z",
-      "action": "updated remark for R-BWS-02 at DIPPITIYA: “Display - 35%”"
     }
   ]
 }
