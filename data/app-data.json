@@ -17546,8 +17546,8 @@
       "remark": "Damaged",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-10",
-      "commentTime": "11:08:48",
-      "lastUpdated": "2026-09-10T05:38:48.997Z"
+      "commentTime": "11:09:06",
+      "lastUpdated": "2026-09-10T05:39:06.418Z"
     },
     "SLE42D2070TC||KIRIELLA": {
       "remark": "70%",
@@ -82078,6 +82078,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "11:09:06",
+      "iso": "2026-09-10T05:39:06.420Z",
+      "action": "updated remark for SWM-FA70R at KIRIELLA: “Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "11:08:48",
       "iso": "2026-09-10T05:38:48.999Z",
       "action": "updated remark for SWM-FA70R at KIRIELLA: “Damaged”"
@@ -82417,13 +82424,6 @@
       "time": "14:53:15",
       "iso": "2026-09-09T09:23:15.243Z",
       "action": "updated remark for SLE55GENR at KEGALLE B: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "14:52:56",
-      "iso": "2026-09-09T09:22:56.330Z",
-      "action": "updated remark for SLE32D2010TC at KEGALLE B: “Revert 70%”"
     }
   ]
 }
