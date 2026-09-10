@@ -67355,11 +67355,11 @@
       "lastUpdated": "2026-09-10T08:34:27.381Z"
     },
     "SL-PB-426||GALAHA": {
-      "remark": "90% -Damaged",
-      "commentedBy": "Kaveesha",
-      "commentDate": "2026-09-01",
-      "commentTime": "09:24:38",
-      "lastUpdated": "2026-09-01T03:54:38.502Z"
+      "remark": "Display - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:09:48",
+      "lastUpdated": "2026-09-10T08:39:48.075Z"
     },
     "PMG-TEON||GALAHA": {
       "remark": "90% - Damaged",
@@ -82597,6 +82597,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:09:48",
+      "iso": "2026-09-10T08:39:48.076Z",
+      "action": "updated remark for SL-PB-426 at GALAHA: “Display - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:09:32",
       "iso": "2026-09-10T08:39:32.972Z",
       "action": "updated remark for PMG-TEON at GALAHA: “90% - Damaged”"
@@ -82936,13 +82943,6 @@
       "time": "13:35:19",
       "iso": "2026-09-10T08:05:19.163Z",
       "action": "updated remark for SL-TF2GCR at DIPPITIYA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:35:00",
-      "iso": "2026-09-10T08:05:00.060Z",
-      "action": "updated remark for PCP50 at DIPPITIYA: “45%”"
     }
   ]
 }
