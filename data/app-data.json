@@ -81787,6 +81787,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:32:04",
       "lastUpdated": "2026-09-10T10:02:04.410Z"
+    },
+    "WFL-MONACO-08-S||GALNEWA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:32:12",
+      "lastUpdated": "2026-09-10T10:02:12.616Z"
     }
   },
   "showroomVisits": {
@@ -83857,6 +83864,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:32:12",
+      "iso": "2026-09-10T10:02:12.618Z",
+      "action": "updated remark for WFL-MONACO-08-S at GALNEWA: “60%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-10",
       "time": "15:32:04",
@@ -84198,13 +84212,6 @@
       "time": "15:14:40",
       "iso": "2026-09-10T09:44:40.459Z",
       "action": "updated remark for SLE40D600A at POOJAPITIYA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:13:56",
-      "iso": "2026-09-10T09:43:56.139Z",
-      "action": "updated remark for SLE40D4000 at POOJAPITIYA: “Revert - 80%”"
     }
   ]
 }
