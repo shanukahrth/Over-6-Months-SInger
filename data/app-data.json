@@ -81024,6 +81024,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:53:40",
       "lastUpdated": "2026-09-10T09:23:40.232Z"
+    },
+    "KA-SKA3002||POOJAPITIYA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:53:51",
+      "lastUpdated": "2026-09-10T09:23:51.980Z"
     }
   },
   "showroomVisits": {
@@ -83088,6 +83095,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:53:51",
+      "iso": "2026-09-10T09:23:51.981Z",
+      "action": "updated remark for KA-SKA3002 at POOJAPITIYA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:53:40",
       "iso": "2026-09-10T09:23:40.234Z",
       "action": "updated remark for KA-LW-185A at POOJAPITIYA: “60%”"
@@ -83427,13 +83441,6 @@
       "time": "14:35:32",
       "iso": "2026-09-10T09:05:32.050Z",
       "action": "updated remark for MHC-V13 at POOJAPITIYA: “Parts Missing - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:28:59",
-      "iso": "2026-09-10T08:58:59.312Z",
-      "action": "updated GALAHA showroom (team: Team Central )"
     }
   ]
 }
