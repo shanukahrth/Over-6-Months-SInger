@@ -81794,6 +81794,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:32:12",
       "lastUpdated": "2026-09-10T10:02:12.616Z"
+    },
+    "SMGAR50F12D0J||GALAGEDARA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:32:26",
+      "lastUpdated": "2026-09-10T10:02:26.793Z"
     }
   },
   "showroomVisits": {
@@ -83864,6 +83871,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:32:26",
+      "iso": "2026-09-10T10:02:26.793Z",
+      "action": "updated remark for SMGAR50F12D0J at GALAGEDARA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:32:23",
+      "iso": "2026-09-10T10:02:23.948Z",
+      "action": "updated remark for SMGAR50F12D0J at GALAGEDARA: “305”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:32:12",
@@ -84198,20 +84219,6 @@
       "time": "15:15:10",
       "iso": "2026-09-10T09:45:10.049Z",
       "action": "updated remark for SLE40E710 at POOJAPITIYA: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:15:09",
-      "iso": "2026-09-10T09:45:09.030Z",
-      "action": "updated remark for SLE40D600A at POOJAPITIYA: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:14:40",
-      "iso": "2026-09-10T09:44:40.459Z",
-      "action": "updated remark for SLE40D600A at POOJAPITIYA: “60%”"
     }
   ]
 }
