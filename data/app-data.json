@@ -81486,6 +81486,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:11:42",
       "lastUpdated": "2026-09-10T09:41:42.851Z"
+    },
+    "PN-TH-32M402N||POOJAPITIYA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:12:06",
+      "lastUpdated": "2026-09-10T09:42:06.604Z"
     }
   },
   "showroomVisits": {
@@ -83550,6 +83557,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:12:06",
+      "iso": "2026-09-10T09:42:06.605Z",
+      "action": "updated remark for PN-TH-32M402N at POOJAPITIYA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:11:42",
       "iso": "2026-09-10T09:41:42.852Z",
       "action": "updated remark for SLE32E710 at POOJAPITIYA: “70%”"
@@ -83889,13 +83903,6 @@
       "time": "15:01:38",
       "iso": "2026-09-10T09:31:38.525Z",
       "action": "updated remark for SL-S203 at POOJAPITIYA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:01:24",
-      "iso": "2026-09-10T09:31:24.315Z",
-      "action": "updated remark for SLMC-18DSLHS at POOJAPITIYA: “Damaged - 80%”"
     }
   ]
 }
