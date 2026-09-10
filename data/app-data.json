@@ -83926,12 +83926,19 @@
     },
     "LF-MONT-BDQ-SHW-S||GALNEWA": {
       "sold": false,
-      "comment": "5O",
+      "comment": "5O%",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-10"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:34:29",
+      "iso": "2026-09-10T10:04:29.831Z",
+      "action": "updated sold comment for LF-MONT-BDQ-SHW-S at GALNEWA: “5O%”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
@@ -84274,13 +84281,6 @@
       "time": "15:17:38",
       "iso": "2026-09-10T09:47:38.760Z",
       "action": "updated remark for MID-D30-20EVN1 at POOJAPITIYA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:17:18",
-      "iso": "2026-09-10T09:47:18.213Z",
-      "action": "updated remark for CLOTHLINE-35PVC at POOJAPITIYA: “80%”"
     }
   ]
 }
