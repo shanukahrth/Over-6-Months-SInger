@@ -81850,6 +81850,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:34:03",
       "lastUpdated": "2026-09-10T10:04:03.399Z"
+    },
+    "KLV-40R352E||GALNEWA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:34:06",
+      "lastUpdated": "2026-09-10T10:04:06.019Z"
     }
   },
   "showroomVisits": {
@@ -83916,9 +83923,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-09"
+    },
+    "LF-MONT-BDQ-SHW-S||GALNEWA": {
+      "sold": false,
+      "comment": "5O",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-10"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:34:06",
+      "iso": "2026-09-10T10:04:06.021Z",
+      "action": "updated remark for KLV-40R352E at GALNEWA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-09-10",
@@ -84260,13 +84280,6 @@
       "date": "2026-09-10",
       "time": "15:17:18",
       "iso": "2026-09-10T09:47:18.213Z",
-      "action": "updated remark for CLOTHLINE-35PVC at POOJAPITIYA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:17:16",
-      "iso": "2026-09-10T09:47:16.872Z",
       "action": "updated remark for CLOTHLINE-35PVC at POOJAPITIYA: “80%”"
     }
   ]
