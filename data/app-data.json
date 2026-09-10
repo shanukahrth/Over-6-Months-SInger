@@ -80282,6 +80282,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "13:34:41",
       "lastUpdated": "2026-09-10T08:04:41.323Z"
+    },
+    "PCP30||DIPPITIYA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:34:58",
+      "lastUpdated": "2026-09-10T08:04:58.074Z"
+    },
+    "PCP50||DIPPITIYA": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "13:35:00",
+      "lastUpdated": "2026-09-10T08:05:00.058Z"
     }
   },
   "showroomVisits": {
@@ -82330,6 +82344,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "13:35:00",
+      "iso": "2026-09-10T08:05:00.060Z",
+      "action": "updated remark for PCP50 at DIPPITIYA: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "13:34:58",
+      "iso": "2026-09-10T08:04:58.075Z",
+      "action": "updated remark for PCP30 at DIPPITIYA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "13:34:41",
       "iso": "2026-09-10T08:04:41.324Z",
       "action": "updated remark for SMW823AY7 at DIPPITIYA: “45%”"
@@ -82662,20 +82690,6 @@
       "time": "12:33:47",
       "iso": "2026-09-10T07:03:47.493Z",
       "action": "updated remark for MSI-MOD15-B13M-I5-BLK at THAMBUTTEGAMA: “75%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "12:33:34",
-      "iso": "2026-09-10T07:03:34.206Z",
-      "action": "updated remark for MB-SAFARI4S-RED at THAMBUTTEGAMA: “NO DISCOUNT”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "12:33:11",
-      "iso": "2026-09-10T07:03:11.778Z",
-      "action": "updated remark for MB-TLG-F71-WHT at THAMBUTTEGAMA: “-”"
     }
   ]
 }
