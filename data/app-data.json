@@ -80569,6 +80569,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:11:03",
       "lastUpdated": "2026-09-10T08:41:03.798Z"
+    },
+    "SLMC-18DSLHS||GALAHA": {
+      "remark": "Parts Missing - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:11:29",
+      "lastUpdated": "2026-09-10T08:41:29.477Z"
     }
   },
   "showroomVisits": {
@@ -82625,6 +82632,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:11:29",
+      "iso": "2026-09-10T08:41:29.478Z",
+      "action": "updated remark for SLMC-18DSLHS at GALAHA: “Parts Missing - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:11:03",
       "iso": "2026-09-10T08:41:03.799Z",
       "action": "updated remark for PCP50 at GALAHA: “70%”"
@@ -82964,13 +82978,6 @@
       "time": "13:37:31",
       "iso": "2026-09-10T08:07:31.945Z",
       "action": "updated remark for SIN-PR-K340 at DIPPITIYA: “Additional 15%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:37:14",
-      "iso": "2026-09-10T08:07:14.443Z",
-      "action": "updated remark for DH-I-S22FP-36B-IMOU at DIPPITIYA: “70%”"
     }
   ]
 }
