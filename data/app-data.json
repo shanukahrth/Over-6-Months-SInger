@@ -81402,6 +81402,20 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:08:15",
       "lastUpdated": "2026-09-10T09:38:15.843Z"
+    },
+    "SMGRT28A3021GS||POOJAPITIYA": {
+      "remark": "MOP - 135,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:08:44",
+      "lastUpdated": "2026-09-10T09:38:44.960Z"
+    },
+    "WP-NEO258NF||POOJAPITIYA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:08:47",
+      "lastUpdated": "2026-09-10T09:38:47.332Z"
     }
   },
   "showroomVisits": {
@@ -83466,6 +83480,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:08:47",
+      "iso": "2026-09-10T09:38:47.333Z",
+      "action": "updated remark for WP-NEO258NF at POOJAPITIYA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:08:44",
+      "iso": "2026-09-10T09:38:44.963Z",
+      "action": "updated remark for SMGRT28A3021GS at POOJAPITIYA: “MOP - 135,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:08:15",
       "iso": "2026-09-10T09:38:15.844Z",
       "action": "updated remark for GEO-242D-SV at POOJAPITIYA: “25%”"
@@ -83798,20 +83826,6 @@
       "time": "14:58:49",
       "iso": "2026-09-10T09:28:49.290Z",
       "action": "updated remark for KLV-32W602D at THAMBUTTEGAMA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "14:58:17",
-      "iso": "2026-09-10T09:28:17.991Z",
-      "action": "updated remark for SWH-118EP at THAMBUTTEGAMA: “55%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "14:57:43",
-      "iso": "2026-09-10T09:27:43.476Z",
-      "action": "updated remark for AES-HAV-30S at THAMBUTTEGAMA: “10%”"
     }
   ]
 }
