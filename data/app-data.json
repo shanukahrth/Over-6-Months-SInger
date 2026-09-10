@@ -80982,6 +80982,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:52:32",
       "lastUpdated": "2026-09-10T09:22:32.013Z"
+    },
+    "TF-SI-ESS-242||POOJAPITIYA": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:52:43",
+      "lastUpdated": "2026-09-10T09:22:43.744Z"
     }
   },
   "showroomVisits": {
@@ -83044,6 +83051,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:52:43",
+      "iso": "2026-09-10T09:22:43.745Z",
+      "action": "updated remark for TF-SI-ESS-242 at POOJAPITIYA: “Active SKU”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "14:52:32",
@@ -83385,13 +83399,6 @@
       "time": "14:25:12",
       "iso": "2026-09-10T08:55:12.923Z",
       "action": "updated remark for SIN-HPW0317 at GALAHA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:24:34",
-      "iso": "2026-09-10T08:54:34.546Z",
-      "action": "updated remark for SMGUA43T5400 at GALAHA: “MOP - 100,000”"
     }
   ]
 }
