@@ -80989,6 +80989,27 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:52:43",
       "lastUpdated": "2026-09-10T09:22:43.744Z"
+    },
+    "NCPDG-OT250||POOJAPITIYA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:53:08",
+      "lastUpdated": "2026-09-10T09:23:08.263Z"
+    },
+    "NCPO-FP200||POOJAPITIYA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:53:09",
+      "lastUpdated": "2026-09-10T09:23:09.776Z"
+    },
+    "NCPO-OT275||POOJAPITIYA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:53:12",
+      "lastUpdated": "2026-09-10T09:23:12.849Z"
     }
   },
   "showroomVisits": {
@@ -83053,6 +83074,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:53:12",
+      "iso": "2026-09-10T09:23:12.850Z",
+      "action": "updated remark for NCPO-OT275 at POOJAPITIYA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:53:09",
+      "iso": "2026-09-10T09:23:09.776Z",
+      "action": "updated remark for NCPO-FP200 at POOJAPITIYA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "14:53:08",
+      "iso": "2026-09-10T09:23:08.264Z",
+      "action": "updated remark for NCPDG-OT250 at POOJAPITIYA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:52:43",
       "iso": "2026-09-10T09:22:43.745Z",
       "action": "updated remark for TF-SI-ESS-242 at POOJAPITIYA: “Active SKU”"
@@ -83378,27 +83420,6 @@
       "time": "14:28:53",
       "iso": "2026-09-10T08:58:53.331Z",
       "action": "updated GALAHA showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:26:53",
-      "iso": "2026-09-10T08:56:53.886Z",
-      "action": "updated remark for WP-NSP-J-S at GALAHA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:26:09",
-      "iso": "2026-09-10T08:56:09.154Z",
-      "action": "updated remark for SWM-FA70R at GALAHA: “Additional 30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:25:12",
-      "iso": "2026-09-10T08:55:12.923Z",
-      "action": "updated remark for SIN-HPW0317 at GALAHA: “Unsellable”"
     }
   ]
 }
