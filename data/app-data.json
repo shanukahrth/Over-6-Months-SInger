@@ -80611,6 +80611,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:14:14",
       "lastUpdated": "2026-09-10T08:44:14.211Z"
+    },
+    "HON-BUDS-X6||GALAHA": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:14:38",
+      "lastUpdated": "2026-09-10T08:44:38.441Z"
     }
   },
   "showroomVisits": {
@@ -82667,6 +82674,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:14:38",
+      "iso": "2026-09-10T08:44:38.442Z",
+      "action": "updated remark for HON-BUDS-X6 at GALAHA: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:14:14",
       "iso": "2026-09-10T08:44:14.213Z",
       "action": "updated remark for ENG-UE10054 at GALAHA: “Unsellable”"
@@ -83006,13 +83020,6 @@
       "time": "13:41:46",
       "iso": "2026-09-10T08:11:46.980Z",
       "action": "updated DIPPITIYA showroom (visitDate: 2026-09-10)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:41:44",
-      "iso": "2026-09-10T08:11:44.885Z",
-      "action": "updated DIPPITIYA showroom (visited: Yes)"
     }
   ]
 }
