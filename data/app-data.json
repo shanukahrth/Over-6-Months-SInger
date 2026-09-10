@@ -81346,6 +81346,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:06:21",
       "lastUpdated": "2026-09-10T09:36:21.749Z"
+    },
+    "SMG-A06-6-128-BLK||POOJAPITIYA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:06:33",
+      "lastUpdated": "2026-09-10T09:36:33.227Z"
     }
   },
   "showroomVisits": {
@@ -83408,6 +83415,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-10",
+      "time": "15:06:33",
+      "iso": "2026-09-10T09:36:33.228Z",
+      "action": "updated remark for SMG-A06-6-128-BLK at POOJAPITIYA: “Reported”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
       "time": "15:06:21",
@@ -83749,13 +83763,6 @@
       "time": "14:55:34",
       "iso": "2026-09-10T09:25:34.624Z",
       "action": "updated remark for HFPA-MUSICBOX200-BLK at THAMBUTTEGAMA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:55:29",
-      "iso": "2026-09-10T09:25:29.053Z",
-      "action": "updated remark for MID-MF-TN40D2 at POOJAPITIYA: “40%”"
     }
   ]
 }
