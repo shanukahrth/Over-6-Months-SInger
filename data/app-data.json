@@ -82137,6 +82137,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:49:58",
       "lastUpdated": "2026-09-10T10:19:58.780Z"
+    },
+    "SIN-PR-K340||GALAGEDARA": {
+      "remark": "Additional 15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:50:15",
+      "lastUpdated": "2026-09-10T10:20:15.301Z"
     }
   },
   "showroomVisits": {
@@ -84221,6 +84228,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:50:15",
+      "iso": "2026-09-10T10:20:15.302Z",
+      "action": "updated remark for SIN-PR-K340 at GALAGEDARA: “Additional 15%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:49:58",
       "iso": "2026-09-10T10:19:58.781Z",
       "action": "updated remark for DH-I-PFS3009-8ET-96 at GALAGEDARA: “70%”"
@@ -84560,13 +84574,6 @@
       "time": "15:35:17",
       "iso": "2026-09-10T10:05:17.677Z",
       "action": "updated remark for FAN-C-NR at GALAGEDARA: “Discolor - 60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:35:03",
-      "iso": "2026-09-10T10:05:03.307Z",
-      "action": "updated sold comment for CAN-I-G4010 at GALNEWA: “50%”"
     }
   ]
 }
