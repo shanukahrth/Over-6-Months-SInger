@@ -80688,6 +80688,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:24:11",
       "lastUpdated": "2026-09-10T08:54:11.495Z"
+    },
+    "SMGUA43T5400||GALAHA": {
+      "remark": "MOP - 100,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:24:34",
+      "lastUpdated": "2026-09-10T08:54:34.545Z"
     }
   },
   "showroomVisits": {
@@ -82744,6 +82751,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:24:34",
+      "iso": "2026-09-10T08:54:34.546Z",
+      "action": "updated remark for SMGUA43T5400 at GALAHA: “MOP - 100,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:24:11",
       "iso": "2026-09-10T08:54:11.497Z",
       "action": "updated remark for SMGUA32N4010 at GALAHA: “reported”"
@@ -83083,13 +83097,6 @@
       "time": "14:00:00",
       "iso": "2026-09-10T08:30:00.466Z",
       "action": "updated remark for ACER-AG15-14G-I5-16-512-S at GALAHA: “Display -”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:59:12",
-      "iso": "2026-09-10T08:29:12.563Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at GALAHA: “Physically not available”"
     }
   ]
 }
