@@ -81087,6 +81087,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:57:15",
       "lastUpdated": "2026-09-10T09:27:15.311Z"
+    },
+    "AES-HAV-30S||THAMBUTTEGAMA": {
+      "remark": "10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:57:43",
+      "lastUpdated": "2026-09-10T09:27:43.473Z"
     }
   },
   "showroomVisits": {
@@ -83149,6 +83156,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "14:57:43",
+      "iso": "2026-09-10T09:27:43.476Z",
+      "action": "updated remark for AES-HAV-30S at THAMBUTTEGAMA: “10%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-10",
       "time": "14:57:28",
@@ -83490,13 +83504,6 @@
       "time": "14:42:04",
       "iso": "2026-09-10T09:12:04.496Z",
       "action": "updated remark for MSI-14G-I7-512-F1M-GRY at POOJAPITIYA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "14:41:36",
-      "iso": "2026-09-10T09:11:36.242Z",
-      "action": "updated remark for DELL3530-I3-8GB512-SIL at POOJAPITIYA: “Revert - 70%”"
     }
   ]
 }
