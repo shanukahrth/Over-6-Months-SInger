@@ -81619,6 +81619,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:19:56",
       "lastUpdated": "2026-09-10T09:49:56.428Z"
+    },
+    "SLE32E910||GALNEWA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:20:33",
+      "lastUpdated": "2026-09-10T09:50:33.843Z"
     }
   },
   "showroomVisits": {
@@ -83689,6 +83696,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
+      "time": "15:20:33",
+      "iso": "2026-09-10T09:50:33.845Z",
+      "action": "updated remark for SLE32E910 at GALNEWA: “60%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-10",
       "time": "15:20:13",
@@ -84030,13 +84044,6 @@
       "time": "15:08:02",
       "iso": "2026-09-10T09:38:02.931Z",
       "action": "updated remark for SLE32D1800 at THAMBUTTEGAMA: “75%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:07:34",
-      "iso": "2026-09-10T09:37:34.404Z",
-      "action": "updated remark for BC-BG328A at THAMBUTTEGAMA: “50%”"
     }
   ]
 }
