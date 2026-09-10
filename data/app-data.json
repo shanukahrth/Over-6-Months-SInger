@@ -12580,11 +12580,11 @@
       "lastUpdated": "2026-08-18T07:05:35.727Z"
     },
     "USI-ATC-302||BALANGODA": {
-      "remark": "Sellable",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-18",
-      "commentTime": "12:35:57",
-      "lastUpdated": "2026-08-18T07:05:57.482Z"
+      "remark": "NEW",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-10",
+      "commentTime": "10:08:38",
+      "lastUpdated": "2026-09-10T04:38:38.165Z"
     },
     "SLMC-18DSLHS||TRINCOMALEE B": {
       "remark": "80% discount",
@@ -82064,6 +82064,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-10",
+      "time": "10:08:38",
+      "iso": "2026-09-10T04:38:38.169Z",
+      "action": "updated remark for USI-ATC-302 at BALANGODA: “NEW”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-10",
       "time": "10:08:11",
       "iso": "2026-09-10T04:38:11.978Z",
       "action": "updated remark for SIN-MRG-1008C at BALANGODA: “NEW”"
@@ -82403,13 +82410,6 @@
       "time": "14:34:25",
       "iso": "2026-09-09T09:04:25.955Z",
       "action": "updated remark for PN-MX-AC210 at KEGALLE B: “-”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-09",
-      "time": "14:33:54",
-      "iso": "2026-09-09T09:03:54.168Z",
-      "action": "updated remark for LP-AP01 at KEGALLE B: “-”"
     }
   ]
 }
