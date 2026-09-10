@@ -82032,6 +82032,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:43:25",
       "lastUpdated": "2026-09-10T10:13:25.677Z"
+    },
+    "B-FSGT62111DSL||GALAGEDARA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:44:03",
+      "lastUpdated": "2026-09-10T10:14:03.062Z"
     }
   },
   "showroomVisits": {
@@ -84116,6 +84123,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:44:03",
+      "iso": "2026-09-10T10:14:03.063Z",
+      "action": "updated remark for B-FSGT62111DSL at GALAGEDARA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:43:25",
       "iso": "2026-09-10T10:13:25.678Z",
       "action": "updated remark for PN-MK-GH3WSH at GALAGEDARA: “Discolor - 80%”"
@@ -84455,13 +84469,6 @@
       "time": "15:31:33",
       "iso": "2026-09-10T10:01:33.921Z",
       "action": "updated remark for SLE55GENR at GALNEWA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:31:17",
-      "iso": "2026-09-10T10:01:17.956Z",
-      "action": "updated remark for AS-I3-11G-256-X515-941-GR at GALNEWA: “70%”"
     }
   ]
 }
