@@ -80506,6 +80506,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:06:37",
       "lastUpdated": "2026-09-10T08:36:37.213Z"
+    },
+    "DAV-TZ140||GALAHA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:06:54",
+      "lastUpdated": "2026-09-10T08:36:54.621Z"
     }
   },
   "showroomVisits": {
@@ -82562,6 +82569,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:06:54",
+      "iso": "2026-09-10T08:36:54.622Z",
+      "action": "updated remark for DAV-TZ140 at GALAHA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:06:37",
       "iso": "2026-09-10T08:36:37.215Z",
       "action": "updated remark for WFL-SPM-72X72X7-S at GALAHA: “Reported”"
@@ -82901,13 +82915,6 @@
       "time": "13:33:18",
       "iso": "2026-09-10T08:03:18.587Z",
       "action": "updated remark for PN-NF-GW1WSK at DIPPITIYA: “Sellable at Existing Price - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:32:13",
-      "iso": "2026-09-10T08:02:13.293Z",
-      "action": "updated remark for MID-MJ-KM6001W at DIPPITIYA: “55%”"
     }
   ]
 }
