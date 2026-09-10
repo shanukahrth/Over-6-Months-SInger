@@ -80674,6 +80674,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "14:22:17",
       "lastUpdated": "2026-09-10T08:52:17.356Z"
+    },
+    "SLE32E930||GALAHA": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "14:22:44",
+      "lastUpdated": "2026-09-10T08:52:44.746Z"
     }
   },
   "showroomVisits": {
@@ -82730,6 +82737,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "14:22:44",
+      "iso": "2026-09-10T08:52:44.748Z",
+      "action": "updated remark for SLE32E930 at GALAHA: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "14:22:17",
       "iso": "2026-09-10T08:52:17.357Z",
       "action": "updated remark for SLE32D1800 at GALAHA: “Damaged - 80%”"
@@ -83069,13 +83083,6 @@
       "time": "13:57:58",
       "iso": "2026-09-10T08:27:58.648Z",
       "action": "updated remark for UR591SW at GALAHA: “MOP - 5,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "13:57:49",
-      "iso": "2026-09-10T08:27:49.370Z",
-      "action": "updated remark for SIN-K13 at GALAHA: “Reported”"
     }
   ]
 }
