@@ -81983,6 +81983,13 @@
       "commentDate": "2026-09-10",
       "commentTime": "15:41:12",
       "lastUpdated": "2026-09-10T10:11:12.433Z"
+    },
+    "RCS-04||GALAGEDARA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-10",
+      "commentTime": "15:41:31",
+      "lastUpdated": "2026-09-10T10:11:31.838Z"
     }
   },
   "showroomVisits": {
@@ -84067,6 +84074,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-10",
+      "time": "15:41:31",
+      "iso": "2026-09-10T10:11:31.839Z",
+      "action": "updated remark for RCS-04 at GALAGEDARA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-10",
       "time": "15:41:12",
       "iso": "2026-09-10T10:11:12.435Z",
       "action": "updated remark for USI-ATC-302 at GALAGEDARA: “Active SKU”"
@@ -84406,13 +84420,6 @@
       "time": "15:26:22",
       "iso": "2026-09-10T09:56:22.030Z",
       "action": "updated remark for WF-OSLO-S at GALNEWA: “45%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:25:52",
-      "iso": "2026-09-10T09:55:52.949Z",
-      "action": "updated remark for SIN-PR-K340 at GALNEWA: “30%”"
     }
   ]
 }
