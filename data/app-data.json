@@ -82501,6 +82501,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:51:57",
       "lastUpdated": "2026-09-14T09:21:57.636Z"
+    },
+    "SLE40D600A||MENIKHINNA": {
+      "remark": "Revert - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:52:50",
+      "lastUpdated": "2026-09-14T09:22:50.561Z"
     }
   },
   "showroomVisits": {
@@ -84593,6 +84600,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:52:50",
+      "iso": "2026-09-14T09:22:50.562Z",
+      "action": "updated remark for SLE40D600A at MENIKHINNA: “Revert - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:51:57",
       "iso": "2026-09-14T09:21:57.638Z",
       "action": "updated remark for SS-PS16-AG at MENIKHINNA: “75%”"
@@ -84932,13 +84946,6 @@
       "time": "14:30:52",
       "iso": "2026-09-14T09:00:52.825Z",
       "action": "updated remark for PN-SC-BMAX5E-K at MENIKHINNA: “Transferred”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:30:47",
-      "iso": "2026-09-14T09:00:47.427Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at MENIKHINNA: “Transferred”"
     }
   ]
 }
