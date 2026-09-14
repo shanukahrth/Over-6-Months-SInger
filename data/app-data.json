@@ -82655,6 +82655,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:45:14",
       "lastUpdated": "2026-09-14T10:15:14.944Z"
+    },
+    "WFL-BST-110X110||DIGANA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:45:40",
+      "lastUpdated": "2026-09-14T10:15:40.855Z"
     }
   },
   "showroomVisits": {
@@ -84755,6 +84762,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:45:40",
+      "iso": "2026-09-14T10:15:40.856Z",
+      "action": "updated remark for WFL-BST-110X110 at DIGANA - B: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:45:14",
       "iso": "2026-09-14T10:15:14.945Z",
       "action": "updated remark for WF-ROME-03-S at DIGANA - B: “70%”"
@@ -85094,13 +85108,6 @@
       "time": "14:44:29",
       "iso": "2026-09-14T09:14:29.891Z",
       "action": "updated remark for USI-ATC-302 at MENIKHINNA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:43:39",
-      "iso": "2026-09-14T09:13:39.823Z",
-      "action": "updated remark for PN-DH-3JL2WH at MENIKHINNA: “Damaged and Parts Missing - 70%”"
     }
   ]
 }
