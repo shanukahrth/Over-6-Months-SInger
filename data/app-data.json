@@ -82550,6 +82550,20 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:34:21",
       "lastUpdated": "2026-09-14T10:04:21.358Z"
+    },
+    "HFPA-MUSICBOX-BLC||DIGANA - B": {
+      "remark": "MOP - 30,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:34:51",
+      "lastUpdated": "2026-09-14T10:04:51.002Z"
+    },
+    "HFPA-MUSICBOX-SLV||DIGANA - B": {
+      "remark": "MOP - 30,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:34:54",
+      "lastUpdated": "2026-09-14T10:04:54.866Z"
     }
   },
   "showroomVisits": {
@@ -84650,6 +84664,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:34:54",
+      "iso": "2026-09-14T10:04:54.867Z",
+      "action": "updated remark for HFPA-MUSICBOX-SLV at DIGANA - B: “MOP - 30,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "15:34:51",
+      "iso": "2026-09-14T10:04:51.003Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at DIGANA - B: “MOP - 30,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:34:21",
       "iso": "2026-09-14T10:04:21.359Z",
       "action": "updated remark for H-RAPG012HFEOE at DIGANA - B: “50%”"
@@ -84982,20 +85010,6 @@
       "time": "14:36:24",
       "iso": "2026-09-14T09:06:24.831Z",
       "action": "updated remark for WF-ROM-S-S at MENIKHINNA: “Display - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:36:08",
-      "iso": "2026-09-14T09:06:08.085Z",
-      "action": "updated remark for WF-ROM-DTO-S at MENIKHINNA: “Damaged - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:35:32",
-      "iso": "2026-09-14T09:05:32.036Z",
-      "action": "updated remark for PF-RTN-ST-BU-S at MENIKHINNA: “Damaged & Parts Missing - 85%”"
     }
   ]
 }
