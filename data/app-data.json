@@ -82671,11 +82671,11 @@
       "lastUpdated": "2026-09-14T10:16:01.030Z"
     },
     "PF-FLEXI-NKL-MW-S||DIGANA - B": {
-      "remark": "Active SKU -",
+      "remark": "Active SKU - 25%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-14",
-      "commentTime": "15:46:18",
-      "lastUpdated": "2026-09-14T10:16:18.367Z"
+      "commentTime": "15:46:33",
+      "lastUpdated": "2026-09-14T10:16:33.430Z"
     }
   },
   "showroomVisits": {
@@ -84776,6 +84776,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:46:33",
+      "iso": "2026-09-14T10:16:33.430Z",
+      "action": "updated remark for PF-FLEXI-NKL-MW-S at DIGANA - B: “Active SKU - 25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:46:18",
       "iso": "2026-09-14T10:16:18.368Z",
       "action": "updated remark for PF-FLEXI-NKL-MW-S at DIGANA - B: “Active SKU -”"
@@ -85115,13 +85122,6 @@
       "time": "14:46:00",
       "iso": "2026-09-14T09:16:00.630Z",
       "action": "updated remark for KA-PB-426 at MENIKHINNA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:45:23",
-      "iso": "2026-09-14T09:15:23.456Z",
-      "action": "updated remark for KN-HMP30 at MENIKHINNA: “Reported”"
     }
   ]
 }
