@@ -82263,6 +82263,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:33:55",
       "lastUpdated": "2026-09-14T09:03:55.352Z"
+    },
+    "PF-RTN-ST-BU-S||MENIKHINNA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:34:56",
+      "lastUpdated": "2026-09-14T09:04:56.522Z"
     }
   },
   "showroomVisits": {
@@ -84355,6 +84362,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:34:56",
+      "iso": "2026-09-14T09:04:56.523Z",
+      "action": "updated remark for PF-RTN-ST-BU-S at MENIKHINNA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:33:55",
       "iso": "2026-09-14T09:03:55.352Z",
       "action": "updated remark for LF-CT-AGO-S at MENIKHINNA: “80%”"
@@ -84694,13 +84708,6 @@
       "time": "15:42:12",
       "iso": "2026-09-10T10:12:12.971Z",
       "action": "updated remark for MID-MJ-KM6001W at GALAGEDARA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:41:58",
-      "iso": "2026-09-10T10:11:58.338Z",
-      "action": "updated remark for NCPO-DC200 at GALAGEDARA: “45%”"
     }
   ]
 }
