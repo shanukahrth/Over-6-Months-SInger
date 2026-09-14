@@ -82354,6 +82354,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:40:14",
       "lastUpdated": "2026-09-14T09:10:14.565Z"
+    },
+    "WF-PARIS-BL-S||MENIKHINNA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:40:37",
+      "lastUpdated": "2026-09-14T09:10:37.443Z"
     }
   },
   "showroomVisits": {
@@ -84446,6 +84453,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:40:37",
+      "iso": "2026-09-14T09:10:37.444Z",
+      "action": "updated remark for WF-PARIS-BL-S at MENIKHINNA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:40:14",
       "iso": "2026-09-14T09:10:14.566Z",
       "action": "updated remark for PF-STRG-BX-20L-S at MENIKHINNA: “20%”"
@@ -84785,13 +84799,6 @@
       "time": "15:46:15",
       "iso": "2026-09-10T10:16:15.737Z",
       "action": "updated remark for HON-X8C-8-512-GRN at GALAGEDARA: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:45:45",
-      "iso": "2026-09-10T10:15:45.828Z",
-      "action": "updated remark for HON-X5BPLUS-4-128-BLU at GALAGEDARA: “Reported”"
     }
   ]
 }
