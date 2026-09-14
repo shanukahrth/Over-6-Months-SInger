@@ -82361,6 +82361,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:40:37",
       "lastUpdated": "2026-09-14T09:10:37.443Z"
+    },
+    "G-SP-900||MENIKHINNA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:40:51",
+      "lastUpdated": "2026-09-14T09:10:51.995Z"
     }
   },
   "showroomVisits": {
@@ -84453,6 +84460,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:40:51",
+      "iso": "2026-09-14T09:10:51.996Z",
+      "action": "updated remark for G-SP-900 at MENIKHINNA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:40:37",
       "iso": "2026-09-14T09:10:37.444Z",
       "action": "updated remark for WF-PARIS-BL-S at MENIKHINNA: “Damaged - 80%”"
@@ -84792,13 +84806,6 @@
       "time": "15:46:36",
       "iso": "2026-09-10T10:16:36.332Z",
       "action": "updated remark for SWM-FA70R at GALNEWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:46:15",
-      "iso": "2026-09-10T10:16:15.737Z",
-      "action": "updated remark for HON-X8C-8-512-GRN at GALAGEDARA: “45%”"
     }
   ]
 }
