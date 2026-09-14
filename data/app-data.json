@@ -82340,6 +82340,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:39:01",
       "lastUpdated": "2026-09-14T09:09:01.997Z"
+    },
+    "PF-ENVISION-BL-S||MENIKHINNA": {
+      "remark": "Active Location - Additional 10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:39:27",
+      "lastUpdated": "2026-09-14T09:09:27.626Z"
     }
   },
   "showroomVisits": {
@@ -84432,6 +84439,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:39:27",
+      "iso": "2026-09-14T09:09:27.627Z",
+      "action": "updated remark for PF-ENVISION-BL-S at MENIKHINNA: “Active Location - Additional 10%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:39:01",
       "iso": "2026-09-14T09:09:01.999Z",
       "action": "updated remark for LF-ECO-SD-WNG-S at MENIKHINNA: “Parts missing - 80%”"
@@ -84771,13 +84785,6 @@
       "time": "15:45:25",
       "iso": "2026-09-10T10:15:25.460Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at GALAGEDARA: “Display - 40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:45:02",
-      "iso": "2026-09-10T10:15:02.416Z",
-      "action": "updated remark for SIN-RFC-2058 at GALAGEDARA: “Active SKU”"
     }
   ]
 }
