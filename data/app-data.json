@@ -82298,6 +82298,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:37:01",
       "lastUpdated": "2026-09-14T09:07:01.814Z"
+    },
+    "WF-DAYSTAR-S||MENIKHINNA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:37:27",
+      "lastUpdated": "2026-09-14T09:07:27.332Z"
     }
   },
   "showroomVisits": {
@@ -84390,6 +84397,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:37:27",
+      "iso": "2026-09-14T09:07:27.333Z",
+      "action": "updated remark for WF-DAYSTAR-S at MENIKHINNA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:37:01",
       "iso": "2026-09-14T09:07:01.815Z",
       "action": "updated remark for WF-VERONA-01-S at MENIKHINNA: “Damaged - 80%”"
@@ -84729,13 +84743,6 @@
       "time": "15:43:06",
       "iso": "2026-09-10T10:13:06.316Z",
       "action": "updated remark for PN-MK-GH3WSH at GALAGEDARA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:43:04",
-      "iso": "2026-09-10T10:13:04.625Z",
-      "action": "updated remark for PN-SC-UX100GS-K at GALNEWA: “60%”"
     }
   ]
 }
