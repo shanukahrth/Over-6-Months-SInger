@@ -82599,6 +82599,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:37:55",
       "lastUpdated": "2026-09-14T10:07:55.432Z"
+    },
+    "AS-I5-11G-256-X515-082-SL||DIGANA - B": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:38:33",
+      "lastUpdated": "2026-09-14T10:08:33.344Z"
     }
   },
   "showroomVisits": {
@@ -84699,6 +84706,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:38:33",
+      "iso": "2026-09-14T10:08:33.345Z",
+      "action": "updated remark for AS-I5-11G-256-X515-082-SL at DIGANA - B: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:37:55",
       "iso": "2026-09-14T10:07:55.434Z",
       "action": "updated remark for B-HIAG64223SXL at DIGANA - B: “Sellable at Existing Price”"
@@ -85038,13 +85052,6 @@
       "time": "14:38:48",
       "iso": "2026-09-14T09:08:48.201Z",
       "action": "updated remark for LF-ECO-SD-WNG-S at MENIKHINNA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:38:27",
-      "iso": "2026-09-14T09:08:27.712Z",
-      "action": "updated remark for WFL-NOC-T009-BL-S at MENIKHINNA: “Shop use - 80%”"
     }
   ]
 }
