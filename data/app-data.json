@@ -82725,6 +82725,20 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:50:59",
       "lastUpdated": "2026-09-14T10:20:59.895Z"
+    },
+    "SMW823AY7||DIGANA - B": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:51:25",
+      "lastUpdated": "2026-09-14T10:21:25.015Z"
+    },
+    "STT-200K||DIGANA - B": {
+      "remark": "Parts missing - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:51:39",
+      "lastUpdated": "2026-09-14T10:21:39.186Z"
     }
   },
   "showroomVisits": {
@@ -84825,6 +84839,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:51:39",
+      "iso": "2026-09-14T10:21:39.187Z",
+      "action": "updated remark for STT-200K at DIGANA - B: “Parts missing - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "15:51:25",
+      "iso": "2026-09-14T10:21:25.016Z",
+      "action": "updated remark for SMW823AY7 at DIGANA - B: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:50:59",
       "iso": "2026-09-14T10:20:59.896Z",
       "action": "updated remark for R-BWS-02 at DIGANA - B: “35%”"
@@ -85157,20 +85185,6 @@
       "time": "14:49:46",
       "iso": "2026-09-14T09:19:46.882Z",
       "action": "updated remark for GEO-242D-SV at MENIKHINNA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:49:19",
-      "iso": "2026-09-14T09:19:19.426Z",
-      "action": "updated remark for H-CVW1600 at MENIKHINNA (cleared)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:49:05",
-      "iso": "2026-09-14T09:19:05.817Z",
-      "action": "updated remark for HON-X8C-8-512-BLK at MENIKHINNA: “Reported”"
     }
   ]
 }
