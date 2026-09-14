@@ -82508,6 +82508,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:52:50",
       "lastUpdated": "2026-09-14T09:22:50.561Z"
+    },
+    "SLE43G890||MENIKHINNA": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:53:07",
+      "lastUpdated": "2026-09-14T09:23:07.267Z"
     }
   },
   "showroomVisits": {
@@ -84600,6 +84607,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:53:07",
+      "iso": "2026-09-14T09:23:07.268Z",
+      "action": "updated remark for SLE43G890 at MENIKHINNA: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:52:50",
       "iso": "2026-09-14T09:22:50.562Z",
       "action": "updated remark for SLE40D600A at MENIKHINNA: “Revert - 70%”"
@@ -84939,13 +84953,6 @@
       "time": "14:31:07",
       "iso": "2026-09-14T09:01:07.776Z",
       "action": "updated remark for AS-CEL-X515-333-SIL at MENIKHINNA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:30:52",
-      "iso": "2026-09-14T09:00:52.825Z",
-      "action": "updated remark for PN-SC-BMAX5E-K at MENIKHINNA: “Transferred”"
     }
   ]
 }
