@@ -82704,6 +82704,20 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:48:05",
       "lastUpdated": "2026-09-14T10:18:05.637Z"
+    },
+    "BRP-TW30||DIGANA - B": {
+      "remark": "2 - Reported / 1 - 40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:48:55",
+      "lastUpdated": "2026-09-14T10:18:55.973Z"
+    },
+    "LG-001||DIGANA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:49:15",
+      "lastUpdated": "2026-09-14T10:19:15.990Z"
     }
   },
   "showroomVisits": {
@@ -84804,6 +84818,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:49:15",
+      "iso": "2026-09-14T10:19:15.991Z",
+      "action": "updated remark for LG-001 at DIGANA - B: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "15:48:55",
+      "iso": "2026-09-14T10:18:55.975Z",
+      "action": "updated remark for BRP-TW30 at DIGANA - B: “2 - Reported / 1 - 40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:48:05",
       "iso": "2026-09-14T10:18:05.638Z",
       "action": "updated remark for USI-ATC-302 at DIGANA - B: “Active SKU”"
@@ -85136,20 +85164,6 @@
       "time": "14:48:54",
       "iso": "2026-09-14T09:18:54.275Z",
       "action": "updated remark for CM-VIR-GUARD at MENIKHINNA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:48:18",
-      "iso": "2026-09-14T09:18:18.995Z",
-      "action": "updated remark for SLMC-18DSLHS at MENIKHINNA: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:48:11",
-      "iso": "2026-09-14T09:18:11.819Z",
-      "action": "updated remark for PCD80-SS at MENIKHINNA: “Carton Damage - 70%”"
     }
   ]
 }
