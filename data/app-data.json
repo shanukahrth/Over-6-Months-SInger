@@ -82718,6 +82718,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:49:15",
       "lastUpdated": "2026-09-14T10:19:15.990Z"
+    },
+    "R-BWS-02||DIGANA - B": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:50:59",
+      "lastUpdated": "2026-09-14T10:20:59.895Z"
     }
   },
   "showroomVisits": {
@@ -84818,6 +84825,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:50:59",
+      "iso": "2026-09-14T10:20:59.896Z",
+      "action": "updated remark for R-BWS-02 at DIGANA - B: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:49:15",
       "iso": "2026-09-14T10:19:15.991Z",
       "action": "updated remark for LG-001 at DIGANA - B: “50%”"
@@ -85157,13 +85171,6 @@
       "time": "14:49:05",
       "iso": "2026-09-14T09:19:05.817Z",
       "action": "updated remark for HON-X8C-8-512-BLK at MENIKHINNA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:48:54",
-      "iso": "2026-09-14T09:18:54.275Z",
-      "action": "updated remark for CM-VIR-GUARD at MENIKHINNA: “Unsellable”"
     }
   ]
 }
