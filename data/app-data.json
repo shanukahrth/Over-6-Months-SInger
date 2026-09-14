@@ -82445,6 +82445,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:48:18",
       "lastUpdated": "2026-09-14T09:18:18.993Z"
+    },
+    "CM-VIR-GUARD||MENIKHINNA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:48:54",
+      "lastUpdated": "2026-09-14T09:18:54.273Z"
     }
   },
   "showroomVisits": {
@@ -84537,6 +84544,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:48:54",
+      "iso": "2026-09-14T09:18:54.275Z",
+      "action": "updated remark for CM-VIR-GUARD at MENIKHINNA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:48:18",
       "iso": "2026-09-14T09:18:18.995Z",
       "action": "updated remark for SLMC-18DSLHS at MENIKHINNA: “Revert - 80%”"
@@ -84876,13 +84890,6 @@
       "time": "15:52:23",
       "iso": "2026-09-10T10:22:23.687Z",
       "action": "updated remark for ULED32D60A at GALAGEDARA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:51:49",
-      "iso": "2026-09-10T10:21:49.732Z",
-      "action": "updated remark for SLE32E910 at GALAGEDARA: “Parts missing - 80%”"
     }
   ]
 }
