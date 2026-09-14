@@ -82403,6 +82403,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:45:12",
       "lastUpdated": "2026-09-14T09:15:12.378Z"
+    },
+    "KN-HMP30||MENIKHINNA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:45:23",
+      "lastUpdated": "2026-09-14T09:15:23.455Z"
     }
   },
   "showroomVisits": {
@@ -84495,6 +84502,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:45:23",
+      "iso": "2026-09-14T09:15:23.456Z",
+      "action": "updated remark for KN-HMP30 at MENIKHINNA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:45:12",
       "iso": "2026-09-14T09:15:12.380Z",
       "action": "updated remark for MID-MJ-KM6001W at MENIKHINNA: “Display - 55%”"
@@ -84834,13 +84848,6 @@
       "time": "15:48:48",
       "iso": "2026-09-10T10:18:48.336Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at GALAGEDARA: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:48:30",
-      "iso": "2026-09-10T10:18:30.040Z",
-      "action": "updated remark for SMG-SM-X115-GRY at GALAGEDARA: “50%”"
     }
   ]
 }
