@@ -82202,11 +82202,18 @@
       "lastUpdated": "2026-09-14T09:00:10.688Z"
     },
     "PN-SC-BMAX10E-K||MENIKHINNA": {
-      "remark": "40%",
+      "remark": "Transferred",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-14",
-      "commentTime": "14:30:36",
-      "lastUpdated": "2026-09-14T09:00:36.356Z"
+      "commentTime": "14:30:47",
+      "lastUpdated": "2026-09-14T09:00:47.426Z"
+    },
+    "PN-SC-BMAX5E-K||MENIKHINNA": {
+      "remark": "Transferred",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:30:52",
+      "lastUpdated": "2026-09-14T09:00:52.824Z"
     }
   },
   "showroomVisits": {
@@ -84299,6 +84306,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:30:52",
+      "iso": "2026-09-14T09:00:52.825Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at MENIKHINNA: “Transferred”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "14:30:47",
+      "iso": "2026-09-14T09:00:47.427Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at MENIKHINNA: “Transferred”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:30:36",
       "iso": "2026-09-14T09:00:36.357Z",
       "action": "updated remark for PN-SC-BMAX10E-K at MENIKHINNA: “40%”"
@@ -84631,20 +84652,6 @@
       "time": "15:39:44",
       "iso": "2026-09-10T10:09:44.090Z",
       "action": "updated remark for WFL-RIO-01-S at GALAGEDARA: “Display - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:39:39",
-      "iso": "2026-09-10T10:09:39.283Z",
-      "action": "updated remark for WFL-RIO-01-S at GALAGEDARA: “Display - 560%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:39:13",
-      "iso": "2026-09-10T10:09:13.045Z",
-      "action": "updated remark for PF-ENVISION-BL-S at GALAGEDARA: “20%”"
     }
   ]
 }
