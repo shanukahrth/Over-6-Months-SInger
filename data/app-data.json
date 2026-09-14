@@ -82487,6 +82487,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:51:01",
       "lastUpdated": "2026-09-14T09:21:01.088Z"
+    },
+    "DH-I-LM20-A202S||MENIKHINNA": {
+      "remark": "Carton Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:51:17",
+      "lastUpdated": "2026-09-14T09:21:17.990Z"
     }
   },
   "showroomVisits": {
@@ -84579,6 +84586,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:51:17",
+      "iso": "2026-09-14T09:21:17.991Z",
+      "action": "updated remark for DH-I-LM20-A202S at MENIKHINNA: “Carton Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:51:01",
       "iso": "2026-09-14T09:21:01.089Z",
       "action": "updated remark for SBS-484 at MENIKHINNA: “Carton Damaged - 60%”"
@@ -84918,13 +84932,6 @@
       "time": "14:30:36",
       "iso": "2026-09-14T09:00:36.357Z",
       "action": "updated remark for PN-SC-BMAX10E-K at MENIKHINNA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:30:10",
-      "iso": "2026-09-14T09:00:10.689Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at MENIKHINNA: “MOP - 30,000”"
     }
   ]
 }
