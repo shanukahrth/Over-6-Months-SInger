@@ -82326,6 +82326,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:38:13",
       "lastUpdated": "2026-09-14T09:08:13.749Z"
+    },
+    "WFL-NOC-T009-BL-S||MENIKHINNA": {
+      "remark": "Shop use - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:38:27",
+      "lastUpdated": "2026-09-14T09:08:27.711Z"
     }
   },
   "showroomVisits": {
@@ -84418,6 +84425,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:38:27",
+      "iso": "2026-09-14T09:08:27.712Z",
+      "action": "updated remark for WFL-NOC-T009-BL-S at MENIKHINNA: “Shop use - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:38:13",
       "iso": "2026-09-14T09:08:13.750Z",
       "action": "updated remark for 123453212 at MENIKHINNA: “60%”"
@@ -84757,13 +84771,6 @@
       "time": "15:44:41",
       "iso": "2026-09-10T10:14:41.701Z",
       "action": "updated remark for SIN-RFC-1819 at GALAGEDARA: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:44:15",
-      "iso": "2026-09-10T10:14:15.677Z",
-      "action": "updated remark for R-BWS-02 at GALAGEDARA: “35%”"
     }
   ]
 }
