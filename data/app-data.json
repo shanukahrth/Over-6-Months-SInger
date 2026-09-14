@@ -82459,6 +82459,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:49:46",
       "lastUpdated": "2026-09-14T09:19:46.881Z"
+    },
+    "SL-ECO55-SV||MENIKHINNA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:49:54",
+      "lastUpdated": "2026-09-14T09:19:54.690Z"
     }
   },
   "showroomVisits": {
@@ -84551,6 +84558,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:49:54",
+      "iso": "2026-09-14T09:19:54.691Z",
+      "action": "updated remark for SL-ECO55-SV at MENIKHINNA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:49:46",
       "iso": "2026-09-14T09:19:46.882Z",
       "action": "updated remark for GEO-242D-SV at MENIKHINNA: “25%”"
@@ -84890,13 +84904,6 @@
       "time": "15:58:49",
       "iso": "2026-09-10T10:28:49.240Z",
       "action": "updated GALAGEDARA showroom (visitDate: 2026-09-10)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:58:47",
-      "iso": "2026-09-10T10:28:47.515Z",
-      "action": "updated GALAGEDARA showroom (visited: Yes)"
     }
   ]
 }
