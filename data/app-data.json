@@ -82228,6 +82228,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:31:18",
       "lastUpdated": "2026-09-14T09:01:18.846Z"
+    },
+    "FAN-P-1605H||MENIKHINNA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:31:59",
+      "lastUpdated": "2026-09-14T09:01:59.688Z"
     }
   },
   "showroomVisits": {
@@ -84320,6 +84327,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:31:59",
+      "iso": "2026-09-14T09:01:59.689Z",
+      "action": "updated remark for FAN-P-1605H at MENIKHINNA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "14:31:56",
+      "iso": "2026-09-14T09:01:56.172Z",
+      "action": "updated remark for FAN-P-1605H at MENIKHINNA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:31:18",
       "iso": "2026-09-14T09:01:18.848Z",
       "action": "updated remark for SDV3605K at MENIKHINNA: “MOP - 2,000”"
@@ -84652,20 +84673,6 @@
       "time": "15:41:03",
       "iso": "2026-09-10T10:11:03.821Z",
       "action": "updated remark for SWH-118EP-D at GALAGEDARA: “Dummy unit”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:41:00",
-      "iso": "2026-09-10T10:11:00.498Z",
-      "action": "updated remark for SWH-118EP-D at GALAGEDARA: “Dummy”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:40:46",
-      "iso": "2026-09-10T10:10:46.868Z",
-      "action": "updated remark for MID-DSK38EU5 at GALAGEDARA: “50%”"
     }
   ]
 }
