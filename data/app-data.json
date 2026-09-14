@@ -82270,6 +82270,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:35:32",
       "lastUpdated": "2026-09-14T09:05:32.035Z"
+    },
+    "WF-ROM-DTO-S||MENIKHINNA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:36:08",
+      "lastUpdated": "2026-09-14T09:06:08.083Z"
     }
   },
   "showroomVisits": {
@@ -84362,6 +84369,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:36:08",
+      "iso": "2026-09-14T09:06:08.085Z",
+      "action": "updated remark for WF-ROM-DTO-S at MENIKHINNA: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:35:32",
       "iso": "2026-09-14T09:05:32.036Z",
       "action": "updated remark for PF-RTN-ST-BU-S at MENIKHINNA: “Damaged & Parts Missing - 85%”"
@@ -84700,13 +84714,6 @@
       "date": "2026-09-10",
       "time": "15:42:18",
       "iso": "2026-09-10T10:12:18.091Z",
-      "action": "updated remark for SWM-FA70R at GALNEWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:42:14",
-      "iso": "2026-09-10T10:12:14.038Z",
       "action": "updated remark for SWM-FA70R at GALNEWA: “50%”"
     }
   ]
