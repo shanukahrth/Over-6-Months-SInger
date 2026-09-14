@@ -82648,6 +82648,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:44:50",
       "lastUpdated": "2026-09-14T10:14:50.987Z"
+    },
+    "WF-ROME-03-S||DIGANA - B": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:45:14",
+      "lastUpdated": "2026-09-14T10:15:14.944Z"
     }
   },
   "showroomVisits": {
@@ -84748,6 +84755,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:45:14",
+      "iso": "2026-09-14T10:15:14.945Z",
+      "action": "updated remark for WF-ROME-03-S at DIGANA - B: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "15:45:09",
+      "iso": "2026-09-14T10:15:09.652Z",
+      "action": "updated remark for WF-ROME-03-S at DIGANA - B: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:44:50",
       "iso": "2026-09-14T10:14:50.990Z",
       "action": "updated remark for WF-OSLO-S at DIGANA - B: “70%”"
@@ -85080,20 +85101,6 @@
       "time": "14:43:39",
       "iso": "2026-09-14T09:13:39.823Z",
       "action": "updated remark for PN-DH-3JL2WH at MENIKHINNA: “Damaged and Parts Missing - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:42:57",
-      "iso": "2026-09-14T09:12:57.236Z",
-      "action": "updated remark for SWH-118EP-D at MENIKHINNA: “Dummy”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:41:28",
-      "iso": "2026-09-14T09:11:28.911Z",
-      "action": "updated remark for MAX-CS18 at MENIKHINNA: “Unsellable”"
     }
   ]
 }
