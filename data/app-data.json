@@ -82494,6 +82494,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:51:17",
       "lastUpdated": "2026-09-14T09:21:17.990Z"
+    },
+    "SS-PS16-AG||MENIKHINNA": {
+      "remark": "75%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:51:57",
+      "lastUpdated": "2026-09-14T09:21:57.636Z"
     }
   },
   "showroomVisits": {
@@ -84586,6 +84593,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:51:57",
+      "iso": "2026-09-14T09:21:57.638Z",
+      "action": "updated remark for SS-PS16-AG at MENIKHINNA: “75%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:51:17",
       "iso": "2026-09-14T09:21:17.991Z",
       "action": "updated remark for DH-I-LM20-A202S at MENIKHINNA: “Carton Damaged - 80%”"
@@ -84925,13 +84939,6 @@
       "time": "14:30:47",
       "iso": "2026-09-14T09:00:47.427Z",
       "action": "updated remark for PN-SC-BMAX10E-K at MENIKHINNA: “Transferred”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:30:36",
-      "iso": "2026-09-14T09:00:36.357Z",
-      "action": "updated remark for PN-SC-BMAX10E-K at MENIKHINNA: “40%”"
     }
   ]
 }
