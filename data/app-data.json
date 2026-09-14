@@ -82382,6 +82382,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:42:57",
       "lastUpdated": "2026-09-14T09:12:57.235Z"
+    },
+    "PN-DH-3JL2WH||MENIKHINNA": {
+      "remark": "Damaged and Parts Missing - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:43:39",
+      "lastUpdated": "2026-09-14T09:13:39.822Z"
     }
   },
   "showroomVisits": {
@@ -84474,6 +84481,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:43:39",
+      "iso": "2026-09-14T09:13:39.823Z",
+      "action": "updated remark for PN-DH-3JL2WH at MENIKHINNA: “Damaged and Parts Missing - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:42:57",
       "iso": "2026-09-14T09:12:57.236Z",
       "action": "updated remark for SWH-118EP-D at MENIKHINNA: “Dummy”"
@@ -84813,13 +84827,6 @@
       "time": "15:47:30",
       "iso": "2026-09-10T10:17:30.062Z",
       "action": "updated remark for SMG-A06-6-128-BLK at GALAGEDARA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:46:56",
-      "iso": "2026-09-10T10:16:56.399Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at GALAGEDARA: “30%”"
     }
   ]
 }
