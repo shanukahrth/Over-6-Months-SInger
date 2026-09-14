@@ -84532,10 +84532,10 @@
       "updatedDate": "2026-08-31"
     },
     "PN-CS-XU18XKYW-8||JAFFNA-HOSPITAL ROAD": {
-      "sold": true,
+      "sold": false,
       "comment": "",
-      "updatedBy": "Chanthuli Ramawickrama",
-      "updatedDate": "2026-08-31"
+      "updatedBy": "Kaveesha",
+      "updatedDate": "2026-09-14"
     },
     "PN-TH-32P401N||JAFFNA-HOSPITAL ROAD": {
       "sold": true,
@@ -84611,6 +84611,13 @@
     }
   },
   "activity": [
+    {
+      "user": "Kaveesha",
+      "date": "2026-09-14",
+      "time": "14:55:38",
+      "iso": "2026-09-14T09:25:38.684Z",
+      "action": "marked PN-CS-XU18XKYW-8 at JAFFNA-HOSPITAL ROAD as Not Sold"
+    },
     {
       "user": "Rashmi",
       "date": "2026-09-14",
@@ -84953,13 +84960,6 @@
       "time": "14:31:56",
       "iso": "2026-09-14T09:01:56.172Z",
       "action": "updated remark for FAN-P-1605H at MENIKHINNA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:31:18",
-      "iso": "2026-09-14T09:01:18.848Z",
-      "action": "updated remark for SDV3605K at MENIKHINNA: “MOP - 2,000”"
     }
   ]
 }
