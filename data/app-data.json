@@ -82774,6 +82774,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:54:22",
       "lastUpdated": "2026-09-14T10:24:22.820Z"
+    },
+    "HON-H90-12-512-GRN||DIGANA - B": {
+      "remark": "Display - 75%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:55:00",
+      "lastUpdated": "2026-09-14T10:25:00.353Z"
     }
   },
   "showroomVisits": {
@@ -84874,6 +84881,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:55:00",
+      "iso": "2026-09-14T10:25:00.353Z",
+      "action": "updated remark for HON-H90-12-512-GRN at DIGANA - B: “Display - 75%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:54:22",
       "iso": "2026-09-14T10:24:22.821Z",
       "action": "updated remark for HON-H200SMART-8-256-GRN at DIGANA - B: “40%”"
@@ -85213,13 +85227,6 @@
       "time": "14:52:50",
       "iso": "2026-09-14T09:22:50.562Z",
       "action": "updated remark for SLE40D600A at MENIKHINNA: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:51:57",
-      "iso": "2026-09-14T09:21:57.638Z",
-      "action": "updated remark for SS-PS16-AG at MENIKHINNA: “75%”"
     }
   ]
 }
