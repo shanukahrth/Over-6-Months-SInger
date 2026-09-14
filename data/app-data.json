@@ -82305,6 +82305,20 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:37:27",
       "lastUpdated": "2026-09-14T09:07:27.332Z"
+    },
+    "WF-JUPITER-04-S||MENIKHINNA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:37:41",
+      "lastUpdated": "2026-09-14T09:07:41.364Z"
+    },
+    "WF-JUPITER-05-S||MENIKHINNA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:37:44",
+      "lastUpdated": "2026-09-14T09:07:44.209Z"
     }
   },
   "showroomVisits": {
@@ -84397,6 +84411,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:37:44",
+      "iso": "2026-09-14T09:07:44.210Z",
+      "action": "updated remark for WF-JUPITER-05-S at MENIKHINNA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "14:37:41",
+      "iso": "2026-09-14T09:07:41.367Z",
+      "action": "updated remark for WF-JUPITER-04-S at MENIKHINNA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:37:27",
       "iso": "2026-09-14T09:07:27.333Z",
       "action": "updated remark for WF-DAYSTAR-S at MENIKHINNA: “Damaged - 80%”"
@@ -84729,20 +84757,6 @@
       "time": "15:44:03",
       "iso": "2026-09-10T10:14:03.063Z",
       "action": "updated remark for B-FSGT62111DSL at GALAGEDARA: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:43:25",
-      "iso": "2026-09-10T10:13:25.678Z",
-      "action": "updated remark for PN-MK-GH3WSH at GALAGEDARA: “Discolor - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:43:06",
-      "iso": "2026-09-10T10:13:06.316Z",
-      "action": "updated remark for PN-MK-GH3WSH at GALAGEDARA: “60%”"
     }
   ]
 }
