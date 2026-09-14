@@ -82284,6 +82284,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:36:24",
       "lastUpdated": "2026-09-14T09:06:24.830Z"
+    },
+    "WF-JUPITER-S||MENIKHINNA": {
+      "remark": "Fluctuation",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:36:46",
+      "lastUpdated": "2026-09-14T09:06:46.575Z"
     }
   },
   "showroomVisits": {
@@ -84376,6 +84383,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:36:46",
+      "iso": "2026-09-14T09:06:46.576Z",
+      "action": "updated remark for WF-JUPITER-S at MENIKHINNA: “Fluctuation”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:36:24",
       "iso": "2026-09-14T09:06:24.831Z",
       "action": "updated remark for WF-ROM-S-S at MENIKHINNA: “Display - 60%”"
@@ -84715,13 +84729,6 @@
       "time": "15:42:50",
       "iso": "2026-09-10T10:12:50.871Z",
       "action": "updated remark for WP-JUN-E-S at GALNEWA: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-10",
-      "time": "15:42:26",
-      "iso": "2026-09-10T10:12:26.261Z",
-      "action": "updated remark for SWM-FA70R at GALNEWA: “50%”"
     }
   ]
 }
