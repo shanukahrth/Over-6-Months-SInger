@@ -82410,6 +82410,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:45:23",
       "lastUpdated": "2026-09-14T09:15:23.455Z"
+    },
+    "KA-PB-426||MENIKHINNA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:46:00",
+      "lastUpdated": "2026-09-14T09:16:00.629Z"
     }
   },
   "showroomVisits": {
@@ -84502,6 +84509,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:46:00",
+      "iso": "2026-09-14T09:16:00.630Z",
+      "action": "updated remark for KA-PB-426 at MENIKHINNA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:45:23",
       "iso": "2026-09-14T09:15:23.456Z",
       "action": "updated remark for KN-HMP30 at MENIKHINNA: “Reported”"
@@ -84841,13 +84855,6 @@
       "time": "15:49:08",
       "iso": "2026-09-10T10:19:08.704Z",
       "action": "updated remark for CM-LQ300 at GALAGEDARA: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:48:48",
-      "iso": "2026-09-10T10:18:48.336Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at GALAGEDARA: “To be dropped”"
     }
   ]
 }
