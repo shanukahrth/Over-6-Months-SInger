@@ -82515,6 +82515,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:53:07",
       "lastUpdated": "2026-09-14T09:23:07.267Z"
+    },
+    "SLE55GENR||MENIKHINNA": {
+      "remark": "Carton Damage - 38%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:54:00",
+      "lastUpdated": "2026-09-14T09:24:00.779Z"
     }
   },
   "showroomVisits": {
@@ -84607,6 +84614,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:54:00",
+      "iso": "2026-09-14T09:24:00.780Z",
+      "action": "updated remark for SLE55GENR at MENIKHINNA: “Carton Damage - 38%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:53:07",
       "iso": "2026-09-14T09:23:07.268Z",
       "action": "updated remark for SLE43G890 at MENIKHINNA: “Pending Exchange”"
@@ -84946,13 +84960,6 @@
       "time": "14:31:18",
       "iso": "2026-09-14T09:01:18.848Z",
       "action": "updated remark for SDV3605K at MENIKHINNA: “MOP - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:31:07",
-      "iso": "2026-09-14T09:01:07.776Z",
-      "action": "updated remark for AS-CEL-X515-333-SIL at MENIKHINNA: “Unsellable”"
     }
   ]
 }
