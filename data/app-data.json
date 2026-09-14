@@ -82452,6 +82452,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:49:05",
       "lastUpdated": "2026-09-14T09:19:05.817Z"
+    },
+    "GEO-242D-SV||MENIKHINNA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:49:46",
+      "lastUpdated": "2026-09-14T09:19:46.881Z"
     }
   },
   "showroomVisits": {
@@ -84544,6 +84551,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:49:46",
+      "iso": "2026-09-14T09:19:46.882Z",
+      "action": "updated remark for GEO-242D-SV at MENIKHINNA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:49:19",
       "iso": "2026-09-14T09:19:19.426Z",
       "action": "updated remark for H-CVW1600 at MENIKHINNA (cleared)"
@@ -84883,13 +84897,6 @@
       "time": "15:58:47",
       "iso": "2026-09-10T10:28:47.515Z",
       "action": "updated GALAGEDARA showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:54:14",
-      "iso": "2026-09-10T10:24:14.752Z",
-      "action": "updated remark for WP-CHTW-050-S at GALAGEDARA: “70%”"
     }
   ]
 }
