@@ -82466,6 +82466,20 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:49:54",
       "lastUpdated": "2026-09-14T09:19:54.690Z"
+    },
+    "BES-CRS-51||MENIKHINNA": {
+      "remark": "15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:50:34",
+      "lastUpdated": "2026-09-14T09:20:34.715Z"
+    },
+    "BTS-10KG||MENIKHINNA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:50:40",
+      "lastUpdated": "2026-09-14T09:20:40.791Z"
     }
   },
   "showroomVisits": {
@@ -84558,6 +84572,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:50:40",
+      "iso": "2026-09-14T09:20:40.791Z",
+      "action": "updated remark for BTS-10KG at MENIKHINNA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "14:50:34",
+      "iso": "2026-09-14T09:20:34.715Z",
+      "action": "updated remark for BES-CRS-51 at MENIKHINNA: “15%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:49:54",
       "iso": "2026-09-14T09:19:54.691Z",
       "action": "updated remark for SL-ECO55-SV at MENIKHINNA: “25%”"
@@ -84890,20 +84918,6 @@
       "time": "14:29:48",
       "iso": "2026-09-14T08:59:48.401Z",
       "action": "updated remark for SIN-MH51SW at MENIKHINNA: “Reveret - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:58:53",
-      "iso": "2026-09-10T10:28:53.381Z",
-      "action": "updated GALAGEDARA showroom (team: Team Central)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:58:49",
-      "iso": "2026-09-10T10:28:49.240Z",
-      "action": "updated GALAGEDARA showroom (visitDate: 2026-09-10)"
     }
   ]
 }
