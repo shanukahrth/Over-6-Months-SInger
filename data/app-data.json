@@ -82265,11 +82265,11 @@
       "lastUpdated": "2026-09-14T09:03:55.352Z"
     },
     "PF-RTN-ST-BU-S||MENIKHINNA": {
-      "remark": "Unsellable",
+      "remark": "Damaged & Parts Missing - 85%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-14",
-      "commentTime": "14:34:56",
-      "lastUpdated": "2026-09-14T09:04:56.522Z"
+      "commentTime": "14:35:32",
+      "lastUpdated": "2026-09-14T09:05:32.035Z"
     }
   },
   "showroomVisits": {
@@ -84362,6 +84362,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:35:32",
+      "iso": "2026-09-14T09:05:32.036Z",
+      "action": "updated remark for PF-RTN-ST-BU-S at MENIKHINNA: “Damaged & Parts Missing - 85%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:34:56",
       "iso": "2026-09-14T09:04:56.523Z",
       "action": "updated remark for PF-RTN-ST-BU-S at MENIKHINNA: “Unsellable”"
@@ -84701,13 +84708,6 @@
       "time": "15:42:14",
       "iso": "2026-09-10T10:12:14.038Z",
       "action": "updated remark for SWM-FA70R at GALNEWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:42:12",
-      "iso": "2026-09-10T10:12:12.971Z",
-      "action": "updated remark for MID-MJ-KM6001W at GALAGEDARA: “55%”"
     }
   ]
 }
