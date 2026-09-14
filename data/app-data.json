@@ -82221,6 +82221,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:31:07",
       "lastUpdated": "2026-09-14T09:01:07.776Z"
+    },
+    "SDV3605K||MENIKHINNA": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:31:18",
+      "lastUpdated": "2026-09-14T09:01:18.846Z"
     }
   },
   "showroomVisits": {
@@ -84313,6 +84320,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:31:18",
+      "iso": "2026-09-14T09:01:18.848Z",
+      "action": "updated remark for SDV3605K at MENIKHINNA: “MOP - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:31:07",
       "iso": "2026-09-14T09:01:07.776Z",
       "action": "updated remark for AS-CEL-X515-333-SIL at MENIKHINNA: “Unsellable”"
@@ -84652,13 +84666,6 @@
       "time": "15:40:46",
       "iso": "2026-09-10T10:10:46.868Z",
       "action": "updated remark for MID-DSK38EU5 at GALAGEDARA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:40:09",
-      "iso": "2026-09-10T10:10:09.984Z",
-      "action": "updated remark for WFL-SWSTK-SL-7FT at GALAGEDARA: “Shop use - 70%”"
     }
   ]
 }
