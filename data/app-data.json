@@ -82683,6 +82683,27 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:46:55",
       "lastUpdated": "2026-09-14T10:16:55.906Z"
+    },
+    "SWH-118E||DIGANA - B": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:47:52",
+      "lastUpdated": "2026-09-14T10:17:52.259Z"
+    },
+    "SWH-118EP-D||DIGANA - B": {
+      "remark": "Dummy",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:47:58",
+      "lastUpdated": "2026-09-14T10:17:58.408Z"
+    },
+    "USI-ATC-302||DIGANA - B": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:48:05",
+      "lastUpdated": "2026-09-14T10:18:05.637Z"
     }
   },
   "showroomVisits": {
@@ -84783,6 +84804,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:48:05",
+      "iso": "2026-09-14T10:18:05.638Z",
+      "action": "updated remark for USI-ATC-302 at DIGANA - B: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "15:47:58",
+      "iso": "2026-09-14T10:17:58.409Z",
+      "action": "updated remark for SWH-118EP-D at DIGANA - B: “Dummy”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "15:47:52",
+      "iso": "2026-09-14T10:17:52.261Z",
+      "action": "updated remark for SWH-118E at DIGANA - B: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:46:55",
       "iso": "2026-09-14T10:16:55.908Z",
       "action": "updated remark for PF-CAFE-NEW-WF-S at DIGANA - B: “10%”"
@@ -85108,27 +85150,6 @@
       "time": "14:48:11",
       "iso": "2026-09-14T09:18:11.819Z",
       "action": "updated remark for PCD80-SS at MENIKHINNA: “Carton Damage - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:47:58",
-      "iso": "2026-09-14T09:17:58.454Z",
-      "action": "updated remark for PCD80-SS at MENIKHINNA: “Carton Damage - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:47:12",
-      "iso": "2026-09-14T09:17:12.702Z",
-      "action": "updated remark for SMW928AS3 at MENIKHINNA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:46:34",
-      "iso": "2026-09-14T09:16:34.644Z",
-      "action": "updated remark for UJB-LB6027 at MENIKHINNA: “Damaged - 80%”"
     }
   ]
 }
