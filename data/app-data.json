@@ -82564,6 +82564,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:34:54",
       "lastUpdated": "2026-09-14T10:04:54.866Z"
+    },
+    "SVX6002||DIGANA - B": {
+      "remark": "Shop use - 85%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:35:24",
+      "lastUpdated": "2026-09-14T10:05:24.566Z"
     }
   },
   "showroomVisits": {
@@ -84664,6 +84671,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:35:24",
+      "iso": "2026-09-14T10:05:24.567Z",
+      "action": "updated remark for SVX6002 at DIGANA - B: “Shop use - 85%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "15:35:19",
+      "iso": "2026-09-14T10:05:19.123Z",
+      "action": "updated remark for SVX6002 at DIGANA - B: “85%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:34:54",
       "iso": "2026-09-14T10:04:54.867Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at DIGANA - B: “MOP - 30,000”"
@@ -84996,20 +85017,6 @@
       "time": "14:37:01",
       "iso": "2026-09-14T09:07:01.815Z",
       "action": "updated remark for WF-VERONA-01-S at MENIKHINNA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:36:46",
-      "iso": "2026-09-14T09:06:46.576Z",
-      "action": "updated remark for WF-JUPITER-S at MENIKHINNA: “Fluctuation”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:36:24",
-      "iso": "2026-09-14T09:06:24.831Z",
-      "action": "updated remark for WF-ROM-S-S at MENIKHINNA: “Display - 60%”"
     }
   ]
 }
