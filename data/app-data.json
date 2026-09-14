@@ -82235,6 +82235,20 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:31:59",
       "lastUpdated": "2026-09-14T09:01:59.688Z"
+    },
+    "QT-SITUP||MENIKHINNA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:32:55",
+      "lastUpdated": "2026-09-14T09:02:55.992Z"
+    },
+    "WF-CB-B-WH||MENIKHINNA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:33:01",
+      "lastUpdated": "2026-09-14T09:03:01.293Z"
     }
   },
   "showroomVisits": {
@@ -84327,6 +84341,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:33:01",
+      "iso": "2026-09-14T09:03:01.294Z",
+      "action": "updated remark for WF-CB-B-WH at MENIKHINNA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "14:32:55",
+      "iso": "2026-09-14T09:02:55.993Z",
+      "action": "updated remark for QT-SITUP at MENIKHINNA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:31:59",
       "iso": "2026-09-14T09:01:59.689Z",
       "action": "updated remark for FAN-P-1605H at MENIKHINNA: “Damaged - 80%”"
@@ -84659,20 +84687,6 @@
       "time": "15:41:31",
       "iso": "2026-09-10T10:11:31.839Z",
       "action": "updated remark for RCS-04 at GALAGEDARA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:41:12",
-      "iso": "2026-09-10T10:11:12.435Z",
-      "action": "updated remark for USI-ATC-302 at GALAGEDARA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:41:03",
-      "iso": "2026-09-10T10:11:03.821Z",
-      "action": "updated remark for SWH-118EP-D at GALAGEDARA: “Dummy unit”"
     }
   ]
 }
