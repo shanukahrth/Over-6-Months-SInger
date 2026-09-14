@@ -82200,6 +82200,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:30:10",
       "lastUpdated": "2026-09-14T09:00:10.688Z"
+    },
+    "PN-SC-BMAX10E-K||MENIKHINNA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:30:36",
+      "lastUpdated": "2026-09-14T09:00:36.356Z"
     }
   },
   "showroomVisits": {
@@ -84292,6 +84299,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:30:36",
+      "iso": "2026-09-14T09:00:36.357Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at MENIKHINNA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:30:10",
       "iso": "2026-09-14T09:00:10.689Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at MENIKHINNA: “MOP - 30,000”"
@@ -84631,13 +84645,6 @@
       "time": "15:39:13",
       "iso": "2026-09-10T10:09:13.045Z",
       "action": "updated remark for PF-ENVISION-BL-S at GALAGEDARA: “20%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:38:52",
-      "iso": "2026-09-10T10:08:52.503Z",
-      "action": "updated remark for PF-FLEXI-NKL-MW-S at GALAGEDARA: “25%”"
     }
   ]
 }
