@@ -82606,6 +82606,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:38:33",
       "lastUpdated": "2026-09-14T10:08:33.344Z"
+    },
+    "DELL3501-11G-I3W10-BLU||DIGANA - B": {
+      "remark": "Revert - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:38:59",
+      "lastUpdated": "2026-09-14T10:08:59.711Z"
     }
   },
   "showroomVisits": {
@@ -84706,6 +84713,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:38:59",
+      "iso": "2026-09-14T10:08:59.711Z",
+      "action": "updated remark for DELL3501-11G-I3W10-BLU at DIGANA - B: “Revert - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:38:33",
       "iso": "2026-09-14T10:08:33.345Z",
       "action": "updated remark for AS-I5-11G-256-X515-082-SL at DIGANA - B: “Damaged - 80%”"
@@ -85045,13 +85059,6 @@
       "time": "14:39:01",
       "iso": "2026-09-14T09:09:01.999Z",
       "action": "updated remark for LF-ECO-SD-WNG-S at MENIKHINNA: “Parts missing - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:38:48",
-      "iso": "2026-09-14T09:08:48.201Z",
-      "action": "updated remark for LF-ECO-SD-WNG-S at MENIKHINNA: “Unsellable”"
     }
   ]
 }
