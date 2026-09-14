@@ -73990,13 +73990,6 @@
       "commentTime": "14:24:53",
       "lastUpdated": "2026-09-02T08:54:53.758Z"
     },
-    "H-CVW1600||MENIKHINNA": {
-      "remark": "50%",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "14:24:56",
-      "lastUpdated": "2026-09-02T08:54:56.202Z"
-    },
     "H-CVW1600||KANDY": {
       "remark": "50%",
       "commentedBy": "Chanthuli Ramawickrama",
@@ -84551,6 +84544,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:49:19",
+      "iso": "2026-09-14T09:19:19.426Z",
+      "action": "updated remark for H-CVW1600 at MENIKHINNA (cleared)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:49:05",
       "iso": "2026-09-14T09:19:05.817Z",
       "action": "updated remark for HON-X8C-8-512-BLK at MENIKHINNA: “Reported”"
@@ -84890,13 +84890,6 @@
       "time": "15:54:14",
       "iso": "2026-09-10T10:24:14.752Z",
       "action": "updated remark for WP-CHTW-050-S at GALAGEDARA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:53:25",
-      "iso": "2026-09-10T10:23:25.851Z",
-      "action": "updated remark for SWM-FA70R at GALAGEDARA: “Damaged - 70%”"
     }
   ]
 }
