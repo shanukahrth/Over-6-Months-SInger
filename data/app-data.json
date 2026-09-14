@@ -82524,11 +82524,11 @@
       "lastUpdated": "2026-09-14T09:24:00.779Z"
     },
     "H-CVW1600||MENIKHINNA": {
-      "remark": "Shop use",
+      "remark": "Shop use -",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-14",
-      "commentTime": "14:54:31",
-      "lastUpdated": "2026-09-14T09:24:31.387Z"
+      "commentTime": "14:54:54",
+      "lastUpdated": "2026-09-14T09:24:54.664Z"
     }
   },
   "showroomVisits": {
@@ -84621,6 +84621,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:54:54",
+      "iso": "2026-09-14T09:24:54.665Z",
+      "action": "updated remark for H-CVW1600 at MENIKHINNA: “Shop use -”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:54:31",
       "iso": "2026-09-14T09:24:31.389Z",
       "action": "updated remark for H-CVW1600 at MENIKHINNA: “Shop use”"
@@ -84960,13 +84967,6 @@
       "time": "14:32:55",
       "iso": "2026-09-14T09:02:55.993Z",
       "action": "updated remark for QT-SITUP at MENIKHINNA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:31:59",
-      "iso": "2026-09-14T09:01:59.689Z",
-      "action": "updated remark for FAN-P-1605H at MENIKHINNA: “Damaged - 80%”"
     }
   ]
 }
