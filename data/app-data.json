@@ -82641,6 +82641,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:43:43",
       "lastUpdated": "2026-09-14T10:13:43.409Z"
+    },
+    "WF-OSLO-S||DIGANA - B": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:44:50",
+      "lastUpdated": "2026-09-14T10:14:50.987Z"
     }
   },
   "showroomVisits": {
@@ -84741,6 +84748,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:44:50",
+      "iso": "2026-09-14T10:14:50.990Z",
+      "action": "updated remark for WF-OSLO-S at DIGANA - B: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:43:43",
       "iso": "2026-09-14T10:13:43.411Z",
       "action": "updated remark for LF-DEO-CT-S at DIGANA - B: “50%”"
@@ -85080,13 +85094,6 @@
       "time": "14:41:28",
       "iso": "2026-09-14T09:11:28.911Z",
       "action": "updated remark for MAX-CS18 at MENIKHINNA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:40:51",
-      "iso": "2026-09-14T09:10:51.996Z",
-      "action": "updated remark for G-SP-900 at MENIKHINNA: “Unsellable”"
     }
   ]
 }
