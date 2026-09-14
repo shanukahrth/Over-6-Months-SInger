@@ -84253,7 +84253,7 @@
     "MENIKHINNA||DIGANA": {
       "visited": "Yes",
       "visitDate": "2026-09-14",
-      "team": "",
+      "team": "Team Central",
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-14"
@@ -84643,6 +84643,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:04:38",
+      "iso": "2026-09-14T09:34:38.016Z",
+      "action": "updated MENIKHINNA showroom (team: Team Central)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:04:29",
       "iso": "2026-09-14T09:34:29.716Z",
       "action": "updated MENIKHINNA showroom (visitDate: 2026-09-14)"
@@ -84982,13 +84989,6 @@
       "time": "14:34:56",
       "iso": "2026-09-14T09:04:56.523Z",
       "action": "updated remark for PF-RTN-ST-BU-S at MENIKHINNA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:33:55",
-      "iso": "2026-09-14T09:03:55.352Z",
-      "action": "updated remark for LF-CT-AGO-S at MENIKHINNA: “80%”"
     }
   ]
 }
