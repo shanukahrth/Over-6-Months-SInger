@@ -82433,11 +82433,18 @@
       "lastUpdated": "2026-09-14T09:17:12.700Z"
     },
     "PCD80-SS||MENIKHINNA": {
-      "remark": "Carton Damage - 60%",
+      "remark": "Carton Damage - 70%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-14",
-      "commentTime": "14:47:58",
-      "lastUpdated": "2026-09-14T09:17:58.453Z"
+      "commentTime": "14:48:11",
+      "lastUpdated": "2026-09-14T09:18:11.817Z"
+    },
+    "SLMC-18DSLHS||MENIKHINNA": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:48:18",
+      "lastUpdated": "2026-09-14T09:18:18.993Z"
     }
   },
   "showroomVisits": {
@@ -84530,6 +84537,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:48:18",
+      "iso": "2026-09-14T09:18:18.995Z",
+      "action": "updated remark for SLMC-18DSLHS at MENIKHINNA: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
+      "time": "14:48:11",
+      "iso": "2026-09-14T09:18:11.819Z",
+      "action": "updated remark for PCD80-SS at MENIKHINNA: “Carton Damage - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:47:58",
       "iso": "2026-09-14T09:17:58.454Z",
       "action": "updated remark for PCD80-SS at MENIKHINNA: “Carton Damage - 60%”"
@@ -84862,20 +84883,6 @@
       "time": "15:51:49",
       "iso": "2026-09-10T10:21:49.732Z",
       "action": "updated remark for SLE32E910 at GALAGEDARA: “Parts missing - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:51:21",
-      "iso": "2026-09-10T10:21:21.542Z",
-      "action": "updated remark for SLE43G890 at GALAGEDARA: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:50:52",
-      "iso": "2026-09-10T10:20:52.244Z",
-      "action": "updated remark for SS-PS16-AG at GALAGEDARA: “Damaged - 75%”"
     }
   ]
 }
