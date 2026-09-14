@@ -82214,6 +82214,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:30:52",
       "lastUpdated": "2026-09-14T09:00:52.824Z"
+    },
+    "AS-CEL-X515-333-SIL||MENIKHINNA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:31:07",
+      "lastUpdated": "2026-09-14T09:01:07.776Z"
     }
   },
   "showroomVisits": {
@@ -84306,6 +84313,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:31:07",
+      "iso": "2026-09-14T09:01:07.776Z",
+      "action": "updated remark for AS-CEL-X515-333-SIL at MENIKHINNA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:30:52",
       "iso": "2026-09-14T09:00:52.825Z",
       "action": "updated remark for PN-SC-BMAX5E-K at MENIKHINNA: “Transferred”"
@@ -84645,13 +84659,6 @@
       "time": "15:40:09",
       "iso": "2026-09-10T10:10:09.984Z",
       "action": "updated remark for WFL-SWSTK-SL-7FT at GALAGEDARA: “Shop use - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-10",
-      "time": "15:39:44",
-      "iso": "2026-09-10T10:09:44.090Z",
-      "action": "updated remark for WFL-RIO-01-S at GALAGEDARA: “Display - 60%”"
     }
   ]
 }
