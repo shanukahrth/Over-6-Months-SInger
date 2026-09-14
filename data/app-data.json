@@ -82634,6 +82634,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:42:46",
       "lastUpdated": "2026-09-14T10:12:46.633Z"
+    },
+    "LF-DEO-CT-S||DIGANA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:43:43",
+      "lastUpdated": "2026-09-14T10:13:43.409Z"
     }
   },
   "showroomVisits": {
@@ -84734,6 +84741,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:43:43",
+      "iso": "2026-09-14T10:13:43.411Z",
+      "action": "updated remark for LF-DEO-CT-S at DIGANA - B: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:42:46",
       "iso": "2026-09-14T10:12:46.634Z",
       "action": "updated remark for LF-CT-WNT-S at DIGANA - B: “60%”"
@@ -85073,13 +85087,6 @@
       "time": "14:40:51",
       "iso": "2026-09-14T09:10:51.996Z",
       "action": "updated remark for G-SP-900 at MENIKHINNA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:40:37",
-      "iso": "2026-09-14T09:10:37.444Z",
-      "action": "updated remark for WF-PARIS-BL-S at MENIKHINNA: “Damaged - 80%”"
     }
   ]
 }
