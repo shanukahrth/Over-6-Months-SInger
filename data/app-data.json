@@ -82480,6 +82480,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "14:50:40",
       "lastUpdated": "2026-09-14T09:20:40.791Z"
+    },
+    "SBS-484||MENIKHINNA": {
+      "remark": "Carton Damaged - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "14:51:01",
+      "lastUpdated": "2026-09-14T09:21:01.088Z"
     }
   },
   "showroomVisits": {
@@ -84572,6 +84579,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "14:51:01",
+      "iso": "2026-09-14T09:21:01.089Z",
+      "action": "updated remark for SBS-484 at MENIKHINNA: “Carton Damaged - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "14:50:40",
       "iso": "2026-09-14T09:20:40.791Z",
       "action": "updated remark for BTS-10KG at MENIKHINNA: “50%”"
@@ -84911,13 +84925,6 @@
       "time": "14:30:10",
       "iso": "2026-09-14T09:00:10.689Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at MENIKHINNA: “MOP - 30,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:29:48",
-      "iso": "2026-09-14T08:59:48.401Z",
-      "action": "updated remark for SIN-MH51SW at MENIKHINNA: “Reveret - 80%”"
     }
   ]
 }
