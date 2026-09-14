@@ -82627,6 +82627,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:41:21",
       "lastUpdated": "2026-09-14T10:11:21.874Z"
+    },
+    "LF-CT-WNT-S||DIGANA - B": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-14",
+      "commentTime": "15:42:46",
+      "lastUpdated": "2026-09-14T10:12:46.633Z"
     }
   },
   "showroomVisits": {
@@ -84727,6 +84734,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-14",
+      "time": "15:42:46",
+      "iso": "2026-09-14T10:12:46.634Z",
+      "action": "updated remark for LF-CT-WNT-S at DIGANA - B: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-14",
       "time": "15:41:21",
       "iso": "2026-09-14T10:11:21.875Z",
       "action": "updated remark for WFL-LBC01 at DIGANA - B: “Unsellable -80%”"
@@ -85066,13 +85080,6 @@
       "time": "14:40:37",
       "iso": "2026-09-14T09:10:37.444Z",
       "action": "updated remark for WF-PARIS-BL-S at MENIKHINNA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:40:14",
-      "iso": "2026-09-14T09:10:14.566Z",
-      "action": "updated remark for PF-STRG-BX-20L-S at MENIKHINNA: “20%”"
     }
   ]
 }
