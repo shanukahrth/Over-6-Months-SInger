@@ -84993,6 +84993,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:50:43",
       "lastUpdated": "2026-09-15T10:20:43.374Z"
+    },
+    "TF-TW26-064||RIKILLAGASKADA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:51:01",
+      "lastUpdated": "2026-09-15T10:21:01.681Z"
+    },
+    "KA-LW-185A||RIKILLAGASKADA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:51:06",
+      "lastUpdated": "2026-09-15T10:21:06.441Z"
     }
   },
   "showroomVisits": {
@@ -87219,6 +87233,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:51:06",
+      "iso": "2026-09-15T10:21:06.443Z",
+      "action": "updated remark for KA-LW-185A at RIKILLAGASKADA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:51:01",
+      "iso": "2026-09-15T10:21:01.682Z",
+      "action": "updated remark for TF-TW26-064 at RIKILLAGASKADA: “35%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:50:51",
@@ -87553,20 +87581,6 @@
       "time": "15:46:37",
       "iso": "2026-09-15T10:16:37.581Z",
       "action": "updated remark for WF-CLASSIC-S at THALAWA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:46:18",
-      "iso": "2026-09-15T10:16:18.141Z",
-      "action": "updated remark for HON-X6A-4-128-SKYBLU at THALAWA: “65%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:46:02",
-      "iso": "2026-09-15T10:16:02.557Z",
-      "action": "updated remark for LF-BUDGET-DT-CRW-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
