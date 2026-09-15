@@ -84251,6 +84251,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:04:31",
       "lastUpdated": "2026-09-15T09:34:31.973Z"
+    },
+    "SRS-XP700||ANURADHAPURA B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:04:49",
+      "lastUpdated": "2026-09-15T09:34:49.041Z"
     }
   },
   "showroomVisits": {
@@ -86431,6 +86438,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:04:49",
+      "iso": "2026-09-15T09:34:49.043Z",
+      "action": "updated remark for SRS-XP700 at ANURADHAPURA B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:04:31",
       "iso": "2026-09-15T09:34:31.975Z",
       "action": "updated remark for SKY55Q6700G at ANURADHAPURA B: “35%”"
@@ -86770,13 +86784,6 @@
       "time": "14:38:45",
       "iso": "2026-09-15T09:08:45.648Z",
       "action": "updated remark for SLE32E930 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:38:38",
-      "iso": "2026-09-15T09:08:38.802Z",
-      "action": "updated remark for SLE32E930 at WATTEGAMA: “Reported”"
     }
   ]
 }
