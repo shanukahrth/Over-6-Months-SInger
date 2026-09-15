@@ -84188,6 +84188,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:00:32",
       "lastUpdated": "2026-09-15T09:30:32.036Z"
+    },
+    "B-CWB6441XN||ANURADHAPURA B": {
+      "remark": "45%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:00:55",
+      "lastUpdated": "2026-09-15T09:30:55.487Z"
     }
   },
   "showroomVisits": {
@@ -86362,6 +86369,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:00:55",
+      "iso": "2026-09-15T09:30:55.488Z",
+      "action": "updated remark for B-CWB6441XN at ANURADHAPURA B: “45%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:00:32",
       "iso": "2026-09-15T09:30:32.038Z",
       "action": "updated remark for SLE40D600A at ANURADHAPURA B: “50%”"
@@ -86701,13 +86715,6 @@
       "time": "14:34:53",
       "iso": "2026-09-15T09:04:53.895Z",
       "action": "updated remark for SLE24D1000 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:34:42",
-      "iso": "2026-09-15T09:04:42.679Z",
-      "action": "updated remark for SKY32TB1000 at WATTEGAMA: “Panel Damage - 90%”"
     }
   ]
 }
