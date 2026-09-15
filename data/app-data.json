@@ -86092,6 +86092,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:15:20",
       "lastUpdated": "2026-09-15T10:45:20.403Z"
+    },
+    "SMG-SM-A057F-6-128-B||DIGANA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:15:30",
+      "lastUpdated": "2026-09-15T10:45:30.606Z"
     }
   },
   "showroomVisits": {
@@ -88326,6 +88333,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:15:30",
+      "iso": "2026-09-15T10:45:30.606Z",
+      "action": "updated remark for SMG-SM-A057F-6-128-B at DIGANA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:15:20",
       "iso": "2026-09-15T10:45:20.403Z",
       "action": "updated remark for SMG-SM-A055F-64-B at DIGANA: “65%”"
@@ -88665,13 +88679,6 @@
       "time": "16:09:53",
       "iso": "2026-09-15T10:39:53.529Z",
       "action": "updated remark for PF-GRID-1D-BG-S at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:51",
-      "iso": "2026-09-15T10:39:51.309Z",
-      "action": "updated remark for LF-MANEL-IC-BON-S at DIGANA: “50%”"
     }
   ]
 }
