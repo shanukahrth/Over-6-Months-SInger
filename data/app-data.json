@@ -84041,6 +84041,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:40:12",
       "lastUpdated": "2026-09-15T09:10:12.203Z"
+    },
+    "SLE86G6E||ANURADHAPURA B": {
+      "remark": "20%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:39:45",
+      "lastUpdated": "2026-09-15T09:09:45.302Z"
+    },
+    "HON-MAGIC-V5-BLK||ANURADHAPURA B": {
+      "remark": "To be returned to warehouse",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:40:20",
+      "lastUpdated": "2026-09-15T09:10:20.516Z"
     }
   },
   "showroomVisits": {
@@ -86187,6 +86201,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "14:40:20",
+      "iso": "2026-09-15T09:10:20.517Z",
+      "action": "updated remark for HON-MAGIC-V5-BLK at ANURADHAPURA B: “To be returned to warehouse”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "14:39:45",
+      "iso": "2026-09-15T09:09:45.304Z",
+      "action": "updated remark for SLE86G6E at ANURADHAPURA B: “20%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "14:40:12",
@@ -86521,20 +86549,6 @@
       "time": "14:25:36",
       "iso": "2026-09-15T08:55:36.347Z",
       "action": "updated remark for MID-MJ-KM6001W at WATTEGAMA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:25:23",
-      "iso": "2026-09-15T08:55:23.621Z",
-      "action": "updated remark for CS-EZTURBO at WATTEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:25:22",
-      "iso": "2026-09-15T08:55:22.751Z",
-      "action": "updated remark for CS-JANALIPA at WATTEGAMA: “Damaged - 80%”"
     }
   ]
 }
