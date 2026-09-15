@@ -83173,6 +83173,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:14:30",
       "lastUpdated": "2026-09-15T06:44:30.993Z"
+    },
+    "HU-FREEBUD-4-SIL||KUNDASALE": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:14:55",
+      "lastUpdated": "2026-09-15T06:44:55.312Z"
     }
   },
   "showroomVisits": {
@@ -85273,6 +85280,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:14:55",
+      "iso": "2026-09-15T06:44:55.313Z",
+      "action": "updated remark for HU-FREEBUD-4-SIL at KUNDASALE: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:14:30",
       "iso": "2026-09-15T06:44:30.994Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KUNDASALE: “To be dropped”"
@@ -85612,13 +85626,6 @@
       "time": "11:58:36",
       "iso": "2026-09-15T06:28:36.958Z",
       "action": "updated remark for LF-LEO-120-SHW at KUNDASALE: “Damaged - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "11:58:06",
-      "iso": "2026-09-15T06:28:06.927Z",
-      "action": "updated remark for QT-T110 at KUNDASALE: “Revert Acc No Issue - ICD”"
     }
   ]
 }
