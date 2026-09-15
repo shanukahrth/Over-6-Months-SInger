@@ -86966,9 +86966,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "NUBIA-V70-8-256GB-GRY||THALAWA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:46:53",
+      "iso": "2026-09-15T10:16:53.082Z",
+      "action": "marked NUBIA-V70-8-256GB-GRY at THALAWA as Sold"
+    },
     {
       "user": "Rashmi",
       "date": "2026-09-15",
@@ -87311,13 +87324,6 @@
       "time": "15:36:10",
       "iso": "2026-09-15T10:06:10.560Z",
       "action": "marked MB-SAFARI4S-RED at SHOMES- ANURADHAPURA as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:34:56",
-      "iso": "2026-09-15T10:04:56.486Z",
-      "action": "updated remark for LF-ECO-BDS-SHW-S at SHOMES- ANURADHAPURA: “SOLD”"
     }
   ]
 }
