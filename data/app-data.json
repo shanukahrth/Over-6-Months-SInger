@@ -82928,6 +82928,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:01:20",
       "lastUpdated": "2026-09-15T06:31:20.145Z"
+    },
+    "WF-RIVER-75X60-S||KUNDASALE": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:01:52",
+      "lastUpdated": "2026-09-15T06:31:52.632Z"
     }
   },
   "showroomVisits": {
@@ -85028,6 +85035,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:01:52",
+      "iso": "2026-09-15T06:31:52.633Z",
+      "action": "updated remark for WF-RIVER-75X60-S at KUNDASALE: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:01:20",
       "iso": "2026-09-15T06:31:20.146Z",
       "action": "updated remark for WF-DIAMOND-DRS at KUNDASALE: “Service Center”"
@@ -85367,13 +85381,6 @@
       "time": "15:45:09",
       "iso": "2026-09-14T10:15:09.652Z",
       "action": "updated remark for WF-ROME-03-S at DIGANA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:44:50",
-      "iso": "2026-09-14T10:14:50.990Z",
-      "action": "updated remark for WF-OSLO-S at DIGANA - B: “70%”"
     }
   ]
 }
