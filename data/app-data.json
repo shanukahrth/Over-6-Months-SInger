@@ -85266,6 +85266,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:56:12",
       "lastUpdated": "2026-09-15T10:26:12.558Z"
+    },
+    "GEO-SM-255D||RIKILLAGASKADA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:56:18",
+      "lastUpdated": "2026-09-15T10:26:18.246Z"
+    },
+    "R-RGS150-SV||RIKILLAGASKADA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:56:20",
+      "lastUpdated": "2026-09-15T10:26:20.809Z"
+    },
+    "SL-ECO192||RIKILLAGASKADA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:56:23",
+      "lastUpdated": "2026-09-15T10:26:23.267Z"
     }
   },
   "showroomVisits": {
@@ -87494,6 +87515,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:56:23",
+      "iso": "2026-09-15T10:26:23.268Z",
+      "action": "updated remark for SL-ECO192 at RIKILLAGASKADA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:56:20",
+      "iso": "2026-09-15T10:26:20.810Z",
+      "action": "updated remark for R-RGS150-SV at RIKILLAGASKADA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:56:18",
+      "iso": "2026-09-15T10:26:18.247Z",
+      "action": "updated remark for GEO-SM-255D at RIKILLAGASKADA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:56:12",
       "iso": "2026-09-15T10:26:12.560Z",
       "action": "updated remark for GEO-182S-SV at RIKILLAGASKADA: “25%”"
@@ -87819,27 +87861,6 @@
       "time": "15:50:42",
       "iso": "2026-09-15T10:20:42.259Z",
       "action": "updated remark for TF-KD24-061 at RIKILLAGASKADA: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:50:39",
-      "iso": "2026-09-15T10:20:39.503Z",
-      "action": "updated remark for TF-IT30-169 at RIKILLAGASKADA: “35%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:50:26",
-      "iso": "2026-09-15T10:20:26.539Z",
-      "action": "updated remark for LF-ECO-BDQS at THALAWA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:50:23",
-      "iso": "2026-09-15T10:20:23.365Z",
-      "action": "updated remark for TF-IT30-169 at RIKILLAGASKADA: “70%”"
     }
   ]
 }
