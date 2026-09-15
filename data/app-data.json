@@ -84566,6 +84566,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:42:31",
       "lastUpdated": "2026-09-15T10:12:31.419Z"
+    },
+    "DELL-NB-I3||RIKILLAGASKADA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:42:43",
+      "lastUpdated": "2026-09-15T10:12:43.003Z"
     }
   },
   "showroomVisits": {
@@ -86776,6 +86783,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:42:43",
+      "iso": "2026-09-15T10:12:43.003Z",
+      "action": "updated remark for DELL-NB-I3 at RIKILLAGASKADA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:42:31",
       "iso": "2026-09-15T10:12:31.419Z",
       "action": "updated remark for DELL-3580-PQC-W10 at RIKILLAGASKADA: “85%”"
@@ -87115,13 +87129,6 @@
       "time": "15:08:06",
       "iso": "2026-09-15T09:38:06.286Z",
       "action": "updated remark for SWM-MID16KG at ANURADHAPURA B: “Exchange, not physically available”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:07:28",
-      "iso": "2026-09-15T09:37:28.545Z",
-      "action": "updated remark for WP-12KINV at ANURADHAPURA B: “No Discount”"
     }
   ]
 }
