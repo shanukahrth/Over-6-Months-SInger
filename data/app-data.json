@@ -83595,11 +83595,11 @@
       "lastUpdated": "2026-09-15T08:45:09.409Z"
     },
     "LF-GALANT-CLM-S||WATTEGAMA": {
-      "remark": "Unsellable",
+      "remark": "Unsellable - WH Issue",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "14:15:41",
-      "lastUpdated": "2026-09-15T08:45:41.402Z"
+      "commentTime": "14:16:08",
+      "lastUpdated": "2026-09-15T08:46:08.362Z"
     }
   },
   "showroomVisits": {
@@ -85748,6 +85748,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:16:08",
+      "iso": "2026-09-15T08:46:08.363Z",
+      "action": "updated remark for LF-GALANT-CLM-S at WATTEGAMA: “Unsellable - WH Issue”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:15:41",
       "iso": "2026-09-15T08:45:41.403Z",
       "action": "updated remark for LF-GALANT-CLM-S at WATTEGAMA: “Unsellable”"
@@ -86087,13 +86094,6 @@
       "time": "12:38:16",
       "iso": "2026-09-15T07:08:16.556Z",
       "action": "updated DIGANA - B showroom (team: Team Central)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:38:09",
-      "iso": "2026-09-15T07:08:09.717Z",
-      "action": "updated DIGANA - B showroom (visitDate: 2026-09-15)"
     }
   ]
 }
