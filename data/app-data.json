@@ -84804,6 +84804,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:47:19",
       "lastUpdated": "2026-09-15T10:17:19.226Z"
+    },
+    "LF-PODIUM-MWNT-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:47:30",
+      "lastUpdated": "2026-09-15T10:17:30.742Z"
     }
   },
   "showroomVisits": {
@@ -87020,6 +87027,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:47:30",
+      "iso": "2026-09-15T10:17:30.743Z",
+      "action": "updated remark for LF-PODIUM-MWNT-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:47:19",
       "iso": "2026-09-15T10:17:19.228Z",
       "action": "updated remark for WF-LEGEND-14-S at RIKILLAGASKADA: “50%”"
@@ -87359,13 +87373,6 @@
       "time": "15:38:58",
       "iso": "2026-09-15T10:08:58.937Z",
       "action": "updated remark for PN-SC-UA30GS-K at RIKILLAGASKADA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:38:46",
-      "iso": "2026-09-15T10:08:46.383Z",
-      "action": "updated remark for PN-SC-AKX520E-K at RIKILLAGASKADA: “Revert - 70%”"
     }
   ]
 }
