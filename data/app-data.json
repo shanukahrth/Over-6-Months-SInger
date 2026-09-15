@@ -85581,6 +85581,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:00:28",
       "lastUpdated": "2026-09-15T10:30:28.257Z"
+    },
+    "SMGUA55DU7500||THALAWA": {
+      "remark": "199,999",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:35",
+      "lastUpdated": "2026-09-15T10:30:35.630Z"
     }
   },
   "showroomVisits": {
@@ -87807,6 +87814,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "16:00:35",
+      "iso": "2026-09-15T10:30:35.631Z",
+      "action": "updated remark for SMGUA55DU7500 at THALAWA: “199,999”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "16:00:28",
@@ -88148,13 +88162,6 @@
       "time": "15:56:23",
       "iso": "2026-09-15T10:26:23.268Z",
       "action": "updated remark for SL-ECO192 at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:56:20",
-      "iso": "2026-09-15T10:26:20.810Z",
-      "action": "updated remark for R-RGS150-SV at RIKILLAGASKADA: “30%”"
     }
   ]
 }
