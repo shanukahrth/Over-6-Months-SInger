@@ -83677,6 +83677,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:19:33",
       "lastUpdated": "2026-09-15T08:49:33.570Z"
+    },
+    "LF-ORGN-BSC-WHT||WATTEGAMA": {
+      "remark": "10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:19:58",
+      "lastUpdated": "2026-09-15T08:49:58.688Z"
     }
   },
   "showroomVisits": {
@@ -85825,6 +85832,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:19:58",
+      "iso": "2026-09-15T08:49:58.689Z",
+      "action": "updated remark for LF-ORGN-BSC-WHT at WATTEGAMA: “10%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:19:33",
       "iso": "2026-09-15T08:49:33.571Z",
       "action": "updated remark for LF-ECO-SD-WNG-S at WATTEGAMA: “40%”"
@@ -86164,13 +86178,6 @@
       "time": "12:43:28",
       "iso": "2026-09-15T07:13:28.329Z",
       "action": "updated remark for HU-BAND-6-B at DIGANA - B: “Damaged - 80”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:43:17",
-      "iso": "2026-09-15T07:13:17.666Z",
-      "action": "updated remark for HU-BAND-6-GR at DIGANA - B: “80%”"
     }
   ]
 }
