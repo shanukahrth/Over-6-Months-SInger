@@ -86638,9 +86638,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "MB-SAFARI4S-RED||SHOMES- ANURADHAPURA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:36:10",
+      "iso": "2026-09-15T10:06:10.560Z",
+      "action": "marked MB-SAFARI4S-RED at SHOMES- ANURADHAPURA as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
@@ -86983,13 +86996,6 @@
       "time": "14:59:57",
       "iso": "2026-09-15T09:29:57.363Z",
       "action": "updated remark for PN-SC-UX100GS-K at ANURADHAPURA B: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "14:59:35",
-      "iso": "2026-09-15T09:29:35.351Z",
-      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at ANURADHAPURA B: “Return to warehouse”"
     }
   ]
 }
