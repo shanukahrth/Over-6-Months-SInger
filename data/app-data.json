@@ -85560,6 +85560,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:00:00",
       "lastUpdated": "2026-09-15T10:30:00.935Z"
+    },
+    "CLOTHLINE-35PVC||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:08",
+      "lastUpdated": "2026-09-15T10:30:08.556Z"
+    },
+    "SL-WD7004||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:12",
+      "lastUpdated": "2026-09-15T10:30:12.134Z"
     }
   },
   "showroomVisits": {
@@ -87786,6 +87800,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:00:12",
+      "iso": "2026-09-15T10:30:12.136Z",
+      "action": "updated remark for SL-WD7004 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:00:08",
+      "iso": "2026-09-15T10:30:08.557Z",
+      "action": "updated remark for CLOTHLINE-35PVC at RIKILLAGASKADA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "16:00:00",
@@ -88120,20 +88148,6 @@
       "time": "15:56:18",
       "iso": "2026-09-15T10:26:18.247Z",
       "action": "updated remark for GEO-SM-255D at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:56:12",
-      "iso": "2026-09-15T10:26:12.560Z",
-      "action": "updated remark for GEO-182S-SV at RIKILLAGASKADA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:56:09",
-      "iso": "2026-09-15T10:26:09.406Z",
-      "action": "updated remark for GEO-182S-BU1 at RIKILLAGASKADA: “25%”"
     }
   ]
 }
