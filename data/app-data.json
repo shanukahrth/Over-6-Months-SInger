@@ -84916,6 +84916,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:49:30",
       "lastUpdated": "2026-09-15T10:19:30.897Z"
+    },
+    "SLE32E920||THALAWA": {
+      "remark": "Can be cleared, parcel damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:49:33",
+      "lastUpdated": "2026-09-15T10:19:33.499Z"
     }
   },
   "showroomVisits": {
@@ -87126,9 +87133,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "SLE32E930||THALAWA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:49:33",
+      "iso": "2026-09-15T10:19:33.712Z",
+      "action": "marked SLE32E930 at THALAWA as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:49:33",
+      "iso": "2026-09-15T10:19:33.500Z",
+      "action": "updated remark for SLE32E920 at THALAWA: “Can be cleared, parcel damaged”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-09-15",
@@ -87464,20 +87491,6 @@
       "time": "15:44:39",
       "iso": "2026-09-15T10:14:39.639Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at THALAWA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:44:03",
-      "iso": "2026-09-15T10:14:03.229Z",
-      "action": "updated remark for LF-LEO-HDBC-BCH at THALAWA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:43:11",
-      "iso": "2026-09-15T10:13:11.245Z",
-      "action": "updated remark for SWH-118E at THALAWA: “60%”"
     }
   ]
 }
