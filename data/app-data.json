@@ -85096,7 +85096,7 @@
       "visited": "Yes",
       "visitDate": "2026-09-15",
       "team": "Team Central ",
-      "remark": "",
+      "remark": "Discounts given over the phone ",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-15"
     }
@@ -85485,6 +85485,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:38:59",
+      "iso": "2026-09-15T07:08:59.382Z",
+      "action": "updated KUNDASALE showroom (remark: Discounts given over the phone )"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:38:40",
       "iso": "2026-09-15T07:08:40.654Z",
       "action": "updated KUNDASALE showroom (team: Team Central )"
@@ -85824,13 +85831,6 @@
       "time": "12:11:59",
       "iso": "2026-09-15T06:41:59.279Z",
       "action": "updated remark for URC-220 at KUNDASALE: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:11:39",
-      "iso": "2026-09-15T06:41:39.903Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at KUNDASALE: “Display - 45%”"
     }
   ]
 }
