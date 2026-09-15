@@ -82921,6 +82921,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:00:54",
       "lastUpdated": "2026-09-15T06:30:54.547Z"
+    },
+    "WF-DIAMOND-DRS||KUNDASALE": {
+      "remark": "Service Center",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:01:20",
+      "lastUpdated": "2026-09-15T06:31:20.145Z"
     }
   },
   "showroomVisits": {
@@ -85021,6 +85028,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:01:20",
+      "iso": "2026-09-15T06:31:20.146Z",
+      "action": "updated remark for WF-DIAMOND-DRS at KUNDASALE: “Service Center”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:00:54",
       "iso": "2026-09-15T06:30:54.547Z",
       "action": "updated remark for LF-WIN-DTO-S at KUNDASALE: “Display - 50%”"
@@ -85360,13 +85374,6 @@
       "time": "15:44:50",
       "iso": "2026-09-14T10:14:50.990Z",
       "action": "updated remark for WF-OSLO-S at DIGANA - B: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:43:43",
-      "iso": "2026-09-14T10:13:43.411Z",
-      "action": "updated remark for LF-DEO-CT-S at DIGANA - B: “50%”"
     }
   ]
 }
