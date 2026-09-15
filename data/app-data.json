@@ -85805,6 +85805,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:10:15",
       "lastUpdated": "2026-09-15T10:40:15.911Z"
+    },
+    "PF-FLAP-MN-S||DIGANA": {
+      "remark": "20%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:10:24",
+      "lastUpdated": "2026-09-15T10:40:24.897Z"
+    },
+    "WF-PARIS-BL-S||DIGANA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:10:28",
+      "lastUpdated": "2026-09-15T10:40:28.732Z"
     }
   },
   "showroomVisits": {
@@ -88039,6 +88053,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:10:28",
+      "iso": "2026-09-15T10:40:28.733Z",
+      "action": "updated remark for WF-PARIS-BL-S at DIGANA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:10:27",
+      "iso": "2026-09-15T10:40:27.131Z",
+      "action": "updated remark for WF-PARIS-BL-S at DIGANA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:10:24",
+      "iso": "2026-09-15T10:40:24.898Z",
+      "action": "updated remark for PF-FLAP-MN-S at DIGANA: “20%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:10:15",
       "iso": "2026-09-15T10:40:15.913Z",
       "action": "updated remark for LF-OFI-ST-001-SHW-S at DIGANA: “20%”"
@@ -88364,27 +88399,6 @@
       "time": "15:59:09",
       "iso": "2026-09-15T10:29:09.943Z",
       "action": "updated remark for SMGUA32N4010 at RIKILLAGASKADA: “No additional discounts”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:59:06",
-      "iso": "2026-09-15T10:29:06.030Z",
-      "action": "updated remark for LF-GALANT-AGO-S at THALAWA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:58:58",
-      "iso": "2026-09-15T10:28:58.998Z",
-      "action": "updated remark for SLE43G690 at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:58:57",
-      "iso": "2026-09-15T10:28:57.335Z",
-      "action": "updated remark for SLE42D2070TC at RIKILLAGASKADA: “70%”"
     }
   ]
 }
