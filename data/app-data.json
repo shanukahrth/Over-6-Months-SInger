@@ -83782,6 +83782,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:26:14",
       "lastUpdated": "2026-09-15T08:56:14.605Z"
+    },
+    "MID-BL1190||WATTEGAMA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:26:50",
+      "lastUpdated": "2026-09-15T08:56:50.607Z"
     }
   },
   "showroomVisits": {
@@ -85930,6 +85937,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:26:50",
+      "iso": "2026-09-15T08:56:50.607Z",
+      "action": "updated remark for MID-BL1190 at WATTEGAMA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:26:46",
+      "iso": "2026-09-15T08:56:46.768Z",
+      "action": "updated remark for MID-BL1190 at WATTEGAMA: “%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:26:14",
       "iso": "2026-09-15T08:56:14.606Z",
       "action": "updated remark for R-FGAP010 at WATTEGAMA: “Damaged - 80%”"
@@ -86262,20 +86283,6 @@
       "time": "14:08:30",
       "iso": "2026-09-15T08:38:30.932Z",
       "action": "updated remark for GTK-PG10 at WATTEGAMA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:50:07",
-      "iso": "2026-09-15T07:20:07.740Z",
-      "action": "updated remark for SWM-FA70R at DIGANA - B: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:49:41",
-      "iso": "2026-09-15T07:19:41.189Z",
-      "action": "updated remark for SLE55GENR at DIGANA - B: “30%”"
     }
   ]
 }
