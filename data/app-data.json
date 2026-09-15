@@ -84034,6 +84034,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:39:36",
       "lastUpdated": "2026-09-15T09:09:36.247Z"
+    },
+    "SMGUA32F4100||WATTEGAMA": {
+      "remark": "Serial Number Issue",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:40:12",
+      "lastUpdated": "2026-09-15T09:10:12.203Z"
     }
   },
   "showroomVisits": {
@@ -86182,6 +86189,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:40:12",
+      "iso": "2026-09-15T09:10:12.204Z",
+      "action": "updated remark for SMGUA32F4100 at WATTEGAMA: “Serial Number Issue”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:39:36",
       "iso": "2026-09-15T09:09:36.248Z",
       "action": "updated remark for SLE40E910 at WATTEGAMA: “Panel Damage - 90%”"
@@ -86521,13 +86535,6 @@
       "time": "14:25:22",
       "iso": "2026-09-15T08:55:22.751Z",
       "action": "updated remark for CS-JANALIPA at WATTEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:24:29",
-      "iso": "2026-09-15T08:54:29.976Z",
-      "action": "updated remark for NCPO-DC200 at WATTEGAMA: “45%”"
     }
   ]
 }
