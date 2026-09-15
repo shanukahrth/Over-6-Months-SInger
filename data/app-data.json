@@ -82865,6 +82865,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "11:58:06",
       "lastUpdated": "2026-09-15T06:28:06.926Z"
+    },
+    "LF-LEO-120-SHW||KUNDASALE": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "11:58:36",
+      "lastUpdated": "2026-09-15T06:28:36.957Z"
+    },
+    "LF-LEO-12022-BCH||KUNDASALE": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "11:58:46",
+      "lastUpdated": "2026-09-15T06:28:46.785Z"
     }
   },
   "showroomVisits": {
@@ -84965,6 +84979,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "11:58:46",
+      "iso": "2026-09-15T06:28:46.786Z",
+      "action": "updated remark for LF-LEO-12022-BCH at KUNDASALE: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "11:58:36",
+      "iso": "2026-09-15T06:28:36.958Z",
+      "action": "updated remark for LF-LEO-120-SHW at KUNDASALE: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "11:58:06",
       "iso": "2026-09-15T06:28:06.927Z",
       "action": "updated remark for QT-T110 at KUNDASALE: “Revert Acc No Issue - ICD”"
@@ -85297,20 +85325,6 @@
       "time": "15:37:04",
       "iso": "2026-09-14T10:07:04.096Z",
       "action": "updated remark for BY-ATCBLGTTU at DIGANA - B: “20%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:36:20",
-      "iso": "2026-09-14T10:06:20.102Z",
-      "action": "updated remark for SB-AAA at DIGANA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:36:06",
-      "iso": "2026-09-14T10:06:06.012Z",
-      "action": "updated remark for SB-AAA at DIGANA - B: “Unsellable”"
     }
   ]
 }
