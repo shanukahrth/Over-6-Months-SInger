@@ -84496,6 +84496,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:38:58",
       "lastUpdated": "2026-09-15T10:08:58.936Z"
+    },
+    "SXL3201||RIKILLAGASKADA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:39:29",
+      "lastUpdated": "2026-09-15T10:09:29.711Z"
     }
   },
   "showroomVisits": {
@@ -86706,6 +86713,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:39:29",
+      "iso": "2026-09-15T10:09:29.712Z",
+      "action": "updated remark for SXL3201 at RIKILLAGASKADA: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:38:58",
       "iso": "2026-09-15T10:08:58.937Z",
       "action": "updated remark for PN-SC-UA30GS-K at RIKILLAGASKADA: “40%”"
@@ -87045,13 +87059,6 @@
       "time": "15:03:00",
       "iso": "2026-09-15T09:33:00.474Z",
       "action": "updated remark for SWM-FA70R at ANURADHAPURA B: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:02:12",
-      "iso": "2026-09-15T09:32:12.218Z",
-      "action": "marked SWM-FA70R at ANURADHAPURA B as Sold"
     }
   ]
 }
