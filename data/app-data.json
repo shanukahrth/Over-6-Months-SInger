@@ -85021,6 +85021,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:51:41",
       "lastUpdated": "2026-09-15T10:21:41.975Z"
+    },
+    "MX-QA311127||RIKILLAGASKADA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:51:53",
+      "lastUpdated": "2026-09-15T10:21:53.272Z"
+    },
+    "MXSW612543||RIKILLAGASKADA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:51:56",
+      "lastUpdated": "2026-09-15T10:21:56.948Z"
     }
   },
   "showroomVisits": {
@@ -87247,6 +87261,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:51:56",
+      "iso": "2026-09-15T10:21:56.949Z",
+      "action": "updated remark for MXSW612543 at RIKILLAGASKADA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:51:53",
+      "iso": "2026-09-15T10:21:53.274Z",
+      "action": "updated remark for MX-QA311127 at RIKILLAGASKADA: “80%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:51:41",
@@ -87581,20 +87609,6 @@
       "time": "15:46:45",
       "iso": "2026-09-15T10:16:45.490Z",
       "action": "updated remark for LF-GALANT-CRW-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:46:44",
-      "iso": "2026-09-15T10:16:44.126Z",
-      "action": "updated remark for LF-GALANT-CLM-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:46:42",
-      "iso": "2026-09-15T10:16:42.820Z",
-      "action": "updated remark for LF-GALANT-CLM-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
