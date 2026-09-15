@@ -86071,6 +86071,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:14:52",
       "lastUpdated": "2026-09-15T10:44:52.502Z"
+    },
+    "HON-X7B-8-256-SIL||DIGANA": {
+      "remark": "55%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:15:05",
+      "lastUpdated": "2026-09-15T10:45:05.925Z"
     }
   },
   "showroomVisits": {
@@ -88305,6 +88312,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:15:05",
+      "iso": "2026-09-15T10:45:05.925Z",
+      "action": "updated remark for HON-X7B-8-256-SIL at DIGANA: “55%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:14:52",
       "iso": "2026-09-15T10:44:52.503Z",
       "action": "updated remark for HU-SECURITY at DIGANA: “Shop use”"
@@ -88644,13 +88658,6 @@
       "time": "16:09:44",
       "iso": "2026-09-15T10:39:44.269Z",
       "action": "updated remark for WF-CF-75X60-S at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:42",
-      "iso": "2026-09-15T10:39:42.826Z",
-      "action": "updated remark for WF-CHAIR-B-BU at DIGANA: “50%”"
     }
   ]
 }
