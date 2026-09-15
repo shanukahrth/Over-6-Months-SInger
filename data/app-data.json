@@ -85924,6 +85924,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:11:59",
       "lastUpdated": "2026-09-15T10:41:59.795Z"
+    },
+    "TF-TW26-064||DIGANA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:12:04",
+      "lastUpdated": "2026-09-15T10:42:04.636Z"
+    },
+    "KA-LW-185A||DIGANA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:12:07",
+      "lastUpdated": "2026-09-15T10:42:07.919Z"
     }
   },
   "showroomVisits": {
@@ -88158,6 +88172,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:12:07",
+      "iso": "2026-09-15T10:42:07.921Z",
+      "action": "updated remark for KA-LW-185A at DIGANA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:12:04",
+      "iso": "2026-09-15T10:42:04.638Z",
+      "action": "updated remark for TF-TW26-064 at DIGANA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:11:59",
       "iso": "2026-09-15T10:41:59.796Z",
       "action": "updated remark for TF-NIDFP24-170 at DIGANA: “35%”"
@@ -88490,20 +88518,6 @@
       "time": "16:00:56",
       "iso": "2026-09-15T10:30:56.736Z",
       "action": "updated remark for H-RSQG018MFEOE at THALAWA: “199,999”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:01:12",
-      "iso": "2026-09-15T10:31:12.541Z",
-      "action": "updated remark for WP-SS-SUB1-S at RIKILLAGASKADA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:00:56",
-      "iso": "2026-09-15T10:30:56.857Z",
-      "action": "updated remark for WP-NSP-SG-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
