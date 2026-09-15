@@ -83313,6 +83313,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:20:40",
       "lastUpdated": "2026-09-15T06:50:40.043Z"
+    },
+    "IFPSTANDAU||KUNDASALE": {
+      "remark": "To be dropped",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:21:00",
+      "lastUpdated": "2026-09-15T06:51:00.209Z"
+    },
+    "NVC990T||KUNDASALE": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:21:09",
+      "lastUpdated": "2026-09-15T06:51:09.496Z"
     }
   },
   "showroomVisits": {
@@ -85413,6 +85427,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:21:09",
+      "iso": "2026-09-15T06:51:09.497Z",
+      "action": "updated remark for NVC990T at KUNDASALE: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:21:00",
+      "iso": "2026-09-15T06:51:00.210Z",
+      "action": "updated remark for IFPSTANDAU at KUNDASALE: “To be dropped”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:20:40",
       "iso": "2026-09-15T06:50:40.044Z",
       "action": "updated remark for ULED32D60A at KUNDASALE: “Panel Damage - 90%”"
@@ -85745,20 +85773,6 @@
       "time": "12:06:58",
       "iso": "2026-09-15T06:36:58.144Z",
       "action": "updated remark for MID-MF-TN40D2 at KUNDASALE: “Display & damage - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:06:35",
-      "iso": "2026-09-15T06:36:35.057Z",
-      "action": "updated remark for TF-NIFP28-042 at KUNDASALE: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:06:32",
-      "iso": "2026-09-15T06:36:32.049Z",
-      "action": "updated remark for TF-NIFP28-042 at KUNDASALE: “355”"
     }
   ]
 }
