@@ -83586,6 +83586,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:14:29",
       "lastUpdated": "2026-09-15T08:44:29.835Z"
+    },
+    "LF-BUDGET-ST-CLM-S||WATTEGAMA": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:15:09",
+      "lastUpdated": "2026-09-15T08:45:09.409Z"
     }
   },
   "showroomVisits": {
@@ -85734,6 +85741,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:15:09",
+      "iso": "2026-09-15T08:45:09.409Z",
+      "action": "updated remark for LF-BUDGET-ST-CLM-S at WATTEGAMA: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:14:29",
       "iso": "2026-09-15T08:44:29.836Z",
       "action": "updated remark for LF-BUDGET-BDQ-AGO-S at WATTEGAMA: “Display - 50%”"
@@ -86073,13 +86087,6 @@
       "time": "12:38:06",
       "iso": "2026-09-15T07:08:06.422Z",
       "action": "updated DIGANA - B showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:24:31",
-      "iso": "2026-09-15T06:54:31.125Z",
-      "action": "updated remark for MID-D30-20EVN1 at KUNDASALE: “Active SKU”"
     }
   ]
 }
