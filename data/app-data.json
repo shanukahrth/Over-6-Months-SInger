@@ -83271,6 +83271,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:18:59",
       "lastUpdated": "2026-09-15T06:48:59.420Z"
+    },
+    "SLE32E910||KUNDASALE": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:19:18",
+      "lastUpdated": "2026-09-15T06:49:18.810Z"
     }
   },
   "showroomVisits": {
@@ -85371,6 +85378,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:19:18",
+      "iso": "2026-09-15T06:49:18.811Z",
+      "action": "updated remark for SLE32E910 at KUNDASALE: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:18:59",
       "iso": "2026-09-15T06:48:59.421Z",
       "action": "updated remark for SLE32D2100 at KUNDASALE: “Panel Damage - 90%”"
@@ -85710,13 +85724,6 @@
       "time": "12:04:29",
       "iso": "2026-09-15T06:34:29.081Z",
       "action": "updated remark for PF-MONDY-BLUE at KUNDASALE: “Active SKU - 10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:04:19",
-      "iso": "2026-09-15T06:34:19.325Z",
-      "action": "updated remark for PF-CAFE-NEW-WF-S at KUNDASALE: “Active SKU - 10%”"
     }
   ]
 }
