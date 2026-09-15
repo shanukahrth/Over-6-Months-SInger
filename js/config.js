@@ -22,4 +22,21 @@ window.OVER6_SHARED_GITHUB_CONFIG = {
    Change this value any time by editing this file and redeploying —
    nothing else needs to change. Leave it blank ("") to disable the
    password requirement entirely (anyone can pick either role freely). */
-window.OVER6_ADMIN_PASSWORD = "MKT";
+window.OVER6_ADMIN_PASSWORD = "";
+
+/* Report periods available to pick at login (e.g. "August 2026", "July
+   2026"). Each entry's fileBase is the filename (without extension) the
+   app looks for — it checks both the repo root and a "data/" folder, and
+   both .csv and .xlsx, automatically (same as the normal inventory file).
+
+   To add a new month: export the new workbook, name it exactly
+   "<fileBase>.xlsx" (e.g. "Inventory_September2026.xlsx"), upload it to
+   the repo, then add one line below. Put the newest period first — it
+   becomes the default selection. No other changes needed.
+
+   Leave this array empty ([]) to go back to the single-file behaviour
+   (just "Inventory.xlsx"/"Inventory.csv", no period picker shown). */
+window.OVER6_REPORT_PERIODS = [
+  { id: "aug2026", label: "August 2026 (Latest)", fileBase: "Inventory_August2026" },
+  { id: "jul2026", label: "July 2026", fileBase: "Inventory_July2026" }
+];
