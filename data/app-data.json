@@ -85147,6 +85147,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:53:49",
       "lastUpdated": "2026-09-15T10:23:49.418Z"
+    },
+    "SIN-QS-8306||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:53:57",
+      "lastUpdated": "2026-09-15T10:23:57.652Z"
     }
   },
   "showroomVisits": {
@@ -87375,6 +87382,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:53:57",
+      "iso": "2026-09-15T10:23:57.654Z",
+      "action": "updated remark for SIN-QS-8306 at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:53:49",
       "iso": "2026-09-15T10:23:49.420Z",
       "action": "updated remark for RIYLTA-MF12V51A at RIKILLAGASKADA: “Mail to DM”"
@@ -87714,13 +87728,6 @@
       "time": "15:48:21",
       "iso": "2026-09-15T10:18:21.283Z",
       "action": "updated remark for WFL-MONACO-08-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:48:19",
-      "iso": "2026-09-15T10:18:19.788Z",
-      "action": "updated remark for WF-PARIS-BL-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
