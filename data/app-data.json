@@ -83411,6 +83411,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:43:17",
       "lastUpdated": "2026-09-15T07:13:17.665Z"
+    },
+    "U-HRW-S11||DIGANA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:43:48",
+      "lastUpdated": "2026-09-15T07:13:48.993Z"
     }
   },
   "showroomVisits": {
@@ -85527,6 +85534,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:43:48",
+      "iso": "2026-09-15T07:13:48.994Z",
+      "action": "updated remark for U-HRW-S11 at DIGANA - B: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:43:28",
       "iso": "2026-09-15T07:13:28.329Z",
       "action": "updated remark for HU-BAND-6-B at DIGANA - B: “Damaged - 80”"
@@ -85866,13 +85880,6 @@
       "time": "12:14:55",
       "iso": "2026-09-15T06:44:55.313Z",
       "action": "updated remark for HU-FREEBUD-4-SIL at KUNDASALE: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:14:30",
-      "iso": "2026-09-15T06:44:30.994Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KUNDASALE: “To be dropped”"
     }
   ]
 }
