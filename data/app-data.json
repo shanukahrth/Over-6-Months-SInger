@@ -84104,6 +84104,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:42:11",
       "lastUpdated": "2026-09-15T09:12:11.629Z"
+    },
+    "PN-TH-55MX740N||ANURADHAPURA B": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:42:36",
+      "lastUpdated": "2026-09-15T09:12:36.328Z"
     }
   },
   "showroomVisits": {
@@ -86252,9 +86259,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "PN-TH-55MX740N||ANURADHAPURA B": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "14:42:36",
+      "iso": "2026-09-15T09:12:36.331Z",
+      "action": "updated remark for PN-TH-55MX740N at ANURADHAPURA B: “SOLD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "14:41:31",
+      "iso": "2026-09-15T09:11:31.997Z",
+      "action": "marked PN-TH-55MX740N at ANURADHAPURA B as Sold"
+    },
     {
       "user": "Rashmi",
       "date": "2026-09-15",
@@ -86590,20 +86617,6 @@
       "time": "14:28:48",
       "iso": "2026-09-15T08:58:48.312Z",
       "action": "updated remark for PCP30 at WATTEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:28:31",
-      "iso": "2026-09-15T08:58:31.709Z",
-      "action": "updated remark for PCD55-SS at WATTEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:28:06",
-      "iso": "2026-09-15T08:58:06.964Z",
-      "action": "updated remark for SMW823AY7 at WATTEGAMA: “45%”"
     }
   ]
 }
