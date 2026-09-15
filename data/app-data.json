@@ -82831,12 +82831,12 @@
       "commentTime": "11:55:14",
       "lastUpdated": "2026-09-15T06:25:14.259Z"
     },
-    "DELL3502-PNTMSIL-W10-BLK||KUNDASALE": {
+    "DELL3510-PNTMSIL-BLK||KUNDASALE": {
       "remark": "Pending Exchange",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "11:55:25",
-      "lastUpdated": "2026-09-15T06:25:25.665Z"
+      "commentTime": "11:55:41",
+      "lastUpdated": "2026-09-15T06:25:41.399Z"
     }
   },
   "showroomVisits": {
@@ -84937,6 +84937,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "11:55:41",
+      "iso": "2026-09-15T06:25:41.399Z",
+      "action": "updated remark for DELL3510-PNTMSIL-BLK at KUNDASALE: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "11:55:37",
+      "iso": "2026-09-15T06:25:37.716Z",
+      "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at KUNDASALE (cleared)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "11:55:25",
       "iso": "2026-09-15T06:25:25.665Z",
       "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at KUNDASALE: “Pending Exchange”"
@@ -85269,20 +85283,6 @@
       "time": "15:04:38",
       "iso": "2026-09-14T09:34:38.016Z",
       "action": "updated MENIKHINNA showroom (team: Team Central)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:04:29",
-      "iso": "2026-09-14T09:34:29.716Z",
-      "action": "updated MENIKHINNA showroom (visitDate: 2026-09-14)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:04:27",
-      "iso": "2026-09-14T09:34:27.366Z",
-      "action": "updated MENIKHINNA showroom (visited: Yes)"
     }
   ]
 }
