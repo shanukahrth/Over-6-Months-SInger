@@ -83082,6 +83082,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:10:02",
       "lastUpdated": "2026-09-15T06:40:02.726Z"
+    },
+    "RMG-SMART||KUNDASALE": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:10:20",
+      "lastUpdated": "2026-09-15T06:40:20.341Z"
     }
   },
   "showroomVisits": {
@@ -85182,6 +85189,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:10:20",
+      "iso": "2026-09-15T06:40:20.342Z",
+      "action": "updated remark for RMG-SMART at KUNDASALE: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:10:02",
       "iso": "2026-09-15T06:40:02.728Z",
       "action": "updated remark for TH-TC-351 at KUNDASALE: “70%”"
@@ -85521,13 +85535,6 @@
       "time": "11:54:35",
       "iso": "2026-09-15T06:24:35.274Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at KUNDASALE: “Display product - 27,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "11:54:14",
-      "iso": "2026-09-15T06:24:14.102Z",
-      "action": "updated remark for HFPA-GRAVITY-BLC at KUNDASALE: “Selling price - 24,000”"
     }
   ]
 }
