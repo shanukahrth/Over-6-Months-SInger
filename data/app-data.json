@@ -83691,6 +83691,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:20:15",
       "lastUpdated": "2026-09-15T08:50:15.276Z"
+    },
+    "WF-PARIS-BL-S||WATTEGAMA": {
+      "remark": "Revert - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:20:49",
+      "lastUpdated": "2026-09-15T08:50:49.861Z"
     }
   },
   "showroomVisits": {
@@ -85839,6 +85846,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:20:49",
+      "iso": "2026-09-15T08:50:49.862Z",
+      "action": "updated remark for WF-PARIS-BL-S at WATTEGAMA: “Revert - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:20:15",
       "iso": "2026-09-15T08:50:15.277Z",
       "action": "updated remark for PF-CAFE-NEW-WF-S at WATTEGAMA: “Active SKU - 10%”"
@@ -86178,13 +86192,6 @@
       "time": "12:44:03",
       "iso": "2026-09-15T07:14:03.908Z",
       "action": "updated remark for U-HRW-S11 at DIGANA - B: “Damaged - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:43:48",
-      "iso": "2026-09-15T07:13:48.994Z",
-      "action": "updated remark for U-HRW-S11 at DIGANA - B: “50%”"
     }
   ]
 }
