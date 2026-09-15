@@ -85574,6 +85574,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:00:12",
       "lastUpdated": "2026-09-15T10:30:12.134Z"
+    },
+    "WP-CHTW-075-S||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:28",
+      "lastUpdated": "2026-09-15T10:30:28.257Z"
     }
   },
   "showroomVisits": {
@@ -87802,6 +87809,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:00:28",
+      "iso": "2026-09-15T10:30:28.258Z",
+      "action": "updated remark for WP-CHTW-075-S at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:00:12",
       "iso": "2026-09-15T10:30:12.136Z",
       "action": "updated remark for SL-WD7004 at RIKILLAGASKADA: “70%”"
@@ -88141,13 +88155,6 @@
       "time": "15:56:20",
       "iso": "2026-09-15T10:26:20.810Z",
       "action": "updated remark for R-RGS150-SV at RIKILLAGASKADA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:56:18",
-      "iso": "2026-09-15T10:26:18.247Z",
-      "action": "updated remark for GEO-SM-255D at RIKILLAGASKADA: “80%”"
     }
   ]
 }
