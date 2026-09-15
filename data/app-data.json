@@ -83621,6 +83621,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:17:17",
       "lastUpdated": "2026-09-15T08:47:17.481Z"
+    },
+    "WF-PRESTON-DTO-S||WATTEGAMA": {
+      "remark": "Damaged - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:17:39",
+      "lastUpdated": "2026-09-15T08:47:39.478Z"
     }
   },
   "showroomVisits": {
@@ -85769,6 +85776,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:17:39",
+      "iso": "2026-09-15T08:47:39.479Z",
+      "action": "updated remark for WF-PRESTON-DTO-S at WATTEGAMA: “Damaged - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:17:17",
       "iso": "2026-09-15T08:47:17.482Z",
       "action": "updated remark for LF-PLUTOTV-S at WATTEGAMA: “Damaged - 80%”"
@@ -86108,13 +86122,6 @@
       "time": "12:38:59",
       "iso": "2026-09-15T07:08:59.382Z",
       "action": "updated KUNDASALE showroom (remark: Discounts given over the phone )"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:38:40",
-      "iso": "2026-09-15T07:08:40.654Z",
-      "action": "updated KUNDASALE showroom (team: Team Central )"
     }
   ]
 }
