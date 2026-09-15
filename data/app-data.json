@@ -84986,6 +84986,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:50:49",
       "lastUpdated": "2026-09-15T10:20:49.580Z"
+    },
+    "DAV-DZ650||THALAWA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:50:43",
+      "lastUpdated": "2026-09-15T10:20:43.374Z"
     }
   },
   "showroomVisits": {
@@ -87202,9 +87209,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "WP-JUN-E-S||THALAWA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:50:51",
+      "iso": "2026-09-15T10:20:51.169Z",
+      "action": "marked WP-JUN-E-S at THALAWA as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:50:43",
+      "iso": "2026-09-15T10:20:43.375Z",
+      "action": "updated remark for DAV-DZ650 at THALAWA: “50%”"
+    },
     {
       "user": "Rashmi",
       "date": "2026-09-15",
@@ -87540,20 +87567,6 @@
       "time": "15:46:02",
       "iso": "2026-09-15T10:16:02.557Z",
       "action": "updated remark for LF-BUDGET-DT-CRW-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:45:55",
-      "iso": "2026-09-15T10:15:55.850Z",
-      "action": "updated remark for LF-BED-001-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:45:51",
-      "iso": "2026-09-15T10:15:51.840Z",
-      "action": "updated remark for SHPT-75X60 at RIKILLAGASKADA: “50%”"
     }
   ]
 }
