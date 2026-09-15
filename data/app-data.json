@@ -84202,6 +84202,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:01:13",
       "lastUpdated": "2026-09-15T09:31:13.518Z"
+    },
+    "WFI-HELENA-TBL-S||ANURADHAPURA B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:01:35",
+      "lastUpdated": "2026-09-15T09:31:35.823Z"
     }
   },
   "showroomVisits": {
@@ -86376,6 +86383,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:01:35",
+      "iso": "2026-09-15T09:31:35.825Z",
+      "action": "updated remark for WFI-HELENA-TBL-S at ANURADHAPURA B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:01:13",
       "iso": "2026-09-15T09:31:13.519Z",
       "action": "updated remark for NUBIA-AIR-8-256GB-ST-BLK at ANURADHAPURA B: “15%”"
@@ -86715,13 +86729,6 @@
       "time": "14:36:09",
       "iso": "2026-09-15T09:06:09.904Z",
       "action": "updated remark for SLE28B2520 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:35:33",
-      "iso": "2026-09-15T09:05:33.678Z",
-      "action": "updated remark for SLE24E3510TC at WATTEGAMA: “Cleared”"
     }
   ]
 }
