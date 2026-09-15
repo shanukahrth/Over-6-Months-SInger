@@ -85016,11 +85016,11 @@
       "lastUpdated": "2026-09-15T10:21:25.811Z"
     },
     "SLE40D600A||THALAWA": {
-      "remark": "80%",
+      "remark": "Exchange sold",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-15",
-      "commentTime": "15:51:41",
-      "lastUpdated": "2026-09-15T10:21:41.975Z"
+      "commentTime": "15:52:20",
+      "lastUpdated": "2026-09-15T10:22:20.174Z"
     },
     "MX-QA311127||RIKILLAGASKADA": {
       "remark": "80%",
@@ -85098,6 +85098,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:52:53",
       "lastUpdated": "2026-09-15T10:22:53.035Z"
+    },
+    "SIN-MH51SW||THALAWA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:52:53",
+      "lastUpdated": "2026-09-15T10:22:53.878Z"
     }
   },
   "showroomVisits": {
@@ -87324,6 +87331,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:52:53",
+      "iso": "2026-09-15T10:22:53.879Z",
+      "action": "updated remark for SIN-MH51SW at THALAWA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:52:20",
+      "iso": "2026-09-15T10:22:20.177Z",
+      "action": "updated remark for SLE40D600A at THALAWA: “Exchange sold”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "15:52:53",
@@ -87658,20 +87679,6 @@
       "time": "15:47:30",
       "iso": "2026-09-15T10:17:30.743Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:47:19",
-      "iso": "2026-09-15T10:17:19.228Z",
-      "action": "updated remark for WF-LEGEND-14-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:47:14",
-      "iso": "2026-09-15T10:17:14.908Z",
-      "action": "updated remark for WF-OSLO-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
