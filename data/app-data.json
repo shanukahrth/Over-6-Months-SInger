@@ -85553,6 +85553,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:59:51",
       "lastUpdated": "2026-09-15T10:29:51.737Z"
+    },
+    "SAS-12VL||THALAWA": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:00",
+      "lastUpdated": "2026-09-15T10:30:00.935Z"
     }
   },
   "showroomVisits": {
@@ -87779,6 +87786,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "16:00:00",
+      "iso": "2026-09-15T10:30:00.938Z",
+      "action": "updated remark for SAS-12VL at THALAWA: “85%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "15:59:51",
@@ -88120,13 +88134,6 @@
       "time": "15:56:09",
       "iso": "2026-09-15T10:26:09.406Z",
       "action": "updated remark for GEO-182S-BU1 at RIKILLAGASKADA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:56:07",
-      "iso": "2026-09-15T10:26:07.246Z",
-      "action": "updated remark for GEO-182S at RIKILLAGASKADA: “80%”"
     }
   ]
 }
