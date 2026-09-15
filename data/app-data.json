@@ -83488,6 +83488,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:50:07",
       "lastUpdated": "2026-09-15T07:20:07.739Z"
+    },
+    "GTK-PG10||WATTEGAMA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:08:30",
+      "lastUpdated": "2026-09-15T08:38:30.929Z"
     }
   },
   "showroomVisits": {
@@ -85636,6 +85643,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:08:30",
+      "iso": "2026-09-15T08:38:30.932Z",
+      "action": "updated remark for GTK-PG10 at WATTEGAMA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:50:07",
       "iso": "2026-09-15T07:20:07.740Z",
       "action": "updated remark for SWM-FA70R at DIGANA - B: “55%”"
@@ -85975,13 +85989,6 @@
       "time": "12:19:46",
       "iso": "2026-09-15T06:49:46.032Z",
       "action": "updated remark for SLE43G890 at KUNDASALE: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:19:18",
-      "iso": "2026-09-15T06:49:18.811Z",
-      "action": "updated remark for SLE32E910 at KUNDASALE: “70%”"
     }
   ]
 }
