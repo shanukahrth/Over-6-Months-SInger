@@ -83203,11 +83203,11 @@
       "lastUpdated": "2026-09-15T06:46:19.203Z"
     },
     "SL-ECO245||KUNDASALE": {
-      "remark": "80%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "12:16:28",
-      "lastUpdated": "2026-09-15T06:46:28.181Z"
+      "commentTime": "12:16:37",
+      "lastUpdated": "2026-09-15T06:46:37.063Z"
     }
   },
   "showroomVisits": {
@@ -85308,6 +85308,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:16:37",
+      "iso": "2026-09-15T06:46:37.064Z",
+      "action": "updated remark for SL-ECO245 at KUNDASALE: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:16:28",
       "iso": "2026-09-15T06:46:28.182Z",
       "action": "updated remark for SL-ECO245 at KUNDASALE: “80%”"
@@ -85647,13 +85654,6 @@
       "time": "12:00:23",
       "iso": "2026-09-15T06:30:23.504Z",
       "action": "updated remark for LF-R90-2S-S at KUNDASALE: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:00:11",
-      "iso": "2026-09-15T06:30:11.781Z",
-      "action": "updated remark for LF-ORGN-W4B-CLM-S at KUNDASALE: “WH issue - 70%”"
     }
   ]
 }
