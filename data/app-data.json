@@ -82949,6 +82949,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:03:09",
       "lastUpdated": "2026-09-15T06:33:09.167Z"
+    },
+    "WF-DOC-T009-BU-S||KUNDASALE": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:03:30",
+      "lastUpdated": "2026-09-15T06:33:30.104Z"
     }
   },
   "showroomVisits": {
@@ -85049,6 +85056,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:03:30",
+      "iso": "2026-09-15T06:33:30.105Z",
+      "action": "updated remark for WF-DOC-T009-BU-S at KUNDASALE: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:03:21",
+      "iso": "2026-09-15T06:33:21.692Z",
+      "action": "updated remark for WF-DOC-T009-BU-S at KUNDASALE: “System Discount - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:03:09",
       "iso": "2026-09-15T06:33:09.169Z",
       "action": "updated remark for WFI-SOC-M005-BU-S at KUNDASALE: “Active SKU - 20%”"
@@ -85381,20 +85402,6 @@
       "time": "15:46:18",
       "iso": "2026-09-14T10:16:18.368Z",
       "action": "updated remark for PF-FLEXI-NKL-MW-S at DIGANA - B: “Active SKU -”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:46:01",
-      "iso": "2026-09-14T10:16:01.032Z",
-      "action": "updated remark for WFL-SPM-75X60X7-S at DIGANA - B: “Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:45:40",
-      "iso": "2026-09-14T10:15:40.856Z",
-      "action": "updated remark for WFL-BST-110X110 at DIGANA - B: “50%”"
     }
   ]
 }
