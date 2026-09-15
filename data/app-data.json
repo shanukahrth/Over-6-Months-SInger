@@ -86522,9 +86522,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "SMG-A36-5G-8-128-BLK||ANURADHAPURA B": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:11:11",
+      "iso": "2026-09-15T09:41:11.340Z",
+      "action": "marked SMG-A36-5G-8-128-BLK at ANURADHAPURA B as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
@@ -86866,13 +86879,6 @@
       "date": "2026-09-15",
       "time": "14:41:16",
       "iso": "2026-09-15T09:11:16.770Z",
-      "action": "updated remark for ULED32D60A at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:41:15",
-      "iso": "2026-09-15T09:11:15.834Z",
       "action": "updated remark for ULED32D60A at WATTEGAMA: “Panel Damage - 90%”"
     }
   ]
