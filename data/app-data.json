@@ -83994,11 +83994,11 @@
       "lastUpdated": "2026-09-15T09:08:04.972Z"
     },
     "SLE32E930||WATTEGAMA": {
-      "remark": "Reported",
+      "remark": "Panel Damage - 90%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "14:38:38",
-      "lastUpdated": "2026-09-15T09:08:38.801Z"
+      "commentTime": "14:38:48",
+      "lastUpdated": "2026-09-15T09:08:48.040Z"
     }
   },
   "showroomVisits": {
@@ -86147,6 +86147,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:38:48",
+      "iso": "2026-09-15T09:08:48.040Z",
+      "action": "updated remark for SLE32E930 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:38:45",
+      "iso": "2026-09-15T09:08:45.648Z",
+      "action": "updated remark for SLE32E930 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:38:38",
       "iso": "2026-09-15T09:08:38.802Z",
       "action": "updated remark for SLE32E930 at WATTEGAMA: “Reported”"
@@ -86479,20 +86493,6 @@
       "time": "14:22:46",
       "iso": "2026-09-15T08:52:46.130Z",
       "action": "updated remark for SHT-1691P at WATTEGAMA: “Damaged -”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:22:24",
-      "iso": "2026-09-15T08:52:24.064Z",
-      "action": "updated remark for LF-GALANT-WNG-S at WATTEGAMA: “Unsellable - WH Issue”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:21:53",
-      "iso": "2026-09-15T08:51:53.014Z",
-      "action": "updated remark for WFL-RIO-01-S at WATTEGAMA: “Display - 50%”"
     }
   ]
 }
