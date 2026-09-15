@@ -83047,6 +83047,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:08:11",
       "lastUpdated": "2026-09-15T06:38:11.034Z"
+    },
+    "TF-AF32-577||KUNDASALE": {
+      "remark": "Display - 35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:08:30",
+      "lastUpdated": "2026-09-15T06:38:30.630Z"
     }
   },
   "showroomVisits": {
@@ -85147,6 +85154,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:08:30",
+      "iso": "2026-09-15T06:38:30.631Z",
+      "action": "updated remark for TF-AF32-577 at KUNDASALE: “Display - 35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:08:11",
       "iso": "2026-09-15T06:38:11.036Z",
       "action": "updated remark for BD-AF400-B5 at KUNDASALE: “Display - 50%”"
@@ -85486,13 +85500,6 @@
       "time": "15:53:52",
       "iso": "2026-09-14T10:23:52.122Z",
       "action": "updated remark for HON-PAD-X7-CV at DIGANA - B: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:53:37",
-      "iso": "2026-09-14T10:23:37.846Z",
-      "action": "updated remark for SIN-RFC-1819 at DIGANA - B: “35%”"
     }
   ]
 }
