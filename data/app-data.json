@@ -83453,6 +83453,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:48:10",
       "lastUpdated": "2026-09-15T07:18:10.199Z"
+    },
+    "V-PMASTER-30||DIGANA - B": {
+      "remark": "WHRTN",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:48:29",
+      "lastUpdated": "2026-09-15T07:18:29.524Z"
     }
   },
   "showroomVisits": {
@@ -85601,6 +85608,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:48:29",
+      "iso": "2026-09-15T07:18:29.525Z",
+      "action": "updated remark for V-PMASTER-30 at DIGANA - B: “WHRTN”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:48:10",
       "iso": "2026-09-15T07:18:10.200Z",
       "action": "updated remark for BES-CRS-51 at DIGANA - B: “Display - 15%”"
@@ -85940,13 +85954,6 @@
       "time": "12:18:21",
       "iso": "2026-09-15T06:48:21.243Z",
       "action": "updated remark for SKY49E300 at KUNDASALE: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:18:02",
-      "iso": "2026-09-15T06:48:02.860Z",
-      "action": "updated remark for SKY-49E2C at KUNDASALE: “Panel Damage - 90%”"
     }
   ]
 }
