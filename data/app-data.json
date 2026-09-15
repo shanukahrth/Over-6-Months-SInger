@@ -84209,6 +84209,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:01:35",
       "lastUpdated": "2026-09-15T09:31:35.823Z"
+    },
+    "WFI-MARCY-CHR-S||ANURADHAPURA B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:01:45",
+      "lastUpdated": "2026-09-15T09:31:45.039Z"
     }
   },
   "showroomVisits": {
@@ -86383,6 +86390,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:01:45",
+      "iso": "2026-09-15T09:31:45.041Z",
+      "action": "updated remark for WFI-MARCY-CHR-S at ANURADHAPURA B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:01:35",
       "iso": "2026-09-15T09:31:35.825Z",
       "action": "updated remark for WFI-HELENA-TBL-S at ANURADHAPURA B: “50%”"
@@ -86722,13 +86736,6 @@
       "time": "14:36:21",
       "iso": "2026-09-15T09:06:21.476Z",
       "action": "updated remark for SLE24E610 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:36:09",
-      "iso": "2026-09-15T09:06:09.904Z",
-      "action": "updated remark for SLE28B2520 at WATTEGAMA: “Panel Damage - 90%”"
     }
   ]
 }
