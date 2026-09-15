@@ -83432,6 +83432,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:46:43",
       "lastUpdated": "2026-09-15T07:16:43.569Z"
+    },
+    "SN-SMI-285||DIGANA - B": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:47:15",
+      "lastUpdated": "2026-09-15T07:17:15.059Z"
     }
   },
   "showroomVisits": {
@@ -85548,6 +85555,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:47:15",
+      "iso": "2026-09-15T07:17:15.060Z",
+      "action": "updated remark for SN-SMI-285 at DIGANA - B: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:46:43",
       "iso": "2026-09-15T07:16:43.570Z",
       "action": "updated remark for SMGRT30K3322S8 at DIGANA - B: “Selling Price - 150,000”"
@@ -85887,13 +85901,6 @@
       "time": "12:16:37",
       "iso": "2026-09-15T06:46:37.064Z",
       "action": "updated remark for SL-ECO245 at KUNDASALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:16:28",
-      "iso": "2026-09-15T06:46:28.182Z",
-      "action": "updated remark for SL-ECO245 at KUNDASALE: “80%”"
     }
   ]
 }
