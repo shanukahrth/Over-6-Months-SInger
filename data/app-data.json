@@ -83579,6 +83579,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:13:45",
       "lastUpdated": "2026-09-15T08:43:45.017Z"
+    },
+    "LF-BUDGET-BDQ-AGO-S||WATTEGAMA": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:14:29",
+      "lastUpdated": "2026-09-15T08:44:29.835Z"
     }
   },
   "showroomVisits": {
@@ -85727,6 +85734,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:14:29",
+      "iso": "2026-09-15T08:44:29.836Z",
+      "action": "updated remark for LF-BUDGET-BDQ-AGO-S at WATTEGAMA: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:13:45",
       "iso": "2026-09-15T08:43:45.017Z",
       "action": "updated remark for LF-LEO-12022-WNG-S at WATTEGAMA: “Display - 50%”"
@@ -86066,13 +86080,6 @@
       "time": "12:24:31",
       "iso": "2026-09-15T06:54:31.125Z",
       "action": "updated remark for MID-D30-20EVN1 at KUNDASALE: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:23:24",
-      "iso": "2026-09-15T06:53:24.583Z",
-      "action": "updated remark for SWP-SLCT-01 at KUNDASALE: “Damaged - 85%”"
     }
   ]
 }
