@@ -83413,11 +83413,11 @@
       "lastUpdated": "2026-09-15T07:13:17.665Z"
     },
     "U-HRW-S11||DIGANA - B": {
-      "remark": "50%",
+      "remark": "Damaged - 60%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "12:43:48",
-      "lastUpdated": "2026-09-15T07:13:48.993Z"
+      "commentTime": "12:44:03",
+      "lastUpdated": "2026-09-15T07:14:03.907Z"
     }
   },
   "showroomVisits": {
@@ -85534,6 +85534,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:44:03",
+      "iso": "2026-09-15T07:14:03.908Z",
+      "action": "updated remark for U-HRW-S11 at DIGANA - B: “Damaged - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:43:48",
       "iso": "2026-09-15T07:13:48.994Z",
       "action": "updated remark for U-HRW-S11 at DIGANA - B: “50%”"
@@ -85873,13 +85880,6 @@
       "time": "12:15:18",
       "iso": "2026-09-15T06:45:18.364Z",
       "action": "updated remark for U-HRW-S6 at KUNDASALE: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:14:55",
-      "iso": "2026-09-15T06:44:55.313Z",
-      "action": "updated remark for HU-FREEBUD-4-SIL at KUNDASALE: “Reported”"
     }
   ]
 }
