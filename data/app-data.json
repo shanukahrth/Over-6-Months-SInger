@@ -83551,6 +83551,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:12:40",
       "lastUpdated": "2026-09-15T08:42:40.098Z"
+    },
+    "GRIP-8101-S||WATTEGAMA": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:13:04",
+      "lastUpdated": "2026-09-15T08:43:04.119Z"
+    },
+    "GRIP-8205||WATTEGAMA": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:13:06",
+      "lastUpdated": "2026-09-15T08:43:06.824Z"
+    },
+    "GRIP-8573||WATTEGAMA": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:13:09",
+      "lastUpdated": "2026-09-15T08:43:09.276Z"
     }
   },
   "showroomVisits": {
@@ -85699,6 +85720,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:13:09",
+      "iso": "2026-09-15T08:43:09.277Z",
+      "action": "updated remark for GRIP-8573 at WATTEGAMA: “Shop use”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:13:06",
+      "iso": "2026-09-15T08:43:06.826Z",
+      "action": "updated remark for GRIP-8205 at WATTEGAMA: “Shop use”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:13:04",
+      "iso": "2026-09-15T08:43:04.120Z",
+      "action": "updated remark for GRIP-8101-S at WATTEGAMA: “Shop use”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:12:40",
       "iso": "2026-09-15T08:42:40.100Z",
       "action": "updated remark for FAN-P-MSF160 at WATTEGAMA: “Damaged - 80%”"
@@ -86024,27 +86066,6 @@
       "time": "12:23:03",
       "iso": "2026-09-15T06:53:03.317Z",
       "action": "updated remark for WP-WFC105604RT-G at KUNDASALE: “22.5%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:22:33",
-      "iso": "2026-09-15T06:52:33.941Z",
-      "action": "updated remark for SWM-FA70R at KUNDASALE: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:22:32",
-      "iso": "2026-09-15T06:52:32.379Z",
-      "action": "updated remark for SWM-FA70R at KUNDASALE: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:22:27",
-      "iso": "2026-09-15T06:52:27.705Z",
-      "action": "updated remark for SIN-VAC8515 at KUNDASALE: “Damaged - 40%”"
     }
   ]
 }
