@@ -83705,6 +83705,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:21:28",
       "lastUpdated": "2026-09-15T08:51:28.827Z"
+    },
+    "WFL-RIO-01-S||WATTEGAMA": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:21:53",
+      "lastUpdated": "2026-09-15T08:51:53.011Z"
     }
   },
   "showroomVisits": {
@@ -85853,6 +85860,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:21:53",
+      "iso": "2026-09-15T08:51:53.014Z",
+      "action": "updated remark for WFL-RIO-01-S at WATTEGAMA: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:21:28",
       "iso": "2026-09-15T08:51:28.829Z",
       "action": "updated remark for WFL-MONACO-12-S at WATTEGAMA: “50%”"
@@ -86192,13 +86206,6 @@
       "time": "12:45:53",
       "iso": "2026-09-15T07:15:53.175Z",
       "action": "updated remark for GEO-182S-SV at DIGANA - B: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:45:33",
-      "iso": "2026-09-15T07:15:33.895Z",
-      "action": "updated remark for GEO-182S-SV at DIGANA - B: “25%”"
     }
   ]
 }
