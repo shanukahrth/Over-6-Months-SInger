@@ -83572,6 +83572,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:13:09",
       "lastUpdated": "2026-09-15T08:43:09.276Z"
+    },
+    "LF-LEO-12022-WNG-S||WATTEGAMA": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:13:45",
+      "lastUpdated": "2026-09-15T08:43:45.017Z"
     }
   },
   "showroomVisits": {
@@ -85720,6 +85727,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:13:45",
+      "iso": "2026-09-15T08:43:45.017Z",
+      "action": "updated remark for LF-LEO-12022-WNG-S at WATTEGAMA: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:13:09",
       "iso": "2026-09-15T08:43:09.277Z",
       "action": "updated remark for GRIP-8573 at WATTEGAMA: “Shop use”"
@@ -86059,13 +86073,6 @@
       "time": "12:23:24",
       "iso": "2026-09-15T06:53:24.583Z",
       "action": "updated remark for SWP-SLCT-01 at KUNDASALE: “Damaged - 85%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:23:03",
-      "iso": "2026-09-15T06:53:03.317Z",
-      "action": "updated remark for WP-WFC105604RT-G at KUNDASALE: “22.5%”"
     }
   ]
 }
