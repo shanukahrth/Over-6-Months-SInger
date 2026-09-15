@@ -85191,11 +85191,11 @@
       "lastUpdated": "2026-09-15T10:24:35.207Z"
     },
     "GEO-242D-SV||THALAWA": {
-      "remark": "SOLD",
+      "remark": "25%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-15",
-      "commentTime": "15:54:40",
-      "lastUpdated": "2026-09-15T10:24:40.957Z"
+      "commentTime": "15:57:58",
+      "lastUpdated": "2026-09-15T10:27:58.225Z"
     },
     "SL-SWMFR72||THALAWA": {
       "remark": "70%",
@@ -85385,6 +85385,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:57:56",
       "lastUpdated": "2026-09-15T10:27:56.229Z"
+    },
+    "SLE43G890||THALAWA": {
+      "remark": "55%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:00",
+      "lastUpdated": "2026-09-15T10:27:00.318Z"
+    },
+    "MHC-M40D||THALAWA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:19",
+      "lastUpdated": "2026-09-15T10:27:19.731Z"
     }
   },
   "showroomVisits": {
@@ -87611,6 +87625,27 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:57:58",
+      "iso": "2026-09-15T10:27:58.228Z",
+      "action": "updated remark for GEO-242D-SV at THALAWA: “25%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:57:19",
+      "iso": "2026-09-15T10:27:19.732Z",
+      "action": "updated remark for MHC-M40D at THALAWA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:57:00",
+      "iso": "2026-09-15T10:27:00.321Z",
+      "action": "updated remark for SLE43G890 at THALAWA: “55%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "15:57:56",
@@ -87938,27 +87973,6 @@
       "time": "15:52:46",
       "iso": "2026-09-15T10:22:46.109Z",
       "action": "updated remark for KA-PRISMA1.7SS at RIKILLAGASKADA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:44",
-      "iso": "2026-09-15T10:22:44.148Z",
-      "action": "updated remark for SIH-2057M at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:39",
-      "iso": "2026-09-15T10:22:39.065Z",
-      "action": "updated remark for RMG-3JAR550 at RIKILLAGASKADA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:36",
-      "iso": "2026-09-15T10:22:36.538Z",
-      "action": "updated remark for MID-BL1190 at RIKILLAGASKADA: “50%”"
     }
   ]
 }
