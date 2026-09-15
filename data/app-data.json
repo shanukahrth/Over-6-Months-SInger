@@ -83936,6 +83936,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:34:42",
       "lastUpdated": "2026-09-15T09:04:42.678Z"
+    },
+    "SLE24D1000||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:34:53",
+      "lastUpdated": "2026-09-15T09:04:53.893Z"
     }
   },
   "showroomVisits": {
@@ -86084,6 +86091,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:34:53",
+      "iso": "2026-09-15T09:04:53.895Z",
+      "action": "updated remark for SLE24D1000 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:34:42",
       "iso": "2026-09-15T09:04:42.679Z",
       "action": "updated remark for SKY32TB1000 at WATTEGAMA: “Panel Damage - 90%”"
@@ -86423,13 +86437,6 @@
       "time": "14:18:11",
       "iso": "2026-09-15T08:48:11.437Z",
       "action": "updated remark for WF-JUPITER-06-S at WATTEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:17:39",
-      "iso": "2026-09-15T08:47:39.479Z",
-      "action": "updated remark for WF-PRESTON-DTO-S at WATTEGAMA: “Damaged - 70%”"
     }
   ]
 }
