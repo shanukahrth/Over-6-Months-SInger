@@ -83257,6 +83257,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:18:40",
       "lastUpdated": "2026-09-15T06:48:40.823Z"
+    },
+    "SLE24S1300||KUNDASALE": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:18:46",
+      "lastUpdated": "2026-09-15T06:48:46.943Z"
     }
   },
   "showroomVisits": {
@@ -85357,6 +85364,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:18:46",
+      "iso": "2026-09-15T06:48:46.944Z",
+      "action": "updated remark for SLE24S1300 at KUNDASALE: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:18:40",
       "iso": "2026-09-15T06:48:40.824Z",
       "action": "updated remark for SLE24B2900 at KUNDASALE: “Panel Damage - 90%”"
@@ -85696,13 +85710,6 @@
       "time": "12:03:40",
       "iso": "2026-09-15T06:33:40.999Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at KUNDASALE: “DP Education”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:03:30",
-      "iso": "2026-09-15T06:33:30.105Z",
-      "action": "updated remark for WF-DOC-T009-BU-S at KUNDASALE: “Display - 50%”"
     }
   ]
 }
