@@ -84328,6 +84328,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:10:26",
       "lastUpdated": "2026-09-15T09:40:26.640Z"
+    },
+    "MCZJ9513-G01||ANURADHAPURA B": {
+      "remark": "95%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:10:43",
+      "lastUpdated": "2026-09-15T09:40:43.314Z"
     }
   },
   "showroomVisits": {
@@ -86514,6 +86521,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:10:43",
+      "iso": "2026-09-15T09:40:43.318Z",
+      "action": "updated remark for MCZJ9513-G01 at ANURADHAPURA B: “95%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:10:26",
       "iso": "2026-09-15T09:40:26.642Z",
       "action": "updated remark for B-BMGB25332BG at ANURADHAPURA B: “35%”"
@@ -86853,13 +86867,6 @@
       "time": "14:41:10",
       "iso": "2026-09-15T09:11:10.904Z",
       "action": "updated remark for ULED32D4000 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "14:41:10",
-      "iso": "2026-09-15T09:11:10.470Z",
-      "action": "updated remark for MSI-CYB-A2RVE-4050-I7-BL at ANURADHAPURA B: “17.5%, Display”"
     }
   ]
 }
