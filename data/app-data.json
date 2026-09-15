@@ -85287,6 +85287,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:56:23",
       "lastUpdated": "2026-09-15T10:26:23.267Z"
+    },
+    "SMGRT28A3021GS||RIKILLAGASKADA": {
+      "remark": "MOP - 135,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:56:33",
+      "lastUpdated": "2026-09-15T10:26:33.415Z"
     }
   },
   "showroomVisits": {
@@ -87515,6 +87522,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:56:33",
+      "iso": "2026-09-15T10:26:33.417Z",
+      "action": "updated remark for SMGRT28A3021GS at RIKILLAGASKADA: “MOP - 135,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:56:23",
       "iso": "2026-09-15T10:26:23.268Z",
       "action": "updated remark for SL-ECO192 at RIKILLAGASKADA: “80%”"
@@ -87854,13 +87868,6 @@
       "time": "15:50:44",
       "iso": "2026-09-15T10:20:44.761Z",
       "action": "updated remark for TF-NIDFP24-170 at RIKILLAGASKADA: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:50:42",
-      "iso": "2026-09-15T10:20:42.259Z",
-      "action": "updated remark for TF-KD24-061 at RIKILLAGASKADA: “35%”"
     }
   ]
 }
