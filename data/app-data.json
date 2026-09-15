@@ -82893,6 +82893,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "11:59:19",
       "lastUpdated": "2026-09-15T06:29:19.500Z"
+    },
+    "LF-ORGN-W4B-CLM-S||KUNDASALE": {
+      "remark": "WH issue - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:00:11",
+      "lastUpdated": "2026-09-15T06:30:11.779Z"
+    },
+    "LF-R90-2S-S||KUNDASALE": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:00:23",
+      "lastUpdated": "2026-09-15T06:30:23.503Z"
     }
   },
   "showroomVisits": {
@@ -84993,6 +85007,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:00:23",
+      "iso": "2026-09-15T06:30:23.504Z",
+      "action": "updated remark for LF-R90-2S-S at KUNDASALE: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:00:11",
+      "iso": "2026-09-15T06:30:11.781Z",
+      "action": "updated remark for LF-ORGN-W4B-CLM-S at KUNDASALE: “WH issue - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "11:59:19",
       "iso": "2026-09-15T06:29:19.501Z",
       "action": "updated remark for LF-ECO-BDQ-WNG-S at KUNDASALE: “50%”"
@@ -85325,20 +85353,6 @@
       "time": "15:39:39",
       "iso": "2026-09-14T10:09:39.934Z",
       "action": "updated remark for SDV3605K at DIGANA - B: “MOP - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:38:59",
-      "iso": "2026-09-14T10:08:59.711Z",
-      "action": "updated remark for DELL3501-11G-I3W10-BLU at DIGANA - B: “Revert - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:38:33",
-      "iso": "2026-09-14T10:08:33.345Z",
-      "action": "updated remark for AS-I5-11G-256-X515-082-SL at DIGANA - B: “Damaged - 80%”"
     }
   ]
 }
