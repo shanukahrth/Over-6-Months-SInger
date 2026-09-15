@@ -83915,6 +83915,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:32:44",
       "lastUpdated": "2026-09-15T09:02:44.462Z"
+    },
+    "KLV-32R302E||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:33:39",
+      "lastUpdated": "2026-09-15T09:03:39.860Z"
     }
   },
   "showroomVisits": {
@@ -86063,6 +86070,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:33:39",
+      "iso": "2026-09-15T09:03:39.861Z",
+      "action": "updated remark for KLV-32R302E at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:32:44",
       "iso": "2026-09-15T09:02:44.463Z",
       "action": "updated remark for DH-A-HFW1200TLP-A-36B-S5 at WATTEGAMA: “70%”"
@@ -86402,13 +86416,6 @@
       "time": "14:16:57",
       "iso": "2026-09-15T08:46:57.555Z",
       "action": "updated remark for LF-ORGN-DTO-CLM-S at WATTEGAMA: “Damaged - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:16:25",
-      "iso": "2026-09-15T08:46:25.322Z",
-      "action": "updated remark for LF-LEWIS-CBT-S at WATTEGAMA: “Unsellable”"
     }
   ]
 }
