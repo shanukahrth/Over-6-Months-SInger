@@ -84517,6 +84517,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:40:00",
       "lastUpdated": "2026-09-15T10:10:00.559Z"
+    },
+    "SB-DTYPE||RIKILLAGASKADA": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:40:03",
+      "lastUpdated": "2026-09-15T10:10:03.288Z"
     }
   },
   "showroomVisits": {
@@ -86725,6 +86732,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:40:03",
+      "iso": "2026-09-15T10:10:03.290Z",
+      "action": "updated remark for SB-DTYPE at RIKILLAGASKADA: “Unsellable”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:40:00",
@@ -87066,13 +87080,6 @@
       "time": "15:04:14",
       "iso": "2026-09-15T09:34:14.981Z",
       "action": "updated remark for SMGAR50F12D0J at ANURADHAPURA B: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:03:58",
-      "iso": "2026-09-15T09:33:58.522Z",
-      "action": "updated remark for H-RAPG012HFEOE at ANURADHAPURA B: “60%”"
     }
   ]
 }
