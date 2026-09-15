@@ -85469,6 +85469,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:58:43",
       "lastUpdated": "2026-09-15T10:28:43.080Z"
+    },
+    "PN-SC-BMAX10E-K||THALAWA": {
+      "remark": "35%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:18",
+      "lastUpdated": "2026-09-15T10:28:18.255Z"
+    },
+    "SMG-A36-5G-8-256-BLK||THALAWA": {
+      "remark": "20%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:37",
+      "lastUpdated": "2026-09-15T10:28:37.994Z"
     }
   },
   "showroomVisits": {
@@ -87695,6 +87709,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:58:37",
+      "iso": "2026-09-15T10:28:37.995Z",
+      "action": "updated remark for SMG-A36-5G-8-256-BLK at THALAWA: “20%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:58:18",
+      "iso": "2026-09-15T10:28:18.256Z",
+      "action": "updated remark for PN-SC-BMAX10E-K at THALAWA: “35%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "15:58:43",
@@ -88029,20 +88057,6 @@
       "time": "15:54:09",
       "iso": "2026-09-15T10:24:09.563Z",
       "action": "updated remark for SLE55G22N at THALAWA: “85%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:53:24",
-      "iso": "2026-09-15T10:23:24.988Z",
-      "action": "updated remark for SWM-FA70R at THALAWA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:54:09",
-      "iso": "2026-09-15T10:24:09.316Z",
-      "action": "updated remark for HON-PAD-X7-CV at RIKILLAGASKADA: “To be dropped”"
     }
   ]
 }
