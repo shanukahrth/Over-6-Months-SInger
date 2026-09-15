@@ -83670,6 +83670,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:19:09",
       "lastUpdated": "2026-09-15T08:49:09.681Z"
+    },
+    "LF-ECO-SD-WNG-S||WATTEGAMA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:19:33",
+      "lastUpdated": "2026-09-15T08:49:33.570Z"
     }
   },
   "showroomVisits": {
@@ -85818,6 +85825,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:19:33",
+      "iso": "2026-09-15T08:49:33.571Z",
+      "action": "updated remark for LF-ECO-SD-WNG-S at WATTEGAMA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:19:09",
       "iso": "2026-09-15T08:49:09.682Z",
       "action": "updated remark for WF-CLASSIC-BL-S at WATTEGAMA: “Damaged - 50%”"
@@ -86157,13 +86171,6 @@
       "time": "12:43:17",
       "iso": "2026-09-15T07:13:17.666Z",
       "action": "updated remark for HU-BAND-6-GR at DIGANA - B: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:43:15",
-      "iso": "2026-09-15T07:13:15.600Z",
-      "action": "updated remark for HU-BAND-6-B at DIGANA - B: “80%”"
     }
   ]
 }
