@@ -83852,6 +83852,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:29:25",
       "lastUpdated": "2026-09-15T08:59:25.555Z"
+    },
+    "GEO-182S-SV||WATTEGAMA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:30:08",
+      "lastUpdated": "2026-09-15T09:00:08.763Z"
     }
   },
   "showroomVisits": {
@@ -86000,6 +86007,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:30:08",
+      "iso": "2026-09-15T09:00:08.764Z",
+      "action": "updated remark for GEO-182S-SV at WATTEGAMA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:29:25",
       "iso": "2026-09-15T08:59:25.556Z",
       "action": "updated remark for MB-SAFARI4S-BLK at WATTEGAMA: “Active SKU”"
@@ -86339,13 +86353,6 @@
       "time": "14:13:04",
       "iso": "2026-09-15T08:43:04.120Z",
       "action": "updated remark for GRIP-8101-S at WATTEGAMA: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:12:40",
-      "iso": "2026-09-15T08:42:40.100Z",
-      "action": "updated remark for FAN-P-MSF160 at WATTEGAMA: “Damaged - 80%”"
     }
   ]
 }
