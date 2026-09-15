@@ -84650,6 +84650,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:45:25",
       "lastUpdated": "2026-09-15T10:15:25.304Z"
+    },
+    "MC8280||THALAWA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:45:55",
+      "lastUpdated": "2026-09-15T10:15:55.203Z"
     }
   },
   "showroomVisits": {
@@ -86860,6 +86867,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:45:55",
+      "iso": "2026-09-15T10:15:55.205Z",
+      "action": "updated remark for MC8280 at THALAWA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:45:25",
       "iso": "2026-09-15T10:15:25.306Z",
       "action": "updated remark for PN-DH-3JL2WH at THALAWA: “20,000 Special price”"
@@ -87199,13 +87213,6 @@
       "time": "15:11:58",
       "iso": "2026-09-15T09:41:58.530Z",
       "action": "updated remark for APS-300KG at ANURADHAPURA B: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:11:40",
-      "iso": "2026-09-15T09:41:40.271Z",
-      "action": "updated remark for TCL43S5400 at ANURADHAPURA B: “35%”"
     }
   ]
 }
