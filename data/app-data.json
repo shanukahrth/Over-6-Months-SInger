@@ -84482,6 +84482,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:38:07",
       "lastUpdated": "2026-09-15T10:08:07.662Z"
+    },
+    "PN-SC-AKX520E-K||RIKILLAGASKADA": {
+      "remark": "Revert - 70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:38:46",
+      "lastUpdated": "2026-09-15T10:08:46.381Z"
     }
   },
   "showroomVisits": {
@@ -86692,6 +86699,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:38:46",
+      "iso": "2026-09-15T10:08:46.383Z",
+      "action": "updated remark for PN-SC-AKX520E-K at RIKILLAGASKADA: “Revert - 70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:38:40",
+      "iso": "2026-09-15T10:08:40.912Z",
+      "action": "updated remark for PN-SC-AKX520E-K at RIKILLAGASKADA: “Revert - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:38:07",
       "iso": "2026-09-15T10:08:07.664Z",
       "action": "updated remark for PHFWD410 at RIKILLAGASKADA: “90%”"
@@ -87024,20 +87045,6 @@
       "time": "15:02:09",
       "iso": "2026-09-15T09:32:09.658Z",
       "action": "marked SWM-FA70R at ANURADHAPURA B as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:02:08",
-      "iso": "2026-09-15T09:32:08.278Z",
-      "action": "updated remark for SWM-FA70R at ANURADHAPURA B: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:01:45",
-      "iso": "2026-09-15T09:31:45.041Z",
-      "action": "updated remark for WFI-MARCY-CHR-S at ANURADHAPURA B: “50%”"
     }
   ]
 }
