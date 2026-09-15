@@ -88021,8 +88021,8 @@
     "DIGANA||DIGANA": {
       "visited": "Yes",
       "visitDate": "2026-09-15",
-      "team": "",
-      "remark": "",
+      "team": "Team - Central",
+      "remark": "Discounts given over the phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-15"
     }
@@ -88489,6 +88489,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:24:36",
+      "iso": "2026-09-15T10:54:36.889Z",
+      "action": "updated DIGANA showroom (remark: Discounts given over the phone)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:24:20",
       "iso": "2026-09-15T10:54:20.336Z",
       "action": "updated DIGANA showroom (visitDate: 2026-09-15)"
@@ -88828,13 +88835,6 @@
       "time": "16:12:25",
       "iso": "2026-09-15T10:42:25.787Z",
       "action": "updated remark for MID-MJ-KM6001W at DIGANA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:12:18",
-      "iso": "2026-09-15T10:42:18.894Z",
-      "action": "updated remark for KN-SMP01 at DIGANA: “60%”"
     }
   ]
 }
