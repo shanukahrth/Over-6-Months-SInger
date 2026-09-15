@@ -86211,6 +86211,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:18:27",
       "lastUpdated": "2026-09-15T10:48:27.951Z"
+    },
+    "ULED32D60A||DIGANA": {
+      "remark": "MOP - 24,999",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:18:34",
+      "lastUpdated": "2026-09-15T10:48:34.450Z"
     }
   },
   "showroomVisits": {
@@ -88445,6 +88452,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:18:34",
+      "iso": "2026-09-15T10:48:34.451Z",
+      "action": "updated remark for ULED32D60A at DIGANA: “MOP - 24,999”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:18:27",
       "iso": "2026-09-15T10:48:27.952Z",
       "action": "updated remark for TCL55C655 at DIGANA: “40%”"
@@ -88784,13 +88798,6 @@
       "time": "16:11:39",
       "iso": "2026-09-15T10:41:39.468Z",
       "action": "updated remark for USI-ATC-302 at DIGANA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:11:34",
-      "iso": "2026-09-15T10:41:34.589Z",
-      "action": "updated remark for TF-SI-EXSP1231 at DIGANA: “20%”"
     }
   ]
 }
