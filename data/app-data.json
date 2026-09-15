@@ -83446,6 +83446,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:47:39",
       "lastUpdated": "2026-09-15T07:17:39.012Z"
+    },
+    "BES-CRS-51||DIGANA - B": {
+      "remark": "Display - 15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:48:10",
+      "lastUpdated": "2026-09-15T07:18:10.199Z"
     }
   },
   "showroomVisits": {
@@ -85594,6 +85601,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:48:10",
+      "iso": "2026-09-15T07:18:10.200Z",
+      "action": "updated remark for BES-CRS-51 at DIGANA - B: “Display - 15%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:47:39",
       "iso": "2026-09-15T07:17:39.013Z",
       "action": "updated remark for WP-NEO258NF at DIGANA - B: “25%”"
@@ -85933,13 +85947,6 @@
       "time": "12:18:02",
       "iso": "2026-09-15T06:48:02.860Z",
       "action": "updated remark for SKY-49E2C at KUNDASALE: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:17:48",
-      "iso": "2026-09-15T06:47:48.142Z",
-      "action": "updated remark for PN-TH-32MS670N at KUNDASALE: “40%”"
     }
   ]
 }
