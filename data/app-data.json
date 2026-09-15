@@ -83474,6 +83474,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:49:10",
       "lastUpdated": "2026-09-15T07:19:10.898Z"
+    },
+    "SLE55GENR||DIGANA - B": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:49:41",
+      "lastUpdated": "2026-09-15T07:19:41.189Z"
     }
   },
   "showroomVisits": {
@@ -85622,6 +85629,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:49:41",
+      "iso": "2026-09-15T07:19:41.189Z",
+      "action": "updated remark for SLE55GENR at DIGANA - B: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:49:39",
+      "iso": "2026-09-15T07:19:39.773Z",
+      "action": "updated remark for SLE55GENR at DIGANA - B: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:49:10",
       "iso": "2026-09-15T07:19:10.899Z",
       "action": "updated remark for SLE43G890 at DIGANA - B: “Panel Damage - 90%”"
@@ -85954,20 +85975,6 @@
       "time": "12:18:59",
       "iso": "2026-09-15T06:48:59.421Z",
       "action": "updated remark for SLE32D2100 at KUNDASALE: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:18:46",
-      "iso": "2026-09-15T06:48:46.944Z",
-      "action": "updated remark for SLE24S1300 at KUNDASALE: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:18:40",
-      "iso": "2026-09-15T06:48:40.824Z",
-      "action": "updated remark for SLE24B2900 at KUNDASALE: “Panel Damage - 90%”"
     }
   ]
 }
