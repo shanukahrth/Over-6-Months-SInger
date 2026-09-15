@@ -84953,11 +84953,11 @@
       "lastUpdated": "2026-09-15T10:20:15.146Z"
     },
     "TF-IT30-169||RIKILLAGASKADA": {
-      "remark": "70%",
+      "remark": "35%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "15:50:23",
-      "lastUpdated": "2026-09-15T10:20:23.364Z"
+      "commentTime": "15:50:39",
+      "lastUpdated": "2026-09-15T10:20:39.502Z"
     },
     "LF-ECO-BDQS||THALAWA": {
       "remark": "70%",
@@ -84965,6 +84965,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:50:26",
       "lastUpdated": "2026-09-15T10:20:26.537Z"
+    },
+    "TF-KD24-061||RIKILLAGASKADA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:50:42",
+      "lastUpdated": "2026-09-15T10:20:42.258Z"
+    },
+    "TF-NIDFP24-170||RIKILLAGASKADA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:50:44",
+      "lastUpdated": "2026-09-15T10:20:44.759Z"
     }
   },
   "showroomVisits": {
@@ -87185,6 +87199,27 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:50:44",
+      "iso": "2026-09-15T10:20:44.761Z",
+      "action": "updated remark for TF-NIDFP24-170 at RIKILLAGASKADA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:50:42",
+      "iso": "2026-09-15T10:20:42.259Z",
+      "action": "updated remark for TF-KD24-061 at RIKILLAGASKADA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:50:39",
+      "iso": "2026-09-15T10:20:39.503Z",
+      "action": "updated remark for TF-IT30-169 at RIKILLAGASKADA: “35%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:50:26",
@@ -87512,27 +87547,6 @@
       "time": "15:45:49",
       "iso": "2026-09-15T10:15:49.116Z",
       "action": "updated remark for WF-CB75X36-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:45:47",
-      "iso": "2026-09-15T10:15:47.427Z",
-      "action": "updated remark for WFL-ALP-GL-WD-BU-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:45:45",
-      "iso": "2026-09-15T10:15:45.973Z",
-      "action": "updated remark for WF-DOC-V029-BL-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:45:44",
-      "iso": "2026-09-15T10:15:44.365Z",
-      "action": "updated remark for OF-SW12022-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
