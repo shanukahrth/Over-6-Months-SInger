@@ -84846,6 +84846,34 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:48:06",
       "lastUpdated": "2026-09-15T10:18:06.340Z"
+    },
+    "WF-PARIS-BL-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:48:19",
+      "lastUpdated": "2026-09-15T10:18:19.787Z"
+    },
+    "WFL-MONACO-08-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:48:21",
+      "lastUpdated": "2026-09-15T10:18:21.282Z"
+    },
+    "LFI-GLEN-TVS-BR-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:48:22",
+      "lastUpdated": "2026-09-15T10:18:22.714Z"
+    },
+    "ALU-DSL-8FT-S||RIKILLAGASKADA": {
+      "remark": "Sellable at existing price",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:48:34",
+      "lastUpdated": "2026-09-15T10:18:34.040Z"
     }
   },
   "showroomVisits": {
@@ -87060,6 +87088,34 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:48:34",
+      "iso": "2026-09-15T10:18:34.041Z",
+      "action": "updated remark for ALU-DSL-8FT-S at RIKILLAGASKADA: “Sellable at existing price”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:48:22",
+      "iso": "2026-09-15T10:18:22.715Z",
+      "action": "updated remark for LFI-GLEN-TVS-BR-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:48:21",
+      "iso": "2026-09-15T10:18:21.283Z",
+      "action": "updated remark for WFL-MONACO-08-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:48:19",
+      "iso": "2026-09-15T10:18:19.788Z",
+      "action": "updated remark for WF-PARIS-BL-S at RIKILLAGASKADA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:48:06",
@@ -87380,34 +87436,6 @@
       "time": "15:42:29",
       "iso": "2026-09-15T10:12:29.935Z",
       "action": "updated remark for DELL-3552-PQC at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:42:14",
-      "iso": "2026-09-15T10:12:14.693Z",
-      "action": "updated remark for SIN-PR-K340 at THALAWA: “Additional 10,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:42:14",
-      "iso": "2026-09-15T10:12:14.111Z",
-      "action": "updated remark for DT-BG328A at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:42:09",
-      "iso": "2026-09-15T10:12:09.402Z",
-      "action": "updated remark for BC-KNP-AG at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:41:03",
-      "iso": "2026-09-15T10:11:03.124Z",
-      "action": "updated remark for BC-BG328A at RIKILLAGASKADA: “Unsellable”"
     }
   ]
 }
