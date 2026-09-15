@@ -86022,6 +86022,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:13:28",
       "lastUpdated": "2026-09-15T10:43:28.739Z"
+    },
+    "RIYLTA-MF12V4||DIGANA": {
+      "remark": "Mail to DM",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:13:36",
+      "lastUpdated": "2026-09-15T10:43:36.479Z"
     }
   },
   "showroomVisits": {
@@ -88256,6 +88263,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:13:36",
+      "iso": "2026-09-15T10:43:36.480Z",
+      "action": "updated remark for RIYLTA-MF12V4 at DIGANA: “Mail to DM”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:13:28",
       "iso": "2026-09-15T10:43:28.741Z",
       "action": "updated remark for SLMC-18DSLHS at DIGANA: “80%”"
@@ -88595,13 +88609,6 @@
       "time": "16:08:40",
       "iso": "2026-09-15T10:38:40.868Z",
       "action": "updated remark for HFPA-MUSICBOX100-BLK at DIGANA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:08:38",
-      "iso": "2026-09-15T10:38:38.845Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at DIGANA: “MOP - 30,000”"
     }
   ]
 }
