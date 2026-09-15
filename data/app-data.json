@@ -82886,6 +82886,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "11:59:06",
       "lastUpdated": "2026-09-15T06:29:06.252Z"
+    },
+    "LF-ECO-BDQ-WNG-S||KUNDASALE": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "11:59:19",
+      "lastUpdated": "2026-09-15T06:29:19.500Z"
     }
   },
   "showroomVisits": {
@@ -84986,6 +84993,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "11:59:19",
+      "iso": "2026-09-15T06:29:19.501Z",
+      "action": "updated remark for LF-ECO-BDQ-WNG-S at KUNDASALE: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "11:59:06",
       "iso": "2026-09-15T06:29:06.253Z",
       "action": "updated remark for LF-BUDGET-BDQ-CRW-S at KUNDASALE: “Revert - 70%”"
@@ -85325,13 +85339,6 @@
       "time": "15:38:33",
       "iso": "2026-09-14T10:08:33.345Z",
       "action": "updated remark for AS-I5-11G-256-X515-082-SL at DIGANA - B: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:37:55",
-      "iso": "2026-09-14T10:07:55.434Z",
-      "action": "updated remark for B-HIAG64223SXL at DIGANA - B: “Sellable at Existing Price”"
     }
   ]
 }
