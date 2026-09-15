@@ -84762,6 +84762,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:46:49",
       "lastUpdated": "2026-09-15T10:16:49.506Z"
+    },
+    "LF-WIN-S-CKT-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:47:03",
+      "lastUpdated": "2026-09-15T10:17:03.406Z"
+    },
+    "PF-4DWR-BU-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:47:05",
+      "lastUpdated": "2026-09-15T10:17:05.431Z"
+    },
+    "PF-GRID-1D-CR-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:47:06",
+      "lastUpdated": "2026-09-15T10:17:06.858Z"
     }
   },
   "showroomVisits": {
@@ -86976,6 +86997,34 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:47:06",
+      "iso": "2026-09-15T10:17:06.859Z",
+      "action": "updated remark for PF-GRID-1D-CR-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:47:05",
+      "iso": "2026-09-15T10:17:05.432Z",
+      "action": "updated remark for PF-4DWR-BU-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:47:03",
+      "iso": "2026-09-15T10:17:03.407Z",
+      "action": "updated remark for LF-WIN-S-CKT-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:46:56",
+      "iso": "2026-09-15T10:16:56.816Z",
+      "action": "updated remark for LF-WIN-S-CKT-S at RIKILLAGASKADA: “50”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:46:53",
@@ -87296,34 +87345,6 @@
       "time": "15:37:24",
       "iso": "2026-09-15T10:07:24.079Z",
       "action": "updated remark for SASI18INFI at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:36:49",
-      "iso": "2026-09-15T10:06:49.771Z",
-      "action": "updated remark for PN-CS-XU12XKYW-8 at RIKILLAGASKADA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:36:42",
-      "iso": "2026-09-15T10:06:42.754Z",
-      "action": "updated remark for SMGAR50H24D1J at SHOMES- ANURADHAPURA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:36:27",
-      "iso": "2026-09-15T10:06:27.065Z",
-      "action": "updated remark for H-RSQG018MFEOE at RIKILLAGASKADA: “Active SKU”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:36:10",
-      "iso": "2026-09-15T10:06:10.560Z",
-      "action": "marked MB-SAFARI4S-RED at SHOMES- ANURADHAPURA as Sold"
     }
   ]
 }
