@@ -83420,11 +83420,11 @@
       "lastUpdated": "2026-09-15T07:14:03.907Z"
     },
     "GEO-182S-SV||DIGANA - B": {
-      "remark": "25%",
+      "remark": "Reported",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "12:45:33",
-      "lastUpdated": "2026-09-15T07:15:33.890Z"
+      "commentTime": "12:45:53",
+      "lastUpdated": "2026-09-15T07:15:53.174Z"
     }
   },
   "showroomVisits": {
@@ -85541,6 +85541,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:45:53",
+      "iso": "2026-09-15T07:15:53.175Z",
+      "action": "updated remark for GEO-182S-SV at DIGANA - B: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:45:33",
       "iso": "2026-09-15T07:15:33.895Z",
       "action": "updated remark for GEO-182S-SV at DIGANA - B: “25%”"
@@ -85880,13 +85887,6 @@
       "time": "12:16:19",
       "iso": "2026-09-15T06:46:19.204Z",
       "action": "updated remark for R-SDC48 at KUNDASALE: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:16:05",
-      "iso": "2026-09-15T06:46:05.566Z",
-      "action": "updated remark for GEO-182S-BU1 at KUNDASALE: “25%”"
     }
   ]
 }
