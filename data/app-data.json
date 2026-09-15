@@ -83817,6 +83817,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:28:31",
       "lastUpdated": "2026-09-15T08:58:31.708Z"
+    },
+    "PCP30||WATTEGAMA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:28:48",
+      "lastUpdated": "2026-09-15T08:58:48.311Z"
+    },
+    "PCP50||WATTEGAMA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:28:49",
+      "lastUpdated": "2026-09-15T08:58:49.225Z"
+    },
+    "RIYLTA-MF12V4||WATTEGAMA": {
+      "remark": "Mail to DM",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:28:54",
+      "lastUpdated": "2026-09-15T08:58:54.310Z"
     }
   },
   "showroomVisits": {
@@ -85965,6 +85986,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:28:54",
+      "iso": "2026-09-15T08:58:54.311Z",
+      "action": "updated remark for RIYLTA-MF12V4 at WATTEGAMA: “Mail to DM”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:28:49",
+      "iso": "2026-09-15T08:58:49.225Z",
+      "action": "updated remark for PCP50 at WATTEGAMA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:28:48",
+      "iso": "2026-09-15T08:58:48.312Z",
+      "action": "updated remark for PCP30 at WATTEGAMA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:28:31",
       "iso": "2026-09-15T08:58:31.709Z",
       "action": "updated remark for PCD55-SS at WATTEGAMA: “Damaged - 80%”"
@@ -86290,27 +86332,6 @@
       "time": "14:12:02",
       "iso": "2026-09-15T08:42:02.306Z",
       "action": "updated remark for KV-FPAU5A at WATTEGAMA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:12:00",
-      "iso": "2026-09-15T08:42:00.940Z",
-      "action": "updated remark for KV-FPA-5A at WATTEGAMA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:11:42",
-      "iso": "2026-09-15T08:41:42.130Z",
-      "action": "updated remark for SDV3605K at WATTEGAMA: “Selling Price - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:11:21",
-      "iso": "2026-09-15T08:41:21.354Z",
-      "action": "updated remark for ETEL-K20MINIPC-SITS at WATTEGAMA: “To be dropped”"
     }
   ]
 }
