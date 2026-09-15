@@ -83061,6 +83061,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:08:48",
       "lastUpdated": "2026-09-15T06:38:48.282Z"
+    },
+    "STO-EO30C||KUNDASALE": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:09:03",
+      "lastUpdated": "2026-09-15T06:39:03.990Z"
     }
   },
   "showroomVisits": {
@@ -85161,6 +85168,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:09:03",
+      "iso": "2026-09-15T06:39:03.992Z",
+      "action": "updated remark for STO-EO30C at KUNDASALE: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:08:48",
       "iso": "2026-09-15T06:38:48.283Z",
       "action": "updated remark for TF-CM-APR737 at KUNDASALE: “50%”"
@@ -85500,13 +85514,6 @@
       "time": "15:55:00",
       "iso": "2026-09-14T10:25:00.353Z",
       "action": "updated remark for HON-H90-12-512-GRN at DIGANA - B: “Display - 75%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:54:22",
-      "iso": "2026-09-14T10:24:22.821Z",
-      "action": "updated remark for HON-H200SMART-8-256-GRN at DIGANA - B: “40%”"
     }
   ]
 }
