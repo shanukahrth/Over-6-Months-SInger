@@ -83306,6 +83306,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:20:31",
       "lastUpdated": "2026-09-15T06:50:31.147Z"
+    },
+    "ULED32D60A||KUNDASALE": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:20:40",
+      "lastUpdated": "2026-09-15T06:50:40.043Z"
     }
   },
   "showroomVisits": {
@@ -85406,6 +85413,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:20:40",
+      "iso": "2026-09-15T06:50:40.044Z",
+      "action": "updated remark for ULED32D60A at KUNDASALE: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:20:31",
       "iso": "2026-09-15T06:50:31.148Z",
       "action": "updated remark for TCLED32D65A at KUNDASALE: “Pending Exchange”"
@@ -85745,13 +85759,6 @@
       "time": "12:06:32",
       "iso": "2026-09-15T06:36:32.049Z",
       "action": "updated remark for TF-NIFP28-042 at KUNDASALE: “355”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:06:29",
-      "iso": "2026-09-15T06:36:29.068Z",
-      "action": "updated remark for NCPO-FP280 at KUNDASALE: “45%”"
     }
   ]
 }
