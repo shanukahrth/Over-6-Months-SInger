@@ -85352,11 +85352,18 @@
       "lastUpdated": "2026-09-15T10:27:31.251Z"
     },
     "MC8280||RIKILLAGASKADA": {
-      "remark": "80%",
+      "remark": "50%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "15:57:33",
-      "lastUpdated": "2026-09-15T10:27:33.919Z"
+      "commentTime": "15:57:40",
+      "lastUpdated": "2026-09-15T10:27:40.572Z"
+    },
+    "MC984-HO||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:42",
+      "lastUpdated": "2026-09-15T10:27:42.672Z"
     }
   },
   "showroomVisits": {
@@ -87585,6 +87592,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:57:42",
+      "iso": "2026-09-15T10:27:42.673Z",
+      "action": "updated remark for MC984-HO at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:57:40",
+      "iso": "2026-09-15T10:27:40.573Z",
+      "action": "updated remark for MC8280 at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:57:33",
       "iso": "2026-09-15T10:27:33.920Z",
       "action": "updated remark for MC8280 at RIKILLAGASKADA: “80%”"
@@ -87917,20 +87938,6 @@
       "time": "15:52:12",
       "iso": "2026-09-15T10:22:12.503Z",
       "action": "updated remark for STO-EO45C at RIKILLAGASKADA (cleared)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:09",
-      "iso": "2026-09-15T10:22:09.961Z",
-      "action": "updated remark for TF-CM-APR737 at RIKILLAGASKADA: “60”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:06",
-      "iso": "2026-09-15T10:22:06.066Z",
-      "action": "updated remark for SL-SST082 at RIKILLAGASKADA: “80%”"
     }
   ]
 }
