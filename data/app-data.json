@@ -84783,6 +84783,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:47:06",
       "lastUpdated": "2026-09-15T10:17:06.858Z"
+    },
+    "WF-NAMAL-CT-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:47:12",
+      "lastUpdated": "2026-09-15T10:17:12.171Z"
+    },
+    "WF-OSLO-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:47:14",
+      "lastUpdated": "2026-09-15T10:17:14.908Z"
     }
   },
   "showroomVisits": {
@@ -86999,6 +87013,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:47:14",
+      "iso": "2026-09-15T10:17:14.908Z",
+      "action": "updated remark for WF-OSLO-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:47:13",
+      "iso": "2026-09-15T10:17:13.518Z",
+      "action": "updated remark for WF-OSLO-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:47:12",
+      "iso": "2026-09-15T10:17:12.173Z",
+      "action": "updated remark for WF-NAMAL-CT-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:47:06",
       "iso": "2026-09-15T10:17:06.859Z",
       "action": "updated remark for PF-GRID-1D-CR-S at RIKILLAGASKADA: “50%”"
@@ -87324,27 +87359,6 @@
       "time": "15:38:40",
       "iso": "2026-09-15T10:08:40.912Z",
       "action": "updated remark for PN-SC-AKX520E-K at RIKILLAGASKADA: “Revert - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:38:07",
-      "iso": "2026-09-15T10:08:07.664Z",
-      "action": "updated remark for PHFWD410 at RIKILLAGASKADA: “90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:37:46",
-      "iso": "2026-09-15T10:07:46.173Z",
-      "action": "updated remark for MAS-VU3BWJ at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:37:24",
-      "iso": "2026-09-15T10:07:24.079Z",
-      "action": "updated remark for SASI18INFI at RIKILLAGASKADA: “70%”"
     }
   ]
 }
