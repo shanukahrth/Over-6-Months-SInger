@@ -85049,6 +85049,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:52:09",
       "lastUpdated": "2026-09-15T10:22:09.959Z"
+    },
+    "LP-AP01||RIKILLAGASKADA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:52:20",
+      "lastUpdated": "2026-09-15T10:22:20.833Z"
     }
   },
   "showroomVisits": {
@@ -87277,6 +87284,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:52:20",
+      "iso": "2026-09-15T10:22:20.834Z",
+      "action": "updated remark for LP-AP01 at RIKILLAGASKADA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:52:12",
       "iso": "2026-09-15T10:22:12.503Z",
       "action": "updated remark for STO-EO45C at RIKILLAGASKADA (cleared)"
@@ -87616,13 +87630,6 @@
       "time": "15:46:56",
       "iso": "2026-09-15T10:16:56.816Z",
       "action": "updated remark for LF-WIN-S-CKT-S at RIKILLAGASKADA: “50”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:46:53",
-      "iso": "2026-09-15T10:16:53.082Z",
-      "action": "marked NUBIA-V70-8-256GB-GRY at THALAWA as Sold"
     }
   ]
 }
