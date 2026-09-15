@@ -84132,6 +84132,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:43:28",
       "lastUpdated": "2026-09-15T09:13:28.998Z"
+    },
+    "PN-CS-U10XKH||ANURADHAPURA B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:43:45",
+      "lastUpdated": "2026-09-15T09:13:45.391Z"
     }
   },
   "showroomVisits": {
@@ -86292,6 +86299,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "14:43:45",
+      "iso": "2026-09-15T09:13:45.394Z",
+      "action": "updated remark for PN-CS-U10XKH at ANURADHAPURA B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "14:43:28",
       "iso": "2026-09-15T09:13:28.999Z",
       "action": "updated remark for DELL3530-I7-8GB512-SIL at ANURADHAPURA B: “30%”"
@@ -86631,13 +86645,6 @@
       "time": "14:29:25",
       "iso": "2026-09-15T08:59:25.556Z",
       "action": "updated remark for MB-SAFARI4S-BLK at WATTEGAMA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:29:03",
-      "iso": "2026-09-15T08:59:03.156Z",
-      "action": "updated remark for RIYLTA-MF12V53B at WATTEGAMA: “Mail to DM”"
     }
   ]
 }
