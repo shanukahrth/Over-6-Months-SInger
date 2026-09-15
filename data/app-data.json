@@ -84006,6 +84006,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:39:02",
       "lastUpdated": "2026-09-15T09:09:02.970Z"
+    },
+    "SLE40D600A||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:39:20",
+      "lastUpdated": "2026-09-15T09:09:20.952Z"
     }
   },
   "showroomVisits": {
@@ -86152,6 +86159,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:39:20",
+      "iso": "2026-09-15T09:09:20.953Z",
+      "action": "updated remark for SLE40D600A at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "14:39:02",
@@ -86493,13 +86507,6 @@
       "time": "14:23:44",
       "iso": "2026-09-15T08:53:44.537Z",
       "action": "updated remark for TF-SI-ESS-242 at WATTEGAMA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:23:28",
-      "iso": "2026-09-15T08:53:28.911Z",
-      "action": "updated remark for SIS253CU at WATTEGAMA: “Damaged - 60%”"
     }
   ]
 }
