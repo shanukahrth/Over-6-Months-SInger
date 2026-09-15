@@ -83355,6 +83355,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:23:03",
       "lastUpdated": "2026-09-15T06:53:03.315Z"
+    },
+    "SWP-SLCT-01||KUNDASALE": {
+      "remark": "Damaged - 85%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:23:24",
+      "lastUpdated": "2026-09-15T06:53:24.583Z"
     }
   },
   "showroomVisits": {
@@ -85455,6 +85462,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:23:24",
+      "iso": "2026-09-15T06:53:24.583Z",
+      "action": "updated remark for SWP-SLCT-01 at KUNDASALE: “Damaged - 85%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:23:03",
       "iso": "2026-09-15T06:53:03.317Z",
       "action": "updated remark for WP-WFC105604RT-G at KUNDASALE: “22.5%”"
@@ -85794,13 +85808,6 @@
       "time": "12:09:16",
       "iso": "2026-09-15T06:39:16.618Z",
       "action": "updated remark for STO-EO30C at KUNDASALE: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:09:03",
-      "iso": "2026-09-15T06:39:03.992Z",
-      "action": "updated remark for STO-EO30C at KUNDASALE: “60%”"
     }
   ]
 }
