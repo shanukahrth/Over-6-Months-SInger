@@ -84545,6 +84545,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:42:14",
       "lastUpdated": "2026-09-15T10:12:14.110Z"
+    },
+    "SIN-PR-K340||THALAWA": {
+      "remark": "Additional 10,000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:42:14",
+      "lastUpdated": "2026-09-15T10:12:14.691Z"
     }
   },
   "showroomVisits": {
@@ -86753,6 +86760,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:42:14",
+      "iso": "2026-09-15T10:12:14.693Z",
+      "action": "updated remark for SIN-PR-K340 at THALAWA: “Additional 10,000”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "15:42:14",
@@ -87094,13 +87108,6 @@
       "time": "15:05:36",
       "iso": "2026-09-15T09:35:36.737Z",
       "action": "updated remark for SLE55GENR at ANURADHAPURA B: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:05:10",
-      "iso": "2026-09-15T09:35:10.081Z",
-      "action": "updated remark for WP-WDC11704RG-G at ANURADHAPURA B: “25%, Display”"
     }
   ]
 }
