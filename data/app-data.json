@@ -84216,6 +84216,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:01:45",
       "lastUpdated": "2026-09-15T09:31:45.039Z"
+    },
+    "SWM-FA70R||ANURADHAPURA B": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:02:08",
+      "lastUpdated": "2026-09-15T09:32:08.276Z"
     }
   },
   "showroomVisits": {
@@ -86384,9 +86391,36 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "SWM-FA70R||ANURADHAPURA B": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:02:12",
+      "iso": "2026-09-15T09:32:12.218Z",
+      "action": "marked SWM-FA70R at ANURADHAPURA B as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:02:09",
+      "iso": "2026-09-15T09:32:09.658Z",
+      "action": "marked SWM-FA70R at ANURADHAPURA B as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:02:08",
+      "iso": "2026-09-15T09:32:08.278Z",
+      "action": "updated remark for SWM-FA70R at ANURADHAPURA B: “SOLD”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
@@ -86715,27 +86749,6 @@
       "time": "14:37:52",
       "iso": "2026-09-15T09:07:52.438Z",
       "action": "updated remark for SLE32E910 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:37:30",
-      "iso": "2026-09-15T09:07:30.070Z",
-      "action": "updated remark for SLE32E710 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:37:15",
-      "iso": "2026-09-15T09:07:15.871Z",
-      "action": "updated remark for SLE32D1800 at WATTEGAMA: “Serial No Issue”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:36:21",
-      "iso": "2026-09-15T09:06:21.476Z",
-      "action": "updated remark for SLE24E610 at WATTEGAMA: “Panel Damage - 90%”"
     }
   ]
 }
