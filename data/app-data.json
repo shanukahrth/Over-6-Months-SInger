@@ -83138,6 +83138,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:12:18",
       "lastUpdated": "2026-09-15T06:42:18.359Z"
+    },
+    "PT-EC-MK20-S||KUNDASALE": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:12:48",
+      "lastUpdated": "2026-09-15T06:42:48.800Z"
     }
   },
   "showroomVisits": {
@@ -85238,6 +85245,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:12:48",
+      "iso": "2026-09-15T06:42:48.801Z",
+      "action": "updated remark for PT-EC-MK20-S at KUNDASALE: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:12:18",
       "iso": "2026-09-15T06:42:18.360Z",
       "action": "updated remark for RIYLTA-MF12V53B at KUNDASALE: “Mail to DM”"
@@ -85577,13 +85591,6 @@
       "time": "11:56:48",
       "iso": "2026-09-15T06:26:48.429Z",
       "action": "updated remark for FAN-P-1605H at KUNDASALE: “Display - 40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "11:56:33",
-      "iso": "2026-09-15T06:26:33.218Z",
-      "action": "updated remark for DVP-SR370 at KUNDASALE: “Selling Price - 2,000”"
     }
   ]
 }
