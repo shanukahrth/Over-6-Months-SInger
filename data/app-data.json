@@ -84839,6 +84839,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:48:06",
       "lastUpdated": "2026-09-15T10:18:06.651Z"
+    },
+    "WF-LILY-TBL-S||THALAWA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:48:06",
+      "lastUpdated": "2026-09-15T10:18:06.340Z"
     }
   },
   "showroomVisits": {
@@ -87053,6 +87060,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:48:06",
+      "iso": "2026-09-15T10:18:06.343Z",
+      "action": "updated remark for WF-LILY-TBL-S at THALAWA: “60%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "15:48:06",
@@ -87394,13 +87408,6 @@
       "time": "15:41:03",
       "iso": "2026-09-15T10:11:03.124Z",
       "action": "updated remark for BC-BG328A at RIKILLAGASKADA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:40:03",
-      "iso": "2026-09-15T10:10:03.290Z",
-      "action": "updated remark for SB-DTYPE at RIKILLAGASKADA: “Unsellable”"
     }
   ]
 }
