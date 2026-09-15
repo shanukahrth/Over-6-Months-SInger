@@ -83187,6 +83187,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:15:18",
       "lastUpdated": "2026-09-15T06:45:18.363Z"
+    },
+    "GEO-182S-BU1||KUNDASALE": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:16:05",
+      "lastUpdated": "2026-09-15T06:46:05.566Z"
     }
   },
   "showroomVisits": {
@@ -85287,6 +85294,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:16:05",
+      "iso": "2026-09-15T06:46:05.566Z",
+      "action": "updated remark for GEO-182S-BU1 at KUNDASALE: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:15:18",
       "iso": "2026-09-15T06:45:18.364Z",
       "action": "updated remark for U-HRW-S6 at KUNDASALE: “50%”"
@@ -85626,13 +85640,6 @@
       "time": "11:59:06",
       "iso": "2026-09-15T06:29:06.253Z",
       "action": "updated remark for LF-BUDGET-BDQ-CRW-S at KUNDASALE: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "11:58:46",
-      "iso": "2026-09-15T06:28:46.786Z",
-      "action": "updated remark for LF-LEO-12022-BCH at KUNDASALE: “50%”"
     }
   ]
 }
