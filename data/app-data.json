@@ -82907,6 +82907,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:00:23",
       "lastUpdated": "2026-09-15T06:30:23.503Z"
+    },
+    "WF-OSLO-S||KUNDASALE": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:00:52",
+      "lastUpdated": "2026-09-15T06:30:52.002Z"
+    },
+    "LF-WIN-DTO-S||KUNDASALE": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:00:54",
+      "lastUpdated": "2026-09-15T06:30:54.547Z"
     }
   },
   "showroomVisits": {
@@ -85007,6 +85021,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:00:54",
+      "iso": "2026-09-15T06:30:54.547Z",
+      "action": "updated remark for LF-WIN-DTO-S at KUNDASALE: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:00:52",
+      "iso": "2026-09-15T06:30:52.002Z",
+      "action": "updated remark for WF-OSLO-S at KUNDASALE: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:00:44",
+      "iso": "2026-09-15T06:30:44.133Z",
+      "action": "updated remark for WF-OSLO-S at KUNDASALE: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:00:23",
       "iso": "2026-09-15T06:30:23.504Z",
       "action": "updated remark for LF-R90-2S-S at KUNDASALE: “Unsellable”"
@@ -85332,27 +85367,6 @@
       "time": "15:43:43",
       "iso": "2026-09-14T10:13:43.411Z",
       "action": "updated remark for LF-DEO-CT-S at DIGANA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:42:46",
-      "iso": "2026-09-14T10:12:46.634Z",
-      "action": "updated remark for LF-CT-WNT-S at DIGANA - B: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:41:21",
-      "iso": "2026-09-14T10:11:21.875Z",
-      "action": "updated remark for WFL-LBC01 at DIGANA - B: “Unsellable -80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:39:39",
-      "iso": "2026-09-14T10:09:39.934Z",
-      "action": "updated remark for SDV3605K at DIGANA - B: “MOP - 2,000”"
     }
   ]
 }
