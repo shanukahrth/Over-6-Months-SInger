@@ -85161,6 +85161,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:54:09",
       "lastUpdated": "2026-09-15T10:24:09.315Z"
+    },
+    "SWM-FA70R||THALAWA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:53:24",
+      "lastUpdated": "2026-09-15T10:23:24.986Z"
+    },
+    "SLE55G22N||THALAWA": {
+      "remark": "85%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:54:09",
+      "lastUpdated": "2026-09-15T10:24:09.561Z"
     }
   },
   "showroomVisits": {
@@ -87387,6 +87401,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:54:09",
+      "iso": "2026-09-15T10:24:09.563Z",
+      "action": "updated remark for SLE55G22N at THALAWA: “85%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:53:24",
+      "iso": "2026-09-15T10:23:24.988Z",
+      "action": "updated remark for SWM-FA70R at THALAWA: “50%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "15:54:09",
@@ -87721,20 +87749,6 @@
       "time": "15:48:41",
       "iso": "2026-09-15T10:18:41.846Z",
       "action": "updated remark for WFL-SWSTK-SL-6FT at RIKILLAGASKADA: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:48:34",
-      "iso": "2026-09-15T10:18:34.041Z",
-      "action": "updated remark for ALU-DSL-8FT-S at RIKILLAGASKADA: “Sellable at existing price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:48:22",
-      "iso": "2026-09-15T10:18:22.715Z",
-      "action": "updated remark for LFI-GLEN-TVS-BR-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
