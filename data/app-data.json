@@ -83719,6 +83719,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:22:24",
       "lastUpdated": "2026-09-15T08:52:24.063Z"
+    },
+    "SHT-1691P||WATTEGAMA": {
+      "remark": "Damaged -",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:22:46",
+      "lastUpdated": "2026-09-15T08:52:46.129Z"
     }
   },
   "showroomVisits": {
@@ -85867,6 +85874,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:22:46",
+      "iso": "2026-09-15T08:52:46.130Z",
+      "action": "updated remark for SHT-1691P at WATTEGAMA: “Damaged -”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:22:24",
       "iso": "2026-09-15T08:52:24.064Z",
       "action": "updated remark for LF-GALANT-WNG-S at WATTEGAMA: “Unsellable - WH Issue”"
@@ -86206,13 +86220,6 @@
       "time": "12:47:15",
       "iso": "2026-09-15T07:17:15.060Z",
       "action": "updated remark for SN-SMI-285 at DIGANA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:46:43",
-      "iso": "2026-09-15T07:16:43.570Z",
-      "action": "updated remark for SMGRT30K3322S8 at DIGANA - B: “Selling Price - 150,000”"
     }
   ]
 }
