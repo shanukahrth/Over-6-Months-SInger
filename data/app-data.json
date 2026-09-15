@@ -86043,6 +86043,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:13:56",
       "lastUpdated": "2026-09-15T10:43:56.411Z"
+    },
+    "SIN-RFC-2012||DIGANA": {
+      "remark": "30%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:14:02",
+      "lastUpdated": "2026-09-15T10:44:02.637Z"
     }
   },
   "showroomVisits": {
@@ -88277,6 +88284,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:14:02",
+      "iso": "2026-09-15T10:44:02.639Z",
+      "action": "updated remark for SIN-RFC-2012 at DIGANA: “30%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:13:56",
       "iso": "2026-09-15T10:43:56.413Z",
       "action": "updated remark for PH-BHB864 at DIGANA: “30%”"
@@ -88616,13 +88630,6 @@
       "time": "16:09:07",
       "iso": "2026-09-15T10:39:07.183Z",
       "action": "updated remark for AS-13G-I5-16-512-5656-SIL at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:08:59",
-      "iso": "2026-09-15T10:38:59.601Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at DIGANA: “To be dropped”"
     }
   ]
 }
