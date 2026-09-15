@@ -85169,6 +85169,22 @@
       "remark": "Discounts given over the phone ",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-15"
+    },
+    "BANDARAWELA||BADULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "shanukah@singersl.com",
+      "updatedDate": "2026-09-15"
+    },
+    "BANDARAWELA B||BADULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "shanukah@singersl.com",
+      "updatedDate": "2026-09-15"
     }
   },
   "soldMarks": {
@@ -85553,6 +85569,20 @@
   },
   "activity": [
     {
+      "user": "shanukah@singersl.com",
+      "date": "2026-09-15",
+      "time": "12:47:32",
+      "iso": "2026-09-15T07:17:32.495Z",
+      "action": "updated BANDARAWELA B showroom (visited: Yes)"
+    },
+    {
+      "user": "shanukah@singersl.com",
+      "date": "2026-09-15",
+      "time": "12:47:29",
+      "iso": "2026-09-15T07:17:29.458Z",
+      "action": "updated BANDARAWELA showroom (visited: Yes)"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "12:47:15",
@@ -85887,20 +85917,6 @@
       "time": "12:17:28",
       "iso": "2026-09-15T06:47:28.610Z",
       "action": "updated remark for KDL-43W750E at KUNDASALE: “70&”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:17:02",
-      "iso": "2026-09-15T06:47:02.352Z",
-      "action": "updated remark for SMGRT37B4513S8 at KUNDASALE: “Selling Price - 190,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:16:37",
-      "iso": "2026-09-15T06:46:37.064Z",
-      "action": "updated remark for SL-ECO245 at KUNDASALE: “Damaged - 80%”"
     }
   ]
 }
