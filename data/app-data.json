@@ -84909,6 +84909,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:49:22",
       "lastUpdated": "2026-09-15T10:19:22.196Z"
+    },
+    "NCPDG-SET3||RIKILLAGASKADA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:49:30",
+      "lastUpdated": "2026-09-15T10:19:30.897Z"
     }
   },
   "showroomVisits": {
@@ -87125,6 +87132,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:49:30",
+      "iso": "2026-09-15T10:19:30.898Z",
+      "action": "updated remark for NCPDG-SET3 at RIKILLAGASKADA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:49:22",
       "iso": "2026-09-15T10:19:22.197Z",
       "action": "updated remark for SIS277CU at RIKILLAGASKADA: “No additional discounts”"
@@ -87464,13 +87478,6 @@
       "time": "15:43:11",
       "iso": "2026-09-15T10:13:11.245Z",
       "action": "updated remark for SWH-118E at THALAWA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:42:45",
-      "iso": "2026-09-15T10:12:45.639Z",
-      "action": "updated remark for LF-WIN-DTO-S at THALAWA: “40%”"
     }
   ]
 }
