@@ -84594,6 +84594,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:43:02",
       "lastUpdated": "2026-09-15T10:13:02.042Z"
+    },
+    "LF-WIN-DTO-S||THALAWA": {
+      "remark": "40%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:42:45",
+      "lastUpdated": "2026-09-15T10:12:45.636Z"
+    },
+    "SWH-118E||THALAWA": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:43:11",
+      "lastUpdated": "2026-09-15T10:13:11.242Z"
     }
   },
   "showroomVisits": {
@@ -86802,6 +86816,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:43:11",
+      "iso": "2026-09-15T10:13:11.245Z",
+      "action": "updated remark for SWH-118E at THALAWA: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:42:45",
+      "iso": "2026-09-15T10:12:45.639Z",
+      "action": "updated remark for LF-WIN-DTO-S at THALAWA: “40%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "15:43:02",
@@ -87136,20 +87164,6 @@
       "time": "15:09:54",
       "iso": "2026-09-15T09:39:54.864Z",
       "action": "updated remark for WFI-WILLOW-1S-DGR-S at ANURADHAPURA B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:09:38",
-      "iso": "2026-09-15T09:39:38.035Z",
-      "action": "updated remark for SDF-182PPA at ANURADHAPURA B: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:08:53",
-      "iso": "2026-09-15T09:38:53.912Z",
-      "action": "marked SDF-182PPA at ANURADHAPURA B as Sold"
     }
   ]
 }
