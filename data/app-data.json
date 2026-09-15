@@ -82942,6 +82942,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:02:07",
       "lastUpdated": "2026-09-15T06:32:07.912Z"
+    },
+    "WFI-SOC-M005-BU-S||KUNDASALE": {
+      "remark": "Active SKU - 20%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:03:09",
+      "lastUpdated": "2026-09-15T06:33:09.167Z"
     }
   },
   "showroomVisits": {
@@ -85042,6 +85049,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:03:09",
+      "iso": "2026-09-15T06:33:09.169Z",
+      "action": "updated remark for WFI-SOC-M005-BU-S at KUNDASALE: “Active SKU - 20%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:02:07",
       "iso": "2026-09-15T06:32:07.913Z",
       "action": "updated remark for LF-ORBIT-CT-WNG-S at KUNDASALE: “Unsellable”"
@@ -85381,13 +85395,6 @@
       "time": "15:45:40",
       "iso": "2026-09-14T10:15:40.856Z",
       "action": "updated remark for WFL-BST-110X110 at DIGANA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:45:14",
-      "iso": "2026-09-14T10:15:14.945Z",
-      "action": "updated remark for WF-ROME-03-S at DIGANA - B: “70%”"
     }
   ]
 }
