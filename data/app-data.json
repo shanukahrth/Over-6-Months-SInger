@@ -84286,6 +84286,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:08:06",
       "lastUpdated": "2026-09-15T09:38:06.285Z"
+    },
+    "SMGRT28A3021GS||ANURADHAPURA B": {
+      "remark": "Special price 150,000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:08:35",
+      "lastUpdated": "2026-09-15T09:38:35.811Z"
     }
   },
   "showroomVisits": {
@@ -86466,6 +86473,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:08:35",
+      "iso": "2026-09-15T09:38:35.813Z",
+      "action": "updated remark for SMGRT28A3021GS at ANURADHAPURA B: “Special price 150,000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:08:06",
       "iso": "2026-09-15T09:38:06.286Z",
       "action": "updated remark for SWM-MID16KG at ANURADHAPURA B: “Exchange, not physically available”"
@@ -86805,13 +86819,6 @@
       "time": "14:39:36",
       "iso": "2026-09-15T09:09:36.248Z",
       "action": "updated remark for SLE40E910 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:39:33",
-      "iso": "2026-09-15T09:09:33.507Z",
-      "action": "updated remark for SLE40E710 at WATTEGAMA: “Panel Damage - 90%”"
     }
   ]
 }
