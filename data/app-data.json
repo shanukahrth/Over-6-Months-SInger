@@ -84083,6 +84083,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:41:16",
       "lastUpdated": "2026-09-15T09:11:16.769Z"
+    },
+    "WC-IK609||WATTEGAMA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:41:39",
+      "lastUpdated": "2026-09-15T09:11:39.397Z"
     }
   },
   "showroomVisits": {
@@ -86237,6 +86244,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:41:39",
+      "iso": "2026-09-15T09:11:39.397Z",
+      "action": "updated remark for WC-IK609 at WATTEGAMA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:41:16",
       "iso": "2026-09-15T09:11:16.770Z",
       "action": "updated remark for ULED32D60A at WATTEGAMA: “Panel Damage - 90%”"
@@ -86576,13 +86590,6 @@
       "time": "14:27:24",
       "iso": "2026-09-15T08:57:24.178Z",
       "action": "updated remark for UJB-LB6027 at WATTEGAMA: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:27:11",
-      "iso": "2026-09-15T08:57:11.430Z",
-      "action": "updated remark for SL-PB-426 at WATTEGAMA: “Damaged - 80%”"
     }
   ]
 }
