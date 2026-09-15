@@ -84069,6 +84069,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:41:10",
       "lastUpdated": "2026-09-15T09:11:10.469Z"
+    },
+    "ULED32D4000||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:41:10",
+      "lastUpdated": "2026-09-15T09:11:10.903Z"
+    },
+    "ULED32D60A||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:41:16",
+      "lastUpdated": "2026-09-15T09:11:16.769Z"
     }
   },
   "showroomVisits": {
@@ -86221,6 +86235,27 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:41:16",
+      "iso": "2026-09-15T09:11:16.770Z",
+      "action": "updated remark for ULED32D60A at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:41:15",
+      "iso": "2026-09-15T09:11:15.834Z",
+      "action": "updated remark for ULED32D60A at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:41:10",
+      "iso": "2026-09-15T09:11:10.904Z",
+      "action": "updated remark for ULED32D4000 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "14:41:10",
@@ -86548,27 +86583,6 @@
       "time": "14:27:11",
       "iso": "2026-09-15T08:57:11.430Z",
       "action": "updated remark for SL-PB-426 at WATTEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:26:50",
-      "iso": "2026-09-15T08:56:50.607Z",
-      "action": "updated remark for MID-BL1190 at WATTEGAMA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:26:46",
-      "iso": "2026-09-15T08:56:46.768Z",
-      "action": "updated remark for MID-BL1190 at WATTEGAMA: “%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:26:14",
-      "iso": "2026-09-15T08:56:14.606Z",
-      "action": "updated remark for R-FGAP010 at WATTEGAMA: “Damaged - 80%”"
     }
   ]
 }
