@@ -83740,6 +83740,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:23:44",
       "lastUpdated": "2026-09-15T08:53:44.537Z"
+    },
+    "NCPDG-OT250||WATTEGAMA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:24:22",
+      "lastUpdated": "2026-09-15T08:54:22.183Z"
+    },
+    "NCPO-DC200||WATTEGAMA": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:24:29",
+      "lastUpdated": "2026-09-15T08:54:29.976Z"
     }
   },
   "showroomVisits": {
@@ -85888,6 +85902,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:24:29",
+      "iso": "2026-09-15T08:54:29.976Z",
+      "action": "updated remark for NCPO-DC200 at WATTEGAMA: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:24:22",
+      "iso": "2026-09-15T08:54:22.183Z",
+      "action": "updated remark for NCPDG-OT250 at WATTEGAMA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:24:20",
+      "iso": "2026-09-15T08:54:20.329Z",
+      "action": "updated remark for NCPDG-OT250 at WATTEGAMA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:23:44",
       "iso": "2026-09-15T08:53:44.537Z",
       "action": "updated remark for TF-SI-ESS-242 at WATTEGAMA: “Active SKU”"
@@ -86213,27 +86248,6 @@
       "time": "12:47:39",
       "iso": "2026-09-15T07:17:39.013Z",
       "action": "updated remark for WP-NEO258NF at DIGANA - B: “25%”"
-    },
-    {
-      "user": "shanukah@singersl.com",
-      "date": "2026-09-15",
-      "time": "12:47:41",
-      "iso": "2026-09-15T07:17:41.580Z",
-      "action": "updated WELIMADA A showroom (visited: Yes)"
-    },
-    {
-      "user": "shanukah@singersl.com",
-      "date": "2026-09-15",
-      "time": "12:47:40",
-      "iso": "2026-09-15T07:17:40.249Z",
-      "action": "updated WELIMADA - B showroom (visited: Yes)"
-    },
-    {
-      "user": "shanukah@singersl.com",
-      "date": "2026-09-15",
-      "time": "12:47:32",
-      "iso": "2026-09-15T07:17:32.495Z",
-      "action": "updated BANDARAWELA B showroom (visited: Yes)"
     }
   ]
 }
