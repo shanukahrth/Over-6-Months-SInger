@@ -83145,6 +83145,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:12:48",
       "lastUpdated": "2026-09-15T06:42:48.800Z"
+    },
+    "HU-SECURITY||KUNDASALE": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:13:05",
+      "lastUpdated": "2026-09-15T06:43:05.075Z"
     }
   },
   "showroomVisits": {
@@ -85245,6 +85252,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:13:05",
+      "iso": "2026-09-15T06:43:05.075Z",
+      "action": "updated remark for HU-SECURITY at KUNDASALE: “Shop use”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:12:48",
       "iso": "2026-09-15T06:42:48.801Z",
       "action": "updated remark for PT-EC-MK20-S at KUNDASALE: “Reported”"
@@ -85584,13 +85598,6 @@
       "time": "11:56:57",
       "iso": "2026-09-15T06:26:57.017Z",
       "action": "updated remark for FAN-P-1605H at KUNDASALE: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "11:56:48",
-      "iso": "2026-09-15T06:26:48.429Z",
-      "action": "updated remark for FAN-P-1605H at KUNDASALE: “Display - 40%”"
     }
   ]
 }
