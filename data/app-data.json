@@ -83467,6 +83467,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:48:48",
       "lastUpdated": "2026-09-15T07:18:48.738Z"
+    },
+    "SLE43G890||DIGANA - B": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:49:10",
+      "lastUpdated": "2026-09-15T07:19:10.898Z"
     }
   },
   "showroomVisits": {
@@ -85615,6 +85622,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:49:10",
+      "iso": "2026-09-15T07:19:10.899Z",
+      "action": "updated remark for SLE43G890 at DIGANA - B: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:48:48",
       "iso": "2026-09-15T07:18:48.739Z",
       "action": "updated remark for SIN-PR-K340 at DIGANA - B: “38%”"
@@ -85954,13 +85968,6 @@
       "time": "12:18:40",
       "iso": "2026-09-15T06:48:40.824Z",
       "action": "updated remark for SLE24B2900 at KUNDASALE: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:18:34",
-      "iso": "2026-09-15T06:48:34.271Z",
-      "action": "updated remark for SLE24B2900 at KUNDASALE: “70%”"
     }
   ]
 }
