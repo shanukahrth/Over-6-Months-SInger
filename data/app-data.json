@@ -85083,6 +85083,14 @@
       "remark": "",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-14"
+    },
+    "DIGANA - B||DIGANA": {
+      "visited": "Yes",
+      "visitDate": "2026-09-15",
+      "team": "Team Central",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-09-15"
     }
   },
   "soldMarks": {
@@ -85469,6 +85477,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:38:16",
+      "iso": "2026-09-15T07:08:16.556Z",
+      "action": "updated DIGANA - B showroom (team: Team Central)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:38:09",
+      "iso": "2026-09-15T07:08:09.717Z",
+      "action": "updated DIGANA - B showroom (visitDate: 2026-09-15)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:38:06",
+      "iso": "2026-09-15T07:08:06.422Z",
+      "action": "updated DIGANA - B showroom (visited: Yes)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:24:31",
       "iso": "2026-09-15T06:54:31.125Z",
       "action": "updated remark for MID-D30-20EVN1 at KUNDASALE: “Active SKU”"
@@ -85794,27 +85823,6 @@
       "time": "12:10:44",
       "iso": "2026-09-15T06:40:44.797Z",
       "action": "updated remark for SL-4MIXGR at KUNDASALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:10:20",
-      "iso": "2026-09-15T06:40:20.342Z",
-      "action": "updated remark for RMG-SMART at KUNDASALE: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:10:02",
-      "iso": "2026-09-15T06:40:02.728Z",
-      "action": "updated remark for TH-TC-351 at KUNDASALE: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:09:44",
-      "iso": "2026-09-15T06:39:44.927Z",
-      "action": "updated remark for R-FGAQ010 at KUNDASALE: “Damaged - 80%”"
     }
   ]
 }
