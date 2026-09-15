@@ -84307,6 +84307,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:09:38",
       "lastUpdated": "2026-09-15T09:39:38.034Z"
+    },
+    "WFI-WILLOW-1S-DGR-S||ANURADHAPURA B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:09:54",
+      "lastUpdated": "2026-09-15T09:39:54.863Z"
     }
   },
   "showroomVisits": {
@@ -86493,6 +86500,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:09:54",
+      "iso": "2026-09-15T09:39:54.864Z",
+      "action": "updated remark for WFI-WILLOW-1S-DGR-S at ANURADHAPURA B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:09:38",
       "iso": "2026-09-15T09:39:38.035Z",
       "action": "updated remark for SDF-182PPA at ANURADHAPURA B: “SOLD”"
@@ -86832,13 +86846,6 @@
       "time": "14:40:32",
       "iso": "2026-09-15T09:10:32.850Z",
       "action": "marked SLE75G6E at ANURADHAPURA B as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "14:40:20",
-      "iso": "2026-09-15T09:10:20.517Z",
-      "action": "updated remark for HON-MAGIC-V5-BLK at ANURADHAPURA B: “To be returned to warehouse”"
     }
   ]
 }
