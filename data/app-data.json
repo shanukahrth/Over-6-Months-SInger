@@ -83985,6 +83985,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:37:53",
       "lastUpdated": "2026-09-15T09:07:53.116Z"
+    },
+    "SLE32E920||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:38:04",
+      "lastUpdated": "2026-09-15T09:08:04.972Z"
     }
   },
   "showroomVisits": {
@@ -86133,6 +86140,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:38:04",
+      "iso": "2026-09-15T09:08:04.973Z",
+      "action": "updated remark for SLE32E920 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:38:04",
+      "iso": "2026-09-15T09:08:04.138Z",
+      "action": "updated remark for SLE32E920 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:37:53",
       "iso": "2026-09-15T09:07:53.118Z",
       "action": "updated remark for SLE32E910 at WATTEGAMA: “Panel Damage - 90%”"
@@ -86465,20 +86486,6 @@
       "time": "14:20:49",
       "iso": "2026-09-15T08:50:49.862Z",
       "action": "updated remark for WF-PARIS-BL-S at WATTEGAMA: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:20:15",
-      "iso": "2026-09-15T08:50:15.277Z",
-      "action": "updated remark for PF-CAFE-NEW-WF-S at WATTEGAMA: “Active SKU - 10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:19:58",
-      "iso": "2026-09-15T08:49:58.689Z",
-      "action": "updated remark for LF-ORGN-BSC-WHT at WATTEGAMA: “10%”"
     }
   ]
 }
