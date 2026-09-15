@@ -85185,6 +85185,22 @@
       "remark": "",
       "updatedBy": "shanukah@singersl.com",
       "updatedDate": "2026-09-15"
+    },
+    "WELIMADA - B||BADULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "shanukah@singersl.com",
+      "updatedDate": "2026-09-15"
+    },
+    "WELIMADA A||BADULLA": {
+      "visited": "Yes",
+      "visitDate": "",
+      "team": "",
+      "remark": "",
+      "updatedBy": "shanukah@singersl.com",
+      "updatedDate": "2026-09-15"
     }
   },
   "soldMarks": {
@@ -85571,6 +85587,20 @@
     {
       "user": "shanukah@singersl.com",
       "date": "2026-09-15",
+      "time": "12:47:41",
+      "iso": "2026-09-15T07:17:41.580Z",
+      "action": "updated WELIMADA A showroom (visited: Yes)"
+    },
+    {
+      "user": "shanukah@singersl.com",
+      "date": "2026-09-15",
+      "time": "12:47:40",
+      "iso": "2026-09-15T07:17:40.249Z",
+      "action": "updated WELIMADA - B showroom (visited: Yes)"
+    },
+    {
+      "user": "shanukah@singersl.com",
+      "date": "2026-09-15",
       "time": "12:47:32",
       "iso": "2026-09-15T07:17:32.495Z",
       "action": "updated BANDARAWELA B showroom (visited: Yes)"
@@ -85903,20 +85933,6 @@
       "time": "12:17:40",
       "iso": "2026-09-15T06:47:40.672Z",
       "action": "updated remark for PN-TH-32M402N at KUNDASALE: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:17:32",
-      "iso": "2026-09-15T06:47:32.894Z",
-      "action": "updated remark for KDL-43W750E at KUNDASALE: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:17:28",
-      "iso": "2026-09-15T06:47:28.610Z",
-      "action": "updated remark for KDL-43W750E at KUNDASALE: “70&”"
     }
   ]
 }
