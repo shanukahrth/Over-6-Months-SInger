@@ -85854,6 +85854,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:10:46",
       "lastUpdated": "2026-09-15T10:40:46.262Z"
+    },
+    "SED-2432A||DIGANA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:10:53",
+      "lastUpdated": "2026-09-15T10:40:53.463Z"
     }
   },
   "showroomVisits": {
@@ -88088,6 +88095,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:10:53",
+      "iso": "2026-09-15T10:40:53.464Z",
+      "action": "updated remark for SED-2432A at DIGANA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:10:46",
       "iso": "2026-09-15T10:40:46.264Z",
       "action": "updated remark for SWH-118EP at DIGANA: “60%”"
@@ -88427,13 +88441,6 @@
       "time": "16:00:00",
       "iso": "2026-09-15T10:30:00.938Z",
       "action": "updated remark for SAS-12VL at THALAWA: “85%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:59:51",
-      "iso": "2026-09-15T10:29:51.739Z",
-      "action": "updated remark for WP-WDC11704RG-G at RIKILLAGASKADA: “20%”"
     }
   ]
 }
