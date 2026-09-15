@@ -83285,6 +83285,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:19:46",
       "lastUpdated": "2026-09-15T06:49:46.030Z"
+    },
+    "SMGUA32N4010||KUNDASALE": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:19:58",
+      "lastUpdated": "2026-09-15T06:49:58.713Z"
     }
   },
   "showroomVisits": {
@@ -85385,6 +85392,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:19:58",
+      "iso": "2026-09-15T06:49:58.714Z",
+      "action": "updated remark for SMGUA32N4010 at KUNDASALE: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:19:46",
       "iso": "2026-09-15T06:49:46.032Z",
       "action": "updated remark for SLE43G890 at KUNDASALE: “60%”"
@@ -85724,13 +85738,6 @@
       "time": "12:05:54",
       "iso": "2026-09-15T06:35:54.689Z",
       "action": "updated remark for PN-NI-M250TPSH at KUNDASALE: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:04:46",
-      "iso": "2026-09-15T06:34:46.775Z",
-      "action": "updated remark for WF-DUNE-01-S at KUNDASALE: “Discolor - 60%”"
     }
   ]
 }
