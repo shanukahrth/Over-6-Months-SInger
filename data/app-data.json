@@ -85320,8 +85320,22 @@
       "remark": "70%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "15:57:09",
-      "lastUpdated": "2026-09-15T10:27:09.058Z"
+      "commentTime": "15:57:22",
+      "lastUpdated": "2026-09-15T10:27:22.567Z"
+    },
+    "BES-WPGR15M||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:17",
+      "lastUpdated": "2026-09-15T10:27:17.703Z"
+    },
+    "BES-CRS-79||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:20",
+      "lastUpdated": "2026-09-15T10:27:20.377Z"
     }
   },
   "showroomVisits": {
@@ -87550,6 +87564,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:57:22",
+      "iso": "2026-09-15T10:27:22.568Z",
+      "action": "updated remark for BES-WP15-ECO at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:57:20",
+      "iso": "2026-09-15T10:27:20.378Z",
+      "action": "updated remark for BES-CRS-79 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:57:17",
+      "iso": "2026-09-15T10:27:17.705Z",
+      "action": "updated remark for BES-WPGR15M at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:57:09",
       "iso": "2026-09-15T10:27:09.060Z",
       "action": "updated remark for BES-WP15-ECO at RIKILLAGASKADA: “70%”"
@@ -87875,27 +87910,6 @@
       "time": "15:51:41",
       "iso": "2026-09-15T10:21:41.976Z",
       "action": "updated remark for SLE40D600A at THALAWA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:51:25",
-      "iso": "2026-09-15T10:21:25.812Z",
-      "action": "updated remark for MID-MJ-KM6001W at RIKILLAGASKADA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:51:06",
-      "iso": "2026-09-15T10:21:06.443Z",
-      "action": "updated remark for KA-LW-185A at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:51:01",
-      "iso": "2026-09-15T10:21:01.682Z",
-      "action": "updated remark for TF-TW26-064 at RIKILLAGASKADA: “35%”"
     }
   ]
 }
