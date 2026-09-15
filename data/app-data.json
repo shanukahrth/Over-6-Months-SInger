@@ -83964,6 +83964,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:36:21",
       "lastUpdated": "2026-09-15T09:06:21.475Z"
+    },
+    "SLE32D1800||WATTEGAMA": {
+      "remark": "Serial No Issue",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:37:15",
+      "lastUpdated": "2026-09-15T09:07:15.870Z"
     }
   },
   "showroomVisits": {
@@ -86112,6 +86119,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:37:15",
+      "iso": "2026-09-15T09:07:15.871Z",
+      "action": "updated remark for SLE32D1800 at WATTEGAMA: “Serial No Issue”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:36:21",
       "iso": "2026-09-15T09:06:21.476Z",
       "action": "updated remark for SLE24E610 at WATTEGAMA: “Panel Damage - 90%”"
@@ -86451,13 +86465,6 @@
       "time": "14:18:44",
       "iso": "2026-09-15T08:48:44.008Z",
       "action": "updated remark for LF-ORGN-BDQ-WHT at WATTEGAMA: “Active SKU - 10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:18:28",
-      "iso": "2026-09-15T08:48:28.665Z",
-      "action": "updated remark for WFL-PILWFB-16X24-S at WATTEGAMA: “50%”"
     }
   ]
 }
