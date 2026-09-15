@@ -83068,6 +83068,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:09:16",
       "lastUpdated": "2026-09-15T06:39:16.617Z"
+    },
+    "R-FGAQ010||KUNDASALE": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:09:44",
+      "lastUpdated": "2026-09-15T06:39:44.926Z"
     }
   },
   "showroomVisits": {
@@ -85168,6 +85175,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:09:44",
+      "iso": "2026-09-15T06:39:44.927Z",
+      "action": "updated remark for R-FGAQ010 at KUNDASALE: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:09:16",
       "iso": "2026-09-15T06:39:16.618Z",
       "action": "updated remark for STO-EO30C at KUNDASALE: “80%”"
@@ -85507,13 +85521,6 @@
       "time": "11:53:42",
       "iso": "2026-09-15T06:23:42.626Z",
       "action": "updated remark for PN-CS-U13XKH at KUNDASALE: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "11:53:24",
-      "iso": "2026-09-15T06:23:24.362Z",
-      "action": "updated remark for PN-CS-SU18XKY-8 at KUNDASALE: “70%”"
     }
   ]
 }
