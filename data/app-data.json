@@ -85035,6 +85035,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:51:56",
       "lastUpdated": "2026-09-15T10:21:56.948Z"
+    },
+    "SL-SST082||RIKILLAGASKADA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:52:06",
+      "lastUpdated": "2026-09-15T10:22:06.064Z"
+    },
+    "TF-CM-APR737||RIKILLAGASKADA": {
+      "remark": "60",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:52:09",
+      "lastUpdated": "2026-09-15T10:22:09.959Z"
     }
   },
   "showroomVisits": {
@@ -87263,6 +87277,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:52:12",
+      "iso": "2026-09-15T10:22:12.503Z",
+      "action": "updated remark for STO-EO45C at RIKILLAGASKADA (cleared)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:52:09",
+      "iso": "2026-09-15T10:22:09.961Z",
+      "action": "updated remark for TF-CM-APR737 at RIKILLAGASKADA: “60”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:52:06",
+      "iso": "2026-09-15T10:22:06.066Z",
+      "action": "updated remark for SL-SST082 at RIKILLAGASKADA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:51:56",
       "iso": "2026-09-15T10:21:56.949Z",
       "action": "updated remark for MXSW612543 at RIKILLAGASKADA: “80%”"
@@ -87588,27 +87623,6 @@
       "time": "15:46:53",
       "iso": "2026-09-15T10:16:53.082Z",
       "action": "marked NUBIA-V70-8-256GB-GRY at THALAWA as Sold"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:46:49",
-      "iso": "2026-09-15T10:16:49.508Z",
-      "action": "updated remark for LF-R90-2S-CLM-S at RIKILLAGASKADA: “5%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:46:46",
-      "iso": "2026-09-15T10:16:46.864Z",
-      "action": "updated remark for LF-LCD-TV-CHY-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:46:45",
-      "iso": "2026-09-15T10:16:45.490Z",
-      "action": "updated remark for LF-GALANT-CRW-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
