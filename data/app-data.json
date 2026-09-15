@@ -83278,6 +83278,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:19:18",
       "lastUpdated": "2026-09-15T06:49:18.810Z"
+    },
+    "SLE43G890||KUNDASALE": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:19:46",
+      "lastUpdated": "2026-09-15T06:49:46.030Z"
     }
   },
   "showroomVisits": {
@@ -85378,6 +85385,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:19:46",
+      "iso": "2026-09-15T06:49:46.032Z",
+      "action": "updated remark for SLE43G890 at KUNDASALE: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:19:18",
       "iso": "2026-09-15T06:49:18.811Z",
       "action": "updated remark for SLE32E910 at KUNDASALE: “70%”"
@@ -85717,13 +85731,6 @@
       "time": "12:04:46",
       "iso": "2026-09-15T06:34:46.775Z",
       "action": "updated remark for WF-DUNE-01-S at KUNDASALE: “Discolor - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:04:29",
-      "iso": "2026-09-15T06:34:29.081Z",
-      "action": "updated remark for PF-MONDY-BLUE at KUNDASALE: “Active SKU - 10%”"
     }
   ]
 }
