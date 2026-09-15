@@ -85336,6 +85336,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:57:20",
       "lastUpdated": "2026-09-15T10:27:20.377Z"
+    },
+    "UPS-N650||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:28",
+      "lastUpdated": "2026-09-15T10:27:28.189Z"
+    },
+    "CP-GTC-T20L2-V3||RIKILLAGASKADA": {
+      "remark": "No additional discounts",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:31",
+      "lastUpdated": "2026-09-15T10:27:31.251Z"
+    },
+    "MC8280||RIKILLAGASKADA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:33",
+      "lastUpdated": "2026-09-15T10:27:33.919Z"
     }
   },
   "showroomVisits": {
@@ -87564,6 +87585,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:57:33",
+      "iso": "2026-09-15T10:27:33.920Z",
+      "action": "updated remark for MC8280 at RIKILLAGASKADA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:57:31",
+      "iso": "2026-09-15T10:27:31.252Z",
+      "action": "updated remark for CP-GTC-T20L2-V3 at RIKILLAGASKADA: “No additional discounts”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:57:28",
+      "iso": "2026-09-15T10:27:28.190Z",
+      "action": "updated remark for UPS-N650 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:57:22",
       "iso": "2026-09-15T10:27:22.568Z",
       "action": "updated remark for BES-WP15-ECO at RIKILLAGASKADA: “70%”"
@@ -87889,27 +87931,6 @@
       "time": "15:52:06",
       "iso": "2026-09-15T10:22:06.066Z",
       "action": "updated remark for SL-SST082 at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:51:56",
-      "iso": "2026-09-15T10:21:56.949Z",
-      "action": "updated remark for MXSW612543 at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:51:53",
-      "iso": "2026-09-15T10:21:53.274Z",
-      "action": "updated remark for MX-QA311127 at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:51:41",
-      "iso": "2026-09-15T10:21:41.976Z",
-      "action": "updated remark for SLE40D600A at THALAWA: “80%”"
     }
   ]
 }
