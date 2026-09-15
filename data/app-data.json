@@ -85938,6 +85938,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:12:07",
       "lastUpdated": "2026-09-15T10:42:07.919Z"
+    },
+    "KA-TXG-DS11A||DIGANA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:12:17",
+      "lastUpdated": "2026-09-15T10:42:17.238Z"
+    },
+    "KN-SMP01||DIGANA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:12:18",
+      "lastUpdated": "2026-09-15T10:42:18.893Z"
     }
   },
   "showroomVisits": {
@@ -88172,6 +88186,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:12:18",
+      "iso": "2026-09-15T10:42:18.894Z",
+      "action": "updated remark for KN-SMP01 at DIGANA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:12:17",
+      "iso": "2026-09-15T10:42:17.239Z",
+      "action": "updated remark for KA-TXG-DS11A at DIGANA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:12:07",
       "iso": "2026-09-15T10:42:07.921Z",
       "action": "updated remark for KA-LW-185A at DIGANA: “60%”"
@@ -88504,20 +88532,6 @@
       "time": "16:02:56",
       "iso": "2026-09-15T10:32:56.018Z",
       "action": "updated remark for BC-BG328A at THALAWA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "16:01:46",
-      "iso": "2026-09-15T10:31:46.707Z",
-      "action": "updated remark for PN-TH-55MX740N at THALAWA: “199,999”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "16:00:56",
-      "iso": "2026-09-15T10:30:56.736Z",
-      "action": "updated remark for H-RSQG018MFEOE at THALAWA: “199,999”"
     }
   ]
 }
