@@ -83236,6 +83236,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:17:48",
       "lastUpdated": "2026-09-15T06:47:48.142Z"
+    },
+    "SKY-49E2C||KUNDASALE": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:18:02",
+      "lastUpdated": "2026-09-15T06:48:02.859Z"
     }
   },
   "showroomVisits": {
@@ -85336,6 +85343,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:18:02",
+      "iso": "2026-09-15T06:48:02.860Z",
+      "action": "updated remark for SKY-49E2C at KUNDASALE: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:17:48",
       "iso": "2026-09-15T06:47:48.142Z",
       "action": "updated remark for PN-TH-32MS670N at KUNDASALE: “40%”"
@@ -85675,13 +85689,6 @@
       "time": "12:02:07",
       "iso": "2026-09-15T06:32:07.913Z",
       "action": "updated remark for LF-ORBIT-CT-WNG-S at KUNDASALE: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:01:52",
-      "iso": "2026-09-15T06:31:52.633Z",
-      "action": "updated remark for WF-RIVER-75X60-S at KUNDASALE: “Display - 50%”"
     }
   ]
 }
