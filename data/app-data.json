@@ -85700,6 +85700,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:08:40",
       "lastUpdated": "2026-09-15T10:38:40.865Z"
+    },
+    "SIN-PSVX938N||DIGANA": {
+      "remark": "MOP - 18,500",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:08:51",
+      "lastUpdated": "2026-09-15T10:38:51.150Z"
     }
   },
   "showroomVisits": {
@@ -87934,6 +87941,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:08:51",
+      "iso": "2026-09-15T10:38:51.152Z",
+      "action": "updated remark for SIN-PSVX938N at DIGANA: “MOP - 18,500”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:08:40",
       "iso": "2026-09-15T10:38:40.868Z",
       "action": "updated remark for HFPA-MUSICBOX100-BLK at DIGANA: “70%”"
@@ -88273,13 +88287,6 @@
       "time": "15:58:13",
       "iso": "2026-09-15T10:28:13.664Z",
       "action": "updated remark for SKY-32E2 at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:58:02",
-      "iso": "2026-09-15T10:28:02.901Z",
-      "action": "updated remark for SKY-24E2A at RIKILLAGASKADA: “70%”"
     }
   ]
 }
