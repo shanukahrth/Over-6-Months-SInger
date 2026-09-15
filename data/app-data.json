@@ -83250,6 +83250,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:18:21",
       "lastUpdated": "2026-09-15T06:48:21.241Z"
+    },
+    "SLE24B2900||KUNDASALE": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:18:40",
+      "lastUpdated": "2026-09-15T06:48:40.823Z"
     }
   },
   "showroomVisits": {
@@ -85350,6 +85357,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:18:40",
+      "iso": "2026-09-15T06:48:40.824Z",
+      "action": "updated remark for SLE24B2900 at KUNDASALE: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:18:34",
+      "iso": "2026-09-15T06:48:34.271Z",
+      "action": "updated remark for SLE24B2900 at KUNDASALE: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:18:21",
       "iso": "2026-09-15T06:48:21.243Z",
       "action": "updated remark for SKY49E300 at KUNDASALE: “Panel Damage - 90%”"
@@ -85682,20 +85703,6 @@
       "time": "12:03:30",
       "iso": "2026-09-15T06:33:30.105Z",
       "action": "updated remark for WF-DOC-T009-BU-S at KUNDASALE: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:03:21",
-      "iso": "2026-09-15T06:33:21.692Z",
-      "action": "updated remark for WF-DOC-T009-BU-S at KUNDASALE: “System Discount - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:03:09",
-      "iso": "2026-09-15T06:33:09.169Z",
-      "action": "updated remark for WFI-SOC-M005-BU-S at KUNDASALE: “Active SKU - 20%”"
     }
   ]
 }
