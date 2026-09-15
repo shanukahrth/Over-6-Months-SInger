@@ -84797,6 +84797,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:47:14",
       "lastUpdated": "2026-09-15T10:17:14.908Z"
+    },
+    "WF-LEGEND-14-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:47:19",
+      "lastUpdated": "2026-09-15T10:17:19.226Z"
     }
   },
   "showroomVisits": {
@@ -87013,6 +87020,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:47:19",
+      "iso": "2026-09-15T10:17:19.228Z",
+      "action": "updated remark for WF-LEGEND-14-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:47:14",
       "iso": "2026-09-15T10:17:14.908Z",
       "action": "updated remark for WF-OSLO-S at RIKILLAGASKADA: “50%”"
@@ -87352,13 +87366,6 @@
       "time": "15:38:46",
       "iso": "2026-09-15T10:08:46.383Z",
       "action": "updated remark for PN-SC-AKX520E-K at RIKILLAGASKADA: “Revert - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:38:40",
-      "iso": "2026-09-15T10:08:40.912Z",
-      "action": "updated remark for PN-SC-AKX520E-K at RIKILLAGASKADA: “Revert - 50%”"
     }
   ]
 }
