@@ -86176,6 +86176,41 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:17:52",
       "lastUpdated": "2026-09-15T10:47:52.486Z"
+    },
+    "SLE43G890||DIGANA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:18:17",
+      "lastUpdated": "2026-09-15T10:48:17.921Z"
+    },
+    "SLE55D5010TC||DIGANA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:18:19",
+      "lastUpdated": "2026-09-15T10:48:19.757Z"
+    },
+    "SLE55G22A||DIGANA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:18:21",
+      "lastUpdated": "2026-09-15T10:48:21.599Z"
+    },
+    "SMGUA32N4010||DIGANA": {
+      "remark": "38%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:18:25",
+      "lastUpdated": "2026-09-15T10:48:25.750Z"
+    },
+    "TCL55C655||DIGANA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:18:27",
+      "lastUpdated": "2026-09-15T10:48:27.951Z"
     }
   },
   "showroomVisits": {
@@ -88410,6 +88445,41 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:18:27",
+      "iso": "2026-09-15T10:48:27.952Z",
+      "action": "updated remark for TCL55C655 at DIGANA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:18:25",
+      "iso": "2026-09-15T10:48:25.751Z",
+      "action": "updated remark for SMGUA32N4010 at DIGANA: “38%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:18:21",
+      "iso": "2026-09-15T10:48:21.600Z",
+      "action": "updated remark for SLE55G22A at DIGANA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:18:19",
+      "iso": "2026-09-15T10:48:19.759Z",
+      "action": "updated remark for SLE55D5010TC at DIGANA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:18:17",
+      "iso": "2026-09-15T10:48:17.922Z",
+      "action": "updated remark for SLE43G890 at DIGANA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:17:52",
       "iso": "2026-09-15T10:47:52.487Z",
       "action": "updated remark for PN-TH-32MS670N at DIGANA: “40%”"
@@ -88721,41 +88791,6 @@
       "time": "16:11:34",
       "iso": "2026-09-15T10:41:34.589Z",
       "action": "updated remark for TF-SI-EXSP1231 at DIGANA: “20%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:11:33",
-      "iso": "2026-09-15T10:41:33.150Z",
-      "action": "updated remark for TF-SI-ESS-242 at DIGANA: “20%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:11:19",
-      "iso": "2026-09-15T10:41:19.004Z",
-      "action": "updated remark for TF-GS-SPKT302 at DIGANA: “No additional discounts”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:10:53",
-      "iso": "2026-09-15T10:40:53.464Z",
-      "action": "updated remark for SED-2432A at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:10:46",
-      "iso": "2026-09-15T10:40:46.264Z",
-      "action": "updated remark for SWH-118EP at DIGANA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:10:44",
-      "iso": "2026-09-15T10:40:44.929Z",
-      "action": "updated remark for SWH-118E at DIGANA: “60%”"
     }
   ]
 }
