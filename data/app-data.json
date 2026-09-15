@@ -85364,6 +85364,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:57:42",
       "lastUpdated": "2026-09-15T10:27:42.672Z"
+    },
+    "KDL-50W660G||RIKILLAGASKADA": {
+      "remark": "No additional discounts",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:50",
+      "lastUpdated": "2026-09-15T10:27:50.111Z"
+    },
+    "KLV-32R306C||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:53",
+      "lastUpdated": "2026-09-15T10:27:53.052Z"
+    },
+    "KLV-32R326D||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:57:56",
+      "lastUpdated": "2026-09-15T10:27:56.229Z"
     }
   },
   "showroomVisits": {
@@ -87592,6 +87613,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:57:56",
+      "iso": "2026-09-15T10:27:56.230Z",
+      "action": "updated remark for KLV-32R326D at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:57:53",
+      "iso": "2026-09-15T10:27:53.054Z",
+      "action": "updated remark for KLV-32R306C at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:57:50",
+      "iso": "2026-09-15T10:27:50.112Z",
+      "action": "updated remark for KDL-50W660G at RIKILLAGASKADA: “No additional discounts”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:57:42",
       "iso": "2026-09-15T10:27:42.673Z",
       "action": "updated remark for MC984-HO at RIKILLAGASKADA: “50%”"
@@ -87917,27 +87959,6 @@
       "time": "15:52:36",
       "iso": "2026-09-15T10:22:36.538Z",
       "action": "updated remark for MID-BL1190 at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:29",
-      "iso": "2026-09-15T10:22:29.508Z",
-      "action": "updated remark for KA-ELITE at RIKILLAGASKADA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:20",
-      "iso": "2026-09-15T10:22:20.834Z",
-      "action": "updated remark for LP-AP01 at RIKILLAGASKADA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:12",
-      "iso": "2026-09-15T10:22:12.503Z",
-      "action": "updated remark for STO-EO45C at RIKILLAGASKADA (cleared)"
     }
   ]
 }
