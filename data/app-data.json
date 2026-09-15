@@ -83033,6 +83033,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:07:08",
       "lastUpdated": "2026-09-15T06:37:08.728Z"
+    },
+    "TF-K1330404||KUNDASALE": {
+      "remark": "Damage - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:07:35",
+      "lastUpdated": "2026-09-15T06:37:35.880Z"
     }
   },
   "showroomVisits": {
@@ -85133,6 +85140,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:07:35",
+      "iso": "2026-09-15T06:37:35.881Z",
+      "action": "updated remark for TF-K1330404 at KUNDASALE: “Damage - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:07:08",
       "iso": "2026-09-15T06:37:08.729Z",
       "action": "updated remark for MID-MJ-KM6001W at KUNDASALE: “55%”"
@@ -85472,13 +85486,6 @@
       "time": "15:53:27",
       "iso": "2026-09-14T10:23:27.678Z",
       "action": "updated remark for SIN-RFC-2058 at DIGANA - B: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:53:24",
-      "iso": "2026-09-14T10:23:24.224Z",
-      "action": "updated remark for SIN-RFC-2058 at DIGANA - B: “Active SKY”"
     }
   ]
 }
