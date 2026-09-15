@@ -86064,6 +86064,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:14:41",
       "lastUpdated": "2026-09-15T10:44:41.053Z"
+    },
+    "HU-SECURITY||DIGANA": {
+      "remark": "Shop use",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:14:52",
+      "lastUpdated": "2026-09-15T10:44:52.502Z"
     }
   },
   "showroomVisits": {
@@ -88298,6 +88305,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:14:52",
+      "iso": "2026-09-15T10:44:52.503Z",
+      "action": "updated remark for HU-SECURITY at DIGANA: “Shop use”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:14:41",
       "iso": "2026-09-15T10:44:41.054Z",
       "action": "updated remark for VT-EL31109CN at DIGANA: “70%”"
@@ -88637,13 +88651,6 @@
       "time": "16:09:42",
       "iso": "2026-09-15T10:39:42.826Z",
       "action": "updated remark for WF-CHAIR-B-BU at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:38",
-      "iso": "2026-09-15T10:39:38.915Z",
-      "action": "updated remark for QT-SITUP at DIGANA: “80%”"
     }
   ]
 }
