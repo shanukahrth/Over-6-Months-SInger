@@ -85126,6 +85126,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:53:14",
       "lastUpdated": "2026-09-15T10:23:14.118Z"
+    },
+    "STT-200K||RIKILLAGASKADA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:53:28",
+      "lastUpdated": "2026-09-15T10:23:28.137Z"
     }
   },
   "showroomVisits": {
@@ -87354,6 +87361,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:53:28",
+      "iso": "2026-09-15T10:23:28.137Z",
+      "action": "updated remark for STT-200K at RIKILLAGASKADA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:53:14",
       "iso": "2026-09-15T10:23:14.119Z",
       "action": "updated remark for SL-TF2GCR at RIKILLAGASKADA: “80%”"
@@ -87693,13 +87707,6 @@
       "time": "15:48:06",
       "iso": "2026-09-15T10:18:06.653Z",
       "action": "updated remark for PF-CAFE-NEW-RW-S at RIKILLAGASKADA: “20%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:48:02",
-      "iso": "2026-09-15T10:18:02.403Z",
-      "action": "updated remark for PF-OLIVIA-BR-S at RIKILLAGASKADA: “20%”"
     }
   ]
 }
