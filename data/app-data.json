@@ -84349,6 +84349,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:11:40",
       "lastUpdated": "2026-09-15T09:41:40.269Z"
+    },
+    "APS-300KG||ANURADHAPURA B": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:11:58",
+      "lastUpdated": "2026-09-15T09:41:58.529Z"
     }
   },
   "showroomVisits": {
@@ -86541,6 +86548,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:11:58",
+      "iso": "2026-09-15T09:41:58.530Z",
+      "action": "updated remark for APS-300KG at ANURADHAPURA B: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:11:40",
       "iso": "2026-09-15T09:41:40.271Z",
       "action": "updated remark for TCL43S5400 at ANURADHAPURA B: “35%”"
@@ -86880,13 +86894,6 @@
       "time": "14:41:55",
       "iso": "2026-09-15T09:11:55.958Z",
       "action": "updated remark for SWM-FA70R at WATTEGAMA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:41:39",
-      "iso": "2026-09-15T09:11:39.397Z",
-      "action": "updated remark for WC-IK609 at WATTEGAMA: “80%”"
     }
   ]
 }
