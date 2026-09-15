@@ -85588,6 +85588,34 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:00:35",
       "lastUpdated": "2026-09-15T10:30:35.630Z"
+    },
+    "WP-CHTW-100-S||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:43",
+      "lastUpdated": "2026-09-15T10:30:43.221Z"
+    },
+    "WP-DI-SG-S||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:48",
+      "lastUpdated": "2026-09-15T10:30:48.863Z"
+    },
+    "WP-NSP-J-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:53",
+      "lastUpdated": "2026-09-15T10:30:53.383Z"
+    },
+    "WP-NSP-SG-S||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:56",
+      "lastUpdated": "2026-09-15T10:30:56.855Z"
     }
   },
   "showroomVisits": {
@@ -87814,6 +87842,41 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:00:56",
+      "iso": "2026-09-15T10:30:56.857Z",
+      "action": "updated remark for WP-NSP-SG-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:00:53",
+      "iso": "2026-09-15T10:30:53.385Z",
+      "action": "updated remark for WP-NSP-J-S at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:00:48",
+      "iso": "2026-09-15T10:30:48.865Z",
+      "action": "updated remark for WP-DI-SG-S at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:00:46",
+      "iso": "2026-09-15T10:30:46.554Z",
+      "action": "updated remark for WP-DI-SG-S at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:00:43",
+      "iso": "2026-09-15T10:30:43.222Z",
+      "action": "updated remark for WP-CHTW-100-S at RIKILLAGASKADA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "16:00:35",
@@ -88127,41 +88190,6 @@
       "time": "15:57:09",
       "iso": "2026-09-15T10:27:09.060Z",
       "action": "updated remark for BES-WP15-ECO at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:57:05",
-      "iso": "2026-09-15T10:27:05.407Z",
-      "action": "updated remark for WP-WRN25LX at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:56:54",
-      "iso": "2026-09-15T10:26:54.488Z",
-      "action": "updated remark for WP-NEO258NF at RIKILLAGASKADA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:56:46",
-      "iso": "2026-09-15T10:26:46.098Z",
-      "action": "updated remark for WP-DI-SG-S at THALAWA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:56:33",
-      "iso": "2026-09-15T10:26:33.417Z",
-      "action": "updated remark for SMGRT28A3021GS at RIKILLAGASKADA: “MOP - 135,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:56:23",
-      "iso": "2026-09-15T10:26:23.268Z",
-      "action": "updated remark for SL-ECO192 at RIKILLAGASKADA: “80%”"
     }
   ]
 }
