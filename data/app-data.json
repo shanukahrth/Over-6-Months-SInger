@@ -86099,6 +86099,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:15:30",
       "lastUpdated": "2026-09-15T10:45:30.606Z"
+    },
+    "B-RDNI295XIB100P||DIGANA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:15:38",
+      "lastUpdated": "2026-09-15T10:45:38.457Z"
+    },
+    "GEO-200D||DIGANA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:15:41",
+      "lastUpdated": "2026-09-15T10:45:41.040Z"
+    },
+    "AES-HAV-30S||DIGANA": {
+      "remark": "10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:15:44",
+      "lastUpdated": "2026-09-15T10:45:44.598Z"
     }
   },
   "showroomVisits": {
@@ -88333,6 +88354,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:15:44",
+      "iso": "2026-09-15T10:45:44.600Z",
+      "action": "updated remark for AES-HAV-30S at DIGANA: “10%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:15:41",
+      "iso": "2026-09-15T10:45:41.041Z",
+      "action": "updated remark for GEO-200D at DIGANA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:15:38",
+      "iso": "2026-09-15T10:45:38.457Z",
+      "action": "updated remark for B-RDNI295XIB100P at DIGANA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:15:30",
       "iso": "2026-09-15T10:45:30.606Z",
       "action": "updated remark for SMG-SM-A057F-6-128-B at DIGANA: “60%”"
@@ -88658,27 +88700,6 @@
       "time": "16:10:04",
       "iso": "2026-09-15T10:40:04.538Z",
       "action": "updated remark for WFI-MICHU-CHR-S at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:57",
-      "iso": "2026-09-15T10:39:57.252Z",
-      "action": "updated remark for WFL-PILWFB-16X24-S at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:55",
-      "iso": "2026-09-15T10:39:55.120Z",
-      "action": "updated remark for WFL-WINTER-38-S at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:53",
-      "iso": "2026-09-15T10:39:53.529Z",
-      "action": "updated remark for PF-GRID-1D-BG-S at DIGANA: “50%”"
     }
   ]
 }
