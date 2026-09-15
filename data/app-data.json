@@ -85721,6 +85721,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:09:07",
       "lastUpdated": "2026-09-15T10:39:07.182Z"
+    },
+    "UDV3618SY||DIGANA": {
+      "remark": "MOP - 2,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:09:19",
+      "lastUpdated": "2026-09-15T10:39:19.672Z"
     }
   },
   "showroomVisits": {
@@ -87955,6 +87962,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:09:19",
+      "iso": "2026-09-15T10:39:19.674Z",
+      "action": "updated remark for UDV3618SY at DIGANA: “MOP - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:09:07",
       "iso": "2026-09-15T10:39:07.183Z",
       "action": "updated remark for AS-13G-I5-16-512-5656-SIL at DIGANA: “50%”"
@@ -88294,13 +88308,6 @@
       "time": "15:58:22",
       "iso": "2026-09-15T10:28:22.593Z",
       "action": "updated remark for SLE32D1800 at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:58:16",
-      "iso": "2026-09-15T10:28:16.508Z",
-      "action": "updated remark for SLE24E610 at RIKILLAGASKADA: “70%”"
     }
   ]
 }
