@@ -83971,6 +83971,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:37:15",
       "lastUpdated": "2026-09-15T09:07:15.870Z"
+    },
+    "SLE32E710||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:37:30",
+      "lastUpdated": "2026-09-15T09:07:30.069Z"
     }
   },
   "showroomVisits": {
@@ -86119,6 +86126,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:37:30",
+      "iso": "2026-09-15T09:07:30.070Z",
+      "action": "updated remark for SLE32E710 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:37:15",
       "iso": "2026-09-15T09:07:15.871Z",
       "action": "updated remark for SLE32D1800 at WATTEGAMA: “Serial No Issue”"
@@ -86458,13 +86472,6 @@
       "time": "14:19:09",
       "iso": "2026-09-15T08:49:09.682Z",
       "action": "updated remark for WF-CLASSIC-BL-S at WATTEGAMA: “Damaged - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:18:44",
-      "iso": "2026-09-15T08:48:44.008Z",
-      "action": "updated remark for LF-ORGN-BDQ-WHT at WATTEGAMA: “Active SKU - 10%”"
     }
   ]
 }
