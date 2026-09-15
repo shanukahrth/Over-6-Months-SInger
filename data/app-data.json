@@ -85679,6 +85679,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:08:19",
       "lastUpdated": "2026-09-15T10:38:19.513Z"
+    },
+    "AC-TEMP-NOVA-2I||DIGANA": {
+      "remark": "To be dropped",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:08:28",
+      "lastUpdated": "2026-09-15T10:38:28.992Z"
     }
   },
   "showroomVisits": {
@@ -87913,6 +87920,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:08:28",
+      "iso": "2026-09-15T10:38:28.992Z",
+      "action": "updated remark for AC-TEMP-NOVA-2I at DIGANA: “To be dropped”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:08:19",
       "iso": "2026-09-15T10:38:19.515Z",
       "action": "updated remark for H-RSQG018MFEOE at DIGANA: “Active SKU”"
@@ -88252,13 +88266,6 @@
       "time": "15:57:58",
       "iso": "2026-09-15T10:27:58.228Z",
       "action": "updated remark for GEO-242D-SV at THALAWA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:57:19",
-      "iso": "2026-09-15T10:27:19.732Z",
-      "action": "updated remark for MHC-M40D at THALAWA: “70%”"
     }
   ]
 }
