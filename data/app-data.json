@@ -85637,6 +85637,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:02:56",
       "lastUpdated": "2026-09-15T10:32:56.017Z"
+    },
+    "WP-SS-SUB1-S||THALAWA": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:03:37",
+      "lastUpdated": "2026-09-15T10:33:37.718Z"
     }
   },
   "showroomVisits": {
@@ -87859,9 +87866,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "WP-SS-SUB1-S||THALAWA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "16:03:39",
+      "iso": "2026-09-15T10:33:39.754Z",
+      "action": "marked WP-SS-SUB1-S at THALAWA as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "16:03:37",
+      "iso": "2026-09-15T10:33:37.719Z",
+      "action": "updated remark for WP-SS-SUB1-S at THALAWA: “SOLD”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
@@ -88197,20 +88224,6 @@
       "time": "15:57:40",
       "iso": "2026-09-15T10:27:40.573Z",
       "action": "updated remark for MC8280 at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:57:33",
-      "iso": "2026-09-15T10:27:33.920Z",
-      "action": "updated remark for MC8280 at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:57:31",
-      "iso": "2026-09-15T10:27:31.252Z",
-      "action": "updated remark for CP-GTC-T20L2-V3 at RIKILLAGASKADA: “No additional discounts”"
     }
   ]
 }
