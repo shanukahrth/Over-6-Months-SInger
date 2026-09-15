@@ -84608,6 +84608,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:43:11",
       "lastUpdated": "2026-09-15T10:13:11.242Z"
+    },
+    "LF-LEO-HDBC-BCH||THALAWA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:44:03",
+      "lastUpdated": "2026-09-15T10:14:03.229Z"
     }
   },
   "showroomVisits": {
@@ -86818,6 +86825,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:44:03",
+      "iso": "2026-09-15T10:14:03.229Z",
+      "action": "updated remark for LF-LEO-HDBC-BCH at THALAWA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:43:11",
       "iso": "2026-09-15T10:13:11.245Z",
       "action": "updated remark for SWH-118E at THALAWA: “60%”"
@@ -87157,13 +87171,6 @@
       "time": "15:10:11",
       "iso": "2026-09-15T09:40:11.064Z",
       "action": "updated remark for AVERY-150KG at ANURADHAPURA B: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:09:54",
-      "iso": "2026-09-15T09:39:54.864Z",
-      "action": "updated remark for WFI-WILLOW-1S-DGR-S at ANURADHAPURA B: “50%”"
     }
   ]
 }
