@@ -83607,6 +83607,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:16:25",
       "lastUpdated": "2026-09-15T08:46:25.321Z"
+    },
+    "LF-ORGN-DTO-CLM-S||WATTEGAMA": {
+      "remark": "Damaged - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:16:57",
+      "lastUpdated": "2026-09-15T08:46:57.554Z"
     }
   },
   "showroomVisits": {
@@ -85755,6 +85762,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:16:57",
+      "iso": "2026-09-15T08:46:57.555Z",
+      "action": "updated remark for LF-ORGN-DTO-CLM-S at WATTEGAMA: “Damaged - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:16:25",
       "iso": "2026-09-15T08:46:25.322Z",
       "action": "updated remark for LF-LEWIS-CBT-S at WATTEGAMA: “Unsellable”"
@@ -86094,13 +86108,6 @@
       "time": "12:38:35",
       "iso": "2026-09-15T07:08:35.364Z",
       "action": "updated KUNDASALE showroom (visitDate: 2026-09-15)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:38:28",
-      "iso": "2026-09-15T07:08:28.347Z",
-      "action": "updated DIGANA - B showroom (remark: Discounts given over the phone)"
     }
   ]
 }
