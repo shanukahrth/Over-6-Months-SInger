@@ -83334,6 +83334,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:21:51",
       "lastUpdated": "2026-09-15T06:51:51.847Z"
+    },
+    "SIN-VAC8515||KUNDASALE": {
+      "remark": "Damaged - 40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:22:27",
+      "lastUpdated": "2026-09-15T06:52:27.703Z"
+    },
+    "SWM-FA70R||KUNDASALE": {
+      "remark": "55%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:22:33",
+      "lastUpdated": "2026-09-15T06:52:33.940Z"
     }
   },
   "showroomVisits": {
@@ -85434,6 +85448,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:22:33",
+      "iso": "2026-09-15T06:52:33.941Z",
+      "action": "updated remark for SWM-FA70R at KUNDASALE: “55%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:22:32",
+      "iso": "2026-09-15T06:52:32.379Z",
+      "action": "updated remark for SWM-FA70R at KUNDASALE: “55%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:22:27",
+      "iso": "2026-09-15T06:52:27.705Z",
+      "action": "updated remark for SIN-VAC8515 at KUNDASALE: “Damaged - 40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:21:51",
       "iso": "2026-09-15T06:51:51.849Z",
       "action": "updated remark for PN-MC-CG370GS47 at KUNDASALE: “Sellable at existing price”"
@@ -85759,27 +85794,6 @@
       "time": "12:08:48",
       "iso": "2026-09-15T06:38:48.283Z",
       "action": "updated remark for TF-CM-APR737 at KUNDASALE: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:08:30",
-      "iso": "2026-09-15T06:38:30.631Z",
-      "action": "updated remark for TF-AF32-577 at KUNDASALE: “Display - 35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:08:11",
-      "iso": "2026-09-15T06:38:11.036Z",
-      "action": "updated remark for BD-AF400-B5 at KUNDASALE: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:07:35",
-      "iso": "2026-09-15T06:37:35.881Z",
-      "action": "updated remark for TF-K1330404 at KUNDASALE: “Damage - 80%”"
     }
   ]
 }
