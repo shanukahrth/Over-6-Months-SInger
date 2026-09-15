@@ -83733,6 +83733,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:23:28",
       "lastUpdated": "2026-09-15T08:53:28.910Z"
+    },
+    "TF-SI-ESS-242||WATTEGAMA": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:23:44",
+      "lastUpdated": "2026-09-15T08:53:44.537Z"
     }
   },
   "showroomVisits": {
@@ -85881,6 +85888,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:23:44",
+      "iso": "2026-09-15T08:53:44.537Z",
+      "action": "updated remark for TF-SI-ESS-242 at WATTEGAMA: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:23:28",
       "iso": "2026-09-15T08:53:28.911Z",
       "action": "updated remark for SIS253CU at WATTEGAMA: “Damaged - 60%”"
@@ -86220,13 +86234,6 @@
       "time": "12:47:32",
       "iso": "2026-09-15T07:17:32.495Z",
       "action": "updated BANDARAWELA B showroom (visited: Yes)"
-    },
-    {
-      "user": "shanukah@singersl.com",
-      "date": "2026-09-15",
-      "time": "12:47:29",
-      "iso": "2026-09-15T07:17:29.458Z",
-      "action": "updated BANDARAWELA showroom (visited: Yes)"
     }
   ]
 }
