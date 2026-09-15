@@ -83546,11 +83546,11 @@
       "lastUpdated": "2026-09-15T08:42:02.305Z"
     },
     "FAN-P-MSF160||WATTEGAMA": {
-      "remark": "Damaged - 70%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "14:12:23",
-      "lastUpdated": "2026-09-15T08:42:23.770Z"
+      "commentTime": "14:12:40",
+      "lastUpdated": "2026-09-15T08:42:40.098Z"
     }
   },
   "showroomVisits": {
@@ -85699,6 +85699,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:12:40",
+      "iso": "2026-09-15T08:42:40.100Z",
+      "action": "updated remark for FAN-P-MSF160 at WATTEGAMA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:12:23",
       "iso": "2026-09-15T08:42:23.772Z",
       "action": "updated remark for FAN-P-MSF160 at WATTEGAMA: “Damaged - 70%”"
@@ -86038,13 +86045,6 @@
       "time": "12:22:27",
       "iso": "2026-09-15T06:52:27.705Z",
       "action": "updated remark for SIN-VAC8515 at KUNDASALE: “Damaged - 40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:21:51",
-      "iso": "2026-09-15T06:51:51.849Z",
-      "action": "updated remark for PN-MC-CG370GS47 at KUNDASALE: “Sellable at existing price”"
     }
   ]
 }
