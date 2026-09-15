@@ -85728,6 +85728,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:09:19",
       "lastUpdated": "2026-09-15T10:39:19.672Z"
+    },
+    "QT-SITUP||DIGANA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:09:38",
+      "lastUpdated": "2026-09-15T10:39:38.914Z"
+    },
+    "WF-CHAIR-B-BU||DIGANA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:09:42",
+      "lastUpdated": "2026-09-15T10:39:42.825Z"
+    },
+    "WF-CF-75X60-S||DIGANA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:09:44",
+      "lastUpdated": "2026-09-15T10:39:44.268Z"
     }
   },
   "showroomVisits": {
@@ -87962,6 +87983,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:09:44",
+      "iso": "2026-09-15T10:39:44.269Z",
+      "action": "updated remark for WF-CF-75X60-S at DIGANA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:09:42",
+      "iso": "2026-09-15T10:39:42.826Z",
+      "action": "updated remark for WF-CHAIR-B-BU at DIGANA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:09:38",
+      "iso": "2026-09-15T10:39:38.915Z",
+      "action": "updated remark for QT-SITUP at DIGANA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:09:19",
       "iso": "2026-09-15T10:39:19.674Z",
       "action": "updated remark for UDV3618SY at DIGANA: “MOP - 2,000”"
@@ -88287,27 +88329,6 @@
       "time": "15:58:34",
       "iso": "2026-09-15T10:28:34.907Z",
       "action": "updated remark for SLE32E810 at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:58:33",
-      "iso": "2026-09-15T10:28:33.177Z",
-      "action": "updated remark for SLE32E390 at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:58:26",
-      "iso": "2026-09-15T10:28:26.716Z",
-      "action": "updated remark for SLE32D2010TC at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:58:22",
-      "iso": "2026-09-15T10:28:22.593Z",
-      "action": "updated remark for SLE32D1800 at RIKILLAGASKADA: “70%”"
     }
   ]
 }
