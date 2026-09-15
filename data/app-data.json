@@ -83089,6 +83089,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:10:20",
       "lastUpdated": "2026-09-15T06:40:20.341Z"
+    },
+    "SL-4MIXGR||KUNDASALE": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:10:46",
+      "lastUpdated": "2026-09-15T06:40:46.306Z"
     }
   },
   "showroomVisits": {
@@ -85189,6 +85196,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:10:46",
+      "iso": "2026-09-15T06:40:46.307Z",
+      "action": "updated remark for SL-4MIXGR at KUNDASALE: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:10:44",
+      "iso": "2026-09-15T06:40:44.797Z",
+      "action": "updated remark for SL-4MIXGR at KUNDASALE: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:10:20",
       "iso": "2026-09-15T06:40:20.342Z",
       "action": "updated remark for RMG-SMART at KUNDASALE: “Revert - 80%”"
@@ -85521,20 +85542,6 @@
       "time": "11:54:57",
       "iso": "2026-09-15T06:24:57.568Z",
       "action": "updated remark for UR591SW at KUNDASALE: “Selling Price - 5,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "11:54:44",
-      "iso": "2026-09-15T06:24:44.870Z",
-      "action": "updated remark for SHAKE-X10D at KUNDASALE: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "11:54:35",
-      "iso": "2026-09-15T06:24:35.274Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at KUNDASALE: “Display product - 27,000”"
     }
   ]
 }
