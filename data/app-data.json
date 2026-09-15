@@ -85434,6 +85434,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:58:16",
       "lastUpdated": "2026-09-15T10:28:16.507Z"
+    },
+    "SLE32D1800||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:22",
+      "lastUpdated": "2026-09-15T10:28:22.592Z"
+    },
+    "SLE32D2010TC||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:26",
+      "lastUpdated": "2026-09-15T10:28:26.716Z"
     }
   },
   "showroomVisits": {
@@ -87662,6 +87676,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:58:26",
+      "iso": "2026-09-15T10:28:26.716Z",
+      "action": "updated remark for SLE32D2010TC at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:58:22",
+      "iso": "2026-09-15T10:28:22.593Z",
+      "action": "updated remark for SLE32D1800 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:58:16",
       "iso": "2026-09-15T10:28:16.508Z",
       "action": "updated remark for SLE24E610 at RIKILLAGASKADA: “70%”"
@@ -87994,20 +88022,6 @@
       "time": "15:53:28",
       "iso": "2026-09-15T10:23:28.137Z",
       "action": "updated remark for STT-200K at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:53:14",
-      "iso": "2026-09-15T10:23:14.119Z",
-      "action": "updated remark for SL-TF2GCR at RIKILLAGASKADA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:53:09",
-      "iso": "2026-09-15T10:23:09.518Z",
-      "action": "updated remark for PCP75-SS at RIKILLAGASKADA: “75%”"
     }
   ]
 }
