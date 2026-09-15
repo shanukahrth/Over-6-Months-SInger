@@ -84552,6 +84552,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:42:14",
       "lastUpdated": "2026-09-15T10:12:14.691Z"
+    },
+    "DELL-3552-PQC||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:42:29",
+      "lastUpdated": "2026-09-15T10:12:29.935Z"
+    },
+    "DELL-3580-PQC-W10||RIKILLAGASKADA": {
+      "remark": "85%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:42:31",
+      "lastUpdated": "2026-09-15T10:12:31.419Z"
     }
   },
   "showroomVisits": {
@@ -86760,6 +86774,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:42:31",
+      "iso": "2026-09-15T10:12:31.419Z",
+      "action": "updated remark for DELL-3580-PQC-W10 at RIKILLAGASKADA: “85%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:42:29",
+      "iso": "2026-09-15T10:12:29.935Z",
+      "action": "updated remark for DELL-3552-PQC at RIKILLAGASKADA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:42:14",
@@ -87094,20 +87122,6 @@
       "time": "15:07:28",
       "iso": "2026-09-15T09:37:28.545Z",
       "action": "updated remark for WP-12KINV at ANURADHAPURA B: “No Discount”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:06:51",
-      "iso": "2026-09-15T09:36:51.449Z",
-      "action": "updated remark for SLE55GENR at ANURADHAPURA B: “35%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:05:36",
-      "iso": "2026-09-15T09:35:36.737Z",
-      "action": "updated remark for SLE55GENR at ANURADHAPURA B: “40%”"
     }
   ]
 }
