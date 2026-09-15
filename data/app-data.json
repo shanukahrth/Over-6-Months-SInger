@@ -85105,6 +85105,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:52:53",
       "lastUpdated": "2026-09-15T10:22:53.878Z"
+    },
+    "PCP30||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:53:05",
+      "lastUpdated": "2026-09-15T10:23:05.782Z"
+    },
+    "PCP75-SS||RIKILLAGASKADA": {
+      "remark": "75%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:53:09",
+      "lastUpdated": "2026-09-15T10:23:09.518Z"
+    },
+    "SL-TF2GCR||RIKILLAGASKADA": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:53:14",
+      "lastUpdated": "2026-09-15T10:23:14.118Z"
     }
   },
   "showroomVisits": {
@@ -87331,6 +87352,27 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:53:14",
+      "iso": "2026-09-15T10:23:14.119Z",
+      "action": "updated remark for SL-TF2GCR at RIKILLAGASKADA: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:53:09",
+      "iso": "2026-09-15T10:23:09.518Z",
+      "action": "updated remark for PCP75-SS at RIKILLAGASKADA: “75%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:53:05",
+      "iso": "2026-09-15T10:23:05.784Z",
+      "action": "updated remark for PCP30 at RIKILLAGASKADA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:52:53",
@@ -87658,27 +87700,6 @@
       "time": "15:48:02",
       "iso": "2026-09-15T10:18:02.403Z",
       "action": "updated remark for PF-OLIVIA-BR-S at RIKILLAGASKADA: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:47:44",
-      "iso": "2026-09-15T10:17:44.062Z",
-      "action": "updated remark for SW-SM22036WHTN at THALAWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:47:05",
-      "iso": "2026-09-15T10:17:05.631Z",
-      "action": "updated remark for NUBIA-V70-8-256GB-GRY at THALAWA: “SOLD”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:47:30",
-      "iso": "2026-09-15T10:17:30.743Z",
-      "action": "updated remark for LF-PODIUM-MWNT-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
