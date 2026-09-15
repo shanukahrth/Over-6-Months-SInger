@@ -84090,6 +84090,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:41:39",
       "lastUpdated": "2026-09-15T09:11:39.397Z"
+    },
+    "SWM-FA70R||WATTEGAMA": {
+      "remark": "55%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:41:55",
+      "lastUpdated": "2026-09-15T09:11:55.956Z"
     }
   },
   "showroomVisits": {
@@ -86244,6 +86251,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:41:55",
+      "iso": "2026-09-15T09:11:55.958Z",
+      "action": "updated remark for SWM-FA70R at WATTEGAMA: “55%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:41:39",
       "iso": "2026-09-15T09:11:39.397Z",
       "action": "updated remark for WC-IK609 at WATTEGAMA: “80%”"
@@ -86583,13 +86597,6 @@
       "time": "14:28:01",
       "iso": "2026-09-15T08:58:01.969Z",
       "action": "updated remark for SMW823AY7 at WATTEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:27:24",
-      "iso": "2026-09-15T08:57:24.178Z",
-      "action": "updated remark for UJB-LB6027 at WATTEGAMA: “45%”"
     }
   ]
 }
