@@ -84167,6 +84167,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:49:20",
       "lastUpdated": "2026-09-15T09:19:20.090Z"
+    },
+    "DPE-NUC-MINIPC-SSD120||ANURADHAPURA B": {
+      "remark": "Return to warehouse",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:59:35",
+      "lastUpdated": "2026-09-15T09:29:35.350Z"
     }
   },
   "showroomVisits": {
@@ -86341,6 +86348,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "14:59:35",
+      "iso": "2026-09-15T09:29:35.351Z",
+      "action": "updated remark for DPE-NUC-MINIPC-SSD120 at ANURADHAPURA B: “Return to warehouse”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "14:49:20",
       "iso": "2026-09-15T09:19:20.097Z",
       "action": "updated remark for SMW823AY7 at ANURADHAPURA B: “25%”"
@@ -86680,13 +86694,6 @@
       "time": "14:32:44",
       "iso": "2026-09-15T09:02:44.463Z",
       "action": "updated remark for DH-A-HFW1200TLP-A-36B-S5 at WATTEGAMA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:32:30",
-      "iso": "2026-09-15T09:02:30.035Z",
-      "action": "updated remark for BES-CRS-51 at WATTEGAMA: “License Expired - 15%”"
     }
   ]
 }
