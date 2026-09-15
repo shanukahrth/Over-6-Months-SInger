@@ -83810,6 +83810,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:28:06",
       "lastUpdated": "2026-09-15T08:58:06.963Z"
+    },
+    "PCD55-SS||WATTEGAMA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:28:31",
+      "lastUpdated": "2026-09-15T08:58:31.708Z"
     }
   },
   "showroomVisits": {
@@ -85958,6 +85965,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:28:31",
+      "iso": "2026-09-15T08:58:31.709Z",
+      "action": "updated remark for PCD55-SS at WATTEGAMA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:28:06",
       "iso": "2026-09-15T08:58:06.964Z",
       "action": "updated remark for SMW823AY7 at WATTEGAMA: “45%”"
@@ -86297,13 +86311,6 @@
       "time": "14:11:21",
       "iso": "2026-09-15T08:41:21.354Z",
       "action": "updated remark for ETEL-K20MINIPC-SITS at WATTEGAMA: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:10:58",
-      "iso": "2026-09-15T08:40:58.565Z",
-      "action": "updated remark for B-CFB9433XH at WATTEGAMA: “Sellable at existing price”"
     }
   ]
 }
