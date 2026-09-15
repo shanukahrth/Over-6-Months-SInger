@@ -83859,6 +83859,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:30:08",
       "lastUpdated": "2026-09-15T09:00:08.763Z"
+    },
+    "GEO-260NF||WATTEGAMA": {
+      "remark": "Revert - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:30:24",
+      "lastUpdated": "2026-09-15T09:00:24.272Z"
     }
   },
   "showroomVisits": {
@@ -86007,6 +86014,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:30:24",
+      "iso": "2026-09-15T09:00:24.272Z",
+      "action": "updated remark for GEO-260NF at WATTEGAMA: “Revert - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:30:08",
       "iso": "2026-09-15T09:00:08.764Z",
       "action": "updated remark for GEO-182S-SV at WATTEGAMA: “25%”"
@@ -86346,13 +86360,6 @@
       "time": "14:13:06",
       "iso": "2026-09-15T08:43:06.826Z",
       "action": "updated remark for GRIP-8205 at WATTEGAMA: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:13:04",
-      "iso": "2026-09-15T08:43:04.120Z",
-      "action": "updated remark for GRIP-8101-S at WATTEGAMA: “Shop use”"
     }
   ]
 }
