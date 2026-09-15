@@ -84314,6 +84314,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:09:54",
       "lastUpdated": "2026-09-15T09:39:54.863Z"
+    },
+    "AVERY-150KG||ANURADHAPURA B": {
+      "remark": "15%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:10:11",
+      "lastUpdated": "2026-09-15T09:40:11.063Z"
     }
   },
   "showroomVisits": {
@@ -86500,6 +86507,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:10:11",
+      "iso": "2026-09-15T09:40:11.064Z",
+      "action": "updated remark for AVERY-150KG at ANURADHAPURA B: “15%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:09:54",
       "iso": "2026-09-15T09:39:54.864Z",
       "action": "updated remark for WFI-WILLOW-1S-DGR-S at ANURADHAPURA B: “50%”"
@@ -86839,13 +86853,6 @@
       "time": "14:40:29",
       "iso": "2026-09-15T09:10:29.514Z",
       "action": "updated remark for TCLED32D3000 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "14:40:32",
-      "iso": "2026-09-15T09:10:32.850Z",
-      "action": "marked SLE75G6E at ANURADHAPURA B as Sold"
     }
   ]
 }
