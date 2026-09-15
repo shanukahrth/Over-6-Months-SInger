@@ -84146,6 +84146,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:45:15",
       "lastUpdated": "2026-09-15T09:15:15.997Z"
+    },
+    "MC8280||ANURADHAPURA B": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:45:49",
+      "lastUpdated": "2026-09-15T09:15:49.812Z"
     }
   },
   "showroomVisits": {
@@ -86312,6 +86319,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "14:45:49",
+      "iso": "2026-09-15T09:15:49.813Z",
+      "action": "updated remark for MC8280 at ANURADHAPURA B: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "14:45:26",
       "iso": "2026-09-15T09:15:26.893Z",
       "action": "marked HON-X6A-4-128-BLK at ANURADHAPURA B as Sold"
@@ -86651,13 +86665,6 @@
       "time": "14:30:45",
       "iso": "2026-09-15T09:00:45.725Z",
       "action": "updated remark for SL-ECO192-TG at WATTEGAMA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:30:24",
-      "iso": "2026-09-15T09:00:24.272Z",
-      "action": "updated remark for GEO-260NF at WATTEGAMA: “Revert - 80%”"
     }
   ]
 }
