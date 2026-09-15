@@ -73976,13 +73976,6 @@
       "commentTime": "14:23:53",
       "lastUpdated": "2026-09-02T08:53:53.137Z"
     },
-    "H-CVW1600||DIGANA": {
-      "remark": "50%",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "14:24:51",
-      "lastUpdated": "2026-09-02T08:54:51.954Z"
-    },
     "H-CVW1600||UDUDUMBARA": {
       "remark": "50%",
       "commentedBy": "Chanthuli Ramawickrama",
@@ -88452,6 +88445,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:18:44",
+      "iso": "2026-09-15T10:48:44.867Z",
+      "action": "updated remark for H-CVW1600 at DIGANA (cleared)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:18:43",
+      "iso": "2026-09-15T10:48:43.765Z",
+      "action": "updated remark for H-CVW1600 at DIGANA (cleared)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:18:34",
       "iso": "2026-09-15T10:48:34.451Z",
       "action": "updated remark for ULED32D60A at DIGANA: “MOP - 24,999”"
@@ -88784,20 +88791,6 @@
       "time": "16:11:48",
       "iso": "2026-09-15T10:41:48.603Z",
       "action": "updated remark for PCR-FP28-264 at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:11:46",
-      "iso": "2026-09-15T10:41:46.199Z",
-      "action": "updated remark for NCPDG-SET3 at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:11:39",
-      "iso": "2026-09-15T10:41:39.468Z",
-      "action": "updated remark for USI-ATC-302 at DIGANA: “Active SKU”"
     }
   ]
 }
