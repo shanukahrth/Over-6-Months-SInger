@@ -82984,6 +82984,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:04:46",
       "lastUpdated": "2026-09-15T06:34:46.774Z"
+    },
+    "PN-NI-M250TPSH||KUNDASALE": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:05:54",
+      "lastUpdated": "2026-09-15T06:35:54.688Z"
     }
   },
   "showroomVisits": {
@@ -85084,6 +85091,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:05:54",
+      "iso": "2026-09-15T06:35:54.689Z",
+      "action": "updated remark for PN-NI-M250TPSH at KUNDASALE: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:04:46",
       "iso": "2026-09-15T06:34:46.775Z",
       "action": "updated remark for WF-DUNE-01-S at KUNDASALE: “Discolor - 60%”"
@@ -85423,13 +85437,6 @@
       "time": "15:48:05",
       "iso": "2026-09-14T10:18:05.638Z",
       "action": "updated remark for USI-ATC-302 at DIGANA - B: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:47:58",
-      "iso": "2026-09-14T10:17:58.409Z",
-      "action": "updated remark for SWH-118EP-D at DIGANA - B: “Dummy”"
     }
   ]
 }
