@@ -82781,6 +82781,13 @@
       "commentDate": "2026-09-14",
       "commentTime": "15:55:00",
       "lastUpdated": "2026-09-14T10:25:00.353Z"
+    },
+    "PN-CS-SU18XKY-8||KUNDASALE": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "11:53:24",
+      "lastUpdated": "2026-09-15T06:23:24.359Z"
     }
   },
   "showroomVisits": {
@@ -84880,6 +84887,13 @@
   "activity": [
     {
       "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "11:53:24",
+      "iso": "2026-09-15T06:23:24.362Z",
+      "action": "updated remark for PN-CS-SU18XKY-8 at KUNDASALE: “70%”"
+    },
+    {
+      "user": "Rashmi",
       "date": "2026-09-14",
       "time": "15:55:00",
       "iso": "2026-09-14T10:25:00.353Z",
@@ -85220,13 +85234,6 @@
       "time": "14:53:07",
       "iso": "2026-09-14T09:23:07.268Z",
       "action": "updated remark for SLE43G890 at MENIKHINNA: “Pending Exchange”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:52:50",
-      "iso": "2026-09-14T09:22:50.562Z",
-      "action": "updated remark for SLE40D600A at MENIKHINNA: “Revert - 70%”"
     }
   ]
 }
