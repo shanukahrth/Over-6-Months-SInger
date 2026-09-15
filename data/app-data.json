@@ -83397,6 +83397,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:42:29",
       "lastUpdated": "2026-09-15T07:12:29.633Z"
+    },
+    "HU-BAND-6-B||DIGANA - B": {
+      "remark": "Damaged - 80",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:43:28",
+      "lastUpdated": "2026-09-15T07:13:28.328Z"
+    },
+    "HU-BAND-6-GR||DIGANA - B": {
+      "remark": "80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:43:17",
+      "lastUpdated": "2026-09-15T07:13:17.665Z"
     }
   },
   "showroomVisits": {
@@ -85513,6 +85527,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:43:28",
+      "iso": "2026-09-15T07:13:28.329Z",
+      "action": "updated remark for HU-BAND-6-B at DIGANA - B: “Damaged - 80”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:43:17",
+      "iso": "2026-09-15T07:13:17.666Z",
+      "action": "updated remark for HU-BAND-6-GR at DIGANA - B: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:43:15",
+      "iso": "2026-09-15T07:13:15.600Z",
+      "action": "updated remark for HU-BAND-6-B at DIGANA - B: “80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:42:29",
       "iso": "2026-09-15T07:12:29.634Z",
       "action": "updated remark for HON-CH-EARBUDS-X7E at DIGANA - B: “Active SKU”"
@@ -85838,27 +85873,6 @@
       "time": "12:14:30",
       "iso": "2026-09-15T06:44:30.994Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at KUNDASALE: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:14:11",
-      "iso": "2026-09-15T06:44:11.142Z",
-      "action": "updated remark for HON-X8B-8-512-GRN at KUNDASALE: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:13:18",
-      "iso": "2026-09-15T06:43:18.822Z",
-      "action": "updated remark for HON-H90-12-512-SIL at KUNDASALE: “75%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:13:05",
-      "iso": "2026-09-15T06:43:05.075Z",
-      "action": "updated remark for HU-SECURITY at KUNDASALE: “Shop use”"
     }
   ]
 }
