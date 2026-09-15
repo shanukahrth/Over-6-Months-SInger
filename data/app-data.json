@@ -83999,6 +83999,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:38:48",
       "lastUpdated": "2026-09-15T09:08:48.040Z"
+    },
+    "SLE100A5D||ANURADHAPURA B": {
+      "remark": "750,000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:39:02",
+      "lastUpdated": "2026-09-15T09:09:02.970Z"
     }
   },
   "showroomVisits": {
@@ -86145,6 +86152,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "14:39:02",
+      "iso": "2026-09-15T09:09:02.972Z",
+      "action": "updated remark for SLE100A5D at ANURADHAPURA B: “750,000”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "14:38:48",
@@ -86486,13 +86500,6 @@
       "time": "14:23:28",
       "iso": "2026-09-15T08:53:28.911Z",
       "action": "updated remark for SIS253CU at WATTEGAMA: “Damaged - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:22:46",
-      "iso": "2026-09-15T08:52:46.130Z",
-      "action": "updated remark for SHT-1691P at WATTEGAMA: “Damaged -”"
     }
   ]
 }
