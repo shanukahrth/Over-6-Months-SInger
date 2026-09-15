@@ -83628,6 +83628,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:17:39",
       "lastUpdated": "2026-09-15T08:47:39.478Z"
+    },
+    "WF-JUPITER-06-S||WATTEGAMA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:18:11",
+      "lastUpdated": "2026-09-15T08:48:11.436Z"
     }
   },
   "showroomVisits": {
@@ -85776,6 +85783,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:18:11",
+      "iso": "2026-09-15T08:48:11.437Z",
+      "action": "updated remark for WF-JUPITER-06-S at WATTEGAMA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:17:39",
       "iso": "2026-09-15T08:47:39.479Z",
       "action": "updated remark for WF-PRESTON-DTO-S at WATTEGAMA: “Damaged - 70%”"
@@ -86115,13 +86129,6 @@
       "time": "12:41:09",
       "iso": "2026-09-15T07:11:09.600Z",
       "action": "updated remark for HON-PAD-X9-CV at DIGANA - B: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:38:59",
-      "iso": "2026-09-15T07:08:59.382Z",
-      "action": "updated KUNDASALE showroom (remark: Discounts given over the phone )"
     }
   ]
 }
