@@ -84531,6 +84531,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:41:03",
       "lastUpdated": "2026-09-15T10:11:03.122Z"
+    },
+    "BC-KNP-AG||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:42:09",
+      "lastUpdated": "2026-09-15T10:12:09.401Z"
+    },
+    "DT-BG328A||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:42:14",
+      "lastUpdated": "2026-09-15T10:12:14.110Z"
     }
   },
   "showroomVisits": {
@@ -86741,6 +86755,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:42:14",
+      "iso": "2026-09-15T10:12:14.111Z",
+      "action": "updated remark for DT-BG328A at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:42:09",
+      "iso": "2026-09-15T10:12:09.402Z",
+      "action": "updated remark for BC-KNP-AG at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:41:03",
       "iso": "2026-09-15T10:11:03.124Z",
       "action": "updated remark for BC-BG328A at RIKILLAGASKADA: “Unsellable”"
@@ -87073,20 +87101,6 @@
       "time": "15:05:10",
       "iso": "2026-09-15T09:35:10.081Z",
       "action": "updated remark for WP-WDC11704RG-G at ANURADHAPURA B: “25%, Display”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:04:49",
-      "iso": "2026-09-15T09:34:49.043Z",
-      "action": "updated remark for SRS-XP700 at ANURADHAPURA B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:04:31",
-      "iso": "2026-09-15T09:34:31.975Z",
-      "action": "updated remark for SKY55Q6700G at ANURADHAPURA B: “35%”"
     }
   ]
 }
