@@ -84020,6 +84020,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:39:28",
       "lastUpdated": "2026-09-15T09:09:28.026Z"
+    },
+    "SLE40E710||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:39:33",
+      "lastUpdated": "2026-09-15T09:09:33.506Z"
+    },
+    "SLE40E910||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:39:36",
+      "lastUpdated": "2026-09-15T09:09:36.247Z"
     }
   },
   "showroomVisits": {
@@ -86166,6 +86180,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:39:36",
+      "iso": "2026-09-15T09:09:36.248Z",
+      "action": "updated remark for SLE40E910 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:39:33",
+      "iso": "2026-09-15T09:09:33.507Z",
+      "action": "updated remark for SLE40E710 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "14:39:28",
@@ -86500,20 +86528,6 @@
       "time": "14:24:29",
       "iso": "2026-09-15T08:54:29.976Z",
       "action": "updated remark for NCPO-DC200 at WATTEGAMA: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:24:22",
-      "iso": "2026-09-15T08:54:22.183Z",
-      "action": "updated remark for NCPDG-OT250 at WATTEGAMA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:24:20",
-      "iso": "2026-09-15T08:54:20.329Z",
-      "action": "updated remark for NCPDG-OT250 at WATTEGAMA: “50%”"
     }
   ]
 }
