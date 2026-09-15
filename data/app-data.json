@@ -85091,6 +85091,14 @@
       "remark": "Discounts given over the phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-15"
+    },
+    "KUNDASALE||DIGANA": {
+      "visited": "Yes",
+      "visitDate": "2026-09-15",
+      "team": "Team Central ",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-09-15"
     }
   },
   "soldMarks": {
@@ -85477,6 +85485,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:38:40",
+      "iso": "2026-09-15T07:08:40.654Z",
+      "action": "updated KUNDASALE showroom (team: Team Central )"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:38:35",
+      "iso": "2026-09-15T07:08:35.364Z",
+      "action": "updated KUNDASALE showroom (visitDate: 2026-09-15)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:38:28",
       "iso": "2026-09-15T07:08:28.347Z",
       "action": "updated DIGANA - B showroom (remark: Discounts given over the phone)"
@@ -85809,20 +85831,6 @@
       "time": "12:11:39",
       "iso": "2026-09-15T06:41:39.903Z",
       "action": "updated remark for WP-MAGICOOKPRO-25GE at KUNDASALE: “Display - 45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:11:27",
-      "iso": "2026-09-15T06:41:27.862Z",
-      "action": "updated remark for H-HMR-DG2312 at KUNDASALE: “Display - 60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:10:46",
-      "iso": "2026-09-15T06:40:46.307Z",
-      "action": "updated remark for SL-4MIXGR at KUNDASALE: “Damaged - 80%”"
     }
   ]
 }
