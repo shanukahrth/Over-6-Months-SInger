@@ -84888,6 +84888,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:48:43",
       "lastUpdated": "2026-09-15T10:18:43.368Z"
+    },
+    "PN-NI-S530ASD||RIKILLAGASKADA": {
+      "remark": "No additional discounts",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:49:16",
+      "lastUpdated": "2026-09-15T10:19:16.688Z"
+    },
+    "SID-2432||RIKILLAGASKADA": {
+      "remark": "No additional discounts",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:49:17",
+      "lastUpdated": "2026-09-15T10:19:17.573Z"
+    },
+    "SIS277CU||RIKILLAGASKADA": {
+      "remark": "No additional discounts",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:49:22",
+      "lastUpdated": "2026-09-15T10:19:22.196Z"
     }
   },
   "showroomVisits": {
@@ -87104,6 +87125,34 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:49:22",
+      "iso": "2026-09-15T10:19:22.197Z",
+      "action": "updated remark for SIS277CU at RIKILLAGASKADA: “No additional discounts”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:49:21",
+      "iso": "2026-09-15T10:19:21.188Z",
+      "action": "updated remark for SIS277CU at RIKILLAGASKADA: “No additional discounts”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:49:17",
+      "iso": "2026-09-15T10:19:17.576Z",
+      "action": "updated remark for SID-2432 at RIKILLAGASKADA: “No additional discounts”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:49:16",
+      "iso": "2026-09-15T10:19:16.691Z",
+      "action": "updated remark for PN-NI-S530ASD at RIKILLAGASKADA: “No additional discounts”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:48:43",
       "iso": "2026-09-15T10:18:43.371Z",
       "action": "updated remark for SL-VAR-90P-C at RIKILLAGASKADA: “40%”"
@@ -87422,34 +87471,6 @@
       "time": "15:42:45",
       "iso": "2026-09-15T10:12:45.639Z",
       "action": "updated remark for LF-WIN-DTO-S at THALAWA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:43:02",
-      "iso": "2026-09-15T10:13:02.045Z",
-      "action": "updated remark for UDV3618SY at RIKILLAGASKADA: “Selling Price - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:43:01",
-      "iso": "2026-09-15T10:13:01.290Z",
-      "action": "updated remark for SDV838HDVT at RIKILLAGASKADA: “Selling Price - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:42:49",
-      "iso": "2026-09-15T10:12:49.897Z",
-      "action": "updated remark for DELL3511-I5-4G1TBMX-W11SL at RIKILLAGASKADA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:42:43",
-      "iso": "2026-09-15T10:12:43.003Z",
-      "action": "updated remark for DELL-NB-I3 at RIKILLAGASKADA: “60%”"
     }
   ]
 }
