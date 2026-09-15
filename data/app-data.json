@@ -85518,6 +85518,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:59:06",
       "lastUpdated": "2026-09-15T10:29:06.028Z"
+    },
+    "SMGUA32N4010||RIKILLAGASKADA": {
+      "remark": "No additional discounts",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:59:09",
+      "lastUpdated": "2026-09-15T10:29:09.942Z"
+    },
+    "TCLED32D3000||RIKILLAGASKADA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:59:11",
+      "lastUpdated": "2026-09-15T10:29:11.874Z"
+    },
+    "TCLED32D65A||RIKILLAGASKADA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:59:16",
+      "lastUpdated": "2026-09-15T10:29:16.440Z"
     }
   },
   "showroomVisits": {
@@ -87744,6 +87765,27 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:59:16",
+      "iso": "2026-09-15T10:29:16.441Z",
+      "action": "updated remark for TCLED32D65A at RIKILLAGASKADA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:59:11",
+      "iso": "2026-09-15T10:29:11.876Z",
+      "action": "updated remark for TCLED32D3000 at RIKILLAGASKADA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:59:09",
+      "iso": "2026-09-15T10:29:09.943Z",
+      "action": "updated remark for SMGUA32N4010 at RIKILLAGASKADA: “No additional discounts”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:59:06",
@@ -88071,27 +88113,6 @@
       "time": "15:56:01",
       "iso": "2026-09-15T10:26:01.524Z",
       "action": "updated remark for FT-FPL-60001 at RIKILLAGASKADA: “No additional discounts”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:56:00",
-      "iso": "2026-09-15T10:26:00.148Z",
-      "action": "updated remark for FT-FED-35001 at RIKILLAGASKADA: “No additional discounts”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:55:59",
-      "iso": "2026-09-15T10:25:59.317Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at RIKILLAGASKADA: “No additional discounts”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:55:55",
-      "iso": "2026-09-15T10:25:55.808Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at RIKILLAGASKADA: “No additional discounts”"
     }
   ]
 }
