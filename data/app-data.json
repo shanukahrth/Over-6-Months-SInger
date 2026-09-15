@@ -84223,6 +84223,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:03:00",
       "lastUpdated": "2026-09-15T09:33:00.472Z"
+    },
+    "PN-CS-SU12XKY-8||ANURADHAPURA B": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:03:42",
+      "lastUpdated": "2026-09-15T09:33:42.061Z"
     }
   },
   "showroomVisits": {
@@ -86403,6 +86410,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "15:03:42",
+      "iso": "2026-09-15T09:33:42.063Z",
+      "action": "updated remark for PN-CS-SU12XKY-8 at ANURADHAPURA B: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "15:03:00",
       "iso": "2026-09-15T09:33:00.474Z",
       "action": "updated remark for SWM-FA70R at ANURADHAPURA B: “SOLD”"
@@ -86742,13 +86756,6 @@
       "time": "14:38:04",
       "iso": "2026-09-15T09:08:04.138Z",
       "action": "updated remark for SLE32E920 at WATTEGAMA: “Panel Damage - 90%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:37:53",
-      "iso": "2026-09-15T09:07:53.118Z",
-      "action": "updated remark for SLE32E910 at WATTEGAMA: “Panel Damage - 90%”"
     }
   ]
 }
