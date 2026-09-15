@@ -86625,9 +86625,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "LF-ECO-BDS-SHW-S||SHOMES- ANURADHAPURA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:34:11",
+      "iso": "2026-09-15T10:04:11.563Z",
+      "action": "marked LF-ECO-BDS-SHW-S at SHOMES- ANURADHAPURA as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
@@ -86970,13 +86983,6 @@
       "time": "14:49:20",
       "iso": "2026-09-15T09:19:20.097Z",
       "action": "updated remark for SMW823AY7 at ANURADHAPURA B: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:47:33",
-      "iso": "2026-09-15T09:17:33.119Z",
-      "action": "updated WATTEGAMA showroom (remark: Discounts given over the phone)"
     }
   ]
 }
