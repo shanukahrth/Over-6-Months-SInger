@@ -85133,6 +85133,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:53:28",
       "lastUpdated": "2026-09-15T10:23:28.137Z"
+    },
+    "RIYLTA-MF12V4||RIKILLAGASKADA": {
+      "remark": "Mail to DM",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:53:46",
+      "lastUpdated": "2026-09-15T10:23:46.759Z"
+    },
+    "RIYLTA-MF12V51A||RIKILLAGASKADA": {
+      "remark": "Mail to DM",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:53:49",
+      "lastUpdated": "2026-09-15T10:23:49.418Z"
     }
   },
   "showroomVisits": {
@@ -87361,6 +87375,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:53:49",
+      "iso": "2026-09-15T10:23:49.420Z",
+      "action": "updated remark for RIYLTA-MF12V51A at RIKILLAGASKADA: “Mail to DM”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:53:46",
+      "iso": "2026-09-15T10:23:46.761Z",
+      "action": "updated remark for RIYLTA-MF12V4 at RIKILLAGASKADA: “Mail to DM”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:53:28",
       "iso": "2026-09-15T10:23:28.137Z",
       "action": "updated remark for STT-200K at RIKILLAGASKADA: “80%”"
@@ -87693,20 +87721,6 @@
       "time": "15:48:19",
       "iso": "2026-09-15T10:18:19.788Z",
       "action": "updated remark for WF-PARIS-BL-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:48:06",
-      "iso": "2026-09-15T10:18:06.343Z",
-      "action": "updated remark for WF-LILY-TBL-S at THALAWA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:48:06",
-      "iso": "2026-09-15T10:18:06.653Z",
-      "action": "updated remark for PF-CAFE-NEW-RW-S at RIKILLAGASKADA: “20%”"
     }
   ]
 }
