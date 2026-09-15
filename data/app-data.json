@@ -85926,8 +85926,8 @@
     "WATTEGAMA||DIGANA": {
       "visited": "Yes",
       "visitDate": "2026-09-15",
-      "team": "",
-      "remark": "",
+      "team": "Team Central ",
+      "remark": "Discounts given over the phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-15"
     }
@@ -86334,6 +86334,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:47:33",
+      "iso": "2026-09-15T09:17:33.119Z",
+      "action": "updated WATTEGAMA showroom (remark: Discounts given over the phone)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:47:18",
       "iso": "2026-09-15T09:17:18.575Z",
       "action": "updated WATTEGAMA showroom (visitDate: 2026-09-15)"
@@ -86673,13 +86680,6 @@
       "time": "14:32:26",
       "iso": "2026-09-15T09:02:26.866Z",
       "action": "updated remark for AES-HAV-30S at WATTEGAMA: “License Expired - 10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:31:48",
-      "iso": "2026-09-15T09:01:48.905Z",
-      "action": "updated remark for WP-NEO258NF at WATTEGAMA: “25%”"
     }
   ]
 }
