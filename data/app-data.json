@@ -86300,9 +86300,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "HON-X6A-4-128-BLK||ANURADHAPURA B": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "14:45:26",
+      "iso": "2026-09-15T09:15:26.893Z",
+      "action": "marked HON-X6A-4-128-BLK at ANURADHAPURA B as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
@@ -86645,13 +86658,6 @@
       "time": "14:30:24",
       "iso": "2026-09-15T09:00:24.272Z",
       "action": "updated remark for GEO-260NF at WATTEGAMA: “Revert - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:30:08",
-      "iso": "2026-09-15T09:00:08.764Z",
-      "action": "updated remark for GEO-182S-SV at WATTEGAMA: “25%”"
     }
   ]
 }
