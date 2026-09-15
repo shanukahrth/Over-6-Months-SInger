@@ -83992,6 +83992,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:38:04",
       "lastUpdated": "2026-09-15T09:08:04.972Z"
+    },
+    "SLE32E930||WATTEGAMA": {
+      "remark": "Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:38:38",
+      "lastUpdated": "2026-09-15T09:08:38.801Z"
     }
   },
   "showroomVisits": {
@@ -86140,6 +86147,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:38:38",
+      "iso": "2026-09-15T09:08:38.802Z",
+      "action": "updated remark for SLE32E930 at WATTEGAMA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:38:28",
+      "iso": "2026-09-15T09:08:28.485Z",
+      "action": "updated remark for SLE32E930 at WATTEGAMA: “Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:38:04",
       "iso": "2026-09-15T09:08:04.973Z",
       "action": "updated remark for SLE32E920 at WATTEGAMA: “Panel Damage - 90%”"
@@ -86472,20 +86493,6 @@
       "time": "14:21:53",
       "iso": "2026-09-15T08:51:53.014Z",
       "action": "updated remark for WFL-RIO-01-S at WATTEGAMA: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:21:28",
-      "iso": "2026-09-15T08:51:28.829Z",
-      "action": "updated remark for WFL-MONACO-12-S at WATTEGAMA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:20:49",
-      "iso": "2026-09-15T08:50:49.862Z",
-      "action": "updated remark for WF-PARIS-BL-S at WATTEGAMA: “Revert - 70%”"
     }
   ]
 }
