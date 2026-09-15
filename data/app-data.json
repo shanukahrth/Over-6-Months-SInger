@@ -88009,6 +88009,14 @@
       "remark": "Discounts given over the phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-15"
+    },
+    "RIKILLAGASKADA||DIGANA": {
+      "visited": "Yes",
+      "visitDate": "2026-09-15",
+      "team": "",
+      "remark": "",
+      "updatedBy": "Rashmi",
+      "updatedDate": "2026-09-15"
     }
   },
   "soldMarks": {
@@ -88473,6 +88481,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:23:52",
+      "iso": "2026-09-15T10:53:52.035Z",
+      "action": "updated RIKILLAGASKADA showroom (visitDate: 2026-09-15)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:23:50",
+      "iso": "2026-09-15T10:53:50.115Z",
+      "action": "updated RIKILLAGASKADA showroom (visited: Yes)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:19:21",
       "iso": "2026-09-15T10:49:21.542Z",
       "action": "updated remark for WDB-FX-C at DIGANA: “No additional discounts”"
@@ -88805,20 +88827,6 @@
       "time": "16:12:17",
       "iso": "2026-09-15T10:42:17.239Z",
       "action": "updated remark for KA-TXG-DS11A at DIGANA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:12:07",
-      "iso": "2026-09-15T10:42:07.921Z",
-      "action": "updated remark for KA-LW-185A at DIGANA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:12:04",
-      "iso": "2026-09-15T10:42:04.638Z",
-      "action": "updated remark for TF-TW26-064 at DIGANA: “35%”"
     }
   ]
 }
