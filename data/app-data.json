@@ -84139,6 +84139,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:43:45",
       "lastUpdated": "2026-09-15T09:13:45.391Z"
+    },
+    "WFI-BOSHWELL-TBL-S||ANURADHAPURA B": {
+      "remark": "50%- Display",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:45:15",
+      "lastUpdated": "2026-09-15T09:15:15.997Z"
     }
   },
   "showroomVisits": {
@@ -86299,6 +86306,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
+      "time": "14:45:15",
+      "iso": "2026-09-15T09:15:15.999Z",
+      "action": "updated remark for WFI-BOSHWELL-TBL-S at ANURADHAPURA B: “50%- Display”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
       "time": "14:43:45",
       "iso": "2026-09-15T09:13:45.394Z",
       "action": "updated remark for PN-CS-U10XKH at ANURADHAPURA B: “50%”"
@@ -86638,13 +86652,6 @@
       "time": "14:30:08",
       "iso": "2026-09-15T09:00:08.764Z",
       "action": "updated remark for GEO-182S-SV at WATTEGAMA: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:29:25",
-      "iso": "2026-09-15T08:59:25.556Z",
-      "action": "updated remark for MB-SAFARI4S-BLK at WATTEGAMA: “Active SKU”"
     }
   ]
 }
