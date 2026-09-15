@@ -85910,6 +85910,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:11:50",
       "lastUpdated": "2026-09-15T10:41:50.889Z"
+    },
+    "TF-KD24-061||DIGANA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:11:57",
+      "lastUpdated": "2026-09-15T10:41:57.642Z"
+    },
+    "TF-NIDFP24-170||DIGANA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:11:59",
+      "lastUpdated": "2026-09-15T10:41:59.795Z"
     }
   },
   "showroomVisits": {
@@ -88144,6 +88158,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:11:59",
+      "iso": "2026-09-15T10:41:59.796Z",
+      "action": "updated remark for TF-NIDFP24-170 at DIGANA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:11:57",
+      "iso": "2026-09-15T10:41:57.644Z",
+      "action": "updated remark for TF-KD24-061 at DIGANA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:11:50",
       "iso": "2026-09-15T10:41:50.891Z",
       "action": "updated remark for TF-FP24-SCR342 at DIGANA: “35%”"
@@ -88476,20 +88504,6 @@
       "time": "16:00:56",
       "iso": "2026-09-15T10:30:56.857Z",
       "action": "updated remark for WP-NSP-SG-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:00:53",
-      "iso": "2026-09-15T10:30:53.385Z",
-      "action": "updated remark for WP-NSP-J-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:00:48",
-      "iso": "2026-09-15T10:30:48.865Z",
-      "action": "updated remark for WP-DI-SG-S at RIKILLAGASKADA: “70%”"
     }
   ]
 }
