@@ -86225,6 +86225,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:18:55",
       "lastUpdated": "2026-09-15T10:48:55.744Z"
+    },
+    "MID-D30-20EVN1||DIGANA": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:19:05",
+      "lastUpdated": "2026-09-15T10:49:05.078Z"
     }
   },
   "showroomVisits": {
@@ -88459,6 +88466,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:19:05",
+      "iso": "2026-09-15T10:49:05.080Z",
+      "action": "updated remark for MID-D30-20EVN1 at DIGANA: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:18:55",
       "iso": "2026-09-15T10:48:55.746Z",
       "action": "updated remark for SWM-FA70R at DIGANA: “55%”"
@@ -88798,13 +88812,6 @@
       "time": "16:11:59",
       "iso": "2026-09-15T10:41:59.796Z",
       "action": "updated remark for TF-NIDFP24-170 at DIGANA: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:11:57",
-      "iso": "2026-09-15T10:41:57.644Z",
-      "action": "updated remark for TF-KD24-061 at DIGANA: “35%”"
     }
   ]
 }
