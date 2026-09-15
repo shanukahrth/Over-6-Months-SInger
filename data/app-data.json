@@ -86197,9 +86197,22 @@
       "comment": "50%",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-10"
+    },
+    "SLE75G6E||ANURADHAPURA B": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "14:40:32",
+      "iso": "2026-09-15T09:10:32.850Z",
+      "action": "marked SLE75G6E at ANURADHAPURA B as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
@@ -86542,13 +86555,6 @@
       "time": "14:25:37",
       "iso": "2026-09-15T08:55:37.639Z",
       "action": "updated remark for MID-MJ-KM6001W at WATTEGAMA: “555”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:25:36",
-      "iso": "2026-09-15T08:55:36.347Z",
-      "action": "updated remark for MID-MJ-KM6001W at WATTEGAMA: “55%”"
     }
   ]
 }
