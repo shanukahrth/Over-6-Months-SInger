@@ -85088,7 +85088,7 @@
       "visited": "Yes",
       "visitDate": "2026-09-15",
       "team": "Team Central",
-      "remark": "",
+      "remark": "Discounts given over the phone",
       "updatedBy": "Rashmi",
       "updatedDate": "2026-09-15"
     }
@@ -85477,6 +85477,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:38:28",
+      "iso": "2026-09-15T07:08:28.347Z",
+      "action": "updated DIGANA - B showroom (remark: Discounts given over the phone)"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:38:16",
       "iso": "2026-09-15T07:08:16.556Z",
       "action": "updated DIGANA - B showroom (team: Team Central)"
@@ -85815,13 +85822,6 @@
       "date": "2026-09-15",
       "time": "12:10:46",
       "iso": "2026-09-15T06:40:46.307Z",
-      "action": "updated remark for SL-4MIXGR at KUNDASALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:10:44",
-      "iso": "2026-09-15T06:40:44.797Z",
       "action": "updated remark for SL-4MIXGR at KUNDASALE: “Damaged - 80%”"
     }
   ]
