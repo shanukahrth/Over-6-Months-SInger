@@ -85399,6 +85399,41 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:57:19",
       "lastUpdated": "2026-09-15T10:27:19.731Z"
+    },
+    "SLE32F490||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:00",
+      "lastUpdated": "2026-09-15T10:28:00.816Z"
+    },
+    "SKY-24E2A||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:02",
+      "lastUpdated": "2026-09-15T10:28:02.900Z"
+    },
+    "SKY-32E2||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:13",
+      "lastUpdated": "2026-09-15T10:28:13.662Z"
+    },
+    "SLE24E510A||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:15",
+      "lastUpdated": "2026-09-15T10:28:15.129Z"
+    },
+    "SLE24E610||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:16",
+      "lastUpdated": "2026-09-15T10:28:16.507Z"
     }
   },
   "showroomVisits": {
@@ -87625,6 +87660,41 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:58:16",
+      "iso": "2026-09-15T10:28:16.508Z",
+      "action": "updated remark for SLE24E610 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:58:15",
+      "iso": "2026-09-15T10:28:15.131Z",
+      "action": "updated remark for SLE24E510A at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:58:13",
+      "iso": "2026-09-15T10:28:13.664Z",
+      "action": "updated remark for SKY-32E2 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:58:02",
+      "iso": "2026-09-15T10:28:02.901Z",
+      "action": "updated remark for SKY-24E2A at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:58:00",
+      "iso": "2026-09-15T10:28:00.818Z",
+      "action": "updated remark for SLE32F490 at RIKILLAGASKADA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:57:58",
@@ -87938,41 +88008,6 @@
       "time": "15:53:09",
       "iso": "2026-09-15T10:23:09.518Z",
       "action": "updated remark for PCP75-SS at RIKILLAGASKADA: “75%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:53:05",
-      "iso": "2026-09-15T10:23:05.784Z",
-      "action": "updated remark for PCP30 at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:52:53",
-      "iso": "2026-09-15T10:22:53.879Z",
-      "action": "updated remark for SIN-MH51SW at THALAWA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:52:20",
-      "iso": "2026-09-15T10:22:20.177Z",
-      "action": "updated remark for SLE40D600A at THALAWA: “Exchange sold”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:53",
-      "iso": "2026-09-15T10:22:53.037Z",
-      "action": "updated remark for SMW823AY7 at RIKILLAGASKADA: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:52:46",
-      "iso": "2026-09-15T10:22:46.109Z",
-      "action": "updated remark for KA-PRISMA1.7SS at RIKILLAGASKADA: “60%”"
     }
   ]
 }
