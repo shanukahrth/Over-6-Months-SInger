@@ -85861,6 +85861,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:10:53",
       "lastUpdated": "2026-09-15T10:40:53.463Z"
+    },
+    "TF-GS-SPKT302||DIGANA": {
+      "remark": "No additional discounts",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:11:19",
+      "lastUpdated": "2026-09-15T10:41:19.003Z"
     }
   },
   "showroomVisits": {
@@ -88095,6 +88102,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:11:19",
+      "iso": "2026-09-15T10:41:19.004Z",
+      "action": "updated remark for TF-GS-SPKT302 at DIGANA: “No additional discounts”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:10:53",
       "iso": "2026-09-15T10:40:53.464Z",
       "action": "updated remark for SED-2432A at DIGANA: “50%”"
@@ -88434,13 +88448,6 @@
       "time": "16:00:08",
       "iso": "2026-09-15T10:30:08.557Z",
       "action": "updated remark for CLOTHLINE-35PVC at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "16:00:00",
-      "iso": "2026-09-15T10:30:00.938Z",
-      "action": "updated remark for SAS-12VL at THALAWA: “85%”"
     }
   ]
 }
