@@ -82935,6 +82935,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:01:52",
       "lastUpdated": "2026-09-15T06:31:52.632Z"
+    },
+    "LF-ORBIT-CT-WNG-S||KUNDASALE": {
+      "remark": "Unsellable",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:02:07",
+      "lastUpdated": "2026-09-15T06:32:07.912Z"
     }
   },
   "showroomVisits": {
@@ -85035,6 +85042,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:02:07",
+      "iso": "2026-09-15T06:32:07.913Z",
+      "action": "updated remark for LF-ORBIT-CT-WNG-S at KUNDASALE: “Unsellable”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:01:52",
       "iso": "2026-09-15T06:31:52.633Z",
       "action": "updated remark for WF-RIVER-75X60-S at KUNDASALE: “Display - 50%”"
@@ -85374,13 +85388,6 @@
       "time": "15:45:14",
       "iso": "2026-09-14T10:15:14.945Z",
       "action": "updated remark for WF-ROME-03-S at DIGANA - B: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:45:09",
-      "iso": "2026-09-14T10:15:09.652Z",
-      "action": "updated remark for WF-ROME-03-S at DIGANA - B: “60%”"
     }
   ]
 }
