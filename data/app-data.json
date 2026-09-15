@@ -82977,6 +82977,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:04:29",
       "lastUpdated": "2026-09-15T06:34:29.080Z"
+    },
+    "WF-DUNE-01-S||KUNDASALE": {
+      "remark": "Discolor - 60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:04:46",
+      "lastUpdated": "2026-09-15T06:34:46.774Z"
     }
   },
   "showroomVisits": {
@@ -85077,6 +85084,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:04:46",
+      "iso": "2026-09-15T06:34:46.775Z",
+      "action": "updated remark for WF-DUNE-01-S at KUNDASALE: “Discolor - 60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:04:29",
       "iso": "2026-09-15T06:34:29.081Z",
       "action": "updated remark for PF-MONDY-BLUE at KUNDASALE: “Active SKU - 10%”"
@@ -85416,13 +85430,6 @@
       "time": "15:47:58",
       "iso": "2026-09-14T10:17:58.409Z",
       "action": "updated remark for SWH-118EP-D at DIGANA - B: “Dummy”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:47:52",
-      "iso": "2026-09-14T10:17:52.261Z",
-      "action": "updated remark for SWH-118E at DIGANA - B: “Reported”"
     }
   ]
 }
