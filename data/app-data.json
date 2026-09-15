@@ -83698,6 +83698,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:20:49",
       "lastUpdated": "2026-09-15T08:50:49.861Z"
+    },
+    "WFL-MONACO-12-S||WATTEGAMA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:21:28",
+      "lastUpdated": "2026-09-15T08:51:28.827Z"
     }
   },
   "showroomVisits": {
@@ -85846,6 +85853,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:21:28",
+      "iso": "2026-09-15T08:51:28.829Z",
+      "action": "updated remark for WFL-MONACO-12-S at WATTEGAMA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:20:49",
       "iso": "2026-09-15T08:50:49.862Z",
       "action": "updated remark for WF-PARIS-BL-S at WATTEGAMA: “Revert - 70%”"
@@ -86185,13 +86199,6 @@
       "time": "12:45:33",
       "iso": "2026-09-15T07:15:33.895Z",
       "action": "updated remark for GEO-182S-SV at DIGANA - B: “25%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:44:03",
-      "iso": "2026-09-15T07:14:03.908Z",
-      "action": "updated remark for U-HRW-S11 at DIGANA - B: “Damaged - 60%”"
     }
   ]
 }
