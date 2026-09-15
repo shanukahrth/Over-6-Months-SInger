@@ -82839,11 +82839,11 @@
       "lastUpdated": "2026-09-15T06:25:41.399Z"
     },
     "DVP-SR370||KUNDASALE": {
-      "remark": "MOP - 2,000",
+      "remark": "Selling Price - 2,000",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-15",
-      "commentTime": "11:56:03",
-      "lastUpdated": "2026-09-15T06:26:03.716Z"
+      "commentTime": "11:56:33",
+      "lastUpdated": "2026-09-15T06:26:33.217Z"
     }
   },
   "showroomVisits": {
@@ -84944,6 +84944,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "11:56:33",
+      "iso": "2026-09-15T06:26:33.218Z",
+      "action": "updated remark for DVP-SR370 at KUNDASALE: “Selling Price - 2,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "11:56:03",
       "iso": "2026-09-15T06:26:03.717Z",
       "action": "updated remark for DVP-SR370 at KUNDASALE: “MOP - 2,000”"
@@ -85283,13 +85290,6 @@
       "time": "15:34:51",
       "iso": "2026-09-14T10:04:51.003Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at DIGANA - B: “MOP - 30,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:34:21",
-      "iso": "2026-09-14T10:04:21.359Z",
-      "action": "updated remark for H-RAPG012HFEOE at DIGANA - B: “50%”"
     }
   ]
 }
