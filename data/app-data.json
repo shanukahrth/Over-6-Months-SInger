@@ -84055,6 +84055,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:40:20",
       "lastUpdated": "2026-09-15T09:10:20.516Z"
+    },
+    "TCLED32D3000||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:40:29",
+      "lastUpdated": "2026-09-15T09:10:29.512Z"
     }
   },
   "showroomVisits": {
@@ -86207,6 +86214,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:40:29",
+      "iso": "2026-09-15T09:10:29.514Z",
+      "action": "updated remark for TCLED32D3000 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "14:40:32",
@@ -86548,13 +86562,6 @@
       "time": "14:25:41",
       "iso": "2026-09-15T08:55:41.972Z",
       "action": "updated remark for MID-MJ-KM6001W at WATTEGAMA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:25:37",
-      "iso": "2026-09-15T08:55:37.639Z",
-      "action": "updated remark for MID-MJ-KM6001W at WATTEGAMA: “555”"
     }
   ]
 }
