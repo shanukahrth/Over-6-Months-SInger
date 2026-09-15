@@ -83873,6 +83873,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:30:45",
       "lastUpdated": "2026-09-15T09:00:45.724Z"
+    },
+    "SL-ECO55-SV||WATTEGAMA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:31:01",
+      "lastUpdated": "2026-09-15T09:01:01.946Z"
     }
   },
   "showroomVisits": {
@@ -86021,6 +86028,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:31:01",
+      "iso": "2026-09-15T09:01:01.948Z",
+      "action": "updated remark for SL-ECO55-SV at WATTEGAMA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:30:45",
       "iso": "2026-09-15T09:00:45.725Z",
       "action": "updated remark for SL-ECO192-TG at WATTEGAMA: “25%”"
@@ -86360,13 +86374,6 @@
       "time": "14:13:45",
       "iso": "2026-09-15T08:43:45.017Z",
       "action": "updated remark for LF-LEO-12022-WNG-S at WATTEGAMA: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:13:09",
-      "iso": "2026-09-15T08:43:09.277Z",
-      "action": "updated remark for GRIP-8573 at WATTEGAMA: “Shop use”"
     }
   ]
 }
