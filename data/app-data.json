@@ -85658,6 +85658,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:04:30",
       "lastUpdated": "2026-09-15T10:34:30.801Z"
+    },
+    "SYM-HIC-26I||DIGANA": {
+      "remark": "75%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:08:13",
+      "lastUpdated": "2026-09-15T10:38:13.320Z"
+    },
+    "DUM - SMGAR50F24D1J||DIGANA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:08:15",
+      "lastUpdated": "2026-09-15T10:38:15.435Z"
+    },
+    "H-RSQG018MFEOE||DIGANA": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:08:19",
+      "lastUpdated": "2026-09-15T10:38:19.513Z"
     }
   },
   "showroomVisits": {
@@ -87890,6 +87911,27 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:08:19",
+      "iso": "2026-09-15T10:38:19.515Z",
+      "action": "updated remark for H-RSQG018MFEOE at DIGANA: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:08:15",
+      "iso": "2026-09-15T10:38:15.437Z",
+      "action": "updated remark for DUM - SMGAR50F24D1J at DIGANA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:08:13",
+      "iso": "2026-09-15T10:38:13.322Z",
+      "action": "updated remark for SYM-HIC-26I at DIGANA: “75%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "16:04:55",
@@ -88217,27 +88259,6 @@
       "time": "15:57:19",
       "iso": "2026-09-15T10:27:19.732Z",
       "action": "updated remark for MHC-M40D at THALAWA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:57:00",
-      "iso": "2026-09-15T10:27:00.321Z",
-      "action": "updated remark for SLE43G890 at THALAWA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:57:56",
-      "iso": "2026-09-15T10:27:56.230Z",
-      "action": "updated remark for KLV-32R326D at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:57:53",
-      "iso": "2026-09-15T10:27:53.054Z",
-      "action": "updated remark for KLV-32R306C at RIKILLAGASKADA: “70%”"
     }
   ]
 }
