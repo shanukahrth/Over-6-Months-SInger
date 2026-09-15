@@ -83880,6 +83880,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:31:01",
       "lastUpdated": "2026-09-15T09:01:01.946Z"
+    },
+    "SN-SMI-285||WATTEGAMA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:31:33",
+      "lastUpdated": "2026-09-15T09:01:33.697Z"
     }
   },
   "showroomVisits": {
@@ -86028,6 +86035,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:31:33",
+      "iso": "2026-09-15T09:01:33.698Z",
+      "action": "updated remark for SN-SMI-285 at WATTEGAMA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:31:01",
       "iso": "2026-09-15T09:01:01.948Z",
       "action": "updated remark for SL-ECO55-SV at WATTEGAMA: “25%”"
@@ -86367,13 +86381,6 @@
       "time": "14:14:29",
       "iso": "2026-09-15T08:44:29.836Z",
       "action": "updated remark for LF-BUDGET-BDQ-AGO-S at WATTEGAMA: “Display - 50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:13:45",
-      "iso": "2026-09-15T08:43:45.017Z",
-      "action": "updated remark for LF-LEO-12022-WNG-S at WATTEGAMA: “Display - 50%”"
     }
   ]
 }
