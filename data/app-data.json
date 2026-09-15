@@ -86577,9 +86577,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "GEO-182S-BU1||ANURADHAPURA B": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-15"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "15:15:35",
+      "iso": "2026-09-15T09:45:35.117Z",
+      "action": "marked GEO-182S-BU1 at ANURADHAPURA B as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
@@ -86922,13 +86935,6 @@
       "time": "14:43:28",
       "iso": "2026-09-15T09:13:28.999Z",
       "action": "updated remark for DELL3530-I7-8GB512-SIL at ANURADHAPURA B: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "14:43:10",
-      "iso": "2026-09-15T09:13:10.387Z",
-      "action": "updated remark for PN-CS-U13XKH at ANURADHAPURA B: “55%”"
     }
   ]
 }
