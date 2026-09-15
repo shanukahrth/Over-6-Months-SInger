@@ -83040,6 +83040,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:07:35",
       "lastUpdated": "2026-09-15T06:37:35.880Z"
+    },
+    "BD-AF400-B5||KUNDASALE": {
+      "remark": "Display - 50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:08:11",
+      "lastUpdated": "2026-09-15T06:38:11.034Z"
     }
   },
   "showroomVisits": {
@@ -85140,6 +85147,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:08:11",
+      "iso": "2026-09-15T06:38:11.036Z",
+      "action": "updated remark for BD-AF400-B5 at KUNDASALE: “Display - 50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:07:35",
       "iso": "2026-09-15T06:37:35.881Z",
       "action": "updated remark for TF-K1330404 at KUNDASALE: “Damage - 80%”"
@@ -85479,13 +85493,6 @@
       "time": "15:53:37",
       "iso": "2026-09-14T10:23:37.846Z",
       "action": "updated remark for SIN-RFC-1819 at DIGANA - B: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:53:27",
-      "iso": "2026-09-14T10:23:27.678Z",
-      "action": "updated remark for SIN-RFC-2058 at DIGANA - B: “Active SKU”"
     }
   ]
 }
