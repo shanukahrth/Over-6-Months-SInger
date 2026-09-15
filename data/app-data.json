@@ -84944,6 +84944,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:50:07",
       "lastUpdated": "2026-09-15T10:20:07.710Z"
+    },
+    "TF-IGP26-119||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:50:15",
+      "lastUpdated": "2026-09-15T10:20:15.146Z"
+    },
+    "TF-IT30-169||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:50:23",
+      "lastUpdated": "2026-09-15T10:20:23.364Z"
     }
   },
   "showroomVisits": {
@@ -87164,6 +87178,27 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:50:23",
+      "iso": "2026-09-15T10:20:23.365Z",
+      "action": "updated remark for TF-IT30-169 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:50:15",
+      "iso": "2026-09-15T10:20:15.149Z",
+      "action": "updated remark for TF-IGP26-119 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:50:09",
+      "iso": "2026-09-15T10:20:09.616Z",
+      "action": "updated remark for TF-IGP26-119 at RIKILLAGASKADA: “`70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:50:07",
@@ -87491,27 +87526,6 @@
       "time": "15:45:42",
       "iso": "2026-09-15T10:15:42.597Z",
       "action": "updated remark for OF-COM-T-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:45:55",
-      "iso": "2026-09-15T10:15:55.205Z",
-      "action": "updated remark for MC8280 at THALAWA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:45:25",
-      "iso": "2026-09-15T10:15:25.306Z",
-      "action": "updated remark for PN-DH-3JL2WH at THALAWA: “20,000 Special price”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:45:25",
-      "iso": "2026-09-15T10:15:25.929Z",
-      "action": "updated remark for PN-F-407XNBAMKH at RIKILLAGASKADA: “Active SKU”"
     }
   ]
 }
