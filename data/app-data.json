@@ -83929,6 +83929,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:34:08",
       "lastUpdated": "2026-09-15T09:04:08.289Z"
+    },
+    "SKY32TB1000||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:34:42",
+      "lastUpdated": "2026-09-15T09:04:42.678Z"
     }
   },
   "showroomVisits": {
@@ -86077,6 +86084,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:34:42",
+      "iso": "2026-09-15T09:04:42.679Z",
+      "action": "updated remark for SKY32TB1000 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:34:08",
       "iso": "2026-09-15T09:04:08.289Z",
       "action": "updated remark for SLE43G890 at WATTEGAMA: “2 - Shop use display / 1 - Reported”"
@@ -86416,13 +86430,6 @@
       "time": "14:17:39",
       "iso": "2026-09-15T08:47:39.479Z",
       "action": "updated remark for WF-PRESTON-DTO-S at WATTEGAMA: “Damaged - 70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:17:17",
-      "iso": "2026-09-15T08:47:17.482Z",
-      "action": "updated remark for LF-PLUTOTV-S at WATTEGAMA: “Damaged - 80%”"
     }
   ]
 }
