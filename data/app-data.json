@@ -82963,6 +82963,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:03:40",
       "lastUpdated": "2026-09-15T06:33:40.998Z"
+    },
+    "PF-CAFE-NEW-WF-S||KUNDASALE": {
+      "remark": "Active SKU - 10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:04:19",
+      "lastUpdated": "2026-09-15T06:34:19.323Z"
+    },
+    "PF-MONDY-BLUE||KUNDASALE": {
+      "remark": "Active SKU - 10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:04:29",
+      "lastUpdated": "2026-09-15T06:34:29.080Z"
     }
   },
   "showroomVisits": {
@@ -85063,6 +85077,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:04:29",
+      "iso": "2026-09-15T06:34:29.081Z",
+      "action": "updated remark for PF-MONDY-BLUE at KUNDASALE: “Active SKU - 10%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:04:19",
+      "iso": "2026-09-15T06:34:19.325Z",
+      "action": "updated remark for PF-CAFE-NEW-WF-S at KUNDASALE: “Active SKU - 10%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:03:40",
       "iso": "2026-09-15T06:33:40.999Z",
       "action": "updated remark for LF-PODIUM-MWNT-S at KUNDASALE: “DP Education”"
@@ -85395,20 +85423,6 @@
       "time": "15:47:52",
       "iso": "2026-09-14T10:17:52.261Z",
       "action": "updated remark for SWH-118E at DIGANA - B: “Reported”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:46:55",
-      "iso": "2026-09-14T10:16:55.908Z",
-      "action": "updated remark for PF-CAFE-NEW-WF-S at DIGANA - B: “10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:46:33",
-      "iso": "2026-09-14T10:16:33.430Z",
-      "action": "updated remark for PF-FLEXI-NKL-MW-S at DIGANA - B: “Active SKU - 25%”"
     }
   ]
 }
