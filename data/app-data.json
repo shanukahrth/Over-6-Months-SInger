@@ -83894,6 +83894,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:31:48",
       "lastUpdated": "2026-09-15T09:01:48.904Z"
+    },
+    "AES-HAV-30S||WATTEGAMA": {
+      "remark": "License Expired - 10%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:32:26",
+      "lastUpdated": "2026-09-15T09:02:26.865Z"
+    },
+    "BES-CRS-51||WATTEGAMA": {
+      "remark": "License Expired - 15%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:32:30",
+      "lastUpdated": "2026-09-15T09:02:30.034Z"
     }
   },
   "showroomVisits": {
@@ -86042,6 +86056,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:32:30",
+      "iso": "2026-09-15T09:02:30.035Z",
+      "action": "updated remark for BES-CRS-51 at WATTEGAMA: “License Expired - 15%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:32:26",
+      "iso": "2026-09-15T09:02:26.866Z",
+      "action": "updated remark for AES-HAV-30S at WATTEGAMA: “License Expired - 10%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:31:48",
       "iso": "2026-09-15T09:01:48.905Z",
       "action": "updated remark for WP-NEO258NF at WATTEGAMA: “25%”"
@@ -86374,20 +86402,6 @@
       "time": "14:16:08",
       "iso": "2026-09-15T08:46:08.363Z",
       "action": "updated remark for LF-GALANT-CLM-S at WATTEGAMA: “Unsellable - WH Issue”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:15:41",
-      "iso": "2026-09-15T08:45:41.403Z",
-      "action": "updated remark for LF-GALANT-CLM-S at WATTEGAMA: “Unsellable”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:15:09",
-      "iso": "2026-09-15T08:45:09.409Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at WATTEGAMA: “Display - 50%”"
     }
   ]
 }
