@@ -313,6 +313,8 @@ window.Shared = (function () {
       const dept = document.getElementById("login-dept").value.trim();
       const roleEl = document.getElementById("login-role");
       const role = roleEl ? roleEl.value : "admin";
+      const periodEl = document.getElementById("login-period");
+      const period = periodEl && periodEl.value ? periodEl.value : "";
       const rawToken = document.getElementById("login-token").value.trim();
       // A real GitHub PAT only ever contains letters, digits, and underscores.
       // Copy-pasting (especially from Word, some chat apps, or PDFs) can
@@ -358,7 +360,7 @@ window.Shared = (function () {
       try {
         await GitHubService.testConnection({ owner, repo, branch, token });
         GitHubService.setConfig({ owner, repo, branch, token });
-        setSession({ name, dept, role, loggedInAt: new Date().toISOString() });
+        setSession({ name, dept, role, period, loggedInAt: new Date().toISOString() });
         document.getElementById("login-token").value = "";
         document.getElementById("login-admin-password").value = "";
         showScreen("appShell");
@@ -383,6 +385,8 @@ window.Shared = (function () {
         const dept = document.getElementById("login-dept-fallback").value.trim();
         const roleEl2 = document.getElementById("login-role-fallback");
         const role = roleEl2 ? roleEl2.value : "admin";
+        const periodEl2 = document.getElementById("login-period-fallback");
+        const period = periodEl2 && periodEl2.value ? periodEl2.value : "";
         if (!name) return;
         if (role === "admin" && window.OVER6_ADMIN_PASSWORD) {
           const pwField = document.getElementById("login-admin-password-fallback");
@@ -393,7 +397,7 @@ window.Shared = (function () {
           }
           pwField.value = "";
         }
-        setSession({ name, dept, role, loggedInAt: new Date().toISOString() });
+        setSession({ name, dept, role, period, loggedInAt: new Date().toISOString() });
         showScreen("appShell");
         await bootApp();
       });
@@ -415,6 +419,21 @@ window.Shared = (function () {
     }
     wireAdminPasswordVisibility("login-role", "adminPasswordField");
     wireAdminPasswordVisibility("login-role-fallback", "adminPasswordFieldFallback");
+
+    // Populate the Report Period picker from config.js. If no periods are
+    // configured, hide the field entirely and the app falls back to the
+    // single-file behaviour (just Inventory.xlsx/Inventory.csv).
+    function wireReportPeriodPicker(selectId, fieldId) {
+      const select = document.getElementById(selectId);
+      const field = document.getElementById(fieldId);
+      if (!select || !field) return;
+      const periods = Array.isArray(window.OVER6_REPORT_PERIODS) ? window.OVER6_REPORT_PERIODS : [];
+      if (!periods.length) { field.classList.add("hidden"); return; }
+      select.innerHTML = periods.map((p) => `<option value="${escapeHtml(p.id)}">${escapeHtml(p.label)}</option>`).join("");
+      field.classList.remove("hidden");
+    }
+    wireReportPeriodPicker("login-period", "reportPeriodField");
+    wireReportPeriodPicker("login-period-fallback", "reportPeriodFieldFallback");
   }
 
   function initAuthGate() {
@@ -553,20 +572,44 @@ window.Shared = (function () {
     return normalizeSheetRows(json);
   }
 
+  function currentPeriodConfig() {
+    const periods = Array.isArray(window.OVER6_REPORT_PERIODS) ? window.OVER6_REPORT_PERIODS : [];
+    if (!periods.length) return null;
+    const session = getSession();
+    const selectedId = session && session.period;
+    return periods.find((p) => p.id === selectedId) || periods[0];
+  }
+
+  function inventoryCandidatePaths() {
+    const period = currentPeriodConfig();
+    if (period) {
+      // Period-specific file (e.g. Inventory_August2026.xlsx). Still checks
+      // both root and data/, and both csv/xlsx, same as the default file.
+      return [
+        `${period.fileBase}.csv`, `data/${period.fileBase}.csv`,
+        `${period.fileBase}.xlsx`, `data/${period.fileBase}.xlsx`
+      ];
+    }
+    // No periods configured — original single-file behaviour.
+    return ["Inventory.csv", "data/Inventory.csv", "Inventory.xlsx", "data/Inventory.xlsx"];
+  }
+
   async function loadInventoryFromGitHub(showSpinner) {
     if (showSpinner) setLoading(true, "Loading inventory data from GitHub\u2026");
     // Prefer a CSV master file if one exists (much smaller download, faster to
     // parse) — falls back to the .xlsx workbook if no CSV is present, so
     // nothing breaks for repos that keep using the original Excel file.
-    const { sha, buffer, path } = await GitHubService.getBinaryFromCandidates([
-      "Inventory.csv", "data/Inventory.csv",
-      "Inventory.xlsx", "data/Inventory.xlsx"
-    ]);
+    const candidates = inventoryCandidatePaths();
+    const { sha, buffer, path } = await GitHubService.getBinaryFromCandidates(candidates);
     state.inventorySha = sha;
     if (!buffer) {
       state.rawData = [];
-      throw new Error('Could not find "Inventory.csv" or "Inventory.xlsx" in your repository (checked the repo root and the "data/" folder). ' +
-        "Make sure one of these exists, is spelled exactly like that, and that the branch you connected to is correct.");
+      const period = currentPeriodConfig();
+      const namesTried = candidates.join(", ");
+      throw new Error(
+        (period ? `Could not find the "${period.label}" inventory file (${period.fileBase}.csv or .xlsx). ` : 'Could not find "Inventory.csv" or "Inventory.xlsx" in your repository. ') +
+        `Checked: ${namesTried}. Make sure the file exists, is spelled exactly like that, and that the branch you connected to is correct.`
+      );
     }
     state.inventoryPath = path;
     const workbook = XLSX.read(buffer, { type: "array" });
@@ -577,7 +620,9 @@ window.Shared = (function () {
   function updateDataMeta() {
     const el = document.getElementById("dataMeta");
     const when = state.lastLoadedAt ? state.lastLoadedAt.toLocaleString("en-GB") : "";
-    el.textContent = `Loaded ${when} \u00b7 ${state.rawData.length.toLocaleString()} rows`;
+    const period = currentPeriodConfig();
+    const periodPrefix = period ? `${period.label} \u00b7 ` : "";
+    el.textContent = `${periodPrefix}Loaded ${when} \u00b7 ${state.rawData.length.toLocaleString()} rows`;
   }
 
   /* ======================================================================
@@ -1116,14 +1161,17 @@ window.Shared = (function () {
         if (!newRows.length) throw new Error("No usable rows found in the uploaded file.");
 
         // Target path is based on the UPLOADED file's own extension, kept in
-        // the same folder as whatever was previously loaded (root or data/).
-        // This avoids writing e.g. binary .xlsx bytes into a path GitHub/the
-        // app expects to be plain-text .csv (or vice versa) if you ever
-        // switch formats.
+        // the same folder AND with the same base filename as whatever was
+        // previously loaded (e.g. "Inventory_July2026", not just generic
+        // "Inventory" — important when a Report Period is active, otherwise
+        // an upload while viewing "July 2026" would silently land on a
+        // generic Inventory.xlsx instead of Inventory_July2026.xlsx).
         const uploadExt = /\.csv$/i.test(file.name) ? "csv" : "xlsx";
         const prevPath = state.inventoryPath || "Inventory.xlsx";
         const folder = prevPath.includes("/") ? prevPath.slice(0, prevPath.lastIndexOf("/") + 1) : "";
-        const invPath = `${folder}Inventory.${uploadExt}`;
+        const prevFilename = prevPath.split("/").pop();
+        const baseName = prevFilename.includes(".") ? prevFilename.slice(0, prevFilename.lastIndexOf(".")) : prevFilename;
+        const invPath = `${folder}${baseName}.${uploadExt}`;
 
         setLoading(true, `Backing up current ${prevPath.split("/").pop()} on GitHub\u2026`);
         // Fetch the current file's raw base64 to copy it verbatim as a backup
