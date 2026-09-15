@@ -85966,6 +85966,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:12:39",
       "lastUpdated": "2026-09-15T10:42:39.100Z"
+    },
+    "SW-SK22110GRYN||DIGANA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:12:46",
+      "lastUpdated": "2026-09-15T10:42:46.912Z"
     }
   },
   "showroomVisits": {
@@ -88200,6 +88207,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:12:46",
+      "iso": "2026-09-15T10:42:46.914Z",
+      "action": "updated remark for SW-SK22110GRYN at DIGANA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:12:39",
       "iso": "2026-09-15T10:42:39.102Z",
       "action": "updated remark for SW-SD10410GRY at DIGANA: “70%”"
@@ -88539,13 +88553,6 @@
       "time": "16:03:39",
       "iso": "2026-09-15T10:33:39.754Z",
       "action": "marked WP-SS-SUB1-S at THALAWA as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "16:03:37",
-      "iso": "2026-09-15T10:33:37.719Z",
-      "action": "updated remark for WP-SS-SUB1-S at THALAWA: “SOLD”"
     }
   ]
 }
