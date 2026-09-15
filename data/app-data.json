@@ -85819,6 +85819,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:10:28",
       "lastUpdated": "2026-09-15T10:40:28.732Z"
+    },
+    "WFL-RIO-02-S||DIGANA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:10:34",
+      "lastUpdated": "2026-09-15T10:40:34.348Z"
+    },
+    "SHT-PHT505L||DIGANA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:10:37",
+      "lastUpdated": "2026-09-15T10:40:37.246Z"
     }
   },
   "showroomVisits": {
@@ -88053,6 +88067,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:10:37",
+      "iso": "2026-09-15T10:40:37.247Z",
+      "action": "updated remark for SHT-PHT505L at DIGANA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:10:34",
+      "iso": "2026-09-15T10:40:34.349Z",
+      "action": "updated remark for WFL-RIO-02-S at DIGANA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:10:28",
       "iso": "2026-09-15T10:40:28.733Z",
       "action": "updated remark for WF-PARIS-BL-S at DIGANA: “50%”"
@@ -88385,20 +88413,6 @@
       "time": "15:59:16",
       "iso": "2026-09-15T10:29:16.441Z",
       "action": "updated remark for TCLED32D65A at RIKILLAGASKADA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:59:11",
-      "iso": "2026-09-15T10:29:11.876Z",
-      "action": "updated remark for TCLED32D3000 at RIKILLAGASKADA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:59:09",
-      "iso": "2026-09-15T10:29:09.943Z",
-      "action": "updated remark for SMGUA32N4010 at RIKILLAGASKADA: “No additional discounts”"
     }
   ]
 }
