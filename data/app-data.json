@@ -85063,6 +85063,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:52:29",
       "lastUpdated": "2026-09-15T10:22:29.507Z"
+    },
+    "MID-BL1190||RIKILLAGASKADA": {
+      "remark": "50%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:52:36",
+      "lastUpdated": "2026-09-15T10:22:36.536Z"
+    },
+    "RMG-3JAR550||RIKILLAGASKADA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:52:39",
+      "lastUpdated": "2026-09-15T10:22:39.064Z"
     }
   },
   "showroomVisits": {
@@ -87291,6 +87305,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:52:39",
+      "iso": "2026-09-15T10:22:39.065Z",
+      "action": "updated remark for RMG-3JAR550 at RIKILLAGASKADA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:52:36",
+      "iso": "2026-09-15T10:22:36.538Z",
+      "action": "updated remark for MID-BL1190 at RIKILLAGASKADA: “50%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:52:29",
       "iso": "2026-09-15T10:22:29.508Z",
       "action": "updated remark for KA-ELITE at RIKILLAGASKADA: “60%”"
@@ -87623,20 +87651,6 @@
       "time": "15:47:06",
       "iso": "2026-09-15T10:17:06.859Z",
       "action": "updated remark for PF-GRID-1D-CR-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:47:05",
-      "iso": "2026-09-15T10:17:05.432Z",
-      "action": "updated remark for PF-4DWR-BU-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:47:03",
-      "iso": "2026-09-15T10:17:03.407Z",
-      "action": "updated remark for LF-WIN-S-CKT-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
