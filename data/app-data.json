@@ -85959,6 +85959,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:12:25",
       "lastUpdated": "2026-09-15T10:42:25.786Z"
+    },
+    "SW-SD10410GRY||DIGANA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:12:39",
+      "lastUpdated": "2026-09-15T10:42:39.100Z"
     }
   },
   "showroomVisits": {
@@ -88193,6 +88200,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:12:39",
+      "iso": "2026-09-15T10:42:39.102Z",
+      "action": "updated remark for SW-SD10410GRY at DIGANA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:12:25",
       "iso": "2026-09-15T10:42:25.787Z",
       "action": "updated remark for MID-MJ-KM6001W at DIGANA: “55%”"
@@ -88532,13 +88546,6 @@
       "time": "16:03:37",
       "iso": "2026-09-15T10:33:37.719Z",
       "action": "updated remark for WP-SS-SUB1-S at THALAWA: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "16:03:20",
-      "iso": "2026-09-15T10:33:20.090Z",
-      "action": "updated remark for NVC990T at THALAWA: “65%”"
     }
   ]
 }
