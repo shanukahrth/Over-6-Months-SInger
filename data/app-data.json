@@ -83754,6 +83754,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:24:29",
       "lastUpdated": "2026-09-15T08:54:29.976Z"
+    },
+    "CS-JANALIPA||WATTEGAMA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:25:22",
+      "lastUpdated": "2026-09-15T08:55:22.750Z"
+    },
+    "CS-EZTURBO||WATTEGAMA": {
+      "remark": "Damaged - 80%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:25:23",
+      "lastUpdated": "2026-09-15T08:55:23.621Z"
     }
   },
   "showroomVisits": {
@@ -85902,6 +85916,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:25:23",
+      "iso": "2026-09-15T08:55:23.621Z",
+      "action": "updated remark for CS-EZTURBO at WATTEGAMA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:25:22",
+      "iso": "2026-09-15T08:55:22.751Z",
+      "action": "updated remark for CS-JANALIPA at WATTEGAMA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:24:29",
       "iso": "2026-09-15T08:54:29.976Z",
       "action": "updated remark for NCPO-DC200 at WATTEGAMA: “45%”"
@@ -86234,20 +86262,6 @@
       "time": "12:48:29",
       "iso": "2026-09-15T07:18:29.525Z",
       "action": "updated remark for V-PMASTER-30 at DIGANA - B: “WHRTN”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:48:10",
-      "iso": "2026-09-15T07:18:10.200Z",
-      "action": "updated remark for BES-CRS-51 at DIGANA - B: “Display - 15%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:47:39",
-      "iso": "2026-09-15T07:17:39.013Z",
-      "action": "updated remark for WP-NEO258NF at DIGANA - B: “25%”"
     }
   ]
 }
