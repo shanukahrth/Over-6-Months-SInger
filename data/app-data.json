@@ -84629,6 +84629,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:44:57",
       "lastUpdated": "2026-09-15T10:14:57.968Z"
+    },
+    "FAN-P-1605H||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:44:58",
+      "lastUpdated": "2026-09-15T10:14:58.730Z"
     }
   },
   "showroomVisits": {
@@ -86837,6 +86844,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:44:58",
+      "iso": "2026-09-15T10:14:58.732Z",
+      "action": "updated remark for FAN-P-1605H at RIKILLAGASKADA: “70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:44:57",
@@ -87178,13 +87192,6 @@
       "time": "15:10:56",
       "iso": "2026-09-15T09:40:56.867Z",
       "action": "updated remark for BES-CRS-51 at ANURADHAPURA B: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:10:43",
-      "iso": "2026-09-15T09:40:43.318Z",
-      "action": "updated remark for MCZJ9513-G01 at ANURADHAPURA B: “95%”"
     }
   ]
 }
