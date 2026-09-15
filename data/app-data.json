@@ -85154,6 +85154,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:53:57",
       "lastUpdated": "2026-09-15T10:23:57.652Z"
+    },
+    "HON-PAD-X7-CV||RIKILLAGASKADA": {
+      "remark": "To be dropped",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:54:09",
+      "lastUpdated": "2026-09-15T10:24:09.315Z"
     }
   },
   "showroomVisits": {
@@ -87382,6 +87389,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:54:09",
+      "iso": "2026-09-15T10:24:09.316Z",
+      "action": "updated remark for HON-PAD-X7-CV at RIKILLAGASKADA: “To be dropped”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:53:57",
       "iso": "2026-09-15T10:23:57.654Z",
       "action": "updated remark for SIN-QS-8306 at RIKILLAGASKADA: “50%”"
@@ -87721,13 +87735,6 @@
       "time": "15:48:22",
       "iso": "2026-09-15T10:18:22.715Z",
       "action": "updated remark for LFI-GLEN-TVS-BR-S at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:48:21",
-      "iso": "2026-09-15T10:18:21.283Z",
-      "action": "updated remark for WFL-MONACO-08-S at RIKILLAGASKADA: “50%”"
     }
   ]
 }
