@@ -72962,11 +72962,11 @@
       "lastUpdated": "2026-09-02T08:07:06.097Z"
     },
     "PN-TH-55MX740N||THALAWA": {
-      "remark": "70%",
+      "remark": "199,999",
       "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "13:37:08",
-      "lastUpdated": "2026-09-02T08:07:08.988Z"
+      "commentDate": "2026-09-15",
+      "commentTime": "16:01:46",
+      "lastUpdated": "2026-09-15T10:31:46.705Z"
     },
     "PN-TH-55MX740N||MANNAR": {
       "remark": "70%",
@@ -85623,6 +85623,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:01:12",
       "lastUpdated": "2026-09-15T10:31:12.540Z"
+    },
+    "H-RSQG018MFEOE||THALAWA": {
+      "remark": "199,999",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:00:56",
+      "lastUpdated": "2026-09-15T10:30:56.734Z"
     }
   },
   "showroomVisits": {
@@ -87849,6 +87856,20 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "16:01:46",
+      "iso": "2026-09-15T10:31:46.707Z",
+      "action": "updated remark for PN-TH-55MX740N at THALAWA: “199,999”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "16:00:56",
+      "iso": "2026-09-15T10:30:56.736Z",
+      "action": "updated remark for H-RSQG018MFEOE at THALAWA: “199,999”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "16:01:12",
@@ -88183,20 +88204,6 @@
       "time": "15:57:22",
       "iso": "2026-09-15T10:27:22.568Z",
       "action": "updated remark for BES-WP15-ECO at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:57:20",
-      "iso": "2026-09-15T10:27:20.378Z",
-      "action": "updated remark for BES-CRS-79 at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:57:17",
-      "iso": "2026-09-15T10:27:17.705Z",
-      "action": "updated remark for BES-WPGR15M at RIKILLAGASKADA: “70%”"
     }
   ]
 }
