@@ -84062,6 +84062,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:40:29",
       "lastUpdated": "2026-09-15T09:10:29.512Z"
+    },
+    "MSI-CYB-A2RVE-4050-I7-BL||ANURADHAPURA B": {
+      "remark": "17.5%, Display",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:41:10",
+      "lastUpdated": "2026-09-15T09:11:10.469Z"
     }
   },
   "showroomVisits": {
@@ -86214,6 +86221,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-15",
+      "time": "14:41:10",
+      "iso": "2026-09-15T09:11:10.470Z",
+      "action": "updated remark for MSI-CYB-A2RVE-4050-I7-BL at ANURADHAPURA B: “17.5%, Display”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "14:40:29",
@@ -86555,13 +86569,6 @@
       "time": "14:26:14",
       "iso": "2026-09-15T08:56:14.606Z",
       "action": "updated remark for R-FGAP010 at WATTEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:25:41",
-      "iso": "2026-09-15T08:55:41.972Z",
-      "action": "updated remark for MID-MJ-KM6001W at WATTEGAMA: “55%”"
     }
   ]
 }
