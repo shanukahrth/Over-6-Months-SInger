@@ -83922,6 +83922,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:33:39",
       "lastUpdated": "2026-09-15T09:03:39.860Z"
+    },
+    "SLE43G890||WATTEGAMA": {
+      "remark": "2 - Shop use display / 1 - Reported",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:34:08",
+      "lastUpdated": "2026-09-15T09:04:08.289Z"
     }
   },
   "showroomVisits": {
@@ -86070,6 +86077,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:34:08",
+      "iso": "2026-09-15T09:04:08.289Z",
+      "action": "updated remark for SLE43G890 at WATTEGAMA: “2 - Shop use display / 1 - Reported”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:33:39",
       "iso": "2026-09-15T09:03:39.861Z",
       "action": "updated remark for KLV-32R302E at WATTEGAMA: “Panel Damage - 90%”"
@@ -86409,13 +86423,6 @@
       "time": "14:17:17",
       "iso": "2026-09-15T08:47:17.482Z",
       "action": "updated remark for LF-PLUTOTV-S at WATTEGAMA: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:16:57",
-      "iso": "2026-09-15T08:46:57.555Z",
-      "action": "updated remark for LF-ORGN-DTO-CLM-S at WATTEGAMA: “Damaged - 60%”"
     }
   ]
 }
