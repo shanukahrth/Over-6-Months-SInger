@@ -82991,6 +82991,34 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:05:54",
       "lastUpdated": "2026-09-15T06:35:54.688Z"
+    },
+    "NCPO-DC200||KUNDASALE": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:06:25",
+      "lastUpdated": "2026-09-15T06:36:25.760Z"
+    },
+    "NCPO-FP250||KUNDASALE": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:06:27",
+      "lastUpdated": "2026-09-15T06:36:27.165Z"
+    },
+    "NCPO-FP280||KUNDASALE": {
+      "remark": "45%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:06:29",
+      "lastUpdated": "2026-09-15T06:36:29.067Z"
+    },
+    "TF-NIFP28-042||KUNDASALE": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:06:35",
+      "lastUpdated": "2026-09-15T06:36:35.057Z"
     }
   },
   "showroomVisits": {
@@ -85091,6 +85119,41 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:06:35",
+      "iso": "2026-09-15T06:36:35.057Z",
+      "action": "updated remark for TF-NIFP28-042 at KUNDASALE: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:06:32",
+      "iso": "2026-09-15T06:36:32.049Z",
+      "action": "updated remark for TF-NIFP28-042 at KUNDASALE: “355”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:06:29",
+      "iso": "2026-09-15T06:36:29.068Z",
+      "action": "updated remark for NCPO-FP280 at KUNDASALE: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:06:27",
+      "iso": "2026-09-15T06:36:27.166Z",
+      "action": "updated remark for NCPO-FP250 at KUNDASALE: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "12:06:25",
+      "iso": "2026-09-15T06:36:25.761Z",
+      "action": "updated remark for NCPO-DC200 at KUNDASALE: “45%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:05:54",
       "iso": "2026-09-15T06:35:54.689Z",
       "action": "updated remark for PN-NI-M250TPSH at KUNDASALE: “Reported”"
@@ -85402,41 +85465,6 @@
       "time": "15:51:39",
       "iso": "2026-09-14T10:21:39.187Z",
       "action": "updated remark for STT-200K at DIGANA - B: “Parts missing - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:51:25",
-      "iso": "2026-09-14T10:21:25.016Z",
-      "action": "updated remark for SMW823AY7 at DIGANA - B: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:50:59",
-      "iso": "2026-09-14T10:20:59.896Z",
-      "action": "updated remark for R-BWS-02 at DIGANA - B: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:49:15",
-      "iso": "2026-09-14T10:19:15.991Z",
-      "action": "updated remark for LG-001 at DIGANA - B: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:48:55",
-      "iso": "2026-09-14T10:18:55.975Z",
-      "action": "updated remark for BRP-TW30 at DIGANA - B: “2 - Reported / 1 - 40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "15:48:05",
-      "iso": "2026-09-14T10:18:05.638Z",
-      "action": "updated remark for USI-ATC-302 at DIGANA - B: “Active SKU”"
     }
   ]
 }
