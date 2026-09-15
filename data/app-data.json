@@ -84923,6 +84923,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:49:33",
       "lastUpdated": "2026-09-15T10:19:33.499Z"
+    },
+    "TF-FP24-SCR342||RIKILLAGASKADA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:49:37",
+      "lastUpdated": "2026-09-15T10:19:37.130Z"
+    },
+    "TF-IFP28-042||RIKILLAGASKADA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:49:39",
+      "lastUpdated": "2026-09-15T10:19:39.343Z"
     }
   },
   "showroomVisits": {
@@ -87143,6 +87157,20 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:49:39",
+      "iso": "2026-09-15T10:19:39.344Z",
+      "action": "updated remark for TF-IFP28-042 at RIKILLAGASKADA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:49:37",
+      "iso": "2026-09-15T10:19:37.131Z",
+      "action": "updated remark for TF-FP24-SCR342 at RIKILLAGASKADA: “35%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-15",
       "time": "15:49:33",
@@ -87477,20 +87505,6 @@
       "time": "15:44:58",
       "iso": "2026-09-15T10:14:58.732Z",
       "action": "updated remark for FAN-P-1605H at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:44:57",
-      "iso": "2026-09-15T10:14:57.970Z",
-      "action": "updated remark for HFPA-MUSICBOX-BLC at THALAWA: “30,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:44:39",
-      "iso": "2026-09-15T10:14:39.639Z",
-      "action": "updated remark for HFPA-MUSICBOX-SLV at THALAWA: “60%”"
     }
   ]
 }
