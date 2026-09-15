@@ -85980,6 +85980,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:12:57",
       "lastUpdated": "2026-09-15T10:42:57.611Z"
+    },
+    "RMG-SMART||DIGANA": {
+      "remark": "60%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:13:02",
+      "lastUpdated": "2026-09-15T10:43:02.934Z"
+    },
+    "TF-GCA-1336||DIGANA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:13:05",
+      "lastUpdated": "2026-09-15T10:43:05.563Z"
+    },
+    "R-BWS-02||DIGANA": {
+      "remark": "35%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:13:07",
+      "lastUpdated": "2026-09-15T10:43:07.841Z"
     }
   },
   "showroomVisits": {
@@ -88214,6 +88235,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:13:07",
+      "iso": "2026-09-15T10:43:07.842Z",
+      "action": "updated remark for R-BWS-02 at DIGANA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:13:05",
+      "iso": "2026-09-15T10:43:05.565Z",
+      "action": "updated remark for TF-GCA-1336 at DIGANA: “35%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:13:02",
+      "iso": "2026-09-15T10:43:02.936Z",
+      "action": "updated remark for RMG-SMART at DIGANA: “60%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:12:57",
       "iso": "2026-09-15T10:42:57.612Z",
       "action": "updated remark for STO-EO30C at DIGANA: “70%”"
@@ -88539,27 +88581,6 @@
       "time": "16:08:13",
       "iso": "2026-09-15T10:38:13.322Z",
       "action": "updated remark for SYM-HIC-26I at DIGANA: “75%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "16:04:55",
-      "iso": "2026-09-15T10:34:55.702Z",
-      "action": "updated remark for WP-SS-SUB1-S at THALAWA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "16:04:30",
-      "iso": "2026-09-15T10:34:30.803Z",
-      "action": "updated remark for MID-MJ-KM6001W at THALAWA: “40%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "16:04:14",
-      "iso": "2026-09-15T10:34:14.059Z",
-      "action": "updated remark for H-CVW1600 at THALAWA: “80%”"
     }
   ]
 }
