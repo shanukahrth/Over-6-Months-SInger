@@ -72745,11 +72745,11 @@
       "lastUpdated": "2026-09-02T07:24:03.385Z"
     },
     "PN-TH-32M402N||DIGANA": {
-      "remark": "70%",
-      "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "12:54:39",
-      "lastUpdated": "2026-09-02T07:24:39.792Z"
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:17:50",
+      "lastUpdated": "2026-09-15T10:47:50.843Z"
     },
     "PN-TH-32M402N||KATUGASTOTA": {
       "remark": "70%",
@@ -86162,6 +86162,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:16:43",
       "lastUpdated": "2026-09-15T10:46:43.228Z"
+    },
+    "SLE55GENR||DIGANA": {
+      "remark": "38%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:17:47",
+      "lastUpdated": "2026-09-15T10:47:47.909Z"
+    },
+    "PN-TH-32MS670N||DIGANA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:17:52",
+      "lastUpdated": "2026-09-15T10:47:52.486Z"
     }
   },
   "showroomVisits": {
@@ -88396,6 +88410,27 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:17:52",
+      "iso": "2026-09-15T10:47:52.487Z",
+      "action": "updated remark for PN-TH-32MS670N at DIGANA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:17:50",
+      "iso": "2026-09-15T10:47:50.845Z",
+      "action": "updated remark for PN-TH-32M402N at DIGANA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:17:47",
+      "iso": "2026-09-15T10:47:47.911Z",
+      "action": "updated remark for SLE55GENR at DIGANA: “38%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:16:43",
       "iso": "2026-09-15T10:46:43.229Z",
       "action": "updated remark for SIN-PR-K340 at DIGANA: “Additional 15%”"
@@ -88721,27 +88756,6 @@
       "time": "16:10:44",
       "iso": "2026-09-15T10:40:44.929Z",
       "action": "updated remark for SWH-118E at DIGANA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:10:43",
-      "iso": "2026-09-15T10:40:43.536Z",
-      "action": "updated remark for PN-DH-3JL2WH at DIGANA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:10:37",
-      "iso": "2026-09-15T10:40:37.247Z",
-      "action": "updated remark for SHT-PHT505L at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:10:34",
-      "iso": "2026-09-15T10:40:34.349Z",
-      "action": "updated remark for WFL-RIO-02-S at DIGANA: “50%”"
     }
   ]
 }
