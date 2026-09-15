@@ -85448,6 +85448,27 @@
       "commentDate": "2026-09-15",
       "commentTime": "15:58:26",
       "lastUpdated": "2026-09-15T10:28:26.716Z"
+    },
+    "SLE32E390||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:33",
+      "lastUpdated": "2026-09-15T10:28:33.176Z"
+    },
+    "SLE32E810||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:34",
+      "lastUpdated": "2026-09-15T10:28:34.906Z"
+    },
+    "SLE32E910||RIKILLAGASKADA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "15:58:43",
+      "lastUpdated": "2026-09-15T10:28:43.080Z"
     }
   },
   "showroomVisits": {
@@ -87676,6 +87697,34 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "15:58:43",
+      "iso": "2026-09-15T10:28:43.081Z",
+      "action": "updated remark for SLE32E910 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:58:36",
+      "iso": "2026-09-15T10:28:36.558Z",
+      "action": "updated remark for SLE32E910 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:58:34",
+      "iso": "2026-09-15T10:28:34.907Z",
+      "action": "updated remark for SLE32E810 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "15:58:33",
+      "iso": "2026-09-15T10:28:33.177Z",
+      "action": "updated remark for SLE32E390 at RIKILLAGASKADA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "15:58:26",
       "iso": "2026-09-15T10:28:26.716Z",
       "action": "updated remark for SLE32D2010TC at RIKILLAGASKADA: “70%”"
@@ -87994,34 +88043,6 @@
       "time": "15:54:09",
       "iso": "2026-09-15T10:24:09.316Z",
       "action": "updated remark for HON-PAD-X7-CV at RIKILLAGASKADA: “To be dropped”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:53:57",
-      "iso": "2026-09-15T10:23:57.654Z",
-      "action": "updated remark for SIN-QS-8306 at RIKILLAGASKADA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:53:49",
-      "iso": "2026-09-15T10:23:49.420Z",
-      "action": "updated remark for RIYLTA-MF12V51A at RIKILLAGASKADA: “Mail to DM”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:53:46",
-      "iso": "2026-09-15T10:23:46.761Z",
-      "action": "updated remark for RIYLTA-MF12V4 at RIKILLAGASKADA: “Mail to DM”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:53:28",
-      "iso": "2026-09-15T10:23:28.137Z",
-      "action": "updated remark for STT-200K at RIKILLAGASKADA: “80%”"
     }
   ]
 }
