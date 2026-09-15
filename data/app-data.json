@@ -85686,6 +85686,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:08:28",
       "lastUpdated": "2026-09-15T10:38:28.992Z"
+    },
+    "HFPA-MUSICBOX-BLC||DIGANA": {
+      "remark": "MOP - 30,000",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:08:38",
+      "lastUpdated": "2026-09-15T10:38:38.844Z"
+    },
+    "HFPA-MUSICBOX100-BLK||DIGANA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:08:40",
+      "lastUpdated": "2026-09-15T10:38:40.865Z"
     }
   },
   "showroomVisits": {
@@ -87920,6 +87934,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:08:40",
+      "iso": "2026-09-15T10:38:40.868Z",
+      "action": "updated remark for HFPA-MUSICBOX100-BLK at DIGANA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:08:38",
+      "iso": "2026-09-15T10:38:38.845Z",
+      "action": "updated remark for HFPA-MUSICBOX-BLC at DIGANA: “MOP - 30,000”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:08:28",
       "iso": "2026-09-15T10:38:28.992Z",
       "action": "updated remark for AC-TEMP-NOVA-2I at DIGANA: “To be dropped”"
@@ -88252,20 +88280,6 @@
       "time": "15:58:02",
       "iso": "2026-09-15T10:28:02.901Z",
       "action": "updated remark for SKY-24E2A at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:58:00",
-      "iso": "2026-09-15T10:28:00.818Z",
-      "action": "updated remark for SLE32F490 at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-15",
-      "time": "15:57:58",
-      "iso": "2026-09-15T10:27:58.228Z",
-      "action": "updated remark for GEO-242D-SV at THALAWA: “25%”"
     }
   ]
 }
