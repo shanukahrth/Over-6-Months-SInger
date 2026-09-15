@@ -83978,6 +83978,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:37:30",
       "lastUpdated": "2026-09-15T09:07:30.069Z"
+    },
+    "SLE32E910||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:37:53",
+      "lastUpdated": "2026-09-15T09:07:53.116Z"
     }
   },
   "showroomVisits": {
@@ -86126,6 +86133,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:37:53",
+      "iso": "2026-09-15T09:07:53.118Z",
+      "action": "updated remark for SLE32E910 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "14:37:52",
+      "iso": "2026-09-15T09:07:52.438Z",
+      "action": "updated remark for SLE32E910 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:37:30",
       "iso": "2026-09-15T09:07:30.070Z",
       "action": "updated remark for SLE32E710 at WATTEGAMA: “Panel Damage - 90%”"
@@ -86458,20 +86479,6 @@
       "time": "14:19:58",
       "iso": "2026-09-15T08:49:58.689Z",
       "action": "updated remark for LF-ORGN-BSC-WHT at WATTEGAMA: “10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:19:33",
-      "iso": "2026-09-15T08:49:33.571Z",
-      "action": "updated remark for LF-ECO-SD-WNG-S at WATTEGAMA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:19:09",
-      "iso": "2026-09-15T08:49:09.682Z",
-      "action": "updated remark for WF-CLASSIC-BL-S at WATTEGAMA: “Damaged - 50%”"
     }
   ]
 }
