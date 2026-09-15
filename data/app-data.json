@@ -86078,6 +86078,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:15:05",
       "lastUpdated": "2026-09-15T10:45:05.925Z"
+    },
+    "HON-X8B-8-512-GRN||DIGANA": {
+      "remark": "55%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:15:17",
+      "lastUpdated": "2026-09-15T10:45:17.842Z"
+    },
+    "SMG-SM-A055F-64-B||DIGANA": {
+      "remark": "65%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:15:20",
+      "lastUpdated": "2026-09-15T10:45:20.403Z"
     }
   },
   "showroomVisits": {
@@ -88312,6 +88326,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:15:20",
+      "iso": "2026-09-15T10:45:20.403Z",
+      "action": "updated remark for SMG-SM-A055F-64-B at DIGANA: “65%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:15:17",
+      "iso": "2026-09-15T10:45:17.842Z",
+      "action": "updated remark for HON-X8B-8-512-GRN at DIGANA: “55%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:15:05",
       "iso": "2026-09-15T10:45:05.925Z",
       "action": "updated remark for HON-X7B-8-256-SIL at DIGANA: “55%”"
@@ -88644,20 +88672,6 @@
       "time": "16:09:51",
       "iso": "2026-09-15T10:39:51.309Z",
       "action": "updated remark for LF-MANEL-IC-BON-S at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:50",
-      "iso": "2026-09-15T10:39:50.013Z",
-      "action": "updated remark for LF-CT-AGO-S at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:44",
-      "iso": "2026-09-15T10:39:44.269Z",
-      "action": "updated remark for WF-CF-75X60-S at DIGANA: “50%”"
     }
   ]
 }
