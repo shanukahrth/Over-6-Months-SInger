@@ -85616,6 +85616,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:00:56",
       "lastUpdated": "2026-09-15T10:30:56.855Z"
+    },
+    "WP-SS-SUB1-S||RIKILLAGASKADA": {
+      "remark": "40%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:01:12",
+      "lastUpdated": "2026-09-15T10:31:12.540Z"
     }
   },
   "showroomVisits": {
@@ -87844,6 +87851,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:01:12",
+      "iso": "2026-09-15T10:31:12.541Z",
+      "action": "updated remark for WP-SS-SUB1-S at RIKILLAGASKADA: “40%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:00:56",
       "iso": "2026-09-15T10:30:56.857Z",
       "action": "updated remark for WP-NSP-SG-S at RIKILLAGASKADA: “50%”"
@@ -88183,13 +88197,6 @@
       "time": "15:57:17",
       "iso": "2026-09-15T10:27:17.705Z",
       "action": "updated remark for BES-WPGR15M at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:57:09",
-      "iso": "2026-09-15T10:27:09.060Z",
-      "action": "updated remark for BES-WP15-ECO at RIKILLAGASKADA: “70%”"
     }
   ]
 }
