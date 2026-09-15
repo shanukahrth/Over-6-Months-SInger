@@ -82830,6 +82830,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "11:55:14",
       "lastUpdated": "2026-09-15T06:25:14.259Z"
+    },
+    "DELL3502-PNTMSIL-W10-BLK||KUNDASALE": {
+      "remark": "Pending Exchange",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "11:55:25",
+      "lastUpdated": "2026-09-15T06:25:25.665Z"
     }
   },
   "showroomVisits": {
@@ -84930,6 +84937,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "11:55:25",
+      "iso": "2026-09-15T06:25:25.665Z",
+      "action": "updated remark for DELL3502-PNTMSIL-W10-BLK at KUNDASALE: “Pending Exchange”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "11:55:14",
       "iso": "2026-09-15T06:25:14.261Z",
       "action": "updated remark for B-CFB9433X at KUNDASALE: “Active SKU”"
@@ -85269,13 +85283,6 @@
       "time": "15:04:27",
       "iso": "2026-09-14T09:34:27.366Z",
       "action": "updated MENIKHINNA showroom (visited: Yes)"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-14",
-      "time": "14:55:30",
-      "iso": "2026-09-14T09:25:30.872Z",
-      "action": "updated remark for WP-SS-SUB1-S at MENIKHINNA: “Unsellable”"
     }
   ]
 }
