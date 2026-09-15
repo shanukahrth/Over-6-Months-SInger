@@ -86050,6 +86050,20 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:14:02",
       "lastUpdated": "2026-09-15T10:44:02.637Z"
+    },
+    "VT-1047CN||DIGANA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:14:39",
+      "lastUpdated": "2026-09-15T10:44:39.615Z"
+    },
+    "VT-EL31109CN||DIGANA": {
+      "remark": "70%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:14:41",
+      "lastUpdated": "2026-09-15T10:44:41.053Z"
     }
   },
   "showroomVisits": {
@@ -88284,6 +88298,20 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:14:41",
+      "iso": "2026-09-15T10:44:41.054Z",
+      "action": "updated remark for VT-EL31109CN at DIGANA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
+      "time": "16:14:39",
+      "iso": "2026-09-15T10:44:39.616Z",
+      "action": "updated remark for VT-1047CN at DIGANA: “70%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:14:02",
       "iso": "2026-09-15T10:44:02.639Z",
       "action": "updated remark for SIN-RFC-2012 at DIGANA: “30%”"
@@ -88616,20 +88644,6 @@
       "time": "16:09:38",
       "iso": "2026-09-15T10:39:38.915Z",
       "action": "updated remark for QT-SITUP at DIGANA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:19",
-      "iso": "2026-09-15T10:39:19.674Z",
-      "action": "updated remark for UDV3618SY at DIGANA: “MOP - 2,000”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:09:07",
-      "iso": "2026-09-15T10:39:07.183Z",
-      "action": "updated remark for AS-13G-I5-16-512-5656-SIL at DIGANA: “50%”"
     }
   ]
 }
