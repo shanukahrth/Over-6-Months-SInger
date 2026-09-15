@@ -83866,6 +83866,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:30:24",
       "lastUpdated": "2026-09-15T09:00:24.272Z"
+    },
+    "SL-ECO192-TG||WATTEGAMA": {
+      "remark": "25%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:30:45",
+      "lastUpdated": "2026-09-15T09:00:45.724Z"
     }
   },
   "showroomVisits": {
@@ -86014,6 +86021,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:30:45",
+      "iso": "2026-09-15T09:00:45.725Z",
+      "action": "updated remark for SL-ECO192-TG at WATTEGAMA: “25%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:30:24",
       "iso": "2026-09-15T09:00:24.272Z",
       "action": "updated remark for GEO-260NF at WATTEGAMA: “Revert - 80%”"
@@ -86353,13 +86367,6 @@
       "time": "14:13:09",
       "iso": "2026-09-15T08:43:09.277Z",
       "action": "updated remark for GRIP-8573 at WATTEGAMA: “Shop use”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:13:06",
-      "iso": "2026-09-15T08:43:06.826Z",
-      "action": "updated remark for GRIP-8205 at WATTEGAMA: “Shop use”"
     }
   ]
 }
