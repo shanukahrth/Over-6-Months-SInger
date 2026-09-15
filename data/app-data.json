@@ -83362,6 +83362,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:23:24",
       "lastUpdated": "2026-09-15T06:53:24.583Z"
+    },
+    "MID-D30-20EVN1||KUNDASALE": {
+      "remark": "Active SKU",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:24:31",
+      "lastUpdated": "2026-09-15T06:54:31.124Z"
     }
   },
   "showroomVisits": {
@@ -85462,6 +85469,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:24:31",
+      "iso": "2026-09-15T06:54:31.125Z",
+      "action": "updated remark for MID-D30-20EVN1 at KUNDASALE: “Active SKU”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:23:24",
       "iso": "2026-09-15T06:53:24.583Z",
       "action": "updated remark for SWP-SLCT-01 at KUNDASALE: “Damaged - 85%”"
@@ -85801,13 +85815,6 @@
       "time": "12:09:44",
       "iso": "2026-09-15T06:39:44.927Z",
       "action": "updated remark for R-FGAQ010 at KUNDASALE: “Damaged - 80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:09:16",
-      "iso": "2026-09-15T06:39:16.618Z",
-      "action": "updated remark for STO-EO30C at KUNDASALE: “80%”"
     }
   ]
 }
