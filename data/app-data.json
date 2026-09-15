@@ -85707,6 +85707,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "16:08:51",
       "lastUpdated": "2026-09-15T10:38:51.150Z"
+    },
+    "NETAC-128GB-NVME-SSD||DIGANA": {
+      "remark": "To be dropped",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "16:08:59",
+      "lastUpdated": "2026-09-15T10:38:59.601Z"
     }
   },
   "showroomVisits": {
@@ -87941,6 +87948,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "16:08:59",
+      "iso": "2026-09-15T10:38:59.601Z",
+      "action": "updated remark for NETAC-128GB-NVME-SSD at DIGANA: “To be dropped”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "16:08:51",
       "iso": "2026-09-15T10:38:51.152Z",
       "action": "updated remark for SIN-PSVX938N at DIGANA: “MOP - 18,500”"
@@ -88280,13 +88294,6 @@
       "time": "15:58:15",
       "iso": "2026-09-15T10:28:15.131Z",
       "action": "updated remark for SLE24E510A at RIKILLAGASKADA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "15:58:13",
-      "iso": "2026-09-15T10:28:13.664Z",
-      "action": "updated remark for SKY-32E2 at RIKILLAGASKADA: “70%”"
     }
   ]
 }
