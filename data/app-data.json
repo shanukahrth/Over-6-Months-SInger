@@ -83299,6 +83299,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "12:20:08",
       "lastUpdated": "2026-09-15T06:50:08.868Z"
+    },
+    "TCLED32D65A||KUNDASALE": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "12:20:24",
+      "lastUpdated": "2026-09-15T06:50:24.333Z"
     }
   },
   "showroomVisits": {
@@ -85399,6 +85406,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "12:20:24",
+      "iso": "2026-09-15T06:50:24.334Z",
+      "action": "updated remark for TCLED32D65A at KUNDASALE: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "12:20:08",
       "iso": "2026-09-15T06:50:08.869Z",
       "action": "updated remark for TCL32S65A at KUNDASALE: “Panel Damage - 90%”"
@@ -85738,13 +85752,6 @@
       "time": "12:06:27",
       "iso": "2026-09-15T06:36:27.166Z",
       "action": "updated remark for NCPO-FP250 at KUNDASALE: “45%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "12:06:25",
-      "iso": "2026-09-15T06:36:25.761Z",
-      "action": "updated remark for NCPO-DC200 at KUNDASALE: “45%”"
     }
   ]
 }
