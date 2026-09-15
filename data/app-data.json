@@ -83950,6 +83950,13 @@
       "commentDate": "2026-09-15",
       "commentTime": "14:35:33",
       "lastUpdated": "2026-09-15T09:05:33.677Z"
+    },
+    "SLE28B2520||WATTEGAMA": {
+      "remark": "Panel Damage - 90%",
+      "commentedBy": "Rashmi",
+      "commentDate": "2026-09-15",
+      "commentTime": "14:36:09",
+      "lastUpdated": "2026-09-15T09:06:09.903Z"
     }
   },
   "showroomVisits": {
@@ -86098,6 +86105,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-15",
+      "time": "14:36:09",
+      "iso": "2026-09-15T09:06:09.904Z",
+      "action": "updated remark for SLE28B2520 at WATTEGAMA: “Panel Damage - 90%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-15",
       "time": "14:35:33",
       "iso": "2026-09-15T09:05:33.678Z",
       "action": "updated remark for SLE24E3510TC at WATTEGAMA: “Cleared”"
@@ -86437,13 +86451,6 @@
       "time": "14:18:27",
       "iso": "2026-09-15T08:48:27.302Z",
       "action": "updated remark for 123453213 at WATTEGAMA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "14:18:25",
-      "iso": "2026-09-15T08:48:25.919Z",
-      "action": "updated remark for WF-JUPITER-S at WATTEGAMA: “Damaged - 80%”"
     }
   ]
 }
