@@ -86486,11 +86486,11 @@
       "lastUpdated": "2026-09-16T04:46:37.656Z"
     },
     "WFI-LATVIA||ANURADHAPURA C": {
-      "remark": "80% DA",
+      "remark": "80% Damaged, one damaged, one sold, one to repair, one to sell",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-16",
-      "commentTime": "10:17:03",
-      "lastUpdated": "2026-09-16T04:47:03.933Z"
+      "commentTime": "10:17:35",
+      "lastUpdated": "2026-09-16T04:47:35.217Z"
     }
   },
   "showroomVisits": {
@@ -88759,6 +88759,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "10:17:35",
+      "iso": "2026-09-16T04:47:35.218Z",
+      "action": "updated remark for WFI-LATVIA at ANURADHAPURA C: “80% Damaged, one damaged, one sold, one to repair, one to sell”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "10:17:03",
       "iso": "2026-09-16T04:47:03.934Z",
       "action": "updated remark for WFI-LATVIA at ANURADHAPURA C: “80% DA”"
@@ -89098,13 +89105,6 @@
       "time": "16:19:05",
       "iso": "2026-09-15T10:49:05.080Z",
       "action": "updated remark for MID-D30-20EVN1 at DIGANA: “Active SKU”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:18:55",
-      "iso": "2026-09-15T10:48:55.746Z",
-      "action": "updated remark for SWM-FA70R at DIGANA: “55%”"
     }
   ]
 }
