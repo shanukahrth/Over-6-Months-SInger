@@ -86645,6 +86645,13 @@
       "commentDate": "2026-09-16",
       "commentTime": "12:09:22",
       "lastUpdated": "2026-09-16T06:39:22.701Z"
+    },
+    "B-BICT22100X||SHOMES- ANURADHAPURA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-16",
+      "commentTime": "12:09:44",
+      "lastUpdated": "2026-09-16T06:39:44.143Z"
     }
   },
   "showroomVisits": {
@@ -88913,6 +88920,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "12:09:44",
+      "iso": "2026-09-16T06:39:44.146Z",
+      "action": "updated remark for B-BICT22100X at SHOMES- ANURADHAPURA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "12:09:22",
       "iso": "2026-09-16T06:39:22.703Z",
       "action": "updated remark for SMG-A36-5G-8-256-BLK at SHOMES- ANURADHAPURA: “22%”"
@@ -89252,13 +89266,6 @@
       "time": "09:48:31",
       "iso": "2026-09-16T04:18:31.577Z",
       "action": "updated remark for WFL-CRYSTAL-72X72-S at ANURADHAPURA C: “To be returned”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-16",
-      "time": "09:47:33",
-      "iso": "2026-09-16T04:17:33.136Z",
-      "action": "marked WF-PRESTON-2D-S at ANURADHAPURA C as Sold"
     }
   ]
 }
