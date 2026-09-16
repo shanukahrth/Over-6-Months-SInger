@@ -86423,11 +86423,11 @@
       "lastUpdated": "2026-09-16T04:36:08.051Z"
     },
     "SLE40D600A||ANURADHAPURA C": {
-      "remark": "Dead on arrival, pannel not working",
+      "remark": "Dead on arrival, pannel not working, to be returneding",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-16",
-      "commentTime": "10:06:31",
-      "lastUpdated": "2026-09-16T04:36:31.170Z"
+      "commentTime": "10:07:02",
+      "lastUpdated": "2026-09-16T04:37:02.614Z"
     }
   },
   "showroomVisits": {
@@ -88696,6 +88696,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "10:07:02",
+      "iso": "2026-09-16T04:37:02.615Z",
+      "action": "updated remark for SLE40D600A at ANURADHAPURA C: “Dead on arrival, pannel not working, to be returneding”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "10:06:31",
       "iso": "2026-09-16T04:36:31.172Z",
       "action": "updated remark for SLE40D600A at ANURADHAPURA C: “Dead on arrival, pannel not working”"
@@ -89035,13 +89042,6 @@
       "time": "16:17:52",
       "iso": "2026-09-15T10:47:52.487Z",
       "action": "updated remark for PN-TH-32MS670N at DIGANA: “40%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:17:50",
-      "iso": "2026-09-15T10:47:50.845Z",
-      "action": "updated remark for PN-TH-32M402N at DIGANA: “40%”"
     }
   ]
 }
