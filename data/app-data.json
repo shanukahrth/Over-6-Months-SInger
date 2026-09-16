@@ -88483,9 +88483,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-15"
+    },
+    "PN-CS-XU18XKYW-8||ANURADHAPURA C": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-16"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
+      "time": "09:32:52",
+      "iso": "2026-09-16T04:02:52.572Z",
+      "action": "marked PN-CS-XU18XKYW-8 at ANURADHAPURA C as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
@@ -88828,13 +88841,6 @@
       "time": "16:12:46",
       "iso": "2026-09-15T10:42:46.914Z",
       "action": "updated remark for SW-SK22110GRYN at DIGANA: “35%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:12:39",
-      "iso": "2026-09-15T10:42:39.102Z",
-      "action": "updated remark for SW-SD10410GRY at DIGANA: “70%”"
     }
   ]
 }
