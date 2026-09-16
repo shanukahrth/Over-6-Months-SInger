@@ -86526,6 +86526,13 @@
       "commentDate": "2026-09-16",
       "commentTime": "10:21:24",
       "lastUpdated": "2026-09-16T04:51:24.194Z"
+    },
+    "SLE32E920||ANURADHAPURA C": {
+      "remark": "75%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-16",
+      "commentTime": "10:26:25",
+      "lastUpdated": "2026-09-16T04:56:25.965Z"
     }
   },
   "showroomVisits": {
@@ -88794,6 +88801,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "10:26:25",
+      "iso": "2026-09-16T04:56:25.969Z",
+      "action": "updated remark for SLE32E920 at ANURADHAPURA C: “75%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "10:21:24",
       "iso": "2026-09-16T04:51:24.196Z",
       "action": "updated remark for SLE32E910 at ANURADHAPURA C: “75%”"
@@ -89133,13 +89147,6 @@
       "time": "09:33:52",
       "iso": "2026-09-16T04:03:52.013Z",
       "action": "updated remark for PN-CS-XU18XKYW-8 at ANURADHAPURA C: “SOLD”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-16",
-      "time": "09:32:52",
-      "iso": "2026-09-16T04:02:52.572Z",
-      "action": "marked PN-CS-XU18XKYW-8 at ANURADHAPURA C as Sold"
     }
   ]
 }
