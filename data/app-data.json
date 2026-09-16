@@ -73270,11 +73270,11 @@
       "lastUpdated": "2026-09-02T08:13:08.417Z"
     },
     "PN-TH-65MX740N||ANURADHAPURA C": {
-      "remark": "85%",
+      "remark": "40%",
       "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-09-02",
-      "commentTime": "13:43:10",
-      "lastUpdated": "2026-09-02T08:13:10.893Z"
+      "commentDate": "2026-09-16",
+      "commentTime": "09:32:42",
+      "lastUpdated": "2026-09-16T04:02:42.057Z"
     },
     "PN-TH-65MX740N||R & D DIVISION (ELEC": {
       "remark": "85%",
@@ -88487,6 +88487,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
+      "time": "09:32:42",
+      "iso": "2026-09-16T04:02:42.059Z",
+      "action": "updated remark for PN-TH-65MX740N at ANURADHAPURA C: “40%”"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-15",
       "time": "16:24:36",
@@ -88828,13 +88835,6 @@
       "time": "16:12:39",
       "iso": "2026-09-15T10:42:39.102Z",
       "action": "updated remark for SW-SD10410GRY at DIGANA: “70%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:12:25",
-      "iso": "2026-09-15T10:42:25.787Z",
-      "action": "updated remark for MID-MJ-KM6001W at DIGANA: “55%”"
     }
   ]
 }
