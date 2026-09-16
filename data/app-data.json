@@ -88614,9 +88614,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-16"
+    },
+    "WF-PRESTON-2D-S||ANURADHAPURA C": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-16"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
+      "time": "09:47:33",
+      "iso": "2026-09-16T04:17:33.136Z",
+      "action": "marked WF-PRESTON-2D-S at ANURADHAPURA C as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
@@ -88959,13 +88972,6 @@
       "time": "16:15:38",
       "iso": "2026-09-15T10:45:38.457Z",
       "action": "updated remark for B-RDNI295XIB100P at DIGANA: “50%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:15:30",
-      "iso": "2026-09-15T10:45:30.606Z",
-      "action": "updated remark for SMG-SM-A057F-6-128-B at DIGANA: “60%”"
     }
   ]
 }
