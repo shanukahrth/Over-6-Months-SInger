@@ -86295,6 +86295,13 @@
       "commentDate": "2026-09-16",
       "commentTime": "09:41:43",
       "lastUpdated": "2026-09-16T04:11:43.099Z"
+    },
+    "SDM-12J7623A||ANURADHAPURA C": {
+      "remark": "65%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-16",
+      "commentTime": "09:41:58",
+      "lastUpdated": "2026-09-16T04:11:58.611Z"
     }
   },
   "showroomVisits": {
@@ -88551,6 +88558,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "09:41:58",
+      "iso": "2026-09-16T04:11:58.613Z",
+      "action": "updated remark for SDM-12J7623A at ANURADHAPURA C: “65%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "09:41:43",
       "iso": "2026-09-16T04:11:43.100Z",
       "action": "updated remark for SAS09TCN at ANURADHAPURA C: “Handing over product, 85%”"
@@ -88890,13 +88904,6 @@
       "time": "16:13:36",
       "iso": "2026-09-15T10:43:36.480Z",
       "action": "updated remark for RIYLTA-MF12V4 at DIGANA: “Mail to DM”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:13:28",
-      "iso": "2026-09-15T10:43:28.741Z",
-      "action": "updated remark for SLMC-18DSLHS at DIGANA: “80%”"
     }
   ]
 }
