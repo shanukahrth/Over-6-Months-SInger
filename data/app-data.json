@@ -86365,6 +86365,13 @@
       "commentDate": "2026-09-16",
       "commentTime": "09:48:31",
       "lastUpdated": "2026-09-16T04:18:31.576Z"
+    },
+    "SL-ECO72||ANURADHAPURA C": {
+      "remark": "70%, Not working now",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-16",
+      "commentTime": "09:53:26",
+      "lastUpdated": "2026-09-16T04:23:26.801Z"
     }
   },
   "showroomVisits": {
@@ -88633,6 +88640,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "09:53:26",
+      "iso": "2026-09-16T04:23:26.803Z",
+      "action": "updated remark for SL-ECO72 at ANURADHAPURA C: “70%, Not working now”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "09:48:31",
       "iso": "2026-09-16T04:18:31.577Z",
       "action": "updated remark for WFL-CRYSTAL-72X72-S at ANURADHAPURA C: “To be returned”"
@@ -88972,13 +88986,6 @@
       "time": "16:15:44",
       "iso": "2026-09-15T10:45:44.600Z",
       "action": "updated remark for AES-HAV-30S at DIGANA: “10%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:15:41",
-      "iso": "2026-09-15T10:45:41.041Z",
-      "action": "updated remark for GEO-200D at DIGANA: “80%”"
     }
   ]
 }
