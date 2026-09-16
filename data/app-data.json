@@ -86309,6 +86309,13 @@
       "commentDate": "2026-09-16",
       "commentTime": "09:42:47",
       "lastUpdated": "2026-09-16T04:12:47.896Z"
+    },
+    "GEO-260NF||ANURADHAPURA C": {
+      "remark": "Completely damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-16",
+      "commentTime": "09:43:21",
+      "lastUpdated": "2026-09-16T04:13:21.122Z"
     }
   },
   "showroomVisits": {
@@ -88565,6 +88572,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "09:43:21",
+      "iso": "2026-09-16T04:13:21.124Z",
+      "action": "updated remark for GEO-260NF at ANURADHAPURA C: “Completely damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "09:42:47",
       "iso": "2026-09-16T04:12:47.897Z",
       "action": "updated remark for PN-TH-43MS670N at ANURADHAPURA C: “40%”"
@@ -88904,13 +88918,6 @@
       "time": "16:13:56",
       "iso": "2026-09-15T10:43:56.413Z",
       "action": "updated remark for PH-BHB864 at DIGANA: “30%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:13:45",
-      "iso": "2026-09-15T10:43:45.850Z",
-      "action": "updated remark for MB-SAFARI4S-RED at DIGANA: “Activ SKU”"
     }
   ]
 }
