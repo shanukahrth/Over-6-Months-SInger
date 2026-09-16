@@ -86281,6 +86281,13 @@
       "commentDate": "2026-09-16",
       "commentTime": "09:40:37",
       "lastUpdated": "2026-09-16T04:10:37.183Z"
+    },
+    "SRS-XV500||ANURADHAPURA C": {
+      "remark": "35%, Display used for a long time",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-16",
+      "commentTime": "09:41:13",
+      "lastUpdated": "2026-09-16T04:11:13.941Z"
     }
   },
   "showroomVisits": {
@@ -88537,6 +88544,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "09:41:13",
+      "iso": "2026-09-16T04:11:13.943Z",
+      "action": "updated remark for SRS-XV500 at ANURADHAPURA C: “35%, Display used for a long time”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "09:40:37",
       "iso": "2026-09-16T04:10:37.184Z",
       "action": "updated remark for WP-WDC11704RG-G at ANURADHAPURA C: “20%”"
@@ -88876,13 +88890,6 @@
       "time": "16:13:26",
       "iso": "2026-09-15T10:43:26.209Z",
       "action": "updated remark for SLMC-18DSLHS at DIGANA: “80%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:13:23",
-      "iso": "2026-09-15T10:43:23.259Z",
-      "action": "updated remark for WP-MAGICOOKPRO-25GE at DIGANA: “45%”"
     }
   ]
 }
