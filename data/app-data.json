@@ -86351,6 +86351,13 @@
       "commentDate": "2026-09-16",
       "commentTime": "09:45:39",
       "lastUpdated": "2026-09-16T04:15:39.730Z"
+    },
+    "AS-CEL-X515-487-SL||ANURADHAPURA C": {
+      "remark": "Lap not working, 80",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-16",
+      "commentTime": "09:46:30",
+      "lastUpdated": "2026-09-16T04:16:30.131Z"
     }
   },
   "showroomVisits": {
@@ -88613,6 +88620,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "09:46:30",
+      "iso": "2026-09-16T04:16:30.132Z",
+      "action": "updated remark for AS-CEL-X515-487-SL at ANURADHAPURA C: “Lap not working, 80”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "09:45:39",
       "iso": "2026-09-16T04:15:39.732Z",
       "action": "updated remark for SMG-A17-8-256-BLU at ANURADHAPURA C: “15%”"
@@ -88952,13 +88966,6 @@
       "time": "16:15:30",
       "iso": "2026-09-15T10:45:30.606Z",
       "action": "updated remark for SMG-SM-A057F-6-128-B at DIGANA: “60%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:15:20",
-      "iso": "2026-09-15T10:45:20.403Z",
-      "action": "updated remark for SMG-SM-A055F-64-B at DIGANA: “65%”"
     }
   ]
 }
