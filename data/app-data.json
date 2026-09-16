@@ -86325,11 +86325,11 @@
       "lastUpdated": "2026-09-16T04:14:02.115Z"
     },
     "SMG-A36-5G-8-256-BLK||ANURADHAPURA C": {
-      "remark": "20%",
+      "remark": "SOLD",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-16",
-      "commentTime": "09:44:22",
-      "lastUpdated": "2026-09-16T04:14:22.261Z"
+      "commentTime": "09:45:18",
+      "lastUpdated": "2026-09-16T04:15:18.379Z"
     },
     "SBI-60M19-T||ANURADHAPURA C": {
       "remark": "15%",
@@ -88594,9 +88594,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-16"
+    },
+    "SMG-A36-5G-8-256-BLK||ANURADHAPURA C": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-16"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
+      "time": "09:45:18",
+      "iso": "2026-09-16T04:15:18.542Z",
+      "action": "marked SMG-A36-5G-8-256-BLK at ANURADHAPURA C as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
+      "time": "09:45:18",
+      "iso": "2026-09-16T04:15:18.380Z",
+      "action": "updated remark for SMG-A36-5G-8-256-BLK at ANURADHAPURA C: “SOLD”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
@@ -88932,20 +88952,6 @@
       "time": "16:15:17",
       "iso": "2026-09-15T10:45:17.842Z",
       "action": "updated remark for HON-X8B-8-512-GRN at DIGANA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:15:05",
-      "iso": "2026-09-15T10:45:05.925Z",
-      "action": "updated remark for HON-X7B-8-256-SIL at DIGANA: “55%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:14:52",
-      "iso": "2026-09-15T10:44:52.503Z",
-      "action": "updated remark for HU-SECURITY at DIGANA: “Shop use”"
     }
   ]
 }
