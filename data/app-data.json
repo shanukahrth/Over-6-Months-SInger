@@ -86477,6 +86477,13 @@
       "commentDate": "2026-09-16",
       "commentTime": "10:14:51",
       "lastUpdated": "2026-09-16T04:44:51.549Z"
+    },
+    "WP-2-S||ANURADHAPURA C": {
+      "remark": "Handing over, cannot repair, 75%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-16",
+      "commentTime": "10:16:37",
+      "lastUpdated": "2026-09-16T04:46:37.656Z"
     }
   },
   "showroomVisits": {
@@ -88745,6 +88752,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-16",
+      "time": "10:16:37",
+      "iso": "2026-09-16T04:46:37.657Z",
+      "action": "updated remark for WP-2-S at ANURADHAPURA C: “Handing over, cannot repair, 75%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-16",
       "time": "10:14:51",
       "iso": "2026-09-16T04:44:51.551Z",
       "action": "updated remark for SWH-338EP at ANURADHAPURA C: “40%”"
@@ -89084,13 +89098,6 @@
       "time": "16:18:52",
       "iso": "2026-09-15T10:48:52.313Z",
       "action": "updated remark for H-BD-1054HVOS at DIGANA: “20%”"
-    },
-    {
-      "user": "Rashmi",
-      "date": "2026-09-15",
-      "time": "16:18:44",
-      "iso": "2026-09-15T10:48:44.867Z",
-      "action": "updated remark for H-CVW1600 at DIGANA (cleared)"
     }
   ]
 }
