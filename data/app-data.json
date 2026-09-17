@@ -87240,6 +87240,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "13:49:28",
       "lastUpdated": "2026-09-17T08:19:28.917Z"
+    },
+    "SWM-FA70R||DERANIYAGALA": {
+      "remark": "Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "13:49:53",
+      "lastUpdated": "2026-09-17T08:19:53.774Z"
     }
   },
   "showroomVisits": {
@@ -89514,6 +89521,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "13:49:53",
+      "iso": "2026-09-17T08:19:53.776Z",
+      "action": "updated remark for SWM-FA70R at DERANIYAGALA: “Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "13:49:28",
       "iso": "2026-09-17T08:19:28.919Z",
       "action": "updated remark for WP-2-TI-S at DERANIYAGALA: “70%”"
@@ -89853,13 +89867,6 @@
       "time": "12:07:48",
       "iso": "2026-09-17T06:37:48.046Z",
       "action": "updated remark for FAN-P-1605H at DERANIYAGALA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-17",
-      "time": "12:07:14",
-      "iso": "2026-09-17T06:37:14.364Z",
-      "action": "updated remark for MB-LIMA-ELO7-BLK at DERANIYAGALA: “-”"
     }
   ]
 }
