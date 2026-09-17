@@ -82300,11 +82300,11 @@
       "lastUpdated": "2026-09-14T09:07:41.364Z"
     },
     "WF-JUPITER-05-S||MENIKHINNA": {
-      "remark": "Unsellable",
+      "remark": "Damaged - 70%",
       "commentedBy": "Rashmi",
-      "commentDate": "2026-09-14",
-      "commentTime": "14:37:44",
-      "lastUpdated": "2026-09-14T09:07:44.209Z"
+      "commentDate": "2026-09-17",
+      "commentTime": "14:14:55",
+      "lastUpdated": "2026-09-17T08:44:55.265Z"
     },
     "123453212||MENIKHINNA": {
       "remark": "60%",
@@ -89533,6 +89533,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-17",
+      "time": "14:14:55",
+      "iso": "2026-09-17T08:44:55.269Z",
+      "action": "updated remark for WF-JUPITER-05-S at MENIKHINNA: “Damaged - 70%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
       "time": "13:50:44",
@@ -89874,13 +89881,6 @@
       "time": "12:09:45",
       "iso": "2026-09-17T06:39:45.662Z",
       "action": "updated remark for LF-LEO-15023-WNG-S at DERANIYAGALA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-17",
-      "time": "12:09:10",
-      "iso": "2026-09-17T06:39:10.358Z",
-      "action": "updated remark for QT-SITUP at DERANIYAGALA: “Additional 10%”"
     }
   ]
 }
