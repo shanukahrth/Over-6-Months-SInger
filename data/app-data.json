@@ -86890,6 +86890,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "11:50:58",
       "lastUpdated": "2026-09-17T06:20:58.558Z"
+    },
+    "SIN-W66PA28||DERANIYAGALA": {
+      "remark": "Defect",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-17",
+      "commentTime": "11:53:46",
+      "lastUpdated": "2026-09-17T06:23:46.342Z"
     }
   },
   "showroomVisits": {
@@ -89164,6 +89171,13 @@
     {
       "user": "Maria Fernando",
       "date": "2026-09-17",
+      "time": "11:53:46",
+      "iso": "2026-09-17T06:23:46.348Z",
+      "action": "updated remark for SIN-W66PA28 at DERANIYAGALA: “Defect”"
+    },
+    {
+      "user": "Maria Fernando",
+      "date": "2026-09-17",
       "time": "11:50:58",
       "iso": "2026-09-17T06:20:58.565Z",
       "action": "updated remark for SIN-AIRPKO1B at DERANIYAGALA: “-”"
@@ -89503,13 +89517,6 @@
       "time": "10:29:11",
       "iso": "2026-09-17T04:59:11.004Z",
       "action": "updated remark for HFPA-MUSICBOX-SLV at BALANGODA C: “Rs29,000/=”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "10:28:11",
-      "iso": "2026-09-17T04:58:11.495Z",
-      "action": "updated remark for B-WTV11512XS0 at NIVITHIGALA: “Additional 10%”"
     }
   ]
 }
