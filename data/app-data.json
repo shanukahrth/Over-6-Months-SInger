@@ -87394,6 +87394,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "16:00:45",
       "lastUpdated": "2026-09-17T10:30:45.498Z"
+    },
+    "SL-ECO192WR-BU||DEHIOWITA": {
+      "remark": "30%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "16:01:08",
+      "lastUpdated": "2026-09-17T10:31:08.505Z"
     }
   },
   "showroomVisits": {
@@ -89668,6 +89675,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "16:01:08",
+      "iso": "2026-09-17T10:31:08.509Z",
+      "action": "updated remark for SL-ECO192WR-BU at DEHIOWITA: “30%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "16:00:45",
       "iso": "2026-09-17T10:30:45.499Z",
       "action": "updated remark for WF-PARIS-BL-S at DEHIOWITA: “50%”"
@@ -90007,13 +90021,6 @@
       "time": "13:41:54",
       "iso": "2026-09-17T08:11:54.468Z",
       "action": "updated remark for KA-PRISMA-1.7 at DERANIYAGALA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "13:41:51",
-      "iso": "2026-09-17T08:11:51.993Z",
-      "action": "updated remark for KA-PRISMA1.7SS at DERANIYAGALA: “SELLABLE”"
     }
   ]
 }
