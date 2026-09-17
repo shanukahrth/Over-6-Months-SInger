@@ -87135,6 +87135,20 @@
       "commentDate": "2026-09-17",
       "commentTime": "13:41:28",
       "lastUpdated": "2026-09-17T08:11:28.184Z"
+    },
+    "KA-PRISMA1.7SS||DERANIYAGALA": {
+      "remark": "SELLABLE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "13:41:51",
+      "lastUpdated": "2026-09-17T08:11:51.990Z"
+    },
+    "KA-PRISMA-1.7||DERANIYAGALA": {
+      "remark": "SELLABLE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "13:41:54",
+      "lastUpdated": "2026-09-17T08:11:54.467Z"
     }
   },
   "showroomVisits": {
@@ -89409,6 +89423,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "13:41:54",
+      "iso": "2026-09-17T08:11:54.468Z",
+      "action": "updated remark for KA-PRISMA-1.7 at DERANIYAGALA: “SELLABLE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
+      "time": "13:41:51",
+      "iso": "2026-09-17T08:11:51.993Z",
+      "action": "updated remark for KA-PRISMA1.7SS at DERANIYAGALA: “SELLABLE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "13:41:28",
       "iso": "2026-09-17T08:11:28.186Z",
       "action": "updated remark for R-BWS-02 at DERANIYAGALA: “Add 10%”"
@@ -89741,20 +89769,6 @@
       "time": "11:55:40",
       "iso": "2026-09-17T06:25:40.182Z",
       "action": "updated remark for PN-SC-AKX320GSK at DERANIYAGALA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-17",
-      "time": "11:55:26",
-      "iso": "2026-09-17T06:25:26.472Z",
-      "action": "updated remark for PN-SC-AKX320GSK at DERANIYAGALA: “7”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-17",
-      "time": "11:54:25",
-      "iso": "2026-09-17T06:24:25.651Z",
-      "action": "updated remark for PN-SC-HTB490EBK at DERANIYAGALA: “60%”"
     }
   ]
 }
