@@ -87550,11 +87550,11 @@
       "lastUpdated": "2026-09-17T10:40:39.948Z"
     },
     "PCP50||DEHIOWITA": {
-      "remark": "SELLABLE",
+      "remark": "5000",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-17",
-      "commentTime": "16:11:01",
-      "lastUpdated": "2026-09-17T10:41:01.706Z"
+      "commentTime": "16:11:20",
+      "lastUpdated": "2026-09-17T10:41:20.161Z"
     }
   },
   "showroomVisits": {
@@ -89829,6 +89829,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "16:11:20",
+      "iso": "2026-09-17T10:41:20.164Z",
+      "action": "updated remark for PCP50 at DEHIOWITA: “5000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
+      "time": "16:11:16",
+      "iso": "2026-09-17T10:41:16.287Z",
+      "action": "updated remark for PCP50 at DEHIOWITA: “SELLABLE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "16:11:01",
       "iso": "2026-09-17T10:41:01.710Z",
       "action": "updated remark for PCP50 at DEHIOWITA: “SELLABLE”"
@@ -90161,20 +90175,6 @@
       "time": "14:49:32",
       "iso": "2026-09-17T09:19:32.133Z",
       "action": "updated remark for CAN-TR-325BK at DERANIYAGALA: “INK”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "14:48:37",
-      "iso": "2026-09-17T09:18:37.904Z",
-      "action": "updated remark for U-HRW-S7 at DERANIYAGALA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "14:47:50",
-      "iso": "2026-09-17T09:17:50.503Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at DERANIYAGALA: “FREE”"
     }
   ]
 }
