@@ -87009,6 +87009,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "12:16:22",
       "lastUpdated": "2026-09-17T06:46:22.261Z"
+    },
+    "LF-BUDGET-ST-AGO-S||DERANIYAGALA": {
+      "remark": "50%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-17",
+      "commentTime": "12:20:59",
+      "lastUpdated": "2026-09-17T06:50:59.349Z"
     }
   },
   "showroomVisits": {
@@ -89281,6 +89288,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-17",
+      "time": "12:20:59",
+      "iso": "2026-09-17T06:50:59.354Z",
+      "action": "updated remark for LF-BUDGET-ST-AGO-S at DERANIYAGALA: “50%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
       "time": "12:16:22",
@@ -89622,13 +89636,6 @@
       "time": "11:16:09",
       "iso": "2026-09-17T05:46:09.004Z",
       "action": "updated remark for SIN-RFC-2012 at BALANGODA C: “Rs.4,500/=”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-17",
-      "time": "11:14:08",
-      "iso": "2026-09-17T05:44:08.917Z",
-      "action": "updated remark for SMW928AS3 at BALANGODA C: “Rs.39,000/=”"
     }
   ]
 }
