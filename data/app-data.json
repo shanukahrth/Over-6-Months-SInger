@@ -16451,11 +16451,11 @@
       "lastUpdated": "2026-08-18T12:14:00.377Z"
     },
     "SIN-RFC-1819||NIVITHIGALA": {
-      "remark": "8000",
+      "remark": "6000",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-17",
-      "commentTime": "10:18:14",
-      "lastUpdated": "2026-09-17T04:48:14.612Z"
+      "commentTime": "10:19:13",
+      "lastUpdated": "2026-09-17T04:49:13.573Z"
     },
     "SIN-BY605||NIVITHIGALA": {
       "remark": "Sold",
@@ -88982,6 +88982,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "10:19:13",
+      "iso": "2026-09-17T04:49:13.576Z",
+      "action": "updated remark for SIN-RFC-1819 at NIVITHIGALA: “6000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "10:18:14",
       "iso": "2026-09-17T04:48:14.616Z",
       "action": "updated remark for SIN-RFC-1819 at NIVITHIGALA: “8000”"
@@ -89321,13 +89328,6 @@
       "time": "10:11:25",
       "iso": "2026-09-16T04:41:25.986Z",
       "action": "updated remark for HON-H200SMART-8-256-WHT at ANURADHAPURA C: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-16",
-      "time": "10:11:00",
-      "iso": "2026-09-16T04:41:00.714Z",
-      "action": "updated remark for EPSON-I-L130 at ANURADHAPURA C: “50%”"
     }
   ]
 }
