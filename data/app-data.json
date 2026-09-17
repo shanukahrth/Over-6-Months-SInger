@@ -87331,6 +87331,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "15:55:30",
       "lastUpdated": "2026-09-17T10:25:30.780Z"
+    },
+    "SMGRT28A3021GS||DEHIOWITA": {
+      "remark": "Exchange",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "15:56:04",
+      "lastUpdated": "2026-09-17T10:26:04.921Z"
     }
   },
   "showroomVisits": {
@@ -89605,6 +89612,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "15:56:04",
+      "iso": "2026-09-17T10:26:04.924Z",
+      "action": "updated remark for SMGRT28A3021GS at DEHIOWITA: “Exchange”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "15:55:30",
       "iso": "2026-09-17T10:25:30.783Z",
       "action": "updated remark for TCL65C655 at DEHIOWITA: “Add- 10%”"
@@ -89944,13 +89958,6 @@
       "time": "13:38:56",
       "iso": "2026-09-17T08:08:56.263Z",
       "action": "updated remark for STO-EO45C at DERANIYAGALA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "13:38:36",
-      "iso": "2026-09-17T08:08:36.605Z",
-      "action": "updated remark for TF-CM-APR737 at DERANIYAGALA: “30%”"
     }
   ]
 }
