@@ -87044,6 +87044,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "13:32:44",
       "lastUpdated": "2026-09-17T08:02:44.426Z"
+    },
+    "BRP-CASERL16||DERANIYAGALA": {
+      "remark": "30%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "13:35:10",
+      "lastUpdated": "2026-09-17T08:05:10.079Z"
     }
   },
   "showroomVisits": {
@@ -89318,6 +89325,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "13:35:10",
+      "iso": "2026-09-17T08:05:10.082Z",
+      "action": "updated remark for BRP-CASERL16 at DERANIYAGALA: “30%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "13:32:44",
       "iso": "2026-09-17T08:02:44.428Z",
       "action": "updated remark for MCZJ8500C at DERANIYAGALA: “5000”"
@@ -89657,13 +89671,6 @@
       "time": "11:21:13",
       "iso": "2026-09-17T05:51:13.566Z",
       "action": "updated remark for M-SRK10YXP-W7 at MEGA-KANDY: “30%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-17",
-      "time": "11:19:57",
-      "iso": "2026-09-17T05:49:57.760Z",
-      "action": "updated remark for SIN-RFC-1819 at BALANGODA C: “Rs.5,500/=”"
     }
   ]
 }
