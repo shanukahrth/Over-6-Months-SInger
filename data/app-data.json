@@ -87359,6 +87359,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "15:57:11",
       "lastUpdated": "2026-09-17T10:27:11.443Z"
+    },
+    "BES-CRS-51||DEHIOWITA": {
+      "remark": "Add 10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "15:57:34",
+      "lastUpdated": "2026-09-17T10:27:34.837Z"
     }
   },
   "showroomVisits": {
@@ -89633,6 +89640,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "15:57:34",
+      "iso": "2026-09-17T10:27:34.841Z",
+      "action": "updated remark for BES-CRS-51 at DEHIOWITA: “Add 10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "15:57:11",
       "iso": "2026-09-17T10:27:11.447Z",
       "action": "updated remark for SLE32E930 at DEHIOWITA: “70%”"
@@ -89972,13 +89986,6 @@
       "time": "13:40:30",
       "iso": "2026-09-17T08:10:30.650Z",
       "action": "updated remark for IWH-2500WL at DERANIYAGALA: “1000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "13:39:51",
-      "iso": "2026-09-17T08:09:51.596Z",
-      "action": "updated remark for SL-PB-426 at DERANIYAGALA: “SELLABLE”"
     }
   ]
 }
