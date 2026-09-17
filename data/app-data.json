@@ -22730,11 +22730,11 @@
       "lastUpdated": "2026-08-19T12:12:14.445Z"
     },
     "LF-ORGN-BSC-CLM-S||DERANIYAGALA": {
-      "remark": "70%",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-19",
-      "commentTime": "17:43:09",
-      "lastUpdated": "2026-08-19T12:13:09.243Z"
+      "remark": "60%",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-17",
+      "commentTime": "12:13:47",
+      "lastUpdated": "2026-09-17T06:43:47.241Z"
     },
     "WF-PRESTON-DTO-S||DERANIYAGALA": {
       "remark": "50%",
@@ -89267,6 +89267,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-17",
+      "time": "12:13:47",
+      "iso": "2026-09-17T06:43:47.246Z",
+      "action": "updated remark for LF-ORGN-BSC-CLM-S at DERANIYAGALA: “60%”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
       "time": "12:13:33",
@@ -89608,13 +89615,6 @@
       "time": "11:08:18",
       "iso": "2026-09-17T05:38:18.885Z",
       "action": "updated remark for TF-AF32-577 at BALANGODA C: “Rs.2”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-17",
-      "time": "11:08:03",
-      "iso": "2026-09-17T05:38:03.795Z",
-      "action": "updated remark for TF-AF32-577 at BALANGODA C: “Rs.”"
     }
   ]
 }
