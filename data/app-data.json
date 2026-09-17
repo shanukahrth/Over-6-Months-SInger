@@ -86988,6 +86988,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "12:12:45",
       "lastUpdated": "2026-09-17T06:42:45.482Z"
+    },
+    "LF-CT-WNT-S||DERANIYAGALA": {
+      "remark": "6",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-17",
+      "commentTime": "12:13:02",
+      "lastUpdated": "2026-09-17T06:43:02.414Z"
     }
   },
   "showroomVisits": {
@@ -89260,6 +89267,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-17",
+      "time": "12:13:02",
+      "iso": "2026-09-17T06:43:02.421Z",
+      "action": "updated remark for LF-CT-WNT-S at DERANIYAGALA: “6”"
+    },
+    {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
       "time": "12:12:45",
@@ -89601,13 +89615,6 @@
       "time": "11:08:54",
       "iso": "2026-09-17T05:38:54.989Z",
       "action": "updated remark for SLE55H4000 at MEGA-KANDY: “Panel damaged 80%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-09-17",
-      "time": "11:08:35",
-      "iso": "2026-09-17T05:38:35.540Z",
-      "action": "updated remark for DELL9310-I5-512-8G-SIL at MEGA-KANDY: “Defective. os not installing”"
     }
   ]
 }
