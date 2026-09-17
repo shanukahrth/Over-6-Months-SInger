@@ -13875,11 +13875,11 @@
       "lastUpdated": "2026-08-18T08:43:55.145Z"
     },
     "SLE40D600A||BALANGODA - B": {
-      "remark": "Showroom use",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-18",
-      "commentTime": "14:14:34",
-      "lastUpdated": "2026-08-18T08:44:34.679Z"
+      "remark": "45,000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "12:13:33",
+      "lastUpdated": "2026-09-17T06:43:33.035Z"
     },
     "SLE32E930||BALANGODA - B": {
       "remark": "70%",
@@ -89267,6 +89267,13 @@
   },
   "activity": [
     {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
+      "time": "12:13:33",
+      "iso": "2026-09-17T06:43:33.038Z",
+      "action": "updated remark for SLE40D600A at BALANGODA - B: “45,000”"
+    },
+    {
       "user": "Maria Fernando",
       "date": "2026-09-17",
       "time": "12:13:02",
@@ -89608,13 +89615,6 @@
       "time": "11:08:03",
       "iso": "2026-09-17T05:38:03.795Z",
       "action": "updated remark for TF-AF32-577 at BALANGODA C: “Rs.”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-09-17",
-      "time": "11:08:54",
-      "iso": "2026-09-17T05:38:54.989Z",
-      "action": "updated remark for SLE55H4000 at MEGA-KANDY: “Panel damaged 80%”"
     }
   ]
 }
