@@ -87499,6 +87499,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "16:08:04",
       "lastUpdated": "2026-09-17T10:38:04.416Z"
+    },
+    "BR-1||DEHIOWITA": {
+      "remark": "Sellable",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "16:08:15",
+      "lastUpdated": "2026-09-17T10:38:15.711Z"
     }
   },
   "showroomVisits": {
@@ -89773,6 +89780,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "16:08:15",
+      "iso": "2026-09-17T10:38:15.714Z",
+      "action": "updated remark for BR-1 at DEHIOWITA: “Sellable”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "16:08:04",
       "iso": "2026-09-17T10:38:04.420Z",
       "action": "updated remark for TH-TC-500 at DEHIOWITA: “80%”"
@@ -90112,13 +90126,6 @@
       "time": "13:49:53",
       "iso": "2026-09-17T08:19:53.776Z",
       "action": "updated remark for SWM-FA70R at DERANIYAGALA: “Damaged”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "13:49:28",
-      "iso": "2026-09-17T08:19:28.919Z",
-      "action": "updated remark for WP-2-TI-S at DERANIYAGALA: “70%”"
     }
   ]
 }
