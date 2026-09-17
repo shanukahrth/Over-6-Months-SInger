@@ -87380,6 +87380,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "16:00:04",
       "lastUpdated": "2026-09-17T10:30:04.105Z"
+    },
+    "GEO-242D-SV||DEHIOWITA": {
+      "remark": "25%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "16:00:26",
+      "lastUpdated": "2026-09-17T10:30:26.482Z"
     }
   },
   "showroomVisits": {
@@ -89654,6 +89661,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "16:00:26",
+      "iso": "2026-09-17T10:30:26.486Z",
+      "action": "updated remark for GEO-242D-SV at DEHIOWITA: “25%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "16:00:04",
       "iso": "2026-09-17T10:30:04.109Z",
       "action": "updated remark for TCL43S5400 at DEHIOWITA: “Add- 10%”"
@@ -89993,13 +90007,6 @@
       "time": "13:41:28",
       "iso": "2026-09-17T08:11:28.186Z",
       "action": "updated remark for R-BWS-02 at DERANIYAGALA: “Add 10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "13:41:04",
-      "iso": "2026-09-17T08:11:04.386Z",
-      "action": "updated remark for R-BWS-02 at DERANIYAGALA: “Add”"
     }
   ]
 }
