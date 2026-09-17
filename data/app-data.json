@@ -87093,6 +87093,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "13:38:56",
       "lastUpdated": "2026-09-17T08:08:56.261Z"
+    },
+    "R-FGAP010||DERANIYAGALA": {
+      "remark": "SELLABLE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "13:39:20",
+      "lastUpdated": "2026-09-17T08:09:20.633Z"
     }
   },
   "showroomVisits": {
@@ -89367,6 +89374,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "13:39:20",
+      "iso": "2026-09-17T08:09:20.635Z",
+      "action": "updated remark for R-FGAP010 at DERANIYAGALA: “SELLABLE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "13:38:56",
       "iso": "2026-09-17T08:08:56.263Z",
       "action": "updated remark for STO-EO45C at DERANIYAGALA: “SELLABLE”"
@@ -89706,13 +89720,6 @@
       "time": "11:31:23",
       "iso": "2026-09-17T06:01:23.350Z",
       "action": "updated remark for QT-T220AC at MEGA-KANDY: “25%”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-09-17",
-      "time": "11:31:02",
-      "iso": "2026-09-17T06:01:02.811Z",
-      "action": "updated remark for SLE75G6E at MEGA-KANDY: “Display”"
     }
   ]
 }
