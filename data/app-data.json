@@ -87121,6 +87121,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "13:40:30",
       "lastUpdated": "2026-09-17T08:10:30.648Z"
+    },
+    "MID-MK-17D19A2||DERANIYAGALA": {
+      "remark": "1500, Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "13:40:53",
+      "lastUpdated": "2026-09-17T08:10:53.111Z"
     }
   },
   "showroomVisits": {
@@ -89395,6 +89402,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "13:40:53",
+      "iso": "2026-09-17T08:10:53.112Z",
+      "action": "updated remark for MID-MK-17D19A2 at DERANIYAGALA: “1500, Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "13:40:30",
       "iso": "2026-09-17T08:10:30.650Z",
       "action": "updated remark for IWH-2500WL at DERANIYAGALA: “1000”"
@@ -89734,13 +89748,6 @@
       "time": "11:50:58",
       "iso": "2026-09-17T06:20:58.565Z",
       "action": "updated remark for SIN-AIRPKO1B at DERANIYAGALA: “-”"
-    },
-    {
-      "user": "Shanuka",
-      "date": "2026-09-17",
-      "time": "11:34:43",
-      "iso": "2026-09-17T06:04:43.424Z",
-      "action": "updated remark for WIS27K-A3GD at MEGA-KANDY: “80%”"
     }
   ]
 }
