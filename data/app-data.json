@@ -82300,11 +82300,11 @@
       "lastUpdated": "2026-09-14T09:07:41.364Z"
     },
     "WF-JUPITER-05-S||MENIKHINNA": {
-      "remark": "Damaged - 75%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-17",
-      "commentTime": "14:16:41",
-      "lastUpdated": "2026-09-17T08:46:41.969Z"
+      "commentTime": "14:17:17",
+      "lastUpdated": "2026-09-17T08:47:17.240Z"
     },
     "123453212||MENIKHINNA": {
       "remark": "60%",
@@ -89535,6 +89535,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-17",
+      "time": "14:17:17",
+      "iso": "2026-09-17T08:47:17.241Z",
+      "action": "updated remark for WF-JUPITER-05-S at MENIKHINNA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-17",
       "time": "14:16:41",
       "iso": "2026-09-17T08:46:41.970Z",
       "action": "updated remark for WF-JUPITER-05-S at MENIKHINNA: “Damaged - 75%”"
@@ -89873,13 +89880,6 @@
       "date": "2026-09-17",
       "time": "12:11:35",
       "iso": "2026-09-17T06:41:35.747Z",
-      "action": "updated remark for LF-ORGN-W4B-CLM-S at DERANIYAGALA: “50%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-17",
-      "time": "12:11:25",
-      "iso": "2026-09-17T06:41:25.767Z",
       "action": "updated remark for LF-ORGN-W4B-CLM-S at DERANIYAGALA: “50%”"
     }
   ]
