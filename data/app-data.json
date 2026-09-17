@@ -82300,11 +82300,11 @@
       "lastUpdated": "2026-09-14T09:07:41.364Z"
     },
     "WF-JUPITER-05-S||MENIKHINNA": {
-      "remark": "Damaged - 70%",
+      "remark": "Damaged - 80%",
       "commentedBy": "Rashmi",
       "commentDate": "2026-09-17",
-      "commentTime": "14:14:55",
-      "lastUpdated": "2026-09-17T08:44:55.265Z"
+      "commentTime": "14:16:29",
+      "lastUpdated": "2026-09-17T08:46:29.727Z"
     },
     "123453212||MENIKHINNA": {
       "remark": "60%",
@@ -89535,6 +89535,13 @@
     {
       "user": "Rashmi",
       "date": "2026-09-17",
+      "time": "14:16:29",
+      "iso": "2026-09-17T08:46:29.728Z",
+      "action": "updated remark for WF-JUPITER-05-S at MENIKHINNA: “Damaged - 80%”"
+    },
+    {
+      "user": "Rashmi",
+      "date": "2026-09-17",
       "time": "14:14:55",
       "iso": "2026-09-17T08:44:55.269Z",
       "action": "updated remark for WF-JUPITER-05-S at MENIKHINNA: “Damaged - 70%”"
@@ -89874,13 +89881,6 @@
       "time": "12:10:08",
       "iso": "2026-09-17T06:40:08.921Z",
       "action": "updated remark for LF-LEO-BRL-WNG-S at DERANIYAGALA: “70%”"
-    },
-    {
-      "user": "Maria Fernando",
-      "date": "2026-09-17",
-      "time": "12:09:45",
-      "iso": "2026-09-17T06:39:45.662Z",
-      "action": "updated remark for LF-LEO-15023-WNG-S at DERANIYAGALA: “70%”"
     }
   ]
 }
