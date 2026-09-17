@@ -14708,11 +14708,11 @@
       "lastUpdated": "2026-09-17T05:46:09.001Z"
     },
     "SIN-RFC-1819||BALANGODA C": {
-      "remark": "5500",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-18",
-      "commentTime": "15:14:38",
-      "lastUpdated": "2026-08-18T09:44:38.443Z"
+      "remark": "Rs.5,500/=",
+      "commentedBy": "Maria Fernando",
+      "commentDate": "2026-09-17",
+      "commentTime": "11:19:34",
+      "lastUpdated": "2026-09-17T05:49:34.725Z"
     },
     "HON-PAD-X7-4-128||BALANGODA C": {
       "remark": "Sold",
@@ -89085,6 +89085,13 @@
   },
   "activity": [
     {
+      "user": "Maria Fernando",
+      "date": "2026-09-17",
+      "time": "11:19:34",
+      "iso": "2026-09-17T05:49:34.730Z",
+      "action": "updated remark for SIN-RFC-1819 at BALANGODA C: “Rs.5,500/=”"
+    },
+    {
       "user": "Shanuka",
       "date": "2026-09-17",
       "time": "11:19:41",
@@ -89426,13 +89433,6 @@
       "time": "14:33:23",
       "iso": "2026-09-16T09:03:23.040Z",
       "action": "updated remark for B-BIRT22300XMMS at SHOMES- ANURADHAPURA: “Display Fixed”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-16",
-      "time": "14:32:54",
-      "iso": "2026-09-16T09:02:54.275Z",
-      "action": "updated remark for B-RDNI270XIB100P at SHOMES- ANURADHAPURA: “Closed”"
     }
   ]
 }
