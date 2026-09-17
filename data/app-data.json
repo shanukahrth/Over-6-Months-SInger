@@ -86731,11 +86731,11 @@
       "lastUpdated": "2026-09-17T05:21:14.199Z"
     },
     "DELL9310-I5-512-8G-SIL||MEGA-KANDY": {
-      "remark": "Defective",
+      "remark": "Defective. os not installing",
       "commentedBy": "Shanuka",
       "commentDate": "2026-09-17",
-      "commentTime": "11:01:53",
-      "lastUpdated": "2026-09-17T05:31:53.050Z"
+      "commentTime": "11:08:35",
+      "lastUpdated": "2026-09-17T05:38:35.539Z"
     },
     "LF-OFI-HATAB-001-WO-S||MEGA-KANDY": {
       "remark": "20%",
@@ -89052,6 +89052,13 @@
     {
       "user": "Shanuka",
       "date": "2026-09-17",
+      "time": "11:08:35",
+      "iso": "2026-09-17T05:38:35.540Z",
+      "action": "updated remark for DELL9310-I5-512-8G-SIL at MEGA-KANDY: “Defective. os not installing”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-09-17",
       "time": "11:08:14",
       "iso": "2026-09-17T05:38:14.994Z",
       "action": "updated remark for KN-MG510 at MEGA-KANDY: “70%”"
@@ -89391,13 +89398,6 @@
       "time": "11:52:48",
       "iso": "2026-09-16T06:22:48.431Z",
       "action": "updated remark for NUC-DPE-EWIS at SHOMES- ANURADHAPURA: “Pending Exchange”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-16",
-      "time": "11:50:54",
-      "iso": "2026-09-16T06:20:54.311Z",
-      "action": "updated remark for GTK-PG10 at SHOMES- ANURADHAPURA: “70%”"
     }
   ]
 }
