@@ -86778,6 +86778,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "11:08:14",
       "lastUpdated": "2026-09-17T05:38:14.993Z"
+    },
+    "SLE55H4000||MEGA-KANDY": {
+      "remark": "Panel damaged 80%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-09-17",
+      "commentTime": "11:08:54",
+      "lastUpdated": "2026-09-17T05:38:54.988Z"
     }
   },
   "showroomVisits": {
@@ -89052,6 +89059,13 @@
     {
       "user": "Shanuka",
       "date": "2026-09-17",
+      "time": "11:08:54",
+      "iso": "2026-09-17T05:38:54.989Z",
+      "action": "updated remark for SLE55H4000 at MEGA-KANDY: “Panel damaged 80%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-09-17",
       "time": "11:08:35",
       "iso": "2026-09-17T05:38:35.540Z",
       "action": "updated remark for DELL9310-I5-512-8G-SIL at MEGA-KANDY: “Defective. os not installing”"
@@ -89391,13 +89405,6 @@
       "time": "12:04:13",
       "iso": "2026-09-16T06:34:13.913Z",
       "action": "updated remark for LF-ORGN-BDQ-WHT at SHOMES- ANURADHAPURA: “15%, Display”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-16",
-      "time": "11:52:48",
-      "iso": "2026-09-16T06:22:48.431Z",
-      "action": "updated remark for NUC-DPE-EWIS at SHOMES- ANURADHAPURA: “Pending Exchange”"
     }
   ]
 }
