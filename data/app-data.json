@@ -87387,6 +87387,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "16:00:26",
       "lastUpdated": "2026-09-17T10:30:26.482Z"
+    },
+    "WF-PARIS-BL-S||DEHIOWITA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "16:00:45",
+      "lastUpdated": "2026-09-17T10:30:45.498Z"
     }
   },
   "showroomVisits": {
@@ -89661,6 +89668,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "16:00:45",
+      "iso": "2026-09-17T10:30:45.499Z",
+      "action": "updated remark for WF-PARIS-BL-S at DEHIOWITA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "16:00:26",
       "iso": "2026-09-17T10:30:26.486Z",
       "action": "updated remark for GEO-242D-SV at DEHIOWITA: “25%”"
@@ -90000,13 +90014,6 @@
       "time": "13:41:51",
       "iso": "2026-09-17T08:11:51.993Z",
       "action": "updated remark for KA-PRISMA1.7SS at DERANIYAGALA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "13:41:28",
-      "iso": "2026-09-17T08:11:28.186Z",
-      "action": "updated remark for R-BWS-02 at DERANIYAGALA: “Add 10%”"
     }
   ]
 }
