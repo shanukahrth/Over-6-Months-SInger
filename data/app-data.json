@@ -86855,6 +86855,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "11:31:02",
       "lastUpdated": "2026-09-17T06:01:02.810Z"
+    },
+    "QT-T220AC||MEGA-KANDY": {
+      "remark": "25%",
+      "commentedBy": "Shanuka",
+      "commentDate": "2026-09-17",
+      "commentTime": "11:31:23",
+      "lastUpdated": "2026-09-17T06:01:23.349Z"
     }
   },
   "showroomVisits": {
@@ -89129,6 +89136,13 @@
     {
       "user": "Shanuka",
       "date": "2026-09-17",
+      "time": "11:31:23",
+      "iso": "2026-09-17T06:01:23.350Z",
+      "action": "updated remark for QT-T220AC at MEGA-KANDY: “25%”"
+    },
+    {
+      "user": "Shanuka",
+      "date": "2026-09-17",
       "time": "11:31:02",
       "iso": "2026-09-17T06:01:02.811Z",
       "action": "updated remark for SLE75G6E at MEGA-KANDY: “Display”"
@@ -89468,13 +89482,6 @@
       "time": "10:19:13",
       "iso": "2026-09-17T04:49:13.576Z",
       "action": "updated remark for SIN-RFC-1819 at NIVITHIGALA: “6000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "10:18:14",
-      "iso": "2026-09-17T04:48:14.616Z",
-      "action": "updated remark for SIN-RFC-1819 at NIVITHIGALA: “8000”"
     }
   ]
 }
