@@ -87457,6 +87457,13 @@
       "commentDate": "2026-09-17",
       "commentTime": "16:05:18",
       "lastUpdated": "2026-09-17T10:35:18.907Z"
+    },
+    "PCP30||DEHIOWITA": {
+      "remark": "4000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-17",
+      "commentTime": "16:06:08",
+      "lastUpdated": "2026-09-17T10:36:08.750Z"
     }
   },
   "showroomVisits": {
@@ -89731,6 +89738,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-17",
+      "time": "16:06:08",
+      "iso": "2026-09-17T10:36:08.752Z",
+      "action": "updated remark for PCP30 at DEHIOWITA: “4000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-17",
       "time": "16:05:18",
       "iso": "2026-09-17T10:35:18.911Z",
       "action": "updated remark for PM-COMP-8 at DEHIOWITA: “SR”"
@@ -90070,13 +90084,6 @@
       "time": "13:46:33",
       "iso": "2026-09-17T08:16:33.942Z",
       "action": "updated remark for HON-X9C-12-256-PPL at DERANIYAGALA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "13:46:17",
-      "iso": "2026-09-17T08:16:17.521Z",
-      "action": "updated remark for HU-SECURITY at DERANIYAGALA: “USE”"
     }
   ]
 }
