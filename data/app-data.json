@@ -87793,6 +87793,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:50:11",
       "lastUpdated": "2026-09-18T04:20:11.565Z"
+    },
+    "LF-OPENSR-CKT-S||KURUWITA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:50:25",
+      "lastUpdated": "2026-09-18T04:20:25.817Z"
     }
   },
   "showroomVisits": {
@@ -90067,6 +90074,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:50:25",
+      "iso": "2026-09-18T04:20:25.820Z",
+      "action": "updated remark for LF-OPENSR-CKT-S at KURUWITA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:50:11",
       "iso": "2026-09-18T04:20:11.567Z",
       "action": "updated remark for LF-ECO-WU-SHW-S at KURUWITA: “50%”"
@@ -90406,13 +90420,6 @@
       "time": "16:10:13",
       "iso": "2026-09-17T10:40:13.942Z",
       "action": "updated remark for SWP-SLCT-01 at DEHIOWITA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:09:54",
-      "iso": "2026-09-17T10:39:54.523Z",
-      "action": "updated remark for NETAC-128GB-NVME-SSD at DEHIOWITA: “80%”"
     }
   ]
 }
