@@ -87716,6 +87716,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:29:08",
       "lastUpdated": "2026-09-18T03:59:08.022Z"
+    },
+    "MHC-V13||KURUWITA": {
+      "remark": "30000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:37:55",
+      "lastUpdated": "2026-09-18T04:07:55.071Z"
     }
   },
   "showroomVisits": {
@@ -89990,6 +89997,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:37:55",
+      "iso": "2026-09-18T04:07:55.073Z",
+      "action": "updated remark for MHC-V13 at KURUWITA: “30000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:37:17",
       "iso": "2026-09-18T04:07:17.314Z",
       "action": "updated remark for SMGAR50F12D0J at KURUWITA: “189,000”"
@@ -90329,13 +90343,6 @@
       "time": "16:04:33",
       "iso": "2026-09-17T10:34:33.889Z",
       "action": "updated remark for SWH-338EP at DEHIOWITA: “Add 10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:04:01",
-      "iso": "2026-09-17T10:34:01.633Z",
-      "action": "updated remark for HON-X7C-8-256-GRN at DEHIOWITA: “PO out”"
     }
   ]
 }
