@@ -88031,6 +88031,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "10:32:42",
       "lastUpdated": "2026-09-18T05:02:42.968Z"
+    },
+    "PCM-40||KURUWITA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "10:33:05",
+      "lastUpdated": "2026-09-18T05:03:05.088Z"
     }
   },
   "showroomVisits": {
@@ -90305,6 +90312,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "10:33:05",
+      "iso": "2026-09-18T05:03:05.090Z",
+      "action": "updated remark for PCM-40 at KURUWITA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "10:32:42",
       "iso": "2026-09-18T05:02:42.971Z",
       "action": "updated remark for SLMC-18DSLHS at KURUWITA: “13,000”"
@@ -90644,13 +90658,6 @@
       "time": "09:39:06",
       "iso": "2026-09-18T04:09:06.317Z",
       "action": "updated remark for GTK-PG10 at KURUWITA: “30000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:38:44",
-      "iso": "2026-09-18T04:08:44.729Z",
-      "action": "updated remark for SXLC7371K at KURUWITA: “10000”"
     }
   ]
 }
