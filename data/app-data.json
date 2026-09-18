@@ -88843,6 +88843,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "15:31:15",
       "lastUpdated": "2026-09-18T10:01:15.952Z"
+    },
+    "HU-SECURITY||EHELIYAGODA": {
+      "remark": "SR",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "15:31:32",
+      "lastUpdated": "2026-09-18T10:01:32.814Z"
     }
   },
   "showroomVisits": {
@@ -91123,6 +91130,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "15:31:32",
+      "iso": "2026-09-18T10:01:32.818Z",
+      "action": "updated remark for HU-SECURITY at EHELIYAGODA: “SR”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "15:31:15",
       "iso": "2026-09-18T10:01:15.955Z",
       "action": "updated remark for VT-1047CN at EHELIYAGODA: “RETURN”"
@@ -91462,13 +91476,6 @@
       "time": "14:12:16",
       "iso": "2026-09-18T08:42:16.051Z",
       "action": "updated remark for WFL-STBED-75X48-S at EHELIYAGODA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "14:11:43",
-      "iso": "2026-09-18T08:41:43.174Z",
-      "action": "updated remark for WFL-ALP-S-CASH-BX-S at EHELIYAGODA: “SELLABLE”"
     }
   ]
 }
