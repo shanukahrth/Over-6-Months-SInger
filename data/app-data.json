@@ -89172,6 +89172,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "15:50:54",
       "lastUpdated": "2026-09-18T10:20:54.334Z"
+    },
+    "TCLED24D3100||EHELIYAGODA": {
+      "remark": "Damage 70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "15:51:15",
+      "lastUpdated": "2026-09-18T10:21:15.734Z"
     }
   },
   "showroomVisits": {
@@ -91452,6 +91459,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "15:51:15",
+      "iso": "2026-09-18T10:21:15.737Z",
+      "action": "updated remark for TCLED24D3100 at EHELIYAGODA: “Damage 70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "15:50:54",
       "iso": "2026-09-18T10:20:54.338Z",
       "action": "updated remark for SMGUA32N4010 at EHELIYAGODA: “30000”"
@@ -91791,13 +91805,6 @@
       "time": "15:31:32",
       "iso": "2026-09-18T10:01:32.818Z",
       "action": "updated remark for HU-SECURITY at EHELIYAGODA: “SR”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:31:15",
-      "iso": "2026-09-18T10:01:15.955Z",
-      "action": "updated remark for VT-1047CN at EHELIYAGODA: “RETURN”"
     }
   ]
 }
