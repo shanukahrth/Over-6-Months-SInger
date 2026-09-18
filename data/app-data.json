@@ -87660,6 +87660,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:25:41",
       "lastUpdated": "2026-09-18T03:55:41.551Z"
+    },
+    "QT-SITUP||DEHIOWITA": {
+      "remark": "25000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:25:59",
+      "lastUpdated": "2026-09-18T03:55:59.204Z"
     }
   },
   "showroomVisits": {
@@ -89934,6 +89941,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:25:59",
+      "iso": "2026-09-18T03:55:59.206Z",
+      "action": "updated remark for QT-SITUP at DEHIOWITA: “25000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:25:41",
       "iso": "2026-09-18T03:55:41.554Z",
       "action": "updated remark for RIYLTA-MF12V5 at DEHIOWITA: “SELLABLD”"
@@ -90273,13 +90287,6 @@
       "time": "15:58:00",
       "iso": "2026-09-17T10:28:00.305Z",
       "action": "updated remark for HON-X9C-12-256-PPL at DEHIOWITA: “sellable”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "15:57:34",
-      "iso": "2026-09-17T10:27:34.841Z",
-      "action": "updated remark for BES-CRS-51 at DEHIOWITA: “Add 10%”"
     }
   ]
 }
