@@ -89088,6 +89088,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "15:45:13",
       "lastUpdated": "2026-09-18T10:15:13.405Z"
+    },
+    "DH-I-A22EP-G-IMOU||EHELIYAGODA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "15:45:26",
+      "lastUpdated": "2026-09-18T10:15:26.760Z"
     }
   },
   "showroomVisits": {
@@ -91368,6 +91375,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "15:45:26",
+      "iso": "2026-09-18T10:15:26.764Z",
+      "action": "updated remark for DH-I-A22EP-G-IMOU at EHELIYAGODA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "15:45:13",
       "iso": "2026-09-18T10:15:13.409Z",
       "action": "updated remark for DH-IPC-F2CP-LED-0360B at EHELIYAGODA: “70%”"
@@ -91707,13 +91721,6 @@
       "time": "15:26:16",
       "iso": "2026-09-18T09:56:16.548Z",
       "action": "updated remark for SL-4MIXGR-N at EHELIYAGODA: “5000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:26:01",
-      "iso": "2026-09-18T09:56:01.058Z",
-      "action": "updated remark for MID-BL1190 at EHELIYAGODA: “80%”"
     }
   ]
 }
