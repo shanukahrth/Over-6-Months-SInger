@@ -87604,6 +87604,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:20:37",
       "lastUpdated": "2026-09-18T03:50:37.497Z"
+    },
+    "MCS-730-8||DEHIOWITA": {
+      "remark": "SR",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:22:00",
+      "lastUpdated": "2026-09-18T03:52:00.418Z"
     }
   },
   "showroomVisits": {
@@ -89878,6 +89885,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:22:00",
+      "iso": "2026-09-18T03:52:00.421Z",
+      "action": "updated remark for MCS-730-8 at DEHIOWITA: “SR”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:20:37",
       "iso": "2026-09-18T03:50:37.500Z",
       "action": "updated remark for SL-S203 at DEHIOWITA: “50%”"
@@ -90217,13 +90231,6 @@
       "time": "14:57:32",
       "iso": "2026-09-17T09:27:32.382Z",
       "action": "updated remark for KLV-32R306C at DERANIYAGALA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "14:55:26",
-      "iso": "2026-09-17T09:25:26.627Z",
-      "action": "updated remark for SLE43G890 at DERANIYAGALA: “SR”"
     }
   ]
 }
