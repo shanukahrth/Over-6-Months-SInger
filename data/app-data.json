@@ -87912,6 +87912,20 @@
       "commentDate": "2026-09-18",
       "commentTime": "10:24:23",
       "lastUpdated": "2026-09-18T04:54:23.290Z"
+    },
+    "NCPO-DC200||KURUWITA": {
+      "remark": "SELLABLE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "10:24:40",
+      "lastUpdated": "2026-09-18T04:54:40.405Z"
+    },
+    "NCPO-OT275||KURUWITA": {
+      "remark": "SELLABLE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "10:24:52",
+      "lastUpdated": "2026-09-18T04:54:52.086Z"
     }
   },
   "showroomVisits": {
@@ -90186,6 +90200,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "10:24:52",
+      "iso": "2026-09-18T04:54:52.088Z",
+      "action": "updated remark for NCPO-OT275 at KURUWITA: “SELLABLE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
+      "time": "10:24:40",
+      "iso": "2026-09-18T04:54:40.407Z",
+      "action": "updated remark for NCPO-DC200 at KURUWITA: “SELLABLE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "10:24:23",
       "iso": "2026-09-18T04:54:23.292Z",
       "action": "updated remark for TF-FP24-SCR342 at KURUWITA: “Flat 30%”"
@@ -90518,20 +90546,6 @@
       "time": "09:24:07",
       "iso": "2026-09-18T03:54:07.192Z",
       "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at DEHIOWITA: “FREE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:23:55",
-      "iso": "2026-09-18T03:53:55.437Z",
-      "action": "updated remark for HON-CH-WATCH-2PRO-WHT at DEHIOWITA: “FREE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:23:42",
-      "iso": "2026-09-18T03:53:42.014Z",
-      "action": "updated remark for SLE32D3010TC at DEHIOWITA: “70%”"
     }
   ]
 }
