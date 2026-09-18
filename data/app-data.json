@@ -89025,6 +89025,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "15:42:22",
       "lastUpdated": "2026-09-18T10:12:22.623Z"
+    },
+    "BES-CRS-51||EHELIYAGODA": {
+      "remark": "Add 10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "15:42:42",
+      "lastUpdated": "2026-09-18T10:12:42.670Z"
     }
   },
   "showroomVisits": {
@@ -91305,6 +91312,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "15:42:42",
+      "iso": "2026-09-18T10:12:42.673Z",
+      "action": "updated remark for BES-CRS-51 at EHELIYAGODA: “Add 10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "15:42:22",
       "iso": "2026-09-18T10:12:22.627Z",
       "action": "updated remark for SL-ECO192-TG at EHELIYAGODA: “25%”"
@@ -91644,13 +91658,6 @@
       "time": "14:22:56",
       "iso": "2026-09-18T08:52:56.203Z",
       "action": "updated remark for TF-NIFP28-042 at EHELIYAGODA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "14:22:13",
-      "iso": "2026-09-18T08:52:13.607Z",
-      "action": "updated remark for TF-NIDFP24-170 at EHELIYAGODA: “30%”"
     }
   ]
 }
