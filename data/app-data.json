@@ -87737,6 +87737,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:39:06",
       "lastUpdated": "2026-09-18T04:09:06.316Z"
+    },
+    "PN-SC-UX100GS-K||KURUWITA": {
+      "remark": "45000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:39:24",
+      "lastUpdated": "2026-09-18T04:09:24.428Z"
     }
   },
   "showroomVisits": {
@@ -90011,6 +90018,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:39:24",
+      "iso": "2026-09-18T04:09:24.431Z",
+      "action": "updated remark for PN-SC-UX100GS-K at KURUWITA: “45000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:39:06",
       "iso": "2026-09-18T04:09:06.317Z",
       "action": "updated remark for GTK-PG10 at KURUWITA: “30000”"
@@ -90350,13 +90364,6 @@
       "time": "16:06:27",
       "iso": "2026-09-17T10:36:27.239Z",
       "action": "updated remark for R-BWS-02 at DEHIOWITA: “Add 30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:06:08",
-      "iso": "2026-09-17T10:36:08.752Z",
-      "action": "updated remark for PCP30 at DEHIOWITA: “4000”"
     }
   ]
 }
