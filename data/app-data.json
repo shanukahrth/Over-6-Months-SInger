@@ -87674,6 +87674,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:26:31",
       "lastUpdated": "2026-09-18T03:56:31.540Z"
+    },
+    "SIN-AIRPKO1B||DEHIOWITA": {
+      "remark": "Add 20%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:27:18",
+      "lastUpdated": "2026-09-18T03:57:18.777Z"
     }
   },
   "showroomVisits": {
@@ -89948,6 +89955,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:27:18",
+      "iso": "2026-09-18T03:57:18.779Z",
+      "action": "updated remark for SIN-AIRPKO1B at DEHIOWITA: “Add 20%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:26:31",
       "iso": "2026-09-18T03:56:31.542Z",
       "action": "updated remark for AES-HAV-615T at DEHIOWITA: “Add 10%”"
@@ -90287,13 +90301,6 @@
       "time": "16:00:45",
       "iso": "2026-09-17T10:30:45.499Z",
       "action": "updated remark for WF-PARIS-BL-S at DEHIOWITA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:00:26",
-      "iso": "2026-09-17T10:30:26.486Z",
-      "action": "updated remark for GEO-242D-SV at DEHIOWITA: “25%”"
     }
   ]
 }
