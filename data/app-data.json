@@ -87772,6 +87772,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:42:05",
       "lastUpdated": "2026-09-18T04:12:05.684Z"
+    },
+    "ETEL-K20MINIPC-SITS||KURUWITA": {
+      "remark": "S/R Use",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:42:45",
+      "lastUpdated": "2026-09-18T04:12:45.408Z"
     }
   },
   "showroomVisits": {
@@ -90046,6 +90053,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:42:45",
+      "iso": "2026-09-18T04:12:45.410Z",
+      "action": "updated remark for ETEL-K20MINIPC-SITS at KURUWITA: “S/R Use”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:42:05",
       "iso": "2026-09-18T04:12:05.687Z",
       "action": "updated remark for SIN-PSVX938N at KURUWITA: “Damaged, 18,500”"
@@ -90385,13 +90399,6 @@
       "time": "16:08:15",
       "iso": "2026-09-17T10:38:15.714Z",
       "action": "updated remark for BR-1 at DEHIOWITA: “Sellable”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:08:04",
-      "iso": "2026-09-17T10:38:04.420Z",
-      "action": "updated remark for TH-TC-500 at DEHIOWITA: “80%”"
     }
   ]
 }
