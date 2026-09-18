@@ -87989,6 +87989,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "10:29:31",
       "lastUpdated": "2026-09-18T04:59:31.190Z"
+    },
+    "SIN-RFC-2012||KURUWITA": {
+      "remark": "Add 10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "10:30:24",
+      "lastUpdated": "2026-09-18T05:00:24.704Z"
     }
   },
   "showroomVisits": {
@@ -90263,6 +90270,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "10:30:24",
+      "iso": "2026-09-18T05:00:24.708Z",
+      "action": "updated remark for SIN-RFC-2012 at KURUWITA: “Add 10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "10:29:31",
       "iso": "2026-09-18T04:59:31.192Z",
       "action": "updated remark for HU-SECURITY at KURUWITA: “S/R”"
@@ -90602,13 +90616,6 @@
       "time": "09:28:57",
       "iso": "2026-09-18T03:58:57.618Z",
       "action": "updated remark for MCT-302N at DEHIOWITA: “S/R”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:28:40",
-      "iso": "2026-09-18T03:58:40.532Z",
-      "action": "updated remark for MID-MC-ID351 at DEHIOWITA: “35000”"
     }
   ]
 }
