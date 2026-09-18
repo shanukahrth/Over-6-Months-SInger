@@ -87723,6 +87723,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:38:18",
       "lastUpdated": "2026-09-18T04:08:18.953Z"
+    },
+    "SXLC7371K||KURUWITA": {
+      "remark": "10000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:38:44",
+      "lastUpdated": "2026-09-18T04:08:44.727Z"
     }
   },
   "showroomVisits": {
@@ -89997,6 +90004,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:38:44",
+      "iso": "2026-09-18T04:08:44.729Z",
+      "action": "updated remark for SXLC7371K at KURUWITA: “10000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:38:18",
       "iso": "2026-09-18T04:08:18.956Z",
       "action": "updated remark for MHC-V13 at KURUWITA: “25000”"
@@ -90336,13 +90350,6 @@
       "time": "16:05:18",
       "iso": "2026-09-17T10:35:18.911Z",
       "action": "updated remark for PM-COMP-8 at DEHIOWITA: “SR”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:04:59",
-      "iso": "2026-09-17T10:34:59.415Z",
-      "action": "updated remark for WP-2-S at DEHIOWITA: “70%”"
     }
   ]
 }
