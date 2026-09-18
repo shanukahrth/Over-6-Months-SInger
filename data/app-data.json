@@ -88486,6 +88486,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "13:58:36",
       "lastUpdated": "2026-09-18T08:28:36.436Z"
+    },
+    "WF-OF-CHR14-S||EHELIYAGODA": {
+      "remark": "Add 10%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "13:58:55",
+      "lastUpdated": "2026-09-18T08:28:55.897Z"
     }
   },
   "showroomVisits": {
@@ -90766,6 +90773,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "13:58:55",
+      "iso": "2026-09-18T08:28:55.900Z",
+      "action": "updated remark for WF-OF-CHR14-S at EHELIYAGODA: “Add 10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "13:58:36",
       "iso": "2026-09-18T08:28:36.438Z",
       "action": "updated remark for OF-SW120-S at EHELIYAGODA: “70%”"
@@ -91105,13 +91119,6 @@
       "time": "11:13:51",
       "iso": "2026-09-18T05:43:51.517Z",
       "action": "updated remark for DH-I-A22EP-G-IMOU at KURUWITA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "11:08:38",
-      "iso": "2026-09-18T05:38:38.294Z",
-      "action": "updated remark for WS-300B at KURUWITA: “S/R”"
     }
   ]
 }
