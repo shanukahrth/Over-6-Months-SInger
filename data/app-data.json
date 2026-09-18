@@ -88647,6 +88647,20 @@
       "commentDate": "2026-09-18",
       "commentTime": "14:17:35",
       "lastUpdated": "2026-09-18T08:47:35.622Z"
+    },
+    "SIN-MRG-1008C||EHELIYAGODA": {
+      "remark": "SELLABLE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "14:18:53",
+      "lastUpdated": "2026-09-18T08:48:53.446Z"
+    },
+    "TFFV1026MO||EHELIYAGODA": {
+      "remark": "80%, Damaged",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "14:19:17",
+      "lastUpdated": "2026-09-18T08:49:17.549Z"
     }
   },
   "showroomVisits": {
@@ -90927,6 +90941,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "14:19:17",
+      "iso": "2026-09-18T08:49:17.550Z",
+      "action": "updated remark for TFFV1026MO at EHELIYAGODA: “80%, Damaged”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
+      "time": "14:18:53",
+      "iso": "2026-09-18T08:48:53.447Z",
+      "action": "updated remark for SIN-MRG-1008C at EHELIYAGODA: “SELLABLE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "14:17:35",
       "iso": "2026-09-18T08:47:35.628Z",
       "action": "updated remark for MID-DSK38EU5 at EHELIYAGODA: “SELLABLE”"
@@ -91259,20 +91287,6 @@
       "time": "11:55:14",
       "iso": "2026-09-18T06:25:14.145Z",
       "action": "updated remark for HFPA-MUSICBOX-BLC at EHELIYAGODA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "11:53:42",
-      "iso": "2026-09-18T06:23:42.072Z",
-      "action": "updated remark for CMT-SBT40D at EHELIYAGODA: “Court case”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "11:53:27",
-      "iso": "2026-09-18T06:23:27.099Z",
-      "action": "updated remark for HFPA-EVENT-BLC at EHELIYAGODA: “20000”"
     }
   ]
 }
