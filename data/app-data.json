@@ -87625,6 +87625,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:23:29",
       "lastUpdated": "2026-09-18T03:53:29.248Z"
+    },
+    "SLE32D3010TC||DEHIOWITA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:23:42",
+      "lastUpdated": "2026-09-18T03:53:42.011Z"
     }
   },
   "showroomVisits": {
@@ -89899,6 +89906,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:23:42",
+      "iso": "2026-09-18T03:53:42.014Z",
+      "action": "updated remark for SLE32D3010TC at DEHIOWITA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:23:29",
       "iso": "2026-09-18T03:53:29.250Z",
       "action": "updated remark for SLE32E920 at DEHIOWITA: “70%”"
@@ -90238,13 +90252,6 @@
       "time": "15:54:45",
       "iso": "2026-09-17T10:24:45.218Z",
       "action": "updated remark for MB-SAFARI4S-RED at DEHIOWITA: “200,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "15:54:29",
-      "iso": "2026-09-17T10:24:29.336Z",
-      "action": "updated remark for SMG-A17-8-128-GRY at DEHIOWITA: “Display- Add 10%”"
     }
   ]
 }
