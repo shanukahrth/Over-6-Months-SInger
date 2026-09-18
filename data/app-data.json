@@ -88528,6 +88528,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "14:00:20",
       "lastUpdated": "2026-09-18T08:30:20.159Z"
+    },
+    "PF-GRID-1D-BG-S||EHELIYAGODA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "14:05:36",
+      "lastUpdated": "2026-09-18T08:35:36.500Z"
     }
   },
   "showroomVisits": {
@@ -90808,6 +90815,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "14:05:36",
+      "iso": "2026-09-18T08:35:36.520Z",
+      "action": "updated remark for PF-GRID-1D-BG-S at EHELIYAGODA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "14:00:20",
       "iso": "2026-09-18T08:30:20.160Z",
       "action": "updated remark for LFLCDCHAMP-BLK-S at EHELIYAGODA: “70%”"
@@ -91147,13 +91161,6 @@
       "time": "11:21:16",
       "iso": "2026-09-18T05:51:16.435Z",
       "action": "updated remark for SLE32D5000 at KURUWITA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "11:21:14",
-      "iso": "2026-09-18T05:51:14.078Z",
-      "action": "updated remark for SLE32D3010TC at KURUWITA: “70%”"
     }
   ]
 }
