@@ -88570,6 +88570,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "14:12:53",
       "lastUpdated": "2026-09-18T08:42:53.236Z"
+    },
+    "WF-DOC-M003-BU-S||EHELIYAGODA": {
+      "remark": "SELLABLE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "14:13:12",
+      "lastUpdated": "2026-09-18T08:43:12.151Z"
     }
   },
   "showroomVisits": {
@@ -90850,6 +90857,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "14:13:12",
+      "iso": "2026-09-18T08:43:12.153Z",
+      "action": "updated remark for WF-DOC-M003-BU-S at EHELIYAGODA: “SELLABLE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "14:12:53",
       "iso": "2026-09-18T08:42:53.238Z",
       "action": "updated remark for WFI-SOC-M005-BU-S at EHELIYAGODA: “SELLABLE”"
@@ -91189,13 +91203,6 @@
       "time": "11:37:22",
       "iso": "2026-09-18T06:07:22.064Z",
       "action": "updated remark for SLE40D600A at KURUWITA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "11:36:36",
-      "iso": "2026-09-18T06:06:36.353Z",
-      "action": "updated remark for TCL43S5400 at KURUWITA: “40%”"
     }
   ]
 }
