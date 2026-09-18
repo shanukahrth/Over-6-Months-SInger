@@ -87702,6 +87702,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:28:40",
       "lastUpdated": "2026-09-18T03:58:40.529Z"
+    },
+    "MCT-302N||DEHIOWITA": {
+      "remark": "S/R",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:28:57",
+      "lastUpdated": "2026-09-18T03:58:57.615Z"
     }
   },
   "showroomVisits": {
@@ -89976,6 +89983,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:28:57",
+      "iso": "2026-09-18T03:58:57.618Z",
+      "action": "updated remark for MCT-302N at DEHIOWITA: “S/R”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:28:40",
       "iso": "2026-09-18T03:58:40.532Z",
       "action": "updated remark for MID-MC-ID351 at DEHIOWITA: “35000”"
@@ -90315,13 +90329,6 @@
       "time": "16:03:01",
       "iso": "2026-09-17T10:33:01.535Z",
       "action": "updated remark for SMW928AS3 at DEHIOWITA: “40000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:02:10",
-      "iso": "2026-09-17T10:32:10.484Z",
-      "action": "updated remark for NEXT-K9-85 at DEHIOWITA: “SR”"
     }
   ]
 }
