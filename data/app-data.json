@@ -89081,6 +89081,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "15:44:53",
       "lastUpdated": "2026-09-18T10:14:53.108Z"
+    },
+    "DH-IPC-F2CP-LED-0360B||EHELIYAGODA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "15:45:13",
+      "lastUpdated": "2026-09-18T10:15:13.405Z"
     }
   },
   "showroomVisits": {
@@ -91361,6 +91368,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "15:45:13",
+      "iso": "2026-09-18T10:15:13.409Z",
+      "action": "updated remark for DH-IPC-F2CP-LED-0360B at EHELIYAGODA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "15:44:53",
       "iso": "2026-09-18T10:14:53.110Z",
       "action": "updated remark for HG-PRO1201SFCU at EHELIYAGODA: “SR”"
@@ -91700,13 +91714,6 @@
       "time": "15:26:01",
       "iso": "2026-09-18T09:56:01.058Z",
       "action": "updated remark for MID-BL1190 at EHELIYAGODA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:25:25",
-      "iso": "2026-09-18T09:55:25.975Z",
-      "action": "updated remark for SL-PM-8017 at EHELIYAGODA: “SELLABLE”"
     }
   ]
 }
