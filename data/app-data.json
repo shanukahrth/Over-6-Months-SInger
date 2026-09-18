@@ -88038,6 +88038,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "10:33:05",
       "lastUpdated": "2026-09-18T05:03:05.088Z"
+    },
+    "SMW928AS3||KURUWITA": {
+      "remark": "35000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "10:33:24",
+      "lastUpdated": "2026-09-18T05:03:24.256Z"
     }
   },
   "showroomVisits": {
@@ -90312,6 +90319,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "10:33:24",
+      "iso": "2026-09-18T05:03:24.258Z",
+      "action": "updated remark for SMW928AS3 at KURUWITA: “35000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "10:33:05",
       "iso": "2026-09-18T05:03:05.090Z",
       "action": "updated remark for PCM-40 at KURUWITA: “50%”"
@@ -90651,13 +90665,6 @@
       "time": "09:39:24",
       "iso": "2026-09-18T04:09:24.431Z",
       "action": "updated remark for PN-SC-UX100GS-K at KURUWITA: “45000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:39:06",
-      "iso": "2026-09-18T04:09:06.317Z",
-      "action": "updated remark for GTK-PG10 at KURUWITA: “30000”"
     }
   ]
 }
