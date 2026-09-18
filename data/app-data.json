@@ -87765,6 +87765,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:41:46",
       "lastUpdated": "2026-09-18T04:11:46.844Z"
+    },
+    "SIN-PSVX938N||KURUWITA": {
+      "remark": "Damaged, 18,500",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:42:05",
+      "lastUpdated": "2026-09-18T04:12:05.684Z"
     }
   },
   "showroomVisits": {
@@ -90039,6 +90046,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:42:05",
+      "iso": "2026-09-18T04:12:05.687Z",
+      "action": "updated remark for SIN-PSVX938N at KURUWITA: “Damaged, 18,500”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:41:46",
       "iso": "2026-09-18T04:11:46.846Z",
       "action": "updated remark for SIN-BS30 at KURUWITA: “8,500”"
@@ -90378,13 +90392,6 @@
       "time": "16:08:04",
       "iso": "2026-09-17T10:38:04.420Z",
       "action": "updated remark for TH-TC-500 at DEHIOWITA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:07:27",
-      "iso": "2026-09-17T10:37:27.129Z",
-      "action": "updated remark for NCPO-DC200 at DEHIOWITA: “Sellable”"
     }
   ]
 }
