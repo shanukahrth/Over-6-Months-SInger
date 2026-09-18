@@ -87807,6 +87807,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:50:45",
       "lastUpdated": "2026-09-18T04:20:45.864Z"
+    },
+    "PF-STRG-BX-45L-S||KURUWITA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:51:19",
+      "lastUpdated": "2026-09-18T04:21:19.965Z"
     }
   },
   "showroomVisits": {
@@ -90081,6 +90088,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:51:19",
+      "iso": "2026-09-18T04:21:19.967Z",
+      "action": "updated remark for PF-STRG-BX-45L-S at KURUWITA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:50:45",
       "iso": "2026-09-18T04:20:45.867Z",
       "action": "updated remark for LF-BUDGET-ST-CLM-S at KURUWITA: “50%”"
@@ -90420,13 +90434,6 @@
       "time": "16:10:39",
       "iso": "2026-09-17T10:40:39.951Z",
       "action": "updated remark for PM-OS-BAT at DEHIOWITA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:10:22",
-      "iso": "2026-09-17T10:40:22.077Z",
-      "action": "updated remark for SWP-SLCT-01 at DEHIOWITA: “70%”"
     }
   ]
 }
