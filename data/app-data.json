@@ -88073,6 +88073,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "10:37:18",
       "lastUpdated": "2026-09-18T05:07:18.842Z"
+    },
+    "HON-X9B-12-256-ORG||KURUWITA": {
+      "remark": "STOCK ERROR",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "10:38:24",
+      "lastUpdated": "2026-09-18T05:08:24.794Z"
     }
   },
   "showroomVisits": {
@@ -90347,6 +90354,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "10:38:24",
+      "iso": "2026-09-18T05:08:24.796Z",
+      "action": "updated remark for HON-X9B-12-256-ORG at KURUWITA: “STOCK ERROR”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "10:37:18",
       "iso": "2026-09-18T05:07:18.843Z",
       "action": "updated remark for SMG-A36-5G-8-128-BLK at KURUWITA: “SELLABLE”"
@@ -90686,13 +90700,6 @@
       "time": "09:42:45",
       "iso": "2026-09-18T04:12:45.410Z",
       "action": "updated remark for ETEL-K20MINIPC-SITS at KURUWITA: “S/R Use”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:42:05",
-      "iso": "2026-09-18T04:12:05.687Z",
-      "action": "updated remark for SIN-PSVX938N at KURUWITA: “Damaged, 18,500”"
     }
   ]
 }
