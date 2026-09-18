@@ -87667,6 +87667,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:25:59",
       "lastUpdated": "2026-09-18T03:55:59.204Z"
+    },
+    "AES-HAV-615T||DEHIOWITA": {
+      "remark": "ADD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:26:10",
+      "lastUpdated": "2026-09-18T03:56:10.762Z"
     }
   },
   "showroomVisits": {
@@ -89941,6 +89948,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:26:10",
+      "iso": "2026-09-18T03:56:10.765Z",
+      "action": "updated remark for AES-HAV-615T at DEHIOWITA: “ADD”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:25:59",
       "iso": "2026-09-18T03:55:59.206Z",
       "action": "updated remark for QT-SITUP at DEHIOWITA: “25000”"
@@ -90280,13 +90294,6 @@
       "time": "16:00:04",
       "iso": "2026-09-17T10:30:04.109Z",
       "action": "updated remark for TCL43S5400 at DEHIOWITA: “Add- 10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "15:58:00",
-      "iso": "2026-09-17T10:28:00.305Z",
-      "action": "updated remark for HON-X9C-12-256-PPL at DEHIOWITA: “sellable”"
     }
   ]
 }
