@@ -88311,6 +88311,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "11:50:40",
       "lastUpdated": "2026-09-18T06:20:40.439Z"
+    },
+    "SRS-XB12-BLC||EHELIYAGODA": {
+      "remark": "FREE  ISSUE",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "11:50:59",
+      "lastUpdated": "2026-09-18T06:20:59.585Z"
     }
   },
   "showroomVisits": {
@@ -90591,6 +90598,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "11:50:59",
+      "iso": "2026-09-18T06:20:59.588Z",
+      "action": "updated remark for SRS-XB12-BLC at EHELIYAGODA: “FREE  ISSUE”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "11:50:40",
       "iso": "2026-09-18T06:20:40.441Z",
       "action": "updated remark for DUM - SMGAR50F24D1J at EHELIYAGODA: “-”"
@@ -90930,13 +90944,6 @@
       "time": "10:31:49",
       "iso": "2026-09-18T05:01:49.232Z",
       "action": "updated remark for CM-VIR-GUARD at KURUWITA: “S/R Use”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "10:31:02",
-      "iso": "2026-09-18T05:01:02.131Z",
-      "action": "updated remark for SIN-RFC-1819 at KURUWITA: “Add 10%”"
     }
   ]
 }
