@@ -88332,6 +88332,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "11:52:06",
       "lastUpdated": "2026-09-18T06:22:06.303Z"
+    },
+    "SIN-MH51SW||EHELIYAGODA": {
+      "remark": "10000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "11:52:37",
+      "lastUpdated": "2026-09-18T06:22:37.763Z"
     }
   },
   "showroomVisits": {
@@ -90612,6 +90619,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "11:52:37",
+      "iso": "2026-09-18T06:22:37.765Z",
+      "action": "updated remark for SIN-MH51SW at EHELIYAGODA: “10000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "11:52:06",
       "iso": "2026-09-18T06:22:06.306Z",
       "action": "updated remark for MHC-M40D at EHELIYAGODA: “80%”"
@@ -90951,13 +90965,6 @@
       "time": "10:33:05",
       "iso": "2026-09-18T05:03:05.090Z",
       "action": "updated remark for PCM-40 at KURUWITA: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "10:32:42",
-      "iso": "2026-09-18T05:02:42.971Z",
-      "action": "updated remark for SLMC-18DSLHS at KURUWITA: “13,000”"
     }
   ]
 }
