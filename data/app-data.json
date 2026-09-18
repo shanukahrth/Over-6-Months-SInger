@@ -90481,9 +90481,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-16"
+    },
+    "NVC2302A1||KURUWITA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-18"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
+      "time": "11:20:17",
+      "iso": "2026-09-18T05:50:17.614Z",
+      "action": "marked NVC2302A1 at KURUWITA as Sold"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
@@ -90826,13 +90839,6 @@
       "time": "10:24:11",
       "iso": "2026-09-18T04:54:11.128Z",
       "action": "updated remark for TF-NIFP28-042 at KURUWITA: “Flat 30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "10:23:58",
-      "iso": "2026-09-18T04:53:58.234Z",
-      "action": "updated remark for TF-KD24-061 at KURUWITA: “Flat 30%”"
     }
   ]
 }
