@@ -88010,6 +88010,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "10:31:49",
       "lastUpdated": "2026-09-18T05:01:49.230Z"
+    },
+    "SISIL-RC280||KURUWITA": {
+      "remark": "80%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "10:32:11",
+      "lastUpdated": "2026-09-18T05:02:11.201Z"
     }
   },
   "showroomVisits": {
@@ -90284,6 +90291,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "10:32:11",
+      "iso": "2026-09-18T05:02:11.204Z",
+      "action": "updated remark for SISIL-RC280 at KURUWITA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "10:31:49",
       "iso": "2026-09-18T05:01:49.232Z",
       "action": "updated remark for CM-VIR-GUARD at KURUWITA: “S/R Use”"
@@ -90623,13 +90637,6 @@
       "time": "09:37:55",
       "iso": "2026-09-18T04:07:55.073Z",
       "action": "updated remark for MHC-V13 at KURUWITA: “30000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:37:17",
-      "iso": "2026-09-18T04:07:17.314Z",
-      "action": "updated remark for SMGAR50F12D0J at KURUWITA: “189,000”"
     }
   ]
 }
