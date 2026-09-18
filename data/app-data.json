@@ -87718,11 +87718,11 @@
       "lastUpdated": "2026-09-18T03:59:08.022Z"
     },
     "MHC-V13||KURUWITA": {
-      "remark": "30000",
+      "remark": "25000",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-18",
-      "commentTime": "09:37:55",
-      "lastUpdated": "2026-09-18T04:07:55.071Z"
+      "commentTime": "09:38:18",
+      "lastUpdated": "2026-09-18T04:08:18.953Z"
     }
   },
   "showroomVisits": {
@@ -89997,6 +89997,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:38:18",
+      "iso": "2026-09-18T04:08:18.956Z",
+      "action": "updated remark for MHC-V13 at KURUWITA: “25000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:37:55",
       "iso": "2026-09-18T04:07:55.073Z",
       "action": "updated remark for MHC-V13 at KURUWITA: “30000”"
@@ -90336,13 +90343,6 @@
       "time": "16:04:59",
       "iso": "2026-09-17T10:34:59.415Z",
       "action": "updated remark for WP-2-S at DEHIOWITA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:04:33",
-      "iso": "2026-09-17T10:34:33.889Z",
-      "action": "updated remark for SWH-338EP at DEHIOWITA: “Add 10%”"
     }
   ]
 }
