@@ -88157,6 +88157,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "11:06:40",
       "lastUpdated": "2026-09-18T05:36:40.656Z"
+    },
+    "GEO-182S-SV||KURUWITA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "11:06:55",
+      "lastUpdated": "2026-09-18T05:36:55.059Z"
     }
   },
   "showroomVisits": {
@@ -90431,6 +90438,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "11:06:55",
+      "iso": "2026-09-18T05:36:55.061Z",
+      "action": "updated remark for GEO-182S-SV at KURUWITA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "11:06:40",
       "iso": "2026-09-18T05:36:40.658Z",
       "action": "updated remark for GEO-242D-SV at KURUWITA: “25% FLAT”"
@@ -90770,13 +90784,6 @@
       "time": "09:53:44",
       "iso": "2026-09-18T04:23:44.108Z",
       "action": "updated remark for WFL-SPM-78X75X8-S at KURUWITA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:53:24",
-      "iso": "2026-09-18T04:23:24.712Z",
-      "action": "updated remark for WFL-NELBED at KURUWITA: “50%”"
     }
   ]
 }
