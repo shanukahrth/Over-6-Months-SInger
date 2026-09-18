@@ -88285,11 +88285,11 @@
       "lastUpdated": "2026-09-18T06:06:08.920Z"
     },
     "TCL43S5400||KURUWITA": {
-      "remark": "40%",
+      "remark": "70%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-18",
-      "commentTime": "11:41:16",
-      "lastUpdated": "2026-09-18T06:11:16.979Z"
+      "commentTime": "11:41:33",
+      "lastUpdated": "2026-09-18T06:11:33.812Z"
     },
     "SLE40D600A||KURUWITA": {
       "remark": "50%",
@@ -90584,6 +90584,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "11:41:33",
+      "iso": "2026-09-18T06:11:33.815Z",
+      "action": "updated remark for TCL43S5400 at KURUWITA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "11:41:16",
       "iso": "2026-09-18T06:11:16.982Z",
       "action": "updated remark for TCL43S5400 at KURUWITA: “40%”"
@@ -90923,13 +90930,6 @@
       "time": "10:30:24",
       "iso": "2026-09-18T05:00:24.708Z",
       "action": "updated remark for SIN-RFC-2012 at KURUWITA: “Add 10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "10:29:31",
-      "iso": "2026-09-18T04:59:31.192Z",
-      "action": "updated remark for HU-SECURITY at KURUWITA: “S/R”"
     }
   ]
 }
