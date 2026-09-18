@@ -87814,6 +87814,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:51:19",
       "lastUpdated": "2026-09-18T04:21:19.965Z"
+    },
+    "WF-JUPITER-05-S||KURUWITA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:51:53",
+      "lastUpdated": "2026-09-18T04:21:53.917Z"
     }
   },
   "showroomVisits": {
@@ -90088,6 +90095,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:51:53",
+      "iso": "2026-09-18T04:21:53.919Z",
+      "action": "updated remark for WF-JUPITER-05-S at KURUWITA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:51:19",
       "iso": "2026-09-18T04:21:19.967Z",
       "action": "updated remark for PF-STRG-BX-45L-S at KURUWITA: “50%”"
@@ -90427,13 +90441,6 @@
       "time": "16:11:01",
       "iso": "2026-09-17T10:41:01.710Z",
       "action": "updated remark for PCP50 at DEHIOWITA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:10:39",
-      "iso": "2026-09-17T10:40:39.951Z",
-      "action": "updated remark for PM-OS-BAT at DEHIOWITA: “SELLABLE”"
     }
   ]
 }
