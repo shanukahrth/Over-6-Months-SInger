@@ -87669,11 +87669,11 @@
       "lastUpdated": "2026-09-18T03:55:59.204Z"
     },
     "AES-HAV-615T||DEHIOWITA": {
-      "remark": "ADD",
+      "remark": "Add 10%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-18",
-      "commentTime": "09:26:10",
-      "lastUpdated": "2026-09-18T03:56:10.762Z"
+      "commentTime": "09:26:31",
+      "lastUpdated": "2026-09-18T03:56:31.540Z"
     }
   },
   "showroomVisits": {
@@ -89948,6 +89948,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:26:31",
+      "iso": "2026-09-18T03:56:31.542Z",
+      "action": "updated remark for AES-HAV-615T at DEHIOWITA: “Add 10%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:26:10",
       "iso": "2026-09-18T03:56:10.765Z",
       "action": "updated remark for AES-HAV-615T at DEHIOWITA: “ADD”"
@@ -90287,13 +90294,6 @@
       "time": "16:00:26",
       "iso": "2026-09-17T10:30:26.486Z",
       "action": "updated remark for GEO-242D-SV at DEHIOWITA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:00:04",
-      "iso": "2026-09-17T10:30:04.109Z",
-      "action": "updated remark for TCL43S5400 at DEHIOWITA: “Add- 10%”"
     }
   ]
 }
