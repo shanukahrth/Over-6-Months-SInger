@@ -88213,6 +88213,27 @@
       "commentDate": "2026-09-18",
       "commentTime": "11:19:45",
       "lastUpdated": "2026-09-18T05:49:45.949Z"
+    },
+    "SLE32D2010TC||KURUWITA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "11:21:11",
+      "lastUpdated": "2026-09-18T05:51:11.506Z"
+    },
+    "SLE32D3010TC||KURUWITA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "11:21:14",
+      "lastUpdated": "2026-09-18T05:51:14.076Z"
+    },
+    "SLE32D5000||KURUWITA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "11:21:16",
+      "lastUpdated": "2026-09-18T05:51:16.434Z"
     }
   },
   "showroomVisits": {
@@ -90493,6 +90514,27 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "11:21:16",
+      "iso": "2026-09-18T05:51:16.435Z",
+      "action": "updated remark for SLE32D5000 at KURUWITA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
+      "time": "11:21:14",
+      "iso": "2026-09-18T05:51:14.078Z",
+      "action": "updated remark for SLE32D3010TC at KURUWITA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
+      "time": "11:21:11",
+      "iso": "2026-09-18T05:51:11.509Z",
+      "action": "updated remark for SLE32D2010TC at KURUWITA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "11:20:17",
       "iso": "2026-09-18T05:50:17.614Z",
       "action": "marked NVC2302A1 at KURUWITA as Sold"
@@ -90818,27 +90860,6 @@
       "time": "10:24:52",
       "iso": "2026-09-18T04:54:52.088Z",
       "action": "updated remark for NCPO-OT275 at KURUWITA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "10:24:40",
-      "iso": "2026-09-18T04:54:40.407Z",
-      "action": "updated remark for NCPO-DC200 at KURUWITA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "10:24:23",
-      "iso": "2026-09-18T04:54:23.292Z",
-      "action": "updated remark for TF-FP24-SCR342 at KURUWITA: “Flat 30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "10:24:11",
-      "iso": "2026-09-18T04:54:11.128Z",
-      "action": "updated remark for TF-NIFP28-042 at KURUWITA: “Flat 30%”"
     }
   ]
 }
