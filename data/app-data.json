@@ -87730,6 +87730,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "09:38:44",
       "lastUpdated": "2026-09-18T04:08:44.727Z"
+    },
+    "GTK-PG10||KURUWITA": {
+      "remark": "30000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:39:06",
+      "lastUpdated": "2026-09-18T04:09:06.316Z"
     }
   },
   "showroomVisits": {
@@ -90004,6 +90011,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:39:06",
+      "iso": "2026-09-18T04:09:06.317Z",
+      "action": "updated remark for GTK-PG10 at KURUWITA: “30000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:38:44",
       "iso": "2026-09-18T04:08:44.729Z",
       "action": "updated remark for SXLC7371K at KURUWITA: “10000”"
@@ -90343,13 +90357,6 @@
       "time": "16:06:08",
       "iso": "2026-09-17T10:36:08.752Z",
       "action": "updated remark for PCP30 at DEHIOWITA: “4000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:05:18",
-      "iso": "2026-09-17T10:35:18.911Z",
-      "action": "updated remark for PM-COMP-8 at DEHIOWITA: “SR”"
     }
   ]
 }
