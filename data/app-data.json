@@ -89151,6 +89151,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "15:50:02",
       "lastUpdated": "2026-09-18T10:20:02.468Z"
+    },
+    "PN-TH-32MS670N||EHELIYAGODA": {
+      "remark": "DOA",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "15:50:25",
+      "lastUpdated": "2026-09-18T10:20:25.308Z"
     }
   },
   "showroomVisits": {
@@ -91431,6 +91438,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "15:50:25",
+      "iso": "2026-09-18T10:20:25.312Z",
+      "action": "updated remark for PN-TH-32MS670N at EHELIYAGODA: “DOA”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "15:50:02",
       "iso": "2026-09-18T10:20:02.470Z",
       "action": "updated remark for SLE43G890 at EHELIYAGODA: “SR USED”"
@@ -91770,13 +91784,6 @@
       "time": "15:29:09",
       "iso": "2026-09-18T09:59:09.330Z",
       "action": "updated remark for MID-MG-GP45B at EHELIYAGODA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:28:54",
-      "iso": "2026-09-18T09:58:54.605Z",
-      "action": "updated remark for SLMC-18DSLHS at EHELIYAGODA: “5000”"
     }
   ]
 }
