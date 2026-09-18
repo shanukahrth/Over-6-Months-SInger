@@ -88339,6 +88339,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "11:52:37",
       "lastUpdated": "2026-09-18T06:22:37.763Z"
+    },
+    "HFPA-EVENT-BLC||EHELIYAGODA": {
+      "remark": "20000",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "11:53:14",
+      "lastUpdated": "2026-09-18T06:23:14.256Z"
     }
   },
   "showroomVisits": {
@@ -90619,6 +90626,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "11:53:14",
+      "iso": "2026-09-18T06:23:14.259Z",
+      "action": "updated remark for HFPA-EVENT-BLC at EHELIYAGODA: “20000”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "11:52:37",
       "iso": "2026-09-18T06:22:37.765Z",
       "action": "updated remark for SIN-MH51SW at EHELIYAGODA: “10000”"
@@ -90958,13 +90972,6 @@
       "time": "10:33:24",
       "iso": "2026-09-18T05:03:24.258Z",
       "action": "updated remark for SMW928AS3 at KURUWITA: “35000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "10:33:05",
-      "iso": "2026-09-18T05:03:05.090Z",
-      "action": "updated remark for PCM-40 at KURUWITA: “50%”"
     }
   ]
 }
