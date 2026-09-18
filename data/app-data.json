@@ -18138,11 +18138,11 @@
       "lastUpdated": "2026-08-19T06:41:31.572Z"
     },
     "AS-13G-I3-512GB-3851-SIL||KURUWITA": {
-      "remark": "Software issue",
-      "commentedBy": "Punesha",
-      "commentDate": "2026-08-19",
-      "commentTime": "12:13:07",
-      "lastUpdated": "2026-08-19T06:43:07.298Z"
+      "remark": "Display- 60%. Normal- 5%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "09:43:30",
+      "lastUpdated": "2026-09-18T04:13:30.105Z"
     },
     "DELL3501-I5-8GB1TB-BLK||KURUWITA": {
       "remark": "PO to microchip",
@@ -90053,6 +90053,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "09:43:30",
+      "iso": "2026-09-18T04:13:30.107Z",
+      "action": "updated remark for AS-13G-I3-512GB-3851-SIL at KURUWITA: “Display- 60%. Normal- 5%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "09:42:45",
       "iso": "2026-09-18T04:12:45.410Z",
       "action": "updated remark for ETEL-K20MINIPC-SITS at KURUWITA: “S/R Use”"
@@ -90392,13 +90399,6 @@
       "time": "16:08:32",
       "iso": "2026-09-17T10:38:32.783Z",
       "action": "updated remark for TH-TC-351 at DEHIOWITA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-17",
-      "time": "16:08:15",
-      "iso": "2026-09-17T10:38:15.714Z",
-      "action": "updated remark for BR-1 at DEHIOWITA: “Sellable”"
     }
   ]
 }
