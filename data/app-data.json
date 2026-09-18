@@ -88185,6 +88185,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "11:08:21",
       "lastUpdated": "2026-09-18T05:38:21.453Z"
+    },
+    "WS-300B||KURUWITA": {
+      "remark": "S/R",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "11:08:38",
+      "lastUpdated": "2026-09-18T05:38:38.292Z"
     }
   },
   "showroomVisits": {
@@ -90459,6 +90466,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "11:08:38",
+      "iso": "2026-09-18T05:38:38.294Z",
+      "action": "updated remark for WS-300B at KURUWITA: “S/R”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "11:08:21",
       "iso": "2026-09-18T05:38:21.456Z",
       "action": "updated remark for BES-WP15-ECO at KURUWITA: “15,000”"
@@ -90798,13 +90812,6 @@
       "time": "09:58:09",
       "iso": "2026-09-18T04:28:09.549Z",
       "action": "updated remark for TF-IGP26-119 at KURUWITA: “FLAT 70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:57:38",
-      "iso": "2026-09-18T04:27:38.830Z",
-      "action": "updated remark for TF-NIGP26-119 at KURUWITA: “FLAT 30%”"
     }
   ]
 }
