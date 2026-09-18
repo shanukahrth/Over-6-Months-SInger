@@ -88003,6 +88003,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "10:31:02",
       "lastUpdated": "2026-09-18T05:01:02.128Z"
+    },
+    "CM-VIR-GUARD||KURUWITA": {
+      "remark": "S/R Use",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "10:31:49",
+      "lastUpdated": "2026-09-18T05:01:49.230Z"
     }
   },
   "showroomVisits": {
@@ -90277,6 +90284,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "10:31:49",
+      "iso": "2026-09-18T05:01:49.232Z",
+      "action": "updated remark for CM-VIR-GUARD at KURUWITA: “S/R Use”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "10:31:02",
       "iso": "2026-09-18T05:01:02.131Z",
       "action": "updated remark for SIN-RFC-1819 at KURUWITA: “Add 10%”"
@@ -90616,13 +90630,6 @@
       "time": "09:37:17",
       "iso": "2026-09-18T04:07:17.314Z",
       "action": "updated remark for SMGAR50F12D0J at KURUWITA: “189,000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "09:29:08",
-      "iso": "2026-09-18T03:59:08.024Z",
-      "action": "updated remark for WF-CLASSIC-S at DEHIOWITA: “70%”"
     }
   ]
 }
