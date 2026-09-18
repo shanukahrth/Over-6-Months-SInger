@@ -88619,6 +88619,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "14:15:30",
       "lastUpdated": "2026-09-18T08:45:30.304Z"
+    },
+    "ALU-DPL-STN-5FT-S||EHELIYAGODA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-18",
+      "commentTime": "14:15:53",
+      "lastUpdated": "2026-09-18T08:45:53.648Z"
     }
   },
   "showroomVisits": {
@@ -90899,6 +90906,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
+      "time": "14:15:53",
+      "iso": "2026-09-18T08:45:53.650Z",
+      "action": "updated remark for ALU-DPL-STN-5FT-S at EHELIYAGODA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-18",
       "time": "14:15:30",
       "iso": "2026-09-18T08:45:30.306Z",
       "action": "updated remark for WFL-MONACO-12-S at EHELIYAGODA: “4000, Damage”"
@@ -91238,13 +91252,6 @@
       "time": "11:51:53",
       "iso": "2026-09-18T06:21:53.806Z",
       "action": "updated remark for MHC-M40D at EHELIYAGODA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "11:51:29",
-      "iso": "2026-09-18T06:21:29.273Z",
-      "action": "updated remark for SRS-XV500 at EHELIYAGODA: “30%”"
     }
   ]
 }
