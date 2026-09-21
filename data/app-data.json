@@ -89298,6 +89298,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "10:04:37",
       "lastUpdated": "2026-09-21T04:34:37.550Z"
+    },
+    "MHC-M40D||WARAKAPOLA - B": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "10:05:30",
+      "lastUpdated": "2026-09-21T04:35:30.832Z"
     }
   },
   "showroomVisits": {
@@ -91578,6 +91585,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "10:05:30",
+      "iso": "2026-09-21T04:35:30.833Z",
+      "action": "updated remark for MHC-M40D at WARAKAPOLA - B: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "10:04:37",
       "iso": "2026-09-21T04:34:37.551Z",
       "action": "updated remark for DUM-SMGAR50F12D0J at WARAKAPOLA - B: “Damage”"
@@ -91917,13 +91931,6 @@
       "time": "15:40:12",
       "iso": "2026-09-18T10:10:12.473Z",
       "action": "updated remark for PT-STGS9100 at EHELIYAGODA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:40:01",
-      "iso": "2026-09-18T10:10:01.035Z",
-      "action": "updated remark for PT-SCD12S2 at EHELIYAGODA: “60%”"
     }
   ]
 }
