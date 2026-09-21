@@ -89242,6 +89242,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "09:50:48",
       "lastUpdated": "2026-09-21T04:20:48.628Z"
+    },
+    "WFL-RIO-02-S||WARAKAPOLA - B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "09:54:01",
+      "lastUpdated": "2026-09-21T04:24:01.204Z"
     }
   },
   "showroomVisits": {
@@ -91522,6 +91529,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "09:54:01",
+      "iso": "2026-09-21T04:24:01.205Z",
+      "action": "updated remark for WFL-RIO-02-S at WARAKAPOLA - B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "09:50:48",
       "iso": "2026-09-21T04:20:48.629Z",
       "action": "updated remark for WF-MAHO-CHR-S at WARAKAPOLA - B: “50%”"
@@ -91861,13 +91875,6 @@
       "time": "15:36:10",
       "iso": "2026-09-18T10:06:10.092Z",
       "action": "updated remark for HON-X6B-6-128-GRN at EHELIYAGODA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:35:32",
-      "iso": "2026-09-18T10:05:32.733Z",
-      "action": "updated remark for SMG-A06-6-128-BLK at EHELIYAGODA: “SELLABLE”"
     }
   ]
 }
