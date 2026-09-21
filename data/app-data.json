@@ -89557,6 +89557,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "12:23:30",
       "lastUpdated": "2026-09-21T06:53:30.724Z"
+    },
+    "SLE32D2010TC||WARAKAPOLA": {
+      "remark": "-",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "12:30:06",
+      "lastUpdated": "2026-09-21T07:00:06.314Z"
     }
   },
   "showroomVisits": {
@@ -91843,6 +91850,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "12:30:06",
+      "iso": "2026-09-21T07:00:06.316Z",
+      "action": "updated remark for SLE32D2010TC at WARAKAPOLA: “-”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "12:24:30",
       "iso": "2026-09-21T06:54:30.667Z",
       "action": "updated remark for UDV3618SY at WARAKAPOLA: “80%”"
@@ -92182,13 +92196,6 @@
       "time": "09:54:17",
       "iso": "2026-09-21T04:24:17.909Z",
       "action": "updated remark for SWH-118E at WARAKAPOLA - B: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "09:54:01",
-      "iso": "2026-09-21T04:24:01.205Z",
-      "action": "updated remark for WFL-RIO-02-S at WARAKAPOLA - B: “50%”"
     }
   ]
 }
