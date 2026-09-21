@@ -89419,11 +89419,11 @@
       "lastUpdated": "2026-09-21T05:05:38.175Z"
     },
     "SMGUA32N4010||WARAKAPOLA - B": {
-      "remark": "50%",
+      "remark": "60%",
       "commentedBy": "Chanthuli Ramawickrama",
       "commentDate": "2026-09-21",
-      "commentTime": "10:40:06",
-      "lastUpdated": "2026-09-21T05:10:06.424Z"
+      "commentTime": "10:46:35",
+      "lastUpdated": "2026-09-21T05:16:35.560Z"
     },
     "SLE32E910||WARAKAPOLA - B": {
       "remark": "70A",
@@ -89508,6 +89508,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "10:46:19",
       "lastUpdated": "2026-09-21T05:16:19.795Z"
+    },
+    "SLE32D2010TC||WARAKAPOLA - B": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "10:46:48",
+      "lastUpdated": "2026-09-21T05:16:48.034Z"
     }
   },
   "showroomVisits": {
@@ -91794,6 +91801,20 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "10:46:48",
+      "iso": "2026-09-21T05:16:48.035Z",
+      "action": "updated remark for SLE32D2010TC at WARAKAPOLA - B: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
+      "time": "10:46:35",
+      "iso": "2026-09-21T05:16:35.561Z",
+      "action": "updated remark for SMGUA32N4010 at WARAKAPOLA - B: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "10:46:19",
       "iso": "2026-09-21T05:16:19.796Z",
       "action": "updated remark for SMGUA32T4400 at WARAKAPOLA - B: “60%”"
@@ -92126,20 +92147,6 @@
       "time": "15:53:10",
       "iso": "2026-09-18T10:23:10.732Z",
       "action": "updated remark for WC-RTC221 at EHELIYAGODA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:51:42",
-      "iso": "2026-09-18T10:21:42.095Z",
-      "action": "updated remark for SLE24E810 at EHELIYAGODA: “Damage 70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:51:15",
-      "iso": "2026-09-18T10:21:15.737Z",
-      "action": "updated remark for TCLED24D3100 at EHELIYAGODA: “Damage 70%”"
     }
   ]
 }
