@@ -89536,6 +89536,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "11:09:12",
       "lastUpdated": "2026-09-21T05:39:12.112Z"
+    },
+    "WFI-CARSON-BL-S||MIRIGAMA": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "11:09:50",
+      "lastUpdated": "2026-09-21T05:39:50.723Z"
     }
   },
   "showroomVisits": {
@@ -91822,6 +91829,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "11:09:50",
+      "iso": "2026-09-21T05:39:50.724Z",
+      "action": "updated remark for WFI-CARSON-BL-S at MIRIGAMA: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "11:09:12",
       "iso": "2026-09-21T05:39:12.113Z",
       "action": "updated remark for LF-WIN-S-S at MIRIGAMA: “50%”"
@@ -92161,13 +92175,6 @@
       "time": "15:56:01",
       "iso": "2026-09-18T10:26:01.238Z",
       "action": "updated remark for WP-1R-100-S at EHELIYAGODA: “DAMAGE, 10000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:55:39",
-      "iso": "2026-09-18T10:25:39.534Z",
-      "action": "updated remark for WP-CHTW-075-S at EHELIYAGODA: “70%”"
     }
   ]
 }
