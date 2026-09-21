@@ -89494,6 +89494,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "10:45:28",
       "lastUpdated": "2026-09-21T05:15:28.700Z"
+    },
+    "TCLED32D3000||WARAKAPOLA - B": {
+      "remark": "60%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "10:45:53",
+      "lastUpdated": "2026-09-21T05:15:53.427Z"
     }
   },
   "showroomVisits": {
@@ -91780,6 +91787,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "10:45:53",
+      "iso": "2026-09-21T05:15:53.428Z",
+      "action": "updated remark for TCLED32D3000 at WARAKAPOLA - B: “60%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "10:45:28",
       "iso": "2026-09-21T05:15:28.701Z",
       "action": "updated remark for SL-ECO192-TG at WARAKAPOLA - B: “60%”"
@@ -92119,13 +92133,6 @@
       "time": "15:50:54",
       "iso": "2026-09-18T10:20:54.338Z",
       "action": "updated remark for SMGUA32N4010 at EHELIYAGODA: “30000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:50:37",
-      "iso": "2026-09-18T10:20:37.115Z",
-      "action": "updated remark for PN-TH-32M402N at EHELIYAGODA: “30000”"
     }
   ]
 }
