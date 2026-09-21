@@ -89550,6 +89550,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "12:19:51",
       "lastUpdated": "2026-09-21T06:49:51.006Z"
+    },
+    "TCLED32D65A||WARAKAPOLA": {
+      "remark": "Exchange not collected",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "12:23:30",
+      "lastUpdated": "2026-09-21T06:53:30.724Z"
     }
   },
   "showroomVisits": {
@@ -91836,6 +91843,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "12:23:30",
+      "iso": "2026-09-21T06:53:30.725Z",
+      "action": "updated remark for TCLED32D65A at WARAKAPOLA: “Exchange not collected”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "12:19:51",
       "iso": "2026-09-21T06:49:51.008Z",
       "action": "updated remark for WP-CHTW-200-S at WARAKAPOLA: “70%”"
@@ -92175,13 +92189,6 @@
       "time": "09:50:48",
       "iso": "2026-09-21T04:20:48.629Z",
       "action": "updated remark for WF-MAHO-CHR-S at WARAKAPOLA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:56:32",
-      "iso": "2026-09-18T10:26:32.604Z",
-      "action": "updated remark for WP-SS-SUB1-S at EHELIYAGODA: “30000”"
     }
   ]
 }
