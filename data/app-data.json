@@ -89424,6 +89424,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "10:40:06",
       "lastUpdated": "2026-09-21T05:10:06.424Z"
+    },
+    "SLE32E910||WARAKAPOLA - B": {
+      "remark": "70A",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "10:40:31",
+      "lastUpdated": "2026-09-21T05:10:31.523Z"
     }
   },
   "showroomVisits": {
@@ -91710,6 +91717,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "10:40:31",
+      "iso": "2026-09-21T05:10:31.524Z",
+      "action": "updated remark for SLE32E910 at WARAKAPOLA - B: “70A”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "10:40:06",
       "iso": "2026-09-21T05:10:06.425Z",
       "action": "updated remark for SMGUA32N4010 at WARAKAPOLA - B: “50%”"
@@ -92049,13 +92063,6 @@
       "time": "15:45:43",
       "iso": "2026-09-18T10:15:43.231Z",
       "action": "updated remark for MC8280 at EHELIYAGODA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:45:26",
-      "iso": "2026-09-18T10:15:26.764Z",
-      "action": "updated remark for DH-I-A22EP-G-IMOU at EHELIYAGODA: “70%”"
     }
   ]
 }
