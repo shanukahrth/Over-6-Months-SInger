@@ -89291,6 +89291,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "10:04:10",
       "lastUpdated": "2026-09-21T04:34:10.802Z"
+    },
+    "DUM-SMGAR50F12D0J||WARAKAPOLA - B": {
+      "remark": "Damage",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "10:04:37",
+      "lastUpdated": "2026-09-21T04:34:37.550Z"
     }
   },
   "showroomVisits": {
@@ -91571,6 +91578,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "10:04:37",
+      "iso": "2026-09-21T04:34:37.551Z",
+      "action": "updated remark for DUM-SMGAR50F12D0J at WARAKAPOLA - B: “Damage”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "10:04:10",
       "iso": "2026-09-21T04:34:10.803Z",
       "action": "updated remark for WP-SS-SUB1-S at WARAKAPOLA - B: “10% Add”"
@@ -91910,13 +91924,6 @@
       "time": "15:40:01",
       "iso": "2026-09-18T10:10:01.035Z",
       "action": "updated remark for PT-SCD12S2 at EHELIYAGODA: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:39:45",
-      "iso": "2026-09-18T10:09:45.410Z",
-      "action": "updated remark for HON-CH-BUDS-X7LITE-WHT at EHELIYAGODA: “Free issue”"
     }
   ]
 }
