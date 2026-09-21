@@ -89347,6 +89347,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "10:08:31",
       "lastUpdated": "2026-09-21T04:38:31.347Z"
+    },
+    "WF-NAMAL-CT-S||WARAKAPOLA - B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "10:08:45",
+      "lastUpdated": "2026-09-21T04:38:45.441Z"
     }
   },
   "showroomVisits": {
@@ -91627,6 +91634,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "10:08:45",
+      "iso": "2026-09-21T04:38:45.442Z",
+      "action": "updated remark for WF-NAMAL-CT-S at WARAKAPOLA - B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "10:08:31",
       "iso": "2026-09-21T04:38:31.348Z",
       "action": "updated remark for LF-ECO-WU-SHW-S at WARAKAPOLA - B: “50%”"
@@ -91966,13 +91980,6 @@
       "time": "15:42:07",
       "iso": "2026-09-18T10:12:07.756Z",
       "action": "updated remark for GEO-242D-SV at EHELIYAGODA: “25%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:41:54",
-      "iso": "2026-09-18T10:11:54.919Z",
-      "action": "updated remark for SMGRT28A3021GS at EHELIYAGODA: “135000”"
     }
   ]
 }
