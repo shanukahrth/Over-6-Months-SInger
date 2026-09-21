@@ -89564,6 +89564,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "12:30:06",
       "lastUpdated": "2026-09-21T07:00:06.314Z"
+    },
+    "SLE32E930||WARAKAPOLA": {
+      "remark": "70%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "12:30:43",
+      "lastUpdated": "2026-09-21T07:00:43.835Z"
     }
   },
   "showroomVisits": {
@@ -91850,6 +91857,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "12:30:43",
+      "iso": "2026-09-21T07:00:43.837Z",
+      "action": "updated remark for SLE32E930 at WARAKAPOLA: “70%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "12:30:06",
       "iso": "2026-09-21T07:00:06.316Z",
       "action": "updated remark for SLE32D2010TC at WARAKAPOLA: “-”"
@@ -92189,13 +92203,6 @@
       "time": "09:57:48",
       "iso": "2026-09-21T04:27:48.662Z",
       "action": "updated remark for MC8280 at WARAKAPOLA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "09:54:17",
-      "iso": "2026-09-21T04:24:17.909Z",
-      "action": "updated remark for SWH-118E at WARAKAPOLA - B: “60%”"
     }
   ]
 }
