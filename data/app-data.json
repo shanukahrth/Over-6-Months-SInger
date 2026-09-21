@@ -89403,6 +89403,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "10:34:40",
       "lastUpdated": "2026-09-21T05:04:40.840Z"
+    },
+    "HON-X5C-4-64-BLK||WARAKAPOLA - B": {
+      "remark": "SOLD",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "10:34:54",
+      "lastUpdated": "2026-09-21T05:04:54.442Z"
     }
   },
   "showroomVisits": {
@@ -91677,9 +91684,29 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-18"
+    },
+    "HON-X5C-4-64-BLK||WARAKAPOLA - B": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Chanthuli Ramawickrama",
+      "updatedDate": "2026-09-21"
     }
   },
   "activity": [
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
+      "time": "10:34:59",
+      "iso": "2026-09-21T05:04:59.211Z",
+      "action": "marked HON-X5C-4-64-BLK at WARAKAPOLA - B as Sold"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
+      "time": "10:34:54",
+      "iso": "2026-09-21T05:04:54.443Z",
+      "action": "updated remark for HON-X5C-4-64-BLK at WARAKAPOLA - B: “SOLD”"
+    },
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
@@ -92015,20 +92042,6 @@
       "time": "15:44:53",
       "iso": "2026-09-18T10:14:53.110Z",
       "action": "updated remark for HG-PRO1201SFCU at EHELIYAGODA: “SR”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:44:08",
-      "iso": "2026-09-18T10:14:08.143Z",
-      "action": "updated remark for DH-I-LM20-A202S at EHELIYAGODA: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:43:44",
-      "iso": "2026-09-18T10:13:44.695Z",
-      "action": "updated remark for CP-UVR-0801E1 at EHELIYAGODA: “SR”"
     }
   ]
 }
