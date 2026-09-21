@@ -89326,6 +89326,13 @@
       "commentDate": "2026-09-21",
       "commentTime": "10:06:52",
       "lastUpdated": "2026-09-21T04:36:52.819Z"
+    },
+    "LF-OF-MWS001-BCH-S||WARAKAPOLA - B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "10:07:55",
+      "lastUpdated": "2026-09-21T04:37:55.534Z"
     }
   },
   "showroomVisits": {
@@ -91606,6 +91613,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "10:07:55",
+      "iso": "2026-09-21T04:37:55.535Z",
+      "action": "updated remark for LF-OF-MWS001-BCH-S at WARAKAPOLA - B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "10:06:52",
       "iso": "2026-09-21T04:36:52.820Z",
       "action": "updated remark for PN-F-409MNBHMKH at WARAKAPOLA - B: “10%”"
@@ -91945,13 +91959,6 @@
       "time": "15:41:15",
       "iso": "2026-09-18T10:11:15.952Z",
       "action": "updated remark for CAN-I-G2020 at EHELIYAGODA: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:40:56",
-      "iso": "2026-09-18T10:10:56.298Z",
-      "action": "updated remark for HP-IB-GT52-YELLOW at EHELIYAGODA: “60%”"
     }
   ]
 }
