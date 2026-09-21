@@ -34560,11 +34560,11 @@
       "lastUpdated": "2026-08-24T03:35:43.595Z"
     },
     "PN-SC-BMAX5E-K||MIRIGAMA": {
-      "remark": "30%",
+      "remark": "80%",
       "commentedBy": "Chanthuli Ramawickrama",
-      "commentDate": "2026-08-24",
-      "commentTime": "09:06:10",
-      "lastUpdated": "2026-08-24T03:36:10.224Z"
+      "commentDate": "2026-09-21",
+      "commentTime": "11:02:56",
+      "lastUpdated": "2026-09-21T05:32:56.180Z"
     },
     "WB-C45||KANDANA": {
       "remark": "0%",
@@ -91815,6 +91815,13 @@
     {
       "user": "Chanthuli Ramawickrama",
       "date": "2026-09-21",
+      "time": "11:02:56",
+      "iso": "2026-09-21T05:32:56.181Z",
+      "action": "updated remark for PN-SC-BMAX5E-K at MIRIGAMA: “80%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
       "time": "10:47:11",
       "iso": "2026-09-21T05:17:11.094Z",
       "action": "updated remark for SLE40D600A at WARAKAPOLA - B: “60%”"
@@ -92154,13 +92161,6 @@
       "time": "15:55:21",
       "iso": "2026-09-18T10:25:21.383Z",
       "action": "updated remark for WP-SS-SUB1-S at EHELIYAGODA: “35%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:54:38",
-      "iso": "2026-09-18T10:24:38.326Z",
-      "action": "updated remark for SWM-FA70R at EHELIYAGODA: “SELLABLE”"
     }
   ]
 }
