@@ -89235,6 +89235,13 @@
       "commentDate": "2026-09-18",
       "commentTime": "15:56:01",
       "lastUpdated": "2026-09-18T10:26:01.235Z"
+    },
+    "WF-MAHO-CHR-S||WARAKAPOLA - B": {
+      "remark": "50%",
+      "commentedBy": "Chanthuli Ramawickrama",
+      "commentDate": "2026-09-21",
+      "commentTime": "09:50:48",
+      "lastUpdated": "2026-09-21T04:20:48.628Z"
     }
   },
   "showroomVisits": {
@@ -91514,6 +91521,13 @@
   "activity": [
     {
       "user": "Chanthuli Ramawickrama",
+      "date": "2026-09-21",
+      "time": "09:50:48",
+      "iso": "2026-09-21T04:20:48.629Z",
+      "action": "updated remark for WF-MAHO-CHR-S at WARAKAPOLA - B: “50%”"
+    },
+    {
+      "user": "Chanthuli Ramawickrama",
       "date": "2026-09-18",
       "time": "15:56:32",
       "iso": "2026-09-18T10:26:32.604Z",
@@ -91854,13 +91868,6 @@
       "time": "15:35:32",
       "iso": "2026-09-18T10:05:32.733Z",
       "action": "updated remark for SMG-A06-6-128-BLK at EHELIYAGODA: “SELLABLE”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-18",
-      "time": "15:35:16",
-      "iso": "2026-09-18T10:05:16.440Z",
-      "action": "updated remark for HON-X7C-8-256-BLK at EHELIYAGODA: “SELLABLE”"
     }
   ]
 }
