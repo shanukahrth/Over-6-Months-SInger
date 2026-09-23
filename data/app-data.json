@@ -91936,9 +91936,29 @@
       "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "ZTE-A75-4GB-256GB-BLK||POLWATTA": {
+      "sold": true,
+      "comment": "SOLD",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:13:16",
+      "iso": "2026-09-23T03:43:16.343Z",
+      "action": "updated sold comment for ZTE-A75-4GB-256GB-BLK at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:13:13",
+      "iso": "2026-09-23T03:43:13.651Z",
+      "action": "marked ZTE-A75-4GB-256GB-BLK at POLWATTA as Sold"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92274,20 +92294,6 @@
       "time": "10:42:37",
       "iso": "2026-09-21T05:12:37.913Z",
       "action": "updated remark for SWM-FA70R at WARAKAPOLA - B: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:42:10",
-      "iso": "2026-09-21T05:12:10.450Z",
-      "action": "updated remark for B-VCC6424E at WARAKAPOLA - B: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:41:53",
-      "iso": "2026-09-21T05:11:53.822Z",
-      "action": "updated remark for H-CVW1600 at WARAKAPOLA - B: “15%”"
     }
   ]
 }
