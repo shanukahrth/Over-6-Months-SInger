@@ -91942,9 +91942,22 @@
       "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "SIN-PSVX938N||POLWATTA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:13:29",
+      "iso": "2026-09-23T03:43:29.587Z",
+      "action": "marked SIN-PSVX938N at POLWATTA as Sold"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92287,13 +92300,6 @@
       "time": "10:42:54",
       "iso": "2026-09-21T05:12:54.404Z",
       "action": "updated remark for SWF-PACK at WARAKAPOLA - B: “1000”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:42:37",
-      "iso": "2026-09-21T05:12:37.913Z",
-      "action": "updated remark for SWM-FA70R at WARAKAPOLA - B: “30%”"
     }
   ]
 }
