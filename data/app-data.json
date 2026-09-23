@@ -91861,12 +91861,19 @@
     },
     "ULED32D60A||UHANA": {
       "sold": true,
-      "comment": "",
+      "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:05:45",
+      "iso": "2026-09-23T03:35:45.507Z",
+      "action": "marked ULED32D60A at UHANA as Sold"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92209,13 +92216,6 @@
       "time": "10:04:37",
       "iso": "2026-09-21T04:34:37.551Z",
       "action": "updated remark for DUM-SMGAR50F12D0J at WARAKAPOLA - B: “Damage”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:04:10",
-      "iso": "2026-09-21T04:34:10.803Z",
-      "action": "updated remark for WP-SS-SUB1-S at WARAKAPOLA - B: “10% Add”"
     }
   ]
 }
