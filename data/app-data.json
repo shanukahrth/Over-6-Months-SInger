@@ -91864,9 +91864,22 @@
       "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "MC8280||UHANA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:06:10",
+      "iso": "2026-09-23T03:36:10.475Z",
+      "action": "marked MC8280 at UHANA as Sold"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92209,13 +92222,6 @@
       "time": "10:05:48",
       "iso": "2026-09-21T04:35:48.551Z",
       "action": "updated remark for SDV3605K at WARAKAPOLA - B: “20O0”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:05:30",
-      "iso": "2026-09-21T04:35:30.833Z",
-      "action": "updated remark for MHC-M40D at WARAKAPOLA - B: “70%”"
     }
   ]
 }
