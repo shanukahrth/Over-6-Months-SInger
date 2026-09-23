@@ -91866,8 +91866,8 @@
       "updatedDate": "2026-09-23"
     },
     "MC8280||UHANA": {
-      "sold": true,
-      "comment": "",
+      "sold": false,
+      "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
     },
@@ -91918,9 +91918,36 @@
       "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "MC8280||POLWATTA": {
+      "sold": true,
+      "comment": "SOLD",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:11:52",
+      "iso": "2026-09-23T03:41:52.764Z",
+      "action": "marked MC8280 at UHANA as Not Sold"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:11:46",
+      "iso": "2026-09-23T03:41:46.090Z",
+      "action": "updated sold comment for MC8280 at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:11:44",
+      "iso": "2026-09-23T03:41:44.007Z",
+      "action": "marked MC8280 at POLWATTA as Sold"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92249,27 +92276,6 @@
       "time": "10:40:06",
       "iso": "2026-09-21T05:10:06.425Z",
       "action": "updated remark for SMGUA32N4010 at WARAKAPOLA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:35:38",
-      "iso": "2026-09-21T05:05:38.176Z",
-      "action": "updated remark for GEO-182S-SV at WARAKAPOLA - B: “20%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:34:59",
-      "iso": "2026-09-21T05:04:59.211Z",
-      "action": "marked HON-X5C-4-64-BLK at WARAKAPOLA - B as Sold"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:34:54",
-      "iso": "2026-09-21T05:04:54.443Z",
-      "action": "updated remark for HON-X5C-4-64-BLK at WARAKAPOLA - B: “SOLD”"
     }
   ]
 }
