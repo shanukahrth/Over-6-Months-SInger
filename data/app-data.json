@@ -91954,9 +91954,22 @@
       "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "MID-MF-TN40D2||POLWATTA": {
+      "sold": true,
+      "comment": "SOLD",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:13:57",
+      "iso": "2026-09-23T03:43:57.080Z",
+      "action": "updated sold comment for MID-MF-TN40D2 at POLWATTA: “SOLD”"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92299,13 +92312,6 @@
       "time": "10:44:22",
       "iso": "2026-09-21T05:14:22.327Z",
       "action": "updated remark for GTK-PG10 at WARAKAPOLA - B: “70%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:43:37",
-      "iso": "2026-09-21T05:13:37.306Z",
-      "action": "updated remark for SL-TF2GCR at WARAKAPOLA - B: “50%”"
     }
   ]
 }
