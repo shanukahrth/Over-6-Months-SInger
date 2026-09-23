@@ -91858,9 +91858,22 @@
       "comment": "",
       "updatedBy": "Chanthuli Ramawickrama",
       "updatedDate": "2026-09-21"
+    },
+    "ULED32D60A||UHANA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:05:17",
+      "iso": "2026-09-23T03:35:17.755Z",
+      "action": "marked ULED32D60A at UHANA as Sold"
+    },
     {
       "user": "Gayan Sooriyarachchi",
       "date": "2026-09-21",
@@ -92203,13 +92216,6 @@
       "time": "10:04:10",
       "iso": "2026-09-21T04:34:10.803Z",
       "action": "updated remark for WP-SS-SUB1-S at WARAKAPOLA - B: “10% Add”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:03:49",
-      "iso": "2026-09-21T04:33:49.313Z",
-      "action": "updated remark for WP-WFC105604RT-G at WARAKAPOLA - B: “10% Add”"
     }
   ]
 }
