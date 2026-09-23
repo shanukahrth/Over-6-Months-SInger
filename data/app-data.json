@@ -91888,9 +91888,49 @@
       "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "SL-ECO55-SV||POLWATTA": {
+      "sold": true,
+      "comment": "SOLD",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
+    },
+    "SLE40D600A||POLWATTA": {
+      "sold": true,
+      "comment": "SOLD",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:07:27",
+      "iso": "2026-09-23T03:37:27.263Z",
+      "action": "updated sold comment for SLE40D600A at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:07:24",
+      "iso": "2026-09-23T03:37:24.947Z",
+      "action": "marked SLE40D600A at POLWATTA as Sold"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:07:20",
+      "iso": "2026-09-23T03:37:20.079Z",
+      "action": "updated sold comment for SL-ECO55-SV at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:07:16",
+      "iso": "2026-09-23T03:37:16.947Z",
+      "action": "marked SL-ECO55-SV at POLWATTA as Sold"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92212,34 +92252,6 @@
       "time": "10:31:26",
       "iso": "2026-09-21T05:01:26.628Z",
       "action": "updated remark for TF-GS-SPKT302 at WARAKAPOLA - B: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:29:03",
-      "iso": "2026-09-21T04:59:03.427Z",
-      "action": "updated remark for WF-PARIS-BR-S at WARAKAPOLA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:18:36",
-      "iso": "2026-09-21T04:48:36.689Z",
-      "action": "updated remark for PF-STRG-BX-20L-S at WARAKAPOLA - B: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:08:45",
-      "iso": "2026-09-21T04:38:45.442Z",
-      "action": "updated remark for WF-NAMAL-CT-S at WARAKAPOLA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:08:31",
-      "iso": "2026-09-21T04:38:31.348Z",
-      "action": "updated remark for LF-ECO-WU-SHW-S at WARAKAPOLA - B: “50%”"
     }
   ]
 }
