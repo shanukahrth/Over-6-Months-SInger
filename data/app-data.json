@@ -91882,9 +91882,29 @@
       "comment": "",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "HON-X5B-4-64-BLK||POLWATTA": {
+      "sold": true,
+      "comment": "SOLD",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:07:10",
+      "iso": "2026-09-23T03:37:10.573Z",
+      "action": "updated sold comment for HON-X5B-4-64-BLK at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:07:08",
+      "iso": "2026-09-23T03:37:08.564Z",
+      "action": "marked HON-X5B-4-64-BLK at POLWATTA as Sold"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92220,20 +92240,6 @@
       "time": "10:08:31",
       "iso": "2026-09-21T04:38:31.348Z",
       "action": "updated remark for LF-ECO-WU-SHW-S at WARAKAPOLA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:08:12",
-      "iso": "2026-09-21T04:38:12.382Z",
-      "action": "updated remark for LF-BUDGET-ST-CLM-S at WARAKAPOLA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:07:55",
-      "iso": "2026-09-21T04:37:55.535Z",
-      "action": "updated remark for LF-OF-MWS001-BCH-S at WARAKAPOLA - B: “50%”"
     }
   ]
 }
