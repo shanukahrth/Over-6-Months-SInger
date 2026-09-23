@@ -89578,6 +89578,41 @@
       "commentDate": "2026-09-21",
       "commentTime": "14:13:48",
       "lastUpdated": "2026-09-21T08:43:48.933Z"
+    },
+    "MC8280||UHANA": {
+      "remark": "SOLD",
+      "commentedBy": "Sivakumar Asshwin",
+      "commentDate": "2026-09-23",
+      "commentTime": "09:15:47",
+      "lastUpdated": "2026-09-23T03:45:47.495Z"
+    },
+    "ULED32D60A||UHANA": {
+      "remark": "SOLD",
+      "commentedBy": "Sivakumar Asshwin",
+      "commentDate": "2026-09-23",
+      "commentTime": "09:15:51",
+      "lastUpdated": "2026-09-23T03:45:51.899Z"
+    },
+    "BES-CRS-51||POLWATTA": {
+      "remark": "SOLD",
+      "commentedBy": "Sivakumar Asshwin",
+      "commentDate": "2026-09-23",
+      "commentTime": "09:15:53",
+      "lastUpdated": "2026-09-23T03:45:53.302Z"
+    },
+    "FT-FRH-50001||POLWATTA": {
+      "remark": "SOLD",
+      "commentedBy": "Sivakumar Asshwin",
+      "commentDate": "2026-09-23",
+      "commentTime": "09:15:53",
+      "lastUpdated": "2026-09-23T03:45:53.579Z"
+    },
+    "SLE32E920||POLWATTA": {
+      "remark": "SOLD",
+      "commentedBy": "Sivakumar Asshwin",
+      "commentDate": "2026-09-23",
+      "commentTime": "09:15:53",
+      "lastUpdated": "2026-09-23T03:45:53.852Z"
     }
   },
   "showroomVisits": {
@@ -91984,6 +92019,41 @@
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
+      "time": "09:15:53",
+      "iso": "2026-09-23T03:45:53.853Z",
+      "action": "updated remark for SLE32E920 at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:15:53",
+      "iso": "2026-09-23T03:45:53.581Z",
+      "action": "updated remark for FT-FRH-50001 at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:15:53",
+      "iso": "2026-09-23T03:45:53.306Z",
+      "action": "updated remark for BES-CRS-51 at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:15:51",
+      "iso": "2026-09-23T03:45:51.901Z",
+      "action": "updated remark for ULED32D60A at UHANA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:15:47",
+      "iso": "2026-09-23T03:45:47.497Z",
+      "action": "updated remark for MC8280 at UHANA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
       "time": "09:14:18",
       "iso": "2026-09-23T03:44:18.423Z",
       "action": "updated sold comment for MXBY550D27 at POLWATTA: “SOLD”"
@@ -92295,41 +92365,6 @@
       "time": "11:02:56",
       "iso": "2026-09-21T05:32:56.181Z",
       "action": "updated remark for PN-SC-BMAX5E-K at MIRIGAMA: “80%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:47:11",
-      "iso": "2026-09-21T05:17:11.094Z",
-      "action": "updated remark for SLE40D600A at WARAKAPOLA - B: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:47:03",
-      "iso": "2026-09-21T05:17:03.630Z",
-      "action": "updated remark for SLE40D600A at WARAKAPOLA - B: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:46:56",
-      "iso": "2026-09-21T05:16:56.229Z",
-      "action": "updated remark for SLE32D5000 at WARAKAPOLA - B: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:46:48",
-      "iso": "2026-09-21T05:16:48.035Z",
-      "action": "updated remark for SLE32D2010TC at WARAKAPOLA - B: “60%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:46:35",
-      "iso": "2026-09-21T05:16:35.561Z",
-      "action": "updated remark for SMGUA32N4010 at WARAKAPOLA - B: “60%”"
     }
   ]
 }
