@@ -91870,9 +91870,42 @@
       "comment": "",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "FT-FRH-50001||POLWATTA": {
+      "sold": true,
+      "comment": "SOLD",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
+    },
+    "BES-CRS-51||POLWATTA": {
+      "sold": true,
+      "comment": "",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:06:56",
+      "iso": "2026-09-23T03:36:56.475Z",
+      "action": "marked BES-CRS-51 at POLWATTA as Sold"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:06:50",
+      "iso": "2026-09-23T03:36:50.255Z",
+      "action": "updated sold comment for FT-FRH-50001 at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:06:48",
+      "iso": "2026-09-23T03:36:48.251Z",
+      "action": "marked FT-FRH-50001 at POLWATTA as Sold"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92201,27 +92234,6 @@
       "time": "10:07:55",
       "iso": "2026-09-21T04:37:55.535Z",
       "action": "updated remark for LF-OF-MWS001-BCH-S at WARAKAPOLA - B: “50%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:06:52",
-      "iso": "2026-09-21T04:36:52.820Z",
-      "action": "updated remark for PN-F-409MNBHMKH at WARAKAPOLA - B: “10%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:06:14",
-      "iso": "2026-09-21T04:36:14.635Z",
-      "action": "updated remark for USHA-AVTR56 at WARAKAPOLA - B: “5%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:05:48",
-      "iso": "2026-09-21T04:35:48.551Z",
-      "action": "updated remark for SDV3605K at WARAKAPOLA - B: “20O0”"
     }
   ]
 }
