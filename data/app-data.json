@@ -91930,9 +91930,29 @@
       "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "SS-PS16-AG||POLWATTA": {
+      "sold": true,
+      "comment": "SOLD",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:12:53",
+      "iso": "2026-09-23T03:42:53.829Z",
+      "action": "updated sold comment for SS-PS16-AG at POLWATTA: “SOLD”"
+    },
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:12:50",
+      "iso": "2026-09-23T03:42:50.939Z",
+      "action": "marked SS-PS16-AG at POLWATTA as Sold"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92268,20 +92288,6 @@
       "time": "10:41:53",
       "iso": "2026-09-21T05:11:53.822Z",
       "action": "updated remark for H-CVW1600 at WARAKAPOLA - B: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:41:38",
-      "iso": "2026-09-21T05:11:38.412Z",
-      "action": "updated remark for PN-TH-32P401N at WARAKAPOLA - B: “30%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:40:31",
-      "iso": "2026-09-21T05:10:31.524Z",
-      "action": "updated remark for SLE32E910 at WARAKAPOLA - B: “70A”"
     }
   ]
 }
