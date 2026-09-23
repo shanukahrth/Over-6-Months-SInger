@@ -91906,9 +91906,22 @@
       "comment": "SOLD",
       "updatedBy": "Sivakumar Asshwin",
       "updatedDate": "2026-09-23"
+    },
+    "WF-SKY-211-MR-S||POLWATTA": {
+      "sold": true,
+      "comment": "SOLD",
+      "updatedBy": "Sivakumar Asshwin",
+      "updatedDate": "2026-09-23"
     }
   },
   "activity": [
+    {
+      "user": "Sivakumar Asshwin",
+      "date": "2026-09-23",
+      "time": "09:07:45",
+      "iso": "2026-09-23T03:37:45.143Z",
+      "action": "updated sold comment for WF-SKY-211-MR-S at POLWATTA: “SOLD”"
+    },
     {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
@@ -92251,13 +92264,6 @@
       "time": "10:34:19",
       "iso": "2026-09-21T05:04:19.341Z",
       "action": "updated remark for NUBIA-V70DSGN-8-128GB-GRY at WARAKAPOLA - B: “15%”"
-    },
-    {
-      "user": "Chanthuli Ramawickrama",
-      "date": "2026-09-21",
-      "time": "10:33:59",
-      "iso": "2026-09-21T05:03:59.957Z",
-      "action": "updated remark for NUBIA-V70-8-256GB-GRY at WARAKAPOLA - B: “15%”"
     }
   ]
 }
