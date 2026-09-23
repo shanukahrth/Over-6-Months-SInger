@@ -82965,11 +82965,11 @@
       "lastUpdated": "2026-09-15T06:34:29.080Z"
     },
     "WF-DUNE-01-S||KUNDASALE": {
-      "remark": "Discolor - 60%",
+      "remark": "Discolor - 70%",
       "commentedBy": "Rashmi",
-      "commentDate": "2026-09-15",
-      "commentTime": "12:04:46",
-      "lastUpdated": "2026-09-15T06:34:46.774Z"
+      "commentDate": "2026-09-23",
+      "commentTime": "10:43:08",
+      "lastUpdated": "2026-09-23T05:13:08.209Z"
     },
     "PN-NI-M250TPSH||KUNDASALE": {
       "remark": "Reported",
@@ -92080,6 +92080,13 @@
   },
   "activity": [
     {
+      "user": "Rashmi",
+      "date": "2026-09-23",
+      "time": "10:43:08",
+      "iso": "2026-09-23T05:13:08.212Z",
+      "action": "updated remark for WF-DUNE-01-S at KUNDASALE: “Discolor - 70%”"
+    },
+    {
       "user": "Sivakumar Asshwin",
       "date": "2026-09-23",
       "time": "09:16:14",
@@ -92421,13 +92428,6 @@
       "time": "09:07:16",
       "iso": "2026-09-23T03:37:16.947Z",
       "action": "marked SL-ECO55-SV at POLWATTA as Sold"
-    },
-    {
-      "user": "Sivakumar Asshwin",
-      "date": "2026-09-23",
-      "time": "09:07:10",
-      "iso": "2026-09-23T03:37:10.573Z",
-      "action": "updated sold comment for HON-X5B-4-64-BLK at POLWATTA: “SOLD”"
     }
   ]
 }
