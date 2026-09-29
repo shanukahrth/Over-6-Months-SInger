@@ -89968,12 +89968,12 @@
       "updatedDate": "2026-08-17"
     },
     "MEGA-KANDY||MEGA NORTH ZONE-": {
-      "visited": "No",
+      "visited": "Yes",
       "visitDate": "",
       "team": "",
       "remark": "",
-      "updatedBy": "Rashmi",
-      "updatedDate": "2026-08-17"
+      "updatedBy": "Sanduni Hansika",
+      "updatedDate": "2026-09-29"
     },
     "KANDY||KANDY": {
       "visited": "Yes",
@@ -92080,6 +92080,13 @@
   },
   "activity": [
     {
+      "user": "Sanduni Hansika",
+      "date": "2026-09-29",
+      "time": "12:54:04",
+      "iso": "2026-09-29T07:24:04.146Z",
+      "action": "updated MEGA-KANDY showroom (visited: Yes)"
+    },
+    {
       "user": "Rashmi",
       "date": "2026-09-23",
       "time": "10:43:08",
@@ -92421,13 +92428,6 @@
       "time": "09:07:20",
       "iso": "2026-09-23T03:37:20.079Z",
       "action": "updated sold comment for SL-ECO55-SV at POLWATTA: “SOLD”"
-    },
-    {
-      "user": "Sivakumar Asshwin",
-      "date": "2026-09-23",
-      "time": "09:07:16",
-      "iso": "2026-09-23T03:37:16.947Z",
-      "action": "marked SL-ECO55-SV at POLWATTA as Sold"
     }
   ]
 }
